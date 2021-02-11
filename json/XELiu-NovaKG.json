@@ -21210,9 +21210,9 @@
             ],
             "children": [
               {
-                "string": "[Click here for extra settings](https://github.com/everruler12/roam2github/blob/main/documentation/Settings%20for%20main.yml.md)",
+                "string": "Click here for [extra settings](https://github.com/everruler12/roam2github/blob/main/documentation/Settings%20for%20main.yml.md)",
                 "uid": "hwq_9LutZ",
-                "edit-time": 1613037082486,
+                "edit-time": 1613039419777,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -21271,7 +21271,7 @@
                     }
                   },
                   {
-                    "string": "Go to Settings > Secrets and add the following Secret names and values:",
+                    "string": "Go to Settings > Secrets and add the following [Secret names] and values:",
                     "children": [
                       {
                         "string": "R2G_EMAIL - Your Roam account email",
@@ -21282,24 +21282,34 @@
                         }
                       },
                       {
-                        "string": "R2G_PASSWORD - Your Roam account password (needs to be reset if using a Google login)",
+                        "string": "R2G_PASSWORD - Your Roam account password ([needs to be reset] if using a [Google login])",
                         "uid": "qutBEJiJm",
-                        "edit-time": 1613037503715,
+                        "edit-time": 1613039450634,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       },
                       {
-                        "string": "R2G_GRAPH - The name of the graph to backup. For multiple graphs, add on separate lines (or separate by commas)",
+                        "string": "R2G_GRAPH - The name of the graph to backup. For [multiple graphs], add on [[separate lines]] (or separate by commas)",
+                        "refs": [
+                          {
+                            "uid": "yx8oTjtYa"
+                          }
+                        ],
                         "uid": "Q2Q_7Y6Mf",
-                        "edit-time": 1613037503715,
+                        "edit-time": 1613039471524,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yx8oTjtYa"
+                          }
+                        ],
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       }
                     ],
                     "uid": "kVEvFd0bD",
-                    "edit-time": 1613037493363,
+                    "edit-time": 1613039444323,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -21313,7 +21323,7 @@
                     }
                   },
                   {
-                    "string": "Delete the code in the editor, and copy/paste the code from here: [main.yml](https://raw.githubusercontent.com/everruler12/roam2github-demo/main/.github/workflows/main.yml)",
+                    "string": "Delete the code in the editor, and [copy/paste the code] from here: [main.yml](https://raw.githubusercontent.com/everruler12/roam2github-demo/main/.github/workflows/main.yml)",
                     "children": [
                       {
                         "string": "```shell\nname: \"Roam Research backup\"\n\non:\n  push:\n    branches:\n      - main\n  schedule:\n      - cron: \"0 * * * *\"\n\njobs:\n  backup:\n    runs-on: ubuntu-latest\n    name: Backup\n    timeout-minutes: 10\n    steps:\n      - uses: actions/checkout@v2\n      \n      - name: Setup Node\n        uses: actions/setup-node@v2\n        with:\n          node-version: '14'\n      \n      - name: Run Backup\n        run: |\n          cd /tmp\n          git clone -q https://github.com/everruler12/roam2github.git roam2github\n          cd $_\n          npm i\n          npm run start -s\n        env:\n          R2G_EMAIL: ${{ secrets.R2G_EMAIL }}\n          R2G_PASSWORD: ${{ secrets.R2G_PASSWORD }}\n          R2G_GRAPH: ${{ secrets.R2G_GRAPH }}\n\n      - name: Commit Changes\n        uses: stefanzweifel/git-auto-commit-action@v4\n        with:\n          commit_message: Automated snapshot```",
@@ -21329,15 +21339,15 @@
                       }
                     ],
                     "uid": "wVlaFhfZo",
-                    "edit-time": 1613037511913,
+                    "edit-time": 1613045533554,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
                   },
                   {
-                    "string": "Click Start Commit then Commit new file",
+                    "string": "Click [Start Commit] then [Commit new file]",
                     "uid": "XUtELe0em",
-                    "edit-time": 1613037511913,
+                    "edit-time": 1613045544573,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -21383,6 +21393,18 @@
     "title": "setup instruction",
     "uid": "AuxJ9Ml-t",
     "edit-time": 1613037281280,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613039471528,
+    "title": "separate lines",
+    "uid": "yx8oTjtYa",
+    "edit-time": 1613039471529,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

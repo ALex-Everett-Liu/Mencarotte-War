@@ -88,7 +88,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 0,
+      :order 1,
       :content-id "MQYWiGTyQ"},
      "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66"
      {:page-uid "WnHQsRcsa",
@@ -96,7 +96,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 1,
+      :order 2,
       :content-id "WnHQsRcsa"},
      "uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
      {:page-uid "Vj9Rpr3De",
@@ -104,10 +104,10 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 1,
+      :order 3,
       :content-id "Vj9Rpr3De"}},
     :roam/js {:active-blocks #{"OrKb9pc_c"}}}
-   536891697]
+   536892415]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [4 :block/uid "01-30-2021" 536870916]
   [4 :create/time 1611962030919 536870916]
@@ -1358,6 +1358,7 @@
   [3902 :block/uid "Vj9Rpr3De" 536887762]
   [3902 :create/time 1611964913296 536887762]
   [3902 :create/user 3 536887762]
+  [3902 :edit/seen-by 3 536892418]
   [3902 :edit/time 1611964913296 536887762]
   [3902 :edit/user 3 536887762]
   [3902 :node/title "temp" 536887762]
@@ -1373,7 +1374,7 @@
   [3904 :edit/time 1612571346162 536890955]
   [3904 :edit/user 3 536887765]
   [3905 :block/open true 536887765]
-  [3905 :block/order 2 536887765]
+  [3905 :block/order 2 536892419]
   [3905 :block/page 3902 536887767]
   [3905 :block/parents 3902 536887767]
   [3905 :block/string "" 536892155]
@@ -1386,7 +1387,7 @@
   [3906 :block/children 3908 536887765]
   [3906 :block/children 4980 536891279]
   [3906 :block/open true 536892280]
-  [3906 :block/order 3 536887765]
+  [3906 :block/order 3 536892419]
   [3906 :block/page 3902 536887768]
   [3906 :block/parents 3902 536887768]
   [3906 :block/string "todo today (real-time view)" 536887765]
@@ -7064,8 +7065,8 @@
   [4398 :version/id "0.8.1" 536889300]
   [4398
    :version/nonce
-   "uuid22654b59-4c6d-470c-abd2-095e0cf742cd"
-   536892398]
+   "uuid0c970e4f-fff3-44db-be04-c9e693f231b7"
+   536892423]
   [4399 :block/open true 536889303]
   [4399 :block/order 1 536889303]
   [4399 :block/page 4288 536889304]
@@ -16091,13 +16092,6 @@
   [5279 :block/uid "fWJgROiu5" 536891981]
   [5279 :edit/time 1612957038119 536891981]
   [5279 :edit/user 3 536891981]
-  [5280
-   :block/string
-   "[View On**GitHub**](https://github.com/ErikPlachta/RoamResearch-Backup-to-GIT-Template)"
-   536891985]
-  [5280 :block/uid "TUg_yPlUe" 536891985]
-  [5280 :edit/time 1612957043017 536891985]
-  [5280 :edit/user 3 536891985]
   [5281 :block/open true 536891995]
   [5281 :block/order 0 536892034]
   [5281 :block/page 5274 536891996]
@@ -16957,10 +16951,11 @@
   [5374 :block/parents 5373 536892314]
   [5374
    :block/string
-   "[Click here for extra settings](https://github.com/everruler12/roam2github/blob/main/documentation/Settings%20for%20main.yml.md)"
-   536892313]
+   "Click here for [extra settings](https://github.com/everruler12/roam2github/blob/main/documentation/Settings%20for%20main.yml.md)"
+   536892402]
   [5374 :block/uid "hwq_9LutZ" 536892313]
-  [5374 :edit/time 1613037082486 536892313]
+  [5374 :edit/seen-by 3 536892399]
+  [5374 :edit/time 1613039419777 536892402]
   [5374 :edit/user 3 536892313]
   [5375 :block/open true 536892313]
   [5375 :block/order 1 536892313]
@@ -17029,11 +17024,11 @@
   [5381 :block/parents 5399 536892383]
   [5381
    :block/string
-   "Go to Settings > Secrets and add the following Secret names and values:"
-   536892339]
+   "Go to Settings > Secrets and add the following [Secret names] and values:"
+   536892403]
   [5381 :block/uid "kVEvFd0bD" 536892339]
   [5381 :edit/seen-by 3 536892344]
-  [5381 :edit/time 1613037493363 536892339]
+  [5381 :edit/time 1613039444323 536892403]
   [5381 :edit/user 3 536892339]
   [5382 :block/open true 536892339]
   [5382 :block/order 0 536892381]
@@ -17061,10 +17056,11 @@
   [5385 :block/parents 5399 536892383]
   [5385
    :block/string
-   "R2G_PASSWORD - Your Roam account password (needs to be reset if using a Google login)"
-   536892349]
+   "R2G_PASSWORD - Your Roam account password ([needs to be reset] if using a [Google login])"
+   536892406]
   [5385 :block/uid "qutBEJiJm" 536892349]
-  [5385 :edit/time 1613037503715 536892349]
+  [5385 :edit/seen-by 3 536892404]
+  [5385 :edit/time 1613039450634 536892406]
   [5385 :edit/user 3 536892349]
   [5386 :block/open true 536892349]
   [5386 :block/order 2 536892349]
@@ -17074,12 +17070,14 @@
   [5386 :block/parents 5378 536892351]
   [5386 :block/parents 5381 536892351]
   [5386 :block/parents 5399 536892383]
+  [5386 :block/refs 5401 536892409]
   [5386
    :block/string
-   "R2G_GRAPH - The name of the graph to backup. For multiple graphs, add on separate lines (or separate by commas)"
-   536892349]
+   "R2G_GRAPH - The name of the graph to backup. For [multiple graphs], add on [[separate lines]] (or separate by commas)"
+   536892408]
   [5386 :block/uid "Q2Q_7Y6Mf" 536892349]
-  [5386 :edit/time 1613037503715 536892349]
+  [5386 :edit/seen-by 3 536892407]
+  [5386 :edit/time 1613039471524 536892408]
   [5386 :edit/user 3 536892349]
   [5387 :block/open true 536892349]
   [5387 :block/order 0 536892349]
@@ -17108,11 +17106,11 @@
   [5390 :block/parents 5399 536892385]
   [5390
    :block/string
-   "Delete the code in the editor, and copy/paste the code from here: [main.yml](https://raw.githubusercontent.com/everruler12/roam2github-demo/main/.github/workflows/main.yml)"
-   536892357]
+   "Delete the code in the editor, and [copy/paste the code] from here: [main.yml](https://raw.githubusercontent.com/everruler12/roam2github-demo/main/.github/workflows/main.yml)"
+   536892421]
   [5390 :block/uid "wVlaFhfZo" 536892357]
   [5390 :edit/seen-by 3 536892390]
-  [5390 :edit/time 1613037511913 536892357]
+  [5390 :edit/time 1613045533554 536892421]
   [5390 :edit/user 3 536892357]
   [5391 :block/open true 536892357]
   [5391 :block/order 4 536892393]
@@ -17123,11 +17121,11 @@
   [5391 :block/parents 5399 536892386]
   [5391
    :block/string
-   "Click Start Commit then Commit new file"
-   536892357]
+   "Click [Start Commit] then [Commit new file]"
+   536892423]
   [5391 :block/uid "XUtELe0em" 536892357]
   [5391 :edit/seen-by 3 536892363]
-  [5391 :edit/time 1613037511913 536892357]
+  [5391 :edit/time 1613045544573 536892423]
   [5391 :edit/user 3 536892357]
   [5392 :block/open true 536892357]
   [5392 :block/order 2 536892381]
@@ -17204,4 +17202,14 @@
   [5400 :create/time 1613037762170 536892391]
   [5400 :create/user 3 536892391]
   [5400 :edit/time 1613037782488 536892398]
-  [5400 :edit/user 3 536892391]]}
+  [5400 :edit/user 3 536892391]
+  [5401 :block/uid "yx8oTjtYa" 536892409]
+  [5401 :create/time 1613039471528 536892409]
+  [5401 :create/user 3 536892409]
+  [5401 :edit/time 1613039471529 536892409]
+  [5401 :edit/user 3 536892409]
+  [5401 :node/title "separate lines" 536892409]
+  [5402 :block/string "" 536892420]
+  [5402 :block/uid "TUg_yPlUe" 536892420]
+  [5402 :edit/time 1613045473847 536892420]
+  [5402 :edit/user 3 536892420]]}
