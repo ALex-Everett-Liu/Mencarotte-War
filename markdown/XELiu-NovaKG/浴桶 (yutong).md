@@ -1,0 +1,22 @@
+-  [七夏](https://item.jd.com/66885817530.html) 成人 折叠浴桶 -- [smzdm](https://www.smzdm.com/p/27733637/)
+    - ¥388.00
+    - 材质: PP+TPE
+    - product gross weight (商品毛重): 9.0 kg
+    - product size
+        - 113 / 125 / 140 cm * 64 cm * 54 cm
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnCICkMCgO3.png?alt=media&token=31339554-f109-4e79-b3d9-2edc49198448)
+- [宸语居](https://item.jd.com/10021277401441.html) 成人 折叠洗澡桶
+    - ¥288.00
+    - product size
+        - 102 * 66 * 71.5 cm -- 6 kg
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwIctUTq-ls.png?alt=media&token=4063f55f-0c73-4306-83b7-4d6c4f0b7d6a)
+    - [cyj2](https://item.jd.com/10698560656.html)
+        - 119*60*63 cm
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F-_yejrNYo6.png?alt=media&token=d82931aa-19cc-43ed-914d-c0124560adb6)
+- [FSILE](https://item.jd.com/10025633957509.html) 可折叠浴缸 全身汗蒸 家用 -- [smzdm](https://www.smzdm.com/p/29144010/) -- bad...
+    - ￥132.00
+    - 70*70*65 cm
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FDp8FfHgQyq.png?alt=media&token=dbcafa78-e41d-4e64-8461-a7d0f74db485)
+    - [方形浴桶](https://item.jd.com/10025633765567.html)
+        - ￥159.00
+        - 120*55*50 cm -- 1.0 kg

@@ -1,0 +1,8 @@
+- [paradox plaza]
+    - plaza: guangchang33, shichang43, gouwuqu441
+- file management -- directories
+    - main game
+        - D:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game
+    - save game
+        - C:\Users\Zz\Documents\Paradox Interactive\Crusader Kings III\save games
+    - [[mod management]]

@@ -1,0 +1,22 @@
+- **list (word, count)...**
+    - $$\text{\color{CadetBlue}English}$$
+        - a
+            - ab
+                - able
+                    - ability; abilities; inability
+                    - disable; unable
+                    - enable
+                        - enabling;
+                - abort
+                - absorb
+                    - [[absorbed]]; [[absorption]]
+                - abstract, 2
+                    - existing only in the mind; [separated from](https://workflowy.com/#/337f6b9f2187) [embodiment](https://workflowy.com/#/f3e9ab091afc);
+                        - [abstract words] like 'truth' and 'justice'
+                - abundant
+                    - abound
+        - y
+            - yi
+                - yield
+    - $$\text{\color{plum}Japanese, Nihongo}$$
+    - $$\text{\color{Goldenrod}Chinese...}$$

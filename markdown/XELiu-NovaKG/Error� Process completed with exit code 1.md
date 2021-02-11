@@ -1,0 +1,25 @@
+- [Error]([[error]]): Process completed with [[exit code]] 1. # 89
+    - [secondbrain-note](https://github.com/secondbrain-note) [opened this issue] 12 days ago · 17 comments
+- I [set up my repo] for [roam backup] [under the instructions] [from](https://eriknewhard.com/blog/backup-roam-in-github): erik blog, and I have [finished those steps].
+    - > To [check the progress] of the first run, go back to Actions.
+    - > Under All Workflows, click the [3 dots] on the first result, then click View workflow file.
+    - > (If there are no results, try [refreshing the page] [after several seconds].)
+    - > Under Roam Research backup, click Backup.
+    - It seems that the backup doesn't work, this is the error:
+    - [secondbrain-note](https://github.com/secondbrain-note) added the [bug](https://github.com/MatthieuBizien/roam-to-git/labels/bug) label [13 days ago](https://github.com/MatthieuBizien/roam-to-git/issues/89#event-4265744690)
+    - [secondbrain-note](https://github.com/secondbrain-note) assigned [MatthieuBizien](https://github.com/MatthieuBizien) [13 days ago](https://github.com/MatthieuBizien/roam-to-git/issues/89#event-4265744700)
+- I have 13 [failed runs] [in a row] with a new [error code] I [haven't seen before]. I suspect a Roam update [broke something]. #[[file not found]]
+    - `FileNotFoundError: [Errno Impossible to download {} in {}] markdown: PosixPath('/tmp/tmpjpzqii4i')`
+    - [6_Run backup.txt](https://github.com/MatthieuBizien/roam-to-git/files/5894259/6_Run.backup.txt)
+    - [@MatthieuBizien](https://github.com/MatthieuBizien) doesn't seem to [be on here often], and the [random run failures] [have been increasing over the past few weeks], and now every hour. I don't know Python, so I've [started coding] own automatic backup solution- [a light version] using node and puppeteer (which will ignore markdown and [pretty formatting], and just download the [JSON exports])
+    - [everruler12](https://github.com/everruler12) commented [12 days ago](https://github.com/MatthieuBizien/roam-to-git/issues/89#issuecomment-769826248)
+- Reworked [@everruler12](https://github.com/everruler12)'s repo a bit by [adding comments] and [created an easy template to copy]([[template]]) so that you can [start backing up right away].
+    - > I'm planning to add [[rolling backups]] and then [fixing EDN] and Markdown this week. 回滚备份
+    - [[RoamResearch-Backup-to-GIT-Template]]
+- For what it's worth, the [python-based backup] in this repo [appears to be working again].
+    - If you keep using `roam-to-git` I [highly recommend] people use [@adithyabsk](https://github.com/adithyabsk) 's [[fork]] as it supports [[formatted edn]] and is [pretty decently fast] 相当快 on my [large graph] with `jet`. [Formatted edn](https://github.com/adithyabsk/roam-to-git) is [the only way to] make
+        - [[diffable]]
+        - [[full fidelity backups]] 完全保真度
+    - [[JSON]] and [[markdown]] based backups are [fundamentally broken].
+    - [#67 (comment)](https://github.com/MatthieuBizien/roam-to-git/pull/67#issuecomment-771756549)
+    - [pmbauer](https://github.com/pmbauer) commented [8 days ago](https://github.com/MatthieuBizien/roam-to-git/issues/89#issuecomment-771762597)

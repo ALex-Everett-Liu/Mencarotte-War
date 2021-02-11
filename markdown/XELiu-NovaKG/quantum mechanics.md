@@ -1,0 +1,52 @@
+- ## Abstract 
+    - "From Wikipedia, the [[free encyclopedia]]"
+    - __For a more accessible and [less technical introduction] to this topic, see __[[Introduction to quantum mechanics]]__.__ #accessible
+    - Part of a [series](https://en.wikipedia.org/wiki/Category:Quantum_mechanics) on [Quantum mechanics] #series #category 
+    - Quantum mechanics is a [[fundamental theory]] in physics that [provides a description of] the [[physical properties]] of nature [at the scale of] atoms and [[subatomic particle]]s.[2]:[1.1](((SCwkcngus))) It is the foundation of all [[quantum physics]] including [[quantum chemistry]], [[quantum field theory]], [[quantum technology]], and [[quantum information science]].
+201109-03:25 
+    - [Classical physics]([[classical physics]]), [the description of physics] that existed before the [[theory of relativity]] and quantum mechanics, [describes many aspects of nature] at an [[ordinary scale]] ([[macroscopic scale]]), while quantum mechanics [explains the aspects of nature] at [[small scale]] (atomic and subatomic scales), for which [[classical mechanics]] is [[insufficient]]. Most theories in classical physics [can be derived from] quantum mechanics as an [[approximation]] [[valid]] at [[large scale]] (macroscopic) scale.[3](((j56W60Fld)))
+        Quantum mechanics differs from classical physics in that energy, momentum, [[angular momentum]], and other quantities of a [[bound system]] are restricted to [[discrete value]]s ([[quantization]]), [[object]]s have [[characteristics]] of both particles and waves ([[wave-particle duality]]), and there are [[limit]]s to [how accurately the value of] a [[physical quantity]] can be predicted [[prior to its measurement]], given a [[complete set]] of [[initial condition]]s (the [[uncertainty principle]]). #[[discrete mathematics]]
+201111-04:33, 05:51
+    - Quantum mechanics [arose gradually] from theories to [explain observations] which [could not be reconciled with] classical physics, such as Max Planck's solution in 1900 to the [[black-body radiation]] problem, and the [[correspondence]] between [[energy]] and [[frequency]] in Albert Einstein's 1905 paper which explained the [[photoelectric effect]]. These [early attempts] to understand [[microscopic phenomena]], now known as the "[[old quantum theory]]", led to the [full development] of quantum mechanics in the mid-1920s by Niels Bohr, Erwin Schrödinger, Werner Heisenberg, Max Born and others. 
+201111-12:39, 13:09
+        - Early [[quantum theory]] was [profoundly re-conceived] [in the mid-1920s] by [Niels Bohr], Erwin Schrödinger, [Werner Heisenberg], [Max Born] [and others]. The original interpretation of quantum mechanics is the [[Copenhagen interpretation]], developed by Niels Bohr and Werner Heisenberg in Copenhagen [during the 1920s]. 
+This paragraph had been revised after November, 2020...
+        - The [[modern theory]] is formulated in [various]([[Mathematical formulation of quantum mechanics]]) [specially developed] [[mathematical formalism]]s. In one of them, a [[mathematical entity]] called the [[wave function]] [provides information], in the form of [[probability amplitude]]s, about what measurements of a particle's energy, momentum, and other [physical properties] may [[yield]].
+    - [Wavefunctions]([[wavefunction]]) of the electron in a [[hydrogen atom]] at different [[energy level]]s. [Quantum mechanics](https://en.wikipedia.org/wiki/File:Hydrogen_Density_Plots.png) [cannot predict] the [[exact location]] of [a particle in space], only [the probability of finding it]([[finding probability]]) [at different locations].[1](((Ih2YblStG))) The [[brighter area]]s represent [a higher probability] of [[finding the electron]].
+        - ![Hy density plot](https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrogen_Density_Plots.png)
+        - [Original file]([[original file]]) ‎(2,200 × 2,000 [[pixel]]s, [[file size]]: 1.79 MB, [[MIME type]]: [[image]]/[[png]])
+        - ### Summary
+            - **Description** -- **English:** Hydrogen [Density Plots]([[density plot]]) for __n__ up to 4. 
+            - **Date**: 17 August 2008
+            - **Source**: the [[English language]] Wikipedia ([log](https://en.wikipedia.org/w/index.php?title=Special:Log&page=File:Hydrogen_Density_Plots.png)). #source #log
+                - [Original text]([[original text]]): __I created this work [entirely by myself]. __ #[[create the work]]
+                - References:
+                    - Forinash, Kyle. [Hydrogen W Simulation](http://pages.iu.edu/~kforinas/physlets/quantum/hydrogen.html). [Indiana University Southeast]. Retrieved on 2008-12-18. #simulation 
+                    - Tokita, Sumio; Sugiyama, Takao; Noguchi, Fumio; Fujii, Hidehiko; Kobayashi, Hidehiko (2006). "[An attempt to] [[construct]] an [[isosurface]] Having [[symmetry element]]s". __Journal of Computer Chemistry, Japan__ **5** (3): 159–164. [DOI]:[10.2477/jccj.5.159](https://doi.org/10.2477/jccj.5.159). #[[computer chemistry]]
+201111-17:52
+            - **Author**: PoorLeno ([talk](https://en.wikipedia.org/wiki/User_talk:PoorLeno))
+            - **Permission** ([Reusing this file](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia)) -- This work [has been released into]([[release]]) the **[public domain]** by its [[author]], **[PoorLeno] at** [English Wikipedia]. This [applies worldwide]([[apply worldwide]]). #permission #[[reusing content]] #[[public domain]]
+                - [In some countries]([[country]]) this may not be [[legally possible]]; if so:
+                    - [PoorLeno] [grants anyone the right to]([[grant right]]) use this work **for any purpose**, __without any conditions, unless such conditions are__ [[required by law]].#purpose #condition
+201111-18:04
+                - This is a file from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). Information from its **[description page there]** is [shown below]. #[[Wikimedia Commons]] #[[main page]] #description
+Commons is a [freely licensed]([[free license]]) [[media file]] [[repository]]. [You can help](https://commons.wikimedia.org/wiki/Commons:Welcome). #welcome #help
+201111-13:22
+                - Open in [Media Viewer](https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrogen_Density_Plots.png) #[[open with]] #[[media viewer]]
+            - **Other versions** -- [Derivative works]([[derivative work]]) of this file: #[[other version]]
+                - ✦ [Hydrogen Density Plots-fr.png]: [Hydrogen Density Plots-fr.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hydrogen_Density_Plots-fr.png/64px-Hydrogen_Density_Plots-fr.png) #upload 
+                - ✦ [Hydrogen Wave.gif]: [![Hydrogen Wave.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hydrogen_Wave.gif/64px-Hydrogen_Wave.gif)] #gif
+        - ### File history
+            - Click on a date/time to [[view the file]] as it appeared [at that time].
+            - current | [17:46, 12 May 2017](https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrogen_Density_Plots.png) | [[thumbnail]] | comment: Cleaned up the [LaTeX]([[LaTeX formula]]) wavefunction formula to be less [[rasterized]].
+- ## Overview and [fundamental concepts]
+    - Quantum mechanics allows [the calculation of probabilities] for how [[physical system]]s can behave. It is [typically applied to] [[microscopic system]]s: molecules, atoms and [[sub-atomic particle]]s. Predictions of quantum mechanics have been [[verified experimentally]] to [an extremely high degree] of [[accuracy]].[note 1] 
+    - A basic [[mathematical feature]] of quantum mechanics is that a probability is found by [taking the square of] the [[absolute value]] of a [[complex number]], known as a [[probability amplitude]]. This is known as the [[Born rule]], named after physicist [[Max Born]]. For example, a [[quantum particle]] like an electron [can be described by] a wave function, which associates to [each point in space]([[space point]]) a probability amplitude. [Applying the Born rule to] these amplitudes gives a [[probability density function]] for the position that [the electron will be found]([[finding the electron]]) to have [when an experiment is performed]([[perform an experiment]]) to measure it. The [[Schrödinger equation]] [relates the collection of] probability amplitudes that [pertain to one moment of time] to the collection of probability amplitudes that pertain to another.
+    - One consequence of the mathematical rules of quantum mechanics is a tradeoff in predictability between different measurable quantities. The most famous form of this uncertainty principle says that no matter how a quantum particle is prepared or how carefully experiments upon it are arranged, it is impossible to have a precise prediction for a measurement of its position and also for a measurement of its momentum.
+- __Main article: __[[History of quantum mechanics]] #[[main article]]
+- Main article: [[Mathematical formulation of quantum mechanics]]
+See also: [[quantum logic]]
+- ## References
+    - [1]: [Born, M.] (1926). "Zur Quantenmechanik der Stoßvorgänge" [On the Quantum Mechanics of Collision Processes]. __Zeitschrift für Physik__. (Journal of Physics) **37** (12): 863–867. [Bibcode]:[1926ZPhy...37..863B](https://ui.adsabs.harvard.edu/abs/1926ZPhy...37..863B). [doi]:[10.1007/BF01397477](https://doi.org/10.1007%2FBF01397477). [S2CID] [119896026](https://api.semanticscholar.org/CorpusID:119896026). #[[collision process]] #journal
+    - [2]: Feynman, Richard; Leighton, Robert; Sands, Matthew (1964). __The Feynman Lectures on Physics__. **3**. [[California Institute of Technology (CalTech)]]. [ISBN] [978-0201500646](https://en.wikipedia.org/wiki/Special:BookSources/978-0201500646). Retrieved [19 December 2020](https://www.feynmanlectures.caltech.edu/III_01.html). #[[The Feynman Lectures on Physics]]
+    - [3]: Jaeger, Gregg (September 2014). "What in the ([[quantum world]]) world is macroscopic?". __American Journal of Physics__. **82** (9): 896–905. [Bibcode]:[2014AmJPh..82..896J](https://ui.adsabs.harvard.edu/abs/2014AmJPh..82..896J). [doi]:[10.1119/1.4878358](https://doi.org/10.1119%2F1.4878358). #[[American Journal of Physics]]

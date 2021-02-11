@@ -1,0 +1,6 @@
+- weibo
+    - 005BfJPmgy1gl5sgg9ptnj30u018zttz.jpg -- "detail point 100 (pt10-100)"
+        - cos -- lo dress ? + choker with 链环 -- "detail point 100 (pt10-100)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-KG%2FIPg2bINPXW.png?alt=media&token=87fcbeb2-4c54-4a47-9af6-ba56344f0fdf)
+        - green wide dual ponytail 粗双马尾 -- "detail point 100 (pt10-100)"
+        - "black short boot"

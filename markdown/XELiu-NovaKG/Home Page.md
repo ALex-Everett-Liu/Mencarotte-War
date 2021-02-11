@@ -1,0 +1,36 @@
+- $$\text{\color{thistle}Math and Phys}$$
+    - $$\text{\color{DarkOrchid}Physics}$$
+        - [[quantum mechanics]]
+            - [[quantum physics]]; [[quantum theory]]
+            - [[quantum system]]
+            - [[quantum technology]]
+            - [[quantum particle]]
+                - [[classical particle]]
+                - [[individual particle]]
+            - [[quantum effect]]; [[quantum phenomena]]; [[quantum world]]
+            - [[quantum-based]]
+- $$\text{\color{teal}Technology related...}$$
+- $$\text{\color{CornflowerBlue}Life Science related...}$$
+- $$\text{\color{salmon}Language}$$
+    - [[translation]]...
+        - [[localization]]
+        - translation tools
+    - [[dictionary]]
+        - [[extract example sentences from the dictionary]]
+    - [[word map]] (WordNet like)...
+- $$\text{\color{PeachPuff}Social Science...?}$$
+- $$\text{\color{Goldenrod}Culture related...}$$
+- $$\text{\color{RosyBrown}Everyday Life related...}$$
+- $$\text{\color{SeaGreen}General Science and Education...}$$
+- $$\text{\color{PaleGoldenrod}Economy...?}$$
+- $$\text{\color{SteelBlue}Engineering and Industry}$$
+- [[meiz]]
+    - [[hosted pictures]]
+    - [[CRR]]...
+    - place? environment?
+        - sofa
+    - parallel...
+        - shared memory, 共同身份的记忆, 比如校友关系...
+200120-13:44
+- Meta?
+- Others?

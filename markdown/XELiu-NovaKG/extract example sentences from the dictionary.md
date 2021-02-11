@@ -1,0 +1,28 @@
+- classified by sources
+    - 柯林斯高阶英汉双解学习词典
+        - I've brought my notes, 把我的笔记带来了 for what it's worth. 不管有没有用
+        - For what it's worth, 不管怎么样 [my feeling is that] [ice in whisky]([[whisky]]) is fine.
+        - ---
+        - If I'm inside for three days in a row, I go crazy. 不出来 
+        - He [grew a different crop] [on the same field] five years in a row, [在同一块地里]种植不同的作物 what [[researcher]]s call [[crop rotation]]. 轮作
+        - It is the sixth month in a row in which [imports have fallen]. [进口量][持续下降]
+    - 牛津高阶英汉双解词典
+        - I prefer this colour, for what it's worth. 无论好坏 
+        - ---
+        - I [won six tricks] in a row. 接连赢了六墩牌 | 成一排; 连续
+        - He [retired twelve batters] in a row. 一连使十二个击球手出局
+    - provided by [[jukuu]]
+        - For what it's worth, 也许这不算什么 I'm [getting out of the business]. 换工作
+        - ---
+        - "And if one day you cry, will I [be able to hush you]? 陪伴你的身旁"
+        - You [have been with me] [all through the bad times]([[bad times]]). 
+        - I'll be there when you're [[feeling down]]. 
+        - ---
+    - [blog.sina]([[sina blog]]).com.cn
+        - And when the young woman's mother died, she [walked beside her]. 
+        - And if one day you cry, will I [be able to hush you]? 陪伴你的身旁
+        - Till I am [by your side]. 
+        - ---
+    - temp
+        - This is [my humble opinion], 一得之愚 for what it's worth. 仅供参考 百度翻译例句库
+- classified by keyword 
