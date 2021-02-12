@@ -122,6 +122,8 @@ page attribute -- roam
                 - VSCode Configuration 
                 - 学习 Python, Java, JavaScript, TypeScript, Ruby, C 和 C++ 编程的[可视化网站](https://zhuanlan.zhihu.com/p/30351346) --[ 此网站](http://link.zhihu.com/?target=http%3A//pythontutor.com/)可以动态可视化地显示你的代码相对应的数组、堆、栈什么的分配情况，对于编程初学者很有帮助。
                 - [UltraEdit 注册机](https://www.liupeng.mobi/archives/3295)
+                    - {{[[TODO]]}} IDM Universal Patch v5.8.0 [注册机](https://www.macno1.com/post/1147.html)
+                        - [破解不完全](https://www.macno1.com/post/1149.html), 不定時出現 “試用期限己結束” -- 解決方式 修改 uedit64.exe
                 - [Org-Roam](https://www.youtube.com/watch?v=oyEMlIxIHXs&t=4s) [v1.2.0](https://www.bilibili.com/video/BV1Kv4y1Z7Cs) - Headlines & Unlinked References-oyEMlIxIHXs
                 - {{[[TODO]]}} apk 提取
                 - 雷电模拟器
@@ -139,3 +141,5 @@ page attribute -- roam
             - 葫芦笔记[早鸟促销](https://www.bilibili.com/video/BV1fK4y1H7eZ)+[早期用户][畅聊][特别活动]
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
+        - detail point 99.97 (pt9-99.97)
+            - {{[[TODO]]}} bdwp [2T空盘](https://www.ghpym.com/bdwpzyad); u5w 

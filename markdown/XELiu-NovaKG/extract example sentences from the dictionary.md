@@ -23,6 +23,8 @@
         - And if one day you cry, will I [be able to hush you]? 陪伴你的身旁
         - Till I am [by your side]. 
         - ---
+    - www.[[chinadaily]].com.cn
+        - With [a plethora of choices] available, [[quality]] and [[branding]] are often [the key to success] in an [increasingly crowded]([[crowded]]) [[marketplace]]. 日益拥挤的市场
     - temp
         - This is [my humble opinion], 一得之愚 for what it's worth. 仅供参考 百度翻译例句库
 - classified by keyword 
