@@ -98,6 +98,7 @@
                 - Roam Research 最好的替代品 - [Logseq](https://www.bilibili.com/video/BV1JX4y1N7fo)
                 - {{[[TODO]]}} Emacs / Vim 快捷键，控制光标移动
                 - {{[[TODO]]}} online table; airtable; 维格表
+                    - [在线数据分析](https://chartcube.alipay.com/upload)
             - {{[[TODO]]}} 录屏; bandicam; ...
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
