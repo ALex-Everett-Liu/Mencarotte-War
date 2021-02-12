@@ -1,0 +1,6 @@
+- dictionary 
+    - A New [Biomedical Image Technology] [成像技术] [Optical Coherence Microscopy] [光学相干性] and Its Application. dict.[cnki].net
+    - Analysis of [Noise Characteristics] in an [Optical Coherence Tomographic System]. 层析/断层扫描系统
+    - Research on [Operation Controlling] and [Image Processing] of [Optical Coherence Tomography System]. www.[dictall].com
+    - Optical Coherence Tomography [Signal Detection] and [Signal Processing Circuit] [Design and Fabrication] 处理电路[设计与制作]
+    - Development of a [Spectrum Domain] 3D Optical Coherence Tomography System

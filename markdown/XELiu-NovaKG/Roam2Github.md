@@ -20,6 +20,16 @@
     - ## EDN Backups are live!
         - The backup [has a check to make sure] the formatted EDN (which only adds extra [[linebreak]]s and [[indentation]]) [can be parsed back]([[parsed]]) to 被解析为 [match exactly with] the original [before saving it]. It will [exit with an error] if it can't, so you can rest assured that the formatting doesn't mess with the [[file integrity]]. 文件的完整性 I also tested that the formatted EDN can be used to [successfully restore graphs]([[restore the graph]]).
         - 2021-01-31 [It took all day to figure out] how to use [[ClojureScript]] to prettify EDN. It was [a daunting task], never having dealt with Clojure before, much less [compiling it into]([[compile]]) [[JavaScript]]. But I did it! This is necessary because the [exported EDN data] from Roam is [[all in one line]], ^^meaning GitHub would have to [save the entire file] each time, instead of [just the new lines].^^ This would [[eat up the storage]] pretty quickly if [run every hour], as [unchanged notes] would be [duplicated each time]. And you [wouldn't be able to see] [[line-by-line changes]] in the [[git history]].
+    - ## Multi Graph Backups in Same Repo
+        - You can now backup multiple graphs [without having to] create a new GitHub repo for each one. Just add them to your `R2G_GRAPH` Secret [in separate lines], or [separated by commas].
+    - ## Markdown support added
+        - 2021-02-04 Markdown is now supported. Worked all day to get [[filename]] [[sanitization]] working. My [[backup script]] can even [export markdown from] the [official Roam help database](https://roamresearch.com/#/app/help) and Roam [book](https://roamresearch.com/#/app/roam-book-club) [clubs](https://roamresearch.com/#/app/roam-book-club-2) [[error-free]]! I have [added several measures to] [prevent errors]:
+            - `/` [[slash]]es are replaced with [full-width versions]([[full-width symbol]]) `／`
+            - [[illegal filename characters]] are replaced with �
+            - [Page titles] longer than 255 characters are [[automatically truncated]] (though they lose the .md extension)
+            - no [subdirectories]([[subdirectory]])
+            - no [[blank file]]s
+            - The [[log]]s will [list the files] that [have been renamed] or [[overwritten]].
 - ## [documentation](https://github.com/everruler12/roam2github/tree/main/documentation)/...
     - ### Setup Instructions.md
         - steps: 
