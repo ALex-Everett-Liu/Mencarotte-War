@@ -117,6 +117,8 @@ pgb: 15m
                 - 学习 Python, Java, JavaScript, TypeScript, Ruby, C 和 C++ 编程的[可视化网站](https://zhuanlan.zhihu.com/p/30351346) --[ 此网站](http://link.zhihu.com/?target=http%3A//pythontutor.com/)可以动态可视化地显示你的代码相对应的数组、堆、栈什么的分配情况，对于编程初学者很有帮助。
                 - [UltraEdit 注册机](https://www.liupeng.mobi/archives/3295)
                 - [Org-Roam](https://www.youtube.com/watch?v=oyEMlIxIHXs&t=4s) [v1.2.0](https://www.bilibili.com/video/BV1Kv4y1Z7Cs) - Headlines & Unlinked References-oyEMlIxIHXs
+                - {{[[TODO]]}} apk 提取
+                - 雷电模拟器
             illusion game
                 - {{[[DONE]]}} hs2 整合包
         - detail point 99.97 (pt10-99.97)
@@ -129,3 +131,5 @@ pgb: 15m
             - {{[[TODO]]}} [中石大][本科生]-哈工大研究生—2020[年度总结](https://www.bilibili.com/video/BV1ni4y1c7KG) -- dl
         - detail point 99.99 (pt9-99.99)
             - 葫芦笔记[早鸟促销](https://www.bilibili.com/video/BV1fK4y1H7eZ)+[早期用户][畅聊][特别活动]
+        - detail point 99.98 (pt9-99.98)
+            - {{[[TODO]]}} UltraCompare

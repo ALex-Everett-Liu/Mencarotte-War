@@ -31,6 +31,8 @@ https://www.bilibili.com/video/BV1mJ411B7YB
     - "每每看到 Notion 用户丢人现眼的傻逼言论，感叹他们实在缺乏见识与视野的同时，又让我对 Notion 的厌恶更增多了一分。当然了，论傻逼言论，那都比不上 Notion 自家创始人 Ivan Zhao 的那些访谈，深刻印证了他的产品是个空有其表内在劣质的花架子。
 210121-19:55"
 - skill? thought?  -- 技巧与心得...
+    - "block ref 相当于 pull or clone，^^之后应当允许一种 fork or branch 的操作^^，感想于 [this](https://cn.logseq.com/t/topic/290/8) talk thread.
+210212-16:05"
     - "WorkFlowy 的 block 拖放简直太好用了，利用 filter 筛选出足够小的样本后（甚至可以临时做个inbox来缓存），拖动距离直接实现最小化，这是 Roam Research 的设计所无论如何也赶不上的。
 210207-11:30"
     - "04:08 任何一次将标题层级[转化为新页面]，都能在新页面的反向链接中[直接找到][原标题下的][完整内容]，这就是 Roam 的[设计精妙之处]，也是它之所以胜过 WorkFlowy 的理由。

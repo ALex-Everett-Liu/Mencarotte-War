@@ -30,6 +30,17 @@
             - no [subdirectories]([[subdirectory]])
             - no [[blank file]]s
             - The [[log]]s will [list the files] that [have been renamed] or [[overwritten]].
+        - Unfortunate [[side-effect]] with [markdown backups]: files with [[duplicate names]] are overwritten (like [ [test] ] and [ [Test] ]). (This was also present in roam-to-git)
+210212-14:50
+    - ## Support / Donations
+        - If you [experience any issues] or errors with my backup script, let me know! Either [post as a GitHub issue] here, or [send me a message] at my [[support email]]: [erik@eriknewhard.com](mailto:erik@eriknewhard.com)
+            - You can also check here: [Common error causes](https://github.com/everruler12/roam2github/blob/main/documentation/Common%20error%20causes.md) and their solutions
+        - [Some very generous people] [have been asking how to donate]([[donate]]). If you [like my work], I won't [refuse your support]!
+            - Email for [[PayPal]] and Amazon [[gift card]]s: [erik.newhard@gmail.com](https://github.com/everruler12/roam2github/blob/main/erik.newhard@gmail.com)
+            - [Bitcoin (BTC)]([[bitcoin (BTC)]]) address: `bc1qsa3l8lraa3rjj6wyc7zdlv5z2xnlunppavtxw0`
+- About
+    - Tags: backup-script; backup-tool; roamcult
+    - Languages: [JavaScript 100.0%](https://github.com/everruler12/roam2github/search?l=javascript)
 - ## [documentation](https://github.com/everruler12/roam2github/tree/main/documentation)/...
     - ### Setup Instructions.md
         - steps: 
@@ -81,3 +92,25 @@ jobs:
           commit_message: Automated snapshot```
             - Click [Start Commit] then [Commit new file]
         - The backup will [run every hour]. You can [view the logs] in Actions and [clicking on the jobs].
+    - ### Common error causes
+        - Timed out with `R2G astrolabe spinning...` then `Error: The operation was canceled.` Possible causes:
+            - The [most common reason] is your `R2G_GRAPH` secret is incorrect. Try updating it (make sure it's only the [graph name], not a URL)
+            - Roam's [[server]]s [happened to timeout]. Try [re-running the job] later.
+            - You [don't have permission to]([[permission]]) [view that graph] ([in case of] trying to backup up someone else's graph).
+            - You graph is [too large to be loaded] within the [[backup timeout]] (default set to 10 minutes). This is highly unlikely, as it shouldn't take 10 minutes to load. (If you still think this is the case, you could try [increasing the timeout] in `main.yml` and adding the [TIMEOUT env setting] as explained here: [Extra Options](https://github.com/everruler12/roam2github#extra-options))
+        - R2G ERROR - EDN formatting error: mismatch with original
+            - The [file integrity check] to make sure the [[formatted version]] of the EDN file matches the downloaded EDN export failed. Please let me know [if this were ever to happen].
+    - ### Settings for main.yml
+        - Update and rename [Extra options] for `main.yml.md` to `Settings for main.yml.md`
+        - If you don't need to [keep your graph name private], you can include it directly in the main.yml under R2G_GRAPH instead of Secrets. Just replace `${{ secrets.R2G_GRAPH }}`. For multiple graph backups, separate with a comma.
+        - In your main.yml, beneath the `R2G_GRAPH` [env variable], ^^you can add some of the following [extra settings] if needed:^^
+            - Don't backup [a specific file type]. (Choose one or two to skip. Not all 3, or you won't have a backup, lol). Default is `true` [when not set].
+                - `BACKUP_JSON: false
+BACKUP_EDN: false
+BACKUP_MARKDOWN: false`
+            - Change timeout in the backup script (not the Action itself). Default is 600000 ms (10 minutes) when not set.
+`TIMEOUT: 300000`
+            - Change the [[replacement character]] for [illegal filenames] in markdown. Default is � when not set.
+`MD_REPLACEMENT: _`
+            - Include [blank markdown files]. (^^This can [clutter the backup with] lots of [unnecessary files].^^) Default is true (skip the blanks) when not set.
+`MD_SKIP_BLANKS: false`
