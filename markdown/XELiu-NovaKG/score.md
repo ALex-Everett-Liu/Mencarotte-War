@@ -46,7 +46,8 @@
                 - {{[[TODO]]}} Railscast before 210129 in github -- 绝对是最好看的一版，改回来！ -- refer to the screenshot 20382
                     - [Railscast for roam](https://github.com/jmharris903/Railscast-for-Roam-Research-Theme)
                     - check the [commit history](https://github.com/jmharris903/Railscast-for-Roam-Research-Theme/commits/master/RailsRoam.css)
-                - {{[[TODO]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
+                - {{[[DONE]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
+Completed after 4 days.
                     - However, I'm beginning to think this is an issue with Roam, not an issue with the script. I’ve had this experience trying to export markdown backups manually as well, the loading wheel just spins and eventually, the web page becomes unresponsive.
                     - For those of you who [keep experiencing errors], I [invite you to try out] my new [backup solution](https://github.com/everruler12/roam2github-demo) (JSON only for now)
                     - If you keep using roam-to-git I highly recommend people use [@adithyabsk](https://github.com/adithyabsk) 's [fork] ^^as it supports [formatted edn] and is [pretty decently fast] on my large graph with jet. ^^
@@ -66,6 +67,8 @@
             - {{[[TODO]]}} cnki account; 
             - {{[[TODO]]}} characters modding; ck3 backup; chrome indexDB backup; 
             - {{[[TODO]]}} roam/css; js; roam page or block attribute; score; temp; meiz/crr; adding figs; 
+            - {{[[TODO]]}} 很多人把比特币看作数字黄金，但比特币有比黄金更好的[储值价值](https://www.zhihu.com/question/425743358/answer/1725416912)，在未来[全球社会][越来越不稳定]的[大前提]下，比特币是比黄金更好的[储值资产]，因为它[好转移]且[难以监管]（蒋介石当年[用飞机][拉走几十吨黄金]，他能拉走，绝大多数人不行）。
+                - 这是我认为的比特币的[基本面]，它不仅是一种你希望别人以[更高价格]买走的资产，它有其他价值，这些价值在[乱世][非常有用]。
         - detail point 99.99 (pt10-99.99)
             - {{[[TODO]]}} [vlog 008](https://www.bilibili.com/video/BV1xJ411X7qA) 探访哈工大食堂
                 - [VLOG 04](https://www.bilibili.com/video/BV114411274h) 实习小总结+到达哈尔滨
@@ -103,6 +106,7 @@
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
             - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～[唠嗑群](https://space.bilibili.com/2378703)574182082 -- 不许跑，我看到你了！O皿O
+            - {{[[TODO]]}} 在其他任何 Windows 系统上，使用 Windows+R 调出运行命令，输入 \\192.168.0.109，点击确定，如果让你[输入凭据]，这个凭据就是你[正在使用的][这台电脑]的[帐户名]以及密码。最后[即可找到]我们刚刚[共享的盘符](https://zhuanlan.zhihu.com/p/43391739)。
         -  detail point 99.98 (pt10-99.98)
             {{[[TODO]]}} 博得之门3[创建人物]法师的[剧情流程](https://www.bilibili.com/video/BV1A54y1s7ty)解说1-7
 pgb: 15m
@@ -112,6 +116,8 @@ pgb: 15m
                     - [Latex中68种颜色名称](https://wenku.baidu.com/view/280ec427284ac850ac024255.html)
                 - {{[[TODO]]}} 我最常用的[Obsidian插件](https://www.bilibili.com/video/BV1TV411t7Dv) -- [YouTube](https://www.youtube.com/watch?v=X61wRmfZU8Y&t=3s&ab_channel=LinkingYourThinking) 
                     - 如何创建[MOC (Map of Content)](https://www.bilibili.com/video/BV1ny4y1v75i): 至上而下, 至下而上
+                - {{[[TODO]]}} page alias -- logseq, obsidian
+page attribute -- roam
                 - {{[[TODO]]}} Atom Configuration -- Settings
                 - VSCode Configuration 
                 - 学习 Python, Java, JavaScript, TypeScript, Ruby, C 和 C++ 编程的[可视化网站](https://zhuanlan.zhihu.com/p/30351346) --[ 此网站](http://link.zhihu.com/?target=http%3A//pythontutor.com/)可以动态可视化地显示你的代码相对应的数组、堆、栈什么的分配情况，对于编程初学者很有帮助。

@@ -57,4 +57,4 @@ __手を結び眠れるから　ああ__
 **沈む夜にあやされながら**
 **甘やかな夢を見てる**
         - ...
-            - 翻譯： [黑城舞夏](https://w.atwiki.jp/vocaloidchly/pages/3801.html) -- very bad，基本上，不，完全就是瞎翻的
+            - 翻譯： [黑城舞夏](https://w.atwiki.jp/vocaloidchly/pages/3801.html) -- very bad，基本上，不，完全就是瞎翻的... tmd太离谱了、太可耻了！
