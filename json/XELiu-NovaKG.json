@@ -21233,18 +21233,199 @@
             }
           },
           {
-            "string": "Roam-to-git has [offered me great peace of mind] [knowing my Roam data is safe]. However, my backups [regularly failed] with [unknown errors] [multiple times a week]. People were emailing me [with the same issues], and I couldn't help. Then [it got to the point] on 2021-01-28 where all my backups were failing. Roam-to-git's creator didn't seem active with [addressing the issues], 解决问题 and I don't know enough Python fix his code. So I decided to write my own backup solution from scratch using Node— with clearer logging to make troubleshooting easier.",
+            "string": "Roam-to-git has [offered me great peace of mind] [knowing my Roam data is safe]. However, my backups [regularly failed] with [unknown errors] [multiple times a week]. People were emailing me [with the same issues], and I couldn't help. Then [it got to the point] on 2021-01-28 where all my backups were failing. Roam-to-git's creator didn't seem active with [addressing the issues], 解决问题 and I don't know enough Python [fix his code]. So I decided to write my own [backup solution] from scratch using Node— with [clearer logging] to make [[troubleshooting]] easier.",
+            "refs": [
+              {
+                "uid": "s0E1iRdKZ"
+              }
+            ],
             "uid": "yo67RR_Ly",
-            "edit-time": 1613051535258,
+            "edit-time": 1613084635115,
+            ":block/refs": [
+              {
+                ":block/uid": "s0E1iRdKZ"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "[](https://github.com/everruler12/roam2github#differences-from-roam-to-git)",
+            "string": "Differences from roam-to-git",
             "heading": 2,
-            "uid": "W3n02MFea",
-            "edit-time": 1613051384786,
+            "children": [
+              {
+                "string": "Uses [[Node]] (rather than Python)",
+                "refs": [
+                  {
+                    "uid": "W9VgkoYOa"
+                  }
+                ],
+                "uid": "Q1vMNa5GA",
+                "edit-time": 1613084710337,
+                ":block/refs": [
+                  {
+                    ":block/uid": "W9VgkoYOa"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Supports [[EDN]] in addition to [[JSON]] and [[Markdown]] (not [[formatted markdown]] though)",
+                "refs": [
+                  {
+                    "uid": "92pQzHdMD"
+                  },
+                  {
+                    "uid": "vVk5BSw1V"
+                  },
+                  {
+                    "uid": "XRUidzHiy"
+                  },
+                  {
+                    "uid": "p3ashr9-P"
+                  }
+                ],
+                "uid": "95girZ6br",
+                "edit-time": 1613084729290,
+                ":block/refs": [
+                  {
+                    ":block/uid": "92pQzHdMD"
+                  },
+                  {
+                    ":block/uid": "vVk5BSw1V"
+                  },
+                  {
+                    ":block/uid": "XRUidzHiy"
+                  },
+                  {
+                    ":block/uid": "p3ashr9-P"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[Multiple graph backups] [in the same repo]",
+                "uid": "rWMqeDl2v",
+                "edit-time": 1613084800557,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "__Better [error debugging] and [active support] from the developer__ (Erik Newhard @everruler12) to get your backups [running smoothly] and error-free",
+                "uid": "yoPpZT5CV",
+                "edit-time": 1613084846928,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "N5UUFVkOR",
+            "edit-time": 1613084698521,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Future Plans",
+            "heading": 2,
+            "children": [
+              {
+                "string": " New, [full guide] with step-by-step [[screen recording]]s",
+                "refs": [
+                  {
+                    "uid": "NC8OJbp-P"
+                  }
+                ],
+                "uid": "tvH6XNS0m",
+                "edit-time": 1613089915675,
+                ":block/refs": [
+                  {
+                    ":block/uid": "NC8OJbp-P"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": " Update code to [[run asynchronously]], instead of linearly, to [cut down on run time]",
+                "refs": [
+                  {
+                    "uid": "qa3QferHJ"
+                  }
+                ],
+                "uid": "sU-CTUhhU",
+                "edit-time": 1613090070582,
+                ":block/refs": [
+                  {
+                    ":block/uid": "qa3QferHJ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": " Use fipp for faster EDN formatting",
+                "uid": "c1VqhMJGL",
+                "edit-time": 1613089891223,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": " Allow [setup of public repo] for running Actions and [committing to private repo] for backup, in order to [bypass minute limit] for [private GitHub Actions].",
+                "uid": "_EKr0aay9",
+                "edit-time": 1613090171220,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "---",
+                "create-time": 1613089902192,
+                "uid": "VHKF1g1ih",
+                "edit-time": 1613089903380,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": " EDN support (2021-01-31)",
+                "uid": "Guw5UCeRm",
+                "edit-time": 1613089891223,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": " Multi graph support (2021-02-01)",
+                "uid": "-BpKt5zE6",
+                "edit-time": 1613089891223,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": " Markdown support (2021-02-04)",
+                "uid": "6NkXkNCcT",
+                "edit-time": 1613089891223,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "IS2f0n6Mi",
+            "edit-time": 1613089891223,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -21422,6 +21603,102 @@
     "title": "separate lines",
     "uid": "yx8oTjtYa",
     "edit-time": 1613039471529,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613084635127,
+    "title": "troubleshooting",
+    "uid": "s0E1iRdKZ",
+    "edit-time": 1613084635128,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613084710338,
+    "title": "Node",
+    "uid": "W9VgkoYOa",
+    "edit-time": 1613084710339,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613084729292,
+    "title": "EDN",
+    "uid": "vVk5BSw1V",
+    "edit-time": 1613084729294,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613084729292,
+    "title": "Markdown",
+    "uid": "XRUidzHiy",
+    "edit-time": 1613084729294,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613084729292,
+    "title": "formatted markdown",
+    "uid": "p3ashr9-P",
+    "edit-time": 1613084729294,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613089915677,
+    "title": "screen recording",
+    "uid": "NC8OJbp-P",
+    "edit-time": 1613089915678,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613090070585,
+    "title": "run asynchronously",
+    "uid": "qa3QferHJ",
+    "edit-time": 1613090070586,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613092627027,
+    "title": "February 12th, 2021",
+    "uid": "02-12-2021",
+    "edit-time": 1613092627028,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

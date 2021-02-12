@@ -2,8 +2,21 @@
     - ### [Click here for](https://github.com/everruler12/roam2github/blob/main/documentation/Setup%20Instructions.md) [[setup instruction]]s
         - Click here for [extra settings](https://github.com/everruler12/roam2github/blob/main/documentation/Settings%20for%20main.yml.md)
         - Inspired by https://github.com/MatthieuBizien/roam-to-git
-    - Roam-to-git has [offered me great peace of mind] [knowing my Roam data is safe]. However, my backups [regularly failed] with [unknown errors] [multiple times a week]. People were emailing me [with the same issues], and I couldn't help. Then [it got to the point] on 2021-01-28 where all my backups were failing. Roam-to-git's creator didn't seem active with [addressing the issues], 解决问题 and I don't know enough Python fix his code. So I decided to write my own backup solution from scratch using Node— with clearer logging to make troubleshooting easier.
-    - ## [](https://github.com/everruler12/roam2github#differences-from-roam-to-git)
+    - Roam-to-git has [offered me great peace of mind] [knowing my Roam data is safe]. However, my backups [regularly failed] with [unknown errors] [multiple times a week]. People were emailing me [with the same issues], and I couldn't help. Then [it got to the point] on 2021-01-28 where all my backups were failing. Roam-to-git's creator didn't seem active with [addressing the issues], 解决问题 and I don't know enough Python [fix his code]. So I decided to write my own [backup solution] from scratch using Node— with [clearer logging] to make [[troubleshooting]] easier.
+    - ## Differences from roam-to-git
+        - Uses [[Node]] (rather than Python)
+        - Supports [[EDN]] in addition to [[JSON]] and [[Markdown]] (not [[formatted markdown]] though)
+        - [Multiple graph backups] [in the same repo]
+        - __Better [error debugging] and [active support] from the developer__ (Erik Newhard @everruler12) to get your backups [running smoothly] and error-free
+    - ## Future Plans
+        -  New, [full guide] with step-by-step [[screen recording]]s
+        -  Update code to [[run asynchronously]], instead of linearly, to [cut down on run time]
+        -  Use fipp for faster EDN formatting
+        -  Allow [setup of public repo] for running Actions and [committing to private repo] for backup, in order to [bypass minute limit] for [private GitHub Actions].
+        - ---
+        -  EDN support (2021-01-31)
+        -  Multi graph support (2021-02-01)
+        -  Markdown support (2021-02-04)
 - ## [documentation](https://github.com/everruler12/roam2github/tree/main/documentation)/...
     - ### Setup Instructions.md
         - steps: 
