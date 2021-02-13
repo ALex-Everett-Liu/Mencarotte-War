@@ -2390,6 +2390,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "小容量的FAT32，大容量的NTFS，不要考虑 [exFat](https://zhuanlan.zhihu.com/p/86116170)。原因很简单：1、exFAT丢文件、丢文件、丢文件；2、exFAT 兼容性，尤其插手机、电视机；3、exFAT 要授权，比如插NAS",
+                    "create-time": 1613173381742,
+                    "uid": "X0eCExgUz",
+                    "edit-time": 1613173390114,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "GiU-zBSL5",
@@ -16741,11 +16753,191 @@
   {
     "create-time": 1612656173386,
     "title": "Mathematical formulation of quantum mechanics",
-    "uid": "ILR-4PdRT",
-    "edit-time": 1612656173388,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "In the [[mathematically rigorous]] formulation of quantum mechanics developed by Paul Dirac,[27] David Hilbert,[28] John von Neumann,[29] and [[Hermann Weyl]],[30] the [[possible state]]s of a [quantum mechanical system] are [[symbolized]][31] as [[unit vector]]s (called [[state vector]]s) $$\\displaystyle \\psi$$. Formally, these vectors are elements of a complex [separable]([[separable space]]) [[Hilbert space]] {$$\\displaystyle {\\mathcal {H}}$$} – variously called the [[state space]] or the [[associated Hilbert space]] of the system – that is [well defined] up to a [[complex number]] of [[norm]] 1 (the [[phase factor]]). In other words, the possible states are points in the [[projective space]] of a Hilbert space, usually called the [[complex projective space]]. The [exact nature] of this Hilbert space is [[dependent on the system]] – for example, the state space for [[position]] and [[momentum]] states is the space of [[square-integrable function]]s $$\\displaystyle L^{2}(\\mathbb {C} )$$, while the state space for the [[spin]] of a single [[proton]] is just the [[product]] of two [[complex plane]]s. #mathcal #mathbb",
+        "create-time": 1613170289154,
+        ":block/refs": [
+          {
+            ":block/uid": "5qG6RlLFv"
+          },
+          {
+            ":block/uid": "c5ItJdplE"
+          },
+          {
+            ":block/uid": "p61QXYuvZ"
+          },
+          {
+            ":block/uid": "iznXkZ70W"
+          },
+          {
+            ":block/uid": "MBhesB0lj"
+          },
+          {
+            ":block/uid": "BFxiJEVRI"
+          },
+          {
+            ":block/uid": "_iNmZsIAJ"
+          },
+          {
+            ":block/uid": "RhMWNruqa"
+          },
+          {
+            ":block/uid": "S7WD3--4I"
+          },
+          {
+            ":block/uid": "P68Z0Rume"
+          },
+          {
+            ":block/uid": "qgyyY9C6E"
+          },
+          {
+            ":block/uid": "2uWFU7Qn3"
+          },
+          {
+            ":block/uid": "Ypa_AA900"
+          },
+          {
+            ":block/uid": "LpPtnGaqv"
+          },
+          {
+            ":block/uid": "WtAC0TZWi"
+          },
+          {
+            ":block/uid": "nAY3PKune"
+          },
+          {
+            ":block/uid": "UyshsdH7p"
+          },
+          {
+            ":block/uid": "vUY4fRlR1"
+          },
+          {
+            ":block/uid": "atlA8ZqnB"
+          },
+          {
+            ":block/uid": "A__6ASABr"
+          },
+          {
+            ":block/uid": "-Elzh5Jm0"
+          },
+          {
+            ":block/uid": "zctoauvcA"
+          },
+          {
+            ":block/uid": "65XU94GuK"
+          },
+          {
+            ":block/uid": "Zfc0AbeY2"
+          },
+          {
+            ":block/uid": "bPBDwJVz6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "5qG6RlLFv"
+          },
+          {
+            "uid": "c5ItJdplE"
+          },
+          {
+            "uid": "p61QXYuvZ"
+          },
+          {
+            "uid": "iznXkZ70W"
+          },
+          {
+            "uid": "MBhesB0lj"
+          },
+          {
+            "uid": "BFxiJEVRI"
+          },
+          {
+            "uid": "_iNmZsIAJ"
+          },
+          {
+            "uid": "RhMWNruqa"
+          },
+          {
+            "uid": "S7WD3--4I"
+          },
+          {
+            "uid": "P68Z0Rume"
+          },
+          {
+            "uid": "qgyyY9C6E"
+          },
+          {
+            "uid": "2uWFU7Qn3"
+          },
+          {
+            "uid": "Ypa_AA900"
+          },
+          {
+            "uid": "LpPtnGaqv"
+          },
+          {
+            "uid": "WtAC0TZWi"
+          },
+          {
+            "uid": "nAY3PKune"
+          },
+          {
+            "uid": "UyshsdH7p"
+          },
+          {
+            "uid": "vUY4fRlR1"
+          },
+          {
+            "uid": "atlA8ZqnB"
+          },
+          {
+            "uid": "A__6ASABr"
+          },
+          {
+            "uid": "-Elzh5Jm0"
+          },
+          {
+            "uid": "zctoauvcA"
+          },
+          {
+            "uid": "65XU94GuK"
+          },
+          {
+            "uid": "Zfc0AbeY2"
+          },
+          {
+            "uid": "bPBDwJVz6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "SU_FYw4SN",
+        "edit-time": 1613170289164,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "210126-19:22",
+        "create-time": 1613170289154,
+        "uid": "57BMzpfZA",
+        "edit-time": 1613170289164,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ILR-4PdRT",
+    "edit-time": 1612656173388,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -25091,6 +25283,1614 @@
     "title": "second brain",
     "uid": "B7C5d_mQ9",
     "edit-time": 1613135235187,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "phase factor",
+    "uid": "c5ItJdplE",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "possible state",
+    "uid": "p61QXYuvZ",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "mathematically rigorous",
+    "uid": "iznXkZ70W",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "norm",
+    "uid": "MBhesB0lj",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "dependent on the system",
+    "uid": "BFxiJEVRI",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "associated Hilbert space",
+    "uid": "_iNmZsIAJ",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "projective space",
+    "uid": "RhMWNruqa",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "state space",
+    "uid": "S7WD3--4I",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "product",
+    "uid": "P68Z0Rume",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "position",
+    "uid": "qgyyY9C6E",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "state vector",
+    "uid": "2uWFU7Qn3",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "spin",
+    "uid": "Ypa_AA900",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "unit vector",
+    "uid": "LpPtnGaqv",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "momentum",
+    "uid": "WtAC0TZWi",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "proton",
+    "uid": "nAY3PKune",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "separable space",
+    "uid": "UyshsdH7p",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "complex projective space",
+    "uid": "vUY4fRlR1",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "Hilbert space",
+    "uid": "atlA8ZqnB",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "Hermann Weyl",
+    "uid": "A__6ASABr",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "square-integrable function",
+    "uid": "-Elzh5Jm0",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "complex plane",
+    "uid": "zctoauvcA",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "symbolized",
+    "uid": "65XU94GuK",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "mathcal",
+    "uid": "Zfc0AbeY2",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170289155,
+    "title": "mathbb",
+    "uid": "bPBDwJVz6",
+    "edit-time": 1613170289164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170747333,
+    "title": "White Snow Falling",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "from atwiki",
+        "create-time": 1610391392932,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "作詞：[OSTER project](https://w.atwiki.jp/hmiku/pages/234.html)\n作曲：OSTER project\n編曲：OSTER project\n唄：初音ミク",
+            "create-time": 1610391478552,
+            "uid": "ufDz1c7mu",
+            "edit-time": 1613170747340,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "original upload ",
+            "create-time": 1610391872322,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[【初音ミク】White Snow Falling【オリジナル曲】](https://www.nicovideo.jp/watch/sm22506850)",
+                "create-time": 1610391877133,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "**13/12/22 21:05** 投稿",
+                    "create-time": 1610391896938,
+                    "uid": "pYX633MnX",
+                    "edit-time": 1613170747340,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "再生：**113,892** コメント：**1,714** マイリスト：**3,402**",
+                    "create-time": 1610391897926,
+                    "uid": "4gc70p8AW",
+                    "edit-time": 1613170747340,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "comment",
+                    "create-time": 1610391902768,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "いい曲だゎ～ このイラストだいすき 好き雪アレンジみてた そのチョイスは…貴方 いかの塩辛wwwww 冬になると聞きたくな 2013年から毎年クリス",
+                        "create-time": 1610391913712,
+                        "uid": "NapOKdAbd",
+                        "edit-time": 1613170747340,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "wWN854bHm",
+                    "edit-time": 1613170747340,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "RqKBew6i3",
+                "edit-time": 1613170747340,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[YouTube version](https://www.youtube.com/watch?v=SsiCrw1Z4mc) ",
+                "create-time": 1610391935123,
+                "uid": "QOymspKn5",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "fO7UoWuBs",
+            "edit-time": 1613170747340,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "曲紹介",
+            "create-time": 1611175151956,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "> **フォッフォッフォッ！メリークリスマス！！**",
+                "create-time": 1611175151956,
+                "uid": "rU16w-GR_",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "毎年のイベントごとって、時の流れを実感出来たり誰かへの気持ちを再確認出来たり色んな意味がありますよね。",
+                "create-time": 1611175151956,
+                "uid": "aanmv7Z-b",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "そぅ…クリスマスになると大切なヒトの事考えちゃうょ…来年も再来年もずっとずっと一緒にいられたら素敵だョね……ゥチら…ズッ友だョ…（ｷｭﾝ",
+                "create-time": 1611175151956,
+                "uid": "tMNussuvh",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "という具合に、あなたの大切な人に思いを馳せながらお聞きください。（作者コメ転載）",
+                "create-time": 1611175151956,
+                "uid": "lOlMoN-kO",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "可愛いPVは うさぎ氏 が手掛ける。",
+                "create-time": 1611175151956,
+                "uid": "idyrXB8I1",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "オリジナルアルバム「[キャンディージャーの地平面](https://w.atwiki.jp/hmiku/pages/36437.html)」収録曲。",
+                "create-time": 1611175151956,
+                "uid": "-j4YKN8tv",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "#snow",
+                "create-time": 1611175216560,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5mfeqn-UY"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5mfeqn-UY"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "qUKgrKUKn",
+                "edit-time": 1613170747340,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "_CYNNohSy",
+            "edit-time": 1613170747340,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[歌詞](https://w.atwiki.jp/hmiku/pages/27842.html)",
+            "create-time": 1610391396462,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "昨日見た夢の続き\nこんな風に今は二人で\n隣り合って眺めてるなんて\n何か変な気持ち\n\nおでことおでこ　ぶつかる距離に / 在這彼此的額頭　緊貼着的距離\n今でもドキドキするけど\n大好きをくれるあなたを知りたい\n\nWhite snow falling on my heart\n触れた暖かい心　憧れ抱いて\nWhite snow falling on your heart\n溢れるこの想い歌うよ / 將這滿溢而出的思念歌唱出來吧\nIt's very [[merry Christmas]]\n\nキラキラ舞い散る雪に\n垣間見えるあなたの優しさ\n強さと背中合わせね / 與你的堅強不相襯呢\nきっといつか壊れちゃうわ\n\nこんな私だって　どんなときだって\nあなたの力になるから\n悲しい時にはいつでも教えて\n\nWhite snow falling on my heart\n白い奇跡舞い降りるこの空の下\nWhite snow falling on your heart\n出逢えたトキメキこの胸に / 在這因彼此相遇而心跳加速的心中\nIt's very merry Christmas",
+                "create-time": 1610391423684,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cAFmyVFdo"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cAFmyVFdo"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "qK6RTscUZ",
+                "edit-time": 1613170747340,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "見えない距離であなたはいつも\n励ましてくれていたんだね\n今度は私があなたに元気をあげる\n\nWhite snow falling on my heart\n触れた暖かい心伝わるよ　dreamin'\nWhite snow falling on your heart\nいつでも憧れこの胸に抱きしめて\n\nSnow falling on my heart\n本当に大切なものこの胸の中\nWhite snow falling on your heart\n出逢えたトキメキいつまでも忘れない\n\nWhite snow falling on my heart\nこの先もずっとずっと一緒にいようよ\nWhite snow falling on your heart\n素敵な夢をその心で　描き続けて\n\nI wanna always give you all of my love",
+                "create-time": 1610391400270,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "励まして (hagemashite): ",
+                    "create-time": 1610517351254,
+                    "uid": "-tDvshI_2",
+                    "edit-time": 1613170747340,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "FSiR4K9Z-",
+                "edit-time": 1613170747340,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "97QwfTId5",
+            "edit-time": 1613170747340,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "コメント",
+            "create-time": 1611175151956,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "追加おつ！ -- 名無しさん (2013-12-22 21:30:19)\n相変わらず早いなww -- 美沙希 (2013-12-23 21:04:39)\nこの曲大好き！見えない距離であなたはいつもの部分を勝手に遠距離恋愛に解釈して、勇気もらってます。 -- 名無しさん (2013-12-24 01:07:35)\n可愛いです癒されます -- ナナシ (2014-06-16 17:26:09)\nもうすぐクリスマス!! 待ちきれないよォ～！It's very merry Christmas! OSTERさんにはいつも癒されます。ありがと（*´・з・`*)ﾁｭｯ♪ -- メリクリ姫 (2014-12-01 20:25:55)\nクリスマスはもちろん、クリスマス以外も聴きたくなる。 -- あいにゃん (2016-11-26 18:58:53)\nかわいい〜 -- 名無しさん (2016-12-12 16:26:24)",
+                "create-time": 1611175151956,
+                "uid": "3YnY3LsSa",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Q6yqO_wxa",
+            "edit-time": 1613170747340,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "翻譯：[kyroslee](https://w.atwiki.jp/vocaloidchly/pages/6030.html)\n([取用翻譯前]請注意首頁的翻譯[使用禮節], 並[不要拿掉]譯者的名字)",
+            "create-time": 1611175293161,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "2013.12.24 根據 [初音ミク Wiki] [修正排版]",
+                "create-time": 1611175494520,
+                "uid": "3249kWR5i",
+                "edit-time": 1613170747340,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "XvaNYMaZJ",
+            "edit-time": 1613170747340,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ZJnBCIY3-",
+        "edit-time": 1613170747340,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "utattemita",
+        "create-time": 1610391622190,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[月葉 (tsukinowa)]] -- White Snow Falling 歌ってみた",
+            "create-time": 1610391626345,
+            ":block/refs": [
+              {
+                ":block/uid": "RgcvAIp4J"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "RgcvAIp4J"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "NqBUm6Xdh",
+            "edit-time": 1613170747340,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "MGxkYYSRh",
+        "edit-time": 1613170747340,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "4OcNT-Xg8",
+    "edit-time": 1613170747402,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170747321,
+    "title": "snow",
+    "uid": "5mfeqn-UY",
+    "edit-time": 1613170747340,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170747321,
+    "title": "merry Christmas",
+    "uid": "cAFmyVFdo",
+    "edit-time": 1613170747340,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613170747333,
+    "title": "glow",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[from atwiki](https://w.atwiki.jp/hmiku/pages/10599.html)",
+        "create-time": 1611787575540,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "作詞：[keeno](https://w.atwiki.jp/hmiku/pages/12663.html)\n作曲：keeno\n編曲：keeno\n唄：初音ミクAppend（dark）",
+            "create-time": 1611787581136,
+            "uid": "ZcajKiRzV",
+            "edit-time": 1613170747375,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "original upload",
+            "create-time": 1611787713949,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[【初音ミクDark】　glow　【オリジナル】](https://www.nicovideo.jp/watch/sm11209477)",
+                "create-time": 1611787720230,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "**10/06/28 00:22** 投稿",
+                    "create-time": 1611787730372,
+                    "uid": "NTs2KmpLo",
+                    "edit-time": 1613170747375,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "再生：**2,730,432** コメント：**27,215** マイリスト：**60,682**",
+                    "create-time": 1611787731392,
+                    "uid": "wm1T1lGkW",
+                    "edit-time": 1613170747375,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "comment",
+                    "create-time": 1611787738364,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "soft and dark (o・ω・o) (2021/1/15 0:11:50) おめでとう♪ 曲もすごいけど歌詞も 戻って来ちゃいました *´꒳`* ) 8888888888888888 何年...",
+                        "create-time": 1611787739658,
+                        "uid": "gz2MWSWXD",
+                        "edit-time": 1613170747375,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "oB-3fsehh",
+                    "edit-time": 1613170747375,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "KNQVPfLFH",
+                "edit-time": 1613170747375,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "hwTPB5eEv",
+            "edit-time": 1613170747375,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "曲紹介",
+            "create-time": 1611787611076,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "keeno氏 のVOCALOID[デビュー作]。 / keeno's VOCALOID debut work. 出道作, 处女作",
+                "create-time": 1612038972056,
+                "uid": "TSmuHar_T",
+                "edit-time": 1613170904820,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[メロウなサウンド]と歌詞が滲みる[ロックナンバー]。 / Rock number with a mellow sound. 醇厚的, 柔和的",
+                "create-time": 1612038984544,
+                "uid": "gsrClMPrz",
+                "edit-time": 1613170840871,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "反響が大きく、初投稿にして初の殿堂入りを達成する。",
+                "create-time": 1611787611075,
+                "uid": "7yZnWCxOK",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "ネルドラP制作の[PV](http://www.nicovideo.jp/watch/sm14108892)がDVD『[初音ミク Vision](https://w.atwiki.jp/hmiku/pages/15550.html)』に収録され、KarenTレーベルより[ダウンロード販売](https://w.atwiki.jp/hmiku/pages/18151.html)が行われている。",
+                "create-time": 1611787611075,
+                "uid": "lBoRJrIuD",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "2013年10月20日、自身初となる[ミリオン](https://w.atwiki.jp/hmiku/pages/4386.html)を達成。現在ボカロオリジナルで[ミリオン]を達成している曲の一つである。",
+                "create-time": 1611787623854,
+                "uid": "enz2gNsd8",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Lx8o_eU8x",
+            "edit-time": 1613170747375,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "歌詞",
+            "create-time": 1611787630897,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "（[piapro](http://piapro.jp/content/o6ntcen5r3kmf6ws)より転載）",
+                "create-time": 1611787635796,
+                "uid": "H0PK5wBR0",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "降り注いだ冷たい雨　青い傷を溶かしてった。\nいつか見てた夕暮れ空のすみっこで笑う誰かがいた。\n\n気付かないうちにオトナになって　綺麗な嘘　口に出来るほど\nいろんな痛みを覚えてきたけど　それでもまだ痛いんだ。\n\n夕暮れの涙が出そうな赤　私の中の君を溶かしてしまえ。\n\n",
+                "create-time": 1611787651410,
+                "uid": "EYIIcBsAT",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "私の体中　君の傷跡で溢れているから　もう進めないよ。\nねぇ　消えて　消してよ　そう願っていたのに\nどうして　こんなにきつく抱きしめてるの？\n\n",
+                "create-time": 1611787652824,
+                "uid": "XH41vRrcW",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "君の声が遠くなる　飲み込まれそうな赤。\nきっと　このまま君を溶かして夜になるだけ。\n\n淡く染まる指先に零れ落ちそうな赤。\n私の中の君を奪ってしまう。\n\nちぎれてく雲間から　溢れ出す涙。\n少しずつ滲む君にぎゅっとしがみついた。",
+                "create-time": 1611787642911,
+                "uid": "R2qYIwPen",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "BslFKkdI4",
+            "edit-time": 1613170747375,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "コメント",
+            "create-time": 1611787663632,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "**※2010年～2014年のコメントは、**[こちら](https://w.atwiki.jp/hmiku/pages/34569.html)に[格納しました]。",
+                "create-time": 1612693178623,
+                "uid": "nufYwI9so",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "↑夕暮れ空とあるのでglowだ[と思います]よ -- 麻乃 (2015-01-06 01:06:23)\n強くなれた気がします -- いずみ (2015-01-06 15:56:59)\n[サビ部分][お気に入り]です！^^歌詞で書くと普通に「夕暮れの」になっちゃうのが残念なくらい。^^ミクさんの声がすごくいいなって思います！ -- 落花 (2015-01-12 22:21:06) || 是的，这里的叠音实在是太过于惊艳，从10年听过之后久久不能忘怀。",
+                "create-time": 1611788041941,
+                "uid": "q6EszeXDz",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "なんでこんな良い曲があるんだろうって思いました。さっきから泣きっぱなしです(*/0`*). ' . -- ユキ (2015-01-15 00:55:34)\nいつ聴いても泣ける曲です。皆に教えたい曲！！ -- いお。 (2015-01-19 20:56:33)\nやっぱり、サビ部分がサイコーだわ!最初歌い手さんので聞いてたけどボカロのでもいける（6ｖ6*）♪ -- 街灯 (2015-01-21 20:32:05)\n「プロジェクトミライでらっくす」(３ＤＳの)で知った。切ない曲ですね。 -- シグナル (2017-09-26 18:42:09)\nボカロはいいぞ。馬鹿にしたら後悔するぞ。 -- 青紫 (2017-10-02 22:13:01)\n本当に一番大好きな曲です‼つい口ずさんでしまうほど... -- うみのもずく (2018-02-26 20:26:35)\n耳から離れない大好きな曲♪ -- しば*sink (2018-03-20 23:31:12)\n少しずつ滲む君にぎゅっとしがみついた。で終わるのがいいですね。 -- みどり (2018-06-16 13:49:11)\nいつまでも色褪せないな この曲は -- 名無しさん (2019-02-26 08:35:24)\n好き。最初に知ったボカロ -- 名無しさん (2019-05-10 23:07:24)\nこんないい曲ないよマジで -- 名無しさん (2019-09-27 22:44:50)\n本当に、しぬまで好きです -- 名無しさん (2020-04-01 18:26:02)\n久々に聞いたけどやっぱりいい曲だなぁ -- 名無しさん (2020-04-10 22:28:50)\n担任の先生におすすめされてからほとんど毎日聴いてます笑　ほんとにいい曲すぎて……(´；ω；｀) -- 名無しさん (2020-08-06 14:34:15)\nボカロおすすめしてくれる担任うらやましい。。 -- ミクちゃんふぁん (2020-11-01 23:46:50)",
+                "create-time": 1611787683532,
+                "uid": "Z5VjbNZte",
+                "edit-time": 1613170747375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "drvVAb_vl",
+            "edit-time": 1613170747375,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "BFY9_I4z_",
+        "edit-time": 1613170747375,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "jprXqHVfs",
+    "edit-time": 1613170747402,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "title": "February 13th, 2021",
+    "children": [
+      {
+        "string": "Import",
+        "children": [
+          {
+            "string": "[[White Snow Falling]]",
+            "refs": [
+              {
+                "uid": "4OcNT-Xg8"
+              }
+            ],
+            "children": [
+              {
+                "string": "From: White Snow Falling.json",
+                "uid": "LRvcF-IzX",
+                "edit-time": 1613170747402,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "z_iDbBy4S",
+            "edit-time": 1613170747402,
+            ":block/refs": [
+              {
+                ":block/uid": "4OcNT-Xg8"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[glow]]",
+            "refs": [
+              {
+                "uid": "jprXqHVfs"
+              }
+            ],
+            "children": [
+              {
+                "string": "From: glow.json",
+                "uid": "-YEKPcAOx",
+                "edit-time": 1613170747402,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "QpLIxsgQu",
+            "edit-time": 1613170747402,
+            ":block/refs": [
+              {
+                ":block/uid": "jprXqHVfs"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "nA1gB47N2",
+        "edit-time": 1613170747402,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "02-13-2021",
+    "edit-time": 1613179000532,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171004339,
+    "title": "ck3 modding",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[Abstract](https://ck3.paradoxwikis.com/Modding)",
+        "create-time": 1610383238498,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[Modding]([[modding]]), or [creating mods], is the act of modifying the [[asset]]s or [[behavior]] of the game either for [[personal use]], or to [[release publicly]] to other [[player]]s, for instance via [Paradox Mods](https://mods.paradoxplaza.com/games/ck3) or the [Steam Workshop](https://steamcommunity.com/app/1158310/workshop/). #[[Steam Workshop]]",
+            "refs": [
+              {
+                "uid": "r9R769K7L"
+              },
+              {
+                "uid": "nIfAW6LSM"
+              },
+              {
+                "uid": "iG12mACca"
+              },
+              {
+                "uid": "TEh0bUYUe"
+              },
+              {
+                "uid": "_2Ey_fvwI"
+              },
+              {
+                "uid": "4hUMkxHkX"
+              },
+              {
+                "uid": "8NPCw4q_T"
+              }
+            ],
+            "uid": "0wMhCsGS2",
+            "edit-time": 1613171085499,
+            ":block/refs": [
+              {
+                ":block/uid": "r9R769K7L"
+              },
+              {
+                ":block/uid": "nIfAW6LSM"
+              },
+              {
+                ":block/uid": "iG12mACca"
+              },
+              {
+                ":block/uid": "TEh0bUYUe"
+              },
+              {
+                ":block/uid": "_2Ey_fvwI"
+              },
+              {
+                ":block/uid": "4hUMkxHkX"
+              },
+              {
+                ":block/uid": "8NPCw4q_T"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "As with all Paradox games, Crusader Kings III is moddable to a great extent. Motivations of modders may vary widely; better translation to native language, more events or decisions, better map, major overhaul, cheating, etc.",
+            "uid": "rBuJhr1rO",
+            "edit-time": 1613171085499,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "This guide is intended to lower the entry barriers to the world of Crusader Kings III modding. However, there is still a learning curve to it, and it cannot replace the need to read some working vanilla code and do lots of trial and error experimentation.",
+            "uid": "l4UF5rsSd",
+            "edit-time": 1613171085499,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "__Important__: the majority of mods will change the checksum, not allowing the player to get achievements. See checksum_manifest.txt in the game folder for the list of checksummed folders and files. The only safe mods are the ones that replace textures, shaders, fonts or music.",
+            "uid": "5rzurzAh6",
+            "edit-time": 1613171085499,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "oaoWRId1x",
+        "edit-time": 1613171085499,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Index",
+        "create-time": 1610443624398,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "**Scripting** -- [[characters modding]] | ",
+            "create-time": 1610443630892,
+            ":block/refs": [
+              {
+                ":block/uid": "lG9SV1iyC"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lG9SV1iyC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ZzkMi-RWJ",
+            "edit-time": 1613171085499,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "iG1LR-n1K",
+        "edit-time": 1613171085499,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "F8PRJoWwS",
+    "edit-time": 1613171004339,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171085515,
+    "title": "modding",
+    "uid": "nIfAW6LSM",
+    "edit-time": 1613171085517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171085515,
+    "title": "behavior",
+    "uid": "iG12mACca",
+    "edit-time": 1613171085517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171085515,
+    "title": "personal use",
+    "uid": "TEh0bUYUe",
+    "edit-time": 1613171085517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171085515,
+    "title": "release publicly",
+    "uid": "_2Ey_fvwI",
+    "edit-time": 1613171085517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171085515,
+    "title": "player",
+    "uid": "4hUMkxHkX",
+    "edit-time": 1613171085517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171085515,
+    "title": "Steam Workshop",
+    "uid": "8NPCw4q_T",
+    "edit-time": 1613171085517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171197302,
+    "title": "ck2 characters",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1613171380341,
+        "children": [
+          {
+            "edit-time": 1613171380341,
+            "children": [
+              {
+                "edit-time": 1613171380341,
+                "children": [
+                  {
+                    "edit-time": 1613171380341,
+                    "children": [
+                      {
+                        "edit-time": 1613171380341,
+                        "children": [
+                          {
+                            "string": "[[death]] = yes",
+                            "create-time": 1609697371512,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "l0c0NVGsA"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "l0c0NVGsA"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "ASyCzOR6s",
+                            "edit-time": 1613171380341,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "93Opv5rEM"
+                          },
+                          {
+                            "uid": "ruqfysl2U"
+                          },
+                          {
+                            "uid": "ivXYGZh3Z"
+                          },
+                          {
+                            "uid": "NICjFpWAk"
+                          }
+                        ],
+                        "uid": "TKA9XR_xi",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "93Opv5rEM"
+                          },
+                          {
+                            ":block/uid": "ruqfysl2U"
+                          },
+                          {
+                            ":block/uid": "ivXYGZh3Z"
+                          },
+                          {
+                            ":block/uid": "NICjFpWAk"
+                          }
+                        ],
+                        "string": "%[[yyyy.mm.dd]] = { [[birth]] = yes } #[[birthday]] #[[date format]] ",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1609697371512,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "TAdHCmbch"
+                      }
+                    ],
+                    "uid": "ZsXKENM8w",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "TAdHCmbch"
+                      }
+                    ],
+                    "string": "%[[character history]]",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1609696976527,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "NNZ0V-rS9"
+                  }
+                ],
+                "uid": "zfYzO44-t",
+                ":block/refs": [
+                  {
+                    ":block/uid": "NNZ0V-rS9"
+                  }
+                ],
+                "string": "<char_ID> = { %Character [[attribute]]s",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1609696976527,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "boN41ftaa"
+              },
+              {
+                "uid": "dqkFeJIcf"
+              },
+              {
+                "uid": "IwbbZ7InE"
+              }
+            ],
+            "uid": "Kq2PcAHDI",
+            ":block/refs": [
+              {
+                ":block/uid": "boN41ftaa"
+              },
+              {
+                ":block/uid": "dqkFeJIcf"
+              },
+              {
+                ":block/uid": "IwbbZ7InE"
+              }
+            ],
+            "string": "These files contain [[code block]]s of unique [[character ID]]s with the following [[basic structure]]:\n210104-02:08",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1609696976527,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "wJmAt5Vzj"
+          }
+        ],
+        "uid": "26d22d4ZS",
+        ":block/refs": [
+          {
+            ":block/uid": "wJmAt5Vzj"
+          }
+        ],
+        "string": "Characters are defined [in the files contained within] `/history/characters/` [[folder]].",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1609696976527,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "1jvv6lV_p",
+    "edit-time": 1613171197302,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380393,
+    "title": "code block",
+    "uid": "boN41ftaa",
+    "edit-time": 1613171380396,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380393,
+    "title": "character ID",
+    "uid": "dqkFeJIcf",
+    "edit-time": 1613171380396,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380393,
+    "title": "basic structure",
+    "uid": "IwbbZ7InE",
+    "edit-time": 1613171380396,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380414,
+    "title": "attribute",
+    "uid": "NNZ0V-rS9",
+    "edit-time": 1613171380415,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380434,
+    "title": "character history",
+    "uid": "TAdHCmbch",
+    "edit-time": 1613171380434,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380442,
+    "title": "yyyy.mm.dd",
+    "uid": "93Opv5rEM",
+    "edit-time": 1613171380443,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380442,
+    "title": "birth",
+    "uid": "ruqfysl2U",
+    "edit-time": 1613171380443,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380442,
+    "title": "birthday",
+    "uid": "ivXYGZh3Z",
+    "edit-time": 1613171380443,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380442,
+    "title": "date format",
+    "uid": "NICjFpWAk",
+    "edit-time": 1613171380443,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613171380450,
+    "title": "death",
+    "uid": "l0c0NVGsA",
+    "edit-time": 1613171380450,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
