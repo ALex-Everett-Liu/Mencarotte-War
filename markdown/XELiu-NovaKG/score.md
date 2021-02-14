@@ -139,8 +139,12 @@ page attribute -- roam
             - {{[[TODO]]}} [中石大][本科生]-哈工大研究生—2020[年度总结](https://www.bilibili.com/video/BV1ni4y1c7KG) -- dl
             - 这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）
 这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
+            - [如果说有谁][通敌](https://www.zhihu.com/question/311589547/answer/1167977280)的，[那也只能是][此期间]与[后金][书信往来]，亲热无比，配合[绞杀]毛文龙[东江军]的袁崇焕，而不可能是被后金[视作仇敌]的毛文龙。
         - detail point 99.99 (pt9-99.99)
             - 葫芦笔记[早鸟促销](https://www.bilibili.com/video/BV1fK4y1H7eZ)+[早期用户][畅聊][特别活动]
+            - [剪辑软件](https://space.bilibili.com/13329396)： Vegas 13 pro
+录制软件： OBS
+AE 始终不会用
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
         - detail point 99.97 (pt9-99.97)

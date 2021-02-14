@@ -2304,6 +2304,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "[如果说有谁][通敌](https://www.zhihu.com/question/311589547/answer/1167977280)的，[那也只能是][此期间]与[后金][书信往来]，亲热无比，配合[绞杀]毛文龙[东江军]的袁崇焕，而不可能是被后金[视作仇敌]的毛文龙。",
+                    "create-time": 1613321912313,
+                    "uid": "d9QUwN5Kw",
+                    "edit-time": 1613321948309,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "i1zxlZ_P-",
@@ -2324,6 +2336,18 @@
                     "create-time": 1612242147401,
                     "uid": "biGhBoq-w",
                     "edit-time": 1612242170550,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[剪辑软件](https://space.bilibili.com/13329396)： Vegas 13 pro\n录制软件： OBS\nAE 始终不会用",
+                    "create-time": 1613320561493,
+                    "uid": "yy76yJQAV",
+                    "edit-time": 1613320578586,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
@@ -3387,6 +3411,28 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "children": [
+          {
+            "string": "[Linguistics]([[linguistics]])",
+            "create-time": 1613322480610,
+            ":block/refs": [
+              {
+                ":block/uid": "GfVYvMFZb"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "GfVYvMFZb"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "pEGqM8n5Q",
+            "edit-time": 1613322481560,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "[[translation]]...",
             "refs": [
@@ -29154,16 +29200,74 @@
     },
     "children": [
       {
-        "edit-time": 1613317194900,
+        "edit-time": 1613322360683,
         "children": [
           {
-            "string": "A hierarchy can link entities either directly or indirectly, and either vertically or diagonally. The only direct links in a hierarchy, insofar as they are hierarchical, are to one's immediate superior or to one of one's subordinates, although a system that is largely hierarchical can also incorporate alternative hierarchies. Hierarchical links can extend \"vertically\" upwards or downwards via multiple links in the same direction, following a path. All parts of the hierarchy that are not linked vertically to one another nevertheless can be \"horizontally\" linked through a path by traveling up the hierarchy to find a common direct or indirect superior, and then down again. This is akin to two co-workers or colleagues; each reports to a common superior, but they have the same relative amount of authority. Organizational forms exist that are both alternative and complementary to hierarchy. Heterarchy is one such form.",
+            "string": "A hierarchy can [link entities] [either directly or indirectly], and either vertically or [diagonally]([[diagonal link]]). The only [[direct link]]s in a hierarchy, insofar as they are hierarchical, are to one's [[immediate superior]] or to one of one's [[subordinate]]s, although a system that is [largely hierarchical] can also incorporate [[alternative hierarchies]]. 合并替代层次结构 [Hierarchical links]([[hierarchical link]]) can extend \"vertically\" upwards or downwards via [multiple links in the same direction], following a [[path]]. All parts of the hierarchy that are not [linked vertically to one another]([[vertical link]]) nevertheless [can be \"horizontally\" linked] through a path by [traveling up the hierarchy] to find a common direct or [indirect superior]([[common superior]]), and then down again. This is akin to two co-workers or colleagues; each reports to a common superior, but they have the same relative amount of authority. Organizational forms exist that are both alternative and complementary to hierarchy. Heterarchy is one such form.",
             "create-time": 1613317052126,
-            "uid": "DEZQGRgF6",
-            "edit-time": 1613317057749,
+            ":block/refs": [
+              {
+                ":block/uid": "YmNociPiT"
+              },
+              {
+                ":block/uid": "NT9W1GkQ4"
+              },
+              {
+                ":block/uid": "GEJ-RGHUV"
+              },
+              {
+                ":block/uid": "lueB5_vJz"
+              },
+              {
+                ":block/uid": "G1Fsi0Z2Y"
+              },
+              {
+                ":block/uid": "yJlbuA3IE"
+              },
+              {
+                ":block/uid": "Pm7ejBsii"
+              },
+              {
+                ":block/uid": "Y4XVAClPH"
+              },
+              {
+                ":block/uid": "X6h_oStUq"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "YmNociPiT"
+              },
+              {
+                "uid": "NT9W1GkQ4"
+              },
+              {
+                "uid": "GEJ-RGHUV"
+              },
+              {
+                "uid": "lueB5_vJz"
+              },
+              {
+                "uid": "G1Fsi0Z2Y"
+              },
+              {
+                "uid": "yJlbuA3IE"
+              },
+              {
+                "uid": "Pm7ejBsii"
+              },
+              {
+                "uid": "Y4XVAClPH"
+              },
+              {
+                "uid": "X6h_oStUq"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "DEZQGRgF6",
+            "edit-time": 1613327087078,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -29178,6 +29282,30 @@
           },
           {
             "uid": "OYZuf-SVi"
+          },
+          {
+            "uid": "iznhtp0Mg"
+          },
+          {
+            "uid": "0GHfbaaS4"
+          },
+          {
+            "uid": "Ep21_wdfr"
+          },
+          {
+            "uid": "AK3pvMoEn"
+          },
+          {
+            "uid": "n-7Qghrms"
+          },
+          {
+            "uid": "rsck9rQ4V"
+          },
+          {
+            "uid": "o0mXQkg_y"
+          },
+          {
+            "uid": "26mhwb2Db"
           }
         ],
         "uid": "KDlMGA90k",
@@ -29190,9 +29318,33 @@
           },
           {
             ":block/uid": "OYZuf-SVi"
+          },
+          {
+            ":block/uid": "iznhtp0Mg"
+          },
+          {
+            ":block/uid": "0GHfbaaS4"
+          },
+          {
+            ":block/uid": "Ep21_wdfr"
+          },
+          {
+            ":block/uid": "AK3pvMoEn"
+          },
+          {
+            ":block/uid": "n-7Qghrms"
+          },
+          {
+            ":block/uid": "rsck9rQ4V"
+          },
+          {
+            ":block/uid": "o0mXQkg_y"
+          },
+          {
+            ":block/uid": "26mhwb2Db"
           }
         ],
-        "string": "A **hierarchy** (from the [[Ancient Greek]]: ἱεραρχία, __hierarkhia__, 'rule of a high priest', from __[hierarkhes](https://en.wikipedia.org/wiki/Ordinary_(officer))__, 'president of sacred rites')  is an [[arrangement]] of items (objects, names, values, [[categories]], etc.) in which the items are represented as being \"above\", \"below\", or \"at the same level as\" one another. Hierarchy is an important concept in a wide variety of fields, such as philosophy, mathematics, computer science, organizational theory, systems theory, systematic biology, and the social sciences (especially political philosophy).",
+        "string": "A **hierarchy** (from the [[Ancient Greek]]: ἱεραρχία, __hierarkhia__, 'rule of a [[high priest]]', 大祭司 from __[hierarkhes](https://en.wikipedia.org/wiki/Ordinary_(officer))__, 'president of [[sacred rite]]s')  is an [[arrangement]] of items (objects, names, values, [[categories]], etc.) in which the items are represented as being \"above\", \"below\", or \"at the [[same level]] as\" one another. Hierarchy is [an important concept] [in a wide variety of fields], such as philosophy, mathematics, computer science, [[organizational theory]], [[systems theory]], [[systematic biology]], and the [[social science]]s (especially [[political philosophy]]).",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -29263,6 +29415,210 @@
     "title": "categories",
     "uid": "OYZuf-SVi",
     "edit-time": 1613317194905,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322237199,
+    "title": "high priest",
+    "uid": "iznhtp0Mg",
+    "edit-time": 1613322237208,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322237199,
+    "title": "sacred rite",
+    "uid": "0GHfbaaS4",
+    "edit-time": 1613322237208,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322249734,
+    "title": "same level",
+    "uid": "Ep21_wdfr",
+    "edit-time": 1613322249735,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322360686,
+    "title": "organizational theory",
+    "uid": "AK3pvMoEn",
+    "edit-time": 1613322360689,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322360686,
+    "title": "systems theory",
+    "uid": "n-7Qghrms",
+    "edit-time": 1613322360689,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322360686,
+    "title": "systematic biology",
+    "uid": "rsck9rQ4V",
+    "edit-time": 1613322360689,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322360686,
+    "title": "social science",
+    "uid": "o0mXQkg_y",
+    "edit-time": 1613322360689,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322360686,
+    "title": "political philosophy",
+    "uid": "26mhwb2Db",
+    "edit-time": 1613322360689,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613322481562,
+    "title": "linguistics",
+    "uid": "GfVYvMFZb",
+    "edit-time": 1613322481563,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613324332662,
+    "title": "diagonal link",
+    "uid": "NT9W1GkQ4",
+    "edit-time": 1613324332662,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613324367728,
+    "title": "direct link",
+    "uid": "GEJ-RGHUV",
+    "edit-time": 1613324367728,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613324432127,
+    "title": "subordinate",
+    "uid": "lueB5_vJz",
+    "edit-time": 1613324432127,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613324731429,
+    "title": "immediate superior",
+    "uid": "G1Fsi0Z2Y",
+    "edit-time": 1613324731430,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613326900373,
+    "title": "alternative hierarchies",
+    "uid": "yJlbuA3IE",
+    "edit-time": 1613326900374,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613326908831,
+    "title": "hierarchical link",
+    "uid": "Pm7ejBsii",
+    "edit-time": 1613326908832,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613327053894,
+    "title": "vertical link",
+    "uid": "Y4XVAClPH",
+    "edit-time": 1613327053895,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613327087080,
+    "title": "common superior",
+    "uid": "X6h_oStUq",
+    "edit-time": 1613327087081,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

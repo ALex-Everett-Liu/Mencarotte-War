@@ -12,6 +12,7 @@
 - $$\text{\color{teal}Technology related...}$$
 - $$\text{\color{CornflowerBlue}Life Science related...}$$
 - $$\text{\color{salmon}Language}$$
+    - [Linguistics]([[linguistics]])
     - [[translation]]...
         - [[localization]]
         - translation tools
