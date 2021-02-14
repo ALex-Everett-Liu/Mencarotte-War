@@ -140,7 +140,9 @@ page attribute -- roam
             - 这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）
 这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
             - [如果说有谁][通敌](https://www.zhihu.com/question/311589547/answer/1167977280)的，[那也只能是][此期间]与[后金][书信往来]，亲热无比，配合[绞杀]毛文龙[东江军]的袁崇焕，而不可能是被后金[视作仇敌]的毛文龙。
+            - GTD 不[管理时间]，它管理的是我们的[注意力](https://zhuanlan.zhihu.com/p/350662573)。在任何一个会涉及到 GTD [英文论坛]上，「GTD = 注意力管理」早已是一个[基本共识]了，而[中文网络]上的 GTD 却一直跟“时间管理”[绑定在一起]，就跟「情商」一词一直[被大众曲解为]「会来事儿」一样。我也不是非要[死抠定义]，但[注意力管理]和[时间管理][真的是两回事]。
         - detail point 99.99 (pt9-99.99)
+            - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro
             - 葫芦笔记[早鸟促销](https://www.bilibili.com/video/BV1fK4y1H7eZ)+[早期用户][畅聊][特别活动]
             - [剪辑软件](https://space.bilibili.com/13329396)： Vegas 13 pro
 录制软件： OBS
@@ -153,3 +155,7 @@ AE 始终不会用
     - level 8
         - detail point 99.99 (pt8-99.99)
             - 大宋风华/圣者晨雷 (yousuu/43034)
+        - detail point 99.97 (pt8-99.97)
+            - 你的想法很好，我也很想实现你的想法，但是我觉着很困难，因为在线的网站播放视频，视频由别人控制，如果资源失效那么学习笔记也就没了，所以我推荐学习的时候就用[本地视频](https://www.bilibili.com/video/BV13K4y1n7fg)（b站视频的下载，可以在win中的 [Microsoft 商店]中下载 [bilibili win10 特制版]，然后就能直接用客户端下载到电脑上，而且视频不加密，无水印，可以直接学习）
+对于我这个视频的方法来说，在写程序的时候只能实现obsidian和potplayer之间的调用。
+当我们尝试用all in one的思路去建立个人知识库的时候，才能真正发挥Obsidian的作用。
