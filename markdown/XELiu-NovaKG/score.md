@@ -137,6 +137,8 @@ page attribute -- roam
     - level 9
         - detail point 100 (pt9-100)
             - {{[[TODO]]}} [中石大][本科生]-哈工大研究生—2020[年度总结](https://www.bilibili.com/video/BV1ni4y1c7KG) -- dl
+            - 这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）
+这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
         - detail point 99.99 (pt9-99.99)
             - 葫芦笔记[早鸟促销](https://www.bilibili.com/video/BV1fK4y1H7eZ)+[早期用户][畅聊][特别活动]
         - detail point 99.98 (pt9-99.98)

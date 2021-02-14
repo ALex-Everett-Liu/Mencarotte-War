@@ -2292,6 +2292,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）\n这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上",
+                    "create-time": 1613309725764,
+                    "uid": "bMbQU8FEZ",
+                    "edit-time": 1613309761297,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "i1zxlZ_P-",
@@ -2556,7 +2568,7 @@
         "string": "",
         "create-time": 1611052176116,
         "uid": "O8l0Fd23t",
-        "edit-time": 1613302063819,
+        "edit-time": 1613316372367,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -16176,7 +16188,7 @@
             "edit-time": 1613294769378,
             "children": [
               {
-                "string": "It may seem silly now, but it illustrates [a very powerful point]: A good [[user interface (UI)]] enables users to move in an ad hoc, [piecemeal fashion] 逐步 [[from beginner to expert]]. ",
+                "string": "It may seem silly now, but it illustrates [a very powerful point]: A good [[user interface (UI)]] enables users to move in an ad hoc, [piecemeal fashion] 特定方式; 逐步 [[from beginner to expert]]. ",
                 "create-time": 1613294794176,
                 ":block/refs": [
                   {
@@ -16198,7 +16210,7 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "D1V0fG6TN",
-                "edit-time": 1613294795369,
+                "edit-time": 1613316323747,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -17687,6 +17699,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "((YqR83MrhF))",
+            "create-time": 1613316578405,
+            ":block/refs": [
+              {
+                ":block/uid": "YqR83MrhF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "YqR83MrhF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Yk8ZtWhda",
+            "edit-time": 1613316579409,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "text-align": "center",
@@ -18542,6 +18576,116 @@
         ],
         "uid": "_iVchRhHn",
         "edit-time": 1613272701985,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "4. [[Knowledge graphs as nodal networks]] 节点网络形态的知识图谱/基于节点网络的知识图谱",
+        "create-time": 1613316559961,
+        ":block/refs": [
+          {
+            ":block/uid": "dixIYrk4F"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "dixIYrk4F"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "YqR83MrhF",
+        "edit-time": 1613316561171,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "5. [[Dependency graphs and logical reasoning]] 依赖性关系图谱与逻辑推理/基于依赖性关系图谱的逻辑推理",
+        "create-time": 1606139707027,
+        ":block/refs": [
+          {
+            ":block/uid": "hWlhwo_8T"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hWlhwo_8T"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "2Z2xRjmHe",
+        "edit-time": 1613316543587,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "6. [[Untangling complexity]] 理清复杂性",
+        "create-time": 1606214989536,
+        ":block/refs": [
+          {
+            ":block/uid": "ipFzrUx-i"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ipFzrUx-i"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "HU1ANsXqp",
+        "edit-time": 1613316543587,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "7. [[Optimising for serendipity]] 为获得意外发现进行优化/通向柳暗花明之路的优化方向",
+        "create-time": 1606301720801,
+        ":block/refs": [
+          {
+            ":block/uid": "sY81SxsmE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "sY81SxsmE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Mu9S-8D2-",
+        "edit-time": 1613316543587,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "8. [Collaborative problem-solving]([[collaborative problem-solving]]) 协作解决问题",
+        "create-time": 1606323592857,
+        ":block/refs": [
+          {
+            ":block/uid": "v-WjkpuIc"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "v-WjkpuIc"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "MuPIYb6iV",
+        "edit-time": 1613316543587,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -28938,6 +29082,190 @@
     ],
     "uid": "UDwsz4n5O",
     "edit-time": 1613301648807,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613316543637,
+    "title": "Knowledge graphs as nodal networks",
+    "uid": "dixIYrk4F",
+    "edit-time": 1613316543638,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613316543641,
+    "title": "Dependency graphs and logical reasoning",
+    "uid": "hWlhwo_8T",
+    "edit-time": 1613316543641,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613316543644,
+    "title": "Untangling complexity",
+    "uid": "ipFzrUx-i",
+    "edit-time": 1613316543645,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613316543648,
+    "title": "Optimising for serendipity",
+    "uid": "sY81SxsmE",
+    "edit-time": 1613316543649,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613316543652,
+    "title": "collaborative problem-solving",
+    "uid": "v-WjkpuIc",
+    "edit-time": 1613316543653,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613316992022,
+    "title": "hierarchy",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1613317194900,
+        "children": [
+          {
+            "string": "A hierarchy can link entities either directly or indirectly, and either vertically or diagonally. The only direct links in a hierarchy, insofar as they are hierarchical, are to one's immediate superior or to one of one's subordinates, although a system that is largely hierarchical can also incorporate alternative hierarchies. Hierarchical links can extend \"vertically\" upwards or downwards via multiple links in the same direction, following a path. All parts of the hierarchy that are not linked vertically to one another nevertheless can be \"horizontally\" linked through a path by traveling up the hierarchy to find a common direct or indirect superior, and then down again. This is akin to two co-workers or colleagues; each reports to a common superior, but they have the same relative amount of authority. Organizational forms exist that are both alternative and complementary to hierarchy. Heterarchy is one such form.",
+            "create-time": 1613317052126,
+            "uid": "DEZQGRgF6",
+            "edit-time": 1613317057749,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "iZBiq9Et0"
+          },
+          {
+            "uid": "13SUi9j7C"
+          },
+          {
+            "uid": "OYZuf-SVi"
+          }
+        ],
+        "uid": "KDlMGA90k",
+        ":block/refs": [
+          {
+            ":block/uid": "iZBiq9Et0"
+          },
+          {
+            ":block/uid": "13SUi9j7C"
+          },
+          {
+            ":block/uid": "OYZuf-SVi"
+          }
+        ],
+        "string": "A **hierarchy** (from the [[Ancient Greek]]: ἱεραρχία, __hierarkhia__, 'rule of a high priest', from __[hierarkhes](https://en.wikipedia.org/wiki/Ordinary_(officer))__, 'president of sacred rites')  is an [[arrangement]] of items (objects, names, values, [[categories]], etc.) in which the items are represented as being \"above\", \"below\", or \"at the same level as\" one another. Hierarchy is an important concept in a wide variety of fields, such as philosophy, mathematics, computer science, organizational theory, systems theory, systematic biology, and the social sciences (especially political philosophy).",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1613317003940,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "__For other uses, see __[Hierarchy_(disambiguation)]__.__",
+        "create-time": 1613317067203,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "__\"Subordinate\" redirects here. For other uses, see __[Subordination_(disambiguation)]__.__",
+            "create-time": 1613317076094,
+            "uid": "QF7wIHlfL",
+            "edit-time": 1613317107588,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "pJ_-7_mZ9",
+        "edit-time": 1613317095739,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "2Xhp2L5PE",
+    "edit-time": 1613316992022,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613317042554,
+    "title": "Ancient Greek",
+    "uid": "iZBiq9Et0",
+    "edit-time": 1613317042555,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613317194904,
+    "title": "arrangement",
+    "uid": "13SUi9j7C",
+    "edit-time": 1613317194905,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613317194904,
+    "title": "categories",
+    "uid": "OYZuf-SVi",
+    "edit-time": 1613317194905,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
