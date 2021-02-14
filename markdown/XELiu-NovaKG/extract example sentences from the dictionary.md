@@ -11,7 +11,8 @@
         - ---
         - I [won six tricks] in a row. 接连赢了六墩牌 | 成一排; 连续
         - He [retired twelve batters] in a row. 一连使十二个击球手出局
-    - provided by [[jukuu]]
+    - provided by [[jukuu]] / www.jukuu.com 
+        - It may seem silly now, but it illustrates [a very powerful point]: A good [[user interface (UI)]] enables users to move in an ad hoc, [piecemeal fashion] 逐步 [[from beginner to expert]]. 
         - For what it's worth, 也许这不算什么 I'm [getting out of the business]. 换工作
         - ---
         - "And if one day you cry, will I [be able to hush you]? 陪伴你的身旁"
@@ -27,4 +28,5 @@
         - With [a plethora of choices] available, [[quality]] and [[branding]] are often [the key to success] in an [increasingly crowded]([[crowded]]) [[marketplace]]. 日益拥挤的市场
     - temp
         - This is [my humble opinion], 一得之愚 for what it's worth. 仅供参考 百度翻译例句库
+        - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
 - classified by keyword 

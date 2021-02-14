@@ -16173,8 +16173,36 @@
             }
           },
           {
-            "edit-time": 1612579825888,
+            "edit-time": 1613294769378,
             "children": [
+              {
+                "string": "It may seem silly now, but it illustrates [a very powerful point]: A good [[user interface (UI)]] enables users to move in an ad hoc, [piecemeal fashion] 逐步 [[from beginner to expert]]. ",
+                "create-time": 1613294794176,
+                ":block/refs": [
+                  {
+                    ":block/uid": "OgWbSxkzb"
+                  },
+                  {
+                    ":block/uid": "-rsQthTKC"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "OgWbSxkzb"
+                  },
+                  {
+                    "uid": "-rsQthTKC"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "D1V0fG6TN",
+                "edit-time": 1613294795369,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "string": "For what it's worth, 也许这不算什么 I'm [getting out of the business]. 换工作",
                 "create-time": 1612950050209,
@@ -16289,7 +16317,7 @@
                 ":block/uid": "kXrMiRUud"
               }
             ],
-            "string": "provided by [[jukuu]]",
+            "string": "provided by [[jukuu]] / www.jukuu.com ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -16446,6 +16474,18 @@
                 "create-time": 1612950367536,
                 "uid": "1WVwCONxq",
                 "edit-time": 1612950405782,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com",
+                "create-time": 1613294661887,
+                "uid": "UTSSsKXl_",
+                "edit-time": 1613294662972,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -17625,6 +17665,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "((_iVchRhHn))",
+            "create-time": 1613291329761,
+            ":block/refs": [
+              {
+                ":block/uid": "_iVchRhHn"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_iVchRhHn"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Rj46eovou",
+            "edit-time": 1613291330770,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "text-align": "center",
@@ -17880,7 +17942,7 @@
             }
           },
           {
-            "edit-time": 1613135235017,
+            "edit-time": 1613294597179,
             "children": [
               {
                 "string": "partially supplanted: 部分取代\nplethora: 过多 ; 过量 ; 过剩",
@@ -18141,9 +18203,6 @@
                 "uid": "ATaT6Fhzk"
               },
               {
-                "uid": "QN5dhrtmV"
-              },
-              {
                 "uid": "mjepHXD55"
               }
             ],
@@ -18168,13 +18227,10 @@
                 ":block/uid": "ATaT6Fhzk"
               },
               {
-                ":block/uid": "QN5dhrtmV"
-              },
-              {
                 ":block/uid": "mjepHXD55"
               }
             ],
-            "string": "Many technologies for [[organizing knowledge]] [outside of the brain] have arisen [in response to] these limitations. [Physical books and journals] proliferated after the invention of the [[Gutenberg Press]], and have since been [partially supplanted by] [[word processor]]s, [[website]]s, [[blog]]s, [[forum]]s, [[wiki]]s, and [[software application]]s.\n201101-22:10 ",
+            "string": "Many technologies for [[organizing knowledge]] [outside of the brain] have arisen [in response to] these limitations. [Physical books and journals] proliferated after the invention of the [[Gutenberg Press]], and have since been [partially supplanted by] [[word processor]]s, [[website]]s, [[blog]]s, [[forum]]s, wikis, and [[software application]]s.\n201101-22:10 ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -25265,18 +25321,6 @@
   },
   {
     "create-time": 1613135235138,
-    "title": "wiki",
-    "uid": "QN5dhrtmV",
-    "edit-time": 1613135235140,
-    ":create/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    },
-    ":edit/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    }
-  },
-  {
-    "create-time": 1613135235138,
     "title": "software application",
     "uid": "mjepHXD55",
     "edit-time": 1613135235140,
@@ -28325,6 +28369,44 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613294795371,
+    "title": "user interface (UI)",
+    "uid": "OgWbSxkzb",
+    "edit-time": 1613294795372,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613294795371,
+    "title": "from beginner to expert",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[从入门到精通]; [从新手到专家]",
+        "create-time": 1613294810385,
+        "uid": "KB8E8ZsnQ",
+        "edit-time": 1613294811363,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "-rsQthTKC",
+    "edit-time": 1613294795372,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
