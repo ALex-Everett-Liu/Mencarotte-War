@@ -41,5 +41,5 @@ https://www.bilibili.com/video/BV1mJ411B7YB
     - "Crtl+D 误删了一月份花了十几天做的 ck3渤海mod，备份文件夹也删光了，本地文件就是这么脆弱。尽管很多细节已经记不清了，但我要尽最大努力，再花上上百小时把这个mod重做出来。
 210202-18:20"
     - "Garmin vivo3t lost data again! from 210208-00:00 to 210209-07:40. So disappointed!"
-- down collection
+- down task collection
     - smzdm, jdjr, ck3 -- 210130 again -- 210206 cancelled

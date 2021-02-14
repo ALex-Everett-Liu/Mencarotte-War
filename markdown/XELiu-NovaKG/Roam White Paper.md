@@ -37,6 +37,14 @@ A brief rant on [note-taking apps] and [the structure of thought]. ^^Or "Why [[E
             - rant: 怒吼; 咆哮; 大声抱怨; 大话; 粗野的话; 狂欢
 - ## **3. Problems with the file cabinet approach** 文件柜方式的储存结构存在的问题
     - In some regards, [current technologies] [remain vastly inferior to] the human brain. If each [[neuron]] only held [a single ‘unit’ of memory]([[memory unit]]) in this manner, our brains would quickly [[fill to overflowing]]. Instead, [information is conveyed in]([[convey information]]) [the connections between neurons] and [[neural network]]s, so a [common idea] [can be made available] [across the entire brain]; the [[concept]] of a [blue sky] might be used in countless seemingly [[discrete memories]] ^^of [time spent outdoors].^^ This [[efficiency]] [helps to explain] why a [[computer]] requires [several million times] [more energy] to [perform the same tasks]([[perform the task]]) as a [[human brain]] (which runs on about [as much power as]([[power]]) a dim [light bulb]).[3](((CYya7R5M4)))
+    - Unlike the brain, the [file cabinet approach] [makes it difficult or impossible to] remix or [reuse]([[reuse information]]) [the same piece of information]. Each time [a change is made to]([[change]]) [any given file], it has to be [tracked down]([[track down]]) and [[updated in every location]] [in which it exists]. This leads to [[redundancy]], with [a cluttering of near-identical ideas], and [[significant work]] any time a [[system-wide change]] is required. 这样做工作量极大
+201123-15:58
+    - [Current solutions] also lack [[interconnectivity]]. Many files are [divorced from context]([[context]]); [cast into a drawer], rather than [methodically fitted into] [a broader framework of knowledge]([[knowledge framework]]). [[knowledge tree]]s can create [pseudo-relationships] between files [nested within a given hierarchy]([[nested hierarchy]]), but these are not [[explicit relationship]], and can only describe a ‘[[parent and child]]’ [[vertical taxonomy]]. 
+201123-18:17
+        Some tools, such as [[web page]]s and [[wiki]]s, also allow for [[orthogonal linking]] [between related files], but this [takes place in] an [[ad hoc fashion]], and again, [there is no ability to] [explicitly define relationships].
+201123-19:01
+        divorced from context: 脱离上下文
+cast into a drawer: 扔进抽屉里
 - ### Notes and references
     - [1]: At least 2.5 [quintillion bytes] of information are [produced every day], which is about the [same amount] as was produced [during the entire year] of 2002. 
     - [2] [[Scientific American]]: New [Estimate] Boosts the Human Brain's [[memory capacity]] [10-Fold].
