@@ -107,6 +107,11 @@ Completed after 4 days.
             - {{[[TODO]]}} 刷杯子 海绵
             - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～[唠嗑群](https://space.bilibili.com/2378703)574182082 -- 不许跑，我看到你了！O皿O
             - {{[[TODO]]}} 在其他任何 Windows 系统上，使用 Windows+R 调出运行命令，输入 \\192.168.0.109，点击确定，如果让你[输入凭据]，这个凭据就是你[正在使用的][这台电脑]的[帐户名]以及密码。最后[即可找到]我们刚刚[共享的盘符](https://zhuanlan.zhihu.com/p/43391739)。
+            - [zvb](https://youtu.be/8e_6M94LAxE) 敲击、抓挠 随机物品 [无人声](https://www.bilibili.com/video/BV1pe411p7GP)
+                - 【[zvb_助眠](https://www.bilibili.com/video/BV1554y1s7Z2)】1分钟100个物品触发音！/ [100 triggers in 1 minute](https://www.youtube.com/watch?v=CKwtrVzbYbY)
+            - 【[Comfy](https://www.bilibili.com/video/BV1bt411w7Hb)】在房间里进行随机敲击/触发/无底噪/本子/笔/化妆品护肤品 [Tapping Around In My Room](https://youtu.be/oPHQzmXGrtM) 
+pgb: 17m
+            - Juny 用牙齿刮擦圆珠笔的[声音](https://www.bilibili.com/video/BV1zZ4y157MC)
         -  detail point 99.98 (pt10-99.98)
             {{[[TODO]]}} 博得之门3[创建人物]法师的[剧情流程](https://www.bilibili.com/video/BV1A54y1s7ty)解说1-7
 pgb: 15m
@@ -140,7 +145,8 @@ page attribute -- roam
             - 这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）
 这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
             - [如果说有谁][通敌](https://www.zhihu.com/question/311589547/answer/1167977280)的，[那也只能是][此期间]与[后金][书信往来]，亲热无比，配合[绞杀]毛文龙[东江军]的袁崇焕，而不可能是被后金[视作仇敌]的毛文龙。
-            - 感觉[俄军]对清初的清军[评价还可以](https://bbs.northdy.com/thread-920574-1-1.html)啊 | 按照俄国人的记录，清军完全可以说是[火器时代]的军队了
+            - 十七世纪中俄关系 -- 感觉[俄军]对清初的清军[评价还可以](https://bbs.northdy.com/thread-920574-1-1.html)啊 | 按照俄国人的记录，清军完全可以说是[火器时代]的军队了
+                - [俄国人][花了很多年][才搞明白][博格达汗]就是[大清皇帝]，[最早的认知里]“博格达汗”=[达斡尔][大酋长]。[哈巴罗夫]来黑龙江时带了给博格达汗的[劝降书]，上面[吓唬说]你博格达汗如果不[速速归降]，我们[西伯利亚]的六千大军就要来[杀你全家]。
             - GTD 不[管理时间]，它管理的是我们的[注意力](https://zhuanlan.zhihu.com/p/350662573)。在任何一个会涉及到 GTD [英文论坛]上，「GTD = 注意力管理」早已是一个[基本共识]了，而[中文网络]上的 GTD 却一直跟“时间管理”[绑定在一起]，就跟「情商」一词一直[被大众曲解为]「会来事儿」一样。我也不是非要[死抠定义]，但[注意力管理]和[时间管理][真的是两回事]。
         - detail point 99.99 (pt9-99.99)
             - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro

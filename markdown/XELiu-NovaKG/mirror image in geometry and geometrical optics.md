@@ -1,0 +1,2 @@
+- In two dimensions
+    - __Main article: __[[reflectional symmetry]]

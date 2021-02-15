@@ -4,6 +4,6 @@
 - ...
 - 
 - todo today (real-time view)
-    - weibo; xibeizi310; なりすましゲンガー; rasenna watashi
+    - weibo; xibeizi310; なりすましゲンガー; rasenna watashi; maple
     - 
     - 
