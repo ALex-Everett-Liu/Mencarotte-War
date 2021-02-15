@@ -2318,6 +2318,18 @@
                     }
                   },
                   {
+                    "string": "感觉[俄军]对清初的清军[评价还可以](https://bbs.northdy.com/thread-920574-1-1.html)啊 | 按照俄国人的记录，清军完全可以说是[火器时代]的军队了",
+                    "create-time": 1613374096768,
+                    "uid": "AE4So39-a",
+                    "edit-time": 1613374126672,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "GTD 不[管理时间]，它管理的是我们的[注意力](https://zhuanlan.zhihu.com/p/350662573)。在任何一个会涉及到 GTD [英文论坛]上，「GTD = 注意力管理」早已是一个[基本共识]了，而[中文网络]上的 GTD 却一直跟“时间管理”[绑定在一起]，就跟「情商」一词一直[被大众曲解为]「会来事儿」一样。我也不是非要[死抠定义]，但[注意力管理]和[时间管理][真的是两回事]。",
                     "create-time": 1613330759255,
                     "uid": "rgi26U4lK",
@@ -29265,35 +29277,77 @@
         "edit-time": 1613322360683,
         "children": [
           {
-            "string": "A hierarchy can [link entities] [either directly or indirectly], and either vertically or [diagonally]([[diagonal link]]). The only [[direct link]]s in a hierarchy, insofar as they are hierarchical, are to one's [[immediate superior]] or to one of one's [[subordinate]]s, although a system that is [largely hierarchical] can also incorporate [[alternative hierarchies]]. 合并替代层次结构 [Hierarchical links]([[hierarchical link]]) can extend \"vertically\" upwards or downwards via [multiple links in the same direction], following a [[path]]. All parts of the hierarchy that are not [linked vertically to one another]([[vertical link]]) nevertheless [can be \"horizontally\" linked] through a path by [traveling up the hierarchy] to find a common direct or [indirect superior]([[common superior]]), and then down again. This is akin to two co-workers or colleagues; each reports to a common superior, but they have the same relative amount of authority. Organizational forms exist that are both alternative and complementary to hierarchy. Heterarchy is one such form.",
-            "create-time": 1613317052126,
-            ":block/refs": [
+            "edit-time": 1613374442353,
+            "children": [
               {
-                ":block/uid": "YmNociPiT"
-              },
-              {
-                ":block/uid": "NT9W1GkQ4"
-              },
-              {
-                ":block/uid": "GEJ-RGHUV"
-              },
-              {
-                ":block/uid": "lueB5_vJz"
-              },
-              {
-                ":block/uid": "G1Fsi0Z2Y"
-              },
-              {
-                ":block/uid": "yJlbuA3IE"
-              },
-              {
-                ":block/uid": "Pm7ejBsii"
-              },
-              {
-                ":block/uid": "Y4XVAClPH"
-              },
-              {
-                ":block/uid": "X6h_oStUq"
+                "string": "All parts of the hierarchy that are not [linked vertically to one another]([[vertical link]]) nevertheless [can be \"horizontally\" linked] through a path by [traveling up the hierarchy] to find a common direct or [indirect superior]([[common superior]]), and then down again. This is akin to two [[co-worker]]s or [[colleague]]s ([[employment]]); each [reports to a common superior], but they have the same [relative amount] of [[authority]]. [Organizational forms]([[organizational form]]) exist that are both alternative and [[complementary]] to hierarchy. 替代和补充 [Heterarchy]([[heterarchy]]) is [one such form].",
+                "create-time": 1613317052126,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Y4XVAClPH"
+                  },
+                  {
+                    ":block/uid": "X6h_oStUq"
+                  },
+                  {
+                    ":block/uid": "9KDlsyIHo"
+                  },
+                  {
+                    ":block/uid": "PLUFOGgWv"
+                  },
+                  {
+                    ":block/uid": "xDl0AGF56"
+                  },
+                  {
+                    ":block/uid": "bMVPq9Nt_"
+                  },
+                  {
+                    ":block/uid": "b9Doq_5f9"
+                  },
+                  {
+                    ":block/uid": "rBXaveHnK"
+                  },
+                  {
+                    ":block/uid": "nmXj7eOQ9"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Y4XVAClPH"
+                  },
+                  {
+                    "uid": "X6h_oStUq"
+                  },
+                  {
+                    "uid": "9KDlsyIHo"
+                  },
+                  {
+                    "uid": "PLUFOGgWv"
+                  },
+                  {
+                    "uid": "xDl0AGF56"
+                  },
+                  {
+                    "uid": "bMVPq9Nt_"
+                  },
+                  {
+                    "uid": "b9Doq_5f9"
+                  },
+                  {
+                    "uid": "rBXaveHnK"
+                  },
+                  {
+                    "uid": "nmXj7eOQ9"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "DEZQGRgF6",
+                "edit-time": 1613375474237,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -29317,19 +29371,37 @@
               },
               {
                 "uid": "Pm7ejBsii"
-              },
-              {
-                "uid": "Y4XVAClPH"
-              },
-              {
-                "uid": "X6h_oStUq"
               }
             ],
+            "uid": "yB_omidtk",
+            ":block/refs": [
+              {
+                ":block/uid": "YmNociPiT"
+              },
+              {
+                ":block/uid": "NT9W1GkQ4"
+              },
+              {
+                ":block/uid": "GEJ-RGHUV"
+              },
+              {
+                ":block/uid": "lueB5_vJz"
+              },
+              {
+                ":block/uid": "G1Fsi0Z2Y"
+              },
+              {
+                ":block/uid": "yJlbuA3IE"
+              },
+              {
+                ":block/uid": "Pm7ejBsii"
+              }
+            ],
+            "string": "A hierarchy can [link entities] [either directly or indirectly], and either vertically or [diagonally]([[diagonal link]]). The only [[direct link]]s in a hierarchy, insofar as they are hierarchical, are to one's [[immediate superior]] or to one of one's [[subordinate]]s, although a system that is [largely hierarchical] can also incorporate [[alternative hierarchies]]. 合并[替代层次结构] [Hierarchical links]([[hierarchical link]]) can extend \"vertically\" upwards or downwards via [multiple links in the same direction], following a [[path]]. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "DEZQGRgF6",
-            "edit-time": 1613327087078,
+            "create-time": 1613374246969,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -29693,6 +29765,460 @@
     "title": "February 15th, 2021",
     "uid": "02-15-2021",
     "edit-time": 1613351884605,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613374196697,
+    "title": "authority",
+    "uid": "9KDlsyIHo",
+    "edit-time": 1613374196700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613374246989,
+    "title": "co-worker",
+    "uid": "PLUFOGgWv",
+    "edit-time": 1613374246991,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613374246989,
+    "title": "colleague",
+    "uid": "xDl0AGF56",
+    "edit-time": 1613374246991,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613374461248,
+    "title": "complementary",
+    "uid": "bMVPq9Nt_",
+    "edit-time": 1613374461257,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613374467947,
+    "title": "organizational form",
+    "uid": "b9Doq_5f9",
+    "edit-time": 1613374467948,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375464768,
+    "title": "heterarchy",
+    "uid": "rBXaveHnK",
+    "edit-time": 1613375464780,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375474240,
+    "title": "employment",
+    "uid": "nmXj7eOQ9",
+    "edit-time": 1613375474242,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375763429,
+    "title": "mirror image",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "A mirror image (in a [[plane mirror]]) is a [reflected duplication]([[duplication]]) of an object that [appears almost identical]([[identical]]), but is [[reversed]] [in the direction perpendicular to]([[perpendicular direction]]) the [[mirror surface]]. As an [[optical effect]] it results from [reflection off from]([[reflection]]) [[substance]]s such as a mirror or [[water]]. It is also a concept in [[geometry]] and [can be used as] a [[conceptualization process]] for [[3-D structure]]s.",
+        "create-time": 1613375764786,
+        ":block/refs": [
+          {
+            ":block/uid": "9Aky-cBO6"
+          },
+          {
+            ":block/uid": "5mcs7U0Ae"
+          },
+          {
+            ":block/uid": "cvZreEOFB"
+          },
+          {
+            ":block/uid": "IghS5YLwr"
+          },
+          {
+            ":block/uid": "SISAonfTW"
+          },
+          {
+            ":block/uid": "obKXtI-gz"
+          },
+          {
+            ":block/uid": "D7aumjNY4"
+          },
+          {
+            ":block/uid": "ofciVtt1H"
+          },
+          {
+            ":block/uid": "yFK10k1Uf"
+          },
+          {
+            ":block/uid": "5npOhxMPE"
+          },
+          {
+            ":block/uid": "EUglh4ZRF"
+          },
+          {
+            ":block/uid": "WhX0WeKQ3"
+          },
+          {
+            ":block/uid": "CEadRRtjZ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "9Aky-cBO6"
+          },
+          {
+            "uid": "5mcs7U0Ae"
+          },
+          {
+            "uid": "cvZreEOFB"
+          },
+          {
+            "uid": "IghS5YLwr"
+          },
+          {
+            "uid": "SISAonfTW"
+          },
+          {
+            "uid": "obKXtI-gz"
+          },
+          {
+            "uid": "D7aumjNY4"
+          },
+          {
+            "uid": "ofciVtt1H"
+          },
+          {
+            "uid": "yFK10k1Uf"
+          },
+          {
+            "uid": "5npOhxMPE"
+          },
+          {
+            "uid": "EUglh4ZRF"
+          },
+          {
+            "uid": "WhX0WeKQ3"
+          },
+          {
+            "uid": "CEadRRtjZ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "NJYDhekXy",
+        "edit-time": 1613376190800,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "This article includes [a list of](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources) [[general reference]]s, but it [remains largely unverified]([[unverified]]) because **it lacks sufficient corresponding** [[inline citation]]s. Please help to [improve](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check) this article by [introducing](https://en.wikipedia.org/wiki/Wikipedia:When_to_cite) [more precise citations]. __(June 2017)____ ([Learn how and when to] remove this [template message])__ #[[citing source]] #[[reference check]]",
+        "create-time": 1613375775667,
+        ":block/refs": [
+          {
+            ":block/uid": "QIaF3qsRb"
+          },
+          {
+            ":block/uid": "uI7X9UMce"
+          },
+          {
+            ":block/uid": "eTjwkRP63"
+          },
+          {
+            ":block/uid": "hNB2EhX_K"
+          },
+          {
+            ":block/uid": "t0oMJnpmZ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "QIaF3qsRb"
+          },
+          {
+            "uid": "uI7X9UMce"
+          },
+          {
+            "uid": "eTjwkRP63"
+          },
+          {
+            "uid": "hNB2EhX_K"
+          },
+          {
+            "uid": "t0oMJnpmZ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "YfOJWTihC",
+        "edit-time": 1613376012804,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "NJuOjs2pl",
+    "edit-time": 1613375763429,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375833764,
+    "title": "general reference",
+    "uid": "QIaF3qsRb",
+    "edit-time": 1613375833765,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375848463,
+    "title": "citing source",
+    "uid": "uI7X9UMce",
+    "edit-time": 1613375848464,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375865142,
+    "title": "unverified",
+    "uid": "eTjwkRP63",
+    "edit-time": 1613375865144,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375896045,
+    "title": "inline citation",
+    "uid": "hNB2EhX_K",
+    "edit-time": 1613375896046,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613375917312,
+    "title": "reference check",
+    "uid": "t0oMJnpmZ",
+    "edit-time": 1613375917314,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376071136,
+    "title": "plane mirror",
+    "uid": "9Aky-cBO6",
+    "edit-time": 1613376071145,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376103623,
+    "title": "identical",
+    "uid": "5mcs7U0Ae",
+    "edit-time": 1613376103623,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376103623,
+    "title": "mirror surface",
+    "uid": "cvZreEOFB",
+    "edit-time": 1613376103623,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376111983,
+    "title": "reversed",
+    "uid": "IghS5YLwr",
+    "edit-time": 1613376111984,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376141353,
+    "title": "perpendicular direction",
+    "uid": "SISAonfTW",
+    "edit-time": 1613376141355,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376141353,
+    "title": "substance",
+    "uid": "obKXtI-gz",
+    "edit-time": 1613376141355,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376141353,
+    "title": "water",
+    "uid": "D7aumjNY4",
+    "edit-time": 1613376141355,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376159369,
+    "title": "reflection",
+    "uid": "ofciVtt1H",
+    "edit-time": 1613376159371,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376159369,
+    "title": "optical effect",
+    "uid": "yFK10k1Uf",
+    "edit-time": 1613376159371,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376170793,
+    "title": "duplication",
+    "uid": "5npOhxMPE",
+    "edit-time": 1613376170795,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376190808,
+    "title": "geometry",
+    "uid": "EUglh4ZRF",
+    "edit-time": 1613376190814,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376190808,
+    "title": "conceptualization process",
+    "uid": "WhX0WeKQ3",
+    "edit-time": 1613376190814,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613376190808,
+    "title": "3-D structure",
+    "uid": "CEadRRtjZ",
+    "edit-time": 1613376190814,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
