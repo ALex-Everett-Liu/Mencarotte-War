@@ -22,6 +22,7 @@
                 - {{[[TODO]]}} 曹保明（民俗向）、尹世超（方言向）两位学者在80~90年代为[东北传统文化](https://www.zhihu.com/question/37197096/answer/1703100578)做出了巨大贡献。 -- [林怀谷](https://www.zhihu.com/people/lin-xiao-63-71) (作者) 回复 [Shookspeare](https://www.zhihu.com/people/yibai-ju)
                 - {{[[TODO]]}} 剑桥中国史-辽西夏金元
             - {{[[TODO]]}} 美元 还是比特币 选哪个 -- 区块链 比特币 入门教程
+            - {{[[TODO]]}} Nude Chinese Model : Uncensored Gallery [005](https://sxchinesegirlz.com/2020/01/15/nude-chinese-model-uncensored-gallery-005/)
             - {{[[TODO]]}} [best far-east mod](https://tieba.baidu.com/p/7088859455?pn=2)!
 另外图上虽然把统一新罗、渤海以及日本的男爵领也初步画了下，但是因为实在是找不到更细的划分，所以大概目前只能精确到这一程度。统一新罗应该更细一点，不过目前[没有找到][统一新罗]的[第二级行政区划]的[资料]。
 渤海国[目前能找到的]也只有[谭图]，即使把[所有能够确认的][聚落][画上去]也只有[图上这样的]水平。其实我也[不太清楚]渤海国的[发展水平][到底如何]，[光看资料的话]似乎远比后来的东北地区[繁荣得多]。
@@ -58,6 +59,8 @@ Completed after 4 days.
             - {{[[TODO]]}} [fulanhu](https://space.bilibili.com/891292)
                 - ■ 修对：芙兰狐 
             - {{[[TODO]]}} Wayback Machine
+            - {{[[TODO]]}} [Chinese Beautiful Model](https://www.xvideos.com/video58111881/chinese_beautiful_model)
+            - {{[[TODO]]}} Beautiful Asian model [gets some D](https://www.xvideos.com/video53750247/beautiful_asian_model_gets_some_d)
             - game
                 - {{[[TODO]]}} [Diius mod](https://bbs.52pcgame.net/forum.php?mod=viewthread&tid=356830) **男人國與女人國**
                 - {{[[TODO]]}} 十字军之王/CK3 中国MOD 三国MOD [龙战三国](https://www.bilibili.com/video/BV1tt4y167fW) 
@@ -69,6 +72,7 @@ Completed after 4 days.
             - {{[[TODO]]}} roam/css; js; roam page or block attribute; score; temp; meiz/crr; adding figs; 
             - {{[[TODO]]}} 很多人把比特币看作数字黄金，但比特币有比黄金更好的[储值价值](https://www.zhihu.com/question/425743358/answer/1725416912)，在未来[全球社会][越来越不稳定]的[大前提]下，比特币是比黄金更好的[储值资产]，因为它[好转移]且[难以监管]（蒋介石当年[用飞机][拉走几十吨黄金]，他能拉走，绝大多数人不行）。
                 - 这是我认为的比特币的[基本面]，它不仅是一种你希望别人以[更高价格]买走的资产，它有其他价值，这些价值在[乱世][非常有用]。
+            - {{[[TODO]]}} vpn in GitHub, Twitter, Reddit, Telegram, Discord...
         - detail point 99.99 (pt10-99.99)
             - {{[[TODO]]}} [vlog 008](https://www.bilibili.com/video/BV1xJ411X7qA) 探访哈工大食堂
                 - [VLOG 04](https://www.bilibili.com/video/BV114411274h) 实习小总结+到达哈尔滨
@@ -107,6 +111,7 @@ Completed after 4 days.
             - {{[[TODO]]}} 刷杯子 海绵
             - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～[唠嗑群](https://space.bilibili.com/2378703)574182082 -- 不许跑，我看到你了！O皿O
             - {{[[TODO]]}} 在其他任何 Windows 系统上，使用 Windows+R 调出运行命令，输入 \\192.168.0.109，点击确定，如果让你[输入凭据]，这个凭据就是你[正在使用的][这台电脑]的[帐户名]以及密码。最后[即可找到]我们刚刚[共享的盘符](https://zhuanlan.zhihu.com/p/43391739)。
+            - Best Sexy Girl Show Your Body At Home - [Part 6](https://www.xvideos.com/video53259667/best_sexy_girl_show_your_body_at_home_-_part_6)
             - [zvb](https://youtu.be/8e_6M94LAxE) 敲击、抓挠 随机物品 [无人声](https://www.bilibili.com/video/BV1pe411p7GP)
                 - 【[zvb_助眠](https://www.bilibili.com/video/BV1554y1s7Z2)】1分钟100个物品触发音！/ [100 triggers in 1 minute](https://www.youtube.com/watch?v=CKwtrVzbYbY)
             - 【[Comfy](https://www.bilibili.com/video/BV1bt411w7Hb)】在房间里进行随机敲击/触发/无底噪/本子/笔/化妆品护肤品 [Tapping Around In My Room](https://youtu.be/oPHQzmXGrtM) 
@@ -115,6 +120,7 @@ pgb: 17m
         -  detail point 99.98 (pt10-99.98)
             {{[[TODO]]}} 博得之门3[创建人物]法师的[剧情流程](https://www.bilibili.com/video/BV1A54y1s7ty)解说1-7
 pgb: 15m
+            Sweety Chinese Nude Model [Hanna](https://www.xvideos.com/video35472517/sweety_chinese_nude_model_hanna_with_sexy_pantyhose) with Sexy Pantyhose
             tech...
                 - {{[[TODO]]}} [xcolor](https://blog.csdn.net/u014546828/article/details/104046713) 默认颜色只有19种，使用时可以在option中加入另外3张颜色表来极大扩充颜色库。
                     - https://www.jianshu.com/p/5aee7c366369
@@ -137,6 +143,7 @@ page attribute -- roam
         - detail point 99.97 (pt10-99.97)
             - 272部 剑桥史系 [pdf 下载](https://bbs.northdy.com/thread-733963-1-1.html)
             - **信息素的信息** [bilibili](https://space.bilibili.com/44412187)
+            - Chinese Nude Model Xiao Lu [小露](https://www.xvideos.com/video49864969/chinese_nude_model_xiao_lu_) -- tw
         - detail point 99.96 (pt10-99.96)
             [冰点文库下载器](https://zhuanlan.zhihu.com/p/335965748)可以下载百度文库，豆丁，畅享网，mbalib，hp009，mab.book118 等文库文档且无需积分，无需注册和登录。生成pdf格式文档 ，只要把文档页面的网址复制到冰点文库下载器的输入框内，即可生成PDF文件，也可导出word文档。
     - level 9
