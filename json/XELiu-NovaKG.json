@@ -2492,7 +2492,7 @@
                     }
                   },
                   {
-                    "string": "十七世纪中俄关系 -- 感觉[俄军]对清初的清军[评价还可以](https://bbs.northdy.com/thread-920574-1-1.html)啊 | 按照俄国人的记录，清军完全可以说是[火器时代]的军队了",
+                    "string": "十七世纪俄中关系 -- 感觉[俄军]对清初的清军[评价还可以](https://bbs.northdy.com/thread-920574-1-1.html)啊 | 按照俄国人的记录，清军完全可以说是[火器时代]的军队了",
                     "create-time": 1613374096768,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -2512,7 +2512,7 @@
                       }
                     ],
                     "uid": "AE4So39-a",
-                    "edit-time": 1613392697229,
+                    "edit-time": 1613405168153,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -30500,6 +30500,7 @@
       {
         "string": "In two dimensions",
         "create-time": 1613386660273,
+        "heading": 3,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -30532,6 +30533,133 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "In three dimensions",
+        "create-time": 1613405680580,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1613405795656,
+            "children": [
+              {
+                "string": "[A symmetrical urn] and its [mirror image](https://en.wikipedia.org/wiki/File:Mirror.jpg) 瓮, 缸, 坛",
+                "create-time": 1613406134118,
+                "uid": "Y2CuvTYZ9",
+                "edit-time": 1613406215395,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ho-TFcaHh"
+              },
+              {
+                "uid": "zkTpfXiD2"
+              },
+              {
+                "uid": "guVCjasO3"
+              }
+            ],
+            "uid": "z6pG1-e7f",
+            ":block/refs": [
+              {
+                ":block/uid": "ho-TFcaHh"
+              },
+              {
+                ":block/uid": "zkTpfXiD2"
+              },
+              {
+                ":block/uid": "guVCjasO3"
+              }
+            ],
+            "string": "The concept of reflection [can be extended to] [[three-dimensional object]]s, including the [inside parts], even if they are not [[transparent]]. The term then relates to [structural aspects] as well as [visual aspects]. A three-dimensional object is reversed [in the direction perpendicular to] the mirror surface. In physics, mirror images are [investigated in the subject] called [[geometrical optics]].",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1613405693825,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "In chemistry, two versions ([[isomer]]s) of a [[molecule]], one a \"mirror image\" of the other, are called [[enantiomer]]s if they are not \"[[superposable]]\" 可叠合, 置于上面 (the correct [[technical term]], though the term \"superimposable\" is also used) on each other. That is an example of [chirality (chemistry)]([[chirality]]). In general, [an object and its mirror image] are called enantiomorphs. 对映异构体",
+            "create-time": 1613405680953,
+            ":block/refs": [
+              {
+                ":block/uid": "42Im9Bg_Q"
+              },
+              {
+                ":block/uid": "pS_4Csy5m"
+              },
+              {
+                ":block/uid": "5HYy4uCcY"
+              },
+              {
+                ":block/uid": "tYuE547QR"
+              },
+              {
+                ":block/uid": "AXtMnry3p"
+              },
+              {
+                ":block/uid": "YnCTNrEAy"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "42Im9Bg_Q"
+              },
+              {
+                "uid": "pS_4Csy5m"
+              },
+              {
+                "uid": "5HYy4uCcY"
+              },
+              {
+                "uid": "tYuE547QR"
+              },
+              {
+                "uid": "AXtMnry3p"
+              },
+              {
+                "uid": "YnCTNrEAy"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "SgrdCYIaL",
+            "edit-time": 1613406074468,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "If a point of an object has coordinates (__x__, __y__, __z__) then the image of this point (as reflected by a mirror in the __y__, __z__ plane) has coordinates (-__x__, __y__, __z__). Thus reflection is a reversal of the coordinate axis perpendicular (normal) to the mirror's surface. Although a plane mirror reverses an object only in the direction normal to the mirror surface, there is usually a perception of a left-right reversal. Hence, the reversal is called \"lateral inversion\". The perception of a left-right reversal is probably because the left and right of an object are defined by its perceived top and front, but there is still some debate about the explanation amongst psychologists. The psychology of the perceived left-right reversal is discussed in \"Much ado about mirrors\" by Professor Michael Corballis (see \"external links\", below).",
+            "create-time": 1613406105768,
+            "uid": "fjwbZcxaG",
+            "edit-time": 1613406114250,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "F9gN_4yyl",
+        "edit-time": 1613405680961,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "wSoBcpGlZ",
@@ -30551,13 +30679,61 @@
         "edit-time": 1613396970118,
         "children": [
           {
-            "string": "Two-dimensional mirror images can be seen in the reflections of mirrors or other reflecting surfaces, or on a printed surface seen inside-out. If we first look at an object that is effectively two-dimensional (such as the writing on a card) and then turn the card to face a mirror, the object turns through an angle of 180º and we see a left-right reversal in the mirror. In this example, it is the change in orientation rather than the mirror itself that causes the observed reversal. Another example is when we stand with our backs to the mirror and face an object that's in front of the mirror. Then we compare the object with its reflection by turning ourselves 180º, towards the mirror. Again we perceive a left-right reversal due to a change in our orientation. So, in these examples the mirror does not actually cause the observed reversals.",
-            "create-time": 1613396983026,
-            "uid": "2bXsKqJRr",
-            "edit-time": 1613396983778,
+            "edit-time": 1613404540342,
+            "children": [
+              {
+                "string": "Another example is when we [stand with our backs to the mirror] 背对着镜子站着 and [face an object] that's [in front of the mirror]. Then we [compare the object with its reflection] by [turning ourselves 180º], towards the mirror. Again we [perceive a left-right reversal] due to [a change in our orientation]. So, in these examples the mirror does not actually [cause the observed reversals].",
+                "create-time": 1613396983026,
+                "uid": "2bXsKqJRr",
+                "edit-time": 1613405399618,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vzG-yTEuO"
+              },
+              {
+                "uid": "wmjRDefTG"
+              },
+              {
+                "uid": "OdEsN4x-0"
+              },
+              {
+                "uid": "8U0Q0WySo"
+              },
+              {
+                "uid": "grM4JtjT2"
+              }
+            ],
+            "uid": "s8WPP9IZE",
+            ":block/refs": [
+              {
+                ":block/uid": "vzG-yTEuO"
+              },
+              {
+                ":block/uid": "wmjRDefTG"
+              },
+              {
+                ":block/uid": "OdEsN4x-0"
+              },
+              {
+                ":block/uid": "8U0Q0WySo"
+              },
+              {
+                ":block/uid": "grM4JtjT2"
+              }
+            ],
+            "string": "[Two-dimensional mirror images] can be seen in [the reflections of mirrors]([[mirror reflection]]) or other [[reflecting surface]]s, or on a [[printed surface]] [seen inside-out]. If we first [look at an object] that is [effectively two-dimensional] (such as the [writing on a card]) and then [turn the card to] [face a mirror], the object [turns through an angle of 180º] and we see a [[left-right reversal]] in the mirror. In this example, it is the change in [[orientation]] rather than the mirror itself that causes the [observed reversal]. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "create-time": 1613404540342,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -30869,6 +31045,174 @@
     "title": "parity transformation",
     "uid": "kk10jIzmL",
     "edit-time": 1613396970123,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613404156492,
+    "title": "reflecting surface",
+    "uid": "vzG-yTEuO",
+    "edit-time": 1613404156493,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613404182212,
+    "title": "mirror reflection",
+    "uid": "wmjRDefTG",
+    "edit-time": 1613404182220,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613404230933,
+    "title": "printed surface",
+    "uid": "OdEsN4x-0",
+    "edit-time": 1613404230936,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613404495677,
+    "title": "left-right reversal",
+    "uid": "8U0Q0WySo",
+    "edit-time": 1613404495690,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613404495677,
+    "title": "orientation",
+    "uid": "grM4JtjT2",
+    "edit-time": 1613404495690,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405711912,
+    "title": "three-dimensional object",
+    "uid": "ho-TFcaHh",
+    "edit-time": 1613405711921,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405723334,
+    "title": "transparent",
+    "uid": "zkTpfXiD2",
+    "edit-time": 1613405723335,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405764330,
+    "title": "geometrical optics",
+    "uid": "guVCjasO3",
+    "edit-time": 1613405764331,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405883029,
+    "title": "technical term",
+    "uid": "42Im9Bg_Q",
+    "edit-time": 1613405883029,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405920207,
+    "title": "chirality",
+    "uid": "pS_4Csy5m",
+    "edit-time": 1613405920208,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405945646,
+    "title": "enantiomer",
+    "uid": "5HYy4uCcY",
+    "edit-time": 1613405945647,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405964689,
+    "title": "isomer",
+    "uid": "tYuE547QR",
+    "edit-time": 1613405964690,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613405964689,
+    "title": "molecule",
+    "uid": "AXtMnry3p",
+    "edit-time": 1613405964690,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613406005339,
+    "title": "superposable",
+    "uid": "YnCTNrEAy",
+    "edit-time": 1613406005342,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
