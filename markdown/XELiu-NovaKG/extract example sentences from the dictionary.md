@@ -11,6 +11,8 @@
         - ---
         - I [won six tricks] in a row. 接连赢了六墩牌 | 成一排; 连续
         - He [retired twelve batters] in a row. 一连使十二个击球手出局
+    - www.[[ibm]].com
+        - [Changes in one view] are translated to the [other view]([[view]]) [if possible]. 视图 
     - provided by [[jukuu]] / www.jukuu.com 
         - It may seem silly now, but it illustrates [a very powerful point]: A good [[user interface (UI)]] enables users to move in an ad hoc, [piecemeal fashion] 特定方式; 逐步 [[from beginner to expert]]. 
         - For what it's worth, 也许这不算什么 I'm [getting out of the business]. 换工作
@@ -29,8 +31,14 @@
     - dict.[[cnki]].net
         - [Ray tracing] is a [classic method] in [synthesizing photorealistic image], It can [accurately simulate] the [lighting effect] 光照效果 of [the whole scene]. 景物 
         - Made the use of [shading model] we realized [the lighting of the scene], and made the use of the [environment texturing mapping] we realized the [sky box], and Mip-maping we realized [the rendering of the 3D terrain], which gave us the [ideal effect]. 
+        - [Sea-sky division line] and [target potential area] are determined through detecting horizontal edge and [[vertical edge]]s 边缘 of an image.
+        - With the [special ability] provided by [factorization model], 因素分解模型 a [test face] [can be translated into] [old views] contained in [training faces], and training faces [can also be translated into] [new view] of the test face.
         - ---
     - temp
         - This is [my humble opinion], 一得之愚 for what it's worth. 仅供参考 百度翻译例句库
         - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
+        - ---
+        - [Two vertical edges] of the [utility model] are overlapped and [welded up or glued] 焊封或胶粘 to form a [main channel] and an [assistant channel]. | laji | ip.com
+        - Two vertical edges of the same [U-shaped vice module] 挂线副模 for [hanging wire] are positioned in the same [radial direction] of the [ring-shaped slot]. 
+        - ---
 - classified by keyword 

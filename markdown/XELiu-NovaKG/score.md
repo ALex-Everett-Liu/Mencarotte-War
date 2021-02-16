@@ -74,6 +74,7 @@ Completed after 4 days.
                 - 这是我认为的比特币的[基本面]，它不仅是一种你希望别人以[更高价格]买走的资产，它有其他价值，这些价值在[乱世][非常有用]。
             - {{[[TODO]]}} vpn in GitHub, Twitter, Reddit, Telegram, Discord...
         - detail point 99.99 (pt10-99.99)
+            - {{[[TODO]]}} **采蘑菇的小芋艿** -- 心中有丘壑，眉目做山河 -- 【[新手助眠](https://space.bilibili.com/438127416/dynamic)】
             - {{[[TODO]]}} [vlog 008](https://www.bilibili.com/video/BV1xJ411X7qA) 探访哈工大食堂
                 - [VLOG 04](https://www.bilibili.com/video/BV114411274h) 实习小总结+到达哈尔滨
             - history
