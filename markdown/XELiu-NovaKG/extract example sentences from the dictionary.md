@@ -13,9 +13,11 @@
         - He [retired twelve batters] in a row. 一连使十二个击球手出局
     - www.[[ibm]].com
         - [Changes in one view] are translated to the [other view]([[view]]) [if possible]. 视图 
-    - provided by [[jukuu]] / www.jukuu.com 
+    - provided by [[jukuu]] / www.jukuu.com
         - It may seem silly now, but it illustrates [a very powerful point]: A good [[user interface (UI)]] enables users to move in an ad hoc, [piecemeal fashion] 特定方式; 逐步 [[from beginner to expert]]. 
         - For what it's worth, 也许这不算什么 I'm [getting out of the business]. 换工作
+        - One [bearing a person's name] and other information, used for purposes of [[identification]] or [[classification]]. 个人名片 
+        - Relating to or constituting or bearing or [giving a name]. 产生或给与
         - ---
         - "And if one day you cry, will I [be able to hush you]? 陪伴你的身旁"
         - You [have been with me] [all through the bad times]([[bad times]]). 
@@ -26,6 +28,8 @@
         - And if one day you cry, will I [be able to hush you]? 陪伴你的身旁
         - Till I am [by your side]. 
         - ---
+    - [iask.sina].com.cn
+        - This was the first of many the [Committee actions] 委员会 [addressing the issues of] [ethnic profiling] 民族概况 and [equal treatment] under the law that helped [galvanize Asian Americans] 激励 and [alter public opinion]. 改变民意 
     - www.[[chinadaily]].com.cn
         - With [a plethora of choices] available, [[quality]] and [[branding]] are often [the key to success] in an [increasingly crowded]([[crowded]]) [[marketplace]]. 日益拥挤的市场
     - dict.[[cnki]].net
@@ -34,9 +38,17 @@
         - [Sea-sky division line] and [target potential area] are determined through detecting horizontal edge and [[vertical edge]]s 边缘 of an image.
         - With the [special ability] provided by [factorization model], 因素分解模型 a [test face] [can be translated into] [old views] contained in [training faces], and training faces [can also be translated into] [new view] of the test face.
         - ---
+        - If two products are of the same or [similar quality], consumers will tend to buy the one [bearing a good brand name].
+        - Targeted to addressing the issues that [most small and medium sized companies] will face during the establishment of an [ISO 9001:2000 quality management system], the author has [studied and practiced] in this domain extensively.
+    - www.[[dictall]].com
+        - [Branded merchandise] [品牌商品] is that [bearing a standard brand name]. 
+    - www.[fabiao].net
+        - The system [shows promising results] towards [addressing the issues] that were identified as [preventing semantic data reuse] by [Web Engineers]. 
+        - The fourth part is the suggestions for improving our [labor dispatching system]. 劳务派遣制度 Hence, [based on the above analysis] it further [puts forward the solution] in [addressing the issues].
     - temp
         - This is [my humble opinion], 一得之愚 for what it's worth. 仅供参考 百度翻译例句库
         - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
+        - HFMD 口蹄症 is different from an [unrelated condition] [bearing a similar name], the [Foot-and-mouth disease (FMD)], 手足口病 which is another [contagious viral disease] 具有高度传染性的 of [cattle and swine]. 牛和猪 www.[spatioepi].com
         - ---
         - [Two vertical edges] of the [utility model] are overlapped and [welded up or glued] 焊封或胶粘 to form a [main channel] and an [assistant channel]. | laji | ip.com
         - Two vertical edges of the same [U-shaped vice module] 挂线副模 for [hanging wire] are positioned in the same [radial direction] of the [ring-shaped slot]. 
