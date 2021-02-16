@@ -1,0 +1,7 @@
+- dictionary 
+    - [[WordNet]]: vision involving [the use of both eyes]
+    - [The research and analysis of] 75 [college students] on [binocular vision function]. 机能 dict.[cnki].net
+    - Application of [Binocular Vision System] in [Nuclear Power Plant] 
+    - [Design and Implementation of] [3D Laser Measurement System] Based on Binocular Vision. www.[dictall].com
+    - Research of the [Detection System] of the [Pulse Image Information] Based on Binocular Vision 
+    - The Design of [Object tracking robot] based on the Binocular vision 

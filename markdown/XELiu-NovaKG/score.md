@@ -162,6 +162,8 @@ page attribute -- roam
             - [剪辑软件](https://space.bilibili.com/13329396)： Vegas 13 pro
 录制软件： OBS
 AE 始终不会用
+            - [veracrypt](https://www.yuque.com/deerain/gannbs/yt53ob) 我使用了一下，对于稍微喜欢[折腾一点]的人很适合，也很有成就感和安全感（毕竟需要好一套[骚操作]和专门看一看网上的[操作教程]）。
+                - cryptomator 也很不错，易用，对于[小白用户]友好。毕竟需要[云加密]的用户就那么多，这波用户中想不折腾的也占多数。该软件能将[源文件]分解成[密码文件]就已经达到绝大多数人的需求。[易用性]更被大家所关心。
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
         - detail point 99.97 (pt9-99.97)

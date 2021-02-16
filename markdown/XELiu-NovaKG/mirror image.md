@@ -8,3 +8,15 @@
     - In the case of two [[parallel mirrors]], [looking through both at once] is like [looking at a version of the world which] is translated by [twice the distance] between the mirrors, in the direction perpendicular to them, away from the [[observer]]. Since [the plane of the mirror]([[mirror plane]]) in which [one looks directly] is beyond that of [the other mirror], one always looks at an [[oblique angle]], and the [[translation]] [just mentioned] has not only a [[component]] [away from the observer], but also one in a [[perpendicular direction]]. 
         - The [[translated view]] [can also be described by] a translation of the observer in [[opposite direction]]. For example, with a [[vertical periscope]], [the shift of the world]([[shift]]) is [away from the observer] and down, both by [the length of the periscope], but [it is more practical to consider] the [[equivalent shift]] of the observer: up, and backward.
     - [It is also possible to] create a [[non-reversing mirror]] by placing two [[first surface mirror]]s at 90º to [give an image]([[image]]) [which is not reversed].
+- See also
+    - [Anamorphosis]
+    - [Chirality](https://en.wikipedia.org/wiki/Chirality), a property of [[asymmetry]] important in [several branches of science]
+- References
+    - [1]: Adams, Cecil (1985-09-27). "Are dogs unable to see [2-D images] [(mirrors, photos, TV)?"](http://www.straightdope.com/classics/a2_071b.html). [The Straight Dope]. Retrieved 2008-01-31.
+- External links
+    - Why do mirrors [reverse images left to right](https://web.archive.org/web/20100206121909/http://www.d7s.com/mirror.htm)? Why not [up and down]?
+    - [The same question explained a little differently, with examples](http://amoebacrunch.blogspot.com/2008/04/fun-with-mirror-images.html)
+    - [Why do mirrors flip horizontally (but not vertically)?](https://www.youtube.com/watch?v=vBpxhfBlVLU)
+    - ["Much ado about mirrors"](https://link.springer.com/article/10.3758%2FBF03210736) (an [academic paper] about the psychology involved in [the perception of mirror images])
+    - [Wikimedia Commons] has [media related to] [Symmetric images](https://commons.wikimedia.org/wiki/Category:Symmetric_images).
+- Categories: [[elementary geometry]] | Chirality
