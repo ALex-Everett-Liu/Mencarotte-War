@@ -166,6 +166,9 @@ page attribute -- roam
 AE 始终不会用
             - [veracrypt](https://www.yuque.com/deerain/gannbs/yt53ob) 我使用了一下，对于稍微喜欢[折腾一点]的人很适合，也很有成就感和安全感（毕竟需要好一套[骚操作]和专门看一看网上的[操作教程]）。
                 - cryptomator 也很不错，易用，对于[小白用户]友好。毕竟需要[云加密]的用户就那么多，这波用户中想不折腾的也占多数。该软件能将[源文件]分解成[密码文件]就已经达到绝大多数人的需求。[易用性]更被大家所关心。
+        - detail point 99.99 (pt9-99.99)
+            - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
+纳垢可以去222层蹭饭，色孽去570找魅魔女王。
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
         - detail point 99.97 (pt9-99.97)
@@ -174,6 +177,7 @@ AE 始终不会用
             - 小容量的FAT32，大容量的NTFS，不要考虑 [exFat](https://zhuanlan.zhihu.com/p/86116170)。原因很简单：1、exFAT丢文件、丢文件、丢文件；2、exFAT 兼容性，尤其插手机、电视机；3、exFAT 要授权，比如插NAS
     - level 8
         - detail point 99.99 (pt8-99.99)
+            - {{[[TODO]]}} 有没有[听asmr](https://bbs.saraba1st.com/2b/thread-1987984-1-1.html)的耳机推荐？
             - 大宋风华/圣者晨雷 (yousuu/43034)
         - detail point 99.97 (pt8-99.97)
             - 你的想法很好，我也很想实现你的想法，但是我觉着很困难，因为在线的网站播放视频，视频由别人控制，如果资源失效那么学习笔记也就没了，所以我推荐学习的时候就用[本地视频](https://www.bilibili.com/video/BV13K4y1n7fg)（b站视频的下载，可以在win中的 [Microsoft 商店]中下载 [bilibili win10 特制版]，然后就能直接用客户端下载到电脑上，而且视频不加密，无水印，可以直接学习）
