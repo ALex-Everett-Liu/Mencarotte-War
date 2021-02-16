@@ -2,3 +2,4 @@
     - [[Mount Hood]] [reflected in](https://en.wikipedia.org/wiki/File:Mount_Hood_reflected_in_Mirror_Lake,_Oregon.jpg) [[Mirror Lake]] water.
 - This article includes [a list of](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources) [[general reference]]s, but it [remains largely unverified]([[unverified]]) because **it lacks sufficient corresponding** [[inline citation]]s. Please help to [improve](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check) this article by [introducing](https://en.wikipedia.org/wiki/Wikipedia:When_to_cite) [more precise citations]. __(June 2017)____ ([Learn how and when to] remove this [template message])__ #[[citing source]] #[[reference check]]
 - [[mirror image in geometry and geometrical optics]]
+- __Main article: __[[mirror writing]]

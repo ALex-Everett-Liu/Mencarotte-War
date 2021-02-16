@@ -9417,18 +9417,30 @@
             "heading": 3,
             "children": [
               {
-                "string": "（YouTube本人投稿動画説明欄より転載・ルビ編集）",
+                "string": "（YouTube[本人投稿][動画説明欄]より転載・ルビ編集）",
                 "uid": "E1L023xAz",
-                "edit-time": 1612060881556,
+                "edit-time": 1613437181112,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               },
               {
-                "string": "燦然さんぜんと輝く街の灯り\n対照的な僕を見下ろす\nあのビルの間あいだを抜けて\n色付き出したネオンと混じって\n僕の時間とこの世界をトレード\n夜に沈む\n\n終電で家路いえじを辿る僕の\n目に映るガラス窓に居たのは\n夢見た自分じゃなくて\n今にも泣き出してしまいそうな\n暗闇の中独りただ迷っている\n哀しい人\n\n大丈夫、いつか大丈夫になる\nなんて思う日々を幾つ重ねた\n今日だって独り東京の景色に透ける僕は\n幽霊みたいだ\n\n失うことに慣れていく中で\n忘れてしまったあの願いさえも\n思い出した時に\n涙が落ちたのは\nこの街がただ\n余りにも眩しいから\n\n",
+                "string": "燦然さんぜんと輝く街の灯り\n対照的な僕を見下ろす\nあのビルの間あいだを抜けて\n色付き出したネオンと混じって\n僕の時間とこの世界をトレード\n夜に沈む\n\n",
+                "create-time": 1613437203461,
+                "uid": "4ta4dlXkb",
+                "edit-time": 1613437203461,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "終電で家路いえじを辿る僕の\n目に映るガラス窓に居たのは\n夢見た自分じゃなくて\n今にも泣き出してしまいそうな\n暗闇の中独りただ迷っている\n哀しい人\n\n大丈夫、いつか大丈夫になる\nなんて思う日々を幾つ重ねた\n今日だって独り東京の景色に透ける僕は\n幽霊みたいだ\n\n失うことに慣れていく中で\n忘れてしまったあの願いさえも\n思い出した時に\n涙が落ちたのは\nこの街がただ\n余りにも眩しいから\n\n",
                 "create-time": 1612061326393,
                 "uid": "K3Rl1MnjN",
-                "edit-time": 1612061326393,
+                "edit-time": 1613437203474,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -16778,6 +16790,66 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "create-time": 1613134713892,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1613434579177,
+            "children": [
+              {
+                "string": "[Ray tracing] is a [classic method] in [synthesizing photorealistic image], It can [accurately simulate] the [lighting effect] 光照效果 of [the whole scene]. 景物 ",
+                "create-time": 1613434584278,
+                "uid": "L7LNiwHFR",
+                "edit-time": 1613434613978,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Made the use of [shading model] we realized [the lighting of the scene], and made the use of the [environment texturing mapping] we realized the [sky box], and Mip-maping we realized [the rendering of the 3D terrain], which gave us the [ideal effect]. ",
+                "create-time": 1613434584278,
+                "uid": "KYepNzyac",
+                "edit-time": 1613434638423,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "---",
+                "create-time": 1613434590364,
+                "uid": "xY-KyTMXK",
+                "edit-time": 1613434591616,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lnpFs-9pl"
+              }
+            ],
+            "uid": "x734hgnOL",
+            ":block/refs": [
+              {
+                ":block/uid": "lnpFs-9pl"
+              }
+            ],
+            "string": "dict.[[cnki]].net",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1613434561485,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -30242,6 +30314,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "__Main article: __[[mirror writing]]",
+        "create-time": 1613435632185,
+        ":block/refs": [
+          {
+            ":block/uid": "jJpDgaaY8"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "jJpDgaaY8"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "U1pIgxwHR",
+        "edit-time": 1613435640387,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "NJuOjs2pl",
@@ -30500,7 +30594,7 @@
       {
         "string": "In two dimensions",
         "create-time": 1613386660273,
-        "heading": 3,
+        "heading": 2,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -30537,7 +30631,7 @@
       {
         "string": "In three dimensions",
         "create-time": 1613405680580,
-        "heading": 3,
+        "heading": 2,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -30643,16 +30737,199 @@
             }
           },
           {
-            "string": "If a point of an object has coordinates (__x__, __y__, __z__) then the image of this point (as reflected by a mirror in the __y__, __z__ plane) has coordinates (-__x__, __y__, __z__). Thus reflection is a reversal of the coordinate axis perpendicular (normal) to the mirror's surface. Although a plane mirror reverses an object only in the direction normal to the mirror surface, there is usually a perception of a left-right reversal. Hence, the reversal is called \"lateral inversion\". The perception of a left-right reversal is probably because the left and right of an object are defined by its perceived top and front, but there is still some debate about the explanation amongst psychologists. The psychology of the perceived left-right reversal is discussed in \"Much ado about mirrors\" by Professor Michael Corballis (see \"external links\", below).",
-            "create-time": 1613406105768,
-            "uid": "fjwbZcxaG",
-            "edit-time": 1613406114250,
+            "edit-time": 1613433347777,
+            "children": [
+              {
+                "string": "The perception of a left-right reversal is probably because [the left and right of an object] are defined by its [perceived top and front], but [there is still some debate about]([[debate]]) the explanation amongst [[psychologist]]s. [The psychology of] the perceived left-right reversal is discussed in \"Much ado about mirrors\" by [Professor Michael Corballis] (see \"external links\", below).",
+                "create-time": 1613406105768,
+                ":block/refs": [
+                  {
+                    ":block/uid": "r09Wi2jl4"
+                  },
+                  {
+                    ":block/uid": "kwvUputSv"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "r09Wi2jl4"
+                  },
+                  {
+                    "uid": "kwvUputSv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "fjwbZcxaG",
+                "edit-time": 1613433347790,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8U0Q0WySo"
+              },
+              {
+                "uid": "XllOdtbNP"
+              },
+              {
+                "uid": "qCszaPl7l"
+              },
+              {
+                "uid": "RYFh5BkQ-"
+              },
+              {
+                "uid": "yzQuOleIK"
+              },
+              {
+                "uid": "4x1lxo7lk"
+              },
+              {
+                "uid": "VwQjB1Cte"
+              }
+            ],
+            "uid": "46BZ-gCj0",
+            ":block/refs": [
+              {
+                ":block/uid": "8U0Q0WySo"
+              },
+              {
+                ":block/uid": "XllOdtbNP"
+              },
+              {
+                ":block/uid": "qCszaPl7l"
+              },
+              {
+                ":block/uid": "RYFh5BkQ-"
+              },
+              {
+                ":block/uid": "yzQuOleIK"
+              },
+              {
+                ":block/uid": "4x1lxo7lk"
+              },
+              {
+                ":block/uid": "VwQjB1Cte"
+              }
+            ],
+            "string": "If [a point of an object] has [[coordinate]]s (__x__, __y__, __z__) then the image of this point (as reflected by a mirror in the __y__, __z__ [[plane]]) has coordinates (-__x__, __y__, __z__). Thus reflection is [a reversal of] the [[coordinate axis]] [[perpendicular]] ([[normal]]) to [the mirror's surface]. Although a plane mirror [reverses an object] [only in the direction] [normal to the mirror surface], there is usually [a perception of] a [[left-right reversal]]. Hence, the reversal is called \"[[lateral inversion]]\". 横向倒置/反演/反转 ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "create-time": 1613433347777,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "edit-time": 1613434484726,
+            "children": [
+              {
+                "edit-time": 1613434876947,
+                "children": [
+                  {
+                    "string": "However, [the appearance of additional light] does not violate the [[conservation of energy]] principle, because some light [no longer reaches] [behind the mirror], as the mirror simply re-directs the [[light energy]]. In terms of the light distribution, the [[virtual mirror image]] [has the same appearance] and [the same effect as a real]([[real image]]), ^^[symmetrically arranged] [[half-space]] [behind a window] (instead of the mirror).^^ [[shadow]]s may [extend from the mirror into] [the halfspace before it], and vice versa.",
+                    "create-time": 1613433968249,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3zMxoHR9p"
+                      },
+                      {
+                        ":block/uid": "4h1zLPSqs"
+                      },
+                      {
+                        ":block/uid": "KNOvCzgWN"
+                      },
+                      {
+                        ":block/uid": "t7LyU9m8i"
+                      },
+                      {
+                        ":block/uid": "DyV5n8Tjm"
+                      },
+                      {
+                        ":block/uid": "Lab5kO38f"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "3zMxoHR9p"
+                      },
+                      {
+                        "uid": "4h1zLPSqs"
+                      },
+                      {
+                        "uid": "KNOvCzgWN"
+                      },
+                      {
+                        "uid": "t7LyU9m8i"
+                      },
+                      {
+                        "uid": "DyV5n8Tjm"
+                      },
+                      {
+                        "uid": "Lab5kO38f"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "hehaF-YiM",
+                    "edit-time": 1613434353329,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "YjrgXzyfU"
+                  },
+                  {
+                    "uid": "leL60j8OB"
+                  }
+                ],
+                "uid": "X4_rFcAe2",
+                ":block/refs": [
+                  {
+                    ":block/uid": "YjrgXzyfU"
+                  },
+                  {
+                    ":block/uid": "leL60j8OB"
+                  }
+                ],
+                "string": "A mirror does not just [produce an image] of what would be there without it; it also changes the [[light distribution]] [in the halfspace] [in front of and behind the mirror]. A mirror [hanging on the wall] [makes the room brighter] because [[additional light source]]s [appear in the mirror image]. ",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1613434353320,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "moRcQ2MtU"
+              }
+            ],
+            "uid": "H1qSWPxp1",
+            ":block/refs": [
+              {
+                ":block/uid": "moRcQ2MtU"
+              }
+            ],
+            "string": "Effect of mirror on [[the lighting of the scene]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1613433967726,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "heading": 3
           }
         ],
         "uid": "F9gN_4yyl",
@@ -31213,6 +31490,590 @@
     "title": "superposable",
     "uid": "YnCTNrEAy",
     "edit-time": 1613406005342,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433090625,
+    "title": "coordinate",
+    "uid": "XllOdtbNP",
+    "edit-time": 1613433090627,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433090625,
+    "title": "plane",
+    "uid": "qCszaPl7l",
+    "edit-time": 1613433090627,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433134212,
+    "title": "coordinate axis",
+    "uid": "RYFh5BkQ-",
+    "edit-time": 1613433134215,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433134212,
+    "title": "perpendicular",
+    "uid": "yzQuOleIK",
+    "edit-time": 1613433134215,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433134212,
+    "title": "normal",
+    "uid": "4x1lxo7lk",
+    "edit-time": 1613433134215,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433203768,
+    "title": "lateral inversion",
+    "uid": "VwQjB1Cte",
+    "edit-time": 1613433203779,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433274897,
+    "title": "psychologist",
+    "uid": "r09Wi2jl4",
+    "edit-time": 1613433274899,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613433282722,
+    "title": "debate",
+    "uid": "kwvUputSv",
+    "edit-time": 1613433282723,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434061775,
+    "title": "light distribution",
+    "uid": "YjrgXzyfU",
+    "edit-time": 1613434061784,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434166528,
+    "title": "conservation of energy",
+    "uid": "3zMxoHR9p",
+    "edit-time": 1613434166529,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434227713,
+    "title": "light energy",
+    "uid": "4h1zLPSqs",
+    "edit-time": 1613434227714,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434265000,
+    "title": "virtual mirror image",
+    "uid": "KNOvCzgWN",
+    "edit-time": 1613434265001,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434278781,
+    "title": "real image",
+    "uid": "t7LyU9m8i",
+    "edit-time": 1613434278783,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434319757,
+    "title": "half-space",
+    "uid": "DyV5n8Tjm",
+    "edit-time": 1613434319759,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434347543,
+    "title": "shadow",
+    "uid": "Lab5kO38f",
+    "edit-time": 1613434347544,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434484729,
+    "title": "the lighting of the scene",
+    "uid": "moRcQ2MtU",
+    "edit-time": 1613434484730,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434579180,
+    "title": "cnki",
+    "uid": "lnpFs-9pl",
+    "edit-time": 1613434579181,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613434874143,
+    "title": "additional light source",
+    "uid": "leL60j8OB",
+    "edit-time": 1613434874145,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435640389,
+    "title": "mirror writing",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1613436003975,
+        "children": [
+          {
+            "string": "The word \"FIRE\" and its [mirror image](https://en.wikipedia.org/wiki/File:Fire-mirror-image.jpg) are displayed [on the front of] this fire engine",
+            "create-time": 1613436036219,
+            "uid": "iUb0Ib1I-",
+            "edit-time": 1613436059515,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Yt16cVmBb"
+          },
+          {
+            "uid": "lok7awhq3"
+          },
+          {
+            "uid": "Gwl0nmMTs"
+          },
+          {
+            "uid": "rEnx0LvV_"
+          },
+          {
+            "uid": "CbEubtM7l"
+          },
+          {
+            "uid": "FxcIwyL3r"
+          },
+          {
+            "uid": "bKjRO1wAK"
+          },
+          {
+            "uid": "KszZfz7rp"
+          }
+        ],
+        "uid": "MSY0fSpwj",
+        ":block/refs": [
+          {
+            ":block/uid": "Yt16cVmBb"
+          },
+          {
+            ":block/uid": "lok7awhq3"
+          },
+          {
+            ":block/uid": "Gwl0nmMTs"
+          },
+          {
+            ":block/uid": "rEnx0LvV_"
+          },
+          {
+            ":block/uid": "CbEubtM7l"
+          },
+          {
+            ":block/uid": "FxcIwyL3r"
+          },
+          {
+            ":block/uid": "bKjRO1wAK"
+          },
+          {
+            ":block/uid": "KszZfz7rp"
+          }
+        ],
+        "string": "In mirror writing a text is deliberately [displayed in mirror image], in order to be [read through a mirror]. For example, [[emergency vehicle]]s 急救车辆 such as [[ambulance]]s or [[fire engine]]s 救护车或消防车 [use mirror images] in order to be read from a [[driver]]'s [[rear-view mirror]]. Some [[movie theater]]s also [take advantage of] mirror writing in a [[Rear Window Captioning System (RWC)]] 后窗字幕 used to [assist individuals with] [[hearing impairment]]s 有听力障碍/受损的人 [watching the film].",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1613435646909,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "jJpDgaaY8",
+    "edit-time": 1613435640390,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435794502,
+    "title": "driver",
+    "uid": "Yt16cVmBb",
+    "edit-time": 1613435794503,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435794502,
+    "title": "rear-view mirror",
+    "uid": "lok7awhq3",
+    "edit-time": 1613435794503,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435828690,
+    "title": "emergency vehicle",
+    "uid": "Gwl0nmMTs",
+    "edit-time": 1613435828691,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435828690,
+    "title": "ambulance",
+    "uid": "rEnx0LvV_",
+    "edit-time": 1613435828691,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435828690,
+    "title": "fire engine",
+    "uid": "CbEubtM7l",
+    "edit-time": 1613435828691,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435844280,
+    "title": "movie theater",
+    "uid": "FxcIwyL3r",
+    "edit-time": 1613435844282,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435917562,
+    "title": "hearing impairment",
+    "uid": "bKjRO1wAK",
+    "edit-time": 1613435917564,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613435988005,
+    "title": "Rear Window Captioning System (RWC)",
+    "uid": "KszZfz7rp",
+    "edit-time": 1613435988006,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613437641758,
+    "title": "public utility",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1613437648408,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1613437652460,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "The [Public Utilities Commission] 公共事业委员会 inspects us once a year. 视察",
+                "create-time": 1613437652460,
+                "uid": "ehy9_PjGZ",
+                "edit-time": 1613437663399,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Public utilities [dig up roads] to [lay pipes]. 挖路铺设管道",
+                "create-time": 1613437652460,
+                "uid": "7LsX68ErL",
+                "edit-time": 1613437748719,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "They've also [slashed state subsidies] 大幅削减 政府补贴 to utilities and [[transportation]]. ",
+                "create-time": 1613437652460,
+                ":block/refs": [
+                  {
+                    ":block/uid": "UGuq7IrNC"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "UGuq7IrNC"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "o-HNiNoH2",
+                "edit-time": 1613437757946,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "This will cause [further belt-tightening in] the [[public service]]s. 紧缩开支",
+                "create-time": 1613437652460,
+                ":block/refs": [
+                  {
+                    ":block/uid": "by7pG6krv"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "by7pG6krv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "HdrNP6CPD",
+                "edit-time": 1613437806588,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "One per cent of total [[public spending]] should eventually [go towards the arts].",
+                "create-time": 1613437652460,
+                ":block/refs": [
+                  {
+                    ":block/uid": "yIjMSHid-"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "yIjMSHid-"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "9HJAn8Dpi",
+                "edit-time": 1613437832728,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "jt99OOznF",
+            "edit-time": 1613437652464,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "QAlInmrYP",
+        "edit-time": 1613437650425,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "CH2DbfKw-",
+    "edit-time": 1613437641758,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613437757949,
+    "title": "transportation",
+    "uid": "UGuq7IrNC",
+    "edit-time": 1613437757950,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613437806591,
+    "title": "public service",
+    "uid": "by7pG6krv",
+    "edit-time": 1613437806592,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613437830665,
+    "title": "public spending",
+    "uid": "yIjMSHid-",
+    "edit-time": 1613437830666,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613438261534,
+    "title": "February 16th, 2021",
+    "uid": "02-16-2021",
+    "edit-time": 1613438261534,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
