@@ -2534,6 +2534,28 @@
                     }
                   },
                   {
+                    "string": "{{[[TODO]]}} [CJ木](https://space.bilibili.com/768041/dynamic)",
+                    "create-time": 1613573924481,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8KYEF6ETA"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "8KYEF6ETA"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "0LuBebBpN",
+                    "edit-time": 1613573935846,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）\n这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上",
                     "create-time": 1613309725764,
                     "uid": "bMbQU8FEZ",
@@ -2746,11 +2768,25 @@
                   {
                     "string": "**清华简《楚居》和史记《楚世家》矛盾挺大的** -- [安大简](https://bbs.northdy.com/thread-920725-1-1.html)说季连就是穴熊; 季连=穴熊=鬻熊",
                     "create-time": 1613553696086,
-                    "uid": "jz8AkUr2E",
-                    "edit-time": 1613553718800,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
+                    "children": [
+                      {
+                        "string": "《史记》把季连、穴熊、鬻熊[视作][不同的人]，而且[连成谱系]，可能是[汉代][才形成的观点]，战国时期的[楚人][未必这样认为]。",
+                        "create-time": 1613572766951,
+                        "uid": "MT64vnGfz",
+                        "edit-time": 1613572784531,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "jz8AkUr2E",
+                    "edit-time": 1613553718800,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -38830,7 +38866,7 @@
     },
     "children": [
       {
-        "string": "[吴晓杰]. 金代婆速府和来远城城址考辨[J]. [齐齐哈尔大学学报 (哲学社会科学版)]. [2017, (09)]",
+        "string": "[吴晓杰]. [金代]婆速府和来远城[城址][考辨][J]. [齐齐哈尔大学学报 (哲学社会科学版)]. [2017, (09)]",
         "create-time": 1613560879807,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -38873,10 +38909,46 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "作者简介: 吴晓杰(1995－)，男，河北大学宋史研究中心 [2016 级][中国古代史][专业][硕士研究生]。[主要从事][辽金史研究]。",
+            "create-time": 1613575641551,
+            "uid": "pPYxlvode",
+            "edit-time": 1613575662347,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[cnki](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=QQHD201709034&v=HfJDhjLU%25mmd2FVbrBlwToESer5hbVrdOG%25mmd2B3EExMRZe9oRicOvb0cZC%25mmd2FyxgWC9AA28j%25mmd2Fv); [baidu xueshu](https://xueshu.baidu.com/usercenter/paper/show?paperid=1d2d3bb12e72cc99e25d18b8284a4e47&site=xueshu_se&hitarticle=1)",
+            "create-time": 1613575750510,
+            "uid": "mb73mChKh",
+            "edit-time": 1613575995010,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "**【收　录】**[中文科技期刊数据库](http://www.cqvip.com/productor/pro_zk.shtml); [cqvip](http://www.cqvip.com/qk/96086x/201709/673261043.html)",
+            "create-time": 1613576059491,
+            "uid": "MeePTt-YP",
+            "edit-time": 1613576108200,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "assUCn98b",
-        "edit-time": 1613560955107,
+        "edit-time": 1613572863565,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -38899,6 +38971,32 @@
         },
         "uid": "6ggiYXaLr",
         "edit-time": 1613561140935,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "related articles",
+        "create-time": 1613575788869,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "高兴东, 佟强. 凤凰山山城历史沿革有关问题[J]. [辽宁省博物馆][馆刊]. 2019,(00)",
+            "create-time": 1613575802932,
+            "uid": "LLbCP34vD",
+            "edit-time": 1613575883900,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Vl8AmTn-I",
+        "edit-time": 1613575802938,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }

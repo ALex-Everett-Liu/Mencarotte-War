@@ -152,6 +152,7 @@ page attribute -- roam
     - level 9
         - detail point 100 (pt9-100)
             - {{[[TODO]]}} [中石大][本科生]-哈工大研究生—2020[年度总结](https://www.bilibili.com/video/BV1ni4y1c7KG) -- dl
+            - {{[[TODO]]}} [CJ木](https://space.bilibili.com/768041/dynamic)
             - 这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）
 这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
             - [如果说有谁][通敌](https://www.zhihu.com/question/311589547/answer/1167977280)的，[那也只能是][此期间]与[后金][书信往来]，亲热无比，配合[绞杀]毛文龙[东江军]的袁崇焕，而不可能是被后金[视作仇敌]的毛文龙。
@@ -173,6 +174,7 @@ AE 始终不会用
             - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
             - **清华简《楚居》和史记《楚世家》矛盾挺大的** -- [安大简](https://bbs.northdy.com/thread-920725-1-1.html)说季连就是穴熊; 季连=穴熊=鬻熊
+                - 《史记》把季连、穴熊、鬻熊[视作][不同的人]，而且[连成谱系]，可能是[汉代][才形成的观点]，战国时期的[楚人][未必这样认为]。
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
         - detail point 99.97 (pt9-99.97)
