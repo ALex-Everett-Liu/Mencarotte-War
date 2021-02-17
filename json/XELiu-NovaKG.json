@@ -3554,14 +3554,147 @@
                 "edit-time": 1612749311684,
                 "children": [
                   {
-                    "string": "[[quantum physics]]; [[quantum theory]]",
-                    "create-time": 1612749307013,
-                    ":block/refs": [
+                    "edit-time": 1612749316186,
+                    "children": [
                       {
-                        ":block/uid": "AsRbccj8w"
+                        "string": "[[quantum system]]",
+                        "refs": [
+                          {
+                            "uid": "zk_1TQY_M"
+                          }
+                        ],
+                        "uid": "Y-20vVlrd",
+                        "edit-time": 1612749340628,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "zk_1TQY_M"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       },
                       {
-                        ":block/uid": "h7bkeBONp"
+                        "string": "[[quantum technology]]",
+                        "refs": [
+                          {
+                            "uid": "9tmvV19zW"
+                          }
+                        ],
+                        "uid": "XDWoHylKy",
+                        "edit-time": 1612749338678,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "9tmvV19zW"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[quantum particle]]",
+                        "refs": [
+                          {
+                            "uid": "J7Ipp9MDK"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "[[classical particle]]",
+                            "refs": [
+                              {
+                                "uid": "GkrcJWx2O"
+                              }
+                            ],
+                            "uid": "xhaLw-SfE",
+                            "edit-time": 1612749329020,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "GkrcJWx2O"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[[individual particle]]",
+                            "refs": [
+                              {
+                                "uid": "m_dzm6IZ2"
+                              }
+                            ],
+                            "uid": "cIcc4aKGP",
+                            "edit-time": 1612749329020,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "m_dzm6IZ2"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "SD4uVATHn",
+                        "edit-time": 1612749336390,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "J7Ipp9MDK"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[quantum effect]]; [[quantum phenomena]]; [[quantum world]]",
+                        "refs": [
+                          {
+                            "uid": "AHnF4ir_W"
+                          },
+                          {
+                            "uid": "pJsMNmuOc"
+                          },
+                          {
+                            "uid": "YYENe0HcD"
+                          }
+                        ],
+                        "uid": "AuN2ncT9z",
+                        "edit-time": 1612749334694,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "AHnF4ir_W"
+                          },
+                          {
+                            ":block/uid": "pJsMNmuOc"
+                          },
+                          {
+                            ":block/uid": "YYENe0HcD"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[quantum-based]]",
+                        "refs": [
+                          {
+                            "uid": "5r9gpqeJC"
+                          }
+                        ],
+                        "uid": "fruICA3-B",
+                        "edit-time": 1612749329020,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "5r9gpqeJC"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "refs": [
@@ -3572,71 +3705,43 @@
                         "uid": "h7bkeBONp"
                       }
                     ],
+                    "uid": "llvxJ7Gfu",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "AsRbccj8w"
+                      },
+                      {
+                        ":block/uid": "h7bkeBONp"
+                      }
+                    ],
+                    "string": "[[quantum physics]]; [[quantum theory]]",
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    "uid": "llvxJ7Gfu",
-                    "edit-time": 1612749316186,
+                    "create-time": 1612749307013,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
                   },
                   {
-                    "string": "[[quantum system]]",
-                    "refs": [
-                      {
-                        "uid": "zk_1TQY_M"
-                      }
-                    ],
-                    "uid": "Y-20vVlrd",
-                    "edit-time": 1612749340628,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "zk_1TQY_M"
-                      }
-                    ],
-                    ":edit/user": {
+                    "string": "interpretation, quanshi24...",
+                    "create-time": 1613528650930,
+                    ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "[[quantum technology]]",
-                    "refs": [
-                      {
-                        "uid": "9tmvV19zW"
-                      }
-                    ],
-                    "uid": "XDWoHylKy",
-                    "edit-time": 1612749338678,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "9tmvV19zW"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "[[quantum particle]]",
-                    "refs": [
-                      {
-                        "uid": "J7Ipp9MDK"
-                      }
-                    ],
+                    },
                     "children": [
                       {
-                        "string": "[[classical particle]]",
+                        "string": "[[old quantum theory]]",
                         "refs": [
                           {
-                            "uid": "GkrcJWx2O"
+                            "uid": "5UUgRmNK7"
                           }
                         ],
-                        "uid": "xhaLw-SfE",
-                        "edit-time": 1612749329020,
+                        "uid": "pF8skuc9d",
+                        "edit-time": 1613528659383,
                         ":block/refs": [
                           {
-                            ":block/uid": "GkrcJWx2O"
+                            ":block/uid": "5UUgRmNK7"
                           }
                         ],
                         ":edit/user": {
@@ -3644,17 +3749,105 @@
                         }
                       },
                       {
-                        "string": "[[individual particle]]",
+                        "string": "[[Copenhagen interpretation]] -- totally wrong, suck it!",
                         "refs": [
                           {
-                            "uid": "m_dzm6IZ2"
+                            "uid": "7WDo_QbAo"
                           }
                         ],
-                        "uid": "cIcc4aKGP",
-                        "edit-time": 1612749329020,
+                        "uid": "TuYCJm53x",
+                        "edit-time": 1613528659383,
                         ":block/refs": [
                           {
-                            ":block/uid": "m_dzm6IZ2"
+                            ":block/uid": "7WDo_QbAo"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "deterministic...",
+                        "create-time": 1613528668022,
+                        "uid": "LwXTm35JY",
+                        "edit-time": 1613528668484,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[hidden variable]]...",
+                        "refs": [
+                          {
+                            "uid": "ChYtNHodM"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "[[whole description]]",
+                            "refs": [
+                              {
+                                "uid": "14zJYtxWu"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "[[individual part]]",
+                                "refs": [
+                                  {
+                                    "uid": "OGAlIoZN-"
+                                  }
+                                ],
+                                "uid": "ay_J0AXSZ",
+                                "edit-time": 1613528675721,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "OGAlIoZN-"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "upZcFFYf-",
+                            "edit-time": 1613528675721,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "14zJYtxWu"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[[local hidden variable]]",
+                            "refs": [
+                              {
+                                "uid": "36HOP1tZl"
+                              }
+                            ],
+                            "uid": "Gq2bYW1FF",
+                            "edit-time": 1613528675721,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "36HOP1tZl"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "F7PPbVQrX",
+                        "edit-time": 1613528675721,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ChYtNHodM"
                           }
                         ],
                         ":edit/user": {
@@ -3662,61 +3855,204 @@
                         }
                       }
                     ],
-                    "uid": "SD4uVATHn",
-                    "edit-time": 1612749336390,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "J7Ipp9MDK"
-                      }
-                    ],
+                    "uid": "Vr_1SEjzN",
+                    "edit-time": 1613528651675,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
                   },
                   {
-                    "string": "[[quantum effect]]; [[quantum phenomena]]; [[quantum world]]",
-                    "refs": [
-                      {
-                        "uid": "AHnF4ir_W"
-                      },
-                      {
-                        "uid": "pJsMNmuOc"
-                      },
-                      {
-                        "uid": "YYENe0HcD"
-                      }
-                    ],
-                    "uid": "AuN2ncT9z",
-                    "edit-time": 1612749334694,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "AHnF4ir_W"
-                      },
-                      {
-                        ":block/uid": "pJsMNmuOc"
-                      },
-                      {
-                        ":block/uid": "YYENe0HcD"
-                      }
-                    ],
-                    ":edit/user": {
+                    "string": "probability features...",
+                    "create-time": 1613528700347,
+                    ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "[[quantum-based]]",
-                    "refs": [
+                    },
+                    "children": [
                       {
-                        "uid": "5r9gpqeJC"
+                        "string": "[[statistical nature]]; [[probabilistic nature]]; [[probabilistic]]",
+                        "refs": [
+                          {
+                            "uid": "BuJdMllDK"
+                          },
+                          {
+                            "uid": "u7DNMjF3N"
+                          },
+                          {
+                            "uid": "m76pA4exh"
+                          }
+                        ],
+                        "uid": "WIA-cRc1L",
+                        "edit-time": 1613528712058,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "BuJdMllDK"
+                          },
+                          {
+                            ":block/uid": "u7DNMjF3N"
+                          },
+                          {
+                            ":block/uid": "m76pA4exh"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[Born rule]]",
+                        "refs": [
+                          {
+                            "uid": "28N6fXqAs"
+                          }
+                        ],
+                        "uid": "QK2U_TbMB",
+                        "edit-time": 1613528712058,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "28N6fXqAs"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "^^[[find the particle]]^^",
+                        "refs": [
+                          {
+                            "uid": "3y88NYrGU"
+                          }
+                        ],
+                        "uid": "j-i7T0kQb",
+                        "edit-time": 1613528712058,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "3y88NYrGU"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[probability function]]",
+                        "refs": [
+                          {
+                            "uid": "Eg9zSJu0a"
+                          }
+                        ],
+                        "uid": "MI6_z1uSn",
+                        "edit-time": 1613528712058,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Eg9zSJu0a"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[probability amplitude]]; [[complex amplitude]]",
+                        "refs": [
+                          {
+                            "uid": "k18No1CJd"
+                          },
+                          {
+                            "uid": "mYgwav4mb"
+                          }
+                        ],
+                        "uid": "VXRbA5ghE",
+                        "edit-time": 1613528712058,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "k18No1CJd"
+                          },
+                          {
+                            ":block/uid": "mYgwav4mb"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[probability information]]",
+                        "create-time": 1613528724449,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "KfZBcpfLL"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "KfZBcpfLL"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "85Hzdp3tr",
+                        "edit-time": 1613528730639,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "edit-time": 1613528743828,
+                        "children": [
+                          {
+                            "string": "[[definite position]];",
+                            "create-time": 1613528743819,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "iEdtTEZIV"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "iEdtTEZIV"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "7F27DXK-L",
+                            "edit-time": 1613528748558,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "TxvH3VwQp"
+                          },
+                          {
+                            "uid": "ih2rPw6Mw"
+                          }
+                        ],
+                        "uid": "WuOVaapfO",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "TxvH3VwQp"
+                          },
+                          {
+                            ":block/uid": "ih2rPw6Mw"
+                          }
+                        ],
+                        "string": "[[definite value]]; [[exact value]]",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1613528743330,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
-                    "uid": "fruICA3-B",
-                    "edit-time": 1612749329020,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "5r9gpqeJC"
-                      }
-                    ],
+                    "uid": "_hXoAMK5e",
+                    "edit-time": 1613528700851,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -3748,6 +4084,30 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "$$\\text{\\color{turquoise}Mathematics}$$",
+            "create-time": 1613528770345,
+            "uid": "Z5LNt2j6y",
+            "edit-time": 1613528833907,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "$$\\text{\\color{greenyellow}Chemistry}$$",
+            "create-time": 1613528770919,
+            "uid": "4bO1K2r6d",
+            "edit-time": 1613528806229,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "1h8DLm2p7",
@@ -3759,11 +4119,713 @@
       {
         "string": "$$\\text{\\color{teal}Technology related...}$$",
         "create-time": 1611983107336,
-        "uid": "n4PeehHzj",
-        "edit-time": 1611983148664,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "Computer",
+            "create-time": 1613529117284,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "edit-time": 1613529124803,
+                "children": [
+                  {
+                    "string": "programming...",
+                    "create-time": 1613529121482,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "code; coding",
+                        "children": [
+                          {
+                            "string": "[[code block]]",
+                            "refs": [
+                              {
+                                "uid": "boN41ftaa"
+                              }
+                            ],
+                            "uid": "6pyQI3W72",
+                            "edit-time": 1613529140554,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "boN41ftaa"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "zkWGB-1D4",
+                        "edit-time": 1613529137557,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "edit-time": 1613529150353,
+                        "children": [
+                          {
+                            "string": "[[auto-generate]]",
+                            "refs": [
+                              {
+                                "uid": "bTSGI2KPx"
+                              }
+                            ],
+                            "uid": "dO1CZXdJ1",
+                            "edit-time": 1613529159651,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "bTSGI2KPx"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[[automatically truncated]]",
+                            "refs": [
+                              {
+                                "uid": "2-UcZDEKT"
+                              }
+                            ],
+                            "uid": "6qAbmX3XN",
+                            "edit-time": 1613529174772,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2-UcZDEKT"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "9HoMxhU0A"
+                          }
+                        ],
+                        "uid": "AJDLOGv1N",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "9HoMxhU0A"
+                          }
+                        ],
+                        "string": "[[script]]...",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1613529149548,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[Python]]",
+                        "refs": [
+                          {
+                            "uid": "OWs4snU8O"
+                          }
+                        ],
+                        "uid": "MQwEWk5K2",
+                        "edit-time": 1613529229194,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "OWs4snU8O"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[JavaScript]]",
+                        "refs": [
+                          {
+                            "uid": "1HQCx3_sr"
+                          }
+                        ],
+                        "uid": "bv2KtIAxr",
+                        "edit-time": 1613529230775,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "1HQCx3_sr"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[Node]]",
+                        "refs": [
+                          {
+                            "uid": "W9VgkoYOa"
+                          }
+                        ],
+                        "uid": "u4wcLyJdv",
+                        "edit-time": 1613529233898,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "W9VgkoYOa"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[Lisp]]",
+                        "refs": [
+                          {
+                            "uid": "8RjvomGdl"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "[[Clojure]]",
+                            "refs": [
+                              {
+                                "uid": "N5WrPqPNm"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "[[ClojureScript]]",
+                                "refs": [
+                                  {
+                                    "uid": "6OlXRvSel"
+                                  }
+                                ],
+                                "uid": "WqY9PLhj9",
+                                "edit-time": 1613529240239,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "6OlXRvSel"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[[EDN]]; [[formatted edn]]",
+                                "refs": [
+                                  {
+                                    "uid": "_lmYvYr5d"
+                                  },
+                                  {
+                                    "uid": "vVk5BSw1V"
+                                  }
+                                ],
+                                "uid": "TX4xeD26n",
+                                "edit-time": 1613529247441,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "_lmYvYr5d"
+                                  },
+                                  {
+                                    ":block/uid": "vVk5BSw1V"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "QFAv8qo08",
+                            "edit-time": 1613529238002,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "N5WrPqPNm"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "r7nMv8I4-",
+                        "edit-time": 1613529236162,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8RjvomGdl"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "Wg6WOUavr",
+                    "edit-time": 1613529133157,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "bianyi14 yuanli23",
+                    "children": [
+                      {
+                        "string": "[[compile]]",
+                        "refs": [
+                          {
+                            "uid": "XDVyQFqAr"
+                          }
+                        ],
+                        "uid": "vx4LP2Y2s",
+                        "edit-time": 1613529209113,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "XDVyQFqAr"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[parsed]]",
+                        "refs": [
+                          {
+                            "uid": "VgTxvfcJ_"
+                          }
+                        ],
+                        "uid": "QYT9ehV09",
+                        "edit-time": 1613529207361,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "VgTxvfcJ_"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "UZ6rVV13X",
+                    "edit-time": 1613529198941,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[artificial intelligence (AI)]]",
+                    "refs": [
+                      {
+                        "uid": "8JiMllM7H"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "[[neural network]]",
+                        "refs": [
+                          {
+                            "uid": "gUp4F3sfI"
+                          }
+                        ],
+                        "uid": "uTIL_6cyU",
+                        "edit-time": 1613529214206,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "gUp4F3sfI"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[OpenAI]]",
+                        "refs": [
+                          {
+                            "uid": "v-1YFXabw"
+                          }
+                        ],
+                        "uid": "mBFyxcU8C",
+                        "edit-time": 1613529198941,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "v-1YFXabw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "P7-E1Lhs8",
+                    "edit-time": 1613529198941,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8JiMllM7H"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[data analysis]]",
+                    "refs": [
+                      {
+                        "uid": "6cb9HNSZa"
+                      }
+                    ],
+                    "uid": "B5gqkp738",
+                    "edit-time": 1613529219662,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6cb9HNSZa"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "edit-time": 1613529284793,
+                    "children": [
+                      {
+                        "string": "[[server]]",
+                        "refs": [
+                          {
+                            "uid": "rQQzlw3AF"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "[[host]]",
+                            "refs": [
+                              {
+                                "uid": "ob_EpJTkS"
+                              }
+                            ],
+                            "uid": "jVFzxuRHr",
+                            "edit-time": 1613529277724,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "ob_EpJTkS"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "dhYmfHrh7",
+                        "edit-time": 1613529275078,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rQQzlw3AF"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "notR_qnQl"
+                      }
+                    ],
+                    "uid": "xk7xoxv2f",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "notR_qnQl"
+                      }
+                    ],
+                    "string": "[[computer network]]...",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1613529267329,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "pDHXt5oQV"
+                  }
+                ],
+                "uid": "ETieGiM8H",
+                ":block/refs": [
+                  {
+                    ":block/uid": "pDHXt5oQV"
+                  }
+                ],
+                "string": "[[computer science (CS)]]",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1613529120075,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "SrnjHizHF",
+            "edit-time": 1613529120081,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "$$\\text{\\color{PaleVioletRed}Software}$$",
+            "create-time": 1613529440502,
+            "uid": "cN_dFdFP-",
+            "edit-time": 1613529473734,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "$$\\text{\\color{SlateBlue}Hardware}$$",
+            "children": [
+              {
+                "string": "computer...",
+                "children": [
+                  {
+                    "string": "[[computer monitor]]",
+                    "refs": [
+                      {
+                        "uid": "o4Hoh-tW6"
+                      }
+                    ],
+                    "uid": "mYTFIRNgm",
+                    "edit-time": 1613529363939,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "o4Hoh-tW6"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "YnaeZgCBJ",
+                "edit-time": 1613529358809,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "display",
+                "children": [
+                  {
+                    "string": "screen",
+                    "children": [
+                      {
+                        "string": "[[television screen]]",
+                        "refs": [
+                          {
+                            "uid": "cEKnHoVol"
+                          }
+                        ],
+                        "uid": "muWdSKHCS",
+                        "edit-time": 1613529376579,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "cEKnHoVol"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "tfNHfV6YM",
+                    "edit-time": 1613529358809,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "2-WMzIhOV",
+                "edit-time": 1613529358809,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Thc7kzNXp",
+            "edit-time": 1613529492663,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1613529310060,
+            "children": [
+              {
+                "string": "[[quantum electronics]]",
+                "refs": [
+                  {
+                    "uid": "Jt0cLAdKC"
+                  }
+                ],
+                "uid": "89p_4KOrZ",
+                "edit-time": 1613529316823,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Jt0cLAdKC"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[microelectronics]]?",
+                "refs": [
+                  {
+                    "uid": "LQHAiYczH"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "[[Moore’s Law]]",
+                    "refs": [
+                      {
+                        "uid": "wDCIH0KKO"
+                      }
+                    ],
+                    "uid": "dKJN63fQV",
+                    "edit-time": 1613529345093,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "wDCIH0KKO"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "diode...",
+                    "children": [
+                      {
+                        "string": "[[tunnel diode]]",
+                        "refs": [
+                          {
+                            "uid": "_WhzfUUIo"
+                          }
+                        ],
+                        "uid": "0OeuThnZ2",
+                        "edit-time": 1613529316823,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "_WhzfUUIo"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "8tgpRjdOt",
+                    "edit-time": 1613529316823,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[electron beam]]",
+                    "refs": [
+                      {
+                        "uid": "T7gHPTCbc"
+                      }
+                    ],
+                    "uid": "rRkLK9BFQ",
+                    "edit-time": 1613529338118,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "T7gHPTCbc"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "CPU...",
+                    "children": [
+                      {
+                        "string": "[[instruction]]...",
+                        "refs": [
+                          {
+                            "uid": "Hs22itFm7"
+                          }
+                        ],
+                        "uid": "dVfHSEAyt",
+                        "edit-time": 1613529325902,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Hs22itFm7"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "6Z8Ll0tD1",
+                    "edit-time": 1613529316823,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "v-Zq49k7w",
+                "edit-time": 1613529346699,
+                ":block/refs": [
+                  {
+                    ":block/uid": "LQHAiYczH"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Mim3QBmgV"
+              }
+            ],
+            "uid": "IwhSMKNtG",
+            ":block/refs": [
+              {
+                ":block/uid": "Mim3QBmgV"
+              }
+            ],
+            "string": "[[electronics]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1613529309503,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "n4PeehHzj",
+        "edit-time": 1611983148664,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3961,11 +5023,283 @@
       {
         "string": "$$\\text{\\color{SeaGreen}General Science and Education...}$$",
         "create-time": 1611983232283,
-        "uid": "cQ1K_5dHm",
-        "edit-time": 1611983233007,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "higher education...",
+            "children": [
+              {
+                "string": "university...",
+                "children": [
+                  {
+                    "string": "[[Stanford University]]",
+                    "refs": [
+                      {
+                        "uid": "UYZvqbr36"
+                      }
+                    ],
+                    "uid": "Dw22issZc",
+                    "edit-time": 1613529061104,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UYZvqbr36"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[California Institute of Technology (CalTech)]]",
+                    "refs": [
+                      {
+                        "uid": "qDmImHOHq"
+                      }
+                    ],
+                    "uid": "QsJFlyvhU",
+                    "edit-time": 1613529063185,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "qDmImHOHq"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[Cambridge University]]",
+                    "refs": [
+                      {
+                        "uid": "BzXkND6qq"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "[[Cambridge University Press]]",
+                        "refs": [
+                          {
+                            "uid": "UfwSQl6af"
+                          }
+                        ],
+                        "uid": "sRuW2VqOG",
+                        "edit-time": 1613529067247,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "UfwSQl6af"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "iEnDlUmYp",
+                    "edit-time": 1613529065010,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "BzXkND6qq"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "K1nrIt-Td",
+                "edit-time": 1613529035848,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "yuanxibumen4442, jiaozhiyuangong4221...",
+                "children": [
+                  {
+                    "string": "[[Department of Applied Physics]]",
+                    "refs": [
+                      {
+                        "uid": "S1llREVIB"
+                      }
+                    ],
+                    "uid": "I5C43MOqY",
+                    "edit-time": 1613529073269,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "S1llREVIB"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "4r3HlbeA9",
+                "edit-time": 1613529035848,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[university hierarchy]]",
+                "refs": [
+                  {
+                    "uid": "cJPrsPGEJ"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "[[tenure status]]",
+                    "refs": [
+                      {
+                        "uid": "7P7VMo2DC"
+                      }
+                    ],
+                    "uid": "DYUw2CKAZ",
+                    "edit-time": 1613529078916,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "7P7VMo2DC"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "9NmIem-fF",
+                "edit-time": 1613529076962,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cJPrsPGEJ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[academic rank]]",
+                "refs": [
+                  {
+                    "uid": "5Ik-WVumK"
+                  }
+                ],
+                "uid": "1GHeXDzXn",
+                "edit-time": 1613529081155,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5Ik-WVumK"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "graduate school",
+                "children": [
+                  {
+                    "string": "[[graduate student]]",
+                    "refs": [
+                      {
+                        "uid": "bBGgkRtBR"
+                      }
+                    ],
+                    "uid": "fE9yqXCqQ",
+                    "edit-time": 1613529085792,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "bBGgkRtBR"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[co-supervisor]]",
+                    "refs": [
+                      {
+                        "uid": "nHb8MZ5f1"
+                      }
+                    ],
+                    "uid": "ZMNQi6JjF",
+                    "edit-time": 1613529087955,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nHb8MZ5f1"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "VOGNmz3Tt",
+                "edit-time": 1613529035848,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "vIOjqTbCV",
+            "edit-time": 1613529035848,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "interdisciplinary...",
+            "children": [
+              {
+                "string": "[[interdisciplinary field]]",
+                "refs": [
+                  {
+                    "uid": "QVEyEVueL"
+                  }
+                ],
+                "uid": "mfMy7476p",
+                "edit-time": 1613529090608,
+                ":block/refs": [
+                  {
+                    ":block/uid": "QVEyEVueL"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[multidisciplinary field]]",
+                "refs": [
+                  {
+                    "uid": "beEgBGYsB"
+                  }
+                ],
+                "uid": "3E8PSws6J",
+                "edit-time": 1613529092546,
+                ":block/refs": [
+                  {
+                    ":block/uid": "beEgBGYsB"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "MEDvN0DW5",
+            "edit-time": 1613529035848,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "cQ1K_5dHm",
+        "edit-time": 1611983233007,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3973,11 +5307,93 @@
       {
         "string": "$$\\text{\\color{PaleGoldenrod}Economy...?}$$",
         "create-time": 1611983239892,
-        "uid": "rBE3kcggk",
-        "edit-time": 1611983244440,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "Commerce",
+            "create-time": 1613528940360,
+            "uid": "OP7M35Ruq",
+            "edit-time": 1613528941420,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Business",
+            "create-time": 1613528941413,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "product description...",
+                "children": [
+                  {
+                    "string": "[[product size]]",
+                    "refs": [
+                      {
+                        "uid": "Z1Y4DB5pj"
+                      }
+                    ],
+                    "uid": "_QpwmjtBt",
+                    "edit-time": 1613528976226,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Z1Y4DB5pj"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[gross weight]]",
+                    "refs": [
+                      {
+                        "uid": "fUPYSebK7"
+                      }
+                    ],
+                    "uid": "zZmhv5k0n",
+                    "edit-time": 1613528978854,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fUPYSebK7"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "bBpdRgqzi",
+                "edit-time": 1613528954015,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "product quality",
+                "uid": "Yev5Sm1Ww",
+                "edit-time": 1613528954015,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "OInq1-FxM",
+            "edit-time": 1613528944352,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rBE3kcggk",
+        "edit-time": 1611983244440,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3985,11 +5401,153 @@
       {
         "string": "$$\\text{\\color{SteelBlue}Engineering and Industry}$$",
         "create-time": 1611983252700,
-        "uid": "Fl9GmOali",
-        "edit-time": 1611983260490,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "[[material science]]...",
+            "refs": [
+              {
+                "uid": "9vgxYCWR1"
+              }
+            ],
+            "children": [
+              {
+                "string": "material...",
+                "uid": "CDlCFKKxb",
+                "edit-time": 1613528881905,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "PnHTU6NZr",
+            "edit-time": 1613528897329,
+            ":block/refs": [
+              {
+                ":block/uid": "9vgxYCWR1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Mechanical Engineering (ME)]]",
+            "refs": [
+              {
+                "uid": "lk2H0xrDA"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[vehicle engineering]]...",
+                "refs": [
+                  {
+                    "uid": "-mQ9IxqYS"
+                  }
+                ],
+                "uid": "sO1p8C2Hb",
+                "edit-time": 1613528902445,
+                ":block/refs": [
+                  {
+                    ":block/uid": "-mQ9IxqYS"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "WMe-2Zk6N",
+            "edit-time": 1613528894016,
+            ":block/refs": [
+              {
+                ":block/uid": "lk2H0xrDA"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[civil engineering]]",
+            "refs": [
+              {
+                "uid": "hOJmS7A4Q"
+              }
+            ],
+            "uid": "eKCeKIvsS",
+            "edit-time": 1613528905256,
+            ":block/refs": [
+              {
+                ":block/uid": "hOJmS7A4Q"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[transportation]]",
+            "refs": [
+              {
+                "uid": "UGuq7IrNC"
+              }
+            ],
+            "uid": "vWQ9Qiod9",
+            "edit-time": 1613528907667,
+            ":block/refs": [
+              {
+                ":block/uid": "UGuq7IrNC"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Agriculture]([[agriculture]])",
+            "refs": [
+              {
+                "uid": "xWE_-_jC9"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[crop rotation]]",
+                "refs": [
+                  {
+                    "uid": "o4roManKZ"
+                  }
+                ],
+                "uid": "vJmiid7gt",
+                "edit-time": 1613528917795,
+                ":block/refs": [
+                  {
+                    ":block/uid": "o4roManKZ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "qGwzCz3HJ",
+            "edit-time": 1613528914486,
+            ":block/refs": [
+              {
+                ":block/uid": "xWE_-_jC9"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Fl9GmOali",
+        "edit-time": 1611983260490,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -21811,6 +23369,20 @@
                       },
                       {
                         "string": "abort",
+                        "children": [
+                          {
+                            "string": "abortion;",
+                            "create-time": 1613528444023,
+                            "uid": "EwSFDRtx1",
+                            "edit-time": 1613528445407,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
                         "uid": "ry_t2xlD3",
                         "edit-time": 1612748617883,
                         ":edit/user": {
@@ -21821,20 +23393,14 @@
                         "string": "absorb",
                         "children": [
                           {
-                            "string": "[[absorbed]]; [[absorption]]",
+                            "string": "absorbed; [[absorption]]",
                             "create-time": 1612748695429,
                             ":block/refs": [
-                              {
-                                ":block/uid": "3dTWX7zp4"
-                              },
                               {
                                 ":block/uid": "f4EL2MFrV"
                               }
                             ],
                             "refs": [
-                              {
-                                "uid": "3dTWX7zp4"
-                              },
                               {
                                 "uid": "f4EL2MFrV"
                               }
@@ -21843,7 +23409,7 @@
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             },
                             "uid": "RPK0dH9d_",
-                            "edit-time": 1612748696751,
+                            "edit-time": 1613528456737,
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -21911,10 +23477,272 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "ac",
+                    "create-time": 1613528486977,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "acc",
+                        "create-time": 1613528487482,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "accept",
+                            "children": [
+                              {
+                                "string": "[[acceptance]], 2; accepted",
+                                "refs": [
+                                  {
+                                    "uid": "K2_j5I9FR"
+                                  }
+                                ],
+                                "uid": "BCiNnrRvo",
+                                "edit-time": 1613528505524,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "K2_j5I9FR"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "AA6JrG6Cu",
+                            "edit-time": 1613528501882,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "access",
+                            "children": [
+                              {
+                                "string": "accessible",
+                                "children": [
+                                  {
+                                    "string": "[capable](https://workflowy.com/#/c964a5396fec) of being reached",
+                                    "uid": "Ac2LHxD7k",
+                                    "edit-time": 1613528501882,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  },
+                                  {
+                                    "string": "a town accessible by rail",
+                                    "uid": "iTuYQjwzr",
+                                    "edit-time": 1613528501882,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "Y_8AFQ8V1",
+                                "edit-time": 1613528501882,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "k6L74P6Dn",
+                            "edit-time": 1613528501882,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "accord",
+                            "children": [
+                              {
+                                "string": "accordance; according",
+                                "uid": "TWHf3m94b",
+                                "edit-time": 1613528501882,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "O0cltiqkW",
+                            "edit-time": 1613528501882,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "accuracy",
+                            "children": [
+                              {
+                                "string": "accurate; accurately",
+                                "uid": "gnQZUVwRP",
+                                "edit-time": 1613528501882,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "iXCJbzDqm",
+                            "edit-time": 1613528501882,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "b1Eh0sX2c",
+                        "edit-time": 1613528488794,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "act",
+                        "create-time": 1613528488787,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "acting;",
+                            "uid": "7Lz3xNwnK",
+                            "edit-time": 1613528517540,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "active",
+                            "children": [
+                              {
+                                "string": "activate;",
+                                "uid": "0yf5scCSO",
+                                "edit-time": 1613528517540,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "actively; activity",
+                                "uid": "dhgbe038l",
+                                "edit-time": 1613528517540,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "-Tu8_aK37",
+                            "edit-time": 1613528517540,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "actual, 2; actually",
+                            "uid": "b92zgoMBz",
+                            "edit-time": 1613528517540,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "interact",
+                            "uid": "2qYzWnO3F",
+                            "edit-time": 1613528517540,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "UW0BmpKK_",
+                        "edit-time": 1613528490166,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "JZ0lGplMm",
+                    "edit-time": 1613528487490,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "Y55mlPiEX",
                 "edit-time": 1612748617102,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "w",
+                "create-time": 1613528550645,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "wa",
+                    "children": [
+                      {
+                        "string": "wave",
+                        "children": [
+                          {
+                            "string": "wavelength",
+                            "uid": "G75dtzXyL",
+                            "edit-time": 1613528551885,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "jM75xyCzd",
+                        "edit-time": 1613528551885,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "lkuhQ5nYs",
+                    "edit-time": 1613528551885,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "wi",
+                    "children": [
+                      {
+                        "string": "wire",
+                        "children": [
+                          {
+                            "string": "rewire;",
+                            "uid": "gqg0M0msv",
+                            "edit-time": 1613528551885,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "Ux66Ch5yG",
+                        "edit-time": 1613528551885,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "AvYvW7E12",
+                    "edit-time": 1613528551885,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "zsuhFXnPH",
+                "edit-time": 1613528550932,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -21992,18 +23820,6 @@
     ],
     "uid": "gExXlI_LW",
     "edit-time": 1612748502468,
-    ":edit/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    }
-  },
-  {
-    "create-time": 1612748696752,
-    "title": "absorbed",
-    "uid": "3dTWX7zp4",
-    "edit-time": 1612748696753,
-    ":create/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -34875,17 +36691,145 @@
             }
           },
           {
-            "string": "Very little information about Ye has survived; most of the [[extant information]] comes from the discussion of the [Eastern barbarians]([[barbarian]]) in the Chinese [[三国志 (Records of Three Kingdoms)]]. ",
-            "create-time": 1613522702618,
-            ":block/refs": [
+            "edit-time": 1613522702859,
+            "children": [
               {
-                ":block/uid": "glDxeWxQj"
+                "string": "The [[custom]] of \"Mucheon\" (무천, 舞天), a [[festival]] of [[worshipping heaven]] [through song and dance] in the 10th month, is mentioned in some records. This appears to have been [closely related to] [the Goguryeo festival of Dongmaeng], held at the same time of year, which also incorporated [[martial display]]s. The people worshiped the [[tiger]] as a [[deity]].",
+                "create-time": 1611029485600,
+                ":block/refs": [
+                  {
+                    ":block/uid": "N6tDqgxt1"
+                  },
+                  {
+                    ":block/uid": "5zET_xYAt"
+                  },
+                  {
+                    ":block/uid": "8wxt3p1nl"
+                  },
+                  {
+                    ":block/uid": "N_IRPQucC"
+                  },
+                  {
+                    ":block/uid": "VoYl3H2L9"
+                  },
+                  {
+                    ":block/uid": "ovpmqo2Tk"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "N6tDqgxt1"
+                  },
+                  {
+                    "uid": "5zET_xYAt"
+                  },
+                  {
+                    "uid": "8wxt3p1nl"
+                  },
+                  {
+                    "uid": "N_IRPQucC"
+                  },
+                  {
+                    "uid": "VoYl3H2L9"
+                  },
+                  {
+                    "uid": "ovpmqo2Tk"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "P1BXSVPWn",
+                "edit-time": 1613528190237,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               },
               {
-                ":block/uid": "rJrPeqeYN"
+                "string": "The economy of Ye was [based primarily on agriculture], including [[sericulture]] and [[hemp cultivation]].[1] The Mucheon festival was [largely aimed at] securing a [[good harvest]] [in the coming year]. Their agriculture appears to [have been well-organized] at the [[village level]]. Ye law [meted out stiff penalties]([[penalty]]) 实行严厉惩罚 for those who encroached on [[communal land]]. 侵占公共土地",
+                "create-time": 1611029474012,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZeiN2TPHy"
+                  },
+                  {
+                    ":block/uid": "5EYtSkTVr"
+                  },
+                  {
+                    ":block/uid": "A6wOqGUZq"
+                  },
+                  {
+                    ":block/uid": "i0Ctz2s59"
+                  },
+                  {
+                    ":block/uid": "V2ypI0zfy"
+                  },
+                  {
+                    ":block/uid": "YcubP1s5T"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ZeiN2TPHy"
+                  },
+                  {
+                    "uid": "5EYtSkTVr"
+                  },
+                  {
+                    "uid": "A6wOqGUZq"
+                  },
+                  {
+                    "uid": "i0Ctz2s59"
+                  },
+                  {
+                    "uid": "V2ypI0zfy"
+                  },
+                  {
+                    "uid": "YcubP1s5T"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "dQFFj1qTN",
+                "edit-time": 1613528190237,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               },
               {
-                ":block/uid": "8AR4gwaQd"
+                "string": "They have no [[sovereign chief]]... Their [[elder]]s [have long considered that] they are of the same [[stock]] as the Goguryeo. Sincere by nature they [keep their desires to a minimum], have a sense of shame, and do not [beg for alms]. In language, usages, and customs they are in general the same as the Goguryeo, but in their clothing there are differences. Men and women both wear pleated collars, and the men plait silver flowers several inches wide for adornment... Their custom is to give great importance to mountains and rivers, each of which has certain parts into which people are not permitted to wade indiscriminately. Members of the same clan do not intermarry. They have many superstitions and taboos: in the event of illness or death, they always abandon their old dwelling, rebuild, and resettle... They also sacrifice to the tiger as to a divine being... They make spears three zhang in length, sometimes carried by three men at once. They are capable foot soldiers; the \"sandalwood bow\" of Lelang comes from their land.[2]\n    —__[Sanguo Zhi]__",
+                "create-time": 1611032230594,
+                ":block/refs": [
+                  {
+                    ":block/uid": "wvPi5ygDs"
+                  },
+                  {
+                    ":block/uid": "0Ts8SKWyu"
+                  },
+                  {
+                    ":block/uid": "q0naHIHTy"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "wvPi5ygDs"
+                  },
+                  {
+                    "uid": "0Ts8SKWyu"
+                  },
+                  {
+                    "uid": "q0naHIHTy"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "VffVz3zlx",
+                "edit-time": 1613528190237,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -34899,11 +36843,23 @@
                 "uid": "8AR4gwaQd"
               }
             ],
+            "uid": "2VrZrPavE",
+            ":block/refs": [
+              {
+                ":block/uid": "glDxeWxQj"
+              },
+              {
+                ":block/uid": "rJrPeqeYN"
+              },
+              {
+                ":block/uid": "8AR4gwaQd"
+              }
+            ],
+            "string": "Very little information about Ye has survived; most of the [[extant information]] comes from the discussion of the [Eastern barbarians]([[barbarian]]) in the Chinese [[三国志 (Records of Three Kingdoms)]]. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "2VrZrPavE",
-            "edit-time": 1613522702859,
+            "create-time": 1613522702618,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -35179,6 +37135,694 @@
     "title": "February 17th, 2021",
     "uid": "02-17-2021",
     "edit-time": 1613524646203,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613527805922,
+    "title": "Call Me Maybe",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "lyric",
+        "create-time": 1611238272493,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1613527840607,
+            "children": [
+              {
+                "string": "well: 许愿池",
+                "create-time": 1611238380705,
+                "uid": "eLY3k_-BY",
+                "edit-time": 1613527840607,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "OuHHmZlrK"
+              }
+            ],
+            "uid": "U3fouVXpM",
+            ":block/refs": [
+              {
+                ":block/uid": "OuHHmZlrK"
+              }
+            ],
+            "string": "I threw a wish in the well \nDon’t ask me I’ll never tell\nI looked to you as it fell\nand now you’re in my way\nI’d trade my soul for a wish\nPennies and dimes – for a kiss\nI wasn’t looking for this\nBut now you’re in my way\nYour stare was holding / 眼神坚定\nRipped jeans – skin was showing / 牛仔裤上的破洞\nHot night – Wind was blowing\nWhere d’ you think you’re going baby? / 小心肝，你还能躲到哪里呢？\nHey I just met you and this is crazy\nBut here’s my number\nSo, Call Me Maybe\nIt’s hard to look right at you baby!\nBut here’s my number\nSo, Call Me Maybe\nHey I just met you\nand this is crazy\nBut here’s my number\nSo, Call Me Maybe\nand [all the other boys] [try to chase me]([[chase]]) / 想得到我\nBut here’s my number\nSo, Call Me Maybe",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1611238287775,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You took your time with the call / 尽快给我打电话吧\nI took no time with the fall\nYou gave me nothing at all\nBut still you’re in my way\nI beg and borrow and steal / 使出浑身解数\nHave foresight, and it's real\nI didn't know I would feel it\nBut it’s in my way\nYour stare was holding\nRipped jeans – skin was showing\nHot night – Wind was blowing\nWhere d’ you think you’re going baby?\nHey I just met you\nand this is crazy\nBut here’s my number\nSo, Call Me Maybe\nIt’s hard to look right at you baby!\nBut here’s my number\nSo, Call Me Maybe\nHey I just met you\nand this is crazy\nBut here’s my number\nSo, Call Me Maybe\nand all the other boys\ntry to chase me\nBut here’s my number\nSo, Call Me Maybe",
+            "create-time": 1611238311178,
+            "uid": "ghQ-H8ype",
+            "edit-time": 1613527840607,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Before you came into my life\r\nI’ve missed you so bad\r\nI’ve missed you so bad\r\nI’ve missed you so so bad\r\nBefore you came into my life\r\nI’ve missed you so bad\r\nand You should know that\r\nI’ve missed you so so bad",
+            "create-time": 1611238274574,
+            "uid": "hyMGdrcmH",
+            "edit-time": 1613527840607,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "OayPEwlOt",
+        "edit-time": 1613527840607,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "nTk_E6pwu",
+    "edit-time": 1613527805922,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613527840624,
+    "title": "chase",
+    "uid": "OuHHmZlrK",
+    "edit-time": 1613527840625,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190245,
+    "title": "custom",
+    "uid": "N6tDqgxt1",
+    "edit-time": 1613528190246,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190245,
+    "title": "festival",
+    "uid": "5zET_xYAt",
+    "edit-time": 1613528190246,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190245,
+    "title": "worshipping heaven",
+    "uid": "8wxt3p1nl",
+    "edit-time": 1613528190246,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190245,
+    "title": "martial display",
+    "uid": "N_IRPQucC",
+    "edit-time": 1613528190246,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190245,
+    "title": "tiger",
+    "uid": "VoYl3H2L9",
+    "edit-time": 1613528190246,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190245,
+    "title": "deity",
+    "uid": "ovpmqo2Tk",
+    "edit-time": 1613528190246,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190258,
+    "title": "penalty",
+    "uid": "ZeiN2TPHy",
+    "edit-time": 1613528190260,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190258,
+    "title": "sericulture",
+    "uid": "5EYtSkTVr",
+    "edit-time": 1613528190260,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190258,
+    "title": "hemp cultivation",
+    "uid": "A6wOqGUZq",
+    "edit-time": 1613528190260,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190258,
+    "title": "good harvest",
+    "uid": "i0Ctz2s59",
+    "edit-time": 1613528190260,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190258,
+    "title": "village level",
+    "uid": "V2ypI0zfy",
+    "edit-time": 1613528190260,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190258,
+    "title": "communal land",
+    "uid": "YcubP1s5T",
+    "edit-time": 1613528190260,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190272,
+    "title": "sovereign chief",
+    "uid": "wvPi5ygDs",
+    "edit-time": 1613528190272,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190272,
+    "title": "elder",
+    "uid": "0Ts8SKWyu",
+    "edit-time": 1613528190272,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528190272,
+    "title": "stock",
+    "uid": "q0naHIHTy",
+    "edit-time": 1613528190272,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528501879,
+    "title": "acceptance",
+    "uid": "K2_j5I9FR",
+    "edit-time": 1613528501882,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528675717,
+    "title": "hidden variable",
+    "uid": "ChYtNHodM",
+    "edit-time": 1613528675721,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528675718,
+    "title": "whole description",
+    "uid": "14zJYtxWu",
+    "edit-time": 1613528675721,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528675718,
+    "title": "individual part",
+    "uid": "OGAlIoZN-",
+    "edit-time": 1613528675721,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528675719,
+    "title": "local hidden variable",
+    "uid": "36HOP1tZl",
+    "edit-time": 1613528675721,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528712055,
+    "title": "find the particle",
+    "uid": "3y88NYrGU",
+    "edit-time": 1613528712058,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528712055,
+    "title": "probability function",
+    "uid": "Eg9zSJu0a",
+    "edit-time": 1613528712058,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528712056,
+    "title": "complex amplitude",
+    "uid": "mYgwav4mb",
+    "edit-time": 1613528712058,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528712053,
+    "title": "statistical nature",
+    "uid": "BuJdMllDK",
+    "edit-time": 1613528712058,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528712053,
+    "title": "probabilistic nature",
+    "uid": "u7DNMjF3N",
+    "edit-time": 1613528712058,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528712053,
+    "title": "probabilistic",
+    "uid": "m76pA4exh",
+    "edit-time": 1613528712058,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528730641,
+    "title": "probability information",
+    "uid": "KfZBcpfLL",
+    "edit-time": 1613528730642,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528743829,
+    "title": "definite value",
+    "uid": "TxvH3VwQp",
+    "edit-time": 1613528743830,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528743829,
+    "title": "exact value",
+    "uid": "ih2rPw6Mw",
+    "edit-time": 1613528743830,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528748562,
+    "title": "definite position",
+    "uid": "iEdtTEZIV",
+    "edit-time": 1613528748562,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528894021,
+    "title": "Mechanical Engineering (ME)",
+    "uid": "lk2H0xrDA",
+    "edit-time": 1613528894022,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528897340,
+    "title": "material science",
+    "uid": "9vgxYCWR1",
+    "edit-time": 1613528897340,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528902448,
+    "title": "vehicle engineering",
+    "uid": "-mQ9IxqYS",
+    "edit-time": 1613528902450,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528905258,
+    "title": "civil engineering",
+    "uid": "hOJmS7A4Q",
+    "edit-time": 1613528905258,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528914489,
+    "title": "agriculture",
+    "uid": "xWE_-_jC9",
+    "edit-time": 1613528914489,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528976229,
+    "title": "product size",
+    "uid": "Z1Y4DB5pj",
+    "edit-time": 1613528976229,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613528978856,
+    "title": "gross weight",
+    "uid": "fUPYSebK7",
+    "edit-time": 1613528978857,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529065012,
+    "title": "Cambridge University",
+    "uid": "BzXkND6qq",
+    "edit-time": 1613529065012,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529124805,
+    "title": "computer science (CS)",
+    "uid": "pDHXt5oQV",
+    "edit-time": 1613529124814,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529198938,
+    "title": "artificial intelligence (AI)",
+    "uid": "8JiMllM7H",
+    "edit-time": 1613529198941,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529236164,
+    "title": "Lisp",
+    "uid": "8RjvomGdl",
+    "edit-time": 1613529236164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529238003,
+    "title": "Clojure",
+    "uid": "N5WrPqPNm",
+    "edit-time": 1613529238003,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529284796,
+    "title": "computer network",
+    "uid": "notR_qnQl",
+    "edit-time": 1613529284797,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529310063,
+    "title": "electronics",
+    "uid": "Mim3QBmgV",
+    "edit-time": 1613529310063,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529316812,
+    "title": "tunnel diode",
+    "uid": "_WhzfUUIo",
+    "edit-time": 1613529316823,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529316811,
+    "title": "quantum electronics",
+    "uid": "Jt0cLAdKC",
+    "edit-time": 1613529316823,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529338120,
+    "title": "electron beam",
+    "uid": "T7gHPTCbc",
+    "edit-time": 1613529338120,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529363942,
+    "title": "computer monitor",
+    "uid": "o4Hoh-tW6",
+    "edit-time": 1613529363942,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613529376582,
+    "title": "television screen",
+    "uid": "cEKnHoVol",
+    "edit-time": 1613529376582,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

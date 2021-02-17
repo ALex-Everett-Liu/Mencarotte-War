@@ -2,14 +2,74 @@
     - $$\text{\color{DarkOrchid}Physics}$$
         - [[quantum mechanics]]
             - [[quantum physics]]; [[quantum theory]]
-            - [[quantum system]]
-            - [[quantum technology]]
-            - [[quantum particle]]
-                - [[classical particle]]
-                - [[individual particle]]
-            - [[quantum effect]]; [[quantum phenomena]]; [[quantum world]]
-            - [[quantum-based]]
+                - [[quantum system]]
+                - [[quantum technology]]
+                - [[quantum particle]]
+                    - [[classical particle]]
+                    - [[individual particle]]
+                - [[quantum effect]]; [[quantum phenomena]]; [[quantum world]]
+                - [[quantum-based]]
+            - interpretation, quanshi24...
+                - [[old quantum theory]]
+                - [[Copenhagen interpretation]] -- totally wrong, suck it!
+                - deterministic...
+                - [[hidden variable]]...
+                    - [[whole description]]
+                        - [[individual part]]
+                    - [[local hidden variable]]
+            - probability features...
+                - [[statistical nature]]; [[probabilistic nature]]; [[probabilistic]]
+                - [[Born rule]]
+                - ^^[[find the particle]]^^
+                - [[probability function]]
+                - [[probability amplitude]]; [[complex amplitude]]
+                - [[probability information]]
+                - [[definite value]]; [[exact value]]
+                    - [[definite position]];
+    - $$\text{\color{turquoise}Mathematics}$$
+    - $$\text{\color{greenyellow}Chemistry}$$
 - $$\text{\color{teal}Technology related...}$$
+    - Computer
+        - [[computer science (CS)]]
+            - programming...
+                - code; coding
+                    - [[code block]]
+                - [[script]]...
+                    - [[auto-generate]]
+                    - [[automatically truncated]]
+                - [[Python]]
+                - [[JavaScript]]
+                - [[Node]]
+                - [[Lisp]]
+                    - [[Clojure]]
+                        - [[ClojureScript]]
+                        - [[EDN]]; [[formatted edn]]
+            - bianyi14 yuanli23
+                - [[compile]]
+                - [[parsed]]
+            - [[artificial intelligence (AI)]]
+                - [[neural network]]
+                - [[OpenAI]]
+            - [[data analysis]]
+            - [[computer network]]...
+                - [[server]]
+                    - [[host]]
+    - $$\text{\color{PaleVioletRed}Software}$$
+    - $$\text{\color{SlateBlue}Hardware}$$
+        computer...
+            - [[computer monitor]]
+        display
+            - screen
+                - [[television screen]]
+    - [[electronics]]
+        - [[quantum electronics]]
+        - [[microelectronics]]?
+            - [[Moore’s Law]]
+            - diode...
+                - [[tunnel diode]]
+            - [[electron beam]]
+            - CPU...
+                - [[instruction]]...
 - $$\text{\color{CornflowerBlue}Life Science related...}$$
 - $$\text{\color{salmon}Language}$$
     - [Linguistics]([[linguistics]])
@@ -23,8 +83,39 @@
 - $$\text{\color{Goldenrod}Culture related...}$$
 - $$\text{\color{RosyBrown}Everyday Life related...}$$
 - $$\text{\color{SeaGreen}General Science and Education...}$$
+    - higher education...
+        - university...
+            - [[Stanford University]]
+            - [[California Institute of Technology (CalTech)]]
+            - [[Cambridge University]]
+                - [[Cambridge University Press]]
+        - yuanxibumen4442, jiaozhiyuangong4221...
+            - [[Department of Applied Physics]]
+        - [[university hierarchy]]
+            - [[tenure status]]
+        - [[academic rank]]
+        - graduate school
+            - [[graduate student]]
+            - [[co-supervisor]]
+    - interdisciplinary...
+        - [[interdisciplinary field]]
+        - [[multidisciplinary field]]
 - $$\text{\color{PaleGoldenrod}Economy...?}$$
+    - Commerce
+    - Business
+        - product description...
+            - [[product size]]
+            - [[gross weight]]
+        - product quality
 - $$\text{\color{SteelBlue}Engineering and Industry}$$
+    - [[material science]]...
+        - material...
+    - [[Mechanical Engineering (ME)]]
+        - [[vehicle engineering]]...
+    - [[civil engineering]]
+    - [[transportation]]
+    - [Agriculture]([[agriculture]])
+        - [[crop rotation]]
 - [[meiz]]
     - [[hosted pictures]]
     - [[CRR]]...
