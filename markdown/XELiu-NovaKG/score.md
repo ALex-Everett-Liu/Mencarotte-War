@@ -153,6 +153,11 @@ page attribute -- roam
         - detail point 100 (pt9-100)
             - {{[[TODO]]}} [中石大][本科生]-哈工大研究生—2020[年度总结](https://www.bilibili.com/video/BV1ni4y1c7KG) -- dl
             - {{[[TODO]]}} [CJ木](https://space.bilibili.com/768041/dynamic)
+            - **-菫時-** -- [bili](https://space.bilibili.com/796556)
+                - {{[[TODO]]}} 【Burefu × 菫時】[スキキライ](https://www.bilibili.com/video/BV1d741117Yd)【歌ってみた】 DL wyy
+                - 谢谢你的喜欢。
+直播内容：唱见电台   直播时间：早8-11
+直播通知·交友·游戏开黑群：821783329，验证答案：鸽了呀
             - 这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）
 这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
             - [如果说有谁][通敌](https://www.zhihu.com/question/311589547/answer/1167977280)的，[那也只能是][此期间]与[后金][书信往来]，亲热无比，配合[绞杀]毛文龙[东江军]的袁崇焕，而不可能是被后金[视作仇敌]的毛文龙。
