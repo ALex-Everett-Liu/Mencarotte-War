@@ -118,6 +118,7 @@ Completed after 4 days.
             - 【[Comfy](https://www.bilibili.com/video/BV1bt411w7Hb)】在房间里进行随机敲击/触发/无底噪/本子/笔/化妆品护肤品 [Tapping Around In My Room](https://youtu.be/oPHQzmXGrtM) 
 pgb: 17m
             - Juny 用牙齿刮擦圆珠笔的[声音](https://www.bilibili.com/video/BV1zZ4y157MC)
+            - {{[[TODO]]}} 网页资源嗅探
         -  detail point 99.98 (pt10-99.98)
             {{[[TODO]]}} 博得之门3[创建人物]法师的[剧情流程](https://www.bilibili.com/video/BV1A54y1s7ty)解说1-7
 pgb: 15m
@@ -141,6 +142,7 @@ page attribute -- roam
                 - 雷电模拟器
             illusion game
                 - {{[[DONE]]}} hs2 整合包
+            {{[[TODO]]}} 【[蘑菇](https://www.bilibili.com/audio/au85858?type=7)】SAYONARA （てぃあら） DL
         - detail point 99.97 (pt10-99.97)
             - 272部 剑桥史系 [pdf 下载](https://bbs.northdy.com/thread-733963-1-1.html)
             - **信息素的信息** [bilibili](https://space.bilibili.com/44412187)
@@ -166,6 +168,7 @@ page attribute -- roam
 AE 始终不会用
             - [veracrypt](https://www.yuque.com/deerain/gannbs/yt53ob) 我使用了一下，对于稍微喜欢[折腾一点]的人很适合，也很有成就感和安全感（毕竟需要好一套[骚操作]和专门看一看网上的[操作教程]）。
                 - cryptomator 也很不错，易用，对于[小白用户]友好。毕竟需要[云加密]的用户就那么多，这波用户中想不折腾的也占多数。该软件能将[源文件]分解成[密码文件]就已经达到绝大多数人的需求。[易用性]更被大家所关心。
+            - {{[[TODO]]}} "[1]: [高文德][主编]．《[中国少数民族史][大辞典]》：[吉林教育出版社]，1995年12月：第1051页"
         - detail point 99.99 (pt9-99.99)
             - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
