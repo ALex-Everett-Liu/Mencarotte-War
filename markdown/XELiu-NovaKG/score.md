@@ -169,6 +169,7 @@ AE 始终不会用
         - detail point 99.99 (pt9-99.99)
             - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
+            - **清华简《楚居》和史记《楚世家》矛盾挺大的** -- [安大简](https://bbs.northdy.com/thread-920725-1-1.html)说季连就是穴熊; 季连=穴熊=鬻熊
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
         - detail point 99.97 (pt9-99.97)
