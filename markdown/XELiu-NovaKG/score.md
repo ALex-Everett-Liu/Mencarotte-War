@@ -182,6 +182,7 @@ AE 始终不会用
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
             - **清华简《楚居》和史记《楚世家》矛盾挺大的** -- [安大简](https://bbs.northdy.com/thread-920725-1-1.html)说季连就是穴熊; 季连=穴熊=鬻熊
                 - 《史记》把季连、穴熊、鬻熊[视作][不同的人]，而且[连成谱系]，可能是[汉代][才形成的观点]，战国时期的[楚人][未必这样认为]。
+            - [about RemNote](https://www.zhihu.com/people/xia-tao-kai-16)
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
         - detail point 99.97 (pt9-99.97)

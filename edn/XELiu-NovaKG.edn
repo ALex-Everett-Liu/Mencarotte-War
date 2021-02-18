@@ -7119,8 +7119,8 @@
   [4398 :version/id "0.8.1" 536889300]
   [4398
    :version/nonce
-   "uuide1abbe2d-213f-4028-b935-3d6ef0e1bee0"
-   536896721]
+   "uuidced1d2a2-b7f3-4426-a402-4fb4b720ffcd"
+   536896726]
   [4399 :block/open true 536889303]
   [4399 :block/order 1 536889303]
   [4399 :block/page 4288 536889304]
@@ -26691,6 +26691,7 @@
   [6340 :block/children 6341 536895391]
   [6340 :block/children 6649 536895977]
   [6340 :block/children 6732 536896679]
+  [6340 :block/children 6738 536896722]
   [6340 :block/open true 536895384]
   [6340 :block/order 2 536895386]
   [6340 :block/page 3840 536895385]
@@ -30794,4 +30795,20 @@
   [6737 :edit/time 1613611086655 536896721]
   [6737 :edit/user 3 536896721]
   [6737 :log/id 1613611086654 536896721]
-  [6737 :node/title "February 18th, 2021" 536896721]]}
+  [6737 :node/title "February 18th, 2021" 536896721]
+  [6738 :block/open true 536896722]
+  [6738 :block/order 3 536896722]
+  [6738 :block/page 3840 536896723]
+  [6738 :block/parents 3840 536896723]
+  [6738 :block/parents 3842 536896723]
+  [6738 :block/parents 3896 536896723]
+  [6738 :block/parents 6340 536896723]
+  [6738
+   :block/string
+   "[about RemNote](https://www.zhihu.com/people/xia-tao-kai-16)"
+   536896726]
+  [6738 :block/uid "OBR_s05kQ" 536896722]
+  [6738 :create/time 1613622865057 536896722]
+  [6738 :create/user 3 536896722]
+  [6738 :edit/time 1613622872920 536896726]
+  [6738 :edit/user 3 536896722]]}
