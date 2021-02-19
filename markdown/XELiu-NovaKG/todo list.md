@@ -24,12 +24,18 @@ https://www.bilibili.com/video/BV1mJ411B7YB
     - bili coin list 210101
         - {{[[DONE]]}} ...
 
+    - upload to cloud disk
+        - muli-20210218_210925.mp4; 20210205_213439.mp4
+        - {{[[DONE]]}} ...
+
     - music?
         - trick and treat
         - うたかた花火 (Utakata Hanabi)
 - comment? point of view? wait to be classified...
     - "每每看到 Notion 用户丢人现眼的傻逼言论，感叹他们实在缺乏见识与视野的同时，又让我对 Notion 的厌恶更增多了一分。当然了，论傻逼言论，那都比不上 Notion 自家创始人 Ivan Zhao 的那些访谈，深刻印证了他的产品是个空有其表内在劣质的花架子。
 210121-19:55"
+    - 直接指责一个科普类答主“靠煽动爱国情绪吸引别人的关注”，这不是人身攻击吗？   -- zhihu, jubao34
+210217-21pm
 - skill? thought?  -- 技巧与心得...
     - "block ref 相当于 pull or clone，^^之后应当允许一种 fork or branch 的操作^^，感想于 [this](https://cn.logseq.com/t/topic/290/8) talk thread.
 210212-16:05"

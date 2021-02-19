@@ -3586,6 +3586,54 @@
             }
           },
           {
+            "string": "upload to cloud disk",
+            "create-time": 1613701895105,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "muli-20210218_210925.mp4; 20210205_213439.mp4",
+                "create-time": 1613701915728,
+                "uid": "kQ_4Bi0ob",
+                "edit-time": 1613701941664,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "{{[[DONE]]}} ...\n",
+                "create-time": 1613701909139,
+                ":block/refs": [
+                  {
+                    ":block/uid": "GvlsE868L"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "GvlsE868L"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "LP6qpH1gm",
+                "edit-time": 1613701913804,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "QlIfZHurK",
+            "edit-time": 1613701907878,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "music?",
             "create-time": 1608000901751,
             ":create/user": {
@@ -3655,6 +3703,18 @@
             },
             "uid": "rqZhTpBXm",
             "edit-time": 1611965195918,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "直接指责一个科普类答主“靠煽动爱国情绪吸引别人的关注”，这不是人身攻击吗？   -- zhihu, jubao34\n210217-21pm",
+            "create-time": 1613705016793,
+            "uid": "ZYSkHGOew",
+            "edit-time": 1613705053592,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -32677,19 +32737,67 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "AHNTvPZZw",
-            "edit-time": 1613691275848,
+            "edit-time": 1613703463789,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "Since hierarchical churches, such as the Roman Catholic (see Catholic Church hierarchy) and Eastern Orthodox churches, had tables of organization that were \"hierarchical\" in the modern sense of the word (traditionally with God as the pinnacle or head of the hierarchy), the term came to refer to similar organizational methods in secular settings.",
-            "create-time": 1613691017597,
+            "edit-time": 1613702378437,
+            "children": [
+              {
+                "string": "She sometimes misses the way [the Eid is celebrated] in her [native country], [开斋节] especially when she is [in secular settings]. 世俗的 www.tingvoa.com",
+                "create-time": 1613702319392,
+                "uid": "NXHq28DSN",
+                "edit-time": 1613702338539,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qlEnigff3"
+              },
+              {
+                "uid": "bYZZI38ci"
+              },
+              {
+                "uid": "2lfkZrIVW"
+              },
+              {
+                "uid": "Oqmrm8WGQ"
+              },
+              {
+                "uid": "BmjUCgyEj"
+              }
+            ],
             "uid": "7RXuphrxf",
-            "edit-time": 1613691024276,
+            ":block/refs": [
+              {
+                ":block/uid": "qlEnigff3"
+              },
+              {
+                ":block/uid": "bYZZI38ci"
+              },
+              {
+                ":block/uid": "2lfkZrIVW"
+              },
+              {
+                ":block/uid": "Oqmrm8WGQ"
+              },
+              {
+                ":block/uid": "BmjUCgyEj"
+              }
+            ],
+            "string": "Since [[hierarchical church]]es, such as the [[Roman Catholic]] (see [[Catholic Church hierarchy]]) and [[Eastern Orthodox]] churches, had [tables of organization] that were \"hierarchical\" [in the modern sense of the word] (traditionally with God as [the pinnacle or head of the hierarchy]), the term [came to refer to] similar [organizational methods] in [[secular settings]].",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "create-time": 1613691017597,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -32715,6 +32823,109 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "heading": 2
+      },
+      {
+        "string": "Representing hierarchies",
+        "create-time": 1613703069961,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "A hierarchy is [typically depicted as] a [[pyramid]], where [the height of a level] represents that [level's status]([[level status]]) and [width of a level]([[level width]]) represents [the quantity of items] at that level [relative to the whole].[8] For example, [the few Directors of a company]([[board of directors]]) could be [at the apex]([[apex]]), and the [[base]] could be [thousands of people] who [have no subordinates].",
+            "create-time": 1613703086314,
+            ":block/refs": [
+              {
+                ":block/uid": "f_xJz-MGK"
+              },
+              {
+                ":block/uid": "CX--FAeOd"
+              },
+              {
+                ":block/uid": "cNY3ds5un"
+              },
+              {
+                ":block/uid": "RNHZYjcsR"
+              },
+              {
+                ":block/uid": "ecm-lLumP"
+              },
+              {
+                ":block/uid": "YsZajIw9p"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "f_xJz-MGK"
+              },
+              {
+                "uid": "CX--FAeOd"
+              },
+              {
+                "uid": "cNY3ds5un"
+              },
+              {
+                "uid": "RNHZYjcsR"
+              },
+              {
+                "uid": "ecm-lLumP"
+              },
+              {
+                "uid": "YsZajIw9p"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "3SJcUjJ0q",
+            "edit-time": 1613703576247,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "These pyramids are often diagrammed with a triangle diagram which serves to emphasize the size differences between the levels (but note that not all triangle/pyramid diagrams are hierarchical; for example, the 1992 USDA food guide pyramid). An example of a triangle diagram appears to the right.",
+            "create-time": 1613703087459,
+            "uid": "lRfKr7KE3",
+            "edit-time": 1613703092350,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Another common representation of a hierarchical scheme is as a tree diagram. Phylogenetic trees, charts showing the structure of § organizations, and playoff brackets in sports are often illustrated this way.",
+            "create-time": 1613703088683,
+            "uid": "c2hnQ9PuU",
+            "edit-time": 1613703582941,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "More recently, as computers have allowed the storage and navigation of ever larger data sets, various methods have been developed to represent hierarchies in a manner that makes more efficient use of the available space on a computer's screen. Examples include fractal maps, TreeMaps and Radial Trees.",
+            "create-time": 1613703070411,
+            "uid": "g2C6WNj6K",
+            "edit-time": 1613703088689,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "x7iML-BXj",
+        "edit-time": 1613703070418,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "2Xhp2L5PE",
@@ -39502,11 +39713,35 @@
   {
     "create-time": 1613691236927,
     "title": "celestial hierarchy",
-    "uid": "ZUrmQI8jb",
-    "edit-time": 1613691236929,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "天体, 天国, 天阶; from WordNet: the [collective body] of [[angel]]s 集合体",
+        "create-time": 1613703467045,
+        ":block/refs": [
+          {
+            ":block/uid": "fWb3aLpTW"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "fWb3aLpTW"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Ow8gKYFCi",
+        "edit-time": 1613703503468,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ZUrmQI8jb",
+    "edit-time": 1613691236929,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -39540,6 +39775,150 @@
     "title": "February 19th, 2021",
     "uid": "02-19-2021",
     "edit-time": 1613697489847,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613702191451,
+    "title": "hierarchical church",
+    "uid": "qlEnigff3",
+    "edit-time": 1613702191452,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613702191451,
+    "title": "Roman Catholic",
+    "uid": "bYZZI38ci",
+    "edit-time": 1613702191452,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613702228917,
+    "title": "Catholic Church hierarchy",
+    "uid": "2lfkZrIVW",
+    "edit-time": 1613702228918,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613702228917,
+    "title": "Eastern Orthodox",
+    "uid": "Oqmrm8WGQ",
+    "edit-time": 1613702228918,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613702276053,
+    "title": "secular settings",
+    "uid": "BmjUCgyEj",
+    "edit-time": 1613702276054,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613703224162,
+    "title": "pyramid",
+    "uid": "f_xJz-MGK",
+    "edit-time": 1613703224171,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613703286468,
+    "title": "level status",
+    "uid": "CX--FAeOd",
+    "edit-time": 1613703286470,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613703286468,
+    "title": "level width",
+    "uid": "cNY3ds5un",
+    "edit-time": 1613703286470,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613703360320,
+    "title": "board of directors",
+    "uid": "RNHZYjcsR",
+    "edit-time": 1613703360321,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613703503472,
+    "title": "angel",
+    "uid": "fWb3aLpTW",
+    "edit-time": 1613703503472,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613703564798,
+    "title": "apex",
+    "uid": "ecm-lLumP",
+    "edit-time": 1613703564810,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613703564798,
+    "title": "base",
+    "uid": "YsZajIw9p",
+    "edit-time": 1613703564810,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
