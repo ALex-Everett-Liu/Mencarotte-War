@@ -7123,8 +7123,8 @@
   [4398 :version/id "0.8.1" 536889300]
   [4398
    :version/nonce
-   "uuid091af999-9e6c-4814-a479-c1c0c9de0e92"
-   536897153]
+   "uuid2bd4d172-2eae-4fcb-89e8-154ec84b37e9"
+   536897162]
   [4399 :block/open true 536889303]
   [4399 :block/order 1 536889303]
   [4399 :block/page 4288 536889304]
@@ -31457,28 +31457,30 @@
   [6794 :block/page 6775 536897105]
   [6794 :block/parents 6775 536897105]
   [6794 :block/parents 6789 536897105]
+  [6794 :block/refs 6809 536897156]
   [6794
    :block/string
-   "The ultimate authority resides with the board of directors. 最高权力属于 《牛津高阶英汉双解词典》"
-   536897102]
+   "The [[ultimate authority]] [resides with the board of directors]. 最高权力属于 《牛津高阶英汉双解词典》"
+   536897155]
   [6794 :block/uid "JjjeZCxJF" 536897102]
   [6794 :create/time 1613710694954 536897102]
   [6794 :create/user 3 536897102]
-  [6794 :edit/time 1613710694958 536897102]
+  [6794 :edit/time 1613721258029 536897155]
   [6794 :edit/user 3 536897102]
   [6795 :block/open true 536897102]
   [6795 :block/order 4 536897102]
   [6795 :block/page 6775 536897106]
   [6795 :block/parents 6775 536897106]
   [6795 :block/parents 6789 536897106]
+  [6795 :block/refs 6810 536897160]
   [6795
    :block/string
-   "There were calls for her resignation from the board of directors. 有人要求她辞去"
-   536897102]
+   "[There were calls for] her [[resignation]] from the board of directors. [有人要求]她辞去"
+   536897159]
   [6795 :block/uid "hV_yUn-Xd" 536897102]
   [6795 :create/time 1613710694954 536897102]
   [6795 :create/user 3 536897102]
-  [6795 :edit/time 1613710694958 536897102]
+  [6795 :edit/time 1613723244235 536897159]
   [6795 :edit/user 3 536897102]
   [6796 :block/open true 536897102]
   [6796 :block/order 5 536897102]
@@ -31498,12 +31500,12 @@
   [6797 :block/parents 6789 536897108]
   [6797
    :block/string
-   "He served on the board of directors of a local bank. 《柯林斯高阶英汉双解学习词典》"
-   536897102]
+   "He served on the board of directors of a [local bank]. 《柯林斯高阶英汉双解学习词典》"
+   536897161]
   [6797 :block/uid "uMv3g8Eak" 536897102]
   [6797 :create/time 1613710694954 536897102]
   [6797 :create/user 3 536897102]
-  [6797 :edit/time 1613710694958 536897102]
+  [6797 :edit/time 1613723253110 536897161]
   [6797 :edit/user 3 536897102]
   [6798 :block/open true 536897102]
   [6798 :block/order 7 536897102]
@@ -31512,12 +31514,12 @@
   [6798 :block/parents 6789 536897109]
   [6798
    :block/string
-   "I'm responsible to my board of directors."
-   536897102]
+   "[I'm responsible to] my board of directors."
+   536897162]
   [6798 :block/uid "AkiRzQ_gN" 536897102]
   [6798 :create/time 1613710694954 536897102]
   [6798 :create/user 3 536897102]
-  [6798 :edit/time 1613710694958 536897102]
+  [6798 :edit/time 1613723359022 536897162]
   [6798 :edit/user 3 536897102]
   [6799 :block/string "" 536897111]
   [6799 :block/uid "QOG1QoBMH" 536897111]
@@ -31584,4 +31586,16 @@
   [6807 :create/time 1613716355561 536897135]
   [6807 :create/user 3 536897135]
   [6807 :edit/time 1613716356993 536897137]
-  [6807 :edit/user 3 536897135]]}
+  [6807 :edit/user 3 536897135]
+  [6809 :block/uid "aC-ixMk0y" 536897156]
+  [6809 :create/time 1613721258037 536897156]
+  [6809 :create/user 3 536897156]
+  [6809 :edit/time 1613721258038 536897156]
+  [6809 :edit/user 3 536897156]
+  [6809 :node/title "ultimate authority" 536897156]
+  [6810 :block/uid "WV9dBX1YH" 536897160]
+  [6810 :create/time 1613723244239 536897160]
+  [6810 :create/user 3 536897160]
+  [6810 :edit/time 1613723244240 536897160]
+  [6810 :edit/user 3 536897160]
+  [6810 :node/title "resignation" 536897160]]}
