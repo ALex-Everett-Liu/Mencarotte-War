@@ -192,8 +192,11 @@ AE 始终不会用
             - [知识图谱](https://www.douban.com/note/779473508/)[符合]大脑对[信息存储]的[实现模型]，但是[不符合][心理模型]。原因很简单：[树]有很简单的[遍历方式]（DFS 和 BFS），可以[显著减少]用户[思考时的][心智压力]，但是图不行；  作者：joodo（来自豆瓣）
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
+            - PDF [换行会有空格]，目前我发现两个[解决方案](https://zhuanlan.zhihu.com/p/350762459)：
+                - md 文件用 Emeditor 打开后[正则替换]——查找：`([一-龥])\s([一-龥])` 替换：`\1\2`
         - detail point 99.97 (pt9-99.97)
             - 法师驾到 DND
+            - 很多[反驳意见]，说一千道一万，[其实本质都是][用惯了的东西][本能就想维护](https://www.zhihu.com/question/434589285/answer/1624472192)而已。因为我目前看到的针对“朊”的批评，都可以用在“肽”，“氨”，“甾”，“胩”上，但是他们却不反感上述这些字。为什么呢？不过是[守护现有规则]的本能罢了。
             - {{[[TODO]]}} bdwp [2T空盘](https://www.ghpym.com/bdwpzyad); u5w 
             - 小容量的FAT32，大容量的NTFS，不要考虑 [exFat](https://zhuanlan.zhihu.com/p/86116170)。原因很简单：1、exFAT丢文件、丢文件、丢文件；2、exFAT 兼容性，尤其插手机、电视机；3、exFAT 要授权，比如插NAS
     - level 8
