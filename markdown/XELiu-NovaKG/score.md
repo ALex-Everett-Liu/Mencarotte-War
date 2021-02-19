@@ -38,6 +38,9 @@
                 - 兄弟 QGIS 不是只能导入数据包和.shp文件来可视化嘛？还能用来设计？
 不过谭图的配准是我自己做的
             - note-taking...
+                - {{[[TODO]]}} Roam Research [没有解决的问题](https://www.zhihu.com/question/384453977/answer/1714579914) -- 1、如何让“笔记第二脑”[像人的大脑一样]形成^^有“概率权重”的图谱^^，[图谱功能]的[鸡肋感]这点，也是目前[被用户][广为诟病]的[一个问题]。
+                    - 26.偶尔，[我会发现][一个想法]使[一系列]其他的[观察结果][失效]，比如“中国强盗”的[概念](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/). 这[基本上][使我相信]我也容易[受到媒体的操纵] 
+                    - 27.由于Twitter支持[串联线索]（thread），而且Twitter的[长度限制][迫使你][原子化地][处理想法]，因此Twitter[实际上可以]比Evernote[更好地成为][第二个大脑] | Twitter作为第二个大脑的缺点是，你[不再思考]那些可能[使你难堪]的想法，或者让你[面临社会风险]。问题是，如果你试图成为用twitter写论文的先驱，那么你在公共场合思考，所以你有意识地或下意识地转向思考那些有社会回报的思想 | 因此Roam的特别之处在于，用Twitter+富文本编辑器的理念解决了“网状结构”构建的问题，也通过标签部分解决了知识分类的问题，但是“正确的工具”[应该不止]目前Roam[现有的][产品形态]。 
                 - {{[[TODO]]}} Roam的属性功能（[Attributes](https://cn.logseq.com/t/topic/165)）可以用于块（Block）和页面（Page），而经过几天尝试，发现logseq目前有块属性（Block Property)，好像只能作用于块（block），单独用于页面（Page）效果与Roam有一定区别。
                     - [Attributes in Roam](https://roamresearch.com/#/app/help/page/LJOc7nRiO)
                 - {{[[TODO]]}} 感谢作者讲解，已入坑。roam research 作者也可以试一下，两项工具的设计思路有类似之处。希望 [trilium](https://sspai.com/post/59792) 未来能有汉化。
@@ -65,8 +68,11 @@ Completed after 4 days.
                 - {{[[TODO]]}} [Diius mod](https://bbs.52pcgame.net/forum.php?mod=viewthread&tid=356830) **男人國與女人國**
                 - {{[[TODO]]}} 十字军之王/CK3 中国MOD 三国MOD [龙战三国](https://www.bilibili.com/video/BV1tt4y167fW) 
                     - 初版功能介绍 吕奉先痛失爱妻 娶貂蝉北上称王
+                - {{[[TODO]]}} 一些P社CK3MOD[板块][画的大饼](https://tieba.baidu.com/p/7022191041)
+                    - ^^Anbennar 是一个[基于D&D的]EU4[奇幻MOD]，现在[制作组][决定制作]CK3版^^，开始时间为EU4版（1444）的422年前（1022）
             - {{[[TODO]]}} sawako; 憂衣 (ui); wyy ポジティブ・パレード
-            - {{[[TODO]]}} aika somkil; u5w-video dl; magnet dl; 郑珍妮
+            - {{[[TODO]]}} aika somkil; 鹤 jp shashin; u5w-video dl; magnet dl; 郑珍妮
+            - {{[[TODO]]}} 猫九酱Sakura 2019, 某blog repost (202011? check my gnote) || 0051.jpg
             - {{[[TODO]]}} cnki account; 
             - {{[[TODO]]}} characters modding; ck3 backup; chrome indexDB backup; 
             - {{[[TODO]]}} roam/css; js; roam page or block attribute; score; temp; meiz/crr; adding figs; 
@@ -183,6 +189,7 @@ AE 始终不会用
             - **清华简《楚居》和史记《楚世家》矛盾挺大的** -- [安大简](https://bbs.northdy.com/thread-920725-1-1.html)说季连就是穴熊; 季连=穴熊=鬻熊
                 - 《史记》把季连、穴熊、鬻熊[视作][不同的人]，而且[连成谱系]，可能是[汉代][才形成的观点]，战国时期的[楚人][未必这样认为]。
             - [about RemNote](https://www.zhihu.com/people/xia-tao-kai-16)
+            - [知识图谱](https://www.douban.com/note/779473508/)[符合]大脑对[信息存储]的[实现模型]，但是[不符合][心理模型]。原因很简单：[树]有很简单的[遍历方式]（DFS 和 BFS），可以[显著减少]用户[思考时的][心智压力]，但是图不行；  作者：joodo（来自豆瓣）
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} UltraCompare
         - detail point 99.97 (pt9-99.97)
