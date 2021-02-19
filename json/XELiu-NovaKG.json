@@ -3798,6 +3798,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "((5zDq2HSGM))",
+            "create-time": 1613716355561,
+            ":block/refs": [
+              {
+                ":block/uid": "5zDq2HSGM"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5zDq2HSGM"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "3SK9OZVF4",
+            "edit-time": 1613716356993,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "TUC8AozHM",
@@ -39492,8 +39514,21 @@
     },
     "children": [
       {
+        "string": "my view: sb文章，垃圾，逻辑一窍不通。",
+        "create-time": 1613708736107,
+        "uid": "jkGkJt_Ry",
+        "edit-time": 1613709087959,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "高兴东, 佟强. [凤凰山山城][历史沿革][有关问题][J]. [辽宁省博物馆][馆刊]. 2019, (00)",
         "create-time": 1613576922673,
+        "heading": 2,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -39634,11 +39669,110 @@
       {
         "string": "凤凰山山城位于辽宁省凤城市[东南郊]凤凰山[风景名胜区][东侧]，被认为是[鸭绿江右岸] [规模最大的][高句丽山城]。1996年山城[被公布为][全国重点文物保护单位]，[十一五期间][被确定为][国家重点保护]的[全国一百处大遗址]之一，[其重要性][不言而喻]。然而，目前“对凤凰山山城的地位、性质、功能、[始建时间]等问题[尚缺乏进一步的研究]” 1 。身为[山城所在地] 的一名[文物工作者]，[对此不能不汗颜]。",
         "create-time": 1613577688471,
-        "uid": "TiVIIytJ4",
-        "edit-time": 1613577758632,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "据实而言，[笔者]对凤凰山山城（以下简称山城）还是有一些[粗浅认识]，但[出于种种顾虑][一直藏私]。[陋室徘徊]，还是觉得应该[不揣浅陋]，[直抒胸臆]，[以期]引起有益的[学术争议]，使山城的研究工作能够[得以推进]。如有对[前辈方家][冒犯处]，[恳祈原宥]。更有[幼稚不妥之处]，[拜求][不吝指正]。",
+            "create-time": 1613708527847,
+            "uid": "ema5nPFFS",
+            "edit-time": 1613708574522,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "TiVIIytJ4",
+        "edit-time": 1613577758632,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "一、山城概况",
+        "create-time": 1613708618002,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "山城[地处][叆河流域]，叆河自其东8公里[蜿蜒流经]，下游东南30公里[滨河]有汉代[[西安平县 (Xi Anping)]][城址]。山城东南距[鸭绿江出海口]50公里。",
+            "create-time": 1613708618659,
+            ":block/refs": [
+              {
+                ":block/uid": "n3wSZohxH"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "n3wSZohxH"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "VPB3669a4",
+            "edit-time": 1613708828611,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "山城周边的[人文地理环境][颇耐人寻味]。山城西侧凤凰山[风景名胜区]，其诸多景点， 如凤凰洞、拜祖石、箭眼、点将台、掉梳楼等，就是以[唐太宗东征]为背景[附会而来]。山城[东南方向][不远]有一条河流，当地称[饮马河]，[相传就是][唐朝征东大军][饮马处]。在山城东 南4公里的一面山，[明清之际]称[龙山]，[源于何时][缘自何由][暂不可考]，但[以龙为名]大多应与[帝王]有关。在山城北门至叆河之间的[金家沟]和新华[一带]，当地又称为[折将屯]，相传唐王征东时在此[折过一员大将]，而在[正史中]，确实记载有[左武卫将军][王君愕]“从[太宗征辽]，领左屯营兵，与高丽战[驻跸山]，[死于阵]” [2](((Fao7xnGXv))) 。",
+            "create-time": 1613708864836,
+            ":block/refs": [
+              {
+                ":block/uid": "Fao7xnGXv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Fao7xnGXv"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "AwuZVy7TF",
+            "edit-time": 1613708998645,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rnO9x2I8n",
+        "edit-time": 1613708618667,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Reference ",
+        "create-time": 1613708980588,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[2]: 《新唐书》[卷一百一十六]《王及善传》。",
+            "create-time": 1613708983560,
+            "uid": "Fao7xnGXv",
+            "edit-time": 1613709006213,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "EcsFK9p74",
+        "edit-time": 1613708983328,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -39773,11 +39907,25 @@
   {
     "create-time": 1613697489847,
     "title": "February 19th, 2021",
-    "uid": "02-19-2021",
-    "edit-time": 1613697489847,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "我又想到一点，等 WorkFlowy 出了双向链接功能后， mirror 可以类似于 roam 的 page title 层面的双向链接 —— 每一个`[[]]`块都是平等的，没有主从之分；copy link 可以类似于 roam 的 block ref 层面 —— 有一个主体`(())`，其他块去引用它（先不管是不是所有位置同步更新修改的），那样的话可以说是比 roam 还要浑然一体的方案了。\n210119-14:30",
+        "create-time": 1613716326104,
+        "uid": "5zDq2HSGM",
+        "edit-time": 1613716785829,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "02-19-2021",
+    "edit-time": 1613697489847,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -39881,11 +40029,177 @@
   {
     "create-time": 1613703360320,
     "title": "board of directors",
-    "uid": "RNHZYjcsR",
-    "edit-time": 1613703360321,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1613710691896,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[N-COUNT] 董事会；理事会 -- A company's board of directors is [the group of people] [[elect]]ed by its [[shareholder]]s to [[manage the company]].",
+            "create-time": 1613710694954,
+            ":block/refs": [
+              {
+                ":block/uid": "fpjrqATqg"
+              },
+              {
+                ":block/uid": "2mn5Ws0lw"
+              },
+              {
+                ":block/uid": "XDanY3PM6"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "fpjrqATqg"
+              },
+              {
+                "uid": "2mn5Ws0lw"
+              },
+              {
+                "uid": "XDanY3PM6"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "gxXQdNg0l",
+            "edit-time": 1613710727817,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[WordNet]]: [a group of persons] chosen to [govern the affairs] of a [[corporation]] or other [[large institution]]. -- Synonym: directorate",
+            "create-time": 1613710694954,
+            ":block/refs": [
+              {
+                ":block/uid": "RSzTdEgdm"
+              },
+              {
+                ":block/uid": "ChBZnHuNP"
+              },
+              {
+                ":block/uid": "GDPkubRZs"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "RSzTdEgdm"
+              },
+              {
+                "uid": "ChBZnHuNP"
+              },
+              {
+                "uid": "GDPkubRZs"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "AxEZWxorg",
+            "edit-time": 1613710761487,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The Board of Directors has [approved the decision unanimously]([[approve the decision]]). 一致批准",
+            "create-time": 1613710694954,
+            ":block/refs": [
+              {
+                ":block/uid": "1ErMCszoF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "1ErMCszoF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "uEf9DGGHW",
+            "edit-time": 1613714286388,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The ultimate authority resides with the board of directors. 最高权力属于 《牛津高阶英汉双解词典》",
+            "create-time": 1613710694954,
+            "uid": "JjjeZCxJF",
+            "edit-time": 1613710694958,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "There were calls for her resignation from the board of directors. 有人要求她辞去",
+            "create-time": 1613710694954,
+            "uid": "hV_yUn-Xd",
+            "edit-time": 1613710694958,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He's on the board of directors. ",
+            "create-time": 1613710694954,
+            "uid": "RuZCw5T1Q",
+            "edit-time": 1613710694958,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He served on the board of directors of a local bank. 《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1613710694954,
+            "uid": "uMv3g8Eak",
+            "edit-time": 1613710694958,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I'm responsible to my board of directors.",
+            "create-time": 1613710694954,
+            "uid": "AkiRzQ_gN",
+            "edit-time": 1613710694958,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5f0WlZyDM",
+        "edit-time": 1613710694099,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "RNHZYjcsR",
+    "edit-time": 1613703360321,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -39919,6 +40233,90 @@
     "title": "base",
     "uid": "YsZajIw9p",
     "edit-time": 1613703564810,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613708828613,
+    "title": "西安平县 (Xi Anping)",
+    "uid": "n3wSZohxH",
+    "edit-time": 1613708828614,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613710727820,
+    "title": "elect",
+    "uid": "fpjrqATqg",
+    "edit-time": 1613710727831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613710727820,
+    "title": "shareholder",
+    "uid": "2mn5Ws0lw",
+    "edit-time": 1613710727831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613710727820,
+    "title": "manage the company",
+    "uid": "XDanY3PM6",
+    "edit-time": 1613710727831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613710761490,
+    "title": "corporation",
+    "uid": "ChBZnHuNP",
+    "edit-time": 1613710761491,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613710761490,
+    "title": "large institution",
+    "uid": "GDPkubRZs",
+    "edit-time": 1613710761491,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613714286392,
+    "title": "approve the decision",
+    "uid": "1ErMCszoF",
+    "edit-time": 1613714286393,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
