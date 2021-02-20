@@ -50,6 +50,10 @@
                 - {{[[TODO]]}} Railscast before 210129 in github -- 绝对是最好看的一版，改回来！ -- refer to the screenshot 20382
                     - [Railscast for roam](https://github.com/jmharris903/Railscast-for-Roam-Research-Theme)
                     - check the [commit history](https://github.com/jmharris903/Railscast-for-Roam-Research-Theme/commits/master/RailsRoam.css)
+                - {{[[TODO]]}} [鹅先知](https://www.zhihu.com/people/LY_x7x7): [这么看来](https://www.zhihu.com/question/436018808/answer/1699804012)，你对 daily note 的理解类似 PARA 处理信息的一种方式，不过这里用的是另一套逻辑，是基于卡片和卡片之间的双向连接和层级关系。
+
+                    - 这个过程其实也是对一些[笔记的typo][进行修改]，一些[未完成的内容]做[填补]。
+我感觉采用 obsidian 这种双向链接和脑图的工具，其实我的很多规矩应该重新考虑。
                 - {{[[DONE]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
 Completed after 4 days.
                     - However, I'm beginning to think this is an issue with Roam, not an issue with the script. I’ve had this experience trying to export markdown backups manually as well, the loading wheel just spins and eventually, the web page becomes unresponsive.
@@ -157,6 +161,8 @@ page attribute -- roam
             [冰点文库下载器](https://zhuanlan.zhihu.com/p/335965748)可以下载百度文库，豆丁，畅享网，mbalib，hp009，mab.book118 等文库文档且无需积分，无需注册和登录。生成pdf格式文档 ，只要把文档页面的网址复制到冰点文库下载器的输入框内，即可生成PDF文件，也可导出word文档。
     - level 9
         - detail point 100 (pt9-100)
+            - {{[[TODO]]}} 中县干部那篇论文里08年就提到过，因为[计生](https://www.zhihu.com/question/394135987/answer/1683760019)给[第二代门阀]来了个[釜底抽薪]
+                - 因为刚刚计划生育的时候有钱人群体还没有形成，社会上层都是在严格计生的扫射范围之内，所以[上层家族]无法生产[足够多的人口]去[填补位置真空]。所以底层上升的通道还是非常开放的。所以大家会发现严格计生的那些年，每个人都好像充满了希望。
             - {{[[TODO]]}} [中石大][本科生]-哈工大研究生—2020[年度总结](https://www.bilibili.com/video/BV1ni4y1c7KG) -- dl
             - {{[[TODO]]}} [CJ木](https://space.bilibili.com/768041/dynamic)
             - **-菫時-** -- [bili](https://space.bilibili.com/796556)
