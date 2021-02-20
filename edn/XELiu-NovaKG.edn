@@ -88,7 +88,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 1,
+      :order 0,
       :content-id "MQYWiGTyQ"},
      "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66"
      {:page-uid "WnHQsRcsa",
@@ -96,7 +96,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 2,
+      :order 1,
       :content-id "WnHQsRcsa"},
      "uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
      {:page-uid "Vj9Rpr3De",
@@ -104,10 +104,10 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 3,
+      :order 1,
       :content-id "Vj9Rpr3De"}},
     :roam/js {:active-blocks #{"OrKb9pc_c"}}}
-   536896871]
+   536897523]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [4 :block/uid "01-30-2021" 536870916]
   [4 :create/time 1611962030919 536870916]
@@ -7124,8 +7124,8 @@
   [4398 :version/id "0.8.1" 536889300]
   [4398
    :version/nonce
-   "uuid8e4441d8-7c22-4f95-9a22-4dc794448cf2"
-   536897521]
+   "uuidad3207ad-cb51-4980-95be-b20f0fbb5565"
+   536897603]
   [4399 :block/open true 536889303]
   [4399 :block/order 1 536889303]
   [4399 :block/page 4288 536889304]
@@ -18920,7 +18920,9 @@
   [5567 :edit/user 3 536892982]
   [5568 :block/children 5569 536892991]
   [5568 :block/children 6853 536897498]
-  [5568 :block/open false 536897521]
+  [5568 :block/children 6858 536897525]
+  [5568 :block/children 6866 536897561]
+  [5568 :block/open true 536897524]
   [5568 :block/order 3 536895391]
   [5568 :block/page 3840 536892987]
   [5568 :block/parents 3840 536892987]
@@ -18934,7 +18936,7 @@
   [5568 :edit/time 1613120002465 536892997]
   [5568 :edit/user 3 536892986]
   [5569 :block/open true 536892988]
-  [5569 :block/order 0 536892991]
+  [5569 :block/order 2 536897568]
   [5569 :block/page 3840 536892989]
   [5569 :block/parents 3840 536892989]
   [5569 :block/parents 3842 536892989]
@@ -31840,14 +31842,19 @@
   [6829 :block/parents 6828 536897301]
   [6829 :block/refs 6830 536897310]
   [6829 :block/refs 6831 536897314]
+  [6829 :block/refs 6868 536897591]
+  [6829 :block/refs 6869 536897596]
+  [6829 :block/refs 6870 536897596]
+  [6829 :block/refs 6871 536897598]
+  [6829 :block/refs 6872 536897603]
   [6829
    :block/string
-   "The Tiele (Chinese: 鐵勒; pinyin: __Tiělè__, Turkic __*Tegreg__ \"[People of the] Carts\"[2]), also transliterated as Dili (Chinese: 狄歷), Chile (Chinese: [[敕勒 (Chile)]]), Zhile (Chinese: 直勒), Tele (Chinese: 特勒), also named Gaoche or Gaoju (Chinese: [[高車 (Gaoche)]], \"High Carts\"),[3][4][5] were a tribal confederation of Turkic ethnic origins[6] living to the north of China and in Central Asia, emerging after the disintegration of the confederacy of the Xiongnu.[7] Chinese sources associate them with the earlier Dingling (Chinese: 丁零).[8][9][10]"
-   536897313]
+   "The Tiele (Chinese: 鐵勒; pinyin: __Tiělè__, Turkic __*Tegreg__ \"[People of the] Carts\"[2]), also [[transliterated]] as Dili (Chinese: 狄歷), Chile (Chinese: [[敕勒 (Chile)]]), Zhile (Chinese: 直勒), Tele (Chinese: 特勒), also named Gaoche or Gaoju (Chinese: [[高車 (Gaoche)]], \"High Carts\"),[3][4][5] were a [[tribal confederation]] 部落联盟 of [[Turkic ethnic origin]]s[6] [living to the north of China] and in [Central Asia], emerging after the disintegration of the [[confederacy]] of the Xiongnu.[7] [Chinese sources] [associate them with] the earlier Dingling (Chinese: [[丁零 (Dingling)]]).[8][9][10]"
+   536897602]
   [6829 :block/uid "gRLfuyhi_" 536897300]
   [6829 :create/time 1613735310706 536897300]
   [6829 :create/user 3 536897300]
-  [6829 :edit/time 1613735419857 536897313]
+  [6829 :edit/time 1613787857065 536897602]
   [6829 :edit/user 3 536897300]
   [6830 :block/uid "3Vj1-N3As" 536897310]
   [6830 :create/time 1613735381643 536897310]
@@ -32077,7 +32084,7 @@
   [6851 :node/title "fulfill" 536897492]
   [6853 :block/children 6854 536897498]
   [6853 :block/open true 536897498]
-  [6853 :block/order 1 536897498]
+  [6853 :block/order 3 536897568]
   [6853 :block/page 3840 536897499]
   [6853 :block/parents 3840 536897499]
   [6853 :block/parents 3842 536897499]
@@ -32133,4 +32140,144 @@
   [6857 :edit/time 1613783855953 536897522]
   [6857 :edit/user 3 536897522]
   [6857 :log/id 1613783855949 536897522]
-  [6857 :node/title "February 20th, 2021" 536897522]]}
+  [6857 :node/title "February 20th, 2021" 536897522]
+  [6858 :block/children 6861 536897550]
+  [6858 :block/open false 536897558]
+  [6858 :block/order 0 536897525]
+  [6858 :block/page 3840 536897526]
+  [6858 :block/parents 3840 536897526]
+  [6858 :block/parents 3842 536897526]
+  [6858 :block/parents 3896 536897526]
+  [6858 :block/parents 5568 536897526]
+  [6858 :block/refs 3900 536897528]
+  [6858
+   :block/string
+   "{{[[TODO]]}} 使用“物体”作为[基本单元](https://www.zhihu.com/question/424782770/answer/1516086432)的[问题关键在于]物体[这一概念]的[时间延展]是不确定的，[直观上][我们习惯把][某一特定空间延展的集合]称为物体，然而[随着时间变化]，[物体的同一性][是成问题的]，也就是[忒休斯之船][疑难]。而“事件”没有这个问题，它没有[时间上的延展]，不同[时间断面]上的事件之间只会有[因果关系]而[不需要有同一性]。"
+   536897545]
+  [6858 :block/uid "jn0LEJNHZ" 536897525]
+  [6858 :create/time 1613786621197 536897525]
+  [6858 :create/user 3 536897525]
+  [6858 :edit/seen-by 3 536897553]
+  [6858 :edit/time 1613786687558 536897545]
+  [6858 :edit/user 3 536897525]
+  [6860 :block/open true 536897550]
+  [6860 :block/order 0 536897556]
+  [6860 :block/page 3840 536897551]
+  [6860 :block/parents 3840 536897551]
+  [6860 :block/parents 3842 536897551]
+  [6860 :block/parents 3896 536897551]
+  [6860 :block/parents 5568 536897551]
+  [6860 :block/parents 6858 536897551]
+  [6860 :block/parents 6861 536897557]
+  [6860
+   :block/string
+   "相对论下，时间和空间相互关联，甚至时空连续体不再假设为欧几里得几何，这个时候没有了明显易算直观的正宗切法，物体就不再是一个方便的提法，索性直接指定广义坐标，也就是事件。或者说，当考虑时空连续体整体成为了必要，而不再只是一种花里胡哨的想象，我们很自然地要将其最基本元素-点，即事件-而不是更复杂的结构-曲线，如物体-视作世界的基本组成。"
+   536897550]
+  [6860 :block/uid "OZAioGQcm" 536897550]
+  [6860 :edit/seen-by 3 536897555]
+  [6860 :edit/time 1613786830005 536897550]
+  [6860 :edit/user 3 536897550]
+  [6861 :block/children 6860 536897556]
+  [6861 :block/open true 536897550]
+  [6861 :block/order 0 536897550]
+  [6861 :block/page 3840 536897552]
+  [6861 :block/parents 3840 536897552]
+  [6861 :block/parents 3842 536897552]
+  [6861 :block/parents 3896 536897552]
+  [6861 :block/parents 5568 536897552]
+  [6861 :block/parents 6858 536897552]
+  [6861
+   :block/string
+   "非相对论下，时间和空间是相互独立，静止绝对的，我们可以假想整个空间静止在某一个时刻，相当于在时空连续体中垂直于时间轴横切一刀。这一刀由于时间和空间的独立性，存在一个正宗的切法，一个正宗的方向。这种情况下，我们可以很方便地讨论一个时刻的空间切片下的点，此时这个点是整个时空连续体的事件，也是该时刻空间里的物体。"
+   536897550]
+  [6861 :block/uid "tONtgYfLQ" 536897550]
+  [6861 :edit/seen-by 3 536897553]
+  [6861 :edit/time 1613786830005 536897550]
+  [6861 :edit/user 3 536897550]
+  [6862 :block/string "" 536897554]
+  [6862 :block/uid "JEW9QIx9S" 536897554]
+  [6862 :edit/time 1613786830030 536897554]
+  [6862 :edit/user 3 536897554]
+  [6864 :block/open true 536897561]
+  [6864 :block/order 0 536897568]
+  [6864 :block/page 3840 536897562]
+  [6864 :block/parents 3840 536897562]
+  [6864 :block/parents 3842 536897562]
+  [6864 :block/parents 3896 536897562]
+  [6864 :block/parents 5568 536897562]
+  [6864 :block/parents 6866 536897569]
+  [6864
+   :block/string
+   "我相信，对于[一般的][数据分析]，张量要比矩阵用处大得多，也[直观得多]。"
+   536897579]
+  [6864 :block/uid "7UtXD4Qpf" 536897561]
+  [6864 :edit/seen-by 3 536897567]
+  [6864 :edit/time 1613787116462 536897579]
+  [6864 :edit/user 3 536897561]
+  [6865 :block/open true 536897561]
+  [6865 :block/order 1 536897568]
+  [6865 :block/page 3840 536897563]
+  [6865 :block/parents 3840 536897563]
+  [6865 :block/parents 3842 536897563]
+  [6865 :block/parents 3896 536897563]
+  [6865 :block/parents 5568 536897563]
+  [6865 :block/parents 6866 536897570]
+  [6865
+   :block/string
+   "矩阵的[特殊意义]在于[表示论]，比如[题主]说的[几何意义]，就是诸如[旋转群的矩阵表示]。[这类问题的关键]并不在于矩阵乘法的意义和操作，而在于[旋转群]本身的乘法以及为什么可以[用矩阵表示]。"
+   536897588]
+  [6865 :block/uid "qXehsW2ug" 536897561]
+  [6865 :edit/seen-by 3 536897580]
+  [6865 :edit/time 1613787137780 536897588]
+  [6865 :edit/user 3 536897561]
+  [6866 :block/children 6864 536897568]
+  [6866 :block/children 6865 536897568]
+  [6866 :block/open true 536897561]
+  [6866 :block/order 1 536897561]
+  [6866 :block/page 3840 536897564]
+  [6866 :block/parents 3840 536897564]
+  [6866 :block/parents 3842 536897564]
+  [6866 :block/parents 3896 536897564]
+  [6866 :block/parents 5568 536897564]
+  [6866
+   :block/string
+   "反而是[强行区分](https://www.zhihu.com/question/28623194/answer/1519333873)哪个是行，哪个是列，并且把[矩阵相乘]描述成一种把[排列好的数][按照奇怪规则]相乘相加，在[多数情况下]是[费解]的。"
+   536897589]
+  [6866 :block/uid "4jHwslrul" 536897561]
+  [6866 :edit/seen-by 3 536897565]
+  [6866 :edit/time 1613787140887 536897589]
+  [6866 :edit/user 3 536897561]
+  [6867 :block/string "" 536897566]
+  [6867 :block/uid "2DGpTzlvT" 536897566]
+  [6867 :edit/time 1613787076110 536897566]
+  [6867 :edit/user 3 536897566]
+  [6868 :block/uid "Pk0VCM58v" 536897591]
+  [6868 :create/time 1613787694325 536897591]
+  [6868 :create/user 3 536897591]
+  [6868 :edit/time 1613787694327 536897591]
+  [6868 :edit/user 3 536897591]
+  [6868 :node/title "transliterated" 536897591]
+  [6869 :block/uid "gGNXIzxyj" 536897596]
+  [6869 :create/time 1613787831266 536897596]
+  [6869 :create/user 3 536897596]
+  [6869 :edit/time 1613787831269 536897596]
+  [6869 :edit/user 3 536897596]
+  [6869 :node/title "tribal confederation" 536897596]
+  [6870 :block/uid "Hxir4iRpt" 536897596]
+  [6870 :create/time 1613787831266 536897596]
+  [6870 :create/user 3 536897596]
+  [6870 :edit/time 1613787831269 536897596]
+  [6870 :edit/user 3 536897596]
+  [6870 :node/title "Turkic ethnic origin" 536897596]
+  [6871 :block/uid "x89bSz1Fu" 536897598]
+  [6871 :create/time 1613787843415 536897598]
+  [6871 :create/user 3 536897598]
+  [6871 :edit/time 1613787843416 536897598]
+  [6871 :edit/user 3 536897598]
+  [6871 :node/title "confederacy" 536897598]
+  [6872 :block/uid "-9qBHz5-0" 536897603]
+  [6872 :create/time 1613787857068 536897603]
+  [6872 :create/user 3 536897603]
+  [6872 :edit/time 1613787857069 536897603]
+  [6872 :edit/user 3 536897603]
+  [6872 :node/title "丁零 (Dingling)" 536897603]]}

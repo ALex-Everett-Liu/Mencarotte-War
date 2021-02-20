@@ -3020,6 +3020,74 @@
                 },
                 "children": [
                   {
+                    "edit-time": 1613786687558,
+                    "children": [
+                      {
+                        "string": "非相对论下，时间和空间是相互独立，静止绝对的，我们可以假想整个空间静止在某一个时刻，相当于在时空连续体中垂直于时间轴横切一刀。这一刀由于时间和空间的独立性，存在一个正宗的切法，一个正宗的方向。这种情况下，我们可以很方便地讨论一个时刻的空间切片下的点，此时这个点是整个时空连续体的事件，也是该时刻空间里的物体。",
+                        "children": [
+                          {
+                            "string": "相对论下，时间和空间相互关联，甚至时空连续体不再假设为欧几里得几何，这个时候没有了明显易算直观的正宗切法，物体就不再是一个方便的提法，索性直接指定广义坐标，也就是事件。或者说，当考虑时空连续体整体成为了必要，而不再只是一种花里胡哨的想象，我们很自然地要将其最基本元素-点，即事件-而不是更复杂的结构-曲线，如物体-视作世界的基本组成。",
+                            "uid": "OZAioGQcm",
+                            "edit-time": 1613786830005,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "tONtgYfLQ",
+                        "edit-time": 1613786830005,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "8KYEF6ETA"
+                      }
+                    ],
+                    "uid": "jn0LEJNHZ",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8KYEF6ETA"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} 使用“物体”作为[基本单元](https://www.zhihu.com/question/424782770/answer/1516086432)的[问题关键在于]物体[这一概念]的[时间延展]是不确定的，[直观上][我们习惯把][某一特定空间延展的集合]称为物体，然而[随着时间变化]，[物体的同一性][是成问题的]，也就是[忒休斯之船][疑难]。而“事件”没有这个问题，它没有[时间上的延展]，不同[时间断面]上的事件之间只会有[因果关系]而[不需要有同一性]。",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1613786621197,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "反而是[强行区分](https://www.zhihu.com/question/28623194/answer/1519333873)哪个是行，哪个是列，并且把[矩阵相乘]描述成一种把[排列好的数][按照奇怪规则]相乘相加，在[多数情况下]是[费解]的。",
+                    "children": [
+                      {
+                        "string": "我相信，对于[一般的][数据分析]，张量要比矩阵用处大得多，也[直观得多]。",
+                        "uid": "7UtXD4Qpf",
+                        "edit-time": 1613787116462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "矩阵的[特殊意义]在于[表示论]，比如[题主]说的[几何意义]，就是诸如[旋转群的矩阵表示]。[这类问题的关键]并不在于矩阵乘法的意义和操作，而在于[旋转群]本身的乘法以及为什么可以[用矩阵表示]。",
+                        "uid": "qXehsW2ug",
+                        "edit-time": 1613787137780,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "4jHwslrul",
+                    "edit-time": 1613787140887,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "{{[[TODO]]}} UltraCompare",
                     "create-time": 1613119991089,
                     ":block/refs": [
@@ -40634,7 +40702,7 @@
     },
     "children": [
       {
-        "string": "The Tiele (Chinese: 鐵勒; pinyin: __Tiělè__, Turkic __*Tegreg__ \"[People of the] Carts\"[2]), also transliterated as Dili (Chinese: 狄歷), Chile (Chinese: [[敕勒 (Chile)]]), Zhile (Chinese: 直勒), Tele (Chinese: 特勒), also named Gaoche or Gaoju (Chinese: [[高車 (Gaoche)]], \"High Carts\"),[3][4][5] were a tribal confederation of Turkic ethnic origins[6] living to the north of China and in Central Asia, emerging after the disintegration of the confederacy of the Xiongnu.[7] Chinese sources associate them with the earlier Dingling (Chinese: 丁零).[8][9][10]",
+        "string": "The Tiele (Chinese: 鐵勒; pinyin: __Tiělè__, Turkic __*Tegreg__ \"[People of the] Carts\"[2]), also [[transliterated]] as Dili (Chinese: 狄歷), Chile (Chinese: [[敕勒 (Chile)]]), Zhile (Chinese: 直勒), Tele (Chinese: 特勒), also named Gaoche or Gaoju (Chinese: [[高車 (Gaoche)]], \"High Carts\"),[3][4][5] were a [[tribal confederation]] 部落联盟 of [[Turkic ethnic origin]]s[6] [living to the north of China] and in [Central Asia], emerging after the disintegration of the [[confederacy]] of the Xiongnu.[7] [Chinese sources] [associate them with] the earlier Dingling (Chinese: [[丁零 (Dingling)]]).[8][9][10]",
         "create-time": 1613735310706,
         ":block/refs": [
           {
@@ -40642,6 +40710,21 @@
           },
           {
             ":block/uid": "JEiOjMC-c"
+          },
+          {
+            ":block/uid": "Pk0VCM58v"
+          },
+          {
+            ":block/uid": "gGNXIzxyj"
+          },
+          {
+            ":block/uid": "Hxir4iRpt"
+          },
+          {
+            ":block/uid": "x89bSz1Fu"
+          },
+          {
+            ":block/uid": "-9qBHz5-0"
           }
         ],
         "refs": [
@@ -40650,13 +40733,28 @@
           },
           {
             "uid": "JEiOjMC-c"
+          },
+          {
+            "uid": "Pk0VCM58v"
+          },
+          {
+            "uid": "gGNXIzxyj"
+          },
+          {
+            "uid": "Hxir4iRpt"
+          },
+          {
+            "uid": "x89bSz1Fu"
+          },
+          {
+            "uid": "-9qBHz5-0"
           }
         ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "uid": "gRLfuyhi_",
-        "edit-time": 1613735419857,
+        "edit-time": 1613787857065,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -40949,6 +41047,66 @@
     "title": "February 20th, 2021",
     "uid": "02-20-2021",
     "edit-time": 1613783855953,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613787694325,
+    "title": "transliterated",
+    "uid": "Pk0VCM58v",
+    "edit-time": 1613787694327,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613787831266,
+    "title": "tribal confederation",
+    "uid": "gGNXIzxyj",
+    "edit-time": 1613787831269,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613787831266,
+    "title": "Turkic ethnic origin",
+    "uid": "Hxir4iRpt",
+    "edit-time": 1613787831269,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613787843415,
+    "title": "confederacy",
+    "uid": "x89bSz1Fu",
+    "edit-time": 1613787843416,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1613787857068,
+    "title": "丁零 (Dingling)",
+    "uid": "-9qBHz5-0",
+    "edit-time": 1613787857069,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
