@@ -26,6 +26,10 @@
                 - [[probability information]]
                 - [[definite value]]; [[exact value]]
                     - [[definite position]];
+        - [Geophysics]([[geophysics]])
+            - [Geography]([[geography]])
+                - [[terrain]]
+            - [[atmospheric science]]
     - $$\text{\color{turquoise}Mathematics}$$
     - $$\text{\color{greenyellow}Chemistry}$$
 - $$\text{\color{teal}Technology related...}$$
