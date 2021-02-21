@@ -1,3 +1,26 @@
 - shoes - kutsu
-    - black short boot
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-KG%2FXqm7rWGHBL.png?alt=media&token=7b1e19d3-34a7-43d3-8e98-5c0ed366dc48)
+    - leather shoes
+        - black leather shoes
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)"
+    - canvas
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)
+    - boot
+        - short boot
+            - black short boot
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-KG%2FXqm7rWGHBL.png?alt=media&token=7b1e19d3-34a7-43d3-8e98-5c0ed366dc48)
+- socks - kutsushita
+    - stocking
+        - black stocking
+            - black stocking (separate leg)
+                - pasted_image002-porn001.png
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)"
+    - black knee socks
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)
+- shitagi
+    - skirt
+        - jk seifuku
+            - dark blue skirt
+            - white short sleeves with blue
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Folrji6ip9j.png?alt=media&token=c6b5f29f-2efb-4ede-a731-7d588e9f2527)
+        - blue skirt
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)
