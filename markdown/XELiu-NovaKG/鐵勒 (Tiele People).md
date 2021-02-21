@@ -2,3 +2,8 @@
 - ## Chile and Gaoche
     - The name "Chile" and "Gaoche" [first appear in] [Chinese records] during the [[campaign]]s of [[前燕 (Former Yan)]] and Dai in 357 and 363 respectively. However, the [[protagonist]]s were also addressed as "Dingling" [in the records of] the [Southern Dynasties].[11] The name Gaoche ("high cart") was a [[nickname]] given by the Chinese.[12][13]
     - [By the time of] the [[柔然 (Rouran)]] domination, the Gaoche comprised six [tribes (種)]([[tribe]]) [14] and twelve [[clan]]s (姓).[15][16][17]
+        The Gaoche are probably remnants of the ancient Red Di. Initially they had been called Dili. Northerners take them as Chile. Chinese take them as Gaoche Dingling. Their language, in brief, and Xiongnu [language] are the same yet occasionally there are small differences. Or one may say that they [Gaoche] are the junior relatives[18] of the Xiongnu in former times.
+        The Gaoche migrate in search of grass and water. They dress in skins and eat meat. Their cattle and sheep are just like those of the Rouran, but the wheel of their carts are high and have very many spokes.
+            - — __[Weishu]__, 103
+        The predecessors of Huihe were Xiongnu. Because, customarily, they ride high-wheeled carts. They were also called Gaoche during the Yuan Wei times, or also called Chile, mistakenly rendered as Tiele.
+— Xin Tangshu, 232
