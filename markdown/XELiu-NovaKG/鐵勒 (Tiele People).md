@@ -2,8 +2,10 @@
 - ## Chile and Gaoche
     - The name "Chile" and "Gaoche" [first appear in] [Chinese records] during the [[campaign]]s of [[前燕 (Former Yan)]] and Dai in 357 and 363 respectively. However, the [[protagonist]]s were also addressed as "Dingling" [in the records of] the [Southern Dynasties].[11] The name Gaoche ("high cart") was a [[nickname]] given by the Chinese.[12][13]
     - [By the time of] the [[柔然 (Rouran)]] domination, the Gaoche comprised six [tribes (種)]([[tribe]]) [14] and twelve [[clan]]s (姓).[15][16][17]
-        The Gaoche are probably remnants of the ancient Red Di. Initially they had been called Dili. Northerners take them as Chile. Chinese take them as Gaoche Dingling. Their language, in brief, and Xiongnu [language] are the same yet occasionally there are small differences. Or one may say that they [Gaoche] are the junior relatives[18] of the Xiongnu in former times.
-        The Gaoche migrate in search of grass and water. They dress in skins and eat meat. Their cattle and sheep are just like those of the Rouran, but the wheel of their carts are high and have very many spokes.
-            - — __[Weishu]__, 103
-        The predecessors of Huihe were Xiongnu. Because, customarily, they ride high-wheeled carts. They were also called Gaoche during the Yuan Wei times, or also called Chile, mistakenly rendered as Tiele.
-— Xin Tangshu, 232
+        The Gaoche are probably remnants of the ancient [Red Di]. Initially they had been called Dili. Northerners take them as Chile. Chinese take them as [Gaoche Dingling]. Their language, in brief, and Xiongnu [language] are the same yet occasionally there are [small differences]. Or one may say that they [Gaoche] are the [junior relatives][18] 下级亲属 of the Xiongnu [in former times].
+        The Gaoche migrate in search of [grass and water]. They [dress in skins] and eat meat. Their cattle and sheep are just like those of the Rouran, but [the wheel of their carts]([[cart]]) are high and [have very many spokes].
+            - — [[魏书 (Weishu)]], 103
+        The [[predecessor]]s of [[回纥 (Huihe)]] were Xiongnu. Because, customarily, they [ride high-wheeled carts]. They were also called Gaoche during the [Yuan Wei] times, or also called Chile, mistakenly rendered as Tiele.
+— __Xin Tangshu__, 232
+    - One group known as the [[Eastern Gaoche (东部高车)]] probably dwelled from the [[Onon River]] to [[Lake Baikal]] ([[巳尼陂 (Sinipo)]]). However, their relationship with the rest of the Gaoche and its [tribal components] is unclear.[19]
+    - In 391 the Rouran chief, [[Heduohan (曷多汗)]] was killed by the [Tuoba Northern Wei]. Heduohan's brother Shelun ([[丘豆伐可汗 (Qiudoufa Khagan)]]) raided several [tribal dependencies] 部落属地 of the Tuoba in [[retaliation]], 作为报复 but reportedly [suffered a serious defeat] in 399, and was forced to [flee westward]. Here Shelun defeated the [[Hulu (斛律)]] tribe and subjugated them. With the aid of a Hulu named [[Chiluohou (叱洛侯)]], Shelun conquered most of the [Gaoche tribes] and proclaimed himself [Kaghan of the Rouran]([[Rouran Kaghan]]) on March 11, 402. Many Gaoche, such as Chiluohou, were promoted to [establish better control].[20][21]

@@ -24,3 +24,17 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Folrji6ip9j.png?alt=media&token=c6b5f29f-2efb-4ede-a731-7d588e9f2527)
         - blue skirt
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)
+    - shorts
+        - black leather shorts
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Fn73aetdNOD.png?alt=media&token=42971083-0ef1-4d10-8436-b4ed1380a6b3)
+    - 美腿 - beautiful legs
+- uwagi
+    - white long sleeves
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FF6OsbVB4uo.png?alt=media&token=31b281fd-b82e-49d9-ae6c-3b439bf3dddc)
+- underwear? private?
+    - naked?
+    - 美臀 - oshiri
+- girls' stuff...
+    - bag
+        - black bag
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)"
