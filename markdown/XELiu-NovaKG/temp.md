@@ -4,6 +4,6 @@
 - ...
 - 
 - todo today (real-time view)
-    - weibo; xibeizi310; なりすましゲンガー; rasenna watashi; maple; 你好李焕英
-    - jdjr
+    - weibo; 你好李焕英
+    - jdjr; anyTXT 作詞; なりすましゲンガー; rasenna watashi; maple; 
     - 

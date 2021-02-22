@@ -1321,14 +1321,11 @@
   [3896 :edit/time 1611964072020 536887729]
   [3896 :edit/user 3 536887729]
   [3897 :block/children 3898 536887729]
-  [3897 :block/children 5998 536893962]
-  [3897 :block/children 6025 536894090]
-  [3897 :block/children 6252 536895031]
   [3897 :block/children 6708 536896485]
   [3897 :block/children 6735 536896703]
-  [3897 :block/children 6875 536897637]
   [3897 :block/children 6912 536897857]
   [3897 :block/children 7041 536898475]
+  [3897 :block/children 7249 536899001]
   [3897 :block/open true 536893868]
   [3897 :block/order 0 536887729]
   [3897 :block/page 3840 536887755]
@@ -1342,7 +1339,7 @@
   [3897 :edit/time 1611964072020 536887729]
   [3897 :edit/user 3 536887729]
   [3898 :block/open false 536887775]
-  [3898 :block/order 1 536897647]
+  [3898 :block/order 0 536899008]
   [3898 :block/page 3840 536887755]
   [3898 :block/parents 3840 536887755]
   [3898 :block/parents 3842 536887755]
@@ -1430,26 +1427,26 @@
   [3907 :block/page 3902 536887768]
   [3907 :block/parents 3902 536887768]
   [3907 :block/parents 3906 536887768]
-  [3907
-   :block/string
-   "weibo; xibeizi310; なりすましゲンガー; rasenna watashi; maple; 你好李焕英"
-   536896320]
+  [3907 :block/string "weibo; 你好李焕英" 536899034]
   [3907 :block/uid "TvILpsCcT" 536887765]
   [3907 :create/time 1610206698646 536887765]
   [3907 :create/user 3 536887765]
-  [3907 :edit/time 1613559427282 536896320]
+  [3907 :edit/time 1613991896573 536899034]
   [3907 :edit/user 3 536887765]
   [3908 :block/open true 536887765]
   [3908 :block/order 1 536891386]
   [3908 :block/page 3902 536887768]
   [3908 :block/parents 3902 536887768]
   [3908 :block/parents 3906 536887768]
-  [3908 :block/string "jdjr" 536898980]
+  [3908
+   :block/string
+   "jdjr; anyTXT 作詞; なりすましゲンガー; rasenna watashi; maple; "
+   536899033]
   [3908 :block/uid "gZT5tZe9W" 536887765]
   [3908 :children/view-type :document 536887765]
   [3908 :create/time 1611052181749 536887765]
   [3908 :create/user 3 536887765]
-  [3908 :edit/time 1613979119029 536898980]
+  [3908 :edit/time 1613991884322 536899033]
   [3908 :edit/user 3 536887765]
   [3911 :block/children 3912 536887765]
   [3911 :block/children 3913 536887765]
@@ -13063,11 +13060,11 @@
   [4980 :block/page 3902 536891280]
   [4980 :block/parents 3902 536891280]
   [4980 :block/parents 3906 536891280]
-  [4980 :block/string "" 536891413]
+  [4980 :block/string "" 536899037]
   [4980 :block/uid "Jl78eJ9Wm" 536891279]
   [4980 :create/time 1612697509824 536891279]
   [4980 :create/user 3 536891279]
-  [4980 :edit/time 1612744744918 536891413]
+  [4980 :edit/time 1613992100042 536899037]
   [4980 :edit/user 3 536891279]
   [4981 :block/children 4983 536891292]
   [4981 :block/children 4984 536891292]
@@ -23420,12 +23417,13 @@
   [5997 :edit/time 1613320578586 536893961]
   [5997 :edit/user 3 536893953]
   [5998 :block/open true 536893962]
-  [5998 :block/order 4 536897860]
+  [5998 :block/order 1 536899016]
   [5998 :block/page 3840 536893963]
   [5998 :block/parents 3840 536893963]
   [5998 :block/parents 3842 536893963]
   [5998 :block/parents 3896 536893963]
   [5998 :block/parents 3897 536893963]
+  [5998 :block/parents 7249 536899005]
   [5998
    :block/string
    "[如果说有谁][通敌](https://www.zhihu.com/question/311589547/answer/1167977280)的，[那也只能是][此期间]与[后金][书信往来]，亲热无比，配合[绞杀]毛文龙[东江军]的袁崇焕，而不可能是被后金[视作仇敌]的毛文龙。"
@@ -23634,12 +23632,13 @@
   [6024 :edit/user 3 536894080]
   [6025 :block/children 6055 536894189]
   [6025 :block/open false 536894206]
-  [6025 :block/order 5 536897861]
+  [6025 :block/order 2 536899015]
   [6025 :block/page 3840 536894091]
   [6025 :block/parents 3840 536894091]
   [6025 :block/parents 3842 536894091]
   [6025 :block/parents 3896 536894091]
   [6025 :block/parents 3897 536894091]
+  [6025 :block/parents 7249 536899006]
   [6025
    :block/string
    "十七世纪俄中关系 -- 感觉[俄军]对清初的清军[评价还可以](https://bbs.northdy.com/thread-920574-1-1.html)啊 | 按照俄国人的记录，清军完全可以说是[火器时代]的军队了"
@@ -23891,6 +23890,7 @@
   [6055 :block/parents 3896 536894188]
   [6055 :block/parents 3897 536894188]
   [6055 :block/parents 6025 536894190]
+  [6055 :block/parents 7249 536899006]
   [6055
    :block/string
    "[俄国人][花了很多年][才搞明白][博格达汗]就是[大清皇帝]，[最早的认知里]“博格达汗”=[达斡尔][大酋长]。[哈巴罗夫]来黑龙江时带了给博格达汗的[劝降书]，上面[吓唬说]你博格达汗如果不[速速归降]，我们[西伯利亚]的六千大军就要来[杀你全家]。"
@@ -25887,6 +25887,7 @@
   [6251 :block/parents 3896 536895029]
   [6251 :block/parents 3897 536895029]
   [6251 :block/parents 6252 536895035]
+  [6251 :block/parents 7249 536899019]
   [6251
    :block/string
    "是的，若没有此事，又不是生活差到养不活女儿，再说嫁出去也能收彩礼，没必要打胎，男女比例会保持平衡的。"
@@ -25898,12 +25899,13 @@
   [6251 :edit/user 3 536895028]
   [6252 :block/children 6251 536895034]
   [6252 :block/open false 536895039]
-  [6252 :block/order 7 536897863]
+  [6252 :block/order 4 536899017]
   [6252 :block/page 3840 536895032]
   [6252 :block/parents 3840 536895032]
   [6252 :block/parents 3842 536895032]
   [6252 :block/parents 3896 536895032]
   [6252 :block/parents 3897 536895032]
+  [6252 :block/parents 7249 536899019]
   [6252
    :block/string
    "[男女性别比例](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1987966&extra=page%3D1%26filter%3Dtypeid%26typeid%3D140&page=2)严重偏高的地区，主要集中在中国中东部，其中江苏、甘肃、河南、湖北、江西、广东的部分地区，婴幼儿男女比例已经高过1.5∶1，其中江苏连云港市的赣榆区、湖北的武穴市，[男女比例]竟达到2左右。 "
@@ -30496,7 +30498,7 @@
   [6707 :edit/time 1613572836292 536896481]
   [6707 :edit/user 3 536896481]
   [6708 :block/open true 536896485]
-  [6708 :block/order 2 536897647]
+  [6708 :block/order 1 536899009]
   [6708 :block/page 3840 536896486]
   [6708 :block/parents 3840 536896486]
   [6708 :block/parents 3842 536896486]
@@ -30822,7 +30824,7 @@
   [6735 :block/children 6734 536896711]
   [6735 :block/children 6736 536896715]
   [6735 :block/open false 536896719]
-  [6735 :block/order 3 536897647]
+  [6735 :block/order 2 536899010]
   [6735 :block/page 3840 536896704]
   [6735 :block/parents 3840 536896704]
   [6735 :block/parents 3842 536896704]
@@ -31106,8 +31108,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuidca33116d-9972-4534-8bcf-150fbd09dd54"
-   536898980]
+   "uuid12b5fdc6-a706-442a-a363-325e3d65a8f5"
+   536899047]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -32376,12 +32378,13 @@
   [6874 :edit/user 3 536897617]
   [6875 :block/children 6876 536897647]
   [6875 :block/open false 536897653]
-  [6875 :block/order 0 536897637]
+  [6875 :block/order 0 536899016]
   [6875 :block/page 3840 536897638]
   [6875 :block/parents 3840 536897638]
   [6875 :block/parents 3842 536897638]
   [6875 :block/parents 3896 536897638]
   [6875 :block/parents 3897 536897638]
+  [6875 :block/parents 7249 536899013]
   [6875 :block/refs 3900 536897640]
   [6875
    :block/string
@@ -32400,6 +32403,7 @@
   [6876 :block/parents 3896 536897646]
   [6876 :block/parents 3897 536897646]
   [6876 :block/parents 6875 536897648]
+  [6876 :block/parents 7249 536899013]
   [6876
    :block/string
    "因为刚刚计划生育的时候有钱人群体还没有形成，社会上层都是在严格计生的扫射范围之内，所以[上层家族]无法生产[足够多的人口]去[填补位置真空]。所以底层上升的通道还是非常开放的。所以大家会发现严格计生的那些年，每个人都好像充满了希望。"
@@ -32541,6 +32545,7 @@
   [6889 :block/children 6686 536897783]
   [6889 :block/children 6887 536897732]
   [6889 :block/children 6888 536897732]
+  [6889 :block/children 7252 536899039]
   [6889 :block/open true 536897782]
   [6889 :block/order 4 536898935]
   [6889 :block/page 3840 536897730]
@@ -32790,7 +32795,7 @@
   [6912 :block/children 6914 536897868]
   [6912 :block/children 6918 536897923]
   [6912 :block/open true 536897857]
-  [6912 :block/order 6 536897862]
+  [6912 :block/order 4 536899018]
   [6912 :block/page 3840 536897858]
   [6912 :block/parents 3840 536897858]
   [6912 :block/parents 3842 536897858]
@@ -34211,7 +34216,7 @@
   [7040 :edit/time 1613911843198 536898470]
   [7040 :edit/user 3 536898468]
   [7041 :block/open true 536898472]
-  [7041 :block/order 8 536898475]
+  [7041 :block/order 5 536899018]
   [7041 :block/page 3840 536898473]
   [7041 :block/parents 3840 536898473]
   [7041 :block/parents 3842 536898473]
@@ -36197,4 +36202,74 @@
   [7247 :block/string "" 536898974]
   [7247 :block/uid "WADbNLy9K" 536898974]
   [7247 :edit/time 1613958864825 536898974]
-  [7247 :edit/user 3 536898974]]}
+  [7247 :edit/user 3 536898974]
+  [7248 :block/open true 536898981]
+  [7248 :block/order 3 536899014]
+  [7248 :block/page 3840 536898982]
+  [7248 :block/parents 3840 536898982]
+  [7248 :block/parents 3842 536898982]
+  [7248 :block/parents 3896 536898982]
+  [7248 :block/parents 3897 536898982]
+  [7248 :block/parents 7249 536899007]
+  [7248
+   :block/string
+   "问题在于，受到[苏式](https://www.zhihu.com/question/444455602/answer/1737996777)[民族识别]和[民族划分][政策]的影响，[多元文化][表象下]的[次级][一元文化认同][被构建起来]。[流沙化]和[大一统]都不可怕，可怕的是[大国之内]的[小姨统]，如在本朝[走衰]之前仍未可见中华民族之筑成，则[分崩离析][恐难避免]。当然，重建天朝则另说。"
+   536899000]
+  [7248 :block/uid "voNcxUowv" 536898981]
+  [7248 :create/time 1613987403878 536898981]
+  [7248 :create/user 3 536898981]
+  [7248 :edit/time 1613987467814 536899000]
+  [7248 :edit/user 3 536898981]
+  [7249 :block/children 5998 536899004]
+  [7249 :block/children 6025 536899004]
+  [7249 :block/children 6252 536899018]
+  [7249 :block/children 6875 536899012]
+  [7249 :block/children 7248 536899004]
+  [7249 :block/children 7250 536899020]
+  [7249 :block/open true 536899001]
+  [7249 :block/order 3 536899011]
+  [7249 :block/page 3840 536899002]
+  [7249 :block/parents 3840 536899002]
+  [7249 :block/parents 3842 536899002]
+  [7249 :block/parents 3896 536899002]
+  [7249 :block/parents 3897 536899002]
+  [7249 :block/string "history" 536899003]
+  [7249 :block/uid "L_NLfaTDO" 536899001]
+  [7249 :create/time 1613987643214 536899001]
+  [7249 :create/user 3 536899001]
+  [7249 :edit/time 1613987646365 536899003]
+  [7249 :edit/user 3 536899001]
+  [7250 :block/open true 536899020]
+  [7250 :block/order 5 536899020]
+  [7250 :block/page 3840 536899021]
+  [7250 :block/parents 3840 536899021]
+  [7250 :block/parents 3842 536899021]
+  [7250 :block/parents 3896 536899021]
+  [7250 :block/parents 3897 536899021]
+  [7250 :block/parents 7249 536899021]
+  [7250
+   :block/string
+   "[龙玉出冰天](https://www.zhihu.com/column/dsliu) -- [华夏人群]和文化的[高纬度北方起源](https://bbs.northdy.com/thread-921446-1-1.html)"
+   536899027]
+  [7250 :block/uid "k71W86uoq" 536899020]
+  [7250 :create/time 1613988963569 536899020]
+  [7250 :create/user 3 536899020]
+  [7250 :edit/time 1613988981856 536899027]
+  [7250 :edit/user 3 536899020]
+  [7252 :block/open true 536899039]
+  [7252 :block/order 4 536899039]
+  [7252 :block/page 3840 536899040]
+  [7252 :block/parents 3840 536899040]
+  [7252 :block/parents 3842 536899040]
+  [7252 :block/parents 3896 536899040]
+  [7252 :block/parents 3899 536899040]
+  [7252 :block/parents 6889 536899040]
+  [7252
+   :block/string
+   "就算按他自己说的从[宏观角度](https://zhuanlan.zhihu.com/p/346597171)看历史而不去[治史]，他这种不【甄别】【对比】史料的阅读方式，其实本质和看[地摊阴谋论]也没什么区别，[更遑论]他那所谓的归纳总结的【历史经验】了"
+   536899046]
+  [7252 :block/uid "9pIDBHRlq" 536899039]
+  [7252 :create/time 1613992621771 536899039]
+  [7252 :create/user 3 536899039]
+  [7252 :edit/time 1613992660994 536899046]
+  [7252 :edit/user 3 536899039]]}
