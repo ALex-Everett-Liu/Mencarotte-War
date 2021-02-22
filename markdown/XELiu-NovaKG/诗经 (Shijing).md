@@ -23,6 +23,17 @@ Kyūjitai: 詩經
     - [Early references] refer to the [[anthology]] as [the __300 Poems (shi)__]. The Odes [first became known as] a jīng, or a "[[classic book]]", [in the canonical sense], 在规范意义上 as part of the Han Dynasty [official adoption]([[adoption]]) of [[Confucianism]] as the [[guiding principle]]s of Chinese society.[__citation needed__] Before its [[elevation]] as a [[canonical classic]], 典范经典 the [Classic of Poetry (Shi jing)] [was known as] the __[Three Hundred Songs]__ or __[the Songs]__.[2]
 201110-13:24 
         The same word shi [later became] a [[generic term]] for [[poetry]].[1] In English, lacking an exact [[equivalent]] for the Chinese, [the translation of the word] shi [in this regard] is generally as "poem", "[[song]]", or "ode". 
+- ## Content
+    - The Classic of Poetry contains [the oldest chronologically authenticated] Chinese poems.[1] 按年代顺序证实/鉴定为最古老的 The majority of the Odes date to the [[西周 (Western Zhou)]] period (1046–771 BC), and were [drawn from] around 15 [[kingdom]]s, those which were mainly [provinces and cities] in the [[中原 (Zhongyuan)]] area. 
+        - A final [[section]] of 5 "Eulogies of Shang" [purports to be] [[ritual song]]s of the [[商王朝 (Shang dynasty)]] as [handed down by] their [[descendant]]s [in the state of Song]([[宋国 (Song State)]]), but is generally considered [quite late in date].[3][4] According to the [[东汉 (Eastern Han)]] scholar [[郑玄 (Zheng Xuan)]], the [latest material]([[material]]) in the Shijing was the song "Tree-stump Grove" (株林, 树桩林) in the "Odes of Chen", [dated to] the middle of the [[Spring and Autumn period]] ([c. 600 BC]).[5]
+201110-18:01 
+        - purport: shengcheng11, jucheng41, chuanshuo21, zhuangde xiangshi1044; yiwei44, yaozhi43, dasuan34
+
+        - eulogy: chengsong14, zanci42
+hymn: zanmeishi431, shengge41
+    - The [[content]] of the Poetry [can be divided into] [two main sections]: the "Airs of the States", and the [eulogies and hymns].[9] The "[Airs of the States]([[国风 (Guofeng)]])" are shorter [[lyric]]s [in simple language] that are generally ancient [[folk song]]s which record the [[voice]] of the [[common people]].[9] They often speak of [[love]] and [[courtship]], longing for [an absent lover], 渴望一个缺席的情人 [[soldier]]s on [[campaign]], [[farming]] and [[housework]], and [[political satire]] and [[protest]].[9] 政治讽刺与抗议 
+        - On the other hand, songs in the two "Hymns" sections and the "Eulogies" section tend to be longer [[ritual]] or [[sacrificial song]]s, usually [in the forms of] [courtly panegyrics] and [dynastic hymns] 宫廷颂歌与王朝赞美诗 which praise the [[founder]]s of the [Zhou dynasty].[9] They also include hymns used in [[sacrificial rite]]s and songs used by the [[aristocracy]] in their [sacrificial ceremonies]([[sacrificial ceremony]]) 祭献/祭祀仪式 or at [[banquet]]s.[10][11]
+201111-03:18 
 - versions
     - [[Shijing, William Jennings translation version]]
         - The [Shi King], the Old “Poetry Classic” of the Chinese. A close [[metrical translation]], 严密的格律翻译 with [[annotation]]s by [[William Jennings]] ([[London]]: [George Routledge and Sons], 1891).

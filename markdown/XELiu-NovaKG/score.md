@@ -52,9 +52,17 @@
                     - [Railscast for roam](https://github.com/jmharris903/Railscast-for-Roam-Research-Theme)
                     - check the [commit history](https://github.com/jmharris903/Railscast-for-Roam-Research-Theme/commits/master/RailsRoam.css)
                 - {{[[TODO]]}} [鹅先知](https://www.zhihu.com/people/LY_x7x7): [这么看来](https://www.zhihu.com/question/436018808/answer/1699804012)，你对 daily note 的理解类似 PARA 处理信息的一种方式，不过这里用的是另一套逻辑，是基于卡片和卡片之间的双向连接和层级关系。
-
                     - 这个过程其实也是对一些[笔记的typo][进行修改]，一些[未完成的内容]做[填补]。
 我感觉采用 obsidian 这种双向链接和脑图的工具，其实我的很多规矩应该重新考虑。
+                - 因为在 roam research 之前，tiddlywiki 和一些别 wiki 系统都可以通过各种[内置 marco] 显示出「[当前文档]被[哪些文档][引用]了」，但这种特性一直没怎么[受人们重视]，以我自己的[使用感受]来说，wiki 系统虽然列出了引用当前文档的文档，但时间一久我并不愿意费劲点进去查看引用处，可是不点进去的话光看那些文档名也看不出什么，渐渐地连文档名也不想看了。roam research [最大的改进]是在[反链]当中[具体显示][被引用处的上下文]，这样一来人们才愿意去看反链，解决了[传统 wiki] 的[引用列表][沦为冷板凳]的问题。
+                    - 思源现在的反链模式恰恰又碰上了传统 wiki 的老问题，最重要的[上下文信息]反而[被藏得最深]，需要[很多次展开]才能看到。[上层块的信息]可能也不是完全没用，但我想它的重要性应该是远远远远不如上下文的，因为上下文几乎是直接决定了用户愿不愿意去看反链，所以上下文应该处于一个用户无需手动点击就能一眼看到的位置。现在我在思源里虽然还开着[反链面板]，但一次都没再看过了，反链功能几乎等同于没有了，跟以前用传统 wiki 的情境如出一辙。
+                        - 我觉得这个问题的[核心矛盾]在于，[软件演进的历史][已经证明了][上下文]是反链[最重要的元素]，反链面板里的[其它东西][都应该为它让步]，不能[喧宾夺主]。
+                    - 作者：[deerain](https://ld246.com/article/1613823303971)
+                        - 协议：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
+                - 作者：deerain
+                - 链接：https://ld246.com/article/1613823303971
+                - 来源：链滴
+                - 协议：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
                 - {{[[DONE]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
 Completed after 4 days.
                     - However, I'm beginning to think this is an issue with Roam, not an issue with the script. I’ve had this experience trying to export markdown backups manually as well, the loading wheel just spins and eventually, the web page becomes unresponsive.
@@ -105,6 +113,7 @@ Completed after 4 days.
                 - {{[[TODO]]}} [Douzi Vlog](https://www.bilibili.com/video/BV1sK4y1Y7Cb) | 给朋友制作明星同款手幅，去哈工大研究生歌唱比赛当观众
                 - {{[[TODO]]}} [Harbin tour vlog](https://www.bilibili.com/video/BV1Zz4y1z7Dj)
             - note-taking...
+                - {{[[TODO]]}} 用 Dropbox [个人专业版](https://ld246.com/article/1612676461342/comment/1612701720904#comments)，容量 2T，比[坚果云][稳定多了]，很多坚果云不能[增量同步]的[文件类型] Dropbox 都可以增量同步（增量同步指的是[只同步]一个[大文件][更改的部分]，楼上说的那种情况不叫增量同步）
                 - {{[[TODO]]}} 这是笔者[联动](https://zhuanlan.zhihu.com/p/348262979)vscode与obsidian时常用的窗口布局图，ob和vscode使用了相同的主题，因此整体风格看起来很统一。为主编辑区，用来查看页面内容并编辑，可以看到我是采用了缩进当大纲的方式记录笔记的，这直接使得即时渲染对于我而言不再是刚需，也不用再绞尽脑汁思考该用几级标题了。
                     - 我还写了一个python脚本，如果需要导出标题层级的标准md，可以自动根据缩进关系生成标题层级，本文就是这么生成的。
                     - 笔者常常会在markdown文件中使用不少LaTeX语法记录公式，然而一个字符一个字符输入LaTeX语法实在太费功夫。笔者半年前看到这篇文章 1700页数学笔记火了！全程敲代码，速度飞快易搜索，硬核小哥教你上手LaTeX+Vim 后大为欣喜，__进一步探索之后发现利用vscode的自定义snippets功能即可实现__。配置好后，我的输入速度确实大有提升，从此是否支持snippets是我考虑笔记软件的一个重要因素。
@@ -208,6 +217,8 @@ AE 始终不会用
                     - 标签优点是可以创建[重叠的集合]，[适合浏览]并[引发洞察力]；缺点是[无层级的]，[低关联度]的，混乱的，所以很难[合并在一起]，并且要人脑提前猜测应有的结构。
                     - 搜索是我们对链接基础结构的信任，并从该[链接结构]中获得了[效率的大幅提高]。
                     - DEVONthink，它能够利用[AI算法]在数据库中，找出其他和[当前打开的文件][相关的文件]，换言之，它可以根据[词汇的重叠程度][自动分析]文章或笔记之间的[关联程度]，提供“See also”功能，让[内容关联][最紧密]的文章[集中显示]。这种关联并不是基于“关键字”，不是基于“标签”，而是[基于文本的内容]；这一切都是[智能的]，不需要[人工干预]的。当然，由于DEVONthink不能解决[中文分词问题]，对[中文材料]只能以句子作为[判断单位]，效果就差多了。
+                - 构建 DeFi 词典[这个事儿](https://www.chainnews.com/articles/588227154754.htm)[在我脑子中][一直占着坑]，我希望大家在看到一些炒的沸沸扬扬的东西的同时，可以找到一个**入口**去了解它出现的背景、它在哪些方面**改善 / 颠覆着传统金融**，以及我们可以用它来做什么 ... 不管你是从业者、专业金融人士、野生投资君还是吃吃小瓜的大多数。
+                    - 我们需要知道哪些东西是不一样的，会是更好的 optionality，哪些东西[没有那么玄乎]，去[形成自己的判断]。我觉得 DeFi 里没有[内行外行]，不是非得金融人 (i dont know what 金融人 is) 才[应该去了解]，恰恰相反，有太多[交叉学科]的人们在[进行着各种试验]，这个领域才刚刚开始。__Let's prepare for the decentralized economy🙋‍♂️ .__
             - {{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)
                 - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
             - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
@@ -244,6 +255,7 @@ AE 始终不会用
             - 很多[反驳意见]，说一千道一万，[其实本质都是][用惯了的东西][本能就想维护](https://www.zhihu.com/question/434589285/answer/1624472192)而已。因为我目前看到的针对“朊”的批评，都可以用在“肽”，“氨”，“甾”，“胩”上，但是他们却不反感上述这些字。为什么呢？不过是[守护现有规则]的本能罢了。
             - {{[[TODO]]}} bdwp [2T空盘](https://www.ghpym.com/bdwpzyad); u5w 
             - 小容量的FAT32，大容量的NTFS，不要考虑 [exFat](https://zhuanlan.zhihu.com/p/86116170)。原因很简单：1、exFAT丢文件、丢文件、丢文件；2、exFAT 兼容性，尤其插手机、电视机；3、exFAT 要授权，比如插NAS
+            - {{[[TODO]]}} 福昕阅读器
     - level 8
         - detail point 99.99 (pt8-99.99)
             - 过去数十年间，人们已经研究了绿头鸭·萨凡纳麻雀等多种鸟类、海豹[2]、蛙类[3]等各式各样的[脊椎动物][利用星光定向](https://www.zhihu.com/question/445258601/answer/1739870656)的方法。一些学者认为鸟会[从星空中][寻找模式]，就像古人[划分星座]那样，然后将星空和自己[内在的方向感][进行比对]来[校正前进方向]，[迁徙路线][跨越赤道]的鸟可能对[北天星空]、南天星空[各有一套认知]。海豹的[类似行为]则可能是在[实验过程]中[学习得来的]。
