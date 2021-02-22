@@ -23,3 +23,12 @@ Kyūjitai: 詩經
     - [Early references] refer to the [[anthology]] as [the __300 Poems (shi)__]. The Odes [first became known as] a jīng, or a "[[classic book]]", [in the canonical sense], 在规范意义上 as part of the Han Dynasty [official adoption]([[adoption]]) of [[Confucianism]] as the [[guiding principle]]s of Chinese society.[__citation needed__] Before its [[elevation]] as a [[canonical classic]], 典范经典 the [Classic of Poetry (Shi jing)] [was known as] the __[Three Hundred Songs]__ or __[the Songs]__.[2]
 201110-13:24 
         The same word shi [later became] a [[generic term]] for [[poetry]].[1] In English, lacking an exact [[equivalent]] for the Chinese, [the translation of the word] shi [in this regard] is generally as "poem", "[[song]]", or "ode". 
+- versions
+    - [[Shijing, William Jennings translation version]]
+        - The [Shi King], the Old “Poetry Classic” of the Chinese. A close [[metrical translation]], 严密的格律翻译 with [[annotation]]s by [[William Jennings]] ([[London]]: [George Routledge and Sons], 1891).
+201230-03:38
+            - About This Title:
+                - The [Shih Ching] ([The book of poetry]) [[predate]]s [Confucius] by some three centuries, although he is often [[credited]] with [arranging it into] its [current form] sometime around 520 [B.C.] 
+                - This work is a [[compilation]] of some three hundred [[verse]]s of poetry illustrating the [[proper conduct]] of a [[sovereign]] 君主的正当行为 and [[general rule]]s “for inculcation of [[propriety]] and [[righteousness]].” [礼义]
+201230-03:47
+    - [Book of Poetry] in [[Chinese Text Project]], [[English translation]]: [[James Legge]]
