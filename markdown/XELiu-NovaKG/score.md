@@ -233,6 +233,7 @@ AE 始终不会用
                     - DEVONthink，它能够利用[AI算法]在数据库中，找出其他和[当前打开的文件][相关的文件]，换言之，它可以根据[词汇的重叠程度][自动分析]文章或笔记之间的[关联程度]，提供“See also”功能，让[内容关联][最紧密]的文章[集中显示]。这种关联并不是基于“关键字”，不是基于“标签”，而是[基于文本的内容]；这一切都是[智能的]，不需要[人工干预]的。当然，由于DEVONthink不能解决[中文分词问题]，对[中文材料]只能以句子作为[判断单位]，效果就差多了。
                 - 构建 DeFi 词典[这个事儿](https://www.chainnews.com/articles/588227154754.htm)[在我脑子中][一直占着坑]，我希望大家在看到一些炒的沸沸扬扬的东西的同时，可以找到一个**入口**去了解它出现的背景、它在哪些方面**改善 / 颠覆着传统金融**，以及我们可以用它来做什么 ... 不管你是从业者、专业金融人士、野生投资君还是吃吃小瓜的大多数。
                     - 我们需要知道哪些东西是不一样的，会是更好的 optionality，哪些东西[没有那么玄乎]，去[形成自己的判断]。我觉得 DeFi 里没有[内行外行]，不是非得金融人 (i dont know what 金融人 is) 才[应该去了解]，恰恰相反，有太多[交叉学科]的人们在[进行着各种试验]，这个领域才刚刚开始。__Let's prepare for the decentralized economy🙋‍♂️ .__
+                - {{[[TODO]]}} [如何使用 AirTable 搭建科研学术知识库](https://zhuanlan.zhihu.com/p/352366728)
             - {{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)
                 - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
             - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
