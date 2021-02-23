@@ -59,10 +59,6 @@
                         - 我觉得这个问题的[核心矛盾]在于，[软件演进的历史][已经证明了][上下文]是反链[最重要的元素]，反链面板里的[其它东西][都应该为它让步]，不能[喧宾夺主]。
                     - 作者：[deerain](https://ld246.com/article/1613823303971)
                         - 协议：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
-                - 作者：deerain
-                - 链接：https://ld246.com/article/1613823303971
-                - 来源：链滴
-                - 协议：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
                 - {{[[DONE]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
 Completed after 4 days.
                     - However, I'm beginning to think this is an issue with Roam, not an issue with the script. I’ve had this experience trying to export markdown backups manually as well, the loading wheel just spins and eventually, the web page becomes unresponsive.

@@ -44,6 +44,12 @@ hymn: zanmeishi431, shengge41
 They hurry swiftly within the temple.                         駿奔走在廟
 Greatly illustrious, greatly honored,                          不顯不承
 May [King Wen] never be weary of [us] men.           無射於人斯
+- ## Style
+    - Whether the various Shijing poems were [folk songs] or not, they "all seem to have [passed through the hands of] [[men of letters]] at the [royal Zhou court]([[royal court]])".[13] In other words, they show an overall [[literary polish]] 文学润色 together with some general [[stylistic consistency]]. 文体上的一致性 
+        - About 95% of lines in the Poetry are written in a [[four-syllable meter]], 四音节的韵律/调式 with a slight [[caesura]] 音顿/休止 between the second and third syllables.[9] Lines tend to occur in [[syntactically]] [related couplets]([[couplet]]), 句法相关的对联 with occasional [[parallelism]], and [longer poems] are [generally divided into] [similarly structured]([[similar structure]]) [[stanza]]s.[14] 结构相似的诗节
+201112-23:29
+    - All but six of the "Eulogies" consist of a [single stanza], and the "Court Hymns" [exhibit wide variation in]([[variation]]) [the number of stanzas] and their lengths. Almost all of the "Airs", however, consist of three stanzas, with [four-line stanzas] [being most common].[15][16] Although a few [[rhyming couplet]]s occur, the [[standard pattern]] in such [four-line stanzas] required a [[rhyme]] between the second and fourth lines. Often the first or third lines would [rhyme with these], or [with each other].[17] This style [later became known as] the "shi" style for much of [Chinese history].
+201113-00:04
 - versions
     - [[Shijing, William Jennings translation version]]
         - The [Shi King], the Old “Poetry Classic” of the Chinese. A close [[metrical translation]], 严密的格律翻译 with [[annotation]]s by [[William Jennings]] ([[London]]: [George Routledge and Sons], 1891).
