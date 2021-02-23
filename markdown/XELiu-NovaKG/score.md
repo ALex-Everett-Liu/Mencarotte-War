@@ -77,6 +77,7 @@ Completed after 4 days.
             - {{[[TODO]]}} Wayback Machine
             - {{[[TODO]]}} [Chinese Beautiful Model](https://www.xvideos.com/video58111881/chinese_beautiful_model)
             - {{[[TODO]]}} Beautiful Asian model [gets some D](https://www.xvideos.com/video53750247/beautiful_asian_model_gets_some_d)
+            - {{[[TODO]]}} 汪榕培：[漫谈]《诗经》的[英译本](https://new.qq.com/cmsn/20180206/20180206017112.html)
             - game
                 - {{[[TODO]]}} [Diius mod](https://bbs.52pcgame.net/forum.php?mod=viewthread&tid=356830) **男人國與女人國**
                 - {{[[TODO]]}} 十字军之王/CK3 中国MOD 三国MOD [龙战三国](https://www.bilibili.com/video/BV1tt4y167fW) 
@@ -202,6 +203,8 @@ page attribute -- roam
                 - [前段时间][上网冲浪]的时候[突然想到]，做个像 [workflowy] 一样的[主页](https://www.yuque.com/idelem/zt/ny150b)也不错，所有内容都放在同一个页面里，一层层点击展开，渐入佳境（唯一的问题是对手机流量上网不友好）。既然 workflowy 自带导出功能，思路自然是把 workflowy 本身作为内容编辑器，再写脚本修改 html 文件。稍加研究后就实现了，在此记录下实现过程。
             - 其实很多[所谓的]玩[猫箱](https://bbs.saraba1st.com/2b/thread-1988791-2-1.html)梗的东西，[实质上只是][人择原理]的应用而已。
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
+            - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
+                - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。
         - detail point 99.99 (pt9-99.99)
             - note-taking
                 - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro
