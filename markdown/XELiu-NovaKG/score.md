@@ -196,6 +196,9 @@ page attribute -- roam
                 - [男女性别比例](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1987966&extra=page%3D1%26filter%3Dtypeid%26typeid%3D140&page=2)严重偏高的地区，主要集中在中国中东部，其中江苏、甘肃、河南、湖北、江西、广东的部分地区，婴幼儿男女比例已经高过1.5∶1，其中江苏连云港市的赣榆区、湖北的武穴市，[男女比例]竟达到2左右。 
                     - 是的，若没有此事，又不是生活差到养不活女儿，再说嫁出去也能收彩礼，没必要打胎，男女比例会保持平衡的。
                 - [龙玉出冰天](https://www.zhihu.com/column/dsliu) -- [华夏人群]和文化的[高纬度北方起源](https://bbs.northdy.com/thread-921446-1-1.html)
+                    - 无论箕子封朝鲜、肃慎来贡，穆王西征，似乎都表明商周时期，长城以北地区跟中原的联系仍然较为密切，绝非秦汉以降中原概念中的[异域]。
+                    - 我认为比较靠谱的是跪坐和帝的解释，[甲骨文]那个帝字和高寒地带太阳的姿态实在是太一致了。还有他对中国的解释，也是让人有恍然大悟之感
+                    - 东亚东南亚的玉器文化，很可能起源于南西伯利亚。
             - note-taking
                 - {{[[TODO]]}} roam iframe
                 - 接触 lute 的原因是有一些 feature 依靠 vditor [没办法实现]。举个例子，在 React Native 中[如何实现] [markdown 渲染](https://zhuanlan.zhihu.com/p/349925413)？难道是[套一个 WebView] [加载 H5]？虽然在[某些场景]不得不去这么实现，比如[依赖 KaTeX] 做[数学公式渲染]、abcjs 做[五线谱渲染]，要不就自己再[写一个库]？emmm WebView 会有[很多的限制]，而且其实在[移动端]做 [markdown 即时渲染]的[体验]不会很好。即使是 GitHub [官方的 APP] 也[没有实现]，然后我的眼光就放到了 lute 的身上
