@@ -133,7 +133,7 @@ Completed after 4 days.
             - {{[[TODO]]}} 录屏; bandicam; ...
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
-            - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～[唠嗑群](https://space.bilibili.com/2378703)574182082 -- 不许跑，我看到你了！O皿O
+            - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～ [唠嗑群](https://space.bilibili.com/2378703) 574182082 -- 不许跑，我看到你了！O皿O
             - {{[[TODO]]}} 在其他任何 Windows 系统上，使用 Windows+R 调出运行命令，输入 \\192.168.0.109，点击确定，如果让你[输入凭据]，这个凭据就是你[正在使用的][这台电脑]的[帐户名]以及密码。最后[即可找到]我们刚刚[共享的盘符](https://zhuanlan.zhihu.com/p/43391739)。
             - Best Sexy Girl Show Your Body At Home - [Part 6](https://www.xvideos.com/video53259667/best_sexy_girl_show_your_body_at_home_-_part_6)
             - [zvb](https://youtu.be/8e_6M94LAxE) 敲击、抓挠 随机物品 [无人声](https://www.bilibili.com/video/BV1pe411p7GP)
@@ -148,6 +148,9 @@ pgb: 17m
 pgb: 15m
             [银河不遗忘——质量效应三部曲与远去的第七世代](https://zhuanlan.zhihu.com/p/351489754)
             Sweety Chinese Nude Model [Hanna](https://www.xvideos.com/video35472517/sweety_chinese_nude_model_hanna_with_sexy_pantyhose) with Sexy Pantyhose
+            {{[[TODO]]}} [Telegram](https://zhuanlan.zhihu.com/p/348089039) 由于其开放性、灵活性、[监管少]，因此在Telegram上[有很多]不错的[分享电子书]及资料的群组、频道、Bot。
+                - 道理是这个道理，但是打开电报就不想看书了
+对，还要开大卡车。开各种日本车欧美车。
             tech...
                 - {{[[TODO]]}} [xcolor](https://blog.csdn.net/u014546828/article/details/104046713) 默认颜色只有19种，使用时可以在option中加入另外3张颜色表来极大扩充颜色库。
                     - https://www.jianshu.com/p/5aee7c366369
@@ -194,6 +197,11 @@ page attribute -- roam
                     - 是的，若没有此事，又不是生活差到养不活女儿，再说嫁出去也能收彩礼，没必要打胎，男女比例会保持平衡的。
                 - [龙玉出冰天](https://www.zhihu.com/column/dsliu) -- [华夏人群]和文化的[高纬度北方起源](https://bbs.northdy.com/thread-921446-1-1.html)
             - note-taking
+                - {{[[TODO]]}} roam iframe
+                - 接触 lute 的原因是有一些 feature 依靠 vditor [没办法实现]。举个例子，在 React Native 中[如何实现] [markdown 渲染](https://zhuanlan.zhihu.com/p/349925413)？难道是[套一个 WebView] [加载 H5]？虽然在[某些场景]不得不去这么实现，比如[依赖 KaTeX] 做[数学公式渲染]、abcjs 做[五线谱渲染]，要不就自己再[写一个库]？emmm WebView 会有[很多的限制]，而且其实在[移动端]做 [markdown 即时渲染]的[体验]不会很好。即使是 GitHub [官方的 APP] 也[没有实现]，然后我的眼光就放到了 lute 的身上
+                    - 因为自己是[物理系]的，对[公式输入][很敏感]所以早都[基于 KaTeX] 尝试[实现了 Tex]
+                    - 不过，这几天发现 vditor 有一个问题我还是感觉挺严重的。当 vditor 和 SSR [一起使用的时候]，[可能会导致][页面崩溃]，甚至是[浏览器崩溃]。当你在 sv 模式下输入 iframe 这个 [HTML 标签]，可能会[导致一些问题]。[具体讨论]可以看这个 issue [#918](https://link.zhihu.com/?target=https%3A//link.ld246.com/forward%3Fgoto%3Dhttps%253A%252F%252Fgithub.com%252FVanessa219%252Fvditor%252Fissues%252F918) ，需求是在这个 issue [#906](https://link.zhihu.com/?target=https%3A//link.ld246.com/forward%3Fgoto%3Dhttps%253A%252F%252Fgithub.com%252FVanessa219%252Fvditor%252Fissues%252F906) 提出的。
+                    - 让我[从零开始]设计一个社区给不同学科、不同专业的同学来使用，之前[实现过的版本]并不是很满意（应该在我的[链滴][帖子]里还能找到），然后又开始了[重构]之路。也正是不断的与 markdown 不同的[编辑器]接触，也让我对 marked.js、markdown-it、for-editor、lute、vditor 等等的编辑器、[编译器]、[渲染器]有了很多的接触，对于 markdown 及其[拓展语法]有了[各种奇奇怪怪的想法]
                 - 在[妙笔](https://www.yuque.com/deerain/gannbs/wraigm)中[进行搜索]（[支持][正则表达式]）时，如果某几个文档的[标题或正文里][包含了搜索关键词]，[左侧的文档树]就会[只显示]这几个[匹配到的文档]，隐藏其它[同级和下级文档]，以[淡化]的形式显示[上级文档]，这就是[稀疏树]。用户其实还可以靠这个功能来[定义标签]，不过因为没有 [tag panel] 所以[这么做的意义不大]。
                     - 稀疏树这个功能在[整理海量素材]时[非常有用]，因为稀疏树可以展示跟某一主题（该主题由[正则搜索][来体现]）相关的全部内容，在稀疏树里，无需[反复呼出][搜索界面]就可以在结果之间[来回跳转]、查看[匹配文档][在大纲中所处的位置]、并对每个文档进行[直接编辑]。
                     - [根据主题和线索]来[聚合内容]是[卡片式写作]的核心，真正复杂的卡片式写作必定是[主题导向]、而不是[结构导向]的。多数人可能[感受不到]，如果真的[在平时积累了][海量的][元信息卡片]，到了[输出写作]的时候只有[主题聚合][能派上用场]。[结构导向]的方法在[轻度使用]的时候[很舒适]，但是在需要整理海量素材并输出的时候全都[捉襟见肘]。
@@ -236,6 +244,8 @@ AE 始终不会用
                 - 现居[桃里寺城](https://www.zhihu.com/people/sebastiengong) -- manmeng33
                 - 这里说下[清军入关]的[暴行](https://www.zhihu.com/question/285989497/answer/1730882032)，其实也不新鲜，毕竟记住这是封建王朝，有暴行才是正常，没暴行都要记上一笔[王师仁义]。比如朱元璋的明军平江浙的时候，也是[屠城]不亦乐乎，那个宋濂的好基友[叶子奇]所著《草木子》就记载了不少明军的暴行。再说南下清军中[明朝降军][占了主力]，[论起来]很多坏事可都是他们干的。
                 - {{[[TODO]]}} "[1]: [高文德][主编]．《[中国少数民族史][大辞典]》：[吉林教育出版社]，1995年12月：第1051页"
+                - {{[[TODO]]}} [Cathay](https://books.google.co.jp/books?id=-L-IDwAAQBAJ): A Critical Edition
+                - [Ezra Pound](https://books.google.co.jp/books?id=0PI7g5B-6eQC)'s [Confucian Translations]
                 - 就算按他自己说的从[宏观角度](https://zhuanlan.zhihu.com/p/346597171)看历史而不去[治史]，他这种不【甄别】【对比】史料的阅读方式，其实本质和看[地摊阴谋论]也没什么区别，[更遑论]他那所谓的归纳总结的【历史经验】了
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} 使用“物体”作为[基本单元](https://www.zhihu.com/question/424782770/answer/1516086432)的[问题关键在于]物体[这一概念]的[时间延展]是不确定的，[直观上][我们习惯把][某一特定空间延展的集合]称为物体，然而[随着时间变化]，[物体的同一性][是成问题的]，也就是[忒休斯之船][疑难]。而“事件”没有这个问题，它没有[时间上的延展]，不同[时间断面]上的事件之间只会有[因果关系]而[不需要有同一性]。
@@ -244,6 +254,8 @@ AE 始终不会用
             - 反而是[强行区分](https://www.zhihu.com/question/28623194/answer/1519333873)哪个是行，哪个是列，并且把[矩阵相乘]描述成一种把[排列好的数][按照奇怪规则]相乘相加，在[多数情况下]是[费解]的。
                 - 我相信，对于[一般的][数据分析]，张量要比矩阵用处大得多，也[直观得多]。
                 - 矩阵的[特殊意义]在于[表示论]，比如[题主]说的[几何意义]，就是诸如[旋转群的矩阵表示]。[这类问题的关键]并不在于矩阵乘法的意义和操作，而在于[旋转群]本身的乘法以及为什么可以[用矩阵表示]。
+            - {{[[TODO]]}} Google Play yue22
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2)
             - {{[[TODO]]}} UltraCompare
             - PDF [换行会有空格]，目前我发现两个[解决方案](https://zhuanlan.zhihu.com/p/350762459)：
                 - md 文件用 Emeditor 打开后[正则替换]——查找：`([一-龥])\s([一-龥])` 替换：`\1\2`
@@ -256,6 +268,7 @@ AE 始终不会用
         - detail point 99.97 (pt9-99.97)
             - 法师驾到 DND
             - 很多[反驳意见]，说一千道一万，[其实本质都是][用惯了的东西][本能就想维护](https://www.zhihu.com/question/434589285/answer/1624472192)而已。因为我目前看到的针对“朊”的批评，都可以用在“肽”，“氨”，“甾”，“胩”上，但是他们却不反感上述这些字。为什么呢？不过是[守护现有规则]的本能罢了。
+            - The Origins and Character of the [Ancient Chinese City]: [Volume 2](https://play.google.com/store/books/details?id=BSEuDwAAQBAJ), The [Chinese City] in [Comparative Perspective]
             - {{[[TODO]]}} bdwp [2T空盘](https://www.ghpym.com/bdwpzyad); u5w 
             - 小容量的FAT32，大容量的NTFS，不要考虑 [exFat](https://zhuanlan.zhihu.com/p/86116170)。原因很简单：1、exFAT丢文件、丢文件、丢文件；2、exFAT 兼容性，尤其插手机、电视机；3、exFAT 要授权，比如插NAS
             - {{[[TODO]]}} 福昕阅读器
@@ -282,6 +295,13 @@ AE 始终不会用
 对于我这个视频的方法来说，在写程序的时候只能实现obsidian和potplayer之间的调用。
 当我们尝试用all in one的思路去建立个人知识库的时候，才能真正发挥Obsidian的作用。
     - level 7
+        - detail point 99.99 (pt7-99.99)
+            - 要想明白。LaTeX的[语法组件](https://www.zhihu.com/question/319571624)，不光可以用来当作[标记语言]，而且还能[改变排版状态]。
+甚至[某种意义上]，其实是[时时刻刻都在]改变排版状态。
+所以在[语义上的丰富程度]，LaTeX是比HTML丰富的。
+当然，架不住[HTML+CSS+JS][一把梭把][浏览器内核][补丁成]一个[排版软件]。
+                - 最优的[解决方案]，就是[自定]一个[极小语义集][标记语言]，然后你互相转呗。
+                - 第二步（PDF → HTML）：pdf2htmlEX
         - detail point 99.98 (pt7-99.98)
             - “除非[裸露自己](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1988953&extra=page%3D1%26filter%3Dtypeid%26typeid%3D140&page=3)，否则一些[摄影师]是[不会同意][给你拍照]的，[这种做法][一直都很常见]。”
 本周，47岁的[凯特·摩丝][在一次采访中]这样说。虽然她没有对自己的[性侵行为][提出任何指控]，但她承认自己在早期的拍摄中，有很多次都有“非常不舒服”的感觉。

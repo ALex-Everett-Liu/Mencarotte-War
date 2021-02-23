@@ -118,7 +118,7 @@
         - [[vehicle engineering]]...
     - [[civil engineering]]
     - [[transportation]]
-    - [Agriculture]([[agriculture]])
+    - [[agriculture]]
         - [[crop rotation]]
 - [[meiz]]
     - [[hosted pictures]]

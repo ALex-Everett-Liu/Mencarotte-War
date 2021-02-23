@@ -27,9 +27,10 @@ empress | guifei41 | fei of major title | fei of lesser title | furen10
     - metropolis list (meiz metropolis)
         - [[唐嫣 (Tang Yan)]] -- "detail point 100 (pt9-100)"
             - 9, 9, 99.99, 100, 99.99, 99.99, 99.99; -; 
-        - [[李小璐 (Li Xiaolu)]]
         - [[程媛媛 (Cheng Yuanyuan)]]
             - 8, 9, 9, 9, 99.97, 99.98, 99.99; -; 
+        - [[李小璐 (Li Xiaolu)]]
+        - [[白冰 (Bai Bing)]]
         - [[甘薇 (Gan Wei)]]
         - [[张冬 (Zhang Dong)]] -- pt9-100
         - 袁姗姗 (Yuan Shanshan) -- pt8-99.97

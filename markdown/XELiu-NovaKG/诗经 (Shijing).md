@@ -32,8 +32,18 @@ Kyūjitai: 詩經
         - eulogy: chengsong14, zanci42
 hymn: zanmeishi431, shengge41
     - The [[content]] of the Poetry [can be divided into] [two main sections]: the "Airs of the States", and the [eulogies and hymns].[9] The "[Airs of the States]([[国风 (Guofeng)]])" are shorter [[lyric]]s [in simple language] that are generally ancient [[folk song]]s which record the [[voice]] of the [[common people]].[9] They often speak of [[love]] and [[courtship]], longing for [an absent lover], 渴望一个缺席的情人 [[soldier]]s on [[campaign]], [[farming]] and [[housework]], and [[political satire]] and [[protest]].[9] 政治讽刺与抗议 
-        - On the other hand, songs in the two "Hymns" sections and the "Eulogies" section tend to be longer [[ritual]] or [[sacrificial song]]s, usually [in the forms of] [courtly panegyrics] and [dynastic hymns] 宫廷颂歌与王朝赞美诗 which praise the [[founder]]s of the [Zhou dynasty].[9] They also include hymns used in [[sacrificial rite]]s and songs used by the [[aristocracy]] in their [sacrificial ceremonies]([[sacrificial ceremony]]) 祭献/祭祀仪式 or at [[banquet]]s.[10][11]
+        - On the other hand, songs in the two "Hymns" sections and the "Eulogies" section tend to be longer [ritual song] or [[sacrificial song]]s, usually [in the forms of] [courtly panegyrics] and [dynastic hymns] 宫廷颂歌与王朝赞美诗 which praise the [[founder]]s of the [Zhou dynasty].[9] They also include hymns used in [[sacrificial rite]]s and songs used by the [[aristocracy]] in their [sacrificial ceremonies]([[sacrificial ceremony]]) 祭献/祭祀仪式 or at [[banquet]]s.[10][11]
 201111-03:18 
+    - "Court Hymns", contains "Lesser Court Hymns" and "Major Court Hymns". Most of the poems were used by the aristocracies to [[pray]] for [[good harvest]]s each year, [[worship god]]s, and venerate their [[ancestor]]s. 敬仰祖先 The author of "Major Court Hymns" are [nobilities]([[nobility]]) who were [dissatisfied with] the [[political reality]]. Therefore, they [wrote poems] not only related to the [[feast]], worship, and [[epic]] but also to reflect the [[public feelings]].[12] 
+201112-21:29
+    - Part -- Number and meaning -- Date (BC) [7](https://en.wikipedia.org/wiki/Classic_of_Poetry#cite_note-FOOTNOTEDobson1964323-8)[8](https://en.wikipedia.org/wiki/Classic_of_Poetry#cite_note-FOOTNOTEBaxter1992355%E2%80%93356-9) #footnote 
+國風 -- __Guó fēng__ -- 160 "Airs of the States" -- 8th to 7th century
+魯頌 -- __Lǔ sòng__ -- 4 "Eulogies of Lu" -- 7th century
+    - "Eulogies of Zhou – Clear Temple" ([Chinese]: 清廟; [pinyin]: __Qīng miào__)[6]
+        - Responding in praise to the one in Heaven,             對越在天
+They hurry swiftly within the temple.                         駿奔走在廟
+Greatly illustrious, greatly honored,                          不顯不承
+May [King Wen] never be weary of [us] men.           無射於人斯
 - versions
     - [[Shijing, William Jennings translation version]]
         - The [Shi King], the Old “Poetry Classic” of the Chinese. A close [[metrical translation]], 严密的格律翻译 with [[annotation]]s by [[William Jennings]] ([[London]]: [George Routledge and Sons], 1891).
