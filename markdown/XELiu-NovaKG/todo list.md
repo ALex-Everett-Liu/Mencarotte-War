@@ -21,7 +21,23 @@ https://www.bilibili.com/video/BV17t411X7KR
 https://www.bilibili.com/video/BV1mJ411B7YB
         - {{[[DONE]]}} ...
 
-    - bili coin list 210101
+    - bili coin list 202101
+        - {{[[DONE]]}} ...
+
+    - bili RIL list 212101
+        - https://search.bilibili.com/all?keyword=%E5%93%88%E5%B0%94%E6%BB%A8&from_source=video_tag&spm_id_from=333.788.b_765f746167.8
+https://www.bilibili.com/video/BV1qT4y1N75d/?spm_id_from=333.788.videocard.2
+https://www.bilibili.com/video/BV1wi4y1c7qE/?spm_id_from=333.788.videocard.3
+https://www.bilibili.com/video/BV1vv411x7Lv/?spm_id_from=333.788.videocard.4
+https://www.bilibili.com/video/BV1va4y1n766/?spm_id_from=333.788.videocard.10
+https://www.bilibili.com/video/BV11z4y1r7XG/?spm_id_from=333.788.videocard.11
+https://www.bilibili.com/video/BV1qT4y1N75d/?spm_id_from=333.788.videocard.8
+https://www.bilibili.com/video/BV1oa411F7CT/?spm_id_from=333.788.videocard.9
+https://www.bilibili.com/video/BV1vK4y1W7Jc/?spm_id_from=333.788.videocard.13
+https://www.bilibili.com/video/BV1y54y147Tp/?spm_id_from=333.788.videocard.7
+https://www.bilibili.com/video/BV1Vy4y1U7Mt/?spm_id_from=333.788.videocard.1
+https://www.bilibili.com/video/BV1ih411f7RX/?spm_id_from=333.788.videocard.4
+https://www.bilibili.com/video/BV18t4y1z7jq/?spm_id_from=333.788.videocard.6
         - {{[[DONE]]}} ...
 
     - upload to cloud disk

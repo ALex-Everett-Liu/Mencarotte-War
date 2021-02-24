@@ -98,6 +98,8 @@ Completed after 4 days.
                 - [大悟道人](https://zhuanlan.zhihu.com/p/341703838) (作者)
                 - [解放军]确实能打到交趾甚至林邑，但没了清朝的[法统](https://www.zhihu.com/question/443245028/answer/1726211150)，那就只能“自卫反击”
                     - 打东北、蒙古、西域、西藏能保证安全朝廷就会打??? 这是什么逻辑??? 我大明不就是个典型的例子??? 定都北京结果就开始[缩边]了，[大宁][扔了]、[河套]扔了，[卫所兵]变成了[穷鬼]，结果蒙古人[三天两头来打草谷]也没见过朝廷多着急呀。
+            - {{[[TODO]]}} app purchase |||| screenshot 315 || rescuetime — 129 yuan/yr
+appgo — 269 yuan/year
             - {{[[TODO]]}} transfer files from old PC
                 - 000-Transfer-URL-202011.md
                 - 019-matlab
@@ -206,8 +208,12 @@ page attribute -- roam
                     - [根据主题和线索]来[聚合内容]是[卡片式写作]的核心，真正复杂的卡片式写作必定是[主题导向]、而不是[结构导向]的。多数人可能[感受不到]，如果真的[在平时积累了][海量的][元信息卡片]，到了[输出写作]的时候只有[主题聚合][能派上用场]。[结构导向]的方法在[轻度使用]的时候[很舒适]，但是在需要整理海量素材并输出的时候全都[捉襟见肘]。
                 - 这感觉像是 hypernote 里的[谓词标签](https://zhuanlan.zhihu.com/p/274891979)，hypernote 通过这些标签[来建立][语义化的][双向链接]（其实就是简单的[个人知识图谱]）
 这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
+                - {{[[TODO]]}} ZH NLP; [word frequencies](http://www.aihanyu.org/cncorpus/index.aspx)
+http://corpus.zhonghuayuwen.org/index.aspx 
                 - GTD 不[管理时间]，它管理的是我们的[注意力](https://zhuanlan.zhihu.com/p/350662573)。在任何一个会涉及到 GTD [英文论坛]上，「GTD = 注意力管理」早已是一个[基本共识]了，而[中文网络]上的 GTD 却一直跟“时间管理”[绑定在一起]，就跟「情商」一词一直[被大众曲解为]「会来事儿」一样。我也不是非要[死抠定义]，但[注意力管理]和[时间管理][真的是两回事]。
                 - [前段时间][上网冲浪]的时候[突然想到]，做个像 [workflowy] 一样的[主页](https://www.yuque.com/idelem/zt/ny150b)也不错，所有内容都放在同一个页面里，一层层点击展开，渐入佳境（唯一的问题是对手机流量上网不友好）。既然 workflowy 自带导出功能，思路自然是把 workflowy 本身作为内容编辑器，再写脚本修改 html 文件。稍加研究后就实现了，在此记录下实现过程。
+                - {{[[TODO]]}} help docs || roam — Upload Image, Audio, or File 
+obsidian — Link to blocks
             - 其实很多[所谓的]玩[猫箱](https://bbs.saraba1st.com/2b/thread-1988791-2-1.html)梗的东西，[实质上只是][人择原理]的应用而已。
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
@@ -230,14 +236,23 @@ AE 始终不会用
                 - 构建 DeFi 词典[这个事儿](https://www.chainnews.com/articles/588227154754.htm)[在我脑子中][一直占着坑]，我希望大家在看到一些炒的沸沸扬扬的东西的同时，可以找到一个**入口**去了解它出现的背景、它在哪些方面**改善 / 颠覆着传统金融**，以及我们可以用它来做什么 ... 不管你是从业者、专业金融人士、野生投资君还是吃吃小瓜的大多数。
                     - 我们需要知道哪些东西是不一样的，会是更好的 optionality，哪些东西[没有那么玄乎]，去[形成自己的判断]。我觉得 DeFi 里没有[内行外行]，不是非得金融人 (i dont know what 金融人 is) 才[应该去了解]，恰恰相反，有太多[交叉学科]的人们在[进行着各种试验]，这个领域才刚刚开始。__Let's prepare for the decentralized economy🙋‍♂️ .__
                 - {{[[TODO]]}} [如何使用 AirTable 搭建科研学术知识库](https://zhuanlan.zhihu.com/p/352366728)
+                - {{[[TODO]]}} [RoamCN talk 01](https://m.ximalaya.com/share/sound/333664786?shrh5=browser&shrdv=083641fc-a085-4471-a13b-9e8faac3a8e4&shrid=KJIZJL8OPM0CPVHZDEE&shrdh=1&shrpid=Y7XOCAGLCG1C8LJZIJK)
+                - Roam Research [卡片式写作](https://roamresearch.com/#/app/RoamCN/page/JSkXgZncH)主题
+https://roamresearch.com/#/app/help/page/H7zPJSTgv
+            - {{[[TODO]]}} music || inoji baggari - sawako
+メアの教育 - mizuru / みずる
+2.15 yucchan生放  love  唱了yonjunana   录像4.lxe
+なりすましゲンガー; 
             - {{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)
                 - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
-            - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
+            - game
+                - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
-            - **帝皇：罗马2.0更新评价：能玩了**
-                - 总的来说IR 2.0里，地区的[经济模式]和[当地的][人口结构](https://bbs.saraba1st.com/2b/thread-1988977-1-1.html)关系非常大。奴隶能[提供产能]，转化成当地的[基础税收]；部落民和市民则提供较少的税基但是会[服兵役]，[提供人力]；公民可以服兵役，也会产出少量[研究点数]；而贵族则只提供最多的研究点数。
-                    - 每个阶层的人口都会在国内产出或者能供应某种商品后而获得加成。比如布料丝绸等等可以增加贵族的幸福度和产出，玻璃宝石陶瓷这些则加成公民，而皮革之类的加成自由民等等。并且人口还会消耗食物资源。
-                    - [阶层之间的流动]是可以[通过政策影响]的，而[人口在地域之间的流动]也可以通过[迁徙]来实现～但是一般只能[强制迁徙]奴隶，[更高的阶层]就不行了。
+                - **帝皇：罗马2.0更新评价：能玩了**
+                    - 总的来说IR 2.0里，地区的[经济模式]和[当地的][人口结构](https://bbs.saraba1st.com/2b/thread-1988977-1-1.html)关系非常大。奴隶能[提供产能]，转化成当地的[基础税收]；部落民和市民则提供较少的税基但是会[服兵役]，[提供人力]；公民可以服兵役，也会产出少量[研究点数]；而贵族则只提供最多的研究点数。
+                        - 每个阶层的人口都会在国内产出或者能供应某种商品后而获得加成。比如布料丝绸等等可以增加贵族的幸福度和产出，玻璃宝石陶瓷这些则加成公民，而皮革之类的加成自由民等等。并且人口还会消耗食物资源。
+                        - [阶层之间的流动]是可以[通过政策影响]的，而[人口在地域之间的流动]也可以通过[迁徙]来实现～但是一般只能[强制迁徙]奴隶，[更高的阶层]就不行了。
+                - mod - [A Spouse and Family Designer](https://tieba.baidu.com/p/7119815049)
             - history
                 - **清华简《楚居》和史记《楚世家》矛盾挺大的** -- [安大简](https://bbs.northdy.com/thread-920725-1-1.html)说季连就是穴熊; 季连=穴熊=鬻熊
                     - 《史记》把季连、穴熊、鬻熊[视作][不同的人]，而且[连成谱系]，可能是[汉代][才形成的观点]，战国时期的[楚人][未必这样认为]。
@@ -254,6 +269,7 @@ AE 始终不会用
             - 反而是[强行区分](https://www.zhihu.com/question/28623194/answer/1519333873)哪个是行，哪个是列，并且把[矩阵相乘]描述成一种把[排列好的数][按照奇怪规则]相乘相加，在[多数情况下]是[费解]的。
                 - 我相信，对于[一般的][数据分析]，张量要比矩阵用处大得多，也[直观得多]。
                 - 矩阵的[特殊意义]在于[表示论]，比如[题主]说的[几何意义]，就是诸如[旋转群的矩阵表示]。[这类问题的关键]并不在于矩阵乘法的意义和操作，而在于[旋转群]本身的乘法以及为什么可以[用矩阵表示]。
+            - {{[[TODO]]}} 快捷键冲突管理 || ctrl+alt+p — wyy ks
             - {{[[TODO]]}} Google Play yue22
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2)
             - {{[[TODO]]}} UltraCompare
@@ -264,7 +280,9 @@ AE 始终不会用
                 - 不少人都低估了明末[九边]的[权重]而高估了江南的权重，实际上在明末只要哪一方势力得到了九边军队，那么他距离统一天下就已经完成一半了，因为内地大部分地方因为明朝长期的超稳定态根本就是[去军事化]的，内地其他省份绑在一起都打不赢陕甘晋冀辽这几个边境省份。
             - 目前发现的[犁鼻器退化](https://www.zhihu.com/question/445130804/answer/1737308352)的动物主要是龟鳖、鳄类，鸟类，还有哺乳动物中的[灵长类群体]里，龟鳖和鳄类的退化可能和它们的[水生环境]有关（想闻到[水溶性]的[气味分子]或[信息素]，需要[另一套][嗅觉系统]，鱼类就有闻出水中味道的本事），而鸟类和灵长类则恰好是[视觉系统]中对红色比较敏感的那一批，或许正是这种[独有的色彩]给我们提供了另一种[感知世界的能力]：异性是否[准备好交配]？看看[母猴子][肿大的红屁股]就知道了；女孩是否接受了我？她[羞红的脸]还不能说明问题吗？
                 - 有几项研究疑似发现了几类人的[性信息素]，分别来自[腋窝][分泌]的[固醇类物质]，女性[生殖器官]内分泌的几种酸，还有[疑似][作用于]犁鼻器的[乳腺分泌物]，但是都没有实际证据证明它们真的有效，也没有真的[分离出]其中的任何一种。目前还是一个[高度存疑的状态]
+            - {{[[TODO]]}} 清洗茶垢方法 -- 202009? zhihu page
             - {{[[TODO]]}} S1鹅球黑魔法 看被屏蔽的贴子
+            - {{[[TODO]]}} chrome extension - crx “CEX_HEADER_INVALID”的[解决办法](https://www.chajian5.com/chrome-cex_header_invalid.html)
         - detail point 99.97 (pt9-99.97)
             - 法师驾到 DND
             - 很多[反驳意见]，说一千道一万，[其实本质都是][用惯了的东西][本能就想维护](https://www.zhihu.com/question/434589285/answer/1624472192)而已。因为我目前看到的针对“朊”的批评，都可以用在“肽”，“氨”，“甾”，“胩”上，但是他们却不反感上述这些字。为什么呢？不过是[守护现有规则]的本能罢了。
