@@ -5,5 +5,5 @@
 - 
 - todo today (real-time view)
     - weibo; 你好李焕英
-    - anyTXT 作詞; rasenna watashi; maple; 
-    - jr m 7; 
+    - anyTXT 作詞; rasenna watashi; maple; こめる
+    - jr m 7; Nova-001

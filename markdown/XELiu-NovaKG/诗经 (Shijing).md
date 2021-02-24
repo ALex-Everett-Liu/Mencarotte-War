@@ -17,8 +17,7 @@
         - **Japanese name** -- Hiragana: しきょう (Shikyō)
 Kyūjitai: 詩經
     - [The first song](https://en.wikipedia.org/wiki/File:Shi_Jing.jpg) of the Classic of Poetry, [[handwritten]] by the [Qianlong Emperor]([[乾隆 (Qianlong)]]), with [[accompanying painting]].
-        - Original title: __詩__ *s.tə [a](https://en.wikipedia.org/wiki/Classic_of_Poetry#cite_note-appellation-1)
-        - [a]: The __*k-lˤeng__ (__jing__ 經) appellation 称号, 名目 [would not have been used until] the [[汉王朝 (Han dynasty)]], after the [core Old Chinese period].
+        - Original title: __詩__ *s.tə [a](((BMgipNPx6)))
         - [Subject]([[subject]]): [Ancient Chinese poetry] and song
     - [Early references] refer to the [[anthology]] as [the __300 Poems (shi)__]. The Odes [first became known as] a jīng, or a "[[classic book]]", [in the canonical sense], 在规范意义上 as part of the Han Dynasty [official adoption]([[adoption]]) of [[Confucianism]] as the [[guiding principle]]s of Chinese society.[__citation needed__] Before its [[elevation]] as a [[canonical classic]], 典范经典 the [Classic of Poetry (Shi jing)] [was known as] the __[Three Hundred Songs]__ or __[the Songs]__.[2]
 201110-13:24 
@@ -56,7 +55,16 @@ May [King Wen] never be weary of [us] men.           無射於人斯
         - verbatim: 逐字地; 完全照字面的; 直译; 速记
     - The works in the __Classic of Poetry__ vary in their [lyrical qualities], 抒情特质/品质 which relates to the [[musical accompaniment]] with which they were [in their early days] performed. The songs from the "Hymns" and "Eulogies", which are [the oldest material] in the Poetry, were performed to slow, heavy accompaniment from [[bell]]s, [[drum]]s, and [[stone chime]]s.[9] 编磬 However, these and the later actual [[musical score]]s or [[choreography]] which accompanied the Shijing poems [have been lost].
 201113-17:25
-- versions
+    - [Nearly all of the songs] in the Poetry are rhyming, with [[end rhyme]], as well as frequent [[internal rhyming]].[14] While some of these verses still rhyme in [modern varieties]([[variety]]) of Chinese, others had ceased to rhyme by the [[Middle Chinese]] period. For example, the eighth song (芣苢 __Fú Yǐ__[b](((713BBbrpT)))) has a tightly [[constrained structure]] 严格约束的结构 [implying rhymes] between the [penultimate words] 倒数第二的 (here [shown in bold]) of [each pair of lines]([[line pair]]):[19]
+201113-17:40
+        [[Chinese character]]s -- [[Mandarin]] [[pronunciation]] ([pinyin]) -- [[Early Middle Chinese]] ([Baxter](https://en.wikipedia.org/wiki/Baxter%27s_transcription_for_Middle_Chinese)) #[[Baxter's transcription]]
+采采[芣苢]、薄言采之。 -- __Cǎi cǎi fú yǐ,__ báo yán **cǎi** zhī. -- __tshojX tshojX bju yiX,__ bak ngjon **tshojX** tsyi.
+采采芣苢、薄言有之。 -- Cǎi cǎi fú yǐ, báo yán **yǒu** zhī. -- tshojX tshojX bju yiX, bak ngjon **hjuwX** tsyi.
+201118-04:24
+        The second and third stanzas still rhyme in [modern Standard Chinese], with the [[rhyme words]] even [having the same tone]([[tone]]), but the first stanza [does not rhyme] in Middle Chinese or any [modern variety]. Such cases were attributed to [[lax rhyming practice]] 不严格的押韵实践 ^^until the [late-Ming dynasty] scholar [[陈第 (Chen Di)]] argued that the [original rhymes] [had been obscured by] [[sound change]].^^ Since Chen, scholars have analyzed the [[rhyming pattern]]s of the Poetry as [[crucial evidence]] for the [[reconstruction]] of [[Old Chinese phonology]].[20]
+201118-04:48
+            attributed to: 把…归因于 ; 认为…是由于 ; 认为是…所为
+- Versions
     - [[Shijing, William Jennings translation version]]
         - The [Shi King], the Old “Poetry Classic” of the Chinese. A close [[metrical translation]], 严密的格律翻译 with [[annotation]]s by [[William Jennings]] ([[London]]: [George Routledge and Sons], 1891).
 201230-03:38
@@ -65,3 +73,6 @@ May [King Wen] never be weary of [us] men.           無射於人斯
                 - This work is a [[compilation]] of some three hundred [[verse]]s of poetry illustrating the [[proper conduct]] of a [[sovereign]] 君主的正当行为 and [[general rule]]s “for inculcation of [[propriety]] and [[righteousness]].” [礼义]
 201230-03:47
     - [Book of Poetry] in [[Chinese Text Project]], [[English translation]]: [[James Legge]]
+- Notes
+    - [a]: The __*k-lˤeng__ (__jing__ 經) appellation 称号, 名目 [would not have been used until] the [[汉王朝 (Han dynasty)]], after the [core Old Chinese period].
+    - [b]: The [[variant]] character 苡 may sometimes [be used in place of] 苢, [in which case] the [[title]] is 芣苡, with corresponding [[substitution]]s for the fourth character of each line [within the body of the poem].

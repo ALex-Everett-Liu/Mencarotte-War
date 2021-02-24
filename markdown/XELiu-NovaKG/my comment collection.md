@@ -1,0 +1,6 @@
+- Note-taking
+    - 如果 Obsidian 像 Zim Wiki 那样有无限嵌套的层级结构（每个文档都附带一个文件夹）的话，...
+当然如果严格按照卢曼那种建立数字标识符索引的方式，那层级结构也会很清晰，但未免太费力了些，维护起来也很麻烦。
+202101?
+    - 相当于 Roam Research 的块引用了，考虑到 page 实质上就是 block，也就等同于所谓的双向链接了。但做这样的操作的时候，开个侧边栏分栏一下或者新建一个 tab 不比在不同位置间跳转更舒心吗，希望 WorkFlowy 再考虑加强一下这方面了。
+    - [好吧](https://www.appinn.com/workflowy-mirror/comment-page-1)，原谅我给搞错了，WorkFlowy 原先的 copy link 对应于 Roam 的块引用，mirror 对应于 Roam 的块嵌入，但是还是都没有 backlink，那用法上还是跟 Roam 差异比较大的……
