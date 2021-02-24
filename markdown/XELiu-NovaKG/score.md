@@ -128,6 +128,8 @@ appgo — 269 yuan/year
                 - {{[[TODO]]}} Emacs / Vim 快捷键，控制光标移动
                 - {{[[TODO]]}} online table; airtable; 维格表
                     - [在线数据分析](https://chartcube.alipay.com/upload)
+                - {{[[TODO]]}} Acronis 的[不间断备份模式](https://zhuanlan.zhihu.com/p/352667515)可能存在问题，建议谨慎使用，因为笔者的备份曾经出现过[坏档]的情况，导致[丢失了]2天的[数据]，非常痛心。
+[笔者][目前使用的是]一小时一备份的[增量备份方案]，比较稳定。
             - {{[[TODO]]}} 录屏; bandicam; ...
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
