@@ -13,6 +13,10 @@
         - He [retired twelve batters] in a row. 一连使十二个击球手出局
     - www.[[ibm]].com
         - [Changes in one view] are translated to the [other view]([[view]]) [if possible]. 视图 
+        - This view 视图 [provides insight into] 可以[帮助了解] the architecture and [design activities] that follow. 
+        - This area provides insight into [the time spent]([[spend time]]) [waiting for a connection] for the WebSphere [[connection pool]].
+    - www.[[infoq]].com
+        - This presentation also provides insight into the [background and advantages] of the [thin server approach]. 
     - provided by [[jukuu]] / www.jukuu.com
         - It may seem silly now, but it illustrates [a very powerful point]: A good [[user interface (UI)]] enables users to move in an ad hoc, [piecemeal fashion] 特定方式; 逐步 [[from beginner to expert]]. 
         - For what it's worth, 也许这不算什么 I'm [getting out of the business]. 换工作
@@ -31,6 +35,9 @@
         - Perfume, [skin care products], MP3, watches, [fashion bags], [sanitary products].
     - [iask.sina].com.cn
         - This was the first of many the [Committee actions] 委员会 [addressing the issues of] [ethnic profiling] 民族概况 and [equal treatment] under the law that helped [galvanize Asian Americans] 激励 and [alter public opinion]. 改变民意 
+    - [blog.163].com
+        - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
+        - Thoreau provides insight into [the core of these issues]. Soro 
     - www.[[fortunechina]].com
         - Bain [won the overall deal]([[overall deal]]) for $ 1.75 billion, and would rename the Asia and European business ideal standard. 
     - www.[[chinadaily]].com.cn
@@ -41,6 +48,7 @@
         - [Sea-sky division line] and [target potential area] are determined through detecting horizontal edge and [[vertical edge]]s 边缘 of an image.
         - With the [special ability] provided by [factorization model], 因素分解模型 a [test face] [can be translated into] [old views] contained in [training faces], and training faces [can also be translated into] [new view] of the test face.
         - More than 90% of [plated ABS-based material] [ABS塑料电镀件] is used either in the [sanitary industry] or in the [automotive industry]. | bathroom; washroom 
+        - Recognition of the [modulation type] of [an unknown signal] provides insight into 洞察 its structure, origin and properties.
         - ---
         - On [Philological Value] and Status of [Tai Ping Huan Yu Ji] [太平寰宇记]
         - The [first chapter] of the thesis is on [philological value].
@@ -63,7 +71,6 @@
     - temp
         - This is [my humble opinion], 一得之愚 for what it's worth. 仅供参考 百度翻译例句库
         - You can [make capital of] your [knowledge of bibliography]. 利用 百度翻译例句库
-        - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
         - HFMD 口蹄症 is different from an [unrelated condition] [bearing a similar name], the [Foot-and-mouth disease (FMD)], 手足口病 which is another [contagious viral disease] 具有高度传染性的 of [cattle and swine]. 牛和猪 www.[spatioepi].com
         - ---
         - [Two vertical edges] of the [utility model] are overlapped and [welded up or glued] 焊封或胶粘 to form a [main channel] and an [assistant channel]. | laji | ip.com
