@@ -26,6 +26,20 @@
                 - [[probability information]]
                 - [[definite value]]; [[exact value]]
                     - [[definite position]];
+            - [[quantization]]
+                - [[discrete value]]; [[discrete amount]];
+                    - [[discrete unit]]
+                    - [[discrete point]]
+            - [[wave-particle duality]]; [[wave–particle duality]]
+                - [[wave–particle orbital]]
+                - "[[the wave nature of light]]"
+        - AMO...
+            - [[wave optics]]
+                - [[wavelength]]
+                    - [[monochromatic wavelength]]
+                - [[the wave theory of light]]
+                    - [[the wave nature of light]]
+                    - [[double-slit experiment]]
         - [Geophysics]([[geophysics]])
             - [Geography]([[geography]])
                 - [[terrain]]
