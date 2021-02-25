@@ -33,7 +33,7 @@
     - $$\text{\color{turquoise}Mathematics}$$
     - $$\text{\color{greenyellow}Chemistry}$$
 - $$\text{\color{teal}Technology related...}$$
-    - Computer
+    - Computer Technology...
         - [[computer science (CS)]]
             - programming...
                 - code; coding
@@ -77,6 +77,18 @@
 - $$\text{\color{CornflowerBlue}Life Science related...}$$
 - $$\text{\color{salmon}Language}$$
     - [Linguistics]([[linguistics]])
+    - [Etymology]([[etymology]])
+        - [[Old Chinese]]
+            - "[[Old Chinese phonology]]"
+            - [[Middle Chinese]]
+                - [[Early Middle Chinese]]
+            - [[seal script]]
+            - [[sound change]]
+                - [[陈第 (Chen Di)]]
+    - [[phonology]]
+        - [[Old Chinese phonology]]
+            - [[Baxter–Sagart]]
+            - [[Baxter's transcription]]
     - [[translation]]...
         - [[localization]]
         - translation tools
@@ -86,6 +98,11 @@
 - $$\text{\color{PeachPuff}Social Science...?}$$
 - $$\text{\color{Goldenrod}Culture related...}$$
 - $$\text{\color{RosyBrown}Everyday Life related...}$$
+    daily life
+    daily note
+    wash?
+        - shuazi
+        - xiangxun
 - $$\text{\color{SeaGreen}General Science and Education...}$$
     - higher education...
         - university...
@@ -125,8 +142,5 @@
     - [[CRR]]...
     - place? environment?
         - sofa
-    - parallel...
-        - shared memory, 共同身份的记忆, 比如校友关系...
-200120-13:44
 - Meta?
 - Others?

@@ -64,6 +64,8 @@ May [King Wen] never be weary of [us] men.           無射於人斯
         The second and third stanzas still rhyme in [modern Standard Chinese], with the [[rhyme words]] even [having the same tone]([[tone]]), but the first stanza [does not rhyme] in Middle Chinese or any [modern variety]. Such cases were attributed to [[lax rhyming practice]] 不严格的押韵实践 ^^until the [late-Ming dynasty] scholar [[陈第 (Chen Di)]] argued that the [original rhymes] [had been obscured by] [[sound change]].^^ Since Chen, scholars have analyzed the [[rhyming pattern]]s of the Poetry as [[crucial evidence]] for the [[reconstruction]] of [[Old Chinese phonology]].[20]
 201118-04:48
             attributed to: 把…归因于 ; 认为…是由于 ; 认为是…所为
+    - Traditional [[scholarship]] of the __Poetry__ [identified] three major [[literary device]]s [employed in the songs]: [[straightforward narrative]] (__[fù]__ [賦](https://en.wiktionary.org/wiki/%E8%B3%A6)), [[explicit comparison]]s (__bǐ__ [比](https://en.wiktionary.org/wiki/%E6%AF%94)) and [[implied comparison]]s (__xìng__ [興](https://en.wiktionary.org/wiki/%E8%88%88)). 显式比较和隐式比较 The poems of the __Classic of Poetry__ tend to have [certain typical patterns] in both rhyme and [[rhythm]], to make much use of [[imagery]], often [derived from nature].
+201118-12:36
 - Versions
     - [[Shijing, William Jennings translation version]]
         - The [Shi King], the Old “Poetry Classic” of the Chinese. A close [[metrical translation]], 严密的格律翻译 with [[annotation]]s by [[William Jennings]] ([[London]]: [George Routledge and Sons], 1891).

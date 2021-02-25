@@ -35,6 +35,45 @@
                         - actively; activity
                     - actual, 2; actually
                     - interact
+            - an
+                - anonym
+                    - [[anonymous]]
+        - e
+            - ea
+                - early
+                - earn
+                    - earnest;
+            - ec
+                - ecclesio
+                    - ecclesial; ecclesiastical
+            - ed
+                - edit
+                    - editor;
+            - ef
+                - effect
+                    - [[efficiency]];
+                    - effective; effectively, 2;
+                    - side-effect;
+        - o
+            - ob
+                - ob-
+                    - obscure
+                        - 遮蔽; 湮没;
+                        - obscured; obscurity;
+                - object
+                - observe
+                    - observation; observed, 2; [[observer]]
+            - oc
+                - occasion
+                    - occasional; occasionally;
+                - occupy
+                    - occupied;
+            - on
+                - onym
+                    - 术语, 名字;
+                    - onymous
+                        - bearing a name: [articles in magazines] are usually onymous
+                    - [[acronym]]; "[[anonymous]]"; [[antonym]]; [[hyponym]]; [[synonym]];
         - w
             - wa
                 - wave

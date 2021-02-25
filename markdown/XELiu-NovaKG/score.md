@@ -226,6 +226,7 @@ http://corpus.zhonghuayuwen.org/index.aspx
 obsidian — Link to blocks
             - 其实很多[所谓的]玩[猫箱](https://bbs.saraba1st.com/2b/thread-1988791-2-1.html)梗的东西，[实质上只是][人择原理]的应用而已。
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
+            - {{[[TODO]]}} plot based on origin, matlab, python, excel, etc.
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
                 - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。
         - detail point 99.99 (pt9-99.99)
@@ -272,6 +273,8 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
                 - {{[[TODO]]}} [Cathay](https://books.google.co.jp/books?id=-L-IDwAAQBAJ): A Critical Edition
                 - [Ezra Pound](https://books.google.co.jp/books?id=0PI7g5B-6eQC)'s [Confucian Translations]
                 - 就算按他自己说的从[宏观角度](https://zhuanlan.zhihu.com/p/346597171)看历史而不去[治史]，他这种不【甄别】【对比】史料的阅读方式，其实本质和看[地摊阴谋论]也没什么区别，[更遑论]他那所谓的归纳总结的【历史经验】了
+                - O1b北上肯定不止是夏商时候的事情了。实际上，1万年前的时候，O1b可能才是[O系](https://bbs.northdy.com/thread-921802-1-1.html)的主流，[广布]整个[东亚]。只是后来O2（老O3）的三大支兴旺发达，O1b才被挤成分散的几块的样子。
+O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
         - detail point 99.98 (pt9-99.98)
             - {{[[TODO]]}} 使用“物体”作为[基本单元](https://www.zhihu.com/question/424782770/answer/1516086432)的[问题关键在于]物体[这一概念]的[时间延展]是不确定的，[直观上][我们习惯把][某一特定空间延展的集合]称为物体，然而[随着时间变化]，[物体的同一性][是成问题的]，也就是[忒休斯之船][疑难]。而“事件”没有这个问题，它没有[时间上的延展]，不同[时间断面]上的事件之间只会有[因果关系]而[不需要有同一性]。
                 - 非相对论下，时间和空间是相互独立，静止绝对的，我们可以假想整个空间静止在某一个时刻，相当于在时空连续体中垂直于时间轴横切一刀。这一刀由于时间和空间的独立性，存在一个正宗的切法，一个正宗的方向。这种情况下，我们可以很方便地讨论一个时刻的空间切片下的点，此时这个点是整个时空连续体的事件，也是该时刻空间里的物体。
