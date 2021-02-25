@@ -68,6 +68,7 @@
                         - 我目前使用的是tiki wiki。对于个人用户，tiki实在是太复杂了，这点也受到很多批评，功能很多，但都很菜。而且资料[使用数据库保存]，一旦[开发团队]停止维护，[转移成本]非常大。
                 - {{[[TODO]]}} 我现在有了[更好的选择](https://www.zhihu.com/question/50214188/answer/402501672) TreeSheets.
                     - 虽然 [YouMinds Composer](https://link.zhihu.com/?target=https%3A//www.youminds.com/) [这个软件]提供的[交互界面][很有创意]，但是因为[内存占用过高]加上[速度缓慢]，我不得不[转而使用] thebrain 10 专业版了。如果有机会，我可能会在 thebrain [数据集]的基础上开发一个[可视化展现界面]，实现[卡片套卡片]的[这种视图]。
+                    - Welcome to the [source distribution] of [TreeSheets](https://github.com/aardappel/treesheets)!
                 - {{[[TODO]]}} [鹅先知](https://www.zhihu.com/people/LY_x7x7): [这么看来](https://www.zhihu.com/question/436018808/answer/1699804012)，你对 daily note 的理解类似 PARA 处理信息的一种方式，不过这里用的是另一套逻辑，是基于卡片和卡片之间的双向连接和层级关系。
                     - 这个过程其实也是对一些[笔记的typo][进行修改]，一些[未完成的内容]做[填补]。
 我感觉采用 obsidian 这种双向链接和脑图的工具，其实我的很多规矩应该重新考虑。
@@ -107,6 +108,7 @@ Completed after 4 days.
                 - 这是我认为的比特币的[基本面]，它不仅是一种你希望别人以[更高价格]买走的资产，它有其他价值，这些价值在[乱世][非常有用]。
             - {{[[TODO]]}} vpn in GitHub, Twitter, Reddit, Telegram, Discord...
         - detail point 99.99 (pt10-99.99)
+            - {{[[TODO]]}} [HoneySelect2/工作室存档](http://www.uu-gg.cc/forum.php?mod=viewthread&tid=76556) 借钱（骨骼绑定可动场景）
             - {{[[TODO]]}} **采蘑菇的小芋艿** -- 心中有丘壑，眉目做山河 -- 【[新手助眠](https://space.bilibili.com/438127416/dynamic)】
             - {{[[TODO]]}} [vlog 008](https://www.bilibili.com/video/BV1xJ411X7qA) 探访哈工大食堂
                 - [VLOG 04](https://www.bilibili.com/video/BV114411274h) 实习小总结+到达哈尔滨
@@ -163,6 +165,11 @@ pgb: 17m
         -  detail point 99.98 (pt10-99.98)
             {{[[TODO]]}} 博得之门3[创建人物]法师的[剧情流程](https://www.bilibili.com/video/BV1A54y1s7ty)解说1-7
 pgb: 15m
+            {{[[TODO]]}} 之前一直以为DAZ只是个用来[摆Pose][辅助绘画]用的[工具软件](https://bbs.saraba1st.com/2b/thread-1989773-1-1.html)，最近玩zbrush时[顺道接触了下]才发现原来它有[海量的][第三方模型]/姿势/服饰，[模型细节]都支持各种[自定义调整]，不少人拿它来[拍照出涩图]
+                - 这不就相当于[人工少女]的[加强版]吗 是不是真的很多AI玩家转移到这些[3D软件]里[玩拍照]了？另外这类[3D捏人]领域有啥[氛围比较好]的[社区]没，[求引路]
+                - 捏人无限好，[做个表情]丑得跟鬼一样……
+我就没见过DAZ做的游戏里人物[强烈表情]能不丑的
+                - 欧美那些[3D漫画]都是DAZ做的吧，还有个可以[导入][自定义DAZ模型]的[黄油]VAM
             [银河不遗忘——质量效应三部曲与远去的第七世代](https://zhuanlan.zhihu.com/p/351489754)
             Sweety Chinese Nude Model [Hanna](https://www.xvideos.com/video35472517/sweety_chinese_nude_model_hanna_with_sexy_pantyhose) with Sexy Pantyhose
             {{[[TODO]]}} [Telegram](https://zhuanlan.zhihu.com/p/348089039) 由于其开放性、灵活性、[监管少]，因此在Telegram上[有很多]不错的[分享电子书]及资料的群组、频道、Bot。
@@ -188,6 +195,7 @@ page attribute -- roam
             illusion game
                 - {{[[DONE]]}} hs2 整合包
             {{[[TODO]]}} 【[蘑菇](https://www.bilibili.com/audio/au85858?type=7)】SAYONARA （てぃあら） DL
+            将PC浏览器、ZOOM等软件[正在播放的音频][实时转成文字]！[讯飞语音输入法]的[妙用](https://zhuanlan.zhihu.com/p/352726523)
         - detail point 99.97 (pt10-99.97)
             - 272部 剑桥史系 [pdf 下载](https://bbs.northdy.com/thread-733963-1-1.html)
             - **信息素的信息** [bilibili](https://space.bilibili.com/44412187)
@@ -244,6 +252,7 @@ http://corpus.zhonghuayuwen.org/index.aspx
 obsidian — Link to blocks
             - 其实很多[所谓的]玩[猫箱](https://bbs.saraba1st.com/2b/thread-1988791-2-1.html)梗的东西，[实质上只是][人择原理]的应用而已。
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
+            - {{[[TODO]]}} 在玻璃上[喷涂](https://www.zhihu.com/question/420760487/answer/1692006101)一层[玻璃清洁][涂层]。利用[纳米分子]在[玻璃表面][附着一层][疏水层]，水渍和污垢就很难[附着在]玻璃上面了。喷涂一次一般可以管2-3年，再也不用为天天[擦玻璃]而头疼了。
             - {{[[TODO]]}} plot based on origin, matlab, python, excel, etc.
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
                 - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。
@@ -275,6 +284,8 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
 なりすましゲンガー; 
             - {{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)
                 - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
+            - [中医实体化研究](https://www.zhihu.com/question/435070523/answer/1652498625)一直存在这个问题，申请研究，获得经费，给点结果（和之前[研究结果]甚至都不一样，有[生物电]的，有皮肤几种组织[特殊作用]的，有[按压针刺]产生某些[分泌物]的。结论比较保守，而且也有[实质性依据]，也不会产生第二个[金凤汉事件]。）然后研究者[加官进爵]。
+但[经络问题]依旧[没什么太大进展]。
             - game
                 - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
@@ -328,6 +339,11 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
             - {{[[TODO]]}} bdwp [2T空盘](https://www.ghpym.com/bdwpzyad); u5w 
             - 小容量的FAT32，大容量的NTFS，不要考虑 [exFat](https://zhuanlan.zhihu.com/p/86116170)。原因很简单：1、exFAT丢文件、丢文件、丢文件；2、exFAT 兼容性，尤其插手机、电视机；3、exFAT 要授权，比如插NAS
             - {{[[TODO]]}} 福昕阅读器
+            - 乾隆[真正推崇的是](https://www.zhihu.com/question/268339125)[熊廷弼]，对袁崇焕的[评价][更像是]一种“[这人死得好惨]我勉强[怜悯一下]吧”的态度。
+                - 乾隆只是[平反]，他对袁的评价很低的。真正捧袁的是[清末民国]，这与当时[革命党]为了[推翻满清][故意造势]的[社会背景]有关
+            - 就[个人观点](https://www.zhihu.com/question/432491035)来说，袁崇焕是明末[比较有才能]的[军事官僚]，其个人能力和[所部]军队[战斗力]是超过卢象升、满桂和他们[败亡]时的[部下]，至于是否超过[洪承畴]就[不好比较]。
+                - 你可以从[广渠门之战]推出袁崇焕和祖大寿[联手]即便[野战]也可以打败[八旗主力]，也可以从[蓟门潜越]事件嘲讽袁崇焕的[战场判断能力]而不看好他[指挥运动战]。
+                - 宁远宁锦之战在整个[明清战争]里，纯军事角度不值一提，例如[宁远之战][战斗过程]不过2天，清军就[退兵]了。就算是个[围城战][成色]也与[金国凤]被清军[动用][红夷大炮][轰击]下还能[坚守][四旬]没法比。
             - 而最近的[创新者] Roam ReSearch 又把反向链接，[块插入]做成了[核心创新点]。引用[这个事情](https://www.zhihu.com/question/404659530/answer/1363104969)我在印象笔记里面也[做了好几年了]，[复杂的思考]要[生成索引页面]，但都是[靠手工来做的]，自己复制链接、插入链接（当然[目录功能][能帮上一点忙]），自己 copy 引用内容，麻烦得很，但是没办法。
                 - 「超级笔记」有点像 Notion，[最近很流行][模块化写作]，甚至 WordPress [默认的编辑器]也改成了模块化写作的风格，国内的[模仿者]还有「我来」。
     - level 8
@@ -357,6 +373,11 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
             - 你的想法很好，我也很想实现你的想法，但是我觉着很困难，因为在线的网站播放视频，视频由别人控制，如果资源失效那么学习笔记也就没了，所以我推荐学习的时候就用[本地视频](https://www.bilibili.com/video/BV13K4y1n7fg)（b站视频的下载，可以在win中的 [Microsoft 商店]中下载 [bilibili win10 特制版]，然后就能直接用客户端下载到电脑上，而且视频不加密，无水印，可以直接学习）
 对于我这个视频的方法来说，在写程序的时候只能实现obsidian和potplayer之间的调用。
 当我们尝试用all in one的思路去建立个人知识库的时候，才能真正发挥Obsidian的作用。
+            - 蒋介石已经[悔悟](https://www.zhihu.com/question/381762957/answer/1743582552)[当初不该听信][马歇尔][怂恿]，把军队北进顶点，从锦州延伸到了长春以北，松花江以南，[小丰满水电站][一线]。虽然此间国军与共军[反复拉锯攻防]，互有胜负，但是总体来说，在地广人稀，共军[让开大路]，占领两厢，发动土改，农村包围城市，[逐渐控制]97%的土地和86%的人口的背景下，东北国军[兵力]仍然[捉襟见肘]。
+                - 因为当时东北路上交通[已经断绝]，长春十万级的[兵团]都要靠[空投]进行[物资补给]，这杯水车薪，劳师袭远，代价高昂，奢侈至极的补给方式，国民党空军都[难以独力承担]，不但[征用]了国民党“中航”等[民用航空公司]，还雇用了[陈纳德]的[航空队]来给东北战场[输血]。因此撤军，从现实意义，[财政意义]上说，对国军都是[最实际的选择]。
+                - 所以，当时[国军系统][反复讨论]，争吵，形成了一个[折中的方案]，就是等沈阳主力[整补完毕]之后，由沈阳主力北上迎接，长春主力[趁机杀出来]，在沈阳主力的[接应]之下，[会师]后一起往南撤。
+                    - 但这又谈何容易？东北[大河密布]，共军[占领区]那么广阔，国军只守几个大城市和周围少数[据点]，想从沈阳打过去，接应出来长春守军，是难上加难，几乎难以完成的。
+                - 此不作[详细展开]，因为卫在辽沈期间是否[通共]，或者通过[不作为]暗中“助共”，争议颇大，如果展开，估计得几千字
     - level 7
         - detail point 99.99 (pt7-99.99)
             - 要想明白。LaTeX的[语法组件](https://www.zhihu.com/question/319571624)，不光可以用来当作[标记语言]，而且还能[改变排版状态]。
