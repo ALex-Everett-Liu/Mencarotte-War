@@ -57,6 +57,7 @@
         - If two products are of the same or [similar quality], consumers will tend to buy the one [bearing a good brand name].
         - Targeted to addressing the issues that [most small and medium sized companies] will face during the establishment of an [ISO 9001:2000 quality management system], the author has [studied and practiced] in this domain extensively.
     - www.[[dictall]].com
+        - She also learnt to [read people's lips] by [pressing her finger-tips against them] and [feeling the movement and vibrations].
         - [Branded merchandise] [品牌商品] is that [bearing a standard brand name]. 
         - [Psychological health] of nurses: [philology analysis] of [Chinese Journal Nursing]. 
     - www.[[fabiao]].net
