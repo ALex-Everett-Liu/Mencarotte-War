@@ -57,7 +57,7 @@ May [King Wen] never be weary of [us] men.           無射於人斯
 201113-17:25
     - [Nearly all of the songs] in the Poetry are rhyming, with [[end rhyme]], as well as frequent [[internal rhyming]].[14] While some of these verses still rhyme in [modern varieties]([[variety]]) of Chinese, others had ceased to rhyme by the [[Middle Chinese]] period. For example, the eighth song (芣苢 __Fú Yǐ__[b](((713BBbrpT)))) has a tightly [[constrained structure]] 严格约束的结构 [implying rhymes] between the [penultimate words] 倒数第二的 (here [shown in bold]) of [each pair of lines]([[line pair]]):[19]
 201113-17:40
-        [[Chinese character]]s -- [[Mandarin]] [[pronunciation]] ([pinyin]) -- [[Early Middle Chinese]] ([Baxter](https://en.wikipedia.org/wiki/Baxter%27s_transcription_for_Middle_Chinese)) #[[Baxter's transcription]]
+        [[Chinese character]]s -- Mandarin [[pronunciation]] ([pinyin]) -- [[Early Middle Chinese]] ([Baxter](https://en.wikipedia.org/wiki/Baxter%27s_transcription_for_Middle_Chinese)) #[[Baxter's transcription]]
 采采[芣苢]、薄言采之。 -- __Cǎi cǎi fú yǐ,__ báo yán **cǎi** zhī. -- __tshojX tshojX bju yiX,__ bak ngjon **tshojX** tsyi.
 采采芣苢、薄言有之。 -- Cǎi cǎi fú yǐ, báo yán **yǒu** zhī. -- tshojX tshojX bju yiX, bak ngjon **hjuwX** tsyi.
 201118-04:24
