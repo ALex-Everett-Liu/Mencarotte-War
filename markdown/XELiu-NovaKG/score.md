@@ -163,19 +163,34 @@ pgb: 17m
             - {{[[TODO]]}} 大流寇
             - {{[[TODO]]}} 网页资源嗅探
         -  detail point 99.98 (pt10-99.98)
-            {{[[TODO]]}} 博得之门3[创建人物]法师的[剧情流程](https://www.bilibili.com/video/BV1A54y1s7ty)解说1-7
+            game
+                - {{[[TODO]]}} 博得之门3[创建人物]法师的[剧情流程](https://www.bilibili.com/video/BV1A54y1s7ty)解说1-7
 pgb: 15m
-            {{[[TODO]]}} 之前一直以为DAZ只是个用来[摆Pose][辅助绘画]用的[工具软件](https://bbs.saraba1st.com/2b/thread-1989773-1-1.html)，最近玩zbrush时[顺道接触了下]才发现原来它有[海量的][第三方模型]/姿势/服饰，[模型细节]都支持各种[自定义调整]，不少人拿它来[拍照出涩图]
-                - 这不就相当于[人工少女]的[加强版]吗 是不是真的很多AI玩家转移到这些[3D软件]里[玩拍照]了？另外这类[3D捏人]领域有啥[氛围比较好]的[社区]没，[求引路]
-                - 捏人无限好，[做个表情]丑得跟鬼一样……
-我就没见过DAZ做的游戏里人物[强烈表情]能不丑的
-                - 欧美那些[3D漫画]都是DAZ做的吧，还有个可以[导入][自定义DAZ模型]的[黄油]VAM
-            [银河不遗忘——质量效应三部曲与远去的第七世代](https://zhuanlan.zhihu.com/p/351489754)
+                - [银河不遗忘——质量效应三部曲与远去的第七世代](https://zhuanlan.zhihu.com/p/351489754)
+                - illusion game
+                    - {{[[DONE]]}} hs2 整合包
             Sweety Chinese Nude Model [Hanna](https://www.xvideos.com/video35472517/sweety_chinese_nude_model_hanna_with_sexy_pantyhose) with Sexy Pantyhose
-            {{[[TODO]]}} [Telegram](https://zhuanlan.zhihu.com/p/348089039) 由于其开放性、灵活性、[监管少]，因此在Telegram上[有很多]不错的[分享电子书]及资料的群组、频道、Bot。
-                - 道理是这个道理，但是打开电报就不想看书了
-对，还要开大卡车。开各种日本车欧美车。
             tech...
+                - {{[[TODO]]}} 之前一直以为DAZ只是个用来[摆Pose][辅助绘画]用的[工具软件](https://bbs.saraba1st.com/2b/thread-1989773-1-1.html)，最近玩zbrush时[顺道接触了下]才发现原来它有[海量的][第三方模型]/姿势/服饰，[模型细节]都支持各种[自定义调整]，不少人拿它来[拍照出涩图]
+                    - 这不就相当于[人工少女]的[加强版]吗 是不是真的很多AI玩家转移到这些[3D软件]里[玩拍照]了？另外这类[3D捏人]领域有啥[氛围比较好]的[社区]没，[求引路]
+                    - 捏人无限好，[做个表情]丑得跟鬼一样……
+我就没见过DAZ做的游戏里人物[强烈表情]能不丑的
+                    - 欧美那些[3D漫画]都是DAZ做的吧，还有个可以[导入][自定义DAZ模型]的[黄油]VAM
+                - 学习 Python, Java, JavaScript, TypeScript, Ruby, C 和 C++ 编程的[可视化网站](https://zhuanlan.zhihu.com/p/30351346) --[ 此网站](http://link.zhihu.com/?target=http%3A//pythontutor.com/)可以动态可视化地显示你的代码相对应的数组、堆、栈什么的分配情况，对于编程初学者很有帮助。
+                - {{[[TODO]]}} [Telegram](https://zhuanlan.zhihu.com/p/348089039) 由于其开放性、灵活性、[监管少]，因此在Telegram上[有很多]不错的[分享电子书]及资料的群组、频道、Bot。
+                    - 道理是这个道理，但是打开电报就不想看书了
+对，还要开大卡车。开各种日本车欧美车。
+                - [UltraEdit 注册机](https://www.liupeng.mobi/archives/3295)
+                    - {{[[TODO]]}} IDM Universal Patch v5.8.0 [注册机](https://www.macno1.com/post/1147.html)
+                        - [破解不完全](https://www.macno1.com/post/1149.html), 不定時出現 “試用期限己結束” -- 解決方式 修改 uedit64.exe
+                - {{[[TODO]]}} apk 提取
+                - 雷电模拟器
+                - 将PC浏览器、ZOOM等软件[正在播放的音频][实时转成文字]！[讯飞语音输入法]的[妙用](https://zhuanlan.zhihu.com/p/352726523)
+            note-taking
+                - Roam Research 的[标签系统](https://sspai.com/post/65037)[自然也是][完全可以]将标签和[行文][结合起来]。Roam 的标签系统[更进一步的功能]在于标签[汇总结果]的[呈现]。下图就展示了标签「to read」的[自动汇总]效果。首先，所有[打上了这个标签]的内容都[陈列在] linked reference 下，同时，与标签[最直接相关的][场景]信息也[清楚地呈现出来]了。除了 linked reference 之外，Roam 还提供了 unlinked reference 来汇总没有[明确地][人为标记]标签，但关键词[多次提到]或[关系网密切]的笔记。
+                    - 第二，在 Roam Research 里，标签的汇总[本身也成了]一个[新的页面]，为我们[提供了更多的空间]对这个标签的[内容本身]进行描述和讨论。这种新页面的[呈现效果]是以往其他笔记软件[所没有的]。
+                    - Struggle with Me - [和燕燕](https://sspai.com/u/jena0930/updates)
+                    - 这也是我作为一个非设计从业者放弃eagle的理由，[维护成本]太高了。我觉得未来的信息管理应该是[依靠大数据]能自动给文件提供[分类 tag]，用户可以[基于此][再进行自定义]，目前已经有一些[垂直领域]在[使用这套逻辑]，比如网易云和抖音，只不过他们的tag[对用户]是[不可见的]
                 - {{[[TODO]]}} [xcolor](https://blog.csdn.net/u014546828/article/details/104046713) 默认颜色只有19种，使用时可以在option中加入另外3张颜色表来极大扩充颜色库。
                     - https://www.jianshu.com/p/5aee7c366369
                     - [Latex中68种颜色名称](https://wenku.baidu.com/view/280ec427284ac850ac024255.html)
@@ -185,17 +200,8 @@ pgb: 15m
 page attribute -- roam
                 - {{[[TODO]]}} Atom Configuration -- Settings
                 - VSCode Configuration 
-                - 学习 Python, Java, JavaScript, TypeScript, Ruby, C 和 C++ 编程的[可视化网站](https://zhuanlan.zhihu.com/p/30351346) --[ 此网站](http://link.zhihu.com/?target=http%3A//pythontutor.com/)可以动态可视化地显示你的代码相对应的数组、堆、栈什么的分配情况，对于编程初学者很有帮助。
-                - [UltraEdit 注册机](https://www.liupeng.mobi/archives/3295)
-                    - {{[[TODO]]}} IDM Universal Patch v5.8.0 [注册机](https://www.macno1.com/post/1147.html)
-                        - [破解不完全](https://www.macno1.com/post/1149.html), 不定時出現 “試用期限己結束” -- 解決方式 修改 uedit64.exe
                 - [Org-Roam](https://www.youtube.com/watch?v=oyEMlIxIHXs&t=4s) [v1.2.0](https://www.bilibili.com/video/BV1Kv4y1Z7Cs) - Headlines & Unlinked References-oyEMlIxIHXs
-                - {{[[TODO]]}} apk 提取
-                - 雷电模拟器
-            illusion game
-                - {{[[DONE]]}} hs2 整合包
             {{[[TODO]]}} 【[蘑菇](https://www.bilibili.com/audio/au85858?type=7)】SAYONARA （てぃあら） DL
-            将PC浏览器、ZOOM等软件[正在播放的音频][实时转成文字]！[讯飞语音输入法]的[妙用](https://zhuanlan.zhihu.com/p/352726523)
         - detail point 99.97 (pt10-99.97)
             - 272部 剑桥史系 [pdf 下载](https://bbs.northdy.com/thread-733963-1-1.html)
             - **信息素的信息** [bilibili](https://space.bilibili.com/44412187)
