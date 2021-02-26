@@ -38,6 +38,7 @@
     - [blog.163].com
         - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
         - Thoreau provides insight into [the core of these issues]. Soro 
+    - www.[[ftchinese]].com
     - www.[[fortunechina]].com
         - Bain [won the overall deal]([[overall deal]]) for $ 1.75 billion, and would rename the Asia and European business ideal standard. 
     - www.[[chinadaily]].com.cn
@@ -60,6 +61,7 @@
         - She also learnt to [read people's lips] by [pressing her finger-tips against them] and [feeling the movement and vibrations].
         - [Branded merchandise] [品牌商品] is that [bearing a standard brand name]. 
         - [Psychological health] of nurses: [philology analysis] of [Chinese Journal Nursing]. 
+    - danci.911cha.com
     - www.[[fabiao]].net
         - The system [shows promising results] towards [addressing the issues] that were identified as [preventing semantic data reuse] by [Web Engineers]. 
         - The fourth part is the suggestions for improving our [labor dispatching system]. 劳务派遣制度 Hence, [based on the above analysis] it further [puts forward the solution] in [addressing the issues].
