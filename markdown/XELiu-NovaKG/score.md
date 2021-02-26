@@ -292,6 +292,7 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
                 - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
             - [中医实体化研究](https://www.zhihu.com/question/435070523/answer/1652498625)一直存在这个问题，申请研究，获得经费，给点结果（和之前[研究结果]甚至都不一样，有[生物电]的，有皮肤几种组织[特殊作用]的，有[按压针刺]产生某些[分泌物]的。结论比较保守，而且也有[实质性依据]，也不会产生第二个[金凤汉事件]。）然后研究者[加官进爵]。
 但[经络问题]依旧[没什么太大进展]。
+            - {{[[TODO]]}} [显卡](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1989745)不能挖的只有[比特币]一种，[虚拟货币]有很多，[大多]都还能[用显卡挖]，甚至有的虚拟货币还在[主动][定期调整算法]避免像比特币一样[变得]只有[ASIC定制芯片]能挖
             - game
                 - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
