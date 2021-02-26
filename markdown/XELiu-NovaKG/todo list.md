@@ -51,6 +51,11 @@ https://www.bilibili.com/video/BV18t4y1z7jq/?spm_id_from=333.788.videocard.6
     - music?
         - trick and treat
         - うたかた花火 (Utakata Hanabi)
+- software, app...
+    - {{[[TODO]]}} caiyun weather
+apk 提取
+Total Control
+ge
 - comment? point of view? wait to be classified...
     - "每每看到 Notion 用户丢人现眼的傻逼言论，感叹他们实在缺乏见识与视野的同时，又让我对 Notion 的厌恶更增多了一分。当然了，论傻逼言论，那都比不上 Notion 自家创始人 Ivan Zhao 的那些访谈，深刻印证了他的产品是个空有其表内在劣质的花架子。
 210121-19:55"
