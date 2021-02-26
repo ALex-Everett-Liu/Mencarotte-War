@@ -3,5 +3,5 @@
     - You [really need] a [[magnifying glass]] to [appreciate all the fine detail]. 欣赏 《牛津高阶英汉双解词典》
     - He misplaces his [reading glasses] 记不起 [with such regularity that] [aides carry extras]. 助手们会随身携带备用的 《柯林斯高阶英汉双解学习词典》
     - It's possible Merian used [a magnifying glass] to [capture the detail of] the [split tongues] 裂舌 of [sphinx moths] 飞蛾 [depicted in the painting]. [六级真题]- 2018年 12月 2卷 [信息匹配]
-    - Is it possible to change the LEDs on a LED magnifier? www.[steinermall].com
-    - The AIM Research Group's Pointing Magnifier software can be downloaded free from the University of Washington website. www.[[okread]].info
+    - [Is it possible to] [change the LEDs] on a [LED magnifier]? www.[steinermall].com
+    - The [AIM Research Group]'s [Pointing Magnifier] software [can be downloaded free] from the [University of Washington] website. www.[[okread]].info
