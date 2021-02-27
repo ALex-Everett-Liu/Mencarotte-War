@@ -56760,6 +56760,42 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "And in September 2020, Notion quietly [jumped into the fray] as the [[Twittersphere]] saw backlinks [pop up at the top of their pages]. (Notion’s [official announcement](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c) page [makes no mention of it].) #[[announcement]]",
+            "create-time": 1600431271047,
+            ":block/refs": [
+              {
+                ":block/uid": "zK5ODMKQR"
+              },
+              {
+                ":block/uid": "XyJ75Auwj"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "zK5ODMKQR"
+              },
+              {
+                "uid": "XyJ75Auwj"
+              }
+            ],
+            "children": [
+              {
+                "string": "fray: dadou34, jingzheng41, zhengbian14",
+                "create-time": 1600431381303,
+                "uid": "pplTBqPNm",
+                "edit-time": 1614413221225,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "b2pmyzqJl",
+            "edit-time": 1614413236933,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "IlN2q_S1D",
@@ -56948,6 +56984,30 @@
     "title": "organized",
     "uid": "ZY9QNtPGz",
     "edit-time": 1614399664598,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614413221230,
+    "title": "Twittersphere",
+    "uid": "zK5ODMKQR",
+    "edit-time": 1614413221231,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614413221230,
+    "title": "announcement",
+    "uid": "XyJ75Auwj",
+    "edit-time": 1614413221231,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

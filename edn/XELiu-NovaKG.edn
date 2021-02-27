@@ -31149,8 +31149,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuid20340213-6183-4c71-a589-5d958a46436a"
-   536902843]
+   "uuid2a5e421d-7633-4a96-bd8d-9f5211cec490"
+   536902852]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -45266,6 +45266,7 @@
   [8144 :node/title "Excel-like" 536902783]
   [8145 :block/children 8147 536902796]
   [8145 :block/children 8150 536902800]
+  [8145 :block/children 8167 536902847]
   [8145 :block/heading 2 536902791]
   [8145 :block/open true 536902788]
   [8145 :block/order 2 536902788]
@@ -45308,7 +45309,7 @@
   [8149 :edit/time 1614399644983 536902799]
   [8149 :edit/user 3 536902799]
   [8150 :block/children 8157 536902808]
-  [8150 :block/open true 536902800]
+  [8150 :block/open false 536902844]
   [8150 :block/order 1 536902800]
   [8150 :block/page 8128 536902801]
   [8150 :block/parents 8128 536902801]
@@ -45447,4 +45448,51 @@
   [8165 :create/time 1614401693817 536902836]
   [8165 :create/user 3 536902836]
   [8165 :edit/time 1614401695495 536902838]
-  [8165 :edit/user 3 536902836]]}
+  [8165 :edit/user 3 536902836]
+  [8167 :block/children 8168 536902847]
+  [8167 :block/open false 536902847]
+  [8167 :block/order 2 536902847]
+  [8167 :block/page 8128 536902849]
+  [8167 :block/parents 8128 536902849]
+  [8167 :block/parents 8145 536902849]
+  [8167 :block/refs 8169 536902848]
+  [8167 :block/refs 8170 536902848]
+  [8167
+   :block/string
+   "And in September 2020, Notion quietly [jumped into the fray] as the [[Twittersphere]] saw backlinks [pop up at the top of their pages]. (Notion’s [official announcement](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c) page [makes no mention of it].) #[[announcement]]"
+   536902852]
+  [8167 :block/uid "b2pmyzqJl" 536902847]
+  [8167 :create/time 1600431271047 536902847]
+  [8167 :edit/seen-by 3 536902850]
+  [8167 :edit/time 1614413236933 536902852]
+  [8167 :edit/user 3 536902847]
+  [8168 :block/open true 536902847]
+  [8168 :block/order 0 536902847]
+  [8168 :block/page 8128 536902849]
+  [8168 :block/parents 8128 536902849]
+  [8168 :block/parents 8145 536902849]
+  [8168 :block/parents 8167 536902849]
+  [8168
+   :block/string
+   "fray: dadou34, jingzheng41, zhengbian14"
+   536902847]
+  [8168 :block/uid "pplTBqPNm" 536902847]
+  [8168 :create/time 1600431381303 536902847]
+  [8168 :edit/time 1614413221225 536902847]
+  [8168 :edit/user 3 536902847]
+  [8169 :block/uid "zK5ODMKQR" 536902848]
+  [8169 :create/time 1614413221230 536902848]
+  [8169 :create/user 3 536902848]
+  [8169 :edit/time 1614413221231 536902848]
+  [8169 :edit/user 3 536902848]
+  [8169 :node/title "Twittersphere" 536902848]
+  [8170 :block/uid "XyJ75Auwj" 536902848]
+  [8170 :create/time 1614413221230 536902848]
+  [8170 :create/user 3 536902848]
+  [8170 :edit/time 1614413221231 536902848]
+  [8170 :edit/user 3 536902848]
+  [8170 :node/title "announcement" 536902848]
+  [8171 :block/string "" 536902851]
+  [8171 :block/uid "rM6Q3XJg3" 536902851]
+  [8171 :edit/time 1614413221242 536902851]
+  [8171 :edit/user 3 536902851]]}
