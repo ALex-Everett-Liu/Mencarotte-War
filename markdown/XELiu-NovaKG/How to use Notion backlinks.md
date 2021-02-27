@@ -22,3 +22,15 @@
     - Here’s [my explanation] of backlinks: #iframe
         - <iframe class=" lazyloaded" data-src="https://www.youtube.com/embed/3GG0Ck14ISM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
     - And as you build your [[knowledge graph]] of notes, books, resources and tasks – the backlink [exponentially grows]([[exponential growth]]) the [[serendipity]] within your [[digital workspace]]s. 
+- ## How to use Notion Backlinks
+    - It looks like using Notion Backlinks is [easy as pie]. You don’t have to do anything. **Backlinks are [created automatically]** . You’ll just see a little [[indicator]] [on the top left of any page] that shows that __[other pages link to it]__. 
+        - If you [expand that icon], you’ll see the pages that were **@mentioned** or **linked to** (in clickable fashion). #[[mentioned]]
+    - TBH, [there’s probably a reason] this is a [quiet release] – it doesn’t [move the needle] much (and some [Notion Pros agreed](https://twitter.com/aNotioneer/status/1301478546792214528)). Notion is probably [laying a foundation for] [more powerful] backlinks, but for now you can’t even begin to [compare this feature to] [Roam Research].
+**Notion 实在是令人作呕 !!!**
+- ## Notion “Global” Blocks are still [way more powerful]
+    - In fact, [one of the most powerful] [linking feature] [isn’t widely known]: **Global Blocks**. This [undiscovered feature] is probably by design, since it’s unofficial (like the numerous [Notion integrations](https://radreads.co/notion-integrations/) using the “[unofficial API]([[API]])”).
+    - This [[workaround]]s enables [transclusion](https://www.reddit.com/r/RoamResearch/comments/gvbg1q/what_is_block_level_transclusion_and_why_is_it/): lets you [reuse an entire block] (a [[footer]], for example) so that [[edits in one place]] will [automatically pass through to the other blocks]. Here’s a [quick tutorial](https://www.youtube.com/embed/mQW1retgBcA) on [[global block]]s: #Reddit #[[Roam Research]] #transclusion #[[block level]]
+210228-00:20
+    - But like anything __unofficial__, buyer beware.
+- ---
+- 

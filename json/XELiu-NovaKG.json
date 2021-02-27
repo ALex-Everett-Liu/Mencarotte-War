@@ -4364,6 +4364,18 @@
                     }
                   },
                   {
+                    "string": "以YouTube播放[进行排序]\n参考：https://www.vocaloard.injpok.tokyo/",
+                    "create-time": 1614446219891,
+                    "uid": "0uH2h54_P",
+                    "edit-time": 1614446227329,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "[中医实体化研究](https://www.zhihu.com/question/435070523/answer/1652498625)一直存在这个问题，申请研究，获得经费，给点结果（和之前[研究结果]甚至都不一样，有[生物电]的，有皮肤几种组织[特殊作用]的，有[按压针刺]产生某些[分泌物]的。结论比较保守，而且也有[实质性依据]，也不会产生第二个[金凤汉事件]。）然后研究者[加官进爵]。\n但[经络问题]依旧[没什么太大进展]。",
                     "create-time": 1614278043468,
                     "uid": "rhzHSOzQ7",
@@ -6193,7 +6205,7 @@
             },
             "children": [
               {
-                "string": "{{[[TODO]]}} screenshot 屏幕截图 (1322).png -- 6169; 6951; 8312; 10229; 14988; 15672; 16139; 20138; 21107; 22564; 22684; 24284; 24764; 25439",
+                "string": "{{[[TODO]]}} screenshot 屏幕截图 (1322).png -- 6169; 6951; 8312; 10229; 14988; 15672; 16139; 20138; 21107; 22564; 22684; 24284; 24764; 25439; 26204",
                 "create-time": 1607763849063,
                 ":block/refs": [
                   {
@@ -6209,7 +6221,7 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "COnw31W4F",
-                "edit-time": 1614165550041,
+                "edit-time": 1614450195275,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -57214,6 +57226,188 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "How to use Notion Backlinks",
+        "heading": 2,
+        "children": [
+          {
+            "string": "It looks like using Notion Backlinks is [easy as pie]. You don’t have to do anything. **Backlinks are [created automatically]** . You’ll just see a little [[indicator]] [on the top left of any page] that shows that __[other pages link to it]__. ",
+            "refs": [
+              {
+                "uid": "sQdRa-7A4"
+              }
+            ],
+            "children": [
+              {
+                "string": "If you [expand that icon], you’ll see the pages that were **@mentioned** or **linked to** (in clickable fashion). #[[mentioned]]",
+                "create-time": 1600444404332,
+                "refs": [
+                  {
+                    "uid": "GoXt27D40"
+                  }
+                ],
+                "uid": "b7TulIYm_",
+                "edit-time": 1614441889466,
+                ":block/refs": [
+                  {
+                    ":block/uid": "GoXt27D40"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "7qsUQjeAQ",
+            "edit-time": 1614441889466,
+            ":block/refs": [
+              {
+                ":block/uid": "sQdRa-7A4"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "TBH, [there’s probably a reason] this is a [quiet release] – it doesn’t [move the needle] much (and some [Notion Pros agreed](https://twitter.com/aNotioneer/status/1301478546792214528)). Notion is probably [laying a foundation for] [more powerful] backlinks, but for now you can’t even begin to [compare this feature to] [Roam Research].\n**Notion 实在是令人作呕 !!!**",
+            "create-time": 1600444569480,
+            "uid": "cW6vK6b0f",
+            "edit-time": 1614441889466,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "91mDBvRyK",
+        "edit-time": 1614441889466,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Notion “Global” Blocks are still [way more powerful]",
+        "heading": 2,
+        "children": [
+          {
+            "string": "In fact, [one of the most powerful] [linking feature] [isn’t widely known]: **Global Blocks**. This [undiscovered feature] is probably by design, since it’s unofficial (like the numerous [Notion integrations](https://radreads.co/notion-integrations/) using the “[unofficial API]([[API]])”).",
+            "refs": [
+              {
+                "uid": "X4mYXpjuh"
+              }
+            ],
+            "uid": "3E4u14Zxu",
+            "edit-time": 1614442957979,
+            ":block/refs": [
+              {
+                ":block/uid": "X4mYXpjuh"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "This [[workaround]]s enables [transclusion](https://www.reddit.com/r/RoamResearch/comments/gvbg1q/what_is_block_level_transclusion_and_why_is_it/): lets you [reuse an entire block] (a [[footer]], for example) so that [[edits in one place]] will [automatically pass through to the other blocks]. Here’s a [quick tutorial](https://www.youtube.com/embed/mQW1retgBcA) on [[global block]]s: #Reddit #[[Roam Research]] #transclusion #[[block level]]\n210228-00:20",
+            "create-time": 1600444855615,
+            "refs": [
+              {
+                "uid": "mVLmG8m0T"
+              },
+              {
+                "uid": "mmiSSZUgl"
+              },
+              {
+                "uid": "Si_Y8d3yY"
+              },
+              {
+                "uid": "JMPemDx2O"
+              },
+              {
+                "uid": "Etl80YSB0"
+              },
+              {
+                "uid": "agjyRCbxz"
+              },
+              {
+                "uid": "owJdgYK0O"
+              },
+              {
+                "uid": "6Ai0QcdEq"
+              }
+            ],
+            "uid": "JdsqlCyaU",
+            "edit-time": 1614443014959,
+            ":block/refs": [
+              {
+                ":block/uid": "mVLmG8m0T"
+              },
+              {
+                ":block/uid": "mmiSSZUgl"
+              },
+              {
+                ":block/uid": "Si_Y8d3yY"
+              },
+              {
+                ":block/uid": "JMPemDx2O"
+              },
+              {
+                ":block/uid": "Etl80YSB0"
+              },
+              {
+                ":block/uid": "agjyRCbxz"
+              },
+              {
+                ":block/uid": "owJdgYK0O"
+              },
+              {
+                ":block/uid": "6Ai0QcdEq"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "But like anything __unofficial__, buyer beware.",
+            "create-time": 1600445391163,
+            "uid": "YeCZxItir",
+            "edit-time": 1614442957979,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "pU5rtVoIR",
+        "edit-time": 1614442957979,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1614443101559,
+        "uid": "KZ515M1d0",
+        "edit-time": 1614443104455,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614443104696,
+        "uid": "_NFv8PCjk",
+        "edit-time": 1614443104696,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "DADLKG5-1",
@@ -57561,8 +57755,192 @@
   {
     "create-time": 1614430191934,
     "title": "social awareness",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1614442330704,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Enhance one's social awareness and help one become more [socially adaptable]. zuowen.[freekaoyan].com",
+            "create-time": 1614442334469,
+            "uid": "Ia72TeyFj",
+            "edit-time": 1614442362715,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The explanation and inspiration of 解读与启示 the social awareness of [contemporary city]. 社会意识 现代城市 dict.[cnki].net",
+            "create-time": 1614442334469,
+            "uid": "UaupXKMzV",
+            "edit-time": 1614442387814,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The [criminal information awareness] 犯罪情报意识 is the display of social awareness in [criminal information work].",
+            "create-time": 1614442334469,
+            "uid": "MWI8pgIML",
+            "edit-time": 1614442719572,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Curriculum Knowledge] and Form of Social Awareness",
+            "create-time": 1614442334469,
+            "uid": "ORlUks_H9",
+            "edit-time": 1614442722155,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Part-time jobs] enhance a [young person]'s social awareness. www.[dictall].com",
+            "create-time": 1614442334469,
+            "uid": "Gr7Brls2V",
+            "edit-time": 1614442728381,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "WHH9h9Kcy",
+        "edit-time": 1614442333568,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
     "uid": "jfrQX8wFs",
     "edit-time": 1614430191935,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614441889476,
+    "title": "indicator",
+    "uid": "sQdRa-7A4",
+    "edit-time": 1614441889476,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614441889481,
+    "title": "mentioned",
+    "uid": "GoXt27D40",
+    "edit-time": 1614441889481,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614442957987,
+    "title": "API",
+    "uid": "X4mYXpjuh",
+    "edit-time": 1614442957987,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614442957990,
+    "title": "workaround",
+    "uid": "Si_Y8d3yY",
+    "edit-time": 1614442957991,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614442957990,
+    "title": "footer",
+    "uid": "JMPemDx2O",
+    "edit-time": 1614442957991,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614442957990,
+    "title": "edits in one place",
+    "uid": "Etl80YSB0",
+    "edit-time": 1614442957991,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614442957990,
+    "title": "global block",
+    "uid": "agjyRCbxz",
+    "edit-time": 1614442957991,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614442957990,
+    "title": "Reddit",
+    "uid": "owJdgYK0O",
+    "edit-time": 1614442957991,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614442991499,
+    "title": "block level",
+    "uid": "6Ai0QcdEq",
+    "edit-time": 1614442991508,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

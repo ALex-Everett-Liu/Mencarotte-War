@@ -2,7 +2,7 @@
     - "{{[[DONE]]}} hs2 整合包"
 - workflow?
     - win 10 current view or tab saves
-        - {{[[TODO]]}} screenshot 屏幕截图 (1322).png -- 6169; 6951; 8312; 10229; 14988; 15672; 16139; 20138; 21107; 22564; 22684; 24284; 24764; 25439
+        - {{[[TODO]]}} screenshot 屏幕截图 (1322).png -- 6169; 6951; 8312; 10229; 14988; 15672; 16139; 20138; 21107; 22564; 22684; 24284; 24764; 25439; 26204
     - jriver view saves — lily 5:12 30ci
 - video download 
     - bili dl list 202012

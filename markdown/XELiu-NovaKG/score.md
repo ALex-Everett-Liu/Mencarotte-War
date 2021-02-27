@@ -303,6 +303,8 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
 なりすましゲンガー; 
             - {{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)
                 - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
+            - 以YouTube播放[进行排序]
+参考：https://www.vocaloard.injpok.tokyo/
             - [中医实体化研究](https://www.zhihu.com/question/435070523/answer/1652498625)一直存在这个问题，申请研究，获得经费，给点结果（和之前[研究结果]甚至都不一样，有[生物电]的，有皮肤几种组织[特殊作用]的，有[按压针刺]产生某些[分泌物]的。结论比较保守，而且也有[实质性依据]，也不会产生第二个[金凤汉事件]。）然后研究者[加官进爵]。
 但[经络问题]依旧[没什么太大进展]。
             - tech

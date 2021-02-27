@@ -1,0 +1,6 @@
+- dictionary 
+    - Enhance one's social awareness and help one become more [socially adaptable]. zuowen.[freekaoyan].com
+    - The explanation and inspiration of 解读与启示 the social awareness of [contemporary city]. 社会意识 现代城市 dict.[cnki].net
+    - The [criminal information awareness] 犯罪情报意识 is the display of social awareness in [criminal information work].
+    - [Curriculum Knowledge] and Form of Social Awareness
+    - [Part-time jobs] enhance a [young person]'s social awareness. www.[dictall].com
