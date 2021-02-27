@@ -299,16 +299,18 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
                 - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
             - [中医实体化研究](https://www.zhihu.com/question/435070523/answer/1652498625)一直存在这个问题，申请研究，获得经费，给点结果（和之前[研究结果]甚至都不一样，有[生物电]的，有皮肤几种组织[特殊作用]的，有[按压针刺]产生某些[分泌物]的。结论比较保守，而且也有[实质性依据]，也不会产生第二个[金凤汉事件]。）然后研究者[加官进爵]。
 但[经络问题]依旧[没什么太大进展]。
-            - {{[[TODO]]}} [显卡](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1989745)不能挖的只有[比特币]一种，[虚拟货币]有很多，[大多]都还能[用显卡挖]，甚至有的虚拟货币还在[主动][定期调整算法]避免像比特币一样[变得]只有[ASIC定制芯片]能挖
-            - 原文：[Why Everyone Should Build Their Own PC and Stop Using Macs (americanpurpose.com)](https://www.americanpurpose.com/blog/fukuyama/why-everyone-should-build-their-own-pc-and-stop-using-macs/)
-                - 作者是那个写出《历史的终结及最后之人》的[弗朗西斯·福山](https://bbs.saraba1st.com/2b/thread-1985591-5-1.html)
-                - 典型的 [PCMR 思维]吧，可以看看之前翻译的这篇[PCMR优越党](https://bbs.saraba1st.com/2b/thread-1961531-1-1.html)的文章，[大量论据]都是相似的，针对Mac同样的话可以放在PS5/XBOX上。
-                - 其实所谓[对科技的控制权]是[无稽之谈]，关键只在于[系统整合到什么层次][是你能满意的]，或者你会把什么层次的系统看做[黑盒]。比如福山不满意的层次是[整机的可定制]和自由，有人[不满意的层次]要更低，Intel无疑控制了你对[CPU各种参数][自定义的自由]，NVIDIA的nvcc[不开源]也阻止了你写出[更适合自己的]cuBLAS。
-                - 肯定的啊，既然有了第一篇，转linux只是时间问题。他没写我才会奇怪
-                - 虽然说的是一些[业内][都知道的事情]，不过考虑到[此文受众]是[普罗大众]，算是一篇 [Geek 文化][推广文]吧。
+            - tech
+                - {{[[TODO]]}} [显卡](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1989745)不能挖的只有[比特币]一种，[虚拟货币]有很多，[大多]都还能[用显卡挖]，甚至有的虚拟货币还在[主动][定期调整算法]避免像比特币一样[变得]只有[ASIC定制芯片]能挖
+                - {{[[TODO]]}} [2020至2021年度 挖矿炒卡楼](https://bbs.saraba1st.com/2b/forum.php?mod=redirect&goto=findpost&ptid=1974976&pid=) #[[bitcoin (BTC)]]
+                - 原文：[Why Everyone Should Build Their Own PC and Stop Using Macs (americanpurpose.com)](https://www.americanpurpose.com/blog/fukuyama/why-everyone-should-build-their-own-pc-and-stop-using-macs/)
+                    - 作者是那个写出《历史的终结及最后之人》的[弗朗西斯·福山](https://bbs.saraba1st.com/2b/thread-1985591-5-1.html)
+                    - 典型的 [PCMR 思维]吧，可以看看之前翻译的这篇[PCMR优越党](https://bbs.saraba1st.com/2b/thread-1961531-1-1.html)的文章，[大量论据]都是相似的，针对Mac同样的话可以放在PS5/XBOX上。
+                    - 其实所谓[对科技的控制权]是[无稽之谈]，关键只在于[系统整合到什么层次][是你能满意的]，或者你会把什么层次的系统看做[黑盒]。比如福山不满意的层次是[整机的可定制]和自由，有人[不满意的层次]要更低，Intel无疑控制了你对[CPU各种参数][自定义的自由]，NVIDIA的nvcc[不开源]也阻止了你写出[更适合自己的]cuBLAS。
+                    - 肯定的啊，既然有了第一篇，转linux只是时间问题。他没写我才会奇怪
+                    - 虽然说的是一些[业内][都知道的事情]，不过考虑到[此文受众]是[普罗大众]，算是一篇 [Geek 文化][推广文]吧。
 个人作为一个 Linuxer，宣传 [Linux 文化]的[行文]还是要支持
 [del]老爷子应该是没真用过 LibreOffice，[那破玩意儿]和 Office [真的没得比的啊][/del]
-                    - libre [写写文档]不够了么 我已经把office卸了 全面转向 libreoffice
+                        - libre [写写文档]不够了么 我已经把office卸了 全面转向 libreoffice
 不过我主力是latex和pandas
             - game
                 - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
