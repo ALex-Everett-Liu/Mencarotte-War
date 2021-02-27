@@ -13,3 +13,11 @@
             - __This is the [best feature] I’ve found for [discovering new relationships] between information.__ It [makes it so easy to] [tie pages together], and to help you [get better organized]([[organized]]). 
     - And in September 2020, Notion quietly [jumped into the fray] as the [[Twittersphere]] saw backlinks [pop up at the top of their pages]. (Notion’s [official announcement](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c) page [makes no mention of it].) #[[announcement]]
         - fray: dadou34, jingzheng41, zhengbian14
+- ## What are backlinks?
+    - Many of us (myself included) [never thought much about] hyperlinks. We know [they’re blue and clickable]([[clickable]]). And that if you [want to return to] your [[previous page]], you just __hit the [back button]__.
+    - In [[Maggie Appleton]]’s [short history of bi-directional links](https://maggieappleton.com/bidirectionals) she explains how this [classic link] (known as the [mono-link]) is “a [[one way pointer]]” that doesn’t retain any of the [[context]] from the [[referring page]]. 
+        - Conversely, the backlink or [bi-directional links] has “[[social awareness]]:”
+            - __It knows about other pages or ‘nodes’ that [point to it], and can [make them visible to people].__ This means we get a [[two-way conversation]] flowing between our [[web location]]s.
+    - Here’s [my explanation] of backlinks: #iframe
+        - <iframe class=" lazyloaded" data-src="https://www.youtube.com/embed/3GG0Ck14ISM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+    - And as you build your [[knowledge graph]] of notes, books, resources and tasks – the backlink [exponentially grows]([[exponential growth]]) the [[serendipity]] within your [[digital workspace]]s. 
