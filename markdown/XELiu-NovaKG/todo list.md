@@ -41,6 +41,7 @@ https://www.bilibili.com/video/BV18t4y1z7jq/?spm_id_from=333.788.videocard.6
         - {{[[DONE]]}} ...
 
     - upload to cloud disk
+        - makachan-20210102_225940.mp4; 
         - muli-20210218_210925.mp4; 20210205_213439.mp4; 20210131_210658-pt10.mp4; 20210127_211558; 20210225_212732
         - akie-20210219_210312.mp4; 20210219_215905; 20210226_223309
         - moeai-20210218_205956.mp4; 20210208_225608; 20210223_221551
@@ -51,6 +52,22 @@ https://www.bilibili.com/video/BV18t4y1z7jq/?spm_id_from=333.788.videocard.6
     - music?
         - trick and treat
         - うたかた花火 (Utakata Hanabi)
+    - fulitu...
+        - pt10-99.99
+https://www.ywpic.com/120315.html
+https://www.ywpic.com/125325.html
+https://www.ywpic.com/126123.html
+https://www.ywpic.com/4926.html
+https://www.ywpic.com/123747.html
+https://www.ywpic.com/125766.html
+https://www.ywpic.com/139884.html
+https://www.ywpic.com/139077.html
+https://www.ywpic.com/138729.html
+https://www.ywpic.com/129203.html
+https://www.ywpic.com/139938.html
+https://www.ywpic.com/116943.html
+        - pt9-99.98
+https://www.ywpic.com/131597.html
 - software, app...
     - {{[[TODO]]}} caiyun weather
 apk 提取

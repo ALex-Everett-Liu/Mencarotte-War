@@ -274,6 +274,7 @@ obsidian — Link to blocks
         - detail point 99.99 (pt9-99.99)
             - note-taking
                 - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro
+                - RoamEdit Manual - **4.3** [字符串映射](https://www.yuque.com/bu123/sk5f7o/olegde)
                 - [about RemNote](https://www.zhihu.com/people/xia-tao-kai-16)
                 - [知识图谱](https://www.douban.com/note/779473508/)[符合]大脑对[信息存储]的[实现模型]，但是[不符合][心理模型]。原因很简单：[树]有很简单的[遍历方式]（DFS 和 BFS），可以[显著减少]用户[思考时的][心智压力]，但是图不行；  作者：joodo（来自豆瓣）
                 - 葫芦笔记[早鸟促销](https://www.bilibili.com/video/BV1fK4y1H7eZ)+[早期用户][畅聊][特别活动]
