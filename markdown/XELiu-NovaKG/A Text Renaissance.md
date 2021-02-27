@@ -45,5 +45,10 @@ visionary: 愿景, 有眼力, 富有远见; kongxiang13, huanxiang44, mengxiang4
 210227-01:50
                 - This is what Jeff Jarvis, a professor at [[City University of New York]], 市立大学 commends as "the link economy". www.[[ftchinese]].com
                     - But in this link, [hypostatic economy] of China 实体 is carrying higher [increase rate] all the time. danci.[911cha].com
+            - The reversal began with [TinyLetter](https://tinyletter.com/), but that [got bought out by] [[Mailchimp]] (and began to be viewed, correctly, as [business-model compromised]). 妥协, 折中
             - Sure, the machines had [dinky screens] and [janky keyboards]. 相当之小 www.[forbeschina].com
             - And the same ones who [slowed down their investing pace]([[investing]]) [in the middle AUGHTS], 戛然放缓了 when companies like Facebook were [just getting started]. www.[[fortunechina]].com
+    - Enter Substack. Substack, by eschewing the [[marketing communication]]s (MarCom) market entirely, and [focusing on writers] people actually [wanted to read], [reversed the perceptions] of the technology. Instead of [trying to scam people into] [giving you “permission” to] [send them emails], Substack said, why not [charge them to subscribe]([[subscribe]]). 
+210227-11:15
+        - I’ve moved 1 of my 2 [active newsletters] (Breaking Smart, with about 7300 subscribers) from Mailchimp to Substack, and [started a new one there] (Art of Gig, currently at 1756). I’ll probably move my [[auto-generated-from-RSS]] ribbonfarm [[newsletter]] there too. I’ve left it on MailChimp [for the moment], because moving it would mean [de-automating it]. 去自动化
+        - By offering a [[seamlessly integrated]] email, 无缝集成的 [[payment integration]] ([[Stripe]] is [a big part of] [all these revolutions]([[revolution]])), and no-design-needed opinionated web presentation, Substack managed to basically resurrect a zombie category of text media that hadn’t really existed in this kind of pure form since the 90s.
