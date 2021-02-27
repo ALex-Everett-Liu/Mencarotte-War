@@ -29,7 +29,7 @@
 **Notion 实在是令人作呕 !!!**
 - ## Notion “Global” Blocks are still [way more powerful]
     - In fact, [one of the most powerful] [linking feature] [isn’t widely known]: **Global Blocks**. This [undiscovered feature] is probably by design, since it’s unofficial (like the numerous [Notion integrations](https://radreads.co/notion-integrations/) using the “[unofficial API]([[API]])”).
-    - This [[workaround]]s enables [transclusion](https://www.reddit.com/r/RoamResearch/comments/gvbg1q/what_is_block_level_transclusion_and_why_is_it/): lets you [reuse an entire block] (a [[footer]], for example) so that [[edits in one place]] will [automatically pass through to the other blocks]. Here’s a [quick tutorial](https://www.youtube.com/embed/mQW1retgBcA) on [[global block]]s: #Reddit #[[Roam Research]] #transclusion #[[block level]]
+    - This [[workaround]]s enables [transclusion](https://www.reddit.com/r/RoamResearch/comments/gvbg1q/what_is_block_level_transclusion_and_why_is_it/): lets you [reuse an entire block]([[reuse]]) (a [[footer]], for example) so that [[edits in one place]] will [automatically pass through to the other blocks]. Here’s a [quick tutorial](https://www.youtube.com/embed/mQW1retgBcA) on [[global block]]s: #Reddit #[[Roam Research]] #transclusion #[[block level]]
 210228-00:20
     - But like anything __unofficial__, buyer beware.
 - ---

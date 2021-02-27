@@ -57309,7 +57309,7 @@
             }
           },
           {
-            "string": "This [[workaround]]s enables [transclusion](https://www.reddit.com/r/RoamResearch/comments/gvbg1q/what_is_block_level_transclusion_and_why_is_it/): lets you [reuse an entire block] (a [[footer]], for example) so that [[edits in one place]] will [automatically pass through to the other blocks]. Here’s a [quick tutorial](https://www.youtube.com/embed/mQW1retgBcA) on [[global block]]s: #Reddit #[[Roam Research]] #transclusion #[[block level]]\n210228-00:20",
+            "string": "This [[workaround]]s enables [transclusion](https://www.reddit.com/r/RoamResearch/comments/gvbg1q/what_is_block_level_transclusion_and_why_is_it/): lets you [reuse an entire block]([[reuse]]) (a [[footer]], for example) so that [[edits in one place]] will [automatically pass through to the other blocks]. Here’s a [quick tutorial](https://www.youtube.com/embed/mQW1retgBcA) on [[global block]]s: #Reddit #[[Roam Research]] #transclusion #[[block level]]\n210228-00:20",
             "create-time": 1600444855615,
             "refs": [
               {
@@ -57335,10 +57335,13 @@
               },
               {
                 "uid": "6Ai0QcdEq"
+              },
+              {
+                "uid": "GKhPNCv3p"
               }
             ],
             "uid": "JdsqlCyaU",
-            "edit-time": 1614443014959,
+            "edit-time": 1614454401866,
             ":block/refs": [
               {
                 ":block/uid": "mVLmG8m0T"
@@ -57363,6 +57366,9 @@
               },
               {
                 ":block/uid": "6Ai0QcdEq"
+              },
+              {
+                ":block/uid": "GKhPNCv3p"
               }
             ],
             ":edit/user": {
@@ -57941,6 +57947,262 @@
     "title": "block level",
     "uid": "6Ai0QcdEq",
     "edit-time": 1614442991508,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614454401869,
+    "title": "reuse",
+    "uid": "GKhPNCv3p",
+    "edit-time": 1614454401871,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614454702821,
+    "title": "Automate the Boring Stuff with Python",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "From Zlibrary",
+        "create-time": 1614454721177,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Automate the boring stuff with python, 2nd edition",
+            "uid": "NLTemX8je",
+            "edit-time": 1614454771342,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "__[Al Sweigart]__",
+            "uid": "4yBx4zueU",
+            "edit-time": 1614454753146,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The second edition of this [[best-selling]] [Python book] (100,000+ copies sold in print alone) **uses [Python 3] to teach even the technically uninclined how to [write programs] that [do in minutes] [what would take hours to do] by hand.** There is [no prior programming experience required] and the book is loved by [[liberal arts majors]] and [[geek]]s alike.\n210228-04:00",
+            "refs": [
+              {
+                "uid": "ITdq_VhCf"
+              },
+              {
+                "uid": "E1MrKO6_F"
+              },
+              {
+                "uid": "IddMM4rkw"
+              }
+            ],
+            "children": [
+              {
+                "string": "If you've ever [spent hours] [renaming files]([[rename the file]]) or updating hundreds of [[spreadsheet cell]]s, you know how tedious [tasks like these] can be. [But what if] you could [have your computer do them] for you?",
+                "refs": [
+                  {
+                    "uid": "dEZe1KJyR"
+                  },
+                  {
+                    "uid": "n4cqqQBVd"
+                  }
+                ],
+                "uid": "fnX_QXeLi",
+                "edit-time": 1614455468683,
+                ":block/refs": [
+                  {
+                    ":block/uid": "dEZe1KJyR"
+                  },
+                  {
+                    ":block/uid": "n4cqqQBVd"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "In this [fully revised] [second edition] of the best-selling classic Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand—no prior programming experience required. ",
+                "create-time": 1614455792063,
+                "uid": "ocgAD_ztA",
+                "edit-time": 1614455792063,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "You'll learn the [basics Python] and explore [Python's rich library of modules]([[module library]]) for [performing specific tasks]([[perform the task]]), like [scraping data off websites]([[scrap data]]), 抓取, 爬取 [reading PDF] and [Word documents], and [[automating clicking]]...",
+                "refs": [
+                  {
+                    "uid": "xmzrzsMtX"
+                  },
+                  {
+                    "uid": "-yJ4a18eW"
+                  },
+                  {
+                    "uid": "k6JiU1SLp"
+                  },
+                  {
+                    "uid": "2U9lg_u6-"
+                  }
+                ],
+                "uid": "sd1AFLv_w",
+                "edit-time": 1614455792071,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xmzrzsMtX"
+                  },
+                  {
+                    ":block/uid": "-yJ4a18eW"
+                  },
+                  {
+                    ":block/uid": "k6JiU1SLp"
+                  },
+                  {
+                    ":block/uid": "2U9lg_u6-"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "_EUD1wkWL",
+            "edit-time": 1614456129036,
+            ":block/refs": [
+              {
+                ":block/uid": "ITdq_VhCf"
+              },
+              {
+                ":block/uid": "E1MrKO6_F"
+              },
+              {
+                ":block/uid": "IddMM4rkw"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "g6mwekq-s",
+        "edit-time": 1614454728392,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "9FBBDOy9y",
+    "edit-time": 1614455845875,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614454806918,
+    "title": "best-selling",
+    "uid": "ITdq_VhCf",
+    "edit-time": 1614454806919,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614455358094,
+    "title": "liberal arts majors",
+    "uid": "E1MrKO6_F",
+    "edit-time": 1614455358095,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614455377733,
+    "title": "geek",
+    "uid": "IddMM4rkw",
+    "edit-time": 1614455377733,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614455416326,
+    "title": "spreadsheet cell",
+    "uid": "dEZe1KJyR",
+    "edit-time": 1614455416327,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614455434691,
+    "title": "rename the file",
+    "uid": "n4cqqQBVd",
+    "edit-time": 1614455434691,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614455654626,
+    "title": "module library",
+    "uid": "-yJ4a18eW",
+    "edit-time": 1614455654627,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614455675471,
+    "title": "automating clicking",
+    "uid": "k6JiU1SLp",
+    "edit-time": 1614455675472,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614455723007,
+    "title": "scrap data",
+    "uid": "2U9lg_u6-",
+    "edit-time": 1614455723008,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
