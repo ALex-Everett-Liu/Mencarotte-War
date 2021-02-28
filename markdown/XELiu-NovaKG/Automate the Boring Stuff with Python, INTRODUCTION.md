@@ -38,3 +38,4 @@
         - Just because Sudoku [involves numbers] doesn’t mean you [have to be good at math] to [figure out the solution]. The same is true of programming. Like [solving a Sudoku puzzle], writing programs involves [breaking down a problem into individual]([[break down a problem]]), [[detailed steps]]. Similarly, when [[debugging]] programs (that is, finding and [[fixing errors]]), you’ll [patiently observe] [what the program is doing] and [find the cause of the bugs]. And like all skills, the more you program, the better you’ll become.
 210228-23:30
 - [[Downloading and Installing Python]]
+- [The Interactive Shell]([[interactive shell]])

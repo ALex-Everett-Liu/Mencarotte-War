@@ -1,0 +1,4 @@
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) is the next-generation [[web-based user interface]] for [[Project Jupyter]]. [Try it on Binder](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/3818244?urlpath=lab/tree/demo). JupyterLab follows the Jupyter [Community Guides](https://jupyter.readthedocs.io/en/latest/community/content-community.html).
+- [Edit on GitHub](https://github.com/jupyterlab/jupyterlab/blob/master/docs/source/index.rst)
+- **Getting Started**
+    - Starting JupyterLab
