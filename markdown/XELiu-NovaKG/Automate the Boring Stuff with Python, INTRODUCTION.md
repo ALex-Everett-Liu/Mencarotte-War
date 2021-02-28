@@ -13,3 +13,28 @@
     - All programs use [[basic instruction]]s as [[building block]]s. Here are [a few of the most common ones], in English:
     - You can combine these building blocks to [implement more intricate decisions], too. For example, here are the [[programming instruction]]s, called the [[source code]], for [a simple program] written in the [Python programming language]. Starting at the top, the [Python software] [runs each line of code] ([some lines are run only if] a [[certain condition]] is true [or else Python runs some other line]) until it [reaches the bottom].
 210228-20:49
+    - ```python
+➊ passwordFile = open('SecretPasswordFile.txt')
+➋ secretPassword = passwordFile.read()
+➌ print('Enter your password.')
+   typedPassword = input()
+➍ if typedPassword == secretPassword:
+   ➎ print('Access granted')
+   ➏ if typedPassword == '1234?':
+       ➐ print('That password is one that [an idiot puts on their luggage].')
+  else:
+   ➑ print('Access denied')```
+        - You might [not know anything about] programming, but you could probably [make a reasonable guess at] [what the previous code does] [just by reading it]. First, the file `SecretPasswordFile.txt` is opened ➊, and the [secret password] in it is read ➋. Then, the user is [[prompted]] to [input a password] (from the keyboard) ➌. These two passwords are compared ➍, and if they’re the same, the program prints [[access granted]] to the screen ➎. Next, the program checks to see whether the password is 12345 ➏ and hints that [this choice might not be the best for] a [[password]] ➐. If the passwords are not the same, the program prints [[access denied]] to the screen ➑.
+210228-22:16
+- ### What Is Python?
+    - Python is a [programming language] (with [[syntax rule]]s for writing [what is considered] [valid Python code]) and __the [Python interpreter software] that [reads source code] (written in the [Python language]) and [performs its instructions]__. You can download the [[Python interpreter]] for free at https://python.org/, and there are versions for Linux, macOS, and Windows.
+    - The name Python comes from the surreal British [comedy group] 超现实喜剧团 [Monty Python], not from the snake. Python programmers are [affectionately called] Pythonistas, and both Monty Python and [serpentine references] usually pepper [Python tutorials and documentation].
+- ### Programmers [Don’t Need to Know Much Math]
+    - [The most common anxiety]([[anxiety]]) I hear about learning to program is the notion that it [requires a lot of math]. Actually, most programming doesn’t require math beyond [[basic arithmetic]]. In fact, [being good at programming] [isn’t that different from] being good at solving [[Sudoku puzzle]]s.
+210228-22:53
+        - To solve a Sudoku puzzle, the numbers 1 through 9 [must be filled in] for each row, each column, and [each 3×3 interior square] 内部正方形 of [the full 9×9 board]. [Some numbers are provided] to [give you a start], and you [find a solution] by [making deductions]([[deduction]]) [based on these numbers]. 
+            - Figure 0-1: A new Sudoku puzzle (left) and its solution (right). Despite [using numbers], Sudoku [doesn’t involve much math]. (Images © [[Wikimedia Commons]])
+            - In the puzzle shown in Figure 0-1, since 5 appears in [the first and second rows], it [cannot show up] in these rows again. Therefore, in the upper-right grid, it must be [in the third row]. Since [the last column] also already has a 5 in it, the 5 cannot [go to the right of] the 6, so it must go to the left of the 6. Solving one row, column, or square will [provide more clues to]([[clue]]) [the rest of the puzzle], and as you [fill in one group] of [numbers 1 to 9] and then another, you’ll soon [solve the entire grid].
+        - Just because Sudoku [involves numbers] doesn’t mean you [have to be good at math] to [figure out the solution]. The same is true of programming. Like [solving a Sudoku puzzle], writing programs involves [breaking down a problem into individual]([[break down a problem]]), [[detailed steps]]. Similarly, when [[debugging]] programs (that is, finding and [[fixing errors]]), you’ll [patiently observe] [what the program is doing] and [find the cause of the bugs]. And like all skills, the more you program, the better you’ll become.
+210228-23:30
+- [[Downloading and Installing Python]]
