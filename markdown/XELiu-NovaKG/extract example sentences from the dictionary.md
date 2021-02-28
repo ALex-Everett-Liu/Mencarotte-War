@@ -43,6 +43,7 @@
         - Bain [won the overall deal]([[overall deal]]) for $ 1.75 billion, and would rename the Asia and European business ideal standard. 
     - www.[[chinadaily]].com.cn
         - With [a plethora of choices] available, [[quality]] and [[branding]] are often [the key to success] in an [increasingly crowded]([[crowded]]) [[marketplace]]. 日益拥挤的市场
+        - [[drain the water]] 沥干水 and [mash the potatoes and garlic] 捣碎 [with enough salt to taste]. 
     - dict.[[cnki]].net
         - [Ray tracing] is a [classic method] in [synthesizing photorealistic image], It can [accurately simulate] the [lighting effect] 光照效果 of [the whole scene]. 景物 
         - Made the use of [shading model] we realized [the lighting of the scene], and made the use of the [environment texturing mapping] we realized the [sky box], and Mip-maping we realized [the rendering of the 3D terrain], which gave us the [ideal effect]. 
@@ -58,6 +59,7 @@
         - If two products are of the same or [similar quality], consumers will tend to buy the one [bearing a good brand name].
         - Targeted to addressing the issues that [most small and medium sized companies] will face during the establishment of an [ISO 9001:2000 quality management system], the author has [studied and practiced] in this domain extensively.
     - www.[[dictall]].com
+        - Accompanying with sand-like, streaked or [globular calcification]; 小条片状、团块状的钙化 **[reduce to small pieces or particles] by pounding or abrading.** 重击或磨损
         - She also learnt to [read people's lips] by [pressing her finger-tips against them] and [feeling the movement and vibrations].
         - [Branded merchandise] [品牌商品] is that [bearing a standard brand name]. 
         - [Psychological health] of nurses: [philology analysis] of [Chinese Journal Nursing]. 
@@ -79,5 +81,5 @@
         - [Two vertical edges] of the [utility model] are overlapped and [welded up or glued] 焊封或胶粘 to form a [main channel] and an [assistant channel]. | laji | ip.com
         - Two vertical edges of the same [U-shaped vice module] 挂线副模 for [hanging wire] are positioned in the same [radial direction] of the [ring-shaped slot]. 
         - ---
-        - This company is specialized production SPA, massages the cylinder, 按摩缸 showers health bath fitting and so on room factories. www.longtianspa.net
+        - This company is specialized production SPA, massages the cylinder, 按摩缸 showers health bath fitting and so on room factories. www.[longtianspa].[net]
 - classified by keyword 

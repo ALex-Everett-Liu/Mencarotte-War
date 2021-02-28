@@ -9,3 +9,9 @@
         - You'll learn the [basics Python] and explore [Python's rich library of modules]([[module library]]) for [performing specific tasks]([[perform the task]]), like [scraping data off websites]([[scrap data]]), 抓取, 爬取 [reading PDF] and [Word documents], and [[automating clicking]]...
 - ### About the Author
     - Al Sweigart is a [[software developer]] and [tech book] author. Python is his [favorite programming language], and he is the developer of several [[open source module]]s for it. His other books are [[freely available]] under a [[Creative Commons license]] on [his website](https://inventwithpython.com/). His cat now weighs 11 pounds.
+- ## Content
+    - ### BRIEF CONTENTS
+    - ### CONTENTS IN DETAIL
+        - [[Automate the Boring Stuff with Python, INTRODUCTION]]
+- ### ACKNOWLEDGMENTS
+    - It’s misleading to [have just my name on the cover]([[cover]]). I couldn’t have written a book like this [without the help of a lot of people]. I’d like to thank my publisher, Bill Pollock; my [[editor]]s, Laurel Chun, Leslie Shen, Greg Poulos, Jennifer Griffith-Delgado, and Frances Saux; and [the rest of the staff]([[staff]]) at [No Starch Press] for their [invaluable help]. Thanks to my [tech reviewers], Ari Lacenski and Philip James, for [great suggestions], edits, and support.

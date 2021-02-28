@@ -6169,7 +6169,7 @@
             "string": "",
             "create-time": 1611052168351,
             "uid": "J8AuKPb__",
-            "edit-time": 1613128522545,
+            "edit-time": 1614513209122,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -6212,7 +6212,7 @@
         "string": "",
         "create-time": 1613576933784,
         "uid": "INh3_3hKM",
-        "edit-time": 1614259060595,
+        "edit-time": 1614513211146,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -6240,10 +6240,10 @@
             }
           },
           {
-            "string": "anyTXT 作詞; rasenna watashi; maple; こめる",
+            "string": "anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵",
             "create-time": 1611052181749,
             "uid": "gZT5tZe9W",
-            "edit-time": 1614165140036,
+            "edit-time": 1614512610505,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -23888,6 +23888,28 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "[[drain the water]] 沥干水 and [mash the potatoes and garlic] 捣碎 [with enough salt to taste]. ",
+                "create-time": 1614515869536,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Rrop1MM2x"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Rrop1MM2x"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "XRee2kPv0",
+                "edit-time": 1614515883773,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -24103,6 +24125,18 @@
           {
             "edit-time": 1613471145919,
             "children": [
+              {
+                "string": "Accompanying with sand-like, streaked or [globular calcification]; 小条片状、团块状的钙化 **[reduce to small pieces or particles] by pounding or abrading.** 重击或磨损",
+                "create-time": 1614516161206,
+                "uid": "twEbLZXiH",
+                "edit-time": 1614516183933,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "string": "She also learnt to [read people's lips] by [pressing her finger-tips against them] and [feeling the movement and vibrations].",
                 "create-time": 1614257594809,
@@ -24394,10 +24428,10 @@
                 }
               },
               {
-                "string": "This company is specialized production SPA, massages the cylinder, 按摩缸 showers health bath fitting and so on room factories. www.longtianspa.net",
+                "string": "This company is specialized production SPA, massages the cylinder, 按摩缸 showers health bath fitting and so on room factories. www.[longtianspa].[net]",
                 "create-time": 1613913413384,
                 "uid": "MbZyNRevU",
-                "edit-time": 1613913414195,
+                "edit-time": 1614516226640,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -58315,6 +58349,120 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "Content",
+        "create-time": 1614505807162,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "BRIEF CONTENTS",
+            "create-time": 1614505770215,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "dmpO47g0U",
+            "edit-time": 1614505772124,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "CONTENTS IN DETAIL",
+            "create-time": 1614505773167,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[[Automate the Boring Stuff with Python, INTRODUCTION]]",
+                "create-time": 1614506889075,
+                ":block/refs": [
+                  {
+                    ":block/uid": "SPy4FS4BQ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "SPy4FS4BQ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "qAwocU6S2",
+                "edit-time": 1614506902653,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "YMwr-n6iZ",
+            "edit-time": 1614505822113,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "x2dqT8qT9",
+        "edit-time": 1614505810793,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "ACKNOWLEDGMENTS",
+        "create-time": 1614505875472,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "It’s misleading to [have just my name on the cover]([[cover]]). I couldn’t have written a book like this [without the help of a lot of people]. I’d like to thank my publisher, Bill Pollock; my [[editor]]s, Laurel Chun, Leslie Shen, Greg Poulos, Jennifer Griffith-Delgado, and Frances Saux; and [the rest of the staff]([[staff]]) at [No Starch Press] for their [invaluable help]. Thanks to my [tech reviewers], Ari Lacenski and Philip James, for [great suggestions], edits, and support.",
+            "create-time": 1614505876229,
+            ":block/refs": [
+              {
+                ":block/uid": "wfqqcZxb0"
+              },
+              {
+                ":block/uid": "y5lAwC27T"
+              },
+              {
+                ":block/uid": "7jE7cU6J1"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "wfqqcZxb0"
+              },
+              {
+                "uid": "y5lAwC27T"
+              },
+              {
+                "uid": "7jE7cU6J1"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "XLY9ocdgd",
+            "edit-time": 1614506664727,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "qKCGS4AXt",
+        "edit-time": 1614505876233,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "9FBBDOy9y",
@@ -58524,11 +58672,35 @@
   {
     "create-time": 1614475400385,
     "title": "February 28th, 2021",
-    "uid": "02-28-2021",
-    "edit-time": 1614475400385,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Automate the Boring Stuff with Python, INTRODUCTION]]\n210128-20pm",
+        "create-time": 1614516278808,
+        ":block/refs": [
+          {
+            ":block/uid": "SPy4FS4BQ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "SPy4FS4BQ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "IvftAD__v",
+        "edit-time": 1614516285725,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "02-28-2021",
+    "edit-time": 1614475400385,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -58646,6 +58818,1011 @@
     "title": "Creative Commons license",
     "uid": "v-3Ot-JNv",
     "edit-time": 1614493041888,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614505921966,
+    "title": "cover",
+    "uid": "wfqqcZxb0",
+    "edit-time": 1614505921974,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614505933387,
+    "title": "editor",
+    "uid": "y5lAwC27T",
+    "edit-time": 1614505933394,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614505946715,
+    "title": "staff",
+    "uid": "7jE7cU6J1",
+    "edit-time": 1614505946716,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614506902656,
+    "title": "Automate the Boring Stuff with Python, INTRODUCTION",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1614507214034,
+        "children": [
+          {
+            "string": "“You know, I could [write a program to do that] if you have the [original file] for the printouts,” my roommate told them, when he saw them [sitting on the floor] with [papers scattered and stacked all around].",
+            "create-time": 1614509245275,
+            "uid": "1J3hbma60",
+            "edit-time": 1614509287536,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "After a couple of hours, he had a short program that [read a competitor’s price] from a file, found the product in the store’s [[database]], and noted [whether the competitor was cheaper]. He was still [new to programming], so he [spent most of his time] [looking up documentation]([[documentation]]) in a [programming book]. [The actual program] [took only a few seconds to run]. My roommate and his [[co-worker]]s [took an extra-long lunch] that day.",
+            "create-time": 1614509457269,
+            ":block/refs": [
+              {
+                ":block/uid": "PLUFOGgWv"
+              },
+              {
+                ":block/uid": "LNQVqfC9Q"
+              },
+              {
+                ":block/uid": "J-rDXrT0x"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PLUFOGgWv"
+              },
+              {
+                "uid": "LNQVqfC9Q"
+              },
+              {
+                "uid": "J-rDXrT0x"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "9zwnMK__F",
+            "edit-time": 1614509550123,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "xaZwKSnSN"
+          },
+          {
+            "uid": "OXj1J9FSm"
+          },
+          {
+            "uid": "UW_XvcTei"
+          },
+          {
+            "uid": "6eJs0wtIE"
+          },
+          {
+            "uid": "A8Cgzz0Dz"
+          },
+          {
+            "uid": "i9WBwflsH"
+          }
+        ],
+        "uid": "srO-gSn1s",
+        ":block/refs": [
+          {
+            ":block/uid": "xaZwKSnSN"
+          },
+          {
+            ":block/uid": "OXj1J9FSm"
+          },
+          {
+            ":block/uid": "UW_XvcTei"
+          },
+          {
+            ":block/uid": "6eJs0wtIE"
+          },
+          {
+            ":block/uid": "A8Cgzz0Dz"
+          },
+          {
+            ":block/uid": "i9WBwflsH"
+          }
+        ],
+        "string": "“You’ve just done in two hours what it takes the three of us two days to do.” My [[college roommate]] was working at a [[retail electronics store]] in the early 2000s. Occasionally, the store would receive a [[spreadsheet]] of thousands of [product prices] from other stores. A team of three [[employee]]s would [print the spreadsheet] onto [a thick stack of paper] and [split it among themselves]. For each [[product price]], they would [look up their store’s price] and [note all the products] that their [[competitor]]s [sold for less]. It usually [took a couple of days].",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614506917914,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "This is the power of [computer programming]. A computer is like a [[Swiss Army knife]] that you can [[configure]] for [countless tasks]. Many people [spend hours] [clicking and typing] to perform [[repetitive task]]s, unaware that [the machine they’re using] [could do their job in seconds] if they [gave it the right instructions]([[instruction]]).\n210228-18:57",
+        "create-time": 1614509245275,
+        ":block/refs": [
+          {
+            ":block/uid": "Hs22itFm7"
+          },
+          {
+            ":block/uid": "mngdlJkFr"
+          },
+          {
+            ":block/uid": "gdiOLzgnj"
+          },
+          {
+            ":block/uid": "aWiLCzueS"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Hs22itFm7"
+          },
+          {
+            "uid": "mngdlJkFr"
+          },
+          {
+            "uid": "gdiOLzgnj"
+          },
+          {
+            "uid": "aWiLCzueS"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "OLGbn8YAj",
+        "edit-time": 1614509974517,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614510944913,
+        "children": [
+          {
+            "string": "This book is not designed as a [[reference manual]]; it’s [a guide for beginners]. The [[coding style]] sometimes [goes against best practices]([[practice]]) (for example, some programs use [[global variable]]s), but that’s a [[trade-off]] to make the code [simpler to learn]. This book is [made for people to] [write throwaway code]([[throwaway code]]), so [there’s not much time spent on] style and [[elegance]]. \n210228-19:15",
+            "create-time": 1614510737482,
+            ":block/refs": [
+              {
+                ":block/uid": "u-jnbthFC"
+              },
+              {
+                ":block/uid": "MvCMcCvdi"
+              },
+              {
+                ":block/uid": "pho-Q_O8c"
+              },
+              {
+                ":block/uid": "_4WefKLY7"
+              },
+              {
+                ":block/uid": "35JzslNzz"
+              },
+              {
+                ":block/uid": "qgy-WI3U1"
+              },
+              {
+                ":block/uid": "_E-WCXB3p"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "u-jnbthFC"
+              },
+              {
+                "uid": "MvCMcCvdi"
+              },
+              {
+                "uid": "pho-Q_O8c"
+              },
+              {
+                "uid": "_4WefKLY7"
+              },
+              {
+                "uid": "35JzslNzz"
+              },
+              {
+                "uid": "qgy-WI3U1"
+              },
+              {
+                "uid": "_E-WCXB3p"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "RAbkLnd9e",
+            "edit-time": 1614510904122,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Sophisticated programming concepts—like [[object-oriented programming]], [[list comprehension]]s, and [[generator]]s—aren’t covered [because of the complexity they add]([[complexity]]). [Veteran programmers] may point out ways [the code in this book] [could be changed] to [[improve efficiency]], but this book is [mostly concerned with] [getting programs to work] [with the least amount of effort] on your part.",
+            "create-time": 1614510377500,
+            ":block/refs": [
+              {
+                ":block/uid": "xif-fHsWn"
+              },
+              {
+                ":block/uid": "LAIH575aM"
+              },
+              {
+                ":block/uid": "J-0EAODAi"
+              },
+              {
+                ":block/uid": "RDtkkFAb8"
+              },
+              {
+                ":block/uid": "aNzfm-eFS"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xif-fHsWn"
+              },
+              {
+                "uid": "LAIH575aM"
+              },
+              {
+                "uid": "J-0EAODAi"
+              },
+              {
+                "uid": "RDtkkFAb8"
+              },
+              {
+                "uid": "aNzfm-eFS"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "mdj2quAqN",
+            "edit-time": 1614515211682,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kmVB7-HZH"
+          }
+        ],
+        "uid": "rXv9ylp1_",
+        ":block/refs": [
+          {
+            ":block/uid": "kmVB7-HZH"
+          }
+        ],
+        "string": "[Conventions]([[convention]])",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614510371358,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 3
+      },
+      {
+        "string": "What Is Programming?",
+        "create-time": 1614515341768,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[television show]]s and films often show programmers 疯狂地 furiously [typing cryptic streams of 1s and 0s] on [[glowing screen]]s, 在发光的屏幕上 but [modern programming] isn’t that mysterious. Programming is simply the act of [entering instructions for the computer to perform]. These instructions might [crunch some numbers], 处理; 压缩 [[modify text]], [look up information] in files, or [communicate with other computers] [over the internet].\n210228-20:40",
+            "create-time": 1614515342249,
+            ":block/refs": [
+              {
+                ":block/uid": "qDTCJ4SOc"
+              },
+              {
+                ":block/uid": "SdCtE9Y-c"
+              },
+              {
+                ":block/uid": "H2K_kE0tz"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qDTCJ4SOc"
+              },
+              {
+                "uid": "SdCtE9Y-c"
+              },
+              {
+                "uid": "H2K_kE0tz"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "rQMk0M11D",
+            "edit-time": 1614516011985,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "All programs use [[basic instruction]]s as [[building block]]s. Here are [a few of the most common ones], in English:",
+            "create-time": 1614516321072,
+            ":block/refs": [
+              {
+                ":block/uid": "k4n2tdr9E"
+              },
+              {
+                ":block/uid": "xy41vyW77"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "k4n2tdr9E"
+              },
+              {
+                "uid": "xy41vyW77"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "va5NkFk0A",
+            "edit-time": 1614516338250,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You can combine these building blocks to [implement more intricate decisions], too. For example, here are the [[programming instruction]]s, called the [[source code]], for [a simple program] written in the [Python programming language]. Starting at the top, the [Python software] [runs each line of code] ([some lines are run only if] a [[certain condition]] is true [or else Python runs some other line]) until it [reaches the bottom].\n210228-20:49",
+            "create-time": 1614516360867,
+            ":block/refs": [
+              {
+                ":block/uid": "b7it2L4A9"
+              },
+              {
+                ":block/uid": "8yf4yqHSN"
+              },
+              {
+                ":block/uid": "Ok0Tr8RNV"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "b7it2L4A9"
+              },
+              {
+                "uid": "8yf4yqHSN"
+              },
+              {
+                "uid": "Ok0Tr8RNV"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "BPwGL8ssI",
+            "edit-time": 1614516575716,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "wyJx1UCAt",
+        "edit-time": 1614515342254,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "SPy4FS4BQ",
+    "edit-time": 1614506902656,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614506967445,
+    "title": "college roommate",
+    "uid": "OXj1J9FSm",
+    "edit-time": 1614506967445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614506967445,
+    "title": "retail electronics store",
+    "uid": "UW_XvcTei",
+    "edit-time": 1614506967445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614506981740,
+    "title": "spreadsheet",
+    "uid": "6eJs0wtIE",
+    "edit-time": 1614506981741,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614506981740,
+    "title": "employee",
+    "uid": "A8Cgzz0Dz",
+    "edit-time": 1614506981741,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614506996534,
+    "title": "product price",
+    "uid": "i9WBwflsH",
+    "edit-time": 1614506996535,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614509495091,
+    "title": "database",
+    "uid": "LNQVqfC9Q",
+    "edit-time": 1614509495098,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614509525116,
+    "title": "documentation",
+    "uid": "J-rDXrT0x",
+    "edit-time": 1614509525117,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614509676717,
+    "title": "Swiss Army knife",
+    "uid": "mngdlJkFr",
+    "edit-time": 1614509676724,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614509676717,
+    "title": "configure",
+    "uid": "gdiOLzgnj",
+    "edit-time": 1614509676724,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614509690362,
+    "title": "repetitive task",
+    "uid": "aWiLCzueS",
+    "edit-time": 1614509690363,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510406818,
+    "title": "reference manual",
+    "uid": "MvCMcCvdi",
+    "edit-time": 1614510406826,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510429354,
+    "title": "coding style",
+    "uid": "pho-Q_O8c",
+    "edit-time": 1614510429355,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510429354,
+    "title": "global variable",
+    "uid": "_4WefKLY7",
+    "edit-time": 1614510429355,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510439921,
+    "title": "practice",
+    "uid": "35JzslNzz",
+    "edit-time": 1614510439923,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510522293,
+    "title": "elegance",
+    "uid": "qgy-WI3U1",
+    "edit-time": 1614510522295,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510530665,
+    "title": "throwaway code",
+    "uid": "_E-WCXB3p",
+    "edit-time": 1614510530667,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510561219,
+    "title": "complexity",
+    "uid": "xif-fHsWn",
+    "edit-time": 1614510561222,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510570409,
+    "title": "object-oriented programming",
+    "uid": "LAIH575aM",
+    "edit-time": 1614510570411,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510696993,
+    "title": "list comprehension",
+    "uid": "J-0EAODAi",
+    "edit-time": 1614510697000,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510696993,
+    "title": "generator",
+    "uid": "RDtkkFAb8",
+    "edit-time": 1614510697000,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510696993,
+    "title": "improve efficiency",
+    "uid": "aNzfm-eFS",
+    "edit-time": 1614510697000,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614510944916,
+    "title": "convention",
+    "uid": "kmVB7-HZH",
+    "edit-time": 1614510944917,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614512048976,
+    "title": "ハイドアンド・シーク (hide and seek)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "作詞：[19's Sound Factory](https://w.atwiki.jp/hmiku/pages/215.html)\n作曲：19's Sound Factory\n編曲：19's Sound Factory\n唄：初音ミク",
+        "create-time": 1614512055455,
+        "uid": "BwsylZbnj",
+        "edit-time": 1614512063453,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Niconico",
+        "create-time": 1614512158348,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[【初音ミク】ハイドアンド・シーク【オリジナル曲】](https://www.nicovideo.jp/watch/sm24841816)",
+            "create-time": 1614512164637,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "**2014 Nov 04, 01:00 AM** Post",
+                "create-time": 1614512167037,
+                "uid": "rJBcZbQ1B",
+                "edit-time": 1614512190776,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Views: **891,017** Comments: **7,677** My List: **17,290**",
+                "create-time": 1614512173629,
+                "uid": "G8-U-RWnQ",
+                "edit-time": 1614512199917,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "e7aCgR8g7",
+            "edit-time": 1614512166233,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "PfTX981lY",
+        "edit-time": 1614512164645,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "曲紹介",
+        "heading": 3,
+        "children": [
+          {
+            "string": "[イラスト]は[ハラダミユキ]氏。",
+            "uid": "TsYfdUysO",
+            "edit-time": 1614512146560,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ZpFeGw5Cp",
+        "edit-time": 1614512073596,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[歌詞](https://w.atwiki.jp/hmiku/pages/30691.html)",
+        "heading": 3,
+        "children": [
+          {
+            "string": "（作者サイトより転載）",
+            "uid": "oGfzKyulS",
+            "edit-time": 1614512073596,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "嫌われる事が怖くて　僕は僕は僕を隠した\n誰かの陰口が痛くて　僕は耳を耳を塞いだ\n\n",
+            "create-time": 1614512288805,
+            "uid": "KHvALCxYv",
+            "edit-time": 1614512288805,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "本当の僕は汚くって　きっとみんな僕を嫌うから\n本当の僕は隠しちゃって　綺麗なとこだけ見せてたんだ\n\nある日誰の言葉も全部　嘘に聞こえて悲しくなった\nそうだ僕の事を嫌うのは　誰かじゃなくて　見せたくない方の僕だ\n\n今君に　もういいかい　ねえまだだよ　本当の僕が恋しくなって\nもう一回　呼びかけてみるけどまだ　見つからないよ\nほら　もういいかい　ねえまだだよ　その内声も届かなくなって\nもう一体　僕は僕が誰なのか　分からないんだ\n\n",
+            "create-time": 1614512360551,
+            "uid": "2JhcU-l_0",
+            "edit-time": 1614512362954,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "鬼さんこちら手の鳴る方へ　君は此処にいちゃいけないから\nそんな事告げる僕の方が　よっぽど君より鬼みたいだ\n\n遠く暗い世界に落ちた　君が最後に一言言った\n君が僕を捨てて手に入れる　誰かの愛は　見せかけだけの愛だ\n\n今君に　もういいかい　ねえまだだよ　僕は誰かに愛されたくって\nもう何回　嘘に嘘を重ねれば　救われるかな\nほら　もういいかい　ねえまだだよ　その内僕が僕じゃなくなって\nもう一体　何がしたいのかさえも　分からないんだ\n\n",
+            "create-time": 1614512417083,
+            "uid": "6Ts1BL0Gu",
+            "edit-time": 1614512418912,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "明日君に打ち明けるんだ　僕は卑怯で臆病だって\n誰かに嫌われる事よりも　何十倍も辛い事に気付いたよ\n\n今僕に　もういいかい　ねえまだだよ　本当の君はどこにいますか\nもう何回　君の事を信じれば　断ち切れるかな\n\n今君に　もういいかい　ねえもうちょっと　僕の世界が君に近付いて\nもう一回　呼びかけてみたら　君の声が聞こえた\nほら　もういいかい　ねえもういいよ　その内空も少し色付いて\nもう一歩　足を踏み出したら　ほらね　やっと君を見つけた\n\n",
+            "create-time": 1614512514485,
+            "uid": "7skTfgpkw",
+            "edit-time": 1614512514485,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "愛される事を望んで　僕は僕は僕を隠した\n痛んだ傷口を塞いで　僕は君を君を愛した",
+            "create-time": 1614512096332,
+            "uid": "4yWuNtNfe",
+            "edit-time": 1614512514495,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "op4EwjJ-b",
+        "edit-time": 1614512139339,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "コメント",
+        "create-time": 1614512083365,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "この曲は本当に僕の生活と同じで感動 -- 笊ｰ( ^o^)笊ｮ_=ﾍ渭渭槝橇沚｣ (2018-08-24 20:27:26)\r\nいい曲ほど伸びないってまんまこの曲表してるよねー -- 腐ったチーズ (2018-10-20 22:55:55)\r\n共感しかない...神曲！もっと伸びてほしい。 -- 匿名希望です (2018-12-31 22:48:22)\r\nもっと早く知っていたら… -- 林檎 (2019-01-19 20:20:19)\r\nほんとにもっと早く知りたかった………いや、知れてよかったいい曲！！！！ -- あにょはせ (2019-02-18 15:29:11)\r\nアンニョン、確かにもっと早く知りたかったーーーー -- twice (2019-02-23 21:47:42)\r\n辛い時に聴いて、励まされた -- 帆月 (2019-03-08 21:09:07)\r\n自分の事言われてる。何故か落ち込んだ時とか辛い時があればいつも聴く -- 名無しさん (2019-05-05 11:36:33)\r\nこの曲初めて聴いた時泣きました。ミクが可愛いです！ -- 名無しさん (2019-05-05 17:50:35)\r\n「鬼さんこちら手のなる方へ」の所好き。ミクの声が心に響く。 -- -音月　ユズ‐ (2020-01-04 19:27:35)\r\n久しぶりに聴いたけどいい曲だな…歌詞もだけど、ミクの優しい声が心に滲みる… -- なまり (2020-06-30 21:58:04)\r\n変態 -- この歌詞と結婚したいです。() (2020-09-18 21:21:25)\r\n良い歌だーこれカラオケで歌いたいなー。 -- 猫 (2021-01-16 16:22:29)",
+            "create-time": 1614512103747,
+            "uid": "d5yeykniS",
+            "edit-time": 1614512111332,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "o7cglDEhL",
+        "edit-time": 1614512102748,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "eKDjQ-gaF",
+    "edit-time": 1614512048977,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614515409123,
+    "title": "glowing screen",
+    "uid": "qDTCJ4SOc",
+    "edit-time": 1614515409124,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614515504650,
+    "title": "television show",
+    "uid": "SdCtE9Y-c",
+    "edit-time": 1614515504651,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614515661067,
+    "title": "modify text",
+    "uid": "H2K_kE0tz",
+    "edit-time": 1614515661068,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614515883775,
+    "title": "drain the water",
+    "uid": "Rrop1MM2x",
+    "edit-time": 1614515883776,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614516338253,
+    "title": "basic instruction",
+    "uid": "k4n2tdr9E",
+    "edit-time": 1614516338254,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614516338253,
+    "title": "building block",
+    "uid": "xy41vyW77",
+    "edit-time": 1614516338254,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614516395104,
+    "title": "programming instruction",
+    "uid": "b7it2L4A9",
+    "edit-time": 1614516395104,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614516395104,
+    "title": "source code",
+    "uid": "8yf4yqHSN",
+    "edit-time": 1614516395104,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614516422662,
+    "title": "certain condition",
+    "uid": "Ok0Tr8RNV",
+    "edit-time": 1614516422662,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
