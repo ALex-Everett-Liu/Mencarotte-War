@@ -59879,6 +59879,98 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "Installing Third-Party Modules",
+        "create-time": 1614543979351,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Some [Python code] requires your program to [[import modules]]. Some of these modules come with Python, but others are [[third-party module]]s created by developers outside of the Python [core dev team]. [Appendix A]([[appendix]]) has [detailed instructions] on how to use the `pip` program (on Windows) or `pip3` program (on macOS and Linux) to install third-party modules. Consult Appendix A when this book [instructs you to] [install a particular third-party module]. #pip\n210301-04:30",
+            "create-time": 1614543983335,
+            ":block/refs": [
+              {
+                ":block/uid": "3aIeF7boF"
+              },
+              {
+                ":block/uid": "JntSNVlOh"
+              },
+              {
+                ":block/uid": "kHvScKGrU"
+              },
+              {
+                ":block/uid": "BFqgaRYDV"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "3aIeF7boF"
+              },
+              {
+                "uid": "JntSNVlOh"
+              },
+              {
+                "uid": "kHvScKGrU"
+              },
+              {
+                "uid": "BFqgaRYDV"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "WVx7kXJCP",
+            "edit-time": 1614544288751,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Aeu3br_XZ",
+        "edit-time": 1614543982472,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "How to Find Help",
+        "create-time": 1614544312322,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Programmers [tend to learn by] [searching the internet] for [answers to their questions]. This is [quite different from] [the way many people are accustomed to learning]—through an [in-person teacher] who lectures 亲自授课 and can [answer questions]. What’s great about [using the internet as a schoolroom] is that there are [whole communities of folks] who can [answer your questions]. Indeed, your questions have probably [already been answered], and the answers are [waiting online for you to find them]. If you encounter an [[error message]] or [have trouble making your code work], you [won’t be the first person to] [have your problem], and [finding a solution] is [easier than you might think].",
+            "create-time": 1614544312799,
+            ":block/refs": [
+              {
+                ":block/uid": "_7xOl_qaH"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_7xOl_qaH"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "1yHg_E83_",
+            "edit-time": 1614544488268,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "6FSGyGHBH",
+        "edit-time": 1614544312806,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "SPy4FS4BQ",
@@ -61180,11 +61272,191 @@
   {
     "create-time": 1614527334038,
     "title": "interactive shell",
-    "uid": "sLfhALYH-",
-    "edit-time": 1614527334039,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "When you run [[Mu Editor]], the window that appears is called the [[file editor window]]. You can open the interactive shell by clicking the REPL button. A [[shell]] is a program that lets you [type instructions into the computer], much like the [[Terminal]] or [[Command Prompt]] on macOS and Windows, respectively. Python’s interactive shell lets you [enter instructions] for the Python interpreter software to run. The computer [reads the instructions]([[instruction]]) you enter and [runs them immediately].\n210301-03:25",
+        "create-time": 1614539972411,
+        ":block/refs": [
+          {
+            ":block/uid": "Hs22itFm7"
+          },
+          {
+            ":block/uid": "0SiOtkvcd"
+          },
+          {
+            ":block/uid": "PnMXEyE9V"
+          },
+          {
+            ":block/uid": "uxOTGkzlF"
+          },
+          {
+            ":block/uid": "NkOG7FtbB"
+          },
+          {
+            ":block/uid": "Of8NthQ9x"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Hs22itFm7"
+          },
+          {
+            "uid": "0SiOtkvcd"
+          },
+          {
+            "uid": "PnMXEyE9V"
+          },
+          {
+            "uid": "uxOTGkzlF"
+          },
+          {
+            "uid": "NkOG7FtbB"
+          },
+          {
+            "uid": "Of8NthQ9x"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "rKf6O3ROj",
+        "edit-time": 1614540392076,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614540374568,
+        "children": [
+          {
+            "string": "```python\nJupyter QtConsole 4.3.1\nPython 3.6.3 (v3.6.3:2c?fed8, Oct 3 2017, 18:11:49) [MSC v.1900 64 bit (AMD64)]\nType 'copyright', 'credits' or 'license' for more information\nIPython 6.2.1 -- An enhanced Interactive Python. Type '?' for help.\n\nIn [1]:```",
+            "create-time": 1614540343359,
+            "uid": "GV5pi89RH",
+            "edit-time": 1614540349820,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nBBt4TBc7"
+          }
+        ],
+        "uid": "OIrScBatj",
+        ":block/refs": [
+          {
+            ":block/uid": "nBBt4TBc7"
+          }
+        ],
+        "string": "In Mu, the interactive shell is a [[pane]] [in the lower half of the window] with the following text:",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614540302024,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614540571651,
+        "children": [
+          {
+            "string": "```python\nPython 3.8.0b1 (tags/v3.8.0b1:3b?deb0116, Jun 4 2019, 19:?2:??) [MSC v.1916 64 bit (AMD64)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>>```",
+            "create-time": 1614540501993,
+            "uid": "BzKmIcY2U",
+            "edit-time": 1614540506493,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "AJ-nbVyqw"
+          }
+        ],
+        "uid": "jevuHRAbM",
+        ":block/refs": [
+          {
+            ":block/uid": "AJ-nbVyqw"
+          }
+        ],
+        "string": "If you run [[Integrated Development and Learning Environment (IDLE)]], the interactive shell is the window that first appears. It should be [mostly blank] except for text that [looks something like this]:",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614540452035,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614543955691,
+        "children": [
+          {
+            "string": "After you type that line and [press ENTER], the interactive shell [should display this in response]:\n`>>> print('Hello, world!')\nHello, world!`",
+            "create-time": 1614543861736,
+            "uid": "MHg7cOGh5",
+            "edit-time": 1614543916359,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You’ve just [given the computer an instruction], and it did [what you told it to do]!",
+            "create-time": 1614543926985,
+            "uid": "a1Uw05Su9",
+            "edit-time": 1614543941351,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WxHXtLlCo"
+          },
+          {
+            "uid": "mnNhhkeXf"
+          }
+        ],
+        "uid": "xhIWWoma9",
+        ":block/refs": [
+          {
+            ":block/uid": "WxHXtLlCo"
+          },
+          {
+            ":block/uid": "mnNhhkeXf"
+          }
+        ],
+        "string": "`In [1]:` and `>>>` are called [[prompt]]s. [The examples in this book] will use the >>> prompt for the interactive shell [since it’s more common]. If you run Python from the Terminal or Command Prompt, they’ll use the >>> prompt, as well. The In [1]: prompt was invented by [[Jupyter Notebook]], another popular [Python editor].\n210301-04:25",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614543598651,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "sLfhALYH-",
+    "edit-time": 1614527334039,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -61654,23 +61926,59 @@
         }
       },
       {
-        "string": "[[Installing the Jupyter Software]]\n210301-02am",
-        "create-time": 1614537624122,
-        ":block/refs": [
-          {
-            ":block/uid": "QRWXmGkng"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "QRWXmGkng"
-          }
-        ],
+        "string": "Jupyter Notebook",
+        "create-time": 1614538671891,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "fWjOo5liQ",
-        "edit-time": 1614537629348,
+        "children": [
+          {
+            "string": "[[Installing the Jupyter Software]]\n210301-02am",
+            "create-time": 1614537624122,
+            ":block/refs": [
+              {
+                ":block/uid": "QRWXmGkng"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "QRWXmGkng"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "fWjOo5liQ",
+            "edit-time": 1614537629348,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[JupyterLab Documentation]]",
+            "create-time": 1614538658362,
+            ":block/refs": [
+              {
+                ":block/uid": "a7fIlNKZP"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "a7fIlNKZP"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "rCzYsLYl1",
+            "edit-time": 1614538660755,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "lJwj4riZc",
+        "edit-time": 1614538675763,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -62028,7 +62336,7 @@
     },
     "children": [
       {
-        "string": "[JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) is the next-generation [[web-based user interface]] for [[Project Jupyter]]. [Try it on Binder](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/3818244?urlpath=lab/tree/demo). JupyterLab follows the Jupyter [Community Guides](https://jupyter.readthedocs.io/en/latest/community/content-community.html).",
+        "string": "[JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) is the next-generation [[web-based user interface]] for [[Project Jupyter]]. [Try it on Binder](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/3818244?urlpath=lab/tree/demo). JupyterLab follows the Jupyter [Community Guides](https://jupyter.readthedocs.io/en/latest/community/content-community.html).\n210301-02:45",
         "create-time": 1614537762407,
         ":block/refs": [
           {
@@ -62050,7 +62358,7 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "uid": "RdBSU5Zt_",
-        "edit-time": 1614537817799,
+        "edit-time": 1614537996893,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -62070,18 +62378,156 @@
       {
         "string": "**Getting Started**",
         "create-time": 1614537833898,
+        "heading": 2,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "children": [
           {
-            "string": "Starting JupyterLab",
+            "string": "[Starting JupyterLab](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html)",
             "create-time": 1614537834484,
-            "uid": "JIi3L4m9V",
-            "edit-time": 1614537852641,
+            "heading": 3,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "children": [
+              {
+                "string": "Start JupyterLab using:\n`jupyter lab`\nJupyterLab will [open automatically] [in your browser]([[browser]]).",
+                "create-time": 1614537931141,
+                ":block/refs": [
+                  {
+                    ":block/uid": "L2MXWdJhE"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "L2MXWdJhE"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "RotbNqUDw",
+                "edit-time": 1614538013018,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1614538371706,
+                "children": [
+                  {
+                    "string": "`http(s)://<server:port>/<lab-location>/lab`",
+                    "create-time": 1614538263832,
+                    "uid": "F8j1MGl-D",
+                    "edit-time": 1614538268367,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "`http://localhost:8888/lab`",
+                    "create-time": 1614538279043,
+                    "uid": "j70gW0mZX",
+                    "edit-time": 1614538284190,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "A_B2ycpVD"
+                  },
+                  {
+                    "uid": "rQQzlw3AF"
+                  },
+                  {
+                    "uid": "6e3LVwe5b"
+                  },
+                  {
+                    "uid": "JMyh85xkI"
+                  },
+                  {
+                    "uid": "_uOqRMveg"
+                  }
+                ],
+                "uid": "JlqpJ2kdq",
+                ":block/refs": [
+                  {
+                    ":block/uid": "A_B2ycpVD"
+                  },
+                  {
+                    ":block/uid": "rQQzlw3AF"
+                  },
+                  {
+                    ":block/uid": "6e3LVwe5b"
+                  },
+                  {
+                    ":block/uid": "JMyh85xkI"
+                  },
+                  {
+                    ":block/uid": "_uOqRMveg"
+                  }
+                ],
+                "string": "You may [access JupyterLab] by entering the notebook [[server]]’s [URL](https://jupyterlab.readthedocs.io/en/latest/user/urls.html#urls) into the browser. JupyterLab [[session]]s always reside in a [workspace](https://jupyterlab.readthedocs.io/en/latest/user/urls.html#url-workspaces-ui). The [default workspace]([[workspace]]) is the main `/lab` URL: #[[server port]] #localhost",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1614537983787,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Like the classic notebook, JupyterLab [provides a way for users to] [copy URLs] that [open a specific notebook or file](https://jupyterlab.readthedocs.io/en/latest/user/urls.html#url-tree). Additionally, JupyterLab URLs are [an advanced part of] the user interface that allows for managing [workspaces](https://jupyterlab.readthedocs.io/en/latest/user/urls.html#url-workspaces-ui). To learn more about URLs in Jupyterlab, visit [JupyterLab URLs](https://jupyterlab.readthedocs.io/en/latest/user/urls.html#urls).\n210301-02:53",
+                "create-time": 1614538312677,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "To open the classic Notebook from JupyterLab, select “Launch Classic Notebook” from the JupyterLab [[help menu]], or you can [change the URL] from `/lab` to `/tree`.",
+                    "refs": [
+                      {
+                        "uid": "OWsF7aqsH"
+                      }
+                    ],
+                    "uid": "NEEwG2o3R",
+                    "edit-time": 1614538495354,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "OWsF7aqsH"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "crUOn5kxJ",
+                "edit-time": 1614538447082,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "JupyterLab runs on top of Jupyter Server, so see the [security section](https://jupyter-server.readthedocs.io/en/latest/operators/security.html) of Jupyter Server’s documentation for [security-related information].",
+                "uid": "yDvLOJ0J9",
+                "edit-time": 1614538514502,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "JIi3L4m9V",
+            "edit-time": 1614538611078,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -62117,6 +62563,236 @@
     "title": "Project Jupyter",
     "uid": "mAhbMNHqZ",
     "edit-time": 1614537816122,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614538013020,
+    "title": "browser",
+    "uid": "L2MXWdJhE",
+    "edit-time": 1614538013021,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614538119644,
+    "title": "session",
+    "uid": "6e3LVwe5b",
+    "edit-time": 1614538119645,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614538362965,
+    "title": "server port",
+    "uid": "JMyh85xkI",
+    "edit-time": 1614538362968,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614538371710,
+    "title": "localhost",
+    "uid": "_uOqRMveg",
+    "edit-time": 1614538371711,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614538489109,
+    "title": "help menu",
+    "uid": "OWsF7aqsH",
+    "edit-time": 1614538489110,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614539997617,
+    "title": "Mu Editor",
+    "uid": "PnMXEyE9V",
+    "edit-time": 1614539997617,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614540028264,
+    "title": "file editor window",
+    "uid": "uxOTGkzlF",
+    "edit-time": 1614540028265,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614540044664,
+    "title": "shell",
+    "uid": "NkOG7FtbB",
+    "edit-time": 1614540044665,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614540059392,
+    "title": "Command Prompt",
+    "uid": "Of8NthQ9x",
+    "edit-time": 1614540059393,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614540374573,
+    "title": "pane",
+    "uid": "nBBt4TBc7",
+    "edit-time": 1614540374574,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614540571653,
+    "title": "Integrated Development and Learning Environment (IDLE)",
+    "uid": "AJ-nbVyqw",
+    "edit-time": 1614540571655,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614541418616,
+    "title": "さよならの夏~コクリコ坂から~ (Sayonara no natsu - Coquelicot saka kara)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "作詞：万里村ゆき子\n作曲：坂田晃一\n編曲：武部聡志",
+        "create-time": 1614541443215,
+        "uid": "BHPizRkKk",
+        "edit-time": 1614541458043,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "光る海に かすむ船は さよならの汽笛 残します \n缓い坂を 降りて行けば 夏色の風に あえるかしら\nわたしの愛 それはメロディー たかく ひくく 歌うの\nわたしの愛 それはカモメ たかく ひくく 飛ぶの\n夕陽のなか 呼んでみたら やさしいあなたに 逢えるかしら",
+        "create-time": 1614541458756,
+        "uid": "IrHmym2Vv",
+        "edit-time": 1614543551122,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "BS0NWlxyN",
+    "edit-time": 1614541418616,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614543630851,
+    "title": "prompt",
+    "uid": "mnNhhkeXf",
+    "edit-time": 1614543630852,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614544040575,
+    "title": "import modules",
+    "uid": "JntSNVlOh",
+    "edit-time": 1614544040576,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614544040575,
+    "title": "third-party module",
+    "uid": "kHvScKGrU",
+    "edit-time": 1614544040576,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614544098652,
+    "title": "appendix",
+    "uid": "BFqgaRYDV",
+    "edit-time": 1614544098655,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614544469071,
+    "title": "error message",
+    "uid": "_7xOl_qaH",
+    "edit-time": 1614544469079,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

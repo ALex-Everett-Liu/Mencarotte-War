@@ -39,3 +39,8 @@
 210228-23:30
 - [[Downloading and Installing Python]]
 - [The Interactive Shell]([[interactive shell]])
+- ### Installing Third-Party Modules
+    - Some [Python code] requires your program to [[import modules]]. Some of these modules come with Python, but others are [[third-party module]]s created by developers outside of the Python [core dev team]. [Appendix A]([[appendix]]) has [detailed instructions] on how to use the `pip` program (on Windows) or `pip3` program (on macOS and Linux) to install third-party modules. Consult Appendix A when this book [instructs you to] [install a particular third-party module]. #pip
+210301-04:30
+- ### How to Find Help
+    - Programmers [tend to learn by] [searching the internet] for [answers to their questions]. This is [quite different from] [the way many people are accustomed to learning]—through an [in-person teacher] who lectures 亲自授课 and can [answer questions]. What’s great about [using the internet as a schoolroom] is that there are [whole communities of folks] who can [answer your questions]. Indeed, your questions have probably [already been answered], and the answers are [waiting online for you to find them]. If you encounter an [[error message]] or [have trouble making your code work], you [won’t be the first person to] [have your problem], and [finding a solution] is [easier than you might think].
