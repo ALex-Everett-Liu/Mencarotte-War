@@ -20,6 +20,7 @@
 210301-19:25
                 - File "<stdin>", line 1
 [SyntaxError]([[syntax error]]): [[invalid syntax]]
+            - You can always [test to see] [whether an instruction works] by [entering it into the interactive shell]. [Don’t worry about] [breaking the computer]: [the worst that could happen] is that Python [responds with an error message]. [Professional software developers] [get error messages] while [writing code] [all the time].
 - ERRORS ARE OKAY!
     - [Programs will crash]([[crash]]) if they contain code [the computer can’t understand], which will cause Python to [show an error message]. An error message won’t [break your computer], though, so [don’t be afraid to] [make mistakes]. A crash just means [the program stopped running unexpectedly].
     - If you [want to know more about] an error, you can [search for the exact error message text] online [for more information]. You can also [check out the resources] at [nostarch](https://nostarch.com/automatestuff2/) to see a list of [common Python error messages] and their meanings.

@@ -4,3 +4,4 @@
 210301-12:25
     - Perhaps [the most interesting addition] is that of a REPL (Read-Evaluate-Print Loop) for [JavaScript development]. "www.[[infoq]].com"
 - 1.1 [[Entering Expressions into the Interactive Shell]]
+- 1.2 [[The Integer, Floating-Point, and String Data Types]]
