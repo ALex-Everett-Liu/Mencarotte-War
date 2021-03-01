@@ -406,10 +406,10 @@
         },
         "children": [
           {
-            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\";\n/*  import 必须放在第一行才能生效\n\n/*  .theme-inner {\n    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;\n/*     background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; */\n/*     background-size: cover;\n}\n\n/*scrollbar*/\n::-webkit-scrollbar {\n    width: 7px;\n}\n\n/* WIDTH FIXES */\n\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Rainbow indentation */\n/*\nFeel free to adjust the colors - this one loops every\n7 colors like the rainbow but you can change that to\ncycle earlier or choose more unique colors.\nTo add deeper indents:\n1. Add { > div.flex-v-box > div } incrementally to the first line, and\n2. Add {> div.flex-v-box > div:nth-child(n) } incrementally to the second line\n*/\n/* Rainbow indentation */\n/*\nFeel free to adjust the color variables!\nThis one loops every 6 colors, and goes 18 levels deep (3 cycles).\nThe 3 selectors for each level correspond to:\n1. Daily notes scrolling view\n2. Single page view\n3. Right sidebar outline view\n*/\n\n:root {\n    --box-shadow-values: none; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n}\n\n/* .block-border-left {\n/*    border-left-width: 3px !important; /* Default 1px */\n/*    margin-left: 4px; /* Default 6px */\n/*    border-radius: 0; /* Set to 0 to get smooth, straight indents */\n/*    padding: 0 !important; /* Set to 0 to align all indents */\n/* }```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\";\n/*  import 必须放在第一行才能生效\n\n/*  .theme-inner {\n    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;\n/*     background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; */\n/*     background-size: cover;\n}\n\n/*scrollbar*/\n::-webkit-scrollbar {\n    width: 7px;\n}\n\n/* WIDTH FIXES */\n\n/* .rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Rainbow indentation */\n/*\nFeel free to adjust the colors - this one loops every\n7 colors like the rainbow but you can change that to\ncycle earlier or choose more unique colors.\nTo add deeper indents:\n1. Add { > div.flex-v-box > div } incrementally to the first line, and\n2. Add {> div.flex-v-box > div:nth-child(n) } incrementally to the second line\n*/\n/* Rainbow indentation */\n/*\nFeel free to adjust the color variables!\nThis one loops every 6 colors, and goes 18 levels deep (3 cycles).\nThe 3 selectors for each level correspond to:\n1. Daily notes scrolling view\n2. Single page view\n3. Right sidebar outline view\n*/\n\n:root {\n    --box-shadow-values: none; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n}\n\n/* .block-border-left {\n/*    border-left-width: 3px !important; /* Default 1px */\n/*    margin-left: 4px; /* Default 6px */\n/*    border-radius: 0; /* Set to 0 to get smooth, straight indents */\n/*    padding: 0 !important; /* Set to 0 to align all indents */\n/* }```",
             "create-time": 1614620922794,
             "uid": "J0YVQSDDZ",
-            "edit-time": 1614624248508,
+            "edit-time": 1614624444360,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -1412,6 +1412,28 @@
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
                         "create-time": 1613795645802,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "{{[[TODO]]}} [This](https://github.com/Wojnach/WorkflowySolarized) is a port of the [Solarized](http://ethanschoonover.com/solarized) color scheme for use with [Workflowy](https://workflowy.com/) - mainly in combination with [vimflowy](https://github.com/Wojnach/vimflowy)",
+                        "create-time": 1614628803751,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "w2pC_znpn",
+                        "edit-time": 1614628820740,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -4527,6 +4549,28 @@
                         }
                       },
                       {
+                        "string": "{{[[TODO]]}} WorkFlowy [系列教程](https://www.bilibili.com/video/BV11g4y1i7VJ?p=6) || 快捷操作+样式+功能增强",
+                        "create-time": 1614632401402,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "NsgY7S3c7",
+                        "edit-time": 1614632413450,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "[about RemNote](https://www.zhihu.com/people/xia-tao-kai-16)",
                         "create-time": 1613622865057,
                         "uid": "OBR_s05kQ",
@@ -4750,6 +4794,18 @@
                     "create-time": 1614240346878,
                     "uid": "m2enVFCcU",
                     "edit-time": 1614240403641,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "【古琴】练琴笔记 训练计划 归去来兮 [workflowy](https://www.bilibili.com/video/BV19b411U7Ne)",
+                    "create-time": 1614627839678,
+                    "uid": "guwDH7EhK",
+                    "edit-time": 1614627854225,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
@@ -7107,7 +7163,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1614621418839,
+            "edit-time": 1614629949058,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -64041,6 +64097,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "1.3 [[String Concatenation and Replication]]",
+        "create-time": 1614627189472,
+        ":block/refs": [
+          {
+            ":block/uid": "UR3didKIq"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "UR3didKIq"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "FVpIfeHrw",
+        "edit-time": 1614627194528,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "rOH9R5nd5",
@@ -64839,6 +64917,98 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "Table 1-2: Common Data Types",
+        "create-time": 1614626771499,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "strings | 'a' , 'aa' , 'aaa' , 'Hello!' , '11 cats'",
+            "create-time": 1614626783529,
+            "uid": "MRKM4KSmt",
+            "edit-time": 1614626862325,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "HdXHMfFb7",
+        "edit-time": 1614626773248,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614627062042,
+        "children": [
+          {
+            "string": "If you ever see the error message `SyntaxError: EOL while scanning string literal`, 扫描字符串文字 you probably [forgot the final single quote character] [at the end of the string], such as in this example:",
+            "create-time": 1614627089155,
+            "uid": "67kTcTM3B",
+            "edit-time": 1614627161378,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "vD5SGMM3j"
+          },
+          {
+            "uid": "ba8A8tyAh"
+          },
+          {
+            "uid": "SwHn6jIPK"
+          },
+          {
+            "uid": "UJ6TuWJ6M"
+          },
+          {
+            "uid": "lG30t7oRJ"
+          },
+          {
+            "uid": "YJTHT_v-U"
+          }
+        ],
+        "uid": "aVJEwOzgj",
+        ":block/refs": [
+          {
+            ":block/uid": "vD5SGMM3j"
+          },
+          {
+            ":block/uid": "ba8A8tyAh"
+          },
+          {
+            ":block/uid": "SwHn6jIPK"
+          },
+          {
+            ":block/uid": "UJ6TuWJ6M"
+          },
+          {
+            ":block/uid": "lG30t7oRJ"
+          },
+          {
+            ":block/uid": "YJTHT_v-U"
+          }
+        ],
+        "string": "[Python programs] can also have [[text value]]s called [[string]]s, or [[strs]] (pronounced “stirs”). [Always surround your string in] [[single quote]] ( ' ) characters (as in 'Hello' or 'Goodbye cruel world!' ) so Python knows [where the string begins and ends]. You can even have a string [with no characters in it], '' , called a [[blank string]] or an [[empty string]]. Strings are [explained in greater detail] in Chapter 4.\n210302-03:30",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614626830978,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "WZE2NCAKq",
@@ -64924,6 +65094,90 @@
     "title": "floats",
     "uid": "UIaK2G0RG",
     "edit-time": 1614609301164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614626802856,
+    "title": "string",
+    "uid": "vD5SGMM3j",
+    "edit-time": 1614626802857,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614626850729,
+    "title": "text value",
+    "uid": "ba8A8tyAh",
+    "edit-time": 1614626850729,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614626859449,
+    "title": "strs",
+    "uid": "SwHn6jIPK",
+    "edit-time": 1614626859450,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614626911512,
+    "title": "single quote",
+    "uid": "UJ6TuWJ6M",
+    "edit-time": 1614626911513,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614626959324,
+    "title": "blank string",
+    "uid": "lG30t7oRJ",
+    "edit-time": 1614626959325,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614626959324,
+    "title": "empty string",
+    "uid": "YJTHT_v-U",
+    "edit-time": 1614626959325,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614627194530,
+    "title": "String Concatenation and Replication",
+    "uid": "UR3didKIq",
+    "edit-time": 1614627194530,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

@@ -72,6 +72,7 @@
                 - {{[[TODO]]}} [鹅先知](https://www.zhihu.com/people/LY_x7x7): [这么看来](https://www.zhihu.com/question/436018808/answer/1699804012)，你对 daily note 的理解类似 PARA 处理信息的一种方式，不过这里用的是另一套逻辑，是基于卡片和卡片之间的双向连接和层级关系。
                     - 这个过程其实也是对一些[笔记的typo][进行修改]，一些[未完成的内容]做[填补]。
 我感觉采用 obsidian 这种双向链接和脑图的工具，其实我的很多规矩应该重新考虑。
+                - {{[[TODO]]}} [This](https://github.com/Wojnach/WorkflowySolarized) is a port of the [Solarized](http://ethanschoonover.com/solarized) color scheme for use with [Workflowy](https://workflowy.com/) - mainly in combination with [vimflowy](https://github.com/Wojnach/vimflowy)
                 - 因为在 roam research 之前，tiddlywiki 和一些别 wiki 系统都可以通过各种[内置 marco] 显示出「[当前文档]被[哪些文档][引用]了」，但这种特性一直没怎么[受人们重视]，以我自己的[使用感受]来说，wiki 系统虽然列出了引用当前文档的文档，但时间一久我并不愿意费劲点进去查看引用处，可是不点进去的话光看那些文档名也看不出什么，渐渐地连文档名也不想看了。roam research [最大的改进]是在[反链]当中[具体显示][被引用处的上下文]，这样一来人们才愿意去看反链，解决了[传统 wiki] 的[引用列表][沦为冷板凳]的问题。
                     - 思源现在的反链模式恰恰又碰上了传统 wiki 的老问题，最重要的[上下文信息]反而[被藏得最深]，需要[很多次展开]才能看到。[上层块的信息]可能也不是完全没用，但我想它的重要性应该是远远远远不如上下文的，因为上下文几乎是直接决定了用户愿不愿意去看反链，所以上下文应该处于一个用户无需手动点击就能一眼看到的位置。现在我在思源里虽然还开着[反链面板]，但一次都没再看过了，反链功能几乎等同于没有了，跟以前用传统 wiki 的情境如出一辙。
                         - 我觉得这个问题的[核心矛盾]在于，[软件演进的历史][已经证明了][上下文]是反链[最重要的元素]，反链面板里的[其它东西][都应该为它让步]，不能[喧宾夺主]。
@@ -300,6 +301,7 @@ obsidian — Link to blocks
             - note-taking
                 - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro
                 - RoamEdit Manual - **4.3** [字符串映射](https://www.yuque.com/bu123/sk5f7o/olegde)
+                - {{[[TODO]]}} WorkFlowy [系列教程](https://www.bilibili.com/video/BV11g4y1i7VJ?p=6) || 快捷操作+样式+功能增强
                 - [about RemNote](https://www.zhihu.com/people/xia-tao-kai-16)
                 - [知识图谱](https://www.douban.com/note/779473508/)[符合]大脑对[信息存储]的[实现模型]，但是[不符合][心理模型]。原因很简单：[树]有很简单的[遍历方式]（DFS 和 BFS），可以[显著减少]用户[思考时的][心智压力]，但是图不行；  作者：joodo（来自豆瓣）
                 - 葫芦笔记[早鸟促销](https://www.bilibili.com/video/BV1fK4y1H7eZ)+[早期用户][畅聊][特别活动]
@@ -322,6 +324,7 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
                     - 作者：[GuangDai](https://ld246.com/article/1614254916546/comment/1614269038932#comments)
                     - 你好，关系图的布局算法是自动的，目前无法加入[节点权重]，抱歉。
             - 我不认为[并行不悖]是[好的解决方案](https://www.zhihu.com/question/435681085/answer/1748990892)。关键还是要[下放权力]（如果官方不[把持流量]，给用户一定权力，某些话题的讨论质量会好得多）。即使是数学话题，现在也已经被 “114^514 的后三位是多少？” 等[垃圾问题]充斥着。在这些方面 Reddit 做得比中国任何一个[社交网站]都要好十倍 —— Reddit 是真正理解 “噪音” 的意义的，Reddit 的 mod 也[敢做态度强烈的决定]，比如在某届奥运会期间 [askreddit 版面]禁止问任何标题里带有 “奥运” 的问题，问了就[由机器人自动删除]。这个做法看似残暴，但仔细想想就能理解。很多时候很多互联网上的 “好东西” 都是被[大量涌入的][低质量用户]冲到变形然后消失的。
+            - 【古琴】练琴笔记 训练计划 归去来兮 [workflowy](https://www.bilibili.com/video/BV19b411U7Ne)
             - {{[[TODO]]}} music || inoji baggari - sawako
 メアの教育 - mizuru / みずる
 2.15 yucchan生放  love  唱了yonjunana   录像4.lxe

@@ -8328,7 +8328,7 @@ a.rm-alias.rm-alias-external {
 
 /* WIDTH FIXES */
 
-.rm-block-text,
+/* .rm-block-text,
 .roam-article,
 .roam-block-container {
   max-width: 100% !important;
