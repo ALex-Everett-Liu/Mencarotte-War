@@ -52,3 +52,12 @@
        '42' + 3
 ➋ TypeError: Can't convert 'int' object to str implicitly
    >>>```
+        - The error message ➋ appears because Python couldn’t [understand your instruction]. The [[traceback]] part ➊ of the error message shows the [specific instruction] and [[line number]] that Python [had trouble with]. If you’re not sure what to make of a particular error message, search for it online. Enter **“TypeError: Can’t convert ‘int’ object to str implicitly”** (including the [[quote]]s) into your favorite search engine, and you should see [tons of links] explaining [what the error message means] and [what causes it], as shown in Figure 0-2.
+210301-12:04
+        - Figure 0-2: The [Google results] for an error message [can be very helpful].
+    - You’ll often find that [someone else had the same question as you] and that some other [helpful person] [has already answered it]. No one person can [know everything about] programming, so an [everyday part] of any [software developer]’s job is [looking up answers] to [technical questions].
+- ### Summary
+    - For most people, their computer is just an [[appliance]] [instead of a tool]. But by [learning how to program], you’ll [gain access to] [one of the most powerful tools] of the [modern world], and you’ll have fun along the way. Programming isn’t [brain surgery]—it’s fine for [[amateur]]s to experiment and [make mistakes].
+    - This book assumes you [have zero programming knowledge] and will [teach you quite a bit], but you may [have questions beyond its scope]([[scope]]). Remember that [asking effective questions] and knowing [how to find answers] are [invaluable tools] on your [programming journey].
+210301-12:10
+    - Let’s begin!

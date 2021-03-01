@@ -58720,6 +58720,42 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "PART I - PYTHON PROGRAMMING BASICS",
+                "create-time": 1614571926103,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "1 [[PYTHON BASICS]]",
+                    "create-time": 1614571926721,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "rOH9R5nd5"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "rOH9R5nd5"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "QyCqBEQeJ",
+                    "edit-time": 1614571955749,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "kUDgi3ndD",
+                "edit-time": 1614571926727,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "YMwr-n6iZ",
@@ -59983,6 +60019,52 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "The error message ➋ appears because Python couldn’t [understand your instruction]. The [[traceback]] part ➊ of the error message shows the [specific instruction] and [[line number]] that Python [had trouble with]. If you’re not sure what to make of a particular error message, search for it online. Enter **“TypeError: Can’t convert ‘int’ object to str implicitly”** (including the [[quote]]s) into your favorite search engine, and you should see [tons of links] explaining [what the error message means] and [what causes it], as shown in Figure 0-2.\n210301-12:04",
+                "create-time": 1614571175540,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cv7qbSynp"
+                  },
+                  {
+                    ":block/uid": "Sc9mg3Y1u"
+                  },
+                  {
+                    ":block/uid": "yUm0Pgrgn"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cv7qbSynp"
+                  },
+                  {
+                    "uid": "Sc9mg3Y1u"
+                  },
+                  {
+                    "uid": "yUm0Pgrgn"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "CiomhpwMn",
+                "edit-time": 1614571451096,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Figure 0-2: The [Google results] for an error message [can be very helpful].",
+                "create-time": 1614571358587,
+                "uid": "IlWDFFkQY",
+                "edit-time": 1614571365556,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "ldCz4vCnI",
@@ -59990,10 +60072,99 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "You’ll often find that [someone else had the same question as you] and that some other [helpful person] [has already answered it]. No one person can [know everything about] programming, so an [everyday part] of any [software developer]’s job is [looking up answers] to [technical questions].",
+            "create-time": 1614571380801,
+            "uid": "EujWIuswL",
+            "edit-time": 1614571435348,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "6FSGyGHBH",
         "edit-time": 1614544312806,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Summary",
+        "create-time": 1614571480141,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "For most people, their computer is just an [[appliance]] [instead of a tool]. But by [learning how to program], you’ll [gain access to] [one of the most powerful tools] of the [modern world], and you’ll have fun along the way. Programming isn’t [brain surgery]—it’s fine for [[amateur]]s to experiment and [make mistakes].",
+            "create-time": 1614571502613,
+            ":block/refs": [
+              {
+                ":block/uid": "CzQtthCh8"
+              },
+              {
+                ":block/uid": "uGVp1fr93"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "CzQtthCh8"
+              },
+              {
+                "uid": "uGVp1fr93"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "sWwrYpYc6",
+            "edit-time": 1614571558028,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "This book assumes you [have zero programming knowledge] and will [teach you quite a bit], but you may [have questions beyond its scope]([[scope]]). Remember that [asking effective questions] and knowing [how to find answers] are [invaluable tools] on your [programming journey].\n210301-12:10",
+            "create-time": 1614571502613,
+            ":block/refs": [
+              {
+                ":block/uid": "gQnuTgW3N"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "gQnuTgW3N"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "eIJ_g8-oK",
+            "edit-time": 1614571885729,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Let’s begin!",
+            "create-time": 1614571502613,
+            "uid": "6m1OYHvfl",
+            "edit-time": 1614571502617,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2T7SR4DGk",
+        "edit-time": 1614571480601,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -62819,6 +62990,280 @@
     "title": "error message",
     "uid": "_7xOl_qaH",
     "edit-time": 1614544469079,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571200234,
+    "title": "line number",
+    "uid": "cv7qbSynp",
+    "edit-time": 1614571200235,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571210055,
+    "title": "traceback",
+    "uid": "Sc9mg3Y1u",
+    "edit-time": 1614571210055,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571272292,
+    "title": "quote",
+    "uid": "yUm0Pgrgn",
+    "edit-time": 1614571272292,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571511696,
+    "title": "appliance",
+    "uid": "CzQtthCh8",
+    "edit-time": 1614571511697,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571558030,
+    "title": "amateur",
+    "uid": "uGVp1fr93",
+    "edit-time": 1614571558031,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571837018,
+    "title": "scope",
+    "uid": "gQnuTgW3N",
+    "edit-time": 1614571837019,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571955751,
+    "title": "PYTHON BASICS",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1614572035204,
+        "children": [
+          {
+            "string": "You will, however, have to learn some [basic programming concepts] [before you can do anything]. Like a [[wizard]] in training, you might think these concepts [seem arcane and tedious], but with some knowledge and practice, you’ll be able to [command your computer]([[command]]) like a [[magic wand]] 一根魔杖 and [perform incredible feats]. 表演不可思议的壮举",
+            "create-time": 1614572064590,
+            ":block/refs": [
+              {
+                ":block/uid": "dAeBxzEhS"
+              },
+              {
+                ":block/uid": "Oao_jyr5c"
+              },
+              {
+                ":block/uid": "4Gl_wUaOk"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "dAeBxzEhS"
+              },
+              {
+                "uid": "Oao_jyr5c"
+              },
+              {
+                "uid": "4Gl_wUaOk"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "io8de6DjG",
+            "edit-time": 1614572147761,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "MEy-N8tQV"
+          },
+          {
+            "uid": "pwEyYh34h"
+          }
+        ],
+        "uid": "wbDUr7nve",
+        ":block/refs": [
+          {
+            ":block/uid": "MEy-N8tQV"
+          },
+          {
+            ":block/uid": "pwEyYh34h"
+          }
+        ],
+        "string": "The Python programming language [has a wide range of] [[syntactical construction]]s, [[standard library function]]s, and [interactive development environment features]. Fortunately, you can [ignore most of that]; [you just need to learn enough to] [write some handy little programs].",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614571982731,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614572777390,
+        "children": [
+          {
+            "string": "Perhaps [the most interesting addition] is that of a REPL (Read-Evaluate-Print Loop) for [JavaScript development]. ((PHrobjUvW))",
+            "create-time": 1614572282948,
+            ":block/refs": [
+              {
+                ":block/uid": "PHrobjUvW"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PHrobjUvW"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "pxCJGk73k",
+            "edit-time": 1614572295000,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "sLfhALYH-"
+          },
+          {
+            "uid": "rEFXaQgTG"
+          }
+        ],
+        "uid": "MjvTqbOrF",
+        ":block/refs": [
+          {
+            ":block/uid": "sLfhALYH-"
+          },
+          {
+            ":block/uid": "rEFXaQgTG"
+          }
+        ],
+        "string": "This chapter has a few examples that encourage you to type into the [[interactive shell]], also called the [[REPL (Read-Evaluate-Print Loop)]], which lets you run (or execute) Python instructions one at a time and [instantly shows you the results]. Using the interactive shell is [great for learning] what [basic Python instructions] do, so [give it a try] [as you follow along]. You’ll [remember the things you do] much better than [the things you only read].\n210301-12:25",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614572064590,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rOH9R5nd5",
+    "edit-time": 1614571955752,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614571997544,
+    "title": "syntactical construction",
+    "uid": "MEy-N8tQV",
+    "edit-time": 1614571997544,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614572035207,
+    "title": "standard library function",
+    "uid": "pwEyYh34h",
+    "edit-time": 1614572035207,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614572141319,
+    "title": "command",
+    "uid": "dAeBxzEhS",
+    "edit-time": 1614572141320,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614572141319,
+    "title": "magic wand",
+    "uid": "Oao_jyr5c",
+    "edit-time": 1614572141320,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614572147763,
+    "title": "wizard",
+    "uid": "4Gl_wUaOk",
+    "edit-time": 1614572147764,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614572312831,
+    "title": "REPL (Read-Evaluate-Print Loop)",
+    "uid": "rEFXaQgTG",
+    "edit-time": 1614572312832,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
