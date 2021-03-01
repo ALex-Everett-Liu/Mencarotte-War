@@ -59964,6 +59964,32 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "For example, let’s [cause an error on purpose]: enter `'42' + 3` into the interactive shell. You don’t need to know [what this instruction means] right now, but the result [should look like this]:",
+            "create-time": 1614569619334,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "```python\n>>> '42' + 3\n➊ Traceback (most recent call last):\n     File \"<pyshell#0>\", line 1, in <module>\n       '42' + 3\n➋ TypeError: Can't convert 'int' object to str implicitly\n   >>>```",
+                "create-time": 1614569703149,
+                "uid": "j9D9W3_Ah",
+                "edit-time": 1614569708372,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ldCz4vCnI",
+            "edit-time": 1614569683319,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "6FSGyGHBH",

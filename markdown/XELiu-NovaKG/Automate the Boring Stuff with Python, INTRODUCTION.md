@@ -44,3 +44,11 @@
 210301-04:30
 - ### How to Find Help
     - Programmers [tend to learn by] [searching the internet] for [answers to their questions]. This is [quite different from] [the way many people are accustomed to learning]—through an [in-person teacher] who lectures 亲自授课 and can [answer questions]. What’s great about [using the internet as a schoolroom] is that there are [whole communities of folks] who can [answer your questions]. Indeed, your questions have probably [already been answered], and the answers are [waiting online for you to find them]. If you encounter an [[error message]] or [have trouble making your code work], you [won’t be the first person to] [have your problem], and [finding a solution] is [easier than you might think].
+    - For example, let’s [cause an error on purpose]: enter `'42' + 3` into the interactive shell. You don’t need to know [what this instruction means] right now, but the result [should look like this]:
+        - ```python
+>>> '42' + 3
+➊ Traceback (most recent call last):
+     File "<pyshell#0>", line 1, in <module>
+       '42' + 3
+➋ TypeError: Can't convert 'int' object to str implicitly
+   >>>```

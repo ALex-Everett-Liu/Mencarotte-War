@@ -31154,8 +31154,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuid0724efe1-1ba4-4a63-8e3d-dd52d4d85d18"
-   536905112]
+   "uuidc3eb771c-be07-4998-a63e-b2b79bdcafe3"
+   536905125]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -50183,6 +50183,7 @@
   [8658 :edit/user 3 536905077]
   [8658 :node/title "appendix" 536905077]
   [8659 :block/children 8660 536905090]
+  [8659 :block/children 8662 536905113]
   [8659 :block/heading 3 536905093]
   [8659 :block/open true 536905085]
   [8659 :block/order 9 536905085]
@@ -50214,4 +50215,34 @@
   [8661 :create/user 3 536905108]
   [8661 :edit/time 1614544469079 536905108]
   [8661 :edit/user 3 536905108]
-  [8661 :node/title "error message" 536905108]]}
+  [8661 :node/title "error message" 536905108]
+  [8662 :block/children 8663 536905122]
+  [8662 :block/open true 536905113]
+  [8662 :block/order 1 536905113]
+  [8662 :block/page 8317 536905114]
+  [8662 :block/parents 8317 536905114]
+  [8662 :block/parents 8659 536905114]
+  [8662
+   :block/string
+   "For example, let’s [cause an error on purpose]: enter `'42' + 3` into the interactive shell. You don’t need to know [what this instruction means] right now, but the result [should look like this]:"
+   536905119]
+  [8662 :block/uid "ldCz4vCnI" 536905113]
+  [8662 :create/time 1614569619334 536905113]
+  [8662 :create/user 3 536905113]
+  [8662 :edit/time 1614569683319 536905119]
+  [8662 :edit/user 3 536905113]
+  [8663 :block/open true 536905120]
+  [8663 :block/order 0 536905122]
+  [8663 :block/page 8317 536905121]
+  [8663 :block/parents 8317 536905121]
+  [8663 :block/parents 8659 536905121]
+  [8663 :block/parents 8662 536905123]
+  [8663
+   :block/string
+   "```python\n>>> '42' + 3\n➊ Traceback (most recent call last):\n     File \"<pyshell#0>\", line 1, in <module>\n       '42' + 3\n➋ TypeError: Can't convert 'int' object to str implicitly\n   >>>```"
+   536905125]
+  [8663 :block/uid "j9D9W3_Ah" 536905120]
+  [8663 :create/time 1614569703149 536905120]
+  [8663 :create/user 3 536905120]
+  [8663 :edit/time 1614569708372 536905125]
+  [8663 :edit/user 3 536905120]]}
