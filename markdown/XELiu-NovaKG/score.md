@@ -141,12 +141,14 @@ Completed after 4 days.
                     - 我还写了一个python脚本，如果需要导出标题层级的标准md，可以自动根据缩进关系生成标题层级，本文就是这么生成的。
                     - 笔者常常会在markdown文件中使用不少LaTeX语法记录公式，然而一个字符一个字符输入LaTeX语法实在太费功夫。笔者半年前看到这篇文章 1700页数学笔记火了！全程敲代码，速度飞快易搜索，硬核小哥教你上手LaTeX+Vim 后大为欣喜，__进一步探索之后发现利用vscode的自定义snippets功能即可实现__。配置好后，我的输入速度确实大有提升，从此是否支持snippets是我考虑笔记软件的一个重要因素。
                 - {{[[TODO]]}} 多光标编辑 in [Obsidian](https://www.bilibili.com/video/BV1Rt4y1q72m) 
+                - {{[[TODO]]}} [[css](https://discuss.logseq.com/t/css-highlights-current-path-bullets-color/371) highlights current path (bullets color)]
                 - {{[[TODO]]}} 新功能 [WorkFlowy Mirror](https://www.appinn.com/workflowy-mirror/comment-page-1)
                 - {{[[TODO]]}} about [WorkFlowy](https://www.zhihu.com/search?q=workflowy&type=content&range=3m)
                     - Render TeX / LaTeX math equations in Workflowy with [MathJax](https://chrome.google.com/webstore/detail/mathflowy-tex-equations-f/enkondafgdaafikjlehpnjebnknfgfle?hl=zh).
                 - sbnmsl -- 选何种软件是看个人需求，软件间并非定有高低；明年打算买个超贵的，观望了好几年的 [The Brain](https://m.weibo.cn/status/4588266944470889)
                 - [WorkFlowy](https://www.bilibili.com/read/cv9492646) 发布新功能 [WorkFlowy Mirror](https://workflowy.com/feature/mirrors/)，可在笔记内以镜像的形式复制内容，当一方内容被修改时，所有的镜像内容都回同步更新。这与 Roam Research 里的块引用本质是一样的，**一处修改，处处更新**。
                 - [大纲笔记](https://sspai.com/post/64531)，WorkFlowy or 幕布？
+                - {{[[TODO]]}} roam community, slack, hacker, toolkit...
                 - 只用清关于logseq网站的缓存​​ -- [Clear site date](https://nqu51k3rdu.feishu.cn/mindnotes/bmncnDEKLZ6hUy9tYcZVOtZLqyb?login_redirect_times=1)
                 - Roam Research 最好的替代品 - [Logseq](https://www.bilibili.com/video/BV1JX4y1N7fo)
                 - {{[[TODO]]}} Emacs / Vim 快捷键，控制光标移动
@@ -161,6 +163,7 @@ Completed after 4 days.
                     - 层次太深的问题可以靠 star 和 moc（map of contents）来[轻易解决]，star 其实也是一种 moc
                 - {{[[TODO]]}} [logseq好看的主题](https://cn.logseq.com/t/topic/396)
 https://cn.logseq.com/uploads/default/original/1X/6fb23336796775f83b9a2b03f3aa89ee46fee970.jpeg
+                - [push Logseq with GitHub Desktop](https://zhuanlan.zhihu.com/p/350026528)
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
             - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～ [唠嗑群](https://space.bilibili.com/2378703) 574182082 -- 不许跑，我看到你了！O皿O
@@ -282,6 +285,7 @@ page attribute -- roam
 这种[简化]知识图谱[录入难度]的方案应该是[近期的一个热点]，大家都会加上
                 - {{[[TODO]]}} ZH NLP; [word frequencies](http://www.aihanyu.org/cncorpus/index.aspx)
 http://corpus.zhonghuayuwen.org/index.aspx 
+                - {{[[TODO]]}} A framework for developing all of your Roam Research [CSS themes] and [UX enhancements] [with ease using] [modern development tools](https://github.com/roam-mosaic/theme-boilerplate).
                 - GTD 不[管理时间]，它管理的是我们的[注意力](https://zhuanlan.zhihu.com/p/350662573)。在任何一个会涉及到 GTD [英文论坛]上，「GTD = 注意力管理」早已是一个[基本共识]了，而[中文网络]上的 GTD 却一直跟“时间管理”[绑定在一起]，就跟「情商」一词一直[被大众曲解为]「会来事儿」一样。我也不是非要[死抠定义]，但[注意力管理]和[时间管理][真的是两回事]。
                 - [前段时间][上网冲浪]的时候[突然想到]，做个像 [workflowy] 一样的[主页](https://www.yuque.com/idelem/zt/ny150b)也不错，所有内容都放在同一个页面里，一层层点击展开，渐入佳境（唯一的问题是对手机流量上网不友好）。既然 workflowy 自带导出功能，思路自然是把 workflowy 本身作为内容编辑器，再写脚本修改 html 文件。稍加研究后就实现了，在此记录下实现过程。
                 - {{[[TODO]]}} help docs || roam — Upload Image, Audio, or File 

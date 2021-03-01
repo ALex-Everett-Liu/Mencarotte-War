@@ -2,8 +2,19 @@
     - 
     - 
 - ...
-- 
+    - 
 - todo today (real-time view)
     - weibo; 你好李焕英; logseq
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
     - 御姐;
+- roam test
+    - aa
+        - **bb**
+            - __cc__
+                - ^^dd^^
+                    - ee
+                        - ff
+    - bb
+        - "__cc__"
+    - [[temp]]
+    - [Temp]([[temp]])
