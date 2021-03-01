@@ -2415,6 +2415,82 @@
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
+                      },
+                      {
+                        "string": "你好，[想请问一下](https://www.yuque.com/deerain/gannbs/fgsq8v)[大纲笔记]的[横向排版][开发起来难度大吗]？如果自学[前端]的话学完[react框架]后可以开发吗？我最近试了一下mit的remnote，感觉不错，引用和双链这两个功能相当自然。",
+                        "children": [
+                          {
+                            "string": "还想问一下大纲笔记内部在技术上可以实现[直接嵌入]notion的database那种吗？database×大纲貌似可以[弥补]大纲笔记[层次划分过深]导致的[重点清晰问题]...",
+                            "uid": "Wzu3uKC_T",
+                            "edit-time": 1614594242893,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "大纲笔记[在移动端的使用体验]对 notion 和 我来 这种以block为主的笔记[真的是碾压]... 这个问题好像无解...",
+                            "create-time": 1614594164862,
+                            "uid": "1PjOuRzTI",
+                            "edit-time": 1614594259185,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "我的体会是大纲笔记[最大的问题]就是层次可以[无限细分]导致的[重点不清晰]，我做完数据库的笔记后大概到了十多层了.....这样虽然符合[金字塔的MECE逻辑]但是却不符合阅读和复习的逻辑，而且大纲笔记中每个node都能[展开收缩]，其实应该不走那么[极端的路线]的...如果部分结点可以取消展开收缩功能就好了.",
+                            "create-time": 1614594177078,
+                            "uid": "ML5hdw1Dx",
+                            "edit-time": 1614594284023,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "层次太深的问题可以靠 star 和 moc（map of contents）来[轻易解决]，star 其实也是一种 moc",
+                            "create-time": 1614594189386,
+                            "uid": "mG7B_bSf8",
+                            "edit-time": 1614594296068,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "nCgzyaviO",
+                        "edit-time": 1614594311271,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "{{[[TODO]]}} [logseq好看的主题](https://cn.logseq.com/t/topic/396)\nhttps://cn.logseq.com/uploads/default/original/1X/6fb23336796775f83b9a2b03f3aa89ee46fee970.jpeg",
+                        "create-time": 1614589668285,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "XwTep3_a2",
+                        "edit-time": 1614589773970,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "uid": "OXiayeX3M",
@@ -5072,115 +5148,199 @@
                     }
                   },
                   {
-                    "string": "{{[[TODO]]}} 快捷键冲突管理 || ctrl+alt+p — wyy ks",
-                    "create-time": 1614140706938,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
+                    "string": "tech",
+                    "create-time": 1614584341846,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    "uid": "YHO-DmDt7",
-                    "edit-time": 1614140714081,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "edit-time": 1614052519888,
                     "children": [
                       {
-                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2)",
-                        "props": {
-                          "image-size": {
-                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2": {
-                              "width": 443,
-                              "height": null
-                            }
+                        "string": "{{[[TODO]]}} 快捷键冲突管理 || ctrl+alt+p — wyy ks",
+                        "create-time": 1614140706938,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
                           }
-                        },
-                        "create-time": 1614052521024,
-                        ":block/props": {
-                          ":image-size": {
-                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2": {
-                              ":width": 443,
-                              ":height": null
-                            }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
                           }
-                        },
+                        ],
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
-                        "uid": "Y211hOh6x",
-                        "edit-time": 1614052524934,
+                        "uid": "YHO-DmDt7",
+                        "edit-time": 1614140714081,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "edit-time": 1614052519888,
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2": {
+                                  "width": 443,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1614052521024,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2": {
+                                  ":width": 443,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "Y211hOh6x",
+                            "edit-time": 1614052524934,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "uid": "9Czkf_Le9",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} Google Play yue22",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1614052504006,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "{{[[TODO]]}} UltraCompare",
+                        "create-time": 1613119991089,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "UNluk7oGU",
+                        "edit-time": 1613119994004,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "PDF [换行会有空格]，目前我发现两个[解决方案](https://zhuanlan.zhihu.com/p/350762459)：",
+                        "children": [
+                          {
+                            "string": "md 文件用 Emeditor 打开后[正则替换]——查找：`([一-龥])\\s([一-龥])` 替换：`\\1\\2`",
+                            "uid": "8j5vQg34z",
+                            "edit-time": 1613745370681,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "OzrfUJmne",
+                        "edit-time": 1613745367330,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[飞书妙记](https://zhuanlan.zhihu.com/p/353514407) [已经为我们][识别了视频中的文字], 并[自动分好了段落]. 这里我觉得[最棒的]就是[点击文字][可以跳到][视频发言对应位置].",
+                        "create-time": 1614584375456,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "本文主要以飞书妙记[为例], [讯飞语记]的使用[可以参考]文后的文档链接.",
+                            "create-time": 1614584420184,
+                            "uid": "aJuPiWNvW",
+                            "edit-time": 1614584429157,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "cJgPMa2RX",
+                        "edit-time": 1614584496498,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "{{[[TODO]]}} S1鹅球黑魔法 看被屏蔽的贴子",
+                        "create-time": 1613911841510,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "q1oTqlQ9M",
+                        "edit-time": 1613911843198,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "{{[[TODO]]}} chrome extension - crx “CEX_HEADER_INVALID”的[解决办法](https://www.chajian5.com/chrome-cex_header_invalid.html)",
+                        "create-time": 1614140504981,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "sHX1r_RKT",
+                        "edit-time": 1614140525598,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "uid": "9Czkf_Le9",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "string": "{{[[TODO]]}} Google Play yue22",
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "create-time": 1614052504006,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "{{[[TODO]]}} UltraCompare",
-                    "create-time": 1613119991089,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "uid": "UNluk7oGU",
-                    "edit-time": 1613119994004,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "PDF [换行会有空格]，目前我发现两个[解决方案](https://zhuanlan.zhihu.com/p/350762459)：",
-                    "children": [
-                      {
-                        "string": "md 文件用 Emeditor 打开后[正则替换]——查找：`([一-龥])\\s([一-龥])` 替换：`\\1\\2`",
-                        "uid": "8j5vQg34z",
-                        "edit-time": 1613745370681,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "uid": "OzrfUJmne",
-                    "edit-time": 1613745367330,
+                    "uid": "xI-ohefJX",
+                    "edit-time": 1614584344433,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -5349,50 +5509,6 @@
                     },
                     "uid": "TgKYH0V12",
                     "edit-time": 1614140247177,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "{{[[TODO]]}} S1鹅球黑魔法 看被屏蔽的贴子",
-                    "create-time": 1613911841510,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "uid": "q1oTqlQ9M",
-                    "edit-time": 1613911843198,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "{{[[TODO]]}} chrome extension - crx “CEX_HEADER_INVALID”的[解决办法](https://www.chajian5.com/chrome-cex_header_invalid.html)",
-                    "create-time": 1614140504981,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "uid": "sHX1r_RKT",
-                    "edit-time": 1614140525598,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -5888,6 +6004,18 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "children": [
+                      {
+                        "string": "[git-auto-push for logseq in windows](https://cn.logseq.com/t/topic/397) ",
+                        "create-time": 1614589366866,
+                        "uid": "o2LXODUv7",
+                        "edit-time": 1614589386528,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
                       {
                         "edit-time": 1614421992018,
                         "children": [
@@ -6548,10 +6676,10 @@
         },
         "children": [
           {
-            "string": "weibo; 你好李焕英",
+            "string": "weibo; 你好李焕英; logseq",
             "create-time": 1610206698646,
             "uid": "TvILpsCcT",
-            "edit-time": 1613991896573,
+            "edit-time": 1614597570551,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -62179,6 +62307,42 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "Python Basics",
+        "create-time": 1614585662478,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[Entering Expressions into the Interactive Shell]]\n210301-15pm",
+            "create-time": 1614585673074,
+            ":block/refs": [
+              {
+                ":block/uid": "9vccWImJx"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9vccWImJx"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "5n843YCLe",
+            "edit-time": 1614585678751,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "SIqkv0Gcn",
+        "edit-time": 1614585672904,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "03-01-2021",
@@ -62929,6 +63093,18 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "だれかが弾く ピアノの音 海鳴りみたいに きこえます",
+        "create-time": 1614597023716,
+        "uid": "cMiC2U5z8",
+        "edit-time": 1614597029471,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "BS0NWlxyN",
@@ -63141,7 +63317,7 @@
         }
       },
       {
-        "edit-time": 1614572777390,
+        "edit-time": 1614584616478,
         "children": [
           {
             "string": "Perhaps [the most interesting addition] is that of a REPL (Read-Evaluate-Print Loop) for [JavaScript development]. ((PHrobjUvW))",
@@ -63183,11 +63359,33 @@
             ":block/uid": "rEFXaQgTG"
           }
         ],
-        "string": "This chapter has a few examples that encourage you to type into the [[interactive shell]], also called the [[REPL (Read-Evaluate-Print Loop)]], which lets you run (or execute) Python instructions one at a time and [instantly shows you the results]. Using the interactive shell is [great for learning] what [basic Python instructions] do, so [give it a try] [as you follow along]. You’ll [remember the things you do] much better than [the things you only read].\n210301-12:25",
+        "string": "This chapter has a few examples that encourage you to type into the [[interactive shell]], also called the [[REPL (Read-Evaluate-Print Loop)]], which lets you run (or __execute__) Python instructions one at a time and [instantly shows you the results]. Using the interactive shell is [great for learning] what [basic Python instructions] do, so [give it a try] [as you follow along]. You’ll [remember the things you do] much better than [the things you only read].\n210301-12:25",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1614572064590,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "1.1 [[Entering Expressions into the Interactive Shell]]",
+        "create-time": 1614584648305,
+        ":block/refs": [
+          {
+            ":block/uid": "9vccWImJx"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "9vccWImJx"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "OE9s4eEX0",
+        "edit-time": 1614584684391,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -63264,6 +63462,642 @@
     "title": "REPL (Read-Evaluate-Print Loop)",
     "uid": "rEFXaQgTG",
     "edit-time": 1614572312832,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614584671916,
+    "title": "Entering Expressions into the Interactive Shell",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "You can run the interactive shell by [launching the Mu editor]([[Mu Editor]]), which you should have downloaded when going through the [[setup instruction]]s in the [Preface]([[preface]]). On Windows, open the [Start menu]([[start menu]]), type “Mu,” and open the Mu app. On macOS, open your [Applications folder] and double-click Mu. Click the New button and [save an empty file as] blank.py. When you [run this blank file] by [clicking the Run button] or [pressing F5] , it will open the interactive shell, which will [open as a new pane] that [opens at the bottom of] the Mu editor’s window. You should see a >>> prompt in the interactive shell.\n210301-15:47",
+        "create-time": 1614584700200,
+        ":block/refs": [
+          {
+            ":block/uid": "AuxJ9Ml-t"
+          },
+          {
+            ":block/uid": "PnMXEyE9V"
+          },
+          {
+            ":block/uid": "x3WyPukSl"
+          },
+          {
+            ":block/uid": "laNFxZvBj"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "AuxJ9Ml-t"
+          },
+          {
+            "uid": "PnMXEyE9V"
+          },
+          {
+            "uid": "x3WyPukSl"
+          },
+          {
+            "uid": "laNFxZvBj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "bz96c5DqE",
+        "edit-time": 1614584923516,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614585649959,
+        "children": [
+          {
+            "string": "In the [previous example], 2 + 2 is [evaluated down to a single value], 4. **[A single value with no operators] is also [considered an expression], though it [evaluates only to itself]**, as shown here:",
+            "create-time": 1614585727220,
+            "uid": "Fu2I2PbAx",
+            "edit-time": 1614585772643,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You can use plenty of other operators in Python expressions, too. For example, Table 1-1 lists all the math operators in Python.",
+            "create-time": 1614585961340,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "edit-time": 1614586007201,
+                "children": [
+                  {
+                    "string": "Operator | Operation | Example | Evaluates to . . .",
+                    "create-time": 1614586022027,
+                    "uid": "KtzQDhC6u",
+                    "edit-time": 1614586034362,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "** | Exponent\n% | [[modulus]]/[[remainder]]\n// | [[integer division]]/[[floored quotient]]",
+                    "create-time": 1614587338503,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "C7_JJ4zSZ"
+                      },
+                      {
+                        ":block/uid": "HYSumpquA"
+                      },
+                      {
+                        ":block/uid": "cdlH9ZUwn"
+                      },
+                      {
+                        ":block/uid": "kV8XRKI6I"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "C7_JJ4zSZ"
+                      },
+                      {
+                        "uid": "HYSumpquA"
+                      },
+                      {
+                        "uid": "cdlH9ZUwn"
+                      },
+                      {
+                        "uid": "kV8XRKI6I"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "aDoicU4fH",
+                    "edit-time": 1614588188066,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "Division | Multiplication | Subtraction | Addition",
+                    "create-time": 1614588188059,
+                    "uid": "RZJ5_sejx",
+                    "edit-time": 1614588202742,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_7tVj-ARk"
+                  },
+                  {
+                    "uid": "33jlUyHz-"
+                  }
+                ],
+                "uid": "njrHGRXq6",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_7tVj-ARk"
+                  },
+                  {
+                    ":block/uid": "33jlUyHz-"
+                  }
+                ],
+                "string": "Table 1-1: [[math operator]]s [from Highest to Lowest Precedence]([[precedence]])",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1614585979949,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[The order of operations]([[operation order]]) (also called precedence) of Python math operators is similar to that of mathematics. The `**` operator is [evaluated first]; the `* , / , // , and %` operators are evaluated next, [from left to right]; and the + and - operators are evaluated last (also from left to right). You can use [[parentheses]] to [override the usual precedence] [if you need to]. [[whitespace]] in between the operators and values [doesn’t matter for Python] (except for [the indentation at the beginning of the line]), but [a single space] is [[convention]]. Enter the following expressions into the interactive shell:\n210301-16:52",
+                "create-time": 1614588345947,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kmVB7-HZH"
+                  },
+                  {
+                    ":block/uid": "5rZuIrUcK"
+                  },
+                  {
+                    ":block/uid": "1xqBg7m_C"
+                  },
+                  {
+                    ":block/uid": "pc1bt354s"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "kmVB7-HZH"
+                  },
+                  {
+                    "uid": "5rZuIrUcK"
+                  },
+                  {
+                    "uid": "1xqBg7m_C"
+                  },
+                  {
+                    "uid": "pc1bt354s"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "tdmVIRrUk",
+                "edit-time": 1614588784880,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "In each case, [you as the programmer] must [enter the expression], but Python [does the hard part of] [evaluating it down to a single value]. Python will [keep evaluating parts of the expression until] it [becomes a single value], as shown here: p53",
+                "create-time": 1614597605003,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "edit-time": 1614597728862,
+                    "children": [
+                      {
+                        "string": "This is a [grammatically correct] [English sentence].",
+                        "create-time": 1614597745229,
+                        "uid": "t3nc-rWuc",
+                        "edit-time": 1614597781588,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "This grammatically is sentence not English correct a.",
+                        "create-time": 1614597745229,
+                        "uid": "SDXuoxJp1",
+                        "edit-time": 1614597745233,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "m_twCGYlC"
+                      }
+                    ],
+                    "uid": "jkosCB3gp",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "m_twCGYlC"
+                      }
+                    ],
+                    "string": "These rules for [putting operators and values together] to [form expressions] are a [fundamental part of] Python [as a programming language], just like the [[grammar rule]]s that [help us communicate]. Here’s an example:",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1614597695732,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "The second line is difficult to parse because it doesn’t [follow the rules of English]. Similarly, if you enter [a bad Python instruction], Python [won’t be able to understand it] and will display a `SyntaxError` error message, as shown here:\n210301-19:25",
+                    "create-time": 1614597760317,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "File \"<stdin>\", line 1\n[SyntaxError]([[syntax error]]): [[invalid syntax]]",
+                        "create-time": 1614597897241,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "SrAHzcgaE"
+                          },
+                          {
+                            ":block/uid": "u4MT3Ef35"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "SrAHzcgaE"
+                          },
+                          {
+                            "uid": "u4MT3Ef35"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "ynekGI1Pf",
+                        "edit-time": 1614597916200,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "pzDISZ2qn",
+                    "edit-time": 1614598023571,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "GR5z18Bwi",
+                "edit-time": 1614597655488,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "K3kSHkfXa",
+            "edit-time": 1614585964492,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "TTe_YXO0o"
+          },
+          {
+            "uid": "fg6g98o5Z"
+          },
+          {
+            "uid": "_V3LTwdWM"
+          },
+          {
+            "uid": "TkqPdNyf7"
+          }
+        ],
+        "uid": "xPlwZdmO4",
+        ":block/refs": [
+          {
+            ":block/uid": "TTe_YXO0o"
+          },
+          {
+            ":block/uid": "fg6g98o5Z"
+          },
+          {
+            ":block/uid": "_V3LTwdWM"
+          },
+          {
+            ":block/uid": "TkqPdNyf7"
+          }
+        ],
+        "string": "In Python, `2 + 2` is called an [[expression]], which is [the most basic kind of] [programming instruction] in the language. Expressions consist of [[value]]s (such as 2 ) and [[operator]]s (such as + ), and they can always [[evaluate]] (that is, reduce) down to [a single value]. That means [you can use expressions anywhere] in [Python code] that [you could also use a value].\n210301-16:00",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614585512378,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "ERRORS ARE OKAY!",
+        "create-time": 1614585786213,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[Programs will crash]([[crash]]) if they contain code [the computer can’t understand], which will cause Python to [show an error message]. An error message won’t [break your computer], though, so [don’t be afraid to] [make mistakes]. A crash just means [the program stopped running unexpectedly].",
+            "create-time": 1614585804100,
+            ":block/refs": [
+              {
+                ":block/uid": "Tkyv6XKED"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Tkyv6XKED"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "gQ9z-wKqL",
+            "edit-time": 1614585864233,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "If you [want to know more about] an error, you can [search for the exact error message text] online [for more information]. You can also [check out the resources] at [nostarch](https://nostarch.com/automatestuff2/) to see a list of [common Python error messages] and their meanings.\n210301-16:05",
+            "create-time": 1614585804100,
+            "uid": "eIQftqcAZ",
+            "edit-time": 1614585944826,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "DL-R0WTzA",
+        "edit-time": 1614585786836,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "9vccWImJx",
+    "edit-time": 1614584671917,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614584734084,
+    "title": "preface",
+    "uid": "x3WyPukSl",
+    "edit-time": 1614584734084,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614584825715,
+    "title": "start menu",
+    "uid": "laNFxZvBj",
+    "edit-time": 1614584825716,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614585531304,
+    "title": "expression",
+    "uid": "TTe_YXO0o",
+    "edit-time": 1614585531305,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614585551073,
+    "title": "value",
+    "uid": "fg6g98o5Z",
+    "edit-time": 1614585551073,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614585551073,
+    "title": "operator",
+    "uid": "_V3LTwdWM",
+    "edit-time": 1614585551073,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614585577976,
+    "title": "evaluate",
+    "uid": "TkqPdNyf7",
+    "edit-time": 1614585577977,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614585843839,
+    "title": "crash",
+    "uid": "Tkyv6XKED",
+    "edit-time": 1614585843848,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614586007208,
+    "title": "precedence",
+    "uid": "_7tVj-ARk",
+    "edit-time": 1614586007210,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614586007208,
+    "title": "math operator",
+    "uid": "33jlUyHz-",
+    "edit-time": 1614586007210,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614587357801,
+    "title": "modulus",
+    "uid": "C7_JJ4zSZ",
+    "edit-time": 1614587357802,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614587373110,
+    "title": "remainder",
+    "uid": "HYSumpquA",
+    "edit-time": 1614587373111,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614587516739,
+    "title": "integer division",
+    "uid": "cdlH9ZUwn",
+    "edit-time": 1614587516740,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614587516739,
+    "title": "floored quotient",
+    "uid": "kV8XRKI6I",
+    "edit-time": 1614587516740,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614588366614,
+    "title": "operation order",
+    "uid": "5rZuIrUcK",
+    "edit-time": 1614588366615,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614588425572,
+    "title": "parentheses",
+    "uid": "1xqBg7m_C",
+    "edit-time": 1614588425573,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614588586020,
+    "title": "whitespace",
+    "uid": "pc1bt354s",
+    "edit-time": 1614588586021,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614597728864,
+    "title": "grammar rule",
+    "uid": "m_twCGYlC",
+    "edit-time": 1614597728865,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614597909549,
+    "title": "invalid syntax",
+    "uid": "SrAHzcgaE",
+    "edit-time": 1614597909556,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614597916204,
+    "title": "syntax error",
+    "uid": "u4MT3Ef35",
+    "edit-time": 1614597916205,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

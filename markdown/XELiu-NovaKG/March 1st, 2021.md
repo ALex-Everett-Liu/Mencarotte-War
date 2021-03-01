@@ -4,3 +4,6 @@
     - [[Installing the Jupyter Software]]
 210301-02am
     - [[JupyterLab Documentation]]
+- Python Basics
+    - [[Entering Expressions into the Interactive Shell]]
+210301-15pm

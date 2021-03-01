@@ -149,6 +149,13 @@ Completed after 4 days.
                     - [在线数据分析](https://chartcube.alipay.com/upload)
                 - {{[[TODO]]}} Acronis 的[不间断备份模式](https://zhuanlan.zhihu.com/p/352667515)可能存在问题，建议谨慎使用，因为笔者的备份曾经出现过[坏档]的情况，导致[丢失了]2天的[数据]，非常痛心。
 [笔者][目前使用的是]一小时一备份的[增量备份方案]，比较稳定。
+                - 你好，[想请问一下](https://www.yuque.com/deerain/gannbs/fgsq8v)[大纲笔记]的[横向排版][开发起来难度大吗]？如果自学[前端]的话学完[react框架]后可以开发吗？我最近试了一下mit的remnote，感觉不错，引用和双链这两个功能相当自然。
+                    - 还想问一下大纲笔记内部在技术上可以实现[直接嵌入]notion的database那种吗？database×大纲貌似可以[弥补]大纲笔记[层次划分过深]导致的[重点清晰问题]...
+                    - 大纲笔记[在移动端的使用体验]对 notion 和 我来 这种以block为主的笔记[真的是碾压]... 这个问题好像无解...
+                    - 我的体会是大纲笔记[最大的问题]就是层次可以[无限细分]导致的[重点不清晰]，我做完数据库的笔记后大概到了十多层了.....这样虽然符合[金字塔的MECE逻辑]但是却不符合阅读和复习的逻辑，而且大纲笔记中每个node都能[展开收缩]，其实应该不走那么[极端的路线]的...如果部分结点可以取消展开收缩功能就好了.
+                    - 层次太深的问题可以靠 star 和 moc（map of contents）来[轻易解决]，star 其实也是一种 moc
+                - {{[[TODO]]}} [logseq好看的主题](https://cn.logseq.com/t/topic/396)
+https://cn.logseq.com/uploads/default/original/1X/6fb23336796775f83b9a2b03f3aa89ee46fee970.jpeg
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
             - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～ [唠嗑群](https://space.bilibili.com/2378703) 574182082 -- 不许跑，我看到你了！O皿O
@@ -374,12 +381,17 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
             - 反而是[强行区分](https://www.zhihu.com/question/28623194/answer/1519333873)哪个是行，哪个是列，并且把[矩阵相乘]描述成一种把[排列好的数][按照奇怪规则]相乘相加，在[多数情况下]是[费解]的。
                 - 我相信，对于[一般的][数据分析]，张量要比矩阵用处大得多，也[直观得多]。
                 - 矩阵的[特殊意义]在于[表示论]，比如[题主]说的[几何意义]，就是诸如[旋转群的矩阵表示]。[这类问题的关键]并不在于矩阵乘法的意义和操作，而在于[旋转群]本身的乘法以及为什么可以[用矩阵表示]。
-            - {{[[TODO]]}} 快捷键冲突管理 || ctrl+alt+p — wyy ks
-            - {{[[TODO]]}} Google Play yue22
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2)
-            - {{[[TODO]]}} UltraCompare
-            - PDF [换行会有空格]，目前我发现两个[解决方案](https://zhuanlan.zhihu.com/p/350762459)：
-                - md 文件用 Emeditor 打开后[正则替换]——查找：`([一-龥])\s([一-龥])` 替换：`\1\2`
+            - tech
+                - {{[[TODO]]}} 快捷键冲突管理 || ctrl+alt+p — wyy ks
+                - {{[[TODO]]}} Google Play yue22
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMmevGJbfzM.png?alt=media&token=9224a6d2-2654-4611-9edf-5adf9358bff2)
+                - {{[[TODO]]}} UltraCompare
+                - PDF [换行会有空格]，目前我发现两个[解决方案](https://zhuanlan.zhihu.com/p/350762459)：
+                    - md 文件用 Emeditor 打开后[正则替换]——查找：`([一-龥])\s([一-龥])` 替换：`\1\2`
+                - [飞书妙记](https://zhuanlan.zhihu.com/p/353514407) [已经为我们][识别了视频中的文字], 并[自动分好了段落]. 这里我觉得[最棒的]就是[点击文字][可以跳到][视频发言对应位置].
+                    - 本文主要以飞书妙记[为例], [讯飞语记]的使用[可以参考]文后的文档链接.
+                - {{[[TODO]]}} S1鹅球黑魔法 看被屏蔽的贴子
+                - {{[[TODO]]}} chrome extension - crx “CEX_HEADER_INVALID”的[解决办法](https://www.chajian5.com/chrome-cex_header_invalid.html)
             - history
                 - 然而只是[永乐][一代]，到[明宣宗]就[全盘放弃](https://bbs.northdy.com/thread-921364-2-1.html)了，我可以理解放弃印度洋，但是放弃[马六甲]和[交趾]等于[东南亚]全盘放弃，这个和[满清][持之以恒][有清一朝][一直牢固控制]西域和西藏比[相差甚多]。
                     - 东北这块，[辽河流域]算从战国开始的华夏自古以来。
@@ -397,8 +409,6 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
             - 目前发现的[犁鼻器退化](https://www.zhihu.com/question/445130804/answer/1737308352)的动物主要是龟鳖、鳄类，鸟类，还有哺乳动物中的[灵长类群体]里，龟鳖和鳄类的退化可能和它们的[水生环境]有关（想闻到[水溶性]的[气味分子]或[信息素]，需要[另一套][嗅觉系统]，鱼类就有闻出水中味道的本事），而鸟类和灵长类则恰好是[视觉系统]中对红色比较敏感的那一批，或许正是这种[独有的色彩]给我们提供了另一种[感知世界的能力]：异性是否[准备好交配]？看看[母猴子][肿大的红屁股]就知道了；女孩是否接受了我？她[羞红的脸]还不能说明问题吗？
                 - 有几项研究疑似发现了几类人的[性信息素]，分别来自[腋窝][分泌]的[固醇类物质]，女性[生殖器官]内分泌的几种酸，还有[疑似][作用于]犁鼻器的[乳腺分泌物]，但是都没有实际证据证明它们真的有效，也没有真的[分离出]其中的任何一种。目前还是一个[高度存疑的状态]
             - {{[[TODO]]}} 清洗茶垢方法 -- 202009? zhihu page
-            - {{[[TODO]]}} S1鹅球黑魔法 看被屏蔽的贴子
-            - {{[[TODO]]}} chrome extension - crx “CEX_HEADER_INVALID”的[解决办法](https://www.chajian5.com/chrome-cex_header_invalid.html)
         - detail point 99.97 (pt9-99.97)
             - {{[[TODO]]}} [SuperMemo + Obsidian](https://zhuanlan.zhihu.com/p/352413185)
             - 法师驾到 DND
@@ -438,6 +448,7 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
 —— 塞缪尔•亨廷顿《文明的冲突》
                 - 全球反导体系的建立又大大重塑了美国的地理优势
             - tech
+                - [git-auto-push for logseq in windows](https://cn.logseq.com/t/topic/397) 
                 - {{[[TODO]]}} [200+优秀Github项目精选](https://zhuanlan.zhihu.com/p/353032180)
                     - jackfrued / Python-100-Days
                 - 首先我个人认为 Windows 上[还是需要一个]类似于 apt-get、pacman 或是 brew 之类的[包管理器](https://www.zhihu.com/question/46196731/answer/123113271)的。有个[统一的软件分发处]意味着在[寻找软件]，[安装软件][整套流程上][节省很多时间和精力]，对平台本身[也是有益的]（想象一下[直接在百度上搜索]还会赠送[百度全家桶]哦亲）。微软现在选择了[应用商店]这条道路，用 UWP 来[解决问题]，我认为是很好的。但因为[历史原因]，已有的那些 [exe 程序]，或是很多[无需安装的绿色软件]或开发工具（比如 Maven），这些尚未或者根本不适合转成 UWP 的程序该怎么办？
