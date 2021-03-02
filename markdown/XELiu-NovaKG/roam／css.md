@@ -8323,7 +8323,7 @@ a.rm-alias.rm-alias-external {
 /* body background */
 body {
   	transition: background-image 1s ease-in-out;
-    background-image: url("https://w.wallhaven.cc/full/k7/wallhaven-k7787d.jpg");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;

@@ -406,10 +406,10 @@
         },
         "children": [
           {
-            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n/*  import 必须放在第一行才能生效 */\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 7px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://w.wallhaven.cc/full/k7/wallhaven-k7787d.jpg\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/*  .theme-inner {\n    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;\n    background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; \n    background-size: cover;\n} */\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Rainbow indentation */\n/*\nFeel free to adjust the colors - this one loops every\n7 colors like the rainbow but you can change that to\ncycle earlier or choose more unique colors.\nTo add deeper indents:\n1. Add { > div.flex-v-box > div } incrementally to the first line, and\n2. Add {> div.flex-v-box > div:nth-child(n) } incrementally to the second line\n*/\n/* Rainbow indentation */\n/*\nFeel free to adjust the color variables!\nThis one loops every 6 colors, and goes 18 levels deep (3 cycles).\nThe 3 selectors for each level correspond to:\n1. Daily notes scrolling view\n2. Single page view\n3. Right sidebar outline view\n*/\n\n:root {\n    --box-shadow-values: none; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n}\n\n/* .block-border-left { */\n/*    border-left-width: 3px !important; /* Default 1px */\n/*    margin-left: 4px; /* Default 6px */\n/*    border-radius: 0; /* Set to 0 to get smooth, straight indents */\n/*    padding: 0 !important; /* Set to 0 to align all indents */\n/* } */```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n/*  import 必须放在第一行才能生效 */\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 7px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/*  .theme-inner {\n    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;\n    background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; \n    background-size: cover;\n} */\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Rainbow indentation */\n/*\nFeel free to adjust the colors - this one loops every\n7 colors like the rainbow but you can change that to\ncycle earlier or choose more unique colors.\nTo add deeper indents:\n1. Add { > div.flex-v-box > div } incrementally to the first line, and\n2. Add {> div.flex-v-box > div:nth-child(n) } incrementally to the second line\n*/\n/* Rainbow indentation */\n/*\nFeel free to adjust the color variables!\nThis one loops every 6 colors, and goes 18 levels deep (3 cycles).\nThe 3 selectors for each level correspond to:\n1. Daily notes scrolling view\n2. Single page view\n3. Right sidebar outline view\n*/\n\n:root {\n    --box-shadow-values: none; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n}\n\n/* .block-border-left { */\n/*    border-left-width: 3px !important; /* Default 1px */\n/*    margin-left: 4px; /* Default 6px */\n/*    border-radius: 0; /* Set to 0 to get smooth, straight indents */\n/*    padding: 0 !important; /* Set to 0 to align all indents */\n/* } */```",
             "create-time": 1614620922794,
             "uid": "J0YVQSDDZ",
-            "edit-time": 1614641579420,
+            "edit-time": 1614658494483,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -6433,6 +6433,28 @@
                     ],
                     "uid": "6ZZt5Kaz9",
                     "edit-time": 1614240607329,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "{{[[TODO]]}} 钟表世界 壁纸 妙笔 主题背景图",
+                    "create-time": 1614659048700,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8KYEF6ETA"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "8KYEF6ETA"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "DWyXRJ6i3",
+                    "edit-time": 1614659050628,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -42279,6 +42301,76 @@
         ],
         "uid": "ziUW6o2IH",
         "edit-time": 1613387038540,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "others",
+        "create-time": 1614657715755,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "pt9-99.99",
+            "create-time": 1614657710511,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[Clockwork Nirvana of Mechanus | Renderrs' DnD Resource | Fandom](https://triplecrit.fandom.com/wiki/Mechanus)",
+                "children": [
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc)",
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc": {
+                          "width": 527,
+                          "height": null
+                        }
+                      }
+                    },
+                    "uid": "kReOGJ6W1",
+                    "edit-time": 1614657764587,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc": {
+                          ":width": 527,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "VYWyaPzYR",
+                "edit-time": 1614657737516,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[D&D cosmology and Infinity, or: Why Pun-Pun is stronger than you thought : CharacterRant](https://www.reddit.com/r/CharacterRant/comments/6dwkbv/dd_cosmology_and_infinity_or_why_punpun_is/)",
+                "uid": "zr5GZ9F0q",
+                "edit-time": 1614658316001,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "3mUGRIOdr",
+            "edit-time": 1614657713710,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "mZ7K4aDUx",
+        "edit-time": 1614657717948,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
