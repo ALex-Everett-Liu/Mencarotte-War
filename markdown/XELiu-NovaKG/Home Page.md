@@ -51,10 +51,35 @@
         - [[computer science (CS)]]
             - programming...
                 - code; coding
+                    - [[instruction]]...
+                        - [[programming instruction]]
+                        - [[basic instruction]]
+                    - [[source code]]
                     - [[code block]]
+                        - [[building block]]
+                    - [[coding style]]
+                    - [[throwaway code]]
+                - syntax...
+                    - [[syntax rule]]
+                    - [[syntax error]]; [[invalid syntax]]
+                    - [[syntactical construction]]
                 - [[script]]...
+                    - "automate, zidonghua444..."
+                        - [[automating clicking]]
+                        - [[auto-complete]]
+                            - "[[prompt]]; [[prompted]]"
+                        - AHK...
+                            - autocomplete.ahk
                     - [[auto-generate]]
                     - [[automatically truncated]]
+                - [[command line]]; [[shell]]; Shell?
+                    - Win + R
+                    - [[Windows PowerShell]]
+                    - [[prompt]]; [[prompted]]
+                    - [[Command Prompt]]
+                        - cmd
+                            - system32/cmd.exe
+                    - [[Terminal]]
                 - [[Python]]
                 - [[JavaScript]]
                 - [[Node]]
@@ -72,6 +97,13 @@
             - [[computer network]]...
                 - [[server]]
                     - [[host]]
+            - Software
+                - [[workflow]]...
+                    - automate, zidonghua444...
+                        - [[template]]
+                            - [[interactive template]]
+                        - effective
+                            - [[improve efficiency]]
     - $$\text{\color{PaleVioletRed}Software}$$
     - $$\text{\color{SlateBlue}Hardware}$$
         computer...
@@ -111,6 +143,41 @@
     - [[word map]] (WordNet like)...
 - $$\text{\color{PeachPuff}Social Science...?}$$
 - $$\text{\color{Goldenrod}Culture related...}$$
+    - Media...
+        - social media
+            - publish...
+                - [[publisher]]
+                - [[publishing platform]]
+                - [[longform content]]
+                - [[consumer distribution mode]]
+            - [[blog]]; [[blog post]]
+                - [[blogging]]: 写网志; 写博客
+                - [[WordPress]]
+            - [[vlog]]...
+            - [[Twitter]]; [[twitter]]
+                - weibo (micro-blog)
+                - [[Twitter Thread]]; [[Threaded Twitter]]
+                - [[link economy]]
+            - broadcast living; live stream; 生配信 (namahaishin); namahousou; 直播 (zhibo)...
+        - movie industry...
+            - [[cinema]]
+                - [[movie theater]]
+                - [[Rear Window Captioning System (RWC)]]
+    - [[social activity]]
+        - "social media"
+        - chat
+            - [[walk-and-talk chat]]
+        - humor...
+            - [[play-on-words joke]]
+        - [[social awareness]]
+        - relationship...
+            - [[college roommate]]
+    - design...
+        - [[history-inspired renewal]]
+    - general...
+        - [[liberal arts majors]]
+        - [[theater]]
+            - "[[movie theater]]"
 - $$\text{\color{RosyBrown}Everyday Life related...}$$
     daily life
     daily note

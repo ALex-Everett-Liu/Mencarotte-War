@@ -52,12 +52,22 @@ cast into a drawer: 扔进抽屉里
 - 7. [[Optimising for serendipity]] 为获得意外发现进行优化/通向柳暗花明之路的优化方向
 - 8. [Collaborative problem-solving]([[collaborative problem-solving]]) 协作解决问题
 - ## 9. [Conclusion]([[conclusion]])
-    - The project of [[human knowledge]], as it stands today, is [a vast ocean of] ephemeral and [[fragmented information]] and ideas, much of it inaccurate, some of it [[malicious]], with the [best sources] either [restricted by gatekeepers], 门槛 or near-impossible to [[locate]]. [The volume of information]([[information volume]]) is [growing exponentially], which [promises enormous opportunities] if the underlying [[coordination problem]]s 潜在的协调问题 [can be resolved].
+    - The project of [[human knowledge]], as it stands today, is [a vast ocean of] ephemeral and [[fragmented information]] and ideas, much of it inaccurate, some of it [[malicious]], with the [best sources] either [restricted by gatekeepers], 门槛 or [near-impossible to locate]. [The volume of information]([[information volume]]) is [growing exponentially], which [promises enormous opportunities] if the underlying [[coordination problem]]s 潜在的协调问题 [can be resolved].
 201127-23:05
         ephemeral: 短暂的; 瞬息的
-coordination: 协调
     - Clearly a fundamentally [different approach] is required. The Roam [[vision]] for [human knowledge] is a collective, [[open-source intelligence]], constantly [rearranging]([[rearrange]]), [[iterating]] and [[evolving]] in [[the pursuit of truth]].  Each of us would become a [[node]] within this [[collective intelligence]], [forging links] and [creating networks]([[network]]), [sharing the very best]([[sharing]]) [each has to offer], [improving ourselves]([[improve]]) even as we improve others, and advancing [[the interests of humanity]] [as a whole]. 促进全人类的利益
-201127-23:46
+201127-23:46; 210302-18:37
+- ## About Roam
+    - Roam was founded by [Conor White-Sullivan] and [Joshua Brown]. Conor [has been working on] tools for [collective intelligence] for more than nine years, founding the [online town] [common Localocracy] (acquired by AOL in 2011) then leading [[R&D]] for [[Huffington Post]] following the [[acquisition]]. 
+201127-23:57
+    - Conor and Josh met at [42.us.org], a [[tuition-free]] [[coding university]], where Josh [placed in the top five] of the first 1000 cadets to enter the [US program] during the [month-long application exam]. 
+    - This white paper was [[co-author]]ed by [[business journalist]] [Richard Meadows], whose [[trial]] of [[early prototype]]s led him to become the [first investor]([[investor]]) in Roam. 
+201128-00:53; 210302-20:40
+    - [Contact]([[contact]]) Conor at [cwhitesullivan@gmail.com] [with any enquiries]([[enquiry]]). 
+    - The Roam [[stack]]: 技术堆栈
+        - [[React]]
+        - [[Clojure]] and [[Clojurescript]]
+        - Datalog
 - ### Notes and references
     - [1]: At least 2.5 [quintillion bytes] of information are [produced every day], which is about the [same amount] as was produced [during the entire year] of 2002. 
     - [2] [[Scientific American]]: New [Estimate] Boosts the Human Brain's [[memory capacity]] [10-Fold].

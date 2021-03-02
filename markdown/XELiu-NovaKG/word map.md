@@ -38,6 +38,9 @@
             - an
                 - anonym
                     - [[anonymous]]
+            - arrange
+                - [[arrangement]], 2; arranging
+                - [[rearrange]];
         - e
             - ea
                 - early
@@ -54,6 +57,19 @@
                     - [[efficiency]];
                     - effective; effectively, 2;
                     - side-effect;
+        - i
+            - ic
+                - [[icon]]
+                    - iconize;
+            - id
+                - idea
+                    - [[idealized]];
+                - identic
+                    - [[identical]], 2;
+                        - [[identical words]];
+                    - identify
+                        - [[identification]]; identified, 2
+                    - identity
         - o
             - ob
                 - ob-
@@ -74,6 +90,23 @@
                     - onymous
                         - bearing a name: [articles in magazines] are usually onymous
                     - [[acronym]]; "[[anonymous]]"; [[antonym]]; [[hyponym]]; [[synonym]];
+        - r
+            - ra
+                - raid
+                    - raided; raider
+                - rain
+                    - drain
+                        - drainer;
+                - raise
+                    - praise
+                - range
+                    - "arrange"
+                    - broad range;
+                - raster
+                    - the [rectangular formation] of [parallel scanning lines] that guide the [[electron beam]] on a [television screen] or a [[computer monitor]]; guangshange112;
+                    - convert (an image) into pixels; xiangsuhua444
+                    - [[rasterized]]
+                - ray
         - w
             - wa
                 - wave
