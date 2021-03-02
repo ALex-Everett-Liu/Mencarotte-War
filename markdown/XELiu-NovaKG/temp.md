@@ -4,9 +4,9 @@
 - ...
     - 
 - todo today (real-time view)
-    - weibo; 你好李焕英; logseq
+    - weibo; 
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
-    - 御姐; jdjr
+    - 御姐; 
 - roam test
     - aa
         - **bb**

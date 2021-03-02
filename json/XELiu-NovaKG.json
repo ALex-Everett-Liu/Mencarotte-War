@@ -7260,10 +7260,10 @@
         },
         "children": [
           {
-            "string": "weibo; 你好李焕英; logseq",
+            "string": "weibo; ",
             "create-time": 1610206698646,
             "uid": "TvILpsCcT",
-            "edit-time": 1614597570551,
+            "edit-time": 1614692656671,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -7284,10 +7284,10 @@
             }
           },
           {
-            "string": "御姐; jdjr",
+            "string": "御姐; ",
             "create-time": 1612697509824,
             "uid": "Jl78eJ9Wm",
-            "edit-time": 1614671173964,
+            "edit-time": 1614692627892,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -67288,17 +67288,55 @@
     },
     "children": [
       {
-        "string": "The meaning of [an operator may change] [based on the data types] of [the values next to it]. For example, + is the [[addition operator]] when it [operates on two integers] or floating-point values. However, when + is [used on two string values], it [joins the strings]([[join the strings]]) as the [[string concatenation operator]]. 串连, 连接 Enter the following into the interactive shell:\n210302-05:52",
-        "create-time": 1614635294427,
-        ":block/refs": [
+        "edit-time": 1614635664233,
+        "children": [
           {
-            ":block/uid": "aiJ-094ye"
-          },
-          {
-            ":block/uid": "pU6cskwKe"
-          },
-          {
-            ":block/uid": "zUnbcipr7"
+            "string": "The expression evaluates down to a single, new string value that [combines the text] of the two strings. However, if you try to use the + operator on a string and an [integer value], Python will not know [how to handle this], and it will [display an error message].",
+            "create-time": 1614689854201,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "```python\n>>> 'Alice' + 42\nTraceback (most recent call last):\n  File \"<pyshell#0>\", line 1, in <module>\n    'Alice' + 42\nTypeError: can only concatenate str (not \"int\") to str```",
+                "create-time": 1614691733033,
+                "uid": "Tz0mkgKlk",
+                "edit-time": 1614691738670,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "The error message `can only concatenate str (not \"int\") to str` means that Python thought you were trying to [concatenate an integer to the string] 'Alice' . Your code will have to [explicitly convert the integer to a string] because Python [cannot do this automatically]. ([[converting data types]] will be explained in “Dissecting Your Program” on page 13 when we talk about the str() , int() , and float() functions.)\n210302-21:34",
+                "create-time": 1614691797853,
+                ":block/refs": [
+                  {
+                    ":block/uid": "FjapgksJH"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "FjapgksJH"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "TFAniatyW",
+                "edit-time": 1614692043387,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ti5tqGjq1",
+            "edit-time": 1614691642796,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -67312,11 +67350,35 @@
             "uid": "zUnbcipr7"
           }
         ],
+        "uid": "l9-rW1PHn",
+        ":block/refs": [
+          {
+            ":block/uid": "aiJ-094ye"
+          },
+          {
+            ":block/uid": "pU6cskwKe"
+          },
+          {
+            ":block/uid": "zUnbcipr7"
+          }
+        ],
+        "string": "The meaning of [an operator may change] [based on the data types] of [the values next to it]. For example, + is the [[addition operator]] when it [operates on two integers] or floating-point values. However, when + is [used on two string values], it [joins the strings]([[join the strings]]) as the [[string concatenation operator]]. 串连, 连接 Enter the following into the interactive shell:\n210302-05:52",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "l9-rW1PHn",
-        "edit-time": 1614635664233,
+        "create-time": 1614635294427,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "The * operator multiplies two integer or floating-point values. But when the * operator is used on one string value and one integer value, it becomes the string replication operator. Enter a string multiplied by a number into the interactive shell to see this in action.",
+        "create-time": 1614692022962,
+        "uid": "Nn_hWyubW",
+        "edit-time": 1614692023747,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -67873,6 +67935,18 @@
     "title": "acquisition",
     "uid": "uLQG8a6Zb",
     "edit-time": 1614686289034,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614691876912,
+    "title": "converting data types",
+    "uid": "FjapgksJH",
+    "edit-time": 1614691876914,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
