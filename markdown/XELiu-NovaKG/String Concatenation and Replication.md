@@ -1,0 +1,2 @@
+- The meaning of [an operator may change] [based on the data types] of [the values next to it]. For example, + is the [[addition operator]] when it [operates on two integers] or floating-point values. However, when + is [used on two string values], it [joins the strings]([[join the strings]]) as the [[string concatenation operator]]. 串连, 连接 Enter the following into the interactive shell:
+210302-05:52

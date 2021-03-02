@@ -8312,23 +8312,31 @@ a.rm-alias.rm-alias-external {
 - my test theme 01
     - ```css
 @import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); 
-/*  @import "../fonts/Inter/inter.css";
-/*  import 必须放在第一行才能生效
+/*  @import "../fonts/Inter/inter.css"; */
+/*  import 必须放在第一行才能生效 */
 
-/*  .theme-inner {
-    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;
-/*     background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; */
-/*     background-size: cover;
-}
-
-/*scrollbar*/
+/* scrollbar */
 ::-webkit-scrollbar {
     width: 7px;
 }
 
-/* WIDTH FIXES */
+/* body background */
+body {
+  	transition: background-image 1s ease-in-out;
+    background-image: url("https://w.wallhaven.cc/full/k7/wallhaven-k7787d.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-/* .rm-block-text,
+/*  .theme-inner {
+    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;
+    background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; 
+    background-size: cover;
+} */
+
+/* WIDTH FIXES */
+.rm-block-text,
 .roam-article,
 .roam-block-container {
   max-width: 100% !important;
@@ -8375,9 +8383,9 @@ The 3 selectors for each level correspond to:
     --indent18: #b58900ad;
 }
 
-/* .block-border-left {
+/* .block-border-left { */
 /*    border-left-width: 3px !important; /* Default 1px */
 /*    margin-left: 4px; /* Default 6px */
 /*    border-radius: 0; /* Set to 0 to get smooth, straight indents */
 /*    padding: 0 !important; /* Set to 0 to align all indents */
-/* }```
+/* } */```

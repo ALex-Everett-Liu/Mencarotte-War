@@ -123,7 +123,7 @@
             "string": "```css\n@import url('https://jmharris903.github.io/Railscast-for-Roam-Research-Theme/RailsRoam.css');```",
             "create-time": 1610009725706,
             "uid": "9JiiLJKGL",
-            "edit-time": 1614624277147,
+            "edit-time": 1614639214237,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -406,10 +406,10 @@
         },
         "children": [
           {
-            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\";\n/*  import 必须放在第一行才能生效\n\n/*  .theme-inner {\n    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;\n/*     background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; */\n/*     background-size: cover;\n}\n\n/*scrollbar*/\n::-webkit-scrollbar {\n    width: 7px;\n}\n\n/* WIDTH FIXES */\n\n/* .rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Rainbow indentation */\n/*\nFeel free to adjust the colors - this one loops every\n7 colors like the rainbow but you can change that to\ncycle earlier or choose more unique colors.\nTo add deeper indents:\n1. Add { > div.flex-v-box > div } incrementally to the first line, and\n2. Add {> div.flex-v-box > div:nth-child(n) } incrementally to the second line\n*/\n/* Rainbow indentation */\n/*\nFeel free to adjust the color variables!\nThis one loops every 6 colors, and goes 18 levels deep (3 cycles).\nThe 3 selectors for each level correspond to:\n1. Daily notes scrolling view\n2. Single page view\n3. Right sidebar outline view\n*/\n\n:root {\n    --box-shadow-values: none; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n}\n\n/* .block-border-left {\n/*    border-left-width: 3px !important; /* Default 1px */\n/*    margin-left: 4px; /* Default 6px */\n/*    border-radius: 0; /* Set to 0 to get smooth, straight indents */\n/*    padding: 0 !important; /* Set to 0 to align all indents */\n/* }```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n/*  import 必须放在第一行才能生效 */\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 7px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://w.wallhaven.cc/full/k7/wallhaven-k7787d.jpg\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/*  .theme-inner {\n    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;\n    background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; \n    background-size: cover;\n} */\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Rainbow indentation */\n/*\nFeel free to adjust the colors - this one loops every\n7 colors like the rainbow but you can change that to\ncycle earlier or choose more unique colors.\nTo add deeper indents:\n1. Add { > div.flex-v-box > div } incrementally to the first line, and\n2. Add {> div.flex-v-box > div:nth-child(n) } incrementally to the second line\n*/\n/* Rainbow indentation */\n/*\nFeel free to adjust the color variables!\nThis one loops every 6 colors, and goes 18 levels deep (3 cycles).\nThe 3 selectors for each level correspond to:\n1. Daily notes scrolling view\n2. Single page view\n3. Right sidebar outline view\n*/\n\n:root {\n    --box-shadow-values: none; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n}\n\n/* .block-border-left { */\n/*    border-left-width: 3px !important; /* Default 1px */\n/*    margin-left: 4px; /* Default 6px */\n/*    border-radius: 0; /* Set to 0 to get smooth, straight indents */\n/*    padding: 0 !important; /* Set to 0 to align all indents */\n/* } */```",
             "create-time": 1614620922794,
             "uid": "J0YVQSDDZ",
-            "edit-time": 1614624444360,
+            "edit-time": 1614641579420,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -27771,6 +27771,182 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "edit-time": 1614636391671,
+        "children": [
+          {
+            "string": "The project of [[human knowledge]], as it stands today, is [a vast ocean of] ephemeral and [[fragmented information]] and ideas, much of it inaccurate, some of it [[malicious]], with the [best sources] either [restricted by gatekeepers], 门槛 or near-impossible to [[locate]]. [The volume of information]([[information volume]]) is [growing exponentially], which [promises enormous opportunities] if the underlying [[coordination problem]]s 潜在的协调问题 [can be resolved].\n201127-23:05",
+            "create-time": 1564786451152,
+            ":block/refs": [
+              {
+                ":block/uid": "aKd_bYkSW"
+              },
+              {
+                ":block/uid": "tbtsCsoOj"
+              },
+              {
+                ":block/uid": "W1A0UFqEZ"
+              },
+              {
+                ":block/uid": "A6zf8RzBI"
+              },
+              {
+                ":block/uid": "YpCO0Zhsg"
+              },
+              {
+                ":block/uid": "_xAKoiR9-"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "aKd_bYkSW"
+              },
+              {
+                "uid": "tbtsCsoOj"
+              },
+              {
+                "uid": "W1A0UFqEZ"
+              },
+              {
+                "uid": "A6zf8RzBI"
+              },
+              {
+                "uid": "YpCO0Zhsg"
+              },
+              {
+                "uid": "_xAKoiR9-"
+              }
+            ],
+            "children": [
+              {
+                "string": "ephemeral: 短暂的; 瞬息的\ncoordination: 协调",
+                "create-time": 1596385519723,
+                "uid": "RHcZb_HAA",
+                "edit-time": 1614636391671,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "1cIOjY5lJ",
+            "edit-time": 1614636391671,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Clearly a fundamentally [different approach] is required. The Roam [[vision]] for [human knowledge] is a collective, [[open-source intelligence]], constantly [rearranging]([[rearrange]]), [[iterating]] and [[evolving]] in [[the pursuit of truth]].  Each of us would become a [[node]] within this [[collective intelligence]], [forging links] and [creating networks]([[network]]), [sharing the very best]([[sharing]]) [each has to offer], [improving ourselves]([[improve]]) even as we improve others, and advancing [[the interests of humanity]] [as a whole]. 促进全人类的利益\n201127-23:46",
+            "create-time": 1606489774854,
+            ":block/refs": [
+              {
+                ":block/uid": "qFu_4MNqs"
+              },
+              {
+                ":block/uid": "sPBBHWaAY"
+              },
+              {
+                ":block/uid": "ypDafVGFP"
+              },
+              {
+                ":block/uid": "P1mwkcO9G"
+              },
+              {
+                ":block/uid": "8XH-jk7We"
+              },
+              {
+                ":block/uid": "awhuruurU"
+              },
+              {
+                ":block/uid": "qHvg4803X"
+              },
+              {
+                ":block/uid": "8AMTYc31i"
+              },
+              {
+                ":block/uid": "nkCwsyXsa"
+              },
+              {
+                ":block/uid": "5DjS8gTsl"
+              },
+              {
+                ":block/uid": "FqnjwWD82"
+              },
+              {
+                ":block/uid": "6aJR5XV85"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qFu_4MNqs"
+              },
+              {
+                "uid": "sPBBHWaAY"
+              },
+              {
+                "uid": "ypDafVGFP"
+              },
+              {
+                "uid": "P1mwkcO9G"
+              },
+              {
+                "uid": "8XH-jk7We"
+              },
+              {
+                "uid": "awhuruurU"
+              },
+              {
+                "uid": "qHvg4803X"
+              },
+              {
+                "uid": "8AMTYc31i"
+              },
+              {
+                "uid": "nkCwsyXsa"
+              },
+              {
+                "uid": "5DjS8gTsl"
+              },
+              {
+                "uid": "FqnjwWD82"
+              },
+              {
+                "uid": "6aJR5XV85"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "vOqHaO7uV",
+            "edit-time": 1614636391671,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "MyjE1TBLw"
+          }
+        ],
+        "uid": "FV8nPiAvp",
+        ":block/refs": [
+          {
+            ":block/uid": "MyjE1TBLw"
+          }
+        ],
+        "string": "9. [Conclusion]([[conclusion]])",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1606484319314,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 2
       },
       {
         "string": "Notes and references",
@@ -65176,8 +65352,296 @@
   {
     "create-time": 1614627194530,
     "title": "String Concatenation and Replication",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "The meaning of [an operator may change] [based on the data types] of [the values next to it]. For example, + is the [[addition operator]] when it [operates on two integers] or floating-point values. However, when + is [used on two string values], it [joins the strings]([[join the strings]]) as the [[string concatenation operator]]. 串连, 连接 Enter the following into the interactive shell:\n210302-05:52",
+        "create-time": 1614635294427,
+        ":block/refs": [
+          {
+            ":block/uid": "aiJ-094ye"
+          },
+          {
+            ":block/uid": "pU6cskwKe"
+          },
+          {
+            ":block/uid": "zUnbcipr7"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "aiJ-094ye"
+          },
+          {
+            "uid": "pU6cskwKe"
+          },
+          {
+            "uid": "zUnbcipr7"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "l9-rW1PHn",
+        "edit-time": 1614635664233,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
     "uid": "UR3didKIq",
     "edit-time": 1614627194530,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614635360723,
+    "title": "addition operator",
+    "uid": "aiJ-094ye",
+    "edit-time": 1614635360724,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614635404999,
+    "title": "string concatenation operator",
+    "uid": "pU6cskwKe",
+    "edit-time": 1614635404999,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614635421452,
+    "title": "join the strings",
+    "uid": "zUnbcipr7",
+    "edit-time": 1614635421453,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391683,
+    "title": "conclusion",
+    "uid": "MyjE1TBLw",
+    "edit-time": 1614636391683,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391686,
+    "title": "information volume",
+    "uid": "tbtsCsoOj",
+    "edit-time": 1614636391687,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391686,
+    "title": "human knowledge",
+    "uid": "W1A0UFqEZ",
+    "edit-time": 1614636391687,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391686,
+    "title": "fragmented information",
+    "uid": "A6zf8RzBI",
+    "edit-time": 1614636391687,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391686,
+    "title": "malicious",
+    "uid": "YpCO0Zhsg",
+    "edit-time": 1614636391687,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391686,
+    "title": "coordination problem",
+    "uid": "_xAKoiR9-",
+    "edit-time": 1614636391687,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "the pursuit of truth",
+    "uid": "sPBBHWaAY",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "sharing",
+    "uid": "ypDafVGFP",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "vision",
+    "uid": "P1mwkcO9G",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "iterating",
+    "uid": "8XH-jk7We",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "network",
+    "uid": "awhuruurU",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "improve",
+    "uid": "qHvg4803X",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "evolving",
+    "uid": "8AMTYc31i",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "rearrange",
+    "uid": "nkCwsyXsa",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "open-source intelligence",
+    "uid": "5DjS8gTsl",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "collective intelligence",
+    "uid": "FqnjwWD82",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614636391698,
+    "title": "the interests of humanity",
+    "uid": "6aJR5XV85",
+    "edit-time": 1614636391700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614647307510,
+    "title": "March 2nd, 2021",
+    "uid": "03-02-2021",
+    "edit-time": 1614647307510,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
