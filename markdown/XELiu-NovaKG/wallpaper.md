@@ -12,4 +12,6 @@
     - pt9-99.99
         - [Clockwork Nirvana of Mechanus | Renderrs' DnD Resource | Fandom](https://triplecrit.fandom.com/wiki/Mechanus)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc)
+            - 机械发条涅盘
+            - 机械神教; 巨型齿轮; 动力工厂; dark style
         - [D&D cosmology and Infinity, or: Why Pun-Pun is stronger than you thought : CharacterRant](https://www.reddit.com/r/CharacterRant/comments/6dwkbv/dd_cosmology_and_infinity_or_why_punpun_is/)

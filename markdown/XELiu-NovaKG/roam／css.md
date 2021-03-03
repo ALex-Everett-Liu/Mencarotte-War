@@ -8314,6 +8314,33 @@ a.rm-alias.rm-alias-external {
 @import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); 
 /*  @import "../fonts/Inter/inter.css"; */
 
+:root {
+  	/* Rainbow indentation */
+    --box-shadow-values: 25px 0px 20px -30px; /* Set to "none" to remove shadow, default is 25px 0px 20px -30px */
+    --indent1: #6c71c4ad;
+    --indent2: #268bd2ad;
+    --indent3: #859900ad;
+    --indent4: #b58900ad;
+    --indent5: #cb4b16ad;
+    --indent6: #d33682ad;
+    --indent7: #2aa198ad;
+    --indent8: #6c71c4ad;
+    --indent9: #268bd2ad;
+    --indent10: #859900ad;
+    --indent11: #b58900ad;
+    --indent12: #cb4b16ad;
+    --indent13: #d33682ad;
+    --indent14: #2aa198ad;
+    --indent15: #6c71c4ad;
+    --indent16: #268bd2ad;
+    --indent17: #859900ad;
+    --indent18: #b58900ad;
+	/* my change */
+  	--main-font__color: #E4D8EE;
+  	--main-font__font-family: "Inter", sans-serif;
+  	--main-font__font-size: 14px;
+}
+
 /* scrollbar */
 ::-webkit-scrollbar {
     width: 15px;
@@ -8333,29 +8360,5 @@ body {
 .roam-article,
 .roam-block-container {
   max-width: 100% !important;
-}
-
-/* Rainbow indentation */
-
-:root {
-    --box-shadow-values: none; /* Set to "none" to remove shadow, default is 25px 0px 20px -30px */
-    --indent1: #6c71c4ad;
-    --indent2: #268bd2ad;
-    --indent3: #859900ad;
-    --indent4: #b58900ad;
-    --indent5: #cb4b16ad;
-    --indent6: #d33682ad;
-    --indent7: #2aa198ad;
-    --indent8: #6c71c4ad;
-    --indent9: #268bd2ad;
-    --indent10: #859900ad;
-    --indent11: #b58900ad;
-    --indent12: #cb4b16ad;
-    --indent13: #d33682ad;
-    --indent14: #2aa198ad;
-    --indent15: #6c71c4ad;
-    --indent16: #268bd2ad;
-    --indent17: #859900ad;
-    --indent18: #b58900ad;
 }
 ```
