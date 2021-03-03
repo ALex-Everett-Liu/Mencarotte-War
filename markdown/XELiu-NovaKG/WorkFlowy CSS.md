@@ -13,6 +13,8 @@
 /* DARK, OPAQUE PAGE CONTAINER */
  div.page {
     background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(86,112,112,0.6);
+    background-color: rgba(22,1,35,0.35);
     border: none;
     border-radius: 3px;
 }```

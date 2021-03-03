@@ -480,6 +480,7 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                 - 2. 看了一遍《CSS Mastery》，基本入门了。《CSS 禅意花园》[翻了几页][就丢一边了]，感觉没什么意思。期间通过做 [WordPress 主题]来[实践]，并且[积累了]一些基本的[兼容性知识]。
                 - 3. 后面[就没看过书了]，[工作了][开始看了一点] W3C 的 [CSS 规范]。[查文档]主要就是 MDN / MSDN / [QuirksMode](https://link.zhihu.com/?target=http%3A//QuirksMode.org) / Can I Use / StackOverflow 等[在线资源]，包括一些博客的文章（CSS Tricks/ALA/...）。
                 - 4. CSS 的书说真的就看[完整看过一本]，接下来 [@CSS魔法](https://www.zhihu.com/people/22964042e90fd3fd3612455d98af3cd2) 翻译的《[CSS Secrets](https://link.zhihu.com/?target=https%3A//github.com/cssmagic/CSS-Secrets/)》可能会[搞来看看]（[广告费][请发微信红包]给我）。
+                - [自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…
         - detail point 99.98 (pt8-99.98)
             - 美国1929年[经济危机](https://www.zhihu.com/question/442923448/answer/1733542054)[哀鸿遍野]，而到了45年，美国[黄金储备]占了世界2/3。就比如，31~40年[日本侵略中国]十年间，美国一直再充当日本的优秀[后勤部长]，用美国[众议员][司各特]话讲，中国每死亡100个军民，就有55个死于[美国资本家][军火]之下。
                 - 二战胜利后，美国又从战败国中搜罗了大量科技人才、技术。就比如美国和[731部队]达到协议，以[技术资料][换取]免予对这些恶魔的惩罚。

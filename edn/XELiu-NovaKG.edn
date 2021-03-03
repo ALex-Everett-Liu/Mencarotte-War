@@ -88,7 +88,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 1,
+      :order 0,
       :content-id "MQYWiGTyQ"},
      "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66"
      {:page-uid "WnHQsRcsa",
@@ -96,7 +96,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 2,
+      :order 1,
       :content-id "WnHQsRcsa"},
      "uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
      {:page-uid "Vj9Rpr3De",
@@ -104,10 +104,10 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 3,
+      :order 2,
       :content-id "Vj9Rpr3De"}},
     :roam/js {:active-blocks #{"OrKb9pc_c"}}}
-   536906939]
+   536907440]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [4 :block/uid "01-30-2021" 536870916]
   [4 :create/time 1611962030919 536870916]
@@ -31183,8 +31183,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuid246e0371-6708-4980-a62d-708ea83b6bbf"
-   536907358]
+   "uuida0afd43d-8edf-4c82-ad57-ef80bd1ba434"
+   536907526]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -51740,7 +51740,7 @@
   [8794 :edit/time 1614614484103 536905827]
   [8794 :edit/user 3 536905819]
   [8795 :block/children 8796 536905861]
-  [8795 :block/open false 536907305]
+  [8795 :block/open false 536907496]
   [8795 :block/order 11 536906102]
   [8795 :block/page 3828 536905855]
   [8795 :block/parents 3828 536905855]
@@ -51757,12 +51757,12 @@
   [8796 :block/parents 8795 536905862]
   [8796
    :block/string
-   "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: \"Inter\", sans-serif;\n  \t--main-font__font-size: 14px;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n```"
-   536907298]
+   "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: \"Inter\", sans-serif;\n  \t--main-font__font-size: 15px;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}```"
+   536907487]
   [8796 :block/uid "J0YVQSDDZ" 536905859]
   [8796 :create/time 1614620922794 536905859]
   [8796 :create/user 3 536905859]
-  [8796 :edit/time 1614741100719 536907298]
+  [8796 :edit/time 1614748294085 536907487]
   [8796 :edit/user 3 536905859]
   [8803 :block/string "" 536905880]
   [8803 :block/uid "INh3_3hKM" 536905880]
@@ -51932,7 +51932,7 @@
   [8816 :block/children 8818 536906013]
   [8816 :block/children 8820 536906025]
   [8816 :block/children 8821 536906029]
-  [8816 :block/open false 536907299]
+  [8816 :block/open false 536907499]
   [8816 :block/order 3 536906042]
   [8816 :block/page 3902 536905995]
   [8816 :block/parents 3902 536905995]
@@ -54680,12 +54680,12 @@
   [9078 :block/parents 9077 536907018]
   [9078
    :block/string
-   "```css\n/* DARK, OPAQUE PAGE CONTAINER */\n div.page {\n    background-color: rgba(0, 0, 0, 0.6);\n    border: none;\n    border-radius: 3px;\n}```"
-   536907020]
+   "```css\n/* DARK, OPAQUE PAGE CONTAINER */\n div.page {\n    background-color: rgba(0, 0, 0, 0.6);\n    background-color: rgba(86,112,112,0.6);\n    background-color: rgba(22,1,35,0.35);\n    border: none;\n    border-radius: 3px;\n}```"
+   536907505]
   [9078 :block/uid "M7xMq0jyd" 536907015]
   [9078 :create/time 1614733014774 536907015]
   [9078 :create/user 3 536907015]
-  [9078 :edit/time 1614733019380 536907020]
+  [9078 :edit/time 1614748950776 536907505]
   [9078 :edit/user 3 536907015]
   [9079 :block/uid "5bPtDhdCp" 536907026]
   [9079 :create/time 1614733065220 536907026]
@@ -54743,6 +54743,7 @@
   [9094 :block/children 9104 536907108]
   [9094 :block/children 9119 536907203]
   [9094 :block/children 9123 536907225]
+  [9094 :block/children 9160 536907449]
   [9094 :block/uid "mOYNX0Ws2" 536907057]
   [9094 :create/time 1614733392591 536907057]
   [9094 :create/user 3 536907057]
@@ -54852,7 +54853,7 @@
   [9103 :edit/user 3 536907102]
   [9104 :block/children 9103 536907112]
   [9104 :block/open true 536907108]
-  [9104 :block/order 2 536907108]
+  [9104 :block/order 3 536907455]
   [9104 :block/page 9094 536907109]
   [9104 :block/parents 9094 536907109]
   [9104 :block/string "indentation style?" 536907114]
@@ -54967,7 +54968,7 @@
   [9113 :edit/time 1614734467409 536907155]
   [9113 :edit/user 3 536907155]
   [9113 :node/title "selector" 536907155]
-  [9114 :block/children 9115 536907160]
+  [9114 :block/children 9163 536907517]
   [9114 :block/uid "03-03-2021" 536907156]
   [9114 :create/time 1614734489820 536907156]
   [9114 :create/user 3 536907156]
@@ -54976,9 +54977,10 @@
   [9114 :log/id 1614734489819 536907156]
   [9114 :node/title "March 3rd, 2021" 536907156]
   [9115 :block/open true 536907160]
-  [9115 :block/order 0 536907160]
+  [9115 :block/order 0 536907522]
   [9115 :block/page 9114 536907161]
   [9115 :block/parents 9114 536907161]
+  [9115 :block/parents 9163 536907523]
   [9115 :block/refs 9094 536907164]
   [9115 :block/string "[[roam css details]]\n210303-09am" 536907167]
   [9115 :block/uid "LCVUBmBeM" 536907160]
@@ -55027,7 +55029,7 @@
   [9118 :edit/user 3 536907195]
   [9119 :block/children 9120 536907209]
   [9119 :block/open false 536907224]
-  [9119 :block/order 3 536907203]
+  [9119 :block/order 4 536907455]
   [9119 :block/page 9094 536907202]
   [9119 :block/parents 9094 536907202]
   [9119 :block/refs 9121 536907216]
@@ -55072,7 +55074,7 @@
   [9123 :block/children 9127 536907241]
   [9123 :block/children 9130 536907254]
   [9123 :block/open true 536907225]
-  [9123 :block/order 4 536907225]
+  [9123 :block/order 5 536907455]
   [9123 :block/page 9094 536907226]
   [9123 :block/parents 9094 536907226]
   [9123 :block/string "ROAM Railscast THEME" 536907227]
@@ -55205,7 +55207,8 @@
   [9135 :block/children 9138 536907316]
   [9135 :block/children 9139 536907316]
   [9135 :block/children 9141 536907316]
-  [9135 :block/open true 536907306]
+  [9135 :block/children 9144 536907359]
+  [9135 :block/open false 536907367]
   [9135 :block/order 8 536907306]
   [9135 :block/page 3840 536907307]
   [9135 :block/parents 3840 536907307]
@@ -55294,4 +55297,210 @@
    536907351]
   [9143 :block/uid "J294SCBbv" 536907351]
   [9143 :edit/time 1614742093012 536907351]
-  [9143 :edit/user 3 536907351]]}
+  [9143 :edit/user 3 536907351]
+  [9144 :block/open true 536907359]
+  [9144 :block/order 4 536907359]
+  [9144 :block/page 3840 536907360]
+  [9144 :block/parents 3840 536907360]
+  [9144 :block/parents 3842 536907360]
+  [9144 :block/parents 5814 536907360]
+  [9144 :block/parents 5815 536907360]
+  [9144 :block/parents 9135 536907360]
+  [9144
+   :block/string
+   "[自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…"
+   536907366]
+  [9144 :block/uid "a5cChRNu5" 536907359]
+  [9144 :create/time 1614743517668 536907359]
+  [9144 :create/user 3 536907359]
+  [9144 :edit/time 1614743531839 536907366]
+  [9144 :edit/user 3 536907359]
+  [9145 :block/children 9146 536907369]
+  [9145 :block/children 9152 536907383]
+  [9145 :block/children 9157 536907426]
+  [9145 :block/children 9158 536907426]
+  [9145 :block/open true 536907383]
+  [9145 :block/uid "iEXjIyJ-i" 536907368]
+  [9145 :create/time 1614745411647 536907368]
+  [9145 :create/user 3 536907368]
+  [9145 :edit/seen-by 3 536907388]
+  [9145 :edit/time 1614745411647 536907368]
+  [9145 :edit/user 3 536907368]
+  [9145
+   :node/title
+   "Web Design 101: How HTML, CSS, and JavaScript Work"
+   536907368]
+  [9146 :block/children 9147 536907374]
+  [9146 :block/open true 536907369]
+  [9146 :block/order 0 536907369]
+  [9146 :block/page 9145 536907370]
+  [9146 :block/parents 9145 536907370]
+  [9146
+   :block/string
+   "[MARKETING](https://blog.hubspot.com/marketing) | [10 MIN READ](https://blog.hubspot.com/marketing/web-design-html-css-javascript)"
+   536907378]
+  [9146 :block/uid "7S_R3FUs-" 536907369]
+  [9146 :create/time 1614745422011 536907369]
+  [9146 :create/user 3 536907369]
+  [9146 :edit/time 1614745491398 536907378]
+  [9146 :edit/user 3 536907369]
+  [9147 :block/open true 536907372]
+  [9147 :block/order 0 536907374]
+  [9147 :block/page 9145 536907373]
+  [9147 :block/parents 9145 536907373]
+  [9147 :block/parents 9146 536907375]
+  [9147
+   :block/string
+   "Written by [Lindsay Kolowich Cox](https://blog.hubspot.com/marketing/author/lindsay-kolowich) [@lkolow](https://twitter.com/lkolow)"
+   536907376]
+  [9147 :block/uid "L_FAt8zbI" 536907372]
+  [9147 :create/time 1614745450593 536907372]
+  [9147 :create/user 3 536907372]
+  [9147 :edit/time 1614745451460 536907376]
+  [9147 :edit/user 3 536907372]
+  [9149 :block/open true 536907383]
+  [9149 :block/order 0 536907400]
+  [9149 :block/page 9145 536907384]
+  [9149 :block/parents 9145 536907384]
+  [9149 :block/parents 9152 536907401]
+  [9149 :block/string "Then you're in the right place." 536907383]
+  [9149 :block/uid "xw0XrBgSb" 536907383]
+  [9149 :edit/seen-by 3 536907399]
+  [9149 :edit/time 1614745500546 536907383]
+  [9149 :edit/user 3 536907383]
+  [9150 :block/children 9151 536907416]
+  [9150 :block/open true 536907383]
+  [9150 :block/order 1 536907412]
+  [9150 :block/page 9145 536907385]
+  [9150 :block/parents 9145 536907385]
+  [9150 :block/parents 9152 536907413]
+  [9150 :block/refs 9154 536907409]
+  [9150 :block/refs 9155 536907409]
+  [9150
+   :block/string
+   "To someone who's [never coded before], the concept of [creating a website from scratch] -- [[layout]], [design]([[Web Design]]), and all -- can seem really intimidating. You might be picturing [Harvard students] from the movie, __The Social Network__, [sitting at their computers] [with gigantic headphones on] and [hammering out code], and think to yourself, 'I could never do that.'\n210303-12:42"
+   536907433]
+  [9150 :block/uid "0btRxgl33" 536907383]
+  [9150 :edit/seen-by 3 536907402]
+  [9150 :edit/time 1614746630279 536907433]
+  [9150 :edit/user 3 536907383]
+  [9151 :block/open true 536907383]
+  [9151 :block/order 0 536907416]
+  [9151 :block/page 9145 536907386]
+  [9151 :block/parents 9145 536907386]
+  [9151 :block/parents 9150 536907417]
+  [9151 :block/parents 9152 536907415]
+  [9151 :block/string "Actually, you can." 536907383]
+  [9151 :block/uid "TOE2iJuaD" 536907383]
+  [9151 :edit/seen-by 3 536907397]
+  [9151 :edit/time 1614745500546 536907383]
+  [9151 :edit/user 3 536907383]
+  [9152 :block/children 9149 536907400]
+  [9152 :block/children 9150 536907412]
+  [9152 :block/open true 536907383]
+  [9152 :block/order 1 536907383]
+  [9152 :block/page 9145 536907387]
+  [9152 :block/parents 9145 536907387]
+  [9152
+   :block/string
+   "Ever wondered how [computer programming] works, but [haven't done anything more complicated] [on the web] than [upload a photo to Facebook]?"
+   536907396]
+  [9152 :block/uid "Fb_9REKxM" 536907383]
+  [9152 :edit/seen-by 3 536907388]
+  [9152 :edit/time 1614745575814 536907396]
+  [9152 :edit/user 3 536907383]
+  [9153 :block/string "" 536907389]
+  [9153 :block/uid "E3DXP-VCm" 536907389]
+  [9153 :edit/time 1614745500567 536907389]
+  [9153 :edit/user 3 536907389]
+  [9154 :block/uid "yxx-wueVF" 536907409]
+  [9154 :create/time 1614746175093 536907409]
+  [9154 :create/user 3 536907409]
+  [9154 :edit/time 1614746175100 536907409]
+  [9154 :edit/user 3 536907409]
+  [9154 :node/title "Web Design" 536907409]
+  [9155 :block/uid "BN-Rkw4kZ" 536907409]
+  [9155 :create/time 1614746175093 536907409]
+  [9155 :create/user 3 536907409]
+  [9155 :edit/time 1614746175100 536907409]
+  [9155 :edit/user 3 536907409]
+  [9155 :node/title "layout" 536907409]
+  [9157 :block/open true 536907426]
+  [9157 :block/order 3 536907426]
+  [9157 :block/page 9145 536907427]
+  [9157 :block/parents 9145 536907427]
+  [9157
+   :block/string
+   "The goal of this post is to, in plain English, teach you with the basics of HTML, CSS, and one of the most common programming languages, JavaScript. But before we begin, let's get an idea of what programming languages actually are."
+   536907426]
+  [9157 :block/uid "GGuCV1lO4" 536907426]
+  [9157 :edit/time 1614746619551 536907426]
+  [9157 :edit/user 3 536907426]
+  [9158 :block/open true 536907426]
+  [9158 :block/order 2 536907426]
+  [9158 :block/page 9145 536907428]
+  [9158 :block/parents 9145 536907428]
+  [9158
+   :block/string
+   "Anyone can learn to code, just like anyone can learn a new language. In fact, programming is kind of like speaking a foreign language -- which is exactly why they're called programming __languages____.__ Each one has its own rules and syntax that need to be learned step by step. Those rules are ways to tell your computer what to do. More specifically, in web programming, they're ways of telling your __browsers__ what to do."
+   536907426]
+  [9158 :block/uid "SW8d3gzr7" 536907426]
+  [9158 :edit/seen-by 3 536907429]
+  [9158 :edit/time 1614746619551 536907426]
+  [9158 :edit/user 3 536907426]
+  [9159 :block/string "" 536907430]
+  [9159 :block/uid "w3kwj0CXq" 536907430]
+  [9159 :edit/time 1614746619567 536907430]
+  [9159 :edit/user 3 536907430]
+  [9160 :block/children 9161 536907455]
+  [9160 :block/open true 536907449]
+  [9160 :block/order 2 536907449]
+  [9160 :block/page 9094 536907450]
+  [9160 :block/parents 9094 536907450]
+  [9160 :block/refs 9077 536907452]
+  [9160 :block/string "((9vqRL9_X-))" 536907451]
+  [9160 :block/uid "C4Adb4HLV" 536907449]
+  [9160 :create/time 1614747410732 536907449]
+  [9160 :create/user 3 536907449]
+  [9160 :edit/time 1614747412010 536907451]
+  [9160 :edit/user 3 536907449]
+  [9161 :block/open true 536907453]
+  [9161 :block/order 0 536907455]
+  [9161 :block/page 9094 536907454]
+  [9161 :block/parents 9094 536907454]
+  [9161 :block/parents 9160 536907456]
+  [9161
+   :block/string
+   "```css\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(190,249,218,0.1); /* 浅绿色 */\n  background-color: rgba(86,112,112,0.6); /* 青灰色 */\n  background-color: rgba(219,37,102,0.3); /* 玫瑰色 */\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}```"
+   536907492]
+  [9161 :block/uid "mRC9VrHzI" 536907453]
+  [9161 :create/time 1614747414838 536907453]
+  [9161 :create/user 3 536907453]
+  [9161 :edit/time 1614748431432 536907492]
+  [9161 :edit/user 3 536907453]
+  [9162 :block/open true 536907506]
+  [9162 :block/order 1 536907522]
+  [9162 :block/page 9114 536907507]
+  [9162 :block/parents 9114 536907507]
+  [9162 :block/parents 9163 536907525]
+  [9162
+   :block/string
+   "Add the `OPAQUE PAGE CONTAINER` style to my roam and workflowy successfully!\n210303-13:23"
+   536907526]
+  [9162 :block/uid "yWbDvW_KZ" 536907506]
+  [9162 :create/time 1614749023399 536907506]
+  [9162 :create/user 3 536907506]
+  [9162 :edit/time 1614749137174 536907526]
+  [9162 :edit/user 3 536907506]
+  [9163 :block/children 9115 536907522]
+  [9163 :block/children 9162 536907524]
+  [9163 :block/open true 536907517]
+  [9163 :block/order 0 536907517]
+  [9163 :block/page 9114 536907518]
+  [9163 :block/parents 9114 536907518]
+  [9163 :block/string "CSS" 536907521]
+  [9163 :block/uid "z6_HZqz73" 536907517]
+  [9163 :create/time 1614749085887 536907517]
+  [9163 :create/user 3 536907517]
+  [9163 :edit/time 1614749091230 536907521]
+  [9163 :edit/user 3 536907517]]}

@@ -406,10 +406,10 @@
         },
         "children": [
           {
-            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: \"Inter\", sans-serif;\n  \t--main-font__font-size: 14px;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: \"Inter\", sans-serif;\n  \t--main-font__font-size: 15px;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}```",
             "create-time": 1614620922794,
             "uid": "J0YVQSDDZ",
-            "edit-time": 1614741100719,
+            "edit-time": 1614748294085,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -6554,6 +6554,18 @@
                         "string": "4. CSS 的书说真的就看[完整看过一本]，接下来 [@CSS魔法](https://www.zhihu.com/people/22964042e90fd3fd3612455d98af3cd2) 翻译的《[CSS Secrets](https://link.zhihu.com/?target=https%3A//github.com/cssmagic/CSS-Secrets/)》可能会[搞来看看]（[广告费][请发微信红包]给我）。",
                         "uid": "Ut1QYX8CA",
                         "edit-time": 1614742127939,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…",
+                        "create-time": 1614743517668,
+                        "uid": "a5cChRNu5",
+                        "edit-time": 1614743531839,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -68107,10 +68119,10 @@
         "edit-time": 1614733065218,
         "children": [
           {
-            "string": "```css\n/* DARK, OPAQUE PAGE CONTAINER */\n div.page {\n    background-color: rgba(0, 0, 0, 0.6);\n    border: none;\n    border-radius: 3px;\n}```",
+            "string": "```css\n/* DARK, OPAQUE PAGE CONTAINER */\n div.page {\n    background-color: rgba(0, 0, 0, 0.6);\n    background-color: rgba(86,112,112,0.6);\n    background-color: rgba(22,1,35,0.35);\n    border: none;\n    border-radius: 3px;\n}```",
             "create-time": 1614733014774,
             "uid": "M7xMq0jyd",
-            "edit-time": 1614733019380,
+            "edit-time": 1614748950776,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -68341,6 +68353,42 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1614733615914,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614747412010,
+        "children": [
+          {
+            "string": "```css\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(190,249,218,0.1); /* 浅绿色 */\n  background-color: rgba(86,112,112,0.6); /* 青灰色 */\n  background-color: rgba(219,37,102,0.3); /* 玫瑰色 */\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}```",
+            "create-time": 1614747414838,
+            "uid": "mRC9VrHzI",
+            "edit-time": 1614748431432,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "9vqRL9_X-"
+          }
+        ],
+        "uid": "C4Adb4HLV",
+        ":block/refs": [
+          {
+            ":block/uid": "9vqRL9_X-"
+          }
+        ],
+        "string": "((9vqRL9_X-))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614747410732,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -68730,23 +68778,49 @@
     },
     "children": [
       {
-        "string": "[[roam css details]]\n210303-09am",
-        "create-time": 1614734682853,
-        ":block/refs": [
-          {
-            ":block/uid": "mOYNX0Ws2"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "mOYNX0Ws2"
-          }
-        ],
+        "string": "CSS",
+        "create-time": 1614749085887,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "LCVUBmBeM",
-        "edit-time": 1614734700610,
+        "children": [
+          {
+            "string": "[[roam css details]]\n210303-09am",
+            "create-time": 1614734682853,
+            ":block/refs": [
+              {
+                ":block/uid": "mOYNX0Ws2"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mOYNX0Ws2"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "LCVUBmBeM",
+            "edit-time": 1614734700610,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Add the `OPAQUE PAGE CONTAINER` style to my roam and workflowy successfully!\n210303-13:23",
+            "create-time": 1614749023399,
+            "uid": "yWbDvW_KZ",
+            "edit-time": 1614749137174,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "z6_HZqz73",
+        "edit-time": 1614749091230,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -68823,6 +68897,138 @@
     "title": "font size",
     "uid": "4EP8MkJmX",
     "edit-time": 1614740281307,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614745411647,
+    "title": "Web Design 101: How HTML, CSS, and JavaScript Work",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[MARKETING](https://blog.hubspot.com/marketing) | [10 MIN READ](https://blog.hubspot.com/marketing/web-design-html-css-javascript)",
+        "create-time": 1614745422011,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Written by [Lindsay Kolowich Cox](https://blog.hubspot.com/marketing/author/lindsay-kolowich) [@lkolow](https://twitter.com/lkolow)",
+            "create-time": 1614745450593,
+            "uid": "L_FAt8zbI",
+            "edit-time": 1614745451460,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "7S_R3FUs-",
+        "edit-time": 1614745491398,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Ever wondered how [computer programming] works, but [haven't done anything more complicated] [on the web] than [upload a photo to Facebook]?",
+        "children": [
+          {
+            "string": "Then you're in the right place.",
+            "uid": "xw0XrBgSb",
+            "edit-time": 1614745500546,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "To someone who's [never coded before], the concept of [creating a website from scratch] -- [[layout]], [design]([[Web Design]]), and all -- can seem really intimidating. You might be picturing [Harvard students] from the movie, __The Social Network__, [sitting at their computers] [with gigantic headphones on] and [hammering out code], and think to yourself, 'I could never do that.'\n210303-12:42",
+            "refs": [
+              {
+                "uid": "yxx-wueVF"
+              },
+              {
+                "uid": "BN-Rkw4kZ"
+              }
+            ],
+            "children": [
+              {
+                "string": "Actually, you can.",
+                "uid": "TOE2iJuaD",
+                "edit-time": 1614745500546,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "0btRxgl33",
+            "edit-time": 1614746630279,
+            ":block/refs": [
+              {
+                ":block/uid": "yxx-wueVF"
+              },
+              {
+                ":block/uid": "BN-Rkw4kZ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Fb_9REKxM",
+        "edit-time": 1614745575814,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Anyone can learn to code, just like anyone can learn a new language. In fact, programming is kind of like speaking a foreign language -- which is exactly why they're called programming __languages____.__ Each one has its own rules and syntax that need to be learned step by step. Those rules are ways to tell your computer what to do. More specifically, in web programming, they're ways of telling your __browsers__ what to do.",
+        "uid": "SW8d3gzr7",
+        "edit-time": 1614746619551,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "The goal of this post is to, in plain English, teach you with the basics of HTML, CSS, and one of the most common programming languages, JavaScript. But before we begin, let's get an idea of what programming languages actually are.",
+        "uid": "GGuCV1lO4",
+        "edit-time": 1614746619551,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "iEXjIyJ-i",
+    "edit-time": 1614745411647,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614746175093,
+    "title": "Web Design",
+    "uid": "yxx-wueVF",
+    "edit-time": 1614746175100,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614746175093,
+    "title": "layout",
+    "uid": "BN-Rkw4kZ",
+    "edit-time": 1614746175100,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

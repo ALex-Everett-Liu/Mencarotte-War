@@ -8338,7 +8338,7 @@ a.rm-alias.rm-alias-external {
 	/* my change */
   	--main-font__color: #E4D8EE;
   	--main-font__font-family: "Inter", sans-serif;
-  	--main-font__font-size: 14px;
+  	--main-font__font-size: 15px;
 }
 
 /* scrollbar */
@@ -8361,4 +8361,19 @@ body {
 .roam-block-container {
   max-width: 100% !important;
 }
-```
+
+/* Body styles */
+.roam-block-container {
+  background-color: rgba(86,112,112,0.6);
+  border: none;
+  border-radius: 3px;
+  max-width: 100%;
+}
+
+.rm-block-text {
+  max-width: 100%;
+}
+
+.roam-center {
+  flex-basis: 50% !important;
+}```

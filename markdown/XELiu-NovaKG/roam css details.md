@@ -21,6 +21,17 @@ body {
 /*  background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; */
     background-size: cover;
 } ```
+- "**page border (OPAQUE PAGE CONTAINER)** #[[page container]]"
+    - ```css
+/* Body styles */
+.roam-block-container {
+  background-color: rgba(190,249,218,0.1); /* 浅绿色 */
+  background-color: rgba(86,112,112,0.6); /* 青灰色 */
+  background-color: rgba(219,37,102,0.3); /* 玫瑰色 */
+  border: none;
+  border-radius: 3px;
+  max-width: 100%;
+}```
 - indentation style?
     - [[rainbow indentation]]
         - [[import css]]; (/* import 必须放在第一行才能生效 */)
