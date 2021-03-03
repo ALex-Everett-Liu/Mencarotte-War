@@ -406,10 +406,10 @@
         },
         "children": [
           {
-            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: \"Inter\", sans-serif;\n  \t--main-font__font-size: 15px;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* WIDTH FIXES */\n.rm-block-text,\n.roam-article,\n.roam-block-container {\n  max-width: 100% !important;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--body__background-color: rgba(155,207,238,0.3);\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: 'Georgia', serif;\n  \t--main-font__font-size: 17px;\n    /* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-article {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```",
             "create-time": 1614620922794,
             "uid": "J0YVQSDDZ",
-            "edit-time": 1614748294085,
+            "edit-time": 1614757314670,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -7317,7 +7317,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1614629949058,
+            "edit-time": 1614757236548,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -68155,11 +68155,59 @@
         "edit-time": 1614733124429,
         "children": [
           {
-            "string": "[[link color]]; ",
-            "create-time": 1614733194458,
-            ":block/refs": [
+            "string": "```css\n/* GLOBAL TEXT COLOR */\n .content {\n    color: #D8D8D8 !important;\n}\n/* LINK COLOR */\n .content .contentLink {\n    color: #0489B1;\n}\n\n ._1ixna7g .contentLink {\n    color: #08867A;\n    cursor: pointer;\n    background: #DF661B; \n   \tbackground: rgba(240,30,93,0.3);\n}\n```",
+            "create-time": 1614733096865,
+            "uid": "_bb2B3rV-",
+            "edit-time": 1614763100586,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1614760756547,
+            "children": [
               {
-                ":block/uid": "uNoGNOXbB"
+                "string": "[TRUNCATE A LINK]([[truncate the link]]) [WHEN NOT HOVERED]([[hovered]])",
+                "create-time": 1614760808698,
+                ":block/refs": [
+                  {
+                    ":block/uid": "LU2ZkEZZT"
+                  },
+                  {
+                    ":block/uid": "Aksf3CMZw"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "LU2ZkEZZT"
+                  },
+                  {
+                    "uid": "Aksf3CMZw"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "bAqvJKFFx",
+                "edit-time": 1614761017066,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "```css\n/* WORKFLOWY INTERNAL LINKS */\n  a[href*=\"workflowy.com/#\"]\n  {\n    color: purple !important;\n    color: #54D6D6 !important;\n    font-weight: bold !important;\n    text-decoration: none !important;\n  }\n\n/* WORKFLOWY SHARED LINKS */\n  a[href*=\"workflowy.com/s/\"]\n  {\n    color: red;\n    font-weight: bold !important;\n    text-decoration: none !important;\n  }\n\n/* WORKFLOWY EMBEDDED LINKS */\n  a[href*=\"workflowy.com/embed/\"]\n  {\n    color: gold !important;\n    font-weight: bold !important;\n    text-decoration: none !important;\n  }\n\n/* TRUNCATE A LINK WHEN NOT HOVERED  */\n  .content .contentLink:not(:hover), .nameAnimated .contentLink:not(:hover)\n  {\n    max-width: 185px;\n    overflow: hidden;\n    text-overflow: ellipsis;\n    vertical-align: bottom;\n    white-space: nowrap;\n    display: inline-block !important;\n  }\n```",
+                "create-time": 1614760772794,
+                "uid": "3W1CI_mQz",
+                "edit-time": 1614763247891,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -68167,23 +68215,17 @@
                 "uid": "uNoGNOXbB"
               }
             ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
             "uid": "oIH_GvEZB",
-            "edit-time": 1614733206451,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "```css\n/* GLOBAL TEXT COLOR */\n .content {\n    color: #D8D8D8 !important;\n}\n/* LINK COLOR */\n .content .contentLink {\n    color: #0489B1;\n}```",
-            "create-time": 1614733096865,
-            "uid": "_bb2B3rV-",
-            "edit-time": 1614733111862,
+            ":block/refs": [
+              {
+                ":block/uid": "uNoGNOXbB"
+              }
+            ],
+            "string": "CUSTOM COLORED LINKS #[[link color]]",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "create-time": 1614733194458,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -68389,6 +68431,42 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1614747410732,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1614756074004,
+        "children": [
+          {
+            "string": "```css\n/* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.2);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;```",
+            "create-time": 1614756030340,
+            "uid": "2idPD7QYl",
+            "edit-time": 1614756034593,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nxUJFyr_R"
+          }
+        ],
+        "uid": "eAWzQGLH6",
+        ":block/refs": [
+          {
+            ":block/uid": "nxUJFyr_R"
+          }
+        ],
+        "string": "[[right sidebar]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1614756025834,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -69029,6 +69107,42 @@
     "title": "layout",
     "uid": "BN-Rkw4kZ",
     "edit-time": 1614746175100,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614756074006,
+    "title": "right sidebar",
+    "uid": "nxUJFyr_R",
+    "edit-time": 1614756074007,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614760826569,
+    "title": "truncate the link",
+    "uid": "LU2ZkEZZT",
+    "edit-time": 1614760826569,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614761017070,
+    "title": "hovered",
+    "uid": "Aksf3CMZw",
+    "edit-time": 1614761017070,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

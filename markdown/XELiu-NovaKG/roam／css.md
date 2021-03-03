@@ -8336,14 +8336,22 @@ a.rm-alias.rm-alias-external {
     --indent17: #859900ad;
     --indent18: #b58900ad;
 	/* my change */
+  	--body__background-color: rgba(155,207,238,0.3);
   	--main-font__color: #E4D8EE;
-  	--main-font__font-family: "Inter", sans-serif;
-  	--main-font__font-size: 15px;
+  	--main-font__font-family: 'Georgia', serif;
+  	--main-font__font-size: 17px;
+    /* right sidebar */
+  	--right-sidebar__color_title-closed: var(--accent__color-font);
+  	--right-sidebar__background-color: rgba(155,114,212,0.1);
+  	--right-sidebar__border: #e9892475;
+  	--right-sidebar-masonry__background-color: var(--body__background-color);
+  	--right-sidebar-masonry__border: #3d3d3d;
 }
 
 /* scrollbar */
 ::-webkit-scrollbar {
     width: 15px;
+  	background-color: rgba(234,64,126,0.2);
 }
 
 /* body background */
@@ -8353,13 +8361,6 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-/* WIDTH FIXES */
-.rm-block-text,
-.roam-article,
-.roam-block-container {
-  max-width: 100% !important;
 }
 
 /* Body styles */
@@ -8374,6 +8375,11 @@ body {
   max-width: 100%;
 }
 
+.roam-article {
+  max-width: 100%;
+}
+
 .roam-center {
   flex-basis: 50% !important;
-}```
+}
+```

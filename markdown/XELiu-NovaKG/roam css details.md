@@ -32,6 +32,14 @@ body {
   border-radius: 3px;
   max-width: 100%;
 }```
+- [[right sidebar]]
+    - ```css
+/* right sidebar */
+  	--right-sidebar__color_title-closed: var(--accent__color-font);
+  	--right-sidebar__background-color: rgba(155,114,212,0.2);
+  	--right-sidebar__border: #e9892475;
+  	--right-sidebar-masonry__background-color: var(--body__background-color);
+  	--right-sidebar-masonry__border: #3d3d3d;```
 - indentation style?
     - [[rainbow indentation]]
         - [[import css]]; (/* import 必须放在第一行才能生效 */)

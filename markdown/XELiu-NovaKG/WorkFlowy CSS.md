@@ -19,7 +19,6 @@
     border-radius: 3px;
 }```
 - [[text color]]
-    - [[link color]]; 
     - ```css
 /* GLOBAL TEXT COLOR */
  .content {
@@ -28,4 +27,51 @@
 /* LINK COLOR */
  .content .contentLink {
     color: #0489B1;
-}```
+}
+
+ ._1ixna7g .contentLink {
+    color: #08867A;
+    cursor: pointer;
+    background: #DF661B; 
+   	background: rgba(240,30,93,0.3);
+}
+```
+    - CUSTOM COLORED LINKS #[[link color]]
+        - [TRUNCATE A LINK]([[truncate the link]]) [WHEN NOT HOVERED]([[hovered]])
+        - ```css
+/* WORKFLOWY INTERNAL LINKS */
+  a[href*="workflowy.com/#"]
+  {
+    color: purple !important;
+    color: #54D6D6 !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+/* WORKFLOWY SHARED LINKS */
+  a[href*="workflowy.com/s/"]
+  {
+    color: red;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+/* WORKFLOWY EMBEDDED LINKS */
+  a[href*="workflowy.com/embed/"]
+  {
+    color: gold !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+/* TRUNCATE A LINK WHEN NOT HOVERED  */
+  .content .contentLink:not(:hover), .nameAnimated .contentLink:not(:hover)
+  {
+    max-width: 185px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+    white-space: nowrap;
+    display: inline-block !important;
+  }
+```
