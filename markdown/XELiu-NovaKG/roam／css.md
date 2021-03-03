@@ -8313,11 +8313,10 @@ a.rm-alias.rm-alias-external {
     - ```css
 @import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); 
 /*  @import "../fonts/Inter/inter.css"; */
-/*  import 必须放在第一行才能生效 */
 
 /* scrollbar */
 ::-webkit-scrollbar {
-    width: 7px;
+    width: 15px;
 }
 
 /* body background */
@@ -8329,12 +8328,6 @@ body {
     background-size: cover;
 }
 
-/*  .theme-inner {
-    background: url(https://i.imgur.com/wgNO5YL.jpg) center center fixed;
-    background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; 
-    background-size: cover;
-} */
-
 /* WIDTH FIXES */
 .rm-block-text,
 .roam-article,
@@ -8343,23 +8336,6 @@ body {
 }
 
 /* Rainbow indentation */
-/*
-Feel free to adjust the colors - this one loops every
-7 colors like the rainbow but you can change that to
-cycle earlier or choose more unique colors.
-To add deeper indents:
-1. Add { > div.flex-v-box > div } incrementally to the first line, and
-2. Add {> div.flex-v-box > div:nth-child(n) } incrementally to the second line
-*/
-/* Rainbow indentation */
-/*
-Feel free to adjust the color variables!
-This one loops every 6 colors, and goes 18 levels deep (3 cycles).
-The 3 selectors for each level correspond to:
-1. Daily notes scrolling view
-2. Single page view
-3. Right sidebar outline view
-*/
 
 :root {
     --box-shadow-values: none; /* Set to "none" to remove shadow, default is 25px 0px 20px -30px */
@@ -8382,10 +8358,4 @@ The 3 selectors for each level correspond to:
     --indent17: #859900ad;
     --indent18: #b58900ad;
 }
-
-/* .block-border-left { */
-/*    border-left-width: 3px !important; /* Default 1px */
-/*    margin-left: 4px; /* Default 6px */
-/*    border-radius: 0; /* Set to 0 to get smooth, straight indents */
-/*    padding: 0 !important; /* Set to 0 to align all indents */
-/* } */```
+```

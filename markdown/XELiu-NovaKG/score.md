@@ -226,6 +226,7 @@ page attribute -- roam
                 - {{[[TODO]]}} Atom Configuration -- Settings
                 - VSCode Configuration 
                 - [Org-Roam](https://www.youtube.com/watch?v=oyEMlIxIHXs&t=4s) [v1.2.0](https://www.bilibili.com/video/BV1Kv4y1Z7Cs) - Headlines & Unlinked References-oyEMlIxIHXs
+                - [about roam-like](https://www.zhihu.com/people/mkyos)
             {{[[TODO]]}} 【[蘑菇](https://www.bilibili.com/audio/au85858?type=7)】SAYONARA （てぃあら） DL
         - detail point 99.97 (pt10-99.97)
             - 272部 剑桥史系 [pdf 下载](https://bbs.northdy.com/thread-733963-1-1.html)
