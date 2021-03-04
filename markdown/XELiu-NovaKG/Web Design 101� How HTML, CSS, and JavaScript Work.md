@@ -43,3 +43,11 @@
         - Using HTML, you can [add headings], [format paragraphs], control [[line break]]s, [[make list]]s, [[emphasize text]], create [[special character]]s, insert images, create links, build tables, control some [[styling]], and much more.
         - To [learn more about] [coding in HTML], I recommend [checking out our guide to basic HTML](https://offers.hubspot.com/html-hacks-for-marketers?hubs_post=blog.hubspot.com/marketing/web-design-html-css-javascript&hubs_post-cta=checking%20out%20our%20guide%20to%20basic%20HTML), and using the [free classes and resources] on [codecademy](https://www.codecademy.com/catalog/subject/web-development) -- but for now, let's move on to CSS.
 210304-18:33
+    - ### CSS
+        - CSS stands for [[Cascading Style Sheets (CSS)]]. This programming language dictates how [the HTML elements of a website] should actually [appear on the frontend of the page].
+        - ### HTML vs CSS
+            - HTML [provides the raw tools needed to] [structure content on a website]. CSS, on the other hand, helps to [style this content] so [it appears to the user] [the way it was intended to be seen]. These languages are [kept separate] to ensure websites are [built correctly] before they're [[reformatted]].
+210304-23:40
+            - If HTML is the drywall, CSS is the paint.
+            - Whereas HTML was the basic [structure of your website](https://academy.hubspot.com/courses/website-optimization?utm_source=marketing_blog&utm_medium=blog&utm_campaign=website_optimization), CSS is what [gives your entire website its style]. Those slick colors, interesting fonts, and [[background image]]s? All thanks to CSS. This language [affects the entire mood and tone of] a web page, making it [an incredibly powerful tool] -- and [an important skill] for [web developers] to learn. It's also what allows websites to adapt to different screen sizes and device types.
+            - To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's [blog post](https://blog.hubspot.com/blog/tabid/6307/bid/23454/The-Ultimate-Cheat-Sheet-for-Mastering-LinkedIn.aspx), but shown in Basic HTML, and the second screenshot is that same blog post with HTML __and __CSS.

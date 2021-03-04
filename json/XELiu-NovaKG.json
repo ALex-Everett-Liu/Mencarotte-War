@@ -1637,6 +1637,18 @@
                         }
                       },
                       {
+                        "string": "对notion的判断还是很准确的。但是不敢苟同对rr的评论，您说rr没有维持wf一页的设计实际上[是其一大败笔](https://www.zhihu.com/question/434530733/answer/1734624629)，实际上如果[维持]一页设计，做[双链][是很难的]，双链的节点[没有严格的][树状关系]，而一页设计实际上[维护的是]一个严格的树状关系。在roam中创建一个页面或您说的节点，它不需要[被预先放在]任何树状关系之中，而[等待][其他对等的][任何页面]或节点[来链接]，而在wf这样[创建一个节点]，却必须有[对应的位置]，wf没有[未放置位置]的[为命名页面]的概念，这曾是它[最大的优势]，但对于[双链笔记]来说，却成了一个[有些尴尬的特性]，不知道wf如果想要朝双链努力[该如何破局]。我曾给wf[提过建议]，提出可以[继续开发]标签，因为它是wf中没有[树状关系]的元素，[使其变成][无位置的][页面或节点]，但[没有回应]。",
+                        "create-time": 1614865712830,
+                        "uid": "GwftRmap5",
+                        "edit-time": 1614870277200,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "edit-time": 1613129716691,
                         "children": [
                           {
@@ -8275,6 +8287,18 @@
                 "create-time": 1614237086913,
                 "uid": "c2eHp0r5A",
                 "edit-time": 1614351567721,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "秋饰Kazari-20210304_224344.mp4; ",
+                "create-time": 1614870897943,
+                "uid": "ooquELSvm",
+                "edit-time": 1614870920100,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -70064,6 +70088,98 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "CSS",
+            "heading": 3,
+            "children": [
+              {
+                "string": "CSS stands for [[Cascading Style Sheets (CSS)]]. This programming language dictates how [the HTML elements of a website] should actually [appear on the frontend of the page].",
+                "refs": [
+                  {
+                    "uid": "Z9ICdOKoD"
+                  }
+                ],
+                "uid": "iLAuUXlPV",
+                "edit-time": 1614872147551,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Z9ICdOKoD"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "HTML vs CSS",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "HTML [provides the raw tools needed to] [structure content on a website]. CSS, on the other hand, helps to [style this content] so [it appears to the user] [the way it was intended to be seen]. These languages are [kept separate] to ensure websites are [built correctly] before they're [[reformatted]].\n210304-23:40",
+                    "refs": [
+                      {
+                        "uid": "vu2ko5L4T"
+                      }
+                    ],
+                    "uid": "KLjcOSkwj",
+                    "edit-time": 1614872506043,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "vu2ko5L4T"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "If HTML is the drywall, CSS is the paint.",
+                    "uid": "WwlyjkHRP",
+                    "edit-time": 1614872480091,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "Whereas HTML was the basic [structure of your website](https://academy.hubspot.com/courses/website-optimization?utm_source=marketing_blog&utm_medium=blog&utm_campaign=website_optimization), CSS is what [gives your entire website its style]. Those slick colors, interesting fonts, and [[background image]]s? All thanks to CSS. This language [affects the entire mood and tone of] a web page, making it an incredibly powerful tool -- and an important skill for web developers to learn. It's also what allows websites to adapt to different screen sizes and device types.",
+                    "refs": [
+                      {
+                        "uid": "cuxeZrs6T"
+                      }
+                    ],
+                    "uid": "Q900Itd_H",
+                    "edit-time": 1614872551518,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "cuxeZrs6T"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's [blog post](https://blog.hubspot.com/blog/tabid/6307/bid/23454/The-Ultimate-Cheat-Sheet-for-Mastering-LinkedIn.aspx), but shown in Basic HTML, and the second screenshot is that same blog post with HTML __and __CSS.",
+                    "uid": "aY8xx69i0",
+                    "edit-time": 1614872480091,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "ntlEKykuT",
+                "edit-time": 1614872216174,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "YU6PeuDF_",
+            "edit-time": 1614872081026,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "KEdVetTI0",
@@ -70540,6 +70656,30 @@
     "title": "styling",
     "uid": "uIHjlTsmp",
     "edit-time": 1614853671629,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614872114890,
+    "title": "Cascading Style Sheets (CSS)",
+    "uid": "Z9ICdOKoD",
+    "edit-time": 1614872114891,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614872313230,
+    "title": "reformatted",
+    "uid": "vu2ko5L4T",
+    "edit-time": 1614872313231,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

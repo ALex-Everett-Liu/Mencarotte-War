@@ -85,6 +85,7 @@
                     - [葫芦笔记][接下来也会]推出 mirror 功能，说起来很巧，在目前这些双链软件里，只有葫芦笔记有个[正经][产品经理]，别的都是[开发者自己设计]。
                     - -> 你可以翻翻trilium的[change log]看看哪一年有[clone功能]的…
                         - [咱们暂且不说]大纲分类思路是不是[正确的笔记思路]。mirror的[最大问题]就是[难以保证][不出现环路]。当你的[笔记规模][越来越大的时候]，它就[越来越难维护]。
+                - 对notion的判断还是很准确的。但是不敢苟同对rr的评论，您说rr没有维持wf一页的设计实际上[是其一大败笔](https://www.zhihu.com/question/434530733/answer/1734624629)，实际上如果[维持]一页设计，做[双链][是很难的]，双链的节点[没有严格的][树状关系]，而一页设计实际上[维护的是]一个严格的树状关系。在roam中创建一个页面或您说的节点，它不需要[被预先放在]任何树状关系之中，而[等待][其他对等的][任何页面]或节点[来链接]，而在wf这样[创建一个节点]，却必须有[对应的位置]，wf没有[未放置位置]的[为命名页面]的概念，这曾是它[最大的优势]，但对于[双链笔记]来说，却成了一个[有些尴尬的特性]，不知道wf如果想要朝双链努力[该如何破局]。我曾给wf[提过建议]，提出可以[继续开发]标签，因为它是wf中没有[树状关系]的元素，[使其变成][无位置的][页面或节点]，但[没有回应]。
                 - {{[[DONE]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
 Completed after 4 days.
                     - However, I'm beginning to think this is an issue with Roam, not an issue with the script. I’ve had this experience trying to export markdown backups manually as well, the loading wheel just spins and eventually, the web page becomes unresponsive.
