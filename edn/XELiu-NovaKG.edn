@@ -1436,7 +1436,7 @@
   [3906 :block/children 3907 536887765]
   [3906 :block/children 3908 536887765]
   [3906 :block/children 4980 536891279]
-  [3906 :block/open false 536907640]
+  [3906 :block/open true 536907838]
   [3906 :block/order 2 536906042]
   [3906 :block/page 3902 536887768]
   [3906 :block/parents 3902 536887768]
@@ -31186,8 +31186,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuid52aa7a7a-c2bb-4a33-9004-218a9f0b5992"
-   536907808]
+   "uuid0323bbea-1005-4e38-afbd-4c39f2ad4793"
+   536907859]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -55323,8 +55323,6 @@
   [9144 :edit/user 3 536907359]
   [9145 :block/children 9146 536907369]
   [9145 :block/children 9152 536907383]
-  [9145 :block/children 9157 536907426]
-  [9145 :block/children 9158 536907426]
   [9145 :block/open true 536907383]
   [9145 :block/uid "iEXjIyJ-i" 536907368]
   [9145 :create/time 1614745411647 536907368]
@@ -55357,12 +55355,12 @@
   [9147 :block/parents 9146 536907375]
   [9147
    :block/string
-   "Written by [Lindsay Kolowich Cox](https://blog.hubspot.com/marketing/author/lindsay-kolowich) [@lkolow](https://twitter.com/lkolow)"
-   536907376]
+   "Written by [Lindsay Kolowich Cox](https://blog.hubspot.com/marketing/author/lindsay-kolowich) [@lkolow](https://twitter.com/lkolow) "
+   536907836]
   [9147 :block/uid "L_FAt8zbI" 536907372]
   [9147 :create/time 1614745450593 536907372]
   [9147 :create/user 3 536907372]
-  [9147 :edit/time 1614745451460 536907376]
+  [9147 :edit/time 1614828920385 536907836]
   [9147 :edit/user 3 536907372]
   [9149 :block/open true 536907383]
   [9149 :block/order 0 536907400]
@@ -55375,6 +55373,8 @@
   [9149 :edit/time 1614745500546 536907383]
   [9149 :edit/user 3 536907383]
   [9150 :block/children 9151 536907416]
+  [9150 :block/children 9157 536907855]
+  [9150 :block/children 9158 536907850]
   [9150 :block/open true 536907383]
   [9150 :block/order 1 536907412]
   [9150 :block/page 9145 536907385]
@@ -55432,27 +55432,33 @@
   [9155 :edit/user 3 536907409]
   [9155 :node/title "layout" 536907409]
   [9157 :block/open true 536907426]
-  [9157 :block/order 3 536907426]
+  [9157 :block/order 2 536907848]
   [9157 :block/page 9145 536907427]
   [9157 :block/parents 9145 536907427]
+  [9157 :block/parents 9150 536907856]
+  [9157 :block/parents 9152 536907854]
   [9157
    :block/string
-   "The goal of this post is to, in plain English, teach you with the basics of HTML, CSS, and one of the most common programming languages, JavaScript. But before we begin, let's get an idea of what programming languages actually are."
-   536907426]
+   "[The goal of this post] is to, in plain English, teach you with the basics of HTML, CSS, and [one of the most common programming languages], JavaScript. But before we begin, let's [get an idea of] what programming languages actually are."
+   536907859]
   [9157 :block/uid "GGuCV1lO4" 536907426]
-  [9157 :edit/time 1614746619551 536907426]
+  [9157 :edit/seen-by 3 536907852]
+  [9157 :edit/time 1614829331398 536907859]
   [9157 :edit/user 3 536907426]
   [9158 :block/open true 536907426]
-  [9158 :block/order 2 536907426]
+  [9158 :block/order 1 536907850]
   [9158 :block/page 9145 536907428]
   [9158 :block/parents 9145 536907428]
+  [9158 :block/parents 9150 536907851]
+  [9158 :block/parents 9152 536907849]
+  [9158 :block/refs 8616 536907847]
   [9158
    :block/string
-   "Anyone can learn to code, just like anyone can learn a new language. In fact, programming is kind of like speaking a foreign language -- which is exactly why they're called programming __languages____.__ Each one has its own rules and syntax that need to be learned step by step. Those rules are ways to tell your computer what to do. More specifically, in web programming, they're ways of telling your __browsers__ what to do."
-   536907426]
+   "Anyone can learn to code, just like anyone can [learn a new language]. In fact, programming is kind of like [speaking a foreign language] -- [which is exactly why] they're called programming __languages____.__ Each one has its own [rules and syntax] that [need to be learned step by step]. Those rules are ways to [tell your computer what to do]. More specifically, in [web programming], they're ways of telling your __browsers__ what to do. #browser"
+   536907846]
   [9158 :block/uid "SW8d3gzr7" 536907426]
   [9158 :edit/seen-by 3 536907429]
-  [9158 :edit/time 1614746619551 536907426]
+  [9158 :edit/time 1614829062603 536907846]
   [9158 :edit/user 3 536907426]
   [9159 :block/string "" 536907430]
   [9159 :block/uid "w3kwj0CXq" 536907430]
@@ -55703,7 +55709,9 @@
   [9190 :block/children 9192 536907783]
   [9190 :block/children 9193 536907783]
   [9190 :block/children 9194 536907783]
-  [9190 :block/open false 536907807]
+  [9190 :block/children 9197 536907810]
+  [9190 :block/children 9198 536907823]
+  [9190 :block/open true 536907809]
   [9190 :block/order 5 536907761]
   [9190 :block/page 3840 536907762]
   [9190 :block/parents 3840 536907762]
@@ -55778,4 +55786,38 @@
   [9196 :edit/time 1614820927018 536907808]
   [9196 :edit/user 3 536907808]
   [9196 :log/id 1614820927017 536907808]
-  [9196 :node/title "March 4th, 2021" 536907808]]}
+  [9196 :node/title "March 4th, 2021" 536907808]
+  [9197 :block/open true 536907810]
+  [9197 :block/order 3 536907810]
+  [9197 :block/page 3840 536907811]
+  [9197 :block/parents 3840 536907811]
+  [9197 :block/parents 3842 536907811]
+  [9197 :block/parents 3843 536907811]
+  [9197 :block/parents 3879 536907811]
+  [9197 :block/parents 9190 536907811]
+  [9197
+   :block/string
+   "之前[知乎][有个说法][我觉得有道理]，就是[黄帝]那个以兵为卫到处[游行巡逻]的制度，那个和神罗[早期王权]非常类似，在中国古代[有文字后]各国就没看到有这个制度，只能说是[早期无文字时代][留下的记忆]，不然不可能[凭空想出来]。"
+   536907822]
+  [9197 :block/uid "skuPnWPjC" 536907810]
+  [9197 :create/time 1614828625931 536907810]
+  [9197 :create/user 3 536907810]
+  [9197 :edit/time 1614828654327 536907822]
+  [9197 :edit/user 3 536907810]
+  [9198 :block/open true 536907823]
+  [9198 :block/order 4 536907823]
+  [9198 :block/page 3840 536907824]
+  [9198 :block/parents 3840 536907824]
+  [9198 :block/parents 3842 536907824]
+  [9198 :block/parents 3843 536907824]
+  [9198 :block/parents 3879 536907824]
+  [9198 :block/parents 9190 536907824]
+  [9198
+   :block/string
+   "尧舜禹之前的12帝王很有可能是12次[短暂统一]\n[老子]和[清华简容成氏] 这12帝王除了[先后次序不一样]名字都是这12个  \n应该就是12次短暂统一  只不过上古[文字系统]不完整 已经不知道前后次序和实际时间年代了"
+   536907832]
+  [9198 :block/uid "BzZz-IFGK" 536907823]
+  [9198 :create/time 1614828703063 536907823]
+  [9198 :create/user 3 536907823]
+  [9198 :edit/time 1614828727867 536907832]
+  [9198 :edit/user 3 536907823]]}
