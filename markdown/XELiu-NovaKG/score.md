@@ -305,6 +305,7 @@ page attribute -- roam
 他秉持的是[玦饰]辽海起源说，文中只提到了俄罗斯滨海地区，并没有涉及西伯利亚玉器的年代。
             - note-taking
                 - {{[[TODO]]}} roam iframe
+                - {{[[TODO]]}} [Magical Academic NoteTaking](https://www.roamforresults.com/academic) in [Roam Research](https://www.youtube.com/watch?v=L3oBNihWSKo&feature=youtu.be)–[Ph.D. Thesis](https://www.bilibili.com/video/BV1sy4y1a7m4), Dissertation, Journal
                 - 接触 lute 的原因是有一些 feature 依靠 vditor [没办法实现]。举个例子，在 React Native 中[如何实现] [markdown 渲染](https://zhuanlan.zhihu.com/p/349925413)？难道是[套一个 WebView] [加载 H5]？虽然在[某些场景]不得不去这么实现，比如[依赖 KaTeX] 做[数学公式渲染]、abcjs 做[五线谱渲染]，要不就自己再[写一个库]？emmm WebView 会有[很多的限制]，而且其实在[移动端]做 [markdown 即时渲染]的[体验]不会很好。即使是 GitHub [官方的 APP] 也[没有实现]，然后我的眼光就放到了 lute 的身上
                     - 因为自己是[物理系]的，对[公式输入][很敏感]所以早都[基于 KaTeX] 尝试[实现了 Tex]
                     - 不过，这几天发现 vditor 有一个问题我还是感觉挺严重的。当 vditor 和 SSR [一起使用的时候]，[可能会导致][页面崩溃]，甚至是[浏览器崩溃]。当你在 sv 模式下输入 iframe 这个 [HTML 标签]，可能会[导致一些问题]。[具体讨论]可以看这个 issue [#918](https://link.zhihu.com/?target=https%3A//link.ld246.com/forward%3Fgoto%3Dhttps%253A%252F%252Fgithub.com%252FVanessa219%252Fvditor%252Fissues%252F918) ，需求是在这个 issue [#906](https://link.zhihu.com/?target=https%3A//link.ld246.com/forward%3Fgoto%3Dhttps%253A%252F%252Fgithub.com%252FVanessa219%252Fvditor%252Fissues%252F906) 提出的。
@@ -327,6 +328,7 @@ obsidian — Link to blocks
             - {{[[TODO]]}} plot based on origin, matlab, python, excel, etc.
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
                 - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。
+            - {{[[TODO]]}} [jriver skin](https://yabb.jriver.com/mediacenter/accessories.php)
         - detail point 99.99 (pt9-99.99)
             - note-taking
                 - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro
@@ -368,6 +370,7 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
             - tech
                 - {{[[TODO]]}} [显卡](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1989745)不能挖的只有[比特币]一种，[虚拟货币]有很多，[大多]都还能[用显卡挖]，甚至有的虚拟货币还在[主动][定期调整算法]避免像比特币一样[变得]只有[ASIC定制芯片]能挖
                 - {{[[TODO]]}} [2020至2021年度 挖矿炒卡楼](https://bbs.saraba1st.com/2b/forum.php?mod=redirect&goto=findpost&ptid=1974976&pid=) #[[bitcoin (BTC)]]
+                - {{[[TODO]]}} codecademy
                 - 原文：[Why Everyone Should Build Their Own PC and Stop Using Macs (americanpurpose.com)](https://www.americanpurpose.com/blog/fukuyama/why-everyone-should-build-their-own-pc-and-stop-using-macs/)
                     - 作者是那个写出《历史的终结及最后之人》的[弗朗西斯·福山](https://bbs.saraba1st.com/2b/thread-1985591-5-1.html)
                     - 典型的 [PCMR 思维]吧，可以看看之前翻译的这篇[PCMR优越党](https://bbs.saraba1st.com/2b/thread-1961531-1-1.html)的文章，[大量论据]都是相似的，针对Mac同样的话可以放在PS5/XBOX上。
