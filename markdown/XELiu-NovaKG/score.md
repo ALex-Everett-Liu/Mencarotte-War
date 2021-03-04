@@ -18,34 +18,34 @@
                     - 哈工大有机实验室里苦中作乐，种种小花，或者整点蒜？ps: 放假前一天，小雏菊被我和师妹拿回寝室由阿姨保管啦，希望能挺过这一个半月的假期～多肉是挺过疫情期间的生物所以不怕，只希望栀子花来年还依然坚挺！至于大蒜嘛，嘿嘿自求多福吧
                 - {{[[TODO]]}} DAY OUT WITH MY SISTER-IN-LAW in Jilin, [Ruchi](https://www.youtube.com/watch?v=9qn0CGxZDpU)
                 - [vivi馨馨子](https://space.bilibili.com/165860259) HIT
-            - {{[[TODO]]}} 美元 还是比特币 选哪个 -- 区块链 比特币 入门教程
-            - {{[[TODO]]}} 五代河山风月
+            - tech
+                - {{[[TODO]]}} 美元 还是比特币 选哪个 -- 区块链 比特币 入门教程
+                - {{[[TODO]]}} 很多人把比特币看作数字黄金，但比特币有比黄金更好的[储值价值](https://www.zhihu.com/question/425743358/answer/1725416912)，在未来[全球社会][越来越不稳定]的[大前提]下，比特币是比黄金更好的[储值资产]，因为它[好转移]且[难以监管]（蒋介石当年[用飞机][拉走几十吨黄金]，他能拉走，绝大多数人不行）。
+                    - 这是我认为的比特币的[基本面]，它不仅是一种你希望别人以[更高价格]买走的资产，它有其他价值，这些价值在[乱世][非常有用]。
             - history...
+                - {{[[TODO]]}} 五代河山风月
                 - {{[[TODO]]}} [从郭静云的《夏商周》到石头布的华夏北来说](https://zhuanlan.zhihu.com/p/159496515)
                 - {{[[TODO]]}} 刘元海进位表 稚嫩的魔法师视频
                 - {{[[TODO]]}} 曹保明（民俗向）、尹世超（方言向）两位学者在80~90年代为[东北传统文化](https://www.zhihu.com/question/37197096/answer/1703100578)做出了巨大贡献。 -- [林怀谷](https://www.zhihu.com/people/lin-xiao-63-71) (作者) 回复 [Shookspeare](https://www.zhihu.com/people/yibai-ju)
                 - {{[[TODO]]}} 剑桥中国史-辽西夏金元
-            - {{[[TODO]]}} Nude Chinese Model : Uncensored Gallery [005](https://sxchinesegirlz.com/2020/01/15/nude-chinese-model-uncensored-gallery-005/)
-            - {{[[TODO]]}} [best far-east mod](https://tieba.baidu.com/p/7088859455?pn=2)!
-另外图上虽然把统一新罗、渤海以及日本的男爵领也初步画了下，但是因为实在是找不到更细的划分，所以大概目前只能精确到这一程度。统一新罗应该更细一点，不过目前[没有找到][统一新罗]的[第二级行政区划]的[资料]。
-渤海国[目前能找到的]也只有[谭图]，即使把[所有能够确认的][聚落][画上去]也只有[图上这样的]水平。其实我也[不太清楚]渤海国的[发展水平][到底如何]，[光看资料的话]似乎远比后来的东北地区[繁荣得多]。
-                - 半岛北部区划参考高句丽 半岛南部参考王氏高丽，因为韩人对北部的划分很敷衍 可能跟北部废墟化有关
-                - 东北北部有很多部落的 仅室韦也有几十个部落吧 可以用英语维基查询
-英维上面也很详细说明了那些室韦部落和室韦联盟的分部和组成 说蒙语的蒙兀室韦 和说通古斯语的大室韦等等部落都有
-                - 谷歌搜 Map Modding & Map Editor 101 可以找到那个教程 百度的英文搜索完全是 shit, 什么都找不到
-                - 问一下，你新rgb是怎么找的？
-用excel的vba生成的 並且通过excel的删除重复项防撞车
-                - 一个很令我发愁的问题，就是灰度图怎么生成高度。eu4里直接在heightmap上修改就行了，可是CK3只改heightmap好像不管用; 好像起作用的是一个叫packed_heightmap的文件。这个文件我至今没弄明白怎么生成的
-这个文件就是通过mapeditor的repack功能生成的
-可以进入之后输入指令 也可以直接在运行设置里写上 map_editor 和启用控制台一个方法
-                - 兄弟 QGIS 不是只能导入数据包和.shp文件来可视化嘛？还能用来设计？
-不过谭图的配准是我自己做的
+                - {{[[TODO]]}} 汪榕培：[漫谈]《诗经》的[英译本](https://new.qq.com/cmsn/20180206/20180206017112.html)
             - note-taking...
                 - {{[[TODO]]}} Roam Research [没有解决的问题](https://www.zhihu.com/question/384453977/answer/1714579914) -- 1、如何让“笔记第二脑”[像人的大脑一样]形成^^有“概率权重”的图谱^^，[图谱功能]的[鸡肋感]这点，也是目前[被用户][广为诟病]的[一个问题]。
                     - 26.偶尔，[我会发现][一个想法]使[一系列]其他的[观察结果][失效]，比如“中国强盗”的[概念](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/). 这[基本上][使我相信]我也容易[受到媒体的操纵] 
                     - 27.由于Twitter支持[串联线索]（thread），而且Twitter的[长度限制][迫使你][原子化地][处理想法]，因此Twitter[实际上可以]比Evernote[更好地成为][第二个大脑] | Twitter作为第二个大脑的缺点是，你[不再思考]那些可能[使你难堪]的想法，或者让你[面临社会风险]。问题是，如果你试图成为用twitter写论文的先驱，那么你在公共场合思考，所以你有意识地或下意识地转向思考那些有社会回报的思想 | 因此Roam的特别之处在于，用Twitter+富文本编辑器的理念解决了“网状结构”构建的问题，也通过标签部分解决了知识分类的问题，但是“正确的工具”[应该不止]目前Roam[现有的][产品形态]。 
                 - {{[[TODO]]}} Roam的属性功能（[Attributes](https://cn.logseq.com/t/topic/165)）可以用于块（Block）和页面（Page），而经过几天尝试，发现logseq目前有块属性（Block Property)，好像只能作用于块（block），单独用于页面（Page）效果与Roam有一定区别。
                     - [Attributes in Roam](https://roamresearch.com/#/app/help/page/LJOc7nRiO)
+                - {{[[TODO]]}} 如今，“深度链接”[这一概念](https://zhuanlan.zhihu.com/p/353378388)[出现在了][手机中]，大家似乎都把它[曾经的过往][忘得一干二净]，完全把它当成一个[全新的事物][来接受]——[没人记起]它曾经的[来龙去脉]。我说这话[没什么别的意思]。只是这就像是有人如今开拍了一个新的[喜剧节目]，给它起名叫做“巨蟒剧团”（Monty Python，英国六人[喜剧团体]，被誉为[喜剧界]的[披头士]），但却[不透露一点]这个[节目名]的[来历与过往]。
+                    - 这种把[深度链接]的过往[完全抹去]的做法其实[颇具讽刺意味]，因为链接就是为了[厘清][事物之间的联系]而发明的。发明深度链接的人认为，它能够以一种[颇具启发性的方式][将彼此相关的概念相连]，让人[产生新的思绪]，将[不同的想法][联系在一起]。要是 20年前，[网络时代]这些[远见卓识的人][真的达到了他们的目的]，那么以[重新定义]使用“深度链接”这一[术语]为代表的[科技文化健忘症][压根儿就不会发生]。他们[所设想的]那种真正的深度链接应该已经[确保了这一点]。
+                    - 如今，[网络链接]主要起到[导航]和[注解]的作用。我们不再使用链接来[分享]我们[思维火花]擦出的[相关知识之间的联系]，而是[留下了一大堆数据]，供[商家][寻找其中的价值]。
+                    - 随着网络的[飞速发展]，我们开始明白，链接[不仅有趣]，它的作用也非常大。链接让我们得以把[在网上看到的东西][综合起来]。你可以利用链接[绕开新闻网站]、[商家网站]或者[政府网站]的[官方主页]，用你[自己的主页]代替它们。1999 年出版的[《线车宣言》](https://link.zhihu.com/?target=http%3A//www.cluetrain.com/)（Cluetrain Manifesto）一书讲述了关于[网页跳转]的内容，而这本书本身就是由[网页内容][整理而成]的。该书的几位作者称，网络正在将[市场]和[其他所有事物]转向“对话交流”模式——简单说来，就是：“超链接[颠覆了][等级制度]。”这一度是网络链接[唯一的作用]。这也就是为什么你会看到公司[动不动就起诉]“用深度链接的人”，想要保护他们自己[在等级制度中的地位]。
+                    - “链接组成了一个[语义关系网络]，这是[人类历史上][一大了不起的进步]。而且我不认为它会[从我们的生活中逝去]，”他说道，“我确实担心，那些没什么[高超设计理念]、背后也没有[生产公司]支持的普通人会忘记他们也能利用链接建立语义关系网络。无论从哪个角度来说，链接仍然有着以前那些特点——只是它们现在已经[不再属于]我们这些用户了。而那将会是一大损失。”
+                    - 举个例子：1990 年代以来，[经验老道的][技术专家]兼[咨询顾问][杰瑞·麦考斯基](https://link.zhihu.com/?target=http%3A//sociate.com/bio.html)（Jerry Michalski）就在使用一款叫做 The Brain 的[思维导图软件]创建一个[相互连接的][思维和链接网络]。他是这么向我描述的：“我在创建一个巨大的[思维网络]，把所有[在我看来][重要的内容][联系在一起]。”（__I’ve been curating [a big ball of twine] of links to [everything that matters to me].__ 把一大团链子捆起来）前些时候，该网络的[内容条目]达到了 20 万个，而麦考斯基还在每天往这一网络中[添加新的链接]。他把自己的这一网络[公布在了网上](https://link.zhihu.com/?target=http%3A//jerrysbrain.com/)，最近还推出了 [iOS 应用版](https://link.zhihu.com/?target=http%3A//therexpedition.com/about/about-jerry/jerrysbrain-app-background-and-support-page/)。
+                    - 关于合作，这里还有另一个例子。[几年前](https://link.zhihu.com/?target=http%3A//www.wired.com/2012/07/wiki-inventor/)，[多人协作写作系统]维基（wiki）的[创始人]沃德·坎宁安（Ward Cunningham）[按下了重置键]，[清除了][自己原本的想法]，产生了一个[新点子]。他想要将维基和 Github [版本控制系统]相结合，创造出全新的“联邦维基”（federated wiki）。以前的维基（维基百科是其最为知名的维基系统应用网站）以能够让任何人编写每篇文章而著称。而在联邦维基的模式下，你只能修改自己的文章，但是你可以引用任何其他用户编写的内容，把它“克隆（fork）一份”固定下来——也就是说，一旦你引用了[他人某个版本的文章]后，原作者如果再对文章进行修改，你所引用的内容也不会发生变化。这些被“叉起来”的内容[包含了自身的历史]，[每一段数据]都[带有自身的来源信息]。网页的原作者既可以[吸收采纳你的修改]，也可以[无视你的改动]。
+                    - 与此同时，[还有一大损失]我们目前[还未怎么接触到]：我们的数据产生后，留下了[一道淡淡的尾痕]，那些可以[为商家带来利润]的细节[被抽走了]，[其他的部分]则[蒸发不见了]。这[抹去了]一些和文化相关的东西，给我们带来了[思想价值上的][重大损失]。我们每天在网上[组织起来的信息][无法在日后][给我们带来启发]——我们不是把它们[随手扔掉]了，就是把它们[拱手送给]了 Facebook、Google、苹果或者亚马逊。
+                    - 如果你想，[你完全可以了解]这篇文章的[思考历程]。在写作这篇文章时，我使用[提纲陈列软件] Workflowy [列出了文章的大纲]，并在[稍作删减]后将它[公布在了网上](https://link.zhihu.com/?target=https%3A//workflowy.com/s/HfTmnAeOe3)。这个大纲其实就是我的一些笔记，不过我[组织文章的思路][就是照着它来的]，所以你完全能够通过[阅读这些内容]，了解我是如何[把这些想法组织在一起]的——对了，你也会在上面看到许多[最终我没放进文章里的想法]。
+                    - 中文：[好奇心日报] “既然[手机里][塞满了]应用，你有必要知道什么是‘深度链接’” -- 2015 年 5 月 26 日 (最为震撼的一点是，即使是5年之后，这一概念还是没有激发起真正有影响力的的风潮。但暗淡背景下至少有一丝曙光，2020年掀起的新浪潮可以说是近些年来反响最强烈的一次，尽管依旧难以进入大众视野，但还是堪称一次重要的变革。)
+                    - 原文：[Will Deep Links Ever Truly Be Deep?](https://link.zhihu.com/?target=https%3A//medium.com/backchannel/the-failed-promise-of-deep-links-aa307b3abaa5)
                 - {{[[TODO]]}} 感谢作者讲解，已入坑。roam research 作者也可以试一下，两项工具的设计思路有类似之处。希望 [trilium](https://sspai.com/post/59792) 未来能有汉化。
                     - 看来大家都是研究 Roam 发现了这里
                     - 我又来安利 Org mode 了🤣，两篇内容看下来之后基本默认 Org 都可以做到（链接图要结合 Org-brain 或者 Org-roam），还有更多更强大的功能
@@ -94,27 +94,42 @@ Completed after 4 days.
                             - diffable
                             - full fidelity backups
                         - JSON and markdown based backups are fundamentally broken.
-            - {{[[TODO]]}} [fulanhu](https://space.bilibili.com/891292)
-                - ■ 修对：芙兰狐 
-            - {{[[TODO]]}} Wayback Machine
-            - {{[[TODO]]}} [Chinese Beautiful Model](https://www.xvideos.com/video58111881/chinese_beautiful_model)
-            - {{[[TODO]]}} Beautiful Asian model [gets some D](https://www.xvideos.com/video53750247/beautiful_asian_model_gets_some_d)
-            - {{[[TODO]]}} 汪榕培：[漫谈]《诗经》的[英译本](https://new.qq.com/cmsn/20180206/20180206017112.html)
+            - bili
+                - {{[[TODO]]}} [fulanhu](https://space.bilibili.com/891292)
+                    - ■ 修对：芙兰狐 
+                - {{[[TODO]]}} sawako; 憂衣 (ui); wyy ポジティブ・パレード
+            - tools
+                - {{[[TODO]]}} Wayback Machine
+                - {{[[TODO]]}} vpn in GitHub, Twitter, Reddit, Telegram, Discord...
+            - fuli
+                - {{[[TODO]]}} ^^Nude Chinese Model^^ : Uncensored Gallery [005](https://sxchinesegirlz.com/2020/01/15/nude-chinese-model-uncensored-gallery-005/)
+                - {{[[TODO]]}} [Chinese Beautiful Model](https://www.xvideos.com/video58111881/chinese_beautiful_model)
+                - {{[[TODO]]}} Beautiful Asian model [gets some D](https://www.xvideos.com/video53750247/beautiful_asian_model_gets_some_d)
+                - {{[[TODO]]}} aika somkil; 鹤 jp shashin; u5w-video dl; magnet dl; 郑珍妮
+                - {{[[TODO]]}} 猫九酱Sakura 2019, 某blog repost (202011? check my gnote) || 0051.jpg
             - game
+                - {{[[TODO]]}} [best far-east mod](https://tieba.baidu.com/p/7088859455?pn=2)!
+另外图上虽然把统一新罗、渤海以及日本的男爵领也初步画了下，但是因为实在是找不到更细的划分，所以大概目前只能精确到这一程度。^^统一新罗应该更细一点，不过目前[没有找到][统一新罗]的[第二级行政区划]的[资料]。^^
+渤海国[目前能找到的]也只有[谭图]，即使把[所有能够确认的][聚落][画上去]也只有[图上这样的]水平。其实我也[不太清楚]渤海国的[发展水平][到底如何]，[光看资料的话]似乎远比后来的东北地区[繁荣得多]。
+                    - 半岛北部区划参考高句丽 半岛南部参考王氏高丽，因为韩人对北部的划分很敷衍 可能跟北部废墟化有关
+                    - 东北北部有很多部落的 仅室韦也有几十个部落吧 可以用英语维基查询
+英维上面也很详细说明了那些室韦部落和室韦联盟的分部和组成 说蒙语的蒙兀室韦 和说通古斯语的大室韦等等部落都有
+                    - 谷歌搜 Map Modding & Map Editor 101 可以找到那个教程 百度的英文搜索完全是 shit, 什么都找不到
+                    - 问一下，你新rgb是怎么找的？
+用excel的vba生成的 並且通过excel的删除重复项防撞车
+                    - 一个很令我发愁的问题，就是灰度图怎么生成高度。eu4里直接在heightmap上修改就行了，可是CK3只改heightmap好像不管用; 好像起作用的是一个叫packed_heightmap的文件。这个文件我至今没弄明白怎么生成的
+这个文件就是通过mapeditor的repack功能生成的
+可以进入之后输入指令 也可以直接在运行设置里写上 map_editor 和启用控制台一个方法
+                    - 兄弟 QGIS 不是只能导入数据包和.shp文件来可视化嘛？还能用来设计？
+不过谭图的配准是我自己做的
                 - {{[[TODO]]}} [Diius mod](https://bbs.52pcgame.net/forum.php?mod=viewthread&tid=356830) **男人國與女人國**
                 - {{[[TODO]]}} 十字军之王/CK3 中国MOD 三国MOD [龙战三国](https://www.bilibili.com/video/BV1tt4y167fW) 
                     - 初版功能介绍 吕奉先痛失爱妻 娶貂蝉北上称王
                 - {{[[TODO]]}} 一些P社CK3MOD[板块][画的大饼](https://tieba.baidu.com/p/7022191041)
                     - ^^Anbennar 是一个[基于D&D的]EU4[奇幻MOD]，现在[制作组][决定制作]CK3版^^，开始时间为EU4版（1444）的422年前（1022）
-            - {{[[TODO]]}} sawako; 憂衣 (ui); wyy ポジティブ・パレード
-            - {{[[TODO]]}} aika somkil; 鹤 jp shashin; u5w-video dl; magnet dl; 郑珍妮
-            - {{[[TODO]]}} 猫九酱Sakura 2019, 某blog repost (202011? check my gnote) || 0051.jpg
             - {{[[TODO]]}} cnki account; 
             - {{[[TODO]]}} characters modding; ck3 backup; chrome indexDB backup; 
             - {{[[TODO]]}} roam/css; js; roam page or block attribute; score; temp; meiz/crr; adding figs; 
-            - {{[[TODO]]}} 很多人把比特币看作数字黄金，但比特币有比黄金更好的[储值价值](https://www.zhihu.com/question/425743358/answer/1725416912)，在未来[全球社会][越来越不稳定]的[大前提]下，比特币是比黄金更好的[储值资产]，因为它[好转移]且[难以监管]（蒋介石当年[用飞机][拉走几十吨黄金]，他能拉走，绝大多数人不行）。
-                - 这是我认为的比特币的[基本面]，它不仅是一种你希望别人以[更高价格]买走的资产，它有其他价值，这些价值在[乱世][非常有用]。
-            - {{[[TODO]]}} vpn in GitHub, Twitter, Reddit, Telegram, Discord...
         - detail point 99.99 (pt10-99.99)
             - {{[[TODO]]}} [HoneySelect2/工作室存档](http://www.uu-gg.cc/forum.php?mod=viewthread&tid=76556) 借钱（骨骼绑定可动场景）
             - {{[[TODO]]}} **采蘑菇的小芋艿** -- 心中有丘壑，眉目做山河 -- 【[新手助眠](https://space.bilibili.com/438127416/dynamic)】
