@@ -73,3 +73,17 @@
         - ### Triggering Slide-In CTAs
             - Another example of [JavaScript in action] is a [slide-in call-to-action (CTA)](https://blog.hubspot.com/marketing/how-to-add-a-slide-in-call-to-action-to-your-blog-posts), like the ones we [put on our blog posts], which [appears on the bottom right-hand side] of your screen when you [scroll past the end of the sidebar]. Here's what it looks like: #[[slide-in call-to-action (CTA)]]
 210305-14:37
+        - ### Storing New Information
+            - JavaScript is [particularly useful for] [assigning new identities to] [existing website elements], [according to the decisions the user makes] while [visiting the page]. For example, [let's say] you're building a [[landing page]] with a form you'd like to [generates leads from] 生成线索 by [capturing information about] a [website visitor]. You might have a "string" of JavaScript [dedicated to the user's first name]([[first name]]). That string might [look something like this]:
+210305-16:04
+
+`function updateFirstname() {
+
+let Firstname = prompt('First Name');
+
+}`
+            - Then, after the [website visitor] [enters his or her first name] -- and [any other information you require] [on the landing page] -- and [submits the form]([[submit the form]]), this action [updates the identity]([[update the identity]]) of the [[initially undefined]] "Firstname" element in your code. Here's how you might [thank your website visitor] by name in JavaScript:
+210305-16:25
+`para.textContent = 'Thanks, ' + Firstname + "! You can now download your ebook."`
+                - In the string of JavaScript above, the "Firstname" element has been [assigned the first name] of the website visitor, and will therefore [produce his or her actual first name] [on the frontend of the webpage]. To a user named Kevin, the sentence [would look like this]:
+__Thanks, Kevin! You can now download your ebook.__

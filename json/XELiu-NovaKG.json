@@ -6657,6 +6657,32 @@
             },
             "children": [
               {
+                "string": "detail point 100 (pt8-100)",
+                "create-time": 1614936971960,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "[如何使用](https://www.bilibili.com/video/BV1tv411h75N)[模板功能] / [笔记神器] Obsidian [完全指南] -- translation background ",
+                    "create-time": 1614936973171,
+                    "uid": "DAK4grBq5",
+                    "edit-time": 1614937007225,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "9dAXbyiHc",
+                "edit-time": 1614937018478,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "detail point 99.99 (pt8-99.99)",
                 "create-time": 1613211321940,
                 ":create/user": {
@@ -7802,10 +7828,10 @@
             }
           },
           {
-            "string": "御姐; ",
+            "string": "御姐; 丝路大亨",
             "create-time": 1612697509824,
             "uid": "Jl78eJ9Wm",
-            "edit-time": 1614692627892,
+            "edit-time": 1614930833256,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -70585,6 +70611,81 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "Storing New Information",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "JavaScript is [particularly useful for] [assigning new identities to] [existing website elements], [according to the decisions the user makes] while [visiting the page]. For example, [let's say] you're building a [[landing page]] with a form you'd like to [generates leads from] 生成线索 by [capturing information about] a [website visitor]. You might have a \"string\" of JavaScript [dedicated to the user's first name]([[first name]]). That string might [look something like this]:\n210305-16:04\n\n`function updateFirstname() {\n\nlet Firstname = prompt('First Name');\n\n}`",
+                    "refs": [
+                      {
+                        "uid": "8gmNjNqTu"
+                      },
+                      {
+                        "uid": "7tgrm_gQ0"
+                      }
+                    ],
+                    "uid": "_hVZOuazA",
+                    "edit-time": 1614931498432,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8gmNjNqTu"
+                      },
+                      {
+                        ":block/uid": "7tgrm_gQ0"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "Then, after the [website visitor] [enters his or her first name] -- and [any other information you require] [on the landing page] -- and [submits the form]([[submit the form]]), this action [updates the identity]([[update the identity]]) of the [[initially undefined]] \"Firstname\" element in your code. Here's how you might [thank your website visitor] by name in JavaScript:\n210305-16:25\n`para.textContent = 'Thanks, ' + Firstname + \"! You can now download your ebook.\"`",
+                    "refs": [
+                      {
+                        "uid": "fo59R9h0g"
+                      },
+                      {
+                        "uid": "o4G8faAPj"
+                      },
+                      {
+                        "uid": "hCvhnpF6D"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "In the string of JavaScript above, the \"Firstname\" element has been [assigned the first name] of the website visitor, and will therefore [produce his or her actual first name] [on the frontend of the webpage]. To a user named Kevin, the sentence [would look like this]:\n__Thanks, Kevin! You can now download your ebook.__",
+                        "uid": "kTfEVrlFz",
+                        "edit-time": 1614932426088,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "9mQ-NfDkP",
+                    "edit-time": 1614932723852,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fo59R9h0g"
+                      },
+                      {
+                        ":block/uid": "o4G8faAPj"
+                      },
+                      {
+                        ":block/uid": "hCvhnpF6D"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "dl_8V-mzY",
+                "edit-time": 1614930888758,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "Syerqp-O5",
@@ -71536,6 +71637,322 @@
     "title": "slide-in call-to-action (CTA)",
     "uid": "qKWm5JCg4",
     "edit-time": 1614926161292,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614931140600,
+    "title": "landing page",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary",
+        "create-time": 1614931507215,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Unique [login and landing page] for each [SaaS application]([[Software as a Service (SaaS)]]). 登陆页面; 目标网页 www.[ibm].com",
+            "create-time": 1614931899276,
+            ":block/refs": [
+              {
+                ":block/uid": "2zJn9IsDy"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "2zJn9IsDy"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "_s5Il8UGU",
+            "edit-time": 1614931980539,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "How to simplify the landing page and [sign up flow]. 流程 www.[fortunechina].com",
+            "create-time": 1614931899276,
+            "uid": "5RKyRt3dS",
+            "edit-time": 1614932027897,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I would make one key suggestion be sure to test your landing page for conversion purposes. ((PpvEwWLiM))",
+            "create-time": 1614931899276,
+            ":block/refs": [
+              {
+                ":block/uid": "PpvEwWLiM"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PpvEwWLiM"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "clIRC8mKX",
+            "edit-time": 1614931922574,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Entrance shows the number of times that the funnel page 渠道页面 was a landing page. ",
+            "create-time": 1614931899276,
+            "uid": "hDpVWaGpl",
+            "edit-time": 1614931899280,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Those [user behaviors] include [click behaviors] on the [result page] and behaviors on the landing page. www.[fabiao].net",
+            "create-time": 1614931899276,
+            "uid": "si6RGLZMw",
+            "edit-time": 1614932056596,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FdJK7Mkpf",
+        "edit-time": 1614931511958,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "8gmNjNqTu",
+    "edit-time": 1614931140607,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614931298244,
+    "title": "first name",
+    "uid": "7tgrm_gQ0",
+    "edit-time": 1614931298245,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614931980542,
+    "title": "Software as a Service (SaaS)",
+    "uid": "2zJn9IsDy",
+    "edit-time": 1614931980542,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614932266508,
+    "title": "initially undefined",
+    "uid": "fo59R9h0g",
+    "edit-time": 1614932266509,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614932284673,
+    "title": "update the identity",
+    "uid": "o4G8faAPj",
+    "edit-time": 1614932284674,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614932315272,
+    "title": "submit the form",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1614932832043,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "It does not [actually save the data] [when the user submits the form]. ((AAXMe9jZe))",
+            "create-time": 1614932835437,
+            ":block/refs": [
+              {
+                ":block/uid": "AAXMe9jZe"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "AAXMe9jZe"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "lgKascH6X",
+            "edit-time": 1614932863795,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Each [[form instance]] 表单实例 [saves its data periodically]([[save data periodically]]) [until the user submits the form]. ",
+            "create-time": 1614932835437,
+            ":block/refs": [
+              {
+                ":block/uid": "vHAsgd2Td"
+              },
+              {
+                ":block/uid": "b_vCzWysX"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vHAsgd2Td"
+              },
+              {
+                "uid": "b_vCzWysX"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "4uSLZUWFB",
+            "edit-time": 1614933072001,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The method is POST, and [default action] [submits the form data back to] this [[servlet]]. ",
+            "create-time": 1614932835437,
+            ":block/refs": [
+              {
+                ":block/uid": "SzxYhbgwA"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "SzxYhbgwA"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "AeAyJtaxH",
+            "edit-time": 1614933100981,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A button that [submits the form to the server]. provided by [jukuu]",
+            "create-time": 1614932835437,
+            "uid": "kckKV6cLi",
+            "edit-time": 1614933118980,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "When user submits the form [on the client], [a series of steps] [occur on the server]. www.[javaeye].com",
+            "create-time": 1614932835437,
+            "uid": "ZaWuxwLHD",
+            "edit-time": 1614933127173,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "kfXK3_Tig",
+        "edit-time": 1614932834467,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "hCvhnpF6D",
+    "edit-time": 1614932315272,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614932870589,
+    "title": "form instance",
+    "uid": "vHAsgd2Td",
+    "edit-time": 1614932870589,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614932931017,
+    "title": "save data periodically",
+    "uid": "b_vCzWysX",
+    "edit-time": 1614932931018,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614933100983,
+    "title": "servlet",
+    "uid": "SzxYhbgwA",
+    "edit-time": 1614933100983,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
