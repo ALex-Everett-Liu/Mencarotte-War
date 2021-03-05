@@ -328,6 +328,7 @@ http://corpus.zhonghuayuwen.org/index.aspx
                 - [前段时间][上网冲浪]的时候[突然想到]，做个像 [workflowy] 一样的[主页](https://www.yuque.com/idelem/zt/ny150b)也不错，所有内容都放在同一个页面里，一层层点击展开，渐入佳境（唯一的问题是对手机流量上网不友好）。既然 workflowy 自带导出功能，思路自然是把 workflowy 本身作为内容编辑器，再写脚本修改 html 文件。稍加研究后就实现了，在此记录下实现过程。
                 - {{[[TODO]]}} help docs || roam — Upload Image, Audio, or File 
 obsidian — Link to blocks
+                - {{[[TODO]]}} 关于[思源笔记][上手][自定义主题]的[简单引导](https://www.bilibili.com/video/BV1bf4y167ge) -- css tutorial 
             - 其实很多[所谓的]玩[猫箱](https://bbs.saraba1st.com/2b/thread-1988791-2-1.html)梗的东西，[实质上只是][人择原理]的应用而已。
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
             - {{[[TODO]]}} 在玻璃上[喷涂](https://www.zhihu.com/question/420760487/answer/1692006101)一层[玻璃清洁][涂层]。利用[纳米分子]在[玻璃表面][附着一层][疏水层]，水渍和污垢就很难[附着在]玻璃上面了。喷涂一次一般可以管2-3年，再也不用为天天[擦玻璃]而头疼了。
@@ -376,6 +377,8 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
             - tech
                 - {{[[TODO]]}} [显卡](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1989745)不能挖的只有[比特币]一种，[虚拟货币]有很多，[大多]都还能[用显卡挖]，甚至有的虚拟货币还在[主动][定期调整算法]避免像比特币一样[变得]只有[ASIC定制芯片]能挖
                 - {{[[TODO]]}} [2020至2021年度 挖矿炒卡楼](https://bbs.saraba1st.com/2b/forum.php?mod=redirect&goto=findpost&ptid=1974976&pid=) #[[bitcoin (BTC)]]
+                - 最近一直玩[Defi流动性挖矿](https://www.zhihu.com/question/324838085)，感觉Defi + [算法稳定币]，有点类似现实中的[造假钞]行为，会成为一个[资金黑洞]，吸引各种[法币][进入这个系统]，ETH和BTC作为法币和假钞之间的[中介][提供极强的流动性]，使假钞完全可以合法的[在现实生活中流通]，这样发展下去，政府和[币圈]之间[必有一战]..
+                - 如果真的打算考虑，建议[从一下几个方面](https://www.zhihu.com/question/348992677/answer/1532801540)理理思路: 1.是否已经有[固定的交易模式]，并且[能有效转换成][量化指标]。2.是否有[足够多的时间精力]，[量化程序][需要大量回测]，[上实盘后]的一段时间还会[有大量bug]，需要[时刻关注]，否则[风险很大]。3.资金是否足够，做好亏完打算的那种。
                 - {{[[TODO]]}} codecademy
                 - 原文：[Why Everyone Should Build Their Own PC and Stop Using Macs (americanpurpose.com)](https://www.americanpurpose.com/blog/fukuyama/why-everyone-should-build-their-own-pc-and-stop-using-macs/)
                     - 作者是那个写出《历史的终结及最后之人》的[弗朗西斯·福山](https://bbs.saraba1st.com/2b/thread-1985591-5-1.html)
@@ -387,6 +390,8 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
 [del]老爷子应该是没真用过 LibreOffice，[那破玩意儿]和 Office [真的没得比的啊][/del]
                         - libre [写写文档]不够了么 我已经把office卸了 全面转向 libreoffice
 不过我主力是latex和pandas
+                - anaconda：conda的[压缩包](https://www.zhihu.com/question/404402864/answer/1692589822)。自带了一个名为base的[虚拟环境]，这个虚拟环境里[安装了]很多和[数据处理]有关的[python包]。
+                    - 因为conda的[不同虚拟环境]使用的是[各自独立的] [python 解释器]，你可以在不同环境里安装[不同版本的python]，而virtualenv只是各自的python包[互相独立]，用的python是[同一个版本]。这一点不确定的同学可以参考[廖雪峰的教程]
             - game
                 - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
@@ -488,6 +493,11 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
     - level 8
         - detail point 100 (pt8-100)
             - [如何使用](https://www.bilibili.com/video/BV1tv411h75N)[模板功能] / [笔记神器] Obsidian [完全指南] -- translation background 
+            - **TOME4的[怪物强度]怎么[预估]**
+                - [国内社群](https://bbs.saraba1st.com/2b/thread-1988589-1-1.html)[还在活跃的]只有[贴吧]了，但贴吧的[战报][版本滞后]太严重，而且有不少是错误的。
+[官方论坛]似乎有BD讨论板块，更直接一点可以去官网的characters vault查看所有上传到vault的人物bd。
+                - 去试了下原来[夺心魔][一技能]可以[手动控制]怪的……不过手动控制怪的话，玩家角色会怎么动？[自主放技能]吗？
+另外问下[召唤师]现在版本[召唤物]怎么样？感觉[输出跟不上了]，跟恐惧王座BOSS拼召唤，对面的[骷髅军团]比我的强了。主力还是牛头火龙吗？
         - detail point 99.99 (pt8-99.99)
             - 过去数十年间，人们已经研究了绿头鸭·萨凡纳麻雀等多种鸟类、海豹[2]、蛙类[3]等各式各样的[脊椎动物][利用星光定向](https://www.zhihu.com/question/445258601/answer/1739870656)的方法。一些学者认为鸟会[从星空中][寻找模式]，就像古人[划分星座]那样，然后将星空和自己[内在的方向感][进行比对]来[校正前进方向]，[迁徙路线][跨越赤道]的鸟可能对[北天星空]、南天星空[各有一套认知]。海豹的[类似行为]则可能是在[实验过程]中[学习得来的]。
             - 而生活在当时的那些[奇特生物](https://www.zhihu.com/question/267354309/answer/322644776)们，比如猛犸象、剑齿虎，以及现在还生活在极地或高原上的一些[耐寒动物]们，比如北极熊、雪豹、雪羊，它们[所处的环境温度]常年都很低，却可以[处之泰然]。它们甚至反而[很不适应][温暖的环境]：[猛犸象]在[冰川期]结束之后[很快就灭绝了]，而在这几年的新闻里，因为[气候变暖]导致[北极熊][吃不饱]的新闻可是[比比皆是]。

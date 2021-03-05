@@ -90,6 +90,12 @@ __Thanks, Kevin! You can now download your ebook.__
         - ### Security, Games, and Special Effects
             - Other uses for JavaScript include [[security password]] creation, [[check form]]s, [[interactive game]]s, [[animation]]s, and [[special effect]]s. It's also used to build [[mobile app]]s and create [[server-based application]]s. You can add JavaScript to an [HTML document] by adding these "scripts," or [[snippet]]s of [JavaScript code], into your [document's header or body].
             - If you want to learn more about JavaScript, [codecademy has free online courses](https://www.codecademy.com/catalog/language/javascript) you can take, too.
-    - The hardest part of coding is getting started -- but once you learn the basics, it'll be easier to learn more advanced programming languages. And if you ever feel overwhelmed, head over to [hackertyper.net](http://hackertyper.net/) and hit random keys on your keyboard.
-    - Trust me, you'll feel better.
-    - __Editor's note: This post was originally published in November 2018 and has been updated for comprehensiveness.__
+    - [The hardest part of coding] is [getting started] -- but once you [learn the basics], [it'll be easier to learn] [more advanced programming languages]. And if you [ever feel overwhelmed], head over to [hackertyper.net](http://hackertyper.net/) and __[hit random keys on your keyboard].__
+210305-23:51
+        - Trust me, you'll feel better.
+- __Editor's note: This post was [originally published in] November 2018 and [has been updated for comprehensiveness].__
+    - Originally published Oct 19, 2020 7:00:00 AM, updated October 26 2020
+- Topics: [Website Development](https://blog.hubspot.com/website/website-development)
+    - Don't forget to [share this post]!
+    - Related Articles
+        - [The 4 HTML Codes Every Non-Programmer Needs to Know](https://blog.hubspot.com/blog/tabid/6307/bid/5586/basic-html-every-internet-marketer-should-know.aspx)

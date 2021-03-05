@@ -8346,6 +8346,9 @@ a.rm-alias.rm-alias-external {
   	--right-sidebar__border: #e9892475;
   	--right-sidebar-masonry__background-color: var(--body__background-color);
   	--right-sidebar-masonry__border: #3d3d3d;
+  	/* topbar */
+  	--search__background: rgba(202,202,139,0.2);
+  	--search__background-color_selected-row: #4c4c4c;
 }
 
 /* scrollbar */
