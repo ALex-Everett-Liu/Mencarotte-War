@@ -26871,6 +26871,28 @@
             }
           },
           {
+            "string": "www.[[hjenglish]].com",
+            "create-time": 1614916813865,
+            ":block/refs": [
+              {
+                ":block/uid": "YPoTGIYih"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "YPoTGIYih"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "quPQvHPKH",
+            "edit-time": 1614916817295,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "edit-time": 1613434579177,
             "children": [
               {
@@ -70226,7 +70248,7 @@
                     }
                   },
                   {
-                    "string": "To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's [blog post](https://blog.hubspot.com/blog/tabid/6307/bid/23454/The-Ultimate-Cheat-Sheet-for-Mastering-LinkedIn.aspx), but shown in [[Basic HTML]], and the second screenshot is that same blog post with HTML __and __CSS. #LinkedIn #aspx",
+                    "string": "To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's [blog post](https://blog.hubspot.com/blog/tabid/6307/bid/23454/The-Ultimate-Cheat-Sheet-for-Mastering-LinkedIn.aspx), but shown in [[Basic HTML]], and the second screenshot is that same blog post with HTML __and __CSS. #LinkedIn #aspx #[[cheat sheet]]",
                     "refs": [
                       {
                         "uid": "vUNOGDB5i"
@@ -70236,10 +70258,59 @@
                       },
                       {
                         "uid": "1le7K2Axx"
+                      },
+                      {
+                        "uid": "bXlWRUcKm"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "edit-time": 1614917094604,
+                        "children": [
+                          {
+                            "string": "Example of HTML + CSS",
+                            "create-time": 1614916549530,
+                            "uid": "m-GDuJs-U",
+                            "edit-time": 1614916550750,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "Isn't that prettier?",
+                            "uid": "9rMW-roTW",
+                            "edit-time": 1614916560242,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "YX1DeXgFv"
+                          }
+                        ],
+                        "uid": "5iOKV70gA",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "YX1DeXgFv"
+                          }
+                        ],
+                        "string": "Notice [all the content is still] there, but the visual styling isn't. This is [what you might see] if the [[style sheet]] [doesn't load on the website], for whatever reason. Now, here's what [the same web page] looks like [with CSS added].\n210305-12:03",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1614916464868,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "uid": "aY8xx69i0",
-                    "edit-time": 1614915300345,
+                    "edit-time": 1614916848418,
                     ":block/refs": [
                       {
                         ":block/uid": "vUNOGDB5i"
@@ -70249,6 +70320,9 @@
                       },
                       {
                         ":block/uid": "1le7K2Axx"
+                      },
+                      {
+                        ":block/uid": "bXlWRUcKm"
                       }
                     ],
                     ":edit/user": {
@@ -70261,10 +70335,260 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "Put simply, CSS is [a list of rules] that can [assign different properties to] HTML tags, either [specified to single tags], multiple tags, an entire document, or [[multiple documents]]. It exists because, as [[design element]]s like [fonts and colors] were developed, [web designers] [had a lot of trouble] [adapting HTML to these new features].\n210305-12:12",
+                "refs": [
+                  {
+                    "uid": "ohk9yVzek"
+                  },
+                  {
+                    "uid": "uifS5MHPx"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "You see, HTML, developed back in 1990, was [not really intended to] show any [physical formatting information]. It was [originally meant only to] define a document's [[structural content]], like headers versus [[paragraph]]s. HTML outgrew these new design features, and CSS was invented and released in 1996: All formatting [could be removed from] [HTML documents] and [stored in separate CSS (.css) files].",
+                    "refs": [
+                      {
+                        "uid": "Xka98Iatb"
+                      },
+                      {
+                        "uid": "age6x3dOJ"
+                      }
+                    ],
+                    "uid": "cODa3E7tL",
+                    "edit-time": 1614917765764,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Xka98Iatb"
+                      },
+                      {
+                        ":block/uid": "age6x3dOJ"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "PiKXRykLf",
+                "edit-time": 1614917580182,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ohk9yVzek"
+                  },
+                  {
+                    ":block/uid": "uifS5MHPx"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "So, what exactly does CSS stand for? It stands for Cascading Style Sheets -- __and \"style sheet\" refers to the document itself.__ Ever [web browser] has a [[default style sheet]], so every web page out there is [affected by at least one style sheet] -- the default style sheet of [whatever browser the web page visitor is using] -- [regardless whether or not] the [web designer] [applies any styles]. For example, my browser's [default font style] is [[Times New Roman]], [size 12], so if I [visited a web page] where the designer didn't [apply a style sheet of their own], I would see the web page in Times New Roman, size 12.",
+                "refs": [
+                  {
+                    "uid": "n6J_4KDZh"
+                  },
+                  {
+                    "uid": "UVDgcKXQC"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Obviously, [the vast majority of] web pages I visit don't use Times New Roman, size 12 -- that's because [the web designers behind those pages] [started out with a default style sheet] that [had a default font style], and then they [overrode my browser's defaults] with [[custom CSS]]. That's where the word \"cascading\" [comes into play]. Think about a waterfall -- as water cascades down the fall, it [hits all the rocks] on the way down, but only [the rocks at the bottom] affect [where it will end up flowing]. In the same way, the [[last defined]] style sheet [informs my browser] [which instructions have precedence]([[instruction precedence]]).\n210305-14:10",
+                    "refs": [
+                      {
+                        "uid": "MDnTTz-_P"
+                      },
+                      {
+                        "uid": "QvKA0QeyD"
+                      },
+                      {
+                        "uid": "82WdEZI09"
+                      }
+                    ],
+                    "uid": "MY8v9uwGI",
+                    "edit-time": 1614924709280,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "MDnTTz-_P"
+                      },
+                      {
+                        ":block/uid": "QvKA0QeyD"
+                      },
+                      {
+                        ":block/uid": "82WdEZI09"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "jglPwDr8C",
+                "edit-time": 1614924125328,
+                ":block/refs": [
+                  {
+                    ":block/uid": "n6J_4KDZh"
+                  },
+                  {
+                    ":block/uid": "UVDgcKXQC"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "To learn the specifics of [coding in CSS], I'll [point you again to] the free classes and resources on [codecademy](https://www.codecademy.com/catalog/subject/web-development). But for now, let's talk a bit about JavaScript.",
+                "uid": "ql8s52roT",
+                "edit-time": 1614924369561,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "YU6PeuDF_",
             "edit-time": 1614872081026,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "JavaScript",
+            "heading": 3,
+            "children": [
+              {
+                "string": "JavaScript is [a more complicated language] than HTML or CSS, and it wasn't [released in beta form] until 1995. Nowadays, JavaScript is supported by all [modern web browsers] and is [used on almost every site] [on the web] for more powerful and [complex functionality].",
+                "uid": "JxomUwR1d",
+                "edit-time": 1614925146667,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "What is JavaScript used for?",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "JavaScript is a [[logic-based programming language]] that [can be used to] [modify website content] and [make it behave in different ways] [in response to a user's actions]. [Common uses for] JavaScript include [[confirmation box]]es, [calls-to-action], and [adding new identities to] [existing information].\n210305-14:24",
+                    "refs": [
+                      {
+                        "uid": "3n4aUo-1P"
+                      },
+                      {
+                        "uid": "iYGZQkiiM"
+                      }
+                    ],
+                    "uid": "2PkuC5EXO",
+                    "edit-time": 1614926086043,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3n4aUo-1P"
+                      },
+                      {
+                        ":block/uid": "iYGZQkiiM"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "In short, JavaScript is a programming language that lets web developers design [[interactive site]]s. Most of the [[dynamic behavior]] [you'll see on a web page] is [thanks to JavaScript], which augments [a browser's default controls and behaviors].",
+                    "refs": [
+                      {
+                        "uid": "sbnGeu6R3"
+                      },
+                      {
+                        "uid": "R1Mj4XTte"
+                      }
+                    ],
+                    "uid": "_jsj913DQ",
+                    "edit-time": 1614925529474,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sbnGeu6R3"
+                      },
+                      {
+                        ":block/uid": "R1Mj4XTte"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "yraNAqz3q",
+                "edit-time": 1614925205342,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Creating Confirmation Boxes",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "One example of JavaScript in action is boxes that [pop up on your screen]. Think about the last time you [entered your information into] [an online form] and [a confirmation box popped up], asking you to press \"OK\" or \"Cancel\" to proceed. That was [made possible because of] JavaScript -- in the code, you'd find [an \"if ... else ...\" statement]([[if-else statement]]) that [tells the computer to] do one thing if the user clicks \"OK,\" and a different thing if the user clicks \"Cancel.\"",
+                    "refs": [
+                      {
+                        "uid": "sVtBEfbLM"
+                      }
+                    ],
+                    "uid": "SuPis2QAi",
+                    "edit-time": 1614925982023,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sVtBEfbLM"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "tBACPetvm",
+                "edit-time": 1614925485529,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Triggering Slide-In CTAs",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "Another example of [JavaScript in action] is a [slide-in call-to-action (CTA)](https://blog.hubspot.com/marketing/how-to-add-a-slide-in-call-to-action-to-your-blog-posts), like the ones we [put on our blog posts], which [appears on the bottom right-hand side] of your screen when you [scroll past the end of the sidebar]. Here's what it looks like: #[[slide-in call-to-action (CTA)]]\n210305-14:37",
+                    "refs": [
+                      {
+                        "uid": "qKWm5JCg4"
+                      }
+                    ],
+                    "uid": "Ilvyy4fHI",
+                    "edit-time": 1614926272369,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "qKWm5JCg4"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "PRPu3KuHU",
+                "edit-time": 1614926030205,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Syerqp-O5",
+            "edit-time": 1614925103928,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -70802,11 +71126,35 @@
   {
     "create-time": 1614907387730,
     "title": "March 5th, 2021",
-    "uid": "03-05-2021",
-    "edit-time": 1614907387730,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Web Design 101: How HTML, CSS, and JavaScript Work]]\n210305-14pm",
+        "create-time": 1614926406332,
+        ":block/refs": [
+          {
+            ":block/uid": "iEXjIyJ-i"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "iEXjIyJ-i"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "hsGwTiKtd",
+        "edit-time": 1614926411143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "03-05-2021",
+    "edit-time": 1614907387730,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -70840,6 +71188,354 @@
     "title": "aspx",
     "uid": "1le7K2Axx",
     "edit-time": 1614915300350,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614916512517,
+    "title": "style sheet",
+    "uid": "YX1DeXgFv",
+    "edit-time": 1614916512518,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614916817297,
+    "title": "hjenglish",
+    "uid": "YPoTGIYih",
+    "edit-time": 1614916817298,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614916848421,
+    "title": "cheat sheet",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1614916851383,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "(informal) 备忘纸条, 备忘单；（[尤指][考试用的]）作弊纸条, 小抄",
+            "create-time": 1614919240788,
+            "uid": "w3Q9zr6jX",
+            "edit-time": 1614919247711,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[a set of notes] to [help you remember] [important information], especially one [taken secretly into] an [exam room].",
+            "create-time": 1614919240788,
+            "uid": "5QmRF7XfG",
+            "edit-time": 1614919271228,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The [parameter element] is used to [reference a cheat sheet]. ((AAXMe9jZe))",
+            "create-time": 1614916857595,
+            ":block/refs": [
+              {
+                ":block/uid": "AAXMe9jZe"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "AAXMe9jZe"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "adE5d4gDV",
+            "edit-time": 1614916868502,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A cheat sheet demonstrates how to import a [[sample project]]. ",
+            "create-time": 1614916857595,
+            ":block/refs": [
+              {
+                ":block/uid": "4TjHXIwoB"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4TjHXIwoB"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ta2pTqe1-",
+            "edit-time": 1614916877571,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[A good example of this behavior] is the [Create a Hello World application] cheat sheet. ",
+            "create-time": 1614916857595,
+            "uid": "hcgcX73gQ",
+            "edit-time": 1614916953467,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A task represents a cheat sheet and is implemented [using the task element]. ",
+            "create-time": 1614916857595,
+            "uid": "2xmdXEKyL",
+            "edit-time": 1614916962244,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I think we can [bring a cheat sheet with us]. www.[hjenglish].com",
+            "create-time": 1614916857595,
+            "uid": "ajMI9XwsG",
+            "edit-time": 1614917005288,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "0RKjpLiJq",
+        "edit-time": 1614916853611,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "bXlWRUcKm",
+    "edit-time": 1614916848422,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614916877573,
+    "title": "sample project",
+    "uid": "4TjHXIwoB",
+    "edit-time": 1614916877573,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614917372238,
+    "title": "multiple documents",
+    "uid": "ohk9yVzek",
+    "edit-time": 1614917372239,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614917396387,
+    "title": "design element",
+    "uid": "uifS5MHPx",
+    "edit-time": 1614917396389,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614917537793,
+    "title": "structural content",
+    "uid": "Xka98Iatb",
+    "edit-time": 1614917537800,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614917671299,
+    "title": "paragraph",
+    "uid": "age6x3dOJ",
+    "edit-time": 1614917671301,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614922426177,
+    "title": "default style sheet",
+    "uid": "n6J_4KDZh",
+    "edit-time": 1614922426177,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614922469240,
+    "title": "Times New Roman",
+    "uid": "UVDgcKXQC",
+    "edit-time": 1614922469245,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614924163911,
+    "title": "custom CSS",
+    "uid": "MDnTTz-_P",
+    "edit-time": 1614924163911,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614924246017,
+    "title": "instruction precedence",
+    "uid": "QvKA0QeyD",
+    "edit-time": 1614924246018,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614924253616,
+    "title": "last defined",
+    "uid": "82WdEZI09",
+    "edit-time": 1614924253617,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614925279091,
+    "title": "confirmation box",
+    "uid": "3n4aUo-1P",
+    "edit-time": 1614925279098,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614925374001,
+    "title": "logic-based programming language",
+    "uid": "iYGZQkiiM",
+    "edit-time": 1614925374002,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614925515065,
+    "title": "interactive site",
+    "uid": "sbnGeu6R3",
+    "edit-time": 1614925515066,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614925515065,
+    "title": "dynamic behavior",
+    "uid": "R1Mj4XTte",
+    "edit-time": 1614925515066,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614925982028,
+    "title": "if-else statement",
+    "uid": "sVtBEfbLM",
+    "edit-time": 1614925982030,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1614926161292,
+    "title": "slide-in call-to-action (CTA)",
+    "uid": "qKWm5JCg4",
+    "edit-time": 1614926161292,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
