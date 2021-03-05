@@ -1,0 +1,6 @@
+- dictionary 
+    - [Joint Inversion of Gravity and Magnetic Data] 重磁联合反演 with Varying Density and [Constant Magnetic Susceptibility Interface Model]. 磁化强度界面 www.[dictall].com
+    - [Axisymmetric vibrations] 轴对称振动 of [circular and annular membranes] 环形薄膜 with [non-uniformly varying density]. dict.[cnki].net
+    - A numerical analysis of axisymmetric transverse free vibrations of circular and annular membranes with non uniformly varying density is presented.
+    - The ceramic composite armors 陶瓷复合装甲 consist of Al2O3 backed plates with varying density.
+    - Improved the calculating method of the density up to distance, in order to make the original CADD algorithm can effectively process the varying density noise and isolated point. www.fabiao.net

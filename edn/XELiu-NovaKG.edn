@@ -31209,8 +31209,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuid003473f6-57f1-43e2-9bd3-7b82cc86be7b"
-   536909287]
+   "uuid92605725-a4bd-4197-8137-f2312e81e4ff"
+   536909309]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -58587,4 +58587,100 @@
   [9486 :create/time 1614945042157 536909283]
   [9486 :create/user 3 536909283]
   [9486 :edit/time 1614945046187 536909286]
-  [9486 :edit/user 3 536909283]]}
+  [9486 :edit/user 3 536909283]
+  [9487 :block/children 9488 536909289]
+  [9487 :block/uid "3NVjpGLDq" 536909288]
+  [9487 :create/time 1614958615377 536909288]
+  [9487 :create/user 3 536909288]
+  [9487 :edit/time 1614958615377 536909288]
+  [9487 :edit/user 3 536909288]
+  [9487 :node/title "varying density" 536909288]
+  [9488 :block/children 9490 536909296]
+  [9488 :block/children 9491 536909296]
+  [9488 :block/children 9492 536909296]
+  [9488 :block/children 9493 536909296]
+  [9488 :block/children 9494 536909296]
+  [9488 :block/open true 536909289]
+  [9488 :block/order 0 536909289]
+  [9488 :block/page 9487 536909290]
+  [9488 :block/parents 9487 536909290]
+  [9488 :block/string "dictionary " 536909291]
+  [9488 :block/uid "2m8I7uTfm" 536909289]
+  [9488 :create/time 1614958616339 536909289]
+  [9488 :create/user 3 536909289]
+  [9488 :edit/time 1614958619152 536909291]
+  [9488 :edit/user 3 536909289]
+  [9490 :block/open true 536909296]
+  [9490 :block/order 0 536909296]
+  [9490 :block/page 9487 536909301]
+  [9490 :block/parents 9487 536909301]
+  [9490 :block/parents 9488 536909301]
+  [9490
+   :block/string
+   "[Joint Inversion of Gravity and Magnetic Data] 重磁联合反演 with Varying Density and [Constant Magnetic Susceptibility Interface Model]. 磁化强度界面 www.[dictall].com"
+   536909306]
+  [9490 :block/uid "cOENiYCpO" 536909296]
+  [9490 :create/time 1614958636595 536909296]
+  [9490 :create/user 3 536909296]
+  [9490 :edit/time 1614958677776 536909306]
+  [9490 :edit/user 3 536909296]
+  [9491 :block/open true 536909296]
+  [9491 :block/order 1 536909296]
+  [9491 :block/page 9487 536909297]
+  [9491 :block/parents 9487 536909297]
+  [9491 :block/parents 9488 536909297]
+  [9491
+   :block/string
+   "[Axisymmetric vibrations] 轴对称振动 of [circular and annular membranes] 环形薄膜 with [non-uniformly varying density]. dict.[cnki].net"
+   536909309]
+  [9491 :block/uid "Uc6ygXdSs" 536909296]
+  [9491 :create/time 1614958636595 536909296]
+  [9491 :create/user 3 536909296]
+  [9491 :edit/time 1614958693726 536909309]
+  [9491 :edit/user 3 536909296]
+  [9492 :block/open true 536909296]
+  [9492 :block/order 2 536909296]
+  [9492 :block/page 9487 536909298]
+  [9492 :block/parents 9487 536909298]
+  [9492 :block/parents 9488 536909298]
+  [9492
+   :block/string
+   "A numerical analysis of axisymmetric transverse free vibrations of circular and annular membranes with non uniformly varying density is presented."
+   536909296]
+  [9492 :block/uid "gkhJtEfat" 536909296]
+  [9492 :create/time 1614958636595 536909296]
+  [9492 :create/user 3 536909296]
+  [9492 :edit/time 1614958636598 536909296]
+  [9492 :edit/user 3 536909296]
+  [9493 :block/open true 536909296]
+  [9493 :block/order 3 536909296]
+  [9493 :block/page 9487 536909299]
+  [9493 :block/parents 9487 536909299]
+  [9493 :block/parents 9488 536909299]
+  [9493
+   :block/string
+   "The ceramic composite armors 陶瓷复合装甲 consist of Al2O3 backed plates with varying density."
+   536909296]
+  [9493 :block/uid "Uf2o0QAqF" 536909296]
+  [9493 :create/time 1614958636595 536909296]
+  [9493 :create/user 3 536909296]
+  [9493 :edit/time 1614958636598 536909296]
+  [9493 :edit/user 3 536909296]
+  [9494 :block/open true 536909296]
+  [9494 :block/order 4 536909296]
+  [9494 :block/page 9487 536909300]
+  [9494 :block/parents 9487 536909300]
+  [9494 :block/parents 9488 536909300]
+  [9494
+   :block/string
+   "Improved the calculating method of the density up to distance, in order to make the original CADD algorithm can effectively process the varying density noise and isolated point. www.fabiao.net"
+   536909296]
+  [9494 :block/uid "zwlaAlcEo" 536909296]
+  [9494 :create/time 1614958636595 536909296]
+  [9494 :create/user 3 536909296]
+  [9494 :edit/time 1614958636598 536909296]
+  [9494 :edit/user 3 536909296]
+  [9495 :block/string "" 536909302]
+  [9495 :block/uid "qEpkTYhvs" 536909302]
+  [9495 :edit/time 1614958636632 536909302]
+  [9495 :edit/user 3 536909302]]}
