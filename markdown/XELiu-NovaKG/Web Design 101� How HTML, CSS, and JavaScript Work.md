@@ -87,3 +87,9 @@ let Firstname = prompt('First Name');
 `para.textContent = 'Thanks, ' + Firstname + "! You can now download your ebook."`
                 - In the string of JavaScript above, the "Firstname" element has been [assigned the first name] of the website visitor, and will therefore [produce his or her actual first name] [on the frontend of the webpage]. To a user named Kevin, the sentence [would look like this]:
 __Thanks, Kevin! You can now download your ebook.__
+        - ### Security, Games, and Special Effects
+            - Other uses for JavaScript include [[security password]] creation, [[check form]]s, [[interactive game]]s, [[animation]]s, and [[special effect]]s. It's also used to build [[mobile app]]s and create [[server-based application]]s. You can add JavaScript to an [HTML document] by adding these "scripts," or [[snippet]]s of [JavaScript code], into your [document's header or body].
+            - If you want to learn more about JavaScript, [codecademy has free online courses](https://www.codecademy.com/catalog/language/javascript) you can take, too.
+    - The hardest part of coding is getting started -- but once you learn the basics, it'll be easier to learn more advanced programming languages. And if you ever feel overwhelmed, head over to [hackertyper.net](http://hackertyper.net/) and hit random keys on your keyboard.
+    - Trust me, you'll feel better.
+    - __Editor's note: This post was originally published in November 2018 and has been updated for comprehensiveness.__
