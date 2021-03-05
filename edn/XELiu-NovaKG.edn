@@ -31207,8 +31207,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuidbc23564c-c599-4c18-87f0-4a2d8552af09"
-   536908765]
+   "uuid881e23ee-fe42-41f8-b70c-5b87bb0fbafd"
+   536908773]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -57084,12 +57084,16 @@
   [9322 :block/parents 9243 536908614]
   [9322 :block/parents 9311 536908614]
   [9322 :block/parents 9316 536908614]
+  [9322 :block/refs 9335 536908768]
+  [9322 :block/refs 9336 536908771]
+  [9322 :block/refs 9337 536908773]
   [9322
    :block/string
-   "To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's [blog post](https://blog.hubspot.com/blog/tabid/6307/bid/23454/The-Ultimate-Cheat-Sheet-for-Mastering-LinkedIn.aspx), but shown in Basic HTML, and the second screenshot is that same blog post with HTML __and __CSS."
-   536908612]
+   "To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's [blog post](https://blog.hubspot.com/blog/tabid/6307/bid/23454/The-Ultimate-Cheat-Sheet-for-Mastering-LinkedIn.aspx), but shown in [[Basic HTML]], and the second screenshot is that same blog post with HTML __and __CSS. #LinkedIn #aspx"
+   536908772]
   [9322 :block/uid "aY8xx69i0" 536908612]
-  [9322 :edit/time 1614872480091 536908612]
+  [9322 :edit/seen-by 3 536908766]
+  [9322 :edit/time 1614915300345 536908772]
   [9322 :edit/user 3 536908612]
   [9323 :block/open true 536908612]
   [9323 :block/order 1 536908612]
@@ -57224,4 +57228,22 @@
   [9334 :edit/time 1614907387730 536908765]
   [9334 :edit/user 3 536908765]
   [9334 :log/id 1614907387729 536908765]
-  [9334 :node/title "March 5th, 2021" 536908765]]}
+  [9334 :node/title "March 5th, 2021" 536908765]
+  [9335 :block/uid "vUNOGDB5i" 536908768]
+  [9335 :create/time 1614915270050 536908768]
+  [9335 :create/user 3 536908768]
+  [9335 :edit/time 1614915270058 536908768]
+  [9335 :edit/user 3 536908768]
+  [9335 :node/title "Basic HTML" 536908768]
+  [9336 :block/uid "5opjGDJth" 536908771]
+  [9336 :create/time 1614915296721 536908771]
+  [9336 :create/user 3 536908771]
+  [9336 :edit/time 1614915296722 536908771]
+  [9336 :edit/user 3 536908771]
+  [9336 :node/title "LinkedIn" 536908771]
+  [9337 :block/uid "1le7K2Axx" 536908773]
+  [9337 :create/time 1614915300348 536908773]
+  [9337 :create/user 3 536908773]
+  [9337 :edit/time 1614915300350 536908773]
+  [9337 :edit/user 3 536908773] 
+  [9337 :node/title "aspx" 536908773]]}
