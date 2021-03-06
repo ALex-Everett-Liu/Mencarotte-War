@@ -1,4 +1,4 @@
-- Obsidian Journey Plugin - [Discover the story] [between your notes]!
+- Obsidian Journey Plugin - [Discover the story] [between your notes](https://github.com/akaalias/obsidian-journey-plugin)!
     - Hey there and welcome!
 
 Alexis here - Obsidian enthusiast and student at [the University of Life]!
@@ -69,6 +69,14 @@ This plugin [automatically finds] and [creates the outline of my story].
                 - ![](https://user-images.githubusercontent.com/111555/106387246-26816780-63d9-11eb-9407-a76c078b8e6c.png)
             - ### "How many links make an MOC?"
                 - A sub-feature for "taking the scenic route" where you can define at [what amount of links] [inside a note] [makes it an MOC] to avoid. (^^一张目录地图中通常包含着大量的链接，这使得以它作为中转站的路径太过于 trivial，难以察觉到真正的洞见。^^) -- "detail point 100 (pt10-100)"
+            - ### Avoid traveling via certain notes and folders
+                - If set, will skip ['hub' notes] [with too many links] (MOCs). Configure exactly how many links make a MOC below.
+210307-04:30
+- ## plugin settings/options
+    - [[accessibility settings]]
+        - Enable [[high contrast]] 
+            - If set, will [increase the contrast] to [make the result-list easier to read].
+210307-04:20
 - "recommended by [AllinBon](https://www.zhihu.com/people/kio-mis)"
     - [神器](https://zhuanlan.zhihu.com/p/354650871)之三，我们[总是会][想要了解]自己的[笔记之间的联系]，[双链]给了查看我们一个笔记与[另一个笔记]之间的机会，但是我们[却无法][快速地得到]两个[略显遥远的]笔记[之间的关系]，如图，
         - 我们又要[如何得知]图中的两个[箭头][对应的]笔记之间的关系呢，尽管[图谱]给了一个稍微[可视化的途径]，但是[对于我们来说]，[文字描述][显然更为具体]。

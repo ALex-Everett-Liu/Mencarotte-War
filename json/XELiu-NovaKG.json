@@ -8071,7 +8071,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1614757236548,
+            "edit-time": 1615064439987,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -8094,10 +8094,10 @@
         },
         "children": [
           {
-            "string": "weibo; 比特币",
+            "string": "weibo; 比特币; css 中英文字体",
             "create-time": 1610206698646,
             "uid": "TvILpsCcT",
-            "edit-time": 1614963335885,
+            "edit-time": 1615061325447,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -74228,11 +74228,39 @@
   {
     "create-time": 1615029564831,
     "title": "Sliding Panes (Andy's Mode)",
-    "uid": "SwrOO3xAu",
-    "edit-time": 1615029564831,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "开发者：[Death_au](https://link.zhihu.com/?target=https%3A//github.com/deathau) -- 功能描述：允许你[横向堆叠][多个窗口]",
+        "uid": "xw80-AN8F",
+        "edit-time": 1615060458675,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "使用场景",
+        "children": [
+          {
+            "string": "[方便查看][多个笔记]，因为功能[就这么简单]，而我也[的确需要][这个功能]，所以更多的[细致功能]，也请自己尝试。",
+            "uid": "Yo63VE1cr",
+            "edit-time": 1615060444706,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "JEbG-uEvo",
+        "edit-time": 1615060429878,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "SwrOO3xAu",
+    "edit-time": 1615029564831,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -75363,7 +75391,7 @@
     },
     "children": [
       {
-        "string": "Obsidian Journey Plugin - [Discover the story] [between your notes]!",
+        "string": "Obsidian Journey Plugin - [Discover the story] [between your notes](https://github.com/akaalias/obsidian-journey-plugin)!",
         "create-time": 1615047691559,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -75405,7 +75433,7 @@
           }
         ],
         "uid": "8Yim3rAU6",
-        "edit-time": 1615047710409,
+        "edit-time": 1615056863024,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -75934,6 +75962,33 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "Avoid traveling via certain notes and folders",
+                    "create-time": 1615062119519,
+                    "heading": 3,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "If set, will skip ['hub' notes] [with too many links] (MOCs). Configure exactly how many links make a MOC below.\n210307-04:30",
+                        "create-time": 1615062150764,
+                        "uid": "j1JEAA96O",
+                        "edit-time": 1615062605380,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "FiJ7t0q-e",
+                    "edit-time": 1615062149650,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "irDrR7umB",
@@ -75952,6 +76007,81 @@
         ],
         "uid": "R1RQeVsFH",
         "edit-time": 1615048315082,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "plugin settings/options",
+        "create-time": 1615061387558,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1615061651911,
+            "children": [
+              {
+                "edit-time": 1615061493873,
+                "children": [
+                  {
+                    "string": "If set, will [increase the contrast] to [make the result-list easier to read].\n210307-04:20",
+                    "create-time": 1615061461201,
+                    "uid": "0__43S7-L",
+                    "edit-time": 1615062028320,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "rgiUw11pl"
+                  }
+                ],
+                "uid": "RHu-1TG-I",
+                ":block/refs": [
+                  {
+                    ":block/uid": "rgiUw11pl"
+                  }
+                ],
+                "string": "Enable [[high contrast]] ",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1615061461201,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "3csSTu3QR"
+              }
+            ],
+            "uid": "tR-zE8tGe",
+            ":block/refs": [
+              {
+                ":block/uid": "3csSTu3QR"
+              }
+            ],
+            "string": "[[accessibility settings]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615061404411,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hnNXYqdrn",
+        "edit-time": 1615061397162,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -76159,47 +76289,83 @@
     },
     "children": [
       {
-        "edit-time": 1615048589995,
+        "string": "Obsidian Plugins",
+        "create-time": 1615060333415,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         "children": [
           {
-            "string": "((CX8MObVnY))\n210307-02:15",
-            "create-time": 1615054669382,
+            "string": "[[Obsidian 插件推荐]]\n210307-03am",
+            "create-time": 1615060343594,
             ":block/refs": [
               {
-                ":block/uid": "CX8MObVnY"
+                ":block/uid": "OIkaYr8ku"
               }
             ],
             "refs": [
               {
-                "uid": "CX8MObVnY"
+                "uid": "OIkaYr8ku"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "GCokwRE_C",
-            "edit-time": 1615054682238,
+            "uid": "dHayopZda",
+            "edit-time": 1615060352133,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1615048589995,
+            "children": [
+              {
+                "string": "((CX8MObVnY))\n210307-02:15",
+                "create-time": 1615054669382,
+                ":block/refs": [
+                  {
+                    ":block/uid": "CX8MObVnY"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "CX8MObVnY"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "GCokwRE_C",
+                "edit-time": 1615054682238,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8rgYkvaFE"
+              }
+            ],
+            "uid": "Qi0tYdmNt",
+            ":block/refs": [
+              {
+                ":block/uid": "8rgYkvaFE"
+              }
+            ],
+            "string": "[[Obsidian Journey]]\n210307-00am",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615048584289,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "refs": [
-          {
-            "uid": "8rgYkvaFE"
-          }
-        ],
-        "uid": "Qi0tYdmNt",
-        ":block/refs": [
-          {
-            ":block/uid": "8rgYkvaFE"
-          }
-        ],
-        "string": "[[Obsidian Journey]]\n210307-00am",
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "create-time": 1615048584289,
+        "uid": "rqU9cS0LP",
+        "edit-time": 1615060357065,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -76391,6 +76557,529 @@
     ],
     "uid": "F0n9U1WV-",
     "edit-time": 1615054170620,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615059257141,
+    "title": "Obsidian 插件推荐",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[AllinBon](https://www.zhihu.com/people/kio-mis) -- RrMeOm mADies.0xFFFFF",
+        "uid": "ZmbaMQMWS",
+        "edit-time": 1615059271239,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[前言](https://zhuanlan.zhihu.com/p/354650871)",
+        "heading": 2,
+        "children": [
+          {
+            "string": "[题图]是 LYT 作者的[笔记库][图谱][截图]",
+            "uid": "jrY0kP4ID",
+            "edit-time": 1615059362475,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "距离上一次的插件[推荐相关文章](https://zhuanlan.zhihu.com/p/308612160)更新已经过去了三个月，三个月内 Obsidian 社区的插件[翻了几番]，从原来的二十来个变成了现在的129个，所以我[从里面挑出]我[日常使用的]插件[与各位分享一下]，希望各位[能从中获益]。",
+            "uid": "BybkhaKgZ",
+            "edit-time": 1615059312587,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "0bynIVVAt",
+        "edit-time": 1615059359187,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Obsidian 插件",
+        "heading": 2,
+        "children": [
+          {
+            "string": "插件（Plug-in），是一种[电脑程序]，透过和[应用程序]（例如[网页浏览器]，电子邮件客户端）的[互动]，用来替应用程序[增加一些][所需要的][特定的功能]。[最常见的有]游戏、网页浏览器的插件和[媒体播放器]的插件；而插件可以[更通俗地认为是][本体软件]的[加强外挂]（非贬义）；同时，[支持第三方插件]是我[极其喜欢][某些软件]的一个[重要理由]，例如 Anki 又或者各类[文本编辑软件]或 IDE 。",
+            "uid": "Zur1ik8n_",
+            "edit-time": 1615060199185,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "随着 [[Note-taking/Obsidian]] v0.9.8 版本的[释出]，我们[终于拥有了] Obsidian [官方支持的][第三方插件市场]，其中插件所需的 [[API]] 也早早在 0.9.6 释出[给开发者使用]。在[深入使用了][插件市场][各个插件]一个半月后，我有[以下的][推荐列表]（截止至2020.11.23），推荐列表中的各个插件[分别解决了]我[笔记过程中的][一些痛点]。\n210307-03:51",
+            "refs": [
+              {
+                "uid": "PNHhL42r_"
+              },
+              {
+                "uid": "X4mYXpjuh"
+              }
+            ],
+            "uid": "jCT6GbwpB",
+            "edit-time": 1615060407646,
+            ":block/refs": [
+              {
+                ":block/uid": "PNHhL42r_"
+              },
+              {
+                ":block/uid": "X4mYXpjuh"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rkQE8UU5H",
+        "edit-time": 1615060060347,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[Search on Internet](https://link.zhihu.com/?target=https%3A//github.com/HEmile/obsidian-search-on-internet)",
+        "heading": 3,
+        "children": [
+          {
+            "string": "神器之二，神器之一是 Note Refactor，关于 Note refator 的[相关介绍]可以去看[以前的文章]。Search on internet 利用 Obsidian 强大的 [[iframe]] 支持，实现了[右键][根据选中的关键词]进行[网络搜索]的功能，当你设置了 `https://www.google.com/search?&q={{title}}`, 其中的 `{{title}}` 为你选中的内容，然后[启动]这个[搜索命令]后，你可以[快速地][在 Ob 内部][打开搜索页面]（也可以[在外部打开][浏览器的搜索页面]）。可以[极大地加强]你采用 Obsidain [拆书]/[研习]的[体验]。",
+            "refs": [
+              {
+                "uid": "F7TYkU7Ju"
+              }
+            ],
+            "uid": "nF84pJ6jM",
+            "edit-time": 1615059552570,
+            ":block/refs": [
+              {
+                ":block/uid": "F7TYkU7Ju"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "1kl17z5nD",
+        "edit-time": 1615059572579,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[Tag wrangler](https://link.zhihu.com/?target=https%3A//github.com/pjeby/tag-wrangler)",
+        "heading": 3,
+        "children": [
+          {
+            "string": "当你需要对已经[在很多文档中][使用的标签][进行更改]的时候[该怎么办呢]？**之前我们可以采用 [BAT 脚本]、[python 脚本]或者 [AHK 脚本]来对[各个标签]进行更改，**但是这显然[需要一定的编程基础]，或者[借用]其他人[已经写好的][脚本]实现，但是[一旦遇到]需要[更改其中部分代码]的情况，我们就[开始寻求] Obsidian 内的插件[解决方案]了。在还没有[全库替换]功能的前提下，tag wrangler 可能是[最好的][标签更改替换]应用。",
+            "uid": "npAlWJ0l3",
+            "edit-time": 1615059721857,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "当你安装了这个插件后，当你在你的[标签栏]上对一个标签[右键]式会出现新的[操作命令]，例如删除、重命名、将标签设置或不设置在[搜索条件]等；其中你采用[重命名]以后，[全库内的][所有同名标签]都会被[自动更改]，十分方便。\n210307-03:40",
+            "uid": "1WPLKClq4",
+            "edit-time": 1615059766280,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "OyY6K_Wer",
+        "edit-time": 1615059750521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[Recent Files](https://link.zhihu.com/?target=https%3A//github.com/tgrosinger/recent-files-obsidian)",
+        "heading": 3,
+        "children": [
+          {
+            "string": "当[库里的文件][多了起来后]，我们[会经常陷入]忘了[上上个打开的文件]是什么的[困境]，而 Obsidian [不会保持][已经关闭的][文件清单]的[跳转历史]，所以你用[返回上一个文件]的方式[经常会遇到][无法使用]的困境，对于有浏览[打开文件历史]需求的人来说，[Recent files]([[recent file]]) 就是他们的[好帮手]了。它的功能为[展示][最近的文件打开历史]，可以解决一些人的[痛点]。",
+            "refs": [
+              {
+                "uid": "sZnDHdHgb"
+              }
+            ],
+            "uid": "0hB1e8SQ-",
+            "edit-time": 1615059881878,
+            ":block/refs": [
+              {
+                ":block/uid": "sZnDHdHgb"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "8ErJXrfV0",
+        "edit-time": 1615059926282,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "WorkBench",
+        "heading": 3,
+        "children": [
+          {
+            "string": "开发者：[ryanjamurphy](https://link.zhihu.com/?target=https%3A//github.com/ryanjamurphy) 功能描述：将你[想要用的东西][暂时转移到][工作分区]中",
+            "uid": "4_NpcXe3-",
+            "edit-time": 1615060511187,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "使用场景",
+            "children": [
+              {
+                "string": "当我在我的[笔记库内][阅览]时，要[快速地整理]那些[需要聚合的笔记]，Workbench 插件[简直就是神器]。",
+                "uid": "k-lYr5X6l",
+                "edit-time": 1615060527828,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "bscrcNjEh",
+            "edit-time": 1615060497144,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "sXbi6S2Pe",
+        "edit-time": 1615060497144,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "特别推荐",
+        "heading": 3,
+        "children": [
+          {
+            "string": "主题：[[Minimal Theme]] + Hider（插件）+Minimal Theme Setting（插件） 以上三样都是出自开发者 [Kapano](https://link.zhihu.com/?target=https%3A//twitter.com/kepano) 之手，是[一整套的][极简主题]以及[对应的插件]，[请务必][放在一起]尝试。",
+            "refs": [
+              {
+                "uid": "wYlUa9KwL"
+              }
+            ],
+            "uid": "fWCadzw7E",
+            "edit-time": 1615060582597,
+            ":block/refs": [
+              {
+                ":block/uid": "wYlUa9KwL"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "pQklrmLqP",
+        "edit-time": 1615060541605,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "实际使用",
+        "heading": 2,
+        "children": [
+          {
+            "string": "每天，我[去到公司][打开电脑后]，就打开 Obsidian 在 Calendar [日历视图]中点击今天，创建一个新的 Daily Note，利用 Templater [插入日期]后[填入内容]；由于里面已经[嵌入了][跳转到对应的][日程管理]的笔记的链接，所以使用 Day Planner 进行[日程规划]，在[解决了]早上的日程规划后，在 Calendar 的日历视图中点击昨天的 Daily Note 回去看昨天[有没有什么遗漏的内容]或者[工作没有处理]；而后[开始工作]并且[随时准备][将工作过程中踩的坑][记录下来]。\n210307-03:58",
+            "children": [
+              {
+                "string": "在[工作间隔]，需要记笔记的过程中，随时使用 `Text{{expand}}` 来[找出那些]自己需要[短时间整理]的笔记，[然后放到]自己的[待办清单]中；同时，也利用 Workbench [快速多次地]从需要短时间整理的笔记中[找到自己所需要的东西]。",
+                "uid": "GqJtqqbNL",
+                "edit-time": 1615060745363,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "thGjU0mxY",
+            "edit-time": 1615060771509,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "以上的工作流程，我[已经坚持了]两周，非常的轻松。",
+            "uid": "1WJ1maWeg",
+            "edit-time": 1615060757812,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ktYvYAJ0a",
+        "edit-time": 1615060656262,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "总结",
+        "heading": 2,
+        "children": [
+          {
+            "string": "[除了上述]我的[常用插件]外，[插件市场]中还有其它不少的[很有用的插件]，例如 Advanced Table 就是一个[很好用的] [Markdown 表格操作]插件，而 Obsidian-git 则支持你在 Obsidian 中快速[使用 Git 进行备份]，而还有些插件因为[并不符合]我的[实际工作流程]，所以我[并没有提到]，也请自己多去尝试~下回再见。",
+            "create-time": 1615060801204,
+            "uid": "FR2uvK5Pc",
+            "edit-time": 1615060838609,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "以上就是[我推荐的]全部插件，[其中有一些]插件是我在[写笔记]或者用 Obsidian [辅助学习]的时候[高频使用的]插件，也帮助我[构建起了][属于自己的][工作流]，随着插件标准的越来越[标准化]，以及[官方积极的支持]，相信 Obsidian 的插件[会越来越多]，最后能通过[各种不同的插件]满足[不同的人]的[特别需求]，下次再见。\n210307-03:45",
+            "uid": "AY52SfaAS",
+            "edit-time": 1615060021628,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "eZqSfMizA",
+        "edit-time": 1615059957815,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "OIkaYr8ku",
+    "edit-time": 1615059257141,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615059881880,
+    "title": "recent file",
+    "uid": "sZnDHdHgb",
+    "edit-time": 1615059881881,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615060582599,
+    "title": "Minimal Theme",
+    "uid": "wYlUa9KwL",
+    "edit-time": 1615060582599,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615061493876,
+    "title": "high contrast",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615062363471,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "反差/衬度/对比度",
+            "create-time": 1615062366608,
+            "uid": "OwH_rZUuJ",
+            "edit-time": 1615062366610,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Study on the [development kinetics] of [super high contrast] system. 显影动力学 dict.[cnki].net",
+            "create-time": 1615062366608,
+            "uid": "cvLVz_WAK",
+            "edit-time": 1615062366610,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The mechanism of [high contrast development].",
+            "create-time": 1615062366608,
+            "uid": "kT1JSrYeb",
+            "edit-time": 1615062366610,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[A new type of] [high contrast filter] 滤光片 has been investigated in this paper. ",
+            "create-time": 1615062366608,
+            "uid": "vZUNr4y7Z",
+            "edit-time": 1615062512438,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Using high contrast between] text or graphics and background. provided by jukuu",
+            "create-time": 1615062366608,
+            "uid": "-O7p0TTFS",
+            "edit-time": 1615062555316,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Large high contrast numbers] are helpful for [low vision]. 弱视",
+            "create-time": 1615062366608,
+            "uid": "l8t66NROd",
+            "edit-time": 1615062561922,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-GQkled2s",
+        "edit-time": 1615062365755,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rgiUw11pl",
+    "edit-time": 1615061493877,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615061651914,
+    "title": "accessibility settings",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615061694382,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "For instance, you can change accessibility settings, 可访问性 or [enable the ability to] [mail forms]. 通过邮件发送表单 www.[ibm].com",
+            "create-time": 1615061703020,
+            "uid": "RcWonqPb2",
+            "edit-time": 1615061759537,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "One new [IOS 7 feature] buried in the accessibility settings enables an idevice to [recognize users' head movements], according to blog 9to5mac. www.[fortunechina].com",
+            "create-time": 1615061703020,
+            "uid": "H9jMzdsa5",
+            "edit-time": 1615061744103,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You can make your accessibility settings the default for new users. 辅助功能 www.[dictall].com",
+            "create-time": 1615061703020,
+            "uid": "4NkwUg4E4",
+            "edit-time": 1615061707936,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Accessibility Settings-[Convert Menus] for Accessibility Settings ",
+            "create-time": 1615061703020,
+            "uid": "gdSfZvpur",
+            "edit-time": 1615061832868,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You can apply these accessibility settings to [another computer]. provided by jukuu",
+            "create-time": 1615061703020,
+            "uid": "67Zr1s97o",
+            "edit-time": 1615061837849,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "C36o1aAzP",
+        "edit-time": 1615061702251,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "3csSTu3QR",
+    "edit-time": 1615061651914,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
