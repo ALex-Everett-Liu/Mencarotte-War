@@ -73396,11 +73396,49 @@
   {
     "create-time": 1614993724234,
     "title": "March 6th, 2021",
-    "uid": "03-06-2021",
-    "edit-time": 1614993724234,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "Obsidian Plugins",
+        "create-time": 1615045080179,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[Obsidian Query Language]]\n210306-23pm",
+            "create-time": 1615045081422,
+            ":block/refs": [
+              {
+                ":block/uid": "LdGMDaK4l"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "LdGMDaK4l"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "9Xupy1wIK",
+            "edit-time": 1615045096237,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "kGQU-W7l5",
+        "edit-time": 1615045081426,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "03-06-2021",
+    "edit-time": 1614993724234,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -74029,6 +74067,50 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[Obsidian Query Language]]",
+        "create-time": 1615043640616,
+        ":block/refs": [
+          {
+            ":block/uid": "LdGMDaK4l"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "LdGMDaK4l"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ZiCv64P0_",
+        "edit-time": 1615043643430,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Obsidian Dataview]]",
+        "create-time": 1615045059535,
+        ":block/refs": [
+          {
+            ":block/uid": "ZAX5mpjqj"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZAX5mpjqj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "YuUeKZJc7",
+        "edit-time": 1615045062578,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "GICAUiR7q",
@@ -74042,6 +74124,441 @@
     "title": "Sliding Panes (Andy's Mode)",
     "uid": "SwrOO3xAu",
     "edit-time": 1615029564831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615043643436,
+    "title": "Obsidian Query Language",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "This is a plugin for [Obsidian](https://obsidian.md/) that allows you to [query your notes]([[query]]) and [gather information about] your vault [inside a note itself]. You write queries and [configure them with a code-block] and the [[renderer]] will [output the results] in the [markdown preview]:",
+        "create-time": 1615043659705,
+        ":block/refs": [
+          {
+            ":block/uid": "0dULD8lCs"
+          },
+          {
+            ":block/uid": "t8cltO7Z-"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0dULD8lCs"
+          },
+          {
+            "uid": "t8cltO7Z-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "PP6vqkZ8K",
+        "edit-time": 1615043742066,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Working with the plugin & examples",
+        "heading": 3,
+        "children": [
+          {
+            "string": "You can [query your vault] with a `oql` code block, for example:",
+            "children": [
+              {
+                "string": "```sql\noql\nname: Daily notes\nquery: \"'100 Daily/'\"\ntemplate: \"string\"\nformat: \"{name}: {count}\"\n```",
+                "create-time": 1615043836909,
+                "uid": "xxjqXRjVc",
+                "edit-time": 1615043888377,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "This little block in a note [renders to an template], [counting the notes in] the `100 Daily` folder and [returns a output] that renders as: `Daily notes: 100` in the case you have 100 daily notes. This is just [a basic way of] [querying your vault]. This is the [full config] will al fields that is available, [please note that] [certain fields] [only work with specific templates] (like limit with list/table view).",
+                "create-time": 1615043916608,
+                "uid": "2pB54hS0I",
+                "edit-time": 1615044011834,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "qZUE-3-WA",
+            "edit-time": 1615043902256,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rQEPXS796",
+        "edit-time": 1615043814600,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "How does this plugin work?",
+        "heading": 3,
+        "children": [
+          {
+            "string": "It builds a [[parallel index]] using [Fuse](https://fusejs.io/) that you can query for data!",
+            "refs": [
+              {
+                "uid": "Bevd83z1z"
+              }
+            ],
+            "uid": "m6sgYhvGl",
+            "edit-time": 1615044069767,
+            ":block/refs": [
+              {
+                ":block/uid": "Bevd83z1z"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "qFop8NG93",
+        "edit-time": 1615044050021,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Can I use the [OQL plugin]([[OQL]]) [with my own plugin]?",
+        ":block/refs": [
+          {
+            ":block/uid": "iwbUWSMOF"
+          }
+        ],
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "iwbUWSMOF"
+          }
+        ],
+        "children": [
+          {
+            "string": "Yes! Right now that functionality is [open for a bit]. To use it:",
+            "uid": "336oS2gsb",
+            "edit-time": 1615044105537,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Check if the user has th `obsidian-query-language` plugin installed, the following should return the plugin in the console: `this.app.plugins.plugins['obsidian-query-language']`. You can then use the search function, where the query is a string or object following the [Fuse interface](https://fusejs.io/api/query.html):",
+            "create-time": 1615044083404,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "```sql\nif ('obsidian-query-language' in this.app.plugins.plugins) {\n    let query = \"'testing\" // all notes matching exactly the word 'testing'.\n    let searchResults = await this.app.plugins.plugins['obsidian-query-language'].search(query)\n    // Do something with the searchResults\n}```",
+                "create-time": 1615044212234,
+                "uid": "B6scVfoci",
+                "edit-time": 1615044225880,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "BORsOqQ6C",
+            "edit-time": 1615044146489,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The plugin throws an error of the SearchIndex isn't available. You might run into this [if your plugin is loaded before] the [OQL plugin]. So it's nice to [catch that error] and [show the user a message] 🖖. Otherwise it [returns a promise] which might [contain the results]! #[[plugin loading order]]\n210306-23:25",
+            "create-time": 1615044249730,
+            ":block/refs": [
+              {
+                ":block/uid": "Jp_ysUUsL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Jp_ysUUsL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "afL86HbqW",
+            "edit-time": 1615044379665,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "I_LqQ4bZD",
+        "edit-time": 1615044121291,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "recommended by [AllinBon](https://www.zhihu.com/people/kio-mis)",
+        "create-time": 1615044520024,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "当我们构件了一个 [INDEX 页面] (construct and maintain an index page)，我们想要[实时的了解]自己的[笔记的总数变化情况]、最近的编辑笔记、[最近创建]的笔记、创建许久更改的笔记等等，我们不可能[也不应该手动去做]这些笔记的链接以及记录，于是我[抱着][只干最少的活]的理念，找到了 Obsidian Query Language，这是一个为 Obsidian 而生的[脚本语言]。\n210306-23:33",
+            "create-time": 1615044533434,
+            "uid": "GOSZ6H3ep",
+            "edit-time": 1615044822561,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "当你采用[下述的代码]，在[渲染界面]就可以[实时展示]自己的[笔记的数量]了：",
+            "create-time": 1615044543065,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "```sql\noql\nname: 我总共有\nquery:\n    path: \"'_Tempcard\"\ntemplate: \"string\"\nformat: \"{name}: {count} 个ZK笔记\"\n```",
+                "create-time": 1615044549081,
+                "uid": "5kJmcU9Q-",
+                "edit-time": 1615044686182,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "dKMvKevyR",
+            "edit-time": 1615044672913,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "利用[插件自带的]其它[检索式]，甚至能[生成对应的表格]：",
+            "create-time": 1615044747477,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "```shell\noql\nname: Folder 1\nquery: \"'_Tempcard\" \ntemplate: \"list\" # [Renders to a list] [with notes linked]\nformat: \"{created}: {title}\"\nsort: 'created' \nlimit: 10 # Limit it to the first 10\n```",
+                "create-time": 1615044749672,
+                "uid": "1TfYjW9kJ",
+                "edit-time": 1615044805592,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Zv009bVBO",
+            "edit-time": 1615044785013,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "EkgQ4JKZ3",
+        "edit-time": 1615044526615,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "LdGMDaK4l",
+    "edit-time": 1615043643438,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615043706969,
+    "title": "query",
+    "uid": "0dULD8lCs",
+    "edit-time": 1615043706969,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615043742068,
+    "title": "renderer",
+    "uid": "t8cltO7Z-",
+    "edit-time": 1615043742069,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615044069768,
+    "title": "parallel index",
+    "uid": "Bevd83z1z",
+    "edit-time": 1615044069775,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615044121293,
+    "title": "OQL",
+    "uid": "iwbUWSMOF",
+    "edit-time": 1615044121293,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615044332069,
+    "title": "plugin loading order",
+    "uid": "Jp_ysUUsL",
+    "edit-time": 1615044332078,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615045062580,
+    "title": "Obsidian Dataview",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Treat your obsidian vault as a [[database]] [which you can query from]. Provides a fully-fledged 羽翼丰满的, 完全成熟的 [[query language]] for [[filtering]], [[sorting]], and [[extracting data]] from your pages. See the Examples section below for some [quick examples], or the Usage section for [a more in-detail explanation].",
+        "refs": [
+          {
+            "uid": "LNQVqfC9Q"
+          },
+          {
+            "uid": "kAeMM-vpX"
+          },
+          {
+            "uid": "W3zz-w01M"
+          },
+          {
+            "uid": "lzhHUgUVv"
+          },
+          {
+            "uid": "jvW9Okp9l"
+          }
+        ],
+        "uid": "_046Y7rRr",
+        "edit-time": 1615045199994,
+        ":block/refs": [
+          {
+            ":block/uid": "LNQVqfC9Q"
+          },
+          {
+            ":block/uid": "kAeMM-vpX"
+          },
+          {
+            ":block/uid": "W3zz-w01M"
+          },
+          {
+            ":block/uid": "lzhHUgUVv"
+          },
+          {
+            ":block/uid": "jvW9Okp9l"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ZAX5mpjqj",
+    "edit-time": 1615045062581,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615045142822,
+    "title": "sorting",
+    "uid": "kAeMM-vpX",
+    "edit-time": 1615045142822,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615045142822,
+    "title": "extracting data",
+    "uid": "W3zz-w01M",
+    "edit-time": 1615045142822,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615045147412,
+    "title": "filtering",
+    "uid": "lzhHUgUVv",
+    "edit-time": 1615045147412,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615045180421,
+    "title": "query language",
+    "uid": "jvW9Okp9l",
+    "edit-time": 1615045180422,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

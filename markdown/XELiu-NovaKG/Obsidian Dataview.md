@@ -1,0 +1,1 @@
+- Treat your obsidian vault as a [[database]] [which you can query from]. Provides a fully-fledged 羽翼丰满的, 完全成熟的 [[query language]] for [[filtering]], [[sorting]], and [[extracting data]] from your pages. See the Examples section below for some [quick examples], or the Usage section for [a more in-detail explanation].

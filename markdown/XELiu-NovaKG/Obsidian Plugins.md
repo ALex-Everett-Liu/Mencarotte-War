@@ -1,1 +1,3 @@
 - [[Sliding Panes (Andy's Mode)]]
+- [[Obsidian Query Language]]
+- [[Obsidian Dataview]]
