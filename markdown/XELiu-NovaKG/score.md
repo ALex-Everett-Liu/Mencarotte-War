@@ -335,6 +335,7 @@ obsidian — Link to blocks
             - 其实很多[所谓的]玩[猫箱](https://bbs.saraba1st.com/2b/thread-1988791-2-1.html)梗的东西，[实质上只是][人择原理]的应用而已。
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
             - {{[[TODO]]}} 在玻璃上[喷涂](https://www.zhihu.com/question/420760487/answer/1692006101)一层[玻璃清洁][涂层]。利用[纳米分子]在[玻璃表面][附着一层][疏水层]，水渍和污垢就很难[附着在]玻璃上面了。喷涂一次一般可以管2-3年，再也不用为天天[擦玻璃]而头疼了。
+                - 一次性马桶刷 知乎好物推荐贴 smzdm
             - {{[[TODO]]}} plot based on origin, matlab, python, excel, etc.
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
                 - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。

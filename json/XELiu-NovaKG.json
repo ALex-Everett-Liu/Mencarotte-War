@@ -406,10 +406,10 @@
         },
         "children": [
           {
-            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--body__background-color: rgba(155,207,238,0.3);\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: 'Georgia', serif;\n  \t--main-font__font-size: 17px;\n    /* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;\n  \t/* topbar */\n  \t--search__background: rgba(202,202,139,0.2);\n  \t--search__background-color_selected-row: #4c4c4c;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-article {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--body__background-color: rgba(155,207,238,0.3);\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: 'Georgia', serif;\n  \t--main-font__font-size: 17px;\n    /* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;\n  \t/* topbar */\n  \t--search__background: rgba(202,202,139,0.2);\n  \t--search__background-color_selected-row: #4c4c4c;\n    /* icons */\n  \t--icon__background-color_hover: rgba(167, 182, 194, 0.3);\n  \t--icon__color: rgba(225,75,13,0.5);\n  \t--icon__color_hover: #e78924;\n  \t--filter__color_subscript: #5c7080;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-article {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```",
             "create-time": 1614620922794,
             "uid": "J0YVQSDDZ",
-            "edit-time": 1614960035815,
+            "edit-time": 1615009002871,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -4906,11 +4906,19 @@
                     }
                   },
                   {
-                    "string": "{{[[TODO]]}} 在玻璃上[喷涂](https://www.zhihu.com/question/420760487/answer/1692006101)一层[玻璃清洁][涂层]。利用[纳米分子]在[玻璃表面][附着一层][疏水层]，水渍和污垢就很难[附着在]玻璃上面了。喷涂一次一般可以管2-3年，再也不用为天天[擦玻璃]而头疼了。",
-                    "create-time": 1614272463249,
-                    ":block/refs": [
+                    "edit-time": 1614272530376,
+                    "children": [
                       {
-                        ":block/uid": "8KYEF6ETA"
+                        "string": "一次性马桶刷 知乎好物推荐贴 smzdm",
+                        "create-time": 1615007798960,
+                        "uid": "nvbSJLb1g",
+                        "edit-time": 1615007801089,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "refs": [
@@ -4918,11 +4926,17 @@
                         "uid": "8KYEF6ETA"
                       }
                     ],
+                    "uid": "HGfrJLAEW",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8KYEF6ETA"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} 在玻璃上[喷涂](https://www.zhihu.com/question/420760487/answer/1692006101)一层[玻璃清洁][涂层]。利用[纳米分子]在[玻璃表面][附着一层][疏水层]，水渍和污垢就很难[附着在]玻璃上面了。喷涂一次一般可以管2-3年，再也不用为天天[擦玻璃]而头疼了。",
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    "uid": "HGfrJLAEW",
-                    "edit-time": 1614272530376,
+                    "create-time": 1614272463249,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -72798,16 +72812,52 @@
             }
           },
           {
-            "edit-time": 1615002117030,
+            "edit-time": 1615002200210,
             "children": [
               {
-                "string": "Officials briefly detained Mr Luo and the [head teacher] of another condemned [migrants' school] 农民工子弟学校 to prevent them [petitioning higher authorities]. 串联把事情闹大 www.[snzg].net",
-                "create-time": 1615001811354,
-                "uid": "lZIwr4KiT",
-                "edit-time": 1615001843662,
+                "edit-time": 1615002399221,
+                "children": [
+                  {
+                    "string": "Officials briefly detained Mr Luo and the [head teacher] of another condemned [migrants' school] 农民工子弟学校 to prevent them [petitioning higher authorities]. 串联把事情闹大 www.[snzg].net",
+                    "create-time": 1615001811354,
+                    "uid": "lZIwr4KiT",
+                    "edit-time": 1615001843662,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "imUXzDKwn"
+                  },
+                  {
+                    "uid": "8CvlDL-9X"
+                  },
+                  {
+                    "uid": "Pf2S9ora7"
+                  }
+                ],
+                "uid": "ht_-w4ktV",
+                ":block/refs": [
+                  {
+                    ":block/uid": "imUXzDKwn"
+                  },
+                  {
+                    ":block/uid": "8CvlDL-9X"
+                  },
+                  {
+                    ":block/uid": "Pf2S9ora7"
+                  }
+                ],
+                "string": "Rovelli was [on the faculty of]([[faculty]]) the [[University of Pittsburgh]] from 1990 to 2000.[8] He currently works in the Centre de Physique Théorique de Luminy (the Luminy Theoretical Physics Center) of Aix-Marseille University.[9] He has also [held the post of] [[affiliated professor]] 担任副教授 in the [Department of History] and [Philosophy of Science] of the University of Pittsburgh.\n210306-11:45",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "create-time": 1614972445526,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -72834,15 +72884,9 @@
               },
               {
                 "uid": "5tVumRZPe"
-              },
-              {
-                "uid": "imUXzDKwn"
-              },
-              {
-                "uid": "8CvlDL-9X"
               }
             ],
-            "uid": "ht_-w4ktV",
+            "uid": "W2nMdXH9U",
             ":block/refs": [
               {
                 ":block/uid": "07uGZSQxe"
@@ -72864,19 +72908,13 @@
               },
               {
                 ":block/uid": "5tVumRZPe"
-              },
-              {
-                ":block/uid": "imUXzDKwn"
-              },
-              {
-                ":block/uid": "8CvlDL-9X"
               }
             ],
-            "string": "In 1981, Rovelli graduated with a [BS/MS in physics] from the [[University of Bologna]], and in 1986 he obtained his [[PhD]] at the [[University of Padova]], Italy. Rovelli refused [[military service]], which was compulsory in Italy at the time, and was therefore [briefly detained] 短暂拘留 in 1987.[7] He held [[postdoctoral position]]s at the [[University of Rome]], the [International School] for [Advanced Studies] in Trieste (Driaste) and at [[Yale University]]. Rovelli was [on the faculty of]([[faculty]]) the [[University of Pittsburgh]] from 1990 to 2000.[8] He currently works in the Centre de Physique Théorique de Luminy of Aix-Marseille University.[9] He has also held the post of affiliated professor in the Department of History and Philosophy of Science of the University of Pittsburgh.",
+            "string": "In 1981, Rovelli graduated with a [BS/MS in physics] from the [[University of Bologna]], and in 1986 he obtained his [[PhD]] at the [[University of Padova]], Italy. Rovelli refused [[military service]], which was compulsory in Italy at the time, and was therefore [briefly detained] 短暂拘留 in 1987.[7] He held [[postdoctoral position]]s at the [[University of Rome]], the [International School] for [Advanced Studies] in Trieste (Driaste) and at [[Yale University]]. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "create-time": 1614972445526,
+            "create-time": 1615002200210,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -72884,6 +72922,138 @@
         ],
         "uid": "QpYrg6F-Q",
         "edit-time": 1614972445534,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Main contributions",
+        "create-time": 1615006145739,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1615008392441,
+            "children": [
+              {
+                "string": "In 1997, Rovelli and Michael Reisenberger introduced a \"sum over surfaces\" formulation of the theory, which has since evolved into the currently covariant \"spinfoam\" version of loop quantum gravity. In 2008, [in collaboration with] Jonathan Engle and Roberto Pereira, he has introduced the [[spin foam vertex amplitude]] 顶点振幅 which is the basis of the [current definition] of the loop quantum gravity [[covariant dynamics]]. Loop theory is today [considered a candidate for] [a quantum theory of gravity]. It [finds applications in] [[quantum cosmology]], [[spinfoam cosmology]] and [[quantum black hole]] physics.",
+                "create-time": 1615006146160,
+                ":block/refs": [
+                  {
+                    ":block/uid": "LWMO5zKeu"
+                  },
+                  {
+                    ":block/uid": "uA2fkMTk7"
+                  },
+                  {
+                    ":block/uid": "hdOyrmpc7"
+                  },
+                  {
+                    ":block/uid": "R7v0I05yp"
+                  },
+                  {
+                    ":block/uid": "v53rh1QM5"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "LWMO5zKeu"
+                  },
+                  {
+                    "uid": "uA2fkMTk7"
+                  },
+                  {
+                    "uid": "hdOyrmpc7"
+                  },
+                  {
+                    "uid": "R7v0I05yp"
+                  },
+                  {
+                    "uid": "v53rh1QM5"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "y1EInc2pX",
+                "edit-time": 1615008392454,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "sNpAlMLvF"
+              },
+              {
+                "uid": "k-DSINYCl"
+              },
+              {
+                "uid": "kZwzew6J5"
+              },
+              {
+                "uid": "5RngdiMoi"
+              },
+              {
+                "uid": "x7r6oijPt"
+              },
+              {
+                "uid": "bvvHD_Vte"
+              },
+              {
+                "uid": "8VzBYNeGe"
+              },
+              {
+                "uid": "Nh7Wk0tO-"
+              },
+              {
+                "uid": "pFvGTW8NV"
+              }
+            ],
+            "uid": "67LqYtjJO",
+            ":block/refs": [
+              {
+                ":block/uid": "sNpAlMLvF"
+              },
+              {
+                ":block/uid": "k-DSINYCl"
+              },
+              {
+                ":block/uid": "kZwzew6J5"
+              },
+              {
+                ":block/uid": "5RngdiMoi"
+              },
+              {
+                ":block/uid": "x7r6oijPt"
+              },
+              {
+                ":block/uid": "bvvHD_Vte"
+              },
+              {
+                ":block/uid": "8VzBYNeGe"
+              },
+              {
+                ":block/uid": "Nh7Wk0tO-"
+              },
+              {
+                ":block/uid": "pFvGTW8NV"
+              }
+            ],
+            "string": "In 1988, Rovelli, [[Lee Smolin]] and [[Abhay Ashtekar]] introduced a theory of quantum gravity called loop quantum gravity. In 1995, Rovelli and Smolin obtained a [[basis of states]] of quantum gravity, labeled by [[Penrose]]'s [[spin network]]s, and using this basis [they were able to show that] the theory predicts that [[area]] and [[volume]] are [[quantized]]. This result indicates the existence of [[a discrete structure of space]] [at a very small scale]. ",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615008392441,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "AxUdczJ9W",
+        "edit-time": 1615006146167,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -73116,6 +73286,186 @@
     "title": "University of Pittsburgh",
     "uid": "8CvlDL-9X",
     "edit-time": 1615002117035,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615002242576,
+    "title": "affiliated professor",
+    "uid": "Pf2S9ora7",
+    "edit-time": 1615002242577,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006178664,
+    "title": "Lee Smolin",
+    "uid": "sNpAlMLvF",
+    "edit-time": 1615006178672,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006178664,
+    "title": "Abhay Ashtekar",
+    "uid": "k-DSINYCl",
+    "edit-time": 1615006178672,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006201124,
+    "title": "basis of states",
+    "uid": "kZwzew6J5",
+    "edit-time": 1615006201126,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006201124,
+    "title": "Penrose",
+    "uid": "5RngdiMoi",
+    "edit-time": 1615006201126,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006212004,
+    "title": "spin network",
+    "uid": "x7r6oijPt",
+    "edit-time": 1615006212005,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006242210,
+    "title": "area",
+    "uid": "bvvHD_Vte",
+    "edit-time": 1615006242211,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006242210,
+    "title": "volume",
+    "uid": "8VzBYNeGe",
+    "edit-time": 1615006242211,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006242210,
+    "title": "quantized",
+    "uid": "Nh7Wk0tO-",
+    "edit-time": 1615006242211,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615006394452,
+    "title": "a discrete structure of space",
+    "uid": "pFvGTW8NV",
+    "edit-time": 1615006394453,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615007876700,
+    "title": "covariant dynamics",
+    "uid": "LWMO5zKeu",
+    "edit-time": 1615007876702,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615007896726,
+    "title": "spin foam vertex amplitude",
+    "uid": "uA2fkMTk7",
+    "edit-time": 1615007896728,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615007945037,
+    "title": "quantum cosmology",
+    "uid": "hdOyrmpc7",
+    "edit-time": 1615007945040,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615007945037,
+    "title": "spinfoam cosmology",
+    "uid": "R7v0I05yp",
+    "edit-time": 1615007945040,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615007945037,
+    "title": "quantum black hole",
+    "uid": "v53rh1QM5",
+    "edit-time": 1615007945040,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

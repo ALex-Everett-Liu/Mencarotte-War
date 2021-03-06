@@ -8349,6 +8349,11 @@ a.rm-alias.rm-alias-external {
   	/* topbar */
   	--search__background: rgba(202,202,139,0.2);
   	--search__background-color_selected-row: #4c4c4c;
+    /* icons */
+  	--icon__background-color_hover: rgba(167, 182, 194, 0.3);
+  	--icon__color: rgba(225,75,13,0.5);
+  	--icon__color_hover: #e78924;
+  	--filter__color_subscript: #5c7080;
 }
 
 /* scrollbar */
