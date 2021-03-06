@@ -43,6 +43,7 @@
         - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
         - Thoreau provides insight into [the core of these issues]. Soro 
     - www.[[ftchinese]].com
+        - The [political composition] of the [Palestinian Authority] 权力机构 [hardly matters] 无关紧要 if there is [a shared willingness] to [make peace with] Israel [on the basis of] [two states whose borders] and security are [permanently assured]. 
     - www.[[fortunechina]].com
         - Bain [won the overall deal]([[overall deal]]) for $ 1.75 billion, and would rename the Asia and European business ideal standard. 
     - www.[[chinadaily]].com.cn
@@ -63,6 +64,10 @@
         - ---
         - If two products are of the same or [similar quality], consumers will tend to buy the one [bearing a good brand name].
         - Targeted to addressing the issues that [most small and medium sized companies] will face during the establishment of an [ISO 9001:2000 quality management system], the author has [studied and practiced] in this domain extensively.
+        - ---
+        - A Study of [Physiological Basis] of [Emotion States] [Elicited by Film Segments]. 影片片段诱发情绪 
+        - From above results, a [reasonable explanation] has been given [on the analysis basis of] [the states density of valence electrons] 价电子 of these [3d TM elements] in NiAl. 
+        - In order to solve the [abnormal cutting states monitoring] problem in [deep-hole drilling] of [titanium alloys], 钛合金深钻削 [it is recommended to] adopt [motor power consumption] 电机功率消耗 as the [estimation basis] of [cutting states] in this paper. 切削状态
     - www.[[dictall]].com
         - Accompanying with sand-like, streaked or [globular calcification]; 小条片状、团块状的钙化 **[reduce to small pieces or particles] by pounding or abrading.** 重击或磨损
         - She also learnt to [read people's lips] by [pressing her finger-tips against them] and [feeling the movement and vibrations].
