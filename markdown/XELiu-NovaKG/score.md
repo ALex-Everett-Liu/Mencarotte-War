@@ -76,12 +76,12 @@
                     - Welcome to the [source distribution] of [TreeSheets](https://github.com/aardappel/treesheets)!
                 - {{[[TODO]]}} 超级小白8分钟[上手] obsidian｜obsidian [快速入门](https://www.bilibili.com/video/BV1Sp4y1H7tS)｜安装包分享
                     - **aliya成长记**
-                    - 被娃[点燃了求知欲](https://space.bilibili.com/39477772)的妈妈，[内驱力]完全激发的[终身学习者]，拥有第一手的[废柴蜕变]经验，坚信未来的自己会更优秀。
+                    - 被娃[点燃了求知欲](https://space.bilibili.com/39477772)的妈妈，[内驱力]完全激发的[终身学习者](https://www.zhihu.com/people/aliya-64-53)，拥有第一手的[废柴蜕变]经验，坚信未来的自己会更优秀。
                 - {{[[TODO]]}} [鹅先知](https://www.zhihu.com/people/LY_x7x7): [这么看来](https://www.zhihu.com/question/436018808/answer/1699804012)，你对 daily note 的理解类似 PARA 处理信息的一种方式，不过这里用的是另一套逻辑，是基于卡片和卡片之间的双向连接和层级关系。
                     - 这个过程其实也是对一些[笔记的typo][进行修改]，一些[未完成的内容]做[填补]。
 我感觉采用 obsidian 这种双向链接和脑图的工具，其实我的很多规矩应该重新考虑。
                 - {{[[TODO]]}} [This](https://github.com/Wojnach/WorkflowySolarized) is a port of the [Solarized](http://ethanschoonover.com/solarized) color scheme for use with [Workflowy](https://workflowy.com/) - mainly in combination with [vimflowy](https://github.com/Wojnach/vimflowy)
-                - 因为在 roam research 之前，tiddlywiki 和一些别 wiki 系统都可以通过各种[内置 marco] 显示出「[当前文档]被[哪些文档][引用]了」，但这种特性一直没怎么[受人们重视]，以我自己的[使用感受]来说，wiki 系统虽然列出了引用当前文档的文档，但时间一久我并不愿意费劲点进去查看引用处，可是不点进去的话光看那些文档名也看不出什么，渐渐地连文档名也不想看了。roam research [最大的改进]是在[反链]当中[具体显示][被引用处的上下文]，这样一来人们才愿意去看反链，解决了[传统 wiki] 的[引用列表][沦为冷板凳]的问题。
+                - 因为在 roam research 之前，tiddlywiki 和一些别 wiki 系统都可以通过各种[内置 marco] 显示出「[当前文档]被[哪些文档][引用]了」，但这种特性一直没怎么[受人们重视]，以我自己的[使用感受]来说，[wiki 系统]虽然[列出了][引用当前文档]的文档，但[时间一久]我并[不愿意费劲点进去][查看引用处]，可是[不点进去的话][光看那些文档名][也看不出什么]，[渐渐地]连[文档名][也不想看了]。roam research [最大的改进]是在[反链]当中[具体显示][被引用处的上下文]，这样一来人们才愿意去看反链，解决了[传统 wiki] 的[引用列表][沦为冷板凳]的问题。
                     - 思源现在的反链模式恰恰又碰上了传统 wiki 的老问题，最重要的[上下文信息]反而[被藏得最深]，需要[很多次展开]才能看到。[上层块的信息]可能也不是完全没用，但我想它的重要性应该是远远远远不如上下文的，因为上下文几乎是直接决定了用户愿不愿意去看反链，所以上下文应该处于一个用户无需手动点击就能一眼看到的位置。现在我在思源里虽然还开着[反链面板]，但一次都没再看过了，反链功能几乎等同于没有了，跟以前用传统 wiki 的情境如出一辙。
                         - 我觉得这个问题的[核心矛盾]在于，[软件演进的历史][已经证明了][上下文]是反链[最重要的元素]，反链面板里的[其它东西][都应该为它让步]，不能[喧宾夺主]。
                     - 作者：[deerain](https://ld246.com/article/1613823303971)
@@ -166,7 +166,7 @@ Completed after 4 days.
                     - 我还写了一个python脚本，如果需要导出标题层级的标准md，可以自动根据缩进关系生成标题层级，本文就是这么生成的。
                     - 笔者常常会在markdown文件中使用不少LaTeX语法记录公式，然而一个字符一个字符输入LaTeX语法实在太费功夫。笔者半年前看到这篇文章 1700页数学笔记火了！全程敲代码，速度飞快易搜索，硬核小哥教你上手LaTeX+Vim 后大为欣喜，__进一步探索之后发现利用vscode的自定义snippets功能即可实现__。配置好后，我的输入速度确实大有提升，从此是否支持snippets是我考虑笔记软件的一个重要因素。
                 - {{[[TODO]]}} 多光标编辑 in [Obsidian](https://www.bilibili.com/video/BV1Rt4y1q72m) 
-                - {{[[TODO]]}} [[css](https://discuss.logseq.com/t/css-highlights-current-path-bullets-color/371) highlights current path (bullets color)]
+                - {{[[TODO]]}} [css](https://discuss.logseq.com/t/css-highlights-current-path-bullets-color/371) highlights current path (bullets color)
                 - {{[[TODO]]}} 新功能 [WorkFlowy Mirror](https://www.appinn.com/workflowy-mirror/comment-page-1)
                 - {{[[TODO]]}} about [WorkFlowy](https://www.zhihu.com/search?q=workflowy&type=content&range=3m)
                     - Render TeX / LaTeX math equations in Workflowy with [MathJax](https://chrome.google.com/webstore/detail/mathflowy-tex-equations-f/enkondafgdaafikjlehpnjebnknfgfle?hl=zh).
@@ -358,7 +358,7 @@ AE 始终不会用
                     - cryptomator 也很不错，易用，对于[小白用户]友好。毕竟需要[云加密]的用户就那么多，这波用户中想不折腾的也占多数。该软件能将[源文件]分解成[密码文件]就已经达到绝大多数人的需求。[易用性]更被大家所关心。
                 - [标签]是比[文件夹系统]更好的[分类方式](https://www.zhihu.com/question/20716696/answer/1743781522)，但是[标签分类]通常模糊而广泛，他们[描述的是][弱关系]。所有给定的标签都[被显示为][相关]，查找[标签关联内容]时，将成为一个[混乱无序的列表]，用户必须一条一条的看，才知道哪些有用，并且要[人脑][提前猜测][应有的结构]。
                     - 标签优点是可以创建[重叠的集合]，[适合浏览]并[引发洞察力]；缺点是[无层级的]，[低关联度]的，混乱的，所以很难[合并在一起]，并且要人脑提前猜测应有的结构。
-                    - 搜索是我们对链接基础结构的信任，并从该[链接结构]中获得了[效率的大幅提高]。
+                    - 搜索是我们对[链接基础结构]的信任，并从该[链接结构]中获得了[效率的大幅提高]。
                     - DEVONthink，它能够利用[AI算法]在数据库中，找出其他和[当前打开的文件][相关的文件]，换言之，它可以根据[词汇的重叠程度][自动分析]文章或笔记之间的[关联程度]，提供“See also”功能，让[内容关联][最紧密]的文章[集中显示]。这种关联并不是基于“关键字”，不是基于“标签”，而是[基于文本的内容]；这一切都是[智能的]，不需要[人工干预]的。当然，由于DEVONthink不能解决[中文分词问题]，对[中文材料]只能以句子作为[判断单位]，效果就差多了。
                 - 构建 DeFi 词典[这个事儿](https://www.chainnews.com/articles/588227154754.htm)[在我脑子中][一直占着坑]，我希望大家在看到一些炒的沸沸扬扬的东西的同时，可以找到一个**入口**去了解它出现的背景、它在哪些方面**改善 / 颠覆着传统金融**，以及我们可以用它来做什么 ... 不管你是从业者、专业金融人士、野生投资君还是吃吃小瓜的大多数。
                     - 我们需要知道哪些东西是不一样的，会是更好的 optionality，哪些东西[没有那么玄乎]，去[形成自己的判断]。我觉得 DeFi 里没有[内行外行]，不是非得金融人 (i dont know what 金融人 is) 才[应该去了解]，恰恰相反，有太多[交叉学科]的人们在[进行着各种试验]，这个领域才刚刚开始。__Let's prepare for the decentralized economy🙋‍♂️ .__
@@ -371,13 +371,14 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
                     - 你好，关系图的布局算法是自动的，目前无法加入[节点权重]，抱歉。
             - 我不认为[并行不悖]是[好的解决方案](https://www.zhihu.com/question/435681085/answer/1748990892)。关键还是要[下放权力]（如果官方不[把持流量]，给用户一定权力，某些话题的讨论质量会好得多）。即使是数学话题，现在也已经被 “114^514 的后三位是多少？” 等[垃圾问题]充斥着。在这些方面 Reddit 做得比中国任何一个[社交网站]都要好十倍 —— Reddit 是真正理解 “噪音” 的意义的，Reddit 的 mod 也[敢做态度强烈的决定]，比如在某届奥运会期间 [askreddit 版面]禁止问任何标题里带有 “奥运” 的问题，问了就[由机器人自动删除]。这个做法看似残暴，但仔细想想就能理解。很多时候很多互联网上的 “好东西” 都是被[大量涌入的][低质量用户]冲到变形然后消失的。
             - 【古琴】练琴笔记 训练计划 归去来兮 [workflowy](https://www.bilibili.com/video/BV19b411U7Ne)
-            - {{[[TODO]]}} music || inoji baggari - sawako
+            - bili
+                - {{[[TODO]]}} music || inoji baggari - sawako
 メアの教育 - mizuru / みずる
 2.15 yucchan生放  love  唱了yonjunana   录像4.lxe
 なりすましゲンガー; 
-            - {{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)
-                - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
-            - 以YouTube播放[进行排序]
+                - {{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)
+                    - 【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】
+                - 以YouTube播放[进行排序]
 参考：https://www.vocaloard.injpok.tokyo/
             - [中医实体化研究](https://www.zhihu.com/question/435070523/answer/1652498625)一直存在这个问题，申请研究，获得经费，给点结果（和之前[研究结果]甚至都不一样，有[生物电]的，有皮肤几种组织[特殊作用]的，有[按压针刺]产生某些[分泌物]的。结论比较保守，而且也有[实质性依据]，也不会产生第二个[金凤汉事件]。）然后研究者[加官进爵]。
 但[经络问题]依旧[没什么太大进展]。
@@ -500,6 +501,11 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
     - level 8
         - detail point 100 (pt8-100)
             - [如何使用](https://www.bilibili.com/video/BV1tv411h75N)[模板功能] / [笔记神器] Obsidian [完全指南] -- translation background 
+            - 直到今年六月初，事情发生了点变化，我偶然在 [Hacker News](http://link.zhihu.com/?target=https%3A//news.ycombinator.com/news) 上发现了 Obsidian，那时候 Obsidian 只是一个[相对简陋的]带双向链接的[本地笔记软件]，但是在我看到了[那时候][开发者的发言]，以及了解了一下开发者[来历]后，我认为可以在 Obsidian 上[投入时间以及精力]，并且趁软件[还比较纯粹]（简陋），可以[及时适应]软件所带来的[笔记方法上的变化](https://zhuanlan.zhihu.com/p/268104344)。
+                - 当你[有内容需要]与[相似的内容][做目录]的时候，你一般会选择 TOC (Table Of Content) 来[对内容进行排列]以及[概括]；而 MOC 的原意是 Map Of Content， 即[可以理解成][内容地图]，如下就是一个[内容地图形式]：
+                - 但是在我发现了 URI 功能以及[标题级别][块链接]的功能后，事情[再次发生了改变]，我发现我可以利用[之前撰写的][严肃文章]的[复读]以及[重温]来提高[后续工作过程]中，我[所写的文章]以及[宣讲内容]的质量，即[不再强求于]在 obsidian 上运用[卡片法]来写作，而是[专注于]笔记[这个过程]。
+                    - 现在，我每次[写完的文章][出现了问题]或者[得到相关的赞扬]后，我就会[将其存档]，且在里面[新增一个]链接到 obsidian 笔记的超链接，且在[对应的笔记]中加上[链接到这个文档]的 FILE 命令（同样可以链接到文档），相互软件间的超链接增强了我对我以往所写过的严肃文章的[复盘效果]——好在哪，不好在哪，有没有什么总结以及想法；同时[摆脱了]多次[重复犯错]的痛苦。
+                    - 现在我是[无比赞同]这个观点：obsidian 将笔记之间互相连接，是一次[复习行为]，类似于[不定期的间隔复习]。从我将对我撰写的严肃文章[开始复盘][到目前为止]，这种利用自己的工作而[产生的内容]越来越具有自己的[条理性]，也越来越能[快速地找到问题所在]。
             - **TOME4的[怪物强度]怎么[预估]**
                 - [国内社群](https://bbs.saraba1st.com/2b/thread-1988589-1-1.html)[还在活跃的]只有[贴吧]了，但贴吧的[战报][版本滞后]太严重，而且有不少是错误的。
 [官方论坛]似乎有BD讨论板块，更直接一点可以去官网的characters vault查看所有上传到vault的人物bd。
@@ -557,6 +563,7 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                     - 一个linux用户路过贵宝地。评论下。
                         - 就windows而言，[商业收费]的东西多，目前国内[自愿上钩]的用户也多。反正只要有银子就可以用上自己喜欢的应用，不需要折腾，不需要[安装依赖]，完全不需要[将就]，完全不需要知道什么okular和zotero，完全看不上kdenlive和gimp等这些优秀的[开源软件]，随便就能端出高大上的[商业旗舰版]（顺便破解）软件。
                         - 理论上他们不需要winget，也不需要巧克力和勺子。他们需要的是网站和下载链接以及[鼠标狂按]“下一步”。如果[硬要回答]那“为什么还要用winget呢”，答案只能是：至少它是官方的。如果硬要回答“有了 chocolatey 和 scoop 为什么还要用它”，答案只能是：不，并没有巧克力勺子，大众的脑中真的没有。
+            - [中图法](https://zhuanlan.zhihu.com/p/353521308) construction with Obsidian
         - detail point 99.97 (pt8-99.97)
             - 你的想法很好，我也很想实现你的想法，但是我觉着很困难，因为在线的网站播放视频，视频由别人控制，如果资源失效那么学习笔记也就没了，所以我推荐学习的时候就用[本地视频](https://www.bilibili.com/video/BV13K4y1n7fg)（b站视频的下载，可以在win中的 [Microsoft 商店]中下载 [bilibili win10 特制版]，然后就能直接用客户端下载到电脑上，而且视频不加密，无水印，可以直接学习）
 对于我这个视频的方法来说，在写程序的时候只能实现obsidian和potplayer之间的调用。

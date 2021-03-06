@@ -1544,9 +1544,9 @@
                             }
                           },
                           {
-                            "string": "被娃[点燃了求知欲](https://space.bilibili.com/39477772)的妈妈，[内驱力]完全激发的[终身学习者]，拥有第一手的[废柴蜕变]经验，坚信未来的自己会更优秀。",
+                            "string": "被娃[点燃了求知欲](https://space.bilibili.com/39477772)的妈妈，[内驱力]完全激发的[终身学习者](https://www.zhihu.com/people/aliya-64-53)，拥有第一手的[废柴蜕变]经验，坚信未来的自己会更优秀。",
                             "uid": "GMKQm9xow",
-                            "edit-time": 1614971794683,
+                            "edit-time": 1615031963198,
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -1631,7 +1631,7 @@
                         }
                       },
                       {
-                        "string": "因为在 roam research 之前，tiddlywiki 和一些别 wiki 系统都可以通过各种[内置 marco] 显示出「[当前文档]被[哪些文档][引用]了」，但这种特性一直没怎么[受人们重视]，以我自己的[使用感受]来说，wiki 系统虽然列出了引用当前文档的文档，但时间一久我并不愿意费劲点进去查看引用处，可是不点进去的话光看那些文档名也看不出什么，渐渐地连文档名也不想看了。roam research [最大的改进]是在[反链]当中[具体显示][被引用处的上下文]，这样一来人们才愿意去看反链，解决了[传统 wiki] 的[引用列表][沦为冷板凳]的问题。",
+                        "string": "因为在 roam research 之前，tiddlywiki 和一些别 wiki 系统都可以通过各种[内置 marco] 显示出「[当前文档]被[哪些文档][引用]了」，但这种特性一直没怎么[受人们重视]，以我自己的[使用感受]来说，[wiki 系统]虽然[列出了][引用当前文档]的文档，但[时间一久]我并[不愿意费劲点进去][查看引用处]，可是[不点进去的话][光看那些文档名][也看不出什么]，[渐渐地]连[文档名][也不想看了]。roam research [最大的改进]是在[反链]当中[具体显示][被引用处的上下文]，这样一来人们才愿意去看反链，解决了[传统 wiki] 的[引用列表][沦为冷板凳]的问题。",
                         "children": [
                           {
                             "string": "思源现在的反链模式恰恰又碰上了传统 wiki 的老问题，最重要的[上下文信息]反而[被藏得最深]，需要[很多次展开]才能看到。[上层块的信息]可能也不是完全没用，但我想它的重要性应该是远远远远不如上下文的，因为上下文几乎是直接决定了用户愿不愿意去看反链，所以上下文应该处于一个用户无需手动点击就能一眼看到的位置。现在我在思源里虽然还开着[反链面板]，但一次都没再看过了，反链功能几乎等同于没有了，跟以前用传统 wiki 的情境如出一辙。",
@@ -1671,7 +1671,7 @@
                           }
                         ],
                         "uid": "FzDM5WW0L",
-                        "edit-time": 1614008634854,
+                        "edit-time": 1615030151979,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -2789,7 +2789,7 @@
                         }
                       },
                       {
-                        "string": "{{[[TODO]]}} [[css](https://discuss.logseq.com/t/css-highlights-current-path-bullets-color/371) highlights current path (bullets color)]",
+                        "string": "{{[[TODO]]}} [css](https://discuss.logseq.com/t/css-highlights-current-path-bullets-color/371) highlights current path (bullets color)",
                         "create-time": 1614613466688,
                         ":block/refs": [
                           {
@@ -2805,7 +2805,7 @@
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
                         "uid": "W5fRqMUNh",
-                        "edit-time": 1614613479455,
+                        "edit-time": 1615030209840,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -5214,10 +5214,10 @@
                             }
                           },
                           {
-                            "string": "搜索是我们对链接基础结构的信任，并从该[链接结构]中获得了[效率的大幅提高]。",
+                            "string": "搜索是我们对[链接基础结构]的信任，并从该[链接结构]中获得了[效率的大幅提高]。",
                             "create-time": 1614001630952,
                             "uid": "uonHZnzdw",
-                            "edit-time": 1614001640775,
+                            "edit-time": 1615030354828,
                             ":create/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             },
@@ -5380,35 +5380,75 @@
                     }
                   },
                   {
-                    "string": "{{[[TODO]]}} music || inoji baggari - sawako\nメアの教育 - mizuru / みずる\n2.15 yucchan生放  love  唱了yonjunana   录像4.lxe\nなりすましゲンガー; ",
-                    "create-time": 1614140560318,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
+                    "string": "bili",
+                    "create-time": 1615030433972,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    "uid": "6bdsAqWI3",
-                    "edit-time": 1614140584377,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "edit-time": 1613578685834,
                     "children": [
                       {
-                        "string": "【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】",
-                        "create-time": 1613578696824,
-                        "uid": "eiCSUUeo0",
-                        "edit-time": 1613578710839,
+                        "string": "{{[[TODO]]}} music || inoji baggari - sawako\nメアの教育 - mizuru / みずる\n2.15 yucchan生放  love  唱了yonjunana   录像4.lxe\nなりすましゲンガー; ",
+                        "create-time": 1614140560318,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "6bdsAqWI3",
+                        "edit-time": 1614140584377,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "edit-time": 1613578685834,
+                        "children": [
+                          {
+                            "string": "【[歌回][剪辑]】[ロキ/roki](https://www.bilibili.com/video/av81052820)【安德莉亚】",
+                            "create-time": 1613578696824,
+                            "uid": "eiCSUUeo0",
+                            "edit-time": 1613578710839,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "uid": "Zz-asP8Gz",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1613578677021,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "以YouTube播放[进行排序]\n参考：https://www.vocaloard.injpok.tokyo/",
+                        "create-time": 1614446219891,
+                        "uid": "0uH2h54_P",
+                        "edit-time": 1614446227329,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
@@ -5417,34 +5457,8 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "uid": "Zz-asP8Gz",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "string": "{{[[TODO]]}} [安德莉亚](https://space.bilibili.com/249088457)",
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "create-time": 1613578677021,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "以YouTube播放[进行排序]\n参考：https://www.vocaloard.injpok.tokyo/",
-                    "create-time": 1614446219891,
-                    "uid": "0uH2h54_P",
-                    "edit-time": 1614446227329,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
+                    "uid": "K5PSyBtqX",
+                    "edit-time": 1615030435504,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -6850,6 +6864,58 @@
                     }
                   },
                   {
+                    "string": "直到今年六月初，事情发生了点变化，我偶然在 [Hacker News](http://link.zhihu.com/?target=https%3A//news.ycombinator.com/news) 上发现了 Obsidian，那时候 Obsidian 只是一个[相对简陋的]带双向链接的[本地笔记软件]，但是在我看到了[那时候][开发者的发言]，以及了解了一下开发者[来历]后，我认为可以在 Obsidian 上[投入时间以及精力]，并且趁软件[还比较纯粹]（简陋），可以[及时适应]软件所带来的[笔记方法上的变化](https://zhuanlan.zhihu.com/p/268104344)。",
+                    "create-time": 1615031218196,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "当你[有内容需要]与[相似的内容][做目录]的时候，你一般会选择 TOC (Table Of Content) 来[对内容进行排列]以及[概括]；而 MOC 的原意是 Map Of Content， 即[可以理解成][内容地图]，如下就是一个[内容地图形式]：",
+                        "create-time": 1615031271708,
+                        "uid": "hOJKj3RgB",
+                        "edit-time": 1615031314544,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "但是在我发现了 URI 功能以及[标题级别][块链接]的功能后，事情[再次发生了改变]，我发现我可以利用[之前撰写的][严肃文章]的[复读]以及[重温]来提高[后续工作过程]中，我[所写的文章]以及[宣讲内容]的质量，即[不再强求于]在 obsidian 上运用[卡片法]来写作，而是[专注于]笔记[这个过程]。",
+                        "children": [
+                          {
+                            "string": "现在，我每次[写完的文章][出现了问题]或者[得到相关的赞扬]后，我就会[将其存档]，且在里面[新增一个]链接到 obsidian 笔记的超链接，且在[对应的笔记]中加上[链接到这个文档]的 FILE 命令（同样可以链接到文档），相互软件间的超链接增强了我对我以往所写过的严肃文章的[复盘效果]——好在哪，不好在哪，有没有什么总结以及想法；同时[摆脱了]多次[重复犯错]的痛苦。",
+                            "uid": "nqm4IYbVP",
+                            "edit-time": 1615031460416,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "现在我是[无比赞同]这个观点：obsidian 将笔记之间互相连接，是一次[复习行为]，类似于[不定期的间隔复习]。从我将对我撰写的严肃文章[开始复盘][到目前为止]，这种利用自己的工作而[产生的内容]越来越具有自己的[条理性]，也越来越能[快速地找到问题所在]。",
+                            "uid": "G72bHnVlH",
+                            "edit-time": 1615031488247,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "iAqCOYb89",
+                        "edit-time": 1615031418828,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "VtbcEcp3P",
+                    "edit-time": 1615031511044,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "**TOME4的[怪物强度]怎么[预估]**",
                     "create-time": 1614966114242,
                     ":create/user": {
@@ -7499,6 +7565,18 @@
                     ],
                     "uid": "YHH8LR8ns",
                     "edit-time": 1614529000526,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[中图法](https://zhuanlan.zhihu.com/p/353521308) construction with Obsidian",
+                    "create-time": 1615031097136,
+                    "uid": "0wIYJGuVO",
+                    "edit-time": 1615031117764,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -73916,6 +73994,54 @@
     "title": "light wave",
     "uid": "DZOlO3Dc0",
     "edit-time": 1615021859353,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615029187342,
+    "title": "Obsidian Plugins",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Sliding Panes (Andy's Mode)]]",
+        "create-time": 1615029542706,
+        ":block/refs": [
+          {
+            ":block/uid": "SwrOO3xAu"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "SwrOO3xAu"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "-dbKYVsHt",
+        "edit-time": 1615029564829,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "GICAUiR7q",
+    "edit-time": 1615029187342,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615029564831,
+    "title": "Sliding Panes (Andy's Mode)",
+    "uid": "SwrOO3xAu",
+    "edit-time": 1615029564831,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
