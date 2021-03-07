@@ -205,6 +205,12 @@ appgo — 269 yuan/year
                 - {{[[TODO]]}} 在 win 上我会用 [AutoHotKey](https://link.zhihu.com/?target=https%3A//autohotkey.com/) 来把 [Capslock 键]变成一个[前缀键]并[绑定了]很多[常用操作]在上面，[最常用到的]就是 [Capslock + hjkl] 来[上下左右移动光标]，对熟悉 vim 的人来说[很顺手]；Mac 没有 AutoHotKey，但是因为很多[输入文本的地方]都支持几个简单的 [EMACS 快捷键]，所以也[凑合能用]；[不管哪一种]都比用鼠标或触摸板或方向键去[移动光标]要[高效]。
                 - {{[[TODO]]}} 网页资源嗅探
             - Best Sexy Girl Show Your Body At Home - [Part 6](https://www.xvideos.com/video53259667/best_sexy_girl_show_your_body_at_home_-_part_6)
+            - {{[[TODO]]}} hu bowen | [weibo](https://weibo.com/u/2169106242); [weibo archive](http://peachring.com/weibo/user/2169106242); [2021.2](https://tieba.baidu.com/p/7241960287)
+wen yan | [weibo](https://weibo.com/u/5902545994); [bili](https://space.bilibili.com/157792060)
+wang shu | [weibo](https://weibo.com/flfeilan)
+https://weibo.com/u/3221293024
+https://weibo.com/u/5266692460
+https://space.bilibili.com/692988/
             - [zvb](https://youtu.be/8e_6M94LAxE) 敲击、抓挠 随机物品 [无人声](https://www.bilibili.com/video/BV1pe411p7GP)
                 - 【[zvb_助眠](https://www.bilibili.com/video/BV1554y1s7Z2)】1分钟100个物品触发音！/ [100 triggers in 1 minute](https://www.youtube.com/watch?v=CKwtrVzbYbY)
             - 【[Comfy](https://www.bilibili.com/video/BV1bt411w7Hb)】在房间里进行随机敲击/触发/无底噪/本子/笔/化妆品护肤品 [Tapping Around In My Room](https://youtu.be/oPHQzmXGrtM) 
@@ -549,6 +555,7 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                 - 西方[赢得世界]不是通过其思想，价值观或宗教的优越（[其他文明]中几乎没有多少人[皈依]它们），而是通过它[运用有组织的暴力]方面的优势。西方人[常常忘记][这一事实]，[非西方人]却[从未忘记]。
 —— 塞缪尔•亨廷顿《文明的冲突》
                 - 全球反导体系的建立又大大重塑了美国的地理优势
+            - 亚皇想要当[千古一帝](https://bbs.northdy.com/thread-923217-1-1.html)，就必须[集中权力]，而他[集中权力的努力][一次又一次失败了]，如果不是[早早病死]（[搞不好是][被毒死]），[最后结局]不见得比[李亚子]好。他死以后，他生前[最后一次努力][留下的班子]很快就被[军头]们一一[清洗干净]，那些骂亚帝[悖逆希腊传统]的[继业者]们，最后一个个当起[专制君主]来[很开心的样子]。
             - tech
                 - [git-auto-push for logseq in windows](https://cn.logseq.com/t/topic/397) 
                 - {{[[TODO]]}} [200+优秀Github项目精选](https://zhuanlan.zhihu.com/p/353032180)
@@ -602,3 +609,5 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                 - 同样地，如果1895年的日本也失败了，那么就没有了朝鲜和台湾，政府[财政崩溃]，北方还会[丢一些国土]给俄国；[日英同盟]根本不用想，取而代之的会是[对抗俄国]的清英同盟；然后的日本是20年代的大地震和三十年代的经济危机，再然后就变成今天的越南这个样子。
                 - 遗憾的是，中国在[挫败]越南[野心]后，和当年[打败印度]一样，由于[自身能力所限]，并没有进一步给予越南[真正疼痛的惩罚]，既没有把越南国土[一分为二]，也没有要求[割地赔款]。这无疑让[周边国家]，比如印度产生了“侵略中国是一种[零成本行为]”的想法。
             - 俄罗斯虽然大部分[中小城市](https://www.zhihu.com/pin/1342963440370020352)[破落] 年轻人[工作机会]很少少 也不住[大house]而是[挤公寓] 但[基础福利]肉类牛奶[价格低廉][生育补贴][多管齐下] 让很多[单亲妈妈]也能靠两千块工资 以[充足肉奶蛋白]养大孩子 得到良好的[基础教育] 这在我们 和韩国难以想象 在[东亚教育竞赛][难以避免]的状况下 未来唯一有效[刺激生育率]的 就是[未婚生育] [社会伦理]上接受容纳 [经济福利]上鼓励 其他手段[都是白搭]
+            - {{[[TODO]]}} [baidu chuanda](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9577166828061340249%22%7D&n_type=1&p_from=4)
+https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10220506341737650114%22%7D&n_type=0&p_from=1
