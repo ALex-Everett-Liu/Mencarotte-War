@@ -1737,6 +1737,38 @@
                         }
                       },
                       {
+                        "string": "所有这些问题都绕不开 KR&R: 知识表示与推理。这是人工智能、认知科学的[核心问题](https://sspai.com/post/65273)之一，遗憾的是，也是[尚无最优解]的一个领域。概括来讲，知识表示主要有[描述式和程序式]两种。从描述的角度来讲，Roam 目前的[数据结构][不能很好描述][两个知识之间的关系]（这在这篇文章[已经讨论过了]），从程序的角度来看，Roam 现在[没有设计][推理引擎]，从[目前的发展][推演]，[未来也不太可能][设计这么一套系统]。加之，[白皮书]完全没提 KR&R [当下的困境]，让我感觉白皮书[更像是][写给投资方的软文]。",
+                        "create-time": 1615204439613,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "[协作式的知识库]除了有[技术工具]，更重要的是，要有内容：[高度结构化的数据]。[生产这样的数据][需要付出较多的时间和精力]，因此[仅依靠个人]、甚至是[小团队]是不够的，只有依靠像wiki这样，大规模协作。但是Roam目前的[收费机制]、[社区氛围]等方面，与[大规模协作][并不兼容]。",
+                            "children": [
+                              {
+                                "string": "所以，似乎虽然[语言上宣称]建立[协作式知识库]（还不是Notion那种团队中笔记协作，而是与推理、决策[有更深度融合的][知识协作]），但[产品路线]并非如此。不过，我后来没怎么关注 Roam 了，如有疏漏，敬请指出。",
+                                "uid": "B9LJYAhg1",
+                                "edit-time": 1615204587960,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "xyTfoZgjv",
+                            "edit-time": 1615204566985,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "koW04qaQp",
+                        "edit-time": 1615204663727,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "edit-time": 1613129716691,
                         "children": [
                           {
@@ -4008,6 +4040,24 @@
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Imagine if Things 3, Dynalist & Agenda [had a baby]. That baby would be NotePlan 2.",
+                        "children": [
+                          {
+                            "string": "如果这么比较的话，那么 [NotePlan 3](https://sspai.com/post/65139) ≈ Things 3 + Dynalist + Agenda + RoamResearch。",
+                            "uid": "VctwoUgAo",
+                            "edit-time": 1615205054945,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "Kr8dzpN6M",
+                        "edit-time": 1615204986106,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -7008,6 +7058,54 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "edit-time": 1615203776651,
+                    "children": [
+                      {
+                        "string": "魔方[微信公众号]上有[详细介绍](https://bbs.northdy.com/thread-923360-1-1.html)。",
+                        "create-time": 1615203760531,
+                        "uid": "GN7af_Qfy",
+                        "edit-time": 1615203783200,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "wegene",
+                        "create-time": 1615203761701,
+                        "uid": "rKVRMLy4Y",
+                        "edit-time": 1615203764686,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "8KYEF6ETA"
+                      }
+                    ],
+                    "uid": "lOoK7KAzM",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8KYEF6ETA"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} **[23魔方]的[党项拓跋氏][溯源]**",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1615203752910,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "9dAXbyiHc",
@@ -7093,6 +7191,36 @@
                     ],
                     "uid": "BW2H1Z9Oo",
                     "edit-time": 1613907835187,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[梁武帝](https://bbs.northdy.com/thread-923024-2-1.html)[没啥不称职的]，温水煮青蛙，是[南朝皇帝]对[高门]的[一贯策略]，不然怎么办？继续[王与马共天下]吗？南朝因为[基本盘小]，[士族大庄园]和[政府控制的][民户]并存，从来[压榨民户]比较厉害，这个也是[没辙]，北朝和南朝比[主要优势]是[人口多]因此[基本盘大]。",
+                    "children": [
+                      {
+                        "string": "南京城的百姓[生活非常惨]就是胡扯了，真有人觉得[乱世人]比[太平犬]强？梁武帝不管如何确实[缔造了]南方五十年无[内战]的一代，这是他的大功也是他的大罪。他[佞佛]和什么[心理安康]没啥关系，他主要是为了[控制佛教]，直接当[佛教徒]就可以直接管佛教把佛教[纳入体制内]了。",
+                        "uid": "gG9F0m1vi",
+                        "edit-time": 1615203414718,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "是西魏北周[摸索出来]的，其实要说东魏北齐[有没有可能]摸索出来，有可能，北齐也[做出了不少的贡献]，但是[历史确实没能选择他们]。南方[最有可能]重建的，其实不是宋齐梁，而是[南陈]，所谓[破而后立]，可惜陈武陈文早死，陈宣[得国不正]，没有在[体制]上[下大工夫]。尽管如此，[陈后主]能[继位]而且[稳定在位那么久]，[本身就说明][环境的改变]。",
+                        "create-time": 1615203523578,
+                        "uid": "pChaFH-YB",
+                        "edit-time": 1615203568759,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "or-f_K6XO",
+                    "edit-time": 1615203681247,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -7257,6 +7385,18 @@
                     ],
                     "uid": "6ZZt5Kaz9",
                     "edit-time": 1614240607329,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[西夏语][被证明是]一种[西部嘉绒语](https://bbs.northdy.com/thread-923342-1-1.html)",
+                    "create-time": 1615203856228,
+                    "uid": "OA40AQk4l",
+                    "edit-time": 1615203870724,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -8220,10 +8360,10 @@
             }
           },
           {
-            "string": "御姐; 丝路大亨",
+            "string": "御姐; 丝路大亨; ",
             "create-time": 1612697509824,
             "uid": "Jl78eJ9Wm",
-            "edit-time": 1614930833256,
+            "edit-time": 1615207190365,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -14693,7 +14833,7 @@
                 }
               },
               {
-                "string": "[Another possibility opened by] entanglement is testing for \"[[hidden variable]]s\", [hypothetical properties] [more fundamental than] the quantities addressed in quantum theory itself, knowledge of which would [allow more exact predictions] than [quantum theory can provide]. A collection of results, [most significantly] [[Bell's theorem]], have demonstrated that [broad classes of] such [hidden-variable theories] are [in fact incompatible with] [quantum physics]. According to Bell's theorem, if nature actually operates in accord with any theory of local hidden variables, then the results of a Bell test will be constrained in a particular, quantifiable way. Many Bell tests have been performed, using entangled particles, and they have shown results incompatible with the constraints imposed by local hidden variables.[11][12]",
+                "string": "[Another possibility opened by] entanglement is testing for \"[[hidden variable]]s\", [hypothetical properties] [more fundamental than] the quantities addressed in quantum theory itself, knowledge of which would [allow more exact predictions] than [quantum theory can provide]. A collection of results, [most significantly] [[Bell's theorem]], have demonstrated that [broad classes of] such [hidden-variable theories] are [in fact incompatible with] [quantum physics]. According to Bell's theorem, if nature actually [operates in accord with] any theory of [local hidden variables], then the results of a [[Bell test]] [will be constrained] in a particular, quantifiable way. Many Bell tests [have been performed], using [[entangled particles]], and [they have shown results] incompatible with [the constraints imposed by] [local hidden variables].[11][12]",
                 "create-time": 1615178892974,
                 ":block/refs": [
                   {
@@ -14701,6 +14841,12 @@
                   },
                   {
                     ":block/uid": "2C8VNuYcC"
+                  },
+                  {
+                    ":block/uid": "JOwj9wMYS"
+                  },
+                  {
+                    ":block/uid": "NAxCUXZzJ"
                   }
                 ],
                 "refs": [
@@ -14709,13 +14855,19 @@
                   },
                   {
                     "uid": "2C8VNuYcC"
+                  },
+                  {
+                    "uid": "JOwj9wMYS"
+                  },
+                  {
+                    "uid": "NAxCUXZzJ"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "RuzJaqakA",
-                "edit-time": 1615190554560,
+                "edit-time": 1615198864973,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -14766,13 +14918,35 @@
             }
           },
           {
-            "string": "It is not possible to present these concepts in more than a superficial way without introducing the actual mathematics involved; understanding quantum mechanics requires not only manipulating complex numbers, but also linear algebra, differential equations, group theory, and other more advanced subjects.[note 2] Accordingly, this article will present a mathematical formulation of quantum mechanics and survey its application to some useful and oft-studied examples.",
+            "string": "[It is not possible to] [present these concepts] in [more than a superficial way] without introducing [the actual mathematics involved]; [understanding quantum mechanics] [requires not only] [manipulating complex numbers], but also [[linear algebra]], [[differential equation]]s, [[group theory]], and other [more advanced subjects].[note 2] Accordingly, [this article will present] [a mathematical formulation of quantum mechanics] and [survey its application to] some useful and [oft-studied examples]. 综述其应用 经常研究的例子\n210308-18:30",
             "create-time": 1615178887355,
-            "uid": "ll8TPpise",
-            "edit-time": 1615178892982,
+            ":block/refs": [
+              {
+                ":block/uid": "Wz0OIkq5T"
+              },
+              {
+                ":block/uid": "5Fq-WR692"
+              },
+              {
+                ":block/uid": "f4Zc9HUcV"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Wz0OIkq5T"
+              },
+              {
+                "uid": "5Fq-WR692"
+              },
+              {
+                "uid": "f4Zc9HUcV"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "ll8TPpise",
+            "edit-time": 1615199440946,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -77607,6 +77781,66 @@
     "title": "Bell's theorem",
     "uid": "2C8VNuYcC",
     "edit-time": 1615190529833,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615198791947,
+    "title": "Bell test",
+    "uid": "JOwj9wMYS",
+    "edit-time": 1615198791949,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615198855330,
+    "title": "entangled particles",
+    "uid": "NAxCUXZzJ",
+    "edit-time": 1615198855331,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615199102522,
+    "title": "linear algebra",
+    "uid": "Wz0OIkq5T",
+    "edit-time": 1615199102530,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615199179593,
+    "title": "differential equation",
+    "uid": "5Fq-WR692",
+    "edit-time": 1615199179594,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615199179593,
+    "title": "group theory",
+    "uid": "f4Zc9HUcV",
+    "edit-time": 1615199179594,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
