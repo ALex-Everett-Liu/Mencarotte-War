@@ -88,7 +88,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 2,
+      :order 1,
       :content-id "MQYWiGTyQ"},
      "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66"
      {:page-uid "WnHQsRcsa",
@@ -96,7 +96,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 3,
+      :order 2,
       :content-id "WnHQsRcsa"},
      "uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
      {:page-uid "Vj9Rpr3De",
@@ -104,10 +104,10 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 4,
+      :order 3,
       :content-id "Vj9Rpr3De"}},
     :roam/js {:active-blocks #{"OrKb9pc_c"}}}
-   536911459]
+   536911461]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [4 :block/uid "01-30-2021" 536870916]
   [4 :create/time 1611962030919 536870916]
@@ -4034,7 +4034,6 @@
   [4094 :block/refs 4097 536888212]
   [4094 :block/refs 4098 536888212]
   [4094 :block/refs 4099 536888212]
-  [4094 :block/refs 4100 536888212]
   [4094 :block/refs 4101 536888212]
   [4094 :block/refs 4102 536888212]
   [4094 :block/refs 4103 536888212]
@@ -4045,12 +4044,12 @@
   [4094 :block/refs 4784 536891088]
   [4094
    :block/string
-   "Quantum mechanics differs from classical physics in that energy, momentum, [[angular momentum]], and other quantities of a [[bound system]] are restricted to [[discrete value]]s ([[quantization]]), [[object]]s have [[characteristics]] of both particles and waves ([[wave-particle duality]]), and there are [[limit]]s to [how accurately the value of] a [[physical quantity]] can be predicted [[prior to its measurement]], given a [[complete set]] of [[initial condition]]s (the [[uncertainty principle]]). #[[discrete mathematics]]\n201111-04:33, 05:51"
-   536891090]
+   "Quantum mechanics differs from classical physics in that energy, momentum, [[angular momentum]], and other quantities of a [[bound system]] are restricted to [[discrete value]]s ([[quantization]]), [[object]]s have [[characteristics]] of both particles and waves ([wave-particle duality]), and there are [[limit]]s to [how accurately the value of] a [[physical quantity]] can be predicted [[prior to its measurement]], given a [[complete set]] of [[initial condition]]s (the [[uncertainty principle]]). #[[discrete mathematics]]\n201111-04:33, 05:51"
+   536911499]
   [4094 :block/uid "6ydwEBGgK" 536888207]
   [4094 :create/time 1611993348033 536888207]
   [4094 :create/user 3 536888207]
-  [4094 :edit/time 1612656096169 536891090]
+  [4094 :edit/time 1615178861288 536911499]
   [4094 :edit/user 3 536888207]
   [4095 :block/uid "YUeRI2FCp" 536888212]
   [4095 :create/time 1611993453348 536888212]
@@ -10530,6 +10529,9 @@
   [4710 :node/title "February 6th, 2021" 536890914]
   [4711 :block/children 4713 536890926]
   [4711 :block/children 4725 536890982]
+  [4711 :block/children 9928 536911503]
+  [4711 :block/children 9929 536911506]
+  [4711 :block/children 9930 536911509]
   [4711 :block/heading 2 536890919]
   [4711 :block/open true 536890916]
   [4711 :block/order 1 536890916]
@@ -10563,7 +10565,7 @@
   [4712 :edit/user 3 536890921]
   [4713 :block/children 4712 536909799]
   [4713 :block/children 9925 536911435]
-  [4713 :block/open true 536890926]
+  [4713 :block/open false 536911515]
   [4713 :block/order 1 536890982]
   [4713 :block/page 3956 536890927]
   [4713 :block/parents 3956 536890927]
@@ -31224,8 +31226,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuidbb248dac-61a4-4cff-a977-9e0165cfcdfb"
-   536911460]
+   "uuid74983e50-f012-491f-9f8b-6b4e0d258d83"
+   536911526]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -50151,6 +50153,7 @@
   [8643 :block/children 8644 536905002]
   [8643 :block/children 8645 536905009]
   [8643 :block/children 8742 536905543]
+  [8643 :block/children 9927 536911481]
   [8643 :block/uid "BS0NWlxyN" 536905001]
   [8643 :create/time 1614541418616 536905001]
   [8643 :create/user 3 536905001]
@@ -50176,12 +50179,12 @@
   [8645 :block/parents 8643 536905010]
   [8645
    :block/string
-   "光る海に かすむ船は さよならの汽笛 残します \n缓い坂を 降りて行けば 夏色の風に あえるかしら\nわたしの愛 それはメロディー たかく ひくく 歌うの\nわたしの愛 それはカモメ たかく ひくく 飛ぶの\n夕陽のなか 呼んでみたら やさしいあなたに 逢えるかしら"
-   536905020]
+   "光る海に かすむ船は さよならの汽笛 残します / 海面波光粼粼 轮船渐行渐远 告别的汽笛声久久回荡海边\n缓い坂を 降りて行けば 夏色の風に あえるかしら\nわたしの愛 それはメロディー たかく ひくく 歌うの\nわたしの愛 それはカモメ たかく ひくく 飛ぶの\n夕陽のなか 呼んでみたら やさしいあなたに 逢えるかしら"
+   536911466]
   [8645 :block/uid "IrHmym2Vv" 536905009]
   [8645 :create/time 1614541458756 536905009]
   [8645 :create/user 3 536905009]
-  [8645 :edit/time 1614543551122 536905020]
+  [8645 :edit/time 1615177473149 536911466]
   [8645 :edit/user 3 536905009]
   [8646 :block/children 8648 536905035]
   [8646 :block/children 8649 536905046]
@@ -51184,11 +51187,14 @@
   [8742 :block/order 2 536905543]
   [8742 :block/page 8643 536905544]
   [8742 :block/parents 8643 536905544]
-  [8742 :block/string "だれかが弾く ピアノの音 海鳴りみたいに きこえます" 536905546]
+  [8742
+   :block/string
+   "だれかが弾く ピアノの音 海鳴りみたいに きこえます / 仿佛海浪声声回响在我耳边\nおそい午後を 往き交うひと 夏色の夢を はこぶかしら / 午后天色渐暗 路上行人匆匆\nわたしの愛 それはダイアリー 日々のページ つづるの / 写满一页页时光\nわたしの愛 それは小舟 空の海をゆくの\n夕陽のなか 振り返れば あなたはわたしを 探すかしら"
+   536911480]
   [8742 :block/uid "cMiC2U5z8" 536905543]
   [8742 :create/time 1614597023716 536905543]
   [8742 :create/user 3 536905543]
-  [8742 :edit/time 1614597029471 536905546]
+  [8742 :edit/time 1615177578949 536911480]
   [8742 :edit/user 3 536905543]
   [8743 :block/children 8744 536905562]
   [8743 :block/children 8750 536905584]
@@ -63011,7 +63017,7 @@
   [9924 :edit/user 3 536911434]
   [9924 :node/title "detector" 536911434]
   [9925 :block/children 9589 536911440]
-  [9925 :block/open true 536911435]
+  [9925 :block/open false 536911501]
   [9925 :block/order 1 536911435]
   [9925 :block/page 3956 536911437]
   [9925 :block/parents 3956 536911437]
@@ -63041,4 +63047,69 @@
   [9926 :create/user 3 536911455]
   [9926 :edit/time 1615173916374 536911455]
   [9926 :edit/user 3 536911455]
-  [9926 :node/title "atomic-scale entity" 536911455]]}
+  [9926 :node/title "atomic-scale entity" 536911455]
+  [9927 :block/open true 536911481]
+  [9927 :block/order 3 536911481]
+  [9927 :block/page 8643 536911482]
+  [9927 :block/parents 8643 536911482]
+  [9927
+   :block/string
+   "散歩道に ゆれる木々は さよならの影を おとします / 散步道路两旁 海风拂过树梢 洒落路边的影 似在诉说别离\n古いチャペル 風見の鶏(とり) 夏色の街は みえるかしら\nきのうの愛 それは涙 やがて かわき 消えるの / 昨日的爱恋 化作滴滴泪水\nあしたの愛 それはルフラン おわりのない言葉\n夕陽のなか めぐり逢えば あなたはわたしを 抱くかしら"
+   536911498]
+  [9927 :block/uid "EpM5OAvS6" 536911481]
+  [9927 :create/time 1615177591060 536911481]
+  [9927 :create/user 3 536911481]
+  [9927 :edit/time 1615177696824 536911498]
+  [9927 :edit/user 3 536911481]
+  [9928 :block/open true 536911503]
+  [9928 :block/order 4 536911509]
+  [9928 :block/page 3956 536911504]
+  [9928 :block/parents 3956 536911504]
+  [9928 :block/parents 4711 536911504]
+  [9928
+   :block/string
+   "It is not possible to present these concepts in more than a superficial way without introducing the actual mathematics involved; understanding quantum mechanics requires not only manipulating complex numbers, but also linear algebra, differential equations, group theory, and other more advanced subjects.[note 2] Accordingly, this article will present a mathematical formulation of quantum mechanics and survey its application to some useful and oft-studied examples."
+   536911511]
+  [9928 :block/uid "ll8TPpise" 536911503]
+  [9928 :create/time 1615178887355 536911503]
+  [9928 :create/user 3 536911503]
+  [9928 :edit/time 1615178892982 536911511]
+  [9928 :edit/user 3 536911503]
+  [9929 :block/open true 536911506]
+  [9929 :block/order 2 536911506]
+  [9929 :block/page 3956 536911507]
+  [9929 :block/parents 3956 536911507]
+  [9929 :block/parents 4711 536911507]
+  [9929 :block/refs 5175 536911520]
+  [9929 :block/refs 6485 536911525]
+  [9929 :block/refs 6487 536911525]
+  [9929 :block/refs 9931 536911520]
+  [9929
+   :block/string
+   "When [[quantum system]]s interact, [the result can be] [the creation of] [[quantum entanglement]]: their properties [become so intertwined] that [a description of the whole]([[whole description]]) solely in terms of the [[individual part]]s is [no longer possible]. Erwin Schrödinger called entanglement \"...the characteristic trait of quantum mechanics, the one that enforces its entire departure from classical lines of thought\".[9] Quantum entanglement enables the counter-intuitive properties of quantum pseudo-telepathy, and can be a valuable resource in communication protocols, such as quantum key distribution and superdense coding.[10] Contrary to popular misconception, entanglement does not allow sending signals faster than light, as demonstrated by the no-communication theorem.[10]"
+   536911526]
+  [9929 :block/uid "v0QlzJjO_" 536911506]
+  [9929 :create/time 1615178891253 536911506]
+  [9929 :create/user 3 536911506]
+  [9929 :edit/time 1615179103784 536911526]
+  [9929 :edit/user 3 536911506]
+  [9930 :block/open true 536911509]
+  [9930 :block/order 3 536911509]
+  [9930 :block/page 3956 536911510]
+  [9930 :block/parents 3956 536911510]
+  [9930 :block/parents 4711 536911510]
+  [9930
+   :block/string
+   "Another possibility opened by entanglement is testing for \"hidden variables\", hypothetical properties more fundamental than the quantities addressed in quantum theory itself, knowledge of which would allow more exact predictions than quantum theory can provide. A collection of results, most significantly Bell's theorem, have demonstrated that broad classes of such hidden-variable theories are in fact incompatible with quantum physics. According to Bell's theorem, if nature actually operates in accord with any theory of local hidden variables, then the results of a Bell test will be constrained in a particular, quantifiable way. Many Bell tests have been performed, using entangled particles, and they have shown results incompatible with the constraints imposed by local hidden variables.[11][12]"
+   536911512]
+  [9930 :block/uid "RuzJaqakA" 536911509]
+  [9930 :create/time 1615178892974 536911509]
+  [9930 :create/user 3 536911509]
+  [9930 :edit/time 1615178896213 536911512]
+  [9930 :edit/user 3 536911509]
+  [9931 :block/uid "KRgQUCooC" 536911520]
+  [9931 :create/time 1615178943152 536911520]
+  [9931 :create/user 3 536911520]
+  [9931 :edit/time 1615178943152 536911520]
+  [9931 :edit/user 3 536911520]
+  [9931 :node/title "quantum entanglement" 536911520]]}

@@ -13280,7 +13280,7 @@
             "edit-time": 1612745576622,
             "children": [
               {
-                "string": "Quantum mechanics differs from classical physics in that energy, momentum, [[angular momentum]], and other quantities of a [[bound system]] are restricted to [[discrete value]]s ([[quantization]]), [[object]]s have [[characteristics]] of both particles and waves ([[wave-particle duality]]), and there are [[limit]]s to [how accurately the value of] a [[physical quantity]] can be predicted [[prior to its measurement]], given a [[complete set]] of [[initial condition]]s (the [[uncertainty principle]]). #[[discrete mathematics]]\n201111-04:33, 05:51",
+                "string": "Quantum mechanics differs from classical physics in that energy, momentum, [[angular momentum]], and other quantities of a [[bound system]] are restricted to [[discrete value]]s ([[quantization]]), [[object]]s have [[characteristics]] of both particles and waves ([wave-particle duality]), and there are [[limit]]s to [how accurately the value of] a [[physical quantity]] can be predicted [[prior to its measurement]], given a [[complete set]] of [[initial condition]]s (the [[uncertainty principle]]). #[[discrete mathematics]]\n201111-04:33, 05:51",
                 "create-time": 1611993348033,
                 ":block/refs": [
                   {
@@ -13297,9 +13297,6 @@
                   },
                   {
                     ":block/uid": "eCS0BiyRV"
-                  },
-                  {
-                    ":block/uid": "6ewMNgfJn"
                   },
                   {
                     ":block/uid": "kRvN-P4e1"
@@ -13343,9 +13340,6 @@
                     "uid": "eCS0BiyRV"
                   },
                   {
-                    "uid": "6ewMNgfJn"
-                  },
-                  {
                     "uid": "kRvN-P4e1"
                   },
                   {
@@ -13374,7 +13368,7 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "6ydwEBGgK",
-                "edit-time": 1612656096169,
+                "edit-time": 1615178861288,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -14615,6 +14609,70 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "create-time": 1612568974097,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "When [[quantum system]]s interact, [the result can be] [the creation of] [[quantum entanglement]]: their properties [become so intertwined] that [a description of the whole]([[whole description]]) solely in terms of the [[individual part]]s is [no longer possible]. Erwin Schrödinger called entanglement \"...the characteristic trait of quantum mechanics, the one that enforces its entire departure from classical lines of thought\".[9] Quantum entanglement enables the counter-intuitive properties of quantum pseudo-telepathy, and can be a valuable resource in communication protocols, such as quantum key distribution and superdense coding.[10] Contrary to popular misconception, entanglement does not allow sending signals faster than light, as demonstrated by the no-communication theorem.[10]",
+            "create-time": 1615178891253,
+            ":block/refs": [
+              {
+                ":block/uid": "zk_1TQY_M"
+              },
+              {
+                ":block/uid": "14zJYtxWu"
+              },
+              {
+                ":block/uid": "OGAlIoZN-"
+              },
+              {
+                ":block/uid": "KRgQUCooC"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "zk_1TQY_M"
+              },
+              {
+                "uid": "14zJYtxWu"
+              },
+              {
+                "uid": "OGAlIoZN-"
+              },
+              {
+                "uid": "KRgQUCooC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "v0QlzJjO_",
+            "edit-time": 1615179103784,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Another possibility opened by entanglement is testing for \"hidden variables\", hypothetical properties more fundamental than the quantities addressed in quantum theory itself, knowledge of which would allow more exact predictions than quantum theory can provide. A collection of results, most significantly Bell's theorem, have demonstrated that broad classes of such hidden-variable theories are in fact incompatible with quantum physics. According to Bell's theorem, if nature actually operates in accord with any theory of local hidden variables, then the results of a Bell test will be constrained in a particular, quantifiable way. Many Bell tests have been performed, using entangled particles, and they have shown results incompatible with the constraints imposed by local hidden variables.[11][12]",
+            "create-time": 1615178892974,
+            "uid": "RuzJaqakA",
+            "edit-time": 1615178896213,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "It is not possible to present these concepts in more than a superficial way without introducing the actual mathematics involved; understanding quantum mechanics requires not only manipulating complex numbers, but also linear algebra, differential equations, group theory, and other more advanced subjects.[note 2] Accordingly, this article will present a mathematical formulation of quantum mechanics and survey its application to some useful and oft-studied examples.",
+            "create-time": 1615178887355,
+            "uid": "ll8TPpise",
+            "edit-time": 1615178892982,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -67140,10 +67198,10 @@
         }
       },
       {
-        "string": "光る海に かすむ船は さよならの汽笛 残します \n缓い坂を 降りて行けば 夏色の風に あえるかしら\nわたしの愛 それはメロディー たかく ひくく 歌うの\nわたしの愛 それはカモメ たかく ひくく 飛ぶの\n夕陽のなか 呼んでみたら やさしいあなたに 逢えるかしら",
+        "string": "光る海に かすむ船は さよならの汽笛 残します / 海面波光粼粼 轮船渐行渐远 告别的汽笛声久久回荡海边\n缓い坂を 降りて行けば 夏色の風に あえるかしら\nわたしの愛 それはメロディー たかく ひくく 歌うの\nわたしの愛 それはカモメ たかく ひくく 飛ぶの\n夕陽のなか 呼んでみたら やさしいあなたに 逢えるかしら",
         "create-time": 1614541458756,
         "uid": "IrHmym2Vv",
-        "edit-time": 1614543551122,
+        "edit-time": 1615177473149,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -67152,10 +67210,22 @@
         }
       },
       {
-        "string": "だれかが弾く ピアノの音 海鳴りみたいに きこえます",
+        "string": "だれかが弾く ピアノの音 海鳴りみたいに きこえます / 仿佛海浪声声回响在我耳边\nおそい午後を 往き交うひと 夏色の夢を はこぶかしら / 午后天色渐暗 路上行人匆匆\nわたしの愛 それはダイアリー 日々のページ つづるの / 写满一页页时光\nわたしの愛 それは小舟 空の海をゆくの\n夕陽のなか 振り返れば あなたはわたしを 探すかしら",
         "create-time": 1614597023716,
         "uid": "cMiC2U5z8",
-        "edit-time": 1614597029471,
+        "edit-time": 1615177578949,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "散歩道に ゆれる木々は さよならの影を おとします / 散步道路两旁 海风拂过树梢 洒落路边的影 似在诉说别离\n古いチャペル 風見の鶏(とり) 夏色の街は みえるかしら\nきのうの愛 それは涙 やがて かわき 消えるの / 昨日的爱恋 化作滴滴泪水\nあしたの愛 それはルフラン おわりのない言葉\n夕陽のなか めぐり逢えば あなたはわたしを 抱くかしら",
+        "create-time": 1615177591060,
+        "uid": "EpM5OAvS6",
+        "edit-time": 1615177696824,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -77317,6 +77387,18 @@
     "title": "atomic-scale entity",
     "uid": "2U87JtdWg",
     "edit-time": 1615173916374,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615178943152,
+    "title": "quantum entanglement",
+    "uid": "KRgQUCooC",
+    "edit-time": 1615178943152,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
