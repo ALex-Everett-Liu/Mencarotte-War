@@ -88,7 +88,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 0,
+      :order 2,
       :content-id "MQYWiGTyQ"},
      "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66"
      {:page-uid "WnHQsRcsa",
@@ -96,7 +96,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 1,
+      :order 3,
       :content-id "WnHQsRcsa"},
      "uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
      {:page-uid "Vj9Rpr3De",
@@ -104,10 +104,10 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 2,
+      :order 4,
       :content-id "Vj9Rpr3De"}},
     :roam/js {:active-blocks #{"OrKb9pc_c"}}}
-   536907440]
+   536911459]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [4 :block/uid "01-30-2021" 536870916]
   [4 :create/time 1611962030919 536870916]
@@ -1431,7 +1431,7 @@
   [3906 :block/children 3907 536887765]
   [3906 :block/children 3908 536887765]
   [3906 :block/children 4980 536891279]
-  [3906 :block/open false 536911413]
+  [3906 :block/open true 536911460]
   [3906 :block/order 2 536906042]
   [3906 :block/page 3902 536887768]
   [3906 :block/parents 3902 536887768]
@@ -10562,7 +10562,7 @@
   [4712 :edit/time 1615020518118 536909798]
   [4712 :edit/user 3 536890921]
   [4713 :block/children 4712 536909799]
-  [4713 :block/children 9589 536909801]
+  [4713 :block/children 9925 536911435]
   [4713 :block/open true 536890926]
   [4713 :block/order 1 536890982]
   [4713 :block/page 3956 536890927]
@@ -31224,8 +31224,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuid7a2678be-55b7-4573-8315-2ab927680651"
-   536911414]
+   "uuidbb248dac-61a4-4cff-a977-9e0165cfcdfb"
+   536911460]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -59643,27 +59643,28 @@
   [9588 :edit/time 1615017661972 536909771]
   [9588 :edit/user 3 536909766]
   [9589 :block/open false 536909814]
-  [9589 :block/order 1 536909801]
+  [9589 :block/order 0 536911440]
   [9589 :block/page 3956 536909776]
   [9589 :block/parents 3956 536909776]
   [9589 :block/parents 4711 536909776]
   [9589 :block/parents 4713 536909802]
-  [9589 :block/refs 7644 536909804]
-  [9589 :block/refs 7645 536909820]
-  [9589 :block/refs 9593 536909804]
-  [9589 :block/refs 9594 536909807]
-  [9589 :block/refs 9595 536909807]
-  [9589 :block/refs 9596 536909807]
-  [9589 :block/refs 9597 536909812]
-  [9589 :block/refs 9598 536909817]
+  [9589 :block/parents 9925 536911441]
+  [9589 :block/refs 4100 536911448]
+  [9589 :block/refs 5168 536911423]
+  [9589 :block/refs 7627 536911423]
+  [9589 :block/refs 9487 536911427]
+  [9589 :block/refs 9922 536911425]
+  [9589 :block/refs 9923 536911430]
+  [9589 :block/refs 9924 536911434]
+  [9589 :block/refs 9926 536911455]
   [9589
    :block/string
-   "Another consequence of the mathematical rules of quantum mechanics is the phenomenon of [[quantum interference]], which is often illustrated with the [[double-slit experiment]]. In the [basic version] of this experiment, a [[coherent light source]], such as a [[laser beam]], [illuminates a plate]([[illuminate the plate]]) pierced by two [[parallel slit]]s, and the light [passing through the slits] is [observed on a screen] [behind the plate].[4]:102–111[2]:1.1–1.8 [The wave nature of light]([[the wave nature of light]]) causes the [[light wave]]s [passing through the two slits] to interfere, producing bright and dark bands on the screen – a result that would not be expected if light consisted of classical particles.[4] However, the light is always found to be absorbed at the screen at discrete points, as individual particles rather than waves; the interference pattern appears via the varying density of these particle hits on the screen. Furthermore, versions of the experiment that include detectors at the slits find that each detected photon passes through one slit (as would a classical particle), and not through both slits (as would a wave).[4]:109[5][6] However, such experiments demonstrate that particles do not form the interference pattern if one detects which slit they pass through. Other atomic-scale entities, such as electrons, are found to exhibit the same behavior when fired towards a double slit.[2] This behavior is known as wave-particle duality."
-   536909819]
+   "However, the light is always found to be [absorbed at the screen] at [[discrete point]]s, as [[individual particle]]s rather than waves; the [[interference pattern]] appears via the [[varying density]] of these particle [hits on the screen]. Furthermore, [versions of the experiment] that include [detectors at the slits]([[detector]]) find that each [[detected photon]] [passes through one slit] (as would a classical particle), and not through both slits (as would a wave).[4]:109[5][6] However, [such experiments demonstrate that] particles do not [form the interference pattern] if one detects [which slit they pass through]. Other [atomic-scale entities]([[atomic-scale entity]]), such as electrons, are found to [exhibit the same behavior] when [fired towards a double slit].[2] This behavior is known as [[wave-particle duality]]."
+   536911454]
   [9589 :block/uid "OF8p4tS38" 536909775]
   [9589 :create/time 1615019690969 536909775]
   [9589 :create/user 3 536909775]
-  [9589 :edit/time 1615021868973 536909819]
+  [9589 :edit/time 1615173916370 536911454]
   [9589 :edit/user 3 536909775]
   [9590 :block/uid "GF8jLWWCG" 536909779]
   [9590 :create/time 1615020376097 536909779]
@@ -62984,4 +62985,60 @@
   [9920 :edit/time 1615166660460 536911414]
   [9920 :edit/user 3 536911414]
   [9920 :log/id 1615166660459 536911414]
-  [9920 :node/title "March 8th, 2021" 536911414]]}
+  [9920 :node/title "March 8th, 2021" 536911414]
+  [9921 :block/uid "34h3pm8qh" 536911418]
+  [9921 :create/time 1615173264741 536911418]
+  [9921 :create/user 3 536911418]
+  [9921 :edit/time 1615173264749 536911418]
+  [9921 :edit/user 3 536911418]
+  [9921 :node/title "bright and dark bands" 536911418]
+  [9922 :block/uid "UA02kBNV_" 536911425]
+  [9922 :create/time 1615173691708 536911425]
+  [9922 :create/user 3 536911425]
+  [9922 :edit/time 1615173691716 536911425]
+  [9922 :edit/user 3 536911425]
+  [9922 :node/title "interference pattern" 536911425]
+  [9923 :block/uid "J9n2MbJ5h" 536911430]
+  [9923 :create/time 1615173736181 536911430]
+  [9923 :create/user 3 536911430]
+  [9923 :edit/time 1615173736183 536911430]
+  [9923 :edit/user 3 536911430]
+  [9923 :node/title "detected photon" 536911430]
+  [9924 :block/uid "njq2VNo79" 536911434]
+  [9924 :create/time 1615173753829 536911434]
+  [9924 :create/user 3 536911434]
+  [9924 :edit/time 1615173753831 536911434]
+  [9924 :edit/user 3 536911434]
+  [9924 :node/title "detector" 536911434]
+  [9925 :block/children 9589 536911440]
+  [9925 :block/open true 536911435]
+  [9925 :block/order 1 536911435]
+  [9925 :block/page 3956 536911437]
+  [9925 :block/parents 3956 536911437]
+  [9925 :block/parents 4711 536911437]
+  [9925 :block/parents 4713 536911437]
+  [9925 :block/refs 5166 536911436]
+  [9925 :block/refs 7644 536911436]
+  [9925 :block/refs 7645 536911436]
+  [9925 :block/refs 9593 536911436]
+  [9925 :block/refs 9594 536911436]
+  [9925 :block/refs 9595 536911436]
+  [9925 :block/refs 9596 536911436]
+  [9925 :block/refs 9597 536911436]
+  [9925 :block/refs 9598 536911436]
+  [9925 :block/refs 9921 536911436]
+  [9925
+   :block/string
+   "Another consequence of the mathematical rules of quantum mechanics is the phenomenon of [[quantum interference]], which is often illustrated with the [[double-slit experiment]]. In the [basic version] of this experiment, a [[coherent light source]], such as a [[laser beam]], [illuminates a plate]([[illuminate the plate]]) pierced by two [[parallel slit]]s, and the light [passing through the slits] is [observed on a screen] [behind the plate].[4]:102–111[2]:1.1–1.8 [The wave nature of light]([[the wave nature of light]]) causes the [[light wave]]s [passing through the two slits] to interfere, producing [[bright and dark bands]] [on the screen] – a result that [would not be expected] if light consisted of [[classical particle]]s.[4] \n210308-11:28"
+   536911457]
+  [9925 :block/uid "pQf1KBCJF" 536911435]
+  [9925 :create/time 1615173787115 536911435]
+  [9925 :create/user 3 536911435]
+  [9925 :edit/time 1615174171451 536911457]
+  [9925 :edit/user 3 536911435]
+  [9926 :block/uid "2U87JtdWg" 536911455]
+  [9926 :create/time 1615173916373 536911455]
+  [9926 :create/user 3 536911455]
+  [9926 :edit/time 1615173916374 536911455]
+  [9926 :edit/user 3 536911455]
+  [9926 :node/title "atomic-scale entity" 536911455]]}

@@ -14397,35 +14397,77 @@
                 }
               },
               {
-                "string": "Another consequence of the mathematical rules of quantum mechanics is the phenomenon of [[quantum interference]], which is often illustrated with the [[double-slit experiment]]. In the [basic version] of this experiment, a [[coherent light source]], such as a [[laser beam]], [illuminates a plate]([[illuminate the plate]]) pierced by two [[parallel slit]]s, and the light [passing through the slits] is [observed on a screen] [behind the plate].[4]:102–111[2]:1.1–1.8 [The wave nature of light]([[the wave nature of light]]) causes the [[light wave]]s [passing through the two slits] to interfere, producing bright and dark bands on the screen – a result that would not be expected if light consisted of classical particles.[4] However, the light is always found to be absorbed at the screen at discrete points, as individual particles rather than waves; the interference pattern appears via the varying density of these particle hits on the screen. Furthermore, versions of the experiment that include detectors at the slits find that each detected photon passes through one slit (as would a classical particle), and not through both slits (as would a wave).[4]:109[5][6] However, such experiments demonstrate that particles do not form the interference pattern if one detects which slit they pass through. Other atomic-scale entities, such as electrons, are found to exhibit the same behavior when fired towards a double slit.[2] This behavior is known as wave-particle duality.",
-                "create-time": 1615019690969,
-                ":block/refs": [
+                "edit-time": 1615174171451,
+                "children": [
                   {
-                    ":block/uid": "QLY6duaKd"
-                  },
-                  {
-                    ":block/uid": "IzA4r2fJo"
-                  },
-                  {
-                    ":block/uid": "cP6mmkkQ9"
-                  },
-                  {
-                    ":block/uid": "ZMM2lSqDv"
-                  },
-                  {
-                    ":block/uid": "8Oj_EVima"
-                  },
-                  {
-                    ":block/uid": "dSfJwTfQM"
-                  },
-                  {
-                    ":block/uid": "7ErxZCPyv"
-                  },
-                  {
-                    ":block/uid": "DZOlO3Dc0"
+                    "string": "However, the light is always found to be [absorbed at the screen] at [[discrete point]]s, as [[individual particle]]s rather than waves; the [[interference pattern]] appears via the [[varying density]] of these particle [hits on the screen]. Furthermore, [versions of the experiment] that include [detectors at the slits]([[detector]]) find that each [[detected photon]] [passes through one slit] (as would a classical particle), and not through both slits (as would a wave).[4]:109[5][6] However, [such experiments demonstrate that] particles do not [form the interference pattern] if one detects [which slit they pass through]. Other [atomic-scale entities]([[atomic-scale entity]]), such as electrons, are found to [exhibit the same behavior] when [fired towards a double slit].[2] This behavior is known as [[wave-particle duality]].",
+                    "create-time": 1615019690969,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6ewMNgfJn"
+                      },
+                      {
+                        ":block/uid": "m_dzm6IZ2"
+                      },
+                      {
+                        ":block/uid": "9gI6-GTx4"
+                      },
+                      {
+                        ":block/uid": "3NVjpGLDq"
+                      },
+                      {
+                        ":block/uid": "UA02kBNV_"
+                      },
+                      {
+                        ":block/uid": "J9n2MbJ5h"
+                      },
+                      {
+                        ":block/uid": "njq2VNo79"
+                      },
+                      {
+                        ":block/uid": "2U87JtdWg"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "6ewMNgfJn"
+                      },
+                      {
+                        "uid": "m_dzm6IZ2"
+                      },
+                      {
+                        "uid": "9gI6-GTx4"
+                      },
+                      {
+                        "uid": "3NVjpGLDq"
+                      },
+                      {
+                        "uid": "UA02kBNV_"
+                      },
+                      {
+                        "uid": "J9n2MbJ5h"
+                      },
+                      {
+                        "uid": "njq2VNo79"
+                      },
+                      {
+                        "uid": "2U87JtdWg"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "OF8p4tS38",
+                    "edit-time": 1615173916370,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
+                  {
+                    "uid": "GkrcJWx2O"
+                  },
                   {
                     "uid": "QLY6duaKd"
                   },
@@ -14449,13 +14491,49 @@
                   },
                   {
                     "uid": "DZOlO3Dc0"
+                  },
+                  {
+                    "uid": "34h3pm8qh"
                   }
                 ],
+                "uid": "pQf1KBCJF",
+                ":block/refs": [
+                  {
+                    ":block/uid": "GkrcJWx2O"
+                  },
+                  {
+                    ":block/uid": "QLY6duaKd"
+                  },
+                  {
+                    ":block/uid": "IzA4r2fJo"
+                  },
+                  {
+                    ":block/uid": "cP6mmkkQ9"
+                  },
+                  {
+                    ":block/uid": "ZMM2lSqDv"
+                  },
+                  {
+                    ":block/uid": "8Oj_EVima"
+                  },
+                  {
+                    ":block/uid": "dSfJwTfQM"
+                  },
+                  {
+                    ":block/uid": "7ErxZCPyv"
+                  },
+                  {
+                    ":block/uid": "DZOlO3Dc0"
+                  },
+                  {
+                    ":block/uid": "34h3pm8qh"
+                  }
+                ],
+                "string": "Another consequence of the mathematical rules of quantum mechanics is the phenomenon of [[quantum interference]], which is often illustrated with the [[double-slit experiment]]. In the [basic version] of this experiment, a [[coherent light source]], such as a [[laser beam]], [illuminates a plate]([[illuminate the plate]]) pierced by two [[parallel slit]]s, and the light [passing through the slits] is [observed on a screen] [behind the plate].[4]:102–111[2]:1.1–1.8 [The wave nature of light]([[the wave nature of light]]) causes the [[light wave]]s [passing through the two slits] to interfere, producing [[bright and dark bands]] [on the screen] – a result that [would not be expected] if light consisted of [[classical particle]]s.[4] \n210308-11:28",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "OF8p4tS38",
-                "edit-time": 1615021868973,
+                "create-time": 1615173787115,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -77179,6 +77257,66 @@
     "title": "March 8th, 2021",
     "uid": "03-08-2021",
     "edit-time": 1615166660460,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615173264741,
+    "title": "bright and dark bands",
+    "uid": "34h3pm8qh",
+    "edit-time": 1615173264749,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615173691708,
+    "title": "interference pattern",
+    "uid": "UA02kBNV_",
+    "edit-time": 1615173691716,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615173736181,
+    "title": "detected photon",
+    "uid": "J9n2MbJ5h",
+    "edit-time": 1615173736183,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615173753829,
+    "title": "detector",
+    "uid": "njq2VNo79",
+    "edit-time": 1615173753831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615173916373,
+    "title": "atomic-scale entity",
+    "uid": "2U87JtdWg",
+    "edit-time": 1615173916374,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
