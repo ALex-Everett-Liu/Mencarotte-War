@@ -2877,6 +2877,28 @@
                         }
                       },
                       {
+                        "string": "{{[[TODO]]}} 有[文件夹]只是[给用户更多的选择]，不是说[基于文件夹系统]就一定要用[子文件夹]，更先进更方便的方法是用 MOC，实际上 MOC 在 [Obsidian 社区]已经是[显学](https://ld246.com/article/1615134268498)了，只是国内[还没那么流行]。",
+                        "create-time": 1615222224740,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "iFB7xVRHg",
+                        "edit-time": 1615222265003,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "edit-time": 1612063457590,
                         "children": [
                           {
@@ -29066,83 +29088,59 @@
     },
     "children": [
       {
-        "string": "In the [[mathematically rigorous]] formulation of quantum mechanics developed by Paul Dirac,[27] David Hilbert,[28] John von Neumann,[29] and [[Hermann Weyl]],[30] the [[possible state]]s of a [quantum mechanical system] are [[symbolized]][31] as [[unit vector]]s (called [[state vector]]s) $$\\displaystyle \\psi$$. Formally, these vectors are elements of a complex [separable]([[separable space]]) [[Hilbert space]] {$$\\displaystyle {\\mathcal {H}}$$} – variously called the [[state space]] or the [[associated Hilbert space]] of the system – that is [well defined] up to a [[complex number]] of [[norm]] 1 (the [[phase factor]]). In other words, the possible states are points in the [[projective space]] of a Hilbert space, usually called the [[complex projective space]]. The [exact nature] of this Hilbert space is [[dependent on the system]] – for example, the state space for [[position]] and [[momentum]] states is the space of [[square-integrable function]]s $$\\displaystyle L^{2}(\\mathbb {C} )$$, while the state space for the [[spin]] of a single [[proton]] is just the [[product]] of two [[complex plane]]s. #mathcal #mathbb\n210126-19:22",
-        "create-time": 1613170289154,
-        ":block/refs": [
+        "edit-time": 1615211780109,
+        "children": [
           {
-            ":block/uid": "5qG6RlLFv"
-          },
-          {
-            ":block/uid": "c5ItJdplE"
-          },
-          {
-            ":block/uid": "p61QXYuvZ"
-          },
-          {
-            ":block/uid": "iznXkZ70W"
-          },
-          {
-            ":block/uid": "MBhesB0lj"
-          },
-          {
-            ":block/uid": "BFxiJEVRI"
-          },
-          {
-            ":block/uid": "_iNmZsIAJ"
-          },
-          {
-            ":block/uid": "RhMWNruqa"
-          },
-          {
-            ":block/uid": "S7WD3--4I"
-          },
-          {
-            ":block/uid": "P68Z0Rume"
-          },
-          {
-            ":block/uid": "qgyyY9C6E"
-          },
-          {
-            ":block/uid": "2uWFU7Qn3"
-          },
-          {
-            ":block/uid": "Ypa_AA900"
-          },
-          {
-            ":block/uid": "LpPtnGaqv"
-          },
-          {
-            ":block/uid": "WtAC0TZWi"
-          },
-          {
-            ":block/uid": "nAY3PKune"
-          },
-          {
-            ":block/uid": "UyshsdH7p"
-          },
-          {
-            ":block/uid": "vUY4fRlR1"
-          },
-          {
-            ":block/uid": "atlA8ZqnB"
-          },
-          {
-            ":block/uid": "A__6ASABr"
-          },
-          {
-            ":block/uid": "-Elzh5Jm0"
-          },
-          {
-            ":block/uid": "zctoauvcA"
-          },
-          {
-            ":block/uid": "65XU94GuK"
-          },
-          {
-            ":block/uid": "Zfc0AbeY2"
-          },
-          {
-            ":block/uid": "bPBDwJVz6"
+            "string": "Physical quantities of interest — position, momentum, energy, spin — are represented by observables, which are [[Hermitian operator]]s (more precisely, [[self-adjoint operator]]s) [[linear operator]] acting on the [Hilbert space]. 作用于状态空间 A quantum state can be an eigenvector of an observable, in which case it is called an eigenstate, and the associated eigenvalue corresponds to the value of the observable in that eigenstate. More generally, a quantum state will be a linear combination of the eigenstates, known as a quantum superposition. When an observable is measured, the result will be one of its eigenvalues with probability given by the Born rule:  in the [simplest case] the eigenvalue {\\displaystyle \\lambda } is [[non-degenerate]] and the probability is given by $$\\displaystyle |\\langle {\\vec {\\lambda }},\\psi \\rangle |^{2}$$, where {\\displaystyle {\\vec {\\lambda }}} is its associated eigenvector. More generally, the eigenvalue is [[degenerate]] and the probability is given by $$\\displaystyle \\langle \\psi ,P_{\\lambda }\\psi \\rangle $$, where {\\displaystyle P_{\\lambda }} is the [[projector]] onto its associated eigenspace.",
+            "create-time": 1615211781363,
+            ":block/refs": [
+              {
+                ":block/uid": "Ir7tC0gXE"
+              },
+              {
+                ":block/uid": "ZiV1hMyMo"
+              },
+              {
+                ":block/uid": "DMXRd-akp"
+              },
+              {
+                ":block/uid": "miyKhz25o"
+              },
+              {
+                ":block/uid": "7Thd64nN5"
+              },
+              {
+                ":block/uid": "Rr13idAzj"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Ir7tC0gXE"
+              },
+              {
+                "uid": "ZiV1hMyMo"
+              },
+              {
+                "uid": "DMXRd-akp"
+              },
+              {
+                "uid": "miyKhz25o"
+              },
+              {
+                "uid": "7Thd64nN5"
+              },
+              {
+                "uid": "Rr13idAzj"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "WpkGSbrax",
+            "edit-time": 1615221369607,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -29222,45 +29220,89 @@
             "uid": "bPBDwJVz6"
           }
         ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
         "uid": "SU_FYw4SN",
-        "edit-time": 1615211780109,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "Physical quantities of interest — position, momentum, energy, spin — are represented by observables, which are Hermitian (more precisely, self-adjoint) linear operators acting on the Hilbert space. A quantum state can be an eigenvector of an observable, in which case it is called an eigenstate, and the associated eigenvalue corresponds to the value of the observable in that eigenstate. More generally, a quantum state will be a linear combination of the eigenstates, known as a quantum superposition. When an observable is measured, the result will be one of its eigenvalues with probability given by the Born rule:  in the [simplest case] the eigenvalue {\\displaystyle \\lambda } is [[non-degenerate]] and the probability is given by $$\\displaystyle |\\langle {\\vec {\\lambda }},\\psi \\rangle |^{2}$$, where {\\displaystyle {\\vec {\\lambda }}} is its associated eigenvector. More generally, the eigenvalue is [[degenerate]] and the probability is given by $$\\displaystyle \\langle \\psi ,P_{\\lambda }\\psi \\rangle $$, where {\\displaystyle P_{\\lambda }} is the [[projector]] onto its associated eigenspace.",
-        "create-time": 1615211781363,
         ":block/refs": [
           {
-            ":block/uid": "Ir7tC0gXE"
+            ":block/uid": "5qG6RlLFv"
           },
           {
-            ":block/uid": "ZiV1hMyMo"
+            ":block/uid": "c5ItJdplE"
           },
           {
-            ":block/uid": "DMXRd-akp"
+            ":block/uid": "p61QXYuvZ"
+          },
+          {
+            ":block/uid": "iznXkZ70W"
+          },
+          {
+            ":block/uid": "MBhesB0lj"
+          },
+          {
+            ":block/uid": "BFxiJEVRI"
+          },
+          {
+            ":block/uid": "_iNmZsIAJ"
+          },
+          {
+            ":block/uid": "RhMWNruqa"
+          },
+          {
+            ":block/uid": "S7WD3--4I"
+          },
+          {
+            ":block/uid": "P68Z0Rume"
+          },
+          {
+            ":block/uid": "qgyyY9C6E"
+          },
+          {
+            ":block/uid": "2uWFU7Qn3"
+          },
+          {
+            ":block/uid": "Ypa_AA900"
+          },
+          {
+            ":block/uid": "LpPtnGaqv"
+          },
+          {
+            ":block/uid": "WtAC0TZWi"
+          },
+          {
+            ":block/uid": "nAY3PKune"
+          },
+          {
+            ":block/uid": "UyshsdH7p"
+          },
+          {
+            ":block/uid": "vUY4fRlR1"
+          },
+          {
+            ":block/uid": "atlA8ZqnB"
+          },
+          {
+            ":block/uid": "A__6ASABr"
+          },
+          {
+            ":block/uid": "-Elzh5Jm0"
+          },
+          {
+            ":block/uid": "zctoauvcA"
+          },
+          {
+            ":block/uid": "65XU94GuK"
+          },
+          {
+            ":block/uid": "Zfc0AbeY2"
+          },
+          {
+            ":block/uid": "bPBDwJVz6"
           }
         ],
-        "refs": [
-          {
-            "uid": "Ir7tC0gXE"
-          },
-          {
-            "uid": "ZiV1hMyMo"
-          },
-          {
-            "uid": "DMXRd-akp"
-          }
-        ],
+        "string": "In the [[mathematically rigorous]] formulation of quantum mechanics developed by Paul Dirac,[27] David Hilbert,[28] John von Neumann,[29] and [[Hermann Weyl]],[30] the [[possible state]]s of a [quantum mechanical system] are [[symbolized]][31] as [[unit vector]]s (called [[state vector]]s) $$\\displaystyle \\psi$$. Formally, these vectors are elements of a complex [separable]([[separable space]]) [[Hilbert space]] {$$\\displaystyle {\\mathcal {H}}$$} – variously called the [[state space]] or the [[associated Hilbert space]] of the system – that is [well defined] up to a [[complex number]] of [[norm]] 1 (the [[phase factor]]). In other words, the possible states are points in the [[projective space]] of a Hilbert space, usually called the [[complex projective space]]. The [exact nature] of this Hilbert space is [[dependent on the system]] – for example, the state space for [[position]] and [[momentum]] states is the space of [[square-integrable function]]s $$\\displaystyle L^{2}(\\mathbb {C} )$$, while the state space for the [[spin]] of a single [[proton]] is just the [[product]] of two [[complex plane]]s. #mathcal #mathbb\n210126-19:22",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "WpkGSbrax",
-        "edit-time": 1615211825565,
+        "create-time": 1613170289154,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -78235,6 +78277,42 @@
     "title": "projector",
     "uid": "DMXRd-akp",
     "edit-time": 1615211825568,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615221310764,
+    "title": "Hermitian operator",
+    "uid": "miyKhz25o",
+    "edit-time": 1615221310766,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615221310764,
+    "title": "self-adjoint operator",
+    "uid": "7Thd64nN5",
+    "edit-time": 1615221310766,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615221336486,
+    "title": "linear operator",
+    "uid": "Rr13idAzj",
+    "edit-time": 1615221336487,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
