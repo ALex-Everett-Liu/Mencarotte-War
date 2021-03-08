@@ -941,6 +941,82 @@
                     },
                     "children": [
                       {
+                        "string": "所有对[双链链接](https://www.yuque.com/arvinxx/knowledge-note/rdtyem)的[负面评价][都来自于]这样一个[错误前提]——双向链接是[面向结构]的。有了这样的误解，就会把双向链接跟[文献引用网络]做比较，就会觉得双向链接[意义不大]。",
+                        "children": [
+                          {
+                            "string": "但是上一个前提是错的，双向链接不是面向结构的，它是[面向主题]的（换种说法，就是你最后一段的「领域」）。这一点其实[很容易想通]，[如果只是为了][构建结构]，只需要[单向链接]就行了，[根本不需要所谓的]双向链接，但是[布道者们的尬吹][很容易令人忽略这一点]，我自己一开始[也被忽悠了]。",
+                            "uid": "rHamiDp8s",
+                            "edit-time": 1615214993287,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "如果一个[有足够思考能力的人][不能及时认识到]双向链接是面向主题的，[就会陷入][从结构角度出发]的[冷静思考]，而这种冷静思考[多半会得出][偏负面的结论]。可一旦认识到了双向链接不是面向结构的，至少会把双向链接看成个[帕累托改进]、然后[为自己所用]。",
+                            "create-time": 1615215059210,
+                            "uid": "IpYYiikff",
+                            "edit-time": 1615215059210,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "所以说双向链接本身没有什么可批评，真正需要[接受批评][然后反思]的是那些[喜欢尬吹][无关概念]的布道者。我自己打算[全面总结][一篇长文]写写双向链接的价值和使用方式，稍微[挽救一下]那些[低水平]布道者造成的[语言腐败]。",
+                            "uid": "zUVzcicr8",
+                            "edit-time": 1615215059217,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "不是说[文献引文网]不面向主题（毕竟人[一开始就是冲着][具体问题]去的），而是它的[使用和呈现策略]应该算[两者兼具]，「选出哪几个」是面向主题，「它们几个彼此有什么联系」是面向结构，而双链暂时没法[同时顾及好这两端]，并且双链的核心在[反链]不在网络。",
+                            "create-time": 1615217162985,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "children": [
+                              {
+                                "string": "Histcite 做得比 CNKI [更具实践性]，它就是典型的先查找并选择多个文献并从 wos 导出，再根据所有限定选择的文献来[生成关系图]，我感觉 Histcite 这种模式跟 CNKI 比起来[各有千秋]吧",
+                                "create-time": 1615216662282,
+                                "uid": "uGHsBpv4-",
+                                "edit-time": 1615217162992,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "刚看了下 Histcite，感觉有点像 connected papers（[case](https://www.connectedpapers.com/main/978c06878c5381caefc6e9dec2c49239ae7f8bd4/GRIDS-Interactive-Layout-Design-with-Integer-Programming/graph)），不过在[结构性]上好像是比 connected papers 这种[更加清晰]。感觉的确 Histcite 这种图在看[历史脉络]时[是比较有用的]。",
+                                "create-time": 1615216860549,
+                                "uid": "Cd_VuZafm",
+                                "edit-time": 1615216887014,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "Dq1dvtcm4",
+                            "edit-time": 1615217162985,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "KJoTMs0-y",
+                        "edit-time": 1615216601958,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "edit-time": 1613692038832,
                         "children": [
                           {
@@ -2729,6 +2805,56 @@
                     },
                     "children": [
                       {
+                        "string": "曾在之前的 [Obsidian 使用经验分享] 中，我提到过 MOC [在我的认知里]是属于一个[临时笔记]的[联系层](https://zhuanlan.zhihu.com/p/355344374)，可以将[零散的笔记]，[未成体系的]笔记，用未来[可验证的方式][暂时联系起来]。而 MOC 的概念出自于《How to Make a Complete Map of Every Thought You Think》，由其作者定义， MOC 为将内容与内容与联系[固化下来]的一种方式，其与 Structure Note 相差无异，都[可以视作]笔记彻底”成熟“前的一个[胶水层][^1]。",
+                        "create-time": 1615210063810,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "其中第一种做法是[完全的联系]，第二种则[更注重]索引以及[跳转便利性]，第三种则是[完全的索引]（也就是常见的 TOC）。",
+                            "create-time": 1615210139867,
+                            "uid": "BZsrhN_I8",
+                            "edit-time": 1615210167814,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "然后每次你在[自己的首页]（INDEX）进入到[兴趣页面]，然后再进入到自己的 [News media MOC] 中，再接着[查看自己的笔记]，以及[在原来的基础上][构建新的笔记]。",
+                            "create-time": 1615210301471,
+                            "uid": "j8GcDbr3E",
+                            "edit-time": 1615210327743,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "在 Obsidian 中，我们可以用 Markdown 的 Front Matter 对 Markdown [进行管理]，[包括但不限于]标签以及[别名]等属性都可以用[对应的参数][进行设置]，而[采用这个方式]后，可以利用 Dataview 插件[对笔记进行整合]以及显示，做到如下的[显示效果]",
+                            "create-time": 1615211309725,
+                            "uid": "qVbHxPxZp",
+                            "edit-time": 1615211339187,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "Gz9fSjS_K",
+                        "edit-time": 1615211362492,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "{{[[TODO]]}} 用 Dropbox [个人专业版](https://ld246.com/article/1612676461342/comment/1612701720904#comments)，容量 2T，比[坚果云][稳定多了]，很多坚果云不能[增量同步]的[文件类型] Dropbox 都可以增量同步（增量同步指的是[只同步]一个[大文件][更改的部分]，楼上说的那种情况不叫增量同步）",
                         "create-time": 1614009106657,
                         ":block/refs": [
@@ -3876,6 +4002,24 @@
                         ],
                         "uid": "j1x39lDcT",
                         "edit-time": 1614282994161,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "双向链接、[关系图谱]的应用为[笔记软件市场][注入了新的活力](https://sspai.com/post/65316)，诸如 [Obsidian](https://sspai.com/post/63481) 这样的[本地笔记软件][渐趋流行]。[本地化存储]和新的[笔记管理理念]固然有利于[数据安全]和[知识的内化]，但[在很长一段时间里] [Android 端][与之相匹配的][笔记市场]却出现了真空。",
+                        "children": [
+                          {
+                            "string": "此前[市面上]虽然已经有 P2P（Syncthing 等）+Markor 的[解决方案]，但其[同步体验]较差。在 Obsidian 等软件的[官方安卓客户端][未开发完成]之前，我们期待着一款既能够[完美渲染]双向链接，又能够解决本地笔记[多端实时同步]问题的新工具的诞生。",
+                            "uid": "V0LM3t7Pd",
+                            "edit-time": 1615216233017,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "pdf8z318f",
+                        "edit-time": 1615216322786,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -5374,6 +5518,56 @@
                         },
                         "uid": "krhBV2drF",
                         "edit-time": 1614087371138,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "在[搜索引擎排名算法](https://www.yuque.com/arvinxx/knowledge-note/hou7be)中，[锚文本][起到非常重要的作用]，它既起到[权重传递和分配]作用，又能[告诉搜索引擎][对方页面的核心内容]，所以在 SEO 工作中，[穿插锚文本]是[很重要的环节]，也可以说是决定一个网站[是否能够有效存活]的[重要指标]。",
+                        "create-time": 1615217318720,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "但是[笔记软件]就还[比较原始]，所以双向链出来了[让众人惊叹]，但这在 SEO 只能说算是[基本操作]了。",
+                            "create-time": 1615217393038,
+                            "uid": "nC4uvMeLK",
+                            "edit-time": 1615217405522,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "当[操作路径]上[交互][困难重重]时，人们往往会放弃，大致就是这么个道理。（更多的可以参阅[瞬变](https://book.douban.com/subject/5336008/)，有机会我再展开吧）。",
+                            "create-time": 1615217536909,
+                            "uid": "_qBgC9aAD",
+                            "edit-time": 1615217548531,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "Q：那超链接[理论上也可以实现][这个效果]呀？\n\n是的，超链接是[可以做到一样的效果]，但是这个引用的意义在于[可以自动更新]。",
+                            "create-time": 1615217599587,
+                            "uid": "P-iwgou9u",
+                            "edit-time": 1615217620458,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "4avhKNwd3",
+                        "edit-time": 1615217412355,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -7022,44 +7216,6 @@
                     }
                   },
                   {
-                    "string": "**TOME4的[怪物强度]怎么[预估]**",
-                    "create-time": 1614966114242,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "children": [
-                      {
-                        "string": "[国内社群](https://bbs.saraba1st.com/2b/thread-1988589-1-1.html)[还在活跃的]只有[贴吧]了，但贴吧的[战报][版本滞后]太严重，而且有不少是错误的。\n[官方论坛]似乎有BD讨论板块，更直接一点可以去官网的characters vault查看所有上传到vault的人物bd。",
-                        "create-time": 1614966115139,
-                        "uid": "KZCToCTer",
-                        "edit-time": 1614966226157,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "去试了下原来[夺心魔][一技能]可以[手动控制]怪的……不过手动控制怪的话，玩家角色会怎么动？[自主放技能]吗？\n另外问下[召唤师]现在版本[召唤物]怎么样？感觉[输出跟不上了]，跟恐惧王座BOSS拼召唤，对面的[骷髅军团]比我的强了。主力还是牛头火龙吗？",
-                        "create-time": 1614966196804,
-                        "uid": "x3eTAsm7L",
-                        "edit-time": 1614966219721,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "uid": "O0LlTsvRP",
-                    "edit-time": 1614966233625,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
                     "edit-time": 1615203776651,
                     "children": [
                       {
@@ -7103,6 +7259,174 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "create-time": 1615203752910,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "根据[23魔方](https://www.zhihu.com/question/20151383/answer/1651425952)的资料，山东的“田”和咸阳的“第五”[有共祖]，很可能是[田齐后代]。",
+                    "create-time": 1615212458066,
+                    "uid": "mSyI4WBu9",
+                    "edit-time": 1615212481721,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "**TOME4的[怪物强度]怎么[预估]**",
+                    "create-time": 1614966114242,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "[国内社群](https://bbs.saraba1st.com/2b/thread-1988589-1-1.html)[还在活跃的]只有[贴吧]了，但贴吧的[战报][版本滞后]太严重，而且有不少是错误的。\n[官方论坛]似乎有BD讨论板块，更直接一点可以去官网的characters vault查看所有上传到vault的人物bd。",
+                        "create-time": 1614966115139,
+                        "uid": "KZCToCTer",
+                        "edit-time": 1614966226157,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "去试了下原来[夺心魔][一技能]可以[手动控制]怪的……不过手动控制怪的话，玩家角色会怎么动？[自主放技能]吗？\n另外问下[召唤师]现在版本[召唤物]怎么样？感觉[输出跟不上了]，跟恐惧王座BOSS拼召唤，对面的[骷髅军团]比我的强了。主力还是牛头火龙吗？",
+                        "create-time": 1614966196804,
+                        "uid": "x3eTAsm7L",
+                        "edit-time": 1614966219721,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "O0LlTsvRP",
+                    "edit-time": 1614966233625,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[我女朋友被她的前同事疯狂追求，而且她不忍心明言拒绝他。我该怎么办？](https://www.zhihu.com/question/20639626/answer/15719723)",
+                    "create-time": 1615212538375,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "也是她同事，结局就是她跟他[上床了几次]，最后还是觉得我好，主动告诉了我，后面的[烂摊子]还是我[去收拾]的：找人开除了那男孩儿，弄回原籍；还没带套，结果似乎是[宫外孕]，医生也没搞明白，反正最后查了又查，说是可能是自己流掉了，到现在身体也没有问题。",
+                        "create-time": 1615212539436,
+                        "uid": "CnClM9q4j",
+                        "edit-time": 1615212567981,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "那男孩儿比较聪明，有能力，人也比较帅（我长得只能算正，不能算帅。他比我帅），比我跟我女朋友都小，追他的女孩儿相当多，结果就喜欢我女朋友——我女朋友也有[虚荣心]，别人都喜欢的男人来喜欢她，能不高兴么。",
+                        "create-time": 1615212595317,
+                        "uid": "VlC9tofUI",
+                        "edit-time": 1615212605364,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "开始就是一次[生日餐会]，都[喝了点儿]，结果就[半强迫半抵抗]地开始了——正常那天我应该去接她，但是我[搞一个大客户]累死我了，回去不到10点[没洗就睡了]——每天有日记，就算当天没记，第二天也会补，所以知道当时我干了什么。",
+                        "create-time": 1615212626073,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "一共有四个月左右的时间。我本来是喜欢[一个人呆着]的人，看书上网。所以也不会太了解她有没有[跟其他人在一起]，只是[跟她做的时候]，她常常[不是太愿意]，虽然最后都能high，但是我就只有过她一个女朋友，不太了解这方面的心理。",
+                            "create-time": 1615212669469,
+                            "uid": "sF1jL0UJP",
+                            "edit-time": 1615212687650,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "tdepE4SrZ",
+                        "edit-time": 1615212646855,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "——好吧，我还是不知道什么是爱。至少的是：六年了，我[现在依然是][看见她就开心]，说着话就快乐；[出门应酬]觉得不错的菜，就老想着要[打包给她尝尝]——虽然我们完全不缺这钱自己再来吃一次；一过节就会想着要买花、买礼物——比如前天520, 之前我是没这习惯的；就算是在[一起跑步]的那样的时候，常常[不经意一回头]，依然会给我[初恋时的冲动感]……",
+                        "children": [
+                          {
+                            "string": "受虐就受虐吧，一辈子栽到一个女人手里面，我就假装自己幸福好了！哈哈",
+                            "uid": "azd_-9kA2",
+                            "edit-time": 1615212754889,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "7B-g552Vl",
+                        "edit-time": 1615212808135,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "再说点吧，一年前，我是后来知道她还出过两次轨，其中一次还又了——她当时本来就是要分手了。\n但是感情的事情，有如此简单么？\n我受虐就受虐了。\n——是不是这事情更让人吃惊了呢？",
+                        "create-time": 1615212929483,
+                        "uid": "2v3kBVxSV",
+                        "edit-time": 1615212929483,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "我就是爱我的妻子，每天[分手吻]，见面吻。\n每次分开[出去跟人谈事情][吃到好吃的]，[还是会想着]打包给她带。\n其实吧，不少人是分不清过去、现在、未来是怎么一回事的，因为多数人只明白现在。",
+                        "create-time": 1615212847493,
+                        "uid": "HH-cjERUu",
+                        "edit-time": 1615212948328,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "你的思想就是在[解决问题]，而大多数人，包括我都只是希望[避免问题]或者躲避问题。我领导身上也能看到点你的影子",
+                        "create-time": 1615213110433,
+                        "uid": "VpKTrX_s7",
+                        "edit-time": 1615213115665,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "A9YA3h7i9",
+                    "edit-time": 1615212539443,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -8911,6 +9235,18 @@
                 "create-time": 1614870897943,
                 "uid": "ooquELSvm",
                 "edit-time": 1614870920100,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "贝贝-20201225_232007.mp4; ",
+                "create-time": 1615208505895,
+                "uid": "lorr4QzPd",
+                "edit-time": 1615208508664,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -28730,7 +29066,7 @@
     },
     "children": [
       {
-        "string": "In the [[mathematically rigorous]] formulation of quantum mechanics developed by Paul Dirac,[27] David Hilbert,[28] John von Neumann,[29] and [[Hermann Weyl]],[30] the [[possible state]]s of a [quantum mechanical system] are [[symbolized]][31] as [[unit vector]]s (called [[state vector]]s) $$\\displaystyle \\psi$$. Formally, these vectors are elements of a complex [separable]([[separable space]]) [[Hilbert space]] {$$\\displaystyle {\\mathcal {H}}$$} – variously called the [[state space]] or the [[associated Hilbert space]] of the system – that is [well defined] up to a [[complex number]] of [[norm]] 1 (the [[phase factor]]). In other words, the possible states are points in the [[projective space]] of a Hilbert space, usually called the [[complex projective space]]. The [exact nature] of this Hilbert space is [[dependent on the system]] – for example, the state space for [[position]] and [[momentum]] states is the space of [[square-integrable function]]s $$\\displaystyle L^{2}(\\mathbb {C} )$$, while the state space for the [[spin]] of a single [[proton]] is just the [[product]] of two [[complex plane]]s. #mathcal #mathbb",
+        "string": "In the [[mathematically rigorous]] formulation of quantum mechanics developed by Paul Dirac,[27] David Hilbert,[28] John von Neumann,[29] and [[Hermann Weyl]],[30] the [[possible state]]s of a [quantum mechanical system] are [[symbolized]][31] as [[unit vector]]s (called [[state vector]]s) $$\\displaystyle \\psi$$. Formally, these vectors are elements of a complex [separable]([[separable space]]) [[Hilbert space]] {$$\\displaystyle {\\mathcal {H}}$$} – variously called the [[state space]] or the [[associated Hilbert space]] of the system – that is [well defined] up to a [[complex number]] of [[norm]] 1 (the [[phase factor]]). In other words, the possible states are points in the [[projective space]] of a Hilbert space, usually called the [[complex projective space]]. The [exact nature] of this Hilbert space is [[dependent on the system]] – for example, the state space for [[position]] and [[momentum]] states is the space of [[square-integrable function]]s $$\\displaystyle L^{2}(\\mathbb {C} )$$, while the state space for the [[spin]] of a single [[proton]] is just the [[product]] of two [[complex plane]]s. #mathcal #mathbb\n210126-19:22",
         "create-time": 1613170289154,
         ":block/refs": [
           {
@@ -28890,19 +29226,41 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "uid": "SU_FYw4SN",
-        "edit-time": 1613170289164,
+        "edit-time": 1615211780109,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
       },
       {
-        "string": "210126-19:22",
-        "create-time": 1613170289154,
-        "uid": "57BMzpfZA",
-        "edit-time": 1613170289164,
+        "string": "Physical quantities of interest — position, momentum, energy, spin — are represented by observables, which are Hermitian (more precisely, self-adjoint) linear operators acting on the Hilbert space. A quantum state can be an eigenvector of an observable, in which case it is called an eigenstate, and the associated eigenvalue corresponds to the value of the observable in that eigenstate. More generally, a quantum state will be a linear combination of the eigenstates, known as a quantum superposition. When an observable is measured, the result will be one of its eigenvalues with probability given by the Born rule:  in the [simplest case] the eigenvalue {\\displaystyle \\lambda } is [[non-degenerate]] and the probability is given by $$\\displaystyle |\\langle {\\vec {\\lambda }},\\psi \\rangle |^{2}$$, where {\\displaystyle {\\vec {\\lambda }}} is its associated eigenvector. More generally, the eigenvalue is [[degenerate]] and the probability is given by $$\\displaystyle \\langle \\psi ,P_{\\lambda }\\psi \\rangle $$, where {\\displaystyle P_{\\lambda }} is the [[projector]] onto its associated eigenspace.",
+        "create-time": 1615211781363,
+        ":block/refs": [
+          {
+            ":block/uid": "Ir7tC0gXE"
+          },
+          {
+            ":block/uid": "ZiV1hMyMo"
+          },
+          {
+            ":block/uid": "DMXRd-akp"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Ir7tC0gXE"
+          },
+          {
+            "uid": "ZiV1hMyMo"
+          },
+          {
+            "uid": "DMXRd-akp"
+          }
+        ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "uid": "WpkGSbrax",
+        "edit-time": 1615211825565,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -77841,6 +78199,42 @@
     "title": "group theory",
     "uid": "f4Zc9HUcV",
     "edit-time": 1615199179594,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615211825567,
+    "title": "non-degenerate",
+    "uid": "Ir7tC0gXE",
+    "edit-time": 1615211825568,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615211825567,
+    "title": "degenerate",
+    "uid": "ZiV1hMyMo",
+    "edit-time": 1615211825568,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615211825567,
+    "title": "projector",
+    "uid": "DMXRd-akp",
+    "edit-time": 1615211825568,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
