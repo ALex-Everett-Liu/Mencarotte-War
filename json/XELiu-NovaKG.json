@@ -3550,7 +3550,7 @@
                     }
                   },
                   {
-                    "string": "{{[[TODO]]}} hu bowen | [weibo](https://weibo.com/u/2169106242); [weibo archive](http://peachring.com/weibo/user/2169106242); [2021.2](https://tieba.baidu.com/p/7241960287); douyin: dyvbqoewe7ey\nwen yan | [weibo](https://weibo.com/u/5902545994); [bili](https://space.bilibili.com/157792060)\nwang shu | [weibo](https://weibo.com/flfeilan)\nhttps://weibo.com/u/3221293024\nhttps://weibo.com/u/5266692460\nhttps://space.bilibili.com/692988/",
+                    "string": "{{[[TODO]]}} hu bowen | [weibo](https://weibo.com/u/2169106242); [weibo archive](http://peachring.com/weibo/user/2169106242); [2021.2](https://tieba.baidu.com/p/7241960287); douyin: dyvbqoewe7ey; 不拿ta不拿衣; \n什贪; 甜气少女\nwen yan | [weibo](https://weibo.com/u/5902545994); [bili](https://space.bilibili.com/157792060)\nwang shu | [weibo](https://weibo.com/flfeilan)\nhttps://weibo.com/u/3221293024\nhttps://weibo.com/u/5266692460\nhttps://space.bilibili.com/692988/",
                     "create-time": 1615140214445,
                     ":block/refs": [
                       {
@@ -3566,7 +3566,7 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "uid": "_MB_sdIA-",
-                    "edit-time": 1615143826276,
+                    "edit-time": 1615263225284,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -29091,38 +29091,74 @@
         "edit-time": 1615211780109,
         "children": [
           {
-            "string": "Physical quantities of interest — position, momentum, energy, spin — are represented by observables, which are [[Hermitian operator]]s (more precisely, [[self-adjoint operator]]s) [[linear operator]] acting on the [Hilbert space]. 作用于状态空间 A quantum state can be an eigenvector of an observable, in which case it is called an eigenstate, and the associated eigenvalue corresponds to the value of the observable in that eigenstate. More generally, a quantum state will be a linear combination of the eigenstates, known as a quantum superposition. When an observable is measured, the result will be one of its eigenvalues with probability given by the Born rule:  in the [simplest case] the eigenvalue {\\displaystyle \\lambda } is [[non-degenerate]] and the probability is given by $$\\displaystyle |\\langle {\\vec {\\lambda }},\\psi \\rangle |^{2}$$, where {\\displaystyle {\\vec {\\lambda }}} is its associated eigenvector. More generally, the eigenvalue is [[degenerate]] and the probability is given by $$\\displaystyle \\langle \\psi ,P_{\\lambda }\\psi \\rangle $$, where {\\displaystyle P_{\\lambda }} is the [[projector]] onto its associated eigenspace.",
-            "create-time": 1615211781363,
-            ":block/refs": [
+            "edit-time": 1615261959276,
+            "children": [
               {
-                ":block/uid": "Ir7tC0gXE"
-              },
-              {
-                ":block/uid": "ZiV1hMyMo"
-              },
-              {
-                ":block/uid": "DMXRd-akp"
-              },
-              {
-                ":block/uid": "miyKhz25o"
-              },
-              {
-                ":block/uid": "7Thd64nN5"
-              },
-              {
-                ":block/uid": "Rr13idAzj"
+                "string": "[When an observable is measured]([[measure the observable]]), [the result will be] [one of its eigenvalues] [with probability given by the Born rule]([[Born rule]]):  in the [simplest case] the eigenvalue {\\displaystyle \\lambda } is [[non-degenerate]] and [the probability is given by] $$\\displaystyle |\\langle {\\vec {\\lambda }},\\psi \\rangle |^{2}$$, where {\\displaystyle {\\vec {\\lambda }}} is its [associated eigenvector]. More generally, the eigenvalue is [[degenerate]] and the probability is given by $$\\displaystyle \\langle \\psi ,P_{\\lambda }\\psi \\rangle $$, where {\\displaystyle P_{\\lambda }} is the [[projector]] onto its [associated eigenspace]([[eigenspace]]). #langle #vector\n210309-12:00",
+                "create-time": 1615211781363,
+                ":block/refs": [
+                  {
+                    ":block/uid": "28N6fXqAs"
+                  },
+                  {
+                    ":block/uid": "Ir7tC0gXE"
+                  },
+                  {
+                    ":block/uid": "ZiV1hMyMo"
+                  },
+                  {
+                    ":block/uid": "DMXRd-akp"
+                  },
+                  {
+                    ":block/uid": "q5MLJFunl"
+                  },
+                  {
+                    ":block/uid": "PGjn44BZ2"
+                  },
+                  {
+                    ":block/uid": "edXbpyy-c"
+                  },
+                  {
+                    ":block/uid": "BbS-N0XqU"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "28N6fXqAs"
+                  },
+                  {
+                    "uid": "Ir7tC0gXE"
+                  },
+                  {
+                    "uid": "ZiV1hMyMo"
+                  },
+                  {
+                    "uid": "DMXRd-akp"
+                  },
+                  {
+                    "uid": "q5MLJFunl"
+                  },
+                  {
+                    "uid": "PGjn44BZ2"
+                  },
+                  {
+                    "uid": "edXbpyy-c"
+                  },
+                  {
+                    "uid": "BbS-N0XqU"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "WpkGSbrax",
+                "edit-time": 1615262433617,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
-              {
-                "uid": "Ir7tC0gXE"
-              },
-              {
-                "uid": "ZiV1hMyMo"
-              },
-              {
-                "uid": "DMXRd-akp"
-              },
               {
                 "uid": "miyKhz25o"
               },
@@ -29131,13 +29167,67 @@
               },
               {
                 "uid": "Rr13idAzj"
+              },
+              {
+                "uid": "3F_uUycfJ"
+              },
+              {
+                "uid": "PfeHflfnd"
+              },
+              {
+                "uid": "4M4sXPdzQ"
+              },
+              {
+                "uid": "NMiMJW2rp"
+              },
+              {
+                "uid": "MAbt5b4ta"
+              },
+              {
+                "uid": "8qN2yBpMv"
+              },
+              {
+                "uid": "JfKCnFzwh"
               }
             ],
+            "uid": "0lOsk5pcD",
+            ":block/refs": [
+              {
+                ":block/uid": "miyKhz25o"
+              },
+              {
+                ":block/uid": "7Thd64nN5"
+              },
+              {
+                ":block/uid": "Rr13idAzj"
+              },
+              {
+                ":block/uid": "3F_uUycfJ"
+              },
+              {
+                ":block/uid": "PfeHflfnd"
+              },
+              {
+                ":block/uid": "4M4sXPdzQ"
+              },
+              {
+                ":block/uid": "NMiMJW2rp"
+              },
+              {
+                ":block/uid": "MAbt5b4ta"
+              },
+              {
+                ":block/uid": "8qN2yBpMv"
+              },
+              {
+                ":block/uid": "JfKCnFzwh"
+              }
+            ],
+            "string": "Physical quantities of interest — position, momentum, energy, spin — are represented by observables, which are [[Hermitian operator]]s (more precisely, [[self-adjoint operator]]s) [[linear operator]] acting on the [Hilbert space]. 作用于状态空间 A [[quantum state]] can be an [[eigenvector]] of an [[observable]], in which case it is called an [[eigenstate]], and the [associated eigenvalue]([[eigenvalue]]) [corresponds to the value] of [the observable in that eigenstate]. More generally, a quantum state will be a [[linear combination]] of the eigenstates, known as a [[quantum superposition]]. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "WpkGSbrax",
-            "edit-time": 1615221369607,
+            "create-time": 1615261959276,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -33962,11 +34052,117 @@
   {
     "create-time": 1612745519304,
     "title": "History of quantum mechanics",
-    "uid": "D2YTbgd8R",
-    "edit-time": 1612745519305,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[Scientific inquiry]([[scientific inquiry]]) into [[the wave nature of light]] began in the 17th and 18th centuries, when scientists such as [[Robert Hooke]], [[Christiaan Huygens]] and [[Leonhard Euler]] proposed a [[the wave theory of light]] based on [[experimental observation]]s.[5] In 1803 English polymath [[Thomas Young]] described the famous [[double-slit experiment]].[6] This experiment [played a major role in] [the general acceptance of]([[acceptance]]) [the wave theory of light]. \n201111-19:58, 201112-00:15",
+        "create-time": 1605095521941,
+        ":block/refs": [
+          {
+            ":block/uid": "K2_j5I9FR"
+          },
+          {
+            ":block/uid": "QLY6duaKd"
+          },
+          {
+            ":block/uid": "IzA4r2fJo"
+          },
+          {
+            ":block/uid": "0iJqdSiJi"
+          },
+          {
+            ":block/uid": "U7voDXTS-"
+          },
+          {
+            ":block/uid": "4uxXa0tSc"
+          },
+          {
+            ":block/uid": "jVwXmkBqO"
+          },
+          {
+            ":block/uid": "vg42m67yj"
+          },
+          {
+            ":block/uid": "pOBuCJz7g"
+          },
+          {
+            ":block/uid": "bPYgiXP-B"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "K2_j5I9FR"
+          },
+          {
+            "uid": "QLY6duaKd"
+          },
+          {
+            "uid": "IzA4r2fJo"
+          },
+          {
+            "uid": "0iJqdSiJi"
+          },
+          {
+            "uid": "U7voDXTS-"
+          },
+          {
+            "uid": "4uxXa0tSc"
+          },
+          {
+            "uid": "jVwXmkBqO"
+          },
+          {
+            "uid": "vg42m67yj"
+          },
+          {
+            "uid": "pOBuCJz7g"
+          },
+          {
+            "uid": "bPYgiXP-B"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ROsNMrBEe",
+        "edit-time": 1615266164601,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "The [[foundation]]s of quantum mechanics were established [during the first half of the 20th century] by Max Planck, Niels Bohr, Werner Heisenberg, Louis de Broglie, Arthur Compton, Albert Einstein, Richard Feynman, Erwin Schrödinger, Max Born, John von Neumann, Paul Dirac, Enrico Fermi, Wolfgang Pauli, Max von Laue, Freeman Dyson, David Hilbert, Wilhelm Wien, Satyendra Nath Bose, Arnold Sommerfeld, and others. The [[Copenhagen interpretation]] of Niels Bohr [became widely accepted].",
+        "create-time": 1605113561423,
+        ":block/refs": [
+          {
+            ":block/uid": "7WDo_QbAo"
+          },
+          {
+            ":block/uid": "o75f3topF"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "7WDo_QbAo"
+          },
+          {
+            "uid": "o75f3topF"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "wTYCzxSRB",
+        "edit-time": 1615265960881,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "D2YTbgd8R",
+    "edit-time": 1612745519305,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -78325,6 +78521,222 @@
     "title": "March 9th, 2021",
     "uid": "03-09-2021",
     "edit-time": 1615253019100,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261671469,
+    "title": "quantum state",
+    "uid": "3F_uUycfJ",
+    "edit-time": 1615261671471,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261671469,
+    "title": "eigenvector",
+    "uid": "PfeHflfnd",
+    "edit-time": 1615261671471,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261671469,
+    "title": "observable",
+    "uid": "4M4sXPdzQ",
+    "edit-time": 1615261671471,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261671469,
+    "title": "eigenstate",
+    "uid": "NMiMJW2rp",
+    "edit-time": 1615261671471,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261681194,
+    "title": "eigenvalue",
+    "uid": "MAbt5b4ta",
+    "edit-time": 1615261681196,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261835008,
+    "title": "linear combination",
+    "uid": "8qN2yBpMv",
+    "edit-time": 1615261835010,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261835008,
+    "title": "quantum superposition",
+    "uid": "JfKCnFzwh",
+    "edit-time": 1615261835010,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615261882659,
+    "title": "measure the observable",
+    "uid": "q5MLJFunl",
+    "edit-time": 1615261882661,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615262042931,
+    "title": "langle",
+    "uid": "PGjn44BZ2",
+    "edit-time": 1615262042932,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615262042931,
+    "title": "vector",
+    "uid": "edXbpyy-c",
+    "edit-time": 1615262042932,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615262116339,
+    "title": "eigenspace",
+    "uid": "BbS-N0XqU",
+    "edit-time": 1615262116340,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615265960888,
+    "title": "scientific inquiry",
+    "uid": "U7voDXTS-",
+    "edit-time": 1615265960891,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615265960888,
+    "title": "Robert Hooke",
+    "uid": "4uxXa0tSc",
+    "edit-time": 1615265960891,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615265960888,
+    "title": "Christiaan Huygens",
+    "uid": "jVwXmkBqO",
+    "edit-time": 1615265960891,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615265960888,
+    "title": "Leonhard Euler",
+    "uid": "vg42m67yj",
+    "edit-time": 1615265960891,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615265960888,
+    "title": "experimental observation",
+    "uid": "pOBuCJz7g",
+    "edit-time": 1615265960891,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615265960888,
+    "title": "Thomas Young",
+    "uid": "bPYgiXP-B",
+    "edit-time": 1615265960891,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615265960903,
+    "title": "foundation",
+    "uid": "o75f3topF",
+    "edit-time": 1615265960903,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
