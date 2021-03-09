@@ -8735,7 +8735,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615064439987,
+            "edit-time": 1615316980866,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -8782,10 +8782,10 @@
             }
           },
           {
-            "string": "御姐; 丝路大亨; tsuki 29",
+            "string": "御姐; 丝路大亨; ",
             "create-time": 1612697509824,
             "uid": "Jl78eJ9Wm",
-            "edit-time": 1615306838015,
+            "edit-time": 1615318454519,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -79355,6 +79355,934 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615316983819,
+    "title": "Generalizing PageRank: Damping functions for link-based ranking algorithms",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1615317013141,
+        "children": [
+          {
+            "string": "[[conference paper]] · August 2006",
+            "create-time": 1615317159848,
+            ":block/refs": [
+              {
+                ":block/uid": "6wwtneBsL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "6wwtneBsL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "kmOL6frkR",
+            "edit-time": 1615317170067,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "DOI: 10.1145/1148170.1148225",
+            "create-time": 1615317159848,
+            "uid": "ZZ-PBY6oq",
+            "edit-time": 1615317159849,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Some of the authors of this publication] are also [working on these related projects]:",
+            "create-time": 1615317220657,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[Assessing the Impact of] [Music Recommendation Diversity] | [View project](https://www.researchgate.net/project/Assessing-the-Impact-of-Music-Recommendation-Diversity?enrichId=rgreq-018a70f718d7119eaa12217b6121437d-XXX&enrichSource=Y292ZXJQYWdlOzIwMDExMDg2NTtBUzoxMDMwNTE1MDMzNDE1NzFAMTQwMTU4MDgwMTY3NQ%3D%3D&el=1_x_9&_esc=publicationCoverPdf)",
+                "create-time": 1615317221159,
+                "uid": "ShItjTiGW",
+                "edit-time": 1615317363614,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "5c_9HNaDT",
+            "edit-time": 1615317231137,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "YBtvz_6Kd"
+          }
+        ],
+        "uid": "xG2nckC-1",
+        ":block/refs": [
+          {
+            ":block/uid": "YBtvz_6Kd"
+          }
+        ],
+        "string": "See discussions, stats, and [[author profile]]s [for this publication] [at](https://www.researchgate.net/publication/200110865): ",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615316995354,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "ABSTRACT",
+        "create-time": 1615317424911,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "This paper introduces a family of [[link-based ranking algorithm]]s that propagate [[page importance]] through links. In these algorithms there is a [[damping function]] that [decreases with distance]([[decrease with distance]]), so a [[direct link]] implies more [[endorsement]] than 意味着更多的支持 [a link through a long path]. [[PageRank]] is [the most widely known] [[ranking function]] of this family.\n210310-03:25",
+            "create-time": 1615317448530,
+            ":block/refs": [
+              {
+                ":block/uid": "GEJ-RGHUV"
+              },
+              {
+                ":block/uid": "5G4pUM3QV"
+              },
+              {
+                ":block/uid": "X-wloPhHO"
+              },
+              {
+                ":block/uid": "gCObUCKuB"
+              },
+              {
+                ":block/uid": "eElc4Nqzl"
+              },
+              {
+                ":block/uid": "99_wR6keT"
+              },
+              {
+                ":block/uid": "xbguZ-nSU"
+              },
+              {
+                ":block/uid": "eQmUy-BoI"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "GEJ-RGHUV"
+              },
+              {
+                "uid": "5G4pUM3QV"
+              },
+              {
+                "uid": "X-wloPhHO"
+              },
+              {
+                "uid": "gCObUCKuB"
+              },
+              {
+                "uid": "eElc4Nqzl"
+              },
+              {
+                "uid": "99_wR6keT"
+              },
+              {
+                "uid": "xbguZ-nSU"
+              },
+              {
+                "uid": "eQmUy-BoI"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "1qFwn8K9t",
+            "edit-time": 1615321742460,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The [main objective] of this paper is to determine whether this family of [ranking techniques] has some interest __per se__, 本身/本质上 and how [different choices for] the damping function impact on [[rank quality]] and on [[convergence speed]]. Even though [our results suggest that] Page-Rank [can be approximated with] other [simpler forms] of rankings that may be [computed more efficiently], our focus is of more [speculative nature], 推测性 in that it aims at [separating the kernel of] PageRank, that is, link-based [[importance propagation]], from the way propagation decays over paths.\n210310-04:35",
+            "create-time": 1615317448530,
+            ":block/refs": [
+              {
+                ":block/uid": "JMHPyN4qD"
+              },
+              {
+                ":block/uid": "B5EUo1Swb"
+              },
+              {
+                ":block/uid": "mWpkqJ8ed"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JMHPyN4qD"
+              },
+              {
+                "uid": "B5EUo1Swb"
+              },
+              {
+                "uid": "mWpkqJ8ed"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "DNak64qbk",
+            "edit-time": 1615322208252,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "We focus on three damping functions, having [[linear decay]], [[exponential decay]], and [[hyperbolic decay]] on [the lengths of the paths]([[path length]]). The exponential decay corresponds to PageRank, and the other functions are new. Our presentation includes algorithms, analysis, comparisons and experiments that [study their behavior under different parameters] in [real Web graph data]([[Web graph]]).",
+            "create-time": 1615322321501,
+            ":block/refs": [
+              {
+                ":block/uid": "ETyyj1b2b"
+              },
+              {
+                ":block/uid": "321x3HrLd"
+              },
+              {
+                ":block/uid": "jqfxuB4cJ"
+              },
+              {
+                ":block/uid": "q3qLmflOM"
+              },
+              {
+                ":block/uid": "Tgy1cVeBd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ETyyj1b2b"
+              },
+              {
+                "uid": "321x3HrLd"
+              },
+              {
+                "uid": "jqfxuB4cJ"
+              },
+              {
+                "uid": "q3qLmflOM"
+              },
+              {
+                "uid": "Tgy1cVeBd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "arFg3asag",
+            "edit-time": 1615322892407,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Among other results, we show how to calculate a [[linear approximation]] that induces a [[page ordering]] that is [almost identical to] Page-Rank’s [using a fixed small number of iterations]([[iteration]]); 固定的少量迭代 [comparisons were performed] using Kendall’s τ on [large domain datasets].\n210310-04:45",
+            "create-time": 1615322321501,
+            ":block/refs": [
+              {
+                ":block/uid": "bUJr485iE"
+              },
+              {
+                ":block/uid": "1V0Ue9EfH"
+              },
+              {
+                ":block/uid": "9-50zvi_3"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "bUJr485iE"
+              },
+              {
+                "uid": "1V0Ue9EfH"
+              },
+              {
+                "uid": "9-50zvi_3"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "FH2GaKoVk",
+            "edit-time": 1615322778779,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Categories and [[subject descriptor]]s: H.4.m [Information Systems Applications]: [Miscellaneous]([[miscellaneous]])\n210310-04:57",
+            "create-time": 1615322848171,
+            ":block/refs": [
+              {
+                ":block/uid": "Tx_IzuEJ0"
+              },
+              {
+                ":block/uid": "86HETEEZ-"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Tx_IzuEJ0"
+              },
+              {
+                "uid": "86HETEEZ-"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "1rfU1-GlF",
+            "edit-time": 1615323431682,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[General Terms]([[general term]]): Algorithms.",
+            "create-time": 1615322848171,
+            ":block/refs": [
+              {
+                ":block/uid": "oqAwslxkx"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oqAwslxkx"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "e6sfe_2eI",
+            "edit-time": 1615323391793,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Keywords: [[link analysis]], Link-based ranking, Web graphs.",
+            "create-time": 1615322848171,
+            ":block/refs": [
+              {
+                ":block/uid": "w4MoZMAip"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "w4MoZMAip"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "mei1X5EK0",
+            "edit-time": 1615322916536,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ZzpEgyLdk",
+        "edit-time": 1615317425751,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "EVbgUGTI5",
+    "edit-time": 1615316983819,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317006397,
+    "title": "author profile",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615321952651,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "This link points to another [[PHP script]] that [displays additional information about] the video, including its comments, video responses, author profile and [related videos]. 作者简介 ((AAXMe9jZe))",
+            "create-time": 1615321956102,
+            ":block/refs": [
+              {
+                ":block/uid": "AAXMe9jZe"
+              },
+              {
+                ":block/uid": "TR8692JWm"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "AAXMe9jZe"
+              },
+              {
+                "uid": "TR8692JWm"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "cvNxb8tVR",
+            "edit-time": 1615321988156,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "`Author` is a class [representing an author profile].",
+            "create-time": 1615321956102,
+            "uid": "27TlBURbU",
+            "edit-time": 1615321999417,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "In this article, the author compares the [2D profile analysis] 轮廓分析 and [3D microtopography analysis] 形貌分析 on the [turning surface] of the [C/C composite], 复合材料车削圆柱表面 and [the results of the comparison show that] 3D microtopography analysis can reflect the [surface quality] of materials actually. dict.cnki.net",
+            "create-time": 1615321956102,
+            "uid": "_r0jTHULV",
+            "edit-time": 1615322031872,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "1DxzM4WC7",
+        "edit-time": 1615321955321,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "YBtvz_6Kd",
+    "edit-time": 1615317006398,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317170070,
+    "title": "conference paper",
+    "uid": "6wwtneBsL",
+    "edit-time": 1615317170070,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317486132,
+    "title": "link-based ranking algorithm",
+    "uid": "5G4pUM3QV",
+    "edit-time": 1615317486132,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317524299,
+    "title": "page importance",
+    "uid": "X-wloPhHO",
+    "edit-time": 1615317524299,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317524299,
+    "title": "damping function",
+    "uid": "gCObUCKuB",
+    "edit-time": 1615317524299,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317650992,
+    "title": "ranking function",
+    "uid": "eElc4Nqzl",
+    "edit-time": 1615317650992,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317672972,
+    "title": "PageRank",
+    "uid": "99_wR6keT",
+    "edit-time": 1615317672973,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317774240,
+    "title": "rank quality",
+    "uid": "JMHPyN4qD",
+    "edit-time": 1615317774240,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317774240,
+    "title": "convergence speed",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615322229566,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Study on convergence speed 收敛速度 of high order P type [iterative learning control algorithm]. ((x734hgnOL))",
+            "create-time": 1615322232434,
+            ":block/refs": [
+              {
+                ":block/uid": "x734hgnOL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "x734hgnOL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "EqdEByHoj",
+            "edit-time": 1615322258107,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Convergence speed is a major [performance index] of [repetitive control system].",
+            "create-time": 1615322232434,
+            "uid": "oEvNVLH7a",
+            "edit-time": 1615322266653,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "These methods help to [improve convergence speed] and [reduce calculation amount].",
+            "create-time": 1615322232434,
+            "uid": "o9cuvs6US",
+            "edit-time": 1615322273845,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The method can improve convergence speed and accuracy.",
+            "create-time": 1615322232434,
+            "uid": "MGOoKwMJ7",
+            "edit-time": 1615322232438,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "t1cCMOReU",
+        "edit-time": 1615322231582,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "B5EUo1Swb",
+    "edit-time": 1615317774240,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317816628,
+    "title": "endorsement",
+    "uid": "xbguZ-nSU",
+    "edit-time": 1615317816629,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615317903426,
+    "title": "importance propagation",
+    "uid": "mWpkqJ8ed",
+    "edit-time": 1615317903427,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615321742472,
+    "title": "decrease with distance",
+    "uid": "eQmUy-BoI",
+    "edit-time": 1615321742474,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615321982907,
+    "title": "PHP script",
+    "uid": "TR8692JWm",
+    "edit-time": 1615321982908,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322361444,
+    "title": "path length",
+    "uid": "ETyyj1b2b",
+    "edit-time": 1615322361445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322371823,
+    "title": "linear decay",
+    "uid": "321x3HrLd",
+    "edit-time": 1615322371831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322371823,
+    "title": "exponential decay",
+    "uid": "jqfxuB4cJ",
+    "edit-time": 1615322371831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322371823,
+    "title": "hyperbolic decay",
+    "uid": "q3qLmflOM",
+    "edit-time": 1615322371831,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322484695,
+    "title": "linear approximation",
+    "uid": "bUJr485iE",
+    "edit-time": 1615322484696,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322503517,
+    "title": "page ordering",
+    "uid": "1V0Ue9EfH",
+    "edit-time": 1615322503518,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322598107,
+    "title": "iteration",
+    "uid": "9-50zvi_3",
+    "edit-time": 1615322598108,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322788489,
+    "title": "March 10th, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Generalizing PageRank: Damping functions for link-based ranking algorithms]]\n210310-04am",
+        "create-time": 1615322791820,
+        ":block/refs": [
+          {
+            ":block/uid": "EVbgUGTI5"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EVbgUGTI5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "r8DiYRMVe",
+        "edit-time": 1615322801112,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "03-10-2021",
+    "edit-time": 1615322788489,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322864225,
+    "title": "miscellaneous",
+    "uid": "Tx_IzuEJ0",
+    "edit-time": 1615322864226,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322892410,
+    "title": "Web graph",
+    "uid": "Tgy1cVeBd",
+    "edit-time": 1615322892411,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615322916539,
+    "title": "link analysis",
+    "uid": "w4MoZMAip",
+    "edit-time": 1615322916539,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615323036569,
+    "title": "subject descriptor",
+    "uid": "86HETEEZ-",
+    "edit-time": 1615323036570,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615323391795,
+    "title": "general term",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615323526686,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "通用术语, 一般术语; 普通条款",
+            "create-time": 1615323529597,
+            "uid": "QpggDTj8B",
+            "edit-time": 1615323529600,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He only [talked about it] [in general terms] and [didn't go into details]. 泛泛而谈 《汉英大词典》",
+            "create-time": 1615323529597,
+            "uid": "K_TlHSwrd",
+            "edit-time": 1615323552137,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He spoke in very general terms. 说得很笼统",
+            "create-time": 1615323529597,
+            "uid": "edra1HukE",
+            "edit-time": 1615323529600,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Don't be touchy; 你别多心 I'm [speaking in general terms] only. 就一般而论 百度翻译例句库",
+            "create-time": 1615323529597,
+            "uid": "JCq6-7wi4",
+            "edit-time": 1615323560326,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "GB/T8874-1988: General terms of [technology and equipment] for [grain and oil industry]. www.[dictall].com",
+            "create-time": 1615323529597,
+            "uid": "YpUJH385x",
+            "edit-time": 1615323567545,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Let's first [look at the picture] [in very general terms]. 一幅草图 [open.163].com",
+            "create-time": 1615323529597,
+            "uid": "7SjE8lKwy",
+            "edit-time": 1615323576904,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "3Ach08ngv",
+        "edit-time": 1615323528818,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "oqAwslxkx",
+    "edit-time": 1615323391796,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
