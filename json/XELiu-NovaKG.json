@@ -4993,6 +4993,56 @@
                     },
                     "children": [
                       {
+                        "string": "在[妙笔](https://www.yuque.com/deerain/gannbs/wraigm)中[进行搜索]（[支持][正则表达式]）时，如果某几个文档的[标题或正文里][包含了搜索关键词]，[左侧的文档树]就会[只显示]这几个[匹配到的文档]，隐藏其它[同级和下级文档]，以[淡化]的形式显示[上级文档]，这就是[稀疏树]。用户其实还可以靠这个功能来[定义标签]，不过因为没有 [tag panel] 所以[这么做的意义不大]。",
+                        "create-time": 1613828259588,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "稀疏树（sparse tree）功能最早出现在 org-mode 上，之后的[大纲编辑器][基本都有这个功能]。[绝大多数][基于文档编辑器]（而不是大纲编辑器）的[写作软件][根本没有考虑到这一点]。",
+                            "create-time": 1615400235211,
+                            "uid": "otJcIvq-s",
+                            "edit-time": 1615400250128,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "稀疏树这个功能在[整理海量素材]时[非常有用]，因为稀疏树可以展示跟某一主题（该主题由[正则搜索][来体现]）相关的全部内容，在稀疏树里，无需[反复呼出][搜索界面]就可以在结果之间[来回跳转]、查看[匹配文档][在大纲中所处的位置]、并对每个文档进行[直接编辑]。",
+                            "create-time": 1613828389634,
+                            "uid": "K42S_NjN5",
+                            "edit-time": 1613828389634,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[根据主题和线索]来[聚合内容]是[卡片式写作]的核心，真正复杂的卡片式写作必定是[主题导向]、而不是[结构导向]的。多数人可能[感受不到]，如果真的[在平时积累了][海量的][元信息卡片]，到了[输出写作]的时候只有[主题聚合][能派上用场]。[结构导向]的方法在[轻度使用]的时候[很舒适]，但是在需要整理海量素材并输出的时候全都[捉襟见肘]。",
+                            "create-time": 1613828259588,
+                            "uid": "GjNx47jTV",
+                            "edit-time": 1613828413012,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "0BMD4FeVT",
+                        "edit-time": 1613828425604,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "{{[[TODO]]}} roam iframe",
                         "create-time": 1614055931973,
                         ":block/refs": [
@@ -5032,6 +5082,24 @@
                         },
                         "uid": "lxDnwDODE",
                         "edit-time": 1614856874574,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "**[只是这样]看起来好像有点[平平无奇]，但是 vivaldi 提供了两个[特别讲究的]选项：[衬线字体]和[竖排文本]。**",
+                        "children": [
+                          {
+                            "string": "关于衬线字体，可能不是每个人都有了解，简单来说，衬线就是[笔画起始处][有多余的修饰部分]，西文和中文都有[无衬线字体]和[有衬线字体]，有衬线字体一般[更适合用在][正文中]，无衬线字体一般[适合做标题](https://www.yuque.com/deerain/kdblre/lm3fe6)。它们的区别可以看下图：",
+                            "uid": "1vQktzU_Q",
+                            "edit-time": 1615400889646,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "az2cI_5s9",
+                        "edit-time": 1615400677779,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -5082,44 +5150,6 @@
                         ],
                         "uid": "n3cZ-sq6g",
                         "edit-time": 1614056056165,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "在[妙笔](https://www.yuque.com/deerain/gannbs/wraigm)中[进行搜索]（[支持][正则表达式]）时，如果某几个文档的[标题或正文里][包含了搜索关键词]，[左侧的文档树]就会[只显示]这几个[匹配到的文档]，隐藏其它[同级和下级文档]，以[淡化]的形式显示[上级文档]，这就是[稀疏树]。用户其实还可以靠这个功能来[定义标签]，不过因为没有 [tag panel] 所以[这么做的意义不大]。",
-                        "create-time": 1613828259588,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        "children": [
-                          {
-                            "string": "稀疏树这个功能在[整理海量素材]时[非常有用]，因为稀疏树可以展示跟某一主题（该主题由[正则搜索][来体现]）相关的全部内容，在稀疏树里，无需[反复呼出][搜索界面]就可以在结果之间[来回跳转]、查看[匹配文档][在大纲中所处的位置]、并对每个文档进行[直接编辑]。",
-                            "create-time": 1613828389634,
-                            "uid": "K42S_NjN5",
-                            "edit-time": 1613828389634,
-                            ":create/user": {
-                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                            }
-                          },
-                          {
-                            "string": "[根据主题和线索]来[聚合内容]是[卡片式写作]的核心，真正复杂的卡片式写作必定是[主题导向]、而不是[结构导向]的。多数人可能[感受不到]，如果真的[在平时积累了][海量的][元信息卡片]，到了[输出写作]的时候只有[主题聚合][能派上用场]。[结构导向]的方法在[轻度使用]的时候[很舒适]，但是在需要整理海量素材并输出的时候全都[捉襟见肘]。",
-                            "create-time": 1613828259588,
-                            "uid": "GjNx47jTV",
-                            "edit-time": 1613828413012,
-                            ":create/user": {
-                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                            }
-                          }
-                        ],
-                        "uid": "0BMD4FeVT",
-                        "edit-time": 1613828425604,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -5666,6 +5696,18 @@
                         ],
                         "uid": "4avhKNwd3",
                         "edit-time": 1615217412355,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "我一般[把数据放在] [Dropbox 目录]里，[多设备同步]也靠 Dropbox，[本地硬盘][突然毁了]也不怕。但是[本地图片插入][不方便发布]，本来想用 picgo＋github 弄个[图床]来应付那些[需要发布的图片]，后来用上了语雀就感觉没必要用图床了，至少[发布在墙内的东西][不用多折腾了](https://www.yuque.com/deerain/gannbs/yodrsd)",
+                        "create-time": 1615401304707,
+                        "uid": "BkRBVesHv",
+                        "edit-time": 1615401349633,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -7528,6 +7570,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "「福原愛さん」[不倫報道]で[温度差](http://translate.ltaaa.com/article/14651)、台湾は「あきらめ感」、中国からは「絶大なエール」",
+                    "create-time": 1615394764597,
+                    "uid": "aP44ycn3a",
+                    "edit-time": 1615394780744,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "9dAXbyiHc",
@@ -7909,6 +7963,18 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "create-time": 1614741606565,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[日间小睡](https://www.yuque.com/deerain/wqpb2o/vho0cq)时长最好在 20~30 分钟，也就是一个[睡眠周期]内 4 个[睡眠阶段]的前 3 个[浅度睡眠阶段]。如果小睡超过 30 分钟就会[渐渐进入][深度睡眠状态]([一般流传的说法]是“不要超过 45 分钟否则就会进入深度睡眠”，我[查阅了相关文献]和[睡眠监测数据]，证实了那是[自媒体][以讹传讹的错误说法])，要是在深度睡眠阶段[被唤醒了]，[醒来后]会产生[睡眠惰性]。",
+                    "create-time": 1615401605329,
+                    "uid": "FwXImAiHa",
+                    "edit-time": 1615401650377,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -8792,10 +8858,10 @@
         },
         "children": [
           {
-            "string": "weibo; 比特币; css 中英文字体; perfect pdf - xbeta",
+            "string": "weibo; 比特币; css 中英文字体; css font family; perfect pdf - xbeta",
             "create-time": 1610206698646,
             "uid": "TvILpsCcT",
-            "edit-time": 1615286441550,
+            "edit-time": 1615397428377,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -9327,10 +9393,10 @@
                 }
               },
               {
-                "string": "moeai-20210218_205956.mp4; 20210208_225608; 20210223_221551; 20210305_231052; 20210123_222217",
+                "string": "moeai-20210218_205956.mp4; 20210208_225608; 20210223_221551; 20210305_231052; 20210123_222217; 20210310_230354",
                 "create-time": 1613744015278,
                 "uid": "rBWlLn0sO",
-                "edit-time": 1615390594721,
+                "edit-time": 1615399526383,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -80249,6 +80315,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[Dewey Decimal Classification (DDC)]]\n210310-23pm",
+        "create-time": 1615393782273,
+        ":block/refs": [
+          {
+            ":block/uid": "9IXJMv-tF"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "9IXJMv-tF"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ooSMYPYsR",
+        "edit-time": 1615393788412,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "03-10-2021",
@@ -80933,29 +81021,22 @@
         }
       },
       {
-        "edit-time": 1615390873727,
+        "edit-time": 1615391086608,
         "children": [
           {
-            "string": "The classification's [[notation]] makes use of [three-digit numbers] for [[main class]]es, with [[fractional decimal]]s 小数 [allowing expansion for further detail]. [Numbers are flexible] [to the degree that] 灵活到此种程度 they [can be expanded in linear fashion] to [cover special aspects of general subjects].[2] A library assigns a [[classification number]] that unambiguously [locates a particular volume] 特定的卷 in a position [relative to other books in the library], on the basis of its subject. The number [makes it possible to] [find any book] and to return it to its [[proper place]] on the [[library shelves]].[Note 1] The [classification system] is used in 200,000 libraries in at least 135 countries.[3][4]",
-            "create-time": 1615387932899,
-            ":block/refs": [
+            "edit-time": 1615390887653,
+            "children": [
               {
-                ":block/uid": "NqXpI6jI5"
-              },
-              {
-                ":block/uid": "A4FQzU1ys"
-              },
-              {
-                ":block/uid": "p2zMeM77o"
-              },
-              {
-                ":block/uid": "XJo8SNCcL"
-              },
-              {
-                ":block/uid": "rOZ31nepS"
-              },
-              {
-                ":block/uid": "vLeEJ3I7V"
+                "string": "A [library book shelf](https://en.wikipedia.org/wiki/File:HK_Wan_Chai_Library_Inside_Bookcase_a.jpg) in Hong Kong classified using [the New Classification Scheme for Chinese Libraries], an adaptation of the [Dewey Classification Scheme]",
+                "create-time": 1615393417426,
+                "uid": "9ch9-A4q8",
+                "edit-time": 1615393452141,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -80978,11 +81059,32 @@
                 "uid": "vLeEJ3I7V"
               }
             ],
+            "uid": "bB7nxNBKd",
+            ":block/refs": [
+              {
+                ":block/uid": "NqXpI6jI5"
+              },
+              {
+                ":block/uid": "A4FQzU1ys"
+              },
+              {
+                ":block/uid": "p2zMeM77o"
+              },
+              {
+                ":block/uid": "XJo8SNCcL"
+              },
+              {
+                ":block/uid": "rOZ31nepS"
+              },
+              {
+                ":block/uid": "vLeEJ3I7V"
+              }
+            ],
+            "string": "The classification's [[notation]] makes use of [three-digit numbers] for [[main class]]es, with [[fractional decimal]]s 小数 [allowing expansion for further detail]. [Numbers are flexible] [to the degree that] 灵活到此种程度 they [can be expanded in linear fashion] to [cover special aspects of general subjects].[2] A library assigns a [[classification number]] that unambiguously [locates a particular volume] 特定的卷 in a position [relative to other books in the library], on the basis of its subject. The number [makes it possible to] [find any book] and to return it to its [[proper place]] on the [[library shelves]].[Note 1] The [classification system] is used in 200,000 libraries in at least 135 countries.[3][4]",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "bB7nxNBKd",
-            "edit-time": 1615390887653,
+            "create-time": 1615387932899,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -81023,11 +81125,326 @@
             ":block/uid": "ZZ6_zTN0i"
           }
         ],
-        "string": "The Decimal Classification [introduced the concepts of] [[relative location]] and [[relative index]] which [allow new books to be added to a library] in their [[appropriate location]] based on [[subject]]. Libraries previously had given books permanent [[shelf location]]s that were related to [the order of acquisition] [rather than topic]. ",
+        "string": "The Decimal Classification [introduced the concepts of] [[relative location]] and [[relative index]] which [allow new books to be added to a library] in their [[appropriate location]] based on [[subject]]. Libraries previously had given books permanent [[shelf location]]s that were related to [the order of acquisition] [rather than topic]. \n210310-23:44",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1615390873727,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "History",
+        "create-time": 1615393524975,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "1873–1885: early development",
+            "create-time": 1615393525371,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "edit-time": 1615397614090,
+                "children": [
+                  {
+                    "string": "He used the pamphlet, [published in more than one version] during the year, to [solicit comments from] other librarians. It is not known [who received copies] or [how many commented] [as only one copy with comments has survived], that of Ernest Cushing Richardson.[8] His classification system was mentioned in an article in the [[first issue]] 创刊号 of the __Library Journal__ and in an article by Dewey in the Department of Education publication \"Public Libraries in America\" in 1876.[9] In March 1876, he applied for, and [received copyright] on the first edition of the index.[10] The edition was 44 pages in length, with 2,000 [index entries], and was printed in 200 copies.[11]\n210311-01:35",
+                    "create-time": 1615393529690,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "7LOC5pAAz"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "7LOC5pAAz"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "D3tgjeQUN",
+                    "edit-time": 1615397780052,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "qqvlpEb9n"
+                  },
+                  {
+                    "uid": "LmVSU8NF7"
+                  },
+                  {
+                    "uid": "8aYBoYMbe"
+                  },
+                  {
+                    "uid": "pThXEgN5N"
+                  },
+                  {
+                    "uid": "oIGY_bv1t"
+                  }
+                ],
+                "uid": "t25ZD4DVq",
+                ":block/refs": [
+                  {
+                    ":block/uid": "qqvlpEb9n"
+                  },
+                  {
+                    ":block/uid": "LmVSU8NF7"
+                  },
+                  {
+                    ":block/uid": "8aYBoYMbe"
+                  },
+                  {
+                    ":block/uid": "pThXEgN5N"
+                  },
+                  {
+                    ":block/uid": "oIGY_bv1t"
+                  }
+                ],
+                "string": "Melvil Dewey (1851–1931) was an American [[librarian]] and self-declared [[reformer]].[5] He was a [founding member] of the [[American Library Association]] and [can be credited with] the promotion of [[card system]]s in libraries and business.[6] He [developed the ideas for] his library classification system in 1873 while working at [[Amherst College]] library. He applied the classification to the books in that library, until in 1876 he had a [first version] of the classification. In 1876, he [published the classification] in [pamphlet form] with the title __A [Classification and Subject Index] for Cataloguing and [Arranging the Books] and Pamphlets of a Library__.[7] ",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1615397614090,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[Melvil Dewey](https://en.wikipedia.org/wiki/File:Melvil_Dewey_1891.jpg), the [[inventor]] of the Dewey Decimal classification",
+                "create-time": 1615393541150,
+                ":block/refs": [
+                  {
+                    ":block/uid": "v8SzJZcX_"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "v8SzJZcX_"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Wguf36dXF",
+                "edit-time": 1615393555763,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "5EWqhffGN",
+            "edit-time": 1615393529695,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "HnOvgHOum",
+        "edit-time": 1615393525377,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Design",
+        "create-time": 1615393605868,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1615398499219,
+            "children": [
+              {
+                "string": "```css\n500 Natural sciences and mathematics\n\t510 Mathematics\n\t\t516 Geometry\n\t\t\t516.3 Analytic geometries\n\t\t\t\t516.37 Metric differential geometries\n\t\t\t\t\t516.375 Finsler geometry\n```",
+                "create-time": 1615398236119,
+                "uid": "55R5xJiUw",
+                "edit-time": 1615398276090,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "IcPq3a4uT"
+              },
+              {
+                "uid": "E3I-6CM2x"
+              },
+              {
+                "uid": "Ea_8AWB1h"
+              },
+              {
+                "uid": "5cJK8otd1"
+              },
+              {
+                "uid": "XPVHvHjjo"
+              },
+              {
+                "uid": "YXBgfIYOs"
+              },
+              {
+                "uid": "ruobL19D0"
+              },
+              {
+                "uid": "FALglk8PQ"
+              },
+              {
+                "uid": "WfWRZFd-i"
+              },
+              {
+                "uid": "qI5YJ88eB"
+              }
+            ],
+            "uid": "3Rg7hVmD7",
+            ":block/refs": [
+              {
+                ":block/uid": "IcPq3a4uT"
+              },
+              {
+                ":block/uid": "E3I-6CM2x"
+              },
+              {
+                ":block/uid": "Ea_8AWB1h"
+              },
+              {
+                ":block/uid": "5cJK8otd1"
+              },
+              {
+                ":block/uid": "XPVHvHjjo"
+              },
+              {
+                ":block/uid": "YXBgfIYOs"
+              },
+              {
+                ":block/uid": "ruobL19D0"
+              },
+              {
+                ":block/uid": "FALglk8PQ"
+              },
+              {
+                ":block/uid": "WfWRZFd-i"
+              },
+              {
+                ":block/uid": "qI5YJ88eB"
+              }
+            ],
+            "string": "The Dewey Decimal Classification [organizes library materials] by [[discipline]] or [field of study]([[study field]]). Main [[division]]s include philosophy, social sciences, science, technology, and history. The [[scheme]] comprises ten [[class]]es, each divided into ten divisions, each having ten [[section]]s. The system's notation uses [[Indo-Arabic number]]s, with three [whole numbers] [making up the main classes] and [[sub-class]]es and decimals [designating further divisions]. The [[classification structure]] is [[hierarchical structure]] and the notation follows the same hierarchy. Libraries not needing [the full level of detail] of the classification can [trim right-most decimal digits] from the [class number] to obtain more [general classifications].[41] For example:\n210311-01:47",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615393609201,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1615399143260,
+            "children": [
+              {
+                "string": "For example, a [[class number]] [could be constructed using] 330 for economics + .9 for geographic treatment + .04 for Europe to create the class 330.94 European economy. Or one could combine the class 973 (for the United States) + .05 (for [[periodical publication]]s ([[periodical literature]]) 期刊 [on the topic]) to [arrive at the number] 973.05 for periodicals [concerning the United States generally]. The classification also [makes use of] [[mnemonics]] in some areas, such that the number 5 represents the country Italy in classification numbers like 945 (history of Italy), 450 (Italian language), 195 (Italian philosophy). [The combination of faceting and mnemonics] makes the classification [synthetic in nature], with meaning built into parts of the classification number.[42]",
+                "create-time": 1615398488106,
+                ":block/refs": [
+                  {
+                    ":block/uid": "PWakLqm99"
+                  },
+                  {
+                    ":block/uid": "Z7wIFH0zc"
+                  },
+                  {
+                    ":block/uid": "8c4_GHvjT"
+                  },
+                  {
+                    ":block/uid": "-UU8i0foI"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "PWakLqm99"
+                  },
+                  {
+                    "uid": "Z7wIFH0zc"
+                  },
+                  {
+                    "uid": "8c4_GHvjT"
+                  },
+                  {
+                    "uid": "-UU8i0foI"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "8oM9e_iBQ",
+                "edit-time": 1615402027727,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "69rAIAUrA"
+              },
+              {
+                "uid": "jm8-5AXLa"
+              },
+              {
+                "uid": "DV_jO9Pcc"
+              }
+            ],
+            "uid": "Zao3ya8Y1",
+            ":block/refs": [
+              {
+                ":block/uid": "69rAIAUrA"
+              },
+              {
+                ":block/uid": "jm8-5AXLa"
+              },
+              {
+                ":block/uid": "DV_jO9Pcc"
+              }
+            ],
+            "string": "The classification was originally [[enumerative]], meaning that it [listed all of the classes] [explicitly in the schedules]. Over time it [added some aspects of] a [[faceted classification]] scheme, allowing [[classifier]]s to [construct a number] by combining [a class number for a topic] with [an entry from a separate table]. 单独的表 Tables cover [commonly used elements] such as geographical and temporal aspects, language, and bibliographic forms. \n210311-01:58",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615398893952,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The Dewey Decimal Classification has a number for all subjects, including fiction, although many libraries maintain a separate fiction section shelved by alphabetical order of the author's surname. Each assigned number consists of two parts: a class number (from the Dewey system) and a book number, which \"prevents confusion of different books on the same subject\".[7] A common form of the book number is called a Cutter number, which represents the author and distinguishes the book from other books on the same topic.[43]",
+            "create-time": 1615398484295,
+            "uid": "kTcwujWUl",
+            "edit-time": 1615398488111,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "GoEg8kxGm",
+        "edit-time": 1615393609205,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -81284,6 +81701,368 @@
     "title": "library shelves",
     "uid": "vLeEJ3I7V",
     "edit-time": 1615390856013,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615393555765,
+    "title": "inventor",
+    "uid": "v8SzJZcX_",
+    "edit-time": 1615393555766,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615393764941,
+    "title": "March 11th, 2021",
+    "uid": "03-11-2021",
+    "edit-time": 1615393764942,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615393854846,
+    "title": "reformer",
+    "uid": "LmVSU8NF7",
+    "edit-time": 1615393854847,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615393877383,
+    "title": "American Library Association",
+    "uid": "8aYBoYMbe",
+    "edit-time": 1615393877384,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615393877383,
+    "title": "card system",
+    "uid": "pThXEgN5N",
+    "edit-time": 1615393877384,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615397361394,
+    "title": "Amherst College",
+    "uid": "oIGY_bv1t",
+    "edit-time": 1615397361402,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615397553371,
+    "title": "first issue",
+    "uid": "7LOC5pAAz",
+    "edit-time": 1615397553373,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615397856214,
+    "title": "discipline",
+    "uid": "E3I-6CM2x",
+    "edit-time": 1615397856215,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615397869183,
+    "title": "study field",
+    "uid": "Ea_8AWB1h",
+    "edit-time": 1615397869184,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615397978556,
+    "title": "division",
+    "uid": "5cJK8otd1",
+    "edit-time": 1615397978557,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615397978556,
+    "title": "scheme",
+    "uid": "XPVHvHjjo",
+    "edit-time": 1615397978557,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615397978556,
+    "title": "class",
+    "uid": "YXBgfIYOs",
+    "edit-time": 1615397978557,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398021505,
+    "title": "Indo-Arabic number",
+    "uid": "ruobL19D0",
+    "edit-time": 1615398021506,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398044191,
+    "title": "sub-class",
+    "uid": "FALglk8PQ",
+    "edit-time": 1615398044193,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398135471,
+    "title": "classification structure",
+    "uid": "WfWRZFd-i",
+    "edit-time": 1615398135472,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398135471,
+    "title": "hierarchical structure",
+    "uid": "qI5YJ88eB",
+    "edit-time": 1615398135472,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398537452,
+    "title": "enumerative",
+    "uid": "69rAIAUrA",
+    "edit-time": 1615398537452,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398568080,
+    "title": "faceted classification",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615399341131,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Research on [Digitized Faceted Classification Model] with [Dynamic Weight Value]. www.[dictall].com",
+            "create-time": 1615399344447,
+            "uid": "c0tEyODzV",
+            "edit-time": 1615399378866,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Research of [Software Component Classification] Based on Faceted Classification 刻面/分面分类法 and [Artificial Intelligence]. ((x734hgnOL))",
+            "create-time": 1615399344447,
+            ":block/refs": [
+              {
+                ":block/uid": "x734hgnOL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "x734hgnOL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "km-FMnn1T",
+            "edit-time": 1615399388755,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Research for [Retrieving Software Components] Based on Faceted Classification ",
+            "create-time": 1615399344447,
+            "uid": "CpXppns9F",
+            "edit-time": 1615399392820,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[The core of the system] is [faceted classification schema] 刻面分类模式 [merging process unit]. 合并处理单元",
+            "create-time": 1615399344447,
+            "uid": "yOALTUL_2",
+            "edit-time": 1615399404277,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The thesis mainly researches on [component retrieval technologies] based on the [faceted classification schema]. ",
+            "create-time": 1615399344447,
+            "uid": "EfxeHF_ht",
+            "edit-time": 1615399414150,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Q-XS7FAEc",
+        "edit-time": 1615399343603,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "jm8-5AXLa",
+    "edit-time": 1615398568080,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398601366,
+    "title": "classifier",
+    "uid": "DV_jO9Pcc",
+    "edit-time": 1615398601367,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615398856814,
+    "title": "class number",
+    "uid": "PWakLqm99",
+    "edit-time": 1615398856815,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615401796821,
+    "title": "periodical publication",
+    "uid": "Z7wIFH0zc",
+    "edit-time": 1615401796822,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615401813869,
+    "title": "periodical literature",
+    "uid": "8c4_GHvjT",
+    "edit-time": 1615401813869,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615401972932,
+    "title": "mnemonics",
+    "uid": "-UU8i0foI",
+    "edit-time": 1615401972933,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

@@ -2,3 +2,5 @@
 210310-04am
 - [[如何构建笔记系统-实际操作篇]] -- "detail point 99.99 (pt8-99.99)"
 210310-21pm
+- [[Dewey Decimal Classification (DDC)]]
+210310-23pm
