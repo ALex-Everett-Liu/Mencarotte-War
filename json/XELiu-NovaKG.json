@@ -8769,7 +8769,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615316980866,
+            "edit-time": 1615390604851,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -8816,10 +8816,10 @@
             }
           },
           {
-            "string": "御姐; 丝路大亨; jdjr",
+            "string": "御姐; 丝路大亨; ",
             "create-time": 1612697509824,
             "uid": "Jl78eJ9Wm",
-            "edit-time": 1615372264659,
+            "edit-time": 1615387932677,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -9327,10 +9327,10 @@
                 }
               },
               {
-                "string": "moeai-20210218_205956.mp4; 20210208_225608; 20210223_221551; 20210305_231052",
+                "string": "moeai-20210218_205956.mp4; 20210208_225608; 20210223_221551; 20210305_231052; 20210123_222217",
                 "create-time": 1613744015278,
                 "uid": "rBWlLn0sO",
-                "edit-time": 1614960688928,
+                "edit-time": 1615390594721,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -80221,6 +80221,34 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[如何构建笔记系统-实际操作篇]] -- ((CzSXTKIPT))\n210310-21pm",
+        "create-time": 1615383413123,
+        ":block/refs": [
+          {
+            ":block/uid": "CzSXTKIPT"
+          },
+          {
+            ":block/uid": "dVvhL5j4d"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "CzSXTKIPT"
+          },
+          {
+            "uid": "dVvhL5j4d"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ANoDcPiC5",
+        "edit-time": 1615383652956,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "03-10-2021",
@@ -80380,11 +80408,97 @@
   {
     "create-time": 1615364993828,
     "title": "Information Retrieval (IR)",
-    "uid": "1bUnQak0Y",
-    "edit-time": 1615364993836,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615388947448,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Study on the Application of [Agricultural Information Retrieval System] [Based on Agent]. ((oX4ftsLYa))",
+            "create-time": 1615388950235,
+            ":block/refs": [
+              {
+                ":block/uid": "oX4ftsLYa"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oX4ftsLYa"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "aD8IHVbbh",
+            "edit-time": 1615388991475,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Research and [System Implementation] on [Content Based Music Information Retrieval]",
+            "create-time": 1615388950235,
+            "uid": "LLvCSfQM0",
+            "edit-time": 1615389001763,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "\"Information Retrieval\" [Course Practice] Based on [Network Teaching Platform]",
+            "create-time": 1615388950235,
+            "uid": "8Bv_fljMH",
+            "edit-time": 1615389007672,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Study on [measure method] of [vector space] information retrieval system",
+            "create-time": 1615388950235,
+            "uid": "PWg8ulzCD",
+            "edit-time": 1615389013102,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Research and Application of [Web Information Retrieval Method] Based on [Mobile Agent]",
+            "create-time": 1615388950235,
+            "uid": "WkiO5B7u7",
+            "edit-time": 1615389020145,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "jWOSpc4k9",
+        "edit-time": 1615388949431,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "1bUnQak0Y",
+    "edit-time": 1615364993836,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -80418,6 +80532,758 @@
     "title": "page ranking",
     "uid": "s2eX15bbQ",
     "edit-time": 1615365113044,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615382337817,
+    "title": "如何构建笔记系统-实际操作篇",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[Ryooo](https://www.zhihu.com/people/rao-yao-47-68) -- 北京邮电大学 [经济学硕士][在读]",
+        "uid": "nR4bR9lwy",
+        "edit-time": 1615382364287,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "开始之前",
+        "heading": 2,
+        "children": [
+          {
+            "string": "目前，[文献组织][仍然逃不过][主题法]和[分类法][两大方法]。所以，想要形成一个[严谨的笔记系统]，[最好还是][对这两种方法][有一定的了解]。但是，[并非所有人]都有时间、精力去把[专业的方法][搞懂]。所以，本文只列出一些[必要性的知识与步骤]，让[零基础的读者]也能[顺利构建]自己的笔记系统。",
+            "uid": "feL027BfE",
+            "edit-time": 1615382446143,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "选择一种[图书分类法]([[book classification]])，并[大致了解][其使用方法]",
+            ":block/refs": [
+              {
+                ":block/uid": "i10YFrRG1"
+              }
+            ],
+            "heading": 3,
+            "refs": [
+              {
+                "uid": "i10YFrRG1"
+              }
+            ],
+            "children": [
+              {
+                "string": "既然想[搭建一个笔记系统]，那么首先需要做的就是[确定系统的主体框架]。这里很多人可能会有疑问：不是很多[教程]都说[不要一开始就][自上而下的构建体系]吗？其实，[搭建主体框架][这个步骤]并不需要我们自己完成。人类历史上已经诞生了多部图书分类法，这些分类法可以视为[人类知识体系]的主体框架，我们只需要借鉴过来、作为自己[系统的主体框架]就可以了。虽然这些分类法有着或多或少的缺点，但其作为[专业人员的研究成果]，其[分类完备度]上远超我们一般人[自行设计的知识体系]，[借鉴过来]作为[个人知识体系]的主体架构是没问题的。当然，这并不意味着我们要[全盘接受]这些分类法，而是说以它们为基础，[在必要的时候][做细节上的调整]，这样我们就能以[最小的成本]获得一个非常[符合我们自身需求]的[知识主体结构]。",
+                "children": [
+                  {
+                    "string": "需要注意的是，图书分类法作为一种[研究成果]，其[不可避免地]带有作者的哲学、政治观点，以及[时代特性]。这里我们仅考虑[借用其结构]，而不去讨论不同分类法间[熟优熟劣]。大家可以凭兴趣选择《中图法》、《[杜威十进制分类法]([[Dewey Decimal Classification (DDC)]])》等任何一种分类法。",
+                    "refs": [
+                      {
+                        "uid": "9IXJMv-tF"
+                      }
+                    ],
+                    "uid": "AcTxT2faX",
+                    "edit-time": 1615387952188,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9IXJMv-tF"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "TX8rqbRvN",
+                "edit-time": 1615382538928,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "选择完分类法后，我们要对它的[基本类目][有大致的了解]：这种分类法是如何进行[类目划分]的、其包含了哪些基本类目、每个类目[包含哪些内容]。以《中图法》为例：",
+                "children": [
+                  {
+                    "string": "《中图法》分了22个[基本的大类]，即基本类目。[类目的名字][体现了]该类目[包含的内容]。不过[个别类目][有些复杂]，比如“T 工业技术”中包含了[一般工业]、石油工业、计算机技术、轻工业（纺织、食品等相关内容都包含在内）等内容。",
+                    "create-time": 1615382603794,
+                    "uid": "pJ9TI3-_c",
+                    "edit-time": 1615382623613,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "不会确认笔记内容的[学科性质]怎么办？不要担心，我们可以到[国家图书馆查询系统](https://link.zhihu.com/?target=http%3A//opac.nlc.cn/F/DK8P2KREE29SQ7M6URUEXNBCL8ADBN56CTAHCMEX2YLS5P51CL-36038%3Ffunc%3Dfind-b-0)中查询与笔记内容[相关的书籍]，通过[书籍的分类号]来确认笔记[所属的分类]。比如，还是 “西红柿炒鸡蛋心得“这个例子。如果我们不知道这篇笔记[如何归类]，我们可以先到[当当网]上随便搜索一本与[家常菜]相关的书籍，比如《本味家常菜 : 凉拌、小炒、汤煲3688例》。\n210310-21:22",
+                    "create-time": 1615382643729,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "然后，我们到《中图法》中[查找这个分类号]，得知该书分到了“TS97 [生活服务技术] - TS972 [饮食烹饪技术]及设备 - TS972.1 烹饪法、食谱、菜谱 - TS972.12 各类[菜烹饪法]及菜谱 - TS972.127 家常菜、宴会菜”下。我们可以[按自己的需求][选择其中一个级别][对其进行归类]。",
+                        "create-time": 1615382691525,
+                        "uid": "Yo-D39Tps",
+                        "edit-time": 1615382738536,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "baDiJsq-x",
+                    "edit-time": 1615382701375,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "3u1UU9Dzj",
+                "edit-time": 1615382596480,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "FL7ibfc9z",
+            "edit-time": 1615382799969,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "确认自己的凌乱忍受度",
+            "heading": 3,
+            "children": [
+              {
+                "string": "另外，我们[在开始前要做的另一件事]就是[确认自己的][凌乱忍受度]。什么是凌乱忍受度？这其实是借用了[最佳排架粒度][5](((C_bWM7qAQ))) [这一概念]。在笔记系统中，笔记必然要[存放在文件夹中]。我们能忍受文件夹中存在多少条[未经整理的笔记]，我们的凌乱忍受度就是多少。这里的未经整理指的是笔记没有经过归纳、总结。比如，我只能忍受一个文件夹里有20条[未经整理的笔记]，那我的凌乱忍受度就是20；如果我只能忍受一个文件夹里有10条未经整理的笔记，那我的凌乱忍受度就是10。",
+                "refs": [
+                  {
+                    "uid": "C_bWM7qAQ"
+                  }
+                ],
+                "uid": "WvHhgjehy",
+                "edit-time": 1615383252977,
+                ":block/refs": [
+                  {
+                    ":block/uid": "C_bWM7qAQ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "凌乱忍受度可以[根据个人习惯来设置]，不过最好设置大一些，比如20-30左右。因为如果忍受度太小，我们就容易[强迫症发作]，会[老是想]整理这个文件夹。但在笔记数量过少时是很难对笔记[进行归纳总结]的。这就容易[形成矛盾]，让我们陷入想整理、但整理又太难的[纠结之中]。",
+                "uid": "H7UgcgVMM",
+                "edit-time": 1615382920992,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "scj2dx_4Z",
+            "edit-time": 1615382857659,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Bx256xrO3",
+        "edit-time": 1615382379391,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "动手操作",
+        "create-time": 1615382962688,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "整理进阶：使用目录（MOC）",
+            "heading": 3,
+            "children": [
+              {
+                "string": "《中图法》的类目[终究是有限的]。随着我们[对领域了解的不断加深]，即便是最小的类目也会[收纳]特别多的笔记。这时，我们就要[引入]新的[整理方式]——目录。",
+                "uid": "91BxbeuLg",
+                "edit-time": 1615382998499,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "其实目录也是图书管理、[文献管理]领域中[非常成熟的管理方法]，早在古代人们就开始利用目录[来组织][纷繁复杂的][典籍信息]。通过目录，人们可以[轻松了解]某个领域中存在哪些书籍，这些书籍论述了什么内容，熟优熟劣等等等等。现在流行的 MOC 本质上也是一个目录，只不过是一个[揭示知识点]的目录。当我们通过目录这种形式对文件夹内的笔记总结归纳后，虽然文件夹内的[笔记数量]没有减少，但未经整理的笔记数量变少了，低于我们的忍受度。这样，我们的系统将[再次运转]。",
+                "uid": "4Q3eOZUoY",
+                "edit-time": 1615383034227,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "hBZkMZ4zV",
+            "edit-time": 1615382971169,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "YDZ83jkhT",
+        "edit-time": 1615382964037,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "参考文献",
+        "heading": 2,
+        "children": [
+          {
+            "string": "[1] DI VESTA F J, GRAY G S. Listening and note taking[J]. Journal of Educational Psychology, 1972, 63(1): 8–14. DOI:10.1037/h0032243.",
+            "uid": "qgerdJWzm",
+            "edit-time": 1615383093790,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[2] PEVERLY S T, VEKARIA P C, REDDINGTON L A, et al. The Relationship of [Handwriting Speed], Working Memory, [Language Comprehension] and Outlines to Lecture Note-Taking and Test-Taking among [College Students][J]. Applied Cognitive Psychology, 2013, 27(1): 115–126. DOI:10.1002/acp.2881.",
+            "uid": "cq_nD7GfK",
+            "edit-time": 1615383161513,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[3] KAUFFMAN D F, ZHAO R, YANG Y-S. Effects of [Online Note Taking Formats] and [Self-Monitoring Prompts] on [Learning from Online Text]: Using Technology to Enhance [Self-Regulated Learning][J]. Contemporary Educational Psychology, 2011, 36(4): 313–322. DOI:10.1016/j.cedpsych.2011.04.001.",
+            "uid": "THBT6LqQo",
+            "edit-time": 1615383185172,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[4] BUI D C, MCDANIEL M A. Enhancing Learning during [Lecture Note-Taking] [Using Outlines] and [Illustrative Diagrams][J]. Journal of Applied Research in Memory and Cognition, 2015, 4(2): 129–135. DOI:10.1016/j.jarmac.2015.03.002.",
+            "uid": "pokNkpi-0",
+            "edit-time": 1615383206621,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[5] 董素音. 最佳排架粒度——[图书排架][质量评价指标][及其应用][J]. 图书情报知识, 2004(05): 44–45.",
+            "uid": "C_bWM7qAQ",
+            "edit-time": 1615383217097,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[7] CHRISTIAN. [When Should You] [Start a New Note]?[EB/OL]([日期不详])[2020–12–18](https://link.zhihu.com/?target=https%3A//www.zettelkasten.de/posts/when-start-new-note/). ",
+            "uid": "4I9vw-9OB",
+            "edit-time": 1615383316237,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[8] CHRISTIAN. How to [Program Yourself for Productivity] and [Stop Searching for] the [Ideal Software][EB/OL]([日期不详])[2021–01–02](https://link.zhihu.com/?target=https%3A//www.zettelkasten.de/posts/how-to-program-yourself-productivity/). ",
+            "uid": "2Z0GNAtY_",
+            "edit-time": 1615383352830,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[9] CHRISTIAN. How I [Use Outlines to] [Write Any Text][EB/OL]([日期不详])[2020–12–24](https://link.zhihu.com/?target=https%3A//www.zettelkasten.de/posts/how-i-use-outlines-to-write-any-text/). \n210310-21:35",
+            "uid": "vF7fYd5nW",
+            "edit-time": 1615383389736,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "964KQkbYJ",
+        "edit-time": 1615383093790,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "dVvhL5j4d",
+    "edit-time": 1615382337817,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615382799972,
+    "title": "book classification",
+    "uid": "i10YFrRG1",
+    "edit-time": 1615382799973,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615387923465,
+    "title": "Dewey Decimal Classification (DDC)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "The Dewey Decimal Classification (DDC), colloquially the [Dewey Decimal System], is a proprietary [[library classification]] system [first published in] the United States by [[Melvil Dewey]] in 1876.[1] Originally described in [a four-page pamphlet], it has been [expanded to multiple volumes] and revised through 23 [[major edition]]s, the latest printed in 2011. It is also available in an [[abridged version]] [suitable for smaller libraries]. OCLC, a [[non-profit cooperative]] 非营利合作社 that [serves libraries], currently [maintains the system]([[maintain the system]]) and [[license]]s [[online access]] to [[WebDewey]], [a continuously updated version]([[continuous update]]) for [[cataloger]]s.\n210310-23:02",
+        "create-time": 1615387942830,
+        ":block/refs": [
+          {
+            ":block/uid": "EfHYOWUpz"
+          },
+          {
+            ":block/uid": "GSU-XsM2z"
+          },
+          {
+            ":block/uid": "cH08MtPiU"
+          },
+          {
+            ":block/uid": "H6DHu195u"
+          },
+          {
+            ":block/uid": "uwv1c95wC"
+          },
+          {
+            ":block/uid": "y4Mb4pJAV"
+          },
+          {
+            ":block/uid": "IOWzUrI9o"
+          },
+          {
+            ":block/uid": "4EMVlqvz5"
+          },
+          {
+            ":block/uid": "LQdmoa9pT"
+          },
+          {
+            ":block/uid": "e7eiFQec4"
+          },
+          {
+            ":block/uid": "TYEGDAJTi"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EfHYOWUpz"
+          },
+          {
+            "uid": "GSU-XsM2z"
+          },
+          {
+            "uid": "cH08MtPiU"
+          },
+          {
+            "uid": "H6DHu195u"
+          },
+          {
+            "uid": "uwv1c95wC"
+          },
+          {
+            "uid": "y4Mb4pJAV"
+          },
+          {
+            "uid": "IOWzUrI9o"
+          },
+          {
+            "uid": "4EMVlqvz5"
+          },
+          {
+            "uid": "LQdmoa9pT"
+          },
+          {
+            "uid": "e7eiFQec4"
+          },
+          {
+            "uid": "TYEGDAJTi"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "P8a68bphz",
+        "edit-time": 1615388718080,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1615390873727,
+        "children": [
+          {
+            "string": "The classification's [[notation]] makes use of [three-digit numbers] for [[main class]]es, with [[fractional decimal]]s 小数 [allowing expansion for further detail]. [Numbers are flexible] [to the degree that] 灵活到此种程度 they [can be expanded in linear fashion] to [cover special aspects of general subjects].[2] A library assigns a [[classification number]] that unambiguously [locates a particular volume] 特定的卷 in a position [relative to other books in the library], on the basis of its subject. The number [makes it possible to] [find any book] and to return it to its [[proper place]] on the [[library shelves]].[Note 1] The [classification system] is used in 200,000 libraries in at least 135 countries.[3][4]",
+            "create-time": 1615387932899,
+            ":block/refs": [
+              {
+                ":block/uid": "NqXpI6jI5"
+              },
+              {
+                ":block/uid": "A4FQzU1ys"
+              },
+              {
+                ":block/uid": "p2zMeM77o"
+              },
+              {
+                ":block/uid": "XJo8SNCcL"
+              },
+              {
+                ":block/uid": "rOZ31nepS"
+              },
+              {
+                ":block/uid": "vLeEJ3I7V"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "NqXpI6jI5"
+              },
+              {
+                "uid": "A4FQzU1ys"
+              },
+              {
+                "uid": "p2zMeM77o"
+              },
+              {
+                "uid": "XJo8SNCcL"
+              },
+              {
+                "uid": "rOZ31nepS"
+              },
+              {
+                "uid": "vLeEJ3I7V"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "bB7nxNBKd",
+            "edit-time": 1615390887653,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mTfLHbgsy"
+          },
+          {
+            "uid": "vyVjc6UyT"
+          },
+          {
+            "uid": "i7QqFZ7ob"
+          },
+          {
+            "uid": "7P_9l3-Ux"
+          },
+          {
+            "uid": "ZZ6_zTN0i"
+          }
+        ],
+        "uid": "19xytgKRx",
+        ":block/refs": [
+          {
+            ":block/uid": "mTfLHbgsy"
+          },
+          {
+            ":block/uid": "vyVjc6UyT"
+          },
+          {
+            ":block/uid": "i7QqFZ7ob"
+          },
+          {
+            ":block/uid": "7P_9l3-Ux"
+          },
+          {
+            ":block/uid": "ZZ6_zTN0i"
+          }
+        ],
+        "string": "The Decimal Classification [introduced the concepts of] [[relative location]] and [[relative index]] which [allow new books to be added to a library] in their [[appropriate location]] based on [[subject]]. Libraries previously had given books permanent [[shelf location]]s that were related to [the order of acquisition] [rather than topic]. ",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615390873727,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "9IXJMv-tF",
+    "edit-time": 1615387952188,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615387982073,
+    "title": "Melvil Dewey",
+    "uid": "EfHYOWUpz",
+    "edit-time": 1615387982073,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388090597,
+    "title": "library classification",
+    "uid": "GSU-XsM2z",
+    "edit-time": 1615388090597,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388192576,
+    "title": "major edition",
+    "uid": "cH08MtPiU",
+    "edit-time": 1615388192577,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388242825,
+    "title": "abridged version",
+    "uid": "H6DHu195u",
+    "edit-time": 1615388242826,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388254919,
+    "title": "maintain the system",
+    "uid": "uwv1c95wC",
+    "edit-time": 1615388254919,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388284258,
+    "title": "continuous update",
+    "uid": "y4Mb4pJAV",
+    "edit-time": 1615388284259,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388303112,
+    "title": "cataloger",
+    "uid": "IOWzUrI9o",
+    "edit-time": 1615388303114,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388432808,
+    "title": "non-profit cooperative",
+    "uid": "4EMVlqvz5",
+    "edit-time": 1615388432809,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388718082,
+    "title": "license",
+    "uid": "LQdmoa9pT",
+    "edit-time": 1615388718083,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388718082,
+    "title": "online access",
+    "uid": "e7eiFQec4",
+    "edit-time": 1615388718083,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615388718082,
+    "title": "WebDewey",
+    "uid": "TYEGDAJTi",
+    "edit-time": 1615388718083,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615389118547,
+    "title": "relative location",
+    "uid": "vyVjc6UyT",
+    "edit-time": 1615389118555,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615389118547,
+    "title": "relative index",
+    "uid": "i7QqFZ7ob",
+    "edit-time": 1615389118555,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615389118547,
+    "title": "appropriate location",
+    "uid": "7P_9l3-Ux",
+    "edit-time": 1615389118555,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615390391812,
+    "title": "shelf location",
+    "uid": "ZZ6_zTN0i",
+    "edit-time": 1615390391813,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615390425377,
+    "title": "main class",
+    "uid": "NqXpI6jI5",
+    "edit-time": 1615390425378,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615390471426,
+    "title": "notation",
+    "uid": "A4FQzU1ys",
+    "edit-time": 1615390471427,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615390475307,
+    "title": "fractional decimal",
+    "uid": "p2zMeM77o",
+    "edit-time": 1615390475309,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615390757954,
+    "title": "classification number",
+    "uid": "XJo8SNCcL",
+    "edit-time": 1615390757955,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615390856004,
+    "title": "proper place",
+    "uid": "rOZ31nepS",
+    "edit-time": 1615390856013,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615390856004,
+    "title": "library shelves",
+    "uid": "vLeEJ3I7V",
+    "edit-time": 1615390856013,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
