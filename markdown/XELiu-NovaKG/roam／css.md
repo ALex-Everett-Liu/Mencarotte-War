@@ -8337,7 +8337,7 @@ a.rm-alias.rm-alias-external {
     --indent18: #b58900ad;
 	/* my change */
   	--body__background-color: rgba(155,207,238,0.3);
-  	--main-font__color: #E4D8EE;
+  	--main-font__color: #E6D5F4;
   	--main-font__font-family: 'Georgia', serif;
   	--main-font__font-size: 17px;
     /* right sidebar */

@@ -406,10 +406,10 @@
         },
         "children": [
           {
-            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--body__background-color: rgba(155,207,238,0.3);\n  \t--main-font__color: #E4D8EE;\n  \t--main-font__font-family: 'Georgia', serif;\n  \t--main-font__font-size: 17px;\n    /* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;\n  \t/* topbar */\n  \t--search__background: rgba(202,202,139,0.2);\n  \t--search__background-color_selected-row: #4c4c4c;\n    /* icons */\n  \t--icon__background-color_hover: rgba(167, 182, 194, 0.3);\n  \t--icon__color: rgba(225,75,13,0.5);\n  \t--icon__color_hover: #e78924;\n  \t--filter__color_subscript: #5c7080;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-article {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--body__background-color: rgba(155,207,238,0.3);\n  \t--main-font__color: #E6D5F4;\n  \t--main-font__font-family: 'Georgia', serif;\n  \t--main-font__font-size: 17px;\n    /* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;\n  \t/* topbar */\n  \t--search__background: rgba(202,202,139,0.2);\n  \t--search__background-color_selected-row: #4c4c4c;\n    /* icons */\n  \t--icon__background-color_hover: rgba(167, 182, 194, 0.3);\n  \t--icon__color: rgba(225,75,13,0.5);\n  \t--icon__color_hover: #e78924;\n  \t--filter__color_subscript: #5c7080;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-article {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```",
             "create-time": 1614620922794,
             "uid": "J0YVQSDDZ",
-            "edit-time": 1615009002871,
+            "edit-time": 1615408145473,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -8835,7 +8835,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615390604851,
+            "edit-time": 1615407408970,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -71283,10 +71283,22 @@
                 }
               },
               {
-                "string": "```css\n  /* layout */\n  /* body */\n  --body__background-color: #2c2c2c;\n  --main-font__color: #999;\n  --main-font__font-family: \"Inter\", sans-serif;\n  --main-font__font-size: 14px;\n  --caret__color: #0080ff;\n  --accent__color: #e98924;\n  --accent__color_alert: #ff6000;\n  --accent__color-font: #1189bd;\n  --block-highlight__background-color_selected: #00588e;\n  --block-highlight__background-color_active: rgba(255, 255, 255, 0.05);\n  --block-highlight__background-color_mentions: #312c28;\n  --bullet__background-color: rgba(225, 117, 28, 0.3);\n  --bullet__border_closed: rgba(225, 117, 28, 1);\n  --bullet-outline__border: #404040;\n  --bullet-outline__border_hover: rgba(255, 149, 0, 0.4);\n  --section-divider_border-top: 1px solid #e9892475;```",
+                "string": "```css\n  /* layout */\n  /* body */\n  --body__background-color: #2c2c2c;\n  --main-font__color: #999;\n  --main-font__font-family: \"Inter\", sans-serif;\n  --main-font__font-size: 14px;\n  --caret__color: #0080ff;\n  --accent__color: #e98924;\n  --accent__color_alert: #ff6000;\n  --accent__color-font: #1189bd;\n  --block-highlight__background-color_selected: #00588e;\n  --block-highlight__background-color_active: rgba(255, 255, 255, 0.05);\n  --block-highlight__background-color_mentions: #312c28;\n  --bullet__background-color: rgba(225, 117, 28, 0.3);\n  --bullet__border_closed: rgba(225, 117, 28, 1);\n  --bullet-outline__border: #404040;\n  --bullet-outline__border_hover: rgba(255, 149, 0, 0.4);\n  --section-divider_border-top: 1px solid #e9892475;\n```",
                 "create-time": 1614739473072,
                 "uid": "OJ8PC7XP8",
-                "edit-time": 1614741160393,
+                "edit-time": 1615408064549,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "```css\n--main-font__color: #E4D8EE;\n```",
+                "create-time": 1615408069556,
+                "uid": "lMcVbuiuE",
+                "edit-time": 1615408075957,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -81358,7 +81370,7 @@
             "edit-time": 1615399143260,
             "children": [
               {
-                "string": "For example, a [[class number]] [could be constructed using] 330 for economics + .9 for geographic treatment + .04 for Europe to create the class 330.94 European economy. Or one could combine the class 973 (for the United States) + .05 (for [[periodical publication]]s ([[periodical literature]]) 期刊 [on the topic]) to [arrive at the number] 973.05 for periodicals [concerning the United States generally]. The classification also [makes use of] [[mnemonics]] in some areas, such that the number 5 represents the country Italy in classification numbers like 945 (history of Italy), 450 (Italian language), 195 (Italian philosophy). [The combination of faceting and mnemonics] makes the classification [synthetic in nature], with meaning built into parts of the classification number.[42]",
+                "string": "For example, a [[class number]] [could be constructed using] 330 for economics + .9 for geographic treatment + .04 for Europe to create the class 330.94 European economy. Or one could combine the class 973 (for the United States) + .05 (for [[periodical publication]]s ([[periodical literature]]) 期刊 [on the topic]) to [arrive at the number] 973.05 for periodicals [concerning the United States generally]. The classification also [makes use of] [[mnemonics]] in some areas, such that the number 5 represents the country Italy in classification numbers like 945 (history of Italy), 450 (Italian language), 195 (Italian philosophy). [The combination of faceting and mnemonics] makes the classification [synthetic in nature]([[synthetic]]), with meaning built into parts of the classification number.[42]\n210311-02:49",
                 "create-time": 1615398488106,
                 ":block/refs": [
                   {
@@ -81372,6 +81384,9 @@
                   },
                   {
                     ":block/uid": "-UU8i0foI"
+                  },
+                  {
+                    ":block/uid": "HHANWEwuI"
                   }
                 ],
                 "refs": [
@@ -81386,13 +81401,16 @@
                   },
                   {
                     "uid": "-UU8i0foI"
+                  },
+                  {
+                    "uid": "HHANWEwuI"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "8oM9e_iBQ",
-                "edit-time": 1615402027727,
+                "edit-time": 1615402153645,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -81431,13 +81449,41 @@
             }
           },
           {
-            "string": "The Dewey Decimal Classification has a number for all subjects, including fiction, although many libraries maintain a separate fiction section shelved by alphabetical order of the author's surname. Each assigned number consists of two parts: a class number (from the Dewey system) and a book number, which \"prevents confusion of different books on the same subject\".[7] A common form of the book number is called a Cutter number, which represents the author and distinguishes the book from other books on the same topic.[43]",
+            "string": "The Dewey Decimal Classification has a number for all subjects, including [[fiction]], although many libraries maintain [a separate fiction section] shelved by [[alphabetical order]] of [the author's surname]. Each assigned number consists of two parts: a class number (from the Dewey system) and a [[book number]], which \"[prevents confusion of] different books [on the same subject]\".[7] A [common form] of the book number is called a [[Cutter number]], which represents the author and [distinguishes the book from other books] [on the same topic].[43]",
             "create-time": 1615398484295,
-            "uid": "kTcwujWUl",
-            "edit-time": 1615398488111,
+            ":block/refs": [
+              {
+                ":block/uid": "Dwun7DJMJ"
+              },
+              {
+                ":block/uid": "b-edNh1bm"
+              },
+              {
+                ":block/uid": "YQmUt_6ZR"
+              },
+              {
+                ":block/uid": "_ivtrnbax"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Dwun7DJMJ"
+              },
+              {
+                "uid": "b-edNh1bm"
+              },
+              {
+                "uid": "YQmUt_6ZR"
+              },
+              {
+                "uid": "_ivtrnbax"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "kTcwujWUl",
+            "edit-time": 1615402329551,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -81723,11 +81769,35 @@
   {
     "create-time": 1615393764941,
     "title": "March 11th, 2021",
-    "uid": "03-11-2021",
-    "edit-time": 1615393764942,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[DDC 23 Summaries]]\n210311-04am",
+        "create-time": 1615408873204,
+        ":block/refs": [
+          {
+            ":block/uid": "lmQRnK5Kb"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "lmQRnK5Kb"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "6uwyf3mwo",
+        "edit-time": 1615408883050,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "03-11-2021",
+    "edit-time": 1615393764942,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -82063,6 +82133,608 @@
     "title": "mnemonics",
     "uid": "-UU8i0foI",
     "edit-time": 1615401972933,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615402079187,
+    "title": "synthetic",
+    "uid": "HHANWEwuI",
+    "edit-time": 1615402079191,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615402201753,
+    "title": "alphabetical order",
+    "uid": "Dwun7DJMJ",
+    "edit-time": 1615402201753,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615402204825,
+    "title": "fiction",
+    "uid": "b-edNh1bm",
+    "edit-time": 1615402204825,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615402284996,
+    "title": "book number",
+    "uid": "YQmUt_6ZR",
+    "edit-time": 1615402284996,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615402329553,
+    "title": "Cutter number",
+    "uid": "_ivtrnbax",
+    "edit-time": 1615402329554,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615407349560,
+    "title": "OCLC Dewey® Services",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Searching for items in a library? Try [WorldCat.org](http://www.worldcat.org/). #WorldCat",
+        "create-time": 1615407359395,
+        ":block/refs": [
+          {
+            ":block/uid": "XB4s26DYS"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "XB4s26DYS"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "V4IhIYzvj",
+        "edit-time": 1615407384380,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Resources",
+        "create-time": 1615407458583,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Resources for librarians",
+            "heading": 3,
+            "children": [
+              {
+                "string": "[Conference Materials](https://www.oclc.org/en/dewey/news/newsletter.html) (the DDC newsletter)",
+                "uid": "5cTMgJ_p8",
+                "edit-time": 1615407465077,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[Dewey Summaries](https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf) #[[DDC 23 Summaries]]",
+                "create-time": 1615407484684,
+                ":block/refs": [
+                  {
+                    ":block/uid": "lmQRnK5Kb"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "lmQRnK5Kb"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "TrmPdT99f",
+                "edit-time": 1615407567169,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ShG8VioVy",
+            "edit-time": 1615407465077,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "97AV_DvzP",
+        "edit-time": 1615407459518,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "9a5NZ8xCD",
+    "edit-time": 1615407349561,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615407384381,
+    "title": "WorldCat",
+    "uid": "XB4s26DYS",
+    "edit-time": 1615407384382,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615407567172,
+    "title": "DDC 23 Summaries",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Hierarchy",
+        "create-time": 1615407614416,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Hierarchy in the [[Dewey Decimal Classification (DDC)]] is [expressed through structure and notation]. [[structural hierarchy]] means that all [[topic]]s (aside from the [ten main classes]) are part of all the [broader topics] above them. 更广泛话题 Any note [regarding the nature of a class] [holds true for] 适用, 有效 all the [[subordinate class]]es, including [logically subordinate topics] classed at [[coordinate number]]s. 按坐标编号分类的逻辑从属主题\n210311-04:25",
+            "create-time": 1615407615567,
+            ":block/refs": [
+              {
+                ":block/uid": "9IXJMv-tF"
+              },
+              {
+                ":block/uid": "g9xgrz7tD"
+              },
+              {
+                ":block/uid": "9jEe8QZHG"
+              },
+              {
+                ":block/uid": "0JVzzH-L4"
+              },
+              {
+                ":block/uid": "mwT97DNF9"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9IXJMv-tF"
+              },
+              {
+                "uid": "g9xgrz7tD"
+              },
+              {
+                "uid": "9jEe8QZHG"
+              },
+              {
+                "uid": "0JVzzH-L4"
+              },
+              {
+                "uid": "mwT97DNF9"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "IePlaxa_I",
+            "edit-time": 1615407990218,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1615408520141,
+            "children": [
+              {
+                "string": "```css\n600 Technology\n630 Agriculture and related technologies \n636 Animal husbandry\n636.7 Dogs \n636.8 Cats\n```",
+                "create-time": 1615408552219,
+                "uid": "6GNE9bXgo",
+                "edit-time": 1615408576781,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "“Dogs” and “Cats” are [more specific than] (i.e., are [[subordinate]] to) “Animal husbandry”; ^^they are [equally specific as each other]([[equally specific]]) (i.e., are coordinate with);^^ 相配合 and “Animal husbandry” is less specific than (i.e., is [[superordinate]] to) “Dogs” and “Cats.”\n210311-04:40",
+                "create-time": 1615408629895,
+                ":block/refs": [
+                  {
+                    ":block/uid": "lueB5_vJz"
+                  },
+                  {
+                    ":block/uid": "-Z-I5DuVl"
+                  },
+                  {
+                    ":block/uid": "9QR27EuNs"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "lueB5_vJz"
+                  },
+                  {
+                    "uid": "-Z-I5DuVl"
+                  },
+                  {
+                    "uid": "9QR27EuNs"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "tICf3epFE",
+                "edit-time": 1615408854874,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Sometimes, [other devices must be used to] [express the hierarchy] when [it is not possible or desirable to do so] [through the notation]. Special headings, notes, and entries [indicate relationships among topics] that [violate notational hierarchy].",
+                "create-time": 1615408629895,
+                "uid": "Z-Rjoq-h8",
+                "edit-time": 1615409005886,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "XPXocFNz5"
+              },
+              {
+                "uid": "qxivgYR_U"
+              }
+            ],
+            "uid": "PAnfrIRVc",
+            ":block/refs": [
+              {
+                ":block/uid": "XPXocFNz5"
+              },
+              {
+                ":block/uid": "qxivgYR_U"
+              }
+            ],
+            "string": "Notational hierarchy is [expressed by length of notation]. [Numbers at any given level] are usually [subordinate to a class] [whose notation is one digit shorter]; [coordinate with a class] whose notation [has the same number of] [[significant digit]]s; 有效位数 and [superordinate to a class] [with numbers one or more digits longer]. The [underlined digits] [in the following example] demonstrate this [[notational hierarchy]]:",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615408272390,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "0r6inGZTS",
+        "edit-time": 1615407620255,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Main Classes",
+        "create-time": 1615409044801,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "000 Computer science, information & [[general works]] 信息与通论/综合工程",
+            "create-time": 1615409051485,
+            ":block/refs": [
+              {
+                ":block/uid": "clJtNfivr"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "clJtNfivr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "hMI-Kxoc_",
+            "edit-time": 1615409101686,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "100 Philosophy & psychology",
+            "create-time": 1615409051485,
+            "uid": "BbRXOlbzb",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "200 Religion",
+            "create-time": 1615409051485,
+            "uid": "Re2N4-A7t",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "300 Social sciences",
+            "create-time": 1615409051485,
+            "uid": "-sZRQ1Km5",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "400 Language",
+            "create-time": 1615409051485,
+            "uid": "768UfO9Nv",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "500 Science",
+            "create-time": 1615409051485,
+            "uid": "RCB1qy2Xz",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "600 Technology",
+            "create-time": 1615409051485,
+            "uid": "0au-dPsQh",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "700 Arts & [[recreation]]",
+            "create-time": 1615409051485,
+            ":block/refs": [
+              {
+                ":block/uid": "zOGMeTVOh"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "zOGMeTVOh"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "_VgF2Fu0o",
+            "edit-time": 1615409163458,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "800 Literature",
+            "create-time": 1615409051485,
+            "uid": "4OvMgqe2I",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "900 History & geography",
+            "create-time": 1615409051485,
+            "uid": "gHz56b08Y",
+            "edit-time": 1615409051488,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "o6L5Iyi5r",
+        "edit-time": 1615409045266,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "lmQRnK5Kb",
+    "edit-time": 1615407567172,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615407728110,
+    "title": "topic",
+    "uid": "g9xgrz7tD",
+    "edit-time": 1615407728111,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615407732060,
+    "title": "structural hierarchy",
+    "uid": "9jEe8QZHG",
+    "edit-time": 1615407732060,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615407872728,
+    "title": "subordinate class",
+    "uid": "0JVzzH-L4",
+    "edit-time": 1615407872729,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615407924060,
+    "title": "coordinate number",
+    "uid": "mwT97DNF9",
+    "edit-time": 1615407924061,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615408343271,
+    "title": "significant digit",
+    "uid": "XPXocFNz5",
+    "edit-time": 1615408343271,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615408374704,
+    "title": "notational hierarchy",
+    "uid": "qxivgYR_U",
+    "edit-time": 1615408374705,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615408763682,
+    "title": "superordinate",
+    "uid": "-Z-I5DuVl",
+    "edit-time": 1615408763683,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615408788883,
+    "title": "equally specific",
+    "uid": "9QR27EuNs",
+    "edit-time": 1615408788885,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615409101689,
+    "title": "general works",
+    "uid": "clJtNfivr",
+    "edit-time": 1615409101690,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615409163461,
+    "title": "recreation",
+    "uid": "zOGMeTVOh",
+    "edit-time": 1615409163461,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

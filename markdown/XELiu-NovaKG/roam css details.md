@@ -134,4 +134,8 @@ Feel free to adjust the color variables!
   --bullet__border_closed: rgba(225, 117, 28, 1);
   --bullet-outline__border: #404040;
   --bullet-outline__border_hover: rgba(255, 149, 0, 0.4);
-  --section-divider_border-top: 1px solid #e9892475;```
+  --section-divider_border-top: 1px solid #e9892475;
+```
+        - ```css
+--main-font__color: #E4D8EE;
+```
