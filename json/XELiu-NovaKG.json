@@ -79453,6 +79453,7 @@
       {
         "string": "ABSTRACT",
         "create-time": 1615317424911,
+        "heading": 2,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -79710,6 +79711,61 @@
         ],
         "uid": "ZzpEgyLdk",
         "edit-time": 1615317425751,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "1. INTRODUCTION",
+        "create-time": 1615364910526,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "While traditional [[Information Retrieval (IR)]] methods are used by [[web search engine]]s to some extent, the web is much more massive, dynamic and less coherent than [traditional text collections] [2]. While [for any given topic] there might be thousands or even millions of pages available, the problem of [ranking those pages]([[page ranking]]) to [generate a short list] is probably [one of the key problems] of [Web IR], and this [requires some kind of] [[relevance estimation]]. 相关性估计",
+            "create-time": 1615364911174,
+            ":block/refs": [
+              {
+                ":block/uid": "1bUnQak0Y"
+              },
+              {
+                ":block/uid": "0itSFjxeC"
+              },
+              {
+                ":block/uid": "GzrGyoO-A"
+              },
+              {
+                ":block/uid": "s2eX15bbQ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "1bUnQak0Y"
+              },
+              {
+                "uid": "0itSFjxeC"
+              },
+              {
+                "uid": "GzrGyoO-A"
+              },
+              {
+                "uid": "s2eX15bbQ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "0kkCRNY0Z",
+            "edit-time": 1615365113041,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "AXdi-gvyI",
+        "edit-time": 1615364911182,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -80283,6 +80339,54 @@
     ],
     "uid": "oqAwslxkx",
     "edit-time": 1615323391796,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615364993828,
+    "title": "Information Retrieval (IR)",
+    "uid": "1bUnQak0Y",
+    "edit-time": 1615364993836,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615365039171,
+    "title": "web search engine",
+    "uid": "0itSFjxeC",
+    "edit-time": 1615365039176,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615365094362,
+    "title": "relevance estimation",
+    "uid": "GzrGyoO-A",
+    "edit-time": 1615365094363,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615365113043,
+    "title": "page ranking",
+    "uid": "s2eX15bbQ",
+    "edit-time": 1615365113044,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
