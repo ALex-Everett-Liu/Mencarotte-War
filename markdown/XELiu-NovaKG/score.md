@@ -383,10 +383,15 @@ obsidian — Link to blocks
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
             - {{[[TODO]]}} 在玻璃上[喷涂](https://www.zhihu.com/question/420760487/answer/1692006101)一层[玻璃清洁][涂层]。利用[纳米分子]在[玻璃表面][附着一层][疏水层]，水渍和污垢就很难[附着在]玻璃上面了。喷涂一次一般可以管2-3年，再也不用为天天[擦玻璃]而头疼了。
                 - 一次性马桶刷 知乎好物推荐贴 smzdm
-            - {{[[TODO]]}} plot based on origin, matlab, python, excel, etc.
+            - tech
+                - {{[[TODO]]}} plot based on origin, matlab, python, excel, etc.
+                - {{[[TODO]]}} [jriver skin](https://yabb.jriver.com/mediacenter/accessories.php)
+                - {{[[TODO]]}} [重要资料]照片搞了2个[移动硬盘]备份，[坏过几次硬盘][还好都有征兆]足以[抢救资料](https://bbs.saraba1st.com/2b/thread-1992562-2-1.html)
+                    - HDD sentinel，有问题可以[自动报警]
+                - 之前有eBay上[获取数据]做[竞品分析]的需求，先是用 web scraper 来，试了一会没成功。
+后来用uibot来操作，直接用[可视化界面](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1974569)[抓数据][导入excel]里面，[批量操作][能节省很多工作]。用的是免费版本，它既然没找我要钱，我就替它义乌宣传下：我认为挺好用。
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
                 - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。
-            - {{[[TODO]]}} [jriver skin](https://yabb.jriver.com/mediacenter/accessories.php)
             - {{[[TODO]]}} **不是表字配狗，是王八瞪绿豆 [更新：一场智力的风暴]** [daxiong coser](https://bbs.saraba1st.com/2b/thread-1988448-1-1.html)
         - detail point 99.99 (pt9-99.99)
             - note-taking

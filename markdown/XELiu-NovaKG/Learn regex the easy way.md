@@ -11,6 +11,7 @@
     - "2. [Meta Characters]([[meta character]])"
         - "2.2 Character Sets"
             - "2.2.1 Negated Character Sets"
+        - "2.3 [[Character Repetitions]]"
 - ## 1. Basic Matchers
     - A regular expression is just [a pattern of characters]([[character pattern]]) that we use to [perform a search in a text]. For example, the regular expression `the` means: the letter t, followed by the letter h, followed by the letter e.
 `"the" => The fat cat sat on [the] mat.`
