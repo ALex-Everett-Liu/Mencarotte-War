@@ -5235,6 +5235,18 @@
                         }
                       },
                       {
+                        "string": "[Show HN: Dendron – A Hierarchical Tool for Thought](https://dendron.so/) - [URL](https://news.ycombinator.com/item?id=24898373)",
+                        "create-time": 1615456776102,
+                        "uid": "QRvZc41TU",
+                        "edit-time": 1615456790542,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "{{[[TODO]]}} help docs || roam — Upload Image, Audio, or File \nobsidian — Link to blocks",
                         "create-time": 1614140777960,
                         ":block/refs": [
@@ -5705,6 +5717,18 @@
                         "create-time": 1615401304707,
                         "uid": "BkRBVesHv",
                         "edit-time": 1615401349633,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "PS：以前总结过一小段 joplin 用户们[就这个问题][跟开发者的讨论](https://github.com/siyuan-note/siyuan/issues/1139?utm_source=ld246.com)，其实用户们[心里也非常清楚][数据真加密]不太好弄，他们[只是需要][把界面锁一锁]，[能挡住][身边绝大多数][不懂技术的人]就行了：[yuque](https://www.yuque.com/deerain/gannbs/ta1oz1#TE7nq) 。",
+                        "create-time": 1615456411976,
+                        "uid": "9NgvviAJE",
+                        "edit-time": 1615456505878,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
@@ -8706,6 +8730,18 @@
                     }
                   },
                   {
+                    "string": "Boy in China throws firecracker into manhole, [causing explosion](http://www.ltaaa.com/article/34673)",
+                    "create-time": 1615457232811,
+                    "uid": "F9cFLZHPx",
+                    "edit-time": 1615457247073,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "{{[[TODO]]}} [baidu chuanda](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9577166828061340249%22%7D&n_type=1&p_from=4)\nhttps://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10220506341737650114%22%7D&n_type=0&p_from=1",
                     "create-time": 1615141319349,
                     ":block/refs": [
@@ -8832,22 +8868,10 @@
         },
         "children": [
           {
-            "string": "idea design",
+            "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615455627097,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "idea problem",
-            "create-time": 1615455627536,
-            "uid": "_nDvHNJFZ",
-            "edit-time": 1615455633523,
+            "edit-time": 1615457792804,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -81806,6 +81830,42 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "regex",
+        "create-time": 1615464047215,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[meta character]]\n210311-19pm",
+            "create-time": 1615464048999,
+            ":block/refs": [
+              {
+                ":block/uid": "AHLY5C3M2"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "AHLY5C3M2"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Q3Uw_PhZ8",
+            "edit-time": 1615464055610,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-DEvAEPLq",
+        "edit-time": 1615464049004,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "03-11-2021",
@@ -83577,7 +83637,7 @@
             }
           },
           {
-            "string": "Imagine you are [writing an application] and you want to [set the rules for] when a user [chooses their username]. We want to allow the [[username]] to contain letters, numbers, underscores and hyphens. We also want to [limit the number of characters] in the username so it [does not look ugly]. We can use the following regular expression to [[validate the username]]:",
+            "string": "Imagine you are [writing an application] and you want to [set the rules for] when a user [chooses their username]. We want to allow the [[username]] to contain letters, numbers, underscores and hyphens. We also want to [limit the number of characters] in the username so it [does not look ugly]. We can use the following regular expression to [[validate the username]]: `^[a-z0-9_-]{3,15}$` (start of the line | end of the line)",
             "refs": [
               {
                 "uid": "5BtBd9Hoe"
@@ -83586,8 +83646,56 @@
                 "uid": "IRsX3sr7d"
               }
             ],
+            "children": [
+              {
+                "string": "![](https://raw.githubusercontent.com/ziishaned/learn-regex/master/img/regexp-en.png)",
+                "props": {
+                  "image-size": {
+                    "https://raw.githubusercontent.com/ziishaned/learn-regex/master/img/regexp-en.png": {
+                      "width": 420,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1615457643259,
+                ":block/props": {
+                  ":image-size": {
+                    "https://raw.githubusercontent.com/ziishaned/learn-regex/master/img/regexp-en.png": {
+                      ":width": 420,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Z4OoYp2Fb",
+                "edit-time": 1615457703864,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[The regular expression above] [can accept the strings] `john_doe`, `jo-hn_doe` and `john12_as`. It [does not match] `Jo` because that string contains an [[uppercase letter]] and also it is too short.",
+                "refs": [
+                  {
+                    "uid": "bZk6PyYzo"
+                  }
+                ],
+                "uid": "sH1uAxB3O",
+                "edit-time": 1615457730527,
+                ":block/refs": [
+                  {
+                    ":block/uid": "bZk6PyYzo"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
             "uid": "h4-KeCXD5",
-            "edit-time": 1615438812959,
+            "edit-time": 1615457825650,
             ":block/refs": [
               {
                 ":block/uid": "5BtBd9Hoe"
@@ -83603,6 +83711,181 @@
         ],
         "uid": "gmgyX1TYX",
         "edit-time": 1615438155102,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Table of Contents",
+        "heading": 2,
+        "children": [
+          {
+            "string": "((bw-i5eeuA))",
+            "create-time": 1615458155531,
+            ":block/refs": [
+              {
+                ":block/uid": "bw-i5eeuA"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "bw-i5eeuA"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "LPLzU_7on",
+            "edit-time": 1615458157029,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xU1orxe7L",
+        "edit-time": 1615457842555,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "1. Basic Matchers",
+        "heading": 2,
+        "children": [
+          {
+            "string": "A regular expression is just [a pattern of characters]([[character pattern]]) that we use to [perform a search in a text]. For example, the regular expression `the` means: the letter t, followed by the letter h, followed by the letter e.\n`\"the\" => The fat cat sat on [the] mat.`",
+            "refs": [
+              {
+                "uid": "enUCOqkLk"
+              }
+            ],
+            "children": [
+              {
+                "string": "The regular expression `123` matches the string `123`. The regular expression is matched against an [[input string]] by [comparing each character] in the regular expression to each character [in the input string], one after another. Regular expressions are normally [[case-sensitive]] so the regular expression `The` [would not match the string] `the`.\n`\"The\" => The fat cat sat on the mat.`\n210311-18:20",
+                "create-time": 1615457952132,
+                ":block/refs": [
+                  {
+                    ":block/uid": "CgCA499jA"
+                  },
+                  {
+                    ":block/uid": "sPWKe717g"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "CgCA499jA"
+                  },
+                  {
+                    "uid": "sPWKe717g"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "lVo3Rxjsx",
+                "edit-time": 1615458175871,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Explanation ",
+                "create-time": 1615458300616,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "/ the / g\nthe matches the characters `the` literally (case sensitive)",
+                    "create-time": 1615458304487,
+                    "uid": "_QIkeJAO7",
+                    "edit-time": 1615458437441,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[global pattern flag]]s",
+                    "refs": [
+                      {
+                        "uid": "cniEQRB2D"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "g [[modifier]]: **g**lobal. All matches (don't return after first match)",
+                        "refs": [
+                          {
+                            "uid": "teTCoB66_"
+                          }
+                        ],
+                        "uid": "fDepfDt64",
+                        "edit-time": 1615458460667,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "teTCoB66_"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "KByaHxySY",
+                    "edit-time": 1615458471441,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "cniEQRB2D"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "_EJJ0ogsx",
+                "edit-time": 1615458304268,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "zsApLq7eb",
+            "edit-time": 1615457940756,
+            ":block/refs": [
+              {
+                ":block/uid": "enUCOqkLk"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "bw-i5eeuA",
+        "edit-time": 1615457855796,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "2. [Meta Characters]([[meta character]])",
+        "heading": 2,
+        "refs": [
+          {
+            "uid": "AHLY5C3M2"
+          }
+        ],
+        "uid": "OLhxmd0zm",
+        "edit-time": 1615463620068,
+        ":block/refs": [
+          {
+            ":block/uid": "AHLY5C3M2"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -83682,6 +83965,593 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615457730529,
+    "title": "uppercase letter",
+    "uid": "bZk6PyYzo",
+    "edit-time": 1615457730536,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615457881138,
+    "title": "character pattern",
+    "uid": "enUCOqkLk",
+    "edit-time": 1615457881139,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615457981700,
+    "title": "input string",
+    "uid": "CgCA499jA",
+    "edit-time": 1615457981701,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615458000822,
+    "title": "case-sensitive",
+    "uid": "sPWKe717g",
+    "edit-time": 1615458000824,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615458460675,
+    "title": "modifier",
+    "uid": "teTCoB66_",
+    "edit-time": 1615458460676,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615458471443,
+    "title": "global pattern flag",
+    "uid": "cniEQRB2D",
+    "edit-time": 1615458471443,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463152479,
+    "title": "square bracket",
+    "uid": "SFR2ANgor",
+    "edit-time": 1615463152479,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463163903,
+    "title": "special meaning",
+    "uid": "Qe1yCCSU4",
+    "edit-time": 1615463163905,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463208087,
+    "title": "single character",
+    "uid": "fDhjotzow",
+    "edit-time": 1615463208087,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463285893,
+    "title": "character class",
+    "uid": "rZuprQYmM",
+    "edit-time": 1615463285894,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463340117,
+    "title": "negated character class",
+    "uid": "1NbRnsGTy",
+    "edit-time": 1615463340119,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463403705,
+    "title": "preceding symbol",
+    "uid": "svl5lkNIr",
+    "edit-time": 1615463403706,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463412054,
+    "title": "optional",
+    "uid": "aOJ8NlErf",
+    "edit-time": 1615463412055,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463620071,
+    "title": "meta character",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Meta characters are the [building blocks] of regular expressions. Meta characters [do not stand for themselves] but instead are [interpreted in some special way]. Some meta characters have a [[special meaning]] and are written inside [[square bracket]]s. The meta characters are as follows:\n210311-19:50",
+        "refs": [
+          {
+            "uid": "SFR2ANgor"
+          },
+          {
+            "uid": "Qe1yCCSU4"
+          }
+        ],
+        "children": [
+          {
+            "string": ".\tPeriod matches any [[single character]] except a [[line break]].\n[ ]\t[[character class]]. [Matches any character contained] between the square brackets.\n[^ ]\t[[negated character class]]. Matches any character that is [not contained between the square brackets]\n*\tMatches 0 [or more repetitions of] the [[preceding symbol]].\n+\tMatches 1 or more repetitions of the preceding symbol.\n?\tMakes the preceding symbol [[optional]].",
+            "create-time": 1615463175236,
+            ":block/refs": [
+              {
+                ":block/uid": "_4o1Ujzf4"
+              },
+              {
+                ":block/uid": "fDhjotzow"
+              },
+              {
+                ":block/uid": "rZuprQYmM"
+              },
+              {
+                ":block/uid": "1NbRnsGTy"
+              },
+              {
+                ":block/uid": "svl5lkNIr"
+              },
+              {
+                ":block/uid": "aOJ8NlErf"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_4o1Ujzf4"
+              },
+              {
+                "uid": "fDhjotzow"
+              },
+              {
+                "uid": "rZuprQYmM"
+              },
+              {
+                "uid": "1NbRnsGTy"
+              },
+              {
+                "uid": "svl5lkNIr"
+              },
+              {
+                "uid": "aOJ8NlErf"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "WNUPfJawV",
+            "edit-time": 1615463412051,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "{n,m}\t[[brace]]s. Matches at least \"n\" but not more than \"m\" repetitions of the preceding symbol.\n(xyz)\t[[character group]]. Matches the characters xyz in that [[exact order]].\n|\talternation. Matches either the characters before or [the characters after the symbol].\n\\\t[Escapes the next character]([[escape character]]). This allows you to match [[reserved character]]s `[ ] ( ) { } . * + ? ^ $ \\ |`\n^\tMatches [the beginning of the input].\n$\tMatches [the end of the input].\n210311-20:00",
+            "create-time": 1615463298681,
+            ":block/refs": [
+              {
+                ":block/uid": "S_Z7636cs"
+              },
+              {
+                ":block/uid": "-xB6C0hB9"
+              },
+              {
+                ":block/uid": "GskWpYldP"
+              },
+              {
+                ":block/uid": "96bXsnB_T"
+              },
+              {
+                ":block/uid": "4sTOfjajU"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S_Z7636cs"
+              },
+              {
+                "uid": "-xB6C0hB9"
+              },
+              {
+                "uid": "GskWpYldP"
+              },
+              {
+                "uid": "96bXsnB_T"
+              },
+              {
+                "uid": "4sTOfjajU"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "UhfcJ06sX",
+            "edit-time": 1615464032568,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "4CS9g_CSm",
+        "edit-time": 1615463529897,
+        ":block/refs": [
+          {
+            ":block/uid": "SFR2ANgor"
+          },
+          {
+            ":block/uid": "Qe1yCCSU4"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "2.1 The Full Stop",
+        "heading": 3,
+        "children": [
+          {
+            "string": "The [[full stop]] `.` is [the simplest example of] a meta character. The meta character `.` matches any single character. It will not match [[return character]] or [[newline character]]s (aka except for [[line terminator]]s `\\n`). 终止器; 端符 For example, the regular expression `.ar` means: any character, followed by the letter a, followed by the letter r.\n\".ar\" => The **car** **par**ked in the **gar**age.\n[Test the regular expression](https://regex101.com/r/xc9GkU/1)",
+            "refs": [
+              {
+                "uid": "FJ9WV6Jup"
+              },
+              {
+                "uid": "5Al-yuUcw"
+              },
+              {
+                "uid": "aRLgsd634"
+              },
+              {
+                "uid": "HxDbvTywH"
+              }
+            ],
+            "uid": "ufGwo48-G",
+            "edit-time": 1615464425111,
+            ":block/refs": [
+              {
+                ":block/uid": "FJ9WV6Jup"
+              },
+              {
+                ":block/uid": "5Al-yuUcw"
+              },
+              {
+                ":block/uid": "aRLgsd634"
+              },
+              {
+                ":block/uid": "HxDbvTywH"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2IW0brw06",
+        "edit-time": 1615464077910,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "AHLY5C3M2",
+    "edit-time": 1615463620071,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463811404,
+    "title": "brace",
+    "uid": "S_Z7636cs",
+    "edit-time": 1615463811405,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463843127,
+    "title": "exact order",
+    "uid": "-xB6C0hB9",
+    "edit-time": 1615463843128,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463855054,
+    "title": "character group",
+    "uid": "GskWpYldP",
+    "edit-time": 1615463855055,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463911534,
+    "title": "reserved character",
+    "uid": "96bXsnB_T",
+    "edit-time": 1615463911535,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615463927104,
+    "title": "escape character",
+    "uid": "4sTOfjajU",
+    "edit-time": 1615463927106,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615464125496,
+    "title": "return character",
+    "uid": "FJ9WV6Jup",
+    "edit-time": 1615464125498,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615464125496,
+    "title": "newline character",
+    "uid": "5Al-yuUcw",
+    "edit-time": 1615464125498,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615464328872,
+    "title": "line terminator",
+    "uid": "aRLgsd634",
+    "edit-time": 1615464328873,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615464425114,
+    "title": "full stop",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615464601232,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "adv. (BrE) also period NAmE, BrE",
+            "create-time": 1615464605030,
+            "uid": "t82fZZyKn",
+            "edit-time": 1615464605034,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "(informal) used at the end of a sentence to emphasize that there is nothing more to say about a subject",
+            "create-time": 1615464605030,
+            "uid": "KVUz6dV1E",
+            "edit-time": 1615464605034,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I've already told you─we can't afford it, full stop!",
+            "create-time": 1615464605030,
+            "uid": "iTRZi28YF",
+            "edit-time": 1615464605034,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "WordNet: a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations.",
+            "create-time": 1615464605030,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "in England they call a period a stop.",
+                "create-time": 1615464605030,
+                "uid": "M1IyR-g64",
+                "edit-time": 1615464605034,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Synonym: period, point, stop, full point",
+                "create-time": 1615464605030,
+                "uid": "kT1Su1ZI3",
+                "edit-time": 1615464605034,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "RzahV7U4B",
+            "edit-time": 1615464605034,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Remember to put a full stop after the last word. blog.sina.com.cn",
+            "create-time": 1615464605030,
+            "uid": "90KWxTFLP",
+            "edit-time": 1615464605034,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The car come to a full stop at the traffic light. www.[dictall].com",
+            "create-time": 1615464605030,
+            "uid": "max4qVlOU",
+            "edit-time": 1615464609566,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Every sentence should have a full stop on the end. ",
+            "create-time": 1615464605030,
+            "uid": "BavBMHNLz",
+            "edit-time": 1615464605034,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Come to a full stop, not a rolling stop. bbs.jysq.net",
+            "create-time": 1615464605030,
+            "uid": "ZvOHVO3Le",
+            "edit-time": 1615464605034,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "b2k77beVg",
+        "edit-time": 1615464604139,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "HxDbvTywH",
+    "edit-time": 1615464425115,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

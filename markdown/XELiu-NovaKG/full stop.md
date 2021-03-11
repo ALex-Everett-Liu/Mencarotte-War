@@ -1,0 +1,11 @@
+- dictionary 
+    - adv. (BrE) also period NAmE, BrE
+    - (informal) used at the end of a sentence to emphasize that there is nothing more to say about a subject
+    - I've already told you─we can't afford it, full stop!
+    - WordNet: a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations.
+        - in England they call a period a stop.
+        - Synonym: period, point, stop, full point
+    - Remember to put a full stop after the last word. blog.sina.com.cn
+    - The car come to a full stop at the traffic light. www.[dictall].com
+    - Every sentence should have a full stop on the end. 
+    - Come to a full stop, not a rolling stop. bbs.jysq.net

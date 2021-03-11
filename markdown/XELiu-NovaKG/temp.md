@@ -2,8 +2,7 @@
     - 
     - 
 - ...
-    - idea design
-    - idea problem
+    - 
 - todo today (real-time view)
     - weibo; 比特币; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵

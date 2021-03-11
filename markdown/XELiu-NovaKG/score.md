@@ -367,6 +367,7 @@ http://corpus.zhonghuayuwen.org/index.aspx
                 - {{[[TODO]]}} A framework for developing all of your Roam Research [CSS themes] and [UX enhancements] [with ease using] [modern development tools](https://github.com/roam-mosaic/theme-boilerplate).
                 - GTD 不[管理时间]，它管理的是我们的[注意力](https://zhuanlan.zhihu.com/p/350662573)。在任何一个会涉及到 GTD [英文论坛]上，「GTD = 注意力管理」早已是一个[基本共识]了，而[中文网络]上的 GTD 却一直跟“时间管理”[绑定在一起]，就跟「情商」一词一直[被大众曲解为]「会来事儿」一样。我也不是非要[死抠定义]，但[注意力管理]和[时间管理][真的是两回事]。
                 - [前段时间][上网冲浪]的时候[突然想到]，做个像 [workflowy] 一样的[主页](https://www.yuque.com/idelem/zt/ny150b)也不错，所有内容都放在同一个页面里，一层层点击展开，渐入佳境（唯一的问题是对手机流量上网不友好）。既然 workflowy 自带导出功能，思路自然是把 workflowy 本身作为内容编辑器，再写脚本修改 html 文件。稍加研究后就实现了，在此记录下实现过程。
+                - [Show HN: Dendron – A Hierarchical Tool for Thought](https://dendron.so/) - [URL](https://news.ycombinator.com/item?id=24898373)
                 - {{[[TODO]]}} help docs || roam — Upload Image, Audio, or File 
 obsidian — Link to blocks
                 - {{[[TODO]]}} 关于[思源笔记][上手][自定义主题]的[简单引导](https://www.bilibili.com/video/BV1bf4y167ge) -- css tutorial 
@@ -406,6 +407,7 @@ AE 始终不会用
 
 是的，超链接是[可以做到一样的效果]，但是这个引用的意义在于[可以自动更新]。
                 - 我一般[把数据放在] [Dropbox 目录]里，[多设备同步]也靠 Dropbox，[本地硬盘][突然毁了]也不怕。但是[本地图片插入][不方便发布]，本来想用 picgo＋github 弄个[图床]来应付那些[需要发布的图片]，后来用上了语雀就感觉没必要用图床了，至少[发布在墙内的东西][不用多折腾了](https://www.yuque.com/deerain/gannbs/yodrsd)
+                - PS：以前总结过一小段 joplin 用户们[就这个问题][跟开发者的讨论](https://github.com/siyuan-note/siyuan/issues/1139?utm_source=ld246.com)，其实用户们[心里也非常清楚][数据真加密]不太好弄，他们[只是需要][把界面锁一锁]，[能挡住][身边绝大多数][不懂技术的人]就行了：[yuque](https://www.yuque.com/deerain/gannbs/ta1oz1#TE7nq) 。
                 - {{[[TODO]]}} [RoamCN talk 01](https://m.ximalaya.com/share/sound/333664786?shrh5=browser&shrdv=083641fc-a085-4471-a13b-9e8faac3a8e4&shrid=KJIZJL8OPM0CPVHZDEE&shrdh=1&shrpid=Y7XOCAGLCG1C8LJZIJK)
                 - Roam Research [卡片式写作](https://roamresearch.com/#/app/RoamCN/page/JSkXgZncH)主题
 https://roamresearch.com/#/app/help/page/H7zPJSTgv
@@ -674,5 +676,6 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                 - 同样地，如果1895年的日本也失败了，那么就没有了朝鲜和台湾，政府[财政崩溃]，北方还会[丢一些国土]给俄国；[日英同盟]根本不用想，取而代之的会是[对抗俄国]的清英同盟；然后的日本是20年代的大地震和三十年代的经济危机，再然后就变成今天的越南这个样子。
                 - 遗憾的是，中国在[挫败]越南[野心]后，和当年[打败印度]一样，由于[自身能力所限]，并没有进一步给予越南[真正疼痛的惩罚]，既没有把越南国土[一分为二]，也没有要求[割地赔款]。这无疑让[周边国家]，比如印度产生了“侵略中国是一种[零成本行为]”的想法。
             - 俄罗斯虽然大部分[中小城市](https://www.zhihu.com/pin/1342963440370020352)[破落] 年轻人[工作机会]很少少 也不住[大house]而是[挤公寓] 但[基础福利]肉类牛奶[价格低廉][生育补贴][多管齐下] 让很多[单亲妈妈]也能靠两千块工资 以[充足肉奶蛋白]养大孩子 得到良好的[基础教育] 这在我们 和韩国难以想象 在[东亚教育竞赛][难以避免]的状况下 未来唯一有效[刺激生育率]的 就是[未婚生育] [社会伦理]上接受容纳 [经济福利]上鼓励 其他手段[都是白搭]
+            - Boy in China throws firecracker into manhole, [causing explosion](http://www.ltaaa.com/article/34673)
             - {{[[TODO]]}} [baidu chuanda](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9577166828061340249%22%7D&n_type=1&p_from=4)
 https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10220506341737650114%22%7D&n_type=0&p_from=1
