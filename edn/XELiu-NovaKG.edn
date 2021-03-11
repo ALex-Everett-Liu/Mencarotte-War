@@ -88,7 +88,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 1,
+      :order 0,
       :content-id "MQYWiGTyQ"},
      "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66"
      {:page-uid "WnHQsRcsa",
@@ -96,7 +96,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 2,
+      :order 1,
       :content-id "WnHQsRcsa"},
      "uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
      {:page-uid "Vj9Rpr3De",
@@ -104,10 +104,10 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 3,
+      :order 2,
       :content-id "Vj9Rpr3De"}},
     :roam/js {:active-blocks #{"OrKb9pc_c"}}}
-   536911461]
+   536913841]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [4 :block/uid "01-30-2021" 536870916]
   [4 :create/time 1611962030919 536870916]
@@ -1417,6 +1417,7 @@
   [3902 :node/title "temp" 536887762]
   [3902 :page/sidebar 2 536887836]
   [3904 :block/children 8804 536906042]
+  [3904 :block/children 10449 536913845]
   [3904 :block/open true 536909549]
   [3904 :block/order 1 536906005]
   [3904 :block/page 3902 536887766]
@@ -31232,8 +31233,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuidf4ae204e-cf52-449b-ab63-80bc1ba45344"
-   536913839]
+   "uuid5c040b2f-4403-4ef1-aac4-e404f4692353"
+   536913848]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -51852,11 +51853,11 @@
   [8804 :block/page 3902 536905883]
   [8804 :block/parents 3902 536905883]
   [8804 :block/parents 3904 536906043]
-  [8804 :block/string "" 536913839]
+  [8804 :block/string "idea design" 536913844]
   [8804 :block/uid "MgDaEudbv" 536905882]
   [8804 :create/time 1614621178366 536905882]
   [8804 :create/user 3 536905882]
-  [8804 :edit/time 1615439115747 536913839]
+  [8804 :edit/time 1615455627097 536913844]
   [8804 :edit/user 3 536905882]
   [8805 :block/children 8806 536905892]
   [8805 :block/open false 536905973]
@@ -68035,4 +68036,15 @@
   [10448 :create/user 3 536913833]
   [10448 :edit/time 1615438812964 536913833]
   [10448 :edit/user 3 536913833]
-  [10448 :node/title "validate the username" 536913833]]}
+  [10448 :node/title "validate the username" 536913833]
+  [10449 :block/open true 536913845]
+  [10449 :block/order 1 536913845]
+  [10449 :block/page 3902 536913846]
+  [10449 :block/parents 3902 536913846]
+  [10449 :block/parents 3904 536913846]
+  [10449 :block/string "idea problem" 536913848]
+  [10449 :block/uid "_nDvHNJFZ" 536913845]
+  [10449 :create/time 1615455627536 536913845]
+  [10449 :create/user 3 536913845]
+  [10449 :edit/time 1615455633523 536913848]
+  [10449 :edit/user 3 536913845]]}
