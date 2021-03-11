@@ -5337,7 +5337,29 @@
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
                         "uid": "6WgpUndts",
-                        "edit-time": 1614968462371,
+                        "edit-time": 1615482224992,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "{{[[TODO]]}} roam js extensions\n[roamhacks](https://roamhacks.com/keyboard-shortcuts-roam/)",
+                        "create-time": 1615482226321,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "lEbCGvfCE",
+                        "edit-time": 1615482266120,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -8985,7 +9007,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615457792804,
+            "edit-time": 1615480827132,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -82004,6 +82026,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[css font]]\n210311-23pm",
+        "create-time": 1615478150521,
+        ":block/refs": [
+          {
+            ":block/uid": "k5JaF4MXm"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "k5JaF4MXm"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "tIqfi9m2F",
+        "edit-time": 1615478155942,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "03-11-2021",
@@ -83944,6 +83988,76 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "edit-time": 1615486261651,
+            "children": [
+              {
+                "edit-time": 1615486271198,
+                "children": [
+                  {
+                    "string": "((3ODxpukAY))",
+                    "create-time": 1615486271192,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3ODxpukAY"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "3ODxpukAY"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "Ewj4eUL6v",
+                    "edit-time": 1615486280542,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "CuSdhvxbL"
+                  }
+                ],
+                "uid": "sHAuiagYo",
+                ":block/refs": [
+                  {
+                    ":block/uid": "CuSdhvxbL"
+                  }
+                ],
+                "string": "((CuSdhvxbL))",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1615486261645,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "OLhxmd0zm"
+              }
+            ],
+            "uid": "tP9Nqtm3Y",
+            ":block/refs": [
+              {
+                ":block/uid": "OLhxmd0zm"
+              }
+            ],
+            "string": "((OLhxmd0zm))",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615486261053,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "xU1orxe7L",
@@ -84400,7 +84514,7 @@
             }
           },
           {
-            "string": "{n,m}\t[[brace]]s. Matches at least \"n\" but not more than \"m\" repetitions of the preceding symbol.\n(xyz)\t[[character group]]. Matches the characters xyz in that [[exact order]].\n|\talternation. Matches either the characters before or [the characters after the symbol].\n\\\t[Escapes the next character]([[escape character]]). This allows you to match [[reserved character]]s `[ ] ( ) { } . * + ? ^ $ \\ |`\n^\tMatches [the beginning of the input].\n$\tMatches [the end of the input].\n210311-20:00",
+            "string": "{n,m}\t[[brace]]s. Matches at least \"n\" but not more than \"m\" repetitions of the preceding symbol.\n(xyz)\t[[character group]]. Matches the characters xyz in that [[exact order]].\n|\t[[alternation]]. Matches either the characters before or [the characters after the symbol].\n\\\t[Escapes the next character]([[escape character]]). This allows you to match [[reserved character]]s `[ ] ( ) { } . * + ? ^ $ \\ |`\n^\tMatches [the beginning of the input].\n$\tMatches [the end of the input].\n210311-20:00",
             "create-time": 1615463298681,
             ":block/refs": [
               {
@@ -84417,6 +84531,9 @@
               },
               {
                 ":block/uid": "4sTOfjajU"
+              },
+              {
+                ":block/uid": "pW10EFwGf"
               }
             ],
             "refs": [
@@ -84434,13 +84551,16 @@
               },
               {
                 "uid": "4sTOfjajU"
+              },
+              {
+                "uid": "pW10EFwGf"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "UhfcJ06sX",
-            "edit-time": 1615464032568,
+            "edit-time": 1615485924425,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -84462,7 +84582,7 @@
       },
       {
         "string": "2.1 The Full Stop",
-        "heading": 3,
+        "heading": 2,
         "children": [
           {
             "string": "The [[full stop]] `.` is [the simplest example of] a meta character. The meta character `.` matches any single character. It will not match [[return character]] or [[newline character]]s (aka except for [[line terminator]]s `\\n`). 终止器; 端符 For example, the regular expression `.ar` means: any character, followed by the letter a, followed by the letter r.\n\".ar\" => The **car** **par**ked in the **gar**age.\n[Test the regular expression](https://regex101.com/r/xc9GkU/1)",
@@ -84503,6 +84623,82 @@
         ],
         "uid": "2IW0brw06",
         "edit-time": 1615464077910,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "2.2 Character Sets",
+        "heading": 2,
+        "children": [
+          {
+            "string": "Character sets are also called character classes. Square brackets are [used to specify] [[character set]]s. Use a hyphen inside a character set to [specify the characters' range]. The order of the [[character range]] inside the square brackets doesn't matter. For example, the regular expression `[Tt]he` means: an uppercase T or lowercase t, followed by the letter h, followed by the letter e.\n\"[Tt]he\" => **The** car parked in **the** garage.",
+            "refs": [
+              {
+                "uid": "YUa6iRp8L"
+              },
+              {
+                "uid": "Rw_e4M5u4"
+              }
+            ],
+            "uid": "s-fCX6WDH",
+            "edit-time": 1615486051399,
+            ":block/refs": [
+              {
+                ":block/uid": "YUa6iRp8L"
+              },
+              {
+                ":block/uid": "Rw_e4M5u4"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A period inside a character set, however, means a [[literal period]]. The regular expression `ar[.]` means: a lowercase character a, followed by the letter r, followed by a period . character.\n\"ar[.]\" => A garage is a good place to park a c**ar.**\n210312-02:10",
+            "create-time": 1615486055462,
+            ":block/refs": [
+              {
+                ":block/uid": "_1VmO2tOX"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_1VmO2tOX"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "8Vym6Ijz8",
+            "edit-time": 1615486295861,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "2.2.1 Negated Character Sets",
+            "heading": 3,
+            "children": [
+              {
+                "string": "In general, the caret symbol represents the start of the string, but when it is typed after the opening square bracket it negates the character set. For example, the regular expression [^c]ar means: any character except c, followed by the character a, followed by the letter r.",
+                "uid": "SO3U81w6x",
+                "edit-time": 1615486233678,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "3ODxpukAY",
+            "edit-time": 1615486233678,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CuSdhvxbL",
+        "edit-time": 1615485889151,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -84637,10 +84833,10 @@
             }
           },
           {
-            "string": "(informal) used at the end of a sentence to emphasize that there is nothing more to say about a subject",
+            "string": "(informal) [used at the end of a sentence] to emphasize that [there is nothing more to say] [about a subject]",
             "create-time": 1615464605030,
             "uid": "KVUz6dV1E",
-            "edit-time": 1615464605034,
+            "edit-time": 1615479095628,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -84661,11 +84857,7 @@
             }
           },
           {
-            "string": "WordNet: a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations.",
-            "create-time": 1615464605030,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
+            "edit-time": 1615479152553,
             "children": [
               {
                 "string": "in England they call a period a stop.",
@@ -84692,17 +84884,43 @@
                 }
               }
             ],
+            "refs": [
+              {
+                "uid": "6dhZuBQYQ"
+              },
+              {
+                "uid": "zjXFtuL4m"
+              },
+              {
+                "uid": "rOtfGgxxp"
+              }
+            ],
             "uid": "RzahV7U4B",
-            "edit-time": 1615464605034,
+            ":block/refs": [
+              {
+                ":block/uid": "6dhZuBQYQ"
+              },
+              {
+                ":block/uid": "zjXFtuL4m"
+              },
+              {
+                ":block/uid": "rOtfGgxxp"
+              }
+            ],
+            "string": "WordNet: a [[punctuation mark]] (.) [placed at the end of] a [[declarative sentence]] to [indicate a full stop] or after [[abbreviation]]s.",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615464605030,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "Remember to put a full stop after the last word. blog.sina.com.cn",
+            "string": "Remember to [put a full stop] [after the last word]. blog.sina.com.cn",
             "create-time": 1615464605030,
             "uid": "90KWxTFLP",
-            "edit-time": 1615464605034,
+            "edit-time": 1615479173843,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -84711,10 +84929,10 @@
             }
           },
           {
-            "string": "The car come to a full stop at the traffic light. www.[dictall].com",
+            "string": "The car [come to a full stop] [at the traffic light]. www.[dictall].com",
             "create-time": 1615464605030,
             "uid": "max4qVlOU",
-            "edit-time": 1615464609566,
+            "edit-time": 1615479181339,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -84723,10 +84941,10 @@
             }
           },
           {
-            "string": "Every sentence should have a full stop on the end. ",
+            "string": "Every sentence should [have a full stop on the end]. ",
             "create-time": 1615464605030,
             "uid": "BavBMHNLz",
-            "edit-time": 1615464605034,
+            "edit-time": 1615479185770,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -84735,10 +84953,10 @@
             }
           },
           {
-            "string": "Come to a full stop, not a rolling stop. bbs.jysq.net",
+            "string": "Come to a full stop, not a [rolling stop]. bbs.jysq.net",
             "create-time": 1615464605030,
             "uid": "ZvOHVO3Le",
-            "edit-time": 1615464605034,
+            "edit-time": 1615479189444,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -84756,6 +84974,1053 @@
     ],
     "uid": "HxDbvTywH",
     "edit-time": 1615464425115,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615477662902,
+    "title": "css font",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[请问怎么改字体](https://ld246.com/article/1615284694218)",
+        "create-time": 1615477668563,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "首页 > [领域](https://ld246.com/domains) > 思源笔记 > 思源笔记求助问答 / Q&A",
+            "create-time": 1615477669725,
+            "uid": "U95Bh8Zvl",
+            "edit-time": 1615477697270,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1615478174762,
+            "children": [
+              {
+                "string": "```css\n    --b3-font-family: \"Helvetica Neue\", \"Luxi Sans\", \"DejaVu Sans\", \"Hiragino Sans GB\", \"Microsoft Yahei\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Noto Color Emoji\", \"Segoe UI Symbol\", \"Android Emoji\", \"EmojiSymbols\";\n    --b3-font-family-code: mononoki, Consolas, \"Liberation Mono\", Menlo, Courier, monospace, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Noto Color Emoji\", \"Segoe UI Symbol\", \"Android Emoji\", \"EmojiSymbols\";\n```",
+                "create-time": 1615477740005,
+                "uid": "BRc89qPLZ",
+                "edit-time": 1615478001033,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "第一句是[主界面]和[编辑器]，第二句是编辑器的「专家模式」。不过[字体修改后][导出到 PDF] 就需要[高级订阅]了。\n210311-23:51",
+                "uid": "YbT_RJ_tQ",
+                "edit-time": 1615478131980,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[programfan](https://ld246.com/member/programfan) • 1 天前 • 1 赞同  via Mac OS",
+                "create-time": 1615477852849,
+                "uid": "OhlZIjSX0",
+                "edit-time": 1615477864204,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "MDnTTz-_P"
+              }
+            ],
+            "uid": "oBeqr1NRc",
+            ":block/refs": [
+              {
+                ":block/uid": "MDnTTz-_P"
+              }
+            ],
+            "string": "先在「设置-> 主题」里面将[当前主题][设置为][自定义]，然后在 `~/.siyuan/appearance/themes/<主题名称>/custom.css` 里面修改前面的字体部分即可： #[[custom CSS]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615477718179,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "补充一句\n\n如果你[不确定][字体的名字]\n\n可以进入 `windows/font/`\n\n在[字体文件]上点`右键-属性-详细信息`\n\n`标题` 里面就是[放到 css 里面]的名字",
+            "create-time": 1615477872313,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "![](https://b3logfile.com/file/2021/03/image-dd39763f.png)",
+                "props": {
+                  "image-size": {
+                    "https://b3logfile.com/file/2021/03/image-dd39763f.png": {
+                      "width": 580,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1615478060405,
+                ":block/props": {
+                  ":image-size": {
+                    "https://b3logfile.com/file/2021/03/image-dd39763f.png": {
+                      ":width": 580,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "1YhNPElK1",
+                "edit-time": 1615478068441,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[walklty](https://ld246.com/member/walklty) • 1 天前 • 1 • 1 赞同 ",
+                "create-time": 1615477906621,
+                "uid": "QPq8xY-4C",
+                "edit-time": 1615477930262,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "raK-czW5R",
+            "edit-time": 1615478103188,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "EM8UKr7oz",
+        "edit-time": 1615477824438,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Obsidian [完全指南]之 [更换主题字体]",
+        "create-time": 1615477943986,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "css. font-family\n`--font-family-editor/preview(Obsidian.md): Hannotate SC (华康手札体), xx`",
+            "create-time": 1615477958085,
+            "uid": "Ilb03HkJ9",
+            "edit-time": 1615477969887,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "你网上搜索一下 下载安装 华康手札体 就好了",
+            "create-time": 1615477958085,
+            "uid": "giMV_3TCv",
+            "edit-time": 1615477958088,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Rp2OrwKE1",
+        "edit-time": 1615477981579,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "k5JaF4MXm",
+    "edit-time": 1615477662902,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615479139157,
+    "title": "punctuation mark",
+    "uid": "6dhZuBQYQ",
+    "edit-time": 1615479139164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615479149035,
+    "title": "declarative sentence",
+    "uid": "zjXFtuL4m",
+    "edit-time": 1615479149036,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615479152555,
+    "title": "abbreviation",
+    "uid": "rOtfGgxxp",
+    "edit-time": 1615479152557,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615479967859,
+    "title": "Deep Dive Into Roam's Data Structure - Why Roam is Much More Than a Note Taking App",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1615480528098,
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FK1l_3wAWVd.png?alt=media&token=f8db7c9f-25a4-4f6f-a3b9-dae01bc24b47)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FK1l_3wAWVd.png?alt=media&token=f8db7c9f-25a4-4f6f-a3b9-dae01bc24b47": {
+                  "width": 580,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1615480423461,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FK1l_3wAWVd.png?alt=media&token=f8db7c9f-25a4-4f6f-a3b9-dae01bc24b47": {
+                  ":width": 580,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "4L0V35B9u",
+            "edit-time": 1615480426943,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1HD_9KL1wz.png?alt=media&token=f9019d3f-8107-4b81-8d52-1fc07e428424)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1HD_9KL1wz.png?alt=media&token=f9019d3f-8107-4b81-8d52-1fc07e428424": {
+                  "width": 242,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1615480956442,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1HD_9KL1wz.png?alt=media&token=f9019d3f-8107-4b81-8d52-1fc07e428424": {
+                  ":width": 242,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "cqkbRvp4L",
+            "edit-time": 1615480958830,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "About Me",
+            "create-time": 1615480596869,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[My photo](https://4.bp.blogspot.com/-nw4OCH2kbDQ/X8ERO-M5gHI/AAAAAAAAv-o/Y01iOGaY04QHq5E2Vu4gt4Q0NIfWAe4KgCK4BGAYYCw/s94-pf/imgs%25252Fapp%25252FZsoltsBrain%25252FuEyR140L3_.jpg%253Falt%253Dmedia%2526token%253D57483b8b-0fb9-481a-a0e5-d234f21015bb)",
+                "create-time": 1615480596869,
+                "uid": "FH95A_8Ta",
+                "edit-time": 1615480611770,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Zsolt Viczián",
+                "create-time": 1615480596869,
+                "uid": "GxTGtFbgn",
+                "edit-time": 1615480596873,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "I am a father, a husband, a son, a brother, a friend, a colleague, a leader, a bookworm, a hiker, a biker, a unicyclist, 独轮车手 a speleologist, 洞穴探险家 **[and most of all] [a fellow traveler] [on the journey of life].** 在人生旅途上的一个同路人 I am an engineer by training and an IT professional in the [Oil and Gas Industry] by [[work experience]]. I love nature, I enjoy reading, and I prefer writing as my [primary tool for thinking].",
+                "create-time": 1615480596869,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kj8k5601B"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "kj8k5601B"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "OFFeGlFWV",
+                "edit-time": 1615480771586,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[VISIT PROFILE](https://www.blogger.com/profile/14509884396330044521) #profile",
+                "create-time": 1615480596869,
+                ":block/refs": [
+                  {
+                    ":block/uid": "wltid4jlt"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "wltid4jlt"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ApH9spp07",
+                "edit-time": 1615480633059,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "drm5m4jcG",
+            "edit-time": 1615480596873,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[January 24, 2021](https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html)",
+            "create-time": 1615480876585,
+            "uid": "jxmBUQXG4",
+            "edit-time": 1615480877730,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "bTUtSOID_"
+          },
+          {
+            "uid": "oMxxw5hwB"
+          },
+          {
+            "uid": "khLjIdA35"
+          },
+          {
+            "uid": "-jqd8uE8B"
+          },
+          {
+            "uid": "j8ovdJrQa"
+          }
+        ],
+        "uid": "kVYhTnDxi",
+        ":block/refs": [
+          {
+            ":block/uid": "bTUtSOID_"
+          },
+          {
+            ":block/uid": "oMxxw5hwB"
+          },
+          {
+            ":block/uid": "khLjIdA35"
+          },
+          {
+            ":block/uid": "-jqd8uE8B"
+          },
+          {
+            ":block/uid": "j8ovdJrQa"
+          }
+        ],
+        "string": "A blog about [thinking tools], [[business analysis]] techniques and models, algorithms of thought, note taking, [[journaling]], [[visual thinking]], [[mind mapping]], [[task management]] and productivity.\n210312-00:35",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615480311054,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Questions...",
+        "create-time": 1615481000599,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Which are the longest paragraphs in your graph?",
+            "uid": "DatMtFX9b",
+            "edit-time": 1615480893002,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Which pages did you edit or create last week?",
+            "uid": "hPOW0jgNK",
+            "edit-time": 1615480889826,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "How many [paragraphs of text] do you have in your database in total?",
+            "uid": "cXk-oGbgt",
+            "edit-time": 1615481058148,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Which pages do you have [under a given namespace]([[namespace]]) (e.g. meetings/)?",
+            "refs": [
+              {
+                "uid": "3wgxmzvm4"
+              }
+            ],
+            "uid": "cIfyobSpg",
+            "edit-time": 1615481076298,
+            ":block/refs": [
+              {
+                ":block/uid": "3wgxmzvm4"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "（译注：问题 1 可通过 [Roam Portal Chrome 插件](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/category/extensions%3Fhl%3Den) 查看，问题 2 可查看 [#Roam42](https://link.zhihu.com/?target=https%3A//roam42.com/) DB Stats，但[本文][将帮助你][深入理解]插件[背后的原理]。）\n210312-00:45",
+            "create-time": 1615481010609,
+            "uid": "DB2_ISRP-",
+            "edit-time": 1615481126597,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "AZj0y9sGm",
+        "edit-time": 1615481006241,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "【译】[深度解析] Roam [数据结构] —— 为什么 Roam [远不只是]一个[笔记应用](https://zhuanlan.zhihu.com/p/355844756)",
+        "create-time": 1615479984583,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "随着 [Roam Research](https://link.zhihu.com/?target=https%3A//roamresearch.com/) 的大热，双向链接和[基于 Block 的]笔记软件[层出不穷]，而他们（[葫芦笔记](https://link.zhihu.com/?target=https%3A//hulunote.com/)、[logseq](https://link.zhihu.com/?target=https%3A//logseq.com/)、[Athens](https://link.zhihu.com/?target=https%3A//github.com/athensresearch/athens)）[无一例外]都采用了 [Clojure 技术栈]的 [Datomic](https://link.zhihu.com/?target=https%3A//docs.datomic.com/on-prem/query/query.html)/[datascript](https://link.zhihu.com/?target=https%3A//github.com/tonsky/datascript) [Datalog](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/Datalog) 数据库，这[不免让我感到好奇]想要[深入探索一番]。本文就将[硬核解析] Roam [背后原理]，发掘 Roam 基于 Block 的[深层技术优势]，帮助你[迎接] Roam API 时代的到来！",
+            "create-time": 1615479986281,
+            "uid": "8FK8MFmu1",
+            "edit-time": 1615480077827,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "原文地址：[Deep Dive Into Roam's Data Structure - Why Roam is Much More Than a Note Taking App](https://link.zhihu.com/?target=https%3A//www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html) —— Zsolt Viczián",
+            "create-time": 1615480007570,
+            "uid": "4TWFURYQa",
+            "edit-time": 1615480007932,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[吕立青-JimmyLv](https://www.zhihu.com/people/JimmyLv)",
+            "children": [
+              {
+                "string": "想做产品，却误入[程序世界][爱上设计]的摄影师。 | 华渔教育",
+                "uid": "fJlzFgh8x",
+                "edit-time": 1615480178817,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "UX5H-VuTV",
+            "edit-time": 1615480159908,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "![](https://pic2.zhimg.com/v2-60409e3b1964a3d2a8389370f11366dc.jpg)",
+            "props": {
+              "image-size": {
+                "https://pic2.zhimg.com/v2-60409e3b1964a3d2a8389370f11366dc.jpg": {
+                  "width": 580,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1615480124502,
+            ":block/props": {
+              ":image-size": {
+                "https://pic2.zhimg.com/v2-60409e3b1964a3d2a8389370f11366dc.jpg": {
+                  ":width": 580,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "isiPANVv7",
+            "edit-time": 1615480127637,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "作者写了个 [Roam42 SmartBlock] [能够查询][所有的 Page] 页面，并[显示成一张表格]，而且表格上[日期相关的页面]（Daily Notes）还能[直接点击跳转](http://link.zhihu.com/?target=https%3A//roamresearch.com/%23/app/Zsolt-Blog/page/WUn5PuTDV)",
+            "create-time": 1615480222920,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "吕立青-JimmyLv (作者) 回复 [張永錫](https://www.zhihu.com/people/happytriber)",
+                "create-time": 1615480262434,
+                "uid": "EZUTiEYLt",
+                "edit-time": 1615480275425,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "A8bXPusBs",
+            "edit-time": 1615480255607,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Ohm8x31h7",
+        "edit-time": 1615480085988,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "IFH6k_GcA",
+    "edit-time": 1615479967860,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480343509,
+    "title": "business analysis",
+    "uid": "bTUtSOID_",
+    "edit-time": 1615480343517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480343509,
+    "title": "visual thinking",
+    "uid": "oMxxw5hwB",
+    "edit-time": 1615480343517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480343509,
+    "title": "mind mapping",
+    "uid": "khLjIdA35",
+    "edit-time": 1615480343517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480343509,
+    "title": "task management",
+    "uid": "-jqd8uE8B",
+    "edit-time": 1615480343517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480360285,
+    "title": "journaling",
+    "uid": "j8ovdJrQa",
+    "edit-time": 1615480360286,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480633061,
+    "title": "profile",
+    "uid": "wltid4jlt",
+    "edit-time": 1615480633069,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480771589,
+    "title": "work experience",
+    "uid": "kj8k5601B",
+    "edit-time": 1615480771596,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615480831946,
+    "title": "March 12th, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Deep Dive Into Roam's Data Structure - Why Roam is Much More Than a Note Taking App]]\n210312-00am",
+        "create-time": 1615480832875,
+        ":block/refs": [
+          {
+            ":block/uid": "IFH6k_GcA"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "IFH6k_GcA"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Whcu1Lqe9",
+        "edit-time": 1615480839119,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "03-12-2021",
+    "edit-time": 1615480831946,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615481076300,
+    "title": "namespace",
+    "uid": "3wgxmzvm4",
+    "edit-time": 1615481076301,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615482393152,
+    "title": "アカツキアライヴァル (Akatsuki Arrival)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "作詞：[Last Note.](https://w.atwiki.jp/hmiku/pages/15336.html)\n作曲：Last Note.\n編曲：Last Note.\n唄：初音ミク・巡音ルカ",
+        "create-time": 1615482400988,
+        "uid": "rvvgE9e4-",
+        "edit-time": 1615482714542,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "original upload ",
+        "create-time": 1615482672610,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[【初音ミク・巡音ルカ】アカツキアライヴァル【オリジナル】](https://www.nicovideo.jp/watch/sm17064620)",
+            "create-time": 1615482675507,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "**Feb 24, 02:00 AM** Post",
+                "create-time": 1615482688379,
+                "uid": "cSpX6UVYj",
+                "edit-time": 1615482689321,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Views: **1,255,438** Comments: **24,130** My List: **42,651**",
+                "create-time": 1615482689316,
+                "uid": "LIA0JKbYS",
+                "edit-time": 1615482692886,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "d3-SUBXnM",
+            "edit-time": 1615482677151,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FwvE3s-dX",
+        "edit-time": 1615482675420,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "曲紹介",
+        "heading": 3,
+        "children": [
+          {
+            "string": "> **キミの代役は、他の誰にもできはしないから────**",
+            "uid": "7EC2Se8qb",
+            "edit-time": 1615482431222,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[音楽ユニット] Last Note. の5作目。",
+            "uid": "apPpmQf4Z",
+            "edit-time": 1615482446737,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "これは多分、[前を向いて]進んでいくための歌。（作者コメ転載）",
+            "uid": "vAnDsjhzF",
+            "edit-time": 1615482456889,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "ギターを [中西](https://w.atwiki.jp/hmiku/pages/17130.html)氏 が、ベースを H.J.Freaks氏 が演奏。イラストを 空真氏 が、動画を [ke-sanβ](https://w.atwiki.jp/hmiku/pages/19437.html)氏 が、ロゴデザインを cao.氏 が手掛ける。",
+            "uid": "NfLdXCTfw",
+            "edit-time": 1615482407152,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "KARENTレーベルより[ダウンロード販売]が行われている。",
+            "children": [
+              {
+                "string": "流通：配信\n発売：2012年3月28日\n価格：￥150\nレーベル：[KARENT](http://karent.jp/album/1019)\nジャケットイラスト：[空真](http://piapro.jp/si_na_69)",
+                "create-time": 1615482472008,
+                "uid": "LCJTv554E",
+                "edit-time": 1615482499611,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[iTunes Storeで購入](http://itunes.apple.com/jp/album/akatsukiaraivu-aru/id512456822)",
+                "create-time": 1615482507273,
+                "uid": "Lg-GiWBOK",
+                "edit-time": 1615482508279,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "PEDUiXNeY",
+            "edit-time": 1615482516559,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "2017年7月15日、自身5曲目となる[ミリオン](https://w.atwiki.jp/hmiku/pages/4386.html)達成。現在ボカロオリジナル曲で[ミリオン]を達成している曲の一つである。",
+            "uid": "t3WMODbco",
+            "edit-time": 1615482523970,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "3PxXE2Nj7",
+        "edit-time": 1615482407152,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[歌詞](https://w.atwiki.jp/hmiku/pages/20630.html)",
+        "heading": 3,
+        "children": [
+          {
+            "string": "有刺鉄線の先　更なる高みへ　競い合う二人\n言葉などいらない　相手の横顔だけ見据えて\n\n与え合う刺激　手を伸ばしたなら届く距離にいても\n決してその手を取り合うことはない　互いを認め合ってた\n\n「キミの代役は他の誰にもできはしないから」\n\n共に走って知って嫉妬して　背中をずっと追っていって\n並んで『なんだこんなもんか』って笑って\n\n「果てはない」って言ってハッとした　最初は敵視してて\n素直になんてなんでなって、って不思議で\n\n“覚えてる？”\n「覚えているよ」\n「“キミと歩んだあの日々を”」\n\n",
+            "create-time": 1615482881612,
+            "uid": "Za8n1rOts",
+            "edit-time": 1615482881612,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "蹴躓きながら　さながら夜空に届きそうな程\n走り続けてた　例えもう隣に　ねぇ、キミがいなくなっても\n\n“なんでそんな悲しい目をして空を見上げるの？”\n\n先を走ってくっていったって　限度あるってなんて勝手\n走っても走っても追いつけないよ\n\n“ウチの勝ちッ！ってなんて冗談じゃん　ちゃんと笑って泣いてないで\n　目指す場所があって頑張っていたんでしょう？”\n\n「忘れない」\n“……忘れていいよ”\n「キミのその姿を」　“私の存在を”\n\n",
+            "create-time": 1615482943465,
+            "uid": "2B8nhk3D3",
+            "edit-time": 1615482943465,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "“振り向かないで。ここはまだ道の途中だから”　\n前を向こう　辛いけどキミが望むのならば…！\n\n隣でもっともっともっとって　一緒にずっとずっとずっと\n進めると理屈なく信じてた\nどうしてなんでなんでなんでって　喚いてたってなんもなくて\n手を伸ばしてももう届かない距離\n\n共に走って知って嫉妬して　背中をずっと追っていって\n並んで『なんだこんなもんか』って笑って\n先を走ってくっていったって　限度あるってなんて勝手\n走っても走っても追いつけない\n忘れない───忘れないから。最高のライバルを\n\n",
+            "create-time": 1615482603044,
+            "uid": "166lAlyRK",
+            "edit-time": 1615482943473,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[＋]色つき歌詞\nミク＝緑　ルカ＝桃　2人＝黒",
+            "uid": "hTC1vvTQa",
+            "edit-time": 1615482603051,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "_CuTDpnHG",
+        "edit-time": 1615482721798,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "コメント",
+        "heading": 3,
+        "children": [
+          {
+            "string": "+コメント 2012\n+コメント 2013\n+コメント 2014",
+            "uid": "zXUM4Snoz",
+            "edit-time": 1615482631644,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "“〇|￣|＿ -- 編集者(笑) (2017-06-04 01:10:13)\r\n5年かけてミリオン！！おめでとうございます -- 名無しさん (2017-07-16 15:45:24)\r\nミリオンおめでとうございます！ -- 名無しさん (2017-07-17 03:20:41)\r\nかっこよすぎるーー！！ -- Lotas (2017-08-16 11:56:55)\r\nこれは神だ　DIVA買って良かった -- 名無しさん (2017-08-20 19:57:08)\r\nこの曲聴いたとき、めっちゃ感動しました！ -- 名前ない (2017-12-29 22:54:04)\r\n歌詞すこ…神すぎる -- りずみ (2018-01-29 15:45:48)\r\nこれを否定なんかできるはずがない -- 名無しさん (2018-04-03 21:52:25)\r\n私の友人のことを歌ったような歌です。泣けます。 -- しの (2018-09-26 17:28:13)",
+            "create-time": 1615482644565,
+            "uid": "iXCsQvmPG",
+            "edit-time": 1615482645113,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yBiqxtPJB",
+        "edit-time": 1615482614864,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ACT86vsn2",
+    "edit-time": 1615482393152,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615485911380,
+    "title": "character set",
+    "uid": "YUa6iRp8L",
+    "edit-time": 1615485911382,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615485924427,
+    "title": "alternation",
+    "uid": "pW10EFwGf",
+    "edit-time": 1615485924428,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615485988200,
+    "title": "character range",
+    "uid": "Rw_e4M5u4",
+    "edit-time": 1615485988201,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615486150880,
+    "title": "literal period",
+    "uid": "_1VmO2tOX",
+    "edit-time": 1615486150881,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
