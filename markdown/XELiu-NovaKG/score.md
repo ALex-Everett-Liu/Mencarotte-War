@@ -312,11 +312,17 @@ page attribute -- roam
                 - 谢谢你的喜欢。
 直播内容：唱见电台   直播时间：早8-11
 直播通知·交友·游戏开黑群：821783329，验证答案：鸽了呀
-            - {{[[TODO]]}} [ck3 meiz player and modder](https://space.bilibili.com/384016383)
-            - [特别鸣谢](https://www.bilibili.com/video/BV1Fy4y1J7fN)： 米勒投影地图作者 @MISAKA 在地图重置上的帮助；感谢蜂巢/霸主功能作者 @丶未来鸽技丿 的一些技术解答帮助。 感谢部分玩家的建议和群伙伴们的一些建议改进。
-                - 龙战三国1.1版本更新日志：
+            - game
+                - {{[[TODO]]}} [ck3 meiz player and modder](https://space.bilibili.com/384016383)
+                - [特别鸣谢](https://www.bilibili.com/video/BV1Fy4y1J7fN)： 米勒投影地图作者 @MISAKA 在地图重置上的帮助；感谢蜂巢/霸主功能作者 @丶未来鸽技丿 的一些技术解答帮助。 感谢部分玩家的建议和群伙伴们的一些建议改进。
+                    - 龙战三国1.1版本更新日志：
 
-                - 1.重置地图：原本是3072*3072嵌入到原版8192*4096的地图，现在在米勒投影作者指导下重置为4096*4096，地图裁了一半(本体直接少了几百M，CK3地图图片太多了)，但实际比列变大了，理论上减少了电脑加载压力。
+                    - 1.重置地图：原本是3072*3072嵌入到原版8192*4096的地图，现在在米勒投影作者指导下重置为4096*4096，地图裁了一半(本体直接少了几百M，CK3地图图片太多了)，但实际比列变大了，理论上减少了电脑加载压力。
+                - **outer wilds 简直是艺术品，这么小众太可惜了**
+                    - 对我来说这游戏就像在读阿西莫夫的《最后的问题》，是那种无论是读者还是作者都会很满意的作品。哪怕是在[灵感爆炸]的[独立游戏界]也很难再有了。
+                    - 实在玩不下去也可以云的。
+虽然会错过很棒的[景观探索]。
+但ow这种[装置串联的叙事]，超前[游戏界]的[科学原理]还有用[理性的笔触][绘制浪漫的姿态](https://bbs.saraba1st.com/2b/thread-1992654-2-1.html)。应该不会流失太多。
             - history
                 - {{[[TODO]]}} 中县干部那篇论文里08年就提到过，因为[计生](https://www.zhihu.com/question/394135987/answer/1683760019)给[第二代门阀]来了个[釜底抽薪]
                     - 因为刚刚计划生育的时候有钱人群体还没有形成，社会上层都是在严格计生的扫射范围之内，所以[上层家族]无法生产[足够多的人口]去[填补位置真空]。所以底层上升的通道还是非常开放的。所以大家会发现严格计生的那些年，每个人都好像充满了希望。
@@ -445,6 +451,11 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
 不过我主力是latex和pandas
                 - anaconda：conda的[压缩包](https://www.zhihu.com/question/404402864/answer/1692589822)。自带了一个名为base的[虚拟环境]，这个虚拟环境里[安装了]很多和[数据处理]有关的[python包]。
                     - 因为conda的[不同虚拟环境]使用的是[各自独立的] [python 解释器]，你可以在不同环境里安装[不同版本的python]，而virtualenv只是各自的python包[互相独立]，用的python是[同一个版本]。这一点不确定的同学可以参考[廖雪峰的教程]
+                - 已经更新[维护了十多年的] [正则表达式30分钟入门教程](https://link.zhihu.com/?target=https%3A//deerchao.net/tutorials/regex/regex.htm)，[最早就是]通过[这篇教程][入门]
+                    - O'rielly 的《精通正则表达式（Mastering Regular Expression）》第三版
+                    - [30分钟学正则](https://link.zhihu.com/?target=https%3A//von.sh/2017/11/29/learn-regex-in-30-minutes/)，[口水话]虽然多了一点，但也大致 cover [相关的概念]
+                    - 最后平时配合 [RegexBuddy: Learn, Create, Understand, Test, Use and Save Regular Expression](https://link.zhihu.com/?target=http%3A//www.regexbuddy.com/)（软件）
+                    - 为了方便使用，[所有的代码](https://zhuanlan.zhihu.com/p/35604997)采用的是 JavaScript，**你可以[随时开启]浏览器的[开发者工具]来[测试和学习]。**
             - game
                 - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
