@@ -1,0 +1,8 @@
+- [Tweet] by [@Jimmy_JingLv](https://twitter.com/Jimmy_JingLv) on [[February 18th, 2021]]:
+    - 📮 Roam Newsletter 漫游研究所周报 # 2021W08
+    - - # RoamCN2021W08 #RoamCN # WeeklyNewsletter
+    - - #roamcult # LearnInPublic # LearnWithJimmy # Zettelkasten
+    - - [@cn_roam](https://twitter.com/cn_roam) [@RoamResearch](https://twitter.com/RoamResearch) [roam-cn/roamcult.vip](http://roamcult.vip/)
+- [Roam 插件] [[Roam Portal]] 搜索[支持正则表达式]，且[支持中文搜索]，只是[字符统计页面][暂未能支持中文]
+    - 2/ [On the more useful side](https://twitter.com/DharamKapila/status/1365770361086873607), use [[regular expression]]s to [make complex searches] within your entire Roam graph! :) 
+        - A special thanks to [@zsviczian](https://twitter.com/zsviczian), and his Roam graph, which [helped me understand] [how to build this].
