@@ -306,6 +306,7 @@ page attribute -- roam
     - level 9
         - detail point 100 (pt9-100)
             - {{[[TODO]]}} [中石大][本科生]-哈工大研究生—2020[年度总结](https://www.bilibili.com/video/BV1ni4y1c7KG) -- dl
+            - Shanghai VLOG [#3](https://www.youtube.com/watch?v=M-zRrwcpfMg) daily vlog | Mall | Indian tea -- Ruchi
             - {{[[TODO]]}} [CJ木](https://space.bilibili.com/768041/dynamic)
             - **-菫時-** -- [bili](https://space.bilibili.com/796556)
                 - {{[[TODO]]}} 【Burefu × 菫時】[スキキライ](https://www.bilibili.com/video/BV1d741117Yd)【歌ってみた】 DL wyy
@@ -394,9 +395,25 @@ obsidian — Link to blocks
                     - HDD sentinel，有问题可以[自动报警]
                 - 之前有eBay上[获取数据]做[竞品分析]的需求，先是用 web scraper 来，试了一会没成功。
 后来用uibot来操作，直接用[可视化界面](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1974569)[抓数据][导入excel]里面，[批量操作][能节省很多工作]。用的是免费版本，它既然没找我要钱，我就替它义乌宣传下：我认为挺好用。
+                - css 字体
+https://www.runoob.com/css/css-font.html
+https://www.w3school.com.cn/css/css_font.asp
+https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Styling_text/Fundamentals
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family
+https://blog.codecamp.jp/css-font-family
+https://w3g.jp/sample/css/font-family
+https://segmentfault.com/a/1190000024568400
+                - body{font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;}
+                    - [解释](https://blog.csdn.net/u010429424/article/details/43270481)：arial字体几乎所有[操作系统]都支持，用来显示英文效果也不错；Hiragino Sans GB是苹果丽黑字体，现在用苹果电脑的用户也蛮多；Microsoft Yahei是微软雅黑字体，Win7自带，大家都懂的；sans-serif这个字体比较特殊，我个人认为是针对Linux系统的。
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
                 - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。
             - {{[[TODO]]}} **不是表字配狗，是王八瞪绿豆 [更新：一场智力的风暴]** [daxiong coser](https://bbs.saraba1st.com/2b/thread-1988448-1-1.html)
+            - {{[[TODO]]}} [markdown resume template](https://www.jianshu.com/p/94a20258b7bc)
+                - https://zhuanlan.zhihu.com/p/68455404
+                - {{[[TODO]]}} https://www.zhihu.com/question/20546890/answer/1240447494
+                - 利用 Pandoc 作为[转换引擎]，将用 Markdown 写的简历做[格式转换]，这样[投递时]无论对要求 PDF、DOC、DOCX、HTML 甚至 LATEX 格式你都可以很轻松的[只维护一份] [Markdown 格式]即可。
+                - 可以用 Markdown 来写[文字部分]，然后[用 CSS 排版]，用 [React 组件][增加互动][炫技部分]。
+            - [质感][星空灰]表格[简历模板](https://sc.chinaz.com/jianli/190412595860.htm)
         - detail point 99.99 (pt9-99.99)
             - note-taking
                 - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro
@@ -554,6 +571,7 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                     - 大家都在等[完颜晏]的结果
             - 目前发现的[犁鼻器退化](https://www.zhihu.com/question/445130804/answer/1737308352)的动物主要是龟鳖、鳄类，鸟类，还有哺乳动物中的[灵长类群体]里，龟鳖和鳄类的退化可能和它们的[水生环境]有关（想闻到[水溶性]的[气味分子]或[信息素]，需要[另一套][嗅觉系统]，鱼类就有闻出水中味道的本事），而鸟类和灵长类则恰好是[视觉系统]中对红色比较敏感的那一批，或许正是这种[独有的色彩]给我们提供了另一种[感知世界的能力]：异性是否[准备好交配]？看看[母猴子][肿大的红屁股]就知道了；女孩是否接受了我？她[羞红的脸]还不能说明问题吗？
                 - 有几项研究疑似发现了几类人的[性信息素]，分别来自[腋窝][分泌]的[固醇类物质]，女性[生殖器官]内分泌的几种酸，还有[疑似][作用于]犁鼻器的[乳腺分泌物]，但是都没有实际证据证明它们真的有效，也没有真的[分离出]其中的任何一种。目前还是一个[高度存疑的状态]
+            - 曾开在哈工大“黑店”里15年的[印度抛饼](https://www.bilibili.com/video/BV1AA411T7du)，[做外卖]依然[每天爆单]
             - {{[[TODO]]}} 清洗茶垢方法 -- 202009? zhihu page
         - detail point 99.97 (pt9-99.97)
             - {{[[TODO]]}} [SuperMemo + Obsidian](https://zhuanlan.zhihu.com/p/352413185)
@@ -636,6 +654,7 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                 - 3. 后面[就没看过书了]，[工作了][开始看了一点] W3C 的 [CSS 规范]。[查文档]主要就是 MDN / MSDN / [QuirksMode](https://link.zhihu.com/?target=http%3A//QuirksMode.org) / Can I Use / StackOverflow 等[在线资源]，包括一些博客的文章（CSS Tricks/ALA/...）。
                 - 4. CSS 的书说真的就看[完整看过一本]，接下来 [@CSS魔法](https://www.zhihu.com/people/22964042e90fd3fd3612455d98af3cd2) 翻译的《[CSS Secrets](https://link.zhihu.com/?target=https%3A//github.com/cssmagic/CSS-Secrets/)》可能会[搞来看看]（[广告费][请发微信红包]给我）。
                 - [自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…
+            - frosted glass 毛玻璃主题的[一些提示](https://ld246.com/article/1615547214602)
             - [日间小睡](https://www.yuque.com/deerain/wqpb2o/vho0cq)时长最好在 20~30 分钟，也就是一个[睡眠周期]内 4 个[睡眠阶段]的前 3 个[浅度睡眠阶段]。如果小睡超过 30 分钟就会[渐渐进入][深度睡眠状态]([一般流传的说法]是“不要超过 45 分钟否则就会进入深度睡眠”，我[查阅了相关文献]和[睡眠监测数据]，证实了那是[自媒体][以讹传讹的错误说法])，要是在深度睡眠阶段[被唤醒了]，[醒来后]会产生[睡眠惰性]。
         - detail point 99.98 (pt8-99.98)
             - 美国1929年[经济危机](https://www.zhihu.com/question/442923448/answer/1733542054)[哀鸿遍野]，而到了45年，美国[黄金储备]占了世界2/3。就比如，31~40年[日本侵略中国]十年间，美国一直再充当日本的优秀[后勤部长]，用美国[众议员][司各特]话讲，中国每死亡100个军民，就有55个死于[美国资本家][军火]之下。

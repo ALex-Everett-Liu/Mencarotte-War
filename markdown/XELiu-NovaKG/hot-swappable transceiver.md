@@ -1,0 +1,6 @@
+- dictionary 
+    - All of the [[hardware component]]s are hot-swappable. "www.[[ibm]].com"
+    - Other RAS features include dynamic [[firmware maintenance]] and hot-swappable [[disk bay]]s 磁盘托架 for [[server]]s and [[I/O drawer]]s. 
+    - In most cases, these are also hot-swappable, and are replaced as easy as "sliding in a new [dresser drawer]". bbs.voip88.com
+    - The new models feature [multiple hot-swappable hard drives] 特征 that provide [secure storage] of [recorded digital video]. www.[21csp].com.cn
+    - Based on the the OSGI dynamic modular support, making the system has highly dynamic and hot-swappable advantages compared to [traditional network applications]. www.[fabiao].net
