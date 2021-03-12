@@ -5659,6 +5659,32 @@
                         }
                       },
                       {
+                        "string": "Markdown 中的[转义字符](https://www.jianshu.com/p/4cbff8294250)",
+                        "create-time": 1615548683356,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "本文在[创作时使用的是] Obsidian。由于简书对于[HTML标签]支持[有所限制]，导致[排版效果][无法正常显示]。具体而言本文内容，体现于<code>标签[无法被正常渲染]，因此[相关涉及部分]只能依赖读者[自行调整和调试]，敬请原谅。",
+                            "create-time": 1615548570265,
+                            "uid": "PExfuIrsX",
+                            "edit-time": 1615548598830,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "MBiRD3pwd",
+                        "edit-time": 1615548693923,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "RoamEdit Manual - **4.3** [字符串映射](https://www.yuque.com/bu123/sk5f7o/olegde)",
                         "create-time": 1614437772590,
                         "uid": "dH5aIRPwU",
@@ -5754,6 +5780,30 @@
                         ],
                         "uid": "G-yWcKKFt",
                         "edit-time": 1613464513165,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "我的[笔记体系](https://www.douban.com/group/topic/214265487/)基于 PARA 和 MOC 的[构建思路]，其中[融入了]一些[自己的创造]，主要的[构建思想]是[将笔记构建流程化]，构建**文档与文档**的连接。",
+                        "create-time": 1615548745049,
+                        "uid": "XotCA0h8_",
+                        "edit-time": 1615548774087,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "有效[组织文档](https://www.jianshu.com/p/12c8fcb4bd3d)（核心需求）：[码字撰文]绝非[一篇一目]，[严谨之人]自然会[广建门类]，文章篇目倚照此类别[分而藏之]。但时间久远，文章之间即使联系紧密也会[慢慢淡忘]，[劳形于][案牍整理]之中难免[索然乏味]。如能善用PARA和MOC文档分类技术[3]，[关系图谱]就能将各篇目文章之间得反向链接和标签[网罗其中]，[联系和关节]也就[一目了然]。",
+                        "create-time": 1615548101782,
+                        "uid": "U3ylpJwIh",
+                        "edit-time": 1615548454274,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -9111,7 +9161,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615521674033,
+            "edit-time": 1615548646029,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -32497,11 +32547,201 @@
   {
     "create-time": 1612664610615,
     "title": "Roam42",
-    "uid": "gSfBpMTWo",
-    "edit-time": 1612664610616,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "edit-time": 1615543179128,
+        "children": [
+          {
+            "string": "[YouTube channel](https://www.youtube.com/channel/UClmpveyXiwZP3PlKpDKdGEA) #[[YouTube channel]]",
+            "create-time": 1609893620111,
+            ":block/refs": [
+              {
+                ":block/uid": "BTGHywDGh"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "BTGHywDGh"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "7Xe_RJm5w",
+            "edit-time": 1615543179128,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Roam public graph](https://roamresearch.com/#/app/roamhacker/page/-1s5kPhyX) ",
+            "create-time": 1609893629475,
+            "uid": "m_SZzBr8Z",
+            "edit-time": 1615543179128,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Q1K_7YiXT"
+          }
+        ],
+        "uid": "tRf306hx5",
+        ":block/refs": [
+          {
+            ":block/uid": "Q1K_7YiXT"
+          }
+        ],
+        "string": "[Contact me] on [Twitter] at [@RoamHacker](https://twitter.com/roamhacker) #RoamHacker",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1609893611682,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1615543240282,
+        "children": [
+          {
+            "string": "Roam42 is [a collection of tools] for [[power user]]s of Roam, a note-taking tool\nfor networked thought.\n210106-08:47",
+            "create-time": 1615546930869,
+            ":block/refs": [
+              {
+                ":block/uid": "N3b7ot0NB"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "N3b7ot0NB"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "D-HhvF3Va",
+            "edit-time": 1615546930869,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Installation",
+            "heading": 2,
+            "children": [
+              {
+                "string": "[[Roam42 Installation]] - [Open-source tools]([[open-source]]) for Roam. (Replacement for RoamMonkey)",
+                "refs": [
+                  {
+                    "uid": "fmymFANzt"
+                  },
+                  {
+                    "uid": "488SRXqlO"
+                  }
+                ],
+                "uid": "7V1RVwm-F",
+                "edit-time": 1615546931144,
+                ":block/refs": [
+                  {
+                    ":block/uid": "fmymFANzt"
+                  },
+                  {
+                    ":block/uid": "488SRXqlO"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[Roam42 Update Log]] of new [[functionality]] and [[bug fixes]]",
+                "refs": [
+                  {
+                    "uid": "F94ApNKZW"
+                  },
+                  {
+                    "uid": "04iEFvsCi"
+                  },
+                  {
+                    "uid": "p5iKG-GHc"
+                  }
+                ],
+                "uid": "-ik0xGjTn",
+                "edit-time": 1615546931144,
+                ":block/refs": [
+                  {
+                    ":block/uid": "F94ApNKZW"
+                  },
+                  {
+                    ":block/uid": "04iEFvsCi"
+                  },
+                  {
+                    ":block/uid": "p5iKG-GHc"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "59ADP8AKn",
+            "edit-time": 1615546931144,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Features",
+            "create-time": 1615547012762,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "",
+                "create-time": 1615547013627,
+                "uid": "MEWMMHicZ",
+                "edit-time": 1615547013627,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "kvVJGILbc",
+            "edit-time": 1615547013633,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "text-align": "center",
+        "uid": "jfxQzq7qa",
+        "string": "Roam42 extension to Roam",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615543239322,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 1
+      }
+    ],
+    "uid": "gSfBpMTWo",
+    "edit-time": 1612664610616,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -87365,6 +87605,753 @@
     "title": "Roam Depot WIKI",
     "uid": "QC71DMCmy",
     "edit-time": 1615534480644,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615543179137,
+    "title": "RoamHacker",
+    "uid": "Q1K_7YiXT",
+    "edit-time": 1615543179138,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615543179140,
+    "title": "YouTube channel",
+    "uid": "BTGHywDGh",
+    "edit-time": 1615543179141,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615543264020,
+    "title": "power user",
+    "uid": "N3b7ot0NB",
+    "edit-time": 1615543264021,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615543999405,
+    "title": "my resume",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "site",
+        "create-time": 1615544076766,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "boss zhipin; 智联招聘; 51 job ",
+            "create-time": 1615544077953,
+            "uid": "JglZrL6Tv",
+            "edit-time": 1615544092485,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "p6wOve5eF",
+        "edit-time": 1615544077966,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "skill",
+        "create-time": 1615544117537,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "你就搜物理光学的 然后选10个你觉得可以去的公司，把这些公司对应的[职业技能要求][列出来]，你就知道你要学什么了",
+            "create-time": 1615544119580,
+            "uid": "CVrgoDwV8",
+            "edit-time": 1615544138526,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "如果[面试官][提起]你为什么在家没工作这么长时间，你要[编个理由]，比如一心想考公务员，[全职备考]耽误了这些，__千万千万别说真实原因__",
+            "create-time": 1615544192099,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "和面试官说话的时候千万别这么说，延毕的事情他不问，你就不说，反正他也不知道你是几年制的。",
+                "create-time": 1615544233558,
+                "uid": "lw0Cx-6Bo",
+                "edit-time": 1615544235058,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "KCvc5lTyK",
+            "edit-time": 1615546810442,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "在学校有获过奖吗，可以写上去",
+            "create-time": 1615544194722,
+            "uid": "B9sjzZSho",
+            "edit-time": 1615544203161,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "简历写的还是有点简单了，把实习经历和项目经理内容扩充一下，改好直接发word给我就行\n比如工作内容，主要负责做的东西",
+            "create-time": 1615544210975,
+            "uid": "-XNWhF3eE",
+            "edit-time": 1615544273107,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "简历就把所有你的专业技能，亮点写上去就行了\n先让面试官对你感兴趣",
+            "create-time": 1615544253188,
+            "uid": "xfrft0WFX",
+            "edit-time": 1615544261524,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Tkk4G6ynL",
+        "edit-time": 1615544119585,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "about 应届生",
+        "create-time": 1615544039480,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqezprdRVBC.png?alt=media&token=54a5e06e-9bf5-4235-b9c8-5850277c5b98)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqezprdRVBC.png?alt=media&token=54a5e06e-9bf5-4235-b9c8-5850277c5b98": {
+                  "width": 304,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1615544040516,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqezprdRVBC.png?alt=media&token=54a5e06e-9bf5-4235-b9c8-5850277c5b98": {
+                  ":width": 304,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "VcChw4hQN",
+            "edit-time": 1615544055290,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "__期望薪资写面议 薪水是次要的__",
+            "create-time": 1615544376220,
+            "uid": "HUpfQbgoD",
+            "edit-time": 1615544379379,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "jW-bC4irh",
+        "edit-time": 1615544040522,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "others",
+        "create-time": 1615544166160,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "我建议啊，现在不要考虑转行，已经有点晚了，现在学编程，和科班出身的一点竞争力都没有，本专业毕竟还有学位在那里",
+            "create-time": 1615544168691,
+            "uid": "-RPmzsF0o",
+            "edit-time": 1615544170219,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "LXG3sN98j",
+        "edit-time": 1615544168696,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "**自我评价**",
+        "create-time": 1615544941878,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "我是一个脚踏实地的人，能够按时保质地完成本职工作。同时善于学习新知识、新技能，有着强烈的求知欲，对工作有着较高的积极性。面对工作中的困难，我能够努力克服，迎难而上，解决问题。并且我还具备较强的团队精神和团队合作能力，能够积极与同事沟通，认真、负责、高效地完成工作目标。",
+            "create-time": 1615544942972,
+            "uid": "TZLsBu-6H",
+            "edit-time": 1615544970789,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "贵公司与我的专业技能和期望岗位契合度较高，因此我希望能得到一个机会加入贵公司的发展平台为事业而拼搏。",
+            "create-time": 1615544976667,
+            "uid": "R3Q-vpq01",
+            "edit-time": 1615544977585,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "我在性格上乐意于吃苦耐劳、多做奉献，具备团队精神和团队合作能力。在个人 能力上善于学习新知识、新技能，有着充足的求知欲，并且具有强烈的解决问题的动 力。生活中，我爱好各类运动，喜欢跑步、骑行、游泳，有兴趣参与各类活动。",
+            "create-time": 1615544994329,
+            "uid": "EJU0faVbu",
+            "edit-time": 1615544994332,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "我在毕业后由于种种原因未进入求职时谈好的公司工作，目前尚无工作经历。但 是我有决心通过我的努力来弥补我经验上的欠缺，希望能得到一个机会加入贵方的发 展平台为事业而拼搏。",
+            "create-time": 1615544994329,
+            "uid": "Tu1jETTVi",
+            "edit-time": 1615544994332,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ufiM6ETT4",
+        "edit-time": 1615544942979,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "**项目经历**",
+        "create-time": 1615545015567,
+        "uid": "jJvPRJQJe",
+        "edit-time": 1615545020485,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "**实习/工作经历**",
+        "create-time": 1615545016367,
+        "uid": "FlS3Aujqy",
+        "edit-time": 1615545032985,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "**个人技能**",
+        "create-time": 1615545039415,
+        "uid": "S1XHFztlA",
+        "edit-time": 1615545040445,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "JwirFwxN0",
+    "edit-time": 1615543999406,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615546931151,
+    "title": "open-source",
+    "uid": "fmymFANzt",
+    "edit-time": 1615546931152,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615546931151,
+    "title": "Roam42 Installation",
+    "uid": "488SRXqlO",
+    "edit-time": 1615546931152,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615546931156,
+    "title": "Roam42 Update Log",
+    "uid": "F94ApNKZW",
+    "edit-time": 1615546931157,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615546931156,
+    "title": "functionality",
+    "uid": "04iEFvsCi",
+    "edit-time": 1615546931157,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615546931156,
+    "title": "bug fixes",
+    "uid": "p5iKG-GHc",
+    "edit-time": 1615546931157,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615550488737,
+    "title": "optical module",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1615553149901,
+        "children": [
+          {
+            "string": "Optical modules can either plug into a [[front panel socket]] or an [[on-board socket]]. 插入前面板插座或车载插座 Sometimes the optical module is replaced by an [electrical interface module] that implements either an [[active electrical connection]] or [[passive electrical connection]] to the [[outside world]]. 主动或被动的 A large industry supports [the manufacturing and use of] optical modules.",
+            "create-time": 1615550492595,
+            ":block/refs": [
+              {
+                ":block/uid": "mi3xsipXR"
+              },
+              {
+                ":block/uid": "XRN49bZMi"
+              },
+              {
+                ":block/uid": "trMXeSkSd"
+              },
+              {
+                ":block/uid": "dCehQI4Jg"
+              },
+              {
+                ":block/uid": "sUqV3SzSn"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mi3xsipXR"
+              },
+              {
+                "uid": "XRN49bZMi"
+              },
+              {
+                "uid": "trMXeSkSd"
+              },
+              {
+                "uid": "dCehQI4Jg"
+              },
+              {
+                "uid": "sUqV3SzSn"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "qk24MeGDL",
+            "edit-time": 1615553006925,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "dDRHi0U4H"
+          },
+          {
+            "uid": "rUa37Fsvt"
+          },
+          {
+            "uid": "rx3n7tNkN"
+          },
+          {
+            "uid": "4ctUQeVeB"
+          },
+          {
+            "uid": "9Jy2I8A_6"
+          },
+          {
+            "uid": "1aFUfVzZY"
+          },
+          {
+            "uid": "BNi_oku2L"
+          },
+          {
+            "uid": "T08Wo3PMM"
+          }
+        ],
+        "uid": "uN2DUfgaB",
+        ":block/refs": [
+          {
+            ":block/uid": "dDRHi0U4H"
+          },
+          {
+            ":block/uid": "rUa37Fsvt"
+          },
+          {
+            ":block/uid": "rx3n7tNkN"
+          },
+          {
+            ":block/uid": "4ctUQeVeB"
+          },
+          {
+            ":block/uid": "9Jy2I8A_6"
+          },
+          {
+            ":block/uid": "1aFUfVzZY"
+          },
+          {
+            ":block/uid": "BNi_oku2L"
+          },
+          {
+            ":block/uid": "T08Wo3PMM"
+          }
+        ],
+        "string": "An optical module is a typically [[hot-pluggable]] [[optical transceiver]] 热插拔光收发器 used in [[high-bandwidth data communications]] applications. Optical modules typically have an [[electrical interface]] on the side that [connects to the inside of the system] and an [[optical interface]] on the side that [connects to the outside world] through a [[fiber optic cable]]. The [[form factor]] 形状因数 and electrical interface are often [specified by an interested group] using a [[multi-source agreement (MSA)]]. \n210312-20:42",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615553006906,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Users of Optical Modules",
+        "create-time": 1615553456318,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[Multiple standards] have used optical modules. Some of these [more prominent standards] are [discussed below]. [下面将讨论][其中一些][比较突出的标准]。",
+            "create-time": 1615553456806,
+            "uid": "ogMwukDyv",
+            "edit-time": 1615553512836,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "InfiniBand (abbreviated IB) is a computer-networking communications standard used in high-performance computing that features very high throughput and very low latency. It is used for data interconnect both among and within computers. InfiniBand is also utilized as either a direct, or switched interconnect between servers and storage systems, as well as an interconnect between storage systems. Infiniband uses optical modules extensively.[14]",
+            "create-time": 1615553522660,
+            "uid": "uJ2pLdcKG",
+            "edit-time": 1615553524249,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Fibre Channel (FC) is a high-speed network technology (commonly running at 1, 2, 4, 8, 16, 32, and 128 gigabit per second rates) primarily used to connect computer data storage to servers. Fibre Channel is mainly used in storage area networks (SAN) in commercial data centers. Fibre Channel networks form a switched fabric because they operate in unison as one big switch. Fibre Channel typically runs on optical fiber cables within and between data centers. Fibre Channel uses optical modules extensively.[15]",
+            "create-time": 1615553524243,
+            "uid": "YqYd1aEar",
+            "edit-time": 1615553529666,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Ethernet is a family of computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). Ethernet uses optical modules extensively in its higher rate interfaces. Representative interfaces that are commonly implemented in optical modules include 100GBASE-SR4, 100GBASE-LR4 and 100GBASE-ER4.",
+            "create-time": 1615553536447,
+            "uid": "ifDX3s0_D",
+            "edit-time": 1615553539908,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "RyMsDhYPq",
+        "edit-time": 1615553456814,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "GJyRPv8Xe",
+    "edit-time": 1615550488738,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615550518808,
+    "title": "high-bandwidth data communications",
+    "uid": "dDRHi0U4H",
+    "edit-time": 1615550518809,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552763564,
+    "title": "hot-pluggable",
+    "uid": "rUa37Fsvt",
+    "edit-time": 1615552763565,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552763564,
+    "title": "optical transceiver",
+    "uid": "rx3n7tNkN",
+    "edit-time": 1615552763565,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552787271,
+    "title": "electrical interface",
+    "uid": "4ctUQeVeB",
+    "edit-time": 1615552787272,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552787271,
+    "title": "optical interface",
+    "uid": "9Jy2I8A_6",
+    "edit-time": 1615552787272,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552790773,
+    "title": "fiber optic cable",
+    "uid": "1aFUfVzZY",
+    "edit-time": 1615552790774,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552816701,
+    "title": "multi-source agreement (MSA)",
+    "uid": "BNi_oku2L",
+    "edit-time": 1615552816702,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552838605,
+    "title": "form factor",
+    "uid": "T08Wo3PMM",
+    "edit-time": 1615552838606,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552919052,
+    "title": "front panel socket",
+    "uid": "mi3xsipXR",
+    "edit-time": 1615552919054,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552919052,
+    "title": "on-board socket",
+    "uid": "XRN49bZMi",
+    "edit-time": 1615552919054,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552987901,
+    "title": "active electrical connection",
+    "uid": "trMXeSkSd",
+    "edit-time": 1615552987903,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552987901,
+    "title": "passive electrical connection",
+    "uid": "dCehQI4Jg",
+    "edit-time": 1615552987903,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615552987901,
+    "title": "outside world",
+    "uid": "sUqV3SzSn",
+    "edit-time": 1615552987903,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
