@@ -35,5 +35,8 @@ $	Matches [the end of the input].
 "[0-9]{3}" => The number was 9.**999**7 but we rounded it off to 10.0.
 210312-04:37
 - ## 2.5 Capturing Groups
-    - A [[capturing group]] 捕获组; 要匹配的组 is [a group of subpatterns] that is [written inside parentheses] `(...)`. As discussed before, in regular expressions, if we [put a quantifier after a character] then it will [repeat the preceding character]. But if we put a quantifier after a capturing group then it repeats the whole capturing group. For example, the regular expression (ab)* matches zero or more repetitions of the character "ab". We can also use the alternation | meta character inside a capturing group. For example, the regular expression (c|g|p)ar means: a lowercase c, g or p, followed by a, followed by r.
+    - A [[capturing group]] 捕获组; 要匹配的组 is [a group of subpatterns] that is [written inside parentheses] `(...)`. As discussed before, in regular expressions, if we [put a quantifier after a character] then it will [repeat the preceding character]. But if we [put a quantifier after a capturing group] then it [repeats the whole capturing group]. For example, the regular expression `(ab)*` [matches zero or more repetitions of] the character "ab". We can also use the alternation `|` meta character [inside a capturing group]. For example, the regular expression `(c|g|p)ar` means: a lowercase c, g or p, followed by a, followed by r.
+"(c|g|p)ar" => The **car** is **par**ked in the **gar**age.
         - And Carvalho's team [next faces Germany] [with the chance of] [capturing second place] in [Group B] of the [2006 FIBA World Championship]. www.[chinadaily].com.cn
+    - Note that capturing groups do not only match, but also capture, the characters for use [in the parent language]. The parent language could be Python or JavaScript or [virtually any language that] [implements regular expressions] [in a function definition].
+210312-12:04
