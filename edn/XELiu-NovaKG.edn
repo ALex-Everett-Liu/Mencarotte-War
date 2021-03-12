@@ -31240,8 +31240,8 @@
   [6756 :version/id "0.8.2" 536896870]
   [6756
    :version/nonce
-   "uuid1e0f4965-1d05-465c-8e7c-fa2af686b7cd"
-   536915549]
+   "uuid7f64de9d-c404-4311-aff5-20452881e656"
+   536915551]
   [6757 :block/string "" 536896876]
   [6757 :block/uid "XdgpVhd15" 536896876]
   [6757 :edit/time 1613701879386 536896876]
@@ -71886,12 +71886,12 @@
   [10855 :block/refs 10868 536915510]
   [10855
    :block/string
-   "Optical modules can either plug into a [[front panel socket]] or an [[on-board socket]]. 插入前面板插座或车载插座 Sometimes the optical module is replaced by an [electrical interface module] that implements either an [[active electrical connection]] or [[passive electrical connection]] to the [[outside world]]. 主动或被动的 A large industry supports [the manufacturing and use of] optical modules."
-   536915514]
+   "Optical modules can either plug into a [[front panel socket]] or an [[on-board socket]]. 插入前面板插座或车载插座 Sometimes the optical module is replaced by an [electrical interface module] that implements either an [[active electrical connection]] or [[passive electrical connection]] to the [[outside world]]. 主动或被动的 A large industry supports [the manufacturing and use of] optical modules.\n210312-20:57"
+   536915550]
   [10855 :block/uid "qk24MeGDL" 536915483]
   [10855 :create/time 1615550492595 536915483]
   [10855 :create/user 3 536915483]
-  [10855 :edit/time 1615553006925 536915514]
+  [10855 :edit/time 1615553838448 536915550]
   [10855 :edit/user 3 536915483]
   [10856 :block/uid "dDRHi0U4H" 536915488]
   [10856 :create/time 1615550518808 536915488]
@@ -71972,7 +71972,7 @@
   [10868 :edit/user 3 536915510]
   [10868 :node/title "outside world" 536915510]
   [10869 :block/children 10855 536915516]
-  [10869 :block/open true 536915549]
+  [10869 :block/open false 536915551]
   [10869 :block/order 0 536915511]
   [10869 :block/page 10854 536915513]
   [10869 :block/parents 10854 536915513]

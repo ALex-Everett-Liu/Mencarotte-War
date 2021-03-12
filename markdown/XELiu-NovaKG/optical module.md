@@ -1,6 +1,7 @@
 - An optical module is a typically [[hot-pluggable]] [[optical transceiver]] 热插拔光收发器 used in [[high-bandwidth data communications]] applications. Optical modules typically have an [[electrical interface]] on the side that [connects to the inside of the system] and an [[optical interface]] on the side that [connects to the outside world] through a [[fiber optic cable]]. The [[form factor]] 形状因数 and electrical interface are often [specified by an interested group] using a [[multi-source agreement (MSA)]]. 
 210312-20:42
     - Optical modules can either plug into a [[front panel socket]] or an [[on-board socket]]. 插入前面板插座或车载插座 Sometimes the optical module is replaced by an [electrical interface module] that implements either an [[active electrical connection]] or [[passive electrical connection]] to the [[outside world]]. 主动或被动的 A large industry supports [the manufacturing and use of] optical modules.
+210312-20:57
 - ## Users of Optical Modules
     - [Multiple standards] have used optical modules. Some of these [more prominent standards] are [discussed below]. [下面将讨论][其中一些][比较突出的标准]。
     - InfiniBand (abbreviated IB) is a computer-networking communications standard used in high-performance computing that features very high throughput and very low latency. It is used for data interconnect both among and within computers. InfiniBand is also utilized as either a direct, or switched interconnect between servers and storage systems, as well as an interconnect between storage systems. Infiniband uses optical modules extensively.[14]
