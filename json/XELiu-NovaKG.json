@@ -97,6 +97,46 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "Reference History",
+        "create-time": 1615623511343,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "{{roam/js}}",
+            "create-time": 1615623539408,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "```javascript\n;(function () { \nfunction loadLibrary(name, src) {\n\tconst oldLib = document.getElementById(name)\n \tif (oldLib) oldLib.remove()\n    const s = document.createElement('script')\n  \ts.src = src\n \ts.id = name\n  \ts.async = false\n  \ts.type = 'text/javascript'\n  \tdocument.getElementsByTagName('head')[0].appendChild(s)\n}\n\nfunction loadCss(src) {\n    const l = document.createElement('link')\n    l.rel = 'stylesheet'\n    l.href = src\n    document.getElementsByTagName('head')[0].appendChild(l)\n}\n\nfunction appendToBlock(block, childEl) {\n    const div = document.createElement('div')\n    div.classList.add('flex-v-box')\n    div.appendChild(childEl)\n    block.appendChild(div)\n}\n\nfunction isDatePage(name) {\n  \tif (!name) return false\n  \treturn name.match(/^\\w+\\s\\d\\d?..,\\s\\d\\d\\d\\d$/)\n}\n\nfunction parseDatePage(name) {\n  \tif (!isDatePage(name)) return null\n    const months = [\n        'January', 'February', 'March', 'April', 'May', 'June', 'July',\n        'August', 'September', 'October', 'November', 'December']\n    const dateParts = name.split(' ')\n    const month = months.indexOf(dateParts[0])\n    const day = parseInt(dateParts[1].substring(0, dateParts[1].length - 2), 10)\n    const year = parseInt(dateParts[2], 10)\n    return new Date(year, month, day)\n}\n\nfunction getPageName(node) {\n  if (node.title) {\n    return node.title\n  } else if (node._children) {\n    return getPageName(node._children[0])\n  }\n  return null\n}\n\nfunction getPageCalData(pages) {\n  const refs = pages.map(page =>\n    window.roamAlphaAPI.q(`\n\t\t[:find \n\t\t\t(pull ?block [:node/title {:block/_children ...}]) \n\t\t\t:where [?block :block/refs ?ref] [?ref :node/title \"${page}\"]]`))\n  \t.flat();\n    // TODO: parameterize use of indirect refs\n    /*const indirectRefs = await window.roamAlphaAPI.q(`\n\t\t[:find \n\t\t\t(pull ?block [:node/title {:block/_children ...}]) \n\t\t\t:where\n\t\t\t\t[?source :block/refs ?ref]\n\t\t\t\t[?ref :node/title \"${page}\"]\n\t\t\t\t[?block :block/refs ?source]]`)*/\n  \tconst dates = refs.map(n => getPageName(n[0])).filter(isDatePage).map(parseDatePage)\n    if (dates.length == 0) return\n    const data = {}\n    dates.forEach(d => {\n      \tconst timestamp = Math.floor(d.getTime() / 1000).toString()\n        data[timestamp] ||= 0\n      \tdata[timestamp]++\n    })\n\treturn data\n}\n\nfunction isBacklinkCalBlock(block) {\n    try {\n      if (JSON.parse(block.dataset.pageLinks).indexOf('reference-history') >= 0)\n        return true\n    } catch (err) {}\n    return false\n}\n\nfunction addBacklinkCal() {\n    [...document.getElementsByClassName('roam-block-container')]\n  \t\t.filter(isBacklinkCalBlock).forEach(block => {\n      \tif (block.dataset.isBacklinkCalDone) return\n      \tconst links = new Set(JSON.parse(block.dataset.pageLinks))\n        links.delete('reference-history')\n      \tconst pages = [...links]\n        if (pages.length === 0) return\n  \n        const calEl = document.createElement('div')\n        calEl.id = 'cal-heatmap-' + Math.floor(Math.random() * 1000000)\n        appendToBlock(block, calEl)\n        const cal = new CalHeatMap()\n        const start = new Date(new Date().getTime() - 11*30*24*60*60*1000)\n        const data = getPageCalData(pages);\n        cal.init({data, start,\n                  itemSelector: '#' + calEl.id,\n                  domain: 'month',\n                  subDomain: 'day',\n                  legend: [2, 4, 6, 8]});\n        block.dataset.isBacklinkCalDone = true\n    })\n}\n\nloadLibrary('lib-d3', 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js')\nloadLibrary('lib-calheatmap', 'https://cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js')\nloadCss('https://cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css')\nwindow.setInterval(addBacklinkCal, 1000)\n})();```",
+                "create-time": 1615623513399,
+                "uid": "NckLgzJqi",
+                "edit-time": 1615623534941,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "4fFC7dG54",
+            "edit-time": 1615623540427,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "s_Dg-3rZC",
+        "edit-time": 1615623513404,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "P5lXzdwZY",
@@ -9321,7 +9361,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615612385555,
+            "edit-time": 1615623661436,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -90654,7 +90694,7 @@
         "edit-time": 1615617425701,
         "children": [
           {
-            "string": "Depending on the application, fiber may be used because of its small size, or because no [[electrical power]] is needed at the [[remote location]], or because many sensors can be [[multiplexed]] 复用 [along the length of a fiber] by using light [[wavelength shift]] for each sensor, or by sensing the [[time delay]] as [light passes along the fiber] [through each sensor]. Time delay can be determined using a device such as an [[optical time-domain reflectometer]] and wavelength shift can be calculated using an instrument implementing [[optical frequency domain reflectometry]].",
+            "string": "Depending on the application, fiber may be used because of its small size, or because no [[electrical power]] is needed at the [[remote location]], or because many sensors can be [[multiplexed]] 复用 [along the length of a fiber] by using light [[wavelength shift]] for each sensor, or by sensing the [[time delay]] as [light passes along the fiber] [through each sensor]. Time delay can be determined using a device such as an [[optical time-domain reflectometer]] and wavelength shift can be calculated using an instrument implementing [[optical frequency domain reflectometry]]. 反射仪",
             "create-time": 1615612405965,
             ":block/refs": [
               {
@@ -90706,7 +90746,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "-fYMkaTY9",
-            "edit-time": 1615617425712,
+            "edit-time": 1615623285354,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -91142,11 +91182,79 @@
   {
     "create-time": 1615617394791,
     "title": "optical time-domain reflectometer",
-    "uid": "4Klr6Ld56",
-    "edit-time": 1615617394794,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1615623382709,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[Brillouin Optical Time-Domain Reflectometer (BOTDR)] is a [newly developed] [distributed measuring technique] for strains. 应变 dict.[cnki].net",
+            "create-time": 1615623385418,
+            "uid": "cb2lRMF6F",
+            "edit-time": 1615626434678,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Polarization sensitive optical time-domain reflectometer (P-OTDR)] is widely used for measuring [polarization parameters] of [optical fiber] ([[birefringence]], 双折射 [[polarization mode dispersion]]) and for [distributed optical fiber sensing]. ",
+            "create-time": 1615623385418,
+            ":block/refs": [
+              {
+                ":block/uid": "eL20Iy_tJ"
+              },
+              {
+                ":block/uid": "qGIfvMrF1"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "eL20Iy_tJ"
+              },
+              {
+                "uid": "qGIfvMrF1"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "W32E8yMl6",
+            "edit-time": 1615626529196,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "In this paper, a novel [security systems] based on the [Φ-OTDR (phase-sensitive optical time-domain reflectometer)] [distributed optical fiber sensing] technology is proposed. www.[fabiao].net",
+            "create-time": 1615623385418,
+            "uid": "Rrv91NFlD",
+            "edit-time": 1615626541083,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CNqCcBErD",
+        "edit-time": 1615623384656,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "4Klr6Ld56",
+    "edit-time": 1615617394794,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -91168,6 +91276,30 @@
     "title": "optical frequency domain reflectometry",
     "uid": "nkWJ-roOR",
     "edit-time": 1615617419537,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615626462251,
+    "title": "birefringence",
+    "uid": "eL20Iy_tJ",
+    "edit-time": 1615626462253,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615626462251,
+    "title": "polarization mode dispersion",
+    "uid": "qGIfvMrF1",
+    "edit-time": 1615626462253,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

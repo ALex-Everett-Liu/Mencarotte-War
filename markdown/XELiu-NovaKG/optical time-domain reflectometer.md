@@ -1,0 +1,4 @@
+- dictionary 
+    - [Brillouin Optical Time-Domain Reflectometer (BOTDR)] is a [newly developed] [distributed measuring technique] for strains. 应变 dict.[cnki].net
+    - [Polarization sensitive optical time-domain reflectometer (P-OTDR)] is widely used for measuring [polarization parameters] of [optical fiber] ([[birefringence]], 双折射 [[polarization mode dispersion]]) and for [distributed optical fiber sensing]. 
+    - In this paper, a novel [security systems] based on the [Φ-OTDR (phase-sensitive optical time-domain reflectometer)] [distributed optical fiber sensing] technology is proposed. www.[fabiao].net
