@@ -9321,7 +9321,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615548646029,
+            "edit-time": 1615612385555,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -9344,10 +9344,10 @@
         },
         "children": [
           {
-            "string": "weibo; 比特币; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历",
+            "string": "weibo; 比特币; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历; SQL 入门",
             "create-time": 1610206698646,
             "uid": "TvILpsCcT",
-            "edit-time": 1615438092211,
+            "edit-time": 1615610679174,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -90078,23 +90078,41 @@
         },
         "children": [
           {
-            "string": "The multifocal spots location is a function of refractive focal length $$f_{Refractive}$$ and predetermined diffractive focal length $$f_{Diffractive}$$ The focal spot at the \"zero\" order refers to the refractive focal length of the lens being used.",
+            "string": "The [multifocal spots location] is a function of [[refractive focal length]] $$f_{Refractive}$$ and predetermined [[diffractive focal length]] $$f_{Diffractive}$$ The [[focal spot]] at the \"zero\" order refers to the refractive focal length of [the lens being used].",
             "create-time": 1615573119785,
-            "uid": "GPYwoboiu",
-            "edit-time": 1615573184930,
+            ":block/refs": [
+              {
+                ":block/uid": "Io6Kix6FS"
+              },
+              {
+                ":block/uid": "gWmKyZuRf"
+              },
+              {
+                ":block/uid": "3bRX_SfrA"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Io6Kix6FS"
+              },
+              {
+                "uid": "gWmKyZuRf"
+              },
+              {
+                "uid": "3bRX_SfrA"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "GPYwoboiu",
+            "edit-time": 1615611321805,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "The distance between the focal spots can be described by the equation",
-            "create-time": 1615573204295,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
+            "edit-time": 1615611754285,
             "children": [
               {
                 "string": "$${\\displaystyle {\\frac {1}{f_{m}}}={\\frac {1}{f_{\\mathrm {Refractive} }}}+{\\frac {m}{f_{\\mathrm {Diffractive} }}},\\ \\mathrm {for} \\ m=\\pm 1,\\pm 2,\\pm 3...},$$",
@@ -90109,10 +90127,80 @@
                 }
               },
               {
-                "string": "where $$f_m$$ is the focal length for the __m__th diffractive order,\nf_Refractive is the focal length of the refractive lens, and\nf_Diffractive is the focal length of the diffractive lens.",
+                "string": "where $$f_m$$ is the focal length for the __m__th [[diffractive order]],\nf_Refractive is the focal length of the [[refractive lens]], and\nf_Diffractive is the focal length of the [[diffractive lens]].",
                 "create-time": 1615573243513,
+                ":block/refs": [
+                  {
+                    ":block/uid": "7J66xl0Fe"
+                  },
+                  {
+                    ":block/uid": "2-L9zJuBo"
+                  },
+                  {
+                    ":block/uid": "sLN3T9H3y"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "7J66xl0Fe"
+                  },
+                  {
+                    "uid": "2-L9zJuBo"
+                  },
+                  {
+                    "uid": "sLN3T9H3y"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
                 "uid": "RC4yHG3Ft",
-                "edit-time": 1615573270607,
+                "edit-time": 1615611668110,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "RlJS7zFMJ"
+              }
+            ],
+            "uid": "NvoBLNnSO",
+            ":block/refs": [
+              {
+                ":block/uid": "RlJS7zFMJ"
+              }
+            ],
+            "string": "The distance between the focal spots [can be described by the equation] #mathrm",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615573204295,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Example](https://en.wikipedia.org/wiki/File:Multifocal_5_lens.png) of [multifocal peak intensity distribution] [along optical axis]. (Courtesy of Holo/Or)",
+            "create-time": 1615573298785,
+            "uid": "8vyqWCjpW",
+            "edit-time": 1615611835851,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1615612002938,
+            "children": [
+              {
+                "string": "![](https://upload.wikimedia.org/wikipedia/en/b/ba/Multifocal_lens_5_foci.jpg)",
+                "create-time": 1615611930116,
+                "uid": "0Nku-BzFJ",
+                "edit-time": 1615611934479,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -90121,32 +90209,22 @@
                 }
               }
             ],
-            "uid": "NvoBLNnSO",
-            "edit-time": 1615573204724,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[Example](https://en.wikipedia.org/wiki/File:Multifocal_5_lens.png) of multifocal peak intensity distribution along optical axis. (Courtesy of Holo/Or)",
-            "create-time": 1615573298785,
-            "uid": "8vyqWCjpW",
-            "edit-time": 1615573321063,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "Intensity distribution of multifocal lens 5 foci in Z-X plane",
-            "create-time": 1615573299215,
+            "refs": [
+              {
+                "uid": "VL-Ne1BsD"
+              }
+            ],
             "uid": "qvseiFZSt",
-            "edit-time": 1615573308850,
+            ":block/refs": [
+              {
+                ":block/uid": "VL-Ne1BsD"
+              }
+            ],
+            "string": "[[intensity distribution]] of multifocal lens 5 foci [in Z-X plane](https://en.wikipedia.org/wiki/File:Multifocal_lens_5_foci.jpg)\n210313-13:05",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "create-time": 1615573299215,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -90223,13 +90301,23 @@
         }
       },
       {
-        "string": "Categories: Optical components | Diffraction | Lenses",
+        "string": "Categories: [[optical component]]s | Diffraction | Lenses",
         "create-time": 1615573380526,
-        "uid": "XCatPjXVq",
-        "edit-time": 1615573395320,
+        ":block/refs": [
+          {
+            ":block/uid": "IsseRFTy3"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "IsseRFTy3"
+          }
+        ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "uid": "XCatPjXVq",
+        "edit-time": 1615611969638,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -90400,6 +90488,686 @@
     "title": "focal point",
     "uid": "ZvPwI2w7D",
     "edit-time": 1615576489567,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611308651,
+    "title": "refractive focal length",
+    "uid": "Io6Kix6FS",
+    "edit-time": 1615611308659,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611308651,
+    "title": "diffractive focal length",
+    "uid": "gWmKyZuRf",
+    "edit-time": 1615611308659,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611313383,
+    "title": "focal spot",
+    "uid": "3bRX_SfrA",
+    "edit-time": 1615611313384,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611641329,
+    "title": "diffractive order",
+    "uid": "7J66xl0Fe",
+    "edit-time": 1615611641330,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611668119,
+    "title": "refractive lens",
+    "uid": "2-L9zJuBo",
+    "edit-time": 1615611668120,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611668119,
+    "title": "diffractive lens",
+    "uid": "sLN3T9H3y",
+    "edit-time": 1615611668120,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611754290,
+    "title": "mathrm",
+    "uid": "RlJS7zFMJ",
+    "edit-time": 1615611754291,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611854249,
+    "title": "intensity distribution",
+    "uid": "VL-Ne1BsD",
+    "edit-time": 1615611854250,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615611969640,
+    "title": "optical component",
+    "uid": "IsseRFTy3",
+    "edit-time": 1615611969641,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612191119,
+    "title": "新概念物理教程-光学 (New Concept Physics - Optics)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "source",
+        "create-time": 1615612204289,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[PDF 文件]使用 \"Pdf Factory Pro\" [试用版本][创建](www.fineprint.com.cn) ",
+            "create-time": 1615612206221,
+            "uid": "OcxZO3Yno",
+            "edit-time": 1615612235612,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ORBg4iw8f",
+        "edit-time": 1615612206229,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "UAHsgVA1L",
+    "edit-time": 1615612367384,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612397037,
+    "title": "fiber-optic sensor",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1615617425701,
+        "children": [
+          {
+            "string": "Depending on the application, fiber may be used because of its small size, or because no [[electrical power]] is needed at the [[remote location]], or because many sensors can be [[multiplexed]] 复用 [along the length of a fiber] by using light [[wavelength shift]] for each sensor, or by sensing the [[time delay]] as [light passes along the fiber] [through each sensor]. Time delay can be determined using a device such as an [[optical time-domain reflectometer]] and wavelength shift can be calculated using an instrument implementing [[optical frequency domain reflectometry]].",
+            "create-time": 1615612405965,
+            ":block/refs": [
+              {
+                ":block/uid": "_viP8G6K_"
+              },
+              {
+                ":block/uid": "SI5Rp89CL"
+              },
+              {
+                ":block/uid": "F-j5KVQw4"
+              },
+              {
+                ":block/uid": "ff2NaGAIc"
+              },
+              {
+                ":block/uid": "4Klr6Ld56"
+              },
+              {
+                ":block/uid": "XsdEd_aBW"
+              },
+              {
+                ":block/uid": "nkWJ-roOR"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_viP8G6K_"
+              },
+              {
+                "uid": "SI5Rp89CL"
+              },
+              {
+                "uid": "F-j5KVQw4"
+              },
+              {
+                "uid": "ff2NaGAIc"
+              },
+              {
+                "uid": "4Klr6Ld56"
+              },
+              {
+                "uid": "XsdEd_aBW"
+              },
+              {
+                "uid": "nkWJ-roOR"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "-fYMkaTY9",
+            "edit-time": 1615617425712,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Mim3QBmgV"
+          },
+          {
+            "uid": "WPOYzGfTM"
+          },
+          {
+            "uid": "ipzzxQE1I"
+          },
+          {
+            "uid": "rXulmB3Qy"
+          },
+          {
+            "uid": "4zLM6R4yX"
+          },
+          {
+            "uid": "MF_d3K2e5"
+          },
+          {
+            "uid": "7ZW4g1u2I"
+          },
+          {
+            "uid": "2jJ32_lfD"
+          },
+          {
+            "uid": "W2ruHzulV"
+          }
+        ],
+        "uid": "kIrT_l7J7",
+        ":block/refs": [
+          {
+            ":block/uid": "Mim3QBmgV"
+          },
+          {
+            ":block/uid": "WPOYzGfTM"
+          },
+          {
+            ":block/uid": "ipzzxQE1I"
+          },
+          {
+            ":block/uid": "rXulmB3Qy"
+          },
+          {
+            ":block/uid": "4zLM6R4yX"
+          },
+          {
+            ":block/uid": "MF_d3K2e5"
+          },
+          {
+            ":block/uid": "7ZW4g1u2I"
+          },
+          {
+            ":block/uid": "2jJ32_lfD"
+          },
+          {
+            ":block/uid": "W2ruHzulV"
+          }
+        ],
+        "string": "A fiber-optic sensor is a sensor that uses [[optical fiber]] either as the [[sensing element]] (\"[[intrinsic sensor]]s\"), or [as a means of] [[relaying signals]] from a [[remote sensor]] to the [[electronics]] that [process the signals]([[signal processing]]) (\"[[extrinsic sensor]]s\"). 从远程传感器到电子设备的信号中继 Fibers have many uses in [[remote sensing]]. ",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615617425701,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Fiber-optic sensors are also immune to electromagnetic interference, and do not conduct electricity so they can be used in places where there is high voltage electricity or flammable material such as jet fuel. Fiber-optic sensors can be designed to withstand high temperatures as well.",
+        "create-time": 1615612402588,
+        "uid": "H-GUhc_oU",
+        "edit-time": 1615612405973,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "f8ynKpQV_",
+    "edit-time": 1615612397037,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612440970,
+    "title": "optical fiber",
+    "uid": "WPOYzGfTM",
+    "edit-time": 1615612440978,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612440970,
+    "title": "sensing element",
+    "uid": "ipzzxQE1I",
+    "edit-time": 1615612440978,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612491678,
+    "title": "relaying signals",
+    "uid": "rXulmB3Qy",
+    "edit-time": 1615612491679,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612491678,
+    "title": "remote sensor",
+    "uid": "4zLM6R4yX",
+    "edit-time": 1615612491679,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612499488,
+    "title": "signal processing",
+    "uid": "MF_d3K2e5",
+    "edit-time": 1615612499489,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612612371,
+    "title": "intrinsic sensor",
+    "uid": "7ZW4g1u2I",
+    "edit-time": 1615612612372,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615612612371,
+    "title": "extrinsic sensor",
+    "uid": "2jJ32_lfD",
+    "edit-time": 1615612612372,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615613573983,
+    "title": "remote sensing",
+    "uid": "W2ruHzulV",
+    "edit-time": 1615613573987,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615613663320,
+    "title": "electrical power",
+    "uid": "_viP8G6K_",
+    "edit-time": 1615613663325,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615613663320,
+    "title": "remote location",
+    "uid": "SI5Rp89CL",
+    "edit-time": 1615613663325,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615614510946,
+    "title": "Unfragment",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "作詞：[chu-ji](https://w.atwiki.jp/hmiku/pages/6336.html)\n作曲：[鼻そうめんP](https://w.atwiki.jp/hmiku/pages/3020.html)\n編曲：鼻そうめんP\n唄：初音ミク",
+        "create-time": 1615614518908,
+        "uid": "PR1R6V_aP",
+        "edit-time": 1615614534735,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "original upload ",
+        "create-time": 1615615496309,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[【初音ミク】Unfragment【オリジナル】](https://www.nicovideo.jp/watch/sm9205429)",
+            "create-time": 1615615498617,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "**2009, Dec 26, 04:16 AM** Post",
+                "create-time": 1615615504549,
+                "uid": "IZl5cplwM",
+                "edit-time": 1615615509542,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Views: **1,157,979** Comments: **29,333** My List: **44,984**",
+                "create-time": 1615615515742,
+                "uid": "g-75qhYoM",
+                "edit-time": 1615615516677,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "T38stbHjn",
+            "edit-time": 1615615500382,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "N2hZXW8QP",
+        "edit-time": 1615615498623,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "曲紹介",
+        "heading": 3,
+        "children": [
+          {
+            "string": "再びミクトランス。",
+            "uid": "fdLIDNBwC",
+            "edit-time": 1615614551895,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "より細かくは、ユーフォリックトランス、プログレッシブハウスなどのジャンルに該当する(gaitō suru)。 It corresponds to a genre such as progressive house.",
+            "uid": "tDKRb1D91",
+            "edit-time": 1615615084877,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "例によって長い長いの突っ込みが溢れるが[まったく飽きさせない]魅力。",
+            "uid": "4Fxlfceor",
+            "edit-time": 1615615033431,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "2018年2月2日、オリジナル曲としては自身初の[ミリオン](https://w.atwiki.jp/hmiku/pages/4386.html)達成。現在ボカロオリジナル曲で[ミリオン](https://w.atwiki.jp/hmiku/pages/4386.html)を達成している曲の一つである。",
+            "uid": "v8bjuO7gE",
+            "edit-time": 1615614551895,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "4JIVluCrA",
+        "edit-time": 1615614551895,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[歌詞](https://w.atwiki.jp/hmiku/pages/7849.html)",
+        "heading": 3,
+        "children": [
+          {
+            "string": "（[ピアプロ](http://piapro.jp/content/rpf9cn7757rimy3f)より転載、少し修正。）",
+            "uid": "sGp9PV1x6",
+            "edit-time": 1615614551895,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "lie, I have to say again\n貴方の言葉を　誰かが憂うように　微笑(わら)う\nache, you give me with a smile\nカラフルな街並み　退屈な時間は　廻る　舞輪る――\n\n遠くて聞こえないよ\n何かが欠けているらしいんだ　お互い\n焦がれた手の距離は　まだ\nどこまで漸近して(ちかづいて)も　ゼロじゃない\n\n体中に絡むアウトライン\n声で触れて世界を　turn it around!\n歪な周波数の中　呼ぶよ　今も\nwaiting ya so call me out\n\n",
+            "create-time": 1615615221464,
+            "uid": "tmPEEHuFp",
+            "edit-time": 1615615221464,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "when all moralists are gone\n暖かな嘘は　バラバラの価値観を　歌う\nwell, have you ever hurt me\nきっと貴方だって　私と違う色を　描く　絵画く――\n\nいつかは　妥協しあうの？\nカナシミ　幻想　キレイゴトすら　don't you see?\nすれ違う涙でも　また　\n嘘をついてしまうより　ずっといい\n\n伸ばしていたはずの両手は\nいつのまにか宙を撫で　slide it down\nそれでも触れていたいから　痛む　言葉\nturn it up and feel me first\n\n",
+            "create-time": 1615615329687,
+            "uid": "nrIqnpqpv",
+            "edit-time": 1615615329687,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "誰かと違う声　フラグメント\n貴方を探し出せば　I'll be there\n体中に差し込んだプラグ　いつか　繋ぐ\nその先――　I touch your world\nso call me first\njust turn it loud",
+            "create-time": 1615614986074,
+            "uid": "QRwAvxeij",
+            "edit-time": 1615615329695,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yQG3DtEZ2",
+        "edit-time": 1615615121509,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "コメント",
+        "heading": 3,
+        "children": [
+          {
+            "string": "音楽ってこんなにすごいものなのかと感じさせられた最高ですＨＳＰ♪ -- 名無しさん (2009-12-30 23:09:25)\nこれはいいトランス -- 名無しさん (2010-01-01 23:40:12)\nぼからん1位おめ！！素敵なトランス。心地よいですね。 -- 名無しさん (2010-01-10 04:33:20)\nなんだ、ただの神か -- 名無しさん (2010-01-11 20:28:32)\nこれは確実に伸びる -- 名無しさん (2010-01-26 12:29:37)\n前奏長いよ！とお約束通り突っ込みたかったけど、前奏すら良くて突っ込めなかった。 -- 名無しさん (2010-02-01 23:30:32)\nミクに英語を歌わせるのが上手すぎる！ -- 颯 (2010-02-11 14:37:52)\n前奏でここまで感動したトランスは初めてでした -- 2℃ (2010-03-12 21:43:55)\nミクの声が似合いますね。個人的にツボです。 -- Mo (2010-03-12 23:15:00)\n前奏もいいし！ミクが英語を唄ってるときの声がキレイ！こういう系が一番大好き！ミクトランスのなかで一番感動した！！ -- ruru☆ (2011-01-08 09:40:22)\n最高!!ミクの声もいい!! -- 名無しさん (2012-06-02 10:30:54)\n落ち着く！神！ -- 夜叉 (2012-06-30 13:01:58)\n色褪せない、ミクトランスの最高曲、PVもレベル高いです。 -- Marc (2012-08-19 01:42:09)\nこれこそ孤高の旋律、Hspさんはすごい方です。欧州でも人気があるようで。世界のミク、かっこいいですね～ -- 純情×感謝 (2013-04-13 23:30:29)\n何という爽快感！それでいて心が落ち着いて癒される。聴いてて心地よいです。 -- 名無しさん (2013-04-24 18:17:39)\nジャンルからすると、むしろ前奏かなり短いですよね。しかもヘッドホンで聴いてるとあっという間に時間が経ってしまう。 -- 名無しさん (2013-04-26 16:15:16)\n曲に感動はしたが、あのミクちゃんが……可愛い…… -- 名無しさん (2013-07-25 22:17:01)\nかっけえ・・・鳥肌たった -- mob (2013-07-27 10:51:01)\nコメ少ないなぁ・・寝る前に聴きたい曲です。音作りが凄すぎ！ -- 名無しさん (2013-10-04 15:17:54)\nPVもいいッス。鼻先生のミクはちょっと垂れ目なんですね。 -- pak_13 (2013-12-23 23:44:45)\nこれでほんとにトベる -- 名無しさん (2016-06-11 09:47:43)\n「痛む言葉」とあるがもしかしたら「悼む言葉」なのかなぁと思ってみたり -- 名無しさん (2016-06-12 20:07:20)\nこの曲はとても良いです。 -- 名無しさん (2017-05-15 11:43:49)\nまともな音響設備で聴いてより深みが増したわ -- 名無しさん (2017-05-31 15:32:59)\n文句のつけようがない。完璧な作品とはまさにこのこと。 -- 名無しさん (2017-06-14 02:51:22)\nもう少しでミリオン！ -- 名無しさん (2017-06-14 02:51:43)\nミクトランス良過ぎ。この曲に夢中です。次回作にも膨らむ期待。 -- 名無しさん (2017-10-10 14:24:26)\n8年かけてミリオン達成。おめでとうございます。名曲 -- 名無しさん (2018-02-02 21:58:11)",
+            "uid": "WjsgWro-X",
+            "edit-time": 1615615448560,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "LYgiFSy2k",
+        "edit-time": 1615615437790,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "yzsVxue-I",
+    "edit-time": 1615614510946,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615617346741,
+    "title": "multiplexed",
+    "uid": "F-j5KVQw4",
+    "edit-time": 1615617346748,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615617372268,
+    "title": "time delay",
+    "uid": "ff2NaGAIc",
+    "edit-time": 1615617372272,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615617394791,
+    "title": "optical time-domain reflectometer",
+    "uid": "4Klr6Ld56",
+    "edit-time": 1615617394794,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615617396043,
+    "title": "wavelength shift",
+    "uid": "XsdEd_aBW",
+    "edit-time": 1615617396045,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615617419534,
+    "title": "optical frequency domain reflectometry",
+    "uid": "nkWJ-roOR",
+    "edit-time": 1615617419537,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
