@@ -88,6 +88,7 @@
                 - {{[[TODO]]}} 超级小白8分钟[上手] obsidian｜obsidian [快速入门](https://www.bilibili.com/video/BV1Sp4y1H7tS)｜安装包分享
                     - **aliya成长记**
                     - 被娃[点燃了求知欲](https://space.bilibili.com/39477772)的妈妈，[内驱力]完全激发的[终身学习者](https://www.zhihu.com/people/aliya-64-53)，拥有第一手的[废柴蜕变]经验，坚信未来的自己会更优秀。
+                    - 如何给obsidian[换主题](https://www.bilibili.com/video/BV1354y1a75d)｜最美主题都在这里｜小白新手入门obsiidian
                 - {{[[TODO]]}} [鹅先知](https://www.zhihu.com/people/LY_x7x7): [这么看来](https://www.zhihu.com/question/436018808/answer/1699804012)，你对 daily note 的理解类似 PARA 处理信息的一种方式，不过这里用的是另一套逻辑，是基于卡片和卡片之间的双向连接和层级关系。
                     - 这个过程其实也是对一些[笔记的typo][进行修改]，一些[未完成的内容]做[填补]。
 我感觉采用 obsidian 这种双向链接和脑图的工具，其实我的很多规矩应该重新考虑。

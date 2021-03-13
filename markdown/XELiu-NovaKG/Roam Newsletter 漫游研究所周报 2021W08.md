@@ -4,7 +4,7 @@
     - - #roamcult # LearnInPublic # LearnWithJimmy # Zettelkasten
     - - [@cn_roam](https://twitter.com/cn_roam) [@RoamResearch](https://twitter.com/RoamResearch) [roam-cn/roamcult.vip](http://roamcult.vip/)
 - [Roam 插件] [[Roam Portal]] 搜索[支持正则表达式]，且[支持中文搜索]，只是[字符统计页面][暂未能支持中文]
-    - 2/ [On the more useful side](https://twitter.com/DharamKapila/status/1365770361086873607), use [[regular expression]]s to [make complex searches] within your entire Roam graph! :) 
+    - {{[[TODO]]}} 2/ [On the more useful side](https://twitter.com/DharamKapila/status/1365770361086873607), use [[regular expression]]s to [make complex searches] within your entire Roam graph! :) 
         - A special thanks to [@zsviczian](https://twitter.com/zsviczian), and his Roam graph, which [helped me understand] [how to build this].
 - [Roam 插件] 仿[GitHub提交记录]的Roam Research[历史记录插件]
     - Only took a day. [#roamcult](https://twitter.com/hashtag/roamcult?src=hashtag_click) [moves quick](https://twitter.com/Conaw/status/1365805362553573377)
