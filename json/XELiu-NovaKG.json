@@ -8402,6 +8402,32 @@
                     }
                   },
                   {
+                    "string": "在介绍以上的功能后，我又是怎么将 Obsidian 与 Logseq [联合使用](https://zhuanlan.zhihu.com/p/349735193)的呢？",
+                    "create-time": 1615734379825,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "例如 `obsidian://open?vault=MyBrain&file=学习方法.pdf` 就能当作一个打开位于 Obsidian 库内的 `学习方法.pdf` 超链接，这样，在我的[使用场景]下，这种[使用体验]就[远强于]使用 `file:///C:/学习方法.pdf` 的[使用体验]，因为我可能会[迁移]自己这个学习方法文件，但是不一定[改名称]，而如果改名称或者[换路径]，使用 `file:///` 实现的链接会[直接失效]。",
+                        "create-time": 1615734382129,
+                        "uid": "Qc1-IHAb0",
+                        "edit-time": 1615734429737,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "L5--jIR75",
+                    "edit-time": 1615734439969,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "本文是 Notion [工程师] Chet 通过一个[警局]内[警察信息管理]的[案例](https://linmi.cc/21897.html)，揭开数据库的[由来]与使用。文章中有说到一句话：大多数人[并不具备]数据库和[信息架构]的[技术素养]。这句话其实已经说明了为什么现在各种[数据库表格类产品]雷声大、雨点小，最终选择[面向 B 端][求生存]。",
                     "children": [
                       {
@@ -93358,7 +93384,7 @@
             }
           },
           {
-            "string": "Macros often allow [[positional parameter]] or [[keyword parameter]]s that dictate what the [[conditional assembler program]] generates 汇编 and have been used to create entire programs or program suites according to such variables as [[operating system (OS)]], platform or other factors. The term derives from \"macro instruction\", and such expansions were originally used in generating [[assembly language]] code.",
+            "string": "Macros often allow [[positional parameter]] or [[keyword parameter]]s that dictate what the [[conditional assembler program]] generates 汇编 and have been used to create entire programs or program suites according to such variables as [[operating system (OS)]], platform or other factors. The term derives from \"macro instruction\", and such expansions were originally used in generating [[assembly language]] code.\n210314-21:55",
             "create-time": 1615685241691,
             ":block/refs": [
               {
@@ -93398,7 +93424,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "Sq1ED0hEi",
-            "edit-time": 1615689172824,
+            "edit-time": 1615730183669,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -93438,6 +93464,112 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1615686538444,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "宏应用",
+        "create-time": 1615730231506,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[应用程序]也可以使用一种和宏[类似机理]的系统来[允许用户]将一系列（一般是[最常使用到的操作]）[自定义为一个步骤]。也就是用户[执行一系列操作]，并且让应用程序来“记住”这些操作以及顺序。[更高级的用户]可以通过[内建的宏编程]来直接使用那些应用程序的功能。",
+            "uid": "aS-xNFgv_",
+            "edit-time": 1615730262455,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "当使用一种不熟悉的[宏语言]来编程时，[比较有效的方法]就是记录一连串[用户希望得到的操作]，然后通过阅读[应用程序记录下来的][宏文件]来理解[宏命令的结构组成]。",
+            "uid": "XUauDglqk",
+            "edit-time": 1615730285011,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "GT_dKFX4A",
+        "edit-time": 1615730231927,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "External links",
+        "create-time": 1615729815197,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[How to write Macro Instructions](http://www.ibm.com/support/knowledgecenter/SSLTBW_2.1.0/com.ibm.zos.v2r1.asma400/macifmt.htm)",
+            "uid": "xINAdZglS",
+            "edit-time": 1615729820288,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Rochester Institute of Technology, Professors Powerpoint](http://meseec.ce.rit.edu/eecc250-winter99/250-2-2-2000.pdf)",
+            "uid": "SrBLGf3uo",
+            "edit-time": 1615729820288,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "kWfOTYwCC",
+        "edit-time": 1615729815642,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1615730007242,
+        "children": [
+          {
+            "string": "[[metaprogramming]]",
+            "create-time": 1615730042102,
+            ":block/refs": [
+              {
+                ":block/uid": "5vfI1oGyE"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5vfI1oGyE"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "XarkM_vis",
+            "edit-time": 1615730049218,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "qaW3_VeUF"
+          }
+        ],
+        "uid": "hI3rAhjhK",
+        ":block/refs": [
+          {
+            ":block/uid": "qaW3_VeUF"
+          }
+        ],
+        "string": "[[programming paradigm]]s",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615729998525,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -93682,6 +93814,801 @@
     "title": "assembly language",
     "uid": "3WSj2wugA",
     "edit-time": 1615689145438,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730007244,
+    "title": "programming paradigm",
+    "uid": "qaW3_VeUF",
+    "edit-time": 1615730007245,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730049220,
+    "title": "metaprogramming",
+    "uid": "5vfI1oGyE",
+    "edit-time": 1615730049221,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730427188,
+    "title": "Fourier optics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1615730859747,
+        "children": [
+          {
+            "string": "A [[curved phasefront]] may be synthesized from [an infinite number of] these \"natural modes\" i.e., from [[plane wave phasefront]]s [oriented in different directions in space]. Far from its sources, an [[expanding spherical wave]] is [[locally tangent]] to 局部相切 a [[planar phase front]] (a single plane wave out of the [[infinite spectrum]]), which is [[transverse]] to the [[radial direction]] of propagation. In this case, a Fraunhofer diffraction pattern is created, which emanates from a single spherical wave phase center. In the near field, no single well-defined spherical wave phase center exists, so the wavefront isn't locally tangent to a spherical ball. In this case, a Fresnel diffraction pattern would be created, which emanates from an extended source, consisting of a distribution of (physically identifiable) spherical wave sources in space. In the near field, a full spectrum of plane waves is necessary to represent the Fresnel near-field wave, even locally. A \"wide\" wave moving forward (like an expanding ocean wave coming toward the shore) can be regarded as an infinite number of \"plane wave modes\", all of which could (when they collide with something in the way) scatter independently of one other. These mathematical simplifications and calculations are the realm of Fourier analysis and synthesis – together, they can describe what happens when light passes through various slits, lenses or mirrors curved one way or the other, or is fully or partially reflected.",
+            "create-time": 1615730437265,
+            ":block/refs": [
+              {
+                ":block/uid": "JeepCUJz4"
+              },
+              {
+                ":block/uid": "NM-oQV3dL"
+              },
+              {
+                ":block/uid": "23q7b-c0V"
+              },
+              {
+                ":block/uid": "YHZmqr6Y8"
+              },
+              {
+                ":block/uid": "dT3mhl1DU"
+              },
+              {
+                ":block/uid": "b12hODCqz"
+              },
+              {
+                ":block/uid": "6x-HgG2mi"
+              },
+              {
+                ":block/uid": "oFziu-waN"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JeepCUJz4"
+              },
+              {
+                "uid": "NM-oQV3dL"
+              },
+              {
+                "uid": "23q7b-c0V"
+              },
+              {
+                "uid": "YHZmqr6Y8"
+              },
+              {
+                "uid": "dT3mhl1DU"
+              },
+              {
+                "uid": "b12hODCqz"
+              },
+              {
+                "uid": "6x-HgG2mi"
+              },
+              {
+                "uid": "oFziu-waN"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "MvOGyFxd5",
+            "edit-time": 1615733661922,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "rn5GU3yMj"
+          },
+          {
+            "uid": "alVLjkR5-"
+          },
+          {
+            "uid": "hJN4z2I8T"
+          },
+          {
+            "uid": "5jmi-Hxz6"
+          },
+          {
+            "uid": "qyqHMDMEw"
+          },
+          {
+            "uid": "4tpHR3xOO"
+          },
+          {
+            "uid": "qxbQ0gf-i"
+          },
+          {
+            "uid": "hn0IdRFo1"
+          },
+          {
+            "uid": "kfjf-YLdA"
+          },
+          {
+            "uid": "bgRLBfO6v"
+          },
+          {
+            "uid": "SfwXC6P5P"
+          }
+        ],
+        "uid": "IpB3tc7qg",
+        ":block/refs": [
+          {
+            ":block/uid": "rn5GU3yMj"
+          },
+          {
+            ":block/uid": "alVLjkR5-"
+          },
+          {
+            ":block/uid": "hJN4z2I8T"
+          },
+          {
+            ":block/uid": "5jmi-Hxz6"
+          },
+          {
+            ":block/uid": "qyqHMDMEw"
+          },
+          {
+            ":block/uid": "4tpHR3xOO"
+          },
+          {
+            ":block/uid": "qxbQ0gf-i"
+          },
+          {
+            ":block/uid": "hn0IdRFo1"
+          },
+          {
+            ":block/uid": "kfjf-YLdA"
+          },
+          {
+            ":block/uid": "bgRLBfO6v"
+          },
+          {
+            ":block/uid": "SfwXC6P5P"
+          }
+        ],
+        "string": "Fourier optics is the study of [[classical optics]] using [[Fourier transforms (FTs)]], in which [the waveform being considered]([[waveform]]) is regarded as made up of a combination, or [[superposition]], of [[plane wave]]s. It [has some parallels to] the [[Huygens–Fresnel principle]], in which the [[wavefront]] is regarded as being made up of a combination of [[spherical wavefront]]s whose sum is [the wavefront being studied]. A [key difference] is that Fourier optics considers the plane waves to be [[natural mode]]s of the [[propagation medium]], as opposed to Huygens–Fresnel, where the spherical waves originate in the [[physical medium]].\n210314-22:05",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615730440171,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Fourier optics [forms much of the theory] behind [[image processing]] techniques, as well as finding applications where [information needs to be extracted from]([[extract information]]) [[optical source]]s such as in [[quantum optics]]. To put it in [a slightly more complex way], similar to [the concept of frequency and time] used in [traditional Fourier transform theory], Fourier optics makes use of the [[spatial frequency domain]] (kx, ky) as the [[conjugate]] of the [[spatial domain]] (x, y). [Terms and concepts] such as transform theory, spectrum, bandwidth, window functions and sampling from one-dimensional signal processing are commonly used.\n210314-23:00",
+        "create-time": 1615730458451,
+        ":block/refs": [
+          {
+            ":block/uid": "uJfG7U3JI"
+          },
+          {
+            ":block/uid": "aLx1Jz6LY"
+          },
+          {
+            ":block/uid": "nWXe2OmyF"
+          },
+          {
+            ":block/uid": "11qCCbJfT"
+          },
+          {
+            ":block/uid": "vZZFJGVDE"
+          },
+          {
+            ":block/uid": "1MOrVv76n"
+          },
+          {
+            ":block/uid": "GyBCJaz0h"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "uJfG7U3JI"
+          },
+          {
+            "uid": "aLx1Jz6LY"
+          },
+          {
+            "uid": "nWXe2OmyF"
+          },
+          {
+            "uid": "11qCCbJfT"
+          },
+          {
+            "uid": "vZZFJGVDE"
+          },
+          {
+            "uid": "1MOrVv76n"
+          },
+          {
+            "uid": "GyBCJaz0h"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "oX_zJSgfk",
+        "edit-time": 1615734019188,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1615735961695,
+        "children": [
+          {
+            "edit-time": 1615735911061,
+            "children": [
+              {
+                "string": "where $$\\mathbf {r} =(x,y,z)$$ represents position in [[three dimensional space]], and __t__ represents time.",
+                "create-time": 1615735802482,
+                ":block/refs": [
+                  {
+                    ":block/uid": "eMZLkBV6q"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "eMZLkBV6q"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "l7oiMu3Qn",
+                "edit-time": 1615735836351,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "H-aZ-PBrA"
+              },
+              {
+                "uid": "mdtLAF2w4"
+              },
+              {
+                "uid": "BA3aa9Y-X"
+              },
+              {
+                "uid": "zKSgIRwwk"
+              },
+              {
+                "uid": "j3_NzKuJp"
+              },
+              {
+                "uid": "GbcAZ991l"
+              },
+              {
+                "uid": "Tc952ffsI"
+              }
+            ],
+            "uid": "lqWMwKQlq",
+            ":block/refs": [
+              {
+                ":block/uid": "H-aZ-PBrA"
+              },
+              {
+                ":block/uid": "mdtLAF2w4"
+              },
+              {
+                ":block/uid": "BA3aa9Y-X"
+              },
+              {
+                ":block/uid": "zKSgIRwwk"
+              },
+              {
+                ":block/uid": "j3_NzKuJp"
+              },
+              {
+                ":block/uid": "GbcAZ991l"
+              },
+              {
+                ":block/uid": "Tc952ffsI"
+              }
+            ],
+            "string": "Light can be described as [a waveform propagating through] [[free space]] ([[vacuum]]) or a [[material medium]] (such as air or glass). Mathematically, the (real valued) [[amplitude]] of one [[wave component]] is represented by a [[scalar wave function]] __u__ that [depends on both space and time]: $$u=u(\\mathbf {r} ,t)$$ #mathbf",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1615735742760,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "KYWFfcQib"
+          },
+          {
+            "uid": "R_x22vVIU"
+          },
+          {
+            "uid": "KMixFK8bo"
+          }
+        ],
+        "uid": "0ZDevC1Kh",
+        ":block/refs": [
+          {
+            ":block/uid": "KYWFfcQib"
+          },
+          {
+            ":block/uid": "R_x22vVIU"
+          },
+          {
+            ":block/uid": "KMixFK8bo"
+          }
+        ],
+        "string": "[Propagation of light]([[light propagation]]) in [[homogeneous media]], [[source-free media]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1615735742291,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 2
+      }
+    ],
+    "uid": "0RHNsfuwn",
+    "edit-time": 1615730427188,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730508184,
+    "title": "classical optics",
+    "uid": "rn5GU3yMj",
+    "edit-time": 1615730508204,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730508184,
+    "title": "Fourier transforms (FTs)",
+    "uid": "alVLjkR5-",
+    "edit-time": 1615730508204,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730508184,
+    "title": "superposition",
+    "uid": "hJN4z2I8T",
+    "edit-time": 1615730508204,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730508184,
+    "title": "plane wave",
+    "uid": "5jmi-Hxz6",
+    "edit-time": 1615730508204,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730520758,
+    "title": "waveform",
+    "uid": "qyqHMDMEw",
+    "edit-time": 1615730520759,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730534036,
+    "title": "Huygens–Fresnel principle",
+    "uid": "4tpHR3xOO",
+    "edit-time": 1615730534037,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730551523,
+    "title": "wavefront",
+    "uid": "qxbQ0gf-i",
+    "edit-time": 1615730551524,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730551523,
+    "title": "spherical wavefront",
+    "uid": "hn0IdRFo1",
+    "edit-time": 1615730551524,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730676574,
+    "title": "natural mode",
+    "uid": "kfjf-YLdA",
+    "edit-time": 1615730676582,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730676574,
+    "title": "propagation medium",
+    "uid": "bgRLBfO6v",
+    "edit-time": 1615730676582,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615730676574,
+    "title": "physical medium",
+    "uid": "SfwXC6P5P",
+    "edit-time": 1615730676582,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733536894,
+    "title": "curved phasefront",
+    "uid": "JeepCUJz4",
+    "edit-time": 1615733536896,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733568310,
+    "title": "plane wave phasefront",
+    "uid": "NM-oQV3dL",
+    "edit-time": 1615733568311,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733610093,
+    "title": "expanding spherical wave",
+    "uid": "23q7b-c0V",
+    "edit-time": 1615733610094,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733610093,
+    "title": "planar phase front",
+    "uid": "YHZmqr6Y8",
+    "edit-time": 1615733610094,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733610093,
+    "title": "infinite spectrum",
+    "uid": "dT3mhl1DU",
+    "edit-time": 1615733610094,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733639204,
+    "title": "locally tangent",
+    "uid": "b12hODCqz",
+    "edit-time": 1615733639206,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733661942,
+    "title": "transverse",
+    "uid": "6x-HgG2mi",
+    "edit-time": 1615733661943,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733661942,
+    "title": "radial direction",
+    "uid": "oFziu-waN",
+    "edit-time": 1615733661943,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733852372,
+    "title": "image processing",
+    "uid": "aLx1Jz6LY",
+    "edit-time": 1615733852372,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733865956,
+    "title": "optical source",
+    "uid": "nWXe2OmyF",
+    "edit-time": 1615733865956,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733891256,
+    "title": "extract information",
+    "uid": "11qCCbJfT",
+    "edit-time": 1615733891259,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733970803,
+    "title": "spatial frequency domain",
+    "uid": "vZZFJGVDE",
+    "edit-time": 1615733970804,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733989280,
+    "title": "conjugate",
+    "uid": "1MOrVv76n",
+    "edit-time": 1615733989281,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615733989280,
+    "title": "spatial domain",
+    "uid": "GyBCJaz0h",
+    "edit-time": 1615733989281,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735836354,
+    "title": "three dimensional space",
+    "uid": "eMZLkBV6q",
+    "edit-time": 1615735836361,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735872559,
+    "title": "free space",
+    "uid": "H-aZ-PBrA",
+    "edit-time": 1615735872560,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735872559,
+    "title": "vacuum",
+    "uid": "mdtLAF2w4",
+    "edit-time": 1615735872560,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735872559,
+    "title": "material medium",
+    "uid": "BA3aa9Y-X",
+    "edit-time": 1615735872560,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735903934,
+    "title": "amplitude",
+    "uid": "zKSgIRwwk",
+    "edit-time": 1615735903935,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735903934,
+    "title": "wave component",
+    "uid": "j3_NzKuJp",
+    "edit-time": 1615735903935,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735903934,
+    "title": "scalar wave function",
+    "uid": "GbcAZ991l",
+    "edit-time": 1615735903935,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735911062,
+    "title": "mathbf",
+    "uid": "Tc952ffsI",
+    "edit-time": 1615735911064,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735940852,
+    "title": "homogeneous media",
+    "uid": "KYWFfcQib",
+    "edit-time": 1615735940853,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735942514,
+    "title": "source-free media",
+    "uid": "R_x22vVIU",
+    "edit-time": 1615735942515,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615735961697,
+    "title": "light propagation",
+    "uid": "KMixFK8bo",
+    "edit-time": 1615735961698,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

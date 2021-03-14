@@ -658,6 +658,8 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
                 - 3. 后面[就没看过书了]，[工作了][开始看了一点] W3C 的 [CSS 规范]。[查文档]主要就是 MDN / MSDN / [QuirksMode](https://link.zhihu.com/?target=http%3A//QuirksMode.org) / Can I Use / StackOverflow 等[在线资源]，包括一些博客的文章（CSS Tricks/ALA/...）。
                 - 4. CSS 的书说真的就看[完整看过一本]，接下来 [@CSS魔法](https://www.zhihu.com/people/22964042e90fd3fd3612455d98af3cd2) 翻译的《[CSS Secrets](https://link.zhihu.com/?target=https%3A//github.com/cssmagic/CSS-Secrets/)》可能会[搞来看看]（[广告费][请发微信红包]给我）。
                 - [自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…
+            - 在介绍以上的功能后，我又是怎么将 Obsidian 与 Logseq [联合使用](https://zhuanlan.zhihu.com/p/349735193)的呢？
+                - 例如 `obsidian://open?vault=MyBrain&file=学习方法.pdf` 就能当作一个打开位于 Obsidian 库内的 `学习方法.pdf` 超链接，这样，在我的[使用场景]下，这种[使用体验]就[远强于]使用 `file:///C:/学习方法.pdf` 的[使用体验]，因为我可能会[迁移]自己这个学习方法文件，但是不一定[改名称]，而如果改名称或者[换路径]，使用 `file:///` 实现的链接会[直接失效]。
             - 本文是 Notion [工程师] Chet 通过一个[警局]内[警察信息管理]的[案例](https://linmi.cc/21897.html)，揭开数据库的[由来]与使用。文章中有说到一句话：大多数人[并不具备]数据库和[信息架构]的[技术素养]。这句话其实已经说明了为什么现在各种[数据库表格类产品]雷声大、雨点小，最终选择[面向 B 端][求生存]。
                 - 原文：[A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets/)
                 - [终端用户数据库]是最近[最热门的产品] -- Notion、Airtable、Coda、Roam 等。这些产品可以让人用一种更自然、更直观的方式[对信息进行建模]，这与我们[日常生活中]的[体验方式]是一样的。
