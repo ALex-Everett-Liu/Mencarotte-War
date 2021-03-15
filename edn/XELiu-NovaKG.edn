@@ -322,7 +322,7 @@
   [3837 :edit/time 1611963854303 536887715]
   [3837 :edit/user 3 536887715]
   [3838 :block/children 3839 536887715]
-  [3838 :block/open false 536907221]
+  [3838 :block/open false 536917289]
   [3838 :block/order 0 536887715]
   [3838 :block/page 3828 536887720]
   [3838 :block/parents 3828 536887720]
@@ -343,11 +343,11 @@
   [3839
    :block/string
    "```css\n@import url('https://jmharris903.github.io/Railscast-for-Roam-Research-Theme/RailsRoam.css');```"
-   536906555]
+   536917279]
   [3839 :block/uid "9JiiLJKGL" 536887715]
   [3839 :create/time 1610009725706 536887715]
   [3839 :create/user 3 536887715]
-  [3839 :edit/time 1614680015531 536906555]
+  [3839 :edit/time 1615831793625 536917279]
   [3839 :edit/user 3 536887715]
   [3840 :block/children 3842 536887729]
   [3840 :block/open true 536887729]
@@ -419,7 +419,7 @@
   [3845 :block/children 9223 536908167]
   [3845 :block/children 9224 536908178]
   [3845 :block/children 9225 536908210]
-  [3845 :block/open true 536887804]
+  [3845 :block/open false 536917272]
   [3845 :block/order 1 536887729]
   [3845 :block/page 3840 536887755]
   [3845 :block/parents 3840 536887755]
@@ -1474,7 +1474,7 @@
   [3908 :edit/user 3 536887765]
   [3911 :block/children 3913 536906005]
   [3911 :block/children 8817 536906008]
-  [3911 :block/open false 536916297]
+  [3911 :block/open false 536917283]
   [3911 :block/order 0 536887765]
   [3911 :block/page 3902 536887769]
   [3911 :block/parents 3902 536887769]
@@ -51856,7 +51856,7 @@
   [8794 :edit/time 1614614484103 536905827]
   [8794 :edit/user 3 536905819]
   [8795 :block/children 8796 536905861]
-  [8795 :block/open false 536914406]
+  [8795 :block/open false 536917288]
   [8795 :block/order 11 536906102]
   [8795 :block/page 3828 536905855]
   [8795 :block/parents 3828 536905855]
@@ -51874,11 +51874,11 @@
   [8796
    :block/string
    "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--body__background-color: rgba(155,207,238,0.3);\n  \t--main-font__color: #E6D5F4;\n  \t--main-font__font-family: 'Georgia', serif;\n  \t--main-font__font-size: 17px;\n    /* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;\n  \t/* topbar */\n  \t--search__background: rgba(202,202,139,0.2);\n  \t--search__background-color_selected-row: #4c4c4c;\n    /* icons */\n  \t--icon__background-color_hover: rgba(167, 182, 194, 0.3);\n  \t--icon__color: rgba(225,75,13,0.5);\n  \t--icon__color_hover: #e78924;\n  \t--filter__color_subscript: #5c7080;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-article {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```"
-   536913434]
+   536917281]
   [8796 :block/uid "J0YVQSDDZ" 536905859]
   [8796 :create/time 1614620922794 536905859]
   [8796 :create/user 3 536905859]
-  [8796 :edit/time 1615408145473 536913434]
+  [8796 :edit/time 1615831809992 536917281]
   [8796 :edit/user 3 536905859]
   [8803 :block/string "" 536905880]
   [8803 :block/uid "INh3_3hKM" 536905880]
@@ -66171,8 +66171,8 @@
   [10251 :version/id "0.8.3" 536913039]
   [10251
    :version/nonce
-   "uuid006e72e8-a9d6-4d11-9a63-f08a12f2369f"
-   536917270]
+   "uuid1c1be97b-d7b0-4d0b-8d4b-1b6da9d6ec4e"
+   536917290]
   [10253 :block/string "" 536913048]
   [10253 :block/uid "rse6Hh4SO" 536913048]
   [10253 :edit/time 1615393413033 536913048]
@@ -76502,4 +76502,11 @@
   [11320 :edit/time 1615771503292 536917270]
   [11320 :edit/user 3 536917270]
   [11320 :log/id 1615771503291 536917270]
-  [11320 :node/title "March 15th, 2021" 536917270]]}
+  [11320 :node/title "March 15th, 2021" 536917270]
+  [11321 :block/uid "03-16-2021" 536917271]
+  [11321 :create/time 1615831609559 536917271]
+  [11321 :create/user 3 536917271]
+  [11321 :edit/time 1615831609559 536917271]
+  [11321 :edit/user 3 536917271]
+  [11321 :log/id 1615831609554 536917271]
+  [11321 :node/title "March 16th, 2021" 536917271]]}
