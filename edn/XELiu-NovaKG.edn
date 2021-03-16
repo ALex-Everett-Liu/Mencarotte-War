@@ -82,32 +82,16 @@
     :link-brackets? true,
     :allow-custom-components? true,
     :right-sidebar-pinned
-    {"uuida278bba2-4691-42e3-a6e2-8888b947eaf1"
-     {:page-uid "MQYWiGTyQ",
-      :window-id "uuida278bba2-4691-42e3-a6e2-8888b947eaf1",
-      :type :outline,
-      :pinned? true,
-      :collapsed? true,
-      :order 0,
-      :content-id "MQYWiGTyQ"},
-     "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66"
-     {:page-uid "WnHQsRcsa",
-      :window-id "uuid17c27c4c-c6fb-4952-b987-c73e0d337a66",
-      :type :outline,
-      :pinned? true,
-      :collapsed? true,
-      :order 1,
-      :content-id "WnHQsRcsa"},
-     "uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
+    {"uuid15657af4-fafd-45cb-8f11-01189ff93c5b"
      {:page-uid "Vj9Rpr3De",
       :window-id "uuid15657af4-fafd-45cb-8f11-01189ff93c5b",
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 2,
+      :order 0,
       :content-id "Vj9Rpr3De"}},
     :roam/js {:active-blocks #{"OrKb9pc_c"}}}
-   536916300]
+   536917336]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [4 :block/uid "01-30-2021" 536870916]
   [4 :create/time 1611962030919 536870916]
@@ -214,6 +198,7 @@
   [3828 :block/children 8823 536906054]
   [3828 :block/children 8826 536906084]
   [3828 :block/children 8828 536906097]
+  [3828 :block/children 11325 536917314]
   [3828 :block/open true 536887715]
   [3828 :block/uid "ymIQvLeKU" 536887712]
   [3828 :create/time 1611963790954 536887712]
@@ -322,7 +307,7 @@
   [3837 :edit/time 1611963854303 536887715]
   [3837 :edit/user 3 536887715]
   [3838 :block/children 3839 536887715]
-  [3838 :block/open false 536917296]
+  [3838 :block/open false 536917325]
   [3838 :block/order 0 536887715]
   [3838 :block/page 3828 536887720]
   [3838 :block/parents 3828 536887720]
@@ -358,7 +343,7 @@
   [3840 :edit/time 1611964070111 536887726]
   [3840 :edit/user 3 536887726]
   [3840 :node/title "score" 536887726]
-  [3840 :page/sidebar 1 536887836]
+  [3840 :page/sidebar 1 536917342]
   [3842 :block/children 3843 536887729]
   [3842 :block/children 3896 536887729]
   [3842 :block/children 5814 536893548]
@@ -1417,7 +1402,7 @@
   [3902 :edit/time 1611964913296 536887762]
   [3902 :edit/user 3 536887762]
   [3902 :node/title "temp" 536887762]
-  [3902 :page/sidebar 2 536887836]
+  [3902 :page/sidebar 2 536917342]
   [3904 :block/children 8804 536906042]
   [3904 :block/open true 536916299]
   [3904 :block/order 1 536906005]
@@ -1433,7 +1418,7 @@
   [3906 :block/children 3907 536887765]
   [3906 :block/children 3908 536887765]
   [3906 :block/children 4980 536891279]
-  [3906 :block/open true 536912760]
+  [3906 :block/open false 536917313]
   [3906 :block/order 2 536906042]
   [3906 :block/page 3902 536887768]
   [3906 :block/parents 3902 536887768]
@@ -1523,7 +1508,7 @@
   [3914 :edit/time 1611965020226 536887779]
   [3914 :edit/user 3 536887779]
   [3914 :node/title "todo list" 536887779]
-  [3914 :page/sidebar 3 536887837]
+  [3914 :page/sidebar 3 536917342]
   [3916 :block/children 3917 536887782]
   [3916 :block/children 3919 536887782]
   [3916 :block/open true 536887782]
@@ -1807,10 +1792,9 @@
   [3936 :create/time 1611966234209 536887828]
   [3936 :create/user 3 536887828]
   [3936 :edit/seen-by 3 536891457]
-  [3936 :edit/time 1611966234210 536887828]
+  [3936 :edit/time 1615912144346 536917299]
   [3936 :edit/user 3 536887828]
-  [3936 :node/title "Home Page" 536887828]
-  [3936 :page/sidebar 0 536887836]
+  [3936 :node/title "Home Page (old)" 536917299]
   [3937 :block/children 5159 536891599]
   [3937 :block/children 6512 536895634]
   [3937 :block/children 6513 536895636]
@@ -2395,7 +2379,7 @@
   [3971 :edit/time 1611983561515 536888080]
   [3971 :edit/user 3 536888080]
   [3971 :node/title "text color" 536888080]
-  [3971 :page/sidebar 4 536909894]
+  [3971 :page/sidebar 4 536917342]
   [3974 :block/children 3975 536888083]
   [3974 :block/children 3990 536888083]
   [3974 :block/children 4009 536888083]
@@ -10893,7 +10877,7 @@
    :node/title
    "extract example sentences from the dictionary"
    536891005]
-  [4745 :page/sidebar 6 536892235]
+  [4745 :page/sidebar 6 536917342]
   [4747 :block/open true 536891010]
   [4747 :block/order 1 536891010]
   [4747 :block/page 4745 536891016]
@@ -14623,7 +14607,7 @@
   [5120 :edit/time 1612748502468 536891474]
   [5120 :edit/user 3 536891474]
   [5120 :node/title "word map" 536891474]
-  [5120 :page/sidebar 5 536909894]
+  [5120 :page/sidebar 5 536917342]
   [5121 :block/children 5122 536891481]
   [5121 :block/children 5144 536891539]
   [5121 :block/children 5145 536891539]
@@ -51856,7 +51840,7 @@
   [8794 :edit/time 1614614484103 536905827]
   [8794 :edit/user 3 536905819]
   [8795 :block/children 8796 536905861]
-  [8795 :block/open false 536917288]
+  [8795 :block/open false 536917339]
   [8795 :block/order 11 536906102]
   [8795 :block/page 3828 536905855]
   [8795 :block/parents 3828 536905855]
@@ -51873,12 +51857,12 @@
   [8796 :block/parents 8795 536905862]
   [8796
    :block/string
-   "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--body__background-color: rgba(155,207,238,0.3);\n  \t--main-font__color: #E6D5F4;\n  \t--main-font__font-family: 'Georgia', serif;\n  \t--main-font__font-size: 17px;\n    /* right sidebar */\n  \t--right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--right-sidebar__border: #e9892475;\n  \t--right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--right-sidebar-masonry__border: #3d3d3d;\n  \t/* topbar */\n  \t--search__background: rgba(202,202,139,0.2);\n  \t--search__background-color_selected-row: #4c4c4c;\n    /* icons */\n  \t--icon__background-color_hover: rgba(167, 182, 194, 0.3);\n  \t--icon__color: rgba(225,75,13,0.5);\n  \t--icon__color_hover: #e78924;\n  \t--filter__color_subscript: #5c7080;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n.rm-block-text {\n  max-width: 100%;\n}\n\n.roam-article {\n  max-width: 100%;\n}\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```"
-   536917281]
+   "```css\n@import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); \n/*  @import \"../fonts/Inter/inter.css\"; */\n\n:root {\n  \t/* Rainbow indentation */\n    --box-shadow-values: 25px 0px 20px -30px; /* Set to \"none\" to remove shadow, default is 25px 0px 20px -30px */\n    --indent1: #6c71c4ad;\n    --indent2: #268bd2ad;\n    --indent3: #859900ad;\n    --indent4: #b58900ad;\n    --indent5: #cb4b16ad;\n    --indent6: #d33682ad;\n    --indent7: #2aa198ad;\n    --indent8: #6c71c4ad;\n    --indent9: #268bd2ad;\n    --indent10: #859900ad;\n    --indent11: #b58900ad;\n    --indent12: #cb4b16ad;\n    --indent13: #d33682ad;\n    --indent14: #2aa198ad;\n    --indent15: #6c71c4ad;\n    --indent16: #268bd2ad;\n    --indent17: #859900ad;\n    --indent18: #b58900ad;\n\t/* my change */\n  \t--rm-body__background-color: rgba(155,207,238,0.3);\n  \t--rm-main-font__color: #E6D5F4;\n  \t--rm-main-font__font-family: 'Georgia', serif;\n  \t--rm-main-font__font-size: 17px;\n    /* right sidebar */\n  \t--rm-right-sidebar__color_title-closed: var(--accent__color-font);\n  \t--rm-right-sidebar__background-color: rgba(155,114,212,0.1);\n  \t--rm-right-sidebar__border: #e9892475;\n  \t--rm-right-sidebar-masonry__background-color: var(--body__background-color);\n  \t--rm-right-sidebar-masonry__border: #3d3d3d;\n  \t/* topbar */\n  \t--rm-search__background: rgba(202,202,139,0.2);\n  \t--rm-search__background-color_selected-row: #4c4c4c;\n    /* icons */\n  \t--rm-icon__background-color_hover: rgba(167, 182, 194, 0.3);\n  \t--rm-icon__color: rgba(225,75,13,0.5);\n  \t--rm-icon__color_hover: #e78924;\n  \t--rm-filter__color_subscript: #5c7080;\n}\n\n/* scrollbar */\n::-webkit-scrollbar {\n    width: 15px;\n  \tbackground-color: rgba(234,64,126,0.2);\n}\n\n/* body background */\nbody {\n  \ttransition: background-image 1s ease-in-out;\n    background-image: url(\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc\");\n    background-attachment: fixed;\n    background-repeat: no-repeat;\n    background-size: cover;\n}\n\n/* Body styles */\n.roam-block-container {\n  background-color: rgba(86,112,112,0.6);\n  border: none;\n  border-radius: 3px;\n  max-width: 100%;\n}\n\n/*  .rm-block-text {\n  max-width: 100%;\n} */\n\n/*  .roam-article {\n  max-width: 100%;\n} */\n\n.roam-center {\n  flex-basis: 50% !important;\n}\n```"
+   536917338]
   [8796 :block/uid "J0YVQSDDZ" 536905859]
   [8796 :create/time 1614620922794 536905859]
   [8796 :create/user 3 536905859]
-  [8796 :edit/time 1615831809992 536917281]
+  [8796 :edit/time 1615914251741 536917338]
   [8796 :edit/user 3 536905859]
   [8803 :block/string "" 536905880]
   [8803 :block/uid "INh3_3hKM" 536905880]
@@ -66171,8 +66155,8 @@
   [10251 :version/id "0.8.3" 536913039]
   [10251
    :version/nonce
-   "uuid3b7f9622-7907-4896-9981-87edea94cb00"
-   536917297]
+   "uuid97dd845a-a031-4f05-9291-ad2098306d42"
+   536917365]
   [10253 :block/string "" 536913048]
   [10253 :block/uid "rse6Hh4SO" 536913048]
   [10253 :edit/time 1615393413033 536913048]
@@ -76509,4 +76493,106 @@
   [11321 :edit/time 1615831609559 536917271]
   [11321 :edit/user 3 536917271]
   [11321 :log/id 1615831609554 536917271]
-  [11321 :node/title "March 16th, 2021" 536917271]]}
+  [11321 :node/title "March 16th, 2021" 536917271]
+  [11322 :block/children 11323 536917300]
+  [11322 :block/children 11327 536917343]
+  [11322 :block/uid "03-17-2021" 536917298]
+  [11322 :create/time 1615912130123 536917298]
+  [11322 :create/user 3 536917298]
+  [11322 :edit/time 1615912130123 536917298]
+  [11322 :edit/user 3 536917298]
+  [11322 :log/id 1615912130122 536917298]
+  [11322 :node/title "March 17th, 2021" 536917298]
+  [11323 :block/open true 536917300]
+  [11323 :block/order 0 536917300]
+  [11323 :block/page 11322 536917301]
+  [11323 :block/parents 11322 536917301]
+  [11323 :block/refs 11324 536917306]
+  [11323 :block/string "00:28 [[Home Page]]" 536917305]
+  [11323 :block/uid "s4U9Y-QzB" 536917300]
+  [11323 :create/time 1615912151213 536917300]
+  [11323 :create/user 3 536917300]
+  [11323 :edit/time 1615912179950 536917305]
+  [11323 :edit/user 3 536917300]
+  [11324 :block/children 11328 536917351]
+  [11324 :block/uid "hrM1f82i4" 536917306]
+  [11324 :create/time 1615912179953 536917306]
+  [11324 :create/user 3 536917306]
+  [11324 :edit/time 1615912179954 536917306]
+  [11324 :edit/user 3 536917306]
+  [11324 :node/title "Home Page" 536917306]
+  [11324 :page/sidebar 0 536917341]
+  [11325 :block/children 11326 536917319]
+  [11325 :block/open false 536917335]
+  [11325 :block/order 12 536917314]
+  [11325 :block/page 3828 536917315]
+  [11325 :block/parents 3828 536917315]
+  [11325 :block/string "my test theme 02" 536917333]
+  [11325 :block/uid "-gw8_b8_V" 536917314]
+  [11325 :create/time 1615912316250 536917314]
+  [11325 :create/user 3 536917314]
+  [11325 :edit/time 1615914190074 536917333]
+  [11325 :edit/user 3 536917314]
+  [11326 :block/open true 536917317]
+  [11326 :block/order 0 536917319]
+  [11326 :block/page 3828 536917318]
+  [11326 :block/parents 3828 536917318]
+  [11326 :block/parents 11325 536917320]
+  [11326 :block/string "```javascript\n\n```" 536917322]
+  [11326 :block/uid "NzWtxnVL1" 536917317]
+  [11326 :create/time 1615912317301 536917317]
+  [11326 :create/user 3 536917317]
+  [11326 :edit/time 1615912325651 536917322]
+  [11326 :edit/user 3 536917317]
+  [11327 :block/open true 536917343]
+  [11327 :block/order 1 536917343]
+  [11327 :block/page 11322 536917344]
+  [11327 :block/parents 11322 536917344]
+  [11327 :block/string "01:01 fix roam/css" 536917350]
+  [11327 :block/uid "zIzGYVP-6" 536917343]
+  [11327 :create/time 1615914311155 536917343]
+  [11327 :create/user 3 536917343]
+  [11327 :edit/time 1615914339378 536917350]
+  [11327 :edit/user 3 536917343]
+  [11328 :block/children 11329 536917356]
+  [11328 :block/open true 536917351]
+  [11328 :block/order 0 536917351]
+  [11328 :block/page 11324 536917352]
+  [11328 :block/parents 11324 536917352]
+  [11328 :block/string "personal" 536917353]
+  [11328 :block/uid "6e2N5_HJk" 536917351]
+  [11328 :create/time 1615914512022 536917351]
+  [11328 :create/user 3 536917351]
+  [11328 :edit/time 1615914516244 536917353]
+  [11328 :edit/user 3 536917351]
+  [11329 :block/children 11330 536917361]
+  [11329 :block/open true 536917354]
+  [11329 :block/order 0 536917356]
+  [11329 :block/page 11324 536917355]
+  [11329 :block/parents 11324 536917355]
+  [11329 :block/parents 11328 536917357]
+  [11329 :block/string "meiz" 536917360]
+  [11329 :block/uid "3w6LYfOWe" 536917354]
+  [11329 :create/time 1615914516303 536917354]
+  [11329 :create/user 3 536917354]
+  [11329 :edit/time 1615914518147 536917360]
+  [11329 :edit/user 3 536917354]
+  [11330 :block/open true 536917358]
+  [11330 :block/order 0 536917361]
+  [11330 :block/page 11324 536917359]
+  [11330 :block/parents 11324 536917359]
+  [11330 :block/parents 11328 536917359]
+  [11330 :block/parents 11329 536917362]
+  [11330 :block/refs 11331 536917365]
+  [11330 :block/string "[[DCIM]]" 536917364]
+  [11330 :block/uid "m_GWRpEsL" 536917358]
+  [11330 :create/time 1615914518140 536917358]
+  [11330 :create/user 3 536917358]
+  [11330 :edit/time 1615914528644 536917364]
+  [11330 :edit/user 3 536917358]
+  [11331 :block/uid "rxBYY6oJp" 536917365]
+  [11331 :create/time 1615914528648 536917365]
+  [11331 :create/user 3 536917365]
+  [11331 :edit/time 1615914528650 536917365]
+  [11331 :edit/user 3 536917365] 
+  [11331 :node/title "DCIM" 536917365]]}
