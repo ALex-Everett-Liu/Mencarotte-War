@@ -9599,7 +9599,7 @@
             "string": "",
             "create-time": 1614621178366,
             "uid": "MgDaEudbv",
-            "edit-time": 1615679131452,
+            "edit-time": 1616006401044,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -34482,6 +34482,42 @@
             ],
             "uid": "0caYFwpJd",
             "edit-time": 1613871040952,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "high heeled",
+            "create-time": 1616000603523,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[[black high heeled]]",
+                "create-time": 1616000609629,
+                ":block/refs": [
+                  {
+                    ":block/uid": "EY3mRIjEX"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "EY3mRIjEX"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "I5TPFs8h6",
+                "edit-time": 1616000628569,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "f7NyfEqa6",
+            "edit-time": 1616000609280,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -90945,6 +90981,92 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "preface - p7",
+        "create-time": 1615996850674,
+        "uid": "jLN2e-aTr",
+        "edit-time": 1615996855893,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "ch1. 光的传播",
+        "create-time": 1615996928181,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "光的微粒理论-微粒流",
+            "create-time": 1615996975459,
+            "uid": "FLr9ItcF9",
+            "edit-time": 1615996994217,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1616006615531,
+            "children": [
+              {
+                "string": "光的偏振现象-横波",
+                "create-time": 1616006236881,
+                "uid": "aI-ue4coR",
+                "edit-time": 1616006249619,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "光在水中的速度-Foucault",
+                "create-time": 1616006282992,
+                "uid": "KmwmDbRaB",
+                "edit-time": 1616006300870,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Eohr05fo-"
+              }
+            ],
+            "uid": "4d5evbLA9",
+            ":block/refs": [
+              {
+                ":block/uid": "Eohr05fo-"
+              }
+            ],
+            "string": "光的波动理论-弹性介质中传播的机械波-纵波还是[横波]([[transverse wave]])？",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1616006158174,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "AakrTTc3P",
+        "edit-time": 1615996939607,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "UAHsgVA1L",
@@ -94792,6 +94914,28 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "[[CRR]]",
+                "create-time": 1616000575768,
+                ":block/refs": [
+                  {
+                    ":block/uid": "6N9eUWVPk"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "6N9eUWVPk"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "I-3ssXXEb",
+                "edit-time": 1616000579384,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "3w6LYfOWe",
@@ -94817,11 +94961,55 @@
   {
     "create-time": 1615914528648,
     "title": "DCIM",
-    "uid": "rxBYY6oJp",
-    "edit-time": 1615914528650,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "Nanjing. 2021.3.15~",
+        "create-time": 1616000412857,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[March 17th, 2021]] -- [[DCIM - March 17th, 2021]]",
+            "create-time": 1616000800580,
+            ":block/refs": [
+              {
+                ":block/uid": "03-17-2021"
+              },
+              {
+                ":block/uid": "lBu5Y6oVX"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-17-2021"
+              },
+              {
+                "uid": "lBu5Y6oVX"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ZBsat91hU",
+            "edit-time": 1616000841478,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "F4FrDqJxI",
+        "edit-time": 1616000454142,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rxBYY6oJp",
+    "edit-time": 1615914528650,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -94851,6 +95039,28 @@
         },
         "uid": "38J9c3HW_",
         "edit-time": 1615969225380,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[wave]]",
+        "create-time": 1616006572741,
+        ":block/refs": [
+          {
+            ":block/uid": "ZXOdWjrZm"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZXOdWjrZm"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "rabUvOZ1p",
+        "edit-time": 1616006576586,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -94894,6 +95104,354 @@
     ],
     "uid": "OPqfkagno",
     "edit-time": 1615969225389,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1615996838311,
+    "title": "March 18th, 2021",
+    "uid": "03-18-2021",
+    "edit-time": 1615996838311,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616000472449,
+    "title": "pt10-100",
+    "uid": "ZDExyfW9l",
+    "edit-time": 1616000472451,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616000477195,
+    "title": "laopo",
+    "uid": "pKRc7jZp_",
+    "edit-time": 1616000477195,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616000509508,
+    "title": "black high heeled",
+    "uid": "EY3mRIjEX",
+    "edit-time": 1616000509523,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616000528964,
+    "title": "OL",
+    "uid": "uJ3N-Z3tL",
+    "edit-time": 1616000528965,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616000841482,
+    "title": "DCIM - March 17th, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1616005736711,
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FainBNZRdB_.png?alt=media&token=03fa3556-316f-488d-9a71-b5a246cac432)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FainBNZRdB_.png?alt=media&token=03fa3556-316f-488d-9a71-b5a246cac432": {
+                  "width": 580,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616005743009,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FainBNZRdB_.png?alt=media&token=03fa3556-316f-488d-9a71-b5a246cac432": {
+                  ":width": 580,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "cgxjDc2Ob",
+            "edit-time": 1616005775003,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZDExyfW9l"
+          }
+        ],
+        "uid": "wONFQ8nKW",
+        ":block/refs": [
+          {
+            ":block/uid": "ZDExyfW9l"
+          }
+        ],
+        "string": "星期三 17/03/2021 20:45 #pt10-100 # canvas",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1616005677278,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1616000528959,
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FT_RwSu2N7A.jpg?alt=media&token=c58d6882-6add-40a8-89fd-25dfe39bce2b)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FT_RwSu2N7A.jpg?alt=media&token=c58d6882-6add-40a8-89fd-25dfe39bce2b": {
+                  "width": 580,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616000717006,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FT_RwSu2N7A.jpg?alt=media&token=c58d6882-6add-40a8-89fd-25dfe39bce2b": {
+                  ":width": 580,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "HtD1LJABe",
+            "edit-time": 1616000735757,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZDExyfW9l"
+          },
+          {
+            "uid": "pKRc7jZp_"
+          },
+          {
+            "uid": "EY3mRIjEX"
+          },
+          {
+            "uid": "uJ3N-Z3tL"
+          }
+        ],
+        "uid": "R-LuXqDrD",
+        ":block/refs": [
+          {
+            ":block/uid": "ZDExyfW9l"
+          },
+          {
+            ":block/uid": "pKRc7jZp_"
+          },
+          {
+            ":block/uid": "EY3mRIjEX"
+          },
+          {
+            ":block/uid": "uJ3N-Z3tL"
+          }
+        ],
+        "string": "星期三 17/03/2021 21:38 #pt10-100 #laopo #[[black high heeled]] #OL",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1616000446446,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "lBu5Y6oVX",
+    "edit-time": 1616000841483,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616006378590,
+    "title": "transverse wave",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1616006666285,
+        "children": [
+          {
+            "string": "A simple example is given by the waves that can be created on [a horizontal length of string] by [anchoring one end] and [moving the other end up and down].",
+            "create-time": 1616006684063,
+            "uid": "H7-JtSttp",
+            "edit-time": 1616006728094,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Another example is the waves that are created on [the membrane of a drum]. The waves [propagate in directions] that are parallel to the membrane plane, but the membrane itself [gets displaced up and down], perpendicular to that plane.",
+            "create-time": 1616006681769,
+            "uid": "SRfKM8-Qs",
+            "edit-time": 1616006766305,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Light is another example of a transverse wave, where the oscillations are the electric and magnetic fields, which point at right angles to the ideal light rays that describe the direction of propagation.\n\n",
+            "create-time": 1616006791196,
+            "uid": "foAIhw7Ur",
+            "edit-time": 1616006791196,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "dBmPAX9TV"
+          },
+          {
+            "uid": "vG_IawJYT"
+          },
+          {
+            "uid": "GOu60DASf"
+          }
+        ],
+        "uid": "MYlQ0mcEf",
+        ":block/refs": [
+          {
+            ":block/uid": "dBmPAX9TV"
+          },
+          {
+            ":block/uid": "vG_IawJYT"
+          },
+          {
+            ":block/uid": "GOu60DASf"
+          }
+        ],
+        "string": "In physics, a transverse wave is a wave whose [oscillations](((vG_IawJYT))) are [perpendicular to the direction](((GOu60DASf))) of the wave. This is in contrast to a [[longitudinal wave]] which [travels in the direction of its oscillations].",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1616006474902,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Transverse waves commonly occur in elastic solids; the oscillations in this case are the displacement of the solid particles away from their relaxed position, in directions perpendicular to the propagation of the wave. Since those displacements correspond to a local shear deformation of the material, a transverse wave of this nature is called a shear wave. In seismology, shear waves are also called secondary waves or S-waves.\n\nTransverse waves are contrasted with longitudinal waves, where the oscillations occur in the direction of the wave. The standard example of a longitudinal wave is a sound wave or \"pressure wave\" in gases, liquids, or solids, whose oscillations cause compression and expansion of the material through which the wave is propagating. Pressure waves are called \"primary waves\", or \"P-waves\" in geophysics.",
+        "create-time": 1616006413139,
+        "uid": "VLbe5pWGe",
+        "edit-time": 1616006791208,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Illustration of a simple (plane) transverse wave propagating through an elastic medium in the horizontal direction, with particles being displaced in the vertical direction. Only one layer of the material is shown",
+        "create-time": 1616006394663,
+        "uid": "EtSCe_ftQ",
+        "edit-time": 1616006413657,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Eohr05fo-",
+    "edit-time": 1616006378592,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616006491661,
+    "title": "longitudinal wave",
+    "uid": "dBmPAX9TV",
+    "edit-time": 1616006491662,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616006576591,
+    "title": "wave",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "perpendicular to the direction",
+        "uid": "GOu60DASf",
+        "edit-time": 1616006579928,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "wave oscillation",
+        "uid": "vG_IawJYT",
+        "edit-time": 1616006579928,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ZXOdWjrZm",
+    "edit-time": 1616006576591,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

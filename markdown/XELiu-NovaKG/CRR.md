@@ -8,6 +8,8 @@
         - short boot
             - black short boot
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-KG%2FXqm7rWGHBL.png?alt=media&token=7b1e19d3-34a7-43d3-8e98-5c0ed366dc48)
+    - high heeled
+        - [[black high heeled]]
 - socks - kutsushita
     - stocking
         - black stocking

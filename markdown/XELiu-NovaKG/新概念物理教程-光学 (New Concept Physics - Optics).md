@@ -1,2 +1,8 @@
 - source
     - [PDF 文件]使用 "Pdf Factory Pro" [试用版本][创建](www.fineprint.com.cn) 
+- preface - p7
+- ch1. 光的传播
+    - 光的微粒理论-微粒流
+    - 光的波动理论-弹性介质中传播的机械波-纵波还是[横波]([[transverse wave]])？
+        - 光的偏振现象-横波
+        - 光在水中的速度-Foucault

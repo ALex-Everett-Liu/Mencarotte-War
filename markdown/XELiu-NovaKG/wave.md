@@ -1,0 +1,2 @@
+- perpendicular to the direction
+- wave oscillation
