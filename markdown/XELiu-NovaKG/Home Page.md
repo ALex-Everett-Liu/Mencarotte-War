@@ -1,3 +1,5 @@
+- math and phys
+    - [[physics]]
 - personal
     - meiz
         - [[DCIM]]
