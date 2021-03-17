@@ -6,7 +6,7 @@
 - todo today (real-time view)
     - weibo; 比特币; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历; SQL 入门
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
-    - 御姐; 丝路大亨; 
+    - 御姐; 丝路大亨; 重生传奇
 - roam test
     - aa
         - **bb**
