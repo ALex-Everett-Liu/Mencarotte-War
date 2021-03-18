@@ -42,3 +42,5 @@
     - bag
         - black bag
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)"
+        - 书包
+            - 可爱的书包挂件
