@@ -52,6 +52,9 @@
         - coffee coat
         - [[green coat]]
         - white coat
+    - 羽绒服
+        - black yurongfu
+        - white long yurongfu
     - sweater
         - [[black-white-stripe sweater]]
 - dress...
