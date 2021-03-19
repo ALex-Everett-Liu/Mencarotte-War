@@ -1,3 +1,7 @@
+- list
+    - DCIM
+    - metropolis
+    - others
 - meta list
     - attribute -- first experience | company beside | take outside | kiss | lick | sexing | take home || 
 lose main title of the relationship | third winner | secret third | secret relationship || 

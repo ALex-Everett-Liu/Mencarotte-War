@@ -1,6 +1,6 @@
 - math and phys
     - [[physics]]
 - personal
-    - meiz
+    - [[meiz]]
         - [[DCIM]]
         - [[CRR]]
