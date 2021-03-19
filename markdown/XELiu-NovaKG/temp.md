@@ -3,7 +3,6 @@
     - 
 - ...
     - 
-    - 
 - todo today (real-time view)
     - amayo+30; 
     - achieve

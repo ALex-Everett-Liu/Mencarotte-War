@@ -1,6 +1,7 @@
 - shoes - kutsu
     - leather shoes
         - black leather shoes
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)"
     - canvas
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)
@@ -13,6 +14,7 @@
         - [[black wedge boot]]
     - high heeled
         - [[black high heeled]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fj5LJ7E2IXN.png?alt=media&token=304c31ab-37ee-4d21-b08d-b0211896c42f)
 - socks - kutsushita
     - stocking
         - black stocking
@@ -22,8 +24,9 @@
     - black knee socks
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)
     - pantyhose
-        - [[flesh pantyhose]]
         - black pantyhose
+        - [[flesh pantyhose]]
+        - [[grey pantyhose]]
 - shitagi
     - skirt
         - [[jk seifuku]]
@@ -45,13 +48,17 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FF6OsbVB4uo.png?alt=media&token=31b281fd-b82e-49d9-ae6c-3b439bf3dddc)
     - coat
         - light blue coat
+        - brown coat
         - coffee coat
         - [[green coat]]
+        - white coat
     - sweater
         - [[black-white-stripe sweater]]
 - dress...
     - 大衣
         - light brown dayi
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtqCMGewjjH.png?alt=media&token=f7325d50-beb8-4eb1-9724-09fbe2210c7a)
+                - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)"
         - light blue dayi
     - long coat
         - creamy-white long coat

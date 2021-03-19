@@ -26,5 +26,11 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FjZLjNaAIrN.png?alt=media&token=b2bee2ec-2ba2-4cf6-9d7f-99b842bd0508) 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fnhc1S2ZLlo.png?alt=media&token=e789cdb4-064c-4792-9915-609cc712e398)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FY3UpcgaidI.jpg?alt=media&token=fa789ed7-5b61-43d5-8aad-7a924d549e6d)
+- 星期一 15/03/2021 12:18 #pt9-99.99 # "white coat" # "black trousers" # "black short boot" 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMPkh7tOje4.png?alt=media&token=1ce75cf3-21b8-4d42-ad6f-c78568f299d7)
+- 星期一 15/03/2021 12:20 #pt9-100 #laopo # "creamy-white long coat" #[[grey pantyhose]] # "black short boot"   bank?   167~169 cm?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fb7jmQWON_Y.png?alt=media&token=f3ff337b-8500-4d7f-8198-0369cc9e79ca)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FrYD2CGWRRb.jpg?alt=media&token=64fea088-7bfd-4e20-bfcc-85a89e43ab11)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FWmsR8nYzhT.png?alt=media&token=cbe3c4cc-880d-4ce5-ab05-8cbb9ca7162d) 
 - 星期一 15/03/2021 12:22 #pt10-100 # "light blue coat" # "sneaker"   167~168 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FNlAXhiJQx7.png?alt=media&token=d8e55363-a752-4575-aa0c-cf502c316c3b)

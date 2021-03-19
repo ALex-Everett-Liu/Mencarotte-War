@@ -11,8 +11,11 @@
         - "星期一 15/03/2021 12:17 #pt10-99.99 #laopo #[[black wedge boot]] # "black trousers" # "light blue coat"   167~170 cm?"
         - "星期三 17/03/2021 20:39 #pt10-100 # "black short boot""
         - "星期三 17/03/2021 20:48 #pt10-100 # ponytail"
+        - "星期一 15/03/2021 12:20 #pt9-100 #laopo # "creamy-white long coat" #[[grey pantyhose]] # "black short boot"   bank?   167~169 cm?"
         - "星期三 17/03/2021 20:37 #pt10-99.99 # "[[flesh pantyhose]]"   168~171 cm?"
+        - "星期三 17/03/2021 20:37 #pt10-99.99 # "brown coat" # canvas   163~166 cm?"
         - "星期一 15/03/2021 12:10-15 #pt10-99.99 # "coffee coat"; "black middle skirt"; "black pantyhose"; "发卡"   166~170 cm?  "
+        - "星期一 15/03/2021 12:18 #pt9-99.99 # "white coat" # "black trousers" # "black short boot" "
         - "星期一 15/03/2021 06:54 #pt9-99.99 # "light blue dayi" "
     - metropolis
     - others
