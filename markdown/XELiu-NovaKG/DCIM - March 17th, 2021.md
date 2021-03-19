@@ -1,13 +1,13 @@
-- 星期三 17/03/2021 20:37 #pt10-99.99 # "flesh pantyhose"
+- 星期三 17/03/2021 20:37 #pt10-99.99 # "[[flesh pantyhose]]"   168~171 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F5NBvg1p9pE.png?alt=media&token=d3fb1389-091b-4c29-a06e-e14e47bfed10)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fdhqc6L2ADl.png?alt=media&token=859449ec-d6f5-4714-86c9-e809e7fa7198) 
 - 星期三 17/03/2021 20:39 #pt10-100 # "black short boot"
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FzBvKeP72Oh.png?alt=media&token=8a74ba2c-b671-41c3-aca9-c3987e4a4537) 
 - 星期三 17/03/2021 20:43 #pt10-99.99 # "可爱的书包挂件"  
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FzbKGJrEZg2.png?alt=media&token=2b70add5-adf3-47f7-8930-b9bdb119ffa9) 
-- 星期三 17/03/2021 20:45 #pt10-100 # canvas
+- 星期三 17/03/2021 20:45 #pt10-100 #laopo # canvas   164~167 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FainBNZRdB_.png?alt=media&token=03fa3556-316f-488d-9a71-b5a246cac432)
 - 星期三 17/03/2021 20:48 #pt10-100 # ponytail
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F5VGSLujloM.png?alt=media&token=59ac58b4-bd17-4599-a30c-707d3e9ef6fd) 
-- 星期三 17/03/2021 21:38 #pt10-100 #laopo #[[black high heeled]] #OL
+- 星期三 17/03/2021 21:38 #pt10-100 #laopo #[[black high heeled]] #OL   168~171 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FT_RwSu2N7A.jpg?alt=media&token=c58d6882-6add-40a8-89fd-25dfe39bce2b)

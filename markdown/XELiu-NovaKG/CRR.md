@@ -4,10 +4,13 @@
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)"
     - canvas
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)
+    - sneaker
+        - white sneaker
     - boot
         - short boot
             - black short boot
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-KG%2FXqm7rWGHBL.png?alt=media&token=7b1e19d3-34a7-43d3-8e98-5c0ed366dc48)
+        - [[black wedge boot]]
     - high heeled
         - [[black high heeled]]
 - socks - kutsushita
@@ -19,22 +22,39 @@
     - black knee socks
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)
     - pantyhose
-        - flesh pantyhose
+        - [[flesh pantyhose]]
+        - black pantyhose
 - shitagi
     - skirt
-        - jk seifuku
+        - [[jk seifuku]]
             - dark blue skirt
             - white short sleeves with blue
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Folrji6ip9j.png?alt=media&token=c6b5f29f-2efb-4ede-a731-7d588e9f2527)
+        - black skirt
+            - black middle skirt
         - blue skirt
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)
     - shorts
         - black leather shorts
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Fn73aetdNOD.png?alt=media&token=42971083-0ef1-4d10-8436-b4ed1380a6b3)
+    - trousers
+        - black trousers
     - 美腿 - beautiful legs
 - uwagi
     - white long sleeves
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FF6OsbVB4uo.png?alt=media&token=31b281fd-b82e-49d9-ae6c-3b439bf3dddc)
+    - coat
+        - light blue coat
+        - coffee coat
+        - [[green coat]]
+    - sweater
+        - [[black-white-stripe sweater]]
+- dress...
+    - 大衣
+        - light brown dayi
+        - light blue dayi
+    - long coat
+        - creamy-white long coat
 - underwear? private?
     - naked?
     - 美臀 - oshiri
@@ -44,3 +64,6 @@
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)"
         - 书包
             - 可爱的书包挂件
+    - hair
+        - 发卡
+            - middle faqia
