@@ -1,8 +1,15 @@
 - source
     - [PDF 文件]使用 "Pdf Factory Pro" [试用版本][创建](www.fineprint.com.cn) 
 - preface - p7
-- ch1. 光的传播
+    - 近年来的最新进展：变换光学，非线性光学，统计光学，信息光学
+    - [2]: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv-4JRAEe-g.png?alt=media&token=b0227a85-1398-45bd-b9bc-bffb8e266ff4)
+- ch1. 光的传播 - p16
     - 光的微粒理论-微粒流
-    - 光的波动理论-弹性介质中传播的机械波-纵波还是[横波]([[transverse wave]])？
+        - 机械论-机械运动过程
+    - 光的波动理论-充满空间的"弹性介质"中传播的机械波-纵波还是[横波]([[transverse wave]])？
+        - aether - 弹性模量极大
         - 光的偏振现象-横波
         - 光在水中的速度-Foucault
+    - 光的电磁理论
+        - 无线电波 - Hertz, 1888
+    - 光与物质的相互作用

@@ -1,2 +1,7 @@
+- 机械波
 - perpendicular to the direction
+- [[transverse wave]]
+    - string wave
+- [[longitudinal wave]]
 - wave oscillation
+- 弹性介质

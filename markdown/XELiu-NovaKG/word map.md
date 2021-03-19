@@ -36,6 +36,12 @@
                     - actual, 2; actually
                     - interact
             - an
+                - analyse; analyze
+                    - analysed; analyzed
+                - ancestor
+                    - ancestral;
+                - anchor
+                    - anchoring;
                 - anonym
                     - [[anonymous]]
             - arrange

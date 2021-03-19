@@ -762,3 +762,4 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
             - Boy in China throws firecracker into manhole, [causing explosion](http://www.ltaaa.com/article/34673)
             - {{[[TODO]]}} [baidu chuanda](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9577166828061340249%22%7D&n_type=1&p_from=4)
 https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10220506341737650114%22%7D&n_type=0&p_from=1
+            - 一年里，DeFi 的[市场规模][急速扩大](https://zhuanlan.zhihu.com/p/346617151)。根据 Arcane Research 的统计，年初时，DeFi 的[总锁仓量]大约为 6.7 亿美元，此后半年，DeFi 一直不温不火，总锁仓量稳定在 7 亿美元至 10 亿美元之间。直到 6 月 16 日，Compound 推出治理代币 COMP，新的[激励模式]为 DeFi 的发展带来了[变局]。随着越来越多的 DeFi 项目启动[流动性挖矿]，DeFi 正式步入「农耕时代」，总锁仓量快速增长，截至年末已经达到了约 145 亿美元，年涨幅约 2100%。
