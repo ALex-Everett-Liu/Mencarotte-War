@@ -1,9 +1,31 @@
 - list
-    - DCIM
+    - DCIM -- wasurenai...
+        - [[Tian Xin]]
+        - [[Huang Yandi]]
+        - [[Wang Miao]]
+        - 东区jk -- #pt10-100   163~164 cm?
+            - 2021
+                - 星期六 30/01/2021 17:38
+                - 星期日 31/01/2021 17:31
+                - __星期六 20/02/2021 17:26 33__
+                    - 急忙跑回东区拿东西 可爱 跑的好快
+                - "星期日 21/02/2021 17:30 #pt10-100 #ponytail # "light pink big faquan" # black-purple sneaker"
+                - __星期日 14/03/2021 11:22~23__
+                    - 很嚣张地一路甩着细胳膊，可爱
+        - [[Yu Zhe]]
         - "星期一 15/03/2021 12:03 #pt10-100 #laopo #[[jk seifuku]] #[[flesh pantyhose]] # "black leather shoes"   158~161 cm?"
+        - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
         - "星期二 16/03/2021 20:52-57 #pt10-100 #laopo # "black short boot" # "middle faqia"   159~162 cm?"
+        - 东区jk2 -- #pt10-99.99
+            - __星期五 05/02/2021 17:42~43__
+            - __星期六 06/02/2021 17:42~44__
+                - __xiake44 huijia21__
+                - __粉白色大发圈jk__ 
+                - 去年夏天有次和东区jk一起回家的
+            - __星期五 19/02/2021 17:53__
+            - 星期六 20/02/2021 17:54 57
         - "星期三 17/03/2021 21:38 #pt10-100 #laopo #[[black high heeled]] #OL   168~171 cm?"
         - "West OB - OL-01 --- #pt10-100 #laopo   166~169 cm?"
             - "2020/12/01 08:06 #pt10-100 #laopo # "dark blue dayi" # "black high heeled short boot"   166~169 cm?"
@@ -27,37 +49,7 @@
         - "星期一 15/03/2021 12:18 #pt9-99.99 # "white coat" # "black trousers" # "black short boot" "
         - "星期一 15/03/2021 06:54 #pt9-99.99 # "light blue dayi" "
     - metropolis
-    - others
-- meta list
-    - attribute -- first experience | company beside | take outside | kiss | lick | sexing | take home || 
-lose main title of the relationship | third winner | secret third | secret relationship || 
-empress | guifei41 | fei of major title | fei of lesser title | furen10
-    - core list
-        - [[Tian Xin]]
-        - [[Huang Yandi]]
-        - Wang Miao
-        - Yu Zhe
-    - wasurenai...
-        - 东区jk -- "detail point 100 (pt10-100)"
-            - 2021
-                - 星期六 30/01/2021 17:38
-                - 星期日 31/01/2021 17:31
-                - __星期六 20/02/2021 17:26 33__
-                    - 急忙跑回东区拿东西 可爱 跑的好快
-                - 星期日 21/02/2021 17:30
-                - __星期日 14/03/2021 11:22~23__
-                    - 很嚣张地一路甩着细胳膊，可爱
-        - jk2 -- "detail point 99.99 (pt10-99.99)"
-            - __星期五 05/02/2021 17:42~43__
-            - __星期六 06/02/2021 17:42~44__
-                - __xiake44 huijia21__
-                - __粉白色大发圈jk__ 
-                - 去年夏天有次和东区jk一起回家的
-            - __星期五 19/02/2021 17:53__
-            - 星期六 20/02/2021 17:54 57
-        - DCIM...
-    - metropolis list (meiz metropolis)
-        - [[唐嫣 (Tang Yan)]] -- "detail point 100 (pt9-100)"
+        - [[唐嫣 (Tang Yan)]] -- #pt9-100
             - 9, 9, 99.99, 100, 99.99, 99.99, 99.99; -; 
         - [[程媛媛 (Cheng Yuanyuan)]]
             - 8, 9, 9, 9, 99.97, 99.98, 99.99; -; 
@@ -66,7 +58,16 @@ empress | guifei41 | fei of major title | fei of lesser title | furen10
         - [[甘薇 (Gan Wei)]]
         - [[张冬 (Zhang Dong)]] -- pt9-100
         - [[倪妮 (Ni Ni)]] -- pt9-100
+        - [[桃香子 (taoxiangzi)]] #pt9-99.99
         - 袁姗姗 (Yuan Shanshan) -- pt8-99.97
+    - others
+- meta list
+    - attribute -- first experience | company beside | take outside | kiss | lick | sexing | take home || 
+lose main title of the relationship | third winner | secret third | secret relationship || 
+empress | guifei41 | fei of major title | fei of lesser title | furen10
+    - core list
+    - wasurenai...
+    - metropolis list (meiz metropolis)
 - parallel...
     - parallel year, base spacetime node point || →22.1 (meet one) →15 (family) →20 (harem)
     - shared memory, 共同身份的记忆, 比如校友关系...
