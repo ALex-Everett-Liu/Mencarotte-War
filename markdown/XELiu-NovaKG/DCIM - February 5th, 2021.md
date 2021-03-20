@@ -1,0 +1,4 @@
+- __星期五 05/02/2021 17:42~43__ #pt10-100 #ponytail   164~167 cm?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUiHQQEWH8U.png?alt=media&token=81145ff5-d361-46b7-ad9d-53a8f87a32f2)
+- 星期五 05/02/2021 17:43 #pt10-99.99 # [little girl]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FbmvTo8vQbR.png?alt=media&token=ac399905-b6a3-428b-9b6a-0fe4ed0882e8)

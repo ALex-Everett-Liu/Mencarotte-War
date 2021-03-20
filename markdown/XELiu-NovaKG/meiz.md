@@ -19,7 +19,7 @@
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
         - "星期二 16/03/2021 20:52-57 #pt10-100 #laopo # "black short boot" # "middle faqia"   159~162 cm?"
         - 东区jk2 -- #pt10-99.99
-            - __星期五 05/02/2021 17:42~43__
+            - "__星期五 05/02/2021 17:42~43__ #pt10-100 #ponytail   164~167 cm?"
             - __星期六 06/02/2021 17:42~44__
                 - __xiake44 huijia21__
                 - __粉白色大发圈jk__ 
@@ -49,6 +49,7 @@
         - "星期一 15/03/2021 12:18 #pt9-99.99 # "white coat" # "black trousers" # "black short boot" "
         - "星期一 15/03/2021 06:54 #pt9-99.99 # "light blue dayi" "
     - metropolis
+        - [[西野七濑 (Nishino Nanase)]]
         - [[唐嫣 (Tang Yan)]] -- #pt9-100
             - 9, 9, 99.99, 100, 99.99, 99.99, 99.99; -; 
         - [[程媛媛 (Cheng Yuanyuan)]]

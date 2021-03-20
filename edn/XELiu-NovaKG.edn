@@ -9319,7 +9319,7 @@
   [4598 :block/uid "02-05-2021" 536889870]
   [4598 :create/time 1612454400020 536889870]
   [4598 :create/user 3 536889870]
-  [4598 :edit/time 1612454400020 536889870]
+  [4598 :edit/time 1616252454520 536920247]
   [4598 :edit/user 3 536889870]
   [4598 :log/id 1612454400007 536889870]
   [4598 :node/title "February 5th, 2021" 536889870]
@@ -13348,7 +13348,7 @@
   [4997 :edit/time 1612704607214 536891314]
   [4997 :edit/user 3 536891314]
   [4999 :block/open true 536891314]
-  [4999 :block/order 2 536919864]
+  [4999 :block/order 3 536920036]
   [4999 :block/page 3967 536891323]
   [4999 :block/parents 3967 536891323]
   [4999 :block/parents 11403 536919851]
@@ -13361,7 +13361,7 @@
   [4999 :edit/time 1612704607214 536891314]
   [4999 :edit/user 3 536891314]
   [5000 :block/open true 536891314]
-  [5000 :block/order 4 536919864]
+  [5000 :block/order 5 536920036]
   [5000 :block/page 3967 536891323]
   [5000 :block/parents 3967 536891323]
   [5000 :block/parents 11403 536919851]
@@ -13375,7 +13375,7 @@
   [5000 :edit/user 3 536891314]
   [5001 :block/children 5002 536891314]
   [5001 :block/open false 536919848]
-  [5001 :block/order 1 536919864]
+  [5001 :block/order 2 536920036]
   [5001 :block/page 3967 536891323]
   [5001 :block/parents 3967 536891323]
   [5001 :block/parents 11403 536919851]
@@ -13401,7 +13401,7 @@
   [5002 :edit/time 1612704607214 536891314]
   [5002 :edit/user 3 536891314]
   [5003 :block/open true 536891314]
-  [5003 :block/order 5 536919864]
+  [5003 :block/order 6 536920036]
   [5003 :block/page 3967 536891323]
   [5003 :block/parents 3967 536891323]
   [5003 :block/parents 11403 536919851]
@@ -13415,7 +13415,7 @@
   [5003 :edit/user 3 536891314]
   [5004 :block/children 5005 536891314]
   [5004 :block/open false 536919846]
-  [5004 :block/order 0 536919864]
+  [5004 :block/order 1 536920036]
   [5004 :block/page 3967 536891323]
   [5004 :block/parents 3967 536891323]
   [5004 :block/parents 11403 536919851]
@@ -21603,22 +21603,13 @@
   [5814 :edit/seen-by 3 536901173]
   [5814 :edit/time 1613211321948 536893554]
   [5814 :edit/user 3 536893546]
-  [5815 :block/children 5816 536893560]
   [5815 :block/children 6339 536895373]
-  [5815 :block/children 6811 536897164]
   [5815 :block/children 7025 536898328]
   [5815 :block/children 7026 536898348]
-  [5815 :block/children 7649 536900263]
-  [5815 :block/children 8781 536905756]
-  [5815 :block/children 8890 536906481]
-  [5815 :block/children 9135 536907306]
-  [5815 :block/children 9951 536911621]
-  [5815 :block/children 9957 536911695]
   [5815 :block/children 10302 536913310]
-  [5815 :block/children 10977 536915888]
-  [5815 :block/children 11304 536917203]
-  [5815 :block/children 11717 536919913]
-  [5815 :block/open false 536919942]
+  [5815 :block/children 11726 536920046]
+  [5815 :block/children 11733 536920140]
+  [5815 :block/open false 536920163]
   [5815 :block/order 1 536909161]
   [5815 :block/page 3840 536893553]
   [5815 :block/parents 3840 536893553]
@@ -21632,12 +21623,13 @@
   [5815 :edit/time 1613211332287 536893564]
   [5815 :edit/user 3 536893552]
   [5816 :block/open true 536893557]
-  [5816 :block/order 9 536917208]
+  [5816 :block/order 2 536920061]
   [5816 :block/page 3840 536893558]
   [5816 :block/parents 3840 536893558]
   [5816 :block/parents 3842 536893558]
   [5816 :block/parents 5814 536893558]
   [5816 :block/parents 5815 536893561]
+  [5816 :block/parents 11726 536920062]
   [5816 :block/string "大宋风华/圣者晨雷 (yousuu/43034)" 536893562]
   [5816 :block/uid "vgQYcoalj" 536893557]
   [5816 :create/time 1613211323907 536893557]
@@ -26854,7 +26846,7 @@
   [6338 :edit/user 3 536895371]
   [6338 :node/title "bifurcation theory" 536895371]
   [6339 :block/open true 536895373]
-  [6339 :block/order 4 536916759]
+  [6339 :block/order 4 536920160]
   [6339 :block/page 3840 536895374]
   [6339 :block/parents 3840 536895374]
   [6339 :block/parents 3842 536895374]
@@ -30391,7 +30383,7 @@
   [6686 :edit/time 1613558247213 536896318]
   [6686 :edit/user 3 536896314]
   [6687 :block/open true 536896321]
-  [6687 :block/order 8 536919866]
+  [6687 :block/order 9 536920036]
   [6687 :block/page 3967 536896322]
   [6687 :block/parents 3967 536896322]
   [6687 :block/parents 11403 536919851]
@@ -31781,12 +31773,13 @@
   [6810 :edit/user 3 536897160]
   [6810 :node/title "resignation" 536897160]
   [6811 :block/open true 536897164]
-  [6811 :block/order 8 536917208]
+  [6811 :block/order 1 536920055]
   [6811 :block/page 3840 536897165]
   [6811 :block/parents 3840 536897165]
   [6811 :block/parents 3842 536897165]
   [6811 :block/parents 5814 536897165]
   [6811 :block/parents 5815 536897165]
+  [6811 :block/parents 11726 536920056]
   [6811
    :block/string
    "大清增加了点[征收能力](https://www.zhihu.com/question/313848445/answer/1736077742)，减少了点开支，多了点[软实力]，最后还有点运气。"
@@ -32771,7 +32764,7 @@
   [6895 :block/children 6902 536897825]
   [6895 :block/children 6908 536897838]
   [6895 :block/children 6909 536897838]
-  [6895 :block/open false 536919718]
+  [6895 :block/open false 536920259]
   [6895 :block/order 10 536919956]
   [6895 :block/page 3967 536897805]
   [6895 :block/parents 3967 536897805]
@@ -32791,14 +32784,15 @@
   [6897 :block/parents 6895 536898116]
   [6897 :block/parents 11403 536919797]
   [6897 :block/parents 11404 536919797]
-  [6897 :block/string "__星期五 05/02/2021 17:42~43__" 536897811]
+  [6897 :block/refs 11748 536920258]
+  [6897 :block/string "((5VLXKueoY))" 536920257]
   [6897 :block/uid "_u_Sfb_rK" 536897811]
   [6897 :create/time 1613815154040 536897811]
   [6897 :create/user 3 536897811]
-  [6897 :edit/time 1613815154044 536897811]
+  [6897 :edit/time 1616252486528 536920257]
   [6897 :edit/user 3 536897811]
   [6898 :block/children 6899 536897816]
-  [6898 :block/open true 536917077]
+  [6898 :block/open false 536920169]
   [6898 :block/order 2 536898118]
   [6898 :block/page 3967 536897812]
   [6898 :block/parents 3967 536897812]
@@ -37503,7 +37497,7 @@
   [7371 :edit/time 1614053222085 536899412]
   [7371 :edit/user 3 536899407]
   [7372 :block/open true 536899414]
-  [7372 :block/order 3 536919864]
+  [7372 :block/order 4 536920036]
   [7372 :block/page 3967 536899415]
   [7372 :block/parents 3967 536899415]
   [7372 :block/parents 11403 536919851]
@@ -39099,7 +39093,7 @@
   [7522 :log/id 1614216003678 536899954]
   [7522 :node/title "February 25th, 2021" 536899954]
   [7523 :block/open true 536899955]
-  [7523 :block/order 6 536919864]
+  [7523 :block/order 7 536920036]
   [7523 :block/page 3967 536899956]
   [7523 :block/parents 3967 536899956]
   [7523 :block/parents 11403 536919851]
@@ -40406,12 +40400,13 @@
   [7649 :block/children 7651 536900285]
   [7649 :block/children 7652 536900293]
   [7649 :block/open false 536900310]
-  [7649 :block/order 10 536917208]
+  [7649 :block/order 3 536920067]
   [7649 :block/page 3840 536900264]
   [7649 :block/parents 3840 536900264]
   [7649 :block/parents 3842 536900264]
   [7649 :block/parents 5814 536900264]
   [7649 :block/parents 5815 536900264]
+  [7649 :block/parents 11726 536920068]
   [7649
    :block/string
    "美国哈佛大学[法学院]教授拉姆齐尔（J.Mark Ramseyer）发表主张“[慰安妇受害者]是[自愿卖身]的妓女”论文后，美国国内历史学者纷纷对此[进行批判](https://www.zhihu.com/question/445036486)。"
@@ -40429,6 +40424,7 @@
   [7650 :block/parents 5814 536900266]
   [7650 :block/parents 5815 536900266]
   [7650 :block/parents 7649 536900269]
+  [7650 :block/parents 11726 536920068]
   [7650
    :block/string
    "哈佛大学[校刊]也刊载了少女像照片，在题为“哈佛大学教授的论文引发国际争议”一文中报道了美国国内历史学者和法律学者[发布]的[谴责评论]，并报道了对拉姆齐尔教授[进行采访]的[有关内容]，拉姆齐尔[在采访中][承认]自己[并未阅读][韩文资料]。"
@@ -40446,6 +40442,7 @@
   [7651 :block/parents 5814 536900286]
   [7651 :block/parents 5815 536900286]
   [7651 :block/parents 7649 536900286]
+  [7651 :block/parents 11726 536920068]
   [7651
    :block/string
    "我看了Harvard Crimson(哈佛校报)的[报导], 显然这件事已经在哈佛(尤其是韩国留学生)中[引起巨大的反对声浪]. 报导下面的不少评论也很有意思. 我认为论文本身[争议性]最大的是2.4节, 即简述[日韩]如何[征召慰安妇]的部分."
@@ -40463,6 +40460,7 @@
   [7652 :block/parents 5814 536900294]
   [7652 :block/parents 5815 536900294]
   [7652 :block/parents 7649 536900294]
+  [7652 :block/parents 11726 536920068]
   [7652
    :block/string
    "前几年钱颖一表示大陆人才中缺乏创造力，领导力，影响力；并举例说[印度裔]成了[跨国企业]的CEO和[商学院][院长]，而大陆人当不上。通过2020年[留美]大陆华人的表现，我觉得不是大陆教育不行，而是移了民的大陆人不行。特别是这种在美国生活却喜欢[指导]国内[社科工作]的[大儒]，除了为了[绿卡][入籍]怕不会搞什么[联名发声]的活动，也不会[团结起来]为[族裔]做什么。\n毕竟面对美国，人家只有感恩。"
@@ -51662,12 +51660,13 @@
   [8781 :block/children 8791 536905799]
   [8781 :block/children 8792 536905810]
   [8781 :block/open true 536905756]
-  [8781 :block/order 7 536917208]
+  [8781 :block/order 3 536920155]
   [8781 :block/page 3840 536905757]
   [8781 :block/parents 3840 536905757]
   [8781 :block/parents 3842 536905757]
   [8781 :block/parents 5814 536905757]
   [8781 :block/parents 5815 536905757]
+  [8781 :block/parents 11733 536920157]
   [8781
    :block/string
    "本文是 Notion [工程师] Chet 通过一个[警局]内[警察信息管理]的[案例](https://linmi.cc/21897.html)，揭开数据库的[由来]与使用。文章中有说到一句话：大多数人[并不具备]数据库和[信息架构]的[技术素养]。这句话其实已经说明了为什么现在各种[数据库表格类产品]雷声大、雨点小，最终选择[面向 B 端][求生存]。"
@@ -51694,6 +51693,7 @@
   [8786 :block/parents 5814 536905766]
   [8786 :block/parents 5815 536905766]
   [8786 :block/parents 8781 536905766]
+  [8786 :block/parents 11733 536920157]
   [8786
    :block/string
    "我喜欢构建 Notion 这样的产品，但[构建这类产品]是很难的。原因有二："
@@ -51711,6 +51711,7 @@
   [8787 :block/parents 5815 536905766]
   [8787 :block/parents 8781 536905766]
   [8787 :block/parents 8786 536905766]
+  [8787 :block/parents 11733 536920157]
   [8787
    :block/string
    "大多数人并不具备数据库和信息架构的技术素养，以至于无法[用这些工具来][自动化]和[组织他们的生活]。"
@@ -51728,6 +51729,7 @@
   [8788 :block/parents 5815 536905766]
   [8788 :block/parents 8781 536905766]
   [8788 :block/parents 8786 536905766]
+  [8788 :block/parents 11733 536920157]
   [8788 :block/string "我们今天的数据库[并不适合][用户生成的][动态过滤器]和分类。" 536905798]
   [8788 :block/uid "x2GTUBVGI" 536905765]
   [8788 :edit/seen-by 3 536905793]
@@ -51741,6 +51743,7 @@
   [8789 :block/parents 5814 536905767]
   [8789 :block/parents 5815 536905767]
   [8789 :block/parents 8781 536905767]
+  [8789 :block/parents 11733 536920157]
   [8789
    :block/string
    "[终端用户数据库]是最近[最热门的产品] -- Notion、Airtable、Coda、Roam 等。这些产品可以让人用一种更自然、更直观的方式[对信息进行建模]，这与我们[日常生活中]的[体验方式]是一样的。"
@@ -51761,6 +51764,7 @@
   [8791 :block/parents 5814 536905800]
   [8791 :block/parents 5815 536905800]
   [8791 :block/parents 8781 536905800]
+  [8791 :block/parents 11733 536920157]
   [8791
    :block/string
    "字典、日历和[文件柜][特别有用]，因为它们[以排序的方式]来[表示信息]，使得我们可以使用一种叫做[二分查找](https://en.wikipedia.org/wiki/Binary_search_algorithm)的过程来[快速有效地][检索信息]。数据库也不例外，它们也是[分类信息的容器]。"
@@ -51778,6 +51782,7 @@
   [8792 :block/parents 5814 536905811]
   [8792 :block/parents 5815 536905811]
   [8792 :block/parents 8781 536905811]
+  [8792 :block/parents 11733 536920157]
   [8792
    :block/string
    "原文：[A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets/)"
@@ -52669,12 +52674,13 @@
   [8889 :edit/time 1614658325245 536906477]
   [8889 :edit/user 3 536906477]
   [8890 :block/open true 536906481]
-  [8890 :block/order 12 536917208]
+  [8890 :block/order 4 536920160]
   [8890 :block/page 3840 536906482]
   [8890 :block/parents 3840 536906482]
   [8890 :block/parents 3842 536906482]
   [8890 :block/parents 5814 536906482]
   [8890 :block/parents 5815 536906482]
+  [8890 :block/parents 11733 536920161]
   [8890 :block/refs 3900 536906484]
   [8890 :block/string "{{[[TODO]]}} 钟表世界 壁纸 妙笔 主题背景图" 536906483]
   [8890 :block/uid "DWyXRJ6i3" 536906481]
@@ -55285,12 +55291,13 @@
   [9135 :block/children 9141 536907316]
   [9135 :block/children 9144 536907359]
   [9135 :block/open false 536916752]
-  [9135 :block/order 5 536916766]
+  [9135 :block/order 1 536920148]
   [9135 :block/page 3840 536907307]
   [9135 :block/parents 3840 536907307]
   [9135 :block/parents 3842 536907307]
   [9135 :block/parents 5814 536907307]
   [9135 :block/parents 5815 536907307]
+  [9135 :block/parents 11733 536920149]
   [9135 :block/refs 3900 536907309]
   [9135 :block/string "{{[[TODO]]}} 我就[分享一下]我的CSS[学习路径]吧。" 536907325]
   [9135 :block/uid "yZB6I19b8" 536907306]
@@ -55307,6 +55314,7 @@
   [9137 :block/parents 5814 536907317]
   [9137 :block/parents 5815 536907317]
   [9137 :block/parents 9135 536907317]
+  [9137 :block/parents 11733 536920149]
   [9137
    :block/string
    "2. 看了一遍《CSS Mastery》，基本入门了。《CSS 禅意花园》[翻了几页][就丢一边了]，感觉没什么意思。期间通过做 [WordPress 主题]来[实践]，并且[积累了]一些基本的[兼容性知识]。"
@@ -55323,6 +55331,7 @@
   [9138 :block/parents 5814 536907318]
   [9138 :block/parents 5815 536907318]
   [9138 :block/parents 9135 536907318]
+  [9138 :block/parents 11733 536920149]
   [9138
    :block/string
    "3. 后面[就没看过书了]，[工作了][开始看了一点] W3C 的 [CSS 规范]。[查文档]主要就是 MDN / MSDN / [QuirksMode](https://link.zhihu.com/?target=http%3A//QuirksMode.org) / Can I Use / StackOverflow 等[在线资源]，包括一些博客的文章（CSS Tricks/ALA/...）。"
@@ -55339,6 +55348,7 @@
   [9139 :block/parents 5814 536907319]
   [9139 :block/parents 5815 536907319]
   [9139 :block/parents 9135 536907319]
+  [9139 :block/parents 11733 536920149]
   [9139
    :block/string
    "4. CSS 的书说真的就看[完整看过一本]，接下来 [@CSS魔法](https://www.zhihu.com/people/22964042e90fd3fd3612455d98af3cd2) 翻译的《[CSS Secrets](https://link.zhihu.com/?target=https%3A//github.com/cssmagic/CSS-Secrets/)》可能会[搞来看看]（[广告费][请发微信红包]给我）。"
@@ -55355,6 +55365,7 @@
   [9141 :block/parents 5814 536907321]
   [9141 :block/parents 5815 536907321]
   [9141 :block/parents 9135 536907321]
+  [9141 :block/parents 11733 536920149]
   [9141
    :block/string
    "1. 当年[玩过一段时间]的 MSN Space，里面[有些地方支持][部分 CSS]，当时为了[做得比别人高端]就[东拼西凑搞了一点]。这期间属于完全[盲目摸索]。"
@@ -55382,6 +55393,7 @@
   [9144 :block/parents 5814 536907360]
   [9144 :block/parents 5815 536907360]
   [9144 :block/parents 9135 536907360]
+  [9144 :block/parents 11733 536920149]
   [9144
    :block/string
    "[自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…"
@@ -63280,6 +63292,7 @@
   [9950 :block/parents 5814 536911622]
   [9950 :block/parents 5815 536911622]
   [9950 :block/parents 9951 536911628]
+  [9950 :block/parents 11726 536920050]
   [9950
    :block/string
    "南京城的百姓[生活非常惨]就是胡扯了，真有人觉得[乱世人]比[太平犬]强？梁武帝不管如何确实[缔造了]南方五十年无[内战]的一代，这是他的大功也是他的大罪。他[佞佛]和什么[心理安康]没啥关系，他主要是为了[控制佛教]，直接当[佛教徒]就可以直接管佛教把佛教[纳入体制内]了。"
@@ -63291,12 +63304,13 @@
   [9951 :block/children 9950 536911627]
   [9951 :block/children 9953 536911654]
   [9951 :block/open true 536911621]
-  [9951 :block/order 3 536916760]
+  [9951 :block/order 0 536920049]
   [9951 :block/page 3840 536911623]
   [9951 :block/parents 3840 536911623]
   [9951 :block/parents 3842 536911623]
   [9951 :block/parents 5814 536911623]
   [9951 :block/parents 5815 536911623]
+  [9951 :block/parents 11726 536920050]
   [9951
    :block/string
    "[梁武帝](https://bbs.northdy.com/thread-923024-2-1.html)[没啥不称职的]，温水煮青蛙，是[南朝皇帝]对[高门]的[一贯策略]，不然怎么办？继续[王与马共天下]吗？南朝因为[基本盘小]，[士族大庄园]和[政府控制的][民户]并存，从来[压榨民户]比较厉害，这个也是[没辙]，北朝和南朝比[主要优势]是[人口多]因此[基本盘大]。"
@@ -63317,6 +63331,7 @@
   [9953 :block/parents 5814 536911655]
   [9953 :block/parents 5815 536911655]
   [9953 :block/parents 9951 536911655]
+  [9953 :block/parents 11726 536920050]
   [9953
    :block/string
    "是西魏北周[摸索出来]的，其实要说东魏北齐[有没有可能]摸索出来，有可能，北齐也[做出了不少的贡献]，但是[历史确实没能选择他们]。南方[最有可能]重建的，其实不是宋齐梁，而是[南陈]，所谓[破而后立]，可惜陈武陈文早死，陈宣[得国不正]，没有在[体制]上[下大工夫]。尽管如此，[陈后主]能[继位]而且[稳定在位那么久]，[本身就说明][环境的改变]。"
@@ -63377,12 +63392,13 @@
   [9956 :edit/time 1615203764686 536911687]
   [9956 :edit/user 3 536911683]
   [9957 :block/open true 536911695]
-  [9957 :block/order 11 536917208]
+  [9957 :block/order 4 536920072]
   [9957 :block/page 3840 536911696]
   [9957 :block/parents 3840 536911696]
   [9957 :block/parents 3842 536911696]
   [9957 :block/parents 5814 536911696]
   [9957 :block/parents 5815 536911696]
+  [9957 :block/parents 11726 536920074]
   [9957
    :block/string
    "[西夏语][被证明是]一种[西部嘉绒语](https://bbs.northdy.com/thread-923342-1-1.html)"
@@ -66136,8 +66152,8 @@
   [10251 :version/id "0.8.3" 536913039]
   [10251
    :version/nonce
-   "uuide3841805-3711-4d9f-a9db-f3e94e977c61"
-   536920035]
+   "uuide7e8426f-538c-4653-9e11-ec04333da44c"
+   536920298]
   [10253 :block/string "" 536913048]
   [10253 :block/uid "rse6Hh4SO" 536913048]
   [10253 :edit/time 1615393413033 536913048]
@@ -66666,7 +66682,7 @@
   [10301 :edit/time 1615401349633 536913307]
   [10301 :edit/user 3 536913293]
   [10302 :block/open true 536913310]
-  [10302 :block/order 13 536917208]
+  [10302 :block/order 5 536920160]
   [10302 :block/page 3840 536913311]
   [10302 :block/parents 3840 536913311]
   [10302 :block/parents 3842 536913311]
@@ -73005,12 +73021,13 @@
   [10977 :block/children 11191 536916746]
   [10977 :block/children 11512 536918670]
   [10977 :block/open false 536919912]
-  [10977 :block/order 2 536916760]
+  [10977 :block/order 0 536920143]
   [10977 :block/page 3840 536915889]
   [10977 :block/parents 3840 536915889]
   [10977 :block/parents 3842 536915889]
   [10977 :block/parents 5814 536915889]
   [10977 :block/parents 5815 536915889]
+  [10977 :block/parents 11733 536920144]
   [10977
    :block/string
    "frosted glass 毛玻璃主题的[一些提示](https://ld246.com/article/1615547214602)"
@@ -75254,6 +75271,7 @@
   [11191 :block/parents 5814 536916745]
   [11191 :block/parents 5815 536916745]
   [11191 :block/parents 10977 536916747]
+  [11191 :block/parents 11733 536920144]
   [11191
    :block/string
    "https://ld246.com/article/1615649927933"
@@ -75929,7 +75947,7 @@
   [11256 :edit/time 1615689172808 536917062]
   [11256 :edit/user 3 536917062]
   [11258 :block/children 11259 536917075]
-  [11258 :block/open true 536917069]
+  [11258 :block/open false 536920168]
   [11258 :block/order 4 536919906]
   [11258 :block/page 3967 536917071]
   [11258 :block/parents 3967 536917071]
@@ -76312,12 +76330,13 @@
   [11303 :node/title "spatial domain" 536917199]
   [11304 :block/children 11305 536917208]
   [11304 :block/open false 536917225]
-  [11304 :block/order 6 536917203]
+  [11304 :block/order 2 536920152]
   [11304 :block/page 3840 536917204]
   [11304 :block/parents 3840 536917204]
   [11304 :block/parents 3842 536917204]
   [11304 :block/parents 5814 536917204]
   [11304 :block/parents 5815 536917204]
+  [11304 :block/parents 11733 536920153]
   [11304
    :block/string
    "在介绍以上的功能后，我又是怎么将 Obsidian 与 Logseq [联合使用](https://zhuanlan.zhihu.com/p/349735193)的呢？"
@@ -76335,6 +76354,7 @@
   [11305 :block/parents 5814 536917207]
   [11305 :block/parents 5815 536917207]
   [11305 :block/parents 11304 536917209]
+  [11305 :block/parents 11733 536920153]
   [11305
    :block/string
    "例如 `obsidian://open?vault=MyBrain&file=学习方法.pdf` 就能当作一个打开位于 Obsidian 库内的 `学习方法.pdf` 超链接，这样，在我的[使用场景]下，这种[使用体验]就[远强于]使用 `file:///C:/学习方法.pdf` 的[使用体验]，因为我可能会[迁移]自己这个学习方法文件，但是不一定[改名称]，而如果改名称或者[换路径]，使用 `file:///` 实现的链接会[直接失效]。"
@@ -77543,12 +77563,12 @@
   [11402 :block/parents 3906 536917856]
   [11402
    :block/string
-   "amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; "
-   536919932]
+   "amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; 有顶天+7; "
+   536920137]
   [11402 :block/uid "Y15ZraCn4" 536917855]
   [11402 :create/time 1616121632573 536917855]
   [11402 :create/user 3 536917855]
-  [11402 :edit/time 1616240954160 536919932]
+  [11402 :edit/time 1616247057522 536920137]
   [11402 :edit/user 3 536917855]
   [11403 :block/children 11404 536917871]
   [11403 :block/children 11405 536917873]
@@ -77615,6 +77635,7 @@
   [11405 :block/children 7372 536919855]
   [11405 :block/children 7523 536919855]
   [11405 :block/children 11695 536919726]
+  [11405 :block/children 11724 536920036]
   [11405 :block/open true 536917873]
   [11405 :block/order 1 536917983]
   [11405 :block/page 3967 536917874]
@@ -77642,11 +77663,14 @@
   [11408 :block/page 3902 536917900]
   [11408 :block/parents 3902 536917900]
   [11408 :block/parents 3904 536917900]
-  [11408 :block/string "" 536919166]
+  [11408
+   :block/string
+   "\\boldsymbol{E} \\perp \\boldsymbol{H}"
+   536920211]
   [11408 :block/uid "tXuVUO8qw" 536917899]
   [11408 :create/time 1616138412594 536917899]
   [11408 :create/user 3 536917899]
-  [11408 :edit/time 1616211486600 536919166]
+  [11408 :edit/time 1616250375713 536920211]
   [11408 :edit/user 3 536917899]
   [11410 :block/string "" 536917938]
   [11410 :block/uid "Y2Wohl7fq" 536917938]
@@ -78843,6 +78867,7 @@
   [11512 :block/parents 5814 536918672]
   [11512 :block/parents 5815 536918672]
   [11512 :block/parents 10977 536918672]
+  [11512 :block/parents 11733 536920144]
   [11512
    :block/string
    "这个实际上是我[抱着试一试的心态]写的，没想到就写成功了（我也是[半吊子] css），在 `body.body--win32` 这里[设置图片链接]，然后在 body 这里添加[模糊度]。如果要图片完全覆盖的话，就在 body.body--win32 这里进一步添加 `background-size:cover`;"
@@ -79965,6 +79990,7 @@
   [11611 :edit/time 1616214701217 536919276]
   [11611 :edit/user 3 536919276]
   [11612 :block/children 11613 536919293]
+  [11612 :block/children 11735 536920171]
   [11612 :block/open true 536919288]
   [11612 :block/order 1 536919288]
   [11612 :block/page 11028 536919289]
@@ -79979,7 +80005,7 @@
   [11613 :block/children 11614 536919299]
   [11613 :block/children 11616 536919309]
   [11613 :block/children 11617 536919312]
-  [11613 :block/open true 536919291]
+  [11613 :block/open false 536920170]
   [11613 :block/order 0 536919327]
   [11613 :block/page 11028 536919292]
   [11613 :block/parents 11028 536919292]
@@ -81077,7 +81103,7 @@
   [11694 :edit/time 1616236802296 536919723]
   [11694 :edit/user 3 536919723]
   [11695 :block/open true 536919724]
-  [11695 :block/order 7 536919866]
+  [11695 :block/order 8 536920036]
   [11695 :block/page 3967 536919725]
   [11695 :block/parents 3967 536919725]
   [11695 :block/parents 11403 536919725]
@@ -81156,6 +81182,7 @@
   [11709 :edit/time 1616239417274 536919865]
   [11709 :edit/user 3 536919865]
   [11710 :block/children 11711 536919878]
+  [11710 :block/children 11746 536920244]
   [11710 :block/open true 536919870]
   [11710 :block/order 1 536919870]
   [11710 :block/page 11331 536919871]
@@ -81168,7 +81195,7 @@
   [11710 :edit/time 1616239526014 536919874]
   [11710 :edit/user 3 536919870]
   [11711 :block/open true 536919876]
-  [11711 :block/order 0 536919878]
+  [11711 :block/order 1 536920244]
   [11711 :block/page 11331 536919877]
   [11711 :block/parents 11331 536919877]
   [11711 :block/parents 11399 536919877]
@@ -81193,6 +81220,7 @@
   [11712 :node/title "DCIM - February 21st, 2021" 536919888]
   [11713 :block/children 11714 536919897]
   [11713 :block/children 11720 536919944]
+  [11713 :block/children 11734 536920164]
   [11713 :block/open true 536919889]
   [11713 :block/order 0 536919889]
   [11713 :block/page 11712 536919890]
@@ -81210,7 +81238,7 @@
   [11713 :edit/time 1616243262147 536919955]
   [11713 :edit/user 3 536919889]
   [11714 :block/open true 536919893]
-  [11714 :block/order 1 536919944]
+  [11714 :block/order 2 536920164]
   [11714 :block/page 11712 536919894]
   [11714 :block/parents 11712 536919894]
   [11714 :block/parents 11713 536919898]
@@ -81245,12 +81273,13 @@
   [11717 :block/children 11718 536919918]
   [11717 :block/children 11719 536919933]
   [11717 :block/open false 536919941]
-  [11717 :block/order 14 536919913]
+  [11717 :block/order 5 536920081]
   [11717 :block/page 3840 536919914]
   [11717 :block/parents 3840 536919914]
   [11717 :block/parents 3842 536919914]
   [11717 :block/parents 5814 536919914]
   [11717 :block/parents 5815 536919914]
+  [11717 :block/parents 11726 536920082]
   [11717
    :block/string
    "除了法国以外的[地中海沿岸国家]的菜都[挺接地气的]，[希腊菜]好多中国人因为[酸奶太多]吃不习惯我觉得还好，就是吃多了非常[容易上火](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1982234&extra=page%3D1%26filter%3Dtypeid%26typeid%3D139&page=6)"
@@ -81268,6 +81297,7 @@
   [11718 :block/parents 5814 536919917]
   [11718 :block/parents 5815 536919917]
   [11718 :block/parents 11717 536919919]
+  [11718 :block/parents 11726 536920082]
   [11718
    :block/string
    "意大利菜我感觉好在吃完有吃饱的满足感，意面披萨落肚那种踏实感和包子面条还是很像的，可能因为[带着汤水]？相反同样是[面食] 法餐面包蘸油醋汁一会儿就吃撑了也不觉得饱。我自己在国外的话首选[泰餐]吧，[米饭就咖喱]还是可以吃得很爽的"
@@ -81285,6 +81315,7 @@
   [11719 :block/parents 5814 536919934]
   [11719 :block/parents 5815 536919934]
   [11719 :block/parents 11717 536919934]
+  [11719 :block/parents 11726 536920082]
   [11719
    :block/string
    "我之前看了东京大饭店对法餐[燃起很大热情]，刚好认识个在巴黎上过[烹饪学校]的厨师朋友找她推荐了几个正经[法餐馆子]，然后吃完就觉得味道配不上价格。中餐和意餐都给人[调味精细]的感觉，法餐感觉就是非常粗暴地把油脂和糖分堆给你"
@@ -81360,4 +81391,345 @@
   [11723 :create/time 1616243752053 536919981]
   [11723 :create/user 3 536919981]
   [11723 :edit/time 1616243762083 536919985]
-  [11723 :edit/user 3 536919981]]}
+  [11723 :edit/user 3 536919981]
+  [11724 :block/open true 536920036]
+  [11724 :block/order 0 536920036]
+  [11724 :block/page 3967 536920037]
+  [11724 :block/parents 3967 536920037]
+  [11724 :block/parents 11403 536920037]
+  [11724 :block/parents 11405 536920037]
+  [11724 :block/refs 11725 536920044]
+  [11724 :block/string "[[西野七濑 (Nishino Nanase)]]" 536920043]
+  [11724 :block/uid "fTIFVop8N" 536920036]
+  [11724 :create/time 1616246237838 536920036]
+  [11724 :create/user 3 536920036]
+  [11724 :edit/time 1616246253372 536920043]
+  [11724 :edit/user 3 536920036]
+  [11725 :block/uid "yEEQf40Ep" 536920044]
+  [11725 :create/time 1616246253376 536920044]
+  [11725 :create/user 3 536920044]
+  [11725 :edit/time 1616246253377 536920044]
+  [11725 :edit/user 3 536920044]
+  [11725 :node/title "西野七濑 (Nishino Nanase)" 536920044]
+  [11726 :block/children 5816 536920061]
+  [11726 :block/children 6811 536920055]
+  [11726 :block/children 7649 536920067]
+  [11726 :block/children 9951 536920049]
+  [11726 :block/children 9957 536920073]
+  [11726 :block/children 11717 536920081]
+  [11726 :block/children 11729 536920085]
+  [11726 :block/open false 536920139]
+  [11726 :block/order 3 536920160]
+  [11726 :block/page 3840 536920047]
+  [11726 :block/parents 3840 536920047]
+  [11726 :block/parents 3842 536920047]
+  [11726 :block/parents 5814 536920047]
+  [11726 :block/parents 5815 536920047]
+  [11726 :block/string "history" 536920048]
+  [11726 :block/uid "wR2odbPVO" 536920046]
+  [11726 :create/time 1616246397398 536920046]
+  [11726 :create/user 3 536920046]
+  [11726 :edit/seen-by 3 536920088]
+  [11726 :edit/time 1616246400085 536920048]
+  [11726 :edit/user 3 536920046]
+  [11728 :block/open true 536920085]
+  [11728 :block/order 0 536920091]
+  [11728 :block/page 3840 536920086]
+  [11728 :block/parents 3840 536920086]
+  [11728 :block/parents 3842 536920086]
+  [11728 :block/parents 5814 536920086]
+  [11728 :block/parents 5815 536920086]
+  [11728 :block/parents 11726 536920086]
+  [11728 :block/parents 11729 536920092]
+  [11728
+   :block/string
+   "现状是塑造这一[商业环境]的国家在以极快的速度退出[全球公共治理]，[稳定的商业环境]在[日渐瓦解]，而后续的[支撑性力量]又迟迟没有跟进，而我们似乎还没有[醒过神来]，把此前[特殊历史条件下]的商业环境当作了[千秋万载颠扑不破]的常态。"
+   536920113]
+  [11728 :block/uid "u1mxOig3O" 536920085]
+  [11728 :edit/seen-by 3 536920090]
+  [11728 :edit/time 1616246505541 536920113]
+  [11728 :edit/user 3 536920085]
+  [11729 :block/children 11728 536920091]
+  [11729 :block/children 11731 536920114]
+  [11729 :block/children 11732 536920127]
+  [11729 :block/open true 536920085]
+  [11729 :block/order 6 536920085]
+  [11729 :block/page 3840 536920087]
+  [11729 :block/parents 3840 536920087]
+  [11729 :block/parents 3842 536920087]
+  [11729 :block/parents 5814 536920087]
+  [11729 :block/parents 5815 536920087]
+  [11729 :block/parents 11726 536920087]
+  [11729
+   :block/string
+   "一个[基本事实]就是，当代人类社会的[跨国贸易环境](https://www.zhihu.com/question/449644684/answer/1784950640)，确实是人类有史以来最好的，别的不说，光是[统一的结算货币]，趋同的产业标准，稳定的[贸易航线]，这些东西给人类的商业活动提供了多少便利？仅仅二百年前，跨国贸易的一个[主要风险]还是是劫匪和海盗，特别是海盗，几乎成了[跨国贸易文化]的一部分，而[美国的世界海权]固然是其[霸权]根基之一，但客观上也消除了几乎绝大部分海盗，当然，[规则的制定者]本身[依靠这些规则][谋取了巨大利益]，但这些规则本身客观上也[服务于]其它[贸易参与方]，这两者并不矛盾。"
+   536920138]
+  [11729 :block/uid "uQEK9nWTN" 536920085]
+  [11729 :edit/seen-by 3 536920088]
+  [11729 :edit/time 1616247079589 536920138]
+  [11729 :edit/user 3 536920085]
+  [11730 :block/string "" 536920089]
+  [11730 :block/uid "NMc4YeAkO" 536920089]
+  [11730 :edit/time 1616246433803 536920089]
+  [11730 :edit/user 3 536920089]
+  [11731 :block/open true 536920114]
+  [11731 :block/order 1 536920114]
+  [11731 :block/page 3840 536920115]
+  [11731 :block/parents 3840 536920115]
+  [11731 :block/parents 3842 536920115]
+  [11731 :block/parents 5814 536920115]
+  [11731 :block/parents 5815 536920115]
+  [11731 :block/parents 11726 536920115]
+  [11731 :block/parents 11729 536920115]
+  [11731
+   :block/string
+   "整个中国社会长期忽略了在[经济活动]中对[安全工作][应有的投入]，中国的企业走出去时，[安保力量]往往[薄弱到可以忽略不计]，[国家层面]也缺乏主动[保障海外商业利益]的实践，简而言之，中国的海外利益，绝大多数处于[事实上的][不设防状态]，处于[搭美国便车]的状态。"
+   536920126]
+  [11731 :block/uid "cucQRQ46t" 536920114]
+  [11731 :create/time 1616246533186 536920114]
+  [11731 :create/user 3 536920114]
+  [11731 :edit/time 1616246563161 536920126]
+  [11731 :edit/user 3 536920114]
+  [11732 :block/open true 536920127]
+  [11732 :block/order 2 536920127]
+  [11732 :block/page 3840 536920128]
+  [11732 :block/parents 3840 536920128]
+  [11732 :block/parents 3842 536920128]
+  [11732 :block/parents 5814 536920128]
+  [11732 :block/parents 5815 536920128]
+  [11732 :block/parents 11726 536920128]
+  [11732 :block/parents 11729 536920128]
+  [11732
+   :block/string
+   "退一步说，如果连[眼皮子底下的][乱局]都摆不平，那一开始就不应该提[命运共同体]，毕竟谁会信你？谁敢信你？信了你走出去结果是[被人打砸]而无人管，而且就在家门口，这太打脸了。"
+   536920133]
+  [11732 :block/uid "mugK82yGh" 536920127]
+  [11732 :create/time 1616246586348 536920127]
+  [11732 :create/user 3 536920127]
+  [11732 :edit/time 1616246603421 536920133]
+  [11732 :edit/user 3 536920127]
+  [11733 :block/children 8781 536920156]
+  [11733 :block/children 8890 536920160]
+  [11733 :block/children 9135 536920148]
+  [11733 :block/children 10977 536920143]
+  [11733 :block/children 11304 536920152]
+  [11733 :block/open false 536920162]
+  [11733 :block/order 2 536920140]
+  [11733 :block/page 3840 536920141]
+  [11733 :block/parents 3840 536920141]
+  [11733 :block/parents 3842 536920141]
+  [11733 :block/parents 5814 536920141]
+  [11733 :block/parents 5815 536920141]
+  [11733 :block/string "tech/note-taking" 536920145]
+  [11733 :block/uid "kyk0I40j2" 536920140]
+  [11733 :create/time 1616248040850 536920140]
+  [11733 :create/user 3 536920140]
+  [11733 :edit/time 1616248052076 536920145]
+  [11733 :edit/user 3 536920140]
+  [11734 :block/open true 536920164]
+  [11734 :block/order 1 536920164]
+  [11734 :block/page 11712 536920165]
+  [11734 :block/parents 11712 536920165]
+  [11734 :block/parents 11713 536920165]
+  [11734
+   :block/props
+   {:image-size
+    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F-Fff9vqDBW.png?alt=media&token=7447743c-b079-46d8-bf19-4fdd98af1b2e"
+     {:width 537, :height ##NaN}}}
+   536920167]
+  [11734
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F-Fff9vqDBW.png?alt=media&token=7447743c-b079-46d8-bf19-4fdd98af1b2e)"
+   536920166]
+  [11734 :block/uid "NHit61OCl" 536920164]
+  [11734 :create/time 1616248121073 536920164]
+  [11734 :create/user 3 536920164]
+  [11734 :edit/time 1616248124351 536920166]
+  [11734 :edit/user 3 536920164]
+  [11735 :block/children 11736 536920192]
+  [11735 :block/open true 536920171]
+  [11735 :block/order 1 536920171]
+  [11735 :block/page 11028 536920172]
+  [11735 :block/parents 11028 536920172]
+  [11735 :block/parents 11340 536920172]
+  [11735 :block/parents 11612 536920172]
+  [11735
+   :block/string
+   "light intensity -- average energy flow density -- average power in unit area -- p19"
+   536920191]
+  [11735 :block/uid "yi1RxbZkB" 536920171]
+  [11735 :create/time 1616249930781 536920171]
+  [11735 :create/user 3 536920171]
+  [11735 :edit/time 1616250003510 536920191]
+  [11735 :edit/user 3 536920171]
+  [11736 :block/children 11743 536920219]
+  [11736 :block/children 11744 536920223]
+  [11736 :block/open true 536920189]
+  [11736 :block/order 0 536920192]
+  [11736 :block/page 11028 536920190]
+  [11736 :block/parents 11028 536920190]
+  [11736 :block/parents 11340 536920190]
+  [11736 :block/parents 11612 536920190]
+  [11736 :block/parents 11735 536920193]
+  [11736
+   :block/string
+   "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$"
+   536920216]
+  [11736 :block/uid "JHCXoGQGT" 536920189]
+  [11736 :create/time 1616250003501 536920189]
+  [11736 :create/user 3 536920189]
+  [11736 :edit/time 1616250397548 536920216]
+  [11736 :edit/user 3 536920189]
+  [11740 :block/string "" 536920204]
+  [11740 :block/uid "PnHRB-qoX" 536920204]
+  [11740 :edit/time 1616250316687 536920204]
+  [11740 :edit/user 3 536920204]
+  [11741 :block/string "" 536920206]
+  [11741 :block/uid "PctL6YeG4" 536920206]
+  [11741 :edit/time 1616250319249 536920206]
+  [11741 :edit/user 3 536920206]
+  [11742 :block/string "" 536920208]
+  [11742 :block/uid "Oi4COMqjQ" 536920208]
+  [11742 :edit/time 1616250320268 536920208]
+  [11742 :edit/user 3 536920208]
+  [11743 :block/open true 536920217]
+  [11743 :block/order 0 536920219]
+  [11743 :block/page 11028 536920218]
+  [11743 :block/parents 11028 536920218]
+  [11743 :block/parents 11340 536920218]
+  [11743 :block/parents 11612 536920218]
+  [11743 :block/parents 11735 536920218]
+  [11743 :block/parents 11736 536920220]
+  [11743
+   :block/string
+   "$$\\sqrt{\\varepsilon \\varepsilon_{0}} E=\\sqrt{\\mu \\mu_{0}} H$$"
+   536920222]
+  [11743 :block/uid "PX5OQNjZi" 536920217]
+  [11743 :create/time 1616250464358 536920217]
+  [11743 :create/user 3 536920217]
+  [11743 :edit/time 1616250468102 536920222]
+  [11743 :edit/user 3 536920217]
+  [11744 :block/open true 536920223]
+  [11744 :block/order 1 536920223]
+  [11744 :block/page 11028 536920224]
+  [11744 :block/parents 11028 536920224]
+  [11744 :block/parents 11340 536920224]
+  [11744 :block/parents 11612 536920224]
+  [11744 :block/parents 11735 536920224]
+  [11744 :block/parents 11736 536920224]
+  [11744 :block/refs 11745 536920242]
+  [11744
+   :block/string
+   "在光频波段，磁化机制不起作用，$$\\mu \\approx 1$$   #approx"
+   536920241]
+  [11744 :block/uid "28YLkRNFt" 536920223]
+  [11744 :create/time 1616250498436 536920223]
+  [11744 :create/user 3 536920223]
+  [11744 :edit/time 1616250563595 536920241]
+  [11744 :edit/user 3 536920223]
+  [11745 :block/uid "gfJzEjy8s" 536920242]
+  [11745 :create/time 1616250563598 536920242]
+  [11745 :create/user 3 536920242]
+  [11745 :edit/time 1616250563598 536920242]
+  [11745 :edit/user 3 536920242]
+  [11745 :node/title "approx" 536920242]
+  [11746 :block/open true 536920244]
+  [11746 :block/order 0 536920244]
+  [11746 :block/page 11331 536920245]
+  [11746 :block/parents 11331 536920245]
+  [11746 :block/parents 11399 536920245]
+  [11746 :block/parents 11710 536920245]
+  [11746 :block/refs 4598 536920248]
+  [11746 :block/refs 11747 536920252]
+  [11746
+   :block/string
+   "[[February 5th, 2021]] -- [[DCIM - February 5th, 2021]]"
+   536920251]
+  [11746 :block/uid "v7SVqF-c0" 536920244]
+  [11746 :create/time 1616252449739 536920244]
+  [11746 :create/user 3 536920244]
+  [11746 :edit/time 1616252470070 536920251]
+  [11746 :edit/user 3 536920244]
+  [11747 :block/children 11748 536920254]
+  [11747 :block/children 11752 536920285]
+  [11747 :block/uid "rN8JpQKvN" 536920252]
+  [11747 :create/time 1616252470073 536920252]
+  [11747 :create/user 3 536920252]
+  [11747 :edit/time 1616252470073 536920252]
+  [11747 :edit/user 3 536920252]
+  [11747 :node/title "DCIM - February 5th, 2021" 536920252]
+  [11748 :block/children 11749 536920268]
+  [11748 :block/open true 536920254]
+  [11748 :block/order 0 536920254]
+  [11748 :block/page 11747 536920255]
+  [11748 :block/parents 11747 536920255]
+  [11748 :block/refs 11344 536920262]
+  [11748 :block/refs 11447 536920265]
+  [11748
+   :block/string
+   "__星期五 05/02/2021 17:42~43__ #pt10-100 #ponytail   164~167 cm?"
+   536920273]
+  [11748 :block/uid "5VLXKueoY" 536920254]
+  [11748 :create/time 1616252480304 536920254]
+  [11748 :create/user 3 536920254]
+  [11748 :edit/time 1616252567686 536920273]
+  [11748 :edit/user 3 536920254]
+  [11749 :block/open true 536920266]
+  [11749 :block/order 0 536920268]
+  [11749 :block/page 11747 536920267]
+  [11749 :block/parents 11747 536920267]
+  [11749 :block/parents 11748 536920269]
+  [11749
+   :block/props
+   {:image-size
+    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUiHQQEWH8U.png?alt=media&token=81145ff5-d361-46b7-ad9d-53a8f87a32f2"
+     {:width 580, :height ##NaN}}}
+   536920271]
+  [11749
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUiHQQEWH8U.png?alt=media&token=81145ff5-d361-46b7-ad9d-53a8f87a32f2)"
+   536920270]
+  [11749 :block/uid "xPbm4AXPy" 536920266]
+  [11749 :create/time 1616252519004 536920266]
+  [11749 :create/user 3 536920266]
+  [11749 :edit/time 1616252537869 536920270]
+  [11749 :edit/user 3 536920266]
+  [11752 :block/children 11754 536920295]
+  [11752 :block/open true 536920285]
+  [11752 :block/order 1 536920285]
+  [11752 :block/page 11747 536920287]
+  [11752 :block/parents 11747 536920287]
+  [11752 :block/refs 11376 536920286]
+  [11752
+   :block/string
+   "星期五 05/02/2021 17:43 #pt10-99.99 # [little girl]"
+   536920290]
+  [11752 :block/uid "TPqffWxBJ" 536920285]
+  [11752 :create/time 1616252641899 536920285]
+  [11752 :create/user 3 536920285]
+  [11752 :edit/time 1616252643192 536920290]
+  [11752 :edit/user 3 536920285]
+  [11753 :block/string " # [little girl]" 536920291]
+  [11753 :block/uid "o61Zs6PPF" 536920291]
+  [11753 :edit/time 1616252643197 536920291]
+  [11753 :edit/user 3 536920291]
+  [11754 :block/open true 536920293]
+  [11754 :block/order 0 536920295]
+  [11754 :block/page 11747 536920294]
+  [11754 :block/parents 11747 536920294]
+  [11754 :block/parents 11752 536920296]
+  [11754
+   :block/props
+   {:image-size
+    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FbmvTo8vQbR.png?alt=media&token=ac399905-b6a3-428b-9b6a-0fe4ed0882e8"
+     {:width 381, :height ##NaN}}}
+   536920298]
+  [11754
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FbmvTo8vQbR.png?alt=media&token=ac399905-b6a3-428b-9b6a-0fe4ed0882e8)"
+   536920297]
+  [11754 :block/uid "aDW1uWm8I" 536920293]
+  [11754 :create/time 1616252661150 536920293]
+  [11754 :create/user 3 536920293]
+  [11754 :edit/time 1616252674749 536920297]
+  [11754 :edit/user 3 536920293]]}

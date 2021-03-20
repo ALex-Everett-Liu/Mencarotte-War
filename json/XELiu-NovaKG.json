@@ -8402,65 +8402,443 @@
                     }
                   },
                   {
-                    "string": "frosted glass 毛玻璃主题的[一些提示](https://ld246.com/article/1615547214602)",
-                    "create-time": 1615572722705,
+                    "string": "tech/note-taking",
+                    "create-time": 1616248040850,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "children": [
                       {
-                        "string": "https://ld246.com/article/1615649927933",
-                        "create-time": 1615679069365,
-                        "uid": "fAxDkm-co",
-                        "edit-time": 1615679070869,
+                        "string": "frosted glass 毛玻璃主题的[一些提示](https://ld246.com/article/1615547214602)",
+                        "create-time": 1615572722705,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
+                        "children": [
+                          {
+                            "string": "https://ld246.com/article/1615649927933",
+                            "create-time": 1615679069365,
+                            "uid": "fAxDkm-co",
+                            "edit-time": 1615679070869,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "这个实际上是我[抱着试一试的心态]写的，没想到就写成功了（我也是[半吊子] css），在 `body.body--win32` 这里[设置图片链接]，然后在 body 这里添加[模糊度]。如果要图片完全覆盖的话，就在 body.body--win32 这里进一步添加 `background-size:cover`;",
+                            "uid": "QH_Gt6-wH",
+                            "edit-time": 1616149211145,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "UYRyVJk7p",
+                        "edit-time": 1615572730184,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       },
                       {
-                        "string": "这个实际上是我[抱着试一试的心态]写的，没想到就写成功了（我也是[半吊子] css），在 `body.body--win32` 这里[设置图片链接]，然后在 body 这里添加[模糊度]。如果要图片完全覆盖的话，就在 body.body--win32 这里进一步添加 `background-size:cover`;",
-                        "uid": "QH_Gt6-wH",
-                        "edit-time": 1616149211145,
+                        "edit-time": 1614741623329,
+                        "children": [
+                          {
+                            "string": "1. 当年[玩过一段时间]的 MSN Space，里面[有些地方支持][部分 CSS]，当时为了[做得比别人高端]就[东拼西凑搞了一点]。这期间属于完全[盲目摸索]。",
+                            "uid": "qPYV1nK0v",
+                            "edit-time": 1614742023947,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "2. 看了一遍《CSS Mastery》，基本入门了。《CSS 禅意花园》[翻了几页][就丢一边了]，感觉没什么意思。期间通过做 [WordPress 主题]来[实践]，并且[积累了]一些基本的[兼容性知识]。",
+                            "uid": "UbB2rfJ_m",
+                            "edit-time": 1614742043440,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "3. 后面[就没看过书了]，[工作了][开始看了一点] W3C 的 [CSS 规范]。[查文档]主要就是 MDN / MSDN / [QuirksMode](https://link.zhihu.com/?target=http%3A//QuirksMode.org) / Can I Use / StackOverflow 等[在线资源]，包括一些博客的文章（CSS Tricks/ALA/...）。",
+                            "uid": "WbLMtxbAi",
+                            "edit-time": 1614742081814,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "4. CSS 的书说真的就看[完整看过一本]，接下来 [@CSS魔法](https://www.zhihu.com/people/22964042e90fd3fd3612455d98af3cd2) 翻译的《[CSS Secrets](https://link.zhihu.com/?target=https%3A//github.com/cssmagic/CSS-Secrets/)》可能会[搞来看看]（[广告费][请发微信红包]给我）。",
+                            "uid": "Ut1QYX8CA",
+                            "edit-time": 1614742127939,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…",
+                            "create-time": 1614743517668,
+                            "uid": "a5cChRNu5",
+                            "edit-time": 1614743531839,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "uid": "yZB6I19b8",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} 我就[分享一下]我的CSS[学习路径]吧。",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1614741606565,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "在介绍以上的功能后，我又是怎么将 Obsidian 与 Logseq [联合使用](https://zhuanlan.zhihu.com/p/349735193)的呢？",
+                        "create-time": 1615734379825,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "例如 `obsidian://open?vault=MyBrain&file=学习方法.pdf` 就能当作一个打开位于 Obsidian 库内的 `学习方法.pdf` 超链接，这样，在我的[使用场景]下，这种[使用体验]就[远强于]使用 `file:///C:/学习方法.pdf` 的[使用体验]，因为我可能会[迁移]自己这个学习方法文件，但是不一定[改名称]，而如果改名称或者[换路径]，使用 `file:///` 实现的链接会[直接失效]。",
+                            "create-time": 1615734382129,
+                            "uid": "Qc1-IHAb0",
+                            "edit-time": 1615734429737,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "L5--jIR75",
+                        "edit-time": 1615734439969,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "本文是 Notion [工程师] Chet 通过一个[警局]内[警察信息管理]的[案例](https://linmi.cc/21897.html)，揭开数据库的[由来]与使用。文章中有说到一句话：大多数人[并不具备]数据库和[信息架构]的[技术素养]。这句话其实已经说明了为什么现在各种[数据库表格类产品]雷声大、雨点小，最终选择[面向 B 端][求生存]。",
+                        "children": [
+                          {
+                            "string": "原文：[A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets/)",
+                            "create-time": 1614610125951,
+                            "uid": "wLyPOrlPR",
+                            "edit-time": 1614610127912,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[终端用户数据库]是最近[最热门的产品] -- Notion、Airtable、Coda、Roam 等。这些产品可以让人用一种更自然、更直观的方式[对信息进行建模]，这与我们[日常生活中]的[体验方式]是一样的。",
+                            "uid": "MTjmWbGp7",
+                            "edit-time": 1614609714855,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "我喜欢构建 Notion 这样的产品，但[构建这类产品]是很难的。原因有二：",
+                            "children": [
+                              {
+                                "string": "大多数人并不具备数据库和信息架构的技术素养，以至于无法[用这些工具来][自动化]和[组织他们的生活]。",
+                                "uid": "HURfrQZxM",
+                                "edit-time": 1614609731979,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "我们今天的数据库[并不适合][用户生成的][动态过滤器]和分类。",
+                                "uid": "x2GTUBVGI",
+                                "edit-time": 1614609748827,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "0qM-pSZ76",
+                            "edit-time": 1614609717942,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "字典、日历和[文件柜][特别有用]，因为它们[以排序的方式]来[表示信息]，使得我们可以使用一种叫做[二分查找](https://en.wikipedia.org/wiki/Binary_search_algorithm)的过程来[快速有效地][检索信息]。数据库也不例外，它们也是[分类信息的容器]。",
+                            "create-time": 1614609791662,
+                            "uid": "c4k99TJS8",
+                            "edit-time": 1614609813885,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "Cl_3rw4ok",
+                        "edit-time": 1614610116314,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "{{[[TODO]]}} 钟表世界 壁纸 妙笔 主题背景图",
+                        "create-time": 1614659048700,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "DWyXRJ6i3",
+                        "edit-time": 1614659050628,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       }
                     ],
-                    "uid": "UYRyVJk7p",
-                    "edit-time": 1615572730184,
+                    "uid": "kyk0I40j2",
+                    "edit-time": 1616248052076,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
                   },
                   {
-                    "string": "[梁武帝](https://bbs.northdy.com/thread-923024-2-1.html)[没啥不称职的]，温水煮青蛙，是[南朝皇帝]对[高门]的[一贯策略]，不然怎么办？继续[王与马共天下]吗？南朝因为[基本盘小]，[士族大庄园]和[政府控制的][民户]并存，从来[压榨民户]比较厉害，这个也是[没辙]，北朝和南朝比[主要优势]是[人口多]因此[基本盘大]。",
+                    "string": "history",
+                    "create-time": 1616246397398,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
                     "children": [
                       {
-                        "string": "南京城的百姓[生活非常惨]就是胡扯了，真有人觉得[乱世人]比[太平犬]强？梁武帝不管如何确实[缔造了]南方五十年无[内战]的一代，这是他的大功也是他的大罪。他[佞佛]和什么[心理安康]没啥关系，他主要是为了[控制佛教]，直接当[佛教徒]就可以直接管佛教把佛教[纳入体制内]了。",
-                        "uid": "gG9F0m1vi",
-                        "edit-time": 1615203414718,
+                        "string": "[梁武帝](https://bbs.northdy.com/thread-923024-2-1.html)[没啥不称职的]，温水煮青蛙，是[南朝皇帝]对[高门]的[一贯策略]，不然怎么办？继续[王与马共天下]吗？南朝因为[基本盘小]，[士族大庄园]和[政府控制的][民户]并存，从来[压榨民户]比较厉害，这个也是[没辙]，北朝和南朝比[主要优势]是[人口多]因此[基本盘大]。",
+                        "children": [
+                          {
+                            "string": "南京城的百姓[生活非常惨]就是胡扯了，真有人觉得[乱世人]比[太平犬]强？梁武帝不管如何确实[缔造了]南方五十年无[内战]的一代，这是他的大功也是他的大罪。他[佞佛]和什么[心理安康]没啥关系，他主要是为了[控制佛教]，直接当[佛教徒]就可以直接管佛教把佛教[纳入体制内]了。",
+                            "uid": "gG9F0m1vi",
+                            "edit-time": 1615203414718,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "是西魏北周[摸索出来]的，其实要说东魏北齐[有没有可能]摸索出来，有可能，北齐也[做出了不少的贡献]，但是[历史确实没能选择他们]。南方[最有可能]重建的，其实不是宋齐梁，而是[南陈]，所谓[破而后立]，可惜陈武陈文早死，陈宣[得国不正]，没有在[体制]上[下大工夫]。尽管如此，[陈后主]能[继位]而且[稳定在位那么久]，[本身就说明][环境的改变]。",
+                            "create-time": 1615203523578,
+                            "uid": "pChaFH-YB",
+                            "edit-time": 1615203568759,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "or-f_K6XO",
+                        "edit-time": 1615203681247,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       },
                       {
-                        "string": "是西魏北周[摸索出来]的，其实要说东魏北齐[有没有可能]摸索出来，有可能，北齐也[做出了不少的贡献]，但是[历史确实没能选择他们]。南方[最有可能]重建的，其实不是宋齐梁，而是[南陈]，所谓[破而后立]，可惜陈武陈文早死，陈宣[得国不正]，没有在[体制]上[下大工夫]。尽管如此，[陈后主]能[继位]而且[稳定在位那么久]，[本身就说明][环境的改变]。",
-                        "create-time": 1615203523578,
-                        "uid": "pChaFH-YB",
-                        "edit-time": 1615203568759,
+                        "string": "大清增加了点[征收能力](https://www.zhihu.com/question/313848445/answer/1736077742)，减少了点开支，多了点[软实力]，最后还有点运气。",
+                        "create-time": 1613729983442,
+                        "uid": "Nz1W2mKEV",
+                        "edit-time": 1613730001431,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
+                      },
+                      {
+                        "string": "大宋风华/圣者晨雷 (yousuu/43034)",
+                        "create-time": 1613211323907,
+                        "uid": "vgQYcoalj",
+                        "edit-time": 1613211325927,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "美国哈佛大学[法学院]教授拉姆齐尔（J.Mark Ramseyer）发表主张“[慰安妇受害者]是[自愿卖身]的妓女”论文后，美国国内历史学者纷纷对此[进行批判](https://www.zhihu.com/question/445036486)。",
+                        "create-time": 1614240551308,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "哈佛大学[校刊]也刊载了少女像照片，在题为“哈佛大学教授的论文引发国际争议”一文中报道了美国国内历史学者和法律学者[发布]的[谴责评论]，并报道了对拉姆齐尔教授[进行采访]的[有关内容]，拉姆齐尔[在采访中][承认]自己[并未阅读][韩文资料]。",
+                            "create-time": 1614240552083,
+                            "uid": "Lq1e8aHX5",
+                            "edit-time": 1614240599230,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "我看了Harvard Crimson(哈佛校报)的[报导], 显然这件事已经在哈佛(尤其是韩国留学生)中[引起巨大的反对声浪]. 报导下面的不少评论也很有意思. 我认为论文本身[争议性]最大的是2.4节, 即简述[日韩]如何[征召慰安妇]的部分.",
+                            "create-time": 1614240630560,
+                            "uid": "0OyW5OuCU",
+                            "edit-time": 1614240678582,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "前几年钱颖一表示大陆人才中缺乏创造力，领导力，影响力；并举例说[印度裔]成了[跨国企业]的CEO和[商学院][院长]，而大陆人当不上。通过2020年[留美]大陆华人的表现，我觉得不是大陆教育不行，而是移了民的大陆人不行。特别是这种在美国生活却喜欢[指导]国内[社科工作]的[大儒]，除了为了[绿卡][入籍]怕不会搞什么[联名发声]的活动，也不会[团结起来]为[族裔]做什么。\n毕竟面对美国，人家只有感恩。",
+                            "create-time": 1614240738470,
+                            "uid": "7LLAjoRah",
+                            "edit-time": 1614240783163,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "6ZZt5Kaz9",
+                        "edit-time": 1614240607329,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[西夏语][被证明是]一种[西部嘉绒语](https://bbs.northdy.com/thread-923342-1-1.html)",
+                        "create-time": 1615203856228,
+                        "uid": "OA40AQk4l",
+                        "edit-time": 1615203870724,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "除了法国以外的[地中海沿岸国家]的菜都[挺接地气的]，[希腊菜]好多中国人因为[酸奶太多]吃不习惯我觉得还好，就是吃多了非常[容易上火](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1982234&extra=page%3D1%26filter%3Dtypeid%26typeid%3D139&page=6)",
+                        "create-time": 1616240536922,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "意大利菜我感觉好在吃完有吃饱的满足感，意面披萨落肚那种踏实感和包子面条还是很像的，可能因为[带着汤水]？相反同样是[面食] 法餐面包蘸油醋汁一会儿就吃撑了也不觉得饱。我自己在国外的话首选[泰餐]吧，[米饭就咖喱]还是可以吃得很爽的",
+                            "create-time": 1616240880319,
+                            "uid": "59GcnVsCk",
+                            "edit-time": 1616240916486,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "我之前看了东京大饭店对法餐[燃起很大热情]，刚好认识个在巴黎上过[烹饪学校]的厨师朋友找她推荐了几个正经[法餐馆子]，然后吃完就觉得味道配不上价格。中餐和意餐都给人[调味精细]的感觉，法餐感觉就是非常粗暴地把油脂和糖分堆给你",
+                            "create-time": 1616240988493,
+                            "uid": "lx-R7AMm3",
+                            "edit-time": 1616241004578,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "K3_NCfd-7",
+                        "edit-time": 1616241065841,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "一个[基本事实]就是，当代人类社会的[跨国贸易环境](https://www.zhihu.com/question/449644684/answer/1784950640)，确实是人类有史以来最好的，别的不说，光是[统一的结算货币]，趋同的产业标准，稳定的[贸易航线]，这些东西给人类的商业活动提供了多少便利？仅仅二百年前，跨国贸易的一个[主要风险]还是是劫匪和海盗，特别是海盗，几乎成了[跨国贸易文化]的一部分，而[美国的世界海权]固然是其[霸权]根基之一，但客观上也消除了几乎绝大部分海盗，当然，[规则的制定者]本身[依靠这些规则][谋取了巨大利益]，但这些规则本身客观上也[服务于]其它[贸易参与方]，这两者并不矛盾。",
+                        "children": [
+                          {
+                            "string": "现状是塑造这一[商业环境]的国家在以极快的速度退出[全球公共治理]，[稳定的商业环境]在[日渐瓦解]，而后续的[支撑性力量]又迟迟没有跟进，而我们似乎还没有[醒过神来]，把此前[特殊历史条件下]的商业环境当作了[千秋万载颠扑不破]的常态。",
+                            "uid": "u1mxOig3O",
+                            "edit-time": 1616246505541,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "整个中国社会长期忽略了在[经济活动]中对[安全工作][应有的投入]，中国的企业走出去时，[安保力量]往往[薄弱到可以忽略不计]，[国家层面]也缺乏主动[保障海外商业利益]的实践，简而言之，中国的海外利益，绝大多数处于[事实上的][不设防状态]，处于[搭美国便车]的状态。",
+                            "create-time": 1616246533186,
+                            "uid": "cucQRQ46t",
+                            "edit-time": 1616246563161,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "退一步说，如果连[眼皮子底下的][乱局]都摆不平，那一开始就不应该提[命运共同体]，毕竟谁会信你？谁敢信你？信了你走出去结果是[被人打砸]而无人管，而且就在家门口，这太打脸了。",
+                            "create-time": 1616246586348,
+                            "uid": "mugK82yGh",
+                            "edit-time": 1616246603421,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "uQEK9nWTN",
+                        "edit-time": 1616247079589,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
-                    "uid": "or-f_K6XO",
-                    "edit-time": 1615203681247,
+                    "uid": "wR2odbPVO",
+                    "edit-time": 1616246400085,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -8488,276 +8866,6 @@
                     }
                   },
                   {
-                    "edit-time": 1614741623329,
-                    "children": [
-                      {
-                        "string": "1. 当年[玩过一段时间]的 MSN Space，里面[有些地方支持][部分 CSS]，当时为了[做得比别人高端]就[东拼西凑搞了一点]。这期间属于完全[盲目摸索]。",
-                        "uid": "qPYV1nK0v",
-                        "edit-time": 1614742023947,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "2. 看了一遍《CSS Mastery》，基本入门了。《CSS 禅意花园》[翻了几页][就丢一边了]，感觉没什么意思。期间通过做 [WordPress 主题]来[实践]，并且[积累了]一些基本的[兼容性知识]。",
-                        "uid": "UbB2rfJ_m",
-                        "edit-time": 1614742043440,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "3. 后面[就没看过书了]，[工作了][开始看了一点] W3C 的 [CSS 规范]。[查文档]主要就是 MDN / MSDN / [QuirksMode](https://link.zhihu.com/?target=http%3A//QuirksMode.org) / Can I Use / StackOverflow 等[在线资源]，包括一些博客的文章（CSS Tricks/ALA/...）。",
-                        "uid": "WbLMtxbAi",
-                        "edit-time": 1614742081814,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "4. CSS 的书说真的就看[完整看过一本]，接下来 [@CSS魔法](https://www.zhihu.com/people/22964042e90fd3fd3612455d98af3cd2) 翻译的《[CSS Secrets](https://link.zhihu.com/?target=https%3A//github.com/cssmagic/CSS-Secrets/)》可能会[搞来看看]（[广告费][请发微信红包]给我）。",
-                        "uid": "Ut1QYX8CA",
-                        "edit-time": 1614742127939,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "[自学][前端]，从w3school[扫了一遍基础]，就[一头扎进]JavaScript里了，到现在三个月了[还没爬出来]…",
-                        "create-time": 1614743517668,
-                        "uid": "a5cChRNu5",
-                        "edit-time": 1614743531839,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "uid": "yZB6I19b8",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "string": "{{[[TODO]]}} 我就[分享一下]我的CSS[学习路径]吧。",
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "create-time": 1614741606565,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "在介绍以上的功能后，我又是怎么将 Obsidian 与 Logseq [联合使用](https://zhuanlan.zhihu.com/p/349735193)的呢？",
-                    "create-time": 1615734379825,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "children": [
-                      {
-                        "string": "例如 `obsidian://open?vault=MyBrain&file=学习方法.pdf` 就能当作一个打开位于 Obsidian 库内的 `学习方法.pdf` 超链接，这样，在我的[使用场景]下，这种[使用体验]就[远强于]使用 `file:///C:/学习方法.pdf` 的[使用体验]，因为我可能会[迁移]自己这个学习方法文件，但是不一定[改名称]，而如果改名称或者[换路径]，使用 `file:///` 实现的链接会[直接失效]。",
-                        "create-time": 1615734382129,
-                        "uid": "Qc1-IHAb0",
-                        "edit-time": 1615734429737,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "uid": "L5--jIR75",
-                    "edit-time": 1615734439969,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "本文是 Notion [工程师] Chet 通过一个[警局]内[警察信息管理]的[案例](https://linmi.cc/21897.html)，揭开数据库的[由来]与使用。文章中有说到一句话：大多数人[并不具备]数据库和[信息架构]的[技术素养]。这句话其实已经说明了为什么现在各种[数据库表格类产品]雷声大、雨点小，最终选择[面向 B 端][求生存]。",
-                    "children": [
-                      {
-                        "string": "原文：[A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets/)",
-                        "create-time": 1614610125951,
-                        "uid": "wLyPOrlPR",
-                        "edit-time": 1614610127912,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "[终端用户数据库]是最近[最热门的产品] -- Notion、Airtable、Coda、Roam 等。这些产品可以让人用一种更自然、更直观的方式[对信息进行建模]，这与我们[日常生活中]的[体验方式]是一样的。",
-                        "uid": "MTjmWbGp7",
-                        "edit-time": 1614609714855,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "我喜欢构建 Notion 这样的产品，但[构建这类产品]是很难的。原因有二：",
-                        "children": [
-                          {
-                            "string": "大多数人并不具备数据库和信息架构的技术素养，以至于无法[用这些工具来][自动化]和[组织他们的生活]。",
-                            "uid": "HURfrQZxM",
-                            "edit-time": 1614609731979,
-                            ":edit/user": {
-                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                            }
-                          },
-                          {
-                            "string": "我们今天的数据库[并不适合][用户生成的][动态过滤器]和分类。",
-                            "uid": "x2GTUBVGI",
-                            "edit-time": 1614609748827,
-                            ":edit/user": {
-                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                            }
-                          }
-                        ],
-                        "uid": "0qM-pSZ76",
-                        "edit-time": 1614609717942,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "字典、日历和[文件柜][特别有用]，因为它们[以排序的方式]来[表示信息]，使得我们可以使用一种叫做[二分查找](https://en.wikipedia.org/wiki/Binary_search_algorithm)的过程来[快速有效地][检索信息]。数据库也不例外，它们也是[分类信息的容器]。",
-                        "create-time": 1614609791662,
-                        "uid": "c4k99TJS8",
-                        "edit-time": 1614609813885,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "uid": "Cl_3rw4ok",
-                    "edit-time": 1614610116314,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "大清增加了点[征收能力](https://www.zhihu.com/question/313848445/answer/1736077742)，减少了点开支，多了点[软实力]，最后还有点运气。",
-                    "create-time": 1613729983442,
-                    "uid": "Nz1W2mKEV",
-                    "edit-time": 1613730001431,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "大宋风华/圣者晨雷 (yousuu/43034)",
-                    "create-time": 1613211323907,
-                    "uid": "vgQYcoalj",
-                    "edit-time": 1613211325927,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "美国哈佛大学[法学院]教授拉姆齐尔（J.Mark Ramseyer）发表主张“[慰安妇受害者]是[自愿卖身]的妓女”论文后，美国国内历史学者纷纷对此[进行批判](https://www.zhihu.com/question/445036486)。",
-                    "create-time": 1614240551308,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "children": [
-                      {
-                        "string": "哈佛大学[校刊]也刊载了少女像照片，在题为“哈佛大学教授的论文引发国际争议”一文中报道了美国国内历史学者和法律学者[发布]的[谴责评论]，并报道了对拉姆齐尔教授[进行采访]的[有关内容]，拉姆齐尔[在采访中][承认]自己[并未阅读][韩文资料]。",
-                        "create-time": 1614240552083,
-                        "uid": "Lq1e8aHX5",
-                        "edit-time": 1614240599230,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "我看了Harvard Crimson(哈佛校报)的[报导], 显然这件事已经在哈佛(尤其是韩国留学生)中[引起巨大的反对声浪]. 报导下面的不少评论也很有意思. 我认为论文本身[争议性]最大的是2.4节, 即简述[日韩]如何[征召慰安妇]的部分.",
-                        "create-time": 1614240630560,
-                        "uid": "0OyW5OuCU",
-                        "edit-time": 1614240678582,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "前几年钱颖一表示大陆人才中缺乏创造力，领导力，影响力；并举例说[印度裔]成了[跨国企业]的CEO和[商学院][院长]，而大陆人当不上。通过2020年[留美]大陆华人的表现，我觉得不是大陆教育不行，而是移了民的大陆人不行。特别是这种在美国生活却喜欢[指导]国内[社科工作]的[大儒]，除了为了[绿卡][入籍]怕不会搞什么[联名发声]的活动，也不会[团结起来]为[族裔]做什么。\n毕竟面对美国，人家只有感恩。",
-                        "create-time": 1614240738470,
-                        "uid": "7LLAjoRah",
-                        "edit-time": 1614240783163,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "uid": "6ZZt5Kaz9",
-                    "edit-time": 1614240607329,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "[西夏语][被证明是]一种[西部嘉绒语](https://bbs.northdy.com/thread-923342-1-1.html)",
-                    "create-time": 1615203856228,
-                    "uid": "OA40AQk4l",
-                    "edit-time": 1615203870724,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "{{[[TODO]]}} 钟表世界 壁纸 妙笔 主题背景图",
-                    "create-time": 1614659048700,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "uid": "DWyXRJ6i3",
-                    "edit-time": 1614659050628,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
                     "string": "[日间小睡](https://www.yuque.com/deerain/wqpb2o/vho0cq)时长最好在 20~30 分钟，也就是一个[睡眠周期]内 4 个[睡眠阶段]的前 3 个[浅度睡眠阶段]。如果小睡超过 30 分钟就会[渐渐进入][深度睡眠状态]([一般流传的说法]是“不要超过 45 分钟否则就会进入深度睡眠”，我[查阅了相关文献]和[睡眠监测数据]，证实了那是[自媒体][以讹传讹的错误说法])，要是在深度睡眠阶段[被唤醒了]，[醒来后]会产生[睡眠惰性]。",
                     "create-time": 1615401605329,
                     "uid": "FwXImAiHa",
@@ -8765,44 +8873,6 @@
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "除了法国以外的[地中海沿岸国家]的菜都[挺接地气的]，[希腊菜]好多中国人因为[酸奶太多]吃不习惯我觉得还好，就是吃多了非常[容易上火](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1982234&extra=page%3D1%26filter%3Dtypeid%26typeid%3D139&page=6)",
-                    "create-time": 1616240536922,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "children": [
-                      {
-                        "string": "意大利菜我感觉好在吃完有吃饱的满足感，意面披萨落肚那种踏实感和包子面条还是很像的，可能因为[带着汤水]？相反同样是[面食] 法餐面包蘸油醋汁一会儿就吃撑了也不觉得饱。我自己在国外的话首选[泰餐]吧，[米饭就咖喱]还是可以吃得很爽的",
-                        "create-time": 1616240880319,
-                        "uid": "59GcnVsCk",
-                        "edit-time": 1616240916486,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "我之前看了东京大饭店对法餐[燃起很大热情]，刚好认识个在巴黎上过[烹饪学校]的厨师朋友找她推荐了几个正经[法餐馆子]，然后吃完就觉得味道配不上价格。中餐和意餐都给人[调味精细]的感觉，法餐感觉就是非常粗暴地把油脂和糖分堆给你",
-                        "create-time": 1616240988493,
-                        "uid": "lx-R7AMm3",
-                        "edit-time": 1616241004578,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "uid": "K3_NCfd-7",
-                    "edit-time": 1616241065841,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -9782,10 +9852,10 @@
         },
         "children": [
           {
-            "string": "",
+            "string": "\\boldsymbol{E} \\perp \\boldsymbol{H}",
             "create-time": 1616138412594,
             "uid": "tXuVUO8qw",
-            "edit-time": 1616211486600,
+            "edit-time": 1616250375713,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -9820,10 +9890,10 @@
         },
         "children": [
           {
-            "string": "amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; ",
+            "string": "amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; 有顶天+7; ",
             "create-time": 1616121632573,
             "uid": "Y15ZraCn4",
-            "edit-time": 1616240954160,
+            "edit-time": 1616247057522,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -16987,13 +17057,23 @@
                 "edit-time": 1616237444815,
                 "children": [
                   {
-                    "string": "__星期五 05/02/2021 17:42~43__",
+                    "string": "((5VLXKueoY))",
                     "create-time": 1613815154040,
-                    "uid": "_u_Sfb_rK",
-                    "edit-time": 1613815154044,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5VLXKueoY"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5VLXKueoY"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
+                    "uid": "_u_Sfb_rK",
+                    "edit-time": 1616252486528,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -17593,6 +17673,28 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "children": [
+              {
+                "string": "[[西野七濑 (Nishino Nanase)]]",
+                "create-time": 1616246237838,
+                ":block/refs": [
+                  {
+                    ":block/uid": "yEEQf40Ep"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "yEEQf40Ep"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "fTIFVop8N",
+                "edit-time": 1616246253372,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "edit-time": 1616239295092,
                 "children": [
@@ -26558,7 +26660,7 @@
     "create-time": 1612454400020,
     "title": "February 5th, 2021",
     "uid": "02-05-2021",
-    "edit-time": 1612454400020,
+    "edit-time": 1616252454520,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -93069,6 +93171,68 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "light intensity -- average energy flow density -- average power in unit area -- p19",
+                "create-time": 1616249930781,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$",
+                    "create-time": 1616250003501,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "$$\\sqrt{\\varepsilon \\varepsilon_{0}} E=\\sqrt{\\mu \\mu_{0}} H$$",
+                        "create-time": 1616250464358,
+                        "uid": "PX5OQNjZi",
+                        "edit-time": 1616250468102,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "在光频波段，磁化机制不起作用，$$\\mu \\approx 1$$   #approx",
+                        "create-time": 1616250498436,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "gfJzEjy8s"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "gfJzEjy8s"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "28YLkRNFt",
+                        "edit-time": 1616250563595,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "JHCXoGQGT",
+                    "edit-time": 1616250397548,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "yi1RxbZkB",
+                "edit-time": 1616250003510,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "9ZAnrSA6N",
@@ -97380,6 +97544,34 @@
             },
             "children": [
               {
+                "string": "[[February 5th, 2021]] -- [[DCIM - February 5th, 2021]]",
+                "create-time": 1616252449739,
+                ":block/refs": [
+                  {
+                    ":block/uid": "02-05-2021"
+                  },
+                  {
+                    ":block/uid": "rN8JpQKvN"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "02-05-2021"
+                  },
+                  {
+                    "uid": "rN8JpQKvN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "v7SVqF-c0",
+                "edit-time": 1616252470070,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "[[February 21st, 2021]] -- [[DCIM - February 21st, 2021]]",
                 "create-time": 1616239526127,
                 ":block/refs": [
@@ -101293,6 +101485,34 @@
             }
           },
           {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F-Fff9vqDBW.png?alt=media&token=7447743c-b079-46d8-bf19-4fdd98af1b2e)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F-Fff9vqDBW.png?alt=media&token=7447743c-b079-46d8-bf19-4fdd98af1b2e": {
+                  "width": 537,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616248121073,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F-Fff9vqDBW.png?alt=media&token=7447743c-b079-46d8-bf19-4fdd98af1b2e": {
+                  ":width": 537,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "NHit61OCl",
+            "edit-time": 1616248124351,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "小男孩怒吼: 她为什么不去，因为我是弟弟所以我就必须下去吗 - 下去车库",
             "create-time": 1616239563427,
             "uid": "oamYeOiJR",
@@ -101340,6 +101560,154 @@
     ],
     "uid": "ru6KOSIFq",
     "edit-time": 1616239551596,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616246253376,
+    "title": "西野七濑 (Nishino Nanase)",
+    "uid": "yEEQf40Ep",
+    "edit-time": 1616246253377,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616250563598,
+    "title": "approx",
+    "uid": "gfJzEjy8s",
+    "edit-time": 1616250563598,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616252470073,
+    "title": "DCIM - February 5th, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1616252567686,
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUiHQQEWH8U.png?alt=media&token=81145ff5-d361-46b7-ad9d-53a8f87a32f2)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUiHQQEWH8U.png?alt=media&token=81145ff5-d361-46b7-ad9d-53a8f87a32f2": {
+                  "width": 580,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616252519004,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUiHQQEWH8U.png?alt=media&token=81145ff5-d361-46b7-ad9d-53a8f87a32f2": {
+                  ":width": 580,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "xPbm4AXPy",
+            "edit-time": 1616252537869,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZDExyfW9l"
+          },
+          {
+            "uid": "DqOqNHBio"
+          }
+        ],
+        "uid": "5VLXKueoY",
+        ":block/refs": [
+          {
+            ":block/uid": "ZDExyfW9l"
+          },
+          {
+            ":block/uid": "DqOqNHBio"
+          }
+        ],
+        "string": "__星期五 05/02/2021 17:42~43__ #pt10-100 #ponytail   164~167 cm?",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1616252480304,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1616252643192,
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FbmvTo8vQbR.png?alt=media&token=ac399905-b6a3-428b-9b6a-0fe4ed0882e8)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FbmvTo8vQbR.png?alt=media&token=ac399905-b6a3-428b-9b6a-0fe4ed0882e8": {
+                  "width": 381,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616252661150,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FbmvTo8vQbR.png?alt=media&token=ac399905-b6a3-428b-9b6a-0fe4ed0882e8": {
+                  ":width": 381,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "aDW1uWm8I",
+            "edit-time": 1616252674749,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "4OAdV7LZq"
+          }
+        ],
+        "uid": "TPqffWxBJ",
+        ":block/refs": [
+          {
+            ":block/uid": "4OAdV7LZq"
+          }
+        ],
+        "string": "星期五 05/02/2021 17:43 #pt10-99.99 # [little girl]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1616252641899,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rN8JpQKvN",
+    "edit-time": 1616252470073,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

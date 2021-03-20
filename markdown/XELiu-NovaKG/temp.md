@@ -2,10 +2,10 @@
     - 
     - 
 - ...
-    - 
+    - \boldsymbol{E} \perp \boldsymbol{H}
     - 
 - todo today (real-time view)
-    - amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; 
+    - amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; 有顶天+7; 
     - achieve
         - weibo; 比特币 入门; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历; SQL 入门
         - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
