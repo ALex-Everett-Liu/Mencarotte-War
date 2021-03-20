@@ -93180,7 +93180,7 @@
                 },
                 "children": [
                   {
-                    "string": "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$",
+                    "string": "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$   (1.2)",
                     "create-time": 1616250003501,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -93189,8 +93189,68 @@
                       {
                         "string": "$$\\sqrt{\\varepsilon \\varepsilon_{0}} E=\\sqrt{\\mu \\mu_{0}} H$$",
                         "create-time": 1616250464358,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "在光频波段，磁化机制不起作用，$$\\mu \\approx 1$$   #approx",
+                            "create-time": 1616250498436,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "gfJzEjy8s"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "gfJzEjy8s"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "28YLkRNFt",
+                            "edit-time": 1616250563595,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "光学折射率 $$n=\\sqrt{\\varepsilon \\mu}=\\sqrt{\\varepsilon}$$",
+                            "create-time": 1616257653259,
+                            "uid": "fdvyx-OUe",
+                            "edit-time": 1616257701033,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "$$c=1 / \\sqrt{\\varepsilon_{0} \\mu_{0}}$$",
+                            "create-time": 1616257803335,
+                            "uid": "rfgPnr9HJ",
+                            "edit-time": 1616257805826,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
                         "uid": "PX5OQNjZi",
                         "edit-time": 1616250468102,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "$$S=\\sqrt{\\frac{\\varepsilon_{0}}{\\mu_{0}}} n E^{2}=\\frac{n}{c \\mu_{0}} E^{2}$$   (1.3)",
+                        "create-time": 1616257821816,
+                        "uid": "OwwHX95-8",
+                        "edit-time": 1616257829351,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
@@ -93199,30 +93259,34 @@
                         }
                       },
                       {
-                        "string": "在光频波段，磁化机制不起作用，$$\\mu \\approx 1$$   #approx",
-                        "create-time": 1616250498436,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "gfJzEjy8s"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "gfJzEjy8s"
-                          }
-                        ],
+                        "string": "$$I=\\bar{S}=\\frac{n}{2 c \\mu_{0}} E_{0}^{2}$$   (1.4)",
+                        "create-time": 1616257906129,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
-                        "uid": "28YLkRNFt",
-                        "edit-time": 1616250563595,
+                        "children": [
+                          {
+                            "string": "简谐振动-振幅-平均值   $$\\overline{E^{2}}=\\frac{1}{2} E_{0}^{2}$$",
+                            "create-time": 1616257873835,
+                            "uid": "aX_OYSaGU",
+                            "edit-time": 1616257901807,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "iA2ofKVUE",
+                        "edit-time": 1616257942285,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       }
                     ],
                     "uid": "JHCXoGQGT",
-                    "edit-time": 1616250397548,
+                    "edit-time": 1616257642300,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }

@@ -26,6 +26,11 @@
                 - 化学发光 - 鬼火
                 - 生物发光
         - light intensity -- average energy flow density -- average power in unit area -- p19
-            - Poynting vector 的瞬时值   $$S=|\boldsymbol{E} \times \boldsymbol{H}|=\sqrt{\frac{\varepsilon \varepsilon_{0}}{\mu \mu_{0}}} E^{2}$$
+            - Poynting vector 的瞬时值   $$S=|\boldsymbol{E} \times \boldsymbol{H}|=\sqrt{\frac{\varepsilon \varepsilon_{0}}{\mu \mu_{0}}} E^{2}$$   (1.2)
                 - $$\sqrt{\varepsilon \varepsilon_{0}} E=\sqrt{\mu \mu_{0}} H$$
-                - 在光频波段，磁化机制不起作用，$$\mu \approx 1$$   #approx
+                    - 在光频波段，磁化机制不起作用，$$\mu \approx 1$$   #approx
+                    - 光学折射率 $$n=\sqrt{\varepsilon \mu}=\sqrt{\varepsilon}$$
+                    - $$c=1 / \sqrt{\varepsilon_{0} \mu_{0}}$$
+                - $$S=\sqrt{\frac{\varepsilon_{0}}{\mu_{0}}} n E^{2}=\frac{n}{c \mu_{0}} E^{2}$$   (1.3)
+                - $$I=\bar{S}=\frac{n}{2 c \mu_{0}} E_{0}^{2}$$   (1.4)
+                    - 简谐振动-振幅-平均值   $$\overline{E^{2}}=\frac{1}{2} E_{0}^{2}$$

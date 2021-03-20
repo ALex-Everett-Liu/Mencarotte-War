@@ -66152,8 +66152,8 @@
   [10251 :version/id "0.8.3" 536913039]
   [10251
    :version/nonce
-   "uuide7e8426f-538c-4653-9e11-ec04333da44c"
-   536920298]
+   "uuid0acae5a4-2f63-4b81-96a7-09b331580d5c"
+   536920344]
   [10253 :block/string "" 536913048]
   [10253 :block/uid "rse6Hh4SO" 536913048]
   [10253 :edit/time 1615393413033 536913048]
@@ -81563,7 +81563,8 @@
   [11735 :edit/time 1616250003510 536920191]
   [11735 :edit/user 3 536920171]
   [11736 :block/children 11743 536920219]
-  [11736 :block/children 11744 536920223]
+  [11736 :block/children 11757 536920325]
+  [11736 :block/children 11759 536920338]
   [11736 :block/open true 536920189]
   [11736 :block/order 0 536920192]
   [11736 :block/page 11028 536920190]
@@ -81573,12 +81574,12 @@
   [11736 :block/parents 11735 536920193]
   [11736
    :block/string
-   "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$"
-   536920216]
+   "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$   (1.2)"
+   536920304]
   [11736 :block/uid "JHCXoGQGT" 536920189]
   [11736 :create/time 1616250003501 536920189]
   [11736 :create/user 3 536920189]
-  [11736 :edit/time 1616250397548 536920216]
+  [11736 :edit/time 1616257642300 536920304]
   [11736 :edit/user 3 536920189]
   [11740 :block/string "" 536920204]
   [11740 :block/uid "PnHRB-qoX" 536920204]
@@ -81592,7 +81593,10 @@
   [11742 :block/uid "Oi4COMqjQ" 536920208]
   [11742 :edit/time 1616250320268 536920208]
   [11742 :edit/user 3 536920208]
-  [11743 :block/open true 536920217]
+  [11743 :block/children 11744 536920307]
+  [11743 :block/children 11755 536920309]
+  [11743 :block/children 11756 536920320]
+  [11743 :block/open false 536920324]
   [11743 :block/order 0 536920219]
   [11743 :block/page 11028 536920218]
   [11743 :block/parents 11028 536920218]
@@ -81610,13 +81614,14 @@
   [11743 :edit/time 1616250468102 536920222]
   [11743 :edit/user 3 536920217]
   [11744 :block/open true 536920223]
-  [11744 :block/order 1 536920223]
+  [11744 :block/order 0 536920307]
   [11744 :block/page 11028 536920224]
   [11744 :block/parents 11028 536920224]
   [11744 :block/parents 11340 536920224]
   [11744 :block/parents 11612 536920224]
   [11744 :block/parents 11735 536920224]
   [11744 :block/parents 11736 536920224]
+  [11744 :block/parents 11743 536920308]
   [11744 :block/refs 11745 536920242]
   [11744
    :block/string
@@ -81732,4 +81737,93 @@
   [11754 :create/time 1616252661150 536920293]
   [11754 :create/user 3 536920293]
   [11754 :edit/time 1616252674749 536920297]
-  [11754 :edit/user 3 536920293]]}
+  [11754 :edit/user 3 536920293]
+  [11755 :block/open true 536920305]
+  [11755 :block/order 1 536920307]
+  [11755 :block/page 11028 536920306]
+  [11755 :block/parents 11028 536920306]
+  [11755 :block/parents 11340 536920306]
+  [11755 :block/parents 11612 536920306]
+  [11755 :block/parents 11735 536920306]
+  [11755 :block/parents 11736 536920306]
+  [11755 :block/parents 11743 536920310]
+  [11755
+   :block/string
+   "光学折射率 $$n=\\sqrt{\\varepsilon \\mu}=\\sqrt{\\varepsilon}$$"
+   536920319]
+  [11755 :block/uid "fdvyx-OUe" 536920305]
+  [11755 :create/time 1616257653259 536920305]
+  [11755 :create/user 3 536920305]
+  [11755 :edit/time 1616257701033 536920319]
+  [11755 :edit/user 3 536920305]
+  [11756 :block/open true 536920320]
+  [11756 :block/order 2 536920320]
+  [11756 :block/page 11028 536920321]
+  [11756 :block/parents 11028 536920321]
+  [11756 :block/parents 11340 536920321]
+  [11756 :block/parents 11612 536920321]
+  [11756 :block/parents 11735 536920321]
+  [11756 :block/parents 11736 536920321]
+  [11756 :block/parents 11743 536920321]
+  [11756
+   :block/string
+   "$$c=1 / \\sqrt{\\varepsilon_{0} \\mu_{0}}$$"
+   536920323]
+  [11756 :block/uid "rfgPnr9HJ" 536920320]
+  [11756 :create/time 1616257803335 536920320]
+  [11756 :create/user 3 536920320]
+  [11756 :edit/time 1616257805826 536920323]
+  [11756 :edit/user 3 536920320]
+  [11757 :block/open true 536920325]
+  [11757 :block/order 1 536920325]
+  [11757 :block/page 11028 536920326]
+  [11757 :block/parents 11028 536920326]
+  [11757 :block/parents 11340 536920326]
+  [11757 :block/parents 11612 536920326]
+  [11757 :block/parents 11735 536920326]
+  [11757 :block/parents 11736 536920326]
+  [11757
+   :block/string
+   "$$S=\\sqrt{\\frac{\\varepsilon_{0}}{\\mu_{0}}} n E^{2}=\\frac{n}{c \\mu_{0}} E^{2}$$   (1.3)"
+   536920329]
+  [11757 :block/uid "OwwHX95-8" 536920325]
+  [11757 :create/time 1616257821816 536920325]
+  [11757 :create/user 3 536920325]
+  [11757 :edit/time 1616257829351 536920329]
+  [11757 :edit/user 3 536920325]
+  [11758 :block/open true 536920330]
+  [11758 :block/order 0 536920343]
+  [11758 :block/page 11028 536920331]
+  [11758 :block/parents 11028 536920331]
+  [11758 :block/parents 11340 536920331]
+  [11758 :block/parents 11612 536920331]
+  [11758 :block/parents 11735 536920331]
+  [11758 :block/parents 11736 536920331]
+  [11758 :block/parents 11759 536920344]
+  [11758
+   :block/string
+   "简谐振动-振幅-平均值   $$\\overline{E^{2}}=\\frac{1}{2} E_{0}^{2}$$"
+   536920337]
+  [11758 :block/uid "aX_OYSaGU" 536920330]
+  [11758 :create/time 1616257873835 536920330]
+  [11758 :create/user 3 536920330]
+  [11758 :edit/time 1616257901807 536920337]
+  [11758 :edit/user 3 536920330]
+  [11759 :block/children 11758 536920343]
+  [11759 :block/open true 536920338]
+  [11759 :block/order 2 536920342]
+  [11759 :block/page 11028 536920339]
+  [11759 :block/parents 11028 536920339]
+  [11759 :block/parents 11340 536920339]
+  [11759 :block/parents 11612 536920339]
+  [11759 :block/parents 11735 536920339]
+  [11759 :block/parents 11736 536920339]
+  [11759
+   :block/string
+   "$$I=\\bar{S}=\\frac{n}{2 c \\mu_{0}} E_{0}^{2}$$   (1.4)"
+   536920341]
+  [11759 :block/uid "iA2ofKVUE" 536920338]
+  [11759 :create/time 1616257906129 536920338]
+  [11759 :create/user 3 536920338]
+  [11759 :edit/time 1616257942285 536920341]
+  [11759 :edit/user 3 536920338]]}
