@@ -9705,7 +9705,19 @@
             "string": "",
             "create-time": 1616138412594,
             "uid": "tXuVUO8qw",
-            "edit-time": 1616139316438,
+            "edit-time": 1616211486600,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1616211479012,
+            "uid": "TGaPrX3KJ",
+            "edit-time": 1616211492399,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -96564,6 +96576,44 @@
     },
     "children": [
       {
+        "string": "light propagation",
+        "children": [
+          {
+            "string": "propagation direction",
+            "uid": "c1JBNUrAU",
+            "edit-time": 1616211470876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "right angle",
+            "uid": "8zq5OvAch",
+            "edit-time": 1616211470876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yVmjUNIuL",
+        "edit-time": 1616211470876,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1616211464602,
+        "uid": "Q8zMgq7Io",
+        "edit-time": 1616211467032,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[新概念物理教程-光学 (New Concept Physics - Optics)]]",
         "create-time": 1615969268685,
         ":block/refs": [
@@ -97293,25 +97343,51 @@
             }
           },
           {
-            "string": "Another example is the waves that are created on [the membrane of a drum]. The waves [propagate in directions] that are parallel to the membrane plane, but the membrane itself [gets displaced up and down], perpendicular to that plane.",
+            "string": "Another example is the waves that are created on [the membrane of a drum](((UCRwRS-Ve))). The waves [propagate in directions] that are parallel to the membrane plane, but the membrane itself [gets displaced up and down], perpendicular to that plane. \n(鼓膜的振动产生的波的方向平行于鼓膜面的方向)",
             "create-time": 1616006681769,
-            "uid": "SRfKM8-Qs",
-            "edit-time": 1616006766305,
+            ":block/refs": [
+              {
+                ":block/uid": "UCRwRS-Ve"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "UCRwRS-Ve"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "SRfKM8-Qs",
+            "edit-time": 1616211260611,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "Light is another example of a transverse wave, where the oscillations are the electric and magnetic fields, which point at right angles to the ideal light rays that describe the direction of propagation.",
+            "string": "Light is another example of a transverse wave, where the oscillations are [the electric and magnetic fields], which [point at right angles to](((8zq5OvAch))) 成直角 the [ideal light rays] that [describe the direction of propagation](((c1JBNUrAU))).\n(电磁场的振动产生电磁波，其方向垂直于传播方向)",
             "create-time": 1616006791196,
-            "uid": "foAIhw7Ur",
-            "edit-time": 1616171521206,
+            ":block/refs": [
+              {
+                ":block/uid": "c1JBNUrAU"
+              },
+              {
+                ":block/uid": "8zq5OvAch"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "c1JBNUrAU"
+              },
+              {
+                "uid": "8zq5OvAch"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "foAIhw7Ur",
+            "edit-time": 1616211494996,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -97350,10 +97426,22 @@
         }
       },
       {
-        "string": "Transverse waves commonly occur in elastic solids; the oscillations in this case are the displacement of the solid particles away from their relaxed position, in directions perpendicular to the propagation of the wave. Since those displacements correspond to a local shear deformation of the material, a transverse wave of this nature is called a shear wave. In seismology, shear waves are also called secondary waves or S-waves.\n\nTransverse waves are contrasted with longitudinal waves, where the oscillations occur in the direction of the wave. The standard example of a longitudinal wave is a sound wave or \"pressure wave\" in gases, liquids, or solids, whose oscillations cause compression and expansion of the material through which the wave is propagating. Pressure waves are called \"primary waves\", or \"P-waves\" in geophysics.",
+        "string": "Transverse waves commonly occur in elastic solids; the oscillations in this case are the displacement of the solid particles away from their relaxed position, in directions perpendicular to the propagation of the wave. Since those displacements correspond to a local shear deformation of the material, a transverse wave of this nature is called a shear wave. In seismology, shear waves are also called secondary waves or S-waves.",
+        "create-time": 1616211519529,
+        "uid": "e1F9qhe2B",
+        "edit-time": 1616211521753,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Transverse waves are contrasted with longitudinal waves, where the oscillations occur in the direction of the wave. The standard example of a longitudinal wave is a sound wave or \"pressure wave\" in gases, liquids, or solids, whose oscillations cause compression and expansion of the material through which the wave is propagating. Pressure waves are called \"primary waves\", or \"P-waves\" in geophysics.",
         "create-time": 1616006413139,
         "uid": "VLbe5pWGe",
-        "edit-time": 1616006791208,
+        "edit-time": 1616211519542,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -97427,6 +97515,18 @@
           }
         ],
         "children": [
+          {
+            "string": "drum membrane",
+            "create-time": 1616211250322,
+            "uid": "UCRwRS-Ve",
+            "edit-time": 1616211251863,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "string wave",
             "create-time": 1616175834895,

@@ -1,6 +1,7 @@
 - 机械波
 - perpendicular to the direction
 - [[transverse wave]]
+    - drum membrane
     - string wave
 - [[longitudinal wave]]
 - wave oscillation
