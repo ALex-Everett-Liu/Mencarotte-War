@@ -11,6 +11,9 @@
         - short boot
             - black short boot
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-KG%2FXqm7rWGHBL.png?alt=media&token=7b1e19d3-34a7-43d3-8e98-5c0ed366dc48)
+            - black high heeled short boot
+            - dark red wedge heeled short boot
+        - black boot
         - [[black wedge boot]]
     - high heeled
         - [[black high heeled]]
@@ -47,6 +50,7 @@
     - white long sleeves
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FF6OsbVB4uo.png?alt=media&token=31b281fd-b82e-49d9-ae6c-3b439bf3dddc)
     - coat
+        - black coat
         - light blue coat
         - brown coat
         - coffee coat
@@ -54,6 +58,7 @@
         - white coat
     - 羽绒服
         - black yurongfu
+        - white yurongfu
         - white long yurongfu
     - sweater
         - [[black-white-stripe sweater]]
@@ -62,9 +67,13 @@
         - light brown dayi
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtqCMGewjjH.png?alt=media&token=f7325d50-beb8-4eb1-9724-09fbe2210c7a)
                 - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)"
+        - dark blue dayi
         - light blue dayi
+        - green dayi
+        - red dayi
     - long coat
         - creamy-white long coat
+    - [[blue dress]]
 - underwear? private?
     - naked?
     - 美臀 - oshiri
@@ -75,5 +84,10 @@
         - 书包
             - 可爱的书包挂件
     - hair
+        - hair style?
+            - [[ponytail]]
+                - dual ponytail
         - 发卡
             - middle faqia
+        - 发圈
+            - light pink big faquan

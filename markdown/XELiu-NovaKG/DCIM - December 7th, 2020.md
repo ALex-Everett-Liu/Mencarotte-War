@@ -1,0 +1,2 @@
+- __2020/12/07 08:06__ # "dark blue dayi" # "dark red wedge heeled short boot"
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fwye3z6uOSD.png?alt=media&token=0dae8862-bf66-4c65-aa68-db0496d4f60a)

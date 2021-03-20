@@ -1,0 +1,3 @@
+- 星期五 18/12/2020 11:04 #pt10-100 #laopo # "white yurongfu" # "black leather shoes"   164~166 cm?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUe6UIHHjGc.jpg?alt=media&token=71f6e3be-7106-4a6e-aea1-8d68e38ce56f)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FuwXYnpFOni.png?alt=media&token=f8efcf6a-b906-4161-bd1b-54d53d7dd542)

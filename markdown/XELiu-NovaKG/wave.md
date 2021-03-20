@@ -2,6 +2,11 @@
 - perpendicular to the direction
 - [[transverse wave]]
     - drum membrane
+    - [[shear wave]]
+        - [[displacement]]
+            - [[relaxed position]]
+        - [[elastic solid]]
+        - [[local shear deformation]]
     - string wave
 - [[longitudinal wave]]
 - wave oscillation

@@ -1,4 +1,20 @@
+- 2020
+    - [[April 30th, 2020]] -- [[DCIM - April 30th, 2020]]
+    - [[November 29th, 2020]] -- [[DCIM - November 29th, 2020]] 
+    - December
+        - [[December 1st, 2020]] -- [[DCIM - December 1st, 2020]] 
+        - [[December 2nd, 2020]] -- [[DCIM - December 2nd, 2020]] 
+        - [[December 7th, 2020]] -- [[DCIM - December 7th, 2020]] 
+        - [[December 18th, 2020]] -- [[DCIM - December 18th, 2020]] 
+        - [[December 27th, 2020]] -- [[DCIM - December 27th, 2020]] 
+    - ---
+    - West OB - OL-01 --- #pt10-100 #laopo   166~169 cm?
+        - "2020/12/01 08:06 #pt10-100 #laopo # "dark blue dayi" # "black high heeled short boot"   166~169 cm?"
+        - "2020/12/02 08:07 # "red dayi" # "dark red wedge heeled short boot""
+        - "__2020/12/07 08:06__ # "dark blue dayi" # "dark red wedge heeled short boot""
 - 2021
+    - January
+        - [[January 1st, 2021]] -- [[DCIM - January 1st, 2021]]
     - March
         - Nanjing. 2021.3.15~3.18
             - [[March 15th, 2021]] -- [[DCIM - March 15th, 2021]]

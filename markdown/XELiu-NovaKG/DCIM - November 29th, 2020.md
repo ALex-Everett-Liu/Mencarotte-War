@@ -1,0 +1,2 @@
+- 2020/11/29 11:55   #pt10-99.99 # "black boot"
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnAEFJtUxZL.png?alt=media&token=8dc458bf-0410-49d4-8ff2-64459666b180)

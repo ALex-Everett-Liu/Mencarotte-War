@@ -7,7 +7,7 @@
 - todo today (real-time view)
     - amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; 
     - achieve
-        - weibo; 比特币; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历; SQL 入门
+        - weibo; 比特币 入门; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历; SQL 入门
         - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
         - 御姐; 丝路大亨; 重生传奇
 - roam test
