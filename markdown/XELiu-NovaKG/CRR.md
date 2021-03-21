@@ -15,6 +15,7 @@
             - dark red wedge heeled short boot
         - black boot
         - [[black wedge boot]]
+        - [[white wedge boot]]
     - high heeled
         - [[black high heeled]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fj5LJ7E2IXN.png?alt=media&token=304c31ab-37ee-4d21-b08d-b0211896c42f)
@@ -87,6 +88,7 @@
         - hair style?
             - [[ponytail]]
                 - dual ponytail
+                - [[short ponytail]]
         - 发卡
             - middle faqia
         - 发圈

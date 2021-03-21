@@ -4,6 +4,16 @@
 - light propagation
     - propagation direction
     - right angle
+- light spectrum
+    - 分光仪器
+    - 光谱密度
+    - 连续光谱
+        - 白光
+            - 多色混合光
+            - 互补色混合
+        - 太阳光谱
+    - 线光谱
+        - 特征谱线
 - material...
     - 折射率
 - ---

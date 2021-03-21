@@ -2,7 +2,7 @@
     - 
     - 
 - ...
-    - \boldsymbol{E} \perp \boldsymbol{H}
+    - 
     - 
 - todo today (real-time view)
     - amayo+37; unfrag+25; 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; 有顶天+7; 

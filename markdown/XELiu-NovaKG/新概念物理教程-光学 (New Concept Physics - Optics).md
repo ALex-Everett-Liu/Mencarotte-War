@@ -35,6 +35,15 @@
                 - $$I=\bar{S}=\frac{n}{2 c \mu_{0}} E_{0}^{2}$$   (1.4)
                     - 简谐振动-振幅-平均值   $$\overline{E^{2}}=\frac{1}{2} E_{0}^{2}$$
                     - 同一介质中，只关心光强的相对分布，省略比例系数 $$I=\boldsymbol{E}_{0}^{2}$$   (1.5)
-        - 分光仪器-棱镜--非单色光
-            - 光谱密度 $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
+        - light spectrum
+            - 分光仪器-棱镜--非单色光
+            - [光谱密度](((9aA4NcsiM))) $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
                 - 则总光强为 $$I=\int_{\lambda=0}^{\lambda=\infty} \mathrm{d} I_{\lambda}=\int_{0}^{\infty} i(\lambda) \mathrm{d} \lambda$$   (1.7)
+            - 连续光谱
+                - 白光-多色混合光
+                    - 互补色混合
+                - 太阳光谱-日光照明
+            - 线光谱
+                - 特征谱线-不同化学成分
+                    - 谱线宽度-单色性-$$\Delta \lambda$$
+                    - 典型谱线表 p20

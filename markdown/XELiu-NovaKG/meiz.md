@@ -14,6 +14,7 @@
                     - 很嚣张地一路甩着细胳膊，可爱
         - [[Yu Zhe]]
         - "星期一 15/03/2021 12:03 #pt10-100 #laopo #[[jk seifuku]] #[[flesh pantyhose]] # "black leather shoes"   158~161 cm?"
+        - "星期六 24/06/2017 21:23 #pt10-100 #laopo #[[short ponytail]] #[[white wedge boot]]"
         - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
@@ -59,6 +60,7 @@
         - [[甘薇 (Gan Wei)]]
         - [[张冬 (Zhang Dong)]] -- pt9-100
         - [[倪妮 (Ni Ni)]] -- pt9-100
+        - [[何嘉颖 (He Jiaying)]] #pt9-100
         - [[桃香子 (taoxiangzi)]] #pt9-99.99
         - 袁姗姗 (Yuan Shanshan) -- pt8-99.97
     - others

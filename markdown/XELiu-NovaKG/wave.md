@@ -9,5 +9,8 @@
         - [[local shear deformation]]
     - string wave
 - [[longitudinal wave]]
+    - [[sound wave]]
+    - [[pressure wave]]
+        - compression and expansion of the material
 - wave oscillation
 - 弹性介质
