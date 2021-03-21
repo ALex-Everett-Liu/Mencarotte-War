@@ -210,6 +210,8 @@ Completed after 4 days.
                 - {{[[TODO]]}} Emacs / Vim 快捷键，控制光标移动
                 - {{[[TODO]]}} online table; airtable; 维格表
                     - [在线数据分析](https://chartcube.alipay.com/upload)
+                - 关于使用 Link to Text Fragment 维持双链导出后的链接功能的[设想](https://ld246.com/article/1616311596239)
+                    - URL 锚点 HTML 定位技术机制、应用与[问题](https://www.zhangxinxu.com/wordpress/2013/08/url-anchor-html-%E9%94%9A%E7%82%B9%E5%AE%9A%E4%BD%8D%E6%9C%BA%E5%88%B6-%E5%BA%94%E7%94%A8-%E9%97%AE%E9%A2%98/?utm_source=ld246.com)
                 - {{[[TODO]]}} Acronis 的[不间断备份模式](https://zhuanlan.zhihu.com/p/352667515)可能存在问题，建议谨慎使用，因为笔者的备份曾经出现过[坏档]的情况，导致[丢失了]2天的[数据]，非常痛心。
 [笔者][目前使用的是]一小时一备份的[增量备份方案]，比较稳定。
                 - 你好，[想请问一下](https://www.yuque.com/deerain/gannbs/fgsq8v)[大纲笔记]的[横向排版][开发起来难度大吗]？如果自学[前端]的话学完[react框架]后可以开发吗？我最近试了一下mit的remnote，感觉不错，引用和双链这两个功能相当自然。

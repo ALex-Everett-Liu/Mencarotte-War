@@ -48,6 +48,7 @@
         - black trousers
     - 美腿 - beautiful legs
 - uwagi
+    - white blouse
     - white long sleeves
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FF6OsbVB4uo.png?alt=media&token=31b281fd-b82e-49d9-ae6c-3b439bf3dddc)
     - coat
