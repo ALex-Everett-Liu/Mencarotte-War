@@ -93228,11 +93228,7 @@
                 "edit-time": 1616301389965,
                 "children": [
                   {
-                    "string": "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$   (1.2)",
-                    "create-time": 1616250003501,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
+                    "edit-time": 1616309678581,
                     "children": [
                       {
                         "string": "$$\\sqrt{\\varepsilon \\varepsilon_{0}} E=\\sqrt{\\mu \\mu_{0}} H$$",
@@ -93264,13 +93260,23 @@
                             }
                           },
                           {
-                            "string": "光学折射率 $$n=\\sqrt{\\varepsilon \\mu}=\\sqrt{\\varepsilon}$$",
+                            "string": "[光学折射率](((K_xYwGdAl))) $$n=\\sqrt{\\varepsilon \\mu}=\\sqrt{\\varepsilon}$$",
                             "create-time": 1616257653259,
-                            "uid": "fdvyx-OUe",
-                            "edit-time": 1616257701033,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "K_xYwGdAl"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "K_xYwGdAl"
+                              }
+                            ],
                             ":create/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             },
+                            "uid": "fdvyx-OUe",
+                            "edit-time": 1616309906807,
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -93324,6 +93330,18 @@
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
+                          },
+                          {
+                            "string": "同一介质中，只关心光强的相对分布，省略比例系数 $$I=\\boldsymbol{E}_{0}^{2}$$   (1.5)",
+                            "create-time": 1616309777890,
+                            "uid": "W4aGsKiw4",
+                            "edit-time": 1616310058563,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
                           }
                         ],
                         "uid": "iA2ofKVUE",
@@ -93333,8 +93351,22 @@
                         }
                       }
                     ],
+                    "refs": [
+                      {
+                        "uid": "MXqraioNA"
+                      }
+                    ],
                     "uid": "JHCXoGQGT",
-                    "edit-time": 1616257642300,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "MXqraioNA"
+                      }
+                    ],
+                    "string": "[Poynting vector](((MXqraioNA))) 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$   (1.2)",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1616250003501,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -93356,6 +93388,46 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "create-time": 1616249930781,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "分光仪器-棱镜--非单色光",
+                "create-time": 1616309930868,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "光谱密度 $$i(\\lambda)=\\frac{\\mathrm{d} I_{\\lambda}}{\\mathrm{d} \\lambda}$$   (1.6)",
+                    "create-time": 1616309979940,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "则总光强为 $$I=\\int_{\\lambda=0}^{\\lambda=\\infty} \\mathrm{d} I_{\\lambda}=\\int_{0}^{\\infty} i(\\lambda) \\mathrm{d} \\lambda$$   (1.7)",
+                        "create-time": 1616310073899,
+                        "uid": "J5Vo4swUr",
+                        "edit-time": 1616310104571,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "5W1hlbeYJ",
+                    "edit-time": 1616310029474,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "5gV--kfIz",
+                "edit-time": 1616309953423,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -97961,6 +98033,18 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "Poynting vector",
+            "create-time": 1616309661175,
+            "uid": "MXqraioNA",
+            "edit-time": 1616309662140,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "eFgb20u0y",
@@ -97991,6 +98075,24 @@
         ],
         "uid": "yVmjUNIuL",
         "edit-time": 1616211470876,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "material...",
+        "children": [
+          {
+            "string": "折射率",
+            "uid": "K_xYwGdAl",
+            "edit-time": 1616309894509,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "4b3jGhf5R",
+        "edit-time": 1616309894509,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }

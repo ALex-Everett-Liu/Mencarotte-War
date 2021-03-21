@@ -1,7 +1,10 @@
 - light intensity
     - average energy flow density
+    - Poynting vector
 - light propagation
     - propagation direction
     - right angle
+- material...
+    - 折射率
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]

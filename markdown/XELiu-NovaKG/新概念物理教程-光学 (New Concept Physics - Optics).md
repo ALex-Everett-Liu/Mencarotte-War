@@ -26,11 +26,15 @@
                 - 化学发光 - 鬼火
                 - 生物发光
         - light intensity -- [average energy flow density](((LSuE_qsGw))) -- average power in unit area -- p19
-            - Poynting vector 的瞬时值   $$S=|\boldsymbol{E} \times \boldsymbol{H}|=\sqrt{\frac{\varepsilon \varepsilon_{0}}{\mu \mu_{0}}} E^{2}$$   (1.2)
+            - [Poynting vector](((MXqraioNA))) 的瞬时值   $$S=|\boldsymbol{E} \times \boldsymbol{H}|=\sqrt{\frac{\varepsilon \varepsilon_{0}}{\mu \mu_{0}}} E^{2}$$   (1.2)
                 - $$\sqrt{\varepsilon \varepsilon_{0}} E=\sqrt{\mu \mu_{0}} H$$
                     - 在光频波段，磁化机制不起作用，$$\mu \approx 1$$   #approx
-                    - 光学折射率 $$n=\sqrt{\varepsilon \mu}=\sqrt{\varepsilon}$$
+                    - [光学折射率](((K_xYwGdAl))) $$n=\sqrt{\varepsilon \mu}=\sqrt{\varepsilon}$$
                     - $$c=1 / \sqrt{\varepsilon_{0} \mu_{0}}$$
                 - $$S=\sqrt{\frac{\varepsilon_{0}}{\mu_{0}}} n E^{2}=\frac{n}{c \mu_{0}} E^{2}$$   (1.3)
                 - $$I=\bar{S}=\frac{n}{2 c \mu_{0}} E_{0}^{2}$$   (1.4)
                     - 简谐振动-振幅-平均值   $$\overline{E^{2}}=\frac{1}{2} E_{0}^{2}$$
+                    - 同一介质中，只关心光强的相对分布，省略比例系数 $$I=\boldsymbol{E}_{0}^{2}$$   (1.5)
+        - 分光仪器-棱镜--非单色光
+            - 光谱密度 $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
+                - 则总光强为 $$I=\int_{\lambda=0}^{\lambda=\infty} \mathrm{d} I_{\lambda}=\int_{0}^{\infty} i(\lambda) \mathrm{d} \lambda$$   (1.7)
