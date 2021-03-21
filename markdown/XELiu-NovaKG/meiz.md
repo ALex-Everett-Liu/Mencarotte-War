@@ -30,6 +30,7 @@
         - "星期三 17/03/2021 21:38 #pt10-100 #laopo #[[black high heeled]] #OL   168~171 cm?"
         - "West OB - OL-01 --- #pt10-100 #laopo   166~169 cm?"
             - "2020/12/01 08:06 #pt10-100 #laopo # "dark blue dayi" # "black high heeled short boot"   166~169 cm?"
+        - "星期四 03/08/2017 11:44 -- MOV_7800.mp4 #pt10-99.99 # "light jeans shorts" # "美腿 - beautiful legs"   166~169 cm?"
         - "星期一 15/03/2021 12:08 #pt10-100 # "creamy-white long coat"; "[[flesh pantyhose]]"; "white sneaker"   169~172 cm?"
         - "星期三 17/03/2021 20:45 #pt10-100 #laopo # canvas   164~167 cm?"
         - "星期五 18/12/2020 11:04 #pt10-100 #laopo # "white yurongfu" # "black leather shoes"   164~166 cm?"

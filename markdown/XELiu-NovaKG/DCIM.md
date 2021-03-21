@@ -5,7 +5,12 @@
     - June
         - [[June 24th, 2017]] -- [[DCIM - June 24th, 2017]]
     - August
+        - [[August 1st, 2017]] -- [[DCIM - August 1st, 2017]]
         - [[August 2nd, 2017]] -- [[DCIM - August 2nd, 2017]]
+        - [[August 3rd, 2017]] -- [[DCIM - August 3rd, 2017]]
+    - September
+        - [[September 11th, 2017]] -- [[DCIM - September 11th, 2017]]
+        - [[September 14th, 2017]] -- [[DCIM - September 14th, 2017]]
 - 2020
     - [[April 30th, 2020]] -- [[DCIM - April 30th, 2020]]
     - [[November 29th, 2020]] -- [[DCIM - November 29th, 2020]] 

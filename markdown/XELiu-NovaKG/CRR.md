@@ -1,12 +1,4 @@
 - shoes - kutsu
-    - leather shoes
-        - black leather shoes
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)"
-    - canvas
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)
-    - sneaker
-        - white sneaker
     - boot
         - short boot
             - black short boot
@@ -16,9 +8,19 @@
         - black boot
         - [[black wedge boot]]
         - [[white wedge boot]]
+    - canvas
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)
     - high heeled
         - [[black high heeled]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fj5LJ7E2IXN.png?alt=media&token=304c31ab-37ee-4d21-b08d-b0211896c42f)
+    - leather shoes
+        - black leather shoes
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)"
+    - sandal
+        - [[white wedge sandal]]
+    - sneaker
+        - white sneaker
 - socks - kutsushita
     - stocking
         - black stocking
@@ -32,6 +34,10 @@
         - [[flesh pantyhose]]
         - [[grey pantyhose]]
 - shitagi
+    - shorts
+        - light jeans shorts
+        - black leather shorts
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Fn73aetdNOD.png?alt=media&token=42971083-0ef1-4d10-8436-b4ed1380a6b3)
     - skirt
         - [[jk seifuku]]
             - dark blue skirt
@@ -41,9 +47,6 @@
             - black middle skirt
         - blue skirt
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)
-    - shorts
-        - black leather shorts
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Fn73aetdNOD.png?alt=media&token=42971083-0ef1-4d10-8436-b4ed1380a6b3)
     - trousers
         - black trousers
     - 美腿 - beautiful legs
@@ -57,6 +60,7 @@
         - brown coat
         - coffee coat
         - [[green coat]]
+        - red coat
         - white coat
     - 羽绒服
         - black yurongfu
@@ -76,6 +80,7 @@
     - long coat
         - creamy-white long coat
     - [[blue dress]]
+    - 白色碎花裙
 - underwear? private?
     - naked?
     - 美臀 - oshiri
@@ -94,3 +99,5 @@
             - middle faqia
         - 发圈
             - light pink big faquan
+    - neck
+        - [[choker]]
