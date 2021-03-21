@@ -1,11 +1,13 @@
 - 机械波
-- perpendicular to the direction
+- plane wave
+    - spherical wave
+        - transverse spherical wave
 - [[transverse wave]]
     - drum membrane
     - [[shear wave]]
         - [[displacement]]
             - [[relaxed position]]
-        - [[elastic solid]]
+        - "[[elastic solid]]"
         - [[local shear deformation]]
     - string wave
 - [[longitudinal wave]]
@@ -13,4 +15,5 @@
     - [[pressure wave]]
         - compression and expansion of the material
 - wave oscillation
-- 弹性介质
+- [[elastic medium]], 弹性介质
+    - [[elastic solid]]

@@ -1251,6 +1251,18 @@
                         }
                       },
                       {
+                        "string": "随着 Roam Research 的大热，双向链接和[基于 Block 的]笔记软件[层出不穷](https://zhuanlan.zhihu.com/p/355844756)，而他们（葫芦笔记、logseq、Athens）[无一例外]都采用了 [Clojure 技术栈]的 Datomic/datascript Datalog 数据库，这不免让我感到好奇想要深入探索一番。本文就将硬核解析 Roam 背后原理，__发掘 Roam 基于 Block 的[深层技术优势]，帮助你迎接 Roam API 时代的到来！__",
+                        "create-time": 1616333941788,
+                        "uid": "YF4s5GCnA",
+                        "edit-time": 1616333979612,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "{{[[TODO]]}} 如今，“深度链接”[这一概念](https://zhuanlan.zhihu.com/p/353378388)[出现在了][手机中]，大家似乎都把它[曾经的过往][忘得一干二净]，完全把它当成一个[全新的事物][来接受]——[没人记起]它曾经的[来龙去脉]。我说这话[没什么别的意思]。只是这就像是有人如今开拍了一个新的[喜剧节目]，给它起名叫做“巨蟒剧团”（Monty Python，英国六人[喜剧团体]，被誉为[喜剧界]的[披头士]），但却[不透露一点]这个[节目名]的[来历与过往]。",
                         "refs": [
                           {
@@ -2249,6 +2261,18 @@
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
+                      },
+                      {
+                        "string": "[家里电脑]控制[办公室电脑]拿资料，就需要在家里和公司电脑[同时登陆]向日葵帐号，在【设备列表】可以看到[绑定设备](http://www.dayanzai.me/sunloginclient.html)，实现[远控]。",
+                        "create-time": 1616334086911,
+                        "uid": "WPYzGSwCl",
+                        "edit-time": 1616334107746,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "uid": "qoxYAyyuB",
@@ -2574,6 +2598,56 @@
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
                         "create-time": 1613692234381,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "ck3 mod - [The Rise and Fall of Empires](https://www.bilibili.com/video/BV1NZ4y157zz)",
+                        "create-time": 1616333860379,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "这个mod比唐宋晚几天出的，你去Steam创意工坊上[搜最新]，翻几下就看到了，叫帝国的衰落与崛起 ",
+                            "create-time": 1616333871657,
+                            "uid": "v6JkSLX2B",
+                            "edit-time": 1616333878740,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "用加速器，改host，代理等。这里推荐一下 UsbEAm（改host的）",
+                            "create-time": 1616333882801,
+                            "uid": "3SvYHGyXa",
+                            "edit-time": 1616333886492,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "ZSxki4kIG",
+                        "edit-time": 1616333901923,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "RPS的明显[体量差了一截]呀，编辑数量远小于[主流媒体]。而且这是[纯血PC媒体](https://bbs.saraba1st.com/2b/thread-1971842-1-1.html)，和TGA不太合得来。",
+                        "create-time": 1616334046936,
+                        "uid": "YiLgXjLNc",
+                        "edit-time": 1616334065795,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -3623,7 +3697,7 @@
                     },
                     "children": [
                       {
-                        "string": "{{[[TODO]]}} app purchase |||| screenshot 315 || rescuetime — 129 yuan/yr\nappgo — 269 yuan/year",
+                        "string": "{{[[TODO]]}} app purchase |||| screenshot 315 || rescuetime — [129 yuan/yr](https://sspai.com/item/93)\nappgo — 269 yuan/year\n[baidu netdisk](https://pay.sxiic.cc/product/5.html)",
                         "create-time": 1614140836221,
                         ":block/refs": [
                           {
@@ -3639,7 +3713,7 @@
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
                         "uid": "AGu0S3BhQ",
-                        "edit-time": 1614140855588,
+                        "edit-time": 1616333542668,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -5543,6 +5617,100 @@
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
+                      },
+                      {
+                        "edit-time": 1615574106336,
+                        "children": [
+                          {
+                            "string": "https://zhuanlan.zhihu.com/p/68455404",
+                            "create-time": 1615574360830,
+                            "uid": "SuPgO-C_O",
+                            "edit-time": 1615574362261,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "{{[[TODO]]}} https://www.zhihu.com/question/20546890/answer/1240447494",
+                            "create-time": 1615574184639,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "8KYEF6ETA"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "8KYEF6ETA"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "wNYXBGlZd",
+                            "edit-time": 1615574186405,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "利用 Pandoc 作为[转换引擎]，将用 Markdown 写的简历做[格式转换]，这样[投递时]无论对要求 PDF、DOC、DOCX、HTML 甚至 LATEX 格式你都可以很轻松的[只维护一份] [Markdown 格式]即可。",
+                            "create-time": 1615574145195,
+                            "uid": "fmplTzmeR",
+                            "edit-time": 1615574162009,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "可以用 Markdown 来写[文字部分]，然后[用 CSS 排版]，用 [React 组件][增加互动][炫技部分]。",
+                            "create-time": 1615574212828,
+                            "uid": "IjhItrNjw",
+                            "edit-time": 1615574224453,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "uid": "1E2s2MGUa",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "8KYEF6ETA"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} [markdown resume template](https://www.jianshu.com/p/94a20258b7bc)",
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "create-time": 1615574081532,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[质感][星空灰]表格[简历模板](https://sc.chinaz.com/jianli/190412595860.htm)",
+                        "create-time": 1615574281063,
+                        "uid": "NMppVPSBm",
+                        "edit-time": 1615574294244,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "uid": "nOa3tEVD3",
@@ -5689,11 +5857,25 @@
                       {
                         "string": "之前有eBay上[获取数据]做[竞品分析]的需求，先是用 web scraper 来，试了一会没成功。\n后来用uibot来操作，直接用[可视化界面](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1974569)[抓数据][导入excel]里面，[批量操作][能节省很多工作]。用的是免费版本，它既然没找我要钱，我就替它义乌宣传下：我认为挺好用。",
                         "create-time": 1615497382511,
-                        "uid": "ThEpre9oe",
-                        "edit-time": 1615497423476,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
+                        "children": [
+                          {
+                            "string": "[Web Scraper](https://sspai.com/post/60572)——轻量[数据爬取][利器]",
+                            "create-time": 1616333452311,
+                            "uid": "vDfE9bh4o",
+                            "edit-time": 1616333474263,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "ThEpre9oe",
+                        "edit-time": 1615497423476,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -5789,100 +5971,6 @@
                     },
                     "uid": "20Ym65RUm",
                     "edit-time": 1615131738967,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "edit-time": 1615574106336,
-                    "children": [
-                      {
-                        "string": "https://zhuanlan.zhihu.com/p/68455404",
-                        "create-time": 1615574360830,
-                        "uid": "SuPgO-C_O",
-                        "edit-time": 1615574362261,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "{{[[TODO]]}} https://www.zhihu.com/question/20546890/answer/1240447494",
-                        "create-time": 1615574184639,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "8KYEF6ETA"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "8KYEF6ETA"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        "uid": "wNYXBGlZd",
-                        "edit-time": 1615574186405,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "利用 Pandoc 作为[转换引擎]，将用 Markdown 写的简历做[格式转换]，这样[投递时]无论对要求 PDF、DOC、DOCX、HTML 甚至 LATEX 格式你都可以很轻松的[只维护一份] [Markdown 格式]即可。",
-                        "create-time": 1615574145195,
-                        "uid": "fmplTzmeR",
-                        "edit-time": 1615574162009,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      },
-                      {
-                        "string": "可以用 Markdown 来写[文字部分]，然后[用 CSS 排版]，用 [React 组件][增加互动][炫技部分]。",
-                        "create-time": 1615574212828,
-                        "uid": "IjhItrNjw",
-                        "edit-time": 1615574224453,
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "uid": "1E2s2MGUa",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8KYEF6ETA"
-                      }
-                    ],
-                    "string": "{{[[TODO]]}} [markdown resume template](https://www.jianshu.com/p/94a20258b7bc)",
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "create-time": 1615574081532,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "[质感][星空灰]表格[简历模板](https://sc.chinaz.com/jianli/190412595860.htm)",
-                    "create-time": 1615574281063,
-                    "uid": "NMppVPSBm",
-                    "edit-time": 1615574294244,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -10009,10 +10097,10 @@
                 }
               },
               {
-                "string": "御姐; 丝路大亨; 重生传奇",
+                "string": "御姐; 丝路大亨; 重生传奇; trash",
                 "create-time": 1612697509824,
                 "uid": "Jl78eJ9Wm",
-                "edit-time": 1616011879622,
+                "edit-time": 1616334651737,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -98414,15 +98502,41 @@
         "children": [
           {
             "string": "propagation direction",
+            "children": [
+              {
+                "string": "horizontal direction;",
+                "uid": "gvrTYEPot",
+                "edit-time": 1616331850982,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "perpendicular direction; perpendicular to the direction",
+                "uid": "z4Vu0CY37",
+                "edit-time": 1616331850982,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "right angle",
+                "uid": "b0jAfz5k3",
+                "edit-time": 1616331850982,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "vertical direction;",
+                "uid": "71JKD_6Zu",
+                "edit-time": 1616331850982,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
             "uid": "c1JBNUrAU",
-            "edit-time": 1616211470876,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "right angle",
-            "uid": "8zq5OvAch",
             "edit-time": 1616211470876,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -98537,6 +98651,34 @@
         ],
         "uid": "4b3jGhf5R",
         "edit-time": 1616309894509,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "polarization",
+        "children": [
+          {
+            "string": "[[linearly polarized]]",
+            "refs": [
+              {
+                "uid": "Yp1y8NCwa"
+              }
+            ],
+            "uid": "Gaj-TuAqw",
+            "edit-time": 1616332661669,
+            ":block/refs": [
+              {
+                ":block/uid": "Yp1y8NCwa"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "zFn8vft9r",
+        "edit-time": 1616332658179,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -99305,14 +99447,67 @@
             }
           },
           {
-            "string": "Light is another example of a transverse wave, where the oscillations are [the electric and magnetic fields], which [point at right angles to](((8zq5OvAch))) 成直角 the [ideal light rays] that [describe the direction of propagation](((c1JBNUrAU))).\n(电磁场的振动产生电磁波，其方向垂直于传播方向)",
-            "create-time": 1616006791196,
-            ":block/refs": [
+            "edit-time": 1616332001485,
+            "children": [
               {
-                ":block/uid": "c1JBNUrAU"
-              },
-              {
-                ":block/uid": "8zq5OvAch"
+                "string": "Illustration of [the electric and magnetic fields] along a ray in [a simple light wave](https://en.wikipedia.org/wiki/File:Electromagneticwave3D.gif). For any plane perpendicular to the ray, each field [has always the same value] [at all points of the plane].\n(对于任意垂直于光线传播方向的电磁场平面，平面上各点的场强全都相同)",
+                "create-time": 1616332083187,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "[Electromagneticwave3D.gif](https://upload.wikimedia.org/wikipedia/commons/4/4c/Electromagneticwave3D.gif) ‎(301 × 299 pixels, file size: 544 KB, MIME type: image/gif, looped, 100 frames, 3.0 s)",
+                    "create-time": 1616332495072,
+                    "uid": "GSdkIWNJM",
+                    "edit-time": 1616332496007,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[Electromagnetic waves](http://weelookang.blogspot.com/2011/10/ejs-open-source-propagation-of.html) can be imagined as a [self-propagating transverse oscillating wave] 自传播横向振荡波 of [electric and magnetic fields]. This diagram shows a plane [[linearly polarized]] wave [propagating from left to right]. The electric field is in a [vertical plane] and the magnetic field in a [horizontal plane].\n210321-21:16",
+                    "create-time": 1616332512387,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Yp1y8NCwa"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Yp1y8NCwa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "qh-Nxi-sY",
+                    "edit-time": 1616332822931,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "Author: [Lookang](https://commons.wikimedia.org/w/index.php?title=User:Lookang&action=edit&redlink=1) many thanks to [Fu-Kwun Hwang](http://www.phy.ntnu.edu.tw/ntnujava/index.php) and [author of Easy Java Simulation = Francisco Esquembre](http://www.compadre.org/osp/items/detail.cfm?ID=7305)",
+                    "create-time": 1616332696615,
+                    "uid": "DTR7tzY2i",
+                    "edit-time": 1616332702694,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "fjFhDu2yB",
+                "edit-time": 1616332284008,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -99320,14 +99515,45 @@
                 "uid": "c1JBNUrAU"
               },
               {
-                "uid": "8zq5OvAch"
+                "uid": "b0jAfz5k3"
+              }
+            ],
+            "uid": "foAIhw7Ur",
+            ":block/refs": [
+              {
+                ":block/uid": "c1JBNUrAU"
+              },
+              {
+                ":block/uid": "b0jAfz5k3"
+              }
+            ],
+            "string": "Light is another example of a transverse wave, where the oscillations are [the electric and magnetic fields], which [point at right angles to](((b0jAfz5k3))) 成直角 the [ideal light rays] that [describe the direction of propagation](((c1JBNUrAU))).\n(电磁场的振动产生电磁波，其方向垂直于传播方向)",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1616006791196,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Propagation](https://en.wikipedia.org/wiki/File:Ondes_cisaillement_2d_20_petit.gif) of a [transverse spherical wave](((qcVw17MQg))) in a [2d grid] 二维网格 ([empirical model]) ",
+            "create-time": 1616332751548,
+            ":block/refs": [
+              {
+                ":block/uid": "qcVw17MQg"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qcVw17MQg"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "foAIhw7Ur",
-            "edit-time": 1616211494996,
+            "uid": "iTGMzi_iO",
+            "edit-time": 1616333063027,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -99339,9 +99565,6 @@
           },
           {
             "uid": "vG_IawJYT"
-          },
-          {
-            "uid": "GOu60DASf"
           }
         ],
         "uid": "MYlQ0mcEf",
@@ -99351,12 +99574,9 @@
           },
           {
             ":block/uid": "vG_IawJYT"
-          },
-          {
-            ":block/uid": "GOu60DASf"
           }
         ],
-        "string": "In physics, a transverse wave is a wave whose [oscillations](((vG_IawJYT))) are [perpendicular to the direction](((GOu60DASf))) of the wave. This is in contrast to a [[longitudinal wave]] which [travels in the direction of its oscillations].\n(传播方向与振动方向)",
+        "string": "In physics, a transverse wave is a wave whose [oscillations](((vG_IawJYT))) are [perpendicular to the direction]() of the wave. This is in contrast to a [[longitudinal wave]] which [travels in the direction of its oscillations].\n(传播方向与振动方向)",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -99398,6 +99618,34 @@
             },
             "uid": "VLbe5pWGe",
             "edit-time": 1616326614246,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Illustration](https://en.wikipedia.org/wiki/File:Onde_cisaillement_impulsion_1d_30_petit.gif) of a simple (plane) transverse wave propagating through an [[elastic medium]] [in the horizontal direction], with particles being displaced [in the vertical direction](((71JKD_6Zu))). Only one layer of the material is shown\n(弹性介质材料中的横波平面波-粒子的纵向位移)",
+            "create-time": 1616006394663,
+            ":block/refs": [
+              {
+                ":block/uid": "zB07l5cYW"
+              },
+              {
+                ":block/uid": "71JKD_6Zu"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "zB07l5cYW"
+              },
+              {
+                "uid": "71JKD_6Zu"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "EtSCe_ftQ",
+            "edit-time": 1616331867876,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -99458,18 +99706,6 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
-      },
-      {
-        "string": "Illustration of a simple (plane) transverse wave propagating through an elastic medium in the horizontal direction, with particles being displaced in the vertical direction. Only one layer of the material is shown",
-        "create-time": 1616006394663,
-        "uid": "EtSCe_ftQ",
-        "edit-time": 1616006413657,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
       }
     ],
     "uid": "Eohr05fo-",
@@ -99510,9 +99746,29 @@
         }
       },
       {
-        "string": "perpendicular to the direction",
-        "uid": "GOu60DASf",
-        "edit-time": 1616006579928,
+        "string": "plane wave",
+        "children": [
+          {
+            "string": "spherical wave",
+            "children": [
+              {
+                "string": "transverse spherical wave",
+                "uid": "qcVw17MQg",
+                "edit-time": 1616332902283,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ml_XlI84g",
+            "edit-time": 1616332902283,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "X9QlmOHr3",
+        "edit-time": 1616332902283,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -99584,19 +99840,23 @@
                 }
               },
               {
-                "string": "[[elastic solid]]",
-                "refs": [
-                  {
-                    "uid": "BoZUPVK-q"
-                  }
-                ],
-                "uid": "1lv9XlC98",
-                "edit-time": 1616213310228,
+                "string": "((1lv9XlC98))",
+                "create-time": 1616332064889,
                 ":block/refs": [
                   {
-                    ":block/uid": "BoZUPVK-q"
+                    ":block/uid": "1lv9XlC98"
                   }
                 ],
+                "refs": [
+                  {
+                    "uid": "1lv9XlC98"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Bd6FI6C9t",
+                "edit-time": 1616332065733,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -99730,13 +99990,43 @@
         }
       },
       {
-        "string": "弹性介质",
-        "create-time": 1616171424147,
+        "edit-time": 1616331935366,
+        "children": [
+          {
+            "string": "[[elastic solid]]",
+            "refs": [
+              {
+                "uid": "BoZUPVK-q"
+              }
+            ],
+            "uid": "1lv9XlC98",
+            "edit-time": 1616213310228,
+            ":block/refs": [
+              {
+                ":block/uid": "BoZUPVK-q"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "zB07l5cYW"
+          }
+        ],
         "uid": "ELBNSKzLJ",
-        "edit-time": 1616171425066,
+        ":block/refs": [
+          {
+            ":block/uid": "zB07l5cYW"
+          }
+        ],
+        "string": "[[elastic medium]], 弹性介质",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "create-time": 1616171424147,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -102604,7 +102894,7 @@
     },
     "children": [
       {
-        "edit-time": 1616326203817,
+        "edit-time": 1616331617654,
         "children": [
           {
             "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FkxHBKZImaI.jpg?alt=media&token=076d912b-dcba-4a59-a752-161e917110b5)\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9MJKEIPF8d.png?alt=media&token=93f1ee89-04c2-4d5c-aba1-88667a8d2a2d)",
@@ -102708,7 +102998,7 @@
             ":block/uid": "lnSZ9Edjo"
           }
         ],
-        "string": "星期六 24/06/2017 21:23 #pt10-100 #laopo #[[short ponytail]] #[[white wedge boot]]",
+        "string": "星期六 24/06/2017 21:23 #pt10-100 #laopo #[[short ponytail]] #[[white wedge boot]]   165~169 cm?",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -102903,6 +103193,30 @@
     ],
     "uid": "-KJJc8qam",
     "edit-time": 1616328486368,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616331766485,
+    "title": "elastic medium",
+    "uid": "zB07l5cYW",
+    "edit-time": 1616331766486,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616332616515,
+    "title": "linearly polarized",
+    "uid": "Yp1y8NCwa",
+    "edit-time": 1616332616515,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

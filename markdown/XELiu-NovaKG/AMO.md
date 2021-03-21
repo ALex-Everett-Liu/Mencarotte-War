@@ -3,7 +3,10 @@
     - Poynting vector
 - light propagation
     - propagation direction
-    - right angle
+        - horizontal direction;
+        - perpendicular direction; perpendicular to the direction
+        - right angle
+        - vertical direction;
 - light spectrum
     - 分光仪器
     - 光谱密度
@@ -16,5 +19,7 @@
         - 特征谱线
 - material...
     - 折射率
+- polarization
+    - [[linearly polarized]]
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]

@@ -48,6 +48,7 @@
                     - 27.由于Twitter支持[串联线索]（thread），而且Twitter的[长度限制][迫使你][原子化地][处理想法]，因此Twitter[实际上可以]比Evernote[更好地成为][第二个大脑] | Twitter作为第二个大脑的缺点是，你[不再思考]那些可能[使你难堪]的想法，或者让你[面临社会风险]。问题是，如果你试图成为用twitter写论文的先驱，那么你在公共场合思考，所以你有意识地或下意识地转向思考那些有社会回报的思想 | 因此Roam的特别之处在于，用Twitter+富文本编辑器的理念解决了“网状结构”构建的问题，也通过标签部分解决了知识分类的问题，但是“正确的工具”[应该不止]目前Roam[现有的][产品形态]。 
                 - {{[[TODO]]}} Roam的属性功能（[Attributes](https://cn.logseq.com/t/topic/165)）可以用于块（Block）和页面（Page），而经过几天尝试，发现logseq目前有块属性（Block Property)，好像只能作用于块（block），单独用于页面（Page）效果与Roam有一定区别。
                     - [Attributes in Roam](https://roamresearch.com/#/app/help/page/LJOc7nRiO)
+                - 随着 Roam Research 的大热，双向链接和[基于 Block 的]笔记软件[层出不穷](https://zhuanlan.zhihu.com/p/355844756)，而他们（葫芦笔记、logseq、Athens）[无一例外]都采用了 [Clojure 技术栈]的 Datomic/datascript Datalog 数据库，这不免让我感到好奇想要深入探索一番。本文就将硬核解析 Roam 背后原理，__发掘 Roam 基于 Block 的[深层技术优势]，帮助你迎接 Roam API 时代的到来！__
                 - {{[[TODO]]}} 如今，“深度链接”[这一概念](https://zhuanlan.zhihu.com/p/353378388)[出现在了][手机中]，大家似乎都把它[曾经的过往][忘得一干二净]，完全把它当成一个[全新的事物][来接受]——[没人记起]它曾经的[来龙去脉]。我说这话[没什么别的意思]。只是这就像是有人如今开拍了一个新的[喜剧节目]，给它起名叫做“巨蟒剧团”（Monty Python，英国六人[喜剧团体]，被誉为[喜剧界]的[披头士]），但却[不透露一点]这个[节目名]的[来历与过往]。
                     - 这种把[深度链接]的过往[完全抹去]的做法其实[颇具讽刺意味]，因为链接就是为了[厘清][事物之间的联系]而发明的。发明深度链接的人认为，它能够以一种[颇具启发性的方式][将彼此相关的概念相连]，让人[产生新的思绪]，将[不同的想法][联系在一起]。要是 20年前，[网络时代]这些[远见卓识的人][真的达到了他们的目的]，那么以[重新定义]使用“深度链接”这一[术语]为代表的[科技文化健忘症][压根儿就不会发生]。他们[所设想的]那种真正的深度链接应该已经[确保了这一点]。
                     - 如今，[网络链接]主要起到[导航]和[注解]的作用。我们不再使用链接来[分享]我们[思维火花]擦出的[相关知识之间的联系]，而是[留下了一大堆数据]，供[商家][寻找其中的价值]。
@@ -126,6 +127,7 @@ Completed after 4 days.
             - tools
                 - {{[[TODO]]}} Wayback Machine
                 - {{[[TODO]]}} vpn in GitHub, Twitter, Reddit, Telegram, Discord...
+                - [家里电脑]控制[办公室电脑]拿资料，就需要在家里和公司电脑[同时登陆]向日葵帐号，在【设备列表】可以看到[绑定设备](http://www.dayanzai.me/sunloginclient.html)，实现[远控]。
             - fuli
                 - {{[[TODO]]}} ^^Nude Chinese Model^^ : Uncensored Gallery [005](https://sxchinesegirlz.com/2020/01/15/nude-chinese-model-uncensored-gallery-005/)
                 - {{[[TODO]]}} [Chinese Beautiful Model](https://www.xvideos.com/video58111881/chinese_beautiful_model)
@@ -152,6 +154,10 @@ Completed after 4 days.
                     - 初版功能介绍 吕奉先痛失爱妻 娶貂蝉北上称王
                 - {{[[TODO]]}} 一些P社CK3MOD[板块][画的大饼](https://tieba.baidu.com/p/7022191041)
                     - ^^Anbennar 是一个[基于D&D的]EU4[奇幻MOD]，现在[制作组][决定制作]CK3版^^，开始时间为EU4版（1444）的422年前（1022）
+                - ck3 mod - [The Rise and Fall of Empires](https://www.bilibili.com/video/BV1NZ4y157zz)
+                    - 这个mod比唐宋晚几天出的，你去Steam创意工坊上[搜最新]，翻几下就看到了，叫帝国的衰落与崛起 
+                    - 用加速器，改host，代理等。这里推荐一下 UsbEAm（改host的）
+                - RPS的明显[体量差了一截]呀，编辑数量远小于[主流媒体]。而且这是[纯血PC媒体](https://bbs.saraba1st.com/2b/thread-1971842-1-1.html)，和TGA不太合得来。
             - {{[[TODO]]}} cnki account; 
             - {{[[TODO]]}} characters modding; ck3 backup; chrome indexDB backup; 
             - {{[[TODO]]}} roam/css; js; roam page or block attribute; score; temp; meiz/crr; adding figs; 
@@ -223,8 +229,9 @@ https://cn.logseq.com/uploads/default/original/1X/6fb23336796775f83b9a2b03f3aa89
             - {{[[TODO]]}} 刷杯子 海绵
             - {{[[TODO]]}} **泡面面面面O皿O** -- 约拍录舞后期合作可私信～ [唠嗑群](https://space.bilibili.com/2378703) 574182082 -- 不许跑，我看到你了！O皿O
             - tech
-                - {{[[TODO]]}} app purchase |||| screenshot 315 || rescuetime — 129 yuan/yr
+                - {{[[TODO]]}} app purchase |||| screenshot 315 || rescuetime — [129 yuan/yr](https://sspai.com/item/93)
 appgo — 269 yuan/year
+[baidu netdisk](https://pay.sxiic.cc/product/5.html)
                 - {{[[TODO]]}} 录屏; bandicam; ...
                 - {{[[TODO]]}} 在其他任何 Windows 系统上，使用 Windows+R 调出运行命令，输入 \\192.168.0.109，点击确定，如果让你[输入凭据]，这个凭据就是你[正在使用的][这台电脑]的[帐户名]以及密码。最后[即可找到]我们刚刚[共享的盘符](https://zhuanlan.zhihu.com/p/43391739)。
                 - {{[[TODO]]}} 在 win 上我会用 [AutoHotKey](https://link.zhihu.com/?target=https%3A//autohotkey.com/) 来把 [Capslock 键]变成一个[前缀键]并[绑定了]很多[常用操作]在上面，[最常用到的]就是 [Capslock + hjkl] 来[上下左右移动光标]，对熟悉 vim 的人来说[很顺手]；Mac 没有 AutoHotKey，但是因为很多[输入文本的地方]都支持几个简单的 [EMACS 快捷键]，所以也[凑合能用]；[不管哪一种]都比用鼠标或触摸板或方向键去[移动光标]要[高效]。
@@ -388,6 +395,12 @@ obsidian — Link to blocks
                 - {{[[TODO]]}} 关于[思源笔记][上手][自定义主题]的[简单引导](https://www.bilibili.com/video/BV1bf4y167ge) -- css tutorial 
                 - {{[[TODO]]}} roam js extensions
 [roamhacks](https://roamhacks.com/keyboard-shortcuts-roam/)
+                - {{[[TODO]]}} [markdown resume template](https://www.jianshu.com/p/94a20258b7bc)
+                    - https://zhuanlan.zhihu.com/p/68455404
+                    - {{[[TODO]]}} https://www.zhihu.com/question/20546890/answer/1240447494
+                    - 利用 Pandoc 作为[转换引擎]，将用 Markdown 写的简历做[格式转换]，这样[投递时]无论对要求 PDF、DOC、DOCX、HTML 甚至 LATEX 格式你都可以很轻松的[只维护一份] [Markdown 格式]即可。
+                    - 可以用 Markdown 来写[文字部分]，然后[用 CSS 排版]，用 [React 组件][增加互动][炫技部分]。
+                - [质感][星空灰]表格[简历模板](https://sc.chinaz.com/jianli/190412595860.htm)
             - 其实很多[所谓的]玩[猫箱](https://bbs.saraba1st.com/2b/thread-1988791-2-1.html)梗的东西，[实质上只是][人择原理]的应用而已。
 猫箱[本质上][是在探讨]的“实在性(Reality)”的问题，而这个问题实际上很难有什么[表观的体现]。
             - {{[[TODO]]}} 在玻璃上[喷涂](https://www.zhihu.com/question/420760487/answer/1692006101)一层[玻璃清洁][涂层]。利用[纳米分子]在[玻璃表面][附着一层][疏水层]，水渍和污垢就很难[附着在]玻璃上面了。喷涂一次一般可以管2-3年，再也不用为天天[擦玻璃]而头疼了。
@@ -399,6 +412,7 @@ obsidian — Link to blocks
                     - HDD sentinel，有问题可以[自动报警]
                 - 之前有eBay上[获取数据]做[竞品分析]的需求，先是用 web scraper 来，试了一会没成功。
 后来用uibot来操作，直接用[可视化界面](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1974569)[抓数据][导入excel]里面，[批量操作][能节省很多工作]。用的是免费版本，它既然没找我要钱，我就替它义乌宣传下：我认为挺好用。
+                    - [Web Scraper](https://sspai.com/post/60572)——轻量[数据爬取][利器]
                 - css 字体
 https://www.runoob.com/css/css-font.html
 https://www.w3school.com.cn/css/css_font.asp
@@ -412,12 +426,6 @@ https://segmentfault.com/a/1190000024568400
             - {{[[TODO]]}} 【包邮】诗经 THE CHINESE SHI KING 1891年 [精装](http://book.kongfz.com/27248/804425564/)
                 - [国外直接发货]，约2~3周[到货]，[书到国内][提供运单号]，[下单后][请耐心等待]。
             - {{[[TODO]]}} **不是表字配狗，是王八瞪绿豆 [更新：一场智力的风暴]** [daxiong coser](https://bbs.saraba1st.com/2b/thread-1988448-1-1.html)
-            - {{[[TODO]]}} [markdown resume template](https://www.jianshu.com/p/94a20258b7bc)
-                - https://zhuanlan.zhihu.com/p/68455404
-                - {{[[TODO]]}} https://www.zhihu.com/question/20546890/answer/1240447494
-                - 利用 Pandoc 作为[转换引擎]，将用 Markdown 写的简历做[格式转换]，这样[投递时]无论对要求 PDF、DOC、DOCX、HTML 甚至 LATEX 格式你都可以很轻松的[只维护一份] [Markdown 格式]即可。
-                - 可以用 Markdown 来写[文字部分]，然后[用 CSS 排版]，用 [React 组件][增加互动][炫技部分]。
-            - [质感][星空灰]表格[简历模板](https://sc.chinaz.com/jianli/190412595860.htm)
         - detail point 99.99 (pt9-99.99)
             - note-taking
                 - Obsidian [完全指南]之 [使用图片]时候[需要注意的一些东西](https://www.bilibili.com/video/BV1SV411q7Qx) -- Keyboard Maestro
