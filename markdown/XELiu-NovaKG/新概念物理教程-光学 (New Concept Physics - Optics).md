@@ -25,7 +25,7 @@
                 - 磷光
                 - 化学发光 - 鬼火
                 - 生物发光
-        - light intensity -- average energy flow density -- average power in unit area -- p19
+        - light intensity -- [average energy flow density](((LSuE_qsGw))) -- average power in unit area -- p19
             - Poynting vector 的瞬时值   $$S=|\boldsymbol{E} \times \boldsymbol{H}|=\sqrt{\frac{\varepsilon \varepsilon_{0}}{\mu \mu_{0}}} E^{2}$$   (1.2)
                 - $$\sqrt{\varepsilon \varepsilon_{0}} E=\sqrt{\mu \mu_{0}} H$$
                     - 在光频波段，磁化机制不起作用，$$\mu \approx 1$$   #approx

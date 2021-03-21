@@ -8902,6 +8902,32 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "有什么好用的限速软件推荐吗？还有上传限制多少够看直播啊 -- [NetLimiter](https://bbs.saraba1st.com/2b/thread-1994140-4-1.html)",
+                    "create-time": 1616305986278,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "10年前的PPS之流也会[把上传带宽吃满]。那时候ADSL上传才512k，吃满了基本[卡的没法上网]",
+                        "create-time": 1616306030490,
+                        "uid": "JyM0UQj8H",
+                        "edit-time": 1616306040967,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "cC9HT7cyR",
+                    "edit-time": 1616306066653,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "CzSXTKIPT",
@@ -93199,11 +93225,7 @@
                 }
               },
               {
-                "string": "light intensity -- average energy flow density -- average power in unit area -- p19",
-                "create-time": 1616249930781,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
+                "edit-time": 1616301389965,
                 "children": [
                   {
                     "string": "Poynting vector 的瞬时值   $$S=|\\boldsymbol{E} \\times \\boldsymbol{H}|=\\sqrt{\\frac{\\varepsilon \\varepsilon_{0}}{\\mu \\mu_{0}}} E^{2}$$   (1.2)",
@@ -93318,8 +93340,22 @@
                     }
                   }
                 ],
+                "refs": [
+                  {
+                    "uid": "LSuE_qsGw"
+                  }
+                ],
                 "uid": "yi1RxbZkB",
-                "edit-time": 1616250003510,
+                ":block/refs": [
+                  {
+                    ":block/uid": "LSuE_qsGw"
+                  }
+                ],
+                "string": "light intensity -- [average energy flow density](((LSuE_qsGw))) -- average power in unit area -- p19",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1616249930781,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -97915,6 +97951,24 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "light intensity",
+        "children": [
+          {
+            "string": "average energy flow density",
+            "uid": "LSuE_qsGw",
+            "edit-time": 1616301373292,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "eFgb20u0y",
+        "edit-time": 1616301373292,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "light propagation",
         "children": [

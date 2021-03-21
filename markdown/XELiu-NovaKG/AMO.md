@@ -1,3 +1,5 @@
+- light intensity
+    - average energy flow density
 - light propagation
     - propagation direction
     - right angle
