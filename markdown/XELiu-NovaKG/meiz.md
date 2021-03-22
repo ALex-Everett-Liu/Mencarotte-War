@@ -18,6 +18,7 @@
         - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
+        - [[邹茜 (Zou Qian)]]
         - "星期二 16/03/2021 20:52-57 #pt10-100 #laopo # "black short boot" # "middle faqia"   159~162 cm?"
         - 东区jk2 -- #pt10-99.99   164~167 cm?
             - "__星期五 05/02/2021 17:42~43__ #pt10-100 #ponytail"

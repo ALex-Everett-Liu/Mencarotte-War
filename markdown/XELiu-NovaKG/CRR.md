@@ -80,6 +80,7 @@
     - long coat
         - creamy-white long coat
     - [[blue dress]]
+    - white sleeveless dress
     - 白色碎花裙
 - underwear? private?
     - naked?
@@ -99,5 +100,8 @@
             - middle faqia
         - 发圈
             - light pink big faquan
+        - 撩头发
     - neck
         - [[choker]]
+    - wrist
+        - black wrist rope

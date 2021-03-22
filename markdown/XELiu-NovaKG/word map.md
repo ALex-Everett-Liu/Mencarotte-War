@@ -120,6 +120,8 @@
             - wi
                 - wire
                     - rewire;
+            - wr
+                - [[wrist]]
         - y
             - yi
                 - yield

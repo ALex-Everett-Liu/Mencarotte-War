@@ -9,7 +9,7 @@
     - achieve
         - weibo; 比特币 入门; css 中英文字体; css font family; perfect pdf - xbeta; latex 简历; SQL 入门
         - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
-        - 御姐; 丝路大亨; 重生传奇; trash
+        - 御姐; 丝路大亨; 重生传奇; trash; jdjr
 - roam test
     - aa
         - **bb**
