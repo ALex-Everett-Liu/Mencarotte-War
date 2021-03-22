@@ -17,7 +17,7 @@
         - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
-        - weibo -- # "round face" #[[grey sweater]] # mall #HIT
+        - weibo -- # "round face" #[[grey sweater]] # mall #HIT #laopo
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FEevFV2F4zA.jpg?alt=media&token=63ada62a-6707-41f3-b136-42b109eb6a45)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F7bIYYEyYl1.jpg?alt=media&token=5712d82e-a363-4615-aba3-4c33c1dca32d)
         - [[邹茜 (Zou Qian)]]
@@ -39,6 +39,8 @@
         - "星期五 18/12/2020 11:04 #pt10-100 #laopo # "white yurongfu" # "black leather shoes"   164~166 cm?"
         - "2021/01/01 13:19 #pt10-100 # "dual ponytail" # "black coat" # "[[jk seifuku]]"   164~166 cm?"
         - "星期四 30/04/2020 17:56 -- VID_20200430_175653 #pt9-100 #laopo #[[blue dress]]   161~165 cm?"
+        - "grey high heeled sandal" #pt9-100
+        - "__星期二 23/02/2021 18:05__ "brown dayi"; cinema; 165~168 cm? 28~31 yo? #pt10-99.99"
         - "星期一 15/03/2021 12:22 #pt10-100 # "light blue coat" # "sneaker"   167~168 cm?"
         - "星期日 27/12/2020 21:06 #pt10-100 # "light pink big faquan" # "green dayi"   162~164 cm?"
         - "星期一 15/03/2021 12:17 #pt10-99.99 #laopo #[[black wedge boot]] # "black trousers" # "light blue coat"   167~170 cm?"
@@ -55,6 +57,8 @@
         - "星期一 15/03/2021 06:54 #pt9-99.99 # "light blue dayi" "
     - metropolis
         - [[西野七濑 (Nishino Nanase)]]
+        - #kiss # opai #pt10-99.99
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FfalURiarbO.webp?alt=media&token=a0b2bbf5-b411-408b-9053-873562f634a9)
         - [[唐嫣 (Tang Yan)]] -- #pt9-100
             - 9, 9, 99.99, 100, 99.99, 99.99, 99.99; -; 
         - [[程媛媛 (Cheng Yuanyuan)]]
