@@ -8,7 +8,7 @@
         - black boot
         - [[black wedge boot]]
         - [[white wedge boot]]
-    - canvas
+    - [[canvas]]
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)
     - high heeled
         - [[black high heeled]]
@@ -58,8 +58,10 @@
         - black coat
         - light blue coat
         - brown coat
+        - creamy-brown coat
         - coffee coat
         - [[green coat]]
+        - dark jeans coat
         - red coat
         - white coat
     - 羽绒服
@@ -67,6 +69,7 @@
         - white yurongfu
         - white long yurongfu
     - sweater
+        - creamy white sweater
         - [[black-white-stripe sweater]]
 - dress...
     - 大衣
@@ -89,6 +92,7 @@
     - bag
         - black bag
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)"
+        - [[yellow bag]]
         - 书包
             - 可爱的书包挂件
     - hair
@@ -101,7 +105,10 @@
         - 发圈
             - light pink big faquan
         - 撩头发
+    - hat
+        - black hat
     - neck
         - [[choker]]
     - wrist
         - black wrist rope
+    - round face

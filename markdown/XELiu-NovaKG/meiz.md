@@ -7,8 +7,7 @@
             - 2021
                 - 星期六 30/01/2021 17:38
                 - 星期日 31/01/2021 17:31
-                - __星期六 20/02/2021 17:26 33__
-                    - 急忙跑回东区拿东西 可爱 跑的好快
+                - "__星期六 20/02/2021 17:26 33__ | 17:27~29 | # "creamy-brown coat" # "black leather shoes" #[[yellow bag]] #pt10-100"
                 - "星期日 21/02/2021 17:30 #pt10-100 #ponytail # "light pink big faquan" # black-purple sneaker"
                 - __星期日 14/03/2021 11:22~23__
                     - 很嚣张地一路甩着细胳膊，可爱
@@ -18,6 +17,9 @@
         - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
+        - weibo -- # "round face" #[[grey sweater]] # mall #HIT
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FEevFV2F4zA.jpg?alt=media&token=63ada62a-6707-41f3-b136-42b109eb6a45)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F7bIYYEyYl1.jpg?alt=media&token=5712d82e-a363-4615-aba3-4c33c1dca32d)
         - [[邹茜 (Zou Qian)]]
         - "星期二 16/03/2021 20:52-57 #pt10-100 #laopo # "black short boot" # "middle faqia"   159~162 cm?"
         - 东区jk2 -- #pt10-99.99   164~167 cm?
@@ -86,7 +88,7 @@ empress | guifei41 | fei of major title | fei of lesser title | furen10
             jk -- "dark blue skirt" + "white short sleeves with blue"
     - model...
         - 001--1-120315224929.jpg
-            - "canvas"
+            - "[[canvas]]"
             - "black stocking"
             - "blue skirt"
             - "white long sleeves"
