@@ -15,7 +15,6 @@
             - 光在水中的速度-Foucault
         - 光的电磁理论
             - 无线电波 - Hertz, 1888
-        - 光与物质的相互作用
     - 1.2 light source
         - 光的发射
             - 热辐射/温度辐射 - 白炽灯
@@ -37,6 +36,7 @@
                     - 同一介质中，只关心光强的相对分布，省略比例系数 $$I=\boldsymbol{E}_{0}^{2}$$   (1.5)
         - light spectrum
             - 分光仪器-棱镜--非单色光
+                - 衍射光栅
             - [光谱密度](((9aA4NcsiM))) $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
                 - 则总光强为 $$I=\int_{\lambda=0}^{\lambda=\infty} \mathrm{d} I_{\lambda}=\int_{0}^{\infty} i(\lambda) \mathrm{d} \lambda$$   (1.7)
             - 连续光谱
@@ -47,3 +47,12 @@
                 - 特征谱线-不同化学成分
                     - 谱线宽度-单色性-$$\Delta \lambda$$
                     - 典型谱线表 p20
+    - 1.3 
+        - 几何光学
+            - 波长极短，波动效应不明显
+        - 物理光学/波动光学
+        - 量子光学
+            - 光与物质的相互作用
+    - 2.1 几何光学 p22
+        - 均匀介质，沿直线传播
+            - 暗箱[小孔/针孔成像](((-y3BglRzS)))，倒立的像

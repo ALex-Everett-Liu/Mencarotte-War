@@ -1,4 +1,4 @@
-- 星期三 17/03/2021 12:35 #pt10-99.99 #laopo # "black yurongfu"   164~167 cm?
+- 星期三 17/03/2021 12:35 #pt10-99.99 #laopo # "black yurongfu" # "white-grey sneaker"   164~167 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FNI4jBqPNq0.png?alt=media&token=6a94c081-b69b-4f5a-b4cb-dba768dcebaa)
 - 星期三 17/03/2021 12:46-47 #pt9-100 # "white long yurongfu" # "black short boot"
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FEQ-c0ZZVgn.jpg?alt=media&token=cd22c42e-5b79-4662-81de-dea386c8d3bf)

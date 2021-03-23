@@ -1,3 +1,5 @@
+- geometric optics
+    - 小孔成像
 - light intensity
     - average energy flow density
     - Poynting vector

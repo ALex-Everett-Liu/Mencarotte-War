@@ -22,19 +22,22 @@
         - [[white wedge heeled sandal]]
     - sneaker
         - white sneaker
+        - white-grey sneaker
 - socks - kutsushita
-    - stocking
-        - black stocking
-            - black stocking (separate leg)
-                - pasted_image002-porn001.png
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)"
     - black knee socks
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)
     - pantyhose
         - black pantyhose
         - [[flesh pantyhose]]
         - [[grey pantyhose]]
+    - stocking
+        - black stocking
+            - black stocking (separate leg)
+                - pasted_image002-porn001.png
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)"
+    - [[grey socks]]
 - shitagi
+    - [[light jeans]]
     - shorts
         - light jeans shorts
         - black leather shorts
@@ -74,6 +77,7 @@
         - [[black-white-stripe sweater]]
 - dress...
     - 大衣
+        - black dayi
         - brown dayi
         - light brown dayi
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtqCMGewjjH.png?alt=media&token=f7325d50-beb8-4eb1-9724-09fbe2210c7a)

@@ -714,6 +714,7 @@ O1b东一块西一块，是早期非常繁荣，后期相对衰落的后果。
             - [日间小睡](https://www.yuque.com/deerain/wqpb2o/vho0cq)时长最好在 20~30 分钟，也就是一个[睡眠周期]内 4 个[睡眠阶段]的前 3 个[浅度睡眠阶段]。如果小睡超过 30 分钟就会[渐渐进入][深度睡眠状态]([一般流传的说法]是“不要超过 45 分钟否则就会进入深度睡眠”，我[查阅了相关文献]和[睡眠监测数据]，证实了那是[自媒体][以讹传讹的错误说法])，要是在深度睡眠阶段[被唤醒了]，[醒来后]会产生[睡眠惰性]。
             - 有什么好用的限速软件推荐吗？还有上传限制多少够看直播啊 -- [NetLimiter](https://bbs.saraba1st.com/2b/thread-1994140-4-1.html)
                 - 10年前的PPS之流也会[把上传带宽吃满]。那时候ADSL上传才512k，吃满了基本[卡的没法上网]
+            - China reacts to new McDonald’s [spicy sundae](http://www.ltaaa.com/article/34736)
         - detail point 99.98 (pt8-99.98)
             - history
                 - 元明时期缅甸有段[势力真空](https://bbs.northdy.com/forum.php?mod=viewthread&tid=923559)，他们面子上暂时愿意[臣服]中国，这也是某些地图上明朝远至印度洋的原因。
