@@ -29,6 +29,7 @@
     - January
         - [[January 1st, 2021]] -- [[DCIM - January 1st, 2021]]
         - [[January 30th, 2021]] -- [[DCIM - January 30th, 2021]]
+        - [[January 31st, 2021]] -- [[DCIM - January 31st, 2021]]
     - February
         - [[February 5th, 2021]] -- [[DCIM - February 5th, 2021]]
         - [[February 20th, 2021]] -- [[DCIM - February 20th, 2021]]

@@ -40,6 +40,7 @@
         - "星期五 18/12/2020 11:04 #pt10-100 #laopo # "white yurongfu" # "black leather shoes"   164~166 cm?"
         - "2021/01/01 13:19 #pt10-100 # "dual ponytail" # "black coat" # "[[jk seifuku]]"   164~166 cm?"
         - "星期四 30/04/2020 17:56 -- VID_20200430_175653 #pt9-100 #laopo #[[blue dress]]   161~165 cm?"
+        - "星期日 31/01/2021 16:56 # "green yurongfu" #pt10-100   162~164 cm?"
         - "grey high heeled sandal" #pt9-100
         - "__星期二 23/02/2021 18:05__ "brown dayi"; cinema; 165~168 cm? 28~31 yo? #pt10-99.99"
         - "星期一 15/03/2021 12:22 #pt10-100 # "light blue coat" # "sneaker"   167~168 cm?"

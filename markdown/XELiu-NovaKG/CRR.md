@@ -70,6 +70,7 @@
         - white coat
     - 羽绒服
         - black yurongfu
+        - green yurongfu
         - white yurongfu
         - white long yurongfu
     - sweater

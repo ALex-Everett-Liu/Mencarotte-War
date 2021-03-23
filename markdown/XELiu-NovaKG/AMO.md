@@ -1,6 +1,6 @@
 - geometric optics
     - Snell rule
-        - 折射率
+        - refractive index
     - 小孔成像
 - light intensity
     - average energy flow density
@@ -22,7 +22,7 @@
     - 线光谱
         - 特征谱线
 - material...
-    - "折射率"
+    - "refractive index"
 - polarization
     - [[linearly polarized]]
 - ---
