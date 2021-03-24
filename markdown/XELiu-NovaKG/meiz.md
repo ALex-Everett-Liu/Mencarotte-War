@@ -56,6 +56,9 @@
         - "星期三 17/03/2021 20:37 #pt10-99.99 # "brown coat" # canvas   163~166 cm?"
         - "星期一 15/03/2021 12:10-15 #pt10-99.99 # "coffee coat"; "black middle skirt"; "black pantyhose"; "发卡"   166~170 cm?  "
         - "星期一 15/03/2021 12:18 #pt9-99.99 # "white coat" # "black trousers" # "black short boot" "
+        - 001-0A20B6963E8FF77298288D6561F29C9A.jpg #pt9-99.99 # "black leather shorts"
+            - "美腿 - beautiful legs" 
+            - "美臀 - oshiri"
         - "星期一 15/03/2021 06:54 #pt9-99.99 # "light blue dayi" "
     - metropolis
         - [[西野七濑 (Nishino Nanase)]]
@@ -117,7 +120,3 @@ empress | guifei41 | fei of major title | fei of lesser title | furen10
                 - shuangfei11
             - "naked?"
     - general...
-        - 001-0A20B6963E8FF77298288D6561F29C9A.jpg
-            - "美腿 - beautiful legs" 
-            - "美臀 - oshiri"
-            - "black leather shorts"
