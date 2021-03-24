@@ -75,6 +75,8 @@
         - [[倪妮 (Ni Ni)]] -- pt9-100
         - [[何嘉颖 (He Jiaying)]] #pt9-100
         - [[桃香子 (taoxiangzi)]] #pt9-99.99
+        - korea chemo 01 -- #pt8-99.99
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FvceG0hmSc9.jpg?alt=media&token=e9baf0da-a851-40b1-97de-577e697f844d)
         - 袁姗姗 (Yuan Shanshan) -- pt8-99.97
     - others
 - meta list

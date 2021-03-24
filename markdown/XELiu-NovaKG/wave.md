@@ -15,6 +15,7 @@
     - [[pressure wave]]
         - compression and expansion of the material
 - wave oscillation
+    - the direction of the oscillations
     - [[displacement]]
         - the direction of the displacement
         - the magnitude of the displacement
