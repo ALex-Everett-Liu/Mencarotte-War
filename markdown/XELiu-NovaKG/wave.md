@@ -1,11 +1,11 @@
 - 机械波
-- plane wave
-    - spherical wave
+- [[plane wave]]
+    - [[spherical wave]]
         - transverse spherical wave
 - [[transverse wave]]
     - drum membrane
     - [[shear wave]]
-        - [[displacement]]
+        - "[[displacement]]"
             - [[relaxed position]]
         - "[[elastic solid]]"
         - [[local shear deformation]]
@@ -15,5 +15,9 @@
     - [[pressure wave]]
         - compression and expansion of the material
 - wave oscillation
+    - [[displacement]]
+        - the direction of the displacement
+        - the magnitude of the displacement
+            - [[sinusoidal function]]; sinusoidal wave
 - [[elastic medium]], 弹性介质
     - [[elastic solid]]

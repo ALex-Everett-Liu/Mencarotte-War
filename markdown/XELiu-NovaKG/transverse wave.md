@@ -8,7 +8,7 @@
         - Illustration of [the electric and magnetic fields] along a ray in [a simple light wave](https://en.wikipedia.org/wiki/File:Electromagneticwave3D.gif). For any plane perpendicular to the ray, each field [has always the same value] [at all points of the plane].
 (对于任意垂直于光线传播方向的电磁场平面，平面上各点的场强全都相同)
             - [Electromagneticwave3D.gif](https://upload.wikimedia.org/wikipedia/commons/4/4c/Electromagneticwave3D.gif) ‎(301 × 299 pixels, file size: 544 KB, MIME type: image/gif, looped, 100 frames, 3.0 s)
-            - [Electromagnetic waves](http://weelookang.blogspot.com/2011/10/ejs-open-source-propagation-of.html) can be imagined as a [self-propagating transverse oscillating wave] 自传播横向振荡波 of [electric and magnetic fields]. This diagram shows a plane [[linearly polarized]] wave [propagating from left to right]. The electric field is in a [vertical plane] and the magnetic field in a [horizontal plane].
+            - [Electromagnetic waves](http://weelookang.blogspot.com/2011/10/ejs-open-source-propagation-of.html) can be imagined as a [self-propagating transverse oscillating wave] 自传播横向振荡波 of [electric and magnetic fields]. This diagram shows [a plane linearly polarized wave] [propagating from left to right]. The electric field is in a [vertical plane] and the magnetic field in a [horizontal plane].
 210321-21:16
             - Author: [Lookang](https://commons.wikimedia.org/w/index.php?title=User:Lookang&action=edit&redlink=1) many thanks to [Fu-Kwun Hwang](http://www.phy.ntnu.edu.tw/ntnujava/index.php) and [author of Easy Java Simulation = Francisco Esquembre](http://www.compadre.org/osp/items/detail.cfm?ID=7305)
     - [Propagation](https://en.wikipedia.org/wiki/File:Ondes_cisaillement_2d_20_petit.gif) of a [transverse spherical wave](((qcVw17MQg))) in a [2d grid] 二维网格 ([empirical model]) 
@@ -19,3 +19,9 @@
 (沿着传播方向的振动引起的材料的压缩与伸展)
     - [Illustration](https://en.wikipedia.org/wiki/File:Onde_cisaillement_impulsion_1d_30_petit.gif) of a simple (plane) transverse wave propagating through an [[elastic medium]] [in the horizontal direction], with particles being displaced [in the vertical direction](((71JKD_6Zu))). Only one layer of the material is shown
 (弹性介质材料中的横波平面波-粒子的纵向位移)
+- Mathematical formulation
+    - Mathematically, the simplest kind of transverse wave is [a plane linearly polarized sinusoidal one]. "[Plane]([[plane wave]])" here means that [the direction of propagation] is unchanging and [the same over the whole medium]; "[[linearly polarized]]" means that the direction of displacement too is unchanging and the same over the whole medium; and [the magnitude of the displacement] is a [[sinusoidal function]] only of time and of position [along the direction of propagation].
+(线性偏振的正弦平面波-传播方向在整个介质中相同且不变-位移方向与振幅)
+210324-17:56
+    - [The motion of such a wave] can be [expressed mathematically] as follows. Let d be the direction of propagation (a vector with unit length), and o any reference point in the medium. Let u be [the direction of the oscillations] (another [unit-length vector] perpendicular to d). The displacement of a particle at any point p of the medium and any time t (seconds) will be
+$$\displaystyle S(p,t)=Au\sin {\left({\frac {t-(p-o)\cdot {\frac {d}{v}}}{T}}+\phi \right)}$$

@@ -36,6 +36,8 @@
                 - pasted_image002-porn001.png
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)"
     - [[grey socks]]
+    - white lace long socks
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fwartm6HI7w.png?alt=media&token=1d6ead37-27a6-4593-9565-e2ad3cdb6168)
 - shitagi
     - [[light jeans]]
     - shorts
@@ -76,6 +78,9 @@
     - sweater
         - creamy white sweater
         - [[black-white-stripe sweater]]
+    - black west suit
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FvUYSDv-zyK.png?alt=media&token=ddaefaf8-8e5a-4114-abd9-235c85541edd)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FFCGJgsK4fu.png?alt=media&token=fd767f6b-8a2f-45b9-a86b-e8de1f2ac44f)
 - dress...
     - 大衣
         - black dayi
@@ -95,6 +100,11 @@
 - underwear? private?
     - naked?
     - 美臀 - oshiri
+    - 米白色真丝吊带内衣
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F4n721B2a_P.png?alt=media&token=42d81602-06bd-4148-8d09-7bf841e7f15e)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FrSBRmipXMW.png?alt=media&token=8b54fd23-b152-48e1-8c11-16dd95ed208f)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FW-G41BS9Qy.png?alt=media&token=2e667e52-beec-4974-a654-cb6fd0d29c6b)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fzll9XwnB1-.png?alt=media&token=bb1ce9b9-e4fd-4bbd-9df4-f50791170bf5)
 - girls' stuff...
     - bag
         - black bag
