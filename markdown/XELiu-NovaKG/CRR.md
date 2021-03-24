@@ -13,6 +13,10 @@
     - high heeled
         - [[black high heeled]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fj5LJ7E2IXN.png?alt=media&token=304c31ab-37ee-4d21-b08d-b0211896c42f)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FkOPsDvgROi.png?alt=media&token=fa7dc79e-b303-4241-a02d-f39b7035f1c5)
+        - peep-toe high heeled
+            - black peep-toe high heeled
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqZPlY648iJ.png?alt=media&token=9e114704-e627-41b1-aa73-7ca7fc75407e)
     - leather shoes
         - black leather shoes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
@@ -81,6 +85,9 @@
     - black west suit
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FvUYSDv-zyK.png?alt=media&token=ddaefaf8-8e5a-4114-abd9-235c85541edd)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FFCGJgsK4fu.png?alt=media&token=fd767f6b-8a2f-45b9-a86b-e8de1f2ac44f)
+    - baosha
+        - 黑色薄纱外套
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FRGU9j5U6NX.png?alt=media&token=a39386ca-50f4-46eb-adcb-b2602aeb831f)
 - dress...
     - 大衣
         - black dayi
@@ -95,6 +102,8 @@
     - long coat
         - creamy-white long coat
     - [[blue dress]]
+    - black-white suit dress
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FD_9K6_yiFX.png?alt=media&token=bc7615b3-15a5-468a-b9ad-c8bd68b5c125)
     - white sleeveless dress
     - 白色碎花裙
 - underwear? private?
