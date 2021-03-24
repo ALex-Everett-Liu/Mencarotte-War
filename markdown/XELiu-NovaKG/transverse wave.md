@@ -19,7 +19,7 @@
 (沿着传播方向的振动引起的材料的压缩与伸展)
     - [Illustration](https://en.wikipedia.org/wiki/File:Onde_cisaillement_impulsion_1d_30_petit.gif) of a simple (plane) transverse wave propagating through an [[elastic medium]] [in the horizontal direction], with particles being displaced [in the vertical direction](((71JKD_6Zu))). Only one layer of the material is shown
 (弹性介质材料中的横波平面波-粒子的纵向位移)
-- Mathematical formulation
+- ## Mathematical formulation
     - Mathematically, the simplest kind of transverse wave is [a plane linearly polarized sinusoidal one]. "[Plane]([[plane wave]])" here means that [the direction of propagation] is unchanging and [the same over the whole medium]; "[[linearly polarized]]" means that the direction of displacement too is unchanging and the same over the whole medium; and [the magnitude of the displacement] is a [[sinusoidal function]] only of time and of position [along the direction of propagation].
 (线性偏振的正弦平面波-传播方向在整个介质中相同且不变-位移方向与振幅)
 210324-17:56
@@ -29,6 +29,12 @@ $$\displaystyle S(p,t)=Au\sin {\left({\frac {t-(p-o)\cdot {\frac {d}{v}}}{T}}+\p
         - By this equation, the wave [travels in the direction] __d__ and the oscillations [occur back and forth along the direction] __u__. The wave is said to be [linearly polarized in the direction] __u__. 
 (该平面波沿着振动/位移的方向线性偏振)
 210324-19:05
-        - An observer that looks at a [[fixed point]] __p__ will see the particle there move in a simple [harmonic](https://en.wikipedia.org/wiki/Simple_harmonic_motion) (sinusoidal) motion with period __T__ seconds, with [maximum particle displacement] __A__ in each sense; 检测, 觉察 that is, with a **frequency** of __f__ = 1/__T__ [full oscillation cycles] every second. A snapshot of all particles at a fixed time __t__ will show the same displacement for all particles on each plane perpendicular to __d__, with the displacements in successive planes forming a sinusoidal pattern, with each full cycle extending along __d__ by the **wavelength** __λ__ = __v__ __T__ = __v__/__f__. The whole pattern moves in the direction __d__ with speed __V__. #[[simple harmonic motion]]
-            - When a word has several meanings, it will demand a separate antonym in each sense. 对应的反义词 danci.911cha.com
-        - The same equation describes a plane linearly polarized sinusoidal light wave, except that the "displacement" __S__(__p__, __t__) is the electric field at point __p__ and time __t__. (The magnetic field will be described by the same equation, but with a "displacement" direction that is perpendicular to both __d__ and __u__, and a different amplitude.)
+        - An observer that looks at a [[fixed point]] __p__ will see the particle there move in a simple [harmonic](https://en.wikipedia.org/wiki/Simple_harmonic_motion) (sinusoidal) motion with period __T__ seconds, with [maximum particle displacement] __A__ in each sense; 检测, 觉察 that is, with a **frequency** of __f__ = 1/__T__ [full oscillation cycles] every second. 
+(固定位置p时，粒子以正弦波形式运动)
+            - A [[snapshot]] of all particles at a [[fixed time]] __t__ will show the same displacement for all particles on each plane perpendicular to __d__, with [the displacements in successive planes] [forming a sinusoidal pattern], with each full cycle extending along __d__ by the **wavelength** __λ__ = __v__ __T__ = __v__/__f__. The whole pattern moves in the direction __d__ with speed __V__. #[[simple harmonic motion]]
+(^^固定时间t，则???^^)
+                - When a word has several meanings, it will demand a separate antonym in each sense. 对应的反义词 danci.911cha.com
+        - The same equation describes a [plane linearly polarized sinusoidal light wave], except that the "displacement" __S__(__p__, __t__) is the [[electric field]] at point __p__ and time __t__. (The [[magnetic field]] will be described by the same equation, but with a "displacement" direction that is perpendicular to both __d__ and __u__, and a different amplitude.)
+    - ### [[superposition principle]]
+        - In a [[homogeneous]] [[elastic medium]], complex oscillations (vibrations in a material or light flows) can be described as the superposition of many simple [[sinusoidal wave]]s, either transverse (linearly polarized) or longitudinal. #[[linear medium]]
+        - The vibrations of a violin string, for example, can be analyzed as the sum of many transverse waves of different frequencies, that displace the string either up or down or left to right. The ripples in a pond can be analyzed as a combination of transverse and longitudinal waves (gravity waves) that propagate together.
