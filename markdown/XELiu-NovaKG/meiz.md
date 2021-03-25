@@ -1,8 +1,8 @@
 - list
     - DCIM -- wasurenai...
-        - [[Tian Xin]] -- 169 cm
+        - [[田鑫 (Tian Xin)]] -- 169 cm
         - [[Huang Yandi]] -- 163 cm
-        - [[Wang Miao]] -- 167 cm?
+        - [[王淼 (Wang Miao)]] -- 167 cm?
         - 东区jk -- #pt10-100   163~164 cm?
             - 2021
                 - "星期六 30/01/2021 17:38 #[[light blue coat]] #[[yellow bag]]"
@@ -11,11 +11,14 @@
                 - "星期日 21/02/2021 17:30 #pt10-100 #ponytail # "light pink big faquan" # black-purple sneaker"
                 - __星期日 14/03/2021 11:22~23__
                     - 很嚣张地一路甩着细胳膊，可爱
-        - [[Yu Zhe]] -- 160 cm?
+        - [[虞喆 (Yu Zhe)]] -- 160 cm?
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
         - HIT Energy School 201703?
         - "星期一 15/03/2021 12:03 #pt10-100 #laopo #[[jk seifuku]] #[[flesh pantyhose]] # "black leather shoes"   158~161 cm?"
         - "星期六 24/06/2017 21:23 #pt10-100 #laopo #[[short ponytail]] #[[white wedge boot]]   165~169 cm?"
+        - [[安冰 (An Bing)]]
+        - [[辛坤毓 (Xin Kunyu)]]
+        - [[胡秋雨 (Hu Qiuyu)]]
         - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
         - [[Fan Qiaodan]] -- 165~167 cm?
@@ -80,6 +83,7 @@
         - korea chemo 01 -- #pt8-99.99
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FvceG0hmSc9.jpg?alt=media&token=e9baf0da-a851-40b1-97de-577e697f844d)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FaJGYUkZD98.png?alt=media&token=85edcfe9-5d2e-430e-90e5-67018afab537)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fs3DlX3vaHh.png?alt=media&token=f443bbf7-973f-4d88-95b8-b6e28c72636b)
         - 袁姗姗 (Yuan Shanshan) -- pt8-99.97
     - others
 - meta list
