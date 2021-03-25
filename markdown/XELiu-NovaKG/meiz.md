@@ -18,6 +18,7 @@
         - "星期六 24/06/2017 21:23 #pt10-100 #laopo #[[short ponytail]] #[[white wedge boot]]   165~169 cm?"
         - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
+        - [[Fan Qiaodan]] -- 165~167 cm?
         - weibo -- # "round face" #[[grey sweater]] # mall #HIT #laopo
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FEevFV2F4zA.jpg?alt=media&token=63ada62a-6707-41f3-b136-42b109eb6a45)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F7bIYYEyYl1.jpg?alt=media&token=5712d82e-a363-4615-aba3-4c33c1dca32d)
