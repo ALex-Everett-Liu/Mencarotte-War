@@ -19,6 +19,8 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqZPlY648iJ.png?alt=media&token=9e114704-e627-41b1-aa73-7ca7fc75407e)
             - red peep-toe high heeled
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwTu9o4DVfO.png?alt=media&token=36f65a60-c365-46ec-ac5c-20473f561024)
+            - white peep-toe high heeled
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FL9to4BP7Ch.png?alt=media&token=b72f0f9b-d363-4713-9719-aed40ac77c91)
     - leather shoes
         - black leather shoes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
@@ -59,6 +61,7 @@
             - black middle skirt
         - blue skirt
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FOWyuUwqFEU.png?alt=media&token=be7e4f20-e970-4939-9700-11113f33a549)
         - sexy
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAMPXsKogNC.png?alt=media&token=8193aed2-61d6-43b1-9ee7-aa6a50c2cef0)
     - trousers
@@ -94,6 +97,7 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FRGU9j5U6NX.png?alt=media&token=a39386ca-50f4-46eb-adcb-b2602aeb831f)
     - sexy
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FxYM5LR0fIP.png?alt=media&token=2c618ef8-5a8f-41bc-ac03-fedb8098c1a1)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FmuOMNo0zws.png?alt=media&token=b318ed5c-5660-4c30-bcca-021e33bf9ed3)
 - dress...
     - 大衣
         - black dayi
