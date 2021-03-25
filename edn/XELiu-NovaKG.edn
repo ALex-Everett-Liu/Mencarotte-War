@@ -1881,7 +1881,8 @@
   [3942 :block/children 9968 536911779]
   [3942 :block/children 10013 536912132]
   [3942 :block/children 11896 536921041]
-  [3942 :block/open false 536922433]
+  [3942 :block/children 12214 536923027]
+  [3942 :block/open false 536923043]
   [3942 :block/order 7 536902932]
   [3942 :block/page 3840 536887849]
   [3942 :block/parents 3840 536887849]
@@ -4475,7 +4476,8 @@
   [4141 :block/children 8041 536902336]
   [4141 :block/children 10076 536912275]
   [4141 :block/children 12203 536922975]
-  [4141 :block/open false 536923006]
+  [4141 :block/children 12216 536923045]
+  [4141 :block/open true 536923044]
   [4141 :block/order 3 536900950]
   [4141 :block/page 3840 536888351]
   [4141 :block/parents 3840 536888351]
@@ -85263,8 +85265,8 @@
   [12042 :version/id "0.8.4" 536921912]
   [12042
    :version/nonce
-   "uuid23a2a4ac-b865-4dc9-b0e0-5bab5a0cc9b1"
-   536923023]
+   "uuid5cbeaced-7889-4ee3-841e-eb2babbeb9e5"
+   536923050]
   [12043 :block/open true 536921914]
   [12043 :block/order 1 536921914]
   [12043 :block/page 11331 536921915]
@@ -87471,4 +87473,59 @@
   [12211 :edit/time 1616637503726 536923023]
   [12211 :edit/user 3 536923023]
   [12211 :log/id 1616637503725 536923023]
-  [12211 :node/title "March 25th, 2021" 536923023]]}
+  [12211 :node/title "March 25th, 2021" 536923023]
+  [12213 :block/open true 536923027]
+  [12213 :block/order 0 536923033]
+  [12213 :block/page 3840 536923028]
+  [12213 :block/parents 3840 536923028]
+  [12213 :block/parents 3842 536923028]
+  [12213 :block/parents 3843 536923028]
+  [12213 :block/parents 3866 536923028]
+  [12213 :block/parents 3942 536923028]
+  [12213 :block/parents 12214 536923034]
+  [12213
+   :block/string
+   "还是继续用 rr 做[垃圾分类](https://www.yuque.com/deerain/gannbs/hkdvkr)吧，把 page 的 css 改到和 block 一模一样以后我就[在心理层面]解决了你说的[分类问题]，只把 page 当标签用，如果[相关内容足够多]就新建一个[用来聚合]。"
+   536923042]
+  [12213 :block/uid "VfRQVNIan" 536923027]
+  [12213 :edit/seen-by 3 536923032]
+  [12213 :edit/time 1616645051183 536923042]
+  [12213 :edit/user 3 536923027]
+  [12214 :block/children 12213 536923033]
+  [12214 :block/open true 536923027]
+  [12214 :block/order 22 536923027]
+  [12214 :block/page 3840 536923029]
+  [12214 :block/parents 3840 536923029]
+  [12214 :block/parents 3842 536923029]
+  [12214 :block/parents 3843 536923029]
+  [12214 :block/parents 3866 536923029]
+  [12214 :block/parents 3942 536923029]
+  [12214
+   :block/string
+   "有点想转 remnote，但 1. 又要重写一份看得过去的 css 2. remnote [和复习有关的][花里胡哨功能]太多了，PTSD"
+   536923036]
+  [12214 :block/uid "wkmqHNYir" 536923027]
+  [12214 :edit/seen-by 3 536923030]
+  [12214 :edit/time 1616644960337 536923036]
+  [12214 :edit/user 3 536923027]
+  [12215 :block/string "" 536923031]
+  [12215 :block/uid "H1b9pGg6b" 536923031]
+  [12215 :edit/time 1616644950275 536923031]
+  [12215 :edit/user 3 536923031]
+  [12216 :block/open true 536923045]
+  [12216 :block/order 6 536923045]
+  [12216 :block/page 3840 536923046]
+  [12216 :block/parents 3840 536923046]
+  [12216 :block/parents 3842 536923046]
+  [12216 :block/parents 3843 536923046]
+  [12216 :block/parents 3866 536923046]
+  [12216 :block/parents 4141 536923046]
+  [12216
+   :block/string
+   "我认为，实际上东北的出马仙、保家仙是以华北[动物仙信仰]（四大门/五大仙）为核心，深受[萨满信仰](https://www.zhihu.com/question/19898620/answer/705015880)影响，再加上了一些道教。\n\n是华北民间动物仙信仰+萨满教+道教。"
+   536923050]
+  [12216 :block/uid "Wr1H9j9ia" 536923045]
+  [12216 :create/time 1616646340242 536923045]
+  [12216 :create/user 3 536923045]
+  [12216 :edit/time 1616646751786 536923050]
+  [12216 :edit/user 3 536923045]]}
