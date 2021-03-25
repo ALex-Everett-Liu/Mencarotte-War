@@ -1,7 +1,7 @@
 - my scoring system
     - level 10 (pt10)
         - general???
-        - detail point 100 (pt10-100)
+        - detail point 100 (#pt10-100)
             - 卡洛·罗韦利 book
                 - 由于[低熵态]，生命[得以利用]这一宇宙的空隙来[维持自身]，同时也[迫于][不可避免的][熵增]而[负重前行]。由于熵增，[过去的低熵态]便不复可能，这种**不可能性**成为了[往昔的遗迹]。^^每一瞬记忆，都是一处[永远失去了的天堂]。^^这或许就是人[生而痛苦]的[根本源泉]，又在[衰老的过程]中[一再被提醒]。
             - {{[[TODO]]}} temp-201109 -- zim temp links
@@ -232,6 +232,7 @@ Completed after 4 days.
                 - {{[[TODO]]}} [logseq好看的主题](https://cn.logseq.com/t/topic/396)
 https://cn.logseq.com/uploads/default/original/1X/6fb23336796775f83b9a2b03f3aa89ee46fee970.jpeg
                 - [push Logseq with GitHub Desktop](https://zhuanlan.zhihu.com/p/350026528)
+                - 利用 [css 代码片段](https://www.bilibili.com/video/BV1a5411w7DF)定制 obsidian 主题的细节。 | 给笔记的列表加上漂亮的[层级线条] | 笔记神器 Obsidian 完全指南
                 - 看到[微信群]里有人说「在整合[历史时间轴]方面，我目前还没发现有很好的工具」，于是想到了 trilium 的自定义 render note 也许可以通过[引用第三方库]来实现[画时间轴](https://www.yuque.com/idelem/tools/qvgcso)。经过一些缝缝补补，合成了这么一个功能。
                     - 参考 trilium [默认范例]里的「体重统计」，我先写了一个 render note 来收集所有打了 timeline 标签的笔记，并[渲染成表格]。
                 - [xpgo/obsidian-folder-note-plugin: Plugin to add description note to a folder for Obsidian.](https://github.com/xpgo/obsidian-folder-note-plugin) 这个插件实现了[卡片视图]，[实现的方式]十分的MD，[直接用][html的语法]，目前还没有实现[自动更新]。

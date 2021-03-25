@@ -1,8 +1,8 @@
 - weibo
     - "creamy white sweater"; "white blouse"
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FQ7oVMr7KNN.jpg?alt=media&token=9d9f53e8-9507-465b-a418-c8e9aa26a591)
-    - 005BfJPmgy1gl5sgg9ptnj30u018zttz.jpg -- "detail point 100 (pt10-100)"
-        - cos -- lo dress ? + choker with 链环 -- "detail point 100 (pt10-100)"
+    - 005BfJPmgy1gl5sgg9ptnj30u018zttz.jpg -- "detail point 100 (#pt10-100)"
+        - cos -- lo dress ? + choker with 链环 -- "detail point 100 (#pt10-100)"
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-KG%2FIPg2bINPXW.png?alt=media&token=87fcbeb2-4c54-4a47-9af6-ba56344f0fdf)
-        - green wide dual ponytail 粗双马尾 -- "detail point 100 (pt10-100)"
+        - green wide dual ponytail 粗双马尾 -- "detail point 100 (#pt10-100)"
         - "black short boot"

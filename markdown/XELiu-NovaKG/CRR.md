@@ -29,7 +29,7 @@
         - grey high heeled sandal
         - [[white wedge heeled sandal]]
     - sneaker
-        - white sneaker
+        - [[white sneaker]]
         - white-grey sneaker
 - socks - kutsushita
     - black knee socks
@@ -52,6 +52,7 @@
         - light jeans shorts
         - black leather shorts
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Fn73aetdNOD.png?alt=media&token=42971083-0ef1-4d10-8436-b4ed1380a6b3)
+        - grey shorts
     - skirt
         - [[jk seifuku]]
             - dark blue skirt
@@ -66,13 +67,14 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAMPXsKogNC.png?alt=media&token=8193aed2-61d6-43b1-9ee7-aa6a50c2cef0)
     - trousers
         - black trousers
+        - light grey trousers
     - 美腿 - beautiful legs
 - uwagi
     - white blouse
     - white long sleeves
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FF6OsbVB4uo.png?alt=media&token=31b281fd-b82e-49d9-ae6c-3b439bf3dddc)
     - coat
-        - black coat
+        - [[black coat]]
         - light blue coat
         - brown coat
         - creamy-brown coat
@@ -81,6 +83,7 @@
         - dark jeans coat
         - red coat
         - white coat
+        - creamy-white coat
     - 羽绒服
         - black yurongfu
         - green yurongfu

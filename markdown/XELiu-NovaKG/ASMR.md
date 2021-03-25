@@ -1,4 +1,4 @@
-- ### 20170804_012247.flv -- "detail point 100 (pt10-100)"
+- ### 20170804_012247.flv -- "detail point 100 (#pt10-100)"
     - so this live video is steal/copy from other place. so, where is the original liver????
     - 00:30 02:00 keai -- 08:50
     - 05:22 在官频发我的房间号应该会被禁言的吧

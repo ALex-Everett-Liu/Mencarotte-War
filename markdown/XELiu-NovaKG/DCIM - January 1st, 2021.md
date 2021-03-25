@@ -1,2 +1,2 @@
-- 2021/01/01 13:19 #pt10-100 # "dual ponytail" # "black coat" # "[[jk seifuku]]"   164~166 cm?
+- 2021/01/01 13:19 #pt10-100 # "dual ponytail" # "[[black coat]]" # "[[jk seifuku]]"   164~166 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_Aj5vBpqxc.png?alt=media&token=2412e809-3741-4795-9aaa-f6bc071441b0)

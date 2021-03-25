@@ -15,7 +15,7 @@
                 - 数据的[导入导出][格式规范]（[[OPML]]，一种[XML格式]） [极其适合][编程加工]
     - 为[感激读者的关注]，逐步列出 Workflowy 在 [PC 浏览器]中的一些[重要小技巧]：
         - Alt + Shift + 上 / 下 / 左 / 右，根据[当前光标所在位置]，[调整][某条笔记][所在的位置]
-        - ^^搜索中文或[部分英文]^^——比如 ["思维"]、["keyw"]，[在某些情况下][这样搜索][返回的结果][更符合要求] #[[partial search]] -- "detail point 100 (pt10-100)"
+        - ^^搜索中文或[部分英文]^^——比如 ["思维"]、["keyw"]，[在某些情况下][这样搜索][返回的结果][更符合要求] #[[partial search]] -- "detail point 100 (#pt10-100)"
         - [若干个关键词]的[逻辑与搜索]——比如 [keyword1 keyword2 keyword3]，[搜索结果]的笔记必须[同时包含] keyword1 / keyword2 / keyword3
             - 若干个关键词的[逻辑或搜索]——比如 [keyword1 OR keyword2 OR keyword3]，搜索结果的笔记只要包含 keyword1 / keyword2 / keyword3 [三者之一][就可以了]
         - 使用[书签工具] [Clip To Workflowy](https://link.zhihu.com/?target=http%3A//pimgeek.coding.me/clip-to-workflowy/)，[可以实现][网页内容][剪藏]，略懂 JS 的读者还可以[自定制][笔记模板]，[实际使用效果]如下（第三行的笔记及其[下属节点]都是利用[书签工具][自动生成]的） #[[Web Clipper]]

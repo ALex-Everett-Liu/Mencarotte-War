@@ -68,7 +68,7 @@ This plugin [automatically finds] and [creates the outline of my story].
                 - A -> Foo -> Bar -> C (instead of A -> MOC -> C)
                 - ![](https://user-images.githubusercontent.com/111555/106387246-26816780-63d9-11eb-9407-a76c078b8e6c.png)
             - ### "How many links make an MOC?"
-                - A sub-feature for "taking the scenic route" where you can define at [what amount of links] [inside a note] [makes it an MOC] to avoid. (^^一张目录地图中通常包含着大量的链接，这使得以它作为中转站的路径太过于 trivial，难以察觉到真正的洞见。^^) -- "detail point 100 (pt10-100)"
+                - A sub-feature for "taking the scenic route" where you can define at [what amount of links] [inside a note] [makes it an MOC] to avoid. (^^一张目录地图中通常包含着大量的链接，这使得以它作为中转站的路径太过于 trivial，难以察觉到真正的洞见。^^) -- "detail point 100 (#pt10-100)"
             - ### Avoid traveling via certain notes and folders
                 - If set, will skip ['hub' notes] [with too many links] (MOCs). Configure exactly how many links make a MOC below.
 210307-04:30

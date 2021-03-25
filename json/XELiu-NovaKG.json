@@ -531,11 +531,7 @@
                 }
               },
               {
-                "string": "detail point 100 (pt10-100)",
-                "create-time": 1611055919741,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
+                "edit-time": 1616701164154,
                 "children": [
                   {
                     "string": "卡洛·罗韦利 book",
@@ -2726,8 +2722,22 @@
                     }
                   }
                 ],
+                "refs": [
+                  {
+                    "uid": "ZDExyfW9l"
+                  }
+                ],
                 "uid": "B1LSLpgLT",
-                "edit-time": 1611964072020,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZDExyfW9l"
+                  }
+                ],
+                "string": "detail point 100 (#pt10-100)",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1611055919741,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -3669,6 +3679,18 @@
                         "create-time": 1614614466616,
                         "uid": "_1Wf9rbem",
                         "edit-time": 1614614484103,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "利用 [css 代码片段](https://www.bilibili.com/video/BV1a5411w7DF)定制 obsidian 主题的细节。 | 给笔记的列表加上漂亮的[层级线条] | 笔记神器 Obsidian 完全指南",
+                        "create-time": 1616701134115,
+                        "uid": "KfWy8sjeZ",
+                        "edit-time": 1616701156653,
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
@@ -18347,6 +18369,28 @@
                 },
                 "uid": "N8Mf-b4Hb",
                 "edit-time": 1616477621709,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "((9apNIYPGx))",
+                "create-time": 1616704363363,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9apNIYPGx"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9apNIYPGx"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ZaMqYZLmY",
+                "edit-time": 1616704364769,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -37268,13 +37312,23 @@
             },
             "children": [
               {
-                "string": "white sneaker",
+                "string": "[[white sneaker]]",
                 "create-time": 1616142155477,
-                "uid": "aS9xYBQ_D",
-                "edit-time": 1616142159326,
+                ":block/refs": [
+                  {
+                    ":block/uid": "W1-aEXKC-"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "W1-aEXKC-"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "aS9xYBQ_D",
+                "edit-time": 1616704165975,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -37616,6 +37670,18 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "grey shorts",
+                "create-time": 1616703356400,
+                "uid": "7m63qDRhm",
+                "edit-time": 1616703360612,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "vavzt373-",
@@ -37852,6 +37918,18 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "light grey trousers",
+                "create-time": 1616704242092,
+                "uid": "JXgnz4E1c",
+                "edit-time": 1616704247398,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "b3U7fS5cr",
@@ -37920,13 +37998,23 @@
             },
             "children": [
               {
-                "string": "black coat",
+                "string": "[[black coat]]",
                 "create-time": 1616218325937,
-                "uid": "mMablxY72",
-                "edit-time": 1616218328479,
+                ":block/refs": [
+                  {
+                    ":block/uid": "VIB8St9U5"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "VIB8St9U5"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "mMablxY72",
+                "edit-time": 1616704180457,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -38030,6 +38118,18 @@
                 "create-time": 1616149695818,
                 "uid": "6S6ZNIRmv",
                 "edit-time": 1616149698704,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "creamy-white coat",
+                "create-time": 1616703393922,
+                "uid": "5X2BgwSue",
+                "edit-time": 1616703407607,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -103635,6 +103735,42 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FaMhM3Tiptj.jpg?alt=media&token=6f5bcbd7-7e40-4d47-aaab-0da30f728437)\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F16RBo6cc3p.png?alt=media&token=742f011f-c79d-4b13-8ad6-fcf320fbaf6e)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FaMhM3Tiptj.jpg?alt=media&token=6f5bcbd7-7e40-4d47-aaab-0da30f728437": {
+                  "width": 510,
+                  "height": null
+                },
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F16RBo6cc3p.png?alt=media&token=742f011f-c79d-4b13-8ad6-fcf320fbaf6e": {
+                  "width": 493,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616703977206,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FaMhM3Tiptj.jpg?alt=media&token=6f5bcbd7-7e40-4d47-aaab-0da30f728437": {
+                  ":width": 510,
+                  ":height": null
+                },
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F16RBo6cc3p.png?alt=media&token=742f011f-c79d-4b13-8ad6-fcf320fbaf6e": {
+                  ":width": 493,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "TptzJQnBb",
+            "edit-time": 1616704027758,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -104862,6 +104998,76 @@
         }
       },
       {
+        "edit-time": 1616703434498,
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FyxT-xX8qTR.png?alt=media&token=5ca9b0b2-e4ee-4a1e-8c2f-357214ca8f34)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FyxT-xX8qTR.png?alt=media&token=5ca9b0b2-e4ee-4a1e-8c2f-357214ca8f34": {
+                  "width": 496,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616703234029,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FyxT-xX8qTR.png?alt=media&token=5ca9b0b2-e4ee-4a1e-8c2f-357214ca8f34": {
+                  ":width": 496,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "xoW_b4BNz",
+            "edit-time": 1616703239978,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "oXd5qr91E"
+          },
+          {
+            "uid": "y6rYFk7-L"
+          },
+          {
+            "uid": "7m63qDRhm"
+          },
+          {
+            "uid": "5X2BgwSue"
+          }
+        ],
+        "uid": "eUYVhtmAU",
+        ":block/refs": [
+          {
+            ":block/uid": "oXd5qr91E"
+          },
+          {
+            ":block/uid": "y6rYFk7-L"
+          },
+          {
+            ":block/uid": "7m63qDRhm"
+          },
+          {
+            ":block/uid": "5X2BgwSue"
+          }
+        ],
+        "string": "星期一 15/03/2021 12:21 #pt9-99.98 # ((7m63qDRhm)) # ((5X2BgwSue)) # ((oXd5qr91E))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1616703231361,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1616144797751,
         "children": [
           {
@@ -104921,6 +105127,76 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1616144597779,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1616704282847,
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1eLukPC80o.jpg?alt=media&token=f0a1e3be-c31f-40ab-9f09-c61434dc366b)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1eLukPC80o.jpg?alt=media&token=f0a1e3be-c31f-40ab-9f09-c61434dc366b": {
+                  "width": 544,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1616703743703,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1eLukPC80o.jpg?alt=media&token=f0a1e3be-c31f-40ab-9f09-c61434dc366b": {
+                  ":width": 544,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "GveTMpZIl",
+            "edit-time": 1616703765118,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZDExyfW9l"
+          },
+          {
+            "uid": "VIB8St9U5"
+          },
+          {
+            "uid": "W1-aEXKC-"
+          },
+          {
+            "uid": "JXgnz4E1c"
+          }
+        ],
+        "uid": "9apNIYPGx",
+        ":block/refs": [
+          {
+            ":block/uid": "ZDExyfW9l"
+          },
+          {
+            ":block/uid": "VIB8St9U5"
+          },
+          {
+            ":block/uid": "W1-aEXKC-"
+          },
+          {
+            ":block/uid": "JXgnz4E1c"
+          }
+        ],
+        "string": "星期一 15/03/2021 15:30 -- MOV_0124 #pt10-100 #[[black coat]] # ((JXgnz4E1c)) #[[white sneaker]]   164~166 cm?",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1616703640851,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -108876,6 +109152,144 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616703320915,
+    "title": "pt9-99.98",
+    "uid": "y6rYFk7-L",
+    "edit-time": 1616703320916,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616704130102,
+    "title": "black coat",
+    "uid": "VIB8St9U5",
+    "edit-time": 1616704130110,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616704149008,
+    "title": "white sneaker",
+    "uid": "W1-aEXKC-",
+    "edit-time": 1616704149008,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616704595139,
+    "title": "Introduction to Quantum Mechanics - Griffiths",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Contents - p6",
+        "create-time": 1616704614884,
+        "uid": "VKvjzWMph",
+        "edit-time": 1616704621378,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Part I - Theory",
+        "create-time": 1616704646826,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "1 The Wave Function",
+            "create-time": 1616704661034,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[[1.1 The Schrödinger Equation]]",
+                "create-time": 1616704663513,
+                ":block/refs": [
+                  {
+                    ":block/uid": "h63PMzjmY"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h63PMzjmY"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "nHCqjRhcz",
+                "edit-time": 1616704684736,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "mObSW6fdW",
+            "edit-time": 1616704663519,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ULMb47DmV",
+        "edit-time": 1616704651625,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "opvGaPZkg",
+    "edit-time": 1616704595139,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1616704684739,
+    "title": "1.1 The Schrödinger Equation",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Imagine a particle of mass m, constrained to move along the x axis, subject to some specified force (Figure 1.1). The program of classical mechanics is to determine the position of the particle at any given time: . Once we know that, we can figure out the velocity , the momentum , the kinetic energy , or any other dynamical variable of interest. And how do we go about determining ? We apply Newton’s second law: .",
+        "create-time": 1616704712880,
+        "uid": "aVlI19NYv",
+        "edit-time": 1616704713475,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "h63PMzjmY",
+    "edit-time": 1616704684739,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

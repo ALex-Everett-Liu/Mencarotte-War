@@ -12,7 +12,7 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F7MBZ-GMPxO.png?alt=media&token=534407a5-273b-4dc7-8a81-614596442066)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fwf_df8EWT8.png?alt=media&token=863bf141-dd2f-4b5d-8b62-a78cfe32a731)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F5rX5tJ0pac.png?alt=media&token=2a06b9de-02e1-413e-b589-77f37e9b641d)
-- 星期一 15/03/2021 12:08 #pt10-100 # "creamy-white long coat"; "[[flesh pantyhose]]"; "white sneaker"   169~172 cm?
+- 星期一 15/03/2021 12:08 #pt10-100 # "creamy-white long coat"; "[[flesh pantyhose]]"; "[[white sneaker]]"   169~172 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwGJBU9wIm7.jpg?alt=media&token=faf49b61-d266-487c-af49-474676a8ef1f)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FiUmw-p8WrC.png?alt=media&token=ceb3a3d7-1f84-49c0-ab87-690446424625)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FQM_HQlSkjU.png?alt=media&token=07b991e2-6045-4d75-bc30-711f0e952723)  
@@ -32,5 +32,9 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fb7jmQWON_Y.png?alt=media&token=f3ff337b-8500-4d7f-8198-0369cc9e79ca)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FrYD2CGWRRb.jpg?alt=media&token=64fea088-7bfd-4e20-bfcc-85a89e43ab11)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FWmsR8nYzhT.png?alt=media&token=cbe3c4cc-880d-4ce5-ab05-8cbb9ca7162d) 
+- 星期一 15/03/2021 12:21 #pt9-99.98 # "grey shorts" # "creamy-white coat" # "black leather shoes"
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FyxT-xX8qTR.png?alt=media&token=5ca9b0b2-e4ee-4a1e-8c2f-357214ca8f34)
 - 星期一 15/03/2021 12:22 #pt10-100 # "light blue coat" # "sneaker"   167~168 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FNlAXhiJQx7.png?alt=media&token=d8e55363-a752-4575-aa0c-cf502c316c3b)
+- 星期一 15/03/2021 15:30 -- MOV_0124 #pt10-100 #[[black coat]] # "light grey trousers" #[[white sneaker]]   164~166 cm?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1eLukPC80o.jpg?alt=media&token=f0a1e3be-c31f-40ab-9f09-c61434dc366b)
