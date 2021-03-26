@@ -1,12 +1,29 @@
 - MOC
     - interpretation
+        - [[Copenhagen interpretation]]
+        - [[hidden variable]]
+            - nature fact
+            - incomplete theory
+                - additional information
+                - complete description
+                - a defect in the theory
+                - a reflection of our ignorance
+            - realist position
         - statistical interpretation; Born’s statistical interpretation
+            - [[indeterminacy]]; [[quantum indeterminacy]]
+            - possible results
             - the probability of finding the particle
+            - [[statistical information]]
     - localized at a point
         - spread out in space
+    - [[measurement]]; act of measurement
+        - [[observation]]
     - quantization; quantized
         - [[Planck’s constant]]
     - [[Schrödinger equation]]
+    - [[uncertainty principle]]
+        - predict with certainty
+        - definite position
     - [[wave function]]
 - ---
 - ## Abstract 
