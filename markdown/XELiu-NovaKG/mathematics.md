@@ -1,2 +1,4 @@
 - [[calculus]]
 - [[linear algebra]]
+- general...
+    - square root

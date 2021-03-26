@@ -1,0 +1,4 @@
+- electromagnetic field; the electric and magnetic fields
+    - electromagnetic wave
+- magnetism
+    - [[magnetic force]]

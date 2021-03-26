@@ -2,3 +2,4 @@
 - Part I - Theory
     - 1 The Wave Function
         - [[1.1 The Schrödinger Equation]]
+        - [[1.2 The Statistical Interpretation]]

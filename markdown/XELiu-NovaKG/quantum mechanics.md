@@ -1,3 +1,14 @@
+- MOC
+    - interpretation
+        - statistical interpretation; Born’s statistical interpretation
+            - the probability of finding the particle
+    - localized at a point
+        - spread out in space
+    - quantization; quantized
+        - [[Planck’s constant]]
+    - [[Schrödinger equation]]
+    - [[wave function]]
+- ---
 - ## Abstract 
     - "From Wikipedia, the [[free encyclopedia]]"
     - __For a more accessible and [less technical introduction] to this topic, see __[[Introduction to quantum mechanics]]__.__ #accessible

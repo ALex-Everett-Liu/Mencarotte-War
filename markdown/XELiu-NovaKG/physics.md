@@ -1,6 +1,11 @@
 - [[AMO]]
 - [[classical mechanics]]
 - [[dimensional analysis]]
+- [[electrodynamics]]
+- journal
+    - [[Physics Today]]
+- [[quantum mechanics]]
+- [[theory of relativity]]
 - [[wave]]
 - general...
     - model

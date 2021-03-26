@@ -7,4 +7,5 @@
     - specified force: 某个特定的受力
 - Newton’s second law
 - time
+    - for all future time
     - at any given time: 某个给定的时间
