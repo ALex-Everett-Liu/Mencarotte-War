@@ -4,6 +4,7 @@
     - 小孔成像
 - light intensity
     - average energy flow density
+    - low intensity;
     - Poynting vector
 - light propagation
     - propagation direction
@@ -21,9 +22,26 @@
         - 太阳光谱
     - 线光谱
         - 特征谱线
+- light source
+    - [[monochromatic beam]]
 - material...
     - "refractive index"
 - polarization
     - [[linearly polarized]]
+- wave optics / physical optics
+    - [[interference]]
+        - [[double-slit experiment]]
+            - parallel slit;
+            - detected photon;
+        - [[in phase]]; [[out of phase]]
+        - [[interfere constructively]]; [[interfere destructively]]
+        - interference pattern
+            - [[accumulating spots]]
+            - blip-by-blip assembly; point-by-point assembly
+            - bright and dark bands
+            - interference fringe
+    - the [[wave theory of light]]
+        - the [[wave nature of light]]; light wave
+    - 1 Backlink
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]

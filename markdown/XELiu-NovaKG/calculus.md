@@ -1,2 +1,3 @@
+- [[boundary condition]]
+    - "[[initial condition]]"
 - derivative
-- [[initial condition]]

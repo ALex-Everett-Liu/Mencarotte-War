@@ -74,6 +74,14 @@
                                 - constrained structure;
                             - consult, 3
                                 - consulting;
+            - cu
+                - cumulate
+                    - accumulate
+                    - cumulative;
+                - custom
+                    - accustom
+                        - accustomed;
+                    - customarily; customary;
         - e
             - ea
                 - early
@@ -150,6 +158,11 @@
                         - partisan: 党羽, 效忠, 虔诚信徒;
                         - pars; parse
                         - [[party]]
+                - pat
+                    - patient
+                        - patiently;
+                    - pattern
+                        - develop the pattern; standard pattern;
         - r
             - ra
                 - raid
@@ -167,6 +180,12 @@
                     - convert (an image) into pixels; xiangsuhua444
                     - [[rasterized]]
                 - ray
+            - ru
+                - rule, 2
+                    - general rule;
+                - rupture
+                    - interrupt
+                        - interruption
         - s
             - si
                 - sign

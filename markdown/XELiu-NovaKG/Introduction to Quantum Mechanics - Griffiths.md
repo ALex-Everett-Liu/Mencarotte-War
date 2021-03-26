@@ -3,3 +3,5 @@
     - 1 The Wave Function
         - [[1.1 The Schrödinger Equation]]
         - [[1.2 The Statistical Interpretation]]
+        - 1.3 Probability
+            - [[1.3.1 Discrete Variables]]

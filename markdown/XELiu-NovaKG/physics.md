@@ -3,16 +3,21 @@
 - [[dimensional analysis]]
 - [[electrodynamics]]
 - experimental physics
-    - equipment; device
+    - [[apparatus]]; device; equipment; instrument
     - laboratory
-    - "[[measurement]]; act of measurement"
+    - "[[measurement]]; [[measurement process]]; act of measurement"
         - measuring instrument;
     - peak; spike
         - "spread out in space"
+    - screen
+        - distant screen;
     - white coat
     - yield the value;
 - journal
     - [[Physics Today]]
+- mathematical method
+    - [[initial condition]]
+        - [[initial state]]; [[initial time]]
 - [[quantum mechanics]]
 - [[theory of relativity]]
 - [[wave]]
