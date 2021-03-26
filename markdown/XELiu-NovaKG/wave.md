@@ -14,6 +14,7 @@
     - [[sound wave]]
     - [[pressure wave]]
         - compression and expansion of the material
+- the ripples on a pond
 - wave oscillation
     - the direction of the oscillations
     - [[displacement]]

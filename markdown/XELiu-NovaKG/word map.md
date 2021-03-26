@@ -44,11 +44,23 @@
                     - anchoring;
                 - anonym
                     - [[anonymous]]
-            - arrange
-                - [[arrangement]], 2; arranging
-                - [[rearrange]];
+            - ar
+                - arrange
+                    - [[arrangement]], 2; arranging
+                    - [[rearrange]];
+            - as
+                - assert
+                    - assertion;
+                - asset
+                    - assess: 评估;
+                        - assessing;
         - c
             - co
+                - code
+                    - encode
+                - cognize
+                    - cognition; cognitive
+                    - recognise; recognize
                 - con
                     - con-
                         - cons
@@ -78,6 +90,14 @@
                     - [[efficiency]];
                     - effective; effectively, 2;
                     - side-effect;
+        - f
+            - fo
+                - for
+                    - form
+                        - formula, 2
+                            - formulate; formulated; formulation, 2; formulize
+                                - elaborate, as of theories and hypotheses;
+                                    - Could you develop the ideas in your thesis
         - i
             - ic
                 - [[icon]]
@@ -111,6 +131,25 @@
                     - onymous
                         - bearing a name: [articles in magazines] are usually onymous
                     - [[acronym]]; "[[anonymous]]"; [[antonym]]; [[hyponym]]; [[synonym]];
+            - op
+                - oppose
+                    - opposed;
+                - option
+                    - optional;
+                    - viable option;
+        - p
+            - pa
+                - par
+                    - part
+                        - depart
+                            - department
+                            - [[departure]], 2
+                        - partial; partially
+                        - particle
+                            - particular
+                        - partisan: 党羽, 效忠, 虔诚信徒;
+                        - pars; parse
+                        - [[party]]
         - r
             - ra
                 - raid
@@ -128,6 +167,20 @@
                     - convert (an image) into pixels; xiangsuhua444
                     - [[rasterized]]
                 - ray
+        - s
+            - si
+                - sign
+                    - signal
+                    - signify
+                        - significant, 2; significantly
+                    - signature
+                    - resign
+                        - resignation;
+            - st
+                - sto
+                    - stound
+                        - astound
+                            - astonished;
         - w
             - wa
                 - wave

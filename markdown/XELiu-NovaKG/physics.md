@@ -2,6 +2,15 @@
 - [[classical mechanics]]
 - [[dimensional analysis]]
 - [[electrodynamics]]
+- experimental physics
+    - equipment; device
+    - laboratory
+    - "[[measurement]]; act of measurement"
+        - measuring instrument;
+    - peak; spike
+        - "spread out in space"
+    - white coat
+    - yield the value;
 - journal
     - [[Physics Today]]
 - [[quantum mechanics]]

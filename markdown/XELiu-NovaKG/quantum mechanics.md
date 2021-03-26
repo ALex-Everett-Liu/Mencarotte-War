@@ -1,30 +1,47 @@
 - MOC
     - interpretation
+        - agnostic position
         - [[Copenhagen interpretation]]
+            - orthodox position
         - [[hidden variable]]
             - nature fact
+            - nonlocal hidden variable theory
+                - [[David Bohm]]
             - incomplete theory
                 - additional information
                 - complete description
                 - a defect in the theory
                 - a reflection of our ignorance
             - realist position
+        - [[many worlds interpretation (MWI)]]
         - statistical interpretation; Born’s statistical interpretation
             - [[indeterminacy]]; [[quantum indeterminacy]]
             - possible results
             - the probability of finding the particle
+                - the status of a particle; the state of a particle
             - [[statistical information]]
+            - [[statistical weighting]]
     - localized at a point
         - spread out in space
     - [[measurement]]; act of measurement
+        - before the measurement
         - [[observation]]
+            - observable difference; 
+        - [[repeated measurement]]; second measurement
     - quantization; quantized
         - [[Planck’s constant]]
     - [[Schrödinger equation]]
     - [[uncertainty principle]]
+        - precision
         - predict with certainty
-        - definite position
+        - definite position; [[precise position]]
+            - in the vicinity of the position
     - [[wave function]]
+        - evolution of the wave function
+            - [[wave function collapses]]
+    - [[wave-particle duality]]; wave–particle duality
+        - [[electron interference]]
+        - [[wave nature]]
 - ---
 - ## Abstract 
     - "From Wikipedia, the [[free encyclopedia]]"
