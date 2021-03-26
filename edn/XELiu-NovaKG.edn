@@ -85293,8 +85293,8 @@
   [12042 :version/id "0.8.4" 536921912]
   [12042
    :version/nonce
-   "uuid3c73bf85-a0b0-4913-abf5-0aae7df4f929"
-   536923630]
+   "uuide7be4f9e-9864-46fb-a7ae-cdc99d1a7fb3"
+   536923648]
   [12043 :block/open true 536921914]
   [12043 :block/order 1 536921914]
   [12043 :block/page 11331 536921915]
@@ -88752,6 +88752,7 @@
   [12323 :create/user 3 536923574]
   [12323 :edit/time 1616739030451 536923580]
   [12323 :edit/user 3 536923574]
+  [12324 :block/children 12326 536923634]
   [12324 :block/open true 536923591]
   [12324 :block/order 0 536923593]
   [12324 :block/page 12259 536923592]
@@ -88782,4 +88783,26 @@
   [12325 :create/time 1616739985469 536923604]
   [12325 :create/user 3 536923604]
   [12325 :edit/time 1616740061389 536923626]
-  [12325 :edit/user 3 536923604]]}
+  [12325 :edit/user 3 536923604]
+  [12326 :block/open true 536923631]
+  [12326 :block/order 0 536923634]
+  [12326 :block/page 12259 536923632]
+  [12326 :block/parents 12259 536923632]
+  [12326 :block/parents 12323 536923632]
+  [12326 :block/parents 12324 536923635]
+  [12326 :block/refs 12327 536923648]
+  [12326
+   :block/string
+   "Here i is the [square root] of -1, and hbar is [[Planck’s constant]]—or rather, his [original constant] (h) divided by 2pi:\n$$\\hbar=\\frac{h}{2 \\pi}=1.054573 \\times 10^{-34} \\mathrm{Js}$$   (1.2)"
+   536923647]
+  [12326 :block/uid "JL0gHIEZ2" 536923631]
+  [12326 :create/time 1616751726998 536923631]
+  [12326 :create/user 3 536923631]
+  [12326 :edit/time 1616751798072 536923647]
+  [12326 :edit/user 3 536923631]
+  [12327 :block/uid "AcqIFZl1k" 536923648]
+  [12327 :create/time 1616751798075 536923648]
+  [12327 :create/user 3 536923648]
+  [12327 :edit/time 1616751798076 536923648]
+  [12327 :edit/user 3 536923648]
+  [12327 :node/title "Planck’s constant" 536923648]]}
