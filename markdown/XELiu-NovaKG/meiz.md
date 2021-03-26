@@ -47,6 +47,7 @@
         - "2021/01/01 13:19 #pt10-100 # "dual ponytail" # "[[black coat]]" # "[[jk seifuku]]"   164~166 cm?"
         - "星期四 30/04/2020 17:56 -- VID_20200430_175653 #pt9-100 #laopo #[[blue dress]]   161~165 cm?"
         - "星期日 31/01/2021 16:56 # "green yurongfu" #pt10-100   162~164 cm?"
+        - "[[文妍 (Wen Yan)]] #pt9-100"
         - "grey high heeled sandal" #pt9-100
         - "__星期二 23/02/2021 18:05__ "brown dayi"; cinema; 165~168 cm? 28~31 yo? #pt10-99.99"
         - "星期一 15/03/2021 12:22 #pt10-100 # "light blue coat" # "sneaker"   167~168 cm?"
@@ -68,8 +69,10 @@
         - "星期一 15/03/2021 06:54 #pt9-99.99 # "light blue dayi" "
     - metropolis
         - [[西野七濑 (Nishino Nanase)]]
+        - [[胡博文 (Hu Bowen)]] #pt10-99.99
         - #kiss # opai #pt10-99.99
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FfalURiarbO.webp?alt=media&token=a0b2bbf5-b411-408b-9053-873562f634a9)
+        - [[文妍 (Wen Yan)]] #pt9-100
         - [[唐嫣 (Tang Yan)]] -- #pt9-100
             - 9, 9, 99.99, 100, 99.99, 99.99, 99.99; -; 
         - [[程媛媛 (Cheng Yuanyuan)]]

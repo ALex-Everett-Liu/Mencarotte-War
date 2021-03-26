@@ -47,6 +47,21 @@
             - arrange
                 - [[arrangement]], 2; arranging
                 - [[rearrange]];
+        - c
+            - co
+                - con
+                    - con-
+                        - cons
+                            - consist
+                                - consisted;
+                                - consistent; consistency
+                            - consonant
+                                - consonance
+                            - constrain
+                                - constrained; [[constraint]]
+                                - constrained structure;
+                            - consult, 3
+                                - consulting;
         - e
             - ea
                 - early

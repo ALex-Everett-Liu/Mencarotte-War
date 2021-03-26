@@ -1,0 +1,10 @@
+- [[conservative system]]
+- [[dynamical variable]]
+- energy
+    - [[kinetic energy]]
+    - potential energy; potential energy function
+- force
+    - specified force: 某个特定的受力
+- Newton’s second law
+- time
+    - at any given time: 某个给定的时间

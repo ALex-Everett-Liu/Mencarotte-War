@@ -11,7 +11,7 @@
             - [Electromagnetic waves](http://weelookang.blogspot.com/2011/10/ejs-open-source-propagation-of.html) can be imagined as a [self-propagating transverse oscillating wave] 自传播横向振荡波 of [electric and magnetic fields]. This diagram shows [a plane linearly polarized wave] [propagating from left to right]. The electric field is in a [vertical plane] and the magnetic field in a [horizontal plane].
 210321-21:16
             - Author: [Lookang](https://commons.wikimedia.org/w/index.php?title=User:Lookang&action=edit&redlink=1) many thanks to [Fu-Kwun Hwang](http://www.phy.ntnu.edu.tw/ntnujava/index.php) and [author of Easy Java Simulation = Francisco Esquembre](http://www.compadre.org/osp/items/detail.cfm?ID=7305)
-    - [Propagation](https://en.wikipedia.org/wiki/File:Ondes_cisaillement_2d_20_petit.gif) of a [transverse spherical wave](((qcVw17MQg))) in a [2d grid] 二维网格 ([empirical model]) 
+    - [Propagation](https://en.wikipedia.org/wiki/File:Ondes_cisaillement_2d_20_petit.gif) of a [transverse spherical wave](((qcVw17MQg))) in a [2d grid] 二维网格 ([empirical model](((qVNieBhNo)))) 
 - Transverse waves commonly occur in [[elastic solid]]s; the oscillations in this case are the [[displacement]] of the solid particles away from their [[relaxed position]], 松弛位置 [in directions perpendicular to] [the propagation of the wave]. Since those displacements correspond to a [[local shear deformation]] 局部剪切变形 of the material, a transverse wave of this nature is called a [[shear wave]]. In [[seismology]], shear waves are also called [secondary waves or S-waves](((UPhilQlK1))).
 (固体中的剪切变形产生的位移-剪切波)
 210320-12:07
