@@ -1,0 +1,9 @@
+- linear space; vector space
+    - Hilbert space
+        - "complete inner product space"
+    - [[inner product]]
+        - inner product space
+            - complete inner product space
+                - Cauchy 意义下收敛
+    - mathematical object
+    - space element

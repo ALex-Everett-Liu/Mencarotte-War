@@ -1,0 +1,15 @@
+- Contents - pix
+- ch.1 Hilbert space
+    - 1.1 vector space
+        - definition
+            - 零矢量-加法单位元-逆元 $$\varphi=-\psi$$
+            - 数乘-第二分配律
+            - [[inner product]]
+                - $$(\psi, \varphi)=(\varphi, \psi)^{*}$$
+            - 完全性- the limit of a sequence that Cauchy 意义下收敛 is also in this space - p2
+                - [Cauchy 意义下收敛](((KVPua_UJ0)))
+$$\left(\psi_{m}-\psi_{n}, \psi_{m}-\psi_{n}\right)<\varepsilon$$   when $$m, n>N$$
+        - features
+            - 零矢量是惟一的-逆元唯一 p2
+        - examples
+            - 
