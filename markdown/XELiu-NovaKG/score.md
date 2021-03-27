@@ -117,6 +117,15 @@
                 - 所有这些问题都绕不开 KR&R: 知识表示与推理。这是人工智能、认知科学的[核心问题](https://sspai.com/post/65273)之一，遗憾的是，也是[尚无最优解]的一个领域。概括来讲，知识表示主要有[描述式和程序式]两种。从描述的角度来讲，Roam 目前的[数据结构][不能很好描述][两个知识之间的关系]（这在这篇文章[已经讨论过了]），从程序的角度来看，Roam 现在[没有设计][推理引擎]，从[目前的发展][推演]，[未来也不太可能][设计这么一套系统]。加之，[白皮书]完全没提 KR&R [当下的困境]，让我感觉白皮书[更像是][写给投资方的软文]。
                     - [协作式的知识库]除了有[技术工具]，更重要的是，要有内容：[高度结构化的数据]。[生产这样的数据][需要付出较多的时间和精力]，因此[仅依靠个人]、甚至是[小团队]是不够的，只有依靠像wiki这样，大规模协作。但是Roam目前的[收费机制]、[社区氛围]等方面，与[大规模协作][并不兼容]。
                         - 所以，似乎虽然[语言上宣称]建立[协作式知识库]（还不是Notion那种团队中笔记协作，而是与推理、决策[有更深度融合的][知识协作]），但[产品路线]并非如此。不过，我后来没怎么关注 Roam 了，如有疏漏，敬请指出。
+                - 基于这种理解，双向链接是[面向主题]的，块引用和块嵌入是[面向结构]的。而面向主题的双链要想更好[找到目标笔记]，需要配合更好的[筛选机制]、更清晰的可视化，目前的软件实现暂时没有提供一个能在[反向链接]很多的时候，找到目标笔记的[理想方案](https://www.yuque.com/arvinxx/knowledge-note/rdtyem)。
+                    - 我理解中，块引用、块嵌入能很好[建立结构]，指的是它们作为[正向链接]时的情境。正向链接是[细粒度的关联]。本质上，这和传统笔记中[插入笔记内部链接]没有区别，只不过[知识块]更小。它们也有反向链接，但这个反向链接的场景是面向主题：浏览关联内容、找到目标笔记。在反向链接有很多的时候，由于反向链接是[粗粒度的关联]，是[围绕某个知识的][无序列表]。所以要么[被淹没在信息的汪洋]，如果可视化就会是[一团乱麻]，除非配合合理的筛选和科学的可视化。但似乎[这套方案]并不成熟。这是我说的反向链接[表达效力有限]的意思。
+                    - 假如让我来介绍双向链接，我不会从你们上面已经提到的任何一个概念说起，我可能会从[标签语法糖]说起；假如让我来介绍一个[双链笔记软件]，我会说块引用、块嵌入、粒度全都是[伪概念]，因为「块」是相对于「页面」来说的，但是「页面」根本就没必要存在。我也不想[在别人背后评头论足]，但从这个段落中你可以看出来我要真正向别人[说清楚自己的观念][很费时]，所以一般不想[新开话题]，这应该是我不直接回复本人更主要的原因😂。
+                    - 我目前的感觉是，我们是[从不同的角度]来考虑这个问题。我觉得，目前我们可以就「双链没有质的创新，而是[用户体验的改进]，但是这个改进带来笔记[理念的革新]」达成共识。您想从「用户体验的改进带来的笔记理念革新」来谈，我主要从「双链没有质的创新，[需要警惕][泛化的应用]，也可以把它的[笔记理念]应用在现有[笔记系统]」来讲。
+                - 信息本身网状的，相互连联系的，双链软件通过将节点之间一部抽象的（有价值的）联系变成具象的一般化双链，这相较于传统，可以说是一个质的进步。
+
+人切入这个网络又是树状的。而双链又提供了[完整的树](https://www.yuque.com/thomasxin1994)。现在的双链软件最大的问题在于缺乏[有效的稀疏树]的方式。导致[反链这一支树]的[可用性较低]。
+
+^^我们的要求无非是[网状的建构]和[树状的切入]，对于这两方面，双链都提供了有效的途径，只是软件实现方面还[有待发掘优化]。但前途是光明的。^^
                 - {{[[DONE]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
 Completed after 4 days.
                     - However, I'm beginning to think this is an issue with Roam, not an issue with the script. I’ve had this experience trying to export markdown backups manually as well, the loading wheel just spins and eventually, the web page becomes unresponsive.
@@ -251,6 +260,9 @@ https://cn.logseq.com/uploads/default/original/1X/6fb23336796775f83b9a2b03f3aa89
                     - 虽然没我总结得全面，但[英文网络]上也有类似的讨论，某些我[互动得比较多]的开发者[也已经在往这些方向去做]。我每天刷链滴和 github，发现思源的社区[对这方面的讨论]是一片空白，故写此文。
                 - 有点想转 remnote，但 1. 又要重写一份看得过去的 css 2. remnote [和复习有关的][花里胡哨功能]太多了，PTSD
                     - 还是继续用 rr 做[垃圾分类](https://www.yuque.com/deerain/gannbs/hkdvkr)吧，把 page 的 css 改到和 block 一模一样以后我就[在心理层面]解决了你说的[分类问题]，只把 page 当标签用，如果[相关内容足够多]就新建一个[用来聚合]。
+                - Math and Multi Language OCR for Roam Research
+                    - 作者分享自己如何把 Roam Research [安利给]自己老婆的[有趣故事](https://jimmylv.substack.com/p/-roam-research-)
+                - 直接在 Roam Research 里面运行 Python 代码， Alt + Enter 可[运行当前代码块]，Alt + Shift + Enter 可运行[当前笔记本中的][所有代码块](https://jimmylv.substack.com/p/-roam-newsletter-2021w11)。
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
             - {{[[TODO]]}} 工大“威”访谈——走近“[百团大战](https://www.bilibili.com/video/BV12p4y1h7YJ)”
@@ -538,6 +550,7 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
                     - [30分钟学正则](https://link.zhihu.com/?target=https%3A//von.sh/2017/11/29/learn-regex-in-30-minutes/)，[口水话]虽然多了一点，但也大致 cover [相关的概念]
                     - 最后平时配合 [RegexBuddy: Learn, Create, Understand, Test, Use and Save Regular Expression](https://link.zhihu.com/?target=http%3A//www.regexbuddy.com/)（软件）
                     - 为了方便使用，[所有的代码](https://zhuanlan.zhihu.com/p/35604997)采用的是 JavaScript，**你可以[随时开启]浏览器的[开发者工具]来[测试和学习]。**
+                - 奶牛快传用的是七牛云，而七牛云被阿里云投了10个亿（七牛云也投资了[奶牛快传](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484088&idx=2&sn=c9cb06ffd20353a4b596063ead06b2b5&chksm=e92120d9de56a9cffe7e1e3a76eaea8ce81f35ee04ddc2243a232bad7f3ab61f28afa8609848&scene=178&cur_album_id=1506644557491421187#rd)）
             - game
                 - [无底深渊](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1986352)那么多层，[总有一款适合][小贩](http://www.goddessfantasy.net/bbs/index.php?topic=60233.0)。
 纳垢可以去222层蹭饭，色孽去570找魅魔女王。
@@ -890,4 +903,10 @@ https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_
             - 一年里，DeFi 的[市场规模][急速扩大](https://zhuanlan.zhihu.com/p/346617151)。根据 Arcane Research 的统计，年初时，DeFi 的[总锁仓量]大约为 6.7 亿美元，此后半年，DeFi 一直不温不火，总锁仓量稳定在 7 亿美元至 10 亿美元之间。直到 6 月 16 日，Compound 推出治理代币 COMP，新的[激励模式]为 DeFi 的发展带来了[变局]。随着越来越多的 DeFi 项目启动[流动性挖矿]，DeFi 正式步入「农耕时代」，总锁仓量快速增长，截至年末已经达到了约 145 亿美元，年涨幅约 2100%。
             - 早期很多人[并不知道]如何更好的使用 Notion [组织自己的内容](https://linmi.cc/5322.html)与笔记，随着使用 Notion 愈加熟练，就在觉醒那一刻，伴随[兴奋的快感]也夹杂着[之前存留的数据]需要迁移的痛苦。是的，从老数据库迁移到新数据库（Database）是一件非常繁琐难受的事情。 -- sbnmsl
         - detail point 99.97 (pt7-99.96)
+            - [少数派](https://www.zhihu.com/question/450041985/answer/1789586589)上的人有三大宝，特斯拉，苹果和 notion。谁都不能说他们不好，谁都不能和他们竞争[大笑]
             - 说了这么多，只是因为我想把自己实践 Notion 的过程分享出来。对于我来说，这个系统实践了著名的[生产力专家](https://zhuanlan.zhihu.com/p/358361811) Tiago Forte 的 [“P.A.R.A”方法](http://link.zhihu.com/?target=https%3A//fortelabs.co/blog/para/)，而且足够[简洁明了][易操作]，每天的生活、学习、工作，甚至是[愿望和理想]，都被安排的足够清晰明了，我的生活和大脑里[零零散散的念头]一下子从之前的[杂乱无章]变得[有序可控]起来。接下来的数篇文章，我打算结合自己使用 Notion 的一些经验，从新建第一个页面开始，直至搭建出一套完整的[个人事务管理系统]，来详细的[复盘整个过程]。这其实也只是 Notion 的[应用场景]之一，还有许多未知场景希望能够在[后续的使用过程中][发掘出来]，一并介绍给大家，哪怕有些许您[能够借鉴的地方]，我也非常开心了。
+            - 那你想为什么我要加到这个组织里面，是因为**我们天然是[社会型动物]，我[特别怕]被一个组织抛弃，**我会觉得很孤独。然后这里就有一个问题，如果你让他说你别用evernote，你用flomo。然后他[第一反应]是什么，我要离开 evernote [这个社群]了，这个社群有那么多书，有那么多网站、有那么多的文章都在介绍…
+                - 当年是一种[很时尚的行为]，或者是很 fashion、很新潮的行为，我现在要离开这个东西，然后你又不给我一个社区[让我归属]。那我用了两天觉得说，好像notion挺热闹的，我去notion吧，现在不是网上很多人在录 notion 的视频教程，对吧？有很多这样的，他就会觉得说我没有**归属感，**我就去那边去了。
+                - 所以这里面就是我们不仅仅是在[做产品]，我们还做了大量的[社群运营]，然后社群运营里面我们有大量的[知识的输出]，就是你该如何去[整理你的思维]，你应该如何更好地用flomo。不是说你今天[把功能做完]就完了，其实运营[一定要跟上](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484068&idx=2&sn=688e0088b5a41d3be1b04621b4837560&chksm=e92120c5de56a9d37201811f3868748b057506093c0f517b05b4e219711fb61dbd542d3e2990&scene=178&cur_album_id=1506644557491421187#rd)了。 
+                - ^^sbnmsl -- flomo/notion 这类恶臭的畜生，恶臭的产品，早死早超生！
+啊，还有 sspai，忙着和 flomo/notion 相亲相爱，祝一起螺旋爆炸升天！^^
