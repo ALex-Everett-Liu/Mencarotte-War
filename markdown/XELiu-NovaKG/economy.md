@@ -1,0 +1,10 @@
+- business
+    - market
+        - [[market leader]]
+    - publish...
+        - edition
+            - edition numbering
+        - [[publisher]]
+        - release
+        - version
+            - revised version

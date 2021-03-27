@@ -1,3 +1,5 @@
+- literature and art
+    - [[creative writings]]
 - math and phys
     - [[physics]]
 - personal

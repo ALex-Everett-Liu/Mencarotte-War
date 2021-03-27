@@ -1,0 +1,13 @@
+- fantasy; fantasy setting
+    - [[Dungeons & Dragons (DnD)]]; DND
+        - [[Dungeon Master (DM)]]
+        - edition
+            - [[Advanced Dungeons & Dragons (AD&D)]]
+            - [[basic Dungeons & Dragons]]
+            - [[D&D 3rd edition]]
+        - [[Hasbro]]
+            - [[Wizards of the Coast (WoC)]]
+        - [[Open Game License (OGL)]]
+            - [[d20 System]]
+        - [[Tactical Studies Rules, Inc. (TSR)]]
+    - imaginary adventure

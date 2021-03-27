@@ -14,15 +14,18 @@
                 - 星期六 27/03/2021 12:35~36
         - [[虞喆 (Yu Zhe)]] -- 160 cm?
         - "星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # "black skirt" # "black pantyhose" # "black leather shoes"   159~163 cm?"
+        - HITwh-01
+            - 冯玉婷?
         - HIT Energy School 201703?
         - "星期一 15/03/2021 12:03 #pt10-100 #laopo #[[jk seifuku]] #[[flesh pantyhose]] # "black leather shoes"   158~161 cm?"
         - "星期六 24/06/2017 21:23 #pt10-100 #laopo #[[short ponytail]] #[[white wedge boot]]   165~169 cm?"
+        - [[臧妤姣 (Zang Yujiao)]]
         - [[安冰 (An Bing)]]
         - [[辛坤毓 (Xin Kunyu)]]
         - [[胡秋雨 (Hu Qiuyu)]]
-        - 洛若 (luoruo)
         - "星期一 15/03/2021 11:14 #pt10-100 #laopo # "black leather shoes" # "light brown dayi"   164~166 cm?"
         - [[Fan Qiaodan]] -- 165~167 cm?
+        - [[洛若 (luoruo)]]
         - weibo -- # "round face" #[[grey sweater]] # mall #HIT #laopo
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FEevFV2F4zA.jpg?alt=media&token=63ada62a-6707-41f3-b136-42b109eb6a45)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F7bIYYEyYl1.jpg?alt=media&token=5712d82e-a363-4615-aba3-4c33c1dca32d)
@@ -42,8 +45,11 @@
             - "2020/12/01 08:06 #pt10-100 #laopo # "dark blue dayi" # "black high heeled short boot"   166~169 cm?"
         - "星期二 23/03/2021 12:39 #pt10-100 #laopo #[[grey socks]] #canvas #[[light jeans]] # "black dayi"   166~169 cm?"
         - "星期一 15/03/2021 15:30 -- MOV_0124 #pt10-100 #[[black coat]] # "light grey trousers" #[[white sneaker]]   164~166 cm?"
+        - HITwh-02 #pt10-100
+            - glx video...
         - "星期一 15/03/2021 12:08 #pt10-100 # "creamy-white long coat"; "[[flesh pantyhose]]"; "[[white sneaker]]"   169~172 cm?"
         - "星期三 17/03/2021 20:45 #pt10-100 #laopo # canvas   164~167 cm?"
+        - [[顾琳璇 (Gu Linxuan)]] #pt10-99.99
         - "星期五 18/12/2020 11:04 #pt10-100 #laopo # "white yurongfu" # "black leather shoes"   164~166 cm?"
         - "2021/01/01 13:19 #pt10-100 # "dual ponytail" # "[[black coat]]" # "[[jk seifuku]]"   164~166 cm?"
         - "星期四 30/04/2020 17:56 -- VID_20200430_175653 #pt9-100 #laopo #[[blue dress]]   161~165 cm?"

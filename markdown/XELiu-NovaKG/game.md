@@ -1,4 +1,12 @@
-- [[miniature wargame]]: 微缩模型战棋
-    - [[Chainmail]]
+- campaign settings
+    - the inhabitants of the game world; NPC
+- [[referee]]
 - [[role-playing game (RPG)]]
+    - [[party]]: 小队
+    - player; character
+        - character level
+            - [[experience points (XP)]]
     - [[tabletop role-playing game (TRPG)]]
+- wargaming
+    - [[miniature wargame]]: 微缩模型战棋
+        - [[Chainmail]]
