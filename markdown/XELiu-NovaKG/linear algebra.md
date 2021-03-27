@@ -1,9 +1,12 @@
-- linear space; vector space
+- [[linear space]]; [[vector space]]
     - Hilbert space
         - "complete inner product space"
     - [[inner product]]
         - inner product space
             - complete inner product space
                 - Cauchy 意义下收敛
+            - [[function space]]
+                - 平方可积
+                - 行为良好的复函数
     - mathematical object
     - space element
