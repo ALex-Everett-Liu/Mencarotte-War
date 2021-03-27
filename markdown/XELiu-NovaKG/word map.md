@@ -200,6 +200,13 @@
                     - stound
                         - astound
                             - astonished;
+        - v
+            - va
+                - vary, 2
+                    - covary
+                        - covariant: 协变, 共变;
+                    - [[variable]]; [[variant]]; variation
+                    - variety, 2; varieties
         - w
             - wa
                 - wave
