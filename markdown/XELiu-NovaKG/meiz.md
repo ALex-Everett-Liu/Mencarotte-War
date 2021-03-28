@@ -50,9 +50,11 @@
         - "星期一 15/03/2021 12:08 #pt10-100 # "creamy-white long coat"; "[[flesh pantyhose]]"; "[[white sneaker]]"   169~172 cm?"
         - "星期三 17/03/2021 20:45 #pt10-100 #laopo # canvas   164~167 cm?"
         - [[顾琳璇 (Gu Linxuan)]] #pt10-99.99
+        - [[熊子 (kumako)]] #pt10-99.99
         - "星期五 18/12/2020 11:04 #pt10-100 #laopo # "white yurongfu" # "black leather shoes"   164~166 cm?"
         - "2021/01/01 13:19 #pt10-100 # "dual ponytail" # "[[black coat]]" # "[[jk seifuku]]"   164~166 cm?"
         - "星期四 30/04/2020 17:56 -- VID_20200430_175653 #pt9-100 #laopo #[[blue dress]]   161~165 cm?"
+        - [[碎花子 (sawako)]] #pt10-99.99
         - "星期日 31/01/2021 16:56 # "green yurongfu" #pt10-100   162~164 cm?"
         - "[[文妍 (Wen Yan)]] #pt9-100"
         - "grey high heeled sandal" #pt9-100
@@ -75,6 +77,7 @@
             - "美臀 - oshiri"
         - "星期一 15/03/2021 06:54 #pt9-99.99 # "light blue dayi" "
     - metropolis
+        - [[王冰冰 (Wang Bingbing)]]
         - [[西野七濑 (Nishino Nanase)]]
         - [[胡博文 (Hu Bowen)]] #pt10-99.99
         - #kiss # opai #pt10-99.99

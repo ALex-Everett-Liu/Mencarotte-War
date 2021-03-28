@@ -80,6 +80,7 @@ ge
 210121-19:55"
     - 直接指责一个科普类答主“靠煽动爱国情绪吸引别人的关注”，这不是人身攻击吗？   -- zhihu, jubao34
 210217-21pm
+    - "先把他车牌号记下来，人肉他，再伺机报复呗。还指望立竿见影念头通达吗，事后报复得手岂不比这来得爽？此之谓延迟满足是也。"
 - skill? thought?  -- 技巧与心得...
     - "block ref 相当于 pull or clone，^^之后应当允许一种 fork or branch 的操作^^，感想于 [this](https://cn.logseq.com/t/topic/290/8) talk thread.
 210212-16:05"
