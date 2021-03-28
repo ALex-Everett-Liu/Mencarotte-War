@@ -1,4 +1,6 @@
-- campaign settings
+- [[campaign settings]]
+    - "adventure"
+        - [[pre-made adventure]]
     - the inhabitants of the game world; NPC
 - [[referee]]
 - [[role-playing game (RPG)]]

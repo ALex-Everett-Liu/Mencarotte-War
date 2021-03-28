@@ -1,4 +1,6 @@
 - fantasy; fantasy setting
+    - adventure
+        - imaginary adventure
     - [[Dungeons & Dragons (DnD)]]; DND
         - [[Dungeon Master (DM)]]
         - edition
@@ -10,4 +12,3 @@
         - [[Open Game License (OGL)]]
             - [[d20 System]]
         - [[Tactical Studies Rules, Inc. (TSR)]]
-    - imaginary adventure
