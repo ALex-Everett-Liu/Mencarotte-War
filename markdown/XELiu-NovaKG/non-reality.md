@@ -4,9 +4,13 @@
     - race
         - [[dragonborn]]
         - exotics
+        - fantastic species
         - human ethnicities
+        - [[intelligent race]]
         - orc
             - half-ores;
+        - [[racial trait]]
+        - [[subrace]]
         - [[tiefling]]
 - fantasy; fantasy setting
     - adventure
@@ -15,17 +19,30 @@
         - treasure
         - uncharted land
     - [[Dungeons & Dragons (DnD)]]; DND
+        - [[alignment]]: 阵营; 结盟; 队列;
         - [[Dungeon Master (DM)]]
         - edition
             - [[Advanced Dungeons & Dragons (AD&D)]]
             - [[basic Dungeons & Dragons]]
             - [[D&D 3rd edition]]
             - Dungeons & Dragons 5e
+        - gods...
+            - [[mystery cult]]
+                - 入教仪式
         - [[Hasbro]]
             - [[Wizards of the Coast (WoC)]]
+        - [[multiverse]]
         - [[Open Game License (OGL)]]
             - [[d20 System]]
-        - [[Tactical Studies Rules, Inc. (TSR)]]
+        - [[Dungeons & Dragons: Master's Guide]]
         - [[Dungeons & Dragons: Player's Handbook]]
+        - [[Tactical Studies Rules, Inc. (TSR)]]
+        - [[Underdark]]
+    - the world is untamed or already known well
 - fiction; fictional setting
 - magic; magic use
+    - spell; cast the spell
+        - abjuration: 誓绝; 亵渎; 防护;
+            - [[Prismatic Wall]]
+        - [[bright light]]; [[dim light]]
+        - [[spell slot]]

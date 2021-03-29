@@ -13,6 +13,9 @@
     - [[party]]: 小队
         - [[companion]]
     - player; character
+        - [[ability score]]
+            - [[Constitution]]
+        - [[character creation]]
         - character level
             - [[experience points (XP)]]
         - [[player characters (PCs)]]
@@ -24,6 +27,9 @@
     - "story"
         - choice of the player
     - [[tabletop role-playing game (TRPG)]]
+        - dice...
+            - [[saving throw]]
+        - tabletop;
     - verbal impersonation
 - wargaming
     - [[miniature wargame]]: 微缩模型战棋

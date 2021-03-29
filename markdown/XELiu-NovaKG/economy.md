@@ -7,9 +7,13 @@
         - user...
             - comment; review
                 - controversy
+            - community
+                - [[community project]]
     - publish...
         - edition
             - edition numbering
+        - official...
+            - official content
         - [[publisher]]
         - release
         - version
