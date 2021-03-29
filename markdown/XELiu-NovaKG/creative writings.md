@@ -1,1 +1,3 @@
-- [[storyteller]]
+- story
+    - open-ended
+    - [[storyteller]]

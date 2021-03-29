@@ -12,3 +12,4 @@
         - [[Open Game License (OGL)]]
             - [[d20 System]]
         - [[Tactical Studies Rules, Inc. (TSR)]]
+- fiction; fictional setting

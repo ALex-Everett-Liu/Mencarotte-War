@@ -1,14 +1,21 @@
-- [[campaign settings]]
+- [[campaign]]; [[campaign settings]]
     - "adventure"
         - [[pre-made adventure]]
-    - the inhabitants of the game world; NPC
+    - "the inhabitants of the game world; NPC"
 - [[referee]]
 - [[role-playing game (RPG)]]
     - [[party]]: 小队
     - player; character
         - character level
             - [[experience points (XP)]]
+        - [[player characters (PCs)]]
+            - the inhabitants of the game world; NPC
+    - skill
+        - [[area of specialty]]: 专长领域
+        - [[cognitive skill]]
+        - [[social skill]]
     - [[tabletop role-playing game (TRPG)]]
+    - verbal impersonation
 - wargaming
     - [[miniature wargame]]: 微缩模型战棋
         - [[Chainmail]]
