@@ -1,3 +1,6 @@
+- creature
+    - "[[monster]]"
+    - [[mythical creature]]
 - fantasy; fantasy setting
     - adventure
         - imaginary adventure
@@ -13,3 +16,4 @@
             - [[d20 System]]
         - [[Tactical Studies Rules, Inc. (TSR)]]
 - fiction; fictional setting
+- magic; magic use

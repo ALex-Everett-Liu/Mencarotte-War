@@ -82,6 +82,12 @@
                     - accustom
                         - accustomed;
                     - customarily; customary;
+        - d
+            - de
+                - develop
+                    - developed, 3; development, 3;
+                - deviate: 偏离
+                    - deviant;
         - e
             - ea
                 - early
@@ -200,6 +206,15 @@
                     - stound
                         - astound
                             - astonished;
+        - t
+            - te
+                - term, 2
+                    - generic term: 通称, 专业术语;
+                    - termed;
+                - terra
+                    - terrain
+                    - terrene
+                    - territory, 3
         - v
             - va
                 - vary, 2
