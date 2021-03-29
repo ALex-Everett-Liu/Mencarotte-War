@@ -8309,6 +8309,379 @@ a.rm-alias.rm-alias-external {
     padding: 5px;
     margin-top: 15px !important;
 }```
+- gris
+    - ```javascript
+:root {
+    --background-color: #f5f5f5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.rm-heading-level-1 > .rm-block__self .rm-block__input,
+.rm-heading-level-2 > .rm-block__self .rm-block__input,
+.rm-heading-level-3 > .rm-block__self .rm-block__input,
+.roam-log-container .roam-log-preview h1 {
+  font-family: 'Inconsolata'!important;
+  font-size: 1rem!important;
+  font-weight: bold!important;
+  color: #282828!important;
+}
+
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before, 
+.rm-heading-level-1 > .rm-block__self .rm-block__input::before,
+.rm-heading-level-2 > .rm-block__self .rm-block__input::before,
+.rm-heading-level-3 > .rm-block__self .rm-block__input::before,
+.roam-log-container .roam-log-preview h1::before {
+  opacity: 0.2;
+  font-size: 1rem;
+}
+
+h1::before, 
+.roam-log-container .roam-log-preview h1::before, 
+.rm-heading-level-1 > .rm-block__self .rm-block__input::before {
+	content: "# ";  
+}
+
+h2::before,
+.rm-heading-level-2 > .rm-block__self .rm-block__input::before {
+	content: "## ";  
+}
+
+h3::before,
+.rm-heading-level-3 > .rm-block__self .rm-block__input::before {
+	content: "### ";  
+}
+
+div,
+textarea {
+  font-family: 'Inconsolata';
+}
+
+.roam-block-container {
+    max-width: 1000px;
+}
+
+.rm-query {
+    border: 0.5px solid #e4e9ec;
+    border-radius: 5px;
+    
+}
+
+.rm-query .rm-query-title {
+    background-color: #f5f5f5;
+    padding: 0.8em;
+    color: #ccc;
+  font-size: 80%;
+}
+
+.rm-reference-main.rm-query-content {
+    padding: 0 0.8em;
+}
+
+.rm-reference-main .rm-reference-item .rm-block-text {
+    font-size: 90%;
+}
+
+.rm-ref-page-view-title span {
+    
+}
+
+.rm-reference-main .rm-reference-item .controls {
+    margin-left: -1em;
+}
+
+.rm-ref-page-view {
+    padding: 0.4em 0.2em;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+    padding: 0 6px;
+}
+
+div.flex-v-box.starred-pages-wrapper > div.flex-h-box > span {
+    font-size: 14px;
+    opacity: 80%;
+    letter-spacing: 0.04em;
+}
+
+div.roam-sidebar-container.noselect > div > div {
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    
+}
+
+#block-input {
+    background: #f0f0f0;
+}
+
+.roam-body #block-input > span > div {
+    padding: 6px 24px;
+    background: #f0f0f0;
+}
+
+span.bp3-icon-small.bp3-icon-star {
+    display: none;
+    visibility: hidden;
+}
+
+.roam-block {
+    max-width: 850px;
+  padding-top:0;
+  padding-bottom:0;
+  min-height: 1.5em;
+  line-height: 1.5em;
+}
+
+.rm-block-input {
+  padding-top:0;
+  padding-bottom:0;
+}
+
+.controls, .rm-block__controls {
+  padding-top:0;
+  padding-bottom:0;
+}
+
+#right-sidebar > div {
+    background-color: #f0f0f0;
+    border-left: none;
+}
+.rm-page-ref-brackets {
+    display: none;
+}
+.controls .simple-bullet-outer .simple-bullet-inner {
+    background-color: #e5e9f2;
+}
+.block-border-left {
+    border-left: 1px solid #f0f0f0;
+}
+.kanban-board {
+    background-color: #f0f0f0;
+}
+.kanban-card {
+    background-color: #f0f0f0;
+    margin: 8px;
+    box-shadow: 0px 1px 2px #9EB3C0;
+    padding: 10px;
+    border-radius: 2px;
+    line-height: 1.3em;
+}
+.kanban-title {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 6px;
+}
+.kanban-column {
+    background-color: #ececec;
+    margin: 0px 4px 0px 4px;
+    padding: 4px;
+    min-width: 200px;
+    border-radius: 3px;
+}
+.rm-block-ref::before {
+    content: '';
+    display: inline-block;
+    width: 10px;
+    border-radius: 40px;
+    height: 10px;
+    background: #94eb94;
+    margin-right: 5px;
+}
+.rm-block-ref {
+    border-bottom: none;
+    font-size: 1em;
+    color: #000;
+}
+.rm-block-ref:hover {
+    background: none;
+    cursor: pointer;
+}
+.checkmark {
+    background: rgba(0,0,0,0.075);
+  border-radius: 2em;
+  border: none;
+}
+.check-container {
+}
+.check-container input:checked ~ .checkmark {
+    background: #282828;
+}
+.check-container input:checked ~ .checkmark:after {
+    
+}
+.rm-reference-item {
+    margin-top: 8px;
+    border-radius: 0px;
+    border: none;
+    margin-right: 8px;
+    flex: 1 1 100%;
+    word-break: break-word;
+    background-color: rgba(0,0,0,0.02);
+    padding: 8px;
+}
+
+.rm-level2 {
+    font-size: 1em;
+}
+.rm-level3 {
+    font-weight: 400;
+    font-size: 1em;
+}
+.rm-page-ref {
+    color: #828282;
+}
+.rm-page-ref-link-color {
+    color: #000;
+    font-weight: bold;
+}
+a {
+    color: #000;
+  font-weight: bold;
+}
+
+a:focus, a:hover {
+  color:#000;
+  outline: none;
+}
+
+.intercom-app,
+.intercom-launcher-frame,
+#intercom-container {
+    display: none;
+}
+
+.roam-body, .roam-topbar, pre {
+    background-color: #f5f5f5;
+}
+
+.roam-body .roam-app .roam-sidebar-container {
+    background-color: #f5f5f5;
+    border-right: 1px #eee solid;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
+.roam-body .roam-app .roam-sidebar-container > * {
+    opacity: 80%;
+    box-shadow: none;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
+    background: #f5f5f5;
+    color: black;
+    opacity: 100%;
+}
+#buffer.tall {
+    height: calc(100vh - 50px);
+}
+.check-container {
+    padding-right: 4px;
+}
+span.rm-page-ref {
+    border-radius: 0px;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+.content span.rm-page-ref {
+    padding: 4px 1px 1px;
+    /* required for fixing azo */
+}
+.center-proj {
+    text-align: center;
+}
+
+.roam-log-container .roam-log-page {
+	border-top: #ececec 1px solid
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button {
+  padding: 0 20px;
+  color: #282828;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper {
+  padding: 20px!important;
+  color: #828282;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper > div:first-of-type {
+  background-color: #ececec!important;
+}
+
+.rm-mentions .rm-ref-page-view .rm-ref-page-view-title {
+  font-size: 1em;
+}
+
+.rm-title-editing-display::before {
+  display: none;
+}
+
+.CodeMirror {
+  background: rgba(0,0,0,0.025);
+}
+
+.CodeMirror .CodeMirror-code pre {
+  font-family: 'Inconsolata'!important;
+  font-size: 14px!important;
+}
+
+.CodeMirror-gutters {
+  border: none;
+  background-color: #f0f0f0;
+}
+
+.rm-highlight {
+  background-color: #d9efd9;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+  color: #828282;
+}
+
+hr {
+  border-top: 1px solid rgba(0,0,0,0.075);
+}
+
+.rm-bq {
+  background: transparent;
+  border-left: 1px solid rgba(0,0,0,0.075);
+  color: #828282;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.bp3-input {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: rgba(0,0,0,0.025);
+}
+
+.rm-sync--synced {
+  background-color: #94EB94;
+}
+
+.rm-multibar {
+  visibility: hidden;
+}
+
+code {
+  font-family: "Inconsolata";
+  border-radius: 0;
+  border: none;
+  color: #828282;
+}
+
+.rm-article-wrapper .roam-log-container .roam-log-page {
+  border-top: 1px solid #eee;
+}
+```
 - my test theme 01
     - ```css
 @import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); 
