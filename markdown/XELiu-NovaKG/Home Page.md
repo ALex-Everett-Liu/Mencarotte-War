@@ -1,3 +1,7 @@
+- daily life; everyday life...
+    - food and drink; tabemono, nomemono;
+        - [[cuisine]]
+        - food industry
 - literature and art
     - [[creative writings]]
 - math and phys

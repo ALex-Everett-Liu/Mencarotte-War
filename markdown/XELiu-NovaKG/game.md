@@ -2,6 +2,7 @@
     - "adventure"
         - [[pre-made adventure]]
     - "the inhabitants of the game world; [[non-player characters (NPCs)]]"
+- game rule
 - [[referee]]
 - [[role-playing game (RPG)]]
     - battle
@@ -10,6 +11,7 @@
             - [[aberrant beings]]
     - environment effect
     - [[party]]: 小队
+        - [[companion]]
     - player; character
         - character level
             - [[experience points (XP)]]

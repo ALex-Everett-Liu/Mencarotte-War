@@ -1,19 +1,26 @@
 - creature
     - "[[monster]]"
     - [[mythical creature]]
+    - race
+        - human ethnicities
 - fantasy; fantasy setting
     - adventure
+        - [[ancient ruin]]
         - imaginary adventure
+        - treasure
+        - uncharted land
     - [[Dungeons & Dragons (DnD)]]; DND
         - [[Dungeon Master (DM)]]
         - edition
             - [[Advanced Dungeons & Dragons (AD&D)]]
             - [[basic Dungeons & Dragons]]
             - [[D&D 3rd edition]]
+            - Dungeons & Dragons 5e
         - [[Hasbro]]
             - [[Wizards of the Coast (WoC)]]
         - [[Open Game License (OGL)]]
             - [[d20 System]]
         - [[Tactical Studies Rules, Inc. (TSR)]]
+        - [[Dungeons & Dragons: Player's Handbook]]
 - fiction; fictional setting
 - magic; magic use
