@@ -2,7 +2,12 @@
     - "[[monster]]"
     - [[mythical creature]]
     - race
+        - [[dragonborn]]
+        - exotics
         - human ethnicities
+        - orc
+            - half-ores;
+        - [[tiefling]]
 - fantasy; fantasy setting
     - adventure
         - [[ancient ruin]]
