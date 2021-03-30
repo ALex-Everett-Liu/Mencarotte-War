@@ -6,10 +6,10 @@
     - [[apparatus]]; device; equipment; instrument
         - [[instrumentation]]
     - laboratory
-    - "[[measurement]]; [[measurement process]]; act of measurement"
+    - [[measurement]]; [[measurement process]]; act of measurement
         - measuring instrument;
     - peak; spike
-        - "spread out in space"
+        - spread out in space
     - screen
         - distant screen;
     - white coat

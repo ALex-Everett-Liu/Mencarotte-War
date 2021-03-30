@@ -7,10 +7,10 @@ Check [the](https://roamresearch.com/#/app/help/page/uuidaba49748-739e-466d-bf79
 201031-23:21, 201120-10:30, 210120-03:16
 - ## [[Table of Contents (ToC)]]
     - [How does it realized] in Roam Research?
-    - "1. [Introduction]([[introduction]])"
-    - "2. [Current approaches to] [[knowledge management]] 当下的主流知识管理方法"
-    - "**3. Problems with the file cabinet approach** 文件柜方式的储存结构存在的问题"
-    - "4. [[Knowledge graphs as nodal networks]] 节点网络形态的知识图谱/基于节点网络的知识图谱"
+    - 1. [Introduction]([[introduction]])
+    - 2. [Current approaches to] [[knowledge management]] 当下的主流知识管理方法
+    - **3. Problems with the file cabinet approach** 文件柜方式的储存结构存在的问题
+    - 4. [[Knowledge graphs as nodal networks]] 节点网络形态的知识图谱/基于节点网络的知识图谱
 - ## 1. [Introduction]([[introduction]])
     - [We are experiencing] [an unprecedented explosion of knowledge]([[knowledge explosion]]). Every day, 2700 books are published in the [[United States (USA)]] alone, 6850 [[scientific paper]]s are authored, more than 2 million [[blog post]]s [go live], 超过200万篇博客文章上线 and 294 billion emails [fly back and forth]. 来回飞舞 [The amount of total data] produced with [every rotation of the Earth] would fill [a stack of books] [stretching to the moon] and back.[1](((Q11MeN5ce))) While this [[exponential growth]] [presents enormous opportunities for] individuals and society at large, neither the [human brain] nor [current technologies] [are equipped to harness it] to its [[full potential]].
 201120-11:15, 210120-06:46

@@ -1,2 +1,2 @@
-- 2017/09/14 15:31 #pt9-99.99 # "black pantyhose" # "black skirt" # "red coat"
+- 2017/09/14 15:31 #pt9-99.99 # black pantyhose # black skirt # red coat
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FGBI6UiAbnN.png?alt=media&token=5a0c866e-079d-4234-b152-83d0c4e1540f)

@@ -1,5 +1,5 @@
 - dictionary 
-    - Study on the Application of [Agricultural Information Retrieval System] [Based on Agent]. "www.[[dictall]].com"
+    - Study on the Application of [Agricultural Information Retrieval System] [Based on Agent]. www.[[dictall]].com
     - Research and [System Implementation] on [Content Based Music Information Retrieval]
     - "Information Retrieval" [Course Practice] Based on [Network Teaching Platform]
     - Study on [measure method] of [vector space] information retrieval system

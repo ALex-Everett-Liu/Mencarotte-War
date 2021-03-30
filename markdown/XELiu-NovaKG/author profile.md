@@ -1,4 +1,4 @@
 - dictionary 
-    - This link points to another [[PHP script]] that [displays additional information about] the video, including its comments, video responses, author profile and [related videos]. 作者简介 "www.[[ibm]].com"
+    - This link points to another [[PHP script]] that [displays additional information about] the video, including its comments, video responses, author profile and [related videos]. 作者简介 www.[[ibm]].com
     - `Author` is a class [representing an author profile].
     - In this article, the author compares the [2D profile analysis] 轮廓分析 and [3D microtopography analysis] 形貌分析 on the [turning surface] of the [C/C composite], 复合材料车削圆柱表面 and [the results of the comparison show that] 3D microtopography analysis can reflect the [surface quality] of materials actually. dict.cnki.net

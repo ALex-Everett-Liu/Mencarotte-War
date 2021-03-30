@@ -48,7 +48,7 @@
         - [[wave nature]]
 - ---
 - ## Abstract 
-    - "From Wikipedia, the [[free encyclopedia]]"
+    - From Wikipedia, the [[free encyclopedia]]
     - __For a more accessible and [less technical introduction] to this topic, see __[[Introduction to quantum mechanics]]__.__ #accessible
     - Part of a [series](https://en.wikipedia.org/wiki/Category:Quantum_mechanics) on [Quantum mechanics] #series #category 
     - Quantum mechanics is a [[fundamental theory]] in physics that [provides a description of] the [[physical properties]] of nature [at the scale of] atoms and [[subatomic particle]]s.[2]:[1.1](((SCwkcngus))) It is the foundation of all [[quantum physics]] including [[quantum chemistry]], [[quantum field theory]], [[quantum technology]], and [[quantum information science]].

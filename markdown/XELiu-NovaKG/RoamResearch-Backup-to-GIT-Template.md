@@ -7,9 +7,9 @@
     - **This is the [template database], which is pointing to** [My Repo ErikPlachta/RoamResearch-Backup-to-GIT](https://github.com/ErikPlachta/RoamResearch-Backup-to-GIT) **to [run the backup].**
     - __Please report ALL issues and [Feature Requests] the parent repo.__
 - ## Index
-    - "i. Use This Template"
-    - "ii. Setup Your Secrets"
-    - "iii. Verify It’s Working"
+    - i. Use This Template
+    - ii. Setup Your Secrets
+    - iii. Verify It’s Working
 - ## i. Use This Template
     - Select **Use this template**
     - [Enter a Name] you’d like to use

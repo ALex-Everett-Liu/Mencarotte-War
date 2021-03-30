@@ -144,7 +144,7 @@
                     - 术语, 名字;
                     - onymous
                         - bearing a name: [articles in magazines] are usually onymous
-                    - [[acronym]]; "[[anonymous]]"; [[antonym]]; [[hyponym]]; [[synonym]];
+                    - [[acronym]]; [[anonymous]]; [[antonym]]; [[hyponym]]; [[synonym]];
             - op
                 - oppose
                     - opposed;
@@ -179,7 +179,7 @@
                 - raise
                     - praise
                 - range
-                    - "arrange"
+                    - arrange
                     - broad range;
                 - raster
                     - the [rectangular formation] of [parallel scanning lines] that guide the [[electron beam]] on a [television screen] or a [[computer monitor]]; guangshange112;

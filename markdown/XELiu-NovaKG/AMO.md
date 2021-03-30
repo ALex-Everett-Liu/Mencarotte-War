@@ -24,7 +24,7 @@
 - material...
     - glass
         - looking-glasses
-    - "refractive index"
+    - refractive index
 - polarization
     - [[linearly polarized]]
 - wave optics / physical optics

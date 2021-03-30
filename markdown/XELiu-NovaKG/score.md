@@ -209,8 +209,14 @@ Completed after 4 days.
         - detail point 99.99 (pt10-99.99)
             - {{[[TODO]]}} [HoneySelect2/工作室存档](http://www.uu-gg.cc/forum.php?mod=viewthread&tid=76556) 借钱（骨骼绑定可动场景）
             - {{[[TODO]]}} **采蘑菇的小芋艿** -- 心中有丘壑，眉目做山河 -- 【[新手助眠](https://space.bilibili.com/438127416/dynamic)】
-            - {{[[TODO]]}} [vlog 008](https://www.bilibili.com/video/BV1xJ411X7qA) 探访哈工大食堂
-                - [VLOG 04](https://www.bilibili.com/video/BV114411274h) 实习小总结+到达哈尔滨
+            - vlog...
+                - {{[[TODO]]}} [vlog 008](https://www.bilibili.com/video/BV1xJ411X7qA) 探访哈工大食堂
+                    - [VLOG 04](https://www.bilibili.com/video/BV114411274h) 实习小总结+到达哈尔滨
+                - {{[[TODO]]}} [Douzi Vlog](https://www.bilibili.com/video/BV1sK4y1Y7Cb) | 给朋友制作明星同款手幅，去哈工大研究生歌唱比赛当观众
+                - {{[[TODO]]}} [Harbin tour vlog](https://www.bilibili.com/video/BV1Zz4y1z7Dj)
+                - **工科少女王小明rd** -- [HIT](https://space.bilibili.com/51701913/dynamic)
+                - {{[[TODO]]}} 工大“威”访谈——走近“[百团大战](https://www.bilibili.com/video/BV12p4y1h7YJ)”
+07:30 pljj
             - history
                 - [about northern ethnics](https://www.zhihu.com/people/zi-shi-bai-yi-qing-xiang-41) -- 善为国者，不限地之广狭，人之华夷，惟徳是视。
                 - {{[[TODO]]}} 精神阿斯特兰人，作为精神塔万廷苏犹人必须[互相关注](https://www.zhihu.com/question/427967065/answer/1550870539)。
@@ -240,9 +246,6 @@ Completed after 4 days.
 040-QGIS
 041-tagLyst
             - {{[[TODO]]}} [dl](https://www.bilibili.com/video/BV1e7411s7W6) -- screenshot 02:07
-            - vlog...
-                - {{[[TODO]]}} [Douzi Vlog](https://www.bilibili.com/video/BV1sK4y1Y7Cb) | 给朋友制作明星同款手幅，去哈工大研究生歌唱比赛当观众
-                - {{[[TODO]]}} [Harbin tour vlog](https://www.bilibili.com/video/BV1Zz4y1z7Dj)
             - note-taking...
                 - 曾在之前的 [Obsidian 使用经验分享] 中，我提到过 MOC [在我的认知里]是属于一个[临时笔记]的[联系层](https://zhuanlan.zhihu.com/p/355344374)，可以将[零散的笔记]，[未成体系的]笔记，用未来[可验证的方式][暂时联系起来]。而 MOC 的概念出自于《How to Make a Complete Map of Every Thought You Think》，由其作者定义， MOC 为将内容与内容与联系[固化下来]的一种方式，其与 Structure Note 相差无异，都[可以视作]笔记彻底”成熟“前的一个[胶水层][^1]。
                     - 其中第一种做法是[完全的联系]，第二种则[更注重]索引以及[跳转便利性]，第三种则是[完全的索引]（也就是常见的 TOC）。
@@ -297,8 +300,6 @@ https://cn.logseq.com/uploads/default/original/1X/6fb23336796775f83b9a2b03f3aa89
                 - 直接在 Roam Research 里面运行 Python 代码， Alt + Enter 可[运行当前代码块]，Alt + Shift + Enter 可运行[当前笔记本中的][所有代码块](https://jimmylv.substack.com/p/-roam-newsletter-2021w11)。
             - {{[[TODO]]}} [mztu](https://115.com/home/topic/9243332.html)
             - {{[[TODO]]}} 刷杯子 海绵
-            - {{[[TODO]]}} 工大“威”访谈——走近“[百团大战](https://www.bilibili.com/video/BV12p4y1h7YJ)”
-07:30 pljj
             - {{[[TODO]]}} 哈工大威海的4年生活是怎样的
                 - 想念威海的第N天
 [学习之外所有时间](https://www.bilibili.com/video/BV1n54y187Lc)几乎都给了舞蹈和[舞台]呢
@@ -615,7 +616,7 @@ https://roamresearch.com/#/app/help/page/H7zPJSTgv
                     - 《史记》把季连、穴熊、鬻熊[视作][不同的人]，而且[连成谱系]，可能是[汉代][才形成的观点]，战国时期的[楚人][未必这样认为]。
                 - 现居[桃里寺城](https://www.zhihu.com/people/sebastiengong) -- manmeng33
                 - 这里说下[清军入关]的[暴行](https://www.zhihu.com/question/285989497/answer/1730882032)，其实也不新鲜，毕竟记住这是封建王朝，有暴行才是正常，没暴行都要记上一笔[王师仁义]。比如朱元璋的明军平江浙的时候，也是[屠城]不亦乐乎，那个宋濂的好基友[叶子奇]所著《草木子》就记载了不少明军的暴行。再说南下清军中[明朝降军][占了主力]，[论起来]很多坏事可都是他们干的。
-                - {{[[TODO]]}} "[1]: [高文德][主编]．《[中国少数民族史][大辞典]》：[吉林教育出版社]，1995年12月：第1051页"
+                - {{[[TODO]]}} [1]: [高文德][主编]．《[中国少数民族史][大辞典]》：[吉林教育出版社]，1995年12月：第1051页
                 - {{[[TODO]]}} [Cathay](https://books.google.co.jp/books?id=-L-IDwAAQBAJ): A Critical Edition
                 - [Ezra Pound](https://books.google.co.jp/books?id=0PI7g5B-6eQC)'s [Confucian Translations]
                 - 就算按他自己说的从[宏观角度](https://zhuanlan.zhihu.com/p/346597171)看历史而不去[治史]，他这种不【甄别】【对比】史料的阅读方式，其实本质和看[地摊阴谋论]也没什么区别，[更遑论]他那所谓的归纳总结的【历史经验】了

@@ -1,5 +1,5 @@
 - creature
-    - "[[monster]]"
+    - [[monster]]
     - [[mythical creature]]
     - race
         - [[dragonborn]]

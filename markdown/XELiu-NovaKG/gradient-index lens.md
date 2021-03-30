@@ -1,5 +1,5 @@
 - dictionary 
-    - [Coherence Transfer Function] of the [Fiber-optic Confocal Sensor] Using a Gradient-index Lens. 梯度折射率/自聚焦透镜 "dict.[[cnki]].net"
+    - [Coherence Transfer Function] of the [Fiber-optic Confocal Sensor] Using a Gradient-index Lens. 梯度折射率/自聚焦透镜 dict.[[cnki]].net
     - [Propagation properties] of [[Gaussian beam]]s through a [nonlinear gradient-index lens] 
     - A New Gradient-index Lens for [Coupling of a Laser Diode to Single-mode Fiber] 
     - Analysis of [3-D Coherence Imaginary Property] of the Gradient-Index Lens 

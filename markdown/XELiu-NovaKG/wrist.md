@@ -1,5 +1,5 @@
 - dictionary 
-    - She manoeuvred her way to the top of the company. 施展手腕 "牛津高阶英汉双解词典"
+    - She manoeuvred her way to the top of the company. 施展手腕 牛津高阶英汉双解词典
     - [Settling the dispute] [required great tact and diplomacy]. 解决这个争端 老练和娴熟的外交手腕
     - He [threw the ball back] [with a quick flick of the wrist]. 
     - He [caught hold of her wrists] so she [couldn't get away]. 无法挣脱

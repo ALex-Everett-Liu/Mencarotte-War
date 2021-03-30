@@ -21,7 +21,7 @@ body {
 /*  background: url(https://i.imgur.com/gDZzZbO.jpg) center center fixed; */
     background-size: cover;
 } ```
-- "**page border (OPAQUE PAGE CONTAINER)** #[[page container]]"
+- **page border (OPAQUE PAGE CONTAINER)** #[[page container]]
     - ```css
 /* Body styles */
 .roam-block-container {

@@ -1,6 +1,6 @@
 - [[linear space]]; [[vector space]]
     - Hilbert space
-        - "complete inner product space"
+        - complete inner product space
     - [[inner product]]
         - inner product space
             - complete inner product space

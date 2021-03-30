@@ -1,6 +1,6 @@
 - dictionary 
     - Research on [Digitized Faceted Classification Model] with [Dynamic Weight Value]. www.[dictall].com
-    - Research of [Software Component Classification] Based on Faceted Classification 刻面/分面分类法 and [Artificial Intelligence]. "dict.[[cnki]].net"
+    - Research of [Software Component Classification] Based on Faceted Classification 刻面/分面分类法 and [Artificial Intelligence]. dict.[[cnki]].net
     - Research for [Retrieving Software Components] Based on Faceted Classification 
     - [The core of the system] is [faceted classification schema] 刻面分类模式 [merging process unit]. 合并处理单元
     - The thesis mainly researches on [component retrieval technologies] based on the [faceted classification schema]. 

@@ -5,9 +5,9 @@
 - [[transverse wave]]
     - drum membrane
     - [[shear wave]]
-        - "[[displacement]]"
+        - [[displacement]]
             - [[relaxed position]]
-        - "[[elastic solid]]"
+        - [[elastic solid]]
         - [[local shear deformation]]
     - string wave
 - [[longitudinal wave]]

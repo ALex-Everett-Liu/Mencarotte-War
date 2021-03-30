@@ -1,5 +1,5 @@
 - dictionary 
-    - To take one's place in a military formation or line. "www.[[dictall]].com"
+    - To take one's place in a military formation or line. www.[[dictall]].com
     - Act of [pivoting 180 degrees], 旋转 especially in a military formation. 
     - A military formation [leaving enough space between ranks] to allow an [inspecting officer] to pass. 检阅官
     - A military formation 编队 for skirmishing; 小冲突 as [widely separated] [as the tactical situation permits]. 战术情况允许

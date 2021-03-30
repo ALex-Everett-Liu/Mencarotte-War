@@ -13,6 +13,6 @@
 - ## References
     - [14]: ["HIGH DENSITY EMBEDDED STORAGE | SFA14K| DDN"](https://www.ddn.com/products/converged-storage-platform-sfa14k/).
     - [15]: Preston, W. Curtis (2002). "[Fibre Channel]([[fibre channel]]) Architecture". __Using SANs and NAS__. Sebastopol, CA: [O'Reilly Media]. pp. 19–39. [ISBN] [978-0-596-00153-7](https://en.wikipedia.org/wiki/Special:BookSources/978-0-596-00153-7). [OCLC] [472853124](https://www.worldcat.org/oclc/472853124).
-        - The Fibre Channel architecture 体系结构 also defines three [network design topologies]: point to point, [arbitrated loop] 仲裁环 and [switched fabric]. "www.[[dictall]].com"
+        - The Fibre Channel architecture 体系结构 also defines three [network design topologies]: point to point, [arbitrated loop] 仲裁环 and [switched fabric]. www.[[dictall]].com
 - Categories: [[hot-swappable transceiver]] | Ethernet
 210313-00:28

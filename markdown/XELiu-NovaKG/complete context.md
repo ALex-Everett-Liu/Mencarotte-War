@@ -1,5 +1,5 @@
 - dictionary 
-    - "www.[[ibm]].com"
+    - www.[[ibm]].com
         - This provides [[consistent context]] and complete context as [the process moves between participants]([[participant]]) and [in and out of various systems]. 
         - In order to [give data meaning], a complete context [must be provided], not just [the most immediate]([[immediate]]) [tag or attribute]. [紧邻的]标记或属性
         - If we [include all tags] in the [[hierarchy]] [leading up to the reading]([[reading]]) of "0", [位于][读数]0[之前] we [achieve a more complete context]: "0". 

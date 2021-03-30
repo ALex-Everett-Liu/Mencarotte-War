@@ -1,5 +1,5 @@
 - dictionary 
-    - Study on convergence speed 收敛速度 of high order P type [iterative learning control algorithm]. "dict.[[cnki]].net"
+    - Study on convergence speed 收敛速度 of high order P type [iterative learning control algorithm]. dict.[[cnki]].net
     - Convergence speed is a major [performance index] of [repetitive control system].
     - These methods help to [improve convergence speed] and [reduce calculation amount].
     - The method can improve convergence speed and accuracy.

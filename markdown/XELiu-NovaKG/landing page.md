@@ -1,6 +1,6 @@
 - dictionary
     - Unique [login and landing page] for each [SaaS application]([[Software as a Service (SaaS)]]). 登陆页面; 目标网页 www.[ibm].com
     - How to simplify the landing page and [sign up flow]. 流程 www.[fortunechina].com
-    - I would make one key suggestion be sure to test your landing page for conversion purposes. "danci.911cha.com"
+    - I would make one key suggestion be sure to test your landing page for conversion purposes. danci.911cha.com
     - Entrance shows the number of times that the funnel page 渠道页面 was a landing page. 
     - Those [user behaviors] include [click behaviors] on the [result page] and behaviors on the landing page. www.[fabiao].net

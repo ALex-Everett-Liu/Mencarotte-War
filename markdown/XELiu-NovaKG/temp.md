@@ -18,6 +18,6 @@
                     - ee
                         - ff
     - bb
-        - "__cc__"
+        - __cc__
     - [[temp]]
     - [Temp]([[temp]])

@@ -32,7 +32,7 @@
                     - [[discrete point]]
             - [[wave-particle duality]]; [[wave–particle duality]]
                 - [[wave–particle orbital]]
-                - "[[wave nature of light]]"
+                - [[wave nature of light]]
         - AMO...
             - [[wave optics]]
                 - [[wavelength]]
@@ -64,10 +64,10 @@
                     - [[syntax error]]; [[invalid syntax]]
                     - [[syntactical construction]]
                 - [[script]]...
-                    - "automate, zidonghua444..."
+                    - automate, zidonghua444...
                         - [[automating clicking]]
                         - [[auto-complete]]
-                            - "[[prompt]]; [[prompted]]"
+                            - [[prompt]]; [[prompted]]
                         - AHK...
                             - autocomplete.ahk
                     - [[auto-generate]]
@@ -125,7 +125,7 @@
     - [Linguistics]([[linguistics]])
     - [Etymology]([[etymology]])
         - [[Old Chinese]]
-            - "[[Old Chinese phonology]]"
+            - [[Old Chinese phonology]]
             - [[Middle Chinese]]
                 - [[Early Middle Chinese]]
             - [[seal script]]
@@ -164,7 +164,7 @@
                 - [[movie theater]]
                 - [[Rear Window Captioning System (RWC)]]
     - [[social activity]]
-        - "social media"
+        - social media
         - chat
             - [[walk-and-talk chat]]
         - humor...
@@ -177,7 +177,7 @@
     - general...
         - [[liberal arts majors]]
         - [[theater]]
-            - "[[movie theater]]"
+            - [[movie theater]]
 - $$\text{\color{RosyBrown}Everyday Life related...}$$
     daily life
     daily note

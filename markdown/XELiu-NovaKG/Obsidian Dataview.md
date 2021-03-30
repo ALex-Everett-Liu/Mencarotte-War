@@ -44,6 +44,6 @@ sort field [ascending|descending|asc|desc] (ascending is implied if not provided
     - You can query from either `#tags`, or from `"folder"`. You can freely [combine these filters into] more complicated [[boolean expression]]s using `and and or`; if [[precedence]] is importance, use [[parenthesis]]. #tag #folder
     - Fields can be any [[YAML front-matter field]] (currently, strings, numbers, ISO dates and durations are supported, with support for ratings, links, and intervals forthcoming), any [[custom defined field]] (using the `field as field2` syntax). You can [obtain fields] [inside of YAML objects] using the `.` operator - i.e., `Dates.Birthday` for example. Fields [can also be functions of] other fields - for example, `rating + offset`, is `a valid field`.
 210307-00:14
-- "recommended by [AllinBon](https://www.zhihu.com/people/kio-mis)"
+- recommended by [AllinBon](https://www.zhihu.com/people/kio-mis)
     - 如果你用完 Obsidian Query Language 后[期待]在 Obsidian 中[更强大的] Query 甚至[数据表功能]，[那你应该][看一下] Obsidian dataview，它是目前 obsidian [插件社区]中[最具有潜力的]插件，因为它[已经开始][展现出了]一定的[可视化变动表格]的能力。
     - 数据表中的数据基于你的[笔记的 Frontmatter] 中的数据，当你[采用多个参数]，也就是例如[书籍评分]、书籍年份、书籍类别来对[每个笔记][进行分类]的话，那你可以[很随意就获得]一张[很全面的][书籍清单]。

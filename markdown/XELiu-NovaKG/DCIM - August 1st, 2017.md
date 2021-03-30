@@ -1,6 +1,6 @@
-- 星期二 01/08/2017 15:18 #ponytail # "发圈"
+- 星期二 01/08/2017 15:18 #ponytail # 发圈
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMWOuYk-S7O.png?alt=media&token=0d6b15c0-4066-4f07-9354-d560230940db)
-- 星期二 01/08/2017 16:54 -- MOV_9385 #[[white wedge heeled sandal]] # "白色碎花裙"
+- 星期二 01/08/2017 16:54 -- MOV_9385 #[[white wedge heeled sandal]] # 白色碎花裙
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv6rteDvrPZ.png?alt=media&token=6a8222c5-7475-45ef-864c-b6916a9bd607)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FDMGhVpO7l3.png?alt=media&token=fda101ab-6c59-40b8-a802-ee2db1bb318f)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FQK1ixXIQKV.jpg?alt=media&token=00693079-9bec-400c-b612-b33f2ce60361)

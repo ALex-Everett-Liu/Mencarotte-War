@@ -23,7 +23,7 @@
         - One [bearing a person's name] and other information, used for purposes of [[identification]] or [[classification]]. 个人名片 
         - Relating to or constituting or bearing or [giving a name]. 产生或给与
         - ---
-        - "And if one day you cry, will I [be able to hush you]? 陪伴你的身旁"
+        - And if one day you cry, will I [be able to hush you]? 陪伴你的身旁
         - You [have been with me] [all through the bad times]([[bad times]]). 
         - I'll be there when you're [[feeling down]]. 
         - ---

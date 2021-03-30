@@ -3,7 +3,7 @@
         - format 2: www.bing.com/th?id=OHR.xxx.jpg
     - {{[[DONE]]}} ...
 **__BenasqueValley_ZH-CN7931589735_1920x1080__** -- ^^**test1**^^ -- ^^__test2__^^
-    - "detail point 99.99 (pt10-99.99)"
+    - detail point 99.99 (pt10-99.99)
         - Benasque Valley
             - ![valley](https://www.bing.com/th?id=OHR.BenasqueValley_ZH-CN7931589735_1920x1080.jpg)
             - snow, 山脚下的小镇, 灯火万家

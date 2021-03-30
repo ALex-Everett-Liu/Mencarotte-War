@@ -1,7 +1,7 @@
 - [[campaign]]; [[campaign settings]]
-    - "adventure"
+    - adventure
         - [[pre-made adventure]]
-    - "the inhabitants of the game world; [[non-player characters (NPCs)]]"
+    - the inhabitants of the game world; [[non-player characters (NPCs)]]
 - game rule
 - [[referee]]
 - [[role-playing game (RPG)]]
@@ -25,7 +25,7 @@
         - [[cognitive skill]]
         - Search skill
         - [[social skill]]
-    - "story"
+    - story
         - choice of the player
     - [[tabletop role-playing game (TRPG)]]
         - dice...

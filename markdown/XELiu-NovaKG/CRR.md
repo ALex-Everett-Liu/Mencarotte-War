@@ -24,7 +24,7 @@
     - leather shoes
         - black leather shoes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)
     - sandal
         - grey high heeled sandal
         - [[white wedge heeled sandal]]
@@ -42,7 +42,7 @@
         - black stocking
             - black stocking (separate leg)
                 - pasted_image002-porn001.png
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FeMhaQgtM7G.png?alt=media&token=b2e1f346-a799-4230-b6a9-47d9835eaf75)
     - [[grey socks]]
     - white lace long socks
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fwartm6HI7w.png?alt=media&token=1d6ead37-27a6-4593-9565-e2ad3cdb6168)
@@ -107,7 +107,7 @@
         - brown dayi
         - light brown dayi
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtqCMGewjjH.png?alt=media&token=f7325d50-beb8-4eb1-9724-09fbe2210c7a)
-                - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)"
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
         - dark blue dayi
         - light blue dayi
         - green dayi
@@ -133,7 +133,7 @@
 - girls' stuff...
     - bag
         - black bag
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FRUzkMkOYkk.png?alt=media&token=8ca1d4f2-506e-4a97-aa6f-ec9d522534ad)
         - [[yellow bag]]
         - 书包
             - 可爱的书包挂件

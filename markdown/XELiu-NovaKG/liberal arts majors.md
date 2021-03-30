@@ -1,5 +1,5 @@
 - dictionary 
-    - Luckily for [liberal arts mavens], 内行 [college majors Handbook] notes, "[[salary]] 薪酬 is [not the only form of] [[payoff]] 回报 from a [[college education]]." "www.[[fortunechina]].com"
+    - Luckily for [liberal arts mavens], 内行 [college majors Handbook] notes, "[[salary]] 薪酬 is [not the only form of] [[payoff]] 回报 from a [[college education]]." www.[[fortunechina]].com
     - This is [particularly evident in] the liberal arts majors, 文科专业学生 a lot of [liberal arts courses] in the [final grade] in [class participation] and [final exam scores] usually [occupy the same proportion] or more. [forum].[ccasj].[org]
     - Liberal arts majors had [significantly higher] [self expectation scores] of magnanimity and [family orientation] 有度量和家庭性 than those of [[science majors]] (P < 0.05). dict.[cnki].net
     - We also have [excellent programs] in science, such as physics, and maths, and chemistry, and statistics, pharmacy, and many liberal arts majors, like physiology, communication. [传播学] www.[taisha].org

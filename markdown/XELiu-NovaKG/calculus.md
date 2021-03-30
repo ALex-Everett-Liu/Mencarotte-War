@@ -1,3 +1,3 @@
 - [[boundary condition]]
-    - "[[initial condition]]"
+    - [[initial condition]]
 - derivative

@@ -11,8 +11,8 @@
 - [[theory of black-body radiation]]
 - References
     - Bibliography
-        - "[1]: [Loudon, R.](https://en.wikipedia.org/wiki/Rodney_Loudon) (2000) [1973]. __The Quantum Theory of Light__ (third ed.). [Cambridge University Press]. [ISBN] [0-19-850177-3](https://en.wikipedia.org/wiki/Special:BookSources/0-19-850177-3).
-[Loudon 2000](https://en.wikipedia.org/wiki/Black-body_radiation#CITEREFLoudon2000), Chapter 1."
+        - [1]: [Loudon, R.](https://en.wikipedia.org/wiki/Rodney_Loudon) (2000) [1973]. __The Quantum Theory of Light__ (third ed.). [Cambridge University Press]. [ISBN] [0-19-850177-3](https://en.wikipedia.org/wiki/Special:BookSources/0-19-850177-3).
+[Loudon 2000](https://en.wikipedia.org/wiki/Black-body_radiation#CITEREFLoudon2000), Chapter 1.
     - [1]: [Loudon, R.](https://en.wikipedia.org/wiki/Rodney_Loudon) (2000) [1973]. __The Quantum Theory of Light__ (third ed.). [Cambridge University Press]. [ISBN] [0-19-850177-3](https://en.wikipedia.org/wiki/Special:BookSources/0-19-850177-3).
 [Loudon 2000](https://en.wikipedia.org/wiki/Black-body_radiation#CITEREFLoudon2000), Chapter 1.
     - [2]: [Mandel, L.](https://en.wikipedia.org/wiki/Leonard_Mandel); [Wolf, E.](https://en.wikipedia.org/wiki/Emil_Wolf) (1995). __Optical Coherence and Quantum Optics__. [[Cambridge University Press]]. [ISBN] [0-521-41711-2](https://en.wikipedia.org/wiki/Special:BookSources/0-521-41711-2). #[[quantum optics]] #[[optical coherence]]
