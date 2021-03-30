@@ -206,6 +206,10 @@
                     - stound
                         - astound
                             - astonished;
+            - su
+                - suffice
+                    - suffice it to say that;
+                    - sufficient, 2; insufficient
         - t
             - te
                 - term, 2

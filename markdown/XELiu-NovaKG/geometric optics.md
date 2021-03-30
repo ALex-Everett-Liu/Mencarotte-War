@@ -1,0 +1,17 @@
+- [[the Law of Reflection]]
+    - [[rectilinear propagation]]
+- lens; lenses
+    - focusing lens
+    - [[positive lens]]
+        - [[burning glass]]
+    - simple lens
+    - aspheric lens
+    - gradient-index lens
+- mirror
+    - [[bronze]]
+    - [[polished copper]]
+    - [[speculum]]
+        - copper alloy rich in tin
+- Snell rule
+    - refractive index
+- 小孔成像

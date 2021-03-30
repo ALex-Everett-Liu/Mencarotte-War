@@ -23,7 +23,7 @@
                 - the status of a particle; the state of a particle
             - [[statistical information]]
             - [[statistical weighting]]
-    - localized at a point
+    - localized at a point; [[localization]]
         - spread out in space
     - [[measurement]]; [[measurement process]]; act of measurement
         - before the measurement

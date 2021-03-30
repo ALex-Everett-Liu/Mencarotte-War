@@ -1,7 +1,4 @@
-- geometric optics
-    - Snell rule
-        - refractive index
-    - 小孔成像
+- [[geometric optics]]
 - light intensity
     - average energy flow density
     - low intensity;
@@ -25,6 +22,8 @@
 - light source
     - [[monochromatic beam]]
 - material...
+    - glass
+        - looking-glasses
     - "refractive index"
 - polarization
     - [[linearly polarized]]
@@ -42,6 +41,6 @@
             - interference fringe
     - the [[wave theory of light]]
         - the [[wave nature of light]]; light wave
-    - 1 Backlink
+            - the nature of light
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]

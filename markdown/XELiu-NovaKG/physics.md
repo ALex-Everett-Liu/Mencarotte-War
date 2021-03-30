@@ -14,6 +14,10 @@
         - distant screen;
     - white coat
     - yield the value;
+- high-energy physics; particle physics; theoretical physics
+    - particle
+        - [[classical particle]]
+        - [[submicroscopic particle]]
 - journal
     - [[Physics Today]]
 - mathematical method

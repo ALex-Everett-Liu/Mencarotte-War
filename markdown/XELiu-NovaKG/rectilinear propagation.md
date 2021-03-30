@@ -1,0 +1,3 @@
+- dictionary 
+    - Conclusion that result of [diffraction of light] is rectilinear propagation [in limited condition] 极限情况下 is demonstrated from [wave theory]. dict.cnki.net
+    - Especially the third one describes the [pinhole image formation] experiment 针孔成像实验 and analogies rectilinear propagation with the [archery flight]. 射箭的飞行
