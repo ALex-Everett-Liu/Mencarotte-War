@@ -1,0 +1,5 @@
+- general...
+    - technological advance
+- [[hardware]]
+- multi-media
+- [[software]]
