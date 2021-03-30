@@ -4,6 +4,7 @@
 - [[electrodynamics]]
 - experimental physics
     - [[apparatus]]; device; equipment; instrument
+        - [[instrumentation]]
     - laboratory
     - "[[measurement]]; [[measurement process]]; act of measurement"
         - measuring instrument;

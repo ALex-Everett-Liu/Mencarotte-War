@@ -23,6 +23,7 @@
     - skill
         - [[area of specialty]]: 专长领域
         - [[cognitive skill]]
+        - Search skill
         - [[social skill]]
     - "story"
         - choice of the player
@@ -36,7 +37,9 @@
         - [[Chainmail]]
         - dungeon diorama
 - 数值
+    - DC
     - [[ranged attack]]
+    - physical barrier; magical barrier
     - damage type
         - [[cold damage]]
         - [[fire damage]]

@@ -32,6 +32,7 @@
         - [[Hasbro]]
             - [[Wizards of the Coast (WoC)]]
         - [[multiverse]]
+            - [[plane]]
         - [[Open Game License (OGL)]]
             - [[d20 System]]
         - [[Dungeons & Dragons: Master's Guide]]
@@ -41,11 +42,25 @@
     - the world is untamed or already known well
 - fiction; fictional setting
 - magic; magic use
+    - energy fluctuation
+    - weave the fabric of reality
+        - coded language
+        - inner workings
+    - [[magical field]]
+    - maximum potential
     - [[psionics]]: 灵能, 幽能, 心灵异能;
     - spell; cast the spell
         - [[abjuration school]]: 誓绝; 亵渎; 防护;
             - [[antimagic field]]
+            - banish to another plane of existence
             - [[Prismatic Wall]]
             - rod of cancellation
         - [[bright light]]; [[dim light]]
+        - [[protective spell]]
         - [[spell slot]]
+    - [[truenamer]]
+        - Personal Truename
+            - identify a single creature
+            - personal identification
+        - [[primal language]]
+            - [[truespeak]]

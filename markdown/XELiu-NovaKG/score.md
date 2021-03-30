@@ -155,6 +155,7 @@
 
 ^^我们的要求无非是[网状的建构]和[树状的切入]，对于这两方面，双链都提供了有效的途径，只是软件实现方面还[有待发掘优化]。但前途是光明的。^^
                 - **批判**: roam research 不只是一个[笔记工具](https://www.yuque.com/idelem/tools/ns7gtc)，应当把它看做一部控制论 agenda（和 x 智，less wrong 等属于一批人）。双链、图谱、[语义链]至少在 20 年前就[不是新鲜事物]了。为什么它现在能够兴起？难道是人们[第一次发现]他们需要这种[信息结构]吗？还是说，**有人**认为**所有人**都应该重视、接纳并**适应**这种结构？这是值得考虑的问题。如果把思路局限在自己的 worksphere 上，那太可惜了。
+                - Notion 团队及其社区[卑鄙下作](https://www.zhihu.com/question/451794934/answer/1807192875)到令人发指的[程度](https://www.zhihu.com/question/440065027)！
                 - {{[[DONE]]}} [Error](https://github.com/MatthieuBizien/roam-to-git/issues/89): Process completed with exit code 1.
 Completed after 4 days.
                     - However, I'm beginning to think this is an issue with Roam, not an issue with the script. I’ve had this experience trying to export markdown backups manually as well, the loading wheel just spins and eventually, the web page becomes unresponsive.

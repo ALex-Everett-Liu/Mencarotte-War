@@ -2,7 +2,7 @@
     - 
     - 
 - ...
-    - 
+    - [[Optics, Global Edition - Eugene Hecht]]
     - 
 - todo today (real-time view)
     - music: 47+6; zyhzy-sd+7; world on color-tsukinowa + 7; crack+5; 有顶天+7; round around + 5; yakimochi-yuiko+7; 
