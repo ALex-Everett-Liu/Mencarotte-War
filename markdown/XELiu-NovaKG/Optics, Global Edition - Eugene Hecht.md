@@ -11,4 +11,6 @@ Publisher: Pearson Higher Education
 - Contents   p7
     - 1 A Brief History
         - 1.1 Prolegomenon 绪论
-            - In chapters to come we will evolve a formal treatment of much of the science of Optics, with particular emphasis on aspects of contemporary interest. The subject embraces a vast body of knowledge accumulated over roughly three thousand years of the human scene. Before embarking on a study of the modern view of things optical, let’s briefly trace the road that led us there, if for no other reason than to put it all in perspective.
+            - In chapters to come we will [evolve a formal treatment of] much of [the science of Optics], [with particular emphasis on] [aspects of contemporary interest]. 当代感兴趣的方面 The subject [embraces a vast body of knowledge] accumulated over roughly three thousand years of the [human scene]. Before [embarking on a study of] the [modern view] of things optical, let’s briefly [trace the road] that led us there, if for no other reason than to [put it all in perspective].
+                - Thanksgiving is a chance to [put it all in perspective] to remember that, 全面思考 despite our differences, we are, and always will be, Americans [first and foremost]. www.[[hjenglish]].com
+        - [[1.2 In the Beginning of the History of Optics]]
