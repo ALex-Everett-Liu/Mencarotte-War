@@ -43,7 +43,7 @@
 - magic; magic use
     - [[psionics]]: 灵能, 幽能, 心灵异能;
     - spell; cast the spell
-        - abjuration: 誓绝; 亵渎; 防护;
+        - [[abjuration school]]: 誓绝; 亵渎; 防护;
             - [[antimagic field]]
             - [[Prismatic Wall]]
             - rod of cancellation

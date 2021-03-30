@@ -12,6 +12,7 @@ Duration: 10 minutes
     - The wall can be destroyed, also [one layer at a time], in order [from red to violet], by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. [A](((ePL2jT_N-))) __rod of cancellation__ 消去之杖 destroys a __prismatic wall__, but an [[antimagic field]] [has no effect on it].
 210330-06:30
         - Similarly, antimagic field 防魔法力场 does not [hinder psionics]([[psionics]]), 阻碍灵能 nor does [null psionics field] [disrupt magic within its area]. provided by [[jukuu]]
-        - **1. Red.** The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
-        - __**2. Orange.**__ The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
-        - __**3. Yellow.**__ The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
+        - **1. Red.** The creature takes 10d6 [[fire damage]] on a [failed save](((DIPK50L7W))), or [half as much damage] on a successful one. While this layer is in place, nonmagical [[ranged attack]]s can't pass through the wall. The layer [can be destroyed by] dealing at least 25 [[cold damage]] to it.
+        - __**2. Orange.**__ The creature takes 10d6 [[acid damage]] on a failed save, or half as much damage on a successful one. While this layer is in place, [magical ranged attacks] can't pass through the wall. The layer is destroyed by a [[strong wind]].
+        - __**3. Yellow.**__ The creature takes 10d6 [[lightning damage]] on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 [[force damage]] to it.
+- Categories: OGL 5e SRD Spell | Abjuration School | Wizard 9

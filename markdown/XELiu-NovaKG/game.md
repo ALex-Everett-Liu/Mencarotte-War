@@ -28,10 +28,18 @@
         - choice of the player
     - [[tabletop role-playing game (TRPG)]]
         - dice...
-            - [[saving throw]]
+            - [[saving throw]]; failed save
         - tabletop;
     - verbal impersonation
 - wargaming
     - [[miniature wargame]]: 微缩模型战棋
         - [[Chainmail]]
         - dungeon diorama
+- 数值
+    - [[ranged attack]]
+    - damage type
+        - [[cold damage]]
+        - [[fire damage]]
+        - [[force damage]]
+        - [[lightning damage]]
+    - [[strong wind]]
