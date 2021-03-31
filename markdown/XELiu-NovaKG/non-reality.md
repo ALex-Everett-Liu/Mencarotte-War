@@ -1,7 +1,7 @@
 - creature
     - [[monster]]
     - [[mythical creature]]
-    - race
+    - [[race]]; [[species]]
         - [[dragonborn]]
         - exotics
         - fantastic species

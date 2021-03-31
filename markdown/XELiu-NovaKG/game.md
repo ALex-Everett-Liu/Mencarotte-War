@@ -2,6 +2,7 @@
     - adventure
         - [[pre-made adventure]]
     - the inhabitants of the game world; [[non-player characters (NPCs)]]
+- [[game mechanics]]
 - game rule
 - [[referee]]
 - [[role-playing game (RPG)]]
@@ -13,9 +14,16 @@
     - [[party]]: 小队
         - [[companion]]
     - player; character
-        - [[ability score]]
-            - [[Constitution]]
+        - [[character class]]; [[occupation]] -- 职业
         - [[character creation]]
+            - [[ability score]]
+                - Charisma
+                - [[Constitution]]
+                - Dexterity
+                - Intelligence: 智力; 情报;
+                - Strength
+                - Wisdom
+            - [[character sheet]]
         - character level
             - [[experience points (XP)]]
         - [[player characters (PCs)]]
@@ -32,6 +40,8 @@
             - [[saving throw]]; failed save
         - tabletop;
     - verbal impersonation
+- turn-based...
+    - start the turn;
 - wargaming
     - [[miniature wargame]]: 微缩模型战棋
         - [[Chainmail]]
