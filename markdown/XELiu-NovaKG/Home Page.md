@@ -1,12 +1,35 @@
+- [[archaeology]]
+- [[anthropology]]
+- [[culture]]
+- [[economy]]
+- [[education]]
+- [[engineering]]
+    - [[architecture]]
 - daily life; everyday life...
     - food and drink; tabemono, nomemono;
         - [[cuisine]]
         - food industry
+- [[game]]
+- [[geoscience]]
+- [[history]]
+- [[inbox]]
+- [[language]]
 - literature and art
     - [[creative writings]]
 - math and phys
+    - [[chemistry]]
+    - [[mathematics]]
     - [[physics]]
+- [[military]]
+- [[music]]
+- [[neuroscience]]
+    - [[psychology]]
+- [[non-reality]]
 - personal
     - [[meiz]]
         - [[DCIM]]
         - [[CRR]]
+- [[philosophy]]
+- [[religion]]
+- [[science]]
+- [[technology]]
