@@ -1,6 +1,10 @@
 - MOC
     - general...
+        - large-scale regime
+        - [[macroscopic level]]; [[microscopic level]]
         - [[quantum process]];
+        - subatomic domain;
+            - [[submicroscopic particle]]
     - interpretation
         - agnostic position
         - [[Copenhagen interpretation]]

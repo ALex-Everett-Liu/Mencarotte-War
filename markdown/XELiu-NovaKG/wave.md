@@ -1,4 +1,9 @@
-- 机械波
+- [[composite phenomena]]
+- [[ideal wave]]
+    - [[continuous entity]]
+    - extended region
+    - [[physical wave]]
+- mechanical wave; 机械波
 - [[plane wave]]
     - [[spherical wave]]
         - transverse spherical wave
@@ -10,12 +15,15 @@
         - [[elastic solid]]
         - [[local shear deformation]]
     - string wave
+- [[traveling wave]]
+    - [[self-sustaining disturbance]]
 - [[longitudinal wave]]
     - [[sound wave]]
     - [[pressure wave]]
         - compression and expansion of the material
 - [[water wave]]
     - the ripples on a pond
+    - surface tension ripple
 - wave oscillation
     - the direction of the oscillations
     - [[displacement]]

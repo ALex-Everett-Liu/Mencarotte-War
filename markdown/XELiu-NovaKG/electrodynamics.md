@@ -1,5 +1,6 @@
-- electromagnetic field; the electric and magnetic fields
-    - electromagnetic wave
+- [[electromagnetic field]]; the electric and magnetic fields
+    - [[electromagnetic wave]]
+        - [[energy distribution]]
 - electron
     - [[electron beam]]
 - magnetism

@@ -1,3 +1,5 @@
+- general...
+    - light pulse
 - [[geometric optics]]
 - light intensity
     - average energy flow density
@@ -40,6 +42,8 @@
             - bright and dark bands
             - interference fringe
     - the [[wave theory of light]]
+        - electromagnetic theory of light
+            - [[statistical manifestation]]
         - the [[wave nature of light]]; light wave
             - the nature of light
 - ---
