@@ -44,6 +44,7 @@
         - West OB - OL-01 --- #pt10-100 #laopo   166~169 cm?
             - 2020/12/01 08:06 #pt10-100 #laopo # dark blue dayi # black high heeled short boot   166~169 cm?
         - 星期二 23/03/2021 12:39 #pt10-100 #laopo #[[grey socks]] #canvas #[[light jeans]] # black dayi   166~169 cm?
+            - 星期四 01/04/2021 12:30 # black leather shoes
         - 星期一 15/03/2021 15:30 -- MOV_0124 #pt10-100 #[[black coat]] # light grey trousers #[[white sneaker]]   164~166 cm?
         - HITwh-02 #pt10-100
             - glx video...

@@ -1,0 +1,6 @@
+- dictionary 
+    - [[energy flow density]] of [magnetic dipole radiation] in [[anisotropic medium]]. 各向异性媒质 dict.cnki.net
+    - Discussion on the [Transition Selection Rule] of Electrical Dipole Radiation 
+    - Transition Selection Rules of Electric Dipole Radiation and [Conservation Laws] 
+    - The calculation of [space-time correlation function] of [noise field] of [surface noise source] with dipole radiation model 
+    - [Deducing the Formula of] Dipole Radiation by [Dimensional Analysis] 

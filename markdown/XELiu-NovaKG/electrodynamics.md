@@ -1,7 +1,28 @@
+- [[dipole radiation]]
 - [[electromagnetic field]]; the electric and magnetic fields
+    - [[electromagnetic energy]]
+    - [[electric field]]
+        - [[electric field strength]]
+        - [[electric field vector]]
     - [[electromagnetic wave]]
         - [[energy distribution]]
+    - [[magnetic field]]
+        - [[auxiliary field vector]]
+        - [[magnetic force]]
+- [[electromagnetics]]
 - electron
     - [[electron beam]]
 - magnetism
-    - [[magnetic force]]
+- medium...
+    - [[anisotropic medium]]
+- [[Poynting vector]]
+    - [[power flow]]
+        - [[directional energy flux]]
+        - [[energy flow density]]
+            - average energy flow density
+        - per unit area; per unit time
+        - watt per square metre (W/m2)
+    - [[Poynting's theorem]]
+        - [[continuity equation]]
+    - [[vector field]]
+        - [[curl]]

@@ -3,3 +3,5 @@
 - [[hardware]]
 - multi-media
 - [[software]]
+- typesetting?
+    - bold; [[bold letter]]

@@ -1,6 +1,4 @@
 - 星期二 23/03/2021 12:39 #pt10-100 #laopo #[[grey socks]] #canvas #[[light jeans]] # black dayi   166~169 cm?
-    - 星期四 01/04/2021 12:30 # black leather shoes
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsKYOFtgQ9Y.png?alt=media&token=d4834ded-3dc9-40b3-b2a9-96fb6e7775d3)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Ftw6W5HZOvM.jpg?alt=media&token=e9c3c374-3481-4bc3-9a85-30e62f3dc16a)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FvUw8SUN7fN.png?alt=media&token=475caa15-45f6-4f89-884f-17f17160826e)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FYzgC2EKDs_.png?alt=media&token=820a5997-378e-43b9-9f18-a1999a4dac62)

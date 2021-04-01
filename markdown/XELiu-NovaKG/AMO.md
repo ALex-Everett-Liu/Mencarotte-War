@@ -2,9 +2,9 @@
     - light pulse
 - [[geometric optics]]
 - light intensity
-    - average energy flow density
     - low intensity;
-    - Poynting vector
+    - [[Poynting vector]]
+        - average energy flow density
 - light propagation
     - propagation direction
         - horizontal direction;
