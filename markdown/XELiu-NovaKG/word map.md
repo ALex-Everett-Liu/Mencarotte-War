@@ -112,6 +112,7 @@
                             - formulate; formulated; formulation, 2; formulize
                                 - elaborate, as of theories and hypotheses;
                                     - Could you develop the ideas in your thesis
+                        - general form;
         - i
             - ic
                 - [[icon]]
