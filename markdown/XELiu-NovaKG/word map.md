@@ -74,6 +74,12 @@
                                 - constrained structure;
                             - consult, 3
                                 - consulting;
+                    - cont
+                        - contra
+                            - contrast
+                                - contrasted;
+                            - controvert
+                                - controversial: 引起争议
             - cu
                 - cumulate
                     - accumulate
@@ -113,6 +119,13 @@
                                 - elaborate, as of theories and hypotheses;
                                     - Could you develop the ideas in your thesis
                         - general form;
+        - g
+            - ge
+                - genera
+                    - general
+                        - generally, 2;
+                        - generalized: 广义, 普遍;
+                    - generic
         - i
             - ic
                 - [[icon]]

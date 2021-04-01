@@ -1,4 +1,6 @@
 - [[composite phenomena]]
+- [[elastic medium]]; [[elastic media]]; 弹性介质
+    - [[elastic solid]]
 - [[ideal wave]]
     - [[continuous entity]]
     - extended region
@@ -30,5 +32,3 @@
         - the direction of the displacement
         - the magnitude of the displacement
             - [[sinusoidal function]]; sinusoidal wave
-- [[elastic medium]], 弹性介质
-    - [[elastic solid]]

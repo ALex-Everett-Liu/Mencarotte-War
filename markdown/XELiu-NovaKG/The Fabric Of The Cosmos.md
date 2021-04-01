@@ -1,0 +1,7 @@
+- source
+    - Brian Greene - The Fabric Of The Cosmos.htm
+    - THIS IS A BORZOI BOOK PUBLISHED BY ALFRED A. KNOPF
+    - To __Tracy__
+- Contents   p4
+- Preface
+    - Space and time capture the imagination like no other scientific subject. For good reason. They form the arena of reality, the very fabric of the cos- mos. Our entire existence —everything we do, think, and experience — takes place in some region of space during some interval of time. Yet science is still struggling to understand what space and time actually are. Are they real physical entities or simply useful ideas? If they're real, are they fundamental, or do they emerge from more basic constituents? What does it mean for space to be empty? Does time have a beginning? Does it have an arrow, flowing inexorably from past to future, as common experience would indicate? Can we manipulate space and time? In this book, we follow three hundred years of passionate scientific investigation seeking answers, or at least glimpses of answers, to such basic but deep questions about the nature of the universe.

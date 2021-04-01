@@ -20,6 +20,10 @@
         - [[submicroscopic particle]]
 - journal
     - [[Physics Today]]
+- material...
+    - medium...
+        - [[elastic medium]]; [[elastic media]]; 弹性介质
+        - [[liquid]]
 - mathematical method
     - [[initial condition]]
         - [[initial state]]; [[initial time]]

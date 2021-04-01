@@ -1,7 +1,12 @@
 - [[conservative system]]
 - [[dynamical variable]]
 - energy
+    - [[energy conservation]]
+    - energy flow; [[power flow]]
+        - [[Umov–Poynting vector]]
+    - [[energy type]]
     - [[kinetic energy]]
+    - [[mechanical energy]]
     - potential energy; potential energy function
 - force
     - specified force: 某个特定的受力

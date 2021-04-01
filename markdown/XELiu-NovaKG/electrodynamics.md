@@ -2,6 +2,7 @@
 - [[electromagnetic field]]; the electric and magnetic fields
     - [[electromagnetic energy]]
     - [[electric field]]
+        - [[electric displacement field]]
         - [[electric field strength]]
         - [[electric field vector]]
     - [[electromagnetic wave]]
@@ -13,13 +14,19 @@
 - electron
     - [[electron beam]]
 - magnetism
+- [[Maxwell's equations]]
 - medium...
     - [[anisotropic medium]]
 - [[Poynting vector]]
-    - [[power flow]]
-        - [[directional energy flux]]
+    - [[Abraham–Minkowski controversy]]
+        - [[Abraham form]]
+        - [[Minkowski form]]
+    - energy flow; [[power flow]]
         - [[energy flow density]]
             - average energy flow density
+        - energy flux
+            - [[directional energy flux]]
+            - [[energy flux vector]]
         - per unit area; per unit time
         - watt per square metre (W/m2)
     - [[Poynting's theorem]]
