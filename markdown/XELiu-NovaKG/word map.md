@@ -67,7 +67,7 @@
                         - cons
                             - consist
                                 - consisted;
-                                - consistent; consistency
+                                - consistent; consistently: 相容, 一致; consistency
                             - consonant
                                 - consonance
                             - constrain
@@ -266,6 +266,15 @@
                     - terrain
                     - terrene
                     - territory, 3
+        - u
+            - ut
+                - utility
+                    - [[practical utility]];
+                    - utilities;
+                    - utilize
+                        - utilized;
+                - utter
+                    - utterly;
         - v
             - va
                 - vary, 2

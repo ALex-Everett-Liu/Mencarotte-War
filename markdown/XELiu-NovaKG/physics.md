@@ -44,6 +44,8 @@
     - [[initial condition]]
         - [[initial state]]; [[initial time]]
 - meta phys??
+    - predictable
+        - explicable;
     - [[reality]]; [[physical reality]]
         - [[external world]]
             - [[artificial world]]

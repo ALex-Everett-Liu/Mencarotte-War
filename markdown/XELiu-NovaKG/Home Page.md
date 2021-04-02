@@ -4,11 +4,7 @@
 - [[economy]]
 - [[education]]
 - [[engineering]]
-- daily life; everyday life...
-    - day-to-day life;
-    - food and drink; tabemono, nomemono;
-        - [[cuisine]]
-        - food industry
+- [[daily life]]; [[everyday life]]...
 - [[game]]
 - [[geoscience]]
 - [[history]]
