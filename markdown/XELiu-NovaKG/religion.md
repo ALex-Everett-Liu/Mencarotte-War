@@ -1,0 +1,3 @@
+- [[astrology]]
+- [[occult]]
+- [[Satanism]]

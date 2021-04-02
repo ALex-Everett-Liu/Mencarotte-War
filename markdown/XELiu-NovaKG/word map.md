@@ -81,6 +81,13 @@
                                 - contrasted;
                             - controvert
                                 - controversial: 引起争议
+                    - conv
+                        - conv
+                            - convention
+                            - conversation, 2
+                                - conversant; conversable
+                            - convince
+                                - convinced;
             - cu
                 - cumulate
                     - accumulate

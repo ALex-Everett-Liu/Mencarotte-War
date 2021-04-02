@@ -1,3 +1,9 @@
 - abstract...
+- [[existential philosophy]]
+- general...
+    - [[collective view]];
 - [[metaphysics]]
 - [[skepticism]]
+- [[ultimate question]]
+- value...
+    - [[life value]]

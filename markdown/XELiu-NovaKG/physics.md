@@ -1,5 +1,6 @@
 - [[AMO]]
 - [[astrophysics]]
+    - [[astrology]]
     - [[cosmology]]
 - [[classical mechanics]]
 - [[dimensional analysis]]
@@ -19,9 +20,9 @@
     - white coat
     - yield the value;
 - general...
-    - [[common experience]]
     - model
         - empirical model: 经验模型
+    - [[modern physics]]
     - object, entity...
         - physical entity; non-physical entity
         - ordinary object
@@ -42,11 +43,14 @@
     - [[initial condition]]
         - [[initial state]]; [[initial time]]
 - meta phys??
-    - [[reality]]
+    - [[reality]]; [[physical reality]]
         - [[external world]]
             - [[artificial world]]
-        - [[internal experience]]
-            - [[neurological stimulation]]
+        - [[human experience]]
+            - [[common experience]]; everyday experience
+            - [[internal experience]]
+                - [[neurological stimulation]]
+        - nature of reality
     - reductionism v.s. emergence?
         - emerge from more basic constituents
 - popularize of science; popular science

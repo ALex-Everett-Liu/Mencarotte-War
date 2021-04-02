@@ -1,5 +1,6 @@
 - general...
     - [[scientific development]]
+    - [[scientific inquiry]]
     - [[scientific opinion]]
 - popularize of science; popular science
     - [[Scientific American]]
