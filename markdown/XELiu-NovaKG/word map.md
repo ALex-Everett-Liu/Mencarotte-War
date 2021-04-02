@@ -126,6 +126,10 @@
                         - generally, 2;
                         - generalized: 广义, 普遍;
                     - generic
+            - gu
+                - guide
+                    - misguided;
+                - guise: 表现形式; 外貌; 伪装
         - i
             - ic
                 - [[icon]]
@@ -183,6 +187,21 @@
                         - patiently;
                     - pattern
                         - develop the pattern; standard pattern;
+            - pe
+                - pen
+                    - penal
+                        - penalty
+                            - penalties;
+                    - pend
+                        - pendular
+                            - pendulum
+                    - penetrate
+                        - impenetrate
+                            - impenetrable;
+                - per
+                    - perpendicular
+                    - perplex
+                        - perplexing;
         - r
             - ra
                 - raid

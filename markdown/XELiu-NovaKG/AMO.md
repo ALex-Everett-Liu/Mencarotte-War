@@ -42,6 +42,7 @@
             - bright and dark bands
             - interference fringe
     - the [[wave theory of light]]
+        - [[aether]]
         - electromagnetic theory of light
             - [[statistical manifestation]]
         - the [[wave nature of light]]; light wave

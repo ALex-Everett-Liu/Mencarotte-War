@@ -1,19 +1,33 @@
 - [[AMO]]
+- [[astrophysics]]
+    - [[cosmology]]
 - [[classical mechanics]]
 - [[dimensional analysis]]
 - [[electrodynamics]]
 - experimental physics
     - [[apparatus]]; device; equipment; instrument
         - [[instrumentation]]
+    - experimental v.s. theoretical?
     - laboratory
     - [[measurement]]; [[measurement process]]; act of measurement
         - measuring instrument;
+    - outcome of the experiment
     - peak; spike
         - spread out in space
     - screen
         - distant screen;
     - white coat
     - yield the value;
+- general...
+    - [[common experience]]
+    - model
+        - empirical model: 经验模型
+    - object, entity...
+        - physical entity; non-physical entity
+        - ordinary object
+        - [[real entity]]
+    - physical process
+        - [[quantum process]];
 - high-energy physics; particle physics; theoretical physics
     - particle
         - [[classical particle]]
@@ -27,9 +41,18 @@
 - mathematical method
     - [[initial condition]]
         - [[initial state]]; [[initial time]]
+- meta phys??
+    - [[reality]]
+        - [[external world]]
+            - [[artificial world]]
+        - [[internal experience]]
+            - [[neurological stimulation]]
+    - reductionism v.s. emergence?
+        - emerge from more basic constituents
+- popularize of science; popular science
+    - [[Brian Greene]]
+        - [[The Fabric Of The Cosmos]]
+- [[quantum gravity]]; quantum gravity theory
 - [[quantum mechanics]]
-- [[theory of relativity]]
+- relativity; [[theory of relativity]]
 - [[wave]]
-- general...
-    - model
-        - empirical model: 经验模型

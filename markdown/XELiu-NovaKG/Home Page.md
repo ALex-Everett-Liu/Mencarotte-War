@@ -4,7 +4,6 @@
 - [[economy]]
 - [[education]]
 - [[engineering]]
-    - [[architecture]]
 - daily life; everyday life...
     - food and drink; tabemono, nomemono;
         - [[cuisine]]
@@ -18,6 +17,9 @@
     - [[creative writings]]
 - math and phys
     - [[chemistry]]
+    - general...
+        - abstract...
+            - [[abstract idea]]
     - [[mathematics]]
     - [[physics]]
 - [[military]]
