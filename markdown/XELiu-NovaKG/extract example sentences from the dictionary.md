@@ -50,6 +50,7 @@
         - With [a plethora of choices] available, [[quality]] and [[branding]] are often [the key to success] in an [increasingly crowded]([[crowded]]) [[marketplace]]. 日益拥挤的市场
         - [[drain the water]] 沥干水 and [mash the potatoes and garlic] 捣碎 [with enough salt to taste]. 
     - www.[[hjenglish]].com
+    - www.[okread].info
     - dict.[[cnki]].net
         - [Ray tracing] is a [classic method] in [synthesizing photorealistic image], It can [accurately simulate] the [lighting effect] 光照效果 of [the whole scene]. 景物 
         - Made the use of [shading model] we realized [the lighting of the scene], and made the use of the [environment texturing mapping] we realized the [sky box], and Mip-maping we realized [the rendering of the 3D terrain], which gave us the [ideal effect]. 

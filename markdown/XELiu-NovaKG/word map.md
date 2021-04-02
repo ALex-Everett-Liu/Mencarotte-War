@@ -54,6 +54,7 @@
                 - asset
                     - assess: 评估;
                         - assessing;
+                        - [[sober assessment]];
         - c
             - co
                 - code
@@ -239,6 +240,12 @@
                     - stound
                         - astound
                             - astonished;
+                - str
+                    - structure
+                        - construct
+                            - reconstruction;
+                        - [[basic structure]], 2; [[organizational structure]]; [[similar structure]]
+                        - structured;
             - su
                 - suffice
                     - suffice it to say that;
