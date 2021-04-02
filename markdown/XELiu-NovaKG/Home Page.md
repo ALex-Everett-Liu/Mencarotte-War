@@ -14,7 +14,7 @@
 - [[history]]
 - [[inbox]]
 - [[language]]
-- literature and art
+- [[literature and art]]
     - [[creative writings]]
 - math and phys
     - [[chemistry]]

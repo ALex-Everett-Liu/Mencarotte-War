@@ -1,0 +1,8 @@
+- poetry
+    - [[Romantic poetry]]
+- scene; scenery...
+    - night sky
+        - [[星空 (hoshizora)]]
+            - 今夜星を見に行こう
+            - 夜空は星が降るようで
+- [[western literature]]

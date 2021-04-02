@@ -40,6 +40,7 @@
     - [iask.sina].com.cn
         - This was the first of many the [Committee actions] 委员会 [addressing the issues of] [ethnic profiling] 民族概况 and [equal treatment] under the law that helped [galvanize Asian Americans] 激励 and [alter public opinion]. 改变民意 
     - [blog.163].com
+        - When he [opened his eyes], they were [as bright as sparkling jewels]. 闪闪发光的宝石 george.shi.blog.163.com
         - So [we don't need to] add, [in this ad hoc fashion], the [no branching rule]. v.[163].com
         - Thoreau provides insight into [the core of these issues]. Soro 
     - www.[[ftchinese]].com
@@ -50,6 +51,8 @@
         - With [a plethora of choices] available, [[quality]] and [[branding]] are often [the key to success] in an [increasingly crowded]([[crowded]]) [[marketplace]]. 日益拥挤的市场
         - [[drain the water]] 沥干水 and [mash the potatoes and garlic] 捣碎 [with enough salt to taste]. 
     - www.[[hjenglish]].com
+    - www.[[kekenet]].com
+        - [Look up to the heavens] and imagine [the stars and planets] are sparkling jewels [dancing across the night sky](((u525Ls93S))).
     - www.[okread].info
     - dict.[[cnki]].net
         - [Ray tracing] is a [classic method] in [synthesizing photorealistic image], It can [accurately simulate] the [lighting effect] 光照效果 of [the whole scene]. 景物 
@@ -70,6 +73,7 @@
         - From above results, a [reasonable explanation] has been given [on the analysis basis of] [the states density of valence electrons] 价电子 of these [3d TM elements] in NiAl. 
         - In order to solve the [abnormal cutting states monitoring] problem in [deep-hole drilling] of [titanium alloys], 钛合金深钻削 [it is recommended to] adopt [motor power consumption] 电机功率消耗 as the [estimation basis] of [cutting states] in this paper. 切削状态
     - www.[[dictall]].com
+        - The [white gold setting] 镶嵌 [shows off the beauty of] the sapphires. 蓝宝石 The walls and the floor were [inlaid with sparkling jewels]. 
         - Accompanying with sand-like, streaked or [globular calcification]; 小条片状、团块状的钙化 **[reduce to small pieces or particles] by pounding or abrading.** 重击或磨损
         - She also learnt to [read people's lips] by [pressing her finger-tips against them] and [feeling the movement and vibrations].
         - [Branded merchandise] [品牌商品] is that [bearing a standard brand name]. 

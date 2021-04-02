@@ -39,6 +39,7 @@
     - medium...
         - [[elastic medium]]; [[elastic media]]; 弹性介质
         - [[liquid]]
+    - [[raw material]]
 - mathematical method
     - [[initial condition]]
         - [[initial state]]; [[initial time]]
