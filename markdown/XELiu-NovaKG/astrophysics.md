@@ -1,3 +1,4 @@
 - [[astrolabe]]: 星盘;
+- [[astronomical observation]]
 - telescope
     - [[Hubble Space Telescope]]

@@ -33,6 +33,7 @@
 - mathematical method
     - [[initial condition]]
         - [[initial state]]; [[initial time]]
+    - [[mathematical tool]]
 - meta phys??
     - determinism
         - a complete assessment of the present

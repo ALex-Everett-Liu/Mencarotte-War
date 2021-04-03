@@ -199,6 +199,10 @@
                     - inter-
                         - intervene
                             - intervening: 介入, 插入; 中间;
+            - is
+                - issue, 3
+                    - issuable;
+                    - [[open issue]];
         - n
             - na
                 - nature
@@ -261,9 +265,20 @@
                         - impenetrate
                             - impenetrable;
                 - per
+                    - peri-
+                        - period: 句点;
+                            - periodic; periodically
+                        - periscope
+                    - permeate: 弥漫, 遍布; 渗透;
+                        - permeating;
                     - perpendicular
                     - perplex
                         - perplexing;
+            - pr
+                - pro
+                    - pro-
+                        - progress
+                            - substantial progress: 实质性进展;
         - r
             - ra
                 - raid

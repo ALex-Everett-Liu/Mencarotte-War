@@ -1,6 +1,7 @@
 - [[apparatus]]; device; equipment; instrument
     - [[instrumentation]]
 - experimental v.s. theoretical?
+    - [[experimental accessibility]]
 - laboratory
 - [[measurement]]; [[measurement process]]; act of measurement
     - measuring instrument;
