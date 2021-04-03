@@ -145,8 +145,17 @@
                     - [[efficiency]];
                     - effective; effectively, 2;
                     - side-effect;
+            - el
+                - elaborate: 详细说明, 详细阐述; 精心计划
+                    - elaborated;
+                - elect
+                    - elected; election; elector
         - f
             - fo
+                - fold
+                    - folder; folding
+                    - unfold: 展开; 呈现;
+                - folk
                 - for
                     - form
                         - formula, 2

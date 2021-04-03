@@ -51,6 +51,9 @@
             - spatiotemporal interconnection
             - spatially isolated; spatial separation
     - [[Schrödinger equation]]
+    - [[symmetry]]
+        - [[asymmetry]]
+        - time-symmetric;
     - [[uncertainty principle]]
         - precision
         - predict the outcome

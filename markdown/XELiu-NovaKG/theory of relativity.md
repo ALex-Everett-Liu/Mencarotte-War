@@ -7,3 +7,5 @@
     - [[space dimension]]
         - extra spatial dimensions
     - [[time arrow]]; time direction
+        - asymmetry of time;
+        - time-symmetric;

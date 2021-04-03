@@ -1,3 +1,7 @@
+- [[the big bang theory]]
+    - the beginning of the universe
+        - [[highly ordered]]; a highly ordered environment
+    - [[big bang]]
 - [[cosmic evolution]]
 - [[cosmological constant]]
     - diffuse uniform energy

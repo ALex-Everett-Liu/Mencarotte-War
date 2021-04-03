@@ -42,7 +42,7 @@
         - [[external world]]
             - [[artificial world]]
         - [[human experience]]
-            - [[common experience]]; everyday experience
+            - [[common experience]]; everyday experience; ordinary experience
             - [[internal experience]]
                 - [[neurological stimulation]]
         - nature of reality
