@@ -65,3 +65,5 @@
         - [[primal language]]
             - [[truespeak]]
 - [[science fiction]]
+    - 外星人
+        - extraterrestrial vehicle

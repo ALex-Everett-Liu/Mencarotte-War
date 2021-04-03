@@ -34,12 +34,28 @@
         - [[observation]]
             - observable difference; 
         - [[repeated measurement]]; second measurement
+    - probability features; odds...
+        - predict the outcome
     - quantization; quantized
         - [[Planck’s constant]]
+    - [[quantum field]]; [[quantum field theory]]
+    - quantum information
+        - quantum communication...
+            - [[quantum key distribution]]
+            - [[no-communication theorem]]
+        - [[quantum entanglement]]
+            - instantaneous connection; instantaneous bond
+            - long-range quantum connection
+            - physical independence;
+            - single entity; 
+            - spatiotemporal interconnection
+            - spatially isolated; spatial separation
     - [[Schrödinger equation]]
     - [[uncertainty principle]]
         - precision
-        - predict with certainty
+        - predict the outcome
+            - outcome of the experiment
+            - predict with certainty
         - definite position; precise location; [[precise position]]
             - in the vicinity of the position
     - [[wave function]]

@@ -85,6 +85,7 @@
         - #kiss # opai #pt10-99.99
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FfalURiarbO.webp?alt=media&token=a0b2bbf5-b411-408b-9053-873562f634a9)
         - [[文妍 (Wen Yan)]] #pt9-100
+        - [[Eunji Pyoapple (표은지)]] #pt10-99.99
         - [[唐嫣 (Tang Yan)]] -- #pt9-100
             - 9, 9, 99.99, 100, 99.99, 99.99, 99.99; -; 
         - [[程媛媛 (Cheng Yuanyuan)]]

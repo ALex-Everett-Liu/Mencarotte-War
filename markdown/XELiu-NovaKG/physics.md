@@ -20,7 +20,6 @@
         - [[quantum process]];
     - physical properties
         - [[counter-intuitive property]]
-- [[particle physics]]; [[high-energy physics]];
 - history of physics
     - two clouds hovering on the horizon
         - [[Lord Kelvin]]
@@ -49,6 +48,7 @@
         - nature of reality
     - reductionism v.s. emergence?
         - emerge from more basic constituents
+- [[particle physics]]; [[high-energy physics]];
 - popularize of science; popular science
     - [[Brian Greene]]
         - [[The Fabric Of The Cosmos]]

@@ -138,9 +138,6 @@
     - [[translation]]...
         - [[localization]]
         - translation tools
-    - [[dictionary]]
-        - [[extract example sentences from the dictionary]]
-    - [[word map]] (WordNet like)...
 - $$\text{\color{PeachPuff}Social Science...?}$$
 - $$\text{\color{Goldenrod}Culture related...}$$
     - Media...

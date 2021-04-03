@@ -35,6 +35,11 @@
                         - actively; activity
                     - actual, 2; actually
                     - interact
+            - am
+                - amate
+                    - amateur
+                - ambiguous
+                    - disambiguation; unambiguously
             - an
                 - analyse; analyze
                     - analysed; analyzed
@@ -173,6 +178,18 @@
                     - identify
                         - [[identification]]; identified, 2
                     - identity
+            - in
+                - ins
+                    - inspire
+                        - inspiration; inspired;
+                    - instant
+                        - instance
+                        - instantaneous
+                        - instantly;
+                - int
+                    - inter-
+                        - intervene
+                            - intervening: 介入, 插入; 中间;
         - n
             - na
                 - nature

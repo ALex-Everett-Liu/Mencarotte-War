@@ -6,4 +6,4 @@
     - [[empty space]]
     - [[space dimension]]
         - extra spatial dimensions
-    - [[time arrow]]
+    - [[time arrow]]; time direction
