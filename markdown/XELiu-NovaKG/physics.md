@@ -5,20 +5,7 @@
 - [[classical mechanics]]
 - [[dimensional analysis]]
 - [[electrodynamics]]
-- experimental physics
-    - [[apparatus]]; device; equipment; instrument
-        - [[instrumentation]]
-    - experimental v.s. theoretical?
-    - laboratory
-    - [[measurement]]; [[measurement process]]; act of measurement
-        - measuring instrument;
-    - outcome of the experiment
-    - peak; spike
-        - spread out in space
-    - screen
-        - distant screen;
-    - white coat
-    - yield the value;
+- [[experimental physics]]; [[experimental physicist]]
 - general...
     - model
         - empirical model: 经验模型
@@ -29,10 +16,10 @@
         - [[real entity]]
     - physical process
         - [[quantum process]];
-- high-energy physics; particle physics; theoretical physics
-    - particle
-        - [[classical particle]]
-        - [[submicroscopic particle]]
+- [[particle physics]]; [[high-energy physics]];
+- history of physics
+    - two clouds hovering on the horizon
+        - [[Lord Kelvin]]
 - journal
     - [[Physics Today]]
 - material...

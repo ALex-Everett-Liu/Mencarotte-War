@@ -1,5 +1,9 @@
 - [[general relativity]]
 - nonrelativistic motion
 - space and time
+    - absolute conception of space and time
+        - Newtonian worldview
     - [[empty space]]
+    - [[space dimension]]
+        - extra spatial dimensions
     - [[time arrow]]

@@ -1,0 +1,13 @@
+- [[apparatus]]; device; equipment; instrument
+    - [[instrumentation]]
+- experimental v.s. theoretical?
+- laboratory
+- [[measurement]]; [[measurement process]]; act of measurement
+    - measuring instrument;
+- outcome of the experiment
+- peak; spike
+    - spread out in space
+- screen
+    - distant screen;
+- white coat
+- yield the value;

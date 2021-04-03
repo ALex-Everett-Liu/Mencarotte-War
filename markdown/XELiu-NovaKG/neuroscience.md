@@ -1,3 +1,7 @@
+- brain science...
+    - [[human brain]]
+- intelligence...
+    - [[human intellectual]]
 - perception
     - touch
         - tactile impression

@@ -17,6 +17,7 @@
     - general...
         - abstract...
             - [[abstract idea]]
+            - [[human intuition]]; [[intuitive sense]]
     - [[mathematics]]
     - [[physics]]
 - [[military]]

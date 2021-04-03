@@ -44,6 +44,10 @@
                     - anchoring;
                 - anonym
                     - [[anonymous]]
+                - antho
+                    - anthology
+                - anticipate
+                    - anticipated;
             - ar
                 - arrange
                     - [[arrangement]], 2; arranging
@@ -62,6 +66,14 @@
                 - cognize
                     - cognition; cognitive
                     - recognise; recognize
+                - com
+                    - com-
+                        - comp
+                            - component
+                            - compose
+                                - composite; composition
+                            - comprehend
+                                - comprehension;
                 - con
                     - con-
                         - cons
