@@ -87,6 +87,11 @@
                                 - constrained structure;
                             - consult, 3
                                 - consulting;
+                    - conc
+                        - concept
+                            - conception, 2; misconception
+                            - conceptual; conceptualization;
+                                - [[conceptual schema]];
                     - cont
                         - contra
                             - contrast
@@ -163,6 +168,12 @@
                     - identify
                         - [[identification]]; identified, 2
                     - identity
+        - n
+            - na
+                - nature
+                    - [[second nature]];
+                - navy
+                    - navigate
         - o
             - ob
                 - ob-
@@ -246,6 +257,17 @@
                     - interrupt
                         - interruption
         - s
+            - sc
+                - sch
+                    - schedule
+                    - scheme, 2
+                        - schema
+                            - [[conceptual schema]];
+                        - schematic
+                            - schematically;
+                    - school
+                        - scholar; scholarship
+                        - schoolroom;
             - si
                 - sign
                     - signal

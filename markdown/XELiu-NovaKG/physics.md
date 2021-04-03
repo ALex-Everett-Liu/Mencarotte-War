@@ -7,6 +7,8 @@
 - [[electrodynamics]]
 - [[experimental physics]]; [[experimental physicist]]
 - general...
+    - condition...
+        - [[extreme condition]]
     - model
         - empirical model: 经验模型
     - [[modern physics]]
@@ -16,6 +18,8 @@
         - [[real entity]]
     - physical process
         - [[quantum process]];
+    - physical properties
+        - [[counter-intuitive property]]
 - [[particle physics]]; [[high-energy physics]];
 - history of physics
     - two clouds hovering on the horizon
@@ -31,6 +35,8 @@
     - [[initial condition]]
         - [[initial state]]; [[initial time]]
 - meta phys??
+    - determinism
+        - a complete assessment of the present
     - predictable
         - explicable;
     - [[reality]]; [[physical reality]]

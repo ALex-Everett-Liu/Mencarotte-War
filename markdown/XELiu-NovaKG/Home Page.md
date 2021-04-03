@@ -18,6 +18,7 @@
         - abstract...
             - [[abstract idea]]
             - [[human intuition]]; [[intuitive sense]]
+                - [[counter-intuitive property]]
     - [[mathematics]]
     - [[physics]]
 - [[military]]

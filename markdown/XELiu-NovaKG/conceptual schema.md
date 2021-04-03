@@ -1,0 +1,6 @@
+- dictionary 
+    - The Study of Conceptual Schema of [Tour Information Dissemination] 传播 with the [IT Transformation]. www.[dictall].com
+    - A [generation method] of [standard conceptual schema] is [presented in this paper]. dict.[cnki].net
+    - ER Builder; A Powerful Tool for [Designing Database Application System] Conceptual Schema 
+    - The Conceptual Schema of [Map Generalization] from [Spatial Mapping Perspective] 
+    - Commonsense Conceptual Schema of Human in the Light of [Philosophy of Mind] 
