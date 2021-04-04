@@ -1,8 +1,11 @@
-- Railscast dark theme for Roam Research
-    - ```css
+- snippet
+    - 
+- general...
+    - Railscast dark theme for Roam Research
+        - ```javascript
 @import url('https://jmharris903.github.io/Railscast-for-Roam-Research-Theme/RailsRoam.css');```
-- Roamness
-    - ```javascript
+    - Roamness
+        - ```javascript
 /*  Roamness theme for Roam Research by Ness Labs: https://nesslabs.com/roamness-roam-research-theme */
 
 body {
@@ -191,8 +194,8 @@ span.rm-page-ref[data-tag="to write"] {
     border-radius: 3px;
     padding: 3px 6px;
 }```
-- Roam Portal Page Theme
-    - ```javascript
+    - Roam Portal Page Theme
+        - ```javascript
 h1,
 h2,
 h3,
@@ -438,11 +441,11 @@ span.rm-page-ref {
 }
 
 ```
-- Caesar
-    - ```javascript
+    - Caesar
+        - ```javascript
 @import url('https://raw.githack.com/jordanmoore/caesar/master/caesar.css');```
-- Leyendecker (light theme)
-    - ```javascript
+    - Leyendecker (light theme)
+        - ```javascript
 /*  Make sure you have the fonts Lato, Open Sans, and IBM Plex installed locally on your machine.
 They're free to download from Google:
 https://fonts.google.com/specimen/Lato
@@ -996,8 +999,8 @@ span.rm-page-ref[data-tag="Questions"], span[data-link-title^="Questions"] .rm-p
    font-size: 80%;
    color: #A5C16A;
 }```
-- Functional-Light
-    - ```javascript
+    - Functional-Light
+        - ```javascript
 .roam-toolkit-block-mode--highlight{background-color: #9580ff4d; !important;}
 /*scrollbar*/
 ::-webkit-scrollbar {
@@ -1115,8 +1118,8 @@ div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 
   padding-right: calc((100% - var(--reduce-padding-right)) / 2) !important;
   padding-left : calc((100% - var(--reduce-padding-left)) / 2) !important;
 }```
-- SolarizedLight
-    - ```javascript
+    - SolarizedLight
+        - ```javascript
 /*
 ### ROAM CUSTOM THEME ###
 > Many thanks to the Roam Slack community for all the resources, particularly @Anthony and @Mark for their patience with me that helped in this construction.  Mostly adapted from Anthony's bear themes, with some mix and matches from other people's codes.  I don't know what I'm doing really, just wanted to make it pretty.
@@ -2980,8 +2983,8 @@ The 3 selectors for each level correspond to:
 .rm-page-ref-tag {
   color: #d33682;
 }```
-- Solarized Light Masonry
-    - ```javascript
+    - Solarized Light Masonry
+        - ```javascript
 /*
 ### ROAM CUSTOM THEME ###
 > Many thanks to the Roam Slack community for all the resources, particularly @Anthony and @Mark for their patience with me that helped in this construction.  Mostly adapted from Anthony's bear themes, with some mix and matches from other people's codes.  I don't know what I'm doing really, just wanted to make it pretty.
@@ -5036,8 +5039,8 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
 .rm-page-ref-link-color {
   color: #9d6500; /* color of page link references*/
 }```
-- Fabriq-Theme
-    - ```javascript
+    - Fabriq-Theme
+        - ```javascript
 /*
 ### ROAM CUSTOM THEME ###
 > Many thanks to the Roam Slack community for all the resources, particularly @Anthony and @Mark for their patience with me that helped in this construction.  Mostly adapted from Anthony's bear themes, with some mix and matches from other people's codes.  I don't know what I'm doing really, just wanted to make it pretty.
@@ -7002,8 +7005,8 @@ textarea {
   font-weight: 400;
   font-size: 1.4em;
 }```
-- Roam-Research-Dark
-    - ```javascript
+    - Roam-Research-Dark
+        - ```javascript
 /* ==UserStyle==
 @name         Roam Research Dark
 @namespace    vandermerwed
@@ -7938,8 +7941,8 @@ url-prefix("https://app.clickup.com/") {
     }
 
 }```
-- slightly-aesthetic-roam-theme
-    - ```javascript
+    - slightly-aesthetic-roam-theme
+        - ```javascript
   /* Slighly aesthetic roam theme that is easier on the eyes and not too complex for people who need a lot of help with CSS (i.e. me)
 By Ally but with a lot of bases from smart individuals on Reddit
 V 1.4 with some updates
@@ -8309,8 +8312,8 @@ a.rm-alias.rm-alias-external {
     padding: 5px;
     margin-top: 15px !important;
 }```
-- gris
-    - ```javascript
+    - gris
+        - ```javascript
 :root {
     --background-color: #f5f5f5;
 }
@@ -8682,8 +8685,8 @@ code {
   border-top: 1px solid #eee;
 }
 ```
-- my test theme 01
-    - ```css
+    - my test theme 01
+        - ```javascript
 @import url('https://abhayprasanna.github.io/rainbow-indent-core.css'); 
 /*  @import "../fonts/Inter/inter.css"; */
 
@@ -8764,7 +8767,7 @@ body {
   flex-basis: 50% !important;
 }
 ```
-- my test theme 02
-    - ```javascript
+    - my test theme 02
+        - ```javascript
 
 ```

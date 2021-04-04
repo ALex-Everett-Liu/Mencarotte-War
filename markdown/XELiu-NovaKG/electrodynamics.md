@@ -10,10 +10,12 @@
     - [[magnetic field]]
         - [[auxiliary field vector]]
         - [[magnetic force]]
-- [[electromagnetics]]
+- [[electromagnetics]]; [[electromagnetism]]
+    - [[magnetism]]
+- [[electricity]]: 电学
+    - [[electric charge]]
 - electron
     - [[electron beam]]
-- magnetism
 - [[Maxwell's equations]]
 - medium...
     - [[anisotropic medium]]

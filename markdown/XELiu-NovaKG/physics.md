@@ -49,6 +49,7 @@
         - nature of reality
     - reductionism v.s. emergence?
         - emerge from more basic constituents
+- [[nuclear physics]]
 - [[particle physics]]; [[high-energy physics]];
 - popularize of science; popular science
     - [[Brian Greene]]
@@ -56,4 +57,4 @@
 - [[quantum gravity]]; quantum gravity theory
 - [[quantum mechanics]]
 - relativity; [[theory of relativity]]
-- [[wave]]
+- [[wave]]; wave theory

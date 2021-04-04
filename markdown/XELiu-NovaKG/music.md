@@ -1,2 +1,6 @@
 - musical instrument
     - [[二胡 (erhu)]]
+- musical theory??
+    - [[musical note]]
+    - [[musical score]]
+    - [[musical tone]]

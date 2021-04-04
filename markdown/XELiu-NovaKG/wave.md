@@ -17,6 +17,8 @@
         - [[elastic solid]]
         - [[local shear deformation]]
     - string wave
+        - [[vibrating string]]
+            - [[vibrational pattern]]
 - [[traveling wave]]
     - [[self-sustaining disturbance]]
 - [[longitudinal wave]]
