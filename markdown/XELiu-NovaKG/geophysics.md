@@ -1,5 +1,0 @@
-- dictionary
-    - He method has proved more and more to be of very [great geophysical significance]. [百度翻译][例句库]
-    - We designate the study of the earth using [physical measurements] at the surface as geophysics. 
-    - The study and application of [X-radiation sampling technique] of [nuclear geophysics]. dict.[cnki].net
-    - Physics and Chemistry of the Earth, Part B: [Hydrology]([[hydrology]]), [Oceans]([[ocean]]) & [Atmosphere]([[atmosphere]]). 辑 www.[zhongtu].com.cn

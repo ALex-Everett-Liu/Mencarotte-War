@@ -1,6 +1,0 @@
-- [[astrology]]
-- the story of creation
-- [[occult]]
-- [[Satanism]]
-- 占卜术
-    - crystal ball

@@ -1,4 +1,0 @@
-- dictionary 
-    - Users can [add and edit comments] and recommendations that [can be aggregated to] 聚合 [provide the community's collective view] 集体观点 [on a given resource], thereby truly creating [a read and write Web]. www.[[ibm]].com
-    - The collective view into a [Zen garden] becomes an abstruse plot, goldfish seem to have found new colors, and [a soft ice cream cone] is a vigorous badge of office. 徽章 blog.sina.com.cn
-    - But still it is your tendency as a collective to [view such phenomena as] contained and separate from yourselves [inside a harmless and distant tea-cup]. www.[cfjkshbdw].com

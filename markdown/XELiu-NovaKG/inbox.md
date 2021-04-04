@@ -1,0 +1,17 @@
+- draft
+    - 
+    - 
+- quick todo
+    - 
+- roam - function test
+    - aa
+        - **bb**
+            - __cc__
+                - ^^dd^^
+                    - ee
+                        - ff
+    - bb
+        - __cc__
+    - link style
+        - [[inbox]]
+        - [Temp]([[inbox]])

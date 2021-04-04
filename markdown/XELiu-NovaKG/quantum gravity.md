@@ -1,4 +1,0 @@
-- [[string theory]]
-- [[loop quantum gravity]]
-- [[unified theory]]
-    - universal theory;

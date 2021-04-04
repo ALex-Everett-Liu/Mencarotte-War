@@ -1,7 +1,0 @@
-- dictionary 
-    - 通用术语, 一般术语; 普通条款
-    - He only [talked about it] [in general terms] and [didn't go into details]. 泛泛而谈 《汉英大词典》
-    - He spoke in very general terms. 说得很笼统
-    - Don't be touchy; 你别多心 I'm [speaking in general terms] only. 就一般而论 百度翻译例句库
-    - GB/T8874-1988: General terms of [technology and equipment] for [grain and oil industry]. www.[dictall].com
-    - Let's first [look at the picture] [in very general terms]. 一幅草图 [open.163].com

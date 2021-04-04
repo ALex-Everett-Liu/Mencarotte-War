@@ -1,7 +1,0 @@
-- dictionary 
-    - flow-process diagram; flowsheet
-    - [Take notes] by [drawing charts] and [connecting ideas] instead of [just copying down a list]. [中考真题]- 2015 成都 [任务型阅读]
-    - The process is shown schematically in figure 3. 《牛津高阶英汉双解词典》
-    - And the C-language [data structure] and flow charts are given. dict.cnki.net
-    - Drawing [Mineral Processing] [Flow Sheet] 选矿 by [Invoking Auto CAD Figure] with Word. www.[dictall].com
-    - A method using [PLC flow charts programming] to design [analog screen control system] is introduced.

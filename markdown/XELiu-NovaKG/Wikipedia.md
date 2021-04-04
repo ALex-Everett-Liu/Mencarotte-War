@@ -1,3 +1,0 @@
-- general...
-    - From Wikipedia, the [[free encyclopedia]]
-    - [[Wikimedia Commons]]

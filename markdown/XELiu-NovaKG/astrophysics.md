@@ -1,9 +1,0 @@
-- [[astrolabe]]: 星盘;
-- [[astronomical observation]]
-- [[black hole]]
-    - the center of a black hole
-    - the end of collapsing stars
-    - [[Hawking radiation]]
-    - [[quantum black hole]]
-- telescope
-    - [[Hubble Space Telescope]]

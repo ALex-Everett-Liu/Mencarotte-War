@@ -1,9 +1,0 @@
-- dictionary 
-    - [N-COUNT] 董事会；理事会 -- A company's board of directors is [the group of people] [[elect]]ed by its [[shareholder]]s to [[manage the company]].
-    - [[WordNet]]: [a group of persons] chosen to [govern the affairs] of a [[corporation]] or other [[large institution]]. -- Synonym: directorate
-    - The Board of Directors has [approved the decision unanimously]([[approve the decision]]). 一致批准
-    - The [[ultimate authority]] [resides with the board of directors]. 最高权力属于 《牛津高阶英汉双解词典》
-    - [There were calls for] her [[resignation]] from the board of directors. [有人要求]她辞去
-    - He's on the board of directors. 
-    - He served on the board of directors of a [local bank]. 《柯林斯高阶英汉双解学习词典》
-    - [I'm responsible to] my board of directors.

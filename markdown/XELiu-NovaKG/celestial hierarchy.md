@@ -1,1 +1,0 @@
-- 天体, 天国, 天阶; from WordNet: the [collective body] of [[angel]]s 集合体

@@ -1,7 +1,0 @@
-- dictionary 
-    - 反差/衬度/对比度
-    - Study on the [development kinetics] of [super high contrast] system. 显影动力学 dict.[cnki].net
-    - The mechanism of [high contrast development].
-    - [A new type of] [high contrast filter] 滤光片 has been investigated in this paper. 
-    - [Using high contrast between] text or graphics and background. provided by jukuu
-    - [Large high contrast numbers] are helpful for [low vision]. 弱视

@@ -1,9 +1,0 @@
-- general...
-    - [[scientific development]]; [[scientific progress]]
-    - [[scientific inquiry]]
-    - [[scientific opinion]]
-- popularize of science; popular science
-    - [[Scientific American]]
-- research
-    - [[cutting-edge research]]
-- [[scientific discipline]]

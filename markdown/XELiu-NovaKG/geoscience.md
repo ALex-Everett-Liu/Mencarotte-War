@@ -1,3 +1,0 @@
-- [[seismology]]
-    - secondary waves; S-waves
-        - [[shear wave]]

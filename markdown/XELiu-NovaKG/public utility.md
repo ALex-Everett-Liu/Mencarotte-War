@@ -1,7 +1,0 @@
-- dictionary 
-    - 《柯林斯高阶英汉双解学习词典》
-        - The [Public Utilities Commission] 公共事业委员会 inspects us once a year. 视察
-        - Public utilities [dig up roads] to [lay pipes]. 挖路铺设管道
-        - They've also [slashed state subsidies] 大幅削减 政府补贴 to utilities and [[transportation]]. 
-        - This will cause [further belt-tightening in] the [[public service]]s. 紧缩开支
-        - One per cent of total [[public spending]] should eventually [go towards the arts].

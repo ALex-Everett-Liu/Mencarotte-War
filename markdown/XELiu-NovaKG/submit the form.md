@@ -1,6 +1,0 @@
-- dictionary 
-    - It does not [actually save the data] [when the user submits the form]. www.[[ibm]].com
-    - Each [[form instance]] 表单实例 [saves its data periodically]([[save data periodically]]) [until the user submits the form]. 
-    - The method is POST, and [default action] [submits the form data back to] this [[servlet]]. 
-    - A button that [submits the form to the server]. provided by [jukuu]
-    - When user submits the form [on the client], [a series of steps] [occur on the server]. www.[javaeye].com

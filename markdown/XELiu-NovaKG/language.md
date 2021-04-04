@@ -1,5 +1,0 @@
-- [[dictionary]]
-    - extract example sentences from the dictionary
-    - [[Oxford English Dictionary]]
-- IME
-- [[word map]] (WordNet like)...

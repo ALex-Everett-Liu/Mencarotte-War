@@ -1,9 +1,0 @@
-- brain science...
-    - [[human brain]]
-- intelligence...
-    - [[human intellectual]]
-- memory
-    - past memory;
-- perception
-    - touch
-        - tactile impression

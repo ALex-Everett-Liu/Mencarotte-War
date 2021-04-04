@@ -1,3 +1,0 @@
-- 星期日 27/12/2020 21:06 #pt10-100 # light pink big faquan # green dayi   162~164 cm?
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fg4wjYz1NjR.jpg?alt=media&token=750720eb-11d4-415e-b7b3-e5af85d9c440)
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FJJULQ25Cs9.png?alt=media&token=5eae7bad-2ddf-4eab-b74d-f198e3a10cb4)

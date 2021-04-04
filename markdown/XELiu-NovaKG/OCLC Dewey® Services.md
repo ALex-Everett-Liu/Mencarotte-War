@@ -1,5 +1,0 @@
-- Searching for items in a library? Try [WorldCat.org](http://www.worldcat.org/). #WorldCat
-- ## Resources
-    - ### Resources for librarians
-        - [Conference Materials](https://www.oclc.org/en/dewey/news/newsletter.html) (the DDC newsletter)
-        - [Dewey Summaries](https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf) #[[DDC 23 Summaries]]

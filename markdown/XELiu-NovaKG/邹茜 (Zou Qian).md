@@ -1,2 +1,0 @@
-- #HIT # black wrist rope # white sleeveless dress # 撩头发 #pt10-100
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FjrkxLdNP33.png?alt=media&token=d679cab1-7390-4f11-9a26-8a2bc8cddad8)

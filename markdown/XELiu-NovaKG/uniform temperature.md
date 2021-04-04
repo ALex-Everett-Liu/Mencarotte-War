@@ -1,6 +1,0 @@
-- dictionary 
-    - The [uniform temperature field] 均匀的温度场 has decreased the [opening stress] obviously. 裂纹的张开应力 dict.[cnki].net
-    - Uniform Temperature Compensation Method 一致性温度补偿法 for [Gas Sensor Measurement] 气敏元件
-    - [Homogeneous velocity distribution] results in [uniform temperature distribution]; 铸型内
-    - The [air-conditioning system] [maintains a uniform temperature] [throughout the building]. 保持恒温 www.[nmhrjy].com
-    - By [data preprocessing] and [reliability analysis], 可靠性 [uniform temperature database] [have been established]. www.[fabiao].net

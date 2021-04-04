@@ -1,8 +1,0 @@
-- [[calculus]]
-- complex number
-    - [[complex conjugate]]
-- [[linear algebra]]
-- general...
-    - [[non-negative]]
-    - square root
-    - well-defined

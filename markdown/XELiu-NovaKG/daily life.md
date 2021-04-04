@@ -1,4 +1,0 @@
-- day-to-day life;
-- food and drink; tabemono, nomemono;
-    - [[cuisine]]
-    - food industry

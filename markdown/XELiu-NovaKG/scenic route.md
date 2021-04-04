@@ -1,6 +1,0 @@
-- dictionary 
-    - They took the scenic route [back to the hotel]. 观光路线, 景色优美的路线 《牛津高阶英汉双解词典》
-    - It was even [marked on the map] [as a scenic route]. 《柯林斯高阶英汉双解学习词典》
-    - Let's take the scenic route, [along the coast]. www.[dictall].com
-    - We're going to [take the scenic route]. 沿着[观景路线][游览] provided by jukuu
-    - Should we [stop progress] and [save the scenic route]? 

@@ -1,9 +1,0 @@
-- general...
-    - dot particle model
-    - [[internal structure]]
-    - smallest indivisible constituent
-- particle
-    - [[classical particle]]
-    - particle species
-    - [[submicroscopic particle]]
-- [[theoretical physics]]; [[theoretical physicist]]

@@ -1,2 +1,0 @@
-- A system of measurement is [a collection of] [units of measurement]([[unit of measurement]]) and rules [relating them to each other]. Systems of measurement [have historically been important], regulated and defined [for the purposes of] [[science]] and [[commerce]]. Systems of measurement in use include the [[International System of Units (SI)]], the [[modern form]] of the [[metric system]], the [[British imperial system]], and the [[United States customary system]].
-- __Main article: __[[History of measurement]]

@@ -1,4 +1,0 @@
-- dictionary 
-    - 重引号; 部分投射
-    - [Contains a word or phrase] for which the author or [[narrator]] indicates a [[disclaiming of responsibility]], 免责声明;; 另有所指的表现 for example [by the use of] scare quotes or [[italics]]. [讽刺引号]或[斜体标示] danci.911cha.com
-    - I use scare quotes around "centrist," 「中间派」 by the way, because if the center means [the position held by] [most Americans], the self-proclaimed [[centrist]]s 以[中间派][自居] are in fact [way out in right field]. 严重[右倾] [blog.sina]([[sina blog]]).com.cn

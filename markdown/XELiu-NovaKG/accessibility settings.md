@@ -1,6 +1,0 @@
-- dictionary 
-    - For instance, you can change accessibility settings, 可访问性 or [enable the ability to] [mail forms]. 通过邮件发送表单 www.[ibm].com
-    - One new [IOS 7 feature] buried in the accessibility settings enables an idevice to [recognize users' head movements], according to blog 9to5mac. www.[fortunechina].com
-    - You can make your accessibility settings the default for new users. 辅助功能 www.[dictall].com
-    - Accessibility Settings-[Convert Menus] for Accessibility Settings 
-    - You can apply these accessibility settings to [another computer]. provided by jukuu

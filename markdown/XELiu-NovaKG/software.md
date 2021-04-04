@@ -1,6 +1,0 @@
-- management...
-    - [[project management]]
-        - [[cheat sheet]]
-        - long-term project
-        - [[todo list]]
-            - [[un-completed project]]

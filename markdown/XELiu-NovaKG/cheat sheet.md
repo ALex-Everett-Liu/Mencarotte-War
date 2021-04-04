@@ -1,8 +1,0 @@
-- dictionary 
-    - (informal) 备忘纸条, 备忘单；（[尤指][考试用的]）作弊纸条, 小抄
-    - [a set of notes] to [help you remember] [important information], especially one [taken secretly into] an [exam room].
-    - The [parameter element] is used to [reference a cheat sheet]. www.[[ibm]].com
-    - A cheat sheet demonstrates how to import a [[sample project]]. 
-    - [A good example of this behavior] is the [Create a Hello World application] cheat sheet. 
-    - A task represents a cheat sheet and is implemented [using the task element]. 
-    - I think we can [bring a cheat sheet with us]. www.[hjenglish].com

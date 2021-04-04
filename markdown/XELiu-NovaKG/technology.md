@@ -1,7 +1,0 @@
-- general...
-    - technological advance
-- [[hardware]]
-- multi-media
-- [[software]]
-- typesetting?
-    - bold; [[bold letter]]

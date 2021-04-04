@@ -1,3 +1,0 @@
-- [[atomic nucleus]]
-- [[nuclear fusion]]
-- [[radioactive decay]]

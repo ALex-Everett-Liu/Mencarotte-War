@@ -1,1 +1,0 @@
-- Garmin vivo3t lost data again! from 210208-00:00 to 210209-07:40. So disappointed!

@@ -1,3 +1,0 @@
-- [本科生][培养方案]
-- [[cs curriculum]]
-- [[physics curriculum]]

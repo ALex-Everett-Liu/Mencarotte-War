@@ -1,2 +1,0 @@
-- 星期四 01/04/2021 12:30 # black leather shoes
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsKYOFtgQ9Y.png?alt=media&token=d4834ded-3dc9-40b3-b2a9-96fb6e7775d3)
