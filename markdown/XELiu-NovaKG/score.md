@@ -504,6 +504,8 @@ page attribute -- roam
                     - [根据主题和线索]来[聚合内容]是[卡片式写作]的核心，真正复杂的卡片式写作必定是[主题导向]、而不是[结构导向]的。多数人可能[感受不到]，如果真的[在平时积累了][海量的][元信息卡片]，到了[输出写作]的时候只有[主题聚合][能派上用场]。[结构导向]的方法在[轻度使用]的时候[很舒适]，但是在需要整理海量素材并输出的时候全都[捉襟见肘]。
                 - {{[[TODO]]}} roam iframe
                 - {{[[TODO]]}} [Magical Academic NoteTaking](https://www.roamforresults.com/academic) in [Roam Research](https://www.youtube.com/watch?v=L3oBNihWSKo&feature=youtu.be)–[Ph.D. Thesis](https://www.bilibili.com/video/BV1sy4y1a7m4), Dissertation, Journal
+                - {{[[TODO]]}} 作为一项实验，我们开发了一个网站，[Quantum Country](http://link.zhihu.com/?target=https%3A//quantum.country/qcvc)，探索一种解释量子计算和量子力学的新方法。表面上，Quantum Country 似乎是对这些主题的传统论文介绍。这里有文字、解释和方程式，就像任何其他[技术论文]一样。这里有[一段摘录](https://zhuanlan.zhihu.com/p/86657258)：
+                    - 我有量子信息/计算的[博士学位]，在阅读这篇文章之前，我已经知道了它的所有内容，但是我从给定的[间隔重复抽认卡]中[获得的额外理解]极大地提高了我对材料的理解。每个读这篇文章的人，都应该报名并尝试间隔重复。
                 - **[只是这样]看起来好像有点[平平无奇]，但是 vivaldi 提供了两个[特别讲究的]选项：[衬线字体]和[竖排文本]。**
                     - 关于衬线字体，可能不是每个人都有了解，简单来说，衬线就是[笔画起始处][有多余的修饰部分]，西文和中文都有[无衬线字体]和[有衬线字体]，有衬线字体一般[更适合用在][正文中]，无衬线字体一般[适合做标题](https://www.yuque.com/deerain/kdblre/lm3fe6)。它们的区别可以看下图：
                 - 接触 lute 的原因是有一些 feature 依靠 vditor [没办法实现]。举个例子，在 React Native 中[如何实现] [markdown 渲染](https://zhuanlan.zhihu.com/p/349925413)？难道是[套一个 WebView] [加载 H5]？虽然在[某些场景]不得不去这么实现，比如[依赖 KaTeX] 做[数学公式渲染]、abcjs 做[五线谱渲染]，要不就自己再[写一个库]？emmm WebView 会有[很多的限制]，而且其实在[移动端]做 [markdown 即时渲染]的[体验]不会很好。即使是 GitHub [官方的 APP] 也[没有实现]，然后我的眼光就放到了 lute 的身上
@@ -1014,6 +1016,7 @@ Xbox上的忍龙源码丢失这个不难理解：硫酸脸离职。冰风谷2的
                     - 一本 PDF 所经历的：->Calibre->abbyy->Zotero-> 福昕阅读器/bxn-> 思源->。
                     - Directory Opus：已经取代的 win10 默认的[资源管理器]。
                     - Groupy：很值，[虚拟桌面]都不用了。
+                - 不过Leanote实现了很多[重要特性](https://www.zhihu.com/question/439876602/answer/1707873094)，例如[笔记历史]，[差分对比]，对markdown的支持，标签系统，就是[移动端][过于欠缺]，是个遗憾。
             - 去[横店]看过几次[拍戏](https://tieba.baidu.com/p/7273746429?pn=2)，感觉好多组剧务副导都是东北话满天飙，肥肥沈阳人，可能也是个优势。
                 - 肥肥脸真的很不错，表情啥的贼丰富，每次MC感觉这孩子在后排用脸都能输出，关键[极端表情]不会崩，这一点上甚至比她前夫（bushi）蕊蕊那张[冷下来][沁人心脾][哭起来][我见犹怜]然而[不能大笑]的脸还要优越
             - {{[[TODO]]}} 重生传奇 精校
