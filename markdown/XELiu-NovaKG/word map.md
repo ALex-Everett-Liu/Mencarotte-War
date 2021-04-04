@@ -346,6 +346,10 @@
                     - terrain
                     - terrene
                     - territory, 3
+            - tr
+                - tra
+                    - tract
+                        - tractable: 驯服的, 易于管教; 易于处理;
         - u
             - ut
                 - utility
