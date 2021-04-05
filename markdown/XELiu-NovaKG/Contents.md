@@ -1,3 +1,9 @@
+- [[history]]
+- math and phys
+    - [[chemistry]]
+    - [[mathematics]]
+    - [[physics]]
+- [[science]]
 - [[technology]]
 - ---
 - my methodology
