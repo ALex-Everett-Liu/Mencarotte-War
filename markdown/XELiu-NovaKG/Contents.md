@@ -10,4 +10,5 @@
 - my methodology
     - 形式与连结
         - my personal archive library, just like what the web clipper could do, 但从形式结构上来说更便于我个人的调整
+            - 每个重要的概念必须能够以引用的方式重复调用，同时又能迅速找到它所依赖的上下文
         - link map database - when the two nodes are put in the same block, 它们之间的同层级联系就可以被展现出来

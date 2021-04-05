@@ -1,0 +1,1 @@
+- [[velocity]] - the speed and direction of an object's motion

@@ -1,0 +1,12 @@
+- [[general theory of relativity]]; [[general relativity]]
+- [[nonrelativistic motion]]
+- [[relative motion]]
+    - a matter of perspective; point of view
+- space and time
+    - absolute conception of space and time
+        - Newtonian worldview
+    - [[empty space]]
+    - [[water bucket experiment]]
+        - concave shape
+        - spinning water bucket
+- [[special theory of relativity]]; [[special relativity]]

@@ -1,0 +1,9 @@
+- the [[big bang theory]]
+    - the beginning of the universe; the origin of the universe
+        - highly ordered; a highly ordered environment
+    - [[big bang]]
+    - [[inflationary cosmology]]
+    - the shape of space
+    - the size of the universe
+    - the structure of the universe
+- [[quantum cosmology]]
