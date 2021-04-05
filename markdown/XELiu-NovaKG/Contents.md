@@ -1,4 +1,4 @@
-- 
+- [[technology]]
 - ---
 - my methodology
     - 形式与连结

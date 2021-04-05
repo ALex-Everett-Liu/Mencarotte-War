@@ -3,6 +3,7 @@
     - 
 - quick todo
     - 
+    - 
 - roam - function test
     - aa
         - **bb**
@@ -15,3 +16,8 @@
     - link style
         - [[inbox]]
         - [Temp]([[inbox]])
+    - word count
+        - {{character-count}}
+            - 测试测试为什么 test
+        - {{word-count}}
+            - 测试测试为什么 test
