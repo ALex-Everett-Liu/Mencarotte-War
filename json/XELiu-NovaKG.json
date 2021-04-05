@@ -33,6 +33,28 @@
     },
     "children": [
       {
+        "string": "[[economy]]",
+        "create-time": 1617618487769,
+        ":block/refs": [
+          {
+            ":block/uid": "c5knCUtWw"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "c5knCUtWw"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "NpHrEORaK",
+        "edit-time": 1617618494841,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[history]]",
         "create-time": 1617595757182,
         ":block/refs": [
@@ -637,6 +659,30 @@
         }
       },
       {
+        "string": "[[information science]]; [[information technology (IT)]]",
+        "refs": [
+          {
+            "uid": "Ci6x9oNOO"
+          },
+          {
+            "uid": "oA51qy9n_"
+          }
+        ],
+        "uid": "Tm1S0drJn",
+        "edit-time": 1617620565927,
+        ":block/refs": [
+          {
+            ":block/uid": "Ci6x9oNOO"
+          },
+          {
+            ":block/uid": "oA51qy9n_"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[software]]",
         "create-time": 1617577245705,
         ":block/refs": [
@@ -700,6 +746,24 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[file management]]",
+        "refs": [
+          {
+            "uid": "KDtukqRyB"
+          }
+        ],
+        "uid": "MRclbAZo7",
+        "edit-time": 1617620129247,
+        ":block/refs": [
+          {
+            ":block/uid": "KDtukqRyB"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[note-taking]]",
         "create-time": 1617577255561,
@@ -1404,6 +1468,30 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617578569632,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[source]]; [[resource]]",
+        "refs": [
+          {
+            "uid": "aIfEbeUxe"
+          },
+          {
+            "uid": "fzP-KK57B"
+          }
+        ],
+        "uid": "-lHqXLW7f",
+        "edit-time": 1617619917595,
+        ":block/refs": [
+          {
+            ":block/uid": "aIfEbeUxe"
+          },
+          {
+            ":block/uid": "fzP-KK57B"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2792,11 +2880,1031 @@
   {
     "create-time": 1617601328604,
     "title": "The Fabric of the Cosmos - Space, Time, and the Texture of Reality",
-    "uid": "eLEnBooxi",
-    "edit-time": 1617601328604,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "edit-time": 1617622269471,
+        "children": [
+          {
+            "string": "![cosmos fabric-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_CV0KexhJa.png?alt=media&token=f5adcfcd-2190-4b8b-b0bf-97f88d2a5f49)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_CV0KexhJa.png?alt=media&token=f5adcfcd-2190-4b8b-b0bf-97f88d2a5f49": {
+                  "width": 441,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1617620359160,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_CV0KexhJa.png?alt=media&token=f5adcfcd-2190-4b8b-b0bf-97f88d2a5f49": {
+                  ":width": 441,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "yWzBFSGuJ",
+            "edit-time": 1617620376796,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "![b-ok/z-library-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FD_O76p9yvY.png?alt=media&token=ebf394c0-5513-47c5-a858-fb80aad19751)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FD_O76p9yvY.png?alt=media&token=ebf394c0-5513-47c5-a858-fb80aad19751": {
+                  "width": 580,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1617618172360,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FD_O76p9yvY.png?alt=media&token=ebf394c0-5513-47c5-a858-fb80aad19751": {
+                  ":width": 580,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "lneIZxZSA",
+            "edit-time": 1617619648419,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((xNltNgNJj))",
+            "create-time": 1617618861497,
+            ":block/refs": [
+              {
+                ":block/uid": "xNltNgNJj"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xNltNgNJj"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "EmMRkA7t5",
+            "edit-time": 1617618935039,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "review",
+            "create-time": 1617618252179,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "You can write a [[book review]] and [share your experiences]. Other readers [will always be interested in your opinion] of the books you've read. Whether you've [loved the book or not], if you [give your honest and detailed thoughts] then people will find new books that are right for them.",
+                "create-time": 1617618254671,
+                ":block/refs": [
+                  {
+                    ":block/uid": "mMkKsISKb"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "mMkKsISKb"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "kUxU6gfEC",
+                "edit-time": 1617619733366,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "rc1-TOttd",
+            "edit-time": 1617618254542,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "This is simply another great book on the cosmos by Brian Greene. I previously read Greene's book \"The Elegant Universe\" and I think at [enjoyed this one even more]. Greene [packs as enormous wealth of information] in his books. Quite frankly, [it takes me considerably longer to] read one of his books [than most other books I read] because of [the volume of new information]([[information volume]]) I am learning.",
+            "refs": [
+              {
+                "uid": "8ECfLOMRS"
+              }
+            ],
+            "children": [
+              {
+                "string": "Greene has [done a fantastic job] of [explaining the cosmos] in this work. His explanations are detailed and [lengthy enough to] [thoroughly convey the concepts discussed]. There were many concepts that I read about in other books which were [clearly delineated] in this book, and I went away with [a much better understanding].",
+                "uid": "ZyHRhHZev",
+                "edit-time": 1617620655463,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Green covers a wealth of information about the cosmos such as wave probability, uncertainty, spin, entanglement, the flow and direction of time, quantum erasure, decoherence, symmetry, the various forces of nature (strong, weak, electromagnetic, gravity), Higgs field, the big bang, inflation, dark matter, dark energy, entropy, string theory, branes, time travel, the future, and much more.",
+                "uid": "dzWyvNsax",
+                "edit-time": 1617620341348,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "If you want to [get a good education about] [the universe we live in], I [high recommend] Green's books.",
+                "uid": "4sdLhcHs0",
+                "edit-time": 1617620667019,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "BiF1u4gLk",
+            "edit-time": 1617620479137,
+            ":block/refs": [
+              {
+                ":block/uid": "8ECfLOMRS"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "---",
+            "create-time": 1617622240631,
+            "uid": "-ae8tQOSm",
+            "edit-time": 1617622241655,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Brian Greene - The Fabric Of The Cosmos.htm",
+            "create-time": 1617291314447,
+            "uid": "OvRL1axrk",
+            "edit-time": 1617622242268,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "THIS IS A BORZOI BOOK PUBLISHED BY ALFRED A. KNOPF",
+            "create-time": 1617291378681,
+            "uid": "dmunGOF1J",
+            "edit-time": 1617622242268,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "To __Tracy__",
+            "create-time": 1617291407289,
+            "uid": "YP7Om-qc5",
+            "edit-time": 1617622242268,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "_ZI9rjmqb"
+          }
+        ],
+        "uid": "z-EJDNb3K",
+        ":block/refs": [
+          {
+            ":block/uid": "_ZI9rjmqb"
+          }
+        ],
+        "string": "[Source](https://en.jp1lib.org/book/683858/d5e958) #zlibrary",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617618164311,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Contents - p4",
+        "create-time": 1617622265567,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Preface -- pbg: p9",
+            "create-time": 1617622270329,
+            "uid": "O14rLmSPM",
+            "edit-time": 1617622274285,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I. REALITY'S ARENA",
+            "create-time": 1617622274280,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[[The Fabric of the Cosmos - 1 Roads to Reality]] -- SPACE, TIME, AND [WHY THINGS ARE AS THEY ARE]",
+                "create-time": 1617622284613,
+                ":block/refs": [
+                  {
+                    ":block/uid": "OT_m1Uigm"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "OT_m1Uigm"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "P_Jy3cAwr",
+                "edit-time": 1617622362183,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "The Fabric of the Cosmos - 2 [[The Universe and the Bucket]] -- IS SPACE [A HUMAN ABSTRACTION] OR [A PHYSICAL ENTITY]?",
+                "create-time": 1617622324948,
+                ":block/refs": [
+                  {
+                    ":block/uid": "rw6U8VHY-"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "rw6U8VHY-"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "bt_OGtvxJ",
+                "edit-time": 1617622393298,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "sByC5ntKs",
+            "edit-time": 1617622278353,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-HT6KN7a6",
+        "edit-time": 1617622266532,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "eLEnBooxi",
+    "edit-time": 1617601328604,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618263450,
+    "title": "book review",
+    "uid": "mMkKsISKb",
+    "edit-time": 1617618263451,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618494843,
+    "title": "economy",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[business]]",
+        "create-time": 1617618495872,
+        ":block/refs": [
+          {
+            ":block/uid": "nDCuFucpy"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nDCuFucpy"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "diHB9cXJr",
+        "edit-time": 1617618580855,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "c5knCUtWw",
+    "edit-time": 1617618494843,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618580857,
+    "title": "business",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[product]]",
+        "create-time": 1617618785651,
+        ":block/refs": [
+          {
+            ":block/uid": "T59j1ETIQ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "T59j1ETIQ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "rXKXp7FxI",
+        "edit-time": 1617618791075,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[publish]]",
+        "create-time": 1617618582833,
+        ":block/refs": [
+          {
+            ":block/uid": "cPV8Pb0jQ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "cPV8Pb0jQ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "GYV_aH-J8",
+        "edit-time": 1617618617206,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "nDCuFucpy",
+    "edit-time": 1617618580858,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618617207,
+    "title": "publish",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((ONUj5f9bR))",
+        "create-time": 1617618838185,
+        ":block/refs": [
+          {
+            ":block/uid": "ONUj5f9bR"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ONUj5f9bR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "HaWAPLpwj",
+        "edit-time": 1617618839273,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[publication]]; [[publisher]]; publishing platform",
+        "refs": [
+          {
+            "uid": "kzf4sMhPC"
+          },
+          {
+            "uid": "cDEThtKnp"
+          }
+        ],
+        "uid": "LHXFgXcHi",
+        "edit-time": 1617618636423,
+        ":block/refs": [
+          {
+            ":block/uid": "kzf4sMhPC"
+          },
+          {
+            ":block/uid": "cDEThtKnp"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[release]]",
+        "refs": [
+          {
+            "uid": "2PRRoSQqv"
+          }
+        ],
+        "uid": "UR-mLrjFw",
+        "edit-time": 1617618633962,
+        ":block/refs": [
+          {
+            ":block/uid": "2PRRoSQqv"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "cPV8Pb0jQ",
+    "edit-time": 1617618617207,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618633964,
+    "title": "release",
+    "uid": "2PRRoSQqv",
+    "edit-time": 1617618633965,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618635310,
+    "title": "publisher",
+    "uid": "kzf4sMhPC",
+    "edit-time": 1617618635310,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618636426,
+    "title": "publication",
+    "uid": "cDEThtKnp",
+    "edit-time": 1617618636427,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617618791077,
+    "title": "product",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "user...",
+        "create-time": 1617618809600,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "comment; review;",
+            "children": [
+              {
+                "string": "[[book review]];",
+                "refs": [
+                  {
+                    "uid": "mMkKsISKb"
+                  }
+                ],
+                "uid": "sRqsd5dOm",
+                "edit-time": 1617618828525,
+                ":block/refs": [
+                  {
+                    ":block/uid": "mMkKsISKb"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "controversy",
+                "uid": "5Ifof7bYV",
+                "edit-time": 1617618813411,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ONUj5f9bR",
+            "edit-time": 1617618813411,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "recommendation...",
+            "children": [
+              {
+                "string": "[[recommendation engine]]",
+                "create-time": 1617620279741,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ay2BjFg8O"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ay2BjFg8O"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ObwO_rpDb",
+                "edit-time": 1617620282450,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "related term; most frequently terms",
+                "uid": "xNltNgNJj",
+                "edit-time": 1617618916207,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "L7Me8N5mH",
+            "edit-time": 1617618916207,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "UMQ-A1ajR",
+        "edit-time": 1617618812543,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "T59j1ETIQ",
+    "edit-time": 1617618791077,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617619831001,
+    "title": "zlibrary",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "UI",
+        "create-time": 1617619954381,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "![z-library-02](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fz7QrVONf6T.png?alt=media&token=6a986747-892a-4501-9e30-146af0bd066e)\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUMVPW9WxwF.png?alt=media&token=65757aa7-ddf5-418e-81fb-ed326ffabf3f)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fz7QrVONf6T.png?alt=media&token=6a986747-892a-4501-9e30-146af0bd066e": {
+                  "width": 580,
+                  "height": null
+                },
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUMVPW9WxwF.png?alt=media&token=65757aa7-ddf5-418e-81fb-ed326ffabf3f": {
+                  "width": 163,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1617619959831,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fz7QrVONf6T.png?alt=media&token=6a986747-892a-4501-9e30-146af0bd066e": {
+                  ":width": 580,
+                  ":height": null
+                },
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FUMVPW9WxwF.png?alt=media&token=65757aa7-ddf5-418e-81fb-ed326ffabf3f": {
+                  ":width": 163,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "v490zkubt",
+            "edit-time": 1617620032897,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Converted file]([[convert the format]]) can [differ from the original]. If possible, [download the file] [in its original format].",
+            "create-time": 1617620060120,
+            ":block/refs": [
+              {
+                ":block/uid": "4SsOI1heP"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4SsOI1heP"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "0hOjSkViM",
+            "edit-time": 1617620151575,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You can input up to 10 tags in order to [organize your saved books].\nOnly letters and space are allowed.",
+            "create-time": 1617619995740,
+            "uid": "Rygzy-Mwp",
+            "edit-time": 1617620004746,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Rec2Me -- [recommender system] and [[recommendation engine]]",
+            "create-time": 1617620186077,
+            ":block/refs": [
+              {
+                ":block/uid": "ay2BjFg8O"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ay2BjFg8O"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "YrXllU9sb",
+            "edit-time": 1617620235387,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "AFvV9aLaP",
+        "edit-time": 1617619959837,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "_ZI9rjmqb",
+    "edit-time": 1617619831002,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617619912616,
+    "title": "resource",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "publications",
+        "children": [
+          {
+            "string": "[[zlibrary]]",
+            "refs": [
+              {
+                "uid": "_ZI9rjmqb"
+              }
+            ],
+            "uid": "WU_81IxGy",
+            "edit-time": 1617619926499,
+            ":block/refs": [
+              {
+                ":block/uid": "_ZI9rjmqb"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "BSHMVEbpd",
+        "edit-time": 1617619909639,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "aIfEbeUxe",
+    "edit-time": 1617619912616,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617619917597,
+    "title": "source",
+    "uid": "fzP-KK57B",
+    "edit-time": 1617619917597,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617620085809,
+    "title": "convert the format",
+    "uid": "4SsOI1heP",
+    "edit-time": 1617620085809,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617620129249,
+    "title": "file management",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[file format]]",
+        "refs": [
+          {
+            "uid": "0TPxupI4D"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[convert the format]]",
+            "refs": [
+              {
+                "uid": "4SsOI1heP"
+              }
+            ],
+            "uid": "K2b7dod7J",
+            "edit-time": 1617620138933,
+            ":block/refs": [
+              {
+                ":block/uid": "4SsOI1heP"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "289bgUUfr",
+        "edit-time": 1617620140224,
+        ":block/refs": [
+          {
+            ":block/uid": "0TPxupI4D"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "KDtukqRyB",
+    "edit-time": 1617620129250,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617620140225,
+    "title": "file format",
+    "uid": "0TPxupI4D",
+    "edit-time": 1617620140226,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617620235389,
+    "title": "recommendation engine",
+    "uid": "ay2BjFg8O",
+    "edit-time": 1617620235390,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617620479140,
+    "title": "information volume",
+    "uid": "8ECfLOMRS",
+    "edit-time": 1617620479148,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617620548816,
+    "title": "information technology (IT)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[information volume]];",
+        "refs": [
+          {
+            "uid": "8ECfLOMRS"
+          }
+        ],
+        "uid": "z8EGm6_Vb",
+        "edit-time": 1617620558361,
+        ":block/refs": [
+          {
+            ":block/uid": "8ECfLOMRS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Ci6x9oNOO",
+    "edit-time": 1617620548817,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617620565928,
+    "title": "information science",
+    "uid": "oA51qy9n_",
+    "edit-time": 1617620565929,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617622293906,
+    "title": "The Fabric of the Cosmos - 1 Roads to Reality",
+    "uid": "OT_m1Uigm",
+    "edit-time": 1617622293907,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617622374198,
+    "title": "The Universe and the Bucket",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "It's not often that [a bucket of water] is [the central character in] [a three-hundred-year-long debate]. But a bucket that belonged to [Sir Isaac Newton] is [no ordinary bucket], and [a little experiment] he described in 1689 [has deeply influenced] some of [the world's greatest physicists] ever since. The experiment is this: Take a bucket filled with water, hang it by a rope, twist the rope tightly so that it's ready to unwind, and let it go. At first, the bucket starts to spin but the water inside remains fairly stationary; the surface of the stationary water stays nice and flat. As the bucket picks up speed, little by little its motion is communicated to the water by friction, and the water starts to spin too. As it does, the water's surface takes on a concave shape, higher at the rim and lower in the center, as in Figure 2.1.",
+        "create-time": 1617622457057,
+        "uid": "i6HCQg3d5",
+        "edit-time": 1617623563887,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "That's the experiment—not quite something that gets the heart racing. But a little thought will show that this bucket of spinning water is extremely puzzling. And coming to grips with it, as we have not yet done in over three centuries, ranks among the most important steps toward grasping the structure of the universe. Understanding why will take some background, but it is well worth the effort.",
+        "create-time": 1617622457057,
+        "uid": "0X4m8qyPt",
+        "edit-time": 1617622465152,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Figure 2.1 The surface of the water starts out flat and remains so as the bucket starts to spin. Subsequently, as the water also starts to spin, its surface becomes concave, and it remains concave while the water spins, even as the bucket slows and stops.",
+        "create-time": 1617622457057,
+        "uid": "VeCbQyzmp",
+        "edit-time": 1617622468280,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rw6U8VHY-",
+    "edit-time": 1617622374199,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

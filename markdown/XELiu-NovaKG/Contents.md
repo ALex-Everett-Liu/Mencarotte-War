@@ -1,3 +1,4 @@
+- [[economy]]
 - [[history]]
 - math and phys
     - [[chemistry]]
