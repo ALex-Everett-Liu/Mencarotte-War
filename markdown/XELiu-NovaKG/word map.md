@@ -1,0 +1,49 @@
+- English
+    - c
+        - ci
+            - circle
+            - circum-
+                - circumstance: 情况, 状况, 环境;
+            - cite
+                - citation
+                - cited;
+    - g
+        - gr
+            - gra
+                - grapple
+                    - grapple with: 扭打, 抓住;
+                - gray
+                    - grey;
+    - i
+        - in
+            - int
+                - intrinsic: 固有的; 内在的; 本身的, 本征的, 本质的;
+        - is
+            - isle
+                - island
+                - islet
+                - insula
+                - peninsula
+            - iso-
+                - isolate
+                    - isolated;
+            - issue, 3
+                - issuable;
+                - open issue;
+                - raise the issue;
+    - r
+        - re
+            - res
+                - reside, 2
+                    - resident;
+                - respect
+                - respect
+                    - respective
+                    - with respect to: 相对于;
+    - t
+        - tw
+            - twi-
+                - twin
+                    - intertwined;
+                    - twined;
+            - twist: 扭, 拧;

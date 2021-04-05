@@ -1,0 +1,2 @@
+- Catholic
+    - Inquisition: 宗教裁判所

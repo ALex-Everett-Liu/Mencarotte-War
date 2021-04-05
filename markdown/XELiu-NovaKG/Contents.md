@@ -1,9 +1,13 @@
 - [[economy]]
+- [[daily life]]; [[everyday life]]...
 - [[history]]
+- [[language]]
 - math and phys
     - [[chemistry]]
     - [[mathematics]]
     - [[physics]]
+- [[medicine]]
+- [[religion]]
 - [[science]]
 - [[technology]]
 - ---

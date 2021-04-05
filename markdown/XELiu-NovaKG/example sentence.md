@@ -1,0 +1,22 @@
+- www.[[ibm]].com
+    - The telltale sign 依据的标志 is that [files prefixed with](((oNP_DnzqV))) "_atc" are compiled. 
+    - ---
+- 柯林斯词典 (柯林斯高阶英汉双解学习词典)
+    - Let me [set the record straight on the misconceptions] [contained in your article]. 
+    - ---
+- www.[[ebigear]].com
+    - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
+    - ---
+- www.[[fortunechina]].com
+- provided by [[jukuu]]
+    - She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 
+    - ---
+    - However, I would like to [set the record straight on a few points]. 
+    - I'd like to set the record straight. I didn't do it. 纠正一下, 澄清事实
+    - I have to set the record straight. 我得把事情搞明白了
+    - Set the record straight; made sure the facts were straight in the report. 
+    - ---
+- misc; others
+    - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn
+- ---
+- archived

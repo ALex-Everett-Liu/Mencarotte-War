@@ -1,5 +1,13 @@
 - [[astrophysics]]
 - [[classical mechanics]]
+- general...
+    - object, entity...
+        - [[physical entity]]; [[non-physical entity]]
+        - ordinary object
+        - real entity
+- physicist
+    - [[Descartes]]
+        - [[Principia Philosophiae]]
 - [[popularize of science]]; popular science
     - [[Brian Greene]]
         - [[The Fabric of the Cosmos - Space, Time, and the Texture of Reality]]

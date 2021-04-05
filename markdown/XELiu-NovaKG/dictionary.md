@@ -1,0 +1,2 @@
+- [extract example sentences from the dictionary]([[example sentence]])
+- [[Oxford English Dictionary]]

@@ -55,6 +55,34 @@
         }
       },
       {
+        "string": "[[daily life]]; [[everyday life]]...",
+        "create-time": 1617657791375,
+        ":block/refs": [
+          {
+            ":block/uid": "EfuEHBPyi"
+          },
+          {
+            ":block/uid": "WBKahqQz6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EfuEHBPyi"
+          },
+          {
+            "uid": "WBKahqQz6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Wlz9fMzXz",
+        "edit-time": 1617657797755,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[history]]",
         "create-time": 1617595757182,
         ":block/refs": [
@@ -72,6 +100,28 @@
         },
         "uid": "1BK8ETxAI",
         "edit-time": 1617595763122,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[language]]",
+        "create-time": 1617653262830,
+        ":block/refs": [
+          {
+            ":block/uid": "20CNlBH55"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "20CNlBH55"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "SFsYk5ey8",
+        "edit-time": 1617653267798,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -152,6 +202,46 @@
         ],
         "uid": "bY2Sb7e0S",
         "edit-time": 1617596327937,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[medicine]]",
+        "create-time": 1617653011555,
+        ":block/refs": [
+          {
+            ":block/uid": "Eehn_6om5"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Eehn_6om5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "PGj4XDqDv",
+        "edit-time": 1617653021731,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[religion]]",
+        "refs": [
+          {
+            "uid": "CpR9PcYLM"
+          }
+        ],
+        "uid": "XqR3JpPVM",
+        "edit-time": 1617651592340,
+        ":block/refs": [
+          {
+            ":block/uid": "CpR9PcYLM"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -303,7 +393,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1617601271228,
+            "edit-time": 1617654827381,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -2751,6 +2841,114 @@
         }
       },
       {
+        "string": "general...",
+        "children": [
+          {
+            "string": "object, entity...",
+            "children": [
+              {
+                "string": "[[physical entity]]; [[non-physical entity]]",
+                "refs": [
+                  {
+                    "uid": "PzlWXXi9-"
+                  },
+                  {
+                    "uid": "oNfciLfUn"
+                  }
+                ],
+                "uid": "mPpUWBtUc",
+                "edit-time": 1617658382318,
+                ":block/refs": [
+                  {
+                    ":block/uid": "PzlWXXi9-"
+                  },
+                  {
+                    ":block/uid": "oNfciLfUn"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "ordinary object",
+                "uid": "pATT_ciVI",
+                "edit-time": 1617658374458,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "real entity",
+                "uid": "z2tQi4CgP",
+                "edit-time": 1617658374458,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "1NzZc200g",
+            "edit-time": 1617658374458,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "HtN8p2InI",
+        "edit-time": 1617658374458,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "physicist",
+        "children": [
+          {
+            "string": "[[Descartes]]",
+            "refs": [
+              {
+                "uid": "P9A5QXfdy"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[Principia Philosophiae]]",
+                "refs": [
+                  {
+                    "uid": "2yIPBk_QT"
+                  }
+                ],
+                "uid": "DvpZl_RDY",
+                "edit-time": 1617651788925,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2yIPBk_QT"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "XqtMcn6uS",
+            "edit-time": 1617651790111,
+            ":block/refs": [
+              {
+                ":block/uid": "P9A5QXfdy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xzh42EJ8p",
+        "edit-time": 1617651786076,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1617601102558,
         "children": [
           {
@@ -3324,6 +3522,24 @@
         },
         "uid": "diHB9cXJr",
         "edit-time": 1617618580855,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[money]]",
+        "refs": [
+          {
+            "uid": "PThdLGlIL"
+          }
+        ],
+        "uid": "T1gloz-R6",
+        "edit-time": 1617653155040,
+        ":block/refs": [
+          {
+            ":block/uid": "PThdLGlIL"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -4022,20 +4238,103 @@
         "edit-time": 1617648224572,
         "children": [
           {
-            "string": "\"Relativity\" is a word we [associate with Einstein], but the concept [goes much further back]. Galileo, Newton, and many others were [well aware that] [[velocity]] — [the speed and direction of an object's motion](((Ndc5Aj0zR))) —is relative. In modern terms, from the batter's point of view, [a well-pitched fastball] 一个投得好的快球 [might be approaching at] 100 miles per hour. From the baseball's [point of view], it's the batter who is approaching at 100 miles per hour. Both descriptions are accurate; it's just [a matter of perspective](((I09zrPaL2))). Motion has meaning only [in a relational sense]: [An object's velocity] [can be specified only in relation to] that of another object. You've probably experienced this. [When the train you are on] is next to another and you see [[relative motion]], [you can't immediately tell] which train is actually [moving on the tracks]. Galileo [described this effect] [using the transport of his day], boats. [Drop a coin] [on a smoothly sailing ship], Galileo said, and [it will hit your foot] [just as it would] [on dry land]. From your perspective, you are justified in declaring that you are stationary and it's the water that is rushing by the ship's hull. And since from this point of view you are not moving, the coin's motion relative to your foot will be exactly what it would have been before you embarked.\n(一个物体的速度只有在比较与其它物体的相对关系时才能被确定下来)",
-            "create-time": 1617648224568,
-            ":block/refs": [
+            "edit-time": 1617649703741,
+            "children": [
               {
-                ":block/uid": "Ndc5Aj0zR"
+                "string": "Galileo [described this effect] [using the transport of his day], boats. [Drop a coin] [on a smoothly sailing ship], Galileo said, and [it will hit your foot] [just as it would] [on dry land]. From your perspective, [you are justified in declaring that] you are stationary and it's the water that is [rushing by the ship's hull]. And since [from this point of view] [you are not moving], [the coin's motion](((IZ2IXnBb4))) relative to your foot [will be exactly what it would have been] [before you embarked]. 在你上船之前\n(一个物体的速度只有在比较与其它物体的相对关系时才能被确定下来--在船上抛下的硬币-由于船上的你是静止的，硬币的运动与通常情况不会有任何差别)",
+                "create-time": 1617648224568,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IZ2IXnBb4"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "IZ2IXnBb4"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "nGMfnfmrq",
+                "edit-time": 1617649746180,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               },
               {
-                ":block/uid": "SNIAAdvwf"
+                "string": "Of course, [there are circumstances under which](((1rKKMwl-2))) your motion [seems intrinsic](((nOhvKZ5_K))), [when you can feel it] and [you seem able to declare], without [recourse to external comparisons], 无需依赖于与外部环境的比较 that you are definitely moving. This is the case with [[accelerated motion]], motion in which your speed and/or your direction changes. If [the boat you are on] [suddenly lurches one way or another], or slows down or speeds up, or [changes direction by rounding a bend], or [gets caught in a whirlpool] and [spins around and around], you know that you are moving. And you realize this without looking out and [comparing your motion with] [some chosen point of reference]([[reference point]]). Even if [your eyes are closed], you know you're moving, because you feel it. Thus, while you can't feel motion with [[constant speed]] that [heads in an unchanging straight-line trajectory]—[[constant velocity motion]], it's called—you can feel [changes to your velocity].\n(在加速运动中，你能够明确感觉到你正在运动)",
+                "create-time": 1617649781997,
+                ":block/refs": [
+                  {
+                    ":block/uid": "nOhvKZ5_K"
+                  },
+                  {
+                    ":block/uid": "1rKKMwl-2"
+                  },
+                  {
+                    ":block/uid": "s5DeFTK2p"
+                  },
+                  {
+                    ":block/uid": "3ltM4MtEy"
+                  },
+                  {
+                    ":block/uid": "5ZzsMEv6l"
+                  },
+                  {
+                    ":block/uid": "QxCSsy4CE"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "nOhvKZ5_K"
+                  },
+                  {
+                    "uid": "1rKKMwl-2"
+                  },
+                  {
+                    "uid": "s5DeFTK2p"
+                  },
+                  {
+                    "uid": "3ltM4MtEy"
+                  },
+                  {
+                    "uid": "5ZzsMEv6l"
+                  },
+                  {
+                    "uid": "QxCSsy4CE"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "u1kKkyv7z",
+                "edit-time": 1617650427623,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               },
               {
-                ":block/uid": "6NTPADzJj"
-              },
-              {
-                ":block/uid": "I09zrPaL2"
+                "string": "But if you think about it for a moment, there is something odd about this. What is it about changes in velocity that allows them to stand alone, to have [intrinsic meaning]? If velocity is something that [makes sense only by comparisons] —by saying that this is moving [with respect to that](((PfykFUQUr)))— how is it that changes in velocity are somehow different, and don't also [require comparisons to] [give them meaning]? In fact, could it be that they actually do [require a comparison to be made]? Could it be that there is some [implicit or hidden comparison] that is [actually at work] [every time we refer to] or [experience accelerated motion]? This is a [central question] we're heading toward because, perhaps surprisingly, it [touches on the deepest issues] [surrounding the meaning of] [space and time].\n(速度的意义是需要在比较中确定的，不存在一个固有速度)",
+                "create-time": 1617649781997,
+                ":block/refs": [
+                  {
+                    ":block/uid": "PfykFUQUr"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "PfykFUQUr"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "TLvC22SlI",
+                "edit-time": 1617651321632,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -4052,11 +4351,118 @@
                 "uid": "I09zrPaL2"
               }
             ],
+            "uid": "CJc7jrVuq",
+            ":block/refs": [
+              {
+                ":block/uid": "Ndc5Aj0zR"
+              },
+              {
+                ":block/uid": "SNIAAdvwf"
+              },
+              {
+                ":block/uid": "6NTPADzJj"
+              },
+              {
+                ":block/uid": "I09zrPaL2"
+              }
+            ],
+            "string": "\"Relativity\" is a word we [associate with Einstein], but the concept [goes much further back]. Galileo, Newton, and many others were [well aware that] [[velocity]] — [the speed and direction of an object's motion](((Ndc5Aj0zR))) —is relative. In modern terms, from the batter's point of view, [a well-pitched fastball] 一个投得好的快球 [might be approaching at] 100 miles per hour. From the baseball's [point of view], it's the batter who is approaching at 100 miles per hour. Both descriptions are accurate; it's just [a matter of perspective](((I09zrPaL2))). Motion has meaning only [in a relational sense]: [An object's velocity] [can be specified only in relation to] that of another object. You've probably experienced this. [When the train you are on] is next to another and you see [[relative motion]], [you can't immediately tell] which train is actually [moving on the tracks]. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "nGMfnfmrq",
-            "edit-time": 1617648651460,
+            "create-time": 1617649703741,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1617652083953,
+            "children": [
+              {
+                "string": "But what, Newton asked, do these notions of \"motionless\" or \"straight line at constant speed\" really mean? Motionless or constant speed [with respect to what]? Motionless or constant speed [from whose viewpoint](((I09zrPaL2)))? If velocity is not constant, **with respect to what or from whose viewpoint is it not constant?** Descartes [correctly teased out] [aspects of motion's meaning], 梳理出运动意义的各个方面 but Newton realized that he [left key questions unanswered].\n(笛卡尔认为，物体具有抗拒改变自身运动状态的特性-问题在于，究竟相对于何者而静止或是做匀速运动)\n210406-03:47",
+                "create-time": 1617651438155,
+                ":block/refs": [
+                  {
+                    ":block/uid": "I09zrPaL2"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "I09zrPaL2"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "oviqS5_Rc",
+                "edit-time": 1617654547250,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Newton —a man so [driven by the pursuit of truth] that he once [shoved a blunt needle] 插入一根钝针 [between his eye and the socket bone] 眼窝骨 to study [ocular anatomy](((0OuAnr570))) and, later in life as [[Master of the Mint]], [meted out the harshest of punishments to] 最严厉的惩罚 counterfeiters, 造假者 sending more than a hundred to the gallows 绞刑架—[had no tolerance for] [false or incomplete reasoning]. So he decided to [set the record straight](((x4jUEtKks))). This led him to introduce the bucket.[1]",
+                "create-time": 1617651438155,
+                ":block/refs": [
+                  {
+                    ":block/uid": "0OuAnr570"
+                  },
+                  {
+                    ":block/uid": "0IMsBlMhu"
+                  },
+                  {
+                    ":block/uid": "x4jUEtKks"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "0OuAnr570"
+                  },
+                  {
+                    "uid": "0IMsBlMhu"
+                  },
+                  {
+                    "uid": "x4jUEtKks"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "mDstpzru9",
+                "edit-time": 1617653529282,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "aKDfqxZQs"
+              },
+              {
+                "uid": "P9A5QXfdy"
+              },
+              {
+                "uid": "2yIPBk_QT"
+              }
+            ],
+            "uid": "_m8TV-KLu",
+            ":block/refs": [
+              {
+                ":block/uid": "aKDfqxZQs"
+              },
+              {
+                ":block/uid": "P9A5QXfdy"
+              },
+              {
+                ":block/uid": "2yIPBk_QT"
+              }
+            ],
+            "string": "Galileo's insights about motion, most notably his assertion that [the earth itself moves], [brought upon him the wrath of] [the Inquisition](((aKDfqxZQs))). 引起了宗教裁判所的愤怒 A more cautious [[Descartes]], in his [[Principia Philosophiae]] (Principles of Philosophy), sought to [avoid a similar fate] and [couched his understanding of] motion [in an equivocating framework] 在一个模棱两可的框架中阐述了 that [could not stand up to the close scrutiny] 经不起严密的审查 Newton gave it some thirty years later. Descartes spoke about objects' [having a resistance to changes to their state of motion]: [something that is motionless] [will stay motionless unless] [someone or something forces it to move]; something that is [moving in a straight line] [at constant speed] will [maintain that motion] until [someone or something forces it to change]. ",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617652083953,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -4069,6 +4475,278 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617648223757,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 2
+      },
+      {
+        "edit-time": 1617653628871,
+        "children": [
+          {
+            "edit-time": 1617654499165,
+            "children": [
+              {
+                "string": "* The terms [[centrifugal force]] and [[centripetal force]] are [sometimes used] when describing [[spinning motion]]. But they are merely labels. Our intent is to understand why spinning motion [gives rise to force].",
+                "create-time": 1617653664725,
+                ":block/refs": [
+                  {
+                    ":block/uid": "3uA4lpR9Q"
+                  },
+                  {
+                    ":block/uid": "zZEaQ7OSc"
+                  },
+                  {
+                    ":block/uid": "rZe8IndId"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "3uA4lpR9Q"
+                  },
+                  {
+                    "uid": "zZEaQ7OSc"
+                  },
+                  {
+                    "uid": "rZe8IndId"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "KXzcLsdfX",
+                "edit-time": 1617654610937,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[Agglomeration equilibrium] 集聚均衡 is the result of [the interaction of centrifugal force and centripetal force]. www.[fabiao].net",
+                "create-time": 1617654363933,
+                "uid": "_yhczwSCR",
+                "edit-time": 1617654375851,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "23-g_XxGE"
+              },
+              {
+                "uid": "oBvaQJcDd"
+              },
+              {
+                "uid": "IWUCejNez"
+              }
+            ],
+            "uid": "0i5-y3Xzg",
+            ":block/refs": [
+              {
+                ":block/uid": "23-g_XxGE"
+              },
+              {
+                ":block/uid": "oBvaQJcDd"
+              },
+              {
+                ":block/uid": "IWUCejNez"
+              }
+            ],
+            "string": "When we left the bucket, [both it and the water within] were spinning, with [the water's surface] [forming a concave shape]. [The issue Newton raised](((23-g_XxGE))) is, Why does the water's surface [take this shape]? Well, because it's spinning, you say, and just as we [feel pressed against the side of a car] [when it takes a sharp turn], the water [gets pressed against] [the side of the bucket] as it spins. __And the [only place for] the [pressed water] to go is upward.__ [This reasoning is sound], as far as it goes, but it [misses the real intent of] Newton's question. He [wanted to know] [what it means to say that] the water is spinning: spinning with respect to what? Newton was [grappling with](((IWUCejNez))) [the very foundation of motion] and was [far from ready to accept that] accelerated motion such as spinning—is [somehow beyond the need for] [[external comparison]]s.*\n(水受到了内壁的挤压，只能向上走-我们真正想问的是，为什么旋转运动产生了离心力和向心力)\n210406-04:25",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617653657789,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1617655030894,
+            "children": [
+              {
+                "string": "In fact, we can take [[Newton's bucket experiment]] [one small step further]. As the bucket continues to spin, [the rope will twist again](((GAeoO1NQM))) (in the other direction), causing the bucket to slow down and [momentarily come to rest], 瞬时 while [the water inside] [continues to spin]. At this point, the relative motion between the water and the bucket is the same as it was [near the very beginning of the experiment] (except for [the inconsequential difference of] [clockwise vs. counterclockwise motion]), but [the shape of the water's surface] is different (previously being flat, now being concave); ^^this [shows conclusively that] the relative motion [cannot explain the surface's shape]^^.\n(拧转绳子使得水桶停下来，由于水仍然在旋转，因而仍旧存在相对运动，但此时的水面不是平的而是凸的——开头的解释失效了)",
+                "create-time": 1617655142090,
+                ":block/refs": [
+                  {
+                    ":block/uid": "MWV7znvD1"
+                  },
+                  {
+                    ":block/uid": "GAeoO1NQM"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "MWV7znvD1"
+                  },
+                  {
+                    "uid": "GAeoO1NQM"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "0AhsZdwze",
+                "edit-time": 1617656460303,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "6NTPADzJj"
+              },
+              {
+                "uid": "x9A7zUnOi"
+              }
+            ],
+            "uid": "kRkjne2k9",
+            ":block/refs": [
+              {
+                ":block/uid": "6NTPADzJj"
+              },
+              {
+                ":block/uid": "x9A7zUnOi"
+              }
+            ],
+            "string": "[A natural suggestion is to] [use the bucket itself as] [the object of reference]([[reference object]]). But, as Newton argued, this fails. You see, at first when we [let the bucket start to spin], there is definitely [[relative motion]] [between the bucket and the water], because the water [does not immediately move]. Even so, [the surface of the water] [stays flat]. Then, a little later, [when the water is spinning] and there isn't relative motion between the bucket and the water, the surface of the water is concave. So, with the bucket as our [object of reference], we [get exactly the opposite of] [what we expect]: when there is relative motion, the water's surface is flat; and when there is no relative motion, the surface is concave.\n(如果以水桶本身作为参考系，只能得到相反的结论)",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617653657789,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1617658018473,
+            "children": [
+              {
+                "string": "And instead of [opting for another go] [on this particular amusement park ride], many have been [eyeing the exits]. 考虑退路 ((ElP4ttvif))",
+                "create-time": 1617656849356,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ElP4ttvif"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ElP4ttvif"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "1obGYn4yn",
+                "edit-time": 1617656874047,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "He answered by fixing on the [ultimate container] as the [[relevant frame of reference]]: space itself. He proposed that the transparent, [empty arena] [in which we are all immersed] and within which [all motion takes place] exists as a real, [[physical entity]], which he called [[absolute space]].[2] We can't [grab or clutch absolute space], we can't [taste or smell or hear] absolute space, but nevertheless Newton declared that absolute space is a something. It's the something, he proposed, that [provides the truest reference for] [describing motion]. [An object is truly at rest] [when it is at rest] [with respect to absolute space]. An object is truly moving when it is [moving with respect to absolute space]. And, most important, Newton concluded, an object is truly accelerating when it is accelerating with respect to absolute space.\n(静止/运动/加速运动的物体在相对于绝对空间时才是真正静止/运动/加速运动的)\n210406-05:32",
+                "create-time": 1617658075046,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vsBLfcCn1"
+                  },
+                  {
+                    ":block/uid": "PzlWXXi9-"
+                  },
+                  {
+                    ":block/uid": "OqumjAbRW"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "vsBLfcCn1"
+                  },
+                  {
+                    "uid": "PzlWXXi9-"
+                  },
+                  {
+                    "uid": "OqumjAbRW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "-nnlD2AAj",
+                "edit-time": 1617658526525,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Newton used this proposal to explain the terrestrial bucket experi- ment in the following way. At the beginning of the experiment, the bucket is spinning with respect to absolute space, but the water is stationary with respect to absolute space. That's why the water's surface is flat. As the water catches up with the bucket, it is now spinning with respect to absolute space, and that's why its surface becomes concave. As the bucket slows because of the tightening rope, the water continues to spin —spin- ning with respect to absolute space —and that's why its surface continues to be concave. And so, whereas relative motion between the water and the bucket cannot account for the observations, relative motion between the water and absolute space can. Space itself provides the true frame of ref- erence for defining motion.",
+                "create-time": 1617658075046,
+                "uid": "7HoPnEGdB",
+                "edit-time": 1617658075051,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "U7hdbrsKu"
+              },
+              {
+                "uid": "bqT2qm2MB"
+              },
+              {
+                "uid": "teCjFGNWj"
+              },
+              {
+                "uid": "i-aYBvTot"
+              },
+              {
+                "uid": "u6mRipimL"
+              }
+            ],
+            "uid": "xlZkO0mr3",
+            ":block/refs": [
+              {
+                ":block/uid": "U7hdbrsKu"
+              },
+              {
+                ":block/uid": "bqT2qm2MB"
+              },
+              {
+                ":block/uid": "teCjFGNWj"
+              },
+              {
+                ":block/uid": "i-aYBvTot"
+              },
+              {
+                ":block/uid": "u6mRipimL"
+              }
+            ],
+            "string": "Having ruled out the bucket as a [[relevant reference]] for the motion of the water, Newton boldly 大胆地 [took the next step]. Imagine, he suggested, [another version of] the [spinning bucket experiment] carried out in deep, cold, completely [[empty space]]. We can't [run exactly the same experiment], since the shape of the water's surface [depended in part on] [the pull of earth's gravity], and [in this version] [the earth is absent]. So, to [create a more workable example], let's imagine [we have a huge bucket]—one as large as any [amusement park ride] 游乐场游乐设施 —that is [floating in the darkness of empty space], and imagine that [a fearless astronaut], Homer, is strapped to the bucket's [[interior wall]]. (Newton didn't actually use this example; he suggested using [two rocks tied together by a rope], but the point is the same.) The [telltale sign](((u6mRipimL))) that [the bucket is spinning], ^^the analog of [the water being pushed outward]^^ [yielding a concave surface]([[concave surface]]), is that Homer will [feel pressed against] [the inside of the bucket], his [facial skin] [pulling taut], 他的面部皮肤绷紧 his stomach slightly compressing, and his hair (both strands) [straining back toward the bucket wall]. Here is the question: in totally empty space —no sun, no earth, no air, no doughnuts, no anything —[what could possibly serve as] the \"something\" [with respect to which] [the bucket is spinning]? At first, since we are [imagining space is completely empty] [except for the bucket and its contents], [it looks as if] [there simply isn't anything else to] [serve as the something]. Newton disagreed.\n(不考虑地球重力对水面的影响-开始感受到内壁的压力，实际上等效于水面呈凸形)",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617656494085,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "text-align": "center",
+        "uid": "H6FxBxaC8",
+        "string": "The Bucket",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617653628449,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -4151,9 +4829,147 @@
         ],
         "children": [
           {
-            "string": "a matter of perspective; point of view",
+            "string": "[[external comparison]]",
+            "create-time": 1617654122315,
+            ":block/refs": [
+              {
+                ":block/uid": "oBvaQJcDd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oBvaQJcDd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "5Pp4ktmMa",
+            "edit-time": 1617654124459,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Galileo's coin in the ship",
+            "create-time": 1617649725713,
+            "uid": "IZ2IXnBb4",
+            "edit-time": 1617649731506,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "a matter of perspective; point of view; viewpoint; with respect to what",
             "uid": "I09zrPaL2",
-            "edit-time": 1617648638282,
+            "edit-time": 1617652046504,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Newton's bucket experiment]]; [[water bucket experiment]]",
+            "refs": [
+              {
+                "uid": "TkT2yejJS"
+              },
+              {
+                "uid": "MWV7znvD1"
+              }
+            ],
+            "children": [
+              {
+                "string": "concave shape; [[concave surface]]",
+                "create-time": 1617647413970,
+                ":block/refs": [
+                  {
+                    ":block/uid": "i-aYBvTot"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "i-aYBvTot"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "_u-EvXS-0",
+                "edit-time": 1617657058551,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[interior wall]]",
+                "create-time": 1617656921803,
+                ":block/refs": [
+                  {
+                    ":block/uid": "teCjFGNWj"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "teCjFGNWj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "sfRCJp0gd",
+                "edit-time": 1617656923747,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "spinning water bucket",
+                "create-time": 1617647816885,
+                "uid": "GKhwdZJBm",
+                "edit-time": 1617647821500,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "bXBZowyKG",
+            "edit-time": 1617655208356,
+            ":block/refs": [
+              {
+                ":block/uid": "TkT2yejJS"
+              },
+              {
+                ":block/uid": "MWV7znvD1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((ls-eUqsX-))",
+            "create-time": 1617650314297,
+            ":block/refs": [
+              {
+                ":block/uid": "ls-eUqsX-"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ls-eUqsX-"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "--bSUvucb",
+            "edit-time": 1617650315241,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -4176,6 +4992,28 @@
           {
             "string": "absolute conception of space and time",
             "children": [
+              {
+                "string": "[[absolute space]]",
+                "create-time": 1617658279684,
+                ":block/refs": [
+                  {
+                    ":block/uid": "OqumjAbRW"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "OqumjAbRW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "xKhID6UWO",
+                "edit-time": 1617658280613,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "string": "Newtonian worldview",
                 "uid": "RU4Ebt98p",
@@ -4203,50 +5041,6 @@
             ":block/refs": [
               {
                 ":block/uid": "U7hdbrsKu"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[water bucket experiment]]",
-            "refs": [
-              {
-                "uid": "TkT2yejJS"
-              }
-            ],
-            "children": [
-              {
-                "string": "concave shape",
-                "create-time": 1617647413970,
-                "uid": "_u-EvXS-0",
-                "edit-time": 1617647415452,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "spinning water bucket",
-                "create-time": 1617647816885,
-                "uid": "GKhwdZJBm",
-                "edit-time": 1617647821500,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "bXBZowyKG",
-            "edit-time": 1617647310974,
-            ":block/refs": [
-              {
-                ":block/uid": "TkT2yejJS"
               }
             ],
             ":edit/user": {
@@ -4597,6 +5391,250 @@
     },
     "children": [
       {
+        "string": "[[accelerated motion]]",
+        "refs": [
+          {
+            "uid": "s5DeFTK2p"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[constant velocity motion]]; [[constant speed]]",
+            "create-time": 1617650449191,
+            ":block/refs": [
+              {
+                ":block/uid": "5ZzsMEv6l"
+              },
+              {
+                ":block/uid": "QxCSsy4CE"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5ZzsMEv6l"
+              },
+              {
+                "uid": "QxCSsy4CE"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "X2Ua85eT1",
+            "edit-time": 1617650456335,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Qy8rP9Y1J",
+        "edit-time": 1617650320985,
+        ":block/refs": [
+          {
+            ":block/uid": "s5DeFTK2p"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[centrifugal force]] 离心力; [[centripetal force]] 向心力",
+        "refs": [
+          {
+            "uid": "zZEaQ7OSc"
+          },
+          {
+            "uid": "rZe8IndId"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[spinning motion]]",
+            "refs": [
+              {
+                "uid": "3uA4lpR9Q"
+              }
+            ],
+            "uid": "fC2FE3a0X",
+            "edit-time": 1617654671474,
+            ":block/refs": [
+              {
+                ":block/uid": "3uA4lpR9Q"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "i1D1qMErj",
+        "edit-time": 1617654735234,
+        ":block/refs": [
+          {
+            ":block/uid": "zZEaQ7OSc"
+          },
+          {
+            ":block/uid": "rZe8IndId"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Galileo experiment",
+        "children": [
+          {
+            "string": "dropped weights from a leaning tower",
+            "uid": "7ZeGD8xb4",
+            "edit-time": 1617654170484,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[inclined surface]]",
+            "refs": [
+              {
+                "uid": "iVegz7BTP"
+              }
+            ],
+            "uid": "GVLo4koEt",
+            "edit-time": 1617654174408,
+            ":block/refs": [
+              {
+                ":block/uid": "iVegz7BTP"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "1CYb5A0DK",
+        "edit-time": 1617654170484,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1617656624709,
+        "children": [
+          {
+            "string": "[[frame of reference]]",
+            "refs": [
+              {
+                "uid": "GnrCutSxs"
+              }
+            ],
+            "children": [
+              {
+                "string": "((xKhID6UWO))",
+                "create-time": 1617658290749,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xKhID6UWO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xKhID6UWO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Ua-wZGL0L",
+                "edit-time": 1617658291513,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[reference point]]; [[reference object]]",
+                "refs": [
+                  {
+                    "uid": "3ltM4MtEy"
+                  },
+                  {
+                    "uid": "x9A7zUnOi"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "[[relevant reference]]; [[relevant frame of reference]]",
+                    "refs": [
+                      {
+                        "uid": "bqT2qm2MB"
+                      },
+                      {
+                        "uid": "vsBLfcCn1"
+                      }
+                    ],
+                    "uid": "amZAX2cJQ",
+                    "edit-time": 1617658175818,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "bqT2qm2MB"
+                      },
+                      {
+                        ":block/uid": "vsBLfcCn1"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "ls-eUqsX-",
+                "edit-time": 1617654901934,
+                ":block/refs": [
+                  {
+                    ":block/uid": "3ltM4MtEy"
+                  },
+                  {
+                    ":block/uid": "x9A7zUnOi"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "1VH7GqnDP",
+            "edit-time": 1617658186822,
+            ":block/refs": [
+              {
+                ":block/uid": "GnrCutSxs"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EoZnrD6nf"
+          }
+        ],
+        "uid": "Fsay0m5V5",
+        ":block/refs": [
+          {
+            ":block/uid": "EoZnrD6nf"
+          }
+        ],
+        "string": "((EoZnrD6nf))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617656624104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[velocity]] - the speed and direction of an object's motion",
         "refs": [
           {
@@ -4638,6 +5676,1570 @@
     "title": "relative motion",
     "uid": "6NTPADzJj",
     "edit-time": 1617648466298,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617649894041,
+    "title": "word map",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "English",
+        "create-time": 1617649895619,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "c",
+            "create-time": 1617650017881,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "ci",
+                "create-time": 1617650018268,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "circle",
+                    "uid": "BsWA16EA6",
+                    "edit-time": 1617650020329,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "circum-",
+                    "children": [
+                      {
+                        "string": "circumstance: 情况, 状况, 环境;",
+                        "uid": "1rKKMwl-2",
+                        "edit-time": 1617650020329,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "9PVKrGfY8",
+                    "edit-time": 1617650020329,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "cite",
+                    "children": [
+                      {
+                        "string": "citation",
+                        "uid": "pc_5V-Oko",
+                        "edit-time": 1617650020329,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "cited;",
+                        "uid": "mH0_FR5IB",
+                        "edit-time": 1617650020329,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "4hlOF7ZIA",
+                    "edit-time": 1617650020329,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "bb0bbksL3",
+                "edit-time": 1617650019577,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "gBN1S1Icq",
+            "edit-time": 1617650018274,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "g",
+            "create-time": 1617654053571,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "gr",
+                "create-time": 1617654053871,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "gra",
+                    "create-time": 1617654055492,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "grapple",
+                        "children": [
+                          {
+                            "string": "grapple with: 扭打, 抓住;",
+                            "uid": "IWUCejNez",
+                            "edit-time": 1617654057563,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "3Jb9wegnw",
+                        "edit-time": 1617654057563,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "gray",
+                        "children": [
+                          {
+                            "string": "grey;",
+                            "uid": "VicqwXqG6",
+                            "edit-time": 1617654057563,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "w_wDgKCD_",
+                        "edit-time": 1617654057563,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "cbrrDIIbF",
+                    "edit-time": 1617654056778,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "SDUtrJAJS",
+                "edit-time": 1617654055497,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "T8MfNAHGg",
+            "edit-time": 1617654053876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "i",
+            "create-time": 1617649897645,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "in",
+                "create-time": 1617649899876,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "int",
+                    "create-time": 1617649900929,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "intrinsic: 固有的; 内在的; 本身的, 本征的, 本质的;",
+                        "create-time": 1617649902297,
+                        "uid": "nOhvKZ5_K",
+                        "edit-time": 1617649904003,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "eqj52J2_v",
+                    "edit-time": 1617649902303,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "O8otjKIhW",
+                "edit-time": 1617649900933,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "is",
+                "create-time": 1617653794920,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "isle",
+                    "children": [
+                      {
+                        "string": "island",
+                        "uid": "7PbOftTYT",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "islet",
+                        "uid": "GJmLmFcZI",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "insula",
+                        "uid": "TW5ym2H2X",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "peninsula",
+                        "uid": "0IejJzSoY",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "wlXEYoq2S",
+                    "edit-time": 1617653796462,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "iso-",
+                    "children": [
+                      {
+                        "string": "isolate",
+                        "children": [
+                          {
+                            "string": "isolated;",
+                            "uid": "xNNtow0ms",
+                            "edit-time": 1617653796462,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "Ba6-xZLc1",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "lZDvuzZ2G",
+                    "edit-time": 1617653796462,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "issue, 3",
+                    "children": [
+                      {
+                        "string": "issuable;",
+                        "uid": "POoVI4bvr",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "open issue;",
+                        "uid": "N6myRIVcL",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "raise the issue;",
+                        "uid": "23-g_XxGE",
+                        "edit-time": 1617653796462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "GlqjhIOuz",
+                    "edit-time": 1617653796462,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "9HyaG6Pz2",
+                "edit-time": 1617653795668,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "zMsDJngXH",
+            "edit-time": 1617649899883,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "r",
+            "create-time": 1617651139786,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "re",
+                "create-time": 1617651140082,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "res",
+                    "create-time": 1617651141059,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "reside, 2",
+                        "children": [
+                          {
+                            "string": "resident;",
+                            "uid": "fvAKfW1OX",
+                            "edit-time": 1617651143551,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "dXunSiHmA",
+                        "edit-time": 1617651143551,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "respect",
+                        "uid": "UoTOS6Jia",
+                        "edit-time": 1617651143551,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "respect",
+                        "children": [
+                          {
+                            "string": "respective",
+                            "uid": "PHVm8XDXg",
+                            "edit-time": 1617651143551,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "with respect to: 相对于;",
+                            "uid": "PfykFUQUr",
+                            "edit-time": 1617651143551,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "t7zneoVco",
+                        "edit-time": 1617651143551,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "Jrju8WmUN",
+                    "edit-time": 1617651142661,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "XUkhtSp3P",
+                "edit-time": 1617651141066,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "CniMcX4aS",
+            "edit-time": 1617651140087,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "t",
+            "create-time": 1617655307875,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "tw",
+                "create-time": 1617655308153,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "twi-",
+                    "children": [
+                      {
+                        "string": "twin",
+                        "children": [
+                          {
+                            "string": "intertwined;",
+                            "uid": "zXFnjJjVB",
+                            "edit-time": 1617655310173,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "twined;",
+                            "uid": "O3YYZZfpR",
+                            "edit-time": 1617655310173,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "Y96TgSl7Z",
+                        "edit-time": 1617655310173,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "YFsU9H6-U",
+                    "edit-time": 1617655310173,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "twist: 扭, 拧;",
+                    "uid": "GAeoO1NQM",
+                    "edit-time": 1617655310173,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "Xu0i5ZVCZ",
+                "edit-time": 1617655309317,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "3XLTetNOu",
+            "edit-time": 1617655308161,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-WHIItxdB",
+        "edit-time": 1617649897652,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "wDgtaI-3Y",
+    "edit-time": 1617649894041,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617650132507,
+    "title": "accelerated motion",
+    "uid": "s5DeFTK2p",
+    "edit-time": 1617650132508,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617650258486,
+    "title": "reference point",
+    "uid": "3ltM4MtEy",
+    "edit-time": 1617650258488,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617650392591,
+    "title": "constant speed",
+    "uid": "5ZzsMEv6l",
+    "edit-time": 1617650392599,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617650404255,
+    "title": "constant velocity motion",
+    "uid": "QxCSsy4CE",
+    "edit-time": 1617650404256,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617651592342,
+    "title": "religion",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Christian]]",
+        "refs": [
+          {
+            "uid": "dS6x0ijGS"
+          }
+        ],
+        "uid": "Al1dhB6TC",
+        "edit-time": 1617651615556,
+        ":block/refs": [
+          {
+            ":block/uid": "dS6x0ijGS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "CpR9PcYLM",
+    "edit-time": 1617651592343,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617651615557,
+    "title": "Christian",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Catholic",
+        "children": [
+          {
+            "string": "Inquisition: 宗教裁判所",
+            "uid": "aKDfqxZQs",
+            "edit-time": 1617651586534,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "S6PGiNxlg",
+        "edit-time": 1617651586534,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "dS6x0ijGS",
+    "edit-time": 1617651615558,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617651701474,
+    "title": "Descartes",
+    "uid": "P9A5QXfdy",
+    "edit-time": 1617651701476,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617651704837,
+    "title": "Principia Philosophiae",
+    "uid": "2yIPBk_QT",
+    "edit-time": 1617651704838,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653021734,
+    "title": "medicine",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "anatomy",
+        "children": [
+          {
+            "string": "ocular anatomy: 眼部解剖",
+            "uid": "0OuAnr570",
+            "edit-time": 1617653023325,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rRfpAe7k-",
+        "edit-time": 1617653023325,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((8ZOG_owC5))",
+        "create-time": 1617657834910,
+        ":block/refs": [
+          {
+            ":block/uid": "8ZOG_owC5"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8ZOG_owC5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "THXu-p6y0",
+        "edit-time": 1617657835812,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Eehn_6om5",
+    "edit-time": 1617653021734,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653114493,
+    "title": "Master of the Mint",
+    "uid": "0IMsBlMhu",
+    "edit-time": 1617653114494,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653155041,
+    "title": "money",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "mint: 造币厂;",
+        "children": [
+          {
+            "string": "[[Master of the Mint]]",
+            "refs": [
+              {
+                "uid": "0IMsBlMhu"
+              }
+            ],
+            "uid": "6fj-Io4JL",
+            "edit-time": 1617653163505,
+            ":block/refs": [
+              {
+                ":block/uid": "0IMsBlMhu"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5QzcHKdl0",
+        "edit-time": 1617653149774,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "PThdLGlIL",
+    "edit-time": 1617653155042,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653267799,
+    "title": "language",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[dictionary]]",
+        "refs": [
+          {
+            "uid": "xhWuti44z"
+          }
+        ],
+        "uid": "AipZYSn7x",
+        "edit-time": 1617653275817,
+        ":block/refs": [
+          {
+            ":block/uid": "xhWuti44z"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "prefixed ",
+        "create-time": 1617657379200,
+        "uid": "oNP_DnzqV",
+        "edit-time": 1617657380101,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "20CNlBH55",
+    "edit-time": 1617653267800,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653275819,
+    "title": "dictionary",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[extract example sentences from the dictionary]([[example sentence]])",
+        "refs": [
+          {
+            "uid": "tmN3Bb5mW"
+          }
+        ],
+        "uid": "T1GpoLfBB",
+        "edit-time": 1617653313918,
+        ":block/refs": [
+          {
+            ":block/uid": "tmN3Bb5mW"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Oxford English Dictionary]]",
+        "refs": [
+          {
+            "uid": "iPz5hYYcS"
+          }
+        ],
+        "uid": "oJFmUHx-r",
+        "edit-time": 1617653306188,
+        ":block/refs": [
+          {
+            ":block/uid": "iPz5hYYcS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "xhWuti44z",
+    "edit-time": 1617653275819,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653306191,
+    "title": "Oxford English Dictionary",
+    "uid": "iPz5hYYcS",
+    "edit-time": 1617653306192,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653313920,
+    "title": "example sentence",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617657313958,
+        "children": [
+          {
+            "string": "The telltale sign 依据的标志 is that [files prefixed with](((oNP_DnzqV))) \"_atc\" are compiled. ",
+            "create-time": 1617657314290,
+            ":block/refs": [
+              {
+                ":block/uid": "oNP_DnzqV"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oNP_DnzqV"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "u6mRipimL",
+            "edit-time": 1617657385770,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "---",
+            "create-time": 1617657413530,
+            "uid": "05hjzG-YQ",
+            "edit-time": 1617657415629,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Hm0iK6K3f"
+          }
+        ],
+        "uid": "__44zEawJ",
+        ":block/refs": [
+          {
+            ":block/uid": "Hm0iK6K3f"
+          }
+        ],
+        "string": "www.[[ibm]].com",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617657310558,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "柯林斯词典 (柯林斯高阶英汉双解学习词典)",
+        "create-time": 1617653384514,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Let me [set the record straight on the misconceptions] [contained in your article]. ",
+            "create-time": 1617653554602,
+            "uid": "Zx7WbQDwI",
+            "edit-time": 1617653569563,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "---",
+            "create-time": 1617653556144,
+            "uid": "2NbUTjvRZ",
+            "edit-time": 1617653558216,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "jldk-hLLo",
+        "edit-time": 1617653394162,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1617657401700,
+        "children": [
+          {
+            "string": "How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 ",
+            "create-time": 1617657401695,
+            "uid": "ipLghVG6U",
+            "edit-time": 1617657427875,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "---",
+            "create-time": 1617657411297,
+            "uid": "WljtV-nWu",
+            "edit-time": 1617657412773,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZnOC8Gx-u"
+          }
+        ],
+        "uid": "yhg9KnsRU",
+        ":block/refs": [
+          {
+            ":block/uid": "ZnOC8Gx-u"
+          }
+        ],
+        "string": "www.[[ebigear]].com",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617657395387,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "www.[[fortunechina]].com",
+        "create-time": 1617656859670,
+        ":block/refs": [
+          {
+            ":block/uid": "7_-ra01OT"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "7_-ra01OT"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ElP4ttvif",
+        "edit-time": 1617656863110,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1617657506900,
+        "children": [
+          {
+            "string": "She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 ",
+            "create-time": 1617657497453,
+            ":block/refs": [
+              {
+                ":block/uid": "O5of1ubBq"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "O5of1ubBq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "H6yQmi7tL",
+            "edit-time": 1617657807695,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "---",
+            "create-time": 1617653456099,
+            "uid": "nenT167U9",
+            "edit-time": 1617653457794,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "However, I would like to [set the record straight on a few points]. ",
+            "create-time": 1617653452912,
+            "uid": "Pou2n_fNZ",
+            "edit-time": 1617653495359,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I'd like to set the record straight. I didn't do it. 纠正一下, 澄清事实",
+            "create-time": 1617653452912,
+            "uid": "x4jUEtKks",
+            "edit-time": 1617653452913,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I have to set the record straight. 我得把事情搞明白了",
+            "create-time": 1617653452912,
+            "uid": "iNYeGYieF",
+            "edit-time": 1617653452913,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Set the record straight; made sure the facts were straight in the report. ",
+            "create-time": 1617653452912,
+            "uid": "9zXfFM_SI",
+            "edit-time": 1617653452913,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "---",
+            "create-time": 1617653458272,
+            "uid": "5E1oW6ScR",
+            "edit-time": 1617653459691,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "e4lhO95n8"
+          }
+        ],
+        "uid": "a-2LediG7",
+        ":block/refs": [
+          {
+            ":block/uid": "e4lhO95n8"
+          }
+        ],
+        "string": "provided by [[jukuu]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617653444986,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "misc; others",
+        "create-time": 1617657440356,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn",
+            "create-time": 1617657442473,
+            "uid": "kPwf4MZQj",
+            "edit-time": 1617657482389,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hEjgn2690",
+        "edit-time": 1617657450816,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1617653477443,
+        "uid": "RH1pwLOns",
+        "edit-time": 1617653478427,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "archived",
+        "create-time": 1617653478422,
+        "uid": "idw9ES-Sf",
+        "edit-time": 1617653483951,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "tmN3Bb5mW",
+    "edit-time": 1617653313920,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617653977936,
+    "title": "external comparison",
+    "uid": "oBvaQJcDd",
+    "edit-time": 1617653977937,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617654174411,
+    "title": "inclined surface",
+    "uid": "iVegz7BTP",
+    "edit-time": 1617654174412,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617654303193,
+    "title": "spinning motion",
+    "uid": "3uA4lpR9Q",
+    "edit-time": 1617654303194,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617654586289,
+    "title": "centrifugal force",
+    "uid": "zZEaQ7OSc",
+    "edit-time": 1617654586290,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617654586289,
+    "title": "centripetal force",
+    "uid": "rZe8IndId",
+    "edit-time": 1617654586290,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617654878632,
+    "title": "reference object",
+    "uid": "x9A7zUnOi",
+    "edit-time": 1617654878632,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617655179290,
+    "title": "Newton's bucket experiment",
+    "uid": "MWV7znvD1",
+    "edit-time": 1617655179291,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617656517331,
+    "title": "relevant reference",
+    "uid": "bqT2qm2MB",
+    "edit-time": 1617656517333,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617656863111,
+    "title": "fortunechina",
+    "uid": "7_-ra01OT",
+    "edit-time": 1617656863112,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617656908852,
+    "title": "interior wall",
+    "uid": "teCjFGNWj",
+    "edit-time": 1617656908852,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657058553,
+    "title": "concave surface",
+    "uid": "i-aYBvTot",
+    "edit-time": 1617657058554,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657313960,
+    "title": "ibm",
+    "uid": "Hm0iK6K3f",
+    "edit-time": 1617657313961,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657401702,
+    "title": "ebigear",
+    "uid": "ZnOC8Gx-u",
+    "edit-time": 1617657401702,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657506902,
+    "title": "jukuu",
+    "uid": "e4lhO95n8",
+    "edit-time": 1617657506903,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657524964,
+    "title": "lipstick",
+    "uid": "O5of1ubBq",
+    "edit-time": 1617657524964,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657797757,
+    "title": "daily life",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "day-to-day life;",
+        "uid": "dvEfFbdJ-",
+        "edit-time": 1617657820856,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "food and drink; tabemono, nomemono;",
+        "uid": "XF1KVuF7L",
+        "edit-time": 1617657820856,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "personal care and service occupations 个人护理和服务职业",
+        "children": [
+          {
+            "string": "[[cosmetics]]",
+            "refs": [
+              {
+                "uid": "rfH41FgGD"
+              }
+            ],
+            "uid": "Brnk9Ew5_",
+            "edit-time": 1617657846517,
+            ":block/refs": [
+              {
+                ":block/uid": "rfH41FgGD"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "8ZOG_owC5",
+        "edit-time": 1617657820856,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "EfuEHBPyi",
+    "edit-time": 1617657797758,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657797757,
+    "title": "everyday life",
+    "uid": "WBKahqQz6",
+    "edit-time": 1617657797758,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617657846519,
+    "title": "cosmetics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[lipstick]]",
+        "refs": [
+          {
+            "uid": "O5of1ubBq"
+          }
+        ],
+        "uid": "XxkZewHuY",
+        "edit-time": 1617657863362,
+        ":block/refs": [
+          {
+            ":block/uid": "O5of1ubBq"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rfH41FgGD",
+    "edit-time": 1617657846520,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617658103430,
+    "title": "relevant frame of reference",
+    "uid": "vsBLfcCn1",
+    "edit-time": 1617658103431,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617658186824,
+    "title": "frame of reference",
+    "uid": "GnrCutSxs",
+    "edit-time": 1617658186825,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617658226817,
+    "title": "physical entity",
+    "uid": "PzlWXXi9-",
+    "edit-time": 1617658226818,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617658241809,
+    "title": "absolute space",
+    "uid": "OqumjAbRW",
+    "edit-time": 1617658241810,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617658382320,
+    "title": "non-physical entity",
+    "uid": "oNfciLfUn",
+    "edit-time": 1617658382321,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

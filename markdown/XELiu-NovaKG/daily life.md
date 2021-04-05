@@ -1,0 +1,4 @@
+- day-to-day life;
+- food and drink; tabemono, nomemono;
+- personal care and service occupations 个人护理和服务职业
+    - [[cosmetics]]
