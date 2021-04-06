@@ -1,0 +1,2 @@
+- [[extraterrestrial intelligence]]; 外星人
+    - [[extraterrestrial vehicle]]

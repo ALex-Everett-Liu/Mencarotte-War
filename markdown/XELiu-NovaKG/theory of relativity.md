@@ -1,17 +1,11 @@
 - [[general theory of relativity]]; [[general relativity]]
 - [[nonrelativistic motion]]
 - [[relative motion]]
-    - [[external comparison]]
-    - Galileo's coin in the ship
-    - a matter of perspective; point of view; viewpoint; with respect to what
-    - [[Newton's bucket experiment]]; [[water bucket experiment]]
-        - concave shape; [[concave surface]]
-        - [[interior wall]]
-        - spinning water bucket
-    - [[reference point]]; [[reference object]]
 - space and time
     - absolute conception of space and time
         - [[absolute space]]
         - Newtonian worldview
     - [[empty space]]
+        - [[relationist position]]: 关系论
+            - [[independent existence]]; relative
 - [[special theory of relativity]]; [[special relativity]]

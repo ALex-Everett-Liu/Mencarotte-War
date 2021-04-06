@@ -1,0 +1,8 @@
+- [[external world]]
+    - [[artificial world]]
+- [[human experience]]
+    - [[common experience]]; everyday experience; ordinary experience
+    - [[internal experience]]; [[psychological experience]]
+        - [[neurological stimulation]]
+- [[independent existence]]; relative
+- nature of reality

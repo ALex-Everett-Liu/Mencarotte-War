@@ -1,5 +1,10 @@
 - English
     - c
+        - ca
+            - caution
+                - cautious
+                - cautionary: 警告;
+            - cavity
         - ci
             - circle
             - circum-
@@ -7,6 +12,18 @@
             - cite
                 - citation
                 - cited;
+        - co
+            - con
+                - contra
+                    - contradict
+                        - contradictory
+                    - contrast
+                        - contrasted;
+                    - controvert
+                        - controversial: 引起争议
+    - e
+        - ex
+            - exclude
     - g
         - gr
             - gra
@@ -16,6 +33,14 @@
                     - grey;
     - i
         - in
+            - inc
+                - incident
+                    - incidence; incidentally
+                - include
+                    - exclude
+                        - exclusive;
+                            - [[mutually exclusive]];
+                    - included; including
             - int
                 - intrinsic: 固有的; 内在的; 本身的, 本征的, 本质的;
         - is
@@ -31,6 +56,20 @@
                 - issuable;
                 - open issue;
                 - raise the issue;
+    - p
+        - pa
+            - par
+                - part
+                    - depart
+                        - department
+                        - departure, 2
+                    - partial; partially
+                    - particle
+                        - particular
+                    - partisan: 党羽, 效忠, 虔诚信徒;
+                    - pars; parse: 解析, 分列;
+                        - parsing: 语法分析, 剖析;
+                    - [[party]]
     - r
         - re
             - res

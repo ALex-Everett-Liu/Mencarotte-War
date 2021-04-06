@@ -55,6 +55,28 @@
         }
       },
       {
+        "string": "[[engineering]]",
+        "create-time": 1617663852807,
+        ":block/refs": [
+          {
+            ":block/uid": "u_vXFC73s"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "u_vXFC73s"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "TWryzgmql",
+        "edit-time": 1617663858269,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[daily life]]; [[everyday life]]...",
         "create-time": 1617657791375,
         ":block/refs": [
@@ -224,6 +246,60 @@
         },
         "uid": "PGj4XDqDv",
         "edit-time": 1617653021731,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[military]]",
+        "refs": [
+          {
+            "uid": "biujg3BIW"
+          }
+        ],
+        "uid": "JTNphXUhM",
+        "edit-time": 1617664613238,
+        ":block/refs": [
+          {
+            ":block/uid": "biujg3BIW"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[non-reality]]",
+        "refs": [
+          {
+            "uid": "EK4_qZuoX"
+          }
+        ],
+        "uid": "YVZxlOElj",
+        "edit-time": 1617664796278,
+        ":block/refs": [
+          {
+            ":block/uid": "EK4_qZuoX"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[philosophy]]",
+        "refs": [
+          {
+            "uid": "F-fRGZMF3"
+          }
+        ],
+        "uid": "KK9hSqinu",
+        "edit-time": 1617670316681,
+        ":block/refs": [
+          {
+            ":block/uid": "F-fRGZMF3"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2711,13 +2787,59 @@
     },
     "children": [
       {
-        "string": " ",
+        "string": "[[pre-shang]]",
         "create-time": 1617595796094,
-        "uid": "ah7DKrUqd",
-        "edit-time": 1617595808838,
+        ":block/refs": [
+          {
+            ":block/uid": "GYKU2NkwJ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "GYKU2NkwJ"
+          }
+        ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "uid": "ah7DKrUqd",
+        "edit-time": 1617672823768,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "zhou",
+        "create-time": 1617672808602,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[chu kingdom]]",
+            "create-time": 1617672835373,
+            ":block/refs": [
+              {
+                ":block/uid": "Uvzg4SaNp"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Uvzg4SaNp"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "WNWYUZA3f",
+            "edit-time": 1617672854321,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "IM_oauDC1",
+        "edit-time": 1617672813208,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2758,6 +2880,54 @@
         },
         "uid": "CQ2RUUweA",
         "edit-time": 1617595847678,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1617668003148,
+        "uid": "60q6KJu4T",
+        "edit-time": 1617668004481,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1617668013082,
+        "children": [
+          {
+            "string": "",
+            "create-time": 1617668013077,
+            "uid": "UFB8jds80",
+            "edit-time": 1617668013077,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "x8d0ACJEI",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617668004474,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2844,6 +3014,52 @@
         "string": "general...",
         "children": [
           {
+            "string": "condition...",
+            "children": [
+              {
+                "string": "[[extreme condition]]",
+                "refs": [
+                  {
+                    "uid": "KqVfaoEC1"
+                  }
+                ],
+                "uid": "ErFmHJfer",
+                "edit-time": 1617666159598,
+                ":block/refs": [
+                  {
+                    ":block/uid": "KqVfaoEC1"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[idealized situation]]",
+                "refs": [
+                  {
+                    "uid": "5DfIU75oi"
+                  }
+                ],
+                "uid": "YjucNobqc",
+                "edit-time": 1617666158220,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5DfIU75oi"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Eg2yPnunj",
+            "edit-time": 1617666155163,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "object, entity...",
             "children": [
               {
@@ -2896,6 +3112,40 @@
         ],
         "uid": "HtN8p2InI",
         "edit-time": 1617658374458,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "meta phys...",
+        "children": [
+          {
+            "string": "[[reality]]; [[physical reality]]",
+            "refs": [
+              {
+                "uid": "J-eWZZ4Zi"
+              },
+              {
+                "uid": "UoRFoA-yD"
+              }
+            ],
+            "uid": "aqaXNWb3w",
+            "edit-time": 1617669374098,
+            ":block/refs": [
+              {
+                ":block/uid": "J-eWZZ4Zi"
+              },
+              {
+                ":block/uid": "UoRFoA-yD"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "MlSAr6bIo",
+        "edit-time": 1617669344679,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3731,91 +3981,137 @@
     },
     "children": [
       {
-        "string": "user...",
-        "create-time": 1617618809600,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
+        "edit-time": 1617665494407,
         "children": [
           {
-            "string": "comment; review;",
-            "children": [
+            "string": "[[prospective customer]];",
+            "create-time": 1617665474211,
+            ":block/refs": [
               {
-                "string": "[[book review]];",
-                "refs": [
-                  {
-                    "uid": "mMkKsISKb"
-                  }
-                ],
-                "uid": "sRqsd5dOm",
-                "edit-time": 1617618828525,
-                ":block/refs": [
-                  {
-                    ":block/uid": "mMkKsISKb"
-                  }
-                ],
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "controversy",
-                "uid": "5Ifof7bYV",
-                "edit-time": 1617618813411,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
+                ":block/uid": "iwncocaFt"
               }
             ],
-            "uid": "ONUj5f9bR",
-            "edit-time": 1617618813411,
+            "refs": [
+              {
+                "uid": "iwncocaFt"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "wuzH6xBnh",
+            "edit-time": 1617665484116,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "recommendation...",
+            "string": "user...",
+            "create-time": 1617618809600,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             "children": [
               {
-                "string": "[[recommendation engine]]",
-                "create-time": 1617620279741,
-                ":block/refs": [
+                "string": "comment; review;",
+                "children": [
                   {
-                    ":block/uid": "ay2BjFg8O"
+                    "string": "[[book review]];",
+                    "refs": [
+                      {
+                        "uid": "mMkKsISKb"
+                      }
+                    ],
+                    "uid": "sRqsd5dOm",
+                    "edit-time": 1617618828525,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "mMkKsISKb"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "controversy",
+                    "uid": "5Ifof7bYV",
+                    "edit-time": 1617618813411,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
-                "refs": [
-                  {
-                    "uid": "ay2BjFg8O"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "ObwO_rpDb",
-                "edit-time": 1617620282450,
+                "uid": "ONUj5f9bR",
+                "edit-time": 1617618813411,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               },
               {
-                "string": "related term; most frequently terms",
-                "uid": "xNltNgNJj",
+                "string": "recommendation...",
+                "children": [
+                  {
+                    "string": "[[recommendation engine]]",
+                    "create-time": 1617620279741,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ay2BjFg8O"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ay2BjFg8O"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "ObwO_rpDb",
+                    "edit-time": 1617620282450,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "related term; most frequently terms",
+                    "uid": "xNltNgNJj",
+                    "edit-time": 1617618916207,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "L7Me8N5mH",
                 "edit-time": 1617618916207,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               }
             ],
-            "uid": "L7Me8N5mH",
-            "edit-time": 1617618916207,
+            "uid": "UMQ-A1ajR",
+            "edit-time": 1617618812543,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "uid": "UMQ-A1ajR",
-        "edit-time": 1617618812543,
+        "refs": [
+          {
+            "uid": "zWYMToA9j"
+          }
+        ],
+        "uid": "BT1dYLv2g",
+        ":block/refs": [
+          {
+            ":block/uid": "zWYMToA9j"
+          }
+        ],
+        "string": "[[customer]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617665471967,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -4649,7 +4945,7 @@
                 }
               },
               {
-                "string": "He answered by fixing on the [ultimate container] as the [[relevant frame of reference]]: space itself. He proposed that the transparent, [empty arena] [in which we are all immersed] and within which [all motion takes place] exists as a real, [[physical entity]], which he called [[absolute space]].[2] We can't [grab or clutch absolute space], we can't [taste or smell or hear] absolute space, but nevertheless Newton declared that absolute space is a something. It's the something, he proposed, that [provides the truest reference for] [describing motion]. [An object is truly at rest] [when it is at rest] [with respect to absolute space]. An object is truly moving when it is [moving with respect to absolute space]. And, most important, Newton concluded, an object is truly accelerating when it is accelerating with respect to absolute space.\n(静止/运动/加速运动的物体在相对于绝对空间时才是真正静止/运动/加速运动的)\n210406-05:32",
+                "string": "He answered by fixing on 确定 the [ultimate container] as the [[relevant frame of reference]]: space itself. He proposed that the transparent, [empty arena] [in which we are all immersed] and within which [all motion takes place] exists as a real, [[physical entity]], which he called [[absolute space]].[2] We can't [grab or clutch absolute space], we can't [taste or smell or hear] absolute space, but nevertheless Newton declared that absolute space is a something. It's the something, he proposed, that [provides the truest reference for] [describing motion]. [An object is truly at rest] [when it is at rest] [with respect to absolute space]. An object is truly moving when it is [moving with respect to absolute space]. And, most important, Newton concluded, an object is truly accelerating when it is accelerating with respect to absolute space.\n(静止/运动/加速运动的物体在相对于绝对空间时才是真正静止/运动/加速运动的)\n210406-05:32",
                 "create-time": 1617658075046,
                 ":block/refs": [
                   {
@@ -4677,19 +4973,63 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "-nnlD2AAj",
-                "edit-time": 1617658526525,
+                "edit-time": 1617663027030,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               },
               {
-                "string": "Newton used this proposal to explain the terrestrial bucket experi- ment in the following way. At the beginning of the experiment, the bucket is spinning with respect to absolute space, but the water is stationary with respect to absolute space. That's why the water's surface is flat. As the water catches up with the bucket, it is now spinning with respect to absolute space, and that's why its surface becomes concave. As the bucket slows because of the tightening rope, the water continues to spin —spin- ning with respect to absolute space —and that's why its surface continues to be concave. And so, whereas relative motion between the water and the bucket cannot account for the observations, relative motion between the water and absolute space can. Space itself provides the true frame of ref- erence for defining motion.",
+                "string": "Newton [used this proposal to explain] the [terrestrial bucket experiment] [in the following way]. At the beginning of the experiment, the bucket is spinning with respect to absolute space, but [the water is stationary](((7ED9Xcewm))) [with respect to absolute space]. That's why [the water's surface is flat]. 一开始水相对于绝对空间是静止的，因而水面是平的 As the water [catches up with the bucket], it is now [spinning with respect to absolute space], and that's why [its surface becomes concave]. [As the bucket slows] because of [the tightening rope], 拧紧的 the water [continues to spin] —spinning with respect to absolute space —and that's why its surface [continues to be concave]. And so, whereas [relative motion between] the water and the bucket cannot [account for the observations], relative motion between the water and absolute space can. Space itself [provides the true frame of reference for] [defining motion].\n(当水面相对于绝对空间是旋转的时候，水面就呈现凸形-只有当绝对空间作为参考系的时候，才真正定义了运动的概念)",
                 "create-time": 1617658075046,
-                "uid": "7HoPnEGdB",
-                "edit-time": 1617658075051,
+                ":block/refs": [
+                  {
+                    ":block/uid": "7ED9Xcewm"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "7ED9Xcewm"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "7HoPnEGdB",
+                "edit-time": 1617663530646,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "The bucket is but an example; the reasoning is of course far more general. According to Newton's perspective, when you [round the bend in a car], you [feel the change in your velocity] because you are [accelerating with respect to absolute space]. When [the plane you are on](((P1F2OLwH3))) is [gearing up for takeoff], 准备起飞 you [feel pressed back in your seat] because you are accelerating with respect to absolute space. When you [spin around on ice skates], 溜冰 you feel [your arms being flung outward] because you are accelerating with respect to absolute space. By contrast, if someone were able to [spin the entire ice arena] [while you stood still] (assuming the [[idealized situation]] of [frictionless skates](((uPrTveiWj))))—giving rise to the same relative motion between you and the ice—you would not [feel your arms flung outward], because you would not be accelerating with respect to absolute space. And, just to make sure you don't [get sidetracked by] [the irrelevant details of examples] that [use the human body], when Newton's [two rocks tied together by a rope] [twirl around in empty space], [the rope pulls taut] because the rocks are accelerating with respect to absolute space. Absolute space [has the final word on] [what it means to move]. 最终决定权, 一锤定音\n210406-07:42",
+                "create-time": 1617663649623,
+                ":block/refs": [
+                  {
+                    ":block/uid": "P1F2OLwH3"
+                  },
+                  {
+                    ":block/uid": "5DfIU75oi"
+                  },
+                  {
+                    ":block/uid": "uPrTveiWj"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "P1F2OLwH3"
+                  },
+                  {
+                    "uid": "5DfIU75oi"
+                  },
+                  {
+                    "uid": "uPrTveiWj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "QZFe5THhn",
+                "edit-time": 1617666325583,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -4738,6 +5078,44 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "But what is absolute space, really? In [dealing with this question], Newton [responded with a bit of fancy footwork] and [the force of fiat]. He first wrote in the Principia \"I do not define time, space, place, and motion, as [they] are well known to all,\"[3] [sidestepping any attempt to] 横跨, 回避 [describe these concepts with rigor or precision]. His next words have become famous: \"Absolute space, in its own nature, [without reference to] anything external, remains always similar and immovable.\" That is, absolute space just is, and is forever. Period. 就是这么回事儿 But [there are glimmers that] Newton was [not completely comfortable with] [simply declaring the existence] and importance of something that [you can't directly see], measure, or affect. He wrote,",
+            "create-time": 1617663649623,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "> It is indeed [a matter of great difficulty to] discover and effectually to distinguish [the true motions of particular bodies] from the apparent, because the parts of that [immovable space] [in which those motions are performed] do by no means [come under the observations of our senses].[4]",
+                "create-time": 1617663649623,
+                "uid": "cBNzbhK-V",
+                "edit-time": 1617668782957,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "bGd_jIbbK",
+            "edit-time": 1617668713331,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "So Newton leaves us in [a somewhat awkward position]. He puts absolute space [front and center in the description of] [the most basic and essential element] of physics —motion—but he [leaves its definition vague] and [acknowledges his own discomfort about] [placing such an important egg in] [such an elusive basket]. Many others have [shared this discomfort].\n(无法真正地观测到绝对空间导致了对运动的定义蒙上了一层阴影)\n210406-08:28",
+            "create-time": 1617663649623,
+            "uid": "bQ8dVVvxD",
+            "edit-time": 1617668976839,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "text-align": "center",
@@ -4747,6 +5125,240 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617653628449,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 2
+      },
+      {
+        "edit-time": 1617669001246,
+        "children": [
+          {
+            "edit-time": 1617670643954,
+            "children": [
+              {
+                "string": "For millennia, [the philosophical parsings of](((1DoKqIeFf))) space often [arose in tandem with] [theological inquiries]. 伴随着 God, according to some, is [[omnipresent]], an idea that [gives space a divine character]. [This line of reasoning] was advanced by 推理路线 [[Henry More]], a seventeenth-century [theologian/philosopher] who, some think, may have been one of Newton's mentors.[6] He believed that [if space were empty] [it would not exist], but [he also argued that] this is an [irrelevant observation] because, even when devoid of [[material object]]s, space is [filled with spirit], so it is never truly empty. Newton himself [took on a version of] this idea, [allowing space to be filled by] \"[[spiritual substance]]\" as well as [[material substance]], but [he was careful to add that] [such spiritual stuff] \"[can be no obstacle to] [the motion of matter]; no more than if [nothing were in its way].\"[7] Absolute space, Newton declared, is [the sensorium of God]. 神志, 感觉\n(空间是否是空的在神学上并不需要真正的观察，因为即使没有物质存在，也必定充满了精神存在)\n210406-08:58",
+                "create-time": 1617669001240,
+                ":block/refs": [
+                  {
+                    ":block/uid": "1DoKqIeFf"
+                  },
+                  {
+                    ":block/uid": "htqxdpQ-H"
+                  },
+                  {
+                    ":block/uid": "5D_8zey6h"
+                  },
+                  {
+                    ":block/uid": "hrnq_9Akw"
+                  },
+                  {
+                    ":block/uid": "eHjQbUdZs"
+                  },
+                  {
+                    ":block/uid": "18c2u8Txo"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "1DoKqIeFf"
+                  },
+                  {
+                    "uid": "htqxdpQ-H"
+                  },
+                  {
+                    "uid": "5D_8zey6h"
+                  },
+                  {
+                    "uid": "hrnq_9Akw"
+                  },
+                  {
+                    "uid": "eHjQbUdZs"
+                  },
+                  {
+                    "uid": "18c2u8Txo"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "sXsh2-1RG",
+                "edit-time": 1617670852176,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1617671121544,
+                "children": [
+                  {
+                    "edit-time": 1617672171886,
+                    "children": [
+                      {
+                        "string": "Leibniz [put forward a number of arguments] in support of this so-called [[relationist position]]. For example, he argued that if space really [exists as an entity](((z2tQi4CgP))), as a [background substance], God [would have had to choose] where in this substance to [place the universe]. But how could God, whose decisions all [have sound justification] 他的决定都有正当的理由 and are [never random or haphazard], have possibly distinguished one location [in the uniform void of] [empty space] from another, as they are all alike? To the scientifically receptive ear, this argument sounds tinny. But if we remove the theological element, as Leibniz himself did in other arguments he put forward, we are left with thorny issues: What is the location of the universe within space? If the universe were to move as a whole —leaving all relative positions of material objects intact—ten feet to the left or right, how would we know? What is the speed of the entire universe through the substance of space? If we are fundamentally unable to detect space, or changes within space, how can we claim it actually exists?\n(物质宇宙存在于绝对空间中的哪一处，为什么这些坐标是特殊的，区别于其他空无一物的绝对空间)",
+                        "create-time": 1617673113081,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "z2tQi4CgP"
+                          },
+                          {
+                            ":block/uid": "liSO_DqYx"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "z2tQi4CgP"
+                          },
+                          {
+                            "uid": "liSO_DqYx"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "qi_DHLcZo",
+                        "edit-time": 1617673540470,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "nBgwWJ6qS"
+                      },
+                      {
+                        "uid": "hSSedE0Wg"
+                      },
+                      {
+                        "uid": "l6aSbCGxR"
+                      },
+                      {
+                        "uid": "yvMYpyGcJ"
+                      },
+                      {
+                        "uid": "UoE10Q9R3"
+                      },
+                      {
+                        "uid": "22HcrHhon"
+                      },
+                      {
+                        "uid": "Kp4t9aQO7"
+                      }
+                    ],
+                    "uid": "LByriBNrG",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nBgwWJ6qS"
+                      },
+                      {
+                        ":block/uid": "hSSedE0Wg"
+                      },
+                      {
+                        ":block/uid": "l6aSbCGxR"
+                      },
+                      {
+                        ":block/uid": "yvMYpyGcJ"
+                      },
+                      {
+                        ":block/uid": "UoE10Q9R3"
+                      },
+                      {
+                        ":block/uid": "22HcrHhon"
+                      },
+                      {
+                        ":block/uid": "Kp4t9aQO7"
+                      }
+                    ],
+                    "string": "The great [German philosopher] [[Gottfried Wilhelm von Leibniz]], who was Newton's contemporary, [firmly believed that] space [does not exist in any conventional sense]. 传统意义 Talk of space, he claimed, is [nothing more than] [an easy and convenient way of] encoding [where things are relative to one another]. But without the objects in space, space itself [has no independent meaning or existence](((hSSedE0Wg))). Think of the [English alphabet]([[alphabet]]). It [provides an order for] [twenty-six letters](((l6aSbCGxR))) — it [provides relations such as] a is next to b, d is six letters before /', x is three letters after u, and so on. But without the letters, the alphabet [has no meaning]—it has no \"supra-letter,\" [[independent existence]]. Instead, the alphabet [comes into being with] the letters whose [[lexicographic relation]]s it supplies. Leibniz claimed that [the same is true for] space: Space [has no meaning beyond] [providing the natural language for] [discussing the relationship between] [one object's location] and another. According to Leibniz, ^^if all objects were [removed from space] —if space were [completely empty]—[it would be as meaningless as] an alphabet that's [missing its letters].^^ #pt10-100\n(莱布尼茨则认为，空间这个概念不过是代指/定义事物间联系的一种方式而已-没有物体本身，空间的概念就没有任何意义-如果没有任何物体，那么也就无需定义任何物体的位置，从而也不需要定义空间的存在)\n(这不就是范畴论的思路了吗)\n210406-09:20",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1617670894171,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "It is here that Newton stepped in with his bucket and dramatically changed the character of the debate. While Newton agreed that certain features of absolute space seem difficult or perhaps impossible to detect directly, he argued that the existence of absolute space does have consequences that are observable: accelerations, such as those at play in the rotating bucket, are accelerations with respect to absolute space. Thus, the concave shape of the water, according to Newton, is a consequence of the existence of absolute space. And Newton argued that once one has any solid evidence for something's existence, no matter how indirect, that ends the discussion. In one clever stroke, Newton shifted the debate about space from philosophical ponderings to scientifically verifiable data. The effect was palpable. In due course, Leibniz was forced to admit, \"I grant there is a difference between absolute true motion of a body and a mere relative change of its situation with respect to another body.\" 8 This was not a capitulation to Newton's absolute space, but it was a strong blow to the firm relationist position.",
+                    "create-time": 1617673113081,
+                    "uid": "PErj4ErrU",
+                    "edit-time": 1617673123110,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "During the next two hundred years, the arguments of Leibniz and others against assigning space an independent reality generated hardly an echo in the scientific community.[9] Instead, the pendulum had clearly swung to Newton's view of space; his laws of motion, founded on his concept of absolute space, took center stage. Certainly, the success of these laws in describing observations was the essential reason for their acceptance. It's striking to note, however, that Newton himself viewed all of his achievements in physics as merely forming the solid foundation to sup- port what he considered his really important discover)': absolute space. For Newton, it was all about space.[10]",
+                    "create-time": 1617673113081,
+                    "uid": "IBWnmprDo",
+                    "edit-time": 1617673128505,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_-BXOCxIa"
+                  }
+                ],
+                "uid": "SUx-GhIvk",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_-BXOCxIa"
+                  }
+                ],
+                "string": "Such [philosophical and religious musings] 冥思 on space [can be compelling and provocative], yet, as in Einstein's [cautionary remark](((_-BXOCxIa))) above, they lack [a critical sharpness of description]. But there is [a fundamental and precisely framed question] that [emerges from such discourse]: should we [ascribe an independent reality to] space, as we do for other, [more ordinary material objects] like [the book you are now holding], or should we think of space as [merely a language for] [describing relationships between] ordinary material objects?",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1617670894171,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "wAP_0jsw4"
+              },
+              {
+                "uid": "ZsbLYJ8Ql"
+              }
+            ],
+            "uid": "U9ZHTcJZN",
+            ":block/refs": [
+              {
+                ":block/uid": "wAP_0jsw4"
+              },
+              {
+                ":block/uid": "ZsbLYJ8Ql"
+              }
+            ],
+            "string": "Einstein [once said that] [if someone uses words like] \"red,\" \"hard,\" or \"disappointed,\" [we all basically know] [what is meant]. But as for the word \"space,\" \"whose relation with [[psychological experience]] is less direct, there exists [a far-reaching uncertainty of interpretation].\"' This uncertainty reaches far back: [the struggle to come to grips with the meaning of] space is [an ancient one]. Democritus, Epicurus, Lucretius, Pythagoras, Plato, Aristotle, and [many of their followers through the ages] [wrestled in one way or another] with the meaning of \"space.\" [Is there a difference between] space and matter? Does space [have an existence independent of] [the presence of material objects]? 实物的存在 Is there [such a thing as] empty space? Are space and matter [[mutually exclusive]]? Is space finite or infinite? ",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617670643954,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "text-align": "center",
+        "uid": "MeYpFeBXZ",
+        "string": "Space Jam",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617669000824,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -4821,167 +5433,23 @@
         }
       },
       {
-        "string": "[[relative motion]]",
-        "refs": [
-          {
-            "uid": "6NTPADzJj"
-          }
-        ],
-        "children": [
-          {
-            "string": "[[external comparison]]",
-            "create-time": 1617654122315,
-            ":block/refs": [
-              {
-                ":block/uid": "oBvaQJcDd"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "oBvaQJcDd"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "5Pp4ktmMa",
-            "edit-time": 1617654124459,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "Galileo's coin in the ship",
-            "create-time": 1617649725713,
-            "uid": "IZ2IXnBb4",
-            "edit-time": 1617649731506,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "a matter of perspective; point of view; viewpoint; with respect to what",
-            "uid": "I09zrPaL2",
-            "edit-time": 1617652046504,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[Newton's bucket experiment]]; [[water bucket experiment]]",
-            "refs": [
-              {
-                "uid": "TkT2yejJS"
-              },
-              {
-                "uid": "MWV7znvD1"
-              }
-            ],
-            "children": [
-              {
-                "string": "concave shape; [[concave surface]]",
-                "create-time": 1617647413970,
-                ":block/refs": [
-                  {
-                    ":block/uid": "i-aYBvTot"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "i-aYBvTot"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "_u-EvXS-0",
-                "edit-time": 1617657058551,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "[[interior wall]]",
-                "create-time": 1617656921803,
-                ":block/refs": [
-                  {
-                    ":block/uid": "teCjFGNWj"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "teCjFGNWj"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "sfRCJp0gd",
-                "edit-time": 1617656923747,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "spinning water bucket",
-                "create-time": 1617647816885,
-                "uid": "GKhwdZJBm",
-                "edit-time": 1617647821500,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "bXBZowyKG",
-            "edit-time": 1617655208356,
-            ":block/refs": [
-              {
-                ":block/uid": "TkT2yejJS"
-              },
-              {
-                ":block/uid": "MWV7znvD1"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "((ls-eUqsX-))",
-            "create-time": 1617650314297,
-            ":block/refs": [
-              {
-                ":block/uid": "ls-eUqsX-"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "ls-eUqsX-"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "--bSUvucb",
-            "edit-time": 1617650315241,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "EoZnrD6nf",
-        "edit-time": 1617648642661,
+        "string": "((EoZnrD6nf))",
+        "create-time": 1617663242957,
         ":block/refs": [
           {
-            ":block/uid": "6NTPADzJj"
+            ":block/uid": "EoZnrD6nf"
           }
         ],
+        "refs": [
+          {
+            "uid": "EoZnrD6nf"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "mqDEKqQ4F",
+        "edit-time": 1617663243841,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -5034,6 +5502,50 @@
             "refs": [
               {
                 "uid": "U7hdbrsKu"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[relationist position]]: 关系论",
+                "refs": [
+                  {
+                    "uid": "liSO_DqYx"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "[[independent existence]]; relative",
+                    "create-time": 1617671672717,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UoE10Q9R3"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "UoE10Q9R3"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "hSSedE0Wg",
+                    "edit-time": 1617671862782,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "L8bC0Pri7",
+                "edit-time": 1617673230740,
+                ":block/refs": [
+                  {
+                    ":block/uid": "liSO_DqYx"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "Fgjp3ggKF",
@@ -5391,54 +5903,6 @@
     },
     "children": [
       {
-        "string": "[[accelerated motion]]",
-        "refs": [
-          {
-            "uid": "s5DeFTK2p"
-          }
-        ],
-        "children": [
-          {
-            "string": "[[constant velocity motion]]; [[constant speed]]",
-            "create-time": 1617650449191,
-            ":block/refs": [
-              {
-                ":block/uid": "5ZzsMEv6l"
-              },
-              {
-                ":block/uid": "QxCSsy4CE"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "5ZzsMEv6l"
-              },
-              {
-                "uid": "QxCSsy4CE"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "X2Ua85eT1",
-            "edit-time": 1617650456335,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "Qy8rP9Y1J",
-        "edit-time": 1617650320985,
-        ":block/refs": [
-          {
-            ":block/uid": "s5DeFTK2p"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "[[centrifugal force]] 离心力; [[centripetal force]] 向心力",
         "refs": [
           {
@@ -5483,6 +5947,24 @@
         }
       },
       {
+        "string": "friction",
+        "children": [
+          {
+            "string": "frictionless;",
+            "uid": "uPrTveiWj",
+            "edit-time": 1617666077397,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "94Fq62xwa",
+        "edit-time": 1617666077397,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "Galileo experiment",
         "children": [
           {
@@ -5519,8 +6001,35 @@
         }
       },
       {
-        "edit-time": 1617656624709,
+        "string": "[[relative motion]]",
+        "refs": [
+          {
+            "uid": "6NTPADzJj"
+          }
+        ],
         "children": [
+          {
+            "string": "[[external comparison]]",
+            "create-time": 1617654122315,
+            ":block/refs": [
+              {
+                ":block/uid": "oBvaQJcDd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oBvaQJcDd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "5Pp4ktmMa",
+            "edit-time": 1617654124459,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "[[frame of reference]]",
             "refs": [
@@ -5612,24 +6121,117 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
-          }
-        ],
-        "refs": [
+          },
           {
-            "uid": "EoZnrD6nf"
+            "string": "Galileo's coin in the ship",
+            "create-time": 1617649725713,
+            "uid": "IZ2IXnBb4",
+            "edit-time": 1617649731506,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "a matter of perspective; point of view; viewpoint; with respect to what",
+            "uid": "I09zrPaL2",
+            "edit-time": 1617652046504,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Newton's bucket experiment]]; [[water bucket experiment]]",
+            "refs": [
+              {
+                "uid": "TkT2yejJS"
+              },
+              {
+                "uid": "MWV7znvD1"
+              }
+            ],
+            "children": [
+              {
+                "string": "concave shape; [[concave surface]]",
+                "create-time": 1617647413970,
+                ":block/refs": [
+                  {
+                    ":block/uid": "i-aYBvTot"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "i-aYBvTot"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "_u-EvXS-0",
+                "edit-time": 1617657058551,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[interior wall]]",
+                "create-time": 1617656921803,
+                ":block/refs": [
+                  {
+                    ":block/uid": "teCjFGNWj"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "teCjFGNWj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "sfRCJp0gd",
+                "edit-time": 1617656923747,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "spinning water bucket",
+                "create-time": 1617647816885,
+                "uid": "GKhwdZJBm",
+                "edit-time": 1617647821500,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "bXBZowyKG",
+            "edit-time": 1617655208356,
+            ":block/refs": [
+              {
+                ":block/uid": "TkT2yejJS"
+              },
+              {
+                ":block/uid": "MWV7znvD1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
-        "uid": "Fsay0m5V5",
+        "uid": "EoZnrD6nf",
+        "edit-time": 1617648642661,
         ":block/refs": [
           {
-            ":block/uid": "EoZnrD6nf"
+            ":block/uid": "6NTPADzJj"
           }
         ],
-        "string": "((EoZnrD6nf))",
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "create-time": 1617656624104,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -5639,6 +6241,68 @@
         "refs": [
           {
             "uid": "SNIAAdvwf"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[accelerated motion]]",
+            "refs": [
+              {
+                "uid": "s5DeFTK2p"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[constant velocity motion]]; [[constant speed]]",
+                "create-time": 1617650449191,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5ZzsMEv6l"
+                  },
+                  {
+                    ":block/uid": "QxCSsy4CE"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5ZzsMEv6l"
+                  },
+                  {
+                    "uid": "QxCSsy4CE"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "X2Ua85eT1",
+                "edit-time": 1617650456335,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "stationary; still",
+                "create-time": 1617663127356,
+                "uid": "7ED9Xcewm",
+                "edit-time": 1617666009550,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Qy8rP9Y1J",
+            "edit-time": 1617650320985,
+            ":block/refs": [
+              {
+                ":block/uid": "s5DeFTK2p"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "Ndc5Aj0zR",
@@ -5705,6 +6369,54 @@
             },
             "children": [
               {
+                "string": "ca",
+                "create-time": 1617671040248,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "caution",
+                    "children": [
+                      {
+                        "string": "cautious",
+                        "uid": "OsMYzeLJE",
+                        "edit-time": 1617671041791,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "cautionary: 警告;",
+                        "uid": "_-BXOCxIa",
+                        "edit-time": 1617671041791,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "H0Wtg4gOZ",
+                    "edit-time": 1617671041791,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "cavity",
+                    "uid": "Mq05-0yac",
+                    "edit-time": 1617671041791,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "_bmpKcCMN",
+                "edit-time": 1617671040942,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "ci",
                 "create-time": 1617650018268,
                 ":create/user": {
@@ -5769,10 +6481,152 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "co",
+                "create-time": 1617669868842,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "con",
+                    "create-time": 1617669869496,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "contra",
+                        "children": [
+                          {
+                            "string": "contradict",
+                            "children": [
+                              {
+                                "string": "contradictory",
+                                "uid": "Ly2CB3FhL",
+                                "edit-time": 1617669871462,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "-rGzgTZR1",
+                            "edit-time": 1617669871462,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "contrast",
+                            "children": [
+                              {
+                                "string": "contrasted;",
+                                "uid": "DeMHxQUUE",
+                                "edit-time": 1617669871462,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "eKh3Zi1kF",
+                            "edit-time": 1617669871462,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "controvert",
+                            "children": [
+                              {
+                                "string": "controversial: 引起争议",
+                                "uid": "VhEbpVxyR",
+                                "edit-time": 1617669871462,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "cxbKbtb-N",
+                            "edit-time": 1617669871462,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "5Nwz44lX2",
+                        "edit-time": 1617669871462,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "3o7Sr4tQg",
+                    "edit-time": 1617669870699,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "g_qSkxewq",
+                "edit-time": 1617669869501,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "gBN1S1Icq",
             "edit-time": 1617650018274,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "e",
+            "create-time": 1617669751658,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "ex",
+                "create-time": 1617669751940,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "((mQDBH46Is))",
+                    "create-time": 1617669753137,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "mQDBH46Is"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "mQDBH46Is"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "_4cVM_dHe",
+                    "edit-time": 1617669754659,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "PuAZWcDVc",
+                "edit-time": 1617669753143,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "VLixPTZnv",
+            "edit-time": 1617669751946,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -5869,6 +6723,94 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "children": [
+                  {
+                    "string": "inc",
+                    "create-time": 1617669717389,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "incident",
+                        "children": [
+                          {
+                            "string": "incidence; incidentally",
+                            "uid": "pOCnujMrH",
+                            "edit-time": 1617669719067,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "P1merP2nC",
+                        "edit-time": 1617669719067,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "include",
+                        "children": [
+                          {
+                            "string": "exclude",
+                            "children": [
+                              {
+                                "string": "exclusive;",
+                                "children": [
+                                  {
+                                    "string": "[[mutually exclusive]];",
+                                    "refs": [
+                                      {
+                                        "uid": "ZsbLYJ8Ql"
+                                      }
+                                    ],
+                                    "uid": "MMjQbg8l1",
+                                    "edit-time": 1617669735512,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "ZsbLYJ8Ql"
+                                      }
+                                    ],
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "8QlOcHyOn",
+                                "edit-time": 1617669719067,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "mQDBH46Is",
+                            "edit-time": 1617669719067,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "included; including",
+                            "uid": "S9GhPCIsx",
+                            "edit-time": 1617669719067,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "-8uy9CgqJ",
+                        "edit-time": 1617669719067,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "mrQSSpOsG",
+                    "edit-time": 1617669718263,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
                   {
                     "string": "int",
                     "create-time": 1617649900929,
@@ -6023,6 +6965,154 @@
             ],
             "uid": "zMsDJngXH",
             "edit-time": 1617649899883,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "p",
+            "create-time": 1617670162688,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "pa",
+                "create-time": 1617670163299,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "par",
+                    "create-time": 1617670164299,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "part",
+                        "children": [
+                          {
+                            "string": "depart",
+                            "children": [
+                              {
+                                "string": "department",
+                                "uid": "n3KMqPMQ2",
+                                "edit-time": 1617670166383,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "departure, 2",
+                                "uid": "O1NZijVCf",
+                                "edit-time": 1617670166383,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "SCrg0wUXe",
+                            "edit-time": 1617670166383,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "partial; partially",
+                            "uid": "1kUvYVqQE",
+                            "edit-time": 1617670166383,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "particle",
+                            "children": [
+                              {
+                                "string": "particular",
+                                "uid": "ziPWz0rTp",
+                                "edit-time": 1617670166383,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "pBq23ivkN",
+                            "edit-time": 1617670166383,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "partisan: 党羽, 效忠, 虔诚信徒;",
+                            "uid": "MK3FRFzw_",
+                            "edit-time": 1617670166383,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "pars; parse: 解析, 分列;",
+                            "children": [
+                              {
+                                "string": "parsing: 语法分析, 剖析;",
+                                "uid": "1DoKqIeFf",
+                                "edit-time": 1617670166383,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "lG-AmUsRQ",
+                            "edit-time": 1617670166383,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[[party]]",
+                            "refs": [
+                              {
+                                "uid": "dL16jJ0kF"
+                              }
+                            ],
+                            "uid": "_PyLhnaFx",
+                            "edit-time": 1617670166383,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dL16jJ0kF"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "LTcGSio5t",
+                        "edit-time": 1617670166383,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "SRjx_P7Tu",
+                    "edit-time": 1617670165528,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "b9VqS9dEY",
+                "edit-time": 1617670164305,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "xpCT9_HNZ",
+            "edit-time": 1617670163306,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -6279,6 +7369,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "((vtPXUh3Kg))",
+        "create-time": 1617670340679,
+        ":block/refs": [
+          {
+            ":block/uid": "vtPXUh3Kg"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "vtPXUh3Kg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Ns6kQ6-zZ",
+        "edit-time": 1617670341393,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "CpR9PcYLM",
@@ -6472,6 +7584,56 @@
             ":block/uid": "xhWuti44z"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "letter",
+        "children": [
+          {
+            "string": "[[alphabet]]",
+            "refs": [
+              {
+                "uid": "yvMYpyGcJ"
+              }
+            ],
+            "uid": "lyEViTUnr",
+            "edit-time": 1617671767453,
+            ":block/refs": [
+              {
+                ":block/uid": "yvMYpyGcJ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[lexicographic relation]]: 词典关系",
+            "create-time": 1617672122474,
+            ":block/refs": [
+              {
+                ":block/uid": "22HcrHhon"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "22HcrHhon"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "5HleVs3yi",
+            "edit-time": 1617672129604,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "l6aSbCGxR",
+        "edit-time": 1617671742675,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -7240,6 +8402,2212 @@
     "title": "non-physical entity",
     "uid": "oNfciLfUn",
     "edit-time": 1617658382321,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617663858271,
+    "title": "engineering",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[architecture]]",
+        "refs": [
+          {
+            "uid": "ptV3jRvQ3"
+          }
+        ],
+        "uid": "shTNwYXJY",
+        "edit-time": 1617663867767,
+        ":block/refs": [
+          {
+            ":block/uid": "ptV3jRvQ3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[aerospace engineering]]",
+        "refs": [
+          {
+            "uid": "U7Od1hhda"
+          }
+        ],
+        "uid": "AXoG23J1e",
+        "edit-time": 1617663871659,
+        ":block/refs": [
+          {
+            ":block/uid": "U7Od1hhda"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Mechanical Engineering (ME)]]",
+        "create-time": 1617665737539,
+        ":block/refs": [
+          {
+            ":block/uid": "g9P2EilVD"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "g9P2EilVD"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "SqQi7_t_8",
+        "edit-time": 1617665742969,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[space science]]",
+        "refs": [
+          {
+            "uid": "MtRZa7tId"
+          }
+        ],
+        "uid": "gRIKbuRzE",
+        "edit-time": 1617663870348,
+        ":block/refs": [
+          {
+            ":block/uid": "MtRZa7tId"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "u_vXFC73s",
+    "edit-time": 1617663858272,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617663867769,
+    "title": "architecture",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[architectural style]]",
+        "create-time": 1617663877341,
+        ":block/refs": [
+          {
+            ":block/uid": "nILxseNEH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nILxseNEH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "rZKMRgOcL",
+        "edit-time": 1617663881007,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ptV3jRvQ3",
+    "edit-time": 1617663867769,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617663870350,
+    "title": "space science",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((lQl7myKAv))",
+        "create-time": 1617664846063,
+        ":block/refs": [
+          {
+            ":block/uid": "lQl7myKAv"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "lQl7myKAv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "bFMwJ0Enp",
+        "edit-time": 1617664847375,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[NASA]]",
+        "create-time": 1617664847430,
+        ":block/refs": [
+          {
+            ":block/uid": "hEtOD4iw5"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hEtOD4iw5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Rlo7Th6_M",
+        "edit-time": 1617664852082,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[space-based experiment]]",
+        "refs": [
+          {
+            "uid": "_RskAkVuC"
+          }
+        ],
+        "uid": "ZwYEShCqC",
+        "edit-time": 1617663911377,
+        ":block/refs": [
+          {
+            ":block/uid": "_RskAkVuC"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "MtRZa7tId",
+    "edit-time": 1617663870351,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617663871661,
+    "title": "aerospace engineering",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[aeronautics]]",
+        "refs": [
+          {
+            "uid": "9lOmmBLbI"
+          }
+        ],
+        "uid": "cZyujk6nM",
+        "edit-time": 1617664509939,
+        ":block/refs": [
+          {
+            ":block/uid": "9lOmmBLbI"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[aerospace industry]]",
+        "refs": [
+          {
+            "uid": "RxPLnnV3b"
+          }
+        ],
+        "uid": "mQY9dxAgH",
+        "edit-time": 1617664511977,
+        ":block/refs": [
+          {
+            ":block/uid": "RxPLnnV3b"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[astronautics]]: 宇宙航天",
+        "refs": [
+          {
+            "uid": "oAz5vS-v7"
+          }
+        ],
+        "uid": "QNcowcTci",
+        "edit-time": 1617664508013,
+        ":block/refs": [
+          {
+            ":block/uid": "oAz5vS-v7"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "U7Od1hhda",
+    "edit-time": 1617663871661,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617663881008,
+    "title": "architectural style",
+    "uid": "nILxseNEH",
+    "edit-time": 1617663881009,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617663911379,
+    "title": "space-based experiment",
+    "uid": "_RskAkVuC",
+    "edit-time": 1617663911380,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617663913378,
+    "title": "spacecraft trajectory",
+    "uid": "S0VzgzYuN",
+    "edit-time": 1617663913378,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664508015,
+    "title": "astronautics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[spacecraft trajectory]]",
+        "refs": [
+          {
+            "uid": "S0VzgzYuN"
+          }
+        ],
+        "uid": "NPQynLHsl",
+        "edit-time": 1617664506978,
+        ":block/refs": [
+          {
+            ":block/uid": "S0VzgzYuN"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[space shuttle]]",
+        "refs": [
+          {
+            "uid": "JbxogLIES"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[hydrogen leak]]",
+            "refs": [
+              {
+                "uid": "R3P1Ud5yl"
+              }
+            ],
+            "uid": "Cs_MXhFO9",
+            "edit-time": 1617664893137,
+            ":block/refs": [
+              {
+                ":block/uid": "R3P1Ud5yl"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "G51D_zo99",
+        "edit-time": 1617664894266,
+        ":block/refs": [
+          {
+            ":block/uid": "JbxogLIES"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "oAz5vS-v7",
+    "edit-time": 1617664508016,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664509941,
+    "title": "aeronautics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617665359014,
+        "children": [
+          {
+            "string": "[[flying machine]];",
+            "create-time": 1617665829650,
+            ":block/refs": [
+              {
+                ":block/uid": "pCOB8CEbq"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "pCOB8CEbq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "AarH965sT",
+            "edit-time": 1617665834631,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "plane",
+            "create-time": 1617665875695,
+            "uid": "P1F2OLwH3",
+            "edit-time": 1617665876674,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "xEaUAT_8Q"
+          }
+        ],
+        "uid": "ezCDa4hVz",
+        ":block/refs": [
+          {
+            ":block/uid": "xEaUAT_8Q"
+          }
+        ],
+        "string": "[[aircraft]]: 航空器",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617665355522,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "9lOmmBLbI",
+    "edit-time": 1617664509941,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664511978,
+    "title": "aerospace industry",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1617664513496,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Shortly afterwards, cuts in [[defence spending]] 国防开支的削减 forced the aerospace industry to retrench. 紧缩开支 《((jldk-hLLo))》",
+            "create-time": 1617664521599,
+            ":block/refs": [
+              {
+                ":block/uid": "jldk-hLLo"
+              },
+              {
+                ":block/uid": "7Ieq489Pr"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "jldk-hLLo"
+              },
+              {
+                "uid": "7Ieq489Pr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "uzqyej03b",
+            "edit-time": 1617664558964,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The world's entire aerospace industry is [feeling the chill winds of recession]. 经济衰退的寒意",
+            "create-time": 1617664521599,
+            "uid": "jOQdDqiEC",
+            "edit-time": 1617664637510,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A [[hydrogen leak]] forced [[NASA]] to ground the [[space shuttle]]. 停止了航天飞机的发射",
+            "create-time": 1617664521599,
+            ":block/refs": [
+              {
+                ":block/uid": "R3P1Ud5yl"
+              },
+              {
+                ":block/uid": "hEtOD4iw5"
+              },
+              {
+                ":block/uid": "JbxogLIES"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "R3P1Ud5yl"
+              },
+              {
+                "uid": "hEtOD4iw5"
+              },
+              {
+                "uid": "JbxogLIES"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Gx9V1euOH",
+            "edit-time": 1617664650369,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "NASA is [hedging its bets] 做了两手准备 and [adopting both strategies]. 双管齐下",
+            "create-time": 1617664521599,
+            "uid": "iE8F34bng",
+            "edit-time": 1617664686870,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "NASA has [started a 10-year search for] [[extraterrestrial intelligence]]. ",
+            "create-time": 1617664521599,
+            ":block/refs": [
+              {
+                ":block/uid": "h0otBj8YS"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "h0otBj8YS"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "qRRYsEkT9",
+            "edit-time": 1617664692751,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "lgvgl_PGf",
+        "edit-time": 1617664515444,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "RxPLnnV3b",
+    "edit-time": 1617664511979,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664558966,
+    "title": "defence spending",
+    "uid": "7Ieq489Pr",
+    "edit-time": 1617664558966,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664613240,
+    "title": "military",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "defence...",
+        "children": [
+          {
+            "string": "[[defence spending]]",
+            "refs": [
+              {
+                "uid": "7Ieq489Pr"
+              }
+            ],
+            "uid": "C1Sn59OmH",
+            "edit-time": 1617664619938,
+            ":block/refs": [
+              {
+                ":block/uid": "7Ieq489Pr"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yJRZsxyQr",
+        "edit-time": 1617664610450,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "biujg3BIW",
+    "edit-time": 1617664613240,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664650371,
+    "title": "hydrogen leak",
+    "uid": "R3P1Ud5yl",
+    "edit-time": 1617664650372,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664650371,
+    "title": "NASA",
+    "uid": "hEtOD4iw5",
+    "edit-time": 1617664650372,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664650371,
+    "title": "space shuttle",
+    "uid": "JbxogLIES",
+    "edit-time": 1617664650372,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664692752,
+    "title": "extraterrestrial intelligence",
+    "uid": "h0otBj8YS",
+    "edit-time": 1617664692753,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664796280,
+    "title": "non-reality",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[science fiction]]",
+        "refs": [
+          {
+            "uid": "Je-XtO6e-"
+          }
+        ],
+        "uid": "gBTUTvS1M",
+        "edit-time": 1617664808514,
+        ":block/refs": [
+          {
+            ":block/uid": "Je-XtO6e-"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "EK4_qZuoX",
+    "edit-time": 1617664796280,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664808515,
+    "title": "science fiction",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[extraterrestrial intelligence]]; 外星人",
+        "refs": [
+          {
+            "uid": "h0otBj8YS"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[extraterrestrial vehicle]]",
+            "refs": [
+              {
+                "uid": "lUKzDIc_j"
+              }
+            ],
+            "uid": "IZYGWSRE-",
+            "edit-time": 1617664816153,
+            ":block/refs": [
+              {
+                ":block/uid": "lUKzDIc_j"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "lQl7myKAv",
+        "edit-time": 1617664817831,
+        ":block/refs": [
+          {
+            ":block/uid": "h0otBj8YS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Je-XtO6e-",
+    "edit-time": 1617664808516,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617664816156,
+    "title": "extraterrestrial vehicle",
+    "uid": "lUKzDIc_j",
+    "edit-time": 1617664816156,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665359016,
+    "title": "aircraft",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1617665360323,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "aerobat; air vehicle; flight vehicle",
+            "create-time": 1617665367378,
+            "uid": "08eo4DuQC",
+            "edit-time": 1617665367383,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Since its inception] 自成立以来 [the company has produced] 53 different [aircraft designs]. 《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1617665367378,
+            "uid": "xv9D9vnXt",
+            "edit-time": 1617665380575,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He was forced to [entrust an assistant with] the [important task] of 重任交托给 [testing and demonstrating] aircraft to [[prospective customer]]s. ",
+            "create-time": 1617665367378,
+            ":block/refs": [
+              {
+                ":block/uid": "iwncocaFt"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "iwncocaFt"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "NjTdiUskH",
+            "edit-time": 1617665509460,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "This, [coupled with the fact that] [[flying machine]]s [remained universally] [a subject for jeers and derision], 普遍嘲笑和讥讽的对象 made the brothers secretive. 只能暗地里行事",
+            "create-time": 1617665367378,
+            ":block/refs": [
+              {
+                ":block/uid": "pCOB8CEbq"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "pCOB8CEbq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "KOOXwqf2z",
+            "edit-time": 1617665613435,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The first [[vehicle]]s to [navigate the air] were balloons. 《汉英大词典》",
+            "create-time": 1617665367378,
+            ":block/refs": [
+              {
+                ":block/uid": "tc4iQobz3"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "tc4iQobz3"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "cWvrZzeTZ",
+            "edit-time": 1617665792886,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[People were curious about] the flying machine. 百度翻译例句库",
+            "create-time": 1617665367378,
+            "uid": "LYedde9kX",
+            "edit-time": 1617665809283,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "_sL4syGXv",
+        "edit-time": 1617665362771,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "xEaUAT_8Q",
+    "edit-time": 1617665359017,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665409888,
+    "title": "prospective customer",
+    "uid": "iwncocaFt",
+    "edit-time": 1617665409888,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665494409,
+    "title": "customer",
+    "uid": "zWYMToA9j",
+    "edit-time": 1617665494409,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665611314,
+    "title": "flying machine",
+    "uid": "pCOB8CEbq",
+    "edit-time": 1617665611314,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665742971,
+    "title": "Mechanical Engineering (ME)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[vehicle]]; [[vehicle engineering]]",
+        "refs": [
+          {
+            "uid": "tc4iQobz3"
+          },
+          {
+            "uid": "3obU96XGf"
+          }
+        ],
+        "uid": "5uCjELmMh",
+        "edit-time": 1617665764566,
+        ":block/refs": [
+          {
+            ":block/uid": "tc4iQobz3"
+          },
+          {
+            ":block/uid": "3obU96XGf"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "g9P2EilVD",
+    "edit-time": 1617665742972,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665764567,
+    "title": "vehicle",
+    "uid": "tc4iQobz3",
+    "edit-time": 1617665764568,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665764567,
+    "title": "vehicle engineering",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[automotive engineering]]",
+        "refs": [
+          {
+            "uid": "MR045Jc0m"
+          }
+        ],
+        "uid": "_Z7mlJIlc",
+        "edit-time": 1617665776757,
+        ":block/refs": [
+          {
+            ":block/uid": "MR045Jc0m"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[driver]]",
+        "refs": [
+          {
+            "uid": "r6J3_oycJ"
+          }
+        ],
+        "uid": "Gl3bi6Kd_",
+        "edit-time": 1617665778575,
+        ":block/refs": [
+          {
+            ":block/uid": "r6J3_oycJ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[rear-view mirror]]",
+        "refs": [
+          {
+            "uid": "-yOuTV8Sk"
+          }
+        ],
+        "uid": "ANIff7Kcs",
+        "edit-time": 1617665779795,
+        ":block/refs": [
+          {
+            ":block/uid": "-yOuTV8Sk"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "3obU96XGf",
+    "edit-time": 1617665764568,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665776759,
+    "title": "automotive engineering",
+    "uid": "MR045Jc0m",
+    "edit-time": 1617665776759,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665778577,
+    "title": "driver",
+    "uid": "r6J3_oycJ",
+    "edit-time": 1617665778577,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617665779797,
+    "title": "rear-view mirror",
+    "uid": "-yOuTV8Sk",
+    "edit-time": 1617665779798,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617666031640,
+    "title": "idealized situation",
+    "uid": "5DfIU75oi",
+    "edit-time": 1617666031648,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617666159600,
+    "title": "extreme condition",
+    "uid": "KqVfaoEC1",
+    "edit-time": 1617666159600,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617668081993,
+    "title": "良渚文化 (Liangzhu culture)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617668434230,
+        "children": [
+          {
+            "edit-time": 1617668160804,
+            "children": [
+              {
+                "string": "后代[信史]中的类似的情况，比如[周厉王]下令[灭鄂国]，“无遗寿幼”，结果[空出的地盘]便宜了楚国。而汉武帝灭[闽越]，也是把投降的和俘虏的[迁至江淮]，“空其地”，后来的[人口恢复]花了很长时间。",
+                "create-time": 1617423872470,
+                "uid": "Csc--PSmF",
+                "edit-time": 1617668058954,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[龙山文化]([[龙山文化 (Longshan culture)]])武力南征良渚是有[考古依据]的，但其[胜利果实]也[被洪水毁灭了]（广富林遗址）。",
+                "create-time": 1617423923735,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ch1jyhlh5"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ch1jyhlh5"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "pwfCp9BE1",
+                "edit-time": 1617668394444,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "仅仅[气候变化]就导致了大陆进入全面的[黑暗时代]吗，这比古希腊还绝了啊，古希腊也是火山喷发+气候变化+北方入侵+海上民族[综合影响]，才进入三百年的[黑暗时代]",
+                "create-time": 1617461009923,
+                "uid": "6xRXeW1n3",
+                "edit-time": 1617668058954,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "自然灾害能对古希腊这么大的文明造成[迅速的衰落]，也可以立即摧毁[克里特]这种[岛屿上的文化]。但是对于中国来说，5000年前的文明[覆盖区域]包括辽河、黄河、长江流域，覆盖几百万平方公里。如果是自然灾害对这么大面积上的文明造成了[摧毁性的效果]，这个自然灾害的规模之大，恐怕不是现在[地质调查]中[已经发现的痕迹]能解释的。",
+                "children": [
+                  {
+                    "string": "某个文化对其它文化的灭绝为主，吸纳为辅恐怕才是更合乎我们在[信史]中已经看到的大部分情况。",
+                    "uid": "lBuG5BMUt",
+                    "edit-time": 1617668058954,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "像良渚的命运，恐怕也就是类似[印第安文明]的下场。",
+                    "uid": "iCh1GrIFi",
+                    "edit-time": 1617668058954,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "XST0QzuOW",
+                "edit-time": 1617668058954,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "原江苏[考古研究所]所长张勄认为，[海洋学]的研究表明，在距今4300年前后发生过一次由南向北的[大海侵]，大海侵时期的[海平面]高出现在1-4米。[海平面的上升]引起[海水倒灌]，使得江、淮、济[入海不畅]，导致[洪水泛滥]。",
+                "create-time": 1617473906846,
+                "uid": "Ra5mDCsnV",
+                "edit-time": 1617668058954,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "这样说夏有可能就是[二里头人群]([[二里头文化 (Erlitou culture)]])对[史前历史]的一段记忆？这个夏未必是二里头人群的[直系祖先]，也许只是泛指黑暗时代以前的[各文明黄金年代]",
+                "create-time": 1617461014622,
+                ":block/refs": [
+                  {
+                    ":block/uid": "S6VfmOW1x"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "S6VfmOW1x"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "4q1kh29sr",
+                "edit-time": 1617668386432,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "或许气候的变冷[然后再次变暖]，比[普遍性的水灾]假设更合理。这会导致各文化的[整体向南移动]，然后再回头向北移动。结果是长江各古文化的毁灭，但[很多成分]融入新的统一的[以黄河区域为中心的]文化。",
+                "create-time": 1617668203289,
+                "uid": "kXK9Jk10z",
+                "edit-time": 1617668244034,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZwUxvBbB4"
+              }
+            ],
+            "uid": "YleNxcs1K",
+            ":block/refs": [
+              {
+                ":block/uid": "ZwUxvBbB4"
+              }
+            ],
+            "string": "我觉得什么“大洪水”的说法是不可信的。[良渚文化](https://bbs.northdy.com/thread-926912-1-1.html)不是一个点，而是遍布整个[长三角地区]，甚至[一度扩展到]江北的一个相当大的[文化类型]。已发现的遗址大大小小，高高低低，以百计了。靠洪水[迅速毁灭]这么大一个文明，不太可能。\n毁灭这样的一个文明，最简单最可能的，还是[人类的行为]。 #pt7-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617423833043,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "aSj8G_ary",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617668107112,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "O5Blxy7i2",
+    "edit-time": 1617668081994,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617668086644,
+    "title": "pre-shang",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[二里头文化 (Erlitou culture)]]",
+        "refs": [
+          {
+            "uid": "S6VfmOW1x"
+          }
+        ],
+        "uid": "qH_C5uQiB",
+        "edit-time": 1617668375705,
+        ":block/refs": [
+          {
+            ":block/uid": "S6VfmOW1x"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[良渚文化 (Liangzhu culture)]]",
+        "refs": [
+          {
+            "uid": "O5Blxy7i2"
+          }
+        ],
+        "uid": "ULf9N_g1b",
+        "edit-time": 1617668373970,
+        ":block/refs": [
+          {
+            ":block/uid": "O5Blxy7i2"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[龙山文化 (Longshan culture)]]",
+        "refs": [
+          {
+            "uid": "ch1jyhlh5"
+          }
+        ],
+        "uid": "wee_UuZhw",
+        "edit-time": 1617668372271,
+        ":block/refs": [
+          {
+            ":block/uid": "ch1jyhlh5"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "GYKU2NkwJ",
+    "edit-time": 1617672823768,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617668160807,
+    "title": "pt7-99.98",
+    "uid": "ZwUxvBbB4",
+    "edit-time": 1617668160807,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617668372272,
+    "title": "龙山文化 (Longshan culture)",
+    "uid": "ch1jyhlh5",
+    "edit-time": 1617668372273,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617668375706,
+    "title": "二里头文化 (Erlitou culture)",
+    "uid": "S6VfmOW1x",
+    "edit-time": 1617668375707,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669219763,
+    "title": "psychological experience",
+    "uid": "wAP_0jsw4",
+    "edit-time": 1617669219772,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669356324,
+    "title": "neurological stimulation",
+    "uid": "hCxAd-cff",
+    "edit-time": 1617669356324,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669360944,
+    "title": "internal experience",
+    "uid": "NVZdWBRkL",
+    "edit-time": 1617669360945,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669366389,
+    "title": "common experience",
+    "uid": "OME6xgG1s",
+    "edit-time": 1617669366389,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669367714,
+    "title": "human experience",
+    "uid": "ykcnt3Ust",
+    "edit-time": 1617669367715,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669368845,
+    "title": "artificial world",
+    "uid": "bjZj6Oq7K",
+    "edit-time": 1617669368845,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669369928,
+    "title": "external world",
+    "uid": "S2wU0WUmQ",
+    "edit-time": 1617669369928,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669372331,
+    "title": "physical reality",
+    "uid": "J-eWZZ4Zi",
+    "edit-time": 1617669372331,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669374100,
+    "title": "reality",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[external world]]",
+        "refs": [
+          {
+            "uid": "S2wU0WUmQ"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[artificial world]]",
+            "refs": [
+              {
+                "uid": "bjZj6Oq7K"
+              }
+            ],
+            "uid": "dy7Or_LWn",
+            "edit-time": 1617669368843,
+            ":block/refs": [
+              {
+                ":block/uid": "bjZj6Oq7K"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "1W215LF_Z",
+        "edit-time": 1617669369926,
+        ":block/refs": [
+          {
+            ":block/uid": "S2wU0WUmQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[human experience]]",
+        "refs": [
+          {
+            "uid": "ykcnt3Ust"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[common experience]]; everyday experience; ordinary experience",
+            "refs": [
+              {
+                "uid": "OME6xgG1s"
+              }
+            ],
+            "uid": "UdMWxhO3l",
+            "edit-time": 1617669366387,
+            ":block/refs": [
+              {
+                ":block/uid": "OME6xgG1s"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[internal experience]]; [[psychological experience]]",
+            "refs": [
+              {
+                "uid": "wAP_0jsw4"
+              },
+              {
+                "uid": "NVZdWBRkL"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[neurological stimulation]]",
+                "refs": [
+                  {
+                    "uid": "hCxAd-cff"
+                  }
+                ],
+                "uid": "W-t-Vkt3U",
+                "edit-time": 1617669356321,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hCxAd-cff"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "9TJLUmKK7",
+            "edit-time": 1617669360943,
+            ":block/refs": [
+              {
+                ":block/uid": "wAP_0jsw4"
+              },
+              {
+                ":block/uid": "NVZdWBRkL"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "f7DOGaDjP",
+        "edit-time": 1617669367713,
+        ":block/refs": [
+          {
+            ":block/uid": "ykcnt3Ust"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((hSSedE0Wg))",
+        "create-time": 1617673245955,
+        ":block/refs": [
+          {
+            ":block/uid": "hSSedE0Wg"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hSSedE0Wg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "qKT_Qxa6y",
+        "edit-time": 1617673246969,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "nature of reality",
+        "uid": "FoL7j4EP7",
+        "edit-time": 1617669344679,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "UoRFoA-yD",
+    "edit-time": 1617669374100,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617669612170,
+    "title": "mutually exclusive",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1617669759830,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "WordNet: [unable to be both true] [at the same time]",
+            "create-time": 1617669795010,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "Synonym: [contradictory](((Ly2CB3FhL)))",
+                "create-time": 1617669795010,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ly2CB3FhL"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Ly2CB3FhL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "dGyCvvRQk",
+                "edit-time": 1617669896686,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "p-AIjnScQ",
+            "edit-time": 1617669908168,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The two views are not mutually exclusive. 《牛津高阶英汉双解词典》",
+            "create-time": 1617669795010,
+            "uid": "KvrroPkls",
+            "edit-time": 1617669795014,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The two options are not mutually exclusive. ",
+            "create-time": 1617669795010,
+            "uid": "v-e6xTafJ",
+            "edit-time": 1617669795014,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[They both have learnt that] [ambition and successful fatherhood] can be mutually exclusive. 《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1617669795010,
+            "uid": "rVGFoYUSl",
+            "edit-time": 1617669919584,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "But as these findings show, [exercise and academics] may not be mutually exclusive. 四级真题- 2016年 6月 1卷 短文填空",
+            "create-time": 1617669795010,
+            "uid": "e2sbBrjBe",
+            "edit-time": 1617669928737,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "However, [economic progress] and [political development] are not mutually exclusive. provided by jukuu",
+            "create-time": 1617669795010,
+            "uid": "L8duev3d2",
+            "edit-time": 1617669934696,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "88k58A0LJ",
+        "edit-time": 1617669761641,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ZsbLYJ8Ql",
+    "edit-time": 1617669612171,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670166380,
+    "title": "party",
+    "uid": "dL16jJ0kF",
+    "edit-time": 1617670166383,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670260970,
+    "title": "omnipresent",
+    "uid": "htqxdpQ-H",
+    "edit-time": 1617670260970,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670316683,
+    "title": "philosophy",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[theology]]",
+        "refs": [
+          {
+            "uid": "W5JtmgPy6"
+          }
+        ],
+        "uid": "vtPXUh3Kg",
+        "edit-time": 1617670336254,
+        ":block/refs": [
+          {
+            ":block/uid": "W5JtmgPy6"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "F-fRGZMF3",
+    "edit-time": 1617670316683,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670336256,
+    "title": "theology",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[matter]]",
+        "refs": [
+          {
+            "uid": "sDrxsVmay"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[material object]]; [[material substance]]",
+            "refs": [
+              {
+                "uid": "hrnq_9Akw"
+              },
+              {
+                "uid": "18c2u8Txo"
+              }
+            ],
+            "uid": "tz7GmV-1R",
+            "edit-time": 1617670793414,
+            ":block/refs": [
+              {
+                ":block/uid": "hrnq_9Akw"
+              },
+              {
+                ":block/uid": "18c2u8Txo"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FT1sV5ZWc",
+        "edit-time": 1617670789281,
+        ":block/refs": [
+          {
+            ":block/uid": "sDrxsVmay"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[omnipresent]]: 无所不在;",
+        "refs": [
+          {
+            "uid": "htqxdpQ-H"
+          }
+        ],
+        "uid": "INes0oLpR",
+        "edit-time": 1617670794933,
+        ":block/refs": [
+          {
+            ":block/uid": "htqxdpQ-H"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[sprit]]; [[spiritual substance]]",
+        "refs": [
+          {
+            "uid": "eHjQbUdZs"
+          },
+          {
+            "uid": "tWm0_2ye0"
+          }
+        ],
+        "uid": "mPzsMYSYB",
+        "edit-time": 1617670787642,
+        ":block/refs": [
+          {
+            ":block/uid": "eHjQbUdZs"
+          },
+          {
+            ":block/uid": "tWm0_2ye0"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "W5JtmgPy6",
+    "edit-time": 1617670336256,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670416136,
+    "title": "Henry More",
+    "uid": "5D_8zey6h",
+    "edit-time": 1617670416137,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670472843,
+    "title": "material object",
+    "uid": "hrnq_9Akw",
+    "edit-time": 1617670472845,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670676916,
+    "title": "spiritual substance",
+    "uid": "eHjQbUdZs",
+    "edit-time": 1617670676917,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670687296,
+    "title": "material substance",
+    "uid": "18c2u8Txo",
+    "edit-time": 1617670687297,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670787644,
+    "title": "sprit",
+    "uid": "tWm0_2ye0",
+    "edit-time": 1617670787645,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617670789283,
+    "title": "matter",
+    "uid": "sDrxsVmay",
+    "edit-time": 1617670789283,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617671230742,
+    "title": "Gottfried Wilhelm von Leibniz",
+    "uid": "nBgwWJ6qS",
+    "edit-time": 1617671230743,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617671767455,
+    "title": "alphabet",
+    "uid": "yvMYpyGcJ",
+    "edit-time": 1617671767456,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617671832964,
+    "title": "independent existence",
+    "uid": "UoE10Q9R3",
+    "edit-time": 1617671832965,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617671891648,
+    "title": "lexicographic relation",
+    "uid": "22HcrHhon",
+    "edit-time": 1617671891649,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617672171888,
+    "title": "pt10-100",
+    "uid": "Kp4t9aQO7",
+    "edit-time": 1617672171890,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617672854323,
+    "title": "chu kingdom",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[项羽 (Xiang Yu)]]",
+        "create-time": 1617672839549,
+        ":block/refs": [
+          {
+            ":block/uid": "hd49exGN9"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hd49exGN9"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ggkHsFtl_",
+        "edit-time": 1617672868272,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Uvzg4SaNp",
+    "edit-time": 1617672854324,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617672868274,
+    "title": "项羽 (Xiang Yu)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617672906204,
+        "children": [
+          {
+            "string": "我觉得西楚的[地理概念](https://bbs.northdy.com/thread-927137-1-1.html)应该是与[战国后期]楚国[迁都寿春]有关，彭城、寿春[为轴][切分东西]。",
+            "create-time": 1617672813202,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "西楚是[宋地遗民]+楚国[迁来的人]。\n西楚，明显是[更认同这个地域]。",
+                "create-time": 1617672943660,
+                "uid": "Xl12hHlLO",
+                "edit-time": 1617672976568,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "c6lfYSFL0",
+            "edit-time": 1617672997886,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "StISarz03",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617672903094,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "hd49exGN9",
+    "edit-time": 1617672868274,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617673148577,
+    "title": "relationist position",
+    "uid": "liSO_DqYx",
+    "edit-time": 1617673148578,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617673581990,
+    "title": "April 6th, 2021",
+    "uid": "04-06-2021",
+    "edit-time": 1617673581990,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

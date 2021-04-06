@@ -1,4 +1,5 @@
 - [[economy]]
+- [[engineering]]
 - [[daily life]]; [[everyday life]]...
 - [[history]]
 - [[language]]
@@ -7,6 +8,9 @@
     - [[mathematics]]
     - [[physics]]
 - [[medicine]]
+- [[military]]
+- [[non-reality]]
+- [[philosophy]]
 - [[religion]]
 - [[science]]
 - [[technology]]

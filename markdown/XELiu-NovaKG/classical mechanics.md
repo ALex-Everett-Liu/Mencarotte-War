@@ -1,13 +1,23 @@
-- [[accelerated motion]]
-    - [[constant velocity motion]]; [[constant speed]]
 - [[centrifugal force]] 离心力; [[centripetal force]] 向心力
     - [[spinning motion]]
+- friction
+    - frictionless;
 - Galileo experiment
     - dropped weights from a leaning tower
     - [[inclined surface]]
 - [[relative motion]]
+    - [[external comparison]]
     - [[frame of reference]]
         - [[absolute space]]
         - [[reference point]]; [[reference object]]
             - [[relevant reference]]; [[relevant frame of reference]]
+    - Galileo's coin in the ship
+    - a matter of perspective; point of view; viewpoint; with respect to what
+    - [[Newton's bucket experiment]]; [[water bucket experiment]]
+        - concave shape; [[concave surface]]
+        - [[interior wall]]
+        - spinning water bucket
 - [[velocity]] - the speed and direction of an object's motion
+    - [[accelerated motion]]
+        - [[constant velocity motion]]; [[constant speed]]
+        - stationary; still

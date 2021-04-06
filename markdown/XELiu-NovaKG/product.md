@@ -1,7 +1,9 @@
-- user...
-    - comment; review;
-        - [[book review]];
-        - controversy
-    - recommendation...
-        - [[recommendation engine]]
-        - related term; most frequently terms
+- [[customer]]
+    - [[prospective customer]];
+    - user...
+        - comment; review;
+            - [[book review]];
+            - controversy
+        - recommendation...
+            - [[recommendation engine]]
+            - related term; most frequently terms

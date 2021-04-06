@@ -1,10 +1,15 @@
 - [[astrophysics]]
 - [[classical mechanics]]
 - general...
+    - condition...
+        - [[extreme condition]]
+        - [[idealized situation]]
     - object, entity...
         - [[physical entity]]; [[non-physical entity]]
         - ordinary object
         - real entity
+- meta phys...
+    - [[reality]]; [[physical reality]]
 - physicist
     - [[Descartes]]
         - [[Principia Philosophiae]]

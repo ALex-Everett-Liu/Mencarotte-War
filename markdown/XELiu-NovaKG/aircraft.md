@@ -1,0 +1,7 @@
+- dictionary 
+    - aerobat; air vehicle; flight vehicle
+    - [Since its inception] 自成立以来 [the company has produced] 53 different [aircraft designs]. 《柯林斯高阶英汉双解学习词典》
+    - He was forced to [entrust an assistant with] the [important task] of 重任交托给 [testing and demonstrating] aircraft to [[prospective customer]]s. 
+    - This, [coupled with the fact that] [[flying machine]]s [remained universally] [a subject for jeers and derision], 普遍嘲笑和讥讽的对象 made the brothers secretive. 只能暗地里行事
+    - The first [[vehicle]]s to [navigate the air] were balloons. 《汉英大词典》
+    - [People were curious about] the flying machine. 百度翻译例句库
