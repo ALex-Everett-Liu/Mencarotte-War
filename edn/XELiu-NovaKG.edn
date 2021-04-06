@@ -105,8 +105,8 @@
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid815f9420-326e-415f-bb49-7f8cfe7d5cc8"
-   536941278]
+   "uuidc1fa6ea1-114c-4465-9ea9-b9beae9d7d50"
+   536941295]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -9186,7 +9186,6 @@
   [15816 :edit/time 1617685798995 536940913]
   [15816 :edit/user 3 536940913]
   [15817 :block/children 15891 536941185]
-  [15817 :block/children 15900 536941271]
   [15817 :block/heading 2 536940928]
   [15817 :block/open true 536940920]
   [15817 :block/order 4 536940920]
@@ -9827,6 +9826,7 @@
   [15890 :node/title "CRR" 536941168]
   [15891 :block/children 15818 536941190]
   [15891 :block/children 15897 536941247]
+  [15891 :block/children 15900 536941281]
   [15891 :block/open true 536941185]
   [15891 :block/order 0 536941185]
   [15891 :block/page 15174 536941187]
@@ -9943,16 +9943,17 @@
   [15899 :edit/time 1617709460647 536941267]
   [15899 :edit/user 3 536941263]
   [15900 :block/open true 536941269]
-  [15900 :block/order 1 536941271]
+  [15900 :block/order 2 536941281]
   [15900 :block/page 15174 536941270]
   [15900 :block/parents 15174 536941270]
   [15900 :block/parents 15817 536941270]
+  [15900 :block/parents 15891 536941282]
   [15900
    :block/string
-   "Much later I learned that over the last few hundred years many physicists and philosophers —sometimes loudly, sometimes quietly—had struggled with the very same issue. Although Newton's bucket seemed to show definitively that absolute space is what selects one perspective over another (if someone or something is spinning with respect to absolute space then they are really spinning; otherwise they are not), this resolution left many people who mull over these issues unsatisfied. Beyond the intuitive sense that no perspective should be \"more right\" than any other, and beyond the eminently reasonable proposal of Leibniz that only relative motion between material objects has meaning, the concept of absolute space left many wondering how absolute space can allow us to identify true accelerated motion, as with the bucket, while it cannot pro- vide a way to identify true constant velocity motion. After all, if absolute space really exists, it should provide a benchmark for all motion, not just accelerated motion. If absolute space really exists, why doesn't it provide a way of identifying where we are located in an absolute sense, one that need not use our position relative to other material objects as a reference point? And, if absolute space really exists, how come it can affect us (causing our arms to splay if we spin, for example) while we apparently have no way to affect it?"
-   536941276]
+   "Much later I learned that over the last few hundred years many physicists and philosophers —sometimes loudly, sometimes quietly—had [struggled with the very same issue]. Although [Newton's bucket] seemed to [show definitively that] absolute space is what [selects one perspective over another] (if someone or something is spinning [with respect to absolute space] then [they are really spinning]; otherwise they are not), this resolution left many people who [mull over these issues unsatisfied]. 反复琢磨 Beyond the [intuitive sense] that no perspective [should be \"more right\" than any other], and beyond the [eminently reasonable proposal] of Leibniz that only [relative motion between material objects] has meaning, the concept of absolute space left many wondering how absolute space can allow us to identify true accelerated motion, as with the bucket, while it cannot pro- vide a way to identify true constant velocity motion. After all, if absolute space really exists, it should provide a benchmark for all motion, not just accelerated motion. If absolute space really exists, why doesn't it provide a way of identifying where we are located in an absolute sense, one that need not use our position relative to other material objects as a reference point? And, if absolute space really exists, how come it can affect us (causing our arms to splay if we spin, for example) while we apparently have no way to affect it?"
+   536941294]
   [15900 :block/uid "TZaBzoyFL" 536941269]
   [15900 :create/time 1617709540025 536941269]
   [15900 :create/user 3 536941269]
-  [15900 :edit/time 1617709548693 536941276]
+  [15900 :edit/time 1617723043612 536941294]
   [15900 :edit/user 3 536941269]]}
