@@ -1,0 +1,4 @@
+- #inbox
+    - roam42 smartblock [大概讲讲](https://www.bilibili.com/video/BV1wV411Y7kp) #pt10-99.99
+        - 在 Roam 中实现 features of Alfred or TextExpander
+            - 1）先[制作模版]，然后形成 ^^routine^^。例如读书、文章、播客等

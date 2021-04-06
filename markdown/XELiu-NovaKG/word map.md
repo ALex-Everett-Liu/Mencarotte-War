@@ -54,7 +54,12 @@
                     - isolated;
             - issue, 3
                 - issuable;
-                - open issue;
+                - open issue; thorny issue
+                    - [The group is meeting today] to discuss resolution, 处置机制 among other thorny issues. 棘手的问题 www.[[ftchinese]].com
+                    - The [Volvo sale] also [raises some thorny issues for] Ford. 
+                    - China and [neighboring countries] [promoted the integration process] 推进了地区一体化建设 and [worked together to] [solve many thorny issues]. www.[chinadaily].com.cn
+                    - [Greater London] [fragmentation of governance] 治理碎裂化 and the resulting performance of the thorny issues. www.[fabiao].net
+                    - However, with the [rapid development] of [B2C e-commerce], also face [a number of thorny issues]. 
                 - raise the issue;
     - p
         - pa

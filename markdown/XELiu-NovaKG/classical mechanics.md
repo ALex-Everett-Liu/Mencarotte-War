@@ -5,6 +5,8 @@
 - Galileo experiment
     - dropped weights from a leaning tower
     - [[inclined surface]]
+- position
+    - [[relative position]];
 - [[relative motion]]
     - [[external comparison]]
     - [[frame of reference]]
@@ -18,6 +20,6 @@
         - [[interior wall]]
         - spinning water bucket
 - [[velocity]] - the speed and direction of an object's motion
-    - [[accelerated motion]]
+    - [[acceleration]]; [[accelerated motion]]
         - [[constant velocity motion]]; [[constant speed]]
         - stationary; still

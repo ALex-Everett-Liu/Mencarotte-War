@@ -1133,8 +1133,74 @@
         "children": [
           {
             "string": "extensions",
-            "uid": "Q6NKeVNx0",
-            "edit-time": 1617577329601,
+            "children": [
+              {
+                "string": "backup",
+                "children": [
+                  {
+                    "string": "[[Automatic RoamResearch backup]]",
+                    "refs": [
+                      {
+                        "uid": "nagWuDUnm"
+                      }
+                    ],
+                    "uid": "KiyyTCrtq",
+                    "edit-time": 1617676584200,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nagWuDUnm"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[Roam2Github]]",
+                    "refs": [
+                      {
+                        "uid": "FLfSfyJ3s"
+                      }
+                    ],
+                    "uid": "v0XPz9dil",
+                    "edit-time": 1617676589061,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLfSfyJ3s"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "P37jEhqYX",
+                "edit-time": 1617676584200,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[Roam42]]",
+                "refs": [
+                  {
+                    "uid": "J893nRdDv"
+                  }
+                ],
+                "uid": "8JPuH_0WE",
+                "edit-time": 1617676584200,
+                ":block/refs": [
+                  {
+                    ":block/uid": "J893nRdDv"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "xcwVRQHdm",
+            "edit-time": 1617676584200,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -3011,6 +3077,30 @@
         }
       },
       {
+        "string": "[[experimental physics]]; [[experimental physicist]]",
+        "refs": [
+          {
+            "uid": "jM-0_osJb"
+          },
+          {
+            "uid": "e7sZL00qZ"
+          }
+        ],
+        "uid": "hwPyX9Y_o",
+        "edit-time": 1617674642813,
+        ":block/refs": [
+          {
+            ":block/uid": "jM-0_osJb"
+          },
+          {
+            ":block/uid": "e7sZL00qZ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "general...",
         "children": [
           {
@@ -3139,6 +3229,66 @@
                 ":block/uid": "UoRFoA-yD"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1617677670639,
+            "children": [
+              {
+                "edit-time": 1617677721260,
+                "children": [
+                  {
+                    "string": "读读这本论文集: Why trust a theory? - epistemology of fundamental physics, Cambridge University Press (2019)",
+                    "create-time": 1617677683145,
+                    "uid": "nLdWyi3Ts",
+                    "edit-time": 1617677701871,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "qNKpYWTXC"
+                  }
+                ],
+                "uid": "ll_ttr8t5",
+                ":block/refs": [
+                  {
+                    ":block/uid": "qNKpYWTXC"
+                  }
+                ],
+                "string": "还有搞[圈量子]的 Rovelli 也有不少[科哲方面的论述](https://www.zhihu.com/question/453060681)可以关注 #pt10-99.99",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1617677670633,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "L7fTIw9dt"
+              }
+            ],
+            "uid": "BUdYHGYyN",
+            ":block/refs": [
+              {
+                ":block/uid": "L7fTIw9dt"
+              }
+            ],
+            "string": "#inbox",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617677661941,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -5195,29 +5345,77 @@
                     "edit-time": 1617672171886,
                     "children": [
                       {
-                        "string": "Leibniz [put forward a number of arguments] in support of this so-called [[relationist position]]. For example, he argued that if space really [exists as an entity](((z2tQi4CgP))), as a [background substance], God [would have had to choose] where in this substance to [place the universe]. But how could God, whose decisions all [have sound justification] 他的决定都有正当的理由 and are [never random or haphazard], have possibly distinguished one location [in the uniform void of] [empty space] from another, as they are all alike? To the scientifically receptive ear, this argument sounds tinny. But if we remove the theological element, as Leibniz himself did in other arguments he put forward, we are left with thorny issues: What is the location of the universe within space? If the universe were to move as a whole —leaving all relative positions of material objects intact—ten feet to the left or right, how would we know? What is the speed of the entire universe through the substance of space? If we are fundamentally unable to detect space, or changes within space, how can we claim it actually exists?\n(物质宇宙存在于绝对空间中的哪一处，为什么这些坐标是特殊的，区别于其他空无一物的绝对空间)",
-                        "create-time": 1617673113081,
-                        ":block/refs": [
+                        "edit-time": 1617674256073,
+                        "children": [
                           {
-                            ":block/uid": "z2tQi4CgP"
-                          },
-                          {
-                            ":block/uid": "liSO_DqYx"
+                            "string": "It is here that Newton [stepped in with his bucket] and dramatically [changed the character of the debate]. 改变了辩论的性质 While Newton agreed that [certain features of] absolute space seem difficult or perhaps [impossible to detect directly], he argued that [the existence of absolute space] [does have consequences that are observable]([[observable consequence]]): [[acceleration]]s, such as those at play [in the rotating bucket], are accelerations with respect to absolute space. Thus, the concave shape of the water, according to Newton, is a consequence of the existence of absolute space. And Newton argued that once one has any solid evidence for something's existence, no matter how indirect, that ends the discussion. In one clever stroke, Newton shifted the debate about space from philosophical ponderings to scientifically verifiable data. The effect was palpable. In due course, Leibniz was forced to admit, \"I grant there is a difference between absolute true motion of a body and a mere relative change of its situation with respect to another body.\" 8 This was not a capitulation to Newton's absolute space, but it was a strong blow to the firm relationist position.",
+                            "create-time": 1617673113081,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "9UABsYcZk"
+                              },
+                              {
+                                ":block/uid": "9XvAybhFi"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "9UABsYcZk"
+                              },
+                              {
+                                "uid": "9XvAybhFi"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "PErj4ErrU",
+                            "edit-time": 1617674589446,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
                           }
                         ],
                         "refs": [
                           {
+                            "uid": "N6myRIVcL"
+                          },
+                          {
                             "uid": "z2tQi4CgP"
                           },
                           {
+                            "uid": "hrnq_9Akw"
+                          },
+                          {
                             "uid": "liSO_DqYx"
+                          },
+                          {
+                            "uid": "VOKG3Al0d"
                           }
                         ],
+                        "uid": "qi_DHLcZo",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N6myRIVcL"
+                          },
+                          {
+                            ":block/uid": "z2tQi4CgP"
+                          },
+                          {
+                            ":block/uid": "hrnq_9Akw"
+                          },
+                          {
+                            ":block/uid": "liSO_DqYx"
+                          },
+                          {
+                            ":block/uid": "VOKG3Al0d"
+                          }
+                        ],
+                        "string": "Leibniz [put forward a number of arguments] in support of this so-called [[relationist position]]. For example, he argued that if space really [exists as an entity](((z2tQi4CgP))), as a [background substance], God [would have had to choose] where in this substance to [place the universe]. But how could God, whose decisions all [have sound justification] 他的决定都有正当的理由 and are [never random or haphazard], have possibly distinguished one location [in the uniform void of] [empty space] from another, as they are all alike? To the [scientifically receptive ear], 愿意倾听的, 乐于接受的 this argument sounds tinny. But if we remove the [theological element], as Leibniz himself did [in other arguments he put forward], we are left with [thorny issues](((N6myRIVcL))): ^^What is the location of the universe within space?^^ If the universe were to [move as a whole] —leaving all [[relative position]]s of [[material object]]s 完整无缺 intact—ten feet to the left or right, how would we know? What is the speed of the [entire universe] through [the substance of space]? If we are [fundamentally unable to detect] space, or [changes within space], [how can we claim] it [actually exists]?\n(物质宇宙存在于绝对空间中的哪一处，为什么这些坐标是特殊的，区别于其他空无一物的绝对空间-宇宙相对于空间物质的相对速度是多少-我们既无法探测到空间的存在，也无法得知空间所发生的变化，那么这种存在究竟有何意义)\n210406-09:55",
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
-                        "uid": "qi_DHLcZo",
-                        "edit-time": 1617673540470,
+                        "create-time": 1617673113081,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -5275,18 +5473,6 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "create-time": 1617670894171,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "It is here that Newton stepped in with his bucket and dramatically changed the character of the debate. While Newton agreed that certain features of absolute space seem difficult or perhaps impossible to detect directly, he argued that the existence of absolute space does have consequences that are observable: accelerations, such as those at play in the rotating bucket, are accelerations with respect to absolute space. Thus, the concave shape of the water, according to Newton, is a consequence of the existence of absolute space. And Newton argued that once one has any solid evidence for something's existence, no matter how indirect, that ends the discussion. In one clever stroke, Newton shifted the debate about space from philosophical ponderings to scientifically verifiable data. The effect was palpable. In due course, Leibniz was forced to admit, \"I grant there is a difference between absolute true motion of a body and a mere relative change of its situation with respect to another body.\" 8 This was not a capitulation to Newton's absolute space, but it was a strong blow to the firm relationist position.",
-                    "create-time": 1617673113081,
-                    "uid": "PErj4ErrU",
-                    "edit-time": 1617673123110,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -6001,6 +6187,34 @@
         }
       },
       {
+        "string": "position",
+        "children": [
+          {
+            "string": "[[relative position]];",
+            "refs": [
+              {
+                "uid": "VOKG3Al0d"
+              }
+            ],
+            "uid": "n966a6K3u",
+            "edit-time": 1617674233715,
+            ":block/refs": [
+              {
+                ":block/uid": "VOKG3Al0d"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "zv2RXrBoz",
+        "edit-time": 1617674228832,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[relative motion]]",
         "refs": [
           {
@@ -6245,10 +6459,13 @@
         ],
         "children": [
           {
-            "string": "[[accelerated motion]]",
+            "string": "[[acceleration]]; [[accelerated motion]]",
             "refs": [
               {
                 "uid": "s5DeFTK2p"
+              },
+              {
+                "uid": "9XvAybhFi"
               }
             ],
             "children": [
@@ -6294,10 +6511,13 @@
               }
             ],
             "uid": "Qy8rP9Y1J",
-            "edit-time": 1617650320985,
+            "edit-time": 1617674616708,
             ":block/refs": [
               {
                 ":block/uid": "s5DeFTK2p"
+              },
+              {
+                ":block/uid": "9XvAybhFi"
               }
             ],
             ":edit/user": {
@@ -6933,9 +7153,81 @@
                         }
                       },
                       {
-                        "string": "open issue;",
+                        "string": "open issue; thorny issue",
+                        "children": [
+                          {
+                            "string": "[The group is meeting today] to discuss resolution, 处置机制 among other thorny issues. 棘手的问题 ((5SLwQ54FB))",
+                            "create-time": 1617673807537,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "5SLwQ54FB"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "5SLwQ54FB"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "UXMoAZIMY",
+                            "edit-time": 1617673845566,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "The [Volvo sale] also [raises some thorny issues for] Ford. ",
+                            "create-time": 1617673807537,
+                            "uid": "YFLPJzQMN",
+                            "edit-time": 1617673854936,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "China and [neighboring countries] [promoted the integration process] 推进了地区一体化建设 and [worked together to] [solve many thorny issues]. www.[chinadaily].com.cn",
+                            "create-time": 1617673807537,
+                            "uid": "xld5dhmIL",
+                            "edit-time": 1617673878651,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[Greater London] [fragmentation of governance] 治理碎裂化 and the resulting performance of the thorny issues. www.[fabiao].net",
+                            "create-time": 1617673807537,
+                            "uid": "FUA3jkcJh",
+                            "edit-time": 1617673885272,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "However, with the [rapid development] of [B2C e-commerce], also face [a number of thorny issues]. ",
+                            "create-time": 1617673807537,
+                            "uid": "-aUfo_ZTu",
+                            "edit-time": 1617673895228,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
                         "uid": "N6myRIVcL",
-                        "edit-time": 1617653796462,
+                        "edit-time": 1617673799224,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -7888,6 +8180,28 @@
         },
         "uid": "ElP4ttvif",
         "edit-time": 1617656863110,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "www.[[ftchinese]].com",
+        "create-time": 1617673823652,
+        ":block/refs": [
+          {
+            ":block/uid": "K16u8zW7p"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "K16u8zW7p"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "5SLwQ54FB",
+        "edit-time": 1617673824797,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -10606,8 +10920,294 @@
   {
     "create-time": 1617673581990,
     "title": "April 6th, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "The Fabric of the Cosmos",
+        "create-time": 1617674358211,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[The Universe and the Bucket]]\n210406-09am",
+            "create-time": 1617674345644,
+            ":block/refs": [
+              {
+                ":block/uid": "rw6U8VHY-"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rw6U8VHY-"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "YSiAtEM7B",
+            "edit-time": 1617674358216,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "bHqe6Ioru",
+        "edit-time": 1617674358211,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
     "uid": "04-06-2021",
     "edit-time": 1617673581990,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617673814758,
+    "title": "ftchinese",
+    "uid": "K16u8zW7p",
+    "edit-time": 1617673814758,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617674012103,
+    "title": "relative position",
+    "uid": "VOKG3Al0d",
+    "edit-time": 1617674012111,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617674486622,
+    "title": "observable consequence",
+    "uid": "9UABsYcZk",
+    "edit-time": 1617674486623,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617674589448,
+    "title": "acceleration",
+    "uid": "9XvAybhFi",
+    "edit-time": 1617674589455,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617674642815,
+    "title": "experimental physics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[observation]]",
+        "refs": [
+          {
+            "uid": "SrKIaZG_8"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[observable consequence]]",
+            "refs": [
+              {
+                "uid": "9UABsYcZk"
+              }
+            ],
+            "uid": "fadAJS48O",
+            "edit-time": 1617674650501,
+            ":block/refs": [
+              {
+                ":block/uid": "9UABsYcZk"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "BVrzaOSlD",
+        "edit-time": 1617674652089,
+        ":block/refs": [
+          {
+            ":block/uid": "SrKIaZG_8"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "jM-0_osJb",
+    "edit-time": 1617674642815,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617674642815,
+    "title": "experimental physicist",
+    "uid": "e7sZL00qZ",
+    "edit-time": 1617674642815,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617674652091,
+    "title": "observation",
+    "uid": "SrKIaZG_8",
+    "edit-time": 1617674652091,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617676584196,
+    "title": "Automatic RoamResearch backup",
+    "uid": "nagWuDUnm",
+    "edit-time": 1617676584200,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617676584197,
+    "title": "Roam42",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617676601663,
+        "children": [
+          {
+            "edit-time": 1617676738005,
+            "children": [
+              {
+                "string": "在 Roam 中实现 features of Alfred or TextExpander",
+                "create-time": 1617676633113,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "1）先[制作模版]，然后形成 ^^routine^^。例如读书、文章、播客等",
+                    "create-time": 1617676684494,
+                    "uid": "WIUR2u35u",
+                    "edit-time": 1617676693131,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "t-L-VMIgT",
+                "edit-time": 1617676661015,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qNKpYWTXC"
+              }
+            ],
+            "uid": "SvbcUJ0hT",
+            ":block/refs": [
+              {
+                ":block/uid": "qNKpYWTXC"
+              }
+            ],
+            "string": "roam42 smartblock [大概讲讲](https://www.bilibili.com/video/BV1wV411Y7kp) #pt10-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617676601659,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "SdwezajP7",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617676593794,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "J893nRdDv",
+    "edit-time": 1617676584200,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617676589063,
+    "title": "Roam2Github",
+    "uid": "FLfSfyJ3s",
+    "edit-time": 1617676589064,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617676738009,
+    "title": "pt10-99.99",
+    "uid": "qNKpYWTXC",
+    "edit-time": 1617676738009,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

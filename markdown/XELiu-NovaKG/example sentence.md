@@ -8,6 +8,7 @@
     - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
     - ---
 - www.[[fortunechina]].com
+- www.[[ftchinese]].com
 - provided by [[jukuu]]
     - She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 
     - ---
