@@ -7,5 +7,6 @@
         - Newtonian worldview
     - [[empty space]]
         - [[relationist position]]: 关系论
-            - [[independent existence]]; relative
+            - [[independent existence]]; independent reality; relative
+                - real entity
 - [[special theory of relativity]]; [[special relativity]]

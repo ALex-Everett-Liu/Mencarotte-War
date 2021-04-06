@@ -1,0 +1,2 @@
+- #inbox
+    - [#UX 全局导航优化：缺乏所有笔记内容的统一入口](https://cn.logseq.com/t/topic/127) #pt9-99.99

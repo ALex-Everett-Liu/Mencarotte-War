@@ -4,5 +4,5 @@
     - [[common experience]]; everyday experience; ordinary experience
     - [[internal experience]]; [[psychological experience]]
         - [[neurological stimulation]]
-- [[independent existence]]; relative
+- [[independent existence]]; independent reality; relative
 - nature of reality

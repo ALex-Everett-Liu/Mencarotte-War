@@ -5,6 +5,12 @@
 - Galileo experiment
     - dropped weights from a leaning tower
     - [[inclined surface]]
+- Newton laws; Newton's laws of motion
+    - falling apples
+    - [[Newton’s second law]]
+    - the orbit of the moon
+    - [[Principia Mathematica]]
+- Newtonian physics
 - position
     - [[relative position]];
 - [[relative motion]]

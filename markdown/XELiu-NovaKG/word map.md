@@ -84,6 +84,10 @@
                 - respect
                     - respective
                     - with respect to: 相对于;
+    - s
+        - sw
+            - swing
+                - swung;
     - t
         - tw
             - twi-

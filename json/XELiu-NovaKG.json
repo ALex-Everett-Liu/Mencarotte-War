@@ -1046,6 +1046,28 @@
             }
           },
           {
+            "string": "[[Logseq]]",
+            "create-time": 1617684132846,
+            ":block/refs": [
+              {
+                ":block/uid": "gDnSWFU74"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "gDnSWFU74"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Jhf3YksqZ",
+            "edit-time": 1617684139277,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[Roam Research]]",
             "refs": [
               {
@@ -5230,11 +5252,7 @@
             }
           },
           {
-            "string": "But what is absolute space, really? In [dealing with this question], Newton [responded with a bit of fancy footwork] and [the force of fiat]. He first wrote in the Principia \"I do not define time, space, place, and motion, as [they] are well known to all,\"[3] [sidestepping any attempt to] 横跨, 回避 [describe these concepts with rigor or precision]. His next words have become famous: \"Absolute space, in its own nature, [without reference to] anything external, remains always similar and immovable.\" That is, absolute space just is, and is forever. Period. 就是这么回事儿 But [there are glimmers that] Newton was [not completely comfortable with] [simply declaring the existence] and importance of something that [you can't directly see], measure, or affect. He wrote,",
-            "create-time": 1617663649623,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
+            "edit-time": 1617685585573,
             "children": [
               {
                 "string": "> It is indeed [a matter of great difficulty to] discover and effectually to distinguish [the true motions of particular bodies] from the apparent, because the parts of that [immovable space] [in which those motions are performed] do by no means [come under the observations of our senses].[4]",
@@ -5249,8 +5267,22 @@
                 }
               }
             ],
+            "refs": [
+              {
+                "uid": "hVQgmcu_G"
+              }
+            ],
             "uid": "bGd_jIbbK",
-            "edit-time": 1617668713331,
+            ":block/refs": [
+              {
+                ":block/uid": "hVQgmcu_G"
+              }
+            ],
+            "string": "But what is absolute space, really? In [dealing with this question], Newton [responded with a bit of fancy footwork] and [the force of fiat]. He first wrote in the [Principia](((hVQgmcu_G))) \"I do not define time, space, place, and motion, as [they] are well known to all,\"[3] [sidestepping any attempt to] 横跨, 回避 [describe these concepts with rigor or precision]. His next words have become famous: \"Absolute space, in its own nature, [without reference to] anything external, remains always similar and immovable.\" That is, absolute space just is, and is forever. Period. 就是这么回事儿 But [there are glimmers that] Newton was [not completely comfortable with] [simply declaring the existence] and importance of something that [you can't directly see], measure, or affect. He wrote,",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617663649623,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -5348,7 +5380,7 @@
                         "edit-time": 1617674256073,
                         "children": [
                           {
-                            "string": "It is here that Newton [stepped in with his bucket] and dramatically [changed the character of the debate]. 改变了辩论的性质 While Newton agreed that [certain features of] absolute space seem difficult or perhaps [impossible to detect directly], he argued that [the existence of absolute space] [does have consequences that are observable]([[observable consequence]]): [[acceleration]]s, such as those at play [in the rotating bucket], are accelerations with respect to absolute space. Thus, the concave shape of the water, according to Newton, is a consequence of the existence of absolute space. And Newton argued that once one has any solid evidence for something's existence, no matter how indirect, that ends the discussion. In one clever stroke, Newton shifted the debate about space from philosophical ponderings to scientifically verifiable data. The effect was palpable. In due course, Leibniz was forced to admit, \"I grant there is a difference between absolute true motion of a body and a mere relative change of its situation with respect to another body.\" 8 This was not a capitulation to Newton's absolute space, but it was a strong blow to the firm relationist position.",
+                            "string": "It is here that Newton [stepped in with his bucket] and dramatically [changed the character of the debate]. 改变了辩论的性质 While Newton agreed that [certain features of] absolute space seem difficult or perhaps [impossible to detect directly], he argued that [the existence of absolute space] [does have consequences that are observable]([[observable consequence]]): [[acceleration]]s, such as those at play [in the rotating bucket], are accelerations with respect to absolute space. Thus, the [concave shape] of the water, according to Newton, is a consequence of [the existence of absolute space]. And Newton argued that [once one has any solid evidence for] [something's existence], no matter how indirect, that [ends the discussion]. In one [clever stroke], Newton [shifted the debate] about space from [philosophical ponderings] to [scientifically verifiable data]. The effect was palpable. 可触摸感知的 In due course, Leibniz was [forced to admit], \"I grant [there is a difference between] [absolute true motion of a body] and [a mere relative change of its situation] [with respect to another body].\"[8] [This was not a capitulation to] [Newton's absolute space], but it was [a strong blow to] 打击 the firm relationist position.\n(可以被实际检验的证据：加速度)",
                             "create-time": 1617673113081,
                             ":block/refs": [
                               {
@@ -5370,7 +5402,35 @@
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             },
                             "uid": "PErj4ErrU",
-                            "edit-time": 1617674589446,
+                            "edit-time": 1617685237816,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "During the next two hundred years, the arguments of Leibniz and others against [assigning space an independent reality] [generated hardly an echo] [in the scientific community].[9] Instead, [the pendulum had clearly swung to](((OUlzIaN6k))) [Newton's view of space]; his [laws of motion](((Jid5U4nGy))), [founded on his concept of] absolute space, took center stage. Certainly, [the success of these laws] in [describing observations] was the [essential reason] for their acceptance. It's striking to note, 引人注目的 however, that Newton himself viewed [all of his achievements in] physics as merely [forming the solid foundation to] support [what he considered] his really [important discover])': absolute space. For Newton, it was all about space.[10]\n210406-13:08",
+                            "create-time": 1617673113081,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Jid5U4nGy"
+                              },
+                              {
+                                ":block/uid": "OUlzIaN6k"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Jid5U4nGy"
+                              },
+                              {
+                                "uid": "OUlzIaN6k"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "IBWnmprDo",
+                            "edit-time": 1617685869786,
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -5476,18 +5536,6 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
-                  },
-                  {
-                    "string": "During the next two hundred years, the arguments of Leibniz and others against assigning space an independent reality generated hardly an echo in the scientific community.[9] Instead, the pendulum had clearly swung to Newton's view of space; his laws of motion, founded on his concept of absolute space, took center stage. Certainly, the success of these laws in describing observations was the essential reason for their acceptance. It's striking to note, however, that Newton himself viewed all of his achievements in physics as merely forming the solid foundation to sup- port what he considered his really important discover)': absolute space. For Newton, it was all about space.[10]",
-                    "create-time": 1617673113081,
-                    "uid": "IBWnmprDo",
-                    "edit-time": 1617673128505,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
                   }
                 ],
                 "refs": [
@@ -5545,6 +5593,44 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617669000824,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 2
+      },
+      {
+        "edit-time": 1617685908135,
+        "children": [
+          {
+            "string": "When I was growing up, I used to [play a game with my father] as we [walked down the streets] of Manhattan. One of us would look around, [secretly fix on something] that was happening—a bus rushing by, a pigeon [landing on a windowsill], a man accidentally [dropping a coin] —and [describe how it would look] [from an unusual perspective](((I09zrPaL2))) such as [the wheel of the bus], the pigeon in flight, or the quarter [falling earthward]. The challenge was to take an unfamiliar description like \"I'm walking on a dark, cylindrical surface surrounded by low, textured walls, and an unruly bunch of thick white tendrils is descending from the sky,\" and figure out that it was the view of an ant walking on a hot dog that a street vendor was garnishing with sauerkraut. Although we stopped playing years before I took my first physics course, the game is at least partly to blame for my having a fair amount of distress when I encountered Newton's laws. The game encouraged seeing the world from different vantage points and emphasized that each was as valid as any other. But according to New- ton, while you are certainly free to contemplate the world from any perspective you choose, the different vantage points are by no means on an equal footing. From the viewpoint of an ant on an ice skater's boot, it is the ice and the arena that are spinning; from the viewpoint of a spectator in the stands, it is the ice skater that is spinning. The two vantage points seem to be equally valid, they seem to be on an equal footing, they seem to stand in the symmetric relationship of each spinning with respect to the other. Yet, according to Newton, one of these perspectives is more right than the other since if it really is the ice skater that is spinning, his or her arms will splay outward, whereas if it really is the arena that is spinning, his or her arms will not. Accepting Newton's absolute space meant accepting an absolute conception of acceleration, and, in particular, accepting an absolute answer regarding who or what is really spinning. I struggled to understand how this could possibly be true. Every source I consulted —textbooks and teachers alike —agreed that only relative motion had relevance when considering constant velocity motion, so why in the world, I endlessly puzzled, would accelerated motion be so different? Why wouldn't relative acceleration, like relative velocity, be the only thing that's relevant when considering motion at velocity that isn't constant? The existence of absolute space decreed otherwise, but to me this seemed thoroughly peculiar.",
+            "create-time": 1617685908128,
+            ":block/refs": [
+              {
+                ":block/uid": "I09zrPaL2"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "I09zrPaL2"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "6iVWwq8vE",
+            "edit-time": 1617686234363,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "text-align": "center",
+        "uid": "cuvPZjnzx",
+        "string": "Mach and the Meaning of Space",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617685907384,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -5700,11 +5786,29 @@
                 ],
                 "children": [
                   {
-                    "string": "[[independent existence]]; relative",
-                    "create-time": 1617671672717,
-                    ":block/refs": [
+                    "edit-time": 1617685368980,
+                    "children": [
                       {
-                        ":block/uid": "UoE10Q9R3"
+                        "string": "((z2tQi4CgP))",
+                        "create-time": 1617685391863,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "z2tQi4CgP"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "z2tQi4CgP"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "xcniClIyd",
+                        "edit-time": 1617685393324,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "refs": [
@@ -5712,11 +5816,17 @@
                         "uid": "UoE10Q9R3"
                       }
                     ],
+                    "uid": "hSSedE0Wg",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UoE10Q9R3"
+                      }
+                    ],
+                    "string": "[[independent existence]]; independent reality; relative",
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    "uid": "hSSedE0Wg",
-                    "edit-time": 1617671862782,
+                    "create-time": 1617671672717,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -6182,6 +6292,76 @@
         ],
         "uid": "1CYb5A0DK",
         "edit-time": 1617654170484,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Newton laws; Newton's laws of motion",
+        "children": [
+          {
+            "string": "falling apples",
+            "uid": "kSS4ljwum",
+            "edit-time": 1617685524876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Newton’s second law]]",
+            "refs": [
+              {
+                "uid": "wIk8Y_E3o"
+              }
+            ],
+            "uid": "PT9-cJ8i6",
+            "edit-time": 1617685543246,
+            ":block/refs": [
+              {
+                ":block/uid": "wIk8Y_E3o"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "the orbit of the moon",
+            "uid": "MJdJliZpU",
+            "edit-time": 1617685524876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Principia Mathematica]]",
+            "refs": [
+              {
+                "uid": "IKdhH7wYy"
+              }
+            ],
+            "uid": "hVQgmcu_G",
+            "edit-time": 1617685547109,
+            ":block/refs": [
+              {
+                ":block/uid": "IKdhH7wYy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Jid5U4nGy",
+        "edit-time": 1617685524876,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Newtonian physics",
+        "uid": "VJiVZOA19",
+        "edit-time": 1617685524876,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -7499,6 +7679,48 @@
             ],
             "uid": "CniMcX4aS",
             "edit-time": 1617651140087,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "s",
+            "create-time": 1617685797659,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "sw",
+                "children": [
+                  {
+                    "string": "swing",
+                    "children": [
+                      {
+                        "string": "swung;",
+                        "uid": "OUlzIaN6k",
+                        "edit-time": 1617685798979,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "MSK-K9ZTO",
+                    "edit-time": 1617685798979,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "yAuBluhmj",
+                "edit-time": 1617685798979,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ARW9OryE2",
+            "edit-time": 1617685797921,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -11208,6 +11430,102 @@
     "title": "pt10-99.99",
     "uid": "qNKpYWTXC",
     "edit-time": 1617676738009,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617684139280,
+    "title": "Logseq",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617684148041,
+        "children": [
+          {
+            "string": "[#UX 全局导航优化：缺乏所有笔记内容的统一入口](https://cn.logseq.com/t/topic/127) #pt9-99.99",
+            "create-time": 1617684148033,
+            ":block/refs": [
+              {
+                ":block/uid": "lMcwecsmV"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lMcwecsmV"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "5tCCv1vuj",
+            "edit-time": 1617684186159,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "t3IgDVOct",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617684143343,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "gDnSWFU74",
+    "edit-time": 1617684139280,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617684186161,
+    "title": "pt9-99.99",
+    "uid": "lMcwecsmV",
+    "edit-time": 1617684186161,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617685543248,
+    "title": "Newton’s second law",
+    "uid": "wIk8Y_E3o",
+    "edit-time": 1617685543249,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617685547111,
+    "title": "Principia Mathematica",
+    "uid": "IKdhH7wYy",
+    "edit-time": 1617685547112,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

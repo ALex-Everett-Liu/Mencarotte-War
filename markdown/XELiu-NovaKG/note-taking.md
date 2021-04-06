@@ -1,4 +1,5 @@
 - [[outliner]]
     - [[Dynalist]]
+    - [[Logseq]]
     - [[Roam Research]]
     - [[WorkFlowy]]
