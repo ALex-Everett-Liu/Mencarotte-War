@@ -1,2 +1,7 @@
+- general...
+    - testing
+    - perform the experiment
+    - prepare the particle: 制备粒子;
 - [[observation]]
+    - [[experimental observation]]
     - [[observable consequence]]

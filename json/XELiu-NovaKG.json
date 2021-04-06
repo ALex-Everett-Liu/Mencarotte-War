@@ -55,6 +55,28 @@
         }
       },
       {
+        "string": "[[education]]",
+        "create-time": 1617734910228,
+        ":block/refs": [
+          {
+            ":block/uid": "1zWF5-TNl"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "1zWF5-TNl"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "tgNQr-YtA",
+        "edit-time": 1617734916992,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[engineering]]",
         "create-time": 1617663852807,
         ":block/refs": [
@@ -355,6 +377,28 @@
         }
       },
       {
+        "string": "[[politics]]",
+        "create-time": 1617735136334,
+        ":block/refs": [
+          {
+            ":block/uid": "itQGxZbpC"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "itQGxZbpC"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "gaqbVSq2K",
+        "edit-time": 1617735141436,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[religion]]",
         "refs": [
           {
@@ -519,7 +563,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1617708541320,
+            "edit-time": 1617734700328,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -531,7 +575,7 @@
             "string": "",
             "create-time": 1617570848327,
             "uid": "omHnjHXm7",
-            "edit-time": 1617571350660,
+            "edit-time": 1617734703608,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -554,10 +598,10 @@
         },
         "children": [
           {
-            "string": "",
+            "string": "范畴论; 关系型数据库;;",
             "create-time": 1617570842241,
             "uid": "z7hu5D_X9",
-            "edit-time": 1617577971819,
+            "edit-time": 1617732520588,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -2969,37 +3013,305 @@
         }
       },
       {
-        "string": "zhou",
-        "create-time": 1617672808602,
+        "string": "Pre-empire Period of China",
+        "create-time": 1617734252755,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "children": [
           {
-            "string": "[[chu kingdom]]",
-            "create-time": 1617672835373,
-            ":block/refs": [
-              {
-                ":block/uid": "Uvzg4SaNp"
-              }
-            ],
+            "string": "[[商王朝 (Shang dynasty)]]",
             "refs": [
               {
-                "uid": "Uvzg4SaNp"
+                "uid": "JbJtOTDZW"
               }
             ],
-            ":create/user": {
+            "uid": "1pB0gfjUC",
+            "edit-time": 1617734346169,
+            ":block/refs": [
+              {
+                ":block/uid": "JbJtOTDZW"
+              }
+            ],
+            ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "WNWYUZA3f",
-            "edit-time": 1617672854321,
+            }
+          },
+          {
+            "string": "[[周王朝 (Zhou dynasty)]]; Zhou kingdom",
+            "refs": [
+              {
+                "uid": "3lh5OeHBW"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[西周 (Western Zhou)]]",
+                "refs": [
+                  {
+                    "uid": "Z4IHXCZhC"
+                  }
+                ],
+                "uid": "4GD0cFv5m",
+                "edit-time": 1617734339784,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Z4IHXCZhC"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[春秋时代 (Spring and Autumn period)]]",
+                "refs": [
+                  {
+                    "uid": "J0FBbwGHm"
+                  }
+                ],
+                "uid": "EL8x8jsSA",
+                "edit-time": 1617734337438,
+                ":block/refs": [
+                  {
+                    ":block/uid": "J0FBbwGHm"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[楚国 (Chu Kingdom)]]",
+                "create-time": 1617672835373,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Uvzg4SaNp"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Uvzg4SaNp"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "WNWYUZA3f",
+                "edit-time": 1617734322042,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[宋国 (Song State)]]",
+                "refs": [
+                  {
+                    "uid": "JEqCFUw5R"
+                  }
+                ],
+                "uid": "RrRcbMMu3",
+                "edit-time": 1617734307214,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JEqCFUw5R"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "eYPqR6WmB",
+            "edit-time": 1617734343936,
+            ":block/refs": [
+              {
+                ":block/uid": "3lh5OeHBW"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "uid": "IM_oauDC1",
-        "edit-time": 1617672813208,
+        "uid": "evsJJ2TOP",
+        "edit-time": 1617734376553,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "The First Empire of China",
+        "children": [
+          {
+            "string": "[[汉王朝 (Han dynasty)]]",
+            "refs": [
+              {
+                "uid": "CMYFzihu8"
+              }
+            ],
+            "uid": "kBLP1FP99",
+            "edit-time": 1617734383973,
+            ":block/refs": [
+              {
+                ":block/uid": "CMYFzihu8"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yo287bQk9",
+        "edit-time": 1617734364104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "The Second Empire of China",
+        "children": [
+          {
+            "string": "[[唐王朝 (Tang dynasty)]]",
+            "create-time": 1617733137480,
+            ":block/refs": [
+              {
+                ":block/uid": "qIXMefHsu"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qIXMefHsu"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "WbSk0F6Bo",
+            "edit-time": 1617734389990,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "n0XD9cMqo",
+        "edit-time": 1617734364104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "The Third Empire of China",
+        "children": [
+          {
+            "string": "[[明王朝 (Ming dynasty)]]",
+            "create-time": 1617732765955,
+            ":block/refs": [
+              {
+                ":block/uid": "oVa4F9M8j"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oVa4F9M8j"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "-613Gowqu",
+            "edit-time": 1617734411651,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[清王朝 (Qing dynasty)]]",
+            "refs": [
+              {
+                "uid": "XPxZ2fkIT"
+              }
+            ],
+            "uid": "-h4vw1nl8",
+            "edit-time": 1617734420995,
+            ":block/refs": [
+              {
+                ":block/uid": "XPxZ2fkIT"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "jz-DZk1Rd",
+        "edit-time": 1617734405519,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[sinology]]",
+        "create-time": 1617734468319,
+        ":block/refs": [
+          {
+            ":block/uid": "AJSQk24jD"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "AJSQk24jD"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "o7reLsWPR",
+        "edit-time": 1617734473251,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[centralization]]: 中央集权; [[central authority]]",
+        "refs": [
+          {
+            "uid": "idMzrXS8k"
+          },
+          {
+            "uid": "-VfoKzFnL"
+          }
+        ],
+        "children": [
+          {
+            "string": "郡县化",
+            "children": [
+              {
+                "string": "改土归流",
+                "uid": "0P5SI4v_K",
+                "edit-time": 1617732897167,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "nTjILfIh6",
+            "edit-time": 1617732897167,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Ul-Xzj58j",
+        "edit-time": 1617734744493,
+        ":block/refs": [
+          {
+            ":block/uid": "idMzrXS8k"
+          },
+          {
+            ":block/uid": "-VfoKzFnL"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3198,6 +3510,76 @@
         "string": "general...",
         "children": [
           {
+            "string": "abstract...",
+            "children": [
+              {
+                "string": "[[abstract idea]]",
+                "refs": [
+                  {
+                    "uid": "gYcXKdluT"
+                  }
+                ],
+                "uid": "sxvwPCU8W",
+                "edit-time": 1617728199747,
+                ":block/refs": [
+                  {
+                    ":block/uid": "gYcXKdluT"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[human intuition]]; intuitive sense",
+                "refs": [
+                  {
+                    "uid": "Qt4AQ7y2G"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "((v8ZSL1z7e))",
+                    "create-time": 1617728247931,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "v8ZSL1z7e"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "v8ZSL1z7e"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "zxl72kv3c",
+                    "edit-time": 1617728249427,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "ERTEKx_ov",
+                "edit-time": 1617728197903,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Qt4AQ7y2G"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "0vvx7_tui",
+            "edit-time": 1617728167532,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "condition...",
             "children": [
               {
@@ -3239,6 +3621,52 @@
             ],
             "uid": "Eg2yPnunj",
             "edit-time": 1617666155163,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "model",
+            "children": [
+              {
+                "string": "[[empirical model]]: 经验模型",
+                "refs": [
+                  {
+                    "uid": "IPNVgScLW"
+                  }
+                ],
+                "uid": "yRGcAF0w8",
+                "edit-time": 1617728278655,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IPNVgScLW"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "DZvhigpmc",
+            "edit-time": 1617728267230,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[modern physics]]",
+            "refs": [
+              {
+                "uid": "_1gutH-uw"
+              }
+            ],
+            "uid": "VjLr8IfzR",
+            "edit-time": 1617728282927,
+            ":block/refs": [
+              {
+                ":block/uid": "_1gutH-uw"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -3289,6 +3717,24 @@
             ],
             "uid": "1NzZc200g",
             "edit-time": 1617658374458,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "physical properties",
+            "children": [
+              {
+                "string": "counter-intuitive property",
+                "uid": "v8ZSL1z7e",
+                "edit-time": 1617728231943,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "yAQPakWbJ",
+            "edit-time": 1617728231943,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -5741,13 +6187,35 @@
                 }
               },
               {
-                "string": "Much later I learned that over the last few hundred years many physicists and philosophers —sometimes loudly, sometimes quietly—had [struggled with the very same issue]. Although [Newton's bucket] seemed to [show definitively that] absolute space is what [selects one perspective over another] (if someone or something is spinning [with respect to absolute space] then [they are really spinning]; otherwise they are not), this resolution left many people who [mull over these issues unsatisfied]. 反复琢磨 Beyond the [intuitive sense] that no perspective [should be \"more right\" than any other], and beyond the [eminently reasonable proposal] of Leibniz that only [relative motion between material objects] has meaning, the concept of absolute space left many wondering how absolute space can allow us to identify true accelerated motion, as with the bucket, while it cannot pro- vide a way to identify true constant velocity motion. After all, if absolute space really exists, it should provide a benchmark for all motion, not just accelerated motion. If absolute space really exists, why doesn't it provide a way of identifying where we are located in an absolute sense, one that need not use our position relative to other material objects as a reference point? And, if absolute space really exists, how come it can affect us (causing our arms to splay if we spin, for example) while we apparently have no way to affect it?",
+                "string": "Much later I learned that [over the last few hundred years] many physicists and philosophers —sometimes loudly, sometimes quietly—had [struggled with the very same issue]. Although [Newton's bucket] seemed to [show definitively that] absolute space is what [selects one perspective over another] (if someone or something is spinning [with respect to absolute space] then [they are really spinning]; otherwise they are not), this resolution left many people who [mull over these issues unsatisfied]. 反复琢磨 Beyond the [intuitive sense](((ERTEKx_ov))) that no perspective [should be \"more right\" than any other], and beyond the [eminently reasonable proposal] of Leibniz that only [relative motion between material objects] has meaning, [the concept of absolute space] [left many wondering] how absolute space [can allow us to] [identify true accelerated motion], as with the bucket, while it cannot [provide a way to] [identify true constant velocity motion]. After all, if absolute space really exists, it should [provide a benchmark for](((pBeXnNGnQ))) all motion, not just [accelerated motion]. If absolute space [really exists], [why doesn't it provide a way of] identifying [where we are located in] an absolute sense, one that [need not use] our position [relative to other material objects] as a [[reference point]]? And, if absolute space really exists, how come it can affect us ([causing our arms to splay] if we spin, for example) **while we apparently [have no way to affect it]?**\n(如何确认/分辨出真正的加速运动-为何需要其它物体作为参考点而不直接以绝对空间为参考给定唯一的坐标-为何绝对空间能影响我们或是其他事物的运动，我们却无法反过来影响绝对空间？)\n210407-01:04",
                 "create-time": 1617709540025,
-                "uid": "TZaBzoyFL",
-                "edit-time": 1617723043612,
+                ":block/refs": [
+                  {
+                    ":block/uid": "3ltM4MtEy"
+                  },
+                  {
+                    ":block/uid": "ERTEKx_ov"
+                  },
+                  {
+                    ":block/uid": "pBeXnNGnQ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "3ltM4MtEy"
+                  },
+                  {
+                    "uid": "ERTEKx_ov"
+                  },
+                  {
+                    "uid": "pBeXnNGnQ"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "TZaBzoyFL",
+                "edit-time": 1617728871532,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -5769,6 +6237,90 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "create-time": 1617708684424,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1617729137415,
+            "children": [
+              {
+                "string": "To understand Mach's insight—or, more precisely, [one modern reading of] [ideas often attributed to] Mach* —[let's go back to the bucket] [for a moment]. [There is something odd about] [Newton's argument]. [The bucket experiment] [challenges us to explain] why [the surface of the water] is [flat in one situation] and concave in another. In hunting for explanations, we [examined the two situations] and realized that [the key difference between] them was [whether or not the water was spinning]. Naturally, we [tried to explain] the shape of the water's surface by [appealing to its state of motion]. 诉诸于 ",
+                "create-time": 1617729303447,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "But here's the thing: before introducing absolute space, Newton [focused solely on the bucket] [as the possible reference for] [determining the motion of the water] and, as we saw, that approach fails. But there are other references that [we could naturally use to] [gauge the water's motion], 度量 such as the laboratory [in which the experiment takes place] —its floor, ceiling, and walls. Or if we happened to [perform the experiment](((ObIrq-mcw))) [on a sunny day] [in an open field], the [surrounding buildings] or trees, or [the ground under our feet], would [provide the \"stationary\" reference to] [determine whether the water was spinning]. And if we happened to [perform this experiment] while [floating in outer space](((y2NT-QGRy))), we would [invoke the distant stars as] our [stationary reference](((zlvhap8I_))).\n210407-01:21\n(水桶当然不适合来作为这个问题中的参考系，但也不至于非得诉诸于绝对空间来充当这里的参考系，事实上，遥远的星空、周围的建筑与自然环境等等诸多的对象都可以被设置为参考系)",
+                    "create-time": 1617729053999,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ObIrq-mcw"
+                      },
+                      {
+                        ":block/uid": "zlvhap8I_"
+                      },
+                      {
+                        ":block/uid": "y2NT-QGRy"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ObIrq-mcw"
+                      },
+                      {
+                        "uid": "zlvhap8I_"
+                      },
+                      {
+                        "uid": "y2NT-QGRy"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "iIvkfiyx0",
+                    "edit-time": 1617729917065,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "_CO9yrYX0",
+                "edit-time": 1617729303447,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ffGo-PIx-"
+              }
+            ],
+            "uid": "7DReeyOtI",
+            ":block/refs": [
+              {
+                ":block/uid": "ffGo-PIx-"
+              }
+            ],
+            "string": "In the centuries [since Newton's work], these questions were sometimes debated, but it wasn't until the mid-1800s, when the [Austrian physicist and philosopher] [[Ernst Mach]] [came on the scene], that a bold, prescient, and [extremely influential] [new view] 大胆的、有先见之明的、极具影响力的新观点 about space was suggested —a view that, among other things, would [in due course] [have a deep impact on] Albert Einstein.",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617729053999,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "There is debate concerning Mach's precise views on the material that follows. Some of his writings are a bit ambiguous and some of the ideas attributed to him arose from sub- sequent interpretations of his work. Since he seems to have been aware of these interpretations and never offered corrections, some have suggested that he agreed with their conclusions. But historical accuracy might be better served if ever)' time I write \"Mach argued\" or \"Mach's ideas,\" you read it to mean \"the prevailing interpretation of an approach initiated by Mach.\"",
+            "create-time": 1617729053999,
+            "uid": "hf7NSK34F",
+            "edit-time": 1617729069983,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -6166,6 +6718,24 @@
         },
         "uid": "ERVW_hyeR",
         "edit-time": 1617648034609,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[space science]]",
+        "refs": [
+          {
+            "uid": "MtRZa7tId"
+          }
+        ],
+        "uid": "gRIKbuRzE",
+        "edit-time": 1617663870348,
+        ":block/refs": [
+          {
+            ":block/uid": "MtRZa7tId"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -6676,6 +7246,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "stationary reference",
+                    "create-time": 1617729687334,
+                    "uid": "zlvhap8I_",
+                    "edit-time": 1617729688299,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "ls-eUqsX-",
@@ -7023,6 +7605,106 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "children": [
+          {
+            "string": "b",
+            "create-time": 1617728834271,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "be",
+                "create-time": 1617728834583,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "begin",
+                    "children": [
+                      {
+                        "string": "beginning;",
+                        "uid": "-E8_tQDQe",
+                        "edit-time": 1617728837064,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "_332uEG-b",
+                    "edit-time": 1617728837064,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "behave",
+                    "children": [
+                      {
+                        "string": "behavior, 2; behaviour",
+                        "children": [
+                          {
+                            "string": "drive the behavior;",
+                            "uid": "iLMnec7v0",
+                            "edit-time": 1617728837064,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "XkqHpupiz",
+                        "edit-time": 1617728837064,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "LTmB0qKkH",
+                    "edit-time": 1617728837064,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "bench",
+                    "children": [
+                      {
+                        "string": "benchmark",
+                        "uid": "pBeXnNGnQ",
+                        "edit-time": 1617728837064,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "FkiWJrqBz",
+                    "edit-time": 1617728837064,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "beware",
+                    "uid": "lW9KlREWi",
+                    "edit-time": 1617728837064,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "jEqqr_wwL",
+                "edit-time": 1617728836231,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "EZWpd4mRb",
+            "edit-time": 1617728834591,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "c",
             "create-time": 1617650017881,
@@ -7704,6 +8386,70 @@
             }
           },
           {
+            "string": "m",
+            "create-time": 1617728850844,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "ma",
+                "create-time": 1617728851599,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "mark",
+                    "create-time": 1617728852771,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "((pBeXnNGnQ)); ",
+                        "create-time": 1617728854323,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "pBeXnNGnQ"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "pBeXnNGnQ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "g1D4eBgYA",
+                        "edit-time": 1617728856640,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "J3nRnzqsM",
+                    "edit-time": 1617728854328,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "bmfZiEBZs",
+                "edit-time": 1617728852777,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "N9HDRB7WP",
+            "edit-time": 1617728851605,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "p",
             "create-time": 1617670162688,
             ":create/user": {
@@ -7840,6 +8586,70 @@
                 ],
                 "uid": "b9VqS9dEY",
                 "edit-time": 1617670164305,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "pe",
+                "create-time": 1617729445210,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "per",
+                    "create-time": 1617729445900,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "perform",
+                        "children": [
+                          {
+                            "string": "performed; performing",
+                            "uid": "dglTuMplO",
+                            "edit-time": 1617729448018,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "((ObIrq-mcw)); ",
+                            "refs": [
+                              {
+                                "uid": "ObIrq-mcw"
+                              }
+                            ],
+                            "uid": "OgF6FvgHS",
+                            "edit-time": 1617729505695,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "ObIrq-mcw"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "53h9BFXUc",
+                        "edit-time": 1617729448018,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "l7ZDSteHP",
+                    "edit-time": 1617729447248,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "UKt0lvSsD",
+                "edit-time": 1617729445905,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -8809,6 +9619,28 @@
         }
       },
       {
+        "string": "www.[[kekenet]].com",
+        "create-time": 1617734678110,
+        ":block/refs": [
+          {
+            ":block/uid": "vD7gj0HCk"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "vD7gj0HCk"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "oL7ajmjq1",
+        "edit-time": 1617734681563,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "misc; others",
         "create-time": 1617657440356,
         ":create/user": {
@@ -9273,19 +10105,23 @@
         }
       },
       {
-        "string": "[[space science]]",
-        "refs": [
-          {
-            "uid": "MtRZa7tId"
-          }
-        ],
-        "uid": "gRIKbuRzE",
-        "edit-time": 1617663870348,
+        "string": "((gRIKbuRzE))",
+        "create-time": 1617729723690,
         ":block/refs": [
           {
-            ":block/uid": "MtRZa7tId"
+            ":block/uid": "gRIKbuRzE"
           }
         ],
+        "refs": [
+          {
+            "uid": "gRIKbuRzE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "xypH5HsUK",
+        "edit-time": 1617729724628,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -9380,6 +10216,28 @@
         },
         "uid": "Rlo7Th6_M",
         "edit-time": 1617664852082,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[outer space]]",
+        "create-time": 1617729735851,
+        ":block/refs": [
+          {
+            ":block/uid": "lhoVjDeWL"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "lhoVjDeWL"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "y2NT-QGRy",
+        "edit-time": 1617729743842,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -11291,7 +12149,7 @@
   },
   {
     "create-time": 1617672854323,
-    "title": "chu kingdom",
+    "title": "楚国 (Chu Kingdom)",
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -11320,7 +12178,7 @@
       }
     ],
     "uid": "Uvzg4SaNp",
-    "edit-time": 1617672854324,
+    "edit-time": 1617734322042,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -11507,6 +12365,40 @@
     },
     "children": [
       {
+        "string": "general...",
+        "children": [
+          {
+            "string": "testing",
+            "uid": "YpEM2cUFZ",
+            "edit-time": 1617729482311,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "perform the experiment",
+            "uid": "ObIrq-mcw",
+            "edit-time": 1617729482311,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "prepare the particle: 制备粒子;",
+            "uid": "pUEnN27Q8",
+            "edit-time": 1617729482311,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ITkQZFLS3",
+        "edit-time": 1617729482311,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[observation]]",
         "refs": [
           {
@@ -11515,14 +12407,32 @@
         ],
         "children": [
           {
+            "string": "[[experimental observation]]",
+            "refs": [
+              {
+                "uid": "lbrMxCSnB"
+              }
+            ],
+            "uid": "Q3n157Krw",
+            "edit-time": 1617729491629,
+            ":block/refs": [
+              {
+                ":block/uid": "lbrMxCSnB"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[observable consequence]]",
             "refs": [
               {
                 "uid": "9UABsYcZk"
               }
             ],
-            "uid": "fadAJS48O",
-            "edit-time": 1617674650501,
+            "uid": "ildjara8Q",
+            "edit-time": 1617729490297,
             ":block/refs": [
               {
                 ":block/uid": "9UABsYcZk"
@@ -11533,8 +12443,8 @@
             }
           }
         ],
-        "uid": "BVrzaOSlD",
-        "edit-time": 1617674652089,
+        "uid": "hRwuBZvXA",
+        "edit-time": 1617729493413,
         ":block/refs": [
           {
             ":block/uid": "SrKIaZG_8"
@@ -11933,17 +12843,17 @@
         }
       },
       {
-        "string": "[[invest]]",
+        "string": "[[block chain]]?",
         "refs": [
           {
-            "uid": "sTLOYHGlv"
+            "uid": "Ec45Qk5SA"
           }
         ],
-        "uid": "kSdzKUofk",
-        "edit-time": 1617705177066,
+        "uid": "Ife-0H8IS",
+        "edit-time": 1617705191546,
         ":block/refs": [
           {
-            ":block/uid": "sTLOYHGlv"
+            ":block/uid": "Ec45Qk5SA"
           }
         ],
         ":edit/user": {
@@ -12015,17 +12925,37 @@
         }
       },
       {
-        "string": "[[block chain]]?",
+        "string": "[[financial crisis]]",
         "refs": [
           {
-            "uid": "Ec45Qk5SA"
+            "uid": "sFBSv8ueP"
           }
         ],
-        "uid": "Ife-0H8IS",
-        "edit-time": 1617705191546,
+        "children": [
+          {
+            "string": "[[global financial crisis]]",
+            "refs": [
+              {
+                "uid": "7io2CVLjv"
+              }
+            ],
+            "uid": "SXBLOJoDi",
+            "edit-time": 1617735016732,
+            ":block/refs": [
+              {
+                ":block/uid": "7io2CVLjv"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "i9bS6z4rF",
+        "edit-time": 1617735018196,
         ":block/refs": [
           {
-            ":block/uid": "Ec45Qk5SA"
+            ":block/uid": "sFBSv8ueP"
           }
         ],
         ":edit/user": {
@@ -12056,6 +12986,24 @@
         ],
         "uid": "Csh3FBB3y",
         "edit-time": 1617705124715,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[invest]]",
+        "refs": [
+          {
+            "uid": "sTLOYHGlv"
+          }
+        ],
+        "uid": "kSdzKUofk",
+        "edit-time": 1617705177066,
+        ":block/refs": [
+          {
+            ":block/uid": "sTLOYHGlv"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -12288,6 +13236,24 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[novel]]",
+        "refs": [
+          {
+            "uid": "F-XW47tfE"
+          }
+        ],
+        "uid": "rgS-p5cVz",
+        "edit-time": 1617735725373,
+        ":block/refs": [
+          {
+            ":block/uid": "F-XW47tfE"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[poetry]]",
         "refs": [
@@ -12662,6 +13628,1102 @@
     "title": "relative velocity",
     "uid": "UELMbcWRn",
     "edit-time": 1617709158109,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617728197904,
+    "title": "human intuition",
+    "uid": "Qt4AQ7y2G",
+    "edit-time": 1617728197905,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617728199750,
+    "title": "abstract idea",
+    "uid": "gYcXKdluT",
+    "edit-time": 1617728199750,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617728278657,
+    "title": "empirical model",
+    "uid": "IPNVgScLW",
+    "edit-time": 1617728278658,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617728282937,
+    "title": "modern physics",
+    "uid": "_1gutH-uw",
+    "edit-time": 1617728282937,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617729092185,
+    "title": "Ernst Mach",
+    "uid": "ffGo-PIx-",
+    "edit-time": 1617729092192,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617729491631,
+    "title": "experimental observation",
+    "uid": "lbrMxCSnB",
+    "edit-time": 1617729491631,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617729743845,
+    "title": "outer space",
+    "uid": "lhoVjDeWL",
+    "edit-time": 1617729743845,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617732779319,
+    "title": "明王朝 (Ming dynasty)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[朱元璋 (Zhu Yuanzhang)]]",
+        "refs": [
+          {
+            "uid": "7fyyUwZ53"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[朱标 (Zhu Biao)]]",
+            "refs": [
+              {
+                "uid": "PyCQbMilJ"
+              }
+            ],
+            "uid": "y9Cerc324",
+            "edit-time": 1617733870049,
+            ":block/refs": [
+              {
+                ":block/uid": "PyCQbMilJ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "MKjCOQfAv",
+        "edit-time": 1617733871488,
+        ":block/refs": [
+          {
+            ":block/uid": "7fyyUwZ53"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1617732785753,
+        "children": [
+          {
+            "edit-time": 1617732798462,
+            "children": [
+              {
+                "string": "东北这块，[辽河流域]算从战国开始的华夏自古以来。\n倒是松花江和黑龙江流域，这是在[辽金][基础之上]，[元明清三代]的突破。\n云贵[控制巩固]，这是元明清三代的突破。",
+                "create-time": 1614247022442,
+                "uid": "oVh-PHrUI",
+                "edit-time": 1617732787264,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "西南能[改土归流](((0P5SI4v_K)))也是[经济因素]，因为[金属矿][开发出来]了，[设立郡县](((nTjILfIh6)))可以[在经济上自立]而不是[财政黑洞]。",
+                "refs": [
+                  {
+                    "uid": "nTjILfIh6"
+                  },
+                  {
+                    "uid": "0P5SI4v_K"
+                  }
+                ],
+                "uid": "P4Qw9LyA_",
+                "edit-time": 1617732914600,
+                ":block/refs": [
+                  {
+                    ":block/uid": "nTjILfIh6"
+                  },
+                  {
+                    ":block/uid": "0P5SI4v_K"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "另外要说南方前几天在知乎看到一个比较[有说服力的观点]，即[中古以后]随着[水稻农业技术]进步，汉族向南方扩张面临的阻力是越来越大，因为苗瑶/壮傣语土著靠[种植水稻]也出现了[人口暴增]，一方面让[南下移民]很难再像之前那样[站稳脚跟]，另一方面他们自身又可以向更南的中南半岛快速扩张。[水稻农业]能支持也需要[极其密集的人口]，所以[优势非常大]。",
+                "uid": "QmmEGxQhV",
+                "edit-time": 1617732874594,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "虽然不完全赞同，但是[确实有道理]，可是需要注意，突破这个的西欧，实际是一个[比较稳定的][多国竞争的态势]，而且大西洋也比太平洋[容易发展]。如果西方[罗马帝国]能[始终维持][地中海大一统]，那我认为[要突破]就难度很大了。因为帝国[压制了][地方势力]突破，而帝国自身要[把大部分力量用来][维稳]上。",
+                "children": [
+                  {
+                    "string": "所以我不会怪明朝不去[发现美洲]，甚至不会怪明朝不去[坚持下西洋]，但是我对明朝[北弃开平][南弃南洋]就认为纯粹[败家子]了。",
+                    "uid": "OPWj-ZQwm",
+                    "edit-time": 1617733059970,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "EoBBX6Zbo",
+                "edit-time": 1617733046675,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oVxMsq163"
+              }
+            ],
+            "uid": "JZs5PkwZC",
+            ":block/refs": [
+              {
+                ":block/uid": "oVxMsq163"
+              }
+            ],
+            "string": "然而只是[永乐][一代]，到[明宣宗]就[全盘放弃](https://bbs.northdy.com/thread-921364-2-1.html)了，我可以理解放弃印度洋，但是放弃[马六甲]和[交趾]等于[东南亚]全盘放弃，这个和[满清][持之以恒][有清一朝][一直牢固控制]西域和西藏比[相差甚多]。 #pt9-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1614246886397,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "unW-jeye2",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617732781990,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "oVa4F9M8j",
+    "edit-time": 1617734411651,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617732798463,
+    "title": "pt9-99.98",
+    "uid": "oVxMsq163",
+    "edit-time": 1617732798464,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617733144167,
+    "title": "唐王朝 (Tang dynasty)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617733946049,
+        "children": [
+          {
+            "string": "虎牢关之战",
+            "create-time": 1617733964655,
+            "uid": "MEAJAgheE",
+            "edit-time": 1617733966242,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Bbsd_ckT2"
+          }
+        ],
+        "uid": "dVtgLy2Qb",
+        ":block/refs": [
+          {
+            ":block/uid": "Bbsd_ckT2"
+          }
+        ],
+        "string": "[[窦建德 (Dou Jiande)]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617733938225,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1617733148582,
+        "children": [
+          {
+            "edit-time": 1617733154865,
+            "children": [
+              {
+                "string": "因为[史料]的原因，[朱标](((y9Cerc324)))这个人经历以及形象[变得很模糊了]，不过从建文[登基没多久]就将[有西南经历的]尚书换上来看，东宫和西南方面的[亲密程度]应该是非常之深的。",
+                "create-time": 1617284642548,
+                ":block/refs": [
+                  {
+                    ":block/uid": "y9Cerc324"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "y9Cerc324"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "1D-PBN9rS",
+                "edit-time": 1617733879065,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1617733948354,
+                "children": [
+                  {
+                    "string": "感觉李渊对[下面人]的态度就是典型的[顶级贵族]心态，[差不多阶层出身的]都要[留点体面]，对于[造反的泥腿子]是丝毫不犹豫，[你也配造反]的感觉。",
+                    "create-time": 1617733755421,
+                    "uid": "3T7Idj7dM",
+                    "edit-time": 1617733772794,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "窦建德是个[厚道人]，结果[好人没好报]啊",
+                    "create-time": 1617284680762,
+                    "uid": "KHxR2TS42",
+                    "edit-time": 1617733149886,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Bbsd_ckT2"
+                  }
+                ],
+                "uid": "eJJxVQm8A",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Bbsd_ckT2"
+                  }
+                ],
+                "string": "[窦建德]([[窦建德 (Dou Jiande)]])抓了李渊[同母妹][同安公主]和[李神通][好好招待]，结果自己[兵败被俘]就被李渊杀了，李渊对这些[泥腿子出身]的[反王]确实体现出[封建贵族]的傲慢和凶残",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1617733188973,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "这个有个很大的问题，窦建德不杀，河北就不会[降而复叛]了？或者明白说：",
+                "children": [
+                  {
+                    "string": "1、[虎牢关之战](((MEAJAgheE)))[夏国]属于[猝死]，河北[还有力量]这是根本，在李唐这边看就是[尾大不掉]。",
+                    "refs": [
+                      {
+                        "uid": "MEAJAgheE"
+                      }
+                    ],
+                    "uid": "1joHhySAV",
+                    "edit-time": 1617733976353,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "MEAJAgheE"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "2、李唐当时（站在李渊的角度）能拿出多少位置和权力来[赎买]收买河北[当时的势力]呢？",
+                    "uid": "jJmKwtmli",
+                    "edit-time": 1617733272078,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "0ccDbHEm9",
+                "edit-time": 1617733254459,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[玩命]正好[一网打尽]，我很怀疑李渊[实际就是这个想法]。这又不是[中晚唐]，初唐[关陇集团]正[如日中天]，[军事体制]能[有效运转]，又有[天才统帅]，北周隋李唐初年连续对河北[屡战屡胜][养成的优越感]，还有山西已经完全被李唐消化，据太行和河内[居高临下]，幽州是隋[边军]和河北冀州那得[造反势力]不是一路，幽州河内太行[三面夹击][地缘绝对优势]。可以说[一网打尽]比[慢慢削弱]要强。",
+                "create-time": 1617733304666,
+                "uid": "tnQO9_NDl",
+                "edit-time": 1617733344166,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "fUmISsvts"
+              }
+            ],
+            "uid": "V65eaETWb",
+            ":block/refs": [
+              {
+                ":block/uid": "fUmISsvts"
+              }
+            ],
+            "string": "写完上面这个回复，忽然生发出一点感触：\n从太后-继承人这个角度说，[嘉庆帝](https://bbs.northdy.com/thread-926687-2-1.html)的[孝和睿皇后]确实是个[封建社会]意义上的“贤后”，而宋太祖的孝章宋后、宋太宗的明德李后，就真的太[感情用事]了。 #pt7-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617284590785,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "ZBhQY_S4r",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617733145356,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "qIXMefHsu",
+    "edit-time": 1617734389990,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617733154867,
+    "title": "pt7-99.99",
+    "uid": "fUmISsvts",
+    "edit-time": 1617733154868,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617733870052,
+    "title": "朱标 (Zhu Biao)",
+    "uid": "PyCQbMilJ",
+    "edit-time": 1617733870052,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617733871491,
+    "title": "朱元璋 (Zhu Yuanzhang)",
+    "uid": "7fyyUwZ53",
+    "edit-time": 1617733871492,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617733946051,
+    "title": "窦建德 (Dou Jiande)",
+    "uid": "Bbsd_ckT2",
+    "edit-time": 1617733946060,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734307217,
+    "title": "宋国 (Song State)",
+    "uid": "JEqCFUw5R",
+    "edit-time": 1617734307217,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734337439,
+    "title": "春秋时代 (Spring and Autumn period)",
+    "uid": "J0FBbwGHm",
+    "edit-time": 1617734337440,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734339786,
+    "title": "西周 (Western Zhou)",
+    "uid": "Z4IHXCZhC",
+    "edit-time": 1617734339786,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734343939,
+    "title": "周王朝 (Zhou dynasty)",
+    "uid": "3lh5OeHBW",
+    "edit-time": 1617734343939,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734346170,
+    "title": "商王朝 (Shang dynasty)",
+    "uid": "JbJtOTDZW",
+    "edit-time": 1617734346171,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734383974,
+    "title": "汉王朝 (Han dynasty)",
+    "uid": "CMYFzihu8",
+    "edit-time": 1617734383975,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734420997,
+    "title": "清王朝 (Qing dynasty)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[乾隆 (Qianlong)]]",
+        "create-time": 1617734428736,
+        ":block/refs": [
+          {
+            ":block/uid": "3gyp7Qa54"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "3gyp7Qa54"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "qJ4xyOnUK",
+        "edit-time": 1617734430953,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "XPxZ2fkIT",
+    "edit-time": 1617734420998,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734430955,
+    "title": "乾隆 (Qianlong)",
+    "uid": "3gyp7Qa54",
+    "edit-time": 1617734430955,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734473252,
+    "title": "sinology",
+    "uid": "AJSQk24jD",
+    "edit-time": 1617734473253,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734634179,
+    "title": "centralization",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1617734638294,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "centralization (of authority): centralized state power; centralized feudal monarchy",
+            "create-time": 1617734644599,
+            "uid": "f9atlEBLf",
+            "edit-time": 1617734644602,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "They [condemned the white paper as] [a charter for centralisation] 怂恿中央集权 and [[selective education]]. ((jldk-hLLo))",
+            "create-time": 1617734644599,
+            ":block/refs": [
+              {
+                ":block/uid": "jldk-hLLo"
+              },
+              {
+                ":block/uid": "fwHG04Nfg"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "jldk-hLLo"
+              },
+              {
+                "uid": "fwHG04Nfg"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Jo1HWuzcP",
+            "edit-time": 1617734928754,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "There is undoubtedly a groundswell of [support for the idea of] a strong [[central authority]]. 呼声",
+            "create-time": 1617734644599,
+            ":block/refs": [
+              {
+                ":block/uid": "-VfoKzFnL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "-VfoKzFnL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "1JL719dOH",
+            "edit-time": 1617734734057,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "As [[Francis Fukuyama]] has shown, it is the [statist right](((1Me3xlOqX))), rather than the [radical left](((WkShs5RN7))), that has [won the battle of ideas] in the wake of the [[global financial crisis]]. ((oL7ajmjq1))",
+            "create-time": 1617734644599,
+            ":block/refs": [
+              {
+                ":block/uid": "oL7ajmjq1"
+              },
+              {
+                ":block/uid": "GXqE7ZrS9"
+              },
+              {
+                ":block/uid": "7io2CVLjv"
+              },
+              {
+                ":block/uid": "WkShs5RN7"
+              },
+              {
+                ":block/uid": "1Me3xlOqX"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oL7ajmjq1"
+              },
+              {
+                "uid": "GXqE7ZrS9"
+              },
+              {
+                "uid": "7io2CVLjv"
+              },
+              {
+                "uid": "WkShs5RN7"
+              },
+              {
+                "uid": "1Me3xlOqX"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "mjW-0HysT",
+            "edit-time": 1617735169648,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "HONG Xiu-quan and [Centralization of Authority] in [Post Taiping Heavenly Kingdom]. dict.cnki.net",
+            "create-time": 1617734644599,
+            "uid": "Eeo4SP5sd",
+            "edit-time": 1617734788958,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "France is [a traditionally centralized country] and the centralization is ineradicable. 集权观念根深蒂固 word.[hcbus].com",
+            "create-time": 1617734644599,
+            "uid": "7oOVk-tX2",
+            "edit-time": 1617734794540,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "tgLe01jRV",
+        "edit-time": 1617734640332,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "idMzrXS8k",
+    "edit-time": 1617734634180,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734681565,
+    "title": "kekenet",
+    "uid": "vD7gj0HCk",
+    "edit-time": 1617734681566,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734713737,
+    "title": "selective education",
+    "uid": "fwHG04Nfg",
+    "edit-time": 1617734713738,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734734061,
+    "title": "central authority",
+    "uid": "-VfoKzFnL",
+    "edit-time": 1617734734061,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734763228,
+    "title": "Francis Fukuyama",
+    "uid": "GXqE7ZrS9",
+    "edit-time": 1617734763229,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734777523,
+    "title": "global financial crisis",
+    "uid": "7io2CVLjv",
+    "edit-time": 1617734777523,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734916996,
+    "title": "education",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[pedagogy]]: 教学法",
+        "refs": [
+          {
+            "uid": "vt6K_eUc6"
+          }
+        ],
+        "uid": "LGWvmlQ_T",
+        "edit-time": 1617734922585,
+        ":block/refs": [
+          {
+            ":block/uid": "vt6K_eUc6"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "practical application",
+        "uid": "XcC8XSJjX",
+        "edit-time": 1617734918724,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[selective education]]: 精英教育 ",
+        "refs": [
+          {
+            "uid": "fwHG04Nfg"
+          }
+        ],
+        "uid": "xh6rUKKMR",
+        "edit-time": 1617734932377,
+        ":block/refs": [
+          {
+            ":block/uid": "fwHG04Nfg"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "1zWF5-TNl",
+    "edit-time": 1617734916997,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617734922587,
+    "title": "pedagogy",
+    "uid": "vt6K_eUc6",
+    "edit-time": 1617734922587,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617735018198,
+    "title": "financial crisis",
+    "uid": "sFBSv8ueP",
+    "edit-time": 1617735018198,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617735141437,
+    "title": "politics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "political spectrum",
+        "children": [
+          {
+            "string": "radical left: 激进的左翼",
+            "uid": "WkShs5RN7",
+            "edit-time": 1617735150916,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "statist right: 中央集权主义右翼",
+            "uid": "1Me3xlOqX",
+            "edit-time": 1617735150916,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ApkzZBYux",
+        "edit-time": 1617735150916,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "itQGxZbpC",
+    "edit-time": 1617735141438,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617735725375,
+    "title": "novel",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[alternative history]]",
+        "refs": [
+          {
+            "uid": "2cr9gNl4X"
+          }
+        ],
+        "uid": "poJSLogIW",
+        "edit-time": 1617735733480,
+        ":block/refs": [
+          {
+            ":block/uid": "2cr9gNl4X"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "metropolis?",
+        "create-time": 1617735747790,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "",
+            "create-time": 1617735751207,
+            "uid": "ar2NO5u3O",
+            "edit-time": 1617735751207,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Qstml6tnv",
+        "edit-time": 1617735751212,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[romance novel]]",
+        "refs": [
+          {
+            "uid": "AhAedw9oz"
+          }
+        ],
+        "uid": "Bj5KAygQP",
+        "edit-time": 1617735734756,
+        ":block/refs": [
+          {
+            ":block/uid": "AhAedw9oz"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "F-XW47tfE",
+    "edit-time": 1617735725376,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617735733482,
+    "title": "alternative history",
+    "uid": "2cr9gNl4X",
+    "edit-time": 1617735733482,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617735734758,
+    "title": "romance novel",
+    "uid": "AhAedw9oz",
+    "edit-time": 1617735734758,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

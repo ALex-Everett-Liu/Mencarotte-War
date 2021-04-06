@@ -20,6 +20,7 @@
             - an absolute conception of acceleration
         - [[reference point]]; [[reference object]]
             - [[relevant reference]]; [[relevant frame of reference]]
+            - stationary reference
     - Galileo's coin in the ship
     - a matter of perspective; point of view; viewpoint; with respect to what
     - [[Newton's bucket experiment]]; [[water bucket experiment]]

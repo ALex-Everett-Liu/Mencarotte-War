@@ -1,6 +1,22 @@
 - [[pre-shang]]
-- zhou
-    - [[chu kingdom]]
+- Pre-empire Period of China
+    - [[商王朝 (Shang dynasty)]]
+    - [[周王朝 (Zhou dynasty)]]; Zhou kingdom
+        - [[西周 (Western Zhou)]]
+        - [[春秋时代 (Spring and Autumn period)]]
+        - [[楚国 (Chu Kingdom)]]
+        - [[宋国 (Song State)]]
+- The First Empire of China
+    - [[汉王朝 (Han dynasty)]]
+- The Second Empire of China
+    - [[唐王朝 (Tang dynasty)]]
+- The Third Empire of China
+    - [[明王朝 (Ming dynasty)]]
+    - [[清王朝 (Qing dynasty)]]
+- [[sinology]]
+- [[centralization]]: 中央集权; [[central authority]]
+    - 郡县化
+        - 改土归流
 - ---
 - {{[[TODO]]}} 讲谈社中国史 -- 疾驰的草原征服者：辽·西夏·金·元   #pt8-99.98 
 - ---

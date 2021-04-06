@@ -1,3 +1,4 @@
 - [[extraterrestrial intelligence]]; 外星人
 - [[NASA]]
+- [[outer space]]
 - [[space-based experiment]]

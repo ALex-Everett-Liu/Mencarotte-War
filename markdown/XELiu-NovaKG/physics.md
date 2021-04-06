@@ -2,13 +2,22 @@
 - [[classical mechanics]]
 - [[experimental physics]]; [[experimental physicist]]
 - general...
+    - abstract...
+        - [[abstract idea]]
+        - [[human intuition]]; intuitive sense
+            - counter-intuitive property
     - condition...
         - [[extreme condition]]
         - [[idealized situation]]
+    - model
+        - [[empirical model]]: 经验模型
+    - [[modern physics]]
     - object, entity...
         - [[physical entity]]; [[non-physical entity]]
         - ordinary object
         - real entity
+    - physical properties
+        - counter-intuitive property
 - meta phys...
     - [[reality]]; [[physical reality]]
     - #inbox

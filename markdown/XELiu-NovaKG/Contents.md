@@ -1,4 +1,5 @@
 - [[economy]]
+- [[education]]
 - [[engineering]]
 - [[daily life]]; [[everyday life]]...
 - [[history]]
@@ -14,6 +15,7 @@
 - personal
     - [[meiz]]
 - [[philosophy]]
+- [[politics]]
 - [[religion]]
 - [[science]]
 - [[technology]]

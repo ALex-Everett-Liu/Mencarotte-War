@@ -1,3 +1,4 @@
+- [[novel]]
 - [[poetry]]
     - [[Romantic poetry]]
 - scene; scenery...

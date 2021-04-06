@@ -1,4 +1,14 @@
 - English
+    - b
+        - be
+            - begin
+                - beginning;
+            - behave
+                - behavior, 2; behaviour
+                    - drive the behavior;
+            - bench
+                - benchmark
+            - beware
     - c
         - ca
             - caution
@@ -61,6 +71,10 @@
                     - [Greater London] [fragmentation of governance] 治理碎裂化 and the resulting performance of the thorny issues. www.[fabiao].net
                     - However, with the [rapid development] of [B2C e-commerce], also face [a number of thorny issues]. 
                 - raise the issue;
+    - m
+        - ma
+            - mark
+                - benchmark; 
     - p
         - pa
             - par
@@ -75,6 +89,11 @@
                     - pars; parse: 解析, 分列;
                         - parsing: 语法分析, 剖析;
                     - [[party]]
+        - pe
+            - per
+                - perform
+                    - performed; performing
+                    - perform the experiment; 
     - r
         - re
             - res

@@ -1,0 +1,3 @@
+- political spectrum
+    - radical left: 激进的左翼
+    - statist right: 中央集权主义右翼
