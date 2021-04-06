@@ -2,6 +2,10 @@
     - testing
     - perform the experiment
     - prepare the particle: 制备粒子;
+- [[laboratory]]
+    - white coat;
 - [[observation]]
     - [[experimental observation]]
     - [[observable consequence]]
+- outcome of the experiment
+- yield the value;

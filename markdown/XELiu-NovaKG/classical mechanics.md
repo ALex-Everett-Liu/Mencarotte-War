@@ -1,5 +1,6 @@
 - [[centrifugal force]] 离心力; [[centripetal force]] 向心力
-    - [[spinning motion]]
+    - [[spinning motion]]; rotating motion
+        - uniform spinning motion
 - friction
     - frictionless;
 - Galileo experiment
@@ -14,11 +15,11 @@
 - position
     - [[relative position]];
 - [[relative motion]]
-    - [[external comparison]]
     - [[frame of reference]]
         - [[absolute space]]
             - an absolute conception of acceleration
         - [[reference point]]; [[reference object]]
+            - benchmark for comparison; [[external comparison]]
             - [[relevant reference]]; [[relevant frame of reference]]
             - stationary reference
     - Galileo's coin in the ship
@@ -27,6 +28,8 @@
         - concave shape; [[concave surface]]
         - [[interior wall]]
         - spinning water bucket
+        - terrestrial bucket experiment
+            - [[Ernst Mach]]
     - [[relative velocity]]
         - [[relative acceleration]]; an absolute conception of acceleration
 - [[velocity]] - the speed and direction of an object's motion

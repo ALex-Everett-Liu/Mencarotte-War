@@ -7,6 +7,7 @@
             - an absolute conception of acceleration
         - Newtonian worldview
     - [[empty space]]
+        - existential
         - [[relationist position]]: 关系论
             - [[independent existence]]; independent reality; relative
                 - real entity

@@ -75,6 +75,17 @@
         - ma
             - mark
                 - benchmark; 
+    - o
+        - ob
+            - ob-
+                - obscure: 遮蔽; 湮没;
+                    - obscured; obscurity;
+            - object
+                - objection;
+            - observe
+                - observation; observed, 2; observer
+            - obsess
+                - obsessed; obsession
     - p
         - pa
             - par

@@ -3,6 +3,7 @@
     - [[Romantic poetry]]
 - scene; scenery...
     - [[night sky]]
+        - fixed stars in the sky
         - [[星空 (hoshizora)]]; [[夜空 (yozora)]]
             - 今夜星を見に行こう
             - 夜空は星が降るようで
