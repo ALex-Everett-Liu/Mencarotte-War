@@ -3,6 +3,7 @@
 - [[daily life]]; [[everyday life]]...
 - [[history]]
 - [[language]]
+- [[literature and art]]
 - math and phys
     - [[chemistry]]
     - [[mathematics]]
@@ -10,6 +11,8 @@
 - [[medicine]]
 - [[military]]
 - [[non-reality]]
+- personal
+    - [[meiz]]
 - [[philosophy]]
 - [[religion]]
 - [[science]]

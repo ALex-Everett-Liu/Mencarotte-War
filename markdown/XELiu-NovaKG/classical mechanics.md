@@ -17,6 +17,7 @@
     - [[external comparison]]
     - [[frame of reference]]
         - [[absolute space]]
+            - an absolute conception of acceleration
         - [[reference point]]; [[reference object]]
             - [[relevant reference]]; [[relevant frame of reference]]
     - Galileo's coin in the ship
@@ -25,7 +26,10 @@
         - concave shape; [[concave surface]]
         - [[interior wall]]
         - spinning water bucket
+    - [[relative velocity]]
+        - [[relative acceleration]]; an absolute conception of acceleration
 - [[velocity]] - the speed and direction of an object's motion
     - [[acceleration]]; [[accelerated motion]]
+        - [[relative acceleration]]; an absolute conception of acceleration
         - [[constant velocity motion]]; [[constant speed]]
         - stationary; still

@@ -4,6 +4,7 @@
 - space and time
     - absolute conception of space and time
         - [[absolute space]]
+            - an absolute conception of acceleration
         - Newtonian worldview
     - [[empty space]]
         - [[relationist position]]: 关系论

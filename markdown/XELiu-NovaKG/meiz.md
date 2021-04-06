@@ -1,0 +1,7 @@
+- [[CRR]]
+- [[DCIM]]
+- hosted pictures
+- parallel...
+    - scene; scenery...
+- place? environment?
+    - [[sofa]]

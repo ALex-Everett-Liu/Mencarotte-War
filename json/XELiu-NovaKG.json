@@ -149,6 +149,28 @@
         }
       },
       {
+        "string": "[[literature and art]]",
+        "create-time": 1617708311983,
+        ":block/refs": [
+          {
+            ":block/uid": "a4zEH8wv9"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "a4zEH8wv9"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "MHj07q_W2",
+        "edit-time": 1617708315355,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "math and phys",
         "create-time": 1617596323537,
         ":create/user": {
@@ -282,6 +304,34 @@
             ":block/uid": "EK4_qZuoX"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "personal",
+        "children": [
+          {
+            "string": "[[meiz]]",
+            "refs": [
+              {
+                "uid": "FH6uNY745"
+              }
+            ],
+            "uid": "wZUpvvI1K",
+            "edit-time": 1617708444200,
+            ":block/refs": [
+              {
+                ":block/uid": "FH6uNY745"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "S8G0Tc7BM",
+        "edit-time": 1617708438146,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -469,7 +519,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1617654827381,
+            "edit-time": 1617708541320,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -834,6 +884,28 @@
         },
         "uid": "kcq7iLzmv",
         "edit-time": 1617578775336,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[hardware]]",
+        "create-time": 1617705399601,
+        ":block/refs": [
+          {
+            ":block/uid": "ETDLPHNnZ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ETDLPHNnZ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "5jm6pI0xK",
+        "edit-time": 1617705406186,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3949,6 +4021,24 @@
         }
       },
       {
+        "string": "[[finance]]",
+        "refs": [
+          {
+            "uid": "tz_tyl-Ax"
+          }
+        ],
+        "uid": "vgraMteeT",
+        "edit-time": 1617705160186,
+        ":block/refs": [
+          {
+            ":block/uid": "tz_tyl-Ax"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[money]]",
         "refs": [
           {
@@ -5380,7 +5470,7 @@
                         "edit-time": 1617674256073,
                         "children": [
                           {
-                            "string": "It is here that Newton [stepped in with his bucket] and dramatically [changed the character of the debate]. 改变了辩论的性质 While Newton agreed that [certain features of] absolute space seem difficult or perhaps [impossible to detect directly], he argued that [the existence of absolute space] [does have consequences that are observable]([[observable consequence]]): [[acceleration]]s, such as those at play [in the rotating bucket], are accelerations with respect to absolute space. Thus, the [concave shape] of the water, according to Newton, is a consequence of [the existence of absolute space]. And Newton argued that [once one has any solid evidence for] [something's existence], no matter how indirect, that [ends the discussion]. In one [clever stroke], Newton [shifted the debate] about space from [philosophical ponderings] to [scientifically verifiable data]. The effect was palpable. 可触摸感知的 In due course, Leibniz was [forced to admit], \"I grant [there is a difference between] [absolute true motion of a body] and [a mere relative change of its situation] [with respect to another body].\"[8] [This was not a capitulation to] [Newton's absolute space], but it was [a strong blow to] 打击 the firm relationist position.\n(可以被实际检验的证据：加速度)",
+                            "string": "It is here that Newton [stepped in with his bucket] and dramatically [changed the character of the debate]. 改变了辩论的性质 While Newton agreed that [certain features of] absolute space seem difficult or perhaps [impossible to detect directly], he argued that [the existence of absolute space] [does have consequences that are observable]([[observable consequence]]): [[acceleration]]s, such as those at play [in the rotating bucket], are accelerations with respect to absolute space. Thus, the [concave shape] of the water, according to Newton, is a consequence of [the existence of absolute space]. And Newton argued that [once one has any solid evidence for] [something's existence], no matter how indirect, that [ends the discussion]. In one [clever stroke], Newton [shifted the debate] about space from [philosophical ponderings] to [scientifically verifiable data]. The effect was palpable. 可触摸感知的 [In due course], Leibniz was [forced to admit], \"I grant [there is a difference between] [absolute true motion of a body] and [a mere relative change of its situation] [with respect to another body].\"[8] [This was not a capitulation to] [Newton's absolute space], but it was [a strong blow to] 打击 the firm relationist position.\n(可以被实际检验的证据：加速度)",
                             "create-time": 1617673113081,
                             ":block/refs": [
                               {
@@ -5402,7 +5492,7 @@
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             },
                             "uid": "PErj4ErrU",
-                            "edit-time": 1617685237816,
+                            "edit-time": 1617706344955,
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -5602,11 +5692,53 @@
         "edit-time": 1617685908135,
         "children": [
           {
-            "string": "When I was growing up, I used to [play a game with my father] as we [walked down the streets] of Manhattan. One of us would look around, [secretly fix on something] that was happening—a bus rushing by, a pigeon [landing on a windowsill], a man accidentally [dropping a coin] —and [describe how it would look] [from an unusual perspective](((I09zrPaL2))) such as [the wheel of the bus], the pigeon in flight, or the quarter [falling earthward]. The challenge was to take an unfamiliar description like \"I'm walking on a dark, cylindrical surface surrounded by low, textured walls, and an unruly bunch of thick white tendrils is descending from the sky,\" and figure out that it was the view of an ant walking on a hot dog that a street vendor was garnishing with sauerkraut. Although we stopped playing years before I took my first physics course, the game is at least partly to blame for my having a fair amount of distress when I encountered Newton's laws. The game encouraged seeing the world from different vantage points and emphasized that each was as valid as any other. But according to New- ton, while you are certainly free to contemplate the world from any perspective you choose, the different vantage points are by no means on an equal footing. From the viewpoint of an ant on an ice skater's boot, it is the ice and the arena that are spinning; from the viewpoint of a spectator in the stands, it is the ice skater that is spinning. The two vantage points seem to be equally valid, they seem to be on an equal footing, they seem to stand in the symmetric relationship of each spinning with respect to the other. Yet, according to Newton, one of these perspectives is more right than the other since if it really is the ice skater that is spinning, his or her arms will splay outward, whereas if it really is the arena that is spinning, his or her arms will not. Accepting Newton's absolute space meant accepting an absolute conception of acceleration, and, in particular, accepting an absolute answer regarding who or what is really spinning. I struggled to understand how this could possibly be true. Every source I consulted —textbooks and teachers alike —agreed that only relative motion had relevance when considering constant velocity motion, so why in the world, I endlessly puzzled, would accelerated motion be so different? Why wouldn't relative acceleration, like relative velocity, be the only thing that's relevant when considering motion at velocity that isn't constant? The existence of absolute space decreed otherwise, but to me this seemed thoroughly peculiar.",
-            "create-time": 1617685908128,
-            ":block/refs": [
+            "edit-time": 1617708684424,
+            "children": [
               {
-                ":block/uid": "I09zrPaL2"
+                "string": "But according to Newton, [while you are certainly free to] [contemplate the world] from [any perspective you choose], the different vantage points are [by no means] [on an equal footing]. [From the viewpoint of] an ant [on an ice skater's boot], it is the ice and the arena that are spinning; from the viewpoint of [a spectator in the stands], it is the ice skater that is spinning. The two [vantage points] [seem to be equally valid], they seem to be [on an equal footing], they seem to stand in the [symmetric relationship] of each spinning with respect to the other. Yet, according to Newton, one of these perspectives is [more right than the other] since if it really is the [ice skater] that is spinning, his or her arms will splay outward, 向外展开 whereas if it really is the arena that is spinning, his or her arms will not. ",
+                "create-time": 1617709174545,
+                "uid": "3rAaAj3sT",
+                "edit-time": 1617709174545,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Accepting [Newton's absolute space] meant accepting [an absolute conception of acceleration](((A9dYpN98c))), and, in particular, [accepting an absolute answer] regarding [who or what is really spinning]. I [struggled to understand] [how this could possibly be true]. Every source I consulted —textbooks and teachers alike —^^agreed that only relative motion had relevance when considering [constant velocity motion], so why in the world, I endlessly puzzled, would accelerated motion be so different?^^ Why wouldn't [[relative acceleration]], like [[relative velocity]], [be the only thing that's relevant] when considering [motion at velocity that isn't constant]? The existence of absolute space decreed otherwise, but to me this [seemed thoroughly peculiar].\n(不同的视角/参考点之间是不平等的-如果真的是时空背景在旋转，那么在旋转的人的双臂就不会向外展开-所以为何相对运动参考系只适用于匀速运动，而在加速运动中就必须引入绝对参考系，两者有何本质区别？)\n210406-19:37",
+                "create-time": 1617685908128,
+                ":block/refs": [
+                  {
+                    ":block/uid": "A9dYpN98c"
+                  },
+                  {
+                    ":block/uid": "BvqMHLVX3"
+                  },
+                  {
+                    ":block/uid": "UELMbcWRn"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "A9dYpN98c"
+                  },
+                  {
+                    "uid": "BvqMHLVX3"
+                  },
+                  {
+                    "uid": "UELMbcWRn"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "6iVWwq8vE",
+                "edit-time": 1617709292816,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -5614,11 +5746,29 @@
                 "uid": "I09zrPaL2"
               }
             ],
+            "uid": "gHumFZn6l",
+            ":block/refs": [
+              {
+                ":block/uid": "I09zrPaL2"
+              }
+            ],
+            "string": "When I was growing up, I used to [play a game with my father] as we [walked down the streets] of Manhattan. One of us would look around, [secretly fix on something] that was happening—a bus rushing by, a pigeon [landing on a windowsill], a man accidentally [dropping a coin] —and [describe how it would look] [from an unusual perspective](((I09zrPaL2))) such as [the wheel of the bus], the pigeon in flight, or the quarter [falling earthward]. [The challenge was to] [take an unfamiliar description] like \"I'm walking on a dark, [cylindrical surface] surrounded by low, textured walls, and [an unruly bunch of] [thick white tendrils] 一束不规则的厚厚的白色卷须 is [descending from the sky],\" and figure out that it was [the view of an ant] [walking on a hot dog] that a [street vendor] 街头小贩 was [garnishing with sauerkraut]. 用德式酸椰菜/泡菜来配菜 Although we [stopped playing years] before I [took my first physics course], the game is [at least partly to blame for] my [having a fair amount of distress] [when I encountered Newton's laws]. The game encouraged [seeing the world from different vantage points] 有利地位 and emphasized that each was [as valid as any other]. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "6iVWwq8vE",
-            "edit-time": 1617686234363,
+            "create-time": 1617708684424,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Much later I learned that over the last few hundred years many physicists and philosophers —sometimes loudly, sometimes quietly—had struggled with the very same issue. Although Newton's bucket seemed to show definitively that absolute space is what selects one perspective over another (if someone or something is spinning with respect to absolute space then they are really spinning; otherwise they are not), this resolution left many people who mull over these issues unsatisfied. Beyond the intuitive sense that no perspective should be \"more right\" than any other, and beyond the eminently reasonable proposal of Leibniz that only relative motion between material objects has meaning, the concept of absolute space left many wondering how absolute space can allow us to identify true accelerated motion, as with the bucket, while it cannot pro- vide a way to identify true constant velocity motion. After all, if absolute space really exists, it should provide a benchmark for all motion, not just accelerated motion. If absolute space really exists, why doesn't it provide a way of identifying where we are located in an absolute sense, one that need not use our position relative to other material objects as a reference point? And, if absolute space really exists, how come it can affect us (causing our arms to splay if we spin, for example) while we apparently have no way to affect it?",
+            "create-time": 1617709540025,
+            "uid": "TZaBzoyFL",
+            "edit-time": 1617709548693,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -5733,11 +5883,19 @@
             "string": "absolute conception of space and time",
             "children": [
               {
-                "string": "[[absolute space]]",
-                "create-time": 1617658279684,
-                ":block/refs": [
+                "edit-time": 1617658280613,
+                "children": [
                   {
-                    ":block/uid": "OqumjAbRW"
+                    "string": "an absolute conception of acceleration",
+                    "create-time": 1617708868714,
+                    "uid": "A9dYpN98c",
+                    "edit-time": 1617708870225,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
@@ -5745,11 +5903,17 @@
                     "uid": "OqumjAbRW"
                   }
                 ],
+                "uid": "xKhID6UWO",
+                ":block/refs": [
+                  {
+                    ":block/uid": "OqumjAbRW"
+                  }
+                ],
+                "string": "[[absolute space]]",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "xKhID6UWO",
-                "edit-time": 1617658280613,
+                "create-time": 1617658279684,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -6433,11 +6597,29 @@
             ],
             "children": [
               {
-                "string": "((xKhID6UWO))",
-                "create-time": 1617658290749,
-                ":block/refs": [
+                "edit-time": 1617658291513,
+                "children": [
                   {
-                    ":block/uid": "xKhID6UWO"
+                    "string": "((A9dYpN98c))",
+                    "create-time": 1617709092247,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "A9dYpN98c"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "A9dYpN98c"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "SgT_5_XFW",
+                    "edit-time": 1617709093876,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
@@ -6445,11 +6627,17 @@
                     "uid": "xKhID6UWO"
                   }
                 ],
+                "uid": "Ua-wZGL0L",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xKhID6UWO"
+                  }
+                ],
+                "string": "((xKhID6UWO))",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "Ua-wZGL0L",
-                "edit-time": 1617658291513,
+                "create-time": 1617658290749,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -6617,6 +6805,52 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "edit-time": 1617709455144,
+            "children": [
+              {
+                "string": "((8yH1SSK81))",
+                "create-time": 1617709459205,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8yH1SSK81"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8yH1SSK81"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ip1gR17XA",
+                "edit-time": 1617709460647,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "UELMbcWRn"
+              }
+            ],
+            "uid": "gLu0fAKa0",
+            ":block/refs": [
+              {
+                ":block/uid": "UELMbcWRn"
+              }
+            ],
+            "string": "[[relative velocity]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617709450221,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "EoZnrD6nf",
@@ -6649,6 +6883,34 @@
               }
             ],
             "children": [
+              {
+                "string": "[[relative acceleration]]; ((A9dYpN98c))",
+                "create-time": 1617708879211,
+                ":block/refs": [
+                  {
+                    ":block/uid": "A9dYpN98c"
+                  },
+                  {
+                    ":block/uid": "BvqMHLVX3"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "A9dYpN98c"
+                  },
+                  {
+                    "uid": "BvqMHLVX3"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "8yH1SSK81",
+                "edit-time": 1617709445322,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "string": "[[constant velocity motion]]; [[constant speed]]",
                 "create-time": 1617650449191,
@@ -11526,6 +11788,880 @@
     "title": "Principia Mathematica",
     "uid": "IKdhH7wYy",
     "edit-time": 1617685547112,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617704930290,
+    "title": "bitcoin (BTC)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617704936222,
+        "children": [
+          {
+            "string": "挖的是[以太坊]，随便兑\n比特币和以太坊也是[随便换]，换了随便兑，不知道说[不好兑]的人是不是[没有操作过](https://bbs.saraba1st.com/2b/thread-1997502-2-1.html) #pt7",
+            "create-time": 1617704936216,
+            ":block/refs": [
+              {
+                ":block/uid": "WtFNUr1X4"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "WtFNUr1X4"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "4L6ajfdoE",
+            "edit-time": 1617705053041,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "PlJqJPBel",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617704933051,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "7gemYrXI6",
+    "edit-time": 1617704930290,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705053043,
+    "title": "pt7",
+    "uid": "WtFNUr1X4",
+    "edit-time": 1617705053044,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705160188,
+    "title": "finance",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[bank]]",
+        "refs": [
+          {
+            "uid": "8aHQtObFQ"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[credit card]]",
+            "refs": [
+              {
+                "uid": "HC7HgwLya"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[virtual credit card]]",
+                "refs": [
+                  {
+                    "uid": "kX2T8q6dt"
+                  }
+                ],
+                "uid": "YD7Xbwa8N",
+                "edit-time": 1617705171113,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kX2T8q6dt"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "TAub6rseU",
+            "edit-time": 1617705172200,
+            ":block/refs": [
+              {
+                ":block/uid": "HC7HgwLya"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CPacZFlgo",
+        "edit-time": 1617705173509,
+        ":block/refs": [
+          {
+            ":block/uid": "8aHQtObFQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[invest]]",
+        "refs": [
+          {
+            "uid": "sTLOYHGlv"
+          }
+        ],
+        "uid": "kSdzKUofk",
+        "edit-time": 1617705177066,
+        ":block/refs": [
+          {
+            ":block/uid": "sTLOYHGlv"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "digital payment...",
+        "children": [
+          {
+            "string": "[[Alipay]]",
+            "refs": [
+              {
+                "uid": "Q0JtAtE2r"
+              }
+            ],
+            "uid": "ufkAbX4KM",
+            "edit-time": 1617705188675,
+            ":block/refs": [
+              {
+                ":block/uid": "Q0JtAtE2r"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[PayPal]]",
+            "refs": [
+              {
+                "uid": "aTuH-MKTe"
+              }
+            ],
+            "uid": "mOasjmeOz",
+            "edit-time": 1617705187394,
+            ":block/refs": [
+              {
+                ":block/uid": "aTuH-MKTe"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[gift card]]",
+            "refs": [
+              {
+                "uid": "y3rguGiPo"
+              }
+            ],
+            "uid": "N7B1v2Cpx",
+            "edit-time": 1617705186556,
+            ":block/refs": [
+              {
+                ":block/uid": "y3rguGiPo"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "KyHMSHkt9",
+        "edit-time": 1617705124715,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[block chain]]?",
+        "refs": [
+          {
+            "uid": "Ec45Qk5SA"
+          }
+        ],
+        "uid": "Ife-0H8IS",
+        "edit-time": 1617705191546,
+        ":block/refs": [
+          {
+            ":block/uid": "Ec45Qk5SA"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "[[clearinghouse]]: 票据交换所",
+            "refs": [
+              {
+                "uid": "9dzsFhQyG"
+              }
+            ],
+            "uid": "BqO7SroY6",
+            "edit-time": 1617705205480,
+            ":block/refs": [
+              {
+                ":block/uid": "9dzsFhQyG"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Csh3FBB3y",
+        "edit-time": 1617705124715,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "tz_tyl-Ax",
+    "edit-time": 1617705160189,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705171115,
+    "title": "virtual credit card",
+    "uid": "kX2T8q6dt",
+    "edit-time": 1617705171116,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705172203,
+    "title": "credit card",
+    "uid": "HC7HgwLya",
+    "edit-time": 1617705172204,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705173511,
+    "title": "bank",
+    "uid": "8aHQtObFQ",
+    "edit-time": 1617705173511,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705177068,
+    "title": "invest",
+    "uid": "sTLOYHGlv",
+    "edit-time": 1617705177068,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705186558,
+    "title": "gift card",
+    "uid": "y3rguGiPo",
+    "edit-time": 1617705186558,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705187397,
+    "title": "PayPal",
+    "uid": "aTuH-MKTe",
+    "edit-time": 1617705187397,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705188676,
+    "title": "Alipay",
+    "uid": "Q0JtAtE2r",
+    "edit-time": 1617705188677,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705191548,
+    "title": "block chain",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[bitcoin (BTC)]]",
+        "refs": [
+          {
+            "uid": "7gemYrXI6"
+          }
+        ],
+        "uid": "XO7zhyv9n",
+        "edit-time": 1617705198804,
+        ":block/refs": [
+          {
+            ":block/uid": "7gemYrXI6"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Ec45Qk5SA",
+    "edit-time": 1617705191549,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705205482,
+    "title": "clearinghouse",
+    "uid": "9dzsFhQyG",
+    "edit-time": 1617705205483,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705406189,
+    "title": "hardware",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617705413028,
+        "children": [
+          {
+            "edit-time": 1617705824039,
+            "children": [
+              {
+                "string": "给老电脑装了个[轻量级Linux发行版]（antiX），[开机][内存占用]只有200M，直接起飞",
+                "create-time": 1617705717664,
+                "uid": "rfIX3gH38",
+                "edit-time": 1617705728894,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "tTmjsa2of"
+              }
+            ],
+            "uid": "A7jefwvsK",
+            ":block/refs": [
+              {
+                ":block/uid": "tTmjsa2of"
+              }
+            ],
+            "string": "四台电脑组成1+3[显示器阵列]。一个网页 一个office 一个vpn+[内部系统]  一个[微信+qq]\n然后 barrier 做[网络 kvm] [一套键鼠][控制四台电脑](https://bbs.saraba1st.com/2b/thread-1997478-3-1.html) #pt7-99.97",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617705413022,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "AN8PBw07Z",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617705407466,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ETDLPHNnZ",
+    "edit-time": 1617705406189,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617705824041,
+    "title": "pt7-99.97",
+    "uid": "tTmjsa2of",
+    "edit-time": 1617705824042,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708315358,
+    "title": "literature and art",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[poetry]]",
+        "refs": [
+          {
+            "uid": "HBC0e9o_p"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Romantic poetry]]",
+            "refs": [
+              {
+                "uid": "LDymeJ87T"
+              }
+            ],
+            "uid": "bV3rBsYSH",
+            "edit-time": 1617708404320,
+            ":block/refs": [
+              {
+                ":block/uid": "LDymeJ87T"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "JoFoFx8Jc",
+        "edit-time": 1617708406228,
+        ":block/refs": [
+          {
+            ":block/uid": "HBC0e9o_p"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "scene; scenery...",
+        "children": [
+          {
+            "string": "[[night sky]]",
+            "refs": [
+              {
+                "uid": "TCccaNfI8"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[星空 (hoshizora)]]; [[夜空 (yozora)]]",
+                "refs": [
+                  {
+                    "uid": "C56s9JTY7"
+                  },
+                  {
+                    "uid": "LAEeSZJ2n"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "今夜星を見に行こう",
+                    "uid": "8G8T9stHI",
+                    "edit-time": 1617708324697,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "夜空は星が降るようで",
+                    "uid": "m3EHjjqQS",
+                    "edit-time": 1617708324697,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "xt7ARHpBW",
+                "edit-time": 1617708379063,
+                ":block/refs": [
+                  {
+                    ":block/uid": "C56s9JTY7"
+                  },
+                  {
+                    ":block/uid": "LAEeSZJ2n"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "fJaRKUEXn",
+            "edit-time": 1617708376292,
+            ":block/refs": [
+              {
+                ":block/uid": "TCccaNfI8"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5ZCEEXvRQ",
+        "edit-time": 1617708324697,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[western literature]]",
+        "refs": [
+          {
+            "uid": "d4mhvFfox"
+          }
+        ],
+        "uid": "dsDWkgP7_",
+        "edit-time": 1617708402758,
+        ":block/refs": [
+          {
+            ":block/uid": "d4mhvFfox"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "a4zEH8wv9",
+    "edit-time": 1617708315359,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708324694,
+    "title": "星空 (hoshizora)",
+    "uid": "C56s9JTY7",
+    "edit-time": 1617708324697,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708376294,
+    "title": "night sky",
+    "uid": "TCccaNfI8",
+    "edit-time": 1617708376295,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708379065,
+    "title": "夜空 (yozora)",
+    "uid": "LAEeSZJ2n",
+    "edit-time": 1617708379065,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708402760,
+    "title": "western literature",
+    "uid": "d4mhvFfox",
+    "edit-time": 1617708402760,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708404323,
+    "title": "Romantic poetry",
+    "uid": "LDymeJ87T",
+    "edit-time": 1617708404323,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708406231,
+    "title": "poetry",
+    "uid": "HBC0e9o_p",
+    "edit-time": 1617708406232,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708444203,
+    "title": "meiz",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[CRR]]",
+        "refs": [
+          {
+            "uid": "7Gc8zMIRI"
+          }
+        ],
+        "uid": "otlW5ZfQq",
+        "edit-time": 1617708525433,
+        ":block/refs": [
+          {
+            ":block/uid": "7Gc8zMIRI"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[DCIM]]",
+        "refs": [
+          {
+            "uid": "ot0IeZ7jc"
+          }
+        ],
+        "uid": "nGAbTdfRA",
+        "edit-time": 1617708524235,
+        ":block/refs": [
+          {
+            ":block/uid": "ot0IeZ7jc"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "hosted pictures",
+        "uid": "eKXj-tT77",
+        "edit-time": 1617708438146,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "parallel...",
+        "children": [
+          {
+            "string": "((5ZCEEXvRQ))",
+            "refs": [
+              {
+                "uid": "5ZCEEXvRQ"
+              }
+            ],
+            "uid": "LqBCqjvc8",
+            "edit-time": 1617708544051,
+            ":block/refs": [
+              {
+                ":block/uid": "5ZCEEXvRQ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-9-NmHzJ_",
+        "edit-time": 1617708438146,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "place? environment?",
+        "children": [
+          {
+            "string": "[[sofa]]",
+            "refs": [
+              {
+                "uid": "JP5Bwl7Sn"
+              }
+            ],
+            "uid": "Y87RaAdDO",
+            "edit-time": 1617708519607,
+            ":block/refs": [
+              {
+                ":block/uid": "JP5Bwl7Sn"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "1k9UaKvVs",
+        "edit-time": 1617708438146,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "FH6uNY745",
+    "edit-time": 1617708444203,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708519610,
+    "title": "sofa",
+    "uid": "JP5Bwl7Sn",
+    "edit-time": 1617708519610,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708524236,
+    "title": "DCIM",
+    "uid": "ot0IeZ7jc",
+    "edit-time": 1617708524237,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617708525434,
+    "title": "CRR",
+    "uid": "7Gc8zMIRI",
+    "edit-time": 1617708525436,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617709158108,
+    "title": "relative acceleration",
+    "uid": "BvqMHLVX3",
+    "edit-time": 1617709158109,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617709158108,
+    "title": "relative velocity",
+    "uid": "UELMbcWRn",
+    "edit-time": 1617709158109,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

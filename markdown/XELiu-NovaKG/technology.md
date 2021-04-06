@@ -1,4 +1,5 @@
 - [[computer science (CS)]]
+- [[hardware]]
 - [[information science]]; [[information technology (IT)]]
 - [[software]]
 - [[Web]]; [[World Wide Web (WWW)]]

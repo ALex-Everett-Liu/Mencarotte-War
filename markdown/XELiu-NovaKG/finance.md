@@ -1,0 +1,11 @@
+- [[bank]]
+    - [[credit card]]
+        - [[virtual credit card]]
+- [[invest]]
+- digital payment...
+    - [[Alipay]]
+    - [[PayPal]]
+    - [[gift card]]
+- [[block chain]]?
+- general...
+    - [[clearinghouse]]: 票据交换所
