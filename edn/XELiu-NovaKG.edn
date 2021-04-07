@@ -86,7 +86,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 4,
+      :order 5,
       :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -94,19 +94,19 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 5,
+      :order 6,
       :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536942312]
+   536942459]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid3ec3c908-72a0-4acb-a6dc-ad9cd3e0abb7"
-   536942453]
+   "uuid2d1fac04-a686-46a7-bdf2-d9b26b6870e8"
+   536942478]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -2207,6 +2207,7 @@
   [15066 :block/children 15454 536939472]
   [15066 :block/children 15609 536940035]
   [15066 :block/children 15769 536940712]
+  [15066 :block/children 16143 536942454]
   [15066 :block/open true 536938444]
   [15066 :block/uid "OXvaBh-ts" 536937877]
   [15066 :create/time 1617596361815 536937877]
@@ -3225,7 +3226,7 @@
   [15180 :edit/user 3 536938287]
   [15180 :node/title "water bucket experiment" 536938287]
   [15181 :block/open true 536938290]
-  [15181 :block/order 7 536940710]
+  [15181 :block/order 8 536942454]
   [15181 :block/page 15066 536938291]
   [15181 :block/parents 15066 536938291]
   [15181 :block/refs 15192 536938306]
@@ -12161,4 +12162,50 @@
   [16142 :edit/time 1617760012178 536942453]
   [16142 :edit/user 3 536942453]
   [16142 :log/id 1617760012177 536942453]
-  [16142 :node/title "April 7th, 2021" 536942453]]}
+  [16142 :node/title "April 7th, 2021" 536942453]
+  [16143 :block/open true 536942454]
+  [16143 :block/order 7 536942454]
+  [16143 :block/page 15066 536942455]
+  [16143 :block/parents 15066 536942455]
+  [16143 :block/refs 16144 536942458]
+  [16143 :block/string "[[quantum mechanics]]" 536942457]
+  [16143 :block/uid "1o2M2BMIV" 536942454]
+  [16143 :create/time 1617779992931 536942454]
+  [16143 :create/user 3 536942454]
+  [16143 :edit/time 1617780000385 536942457]
+  [16143 :edit/user 3 536942454]
+  [16144 :block/children 16145 536942460]
+  [16144 :block/uid "iDuPGEQaw" 536942458]
+  [16144 :create/time 1617780000387 536942458]
+  [16144 :create/user 3 536942458]
+  [16144 :edit/time 1617780000388 536942458]
+  [16144 :edit/user 3 536942458]
+  [16144 :node/title "quantum mechanics" 536942458]
+  [16145 :block/children 16146 536942466]
+  [16145 :block/open true 536942460]
+  [16145 :block/order 0 536942460]
+  [16145 :block/page 16144 536942461]
+  [16145 :block/parents 16144 536942461]
+  [16145 :block/refs 14882 536942463]
+  [16145 :block/string "#inbox" 536942462]
+  [16145 :block/uid "xVtgLRxgQ" 536942460]
+  [16145 :create/time 1617780002075 536942460]
+  [16145 :create/user 3 536942460]
+  [16145 :edit/time 1617780004528 536942462]
+  [16145 :edit/user 3 536942460]
+  [16146 :block/open true 536942464]
+  [16146 :block/order 0 536942466]
+  [16146 :block/page 16144 536942465]
+  [16146 :block/parents 16144 536942465]
+  [16146 :block/parents 16145 536942467]
+  [16146 :block/refs 15060 536942478]
+  [16146 :block/refs 15791 536942476]
+  [16146
+   :block/string
+   "{{[[TODO]]}} [Four Postulates of Quantum Mechanics Are Three](https://link.zhihu.com/?target=https%3A//journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.110402) -- [zhihu](https://www.zhihu.com/question/451908940) #pt10-99.99"
+   536942477]
+  [16146 :block/uid "OgIgtKLoR" 536942464]
+  [16146 :create/time 1617780004576 536942464]
+  [16146 :create/user 3 536942464]
+  [16146 :edit/time 1617780042913 536942477]
+  [16146 :edit/user 3 536942464]]}

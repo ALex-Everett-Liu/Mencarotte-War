@@ -1,0 +1,2 @@
+- #inbox
+    - {{[[TODO]]}} [Four Postulates of Quantum Mechanics Are Three](https://link.zhihu.com/?target=https%3A//journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.110402) -- [zhihu](https://www.zhihu.com/question/451908940) #pt10-99.99
