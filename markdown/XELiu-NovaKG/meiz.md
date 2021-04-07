@@ -1,6 +1,9 @@
 - [[CRR]]
 - [[DCIM]]
 - hosted pictures
+- list
+    - [[dear list]] -- DCIM -- wasurenai...
+    - [[metropolis list]]
 - parallel...
     - scene; scenery...
 - place? environment?
