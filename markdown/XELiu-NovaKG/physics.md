@@ -6,6 +6,7 @@
         - [[abstract idea]]
         - [[human intuition]]; intuitive sense
             - counter-intuitive property
+    - [[collective effect]]
     - condition...
         - [[extreme condition]]
         - [[idealized situation]]

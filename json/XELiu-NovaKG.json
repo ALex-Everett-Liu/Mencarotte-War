@@ -3580,6 +3580,28 @@
             }
           },
           {
+            "string": "[[collective effect]]",
+            "create-time": 1617814228009,
+            ":block/refs": [
+              {
+                ":block/uid": "eeBtFQazl"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "eeBtFQazl"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "wLzKtD9xi",
+            "edit-time": 1617814232428,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "condition...",
             "children": [
               {
@@ -6551,10 +6573,50 @@
             },
             "children": [
               {
-                "string": "Mach [offered an answer to] this objection. In an empty universe, according to Mach, you feel nothing if you spin (more precisely, [there is not even a concept of] [spinning vs. nonspining]). ^^[At the other end of the spectrum],^^ in a universe [populated by all the stars] and other material objects [existing in our real universe], [the splaying force on your arms] and legs is [what you experience] [when you actually spin]. (Try it.) And —here is the point—in a universe that is not empty but that has less matter than ours, Mach suggested that the force you would feel from spinning would lie between nothing and what you would feel in our universe. That is, the force you feel is proportional to the amount of matter in the universe. In a universe with a single star, you would feel a minuscule force on your body if you started spinning. With two stars, the force would get a bit stronger, and so on and so on, until you got to a universe with the material content of our own, in which you feel the full familiar force of spinning. In this approach, the force you feel from acceleration arises as a collective effect, a collective influence of all the other matter in the universe.",
+                "string": "Mach [offered an answer to] this objection. In an empty universe, according to Mach, you feel nothing if you spin (more precisely, [there is not even a concept of] [spinning vs. nonspining]). ^^[At the other end of the spectrum],^^ in a universe [populated by all the stars] and other material objects [existing in our real universe], [the splaying force on your arms] and legs is [what you experience] [when you actually spin]. (Try it.) And —here is the point—[in a universe that is not empty] but that [has less matter than ours], Mach suggested that [the force you would feel from spinning] [would lie between] nothing and [what you would feel in our universe]. That is, the force you feel is proportional to [the amount of matter in the universe](((Nl1IfbT79))). In a universe [with a single star], you would [feel a minuscule force on your body] 微不足道的 if you [started spinning]. With two stars, the force would [get a bit stronger], and so on and so on, [until you got to a universe] [with the material content of our own], in which you [feel the full familiar force] of spinning. In this approach, [the force you feel from acceleration] [arises as a collective effect]([[collective effect]]), [a collective influence of] [all the other matter in the universe].\n(你在加速运动过程中所受到的力正比于宇宙中的物质总量)\n210408-00:50",
                 "create-time": 1617742297819,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Nl1IfbT79"
+                  },
+                  {
+                    ":block/uid": "eeBtFQazl"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Nl1IfbT79"
+                  },
+                  {
+                    "uid": "eeBtFQazl"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
                 "uid": "8L3ah7P1-",
-                "edit-time": 1617744308955,
+                "edit-time": 1617814291514,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Again, the proposal holds for all kinds of accelerated motion, not just spinning. When the airplane you are on is accelerating down the runway, when the car you are in screeches to a halt, when the elevator you are in starts to climb, Mach's ideas imply that the force you feel represents the combined influence of all the other matter making up the universe. If there were more matter, you would feel greater force. If there were less matter, you would feel less force. And if there were no matter, you wouldn't feel anything at all. So, in Mach's way of thinking, only relative motion and relative acceleration matter. You feel acceleration only when you accelerate relative to the average distribution of other material inhabiting the cosmos. Without other material —without any benchmarks for comparison —Mach claimed there would be no way to experience acceleration.",
+                "create-time": 1617816113962,
+                "uid": "yFq7TeaI9",
+                "edit-time": 1617816119117,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "For many physicists, this is one of the most seductive proposals about the cosmos put forward during the last century and a half. Generations of physicists have found it deeply unsettling to imagine that the untouchable, ungraspable, unclutchable fabric of space is really a something—a something substantial enough to provide the ultimate, absolute benchmark for motion. To many it has seemed absurd, or at least scientifically irresponsible, to base an understanding of motion on something so thoroughly imperceptible, so completely beyond our senses, that it borders on the mystical. Yet these same physicists were dogged by the question of how else to explain Newton's bucket. Mach's insights generated excitement because they raised the possibility of a new answer, one in which space is not a something, an answer that points back toward the relationist conception of space advocated by Leibniz. Space, in Mach's view, is very much as Leibniz imagined —it's the language for expressing the relationship between one object's position and another's. But, like an alphabet without letters, space does not enjoy an independent existence.",
+                "create-time": 1617816113962,
+                "uid": "cOaUF67z7",
+                "edit-time": 1617816123424,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -7130,6 +7192,34 @@
         ":block/refs": [
           {
             ":block/uid": "aloZkxLVS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[universe]]",
+        "refs": [
+          {
+            "uid": "PydhYajZQ"
+          }
+        ],
+        "children": [
+          {
+            "string": "the amount of matter in the universe; material content ",
+            "uid": "Nl1IfbT79",
+            "edit-time": 1617814133195,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "bbwqDMN4f",
+        "edit-time": 1617814093809,
+        ":block/refs": [
+          {
+            ":block/uid": "PydhYajZQ"
           }
         ],
         ":edit/user": {
@@ -15732,6 +15822,30 @@
     "title": "kiss",
     "uid": "jgiSk7m_G",
     "edit-time": 1617801397037,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617814093810,
+    "title": "universe",
+    "uid": "PydhYajZQ",
+    "edit-time": 1617814093811,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617814207858,
+    "title": "collective effect",
+    "uid": "eeBtFQazl",
+    "edit-time": 1617814207859,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
