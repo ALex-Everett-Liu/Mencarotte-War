@@ -598,10 +598,10 @@
         },
         "children": [
           {
-            "string": "范畴论; 关系型数据库;;",
+            "string": "比特币 入门教程;; 范畴论; 关系型数据库;;",
             "create-time": 1617570842241,
             "uid": "z7hu5D_X9",
-            "edit-time": 1617732520588,
+            "edit-time": 1617897507981,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -3744,6 +3744,30 @@
             }
           },
           {
+            "string": "physical mechanism",
+            "create-time": 1617899896526,
+            "uid": "BUX8hbmoi",
+            "edit-time": 1617899897196,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "physical process",
+            "create-time": 1617899902642,
+            "uid": "_M5FoJuUu",
+            "edit-time": 1617899903560,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "physical properties",
             "children": [
               {
@@ -4427,7 +4451,7 @@
                 }
               },
               {
-                "string": "The Fabric of the Cosmos - 2 [[The Universe and the Bucket]] -- IS SPACE [A HUMAN ABSTRACTION] OR [A PHYSICAL ENTITY]?",
+                "string": "2 [[The Universe and the Bucket]] -- IS SPACE [A HUMAN ABSTRACTION] OR [A PHYSICAL ENTITY]?",
                 "create-time": 1617622324948,
                 ":block/refs": [
                   {
@@ -4443,7 +4467,29 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "bt_OGtvxJ",
-                "edit-time": 1617622393298,
+                "edit-time": 1617900153809,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "3 [[Relativity and the Absolute]] -- IS SPACETIME [AN EINSTEINIAN ABSTRACTION] OR [A PHYSICAL ENTITY]?",
+                "create-time": 1617900100245,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5VRq2B-8P"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5VRq2B-8P"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "UDuvlYN_i",
+                "edit-time": 1617900159198,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -6670,13 +6716,55 @@
         "edit-time": 1617877833917,
         "children": [
           {
-            "string": "",
-            "create-time": 1617877833906,
-            "uid": "iu4b-cFn6",
-            "edit-time": 1617877833906,
+            "string": "I learned of Mach's ideas [when I was an undergraduate], and they were a godsend. 天赐之物 Here, finally, was [a theory of space and motion] that [put all perspectives back on an equal footing], since only relative motion and relative acceleration had meaning. Rather than the [Newtonian benchmark for motion] —[an invisible thing] called absolute space —Mach's [proposed benchmark] is [out in the open for all to see] —the matter that is [distributed throughout the cosmos]. I felt sure Mach's [had to be the answer]. [I also learned that] [I was not alone in] [having this reaction]; I was [following a long line of] physicists, including Albert Einstein, who [had been swept away] when they [first encountered Mach's ideas].",
+            "create-time": 1617899551948,
+            "uid": "2qThjj11Y",
+            "edit-time": 1617899657556,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1617899925461,
+            "children": [
+              {
+                "string": "From our modern vantage point, [a reasonable guess] is that gravity might [have something to do with the influences] involved in Mach's suggestion. In the following decades, this possibility [caught Einstein's attention] and he [drew much inspiration from] Mach's proposal 得到很多灵感 while developing his own [theory of gravity], the general theory of relativity. When the dust of relativity had finally settled, the question of whether space is a something—of whether [the absolutist or relationist view] of space is correct—was [transformed in a manner that] [shattered all previous ways] of [looking at the universe]. 粉碎\n210409-00:42",
+                "create-time": 1617899551948,
+                "uid": "euafDrY1g",
+                "edit-time": 1617900238611,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Nl1IfbT79"
+              },
+              {
+                "uid": "BUX8hbmoi"
+              }
+            ],
+            "uid": "1paweUo3w",
+            ":block/refs": [
+              {
+                ":block/uid": "Nl1IfbT79"
+              },
+              {
+                ":block/uid": "BUX8hbmoi"
+              }
+            ],
+            "string": "Is Mach right? Did Newton [get so caught up in] the swirl of his bucket that he [came to a wishy-washy conclusion] regarding space? 空泛的 Does Newton's absolute space exist, or [had the pendulum firmly swung back to] [the relationist perspective]? [During the first few decades after] Mach introduced his ideas, these questions couldn't be answered. For the most part, the reason was that Mach's suggestion was not [a complete theory or description], since he never specified how [the matter content of the universe](((Nl1IfbT79))) would [exert the proposed influence]. 施加 If his ideas were right, how do the [distant stars] and [the house next door] [contribute to your feeling] that you are spinning [when you spin around]? Without [specifying a physical mechanism to](((BUX8hbmoi))) [realize his proposal], [it was hard to] investigate Mach's ideas [with any precision].\n210409-00:36",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617899551948,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -7257,9 +7345,9 @@
         ],
         "children": [
           {
-            "string": "the amount of matter in the universe; material content ",
+            "string": "the amount of matter in the universe; material content; matter content",
             "uid": "Nl1IfbT79",
-            "edit-time": 1617814133195,
+            "edit-time": 1617899791896,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -13464,6 +13552,42 @@
         "edit-time": 1617704936222,
         "children": [
           {
+            "edit-time": 1617897750620,
+            "children": [
+              {
+                "string": "要有[买显卡]的[路子]我都想去挖矿了. [回本]太快了，现在做啥[不违法的生意]能2个多月回本的",
+                "create-time": 1617897692234,
+                "uid": "3CmGJBOvk",
+                "edit-time": 1617897711044,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "wJ31jDC-F"
+              }
+            ],
+            "uid": "E7zGEopzF",
+            ":block/refs": [
+              {
+                ":block/uid": "wJ31jDC-F"
+              }
+            ],
+            "string": "中国西北某省[矿场]占了全球 BTC 65% 的[算力], 用煤电水电还是[太阳能]这都不重要, [没有背景]你在那里[开个工厂]试试? 大家都知道只要中国美国[停止放水], 所有[数字货币]和[显卡价格][立马暴跌], 但停止放水是不可能的, 放水[劫贫济富](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1997895)是唯一的路 #pt8",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617897608155,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "挖的是[以太坊]，随便兑\n比特币和以太坊也是[随便换]，换了随便兑，不知道说[不好兑]的人是不是[没有操作过](https://bbs.saraba1st.com/2b/thread-1997502-2-1.html) #pt7",
             "create-time": 1617704936216,
             ":block/refs": [
@@ -17636,6 +17760,68 @@
     "title": "chinadaily",
     "uid": "xuNunUDRJ",
     "edit-time": 1617877056722,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617897750622,
+    "title": "pt8",
+    "uid": "wJ31jDC-F",
+    "edit-time": 1617897750623,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617900159200,
+    "title": "Relativity and the Absolute",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Some discoveries [provide answers to questions]. Other discoveries are so deep that they cast questions in a whole new light, showing that previous mysteries were misperceived through lack of knowledge. You could spend a lifetime —in antiquity, some did—wondering what happens when you reach earth's edge, or trying to figure out who or what lives on earth's underbelly. But when you learn that the earth is round, you see that the previous mysteries are not solved; instead, they're rendered irrelevant.",
+        "create-time": 1617900216655,
+        "uid": "xF60Eh83D",
+        "edit-time": 1617900254997,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "During the first decades of the twentieth century, Albert Einstein made two deep discoveries. Each caused a radical upheaval in our under- standing of space and time. Einstein dismantled the rigid, absolute structures that Newton had erected, and built his own tower, synthesizing space and time in a manner that was completely unanticipated. When he was done, time had become so enmeshed with space that the reality of one could no longer be pondered separately from the other. And so, by the third decade of the twentieth century the question of the corporeality of space was outmoded; its Einsteinian reframing, as we'll talk about shortly, became; Is spacetime a something? With that seemingly slight modification, our understanding of reality's arena was completely trans- formed.",
+        "create-time": 1617900216655,
+        "uid": "MeM9YSPHy",
+        "edit-time": 1617900222000,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "5VRq2B-8P",
+    "edit-time": 1617900159201,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617900309548,
+    "title": "April 9th, 2021",
+    "uid": "04-09-2021",
+    "edit-time": 1617900309548,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

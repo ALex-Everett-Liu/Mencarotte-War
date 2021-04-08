@@ -8,4 +8,4 @@
     - the structure of the universe
 - [[quantum cosmology]]
 - [[universe]]
-    - the amount of matter in the universe; material content 
+    - the amount of matter in the universe; material content; matter content

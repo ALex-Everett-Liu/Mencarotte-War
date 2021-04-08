@@ -17,6 +17,8 @@
         - [[physical entity]]; [[non-physical entity]]
         - ordinary object
         - real entity
+    - physical mechanism
+    - physical process
     - physical properties
         - counter-intuitive property
 - meta phys...
