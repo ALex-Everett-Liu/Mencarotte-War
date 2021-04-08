@@ -1,0 +1,8 @@
+- 2019
+    - April
+        - [[April 26th, 2019]] -- [[DCIM - April 26th, 2019]]
+- 2021
+    - March
+        - [[March 23rd, 2021]] -- [[DCIM - March 23rd, 2021]]
+    - April
+        - [[April 8th, 2021]] -- [[DCIM - April 8th, 2021]]

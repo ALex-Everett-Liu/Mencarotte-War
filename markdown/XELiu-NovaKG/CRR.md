@@ -1,0 +1,7 @@
+- [[dress]]
+- girls' stuff...
+    - [[bag]]
+- [[shitagi]]
+- [[shoe]]s - kutsu
+- [[sock]]s - kutsushita
+- [[uwagi]]
