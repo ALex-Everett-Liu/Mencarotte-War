@@ -1,6 +1,9 @@
 - www.[[ibm]].com
     - The telltale sign 依据的标志 is that [files prefixed with](((oNP_DnzqV))) "_atc" are compiled. 
     - ---
+- bbs.[[chinadaily]].com.cn
+    - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
+    - ---
 - 柯林斯词典 (柯林斯高阶英汉双解学习词典)
     - Let me [set the record straight on the misconceptions] [contained in your article]. 
     - ---
@@ -18,6 +21,12 @@
     - Set the record straight; made sure the facts were straight in the report. 
     - ---
 - www.[[kekenet]].com
+- www.[okread].info
+    - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
+    - ---
+- [blog.sina]([[sina blog]]).com.cn
+    - Suddenly [a brand new] [Jeep Cherokee] [screeches to a halt next to him]. “呲”的一下停在了他的边上 
+    - ---
 - misc; others
     - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn
 - ---
