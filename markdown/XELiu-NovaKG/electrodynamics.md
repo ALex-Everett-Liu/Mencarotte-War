@@ -4,7 +4,8 @@
         - [[electric charge]]
     - [[magnetism]]
 - [[electromagnetic field]]; the electric and magnetic fields
-    - electromagnetic energy
+    - [[electromagnetic energy]]
+    - [[electromagnetic force]]
     - [[electric field]]
         - electric displacement field
         - electric field strength

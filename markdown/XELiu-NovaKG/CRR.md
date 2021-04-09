@@ -1,6 +1,8 @@
 - [[dress]]
 - girls' stuff...
     - [[bag]]
+    - scarf
+        - wool scarf; 
 - [[shitagi]]
 - [[shoe]]s - kutsu
 - [[sock]]s - kutsushita

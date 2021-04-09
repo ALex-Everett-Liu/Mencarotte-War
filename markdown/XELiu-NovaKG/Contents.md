@@ -2,6 +2,7 @@
 - [[education]]
 - [[engineering]]
 - [[daily life]]; [[everyday life]]...
+- [[geoscience]]
 - [[history]]
 - [[language]]
 - [[literature and art]]

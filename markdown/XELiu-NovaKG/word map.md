@@ -9,6 +9,10 @@
             - bench
                 - benchmark
             - beware
+        - br
+            - broad
+                - broadcast;
+                - broaden; broader
     - c
         - ca
             - caution
@@ -47,6 +51,10 @@
                 - dictator: 独裁者; 发号施令者
             - diction
                 - dictionary
+            - dis
+                - dis-
+                    - disturb
+                        - disturbance;
     - e
         - ex
             - exclude
@@ -165,6 +173,10 @@
                     - respective
                     - with respect to: 相对于;
     - s
+        - su
+            - suffuse: 弥漫, 遍布, 充满;
+            - suggest
+                - suggestion;
         - sw
             - swing
                 - swung;

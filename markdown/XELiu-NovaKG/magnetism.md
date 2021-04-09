@@ -1,5 +1,6 @@
 - [[bar magnet]]
 - [[compass]]
+    - [[magnetic needle]]
     - [[south-north direction]]
 - [[iron filing]]
 - pole

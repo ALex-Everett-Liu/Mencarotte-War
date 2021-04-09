@@ -43,3 +43,5 @@
         - [[The Fabric of the Cosmos - Space, Time, and the Texture of Reality]]
 - [[quantum mechanics]]
 - [[relativity]]; [[theory of relativity]]
+- #inbox
+    - [phys and others](https://www.zhihu.com/people/citysevenstar/answers) #pt10-99.98
