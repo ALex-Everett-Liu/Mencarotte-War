@@ -1,5 +1,23 @@
+- innovation!
+    - [[Roam Research]]
+- markdown
+    - [[Note-taking/Obsidian]]
+    - [[思源笔记 (Siyuan Note)]]
+    - [[Typora]]
 - [[outliner]]
     - [[Dynalist]]
     - [[Logseq]]
+    - [[幕布 (Mubu)]]
+    - [[RemNote]]
+    - [[RoamEdit]]
     - [[Roam Research]]
     - [[WorkFlowy]]
+- rich text
+    - [[Evernote]]
+- suck it!
+    - [[Note-taking/Notion]]
+        - bullshit!
+    - [[Note-taking/Wolai]]
+- wiki-like
+    - [[Zim Desktop Wiki]]
+    - [[TiddlyWiki]]

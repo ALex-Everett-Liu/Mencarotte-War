@@ -1,4 +1,4 @@
 - [[file management]]
-- [[note-taking]]
+- [[note-taking]]; note-taking tool
 - style...
 - [[text editor]]

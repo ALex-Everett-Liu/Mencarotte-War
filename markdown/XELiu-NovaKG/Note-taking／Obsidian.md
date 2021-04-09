@@ -1,0 +1,8 @@
+- #inbox
+    - [Obsidian 插件推荐（四）](https://zhuanlan.zhihu.com/p/362853550)
+        - ### Word Splitting for Simplified Chinese in Edit Mode
+            - 当前[这款插件](http://link.zhihu.com/?target=https%3A//github.com/alx-plugins/cm-chs-patch)的功能如其名称英文的直译，就是一款[分词插件]，为了解决我们[在编辑模式下]，[双击选择文字]的时候，只能[选中一整个句子]的问题。
+        - ### Media extended
+            - 如果你有在 Obsidian 内[预览视频]的需求，如果你喜欢[对视频做笔记]，而且希望在 Obsidian 看笔记的同时可以[快速地预览]笔记对应的时间内容；如果你希望自己可以对[视频的制作][做出评价]，而且插入到 [Mermaid 表格]中，或者希望随时记录自己的[视频阅览记录]。
+        - ### 总结
+            - 随着[插件 API] 的[日渐完善]，在 Obsidian 中实现大多数人的[形态各异的工作流][已经不是梦想]，接下来[可以预见的]还有类似 Persona 这种用于[知识对话]的插件、更优秀的[图谱插件] Juggl ，当这些插件[释出]，也许又是一个 Obsidian 社区的[振奋剂]，后会有期。 #pt9-99.99

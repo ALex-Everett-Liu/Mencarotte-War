@@ -1,0 +1,20 @@
+- [[dipole radiation]]
+- electromagnetics; electromagnetism
+    - [[electricity]]: 电学
+        - [[electric charge]]
+    - [[magnetism]]
+- electromagnetic field; the electric and magnetic fields
+    - electromagnetic energy
+    - [[electric field]]
+        - electric displacement field
+        - electric field strength
+        - electric field vector
+    - electromagnetic wave
+        - energy distribution
+        - electromagnetic radiation
+    - [[magnetic field]]
+        - auxiliary field vector
+        - magnetic force
+- [[electron]]
+    - electron beam
+- [[Maxwell's equations]]

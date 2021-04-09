@@ -1,3 +1,4 @@
+- [[comedy]]
 - [[novel]]
 - [[poetry]]
     - [[Romantic poetry]]

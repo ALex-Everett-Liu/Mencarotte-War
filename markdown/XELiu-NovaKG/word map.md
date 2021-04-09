@@ -75,6 +75,24 @@
         - ma
             - mark
                 - benchmark; 
+        - me
+            - message
+            - met
+                - metal
+                    - [[metallic object]];
+                - method
+                    - methodically;
+                    - methodology
+                - metro
+                    - metre; metric
+    - n
+        - nu
+            - nudge: 用肘轻推, 引起注意;
+            - number
+                - numeral
+                    - enumerate
+                        - enumerative;
+                    - numerical; numerous;
     - o
         - ob
             - ob-
@@ -105,6 +123,14 @@
                 - perform
                     - performed; performing
                     - perform the experiment; 
+        - po
+            - police
+                - polite
+                - polity
+                    - politic; politics
+                        - politician;
+            - ponder
+                - pondered;
     - r
         - re
             - res

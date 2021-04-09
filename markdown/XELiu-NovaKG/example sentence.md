@@ -4,6 +4,7 @@
 - bbs.[[chinadaily]].com.cn
     - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
     - ---
+- dict.cnki.net
 - 柯林斯词典 (柯林斯高阶英汉双解学习词典)
     - Let me [set the record straight on the misconceptions] [contained in your article]. 
     - ---
