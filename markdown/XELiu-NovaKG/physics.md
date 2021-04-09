@@ -6,6 +6,9 @@
 - [[classical mechanics]]
 - [[electrodynamics]]
 - [[experimental physics]]; [[experimental physicist]]
+- field
+    - [[force field]]
+        - [[electromagnetic field]]; the electric and magnetic fields
 - general...
     - abstract...
         - [[abstract idea]]

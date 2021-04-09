@@ -1331,7 +1331,7 @@
               }
             ],
             "uid": "QNwao1njb",
-            "edit-time": 1617930988614,
+            "edit-time": 1617933441855,
             ":block/refs": [
               {
                 ":block/uid": "qaeoTNjKW"
@@ -1675,6 +1675,64 @@
         }
       },
       {
+        "string": "roam-like",
+        "create-time": 1617933429301,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "((Jhf3YksqZ))",
+            "create-time": 1617933451041,
+            ":block/refs": [
+              {
+                ":block/uid": "Jhf3YksqZ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Jhf3YksqZ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "15iLJG8dm",
+            "edit-time": 1617933452013,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((QNwao1njb))",
+            "create-time": 1617933432052,
+            ":block/refs": [
+              {
+                ":block/uid": "QNwao1njb"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "QNwao1njb"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "80t_-SYw_",
+            "edit-time": 1617933445235,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "iQbf__5TE",
+        "edit-time": 1617933431774,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1617930616621,
         "children": [
           {
@@ -1695,6 +1753,42 @@
             },
             "uid": "1rR3TvZsi",
             "edit-time": 1617932438108,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "在前几篇文章中，我介绍了如何使用 Notion 来[管理个人事务]，利用了 Notion 强大的数据库和[各类视图]功能，实现任务、项目等[多维度管理]，使得我们能够清晰的[管理复杂项目]。然而[在实际工作和生活中]，除了这类[复杂项目]，往往还有有一些[提醒类的小任务]，比如说每月 14 号[还信用卡]，每周三[参加例会]等，这些[小任务]不会产生其他[结构化且相关联的内容]，如果都统一使用 Notion 来管理[不是不可以]，但总感觉有点太“重”。如果你同时也在[重度使用] Roam Research 的话，我再介绍一个我[正在使用中的]而且非常棒的[解决方案]，让你在每天打开 Roam 页面后，就能立刻安排好[今日的所有日程]。",
+            "create-time": 1617933860954,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "前面提到过，SmartBlocks 类似于[模版]，也就是说，你可以[预先定义好][模版的格式和内容]，[在需要的时候]直接将模版[导入到页面中]，不需要[输入重复的内容]。Roam 原生的 template 功能[导入模版后]，你需要[手工输入]除[固定内容]以外的[其他内容]。而 SmartBlocks [强大之处在于]它可以[利用自身代码][自动完成这一过程](https://zhuanlan.zhihu.com/p/362597580)。 #pt8-100",
+                "create-time": 1617933996057,
+                ":block/refs": [
+                  {
+                    ":block/uid": "qf_2NHomZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "qf_2NHomZ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "4MOafEEtK",
+                "edit-time": 1617934064803,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Xn4bglZsz",
+            "edit-time": 1617933916252,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -2012,6 +2106,24 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[Emacs]]",
+        "refs": [
+          {
+            "uid": "I3RsPq9fi"
+          }
+        ],
+        "uid": "vraA_GHmP",
+        "edit-time": 1617933569783,
+        ":block/refs": [
+          {
+            ":block/uid": "I3RsPq9fi"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "indent",
         "create-time": 1617577992390,
@@ -2404,6 +2516,28 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[cryptography]]",
+        "create-time": 1617933037527,
+        ":block/refs": [
+          {
+            ":block/uid": "R2EH_axEI"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "R2EH_axEI"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "PjcAmhrBK",
+        "edit-time": 1617933040292,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[programming]]; [[programming language]]",
         "create-time": 1617578776207,
@@ -4006,6 +4140,58 @@
             ":block/uid": "e7sZL00qZ"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "field",
+        "children": [
+          {
+            "string": "[[force field]]",
+            "refs": [
+              {
+                "uid": "VNkcSXeP7"
+              }
+            ],
+            "children": [
+              {
+                "string": "((8xH2uTtsH))",
+                "create-time": 1617937200578,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8xH2uTtsH"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8xH2uTtsH"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "kxLOitL4X",
+                "edit-time": 1617937201829,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "K_A7dfVeX",
+            "edit-time": 1617937204626,
+            ":block/refs": [
+              {
+                ":block/uid": "VNkcSXeP7"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "cUb7gXijd",
+        "edit-time": 1617937182182,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -8896,6 +9082,50 @@
                 },
                 "children": [
                   {
+                    "string": "code",
+                    "children": [
+                      {
+                        "string": "encode; decode",
+                        "uid": "D_5CGNDP0",
+                        "edit-time": 1617938127042,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "nDO_9SP2c",
+                    "edit-time": 1617938127042,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "cognize",
+                    "children": [
+                      {
+                        "string": "cognition; cognitive",
+                        "uid": "0Zj7QNxBs",
+                        "edit-time": 1617938127042,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "recognise; recognize",
+                        "uid": "3-41NHO7V",
+                        "edit-time": 1617938127042,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "MRpo9_g5C",
+                    "edit-time": 1617938127042,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "con",
                     "create-time": 1617669869496,
                     ":create/user": {
@@ -8983,6 +9213,118 @@
             ],
             "uid": "gBN1S1Icq",
             "edit-time": 1617650018274,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "d",
+            "create-time": 1617936427697,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "de",
+                "create-time": 1617936427958,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "demonstrate, 2",
+                    "children": [
+                      {
+                        "string": "demo;",
+                        "uid": "B7Q6P_box",
+                        "edit-time": 1617936430040,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "demonstration;",
+                        "uid": "LPnAW8src",
+                        "edit-time": 1617936430040,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "kg9rHuqtm",
+                    "edit-time": 1617936430040,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "_CkQpVzJ3",
+                "edit-time": 1617936429163,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "di",
+                "create-time": 1617937147948,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "dictate, 2",
+                    "children": [
+                      {
+                        "string": "dictation;",
+                        "uid": "rcj7fikPE",
+                        "edit-time": 1617937149343,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "dictator: 独裁者; 发号施令者",
+                        "uid": "Qgc4zDAjC",
+                        "edit-time": 1617937152980,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "beY2sqk_7",
+                    "edit-time": 1617937149343,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "diction",
+                    "children": [
+                      {
+                        "string": "dictionary",
+                        "uid": "2LJ91l0dY",
+                        "edit-time": 1617937149343,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "nBvjbt5vt",
+                    "edit-time": 1617937149343,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "LtyF4DXEO",
+                "edit-time": 1617937148624,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "DwikExct8",
+            "edit-time": 1617936427966,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -9526,19 +9868,9 @@
                         "string": "metal",
                         "children": [
                           {
-                            "string": "[[metallic object]];",
-                            "refs": [
-                              {
-                                "uid": "PHF5hI8tD"
-                              }
-                            ],
+                            "string": "metallic; ",
                             "uid": "XxITZnCiw",
-                            "edit-time": 1617922435303,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "PHF5hI8tD"
-                              }
-                            ],
+                            "edit-time": 1617938000043,
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -9940,6 +10272,56 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "pat",
+                    "create-time": 1617936519828,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "patient",
+                        "children": [
+                          {
+                            "string": "patiently;",
+                            "uid": "JMAPRokC2",
+                            "edit-time": 1617936521542,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "CjDbFg3kX",
+                        "edit-time": 1617936521542,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "pattern",
+                        "children": [
+                          {
+                            "string": "develop the pattern; standard pattern; orderly pattern",
+                            "uid": "cgdxKHAXs",
+                            "edit-time": 1617936521542,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "x9LBGdgA5",
+                        "edit-time": 1617936521542,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "xYBjTT2kf",
+                    "edit-time": 1617936520656,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "b9VqS9dEY",
@@ -9994,6 +10376,32 @@
                         ],
                         "uid": "53h9BFXUc",
                         "edit-time": 1617729448018,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "permeate: 弥漫, 遍布; 渗透;",
+                        "children": [
+                          {
+                            "string": "permeating;",
+                            "uid": "z-tdehgST",
+                            "edit-time": 1617936675074,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "4JdZpstHz",
+                        "edit-time": 1617936675074,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "perpendicular",
+                        "uid": "XTLPEheE0",
+                        "edit-time": 1617936675074,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -14601,14 +15009,14 @@
         }
       },
       {
-        "string": "[[block chain]]?",
+        "string": "[[blockchain]]",
         "refs": [
           {
             "uid": "Ec45Qk5SA"
           }
         ],
         "uid": "Ife-0H8IS",
-        "edit-time": 1617705191546,
+        "edit-time": 1617932958896,
         ":block/refs": [
           {
             ":block/uid": "Ec45Qk5SA"
@@ -14859,7 +15267,7 @@
   },
   {
     "create-time": 1617705191548,
-    "title": "block chain",
+    "title": "blockchain",
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -14881,10 +15289,80 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "---",
+        "create-time": 1617932974352,
+        "uid": "IMW29vdac",
+        "edit-time": 1617932975208,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "__For other uses, see __[Block chain (disambiguation)]__.__",
+        "create-time": 1617932975203,
+        "uid": "NB9T5ICtv",
+        "edit-time": 1617932982069,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "A blockchain is [a growing list of records], called blocks, that are linked using [[cryptography]].[1][2][3][4] Each block contains a cryptographic hash of the previous block,[4] a timestamp, and transaction data (generally represented as a Merkle tree). By design, a blockchain is resistant to modification of its data. This is because once recorded, the data in any given block cannot be altered retroactively without alteration of all subsequent blocks.",
+        "create-time": 1617932994400,
+        ":block/refs": [
+          {
+            ":block/uid": "R2EH_axEI"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "R2EH_axEI"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "coCXFW7fi",
+        "edit-time": 1617933006268,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for inter-node communication and validating new blocks. Although blockchain records are not unalterable, blockchains may be considered secure by design and exemplify a distributed computing system with high Byzantine fault tolerance. The blockchain has been described as \"an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way\".[5]\n\n",
+        "create-time": 1617932993280,
+        "uid": "Qmxpaol1g",
+        "edit-time": 1617932994406,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "The blockchain was invented by a person (or group of people) using the name Satoshi Nakamoto in 2008 to serve as the public transaction ledger of the cryptocurrency bitcoin.[3] The identity of Satoshi Nakamoto remains unknown to date. The invention of the blockchain for bitcoin made it the first digital currency to solve the double-spending problem without the need of a trusted authority or central server. The bitcoin design has inspired other applications[3][2] and blockchains that are readable by the public and are widely used by cryptocurrencies. The blockchain is considered a type of payment rail.[6] Private blockchains have been proposed for business use but Computerworld called the marketing of such privatized blockchains without a proper security model \"snake oil\".[7] However, others have argued that permissioned blockchains, if carefully designed, may be more decentralized and therefore secure in practice than permissionless ones.[4][8]",
+        "create-time": 1617932989450,
+        "uid": "ZFLtvOq8P",
+        "edit-time": 1617932993286,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "Ec45Qk5SA",
-    "edit-time": 1617705191549,
+    "edit-time": 1617932958896,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -16719,6 +17197,28 @@
     },
     "children": [
       {
+        "string": "[[learning]]...",
+        "create-time": 1617936345384,
+        ":block/refs": [
+          {
+            ":block/uid": "waY5zr0Ii"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "waY5zr0Ii"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "AldQwsyq1",
+        "edit-time": 1617936351995,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[pedagogy]]: 教学法",
         "refs": [
           {
@@ -16740,6 +17240,52 @@
         "string": "practical application",
         "uid": "XcC8XSJjX",
         "edit-time": 1617734918724,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "school",
+        "children": [
+          {
+            "string": "[[curriculum]]",
+            "refs": [
+              {
+                "uid": "LszxReG38"
+              }
+            ],
+            "uid": "odzaXlLK7",
+            "edit-time": 1617936356868,
+            ":block/refs": [
+              {
+                ":block/uid": "LszxReG38"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[elementary school]]",
+            "refs": [
+              {
+                "uid": "Um7ycnFNo"
+              }
+            ],
+            "uid": "wuv6JMjaO",
+            "edit-time": 1617936355595,
+            ":block/refs": [
+              {
+                ":block/uid": "Um7ycnFNo"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "BHUe_eCSE",
+        "edit-time": 1617936339769,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -18829,6 +19375,136 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "edit-time": 1617937234436,
+                "children": [
+                  {
+                    "string": "**Figure 3.1** Iron filings [sprinkled near a bar magnet] [trace out its magnetic field].",
+                    "create-time": 1617921264530,
+                    "uid": "aeBc35cIL",
+                    "edit-time": 1617936589262,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Um7ycnFNo"
+                  },
+                  {
+                    "uid": "y5hRQXlfG"
+                  },
+                  {
+                    "uid": "s1aJ3vb5S"
+                  },
+                  {
+                    "uid": "hkyDfKSbJ"
+                  },
+                  {
+                    "uid": "LPnAW8src"
+                  },
+                  {
+                    "uid": "cgdxKHAXs"
+                  },
+                  {
+                    "uid": "4JdZpstHz"
+                  },
+                  {
+                    "uid": "VNkcSXeP7"
+                  },
+                  {
+                    "uid": "Qgc4zDAjC"
+                  }
+                ],
+                "uid": "Bblb7HGyR",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Um7ycnFNo"
+                  },
+                  {
+                    ":block/uid": "y5hRQXlfG"
+                  },
+                  {
+                    ":block/uid": "s1aJ3vb5S"
+                  },
+                  {
+                    ":block/uid": "hkyDfKSbJ"
+                  },
+                  {
+                    ":block/uid": "LPnAW8src"
+                  },
+                  {
+                    ":block/uid": "cgdxKHAXs"
+                  },
+                  {
+                    ":block/uid": "4JdZpstHz"
+                  },
+                  {
+                    ":block/uid": "VNkcSXeP7"
+                  },
+                  {
+                    ":block/uid": "Qgc4zDAjC"
+                  }
+                ],
+                "string": "I've never seen a better way to [get a visceral sense of] 内脏, 发自肺腑的 a magnetic field than the [[elementary school]] [demonstration](((LPnAW8src))) in which [[iron filing]]s are [sprinkled in the vicinity of] a [[bar magnet]]. 将铁屑撒在条形磁铁附近 After a little shaking, the iron filings [align themselves in an orderly pattern of arcs](((cgdxKHAXs))) that begin at the magnet's [[north pole]] and [swing up and around], to end at the magnet's south pole, as in Figure 3.1. [The pattern traced by the iron filings] is [direct evidence] that the magnet [creates an invisible something] that [permeates the space around it](((4JdZpstHz)))—a something that can, for example, [exert a force on] [shards of metal]. 在金属碎片上施加作用力 [The invisible something] is the magnetic field and, to our intuition, it [resembles a mist or essence that] can [fill a region of space] and thereby [exert a force beyond] [the physical extent] of the magnet itself. 物理范围 A magnetic field provides a magnet [what an army provides a dictator](((Qgc4zDAjC))) and [what auditors provide the IRS]: 审计员, 稽核员; 国内税务署, 国税局 influence beyond their [physical boundaries], which [allows force to be exerted out in] the \"field.\" That is why a magnetic field is also called a [[force field]].\n210409-10:50, 11:00\n(一个物体所伴生的力场的作用范围超越了该物体自身的实体边界)",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1617921264530,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "It is the pervasive, [space-filling capability] of magnetic fields that [makes them so useful]. An [airport metal detector]([[metal detector]])'s magnetic field [seeps through your clothes] 渗漏, 漉 and causes metallic objects to [give off their own magnetic fields] —fields that then [exert an influence back on] the detector, causing its alarm to sound. An MRI's magnetic field [seeps into your body], causing [particular atoms] to [gyrate in just the right way] to 旋涡 [generate their own magnetic fields]—fields that [the machine can detect] and [decode into a picture](((D_5CGNDP0))) of [internal tissues]. [The earth's magnetic field] seeps through the compass [casing and turns the needle], causing it to [point along an arc] that, as a result of [eons-long geophysical processes], 漫长的 is aligned in a nearly [[south-north direction]].\n210409-11:15",
+                "create-time": 1617937404475,
+                ":block/refs": [
+                  {
+                    ":block/uid": "A-0TRPwYm"
+                  },
+                  {
+                    ":block/uid": "D_5CGNDP0"
+                  },
+                  {
+                    ":block/uid": "dIFuyb4NI"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "A-0TRPwYm"
+                  },
+                  {
+                    "uid": "D_5CGNDP0"
+                  },
+                  {
+                    "uid": "dIFuyb4NI"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "WoNv29MpB",
+                "edit-time": 1617938263981,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Magnetic fields are one familiar kind of field, but Faraday also analyzed another: the electric field. This is the field that causes your wool scarf to crackle, zaps your hand in a carpeted room when you touch a metal doorknob, and makes your skin tingle when you're up in the mountains during a powerful lightning storm. And if you happened to examine a compass during such a storm, the way its magnetic needle deflected this way and that as the bolts of electric lightning flashed nearby would have given you a hint of a deep interconnection between electric and magnetic fields —something first discovered by the Danish physicist Hans Oersted and investigated thoroughly by Faraday through meticulous experimentation. Just as developments in the stock market can affect the bond market which can then affect the stock market, and so on, these scientists found that changes in an electric field can produce changes in a nearby magnetic field, which can then cause changes in the electric field, and so on. Maxwell found the mathematical underpinnings of these interrelation- ships, and because his equations showed that electric and magnetic fields are as entwined as the fibers in a Rastafarian's dreadlocks, they were eventually christened electromagnetic fields, and the influence they exert the electromagnetic force.",
+                "create-time": 1617937404475,
+                "uid": "QqPina4AE",
+                "edit-time": 1617937416635,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -18847,32 +19523,6 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "create-time": 1617922592739,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "I've never seen a better way to get a visceral sense of a magnetic field than the elementary school demonstration in which iron filings are sprinkled in the vicinity of a bar magnet. After a little shaking, the iron filings align themselves in an orderly pattern of arcs that begin at the magnet's north pole and swing up and around, to end at the magnet's south pole, as in Figure 3.1. The pattern traced by the iron filings is direct evidence that the magnet creates an invisible something that permeates the space around it—a something that can, for example, exert a force on shards of metal. The invisible something is the magnetic field and, to our intuition, it resembles a mist or essence that can fill a region of space and thereby exert a force beyond the physical extent of the magnet itself. A magnetic field provides a magnet what an army provides a dictator and what auditors provide the IRS: influence beyond their physical boundaries, which allows force to be exerted out in the \"field.\" That is why a magnetic field is also called a force field.",
-            "create-time": 1617921264530,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "children": [
-              {
-                "string": "Figure 3.1 Iron filings sprinkled near a bar magnet trace out its magnetic field.",
-                "create-time": 1617921264530,
-                "uid": "aeBc35cIL",
-                "edit-time": 1617921264534,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "Bblb7HGyR",
-            "edit-time": 1617922779669,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -19001,7 +19651,12 @@
         }
       },
       {
-        "string": "electromagnetic field; the electric and magnetic fields",
+        "string": "[[electromagnetic field]]; the electric and magnetic fields",
+        "refs": [
+          {
+            "uid": "qh63IVt3F"
+          }
+        ],
         "children": [
           {
             "string": "electromagnetic energy",
@@ -19119,7 +19774,12 @@
           }
         ],
         "uid": "8xH2uTtsH",
-        "edit-time": 1617922747161,
+        "edit-time": 1617937227071,
+        ":block/refs": [
+          {
+            ":block/uid": "qh63IVt3F"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -19209,23 +19869,111 @@
     },
     "children": [
       {
-        "string": "[[compass]]",
+        "string": "[[bar magnet]]",
         "create-time": 1617922638441,
         ":block/refs": [
           {
-            ":block/uid": "hkShmcz5m"
+            ":block/uid": "s1aJ3vb5S"
           }
         ],
         "refs": [
           {
-            "uid": "hkShmcz5m"
+            "uid": "s1aJ3vb5S"
           }
         ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "uid": "eVbrf4dNC",
-        "edit-time": 1617922643055,
+        "edit-time": 1617936569170,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[compass]]",
+        "refs": [
+          {
+            "uid": "hkShmcz5m"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[south-north direction]]",
+            "create-time": 1617938223864,
+            ":block/refs": [
+              {
+                ":block/uid": "dIFuyb4NI"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "dIFuyb4NI"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "lGX8pUuXb",
+            "edit-time": 1617938227019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "0vrIvWCWt",
+        "edit-time": 1617936567519,
+        ":block/refs": [
+          {
+            ":block/uid": "hkShmcz5m"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[iron filing]]",
+        "refs": [
+          {
+            "uid": "y5hRQXlfG"
+          }
+        ],
+        "uid": "O4SKPKQsQ",
+        "edit-time": 1617936566610,
+        ":block/refs": [
+          {
+            ":block/uid": "y5hRQXlfG"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "pole",
+        "children": [
+          {
+            "string": "[[north pole]]",
+            "refs": [
+              {
+                "uid": "hkyDfKSbJ"
+              }
+            ],
+            "uid": "E8M6GkSfb",
+            "edit-time": 1617936565637,
+            ":block/refs": [
+              {
+                ":block/uid": "hkyDfKSbJ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "UjoR7vDw_",
+        "edit-time": 1617936557973,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -19425,6 +20173,36 @@
             "refs": [
               {
                 "uid": "nhVWvJLqf"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[metal detector]]; [[metallic object]];",
+                "create-time": 1617937982177,
+                ":block/refs": [
+                  {
+                    ":block/uid": "PHF5hI8tD"
+                  },
+                  {
+                    ":block/uid": "A-0TRPwYm"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "PHF5hI8tD"
+                  },
+                  {
+                    "uid": "A-0TRPwYm"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "k3AWo9Liv",
+                "edit-time": 1617937990094,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "SyRFuc00v",
@@ -19654,11 +20432,119 @@
   {
     "create-time": 1617930162853,
     "title": "optics",
-    "uid": "FHfsn4VTk",
-    "edit-time": 1617930162855,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[classical optics]]",
+        "create-time": 1617935130536,
+        ":block/refs": [
+          {
+            ":block/uid": "0J61Ds3Lx"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0J61Ds3Lx"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Aic-K_Fbt",
+        "edit-time": 1617935132686,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "capture light",
+            "uid": "oakw81yL8",
+            "edit-time": 1617934971946,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[light distribution]]",
+            "refs": [
+              {
+                "uid": "F6b8MeJNs"
+              }
+            ],
+            "uid": "sWZ_eLHMm",
+            "edit-time": 1617934981985,
+            ":block/refs": [
+              {
+                ":block/uid": "F6b8MeJNs"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "light pulse",
+            "uid": "kwLfmu4hB",
+            "edit-time": 1617934971946,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[optical effect]]",
+            "refs": [
+              {
+                "uid": "7i-EMPISo"
+              }
+            ],
+            "uid": "BZqgy-7vh",
+            "edit-time": 1617934980571,
+            ":block/refs": [
+              {
+                ":block/uid": "7i-EMPISo"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rBnUPLeuj",
+        "edit-time": 1617934971946,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[geometric optics]]",
+        "create-time": 1617935110614,
+        ":block/refs": [
+          {
+            ":block/uid": "nl-8cLujy"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nl-8cLujy"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "NxYEXkWFd",
+        "edit-time": 1617935116095,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "FHfsn4VTk",
+    "edit-time": 1617930162855,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -20215,6 +21101,664 @@
     "title": "pt9-100",
     "uid": "S41onlg92",
     "edit-time": 1617932438118,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617933006270,
+    "title": "cryptography",
+    "uid": "R2EH_axEI",
+    "edit-time": 1617933006271,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617933569785,
+    "title": "Emacs",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Org-mode]]",
+        "refs": [
+          {
+            "uid": "YMDS0Gq9h"
+          }
+        ],
+        "uid": "7xd5wXxfK",
+        "edit-time": 1617933575990,
+        ":block/refs": [
+          {
+            ":block/uid": "YMDS0Gq9h"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "I3RsPq9fi",
+    "edit-time": 1617933569786,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617933575993,
+    "title": "Org-mode",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[org-roam]]",
+        "refs": [
+          {
+            "uid": "l72t6ZEM3"
+          }
+        ],
+        "uid": "vLK_ZSiUv",
+        "edit-time": 1617933583803,
+        ":block/refs": [
+          {
+            ":block/uid": "l72t6ZEM3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "YMDS0Gq9h",
+    "edit-time": 1617933575993,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617933583805,
+    "title": "org-roam",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1617933599642,
+        "children": [
+          {
+            "edit-time": 1617933764936,
+            "children": [
+              {
+                "string": "org-roam-server 则是基于 org-roam 提供的[更直观的插件]，[通过web的方式]查看[各种节点的相关联系]，[用鼠标点击][相关节点]，可以[直接在emacs中打开对应文件]，很是方便。",
+                "create-time": 1617933623263,
+                "uid": "wOZ2wTJH4",
+                "edit-time": 1617933686513,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "在考虑[用哪种方式]作为[笔记搜索引擎]的时候，曾有两个方案，一个是用 emacs 自带的 org-agenda + tags 来实现笔记的[快速搜索]需求，但因为个人主要[用 agenda 来管理 GTD]，因此为了分开[采用了另外一种方案]，用[正则匹配]来搜索笔记目录。 之所以用rg，是因为[据网友测试]，rg的速度更快，经[实战测试]，在进行搜索的时候，几乎[无延迟]。",
+                "create-time": 1617933696819,
+                "uid": "U-mp6e8_8",
+                "edit-time": 1617933742101,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qf_2NHomZ"
+              }
+            ],
+            "uid": "96fgk4dCr",
+            ":block/refs": [
+              {
+                ":block/uid": "qf_2NHomZ"
+              }
+            ],
+            "string": "[用 org-roam-server + counsel-rg 来管理笔记](https://zhuanlan.zhihu.com/p/362278359) #pt8-100",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617933599699,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "hSkJ5NZBs",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617933597164,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "l72t6ZEM3",
+    "edit-time": 1617933583806,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617933764938,
+    "title": "pt8-100",
+    "uid": "qf_2NHomZ",
+    "edit-time": 1617933764940,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617934980573,
+    "title": "optical effect",
+    "uid": "7i-EMPISo",
+    "edit-time": 1617934980574,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617934981988,
+    "title": "light distribution",
+    "uid": "F6b8MeJNs",
+    "edit-time": 1617934981988,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935116097,
+    "title": "geometric optics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "the Law of Reflection",
+        "children": [
+          {
+            "string": "rectilinear propagation",
+            "uid": "NwylJ3VoU",
+            "edit-time": 1617935140972,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "8o9g9yF86",
+        "edit-time": 1617935140972,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[lens]]; lenses",
+        "refs": [
+          {
+            "uid": "UM_SQg-MY"
+          }
+        ],
+        "uid": "CQacph6UX",
+        "edit-time": 1617935151294,
+        ":block/refs": [
+          {
+            ":block/uid": "UM_SQg-MY"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[mirror]]",
+        "refs": [
+          {
+            "uid": "hBXaqTs_W"
+          }
+        ],
+        "uid": "5B51Gn8C2",
+        "edit-time": 1617935263626,
+        ":block/refs": [
+          {
+            ":block/uid": "hBXaqTs_W"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[reflection]]",
+        "create-time": 1617935301414,
+        ":block/refs": [
+          {
+            ":block/uid": "nvkyiHEzT"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nvkyiHEzT"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "4O26GT5ri",
+        "edit-time": 1617935307588,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "小孔成像",
+        "uid": "1sTbjr3Ly",
+        "edit-time": 1617935255272,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "nl-8cLujy",
+    "edit-time": 1617935116097,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935132692,
+    "title": "classical optics",
+    "uid": "0J61Ds3Lx",
+    "edit-time": 1617935132693,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935151296,
+    "title": "lens",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "aspheric lens",
+        "uid": "e2sEK1_R3",
+        "edit-time": 1617935140972,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "gradient-index lens",
+        "uid": "J7bUbHve9",
+        "edit-time": 1617935140972,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "focusing lens",
+        "uid": "ibdLHN21_",
+        "edit-time": 1617935140972,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "positive lens",
+        "children": [
+          {
+            "string": "burning glass",
+            "uid": "dIyt0n1KH",
+            "edit-time": 1617935140972,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Gmg9asRhz",
+        "edit-time": 1617935140972,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "simple lens",
+        "uid": "MX2Ej2PGA",
+        "edit-time": 1617935140972,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "UM_SQg-MY",
+    "edit-time": 1617935151296,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935263628,
+    "title": "mirror",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[bronze]]",
+        "refs": [
+          {
+            "uid": "npVjUw1Xd"
+          }
+        ],
+        "uid": "8ExzGPqGl",
+        "edit-time": 1617935274846,
+        ":block/refs": [
+          {
+            ":block/uid": "npVjUw1Xd"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "polished copper",
+        "uid": "7jURUm3az",
+        "edit-time": 1617935255272,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[speculum]]",
+        "refs": [
+          {
+            "uid": "WiyOMcErm"
+          }
+        ],
+        "children": [
+          {
+            "string": "copper alloy rich in tin",
+            "uid": "_XzhKPZwW",
+            "edit-time": 1617935255272,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "3xfN6ShUQ",
+        "edit-time": 1617935273418,
+        ":block/refs": [
+          {
+            ":block/uid": "WiyOMcErm"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "hBXaqTs_W",
+    "edit-time": 1617935263628,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935273420,
+    "title": "speculum",
+    "uid": "WiyOMcErm",
+    "edit-time": 1617935273421,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935274848,
+    "title": "bronze",
+    "uid": "npVjUw1Xd",
+    "edit-time": 1617935274849,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935307590,
+    "title": "reflection",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Snell rule]]",
+        "refs": [
+          {
+            "uid": "AHR9TBQv4"
+          }
+        ],
+        "uid": "BHGlcQbYd",
+        "edit-time": 1617935321490,
+        ":block/refs": [
+          {
+            ":block/uid": "AHR9TBQv4"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[refractive index]]",
+        "refs": [
+          {
+            "uid": "bf_Xq5_gc"
+          }
+        ],
+        "uid": "7ODsvgui8",
+        "edit-time": 1617935320138,
+        ":block/refs": [
+          {
+            ":block/uid": "bf_Xq5_gc"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "nvkyiHEzT",
+    "edit-time": 1617935307591,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935320140,
+    "title": "refractive index",
+    "uid": "bf_Xq5_gc",
+    "edit-time": 1617935320140,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617935321492,
+    "title": "Snell rule",
+    "uid": "AHR9TBQv4",
+    "edit-time": 1617935321492,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617936167946,
+    "title": "elementary school",
+    "uid": "Um7ycnFNo",
+    "edit-time": 1617936167955,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617936209096,
+    "title": "iron filing",
+    "uid": "y5hRQXlfG",
+    "edit-time": 1617936209096,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617936209096,
+    "title": "bar magnet",
+    "uid": "s1aJ3vb5S",
+    "edit-time": 1617936209096,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617936253290,
+    "title": "north pole",
+    "uid": "hkyDfKSbJ",
+    "edit-time": 1617936253292,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617936351997,
+    "title": "learning",
+    "uid": "waY5zr0Ii",
+    "edit-time": 1617936351998,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617936356870,
+    "title": "curriculum",
+    "uid": "LszxReG38",
+    "edit-time": 1617936356870,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617936902233,
+    "title": "force field",
+    "uid": "VNkcSXeP7",
+    "edit-time": 1617936902234,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617937227074,
+    "title": "electromagnetic field",
+    "uid": "qh63IVt3F",
+    "edit-time": 1617937227074,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617937908446,
+    "title": "metal detector",
+    "uid": "A-0TRPwYm",
+    "edit-time": 1617937908447,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617938179755,
+    "title": "south-north direction",
+    "uid": "dIFuyb4NI",
+    "edit-time": 1617938179756,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

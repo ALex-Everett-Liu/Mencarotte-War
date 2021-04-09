@@ -1,0 +1,2 @@
+- [[Snell rule]]
+- [[refractive index]]

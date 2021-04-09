@@ -1,0 +1,7 @@
+- [[classical optics]]
+- general...
+    - capture light
+    - [[light distribution]]
+    - light pulse
+    - [[optical effect]]
+- [[geometric optics]]

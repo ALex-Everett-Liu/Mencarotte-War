@@ -1,7 +1,7 @@
 - [[bank]]
     - [[credit card]]
         - [[virtual credit card]]
-- [[block chain]]?
+- [[blockchain]]
 - digital payment...
     - [[Alipay]]
     - [[PayPal]]

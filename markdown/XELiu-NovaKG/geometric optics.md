@@ -1,0 +1,6 @@
+- the Law of Reflection
+    - rectilinear propagation
+- [[lens]]; lenses
+- [[mirror]]
+- [[reflection]]
+- 小孔成像

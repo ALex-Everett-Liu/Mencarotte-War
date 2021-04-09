@@ -3,7 +3,7 @@
     - [[electricity]]: 电学
         - [[electric charge]]
     - [[magnetism]]
-- electromagnetic field; the electric and magnetic fields
+- [[electromagnetic field]]; the electric and magnetic fields
     - electromagnetic energy
     - [[electric field]]
         - electric displacement field

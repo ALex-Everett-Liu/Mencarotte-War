@@ -23,6 +23,11 @@
                 - citation
                 - cited;
         - co
+            - code
+                - encode; decode
+            - cognize
+                - cognition; cognitive
+                - recognise; recognize
             - con
                 - contra
                     - contradict
@@ -31,6 +36,17 @@
                         - contrasted;
                     - controvert
                         - controversial: 引起争议
+    - d
+        - de
+            - demonstrate, 2
+                - demo;
+                - demonstration;
+        - di
+            - dictate, 2
+                - dictation;
+                - dictator: 独裁者; 发号施令者
+            - diction
+                - dictionary
     - e
         - ex
             - exclude
@@ -79,7 +95,7 @@
             - message
             - met
                 - metal
-                    - [[metallic object]];
+                    - metallic; 
                 - method
                     - methodically;
                     - methodology
@@ -118,11 +134,19 @@
                     - pars; parse: 解析, 分列;
                         - parsing: 语法分析, 剖析;
                     - [[party]]
+            - pat
+                - patient
+                    - patiently;
+                - pattern
+                    - develop the pattern; standard pattern; orderly pattern
         - pe
             - per
                 - perform
                     - performed; performing
                     - perform the experiment; 
+                - permeate: 弥漫, 遍布; 渗透;
+                    - permeating;
+                - perpendicular
         - po
             - police
                 - polite
