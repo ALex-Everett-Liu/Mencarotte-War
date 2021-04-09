@@ -29,6 +29,11 @@
     - physical process
     - physical properties
         - counter-intuitive property
+- material...
+    - medium...
+        - elastic medium; elastic media; 弹性介质
+        - [[liquid]]
+    - raw material
 - meta phys...
     - [[reality]]; [[physical reality]]
     - #inbox
@@ -43,5 +48,6 @@
         - [[The Fabric of the Cosmos - Space, Time, and the Texture of Reality]]
 - [[quantum mechanics]]
 - [[relativity]]; [[theory of relativity]]
+- [[wave]]; wave theory
 - #inbox
     - [phys and others](https://www.zhihu.com/people/citysevenstar/answers) #pt10-99.98

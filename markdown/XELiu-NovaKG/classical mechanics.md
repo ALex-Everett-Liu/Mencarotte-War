@@ -18,7 +18,7 @@
     - [[frame of reference]]
         - [[absolute space]]
             - an absolute conception of acceleration
-        - [[reference point]]; [[reference object]]
+        - [[reference point]]; [[reference object]]; reference location
             - benchmark for comparison; [[external comparison]]
             - [[relevant reference]]; [[relevant frame of reference]]
             - stationary reference

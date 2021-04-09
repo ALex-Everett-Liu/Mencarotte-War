@@ -173,7 +173,20 @@
                     - respective
                     - with respect to: 相对于;
     - s
+        - st
+            - sta
+                - staff, 2
+                - stance
+                    - substance, 2
         - su
+            - sub
+                - sub-
+                    - substance, 2
+                        - substantial
+                    - substitute: 替换; 置换; 取代; 代换; 代入
+                        - substitution;
+                    - subtract
+                        - subtraction;
             - suffuse: 弥漫, 遍布, 充满;
             - suggest
                 - suggestion;

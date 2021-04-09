@@ -10,12 +10,15 @@
         - electric displacement field
         - electric field strength
         - electric field vector
-    - electromagnetic wave
-        - energy distribution
-        - electromagnetic radiation
+    - [[electromagnetic wave]]
+        - [[energy distribution]]
+        - [[electromagnetic radiation]]
+        - light speed; the speed of light
     - [[magnetic field]]
         - auxiliary field vector
         - magnetic force
 - [[electron]]
     - electron beam
 - [[Maxwell's equations]]
+- medium...
+    - anisotropic medium

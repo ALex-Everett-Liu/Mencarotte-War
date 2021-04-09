@@ -33,6 +33,28 @@
     },
     "children": [
       {
+        "string": "[[culture]]",
+        "create-time": 1617959300698,
+        ":block/refs": [
+          {
+            ":block/uid": "2_13sc8dr"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "2_13sc8dr"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "9rqEIf1G0",
+        "edit-time": 1617959306098,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[economy]]",
         "create-time": 1617618487769,
         ":block/refs": [
@@ -193,6 +215,28 @@
         }
       },
       {
+        "string": "[[life science]]",
+        "create-time": 1617952546976,
+        ":block/refs": [
+          {
+            ":block/uid": "k5uFm31Qy"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "k5uFm31Qy"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "_gN-t-_OO",
+        "edit-time": 1617952549037,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[literature and art]]",
         "create-time": 1617708311983,
         ":block/refs": [
@@ -290,28 +334,6 @@
         ],
         "uid": "bY2Sb7e0S",
         "edit-time": 1617596327937,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "[[medicine]]",
-        "create-time": 1617653011555,
-        ":block/refs": [
-          {
-            ":block/uid": "Eehn_6om5"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "Eehn_6om5"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "PGj4XDqDv",
-        "edit-time": 1617653021731,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -932,6 +954,24 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[communication]]",
+        "refs": [
+          {
+            "uid": "Fh2E7OzbH"
+          }
+        ],
+        "uid": "Y-PegdAXG",
+        "edit-time": 1617959762529,
+        ":block/refs": [
+          {
+            ":block/uid": "Fh2E7OzbH"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[computer science (CS)]]",
         "create-time": 1617578764876,
@@ -4505,6 +4545,90 @@
         }
       },
       {
+        "string": "material...",
+        "create-time": 1617959984932,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "medium...",
+            "create-time": 1617959986023,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "((DIlh4P_3s))",
+                "create-time": 1617960143929,
+                ":block/refs": [
+                  {
+                    ":block/uid": "DIlh4P_3s"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "DIlh4P_3s"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Ddvel1Op0",
+                "edit-time": 1617960144880,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[liquid]]",
+                "create-time": 1617960090412,
+                ":block/refs": [
+                  {
+                    ":block/uid": "elNdFwNH7"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "elNdFwNH7"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "o5yTWkXie",
+                "edit-time": 1617960094430,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "qfU6t6GvB",
+            "edit-time": 1617959992911,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "raw material",
+            "create-time": 1617959992906,
+            "uid": "Ie8-Q6amw",
+            "edit-time": 1617959993827,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "En94X6bll",
+        "edit-time": 1617959986038,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "meta phys...",
         "children": [
           {
@@ -4776,6 +4900,28 @@
         },
         "uid": "GpwCekquk",
         "edit-time": 1617647291215,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[wave]]; wave theory",
+        "create-time": 1617960113427,
+        ":block/refs": [
+          {
+            ":block/uid": "ygzfOp1iW"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ygzfOp1iW"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "6LctqTo7J",
+        "edit-time": 1617960122320,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -8479,7 +8625,7 @@
                 }
               },
               {
-                "string": "[[reference point]]; [[reference object]]",
+                "string": "[[reference point]]; [[reference object]]; reference location",
                 "refs": [
                   {
                     "uid": "3ltM4MtEy"
@@ -8549,7 +8695,7 @@
                   }
                 ],
                 "uid": "ls-eUqsX-",
-                "edit-time": 1617654901934,
+                "edit-time": 1617953025552,
                 ":block/refs": [
                   {
                     ":block/uid": "3ltM4MtEy"
@@ -10761,12 +10907,162 @@
             },
             "children": [
               {
+                "string": "st",
+                "create-time": 1617953373075,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "sta",
+                    "create-time": 1617953373844,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "staff, 2",
+                        "uid": "FsawWojTx",
+                        "edit-time": 1617953375954,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "stance",
+                        "children": [
+                          {
+                            "string": "((WITF3p_Ln))",
+                            "create-time": 1617953387313,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "WITF3p_Ln"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "WITF3p_Ln"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "hnWWN-sY7",
+                            "edit-time": 1617953388736,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "AbgSaxTMq",
+                        "edit-time": 1617953375954,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "5wMCQPKvt",
+                    "edit-time": 1617953375250,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "mru2Ura4t",
+                "edit-time": 1617953373849,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "su",
                 "create-time": 1617942577445,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "children": [
+                  {
+                    "string": "sub",
+                    "create-time": 1617953328423,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "sub-",
+                        "create-time": 1617953343242,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "substance, 2",
+                            "children": [
+                              {
+                                "string": "substantial",
+                                "uid": "nlMyd6t1U",
+                                "edit-time": 1617953346284,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "WITF3p_Ln",
+                            "edit-time": 1617953346284,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "substitute: 替换; 置换; 取代; 代换; 代入",
+                            "children": [
+                              {
+                                "string": "substitution;",
+                                "uid": "ZQyMelUDI",
+                                "edit-time": 1617953346284,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "BhOF9A9X_",
+                            "edit-time": 1617953346284,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "subtract",
+                            "children": [
+                              {
+                                "string": "subtraction;",
+                                "uid": "5qby6qaG-",
+                                "edit-time": 1617953346284,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "CssWK3vdZ",
+                            "edit-time": 1617953346284,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "m5sE-2j4B",
+                        "edit-time": 1617953345311,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "7o6tMgpj5",
+                    "edit-time": 1617953329729,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
                   {
                     "string": "suffuse: 弥漫, 遍布, 充满;",
                     "uid": "6KivDwjhC",
@@ -19857,23 +20153,77 @@
                 }
               },
               {
-                "string": "Later on, we'll encounter other kinds of fields —gravitational fields, nuclear fields, Higgs fields, and so on —and [it will become increasingly clear that] [the field concept] is central to our [modern formulation of physical law]. But for now [the critical next step] in our story is also due to Maxwell. Upon [further analyzing] his equations, he found that [changes or disturbances to electromagnetic fields](((U9gddgdYK))) [travel in a wavelike manner] [at a particular speed]: 670 million miles per hour. As this is precisely the value other experiments had found for the speed of light, Maxwell realized that light must be nothing other than an electromagnetic wave, one that has the right properties to interact with chemicals in our retinas and give us the sensation of sight. This achievement made Maxwell's already towering discoveries all the more remarkable: he had linked the force produced by magnets, the influence exerted by electrical charges, and the light we use to see the universe —but it also raised a deep question.",
-                "create-time": 1617942449182,
-                ":block/refs": [
+                "edit-time": 1617952769203,
+                "children": [
                   {
-                    ":block/uid": "U9gddgdYK"
+                    "string": "When we say that [the speed of light] is 670 million miles per hour, experience, and our discussion so far, teach us this is [a meaningless statement] if we don't specify [relative to what] [this speed is being measured]. [The funny thing was that] Maxwell's equations [just gave this number], 670 million miles per hour, without specifying or [apparently relying on any such reference]. It was as if someone [gave the location for a party as] 22 miles north without [specifying the reference location](((ls-eUqsX-))), without specifying [north of what]. Most physicists, including Maxwell, [attempted to explain] [the speed his equations gave] [in the following way]: [Familiar waves such as] [ocean waves] or [sound waves] are [carried by a substance](((WITF3p_Ln))), a [medium](((qfU6t6GvB))). Ocean waves are carried by water. Sound waves are carried by air. And the speeds of these waves are specified with respect to the medium. When we talk about the speed of sound at room temperature being 767 miles per hour (also known as Mach 1, after the same Ernst Mach encountered earlier), we mean that sound waves travel through otherwise still air at this speed. Naturally, then, physicists surmised that light waves —electromagnetic waves —must also travel through some particular medium, one that had never been seen or detected but that must exist. To give this unseen light- carrying stuff due respect, it was given a name: the luminiferous aether, or the aether for short, the latter being an ancient term that Aristotle used to describe the magical catchall substance of which heavenly bodies were imagined to be made. And, to square this proposal with Maxwell's results, it was suggested that his equations implicitly took the perspective of some- one at rest with respect to the aether. The 670 million miles per hour his equations came up with, then, was the speed of light relative to the stationary aether.\n(一般来说，波都是由某种媒介物质所携带的，其波速即是波相对于媒介的速度)\n210409-15:31",
+                    "create-time": 1617952816782,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ls-eUqsX-"
+                      },
+                      {
+                        ":block/uid": "WITF3p_Ln"
+                      },
+                      {
+                        ":block/uid": "qfU6t6GvB"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ls-eUqsX-"
+                      },
+                      {
+                        "uid": "WITF3p_Ln"
+                      },
+                      {
+                        "uid": "qfU6t6GvB"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "f96KtNcMF",
+                    "edit-time": 1617960164973,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
                   {
                     "uid": "U9gddgdYK"
+                  },
+                  {
+                    "uid": "sQKvYyyDb"
+                  },
+                  {
+                    "uid": "r5pbwt70B"
+                  },
+                  {
+                    "uid": "b9uW7Qkyi"
                   }
                 ],
+                "uid": "vyYHra88O",
+                ":block/refs": [
+                  {
+                    ":block/uid": "U9gddgdYK"
+                  },
+                  {
+                    ":block/uid": "sQKvYyyDb"
+                  },
+                  {
+                    ":block/uid": "r5pbwt70B"
+                  },
+                  {
+                    ":block/uid": "b9uW7Qkyi"
+                  }
+                ],
+                "string": "Later on, we'll encounter other kinds of fields —gravitational fields, nuclear fields, Higgs fields, and so on —and [it will become increasingly clear that] [the field concept] is central to our [modern formulation of physical law]. But for now [the critical next step] in our story is also due to Maxwell. Upon [further analyzing] his equations, he found that [changes or disturbances to electromagnetic fields](((U9gddgdYK))) [travel in a wavelike manner] [at a particular speed]: 670 million miles per hour. As this is precisely the value other experiments had found for [the speed of light](((b9uW7Qkyi))), Maxwell realized that light [must be nothing other than] an [[electromagnetic wave]], one that [has the right properties to] [interact with chemicals] in our [[retinas]] and [give us the sensation of sight]. This achievement made Maxwell's [already towering discoveries] all the more remarkable: he had linked the force produced by magnets, the influence exerted by electrical charges, and the light we use to [see the universe] —but it also [raised a deep question].\n(进一步统一了光和电磁波)\n210409-15:18",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "vyYHra88O",
-                "edit-time": 1617943947312,
+                "create-time": 1617942449182,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -20115,27 +20465,69 @@
             }
           },
           {
-            "string": "electromagnetic wave",
+            "string": "[[electromagnetic wave]]",
+            "refs": [
+              {
+                "uid": "sQKvYyyDb"
+              }
+            ],
             "children": [
               {
-                "string": "energy distribution",
+                "string": "[[energy distribution]]",
+                "refs": [
+                  {
+                    "uid": "SOJ0PLHwE"
+                  }
+                ],
                 "uid": "aIhb0_sOj",
-                "edit-time": 1617922747161,
+                "edit-time": 1617952666597,
+                ":block/refs": [
+                  {
+                    ":block/uid": "SOJ0PLHwE"
+                  }
+                ],
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               },
               {
-                "string": "electromagnetic radiation",
+                "string": "[[electromagnetic radiation]]",
+                "refs": [
+                  {
+                    "uid": "oPloMHYm0"
+                  }
+                ],
                 "uid": "VCu_9Za46",
-                "edit-time": 1617922747161,
+                "edit-time": 1617952662276,
+                ":block/refs": [
+                  {
+                    ":block/uid": "oPloMHYm0"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "light speed; the speed of light",
+                "create-time": 1617952638049,
+                "uid": "b9uW7Qkyi",
+                "edit-time": 1617952639017,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               }
             ],
             "uid": "a-6HhjZ-B",
-            "edit-time": 1617922747161,
+            "edit-time": 1617952664873,
+            ":block/refs": [
+              {
+                ":block/uid": "sQKvYyyDb"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -20230,6 +20622,42 @@
             ":block/uid": "IfMXdCDxz"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1617960055122,
+        "children": [
+          {
+            "string": "anisotropic medium",
+            "create-time": 1617960074002,
+            "uid": "9E8hbO0nT",
+            "edit-time": 1617960075399,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "qfU6t6GvB"
+          }
+        ],
+        "uid": "h4YUthun5",
+        ":block/refs": [
+          {
+            ":block/uid": "qfU6t6GvB"
+          }
+        ],
+        "string": "((qfU6t6GvB))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617960054457,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -20964,6 +21392,28 @@
         },
         "uid": "NxYEXkWFd",
         "edit-time": 1617935116095,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((En94X6bll))",
+        "create-time": 1617960017347,
+        ":block/refs": [
+          {
+            ":block/uid": "En94X6bll"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "En94X6bll"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "j6lSq8nKp",
+        "edit-time": 1617960062486,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -22376,6 +22826,708 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617952433888,
+    "title": "electromagnetic wave",
+    "uid": "sQKvYyyDb",
+    "edit-time": 1617952433896,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617952451024,
+    "title": "retinas",
+    "uid": "r5pbwt70B",
+    "edit-time": 1617952451025,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617952549039,
+    "title": "life science",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "human interaction...",
+        "children": [
+          {
+            "string": "vision: 视觉",
+            "children": [
+              {
+                "string": "binocular vision",
+                "uid": "cxSoPL7iZ",
+                "edit-time": 1617952575470,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "human eye",
+                "uid": "DAhAz9K2F",
+                "edit-time": 1617952575470,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[retinas]]",
+                "refs": [
+                  {
+                    "uid": "r5pbwt70B"
+                  }
+                ],
+                "uid": "7c9YC1HZn",
+                "edit-time": 1617952583265,
+                ":block/refs": [
+                  {
+                    ":block/uid": "r5pbwt70B"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "PR7NHk4RN",
+            "edit-time": 1617952595246,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "listening...",
+            "children": [
+              {
+                "string": "hearing impairment",
+                "uid": "-ZGOABsBD",
+                "edit-time": 1617952575470,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "AOxT7ORZT",
+            "edit-time": 1617952575470,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "dHErt50R3",
+        "edit-time": 1617952575470,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[medicine]]",
+        "create-time": 1617952562394,
+        ":block/refs": [
+          {
+            ":block/uid": "Eehn_6om5"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Eehn_6om5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Q5pfuD5m4",
+        "edit-time": 1617952563171,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "k5uFm31Qy",
+    "edit-time": 1617952549039,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617952662278,
+    "title": "electromagnetic radiation",
+    "uid": "oPloMHYm0",
+    "edit-time": 1617952662279,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617952666600,
+    "title": "energy distribution",
+    "uid": "SOJ0PLHwE",
+    "edit-time": 1617952666600,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959306102,
+    "title": "culture",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[communication and media]]; media communications; 传播学; 传媒...",
+        "refs": [
+          {
+            "uid": "Qp0MegrBL"
+          }
+        ],
+        "uid": "ynRcz6m3f",
+        "edit-time": 1617959582495,
+        ":block/refs": [
+          {
+            ":block/uid": "Qp0MegrBL"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[moral panic]]",
+        "refs": [
+          {
+            "uid": "AldBdtKTg"
+          }
+        ],
+        "uid": "qAT64SU57",
+        "edit-time": 1617959333874,
+        ":block/refs": [
+          {
+            ":block/uid": "AldBdtKTg"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[popular culture]]",
+        "refs": [
+          {
+            "uid": "VDFbk4tj_"
+          }
+        ],
+        "uid": "Eh3AjJYTY",
+        "edit-time": 1617959332319,
+        ":block/refs": [
+          {
+            ":block/uid": "VDFbk4tj_"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "social activity",
+        "children": [
+          {
+            "string": "social interaction",
+            "uid": "m1xYcZB-w",
+            "edit-time": 1617959308063,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xq4pwktG8",
+        "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "2_13sc8dr",
+    "edit-time": 1617959306102,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959332322,
+    "title": "popular culture",
+    "uid": "VDFbk4tj_",
+    "edit-time": 1617959332322,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959333876,
+    "title": "moral panic",
+    "uid": "AldBdtKTg",
+    "edit-time": 1617959333876,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959342445,
+    "title": "television",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "television show",
+        "uid": "sZOaol5Gu",
+        "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "zQvgaMs5H",
+    "edit-time": 1617959342445,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959558517,
+    "title": "multi-media",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "animation...",
+        "uid": "5co9ZfXys",
+        "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[radio]]",
+        "refs": [
+          {
+            "uid": "qZMqkSwtM"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[radio station]]",
+            "refs": [
+              {
+                "uid": "a6Sc8A721"
+              }
+            ],
+            "uid": "3bo4XeI4b",
+            "edit-time": 1617959611082,
+            ":block/refs": [
+              {
+                ":block/uid": "a6Sc8A721"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ELxEVsgGM",
+        "edit-time": 1617959612748,
+        ":block/refs": [
+          {
+            ":block/uid": "qZMqkSwtM"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[video]]",
+        "refs": [
+          {
+            "uid": "dO9M3Rz6X"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[video player]]",
+            "refs": [
+              {
+                "uid": "0q9MjsWrq"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[Pot Player]]",
+                "refs": [
+                  {
+                    "uid": "HFb_sgTdd"
+                  }
+                ],
+                "uid": "G1dAS7YX2",
+                "edit-time": 1617959614208,
+                ":block/refs": [
+                  {
+                    ":block/uid": "HFb_sgTdd"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Rsiv1mgmf",
+            "edit-time": 1617959615299,
+            ":block/refs": [
+              {
+                ":block/uid": "0q9MjsWrq"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "RwYT-C29b",
+        "edit-time": 1617959616571,
+        ":block/refs": [
+          {
+            ":block/uid": "dO9M3Rz6X"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "1t840999q",
+    "edit-time": 1617959558518,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959575511,
+    "title": "conspiracy theory",
+    "uid": "ma4i4RLZU",
+    "edit-time": 1617959575513,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959582497,
+    "title": "communication and media",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[conspiracy theory]]",
+        "refs": [
+          {
+            "uid": "ma4i4RLZU"
+          }
+        ],
+        "uid": "GWff0zM8Z",
+        "edit-time": 1617959575509,
+        ":block/refs": [
+          {
+            ":block/uid": "ma4i4RLZU"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "extended universe",
+        "uid": "jy0rA22AE",
+        "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[multi-media]]",
+        "refs": [
+          {
+            "uid": "1t840999q"
+          }
+        ],
+        "uid": "3DaSHAGfV",
+        "edit-time": 1617959558515,
+        ":block/refs": [
+          {
+            ":block/uid": "1t840999q"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "news",
+        "children": [
+          {
+            "string": "BBC News",
+            "uid": "zS0D_IEJd",
+            "edit-time": 1617959308063,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "QcQcNNjco",
+        "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[television]]...",
+        "refs": [
+          {
+            "uid": "zQvgaMs5H"
+          }
+        ],
+        "uid": "mF2fblvXN",
+        "edit-time": 1617959342442,
+        ":block/refs": [
+          {
+            ":block/uid": "zQvgaMs5H"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Qp0MegrBL",
+    "edit-time": 1617959582498,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959612750,
+    "title": "radio",
+    "uid": "qZMqkSwtM",
+    "edit-time": 1617959612751,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959614211,
+    "title": "Pot Player",
+    "uid": "HFb_sgTdd",
+    "edit-time": 1617959614211,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959615301,
+    "title": "video player",
+    "uid": "0q9MjsWrq",
+    "edit-time": 1617959615301,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959616572,
+    "title": "video",
+    "uid": "dO9M3Rz6X",
+    "edit-time": 1617959616572,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959762531,
+    "title": "communication",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[telecommunication]]",
+        "refs": [
+          {
+            "uid": "Wxo2BAVhr"
+          }
+        ],
+        "uid": "f10tLfJvV",
+        "edit-time": 1617959785668,
+        ":block/refs": [
+          {
+            ":block/uid": "Wxo2BAVhr"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[telephone]]",
+        "refs": [
+          {
+            "uid": "-ZGnvYusa"
+          }
+        ],
+        "uid": "vgueVisWU",
+        "edit-time": 1617959784407,
+        ":block/refs": [
+          {
+            ":block/uid": "-ZGnvYusa"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Fh2E7OzbH",
+    "edit-time": 1617959762532,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959784410,
+    "title": "telephone",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[cellular telephone]]",
+        "create-time": 1617959786800,
+        ":block/refs": [
+          {
+            ":block/uid": "RIjZ5lrJZ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "RIjZ5lrJZ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "vC0fRMxDA",
+        "edit-time": 1617959790475,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "-ZGnvYusa",
+    "edit-time": 1617959784410,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617959785671,
+    "title": "telecommunication",
+    "uid": "Wxo2BAVhr",
+    "edit-time": 1617959785671,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617960094432,
+    "title": "liquid",
+    "uid": "elNdFwNH7",
+    "edit-time": 1617960094433,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1617960122323,
+    "title": "wave",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "elastic medium; elastic media; 弹性介质",
+        "children": [
+          {
+            "string": "elastic solid",
+            "uid": "cCF1AnDw3",
+            "edit-time": 1617960124401,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "DIlh4P_3s",
+        "edit-time": 1617960124401,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ygzfOp1iW",
+    "edit-time": 1617960122323,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

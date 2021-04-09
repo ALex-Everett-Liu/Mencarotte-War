@@ -1,3 +1,4 @@
+- [[culture]]
 - [[economy]]
 - [[education]]
 - [[engineering]]
@@ -5,12 +6,12 @@
 - [[geoscience]]
 - [[history]]
 - [[language]]
+- [[life science]]
 - [[literature and art]]
 - math and phys
     - [[chemistry]]
     - [[mathematics]]
     - [[physics]]
-- [[medicine]]
 - [[military]]
 - [[non-reality]]
 - personal
