@@ -6,3 +6,4 @@
     - [[optical effect]]
 - [[geometric optics]]
 - material...
+- [[wave optics]] / [[physical optics]]

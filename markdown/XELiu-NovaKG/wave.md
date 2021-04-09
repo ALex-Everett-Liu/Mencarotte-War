@@ -1,2 +1,8 @@
 - elastic medium; elastic media; 弹性介质
     - elastic solid
+- [[longitudinal wave]]
+    - [[sound wave]]
+        - [[sound speed]]; the speed of sound
+    - [[pressure wave]]
+        - compression and expansion of the material
+- [[wave optics]] / [[physical optics]]

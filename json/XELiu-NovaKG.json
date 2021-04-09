@@ -607,7 +607,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1617921937441,
+            "edit-time": 1618002972957,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -4900,6 +4900,34 @@
         },
         "uid": "GpwCekquk",
         "edit-time": 1617647291215,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[thermodynamics]]; [[statistical mechanics]]",
+        "create-time": 1618003234709,
+        ":block/refs": [
+          {
+            ":block/uid": "WndYX3Rhk"
+          },
+          {
+            ":block/uid": "W6JWiT15I"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WndYX3Rhk"
+          },
+          {
+            "uid": "W6JWiT15I"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "TZ8B2alL-",
+        "edit-time": 1618003247706,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -20156,17 +20184,47 @@
                 "edit-time": 1617952769203,
                 "children": [
                   {
-                    "string": "When we say that [the speed of light] is 670 million miles per hour, experience, and our discussion so far, teach us this is [a meaningless statement] if we don't specify [relative to what] [this speed is being measured]. [The funny thing was that] Maxwell's equations [just gave this number], 670 million miles per hour, without specifying or [apparently relying on any such reference]. It was as if someone [gave the location for a party as] 22 miles north without [specifying the reference location](((ls-eUqsX-))), without specifying [north of what]. Most physicists, including Maxwell, [attempted to explain] [the speed his equations gave] [in the following way]: [Familiar waves such as] [ocean waves] or [sound waves] are [carried by a substance](((WITF3p_Ln))), a [medium](((qfU6t6GvB))). Ocean waves are carried by water. Sound waves are carried by air. And the speeds of these waves are specified with respect to the medium. When we talk about the speed of sound at room temperature being 767 miles per hour (also known as Mach 1, after the same Ernst Mach encountered earlier), we mean that sound waves travel through otherwise still air at this speed. Naturally, then, physicists surmised that light waves —electromagnetic waves —must also travel through some particular medium, one that had never been seen or detected but that must exist. To give this unseen light- carrying stuff due respect, it was given a name: the luminiferous aether, or the aether for short, the latter being an ancient term that Aristotle used to describe the magical catchall substance of which heavenly bodies were imagined to be made. And, to square this proposal with Maxwell's results, it was suggested that his equations implicitly took the perspective of some- one at rest with respect to the aether. The 670 million miles per hour his equations came up with, then, was the speed of light relative to the stationary aether.\n(一般来说，波都是由某种媒介物质所携带的，其波速即是波相对于媒介的速度)\n210409-15:31",
-                    "create-time": 1617952816782,
-                    ":block/refs": [
+                    "edit-time": 1618003952537,
+                    "children": [
                       {
-                        ":block/uid": "ls-eUqsX-"
-                      },
-                      {
-                        ":block/uid": "WITF3p_Ln"
-                      },
-                      {
-                        ":block/uid": "qfU6t6GvB"
+                        "string": "Naturally, then, physicists surmised that [[light wave]]s —electromagnetic waves —must also [travel through some particular medium], one that [had never been seen or detected] but that must exist. To give [this unseen light-carrying stuff] due respect, 应有的尊重 it was given a name: the [luminiferous aether](((Xuq9V2ETn))), 发光以太 or the [[aether]] for short, the latter being [an ancient term] that [Aristotle used to describe] the [magical catchall substance] 装杂物的容器；总受器；分沫器 ; 包罗万象的 of which [heavenly bodies] were imagined to be made. And, to [square this proposal with] Maxwell's results, 相吻合 [it was suggested that] his equations implicitly [took the perspective of someone at rest] [with respect to the aether]. The 670 million miles per hour his equations came up with, then, was [the speed of light]([[light speed]]) [relative to the stationary aether].\n(一般来说，波都是由某种媒介物质所携带的，其波速即是波相对于媒介的速度)\n210409-15:31, 210410-05:31",
+                        "create-time": 1617952816782,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "dhYDaqKUy"
+                          },
+                          {
+                            ":block/uid": "Xuq9V2ETn"
+                          },
+                          {
+                            ":block/uid": "Z40kYp46A"
+                          },
+                          {
+                            ":block/uid": "DyGBwv9Is"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "dhYDaqKUy"
+                          },
+                          {
+                            "uid": "Xuq9V2ETn"
+                          },
+                          {
+                            "uid": "Z40kYp46A"
+                          },
+                          {
+                            "uid": "DyGBwv9Is"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "f96KtNcMF",
+                        "edit-time": 1618004210993,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "refs": [
@@ -20178,13 +20236,49 @@
                       },
                       {
                         "uid": "qfU6t6GvB"
+                      },
+                      {
+                        "uid": "TCwOZJO6F"
+                      },
+                      {
+                        "uid": "rwS5sVAdH"
                       }
                     ],
+                    "uid": "oK7_T7UMi",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ls-eUqsX-"
+                      },
+                      {
+                        ":block/uid": "WITF3p_Ln"
+                      },
+                      {
+                        ":block/uid": "qfU6t6GvB"
+                      },
+                      {
+                        ":block/uid": "TCwOZJO6F"
+                      },
+                      {
+                        ":block/uid": "rwS5sVAdH"
+                      }
+                    ],
+                    "string": "When we say that [the speed of light] is 670 million miles per hour, experience, and our discussion so far, teach us this is [a meaningless statement] if we don't specify [relative to what] [this speed is being measured]. [The funny thing was that] Maxwell's equations [just gave this number], 670 million miles per hour, without specifying or [apparently relying on any such reference]. It was as if someone [gave the location for a party as] 22 miles north without [specifying the reference location](((ls-eUqsX-))), without specifying [north of what]. Most physicists, including Maxwell, [attempted to explain] [the speed his equations gave] [in the following way]: [Familiar waves such as] [ocean waves] or [sound waves] are [carried by a substance](((WITF3p_Ln))), a [medium](((qfU6t6GvB))). Ocean waves are [carried by water]. Sound waves are [carried by air]. And the speeds of these waves are [specified with respect to the medium]. [When we talk about] [the speed of sound]([[sound speed]]) at [[room temperature]] being 767 miles per hour (__also known as Mach 1__, after the same Ernst Mach encountered earlier), we mean that sound waves [travel through otherwise still air] [at this speed]. ",
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    "uid": "f96KtNcMF",
-                    "edit-time": 1617960164973,
+                    "create-time": 1618003952537,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "As you can see, [there is a striking similarity between] the luminiferous aether and [Newton's absolute space]. They both [originated in attempts to] [provide a reference for] [defining motion]; accelerated motion led to absolute space, [light's motion] led to the luminiferous aether. In fact, many physicists [viewed the aether as] a down-to-earth stand-in for the divine spirit that Henry More, Newton, and others had envisioned permeating absolute space. (Newton and others in his age had even used the term \"aether\" in their descriptions of absolute space.) But what actually is the aether? What is it made of? Where did it come from? Does it exist everywhere? These questions about the aether are the same ones that for centuries had been asked about absolute space. But whereas the full Machian test for absolute space involved spinning around in a completely empty universe, physicists were able to propose doable experiments to determine whether the aether really existed. For example, if you swim through water toward an oncoming water wave, the wave approaches you more quickly; if you swim away from the wave, it approaches you more slowly. Similarly, if you move through the supposed aether toward or away from an oncoming light wave, the light wave's approach should, by the same reasoning, be faster or slower than 670 million miles per hour. But in 1887, when Albert Michelson and Edward Morley measured the speed of light, time and time again they found exactly the same speed of 670 million miles per hour regardless of their motion or that of the light's source. All sorts of clever arguments were devised to explain these results. Maybe, some suggested, the experimenters were unwittingly dragging the aether along with them as they moved. Maybe, a few ventured, the equipment was being warped as it moved through the aether, corrupting the measurements. But it was not until Einstein had his revolutionary insight that the explanation finally became clear.",
+                    "create-time": 1618004485562,
+                    "uid": "nCym2sR4v",
+                    "edit-time": 1618004574456,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -20509,13 +20603,45 @@
                 }
               },
               {
-                "string": "light speed; the speed of light",
-                "create-time": 1617952638049,
-                "uid": "b9uW7Qkyi",
-                "edit-time": 1617952639017,
+                "string": "((UlPALKSFZ))",
+                "create-time": 1618003731043,
+                ":block/refs": [
+                  {
+                    ":block/uid": "UlPALKSFZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "UlPALKSFZ"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "NEFJyh9G0",
+                "edit-time": 1618003732012,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[light speed]]; the speed of light",
+                "create-time": 1617952638049,
+                ":block/refs": [
+                  {
+                    ":block/uid": "DyGBwv9Is"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "DyGBwv9Is"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "b9uW7Qkyi",
+                "edit-time": 1618004179878,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -21414,6 +21540,34 @@
         },
         "uid": "j6lSq8nKp",
         "edit-time": 1617960062486,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[wave optics]] / [[physical optics]]",
+        "create-time": 1618002876276,
+        ":block/refs": [
+          {
+            ":block/uid": "5RB-_Mk5Z"
+          },
+          {
+            ":block/uid": "shxLE7dUd"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "5RB-_Mk5Z"
+          },
+          {
+            "uid": "shxLE7dUd"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ituOegCex",
+        "edit-time": 1618003599669,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -23524,10 +23678,748 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[longitudinal wave]]",
+        "refs": [
+          {
+            "uid": "XhzJU4C2l"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[sound wave]]",
+            "refs": [
+              {
+                "uid": "03G93sTA1"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[sound speed]]; the speed of sound",
+                "refs": [
+                  {
+                    "uid": "TCwOZJO6F"
+                  }
+                ],
+                "uid": "u_9xA_EGq",
+                "edit-time": 1618002891564,
+                ":block/refs": [
+                  {
+                    ":block/uid": "TCwOZJO6F"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "0110LNuHg",
+            "edit-time": 1618002892806,
+            ":block/refs": [
+              {
+                ":block/uid": "03G93sTA1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[pressure wave]]",
+            "refs": [
+              {
+                "uid": "FeY7KQh67"
+              }
+            ],
+            "children": [
+              {
+                "string": "compression and expansion of the material",
+                "uid": "2nZKFa1gV",
+                "edit-time": 1618002856814,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "tme9l_hUN",
+            "edit-time": 1618002890049,
+            ":block/refs": [
+              {
+                ":block/uid": "FeY7KQh67"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "LGnkZUHpY",
+        "edit-time": 1618002894319,
+        ":block/refs": [
+          {
+            ":block/uid": "XhzJU4C2l"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((ituOegCex))",
+        "create-time": 1618002881398,
+        ":block/refs": [
+          {
+            ":block/uid": "ituOegCex"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ituOegCex"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "yDB02PhKN",
+        "edit-time": 1618002883721,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "ygzfOp1iW",
     "edit-time": 1617960122323,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618002890051,
+    "title": "pressure wave",
+    "uid": "FeY7KQh67",
+    "edit-time": 1618002890051,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618002891566,
+    "title": "sound speed",
+    "uid": "TCwOZJO6F",
+    "edit-time": 1618002891566,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618002892809,
+    "title": "sound wave",
+    "uid": "03G93sTA1",
+    "edit-time": 1618002892809,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618002894321,
+    "title": "longitudinal wave",
+    "uid": "XhzJU4C2l",
+    "edit-time": 1618002894321,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003244332,
+    "title": "statistical mechanics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "statistical interpretation",
+        "create-time": 1618003255726,
+        "uid": "UaMW2Ycwn",
+        "edit-time": 1618003256615,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WndYX3Rhk",
+    "edit-time": 1618003244333,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003247708,
+    "title": "thermodynamics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "insulated enclosure",
+            "uid": "Uz4IdafQR",
+            "edit-time": 1618003261527,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "XQ7rj3Epa",
+        "edit-time": 1618003261527,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "radiative distribution of entropy",
+        "uid": "oTKMY3Pby",
+        "edit-time": 1618003261527,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[temperature]]",
+        "refs": [
+          {
+            "uid": "TakthP7H6"
+          }
+        ],
+        "uid": "Dip0EDIej",
+        "edit-time": 1618003298816,
+        ":block/refs": [
+          {
+            ":block/uid": "TakthP7H6"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "thermal equilibrium",
+        "children": [
+          {
+            "string": "thermodynamic equilibrium; thermodynamic equilibrium state",
+            "uid": "2qEY5ldZy",
+            "edit-time": 1618003271344,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "qy2zDWfaa",
+        "edit-time": 1618003271344,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "热力学三定律",
+        "children": [
+          {
+            "string": "absolute zero",
+            "uid": "AkXZdu0Ft",
+            "edit-time": 1618003281147,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "UNsiIn0sL",
+        "edit-time": 1618003271344,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "W6JWiT15I",
+    "edit-time": 1618003247708,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003292893,
+    "title": "effective temperature",
+    "uid": "1JbKDGuuv",
+    "edit-time": 1618003292893,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003294777,
+    "title": "room temperature",
+    "uid": "rwS5sVAdH",
+    "edit-time": 1618003294777,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003295945,
+    "title": "degree Celsius",
+    "uid": "lXcTbdAnY",
+    "edit-time": 1618003295945,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003298819,
+    "title": "temperature",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[degree Celsius]]",
+        "refs": [
+          {
+            "uid": "lXcTbdAnY"
+          }
+        ],
+        "uid": "722pZti4N",
+        "edit-time": 1618003295943,
+        ":block/refs": [
+          {
+            ":block/uid": "lXcTbdAnY"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((AkXZdu0Ft))",
+        "refs": [
+          {
+            "uid": "AkXZdu0Ft"
+          }
+        ],
+        "uid": "gsMVKPZRP",
+        "edit-time": 1618003285492,
+        ":block/refs": [
+          {
+            ":block/uid": "AkXZdu0Ft"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[room temperature]]",
+        "refs": [
+          {
+            "uid": "rwS5sVAdH"
+          }
+        ],
+        "uid": "Jkfd7gDuP",
+        "edit-time": 1618003294775,
+        ":block/refs": [
+          {
+            ":block/uid": "rwS5sVAdH"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[effective temperature]]",
+        "refs": [
+          {
+            "uid": "1JbKDGuuv"
+          }
+        ],
+        "uid": "-ZE8i9wJi",
+        "edit-time": 1618003292891,
+        ":block/refs": [
+          {
+            ":block/uid": "1JbKDGuuv"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "TakthP7H6",
+    "edit-time": 1618003298819,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003417891,
+    "title": "light wave",
+    "uid": "dhYDaqKUy",
+    "edit-time": 1618003417900,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003599679,
+    "title": "wave optics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[interference]]",
+        "refs": [
+          {
+            "uid": "saIgJdc_1"
+          }
+        ],
+        "uid": "IirHm8bRE",
+        "edit-time": 1618003766060,
+        ":block/refs": [
+          {
+            ":block/uid": "saIgJdc_1"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "the wave theory of light",
+        "children": [
+          {
+            "string": "[[aether]]; luminiferous aether",
+            "refs": [
+              {
+                "uid": "Z40kYp46A"
+              }
+            ],
+            "uid": "Xuq9V2ETn",
+            "edit-time": 1618003910801,
+            ":block/refs": [
+              {
+                ":block/uid": "Z40kYp46A"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "electromagnetic theory of light",
+            "children": [
+              {
+                "string": "statistical manifestation",
+                "uid": "v3z7dKiMy",
+                "edit-time": 1618003601548,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "UlPALKSFZ",
+            "edit-time": 1618003601548,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((b9uW7Qkyi))",
+            "create-time": 1618003718440,
+            ":block/refs": [
+              {
+                ":block/uid": "b9uW7Qkyi"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "b9uW7Qkyi"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "xZ2K85q-T",
+            "edit-time": 1618003719356,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "the wave nature of light; [[light wave]]",
+            "refs": [
+              {
+                "uid": "dhYDaqKUy"
+              }
+            ],
+            "children": [
+              {
+                "string": "the nature of light",
+                "uid": "MfTZGKCU9",
+                "edit-time": 1618003601548,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "anEg5JZvr",
+            "edit-time": 1618003688256,
+            ":block/refs": [
+              {
+                ":block/uid": "dhYDaqKUy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "s_mr_n4of",
+        "edit-time": 1618003601548,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "5RB-_Mk5Z",
+    "edit-time": 1618003599680,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003599679,
+    "title": "physical optics",
+    "uid": "shxLE7dUd",
+    "edit-time": 1618003599680,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003691025,
+    "title": "aether",
+    "uid": "Z40kYp46A",
+    "edit-time": 1618003691025,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003766062,
+    "title": "interference",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[double-slit experiment]]",
+        "refs": [
+          {
+            "uid": "Igl9UIx3N"
+          }
+        ],
+        "children": [
+          {
+            "string": "parallel slit;",
+            "uid": "_aLFylMbL",
+            "edit-time": 1618003762364,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "detected photon;",
+            "uid": "L2pkFFwDw",
+            "edit-time": 1618003762364,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "SSJipLC-6",
+        "edit-time": 1618003796673,
+        ":block/refs": [
+          {
+            ":block/uid": "Igl9UIx3N"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "in phase; out of phase",
+        "uid": "TY-EgfCxZ",
+        "edit-time": 1618003762364,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "interfere constructively; interfere destructively",
+        "uid": "1Bjj05lfq",
+        "edit-time": 1618003762364,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[interference pattern]]",
+        "refs": [
+          {
+            "uid": "kvKycbwL3"
+          }
+        ],
+        "children": [
+          {
+            "string": "accumulating spots",
+            "uid": "XO8MXI827",
+            "edit-time": 1618003762364,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "blip-by-blip assembly; point-by-point assembly",
+            "uid": "5IIP5I-a2",
+            "edit-time": 1618003762364,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "bright and dark bands",
+            "uid": "n08E00bD8",
+            "edit-time": 1618003762364,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[interference fringe]]",
+            "refs": [
+              {
+                "uid": "d5b4bf_2-"
+              }
+            ],
+            "uid": "h73OOVBIo",
+            "edit-time": 1618003784062,
+            ":block/refs": [
+              {
+                ":block/uid": "d5b4bf_2-"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "cPGfxqAZ5",
+        "edit-time": 1618003785638,
+        ":block/refs": [
+          {
+            ":block/uid": "kvKycbwL3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "saIgJdc_1",
+    "edit-time": 1618003766062,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003784065,
+    "title": "interference fringe",
+    "uid": "d5b4bf_2-",
+    "edit-time": 1618003784066,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003785640,
+    "title": "interference pattern",
+    "uid": "kvKycbwL3",
+    "edit-time": 1618003785640,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618003796675,
+    "title": "double-slit experiment",
+    "uid": "Igl9UIx3N",
+    "edit-time": 1618003796676,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618004162058,
+    "title": "light speed",
+    "uid": "DyGBwv9Is",
+    "edit-time": 1618004162061,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

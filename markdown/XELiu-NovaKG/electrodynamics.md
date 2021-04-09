@@ -13,7 +13,8 @@
     - [[electromagnetic wave]]
         - [[energy distribution]]
         - [[electromagnetic radiation]]
-        - light speed; the speed of light
+        - electromagnetic theory of light
+        - [[light speed]]; the speed of light
     - [[magnetic field]]
         - auxiliary field vector
         - magnetic force

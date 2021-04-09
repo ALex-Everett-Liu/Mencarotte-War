@@ -1,0 +1,8 @@
+- [[interference]]
+- the wave theory of light
+    - [[aether]]; luminiferous aether
+    - electromagnetic theory of light
+        - statistical manifestation
+    - [[light speed]]; the speed of light
+    - the wave nature of light; [[light wave]]
+        - the nature of light
