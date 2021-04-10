@@ -3,7 +3,13 @@
     - capture light
     - [[light distribution]]
     - light pulse
+    - oncoming light
     - [[optical effect]]
 - [[geometric optics]]
+- [[light source]]; optical source
+    - additional light source
+    - coherent light source
+    - monochromatic beam
+    - single incident beam
 - material...
 - [[wave optics]] / [[physical optics]]

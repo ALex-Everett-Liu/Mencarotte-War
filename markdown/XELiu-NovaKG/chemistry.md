@@ -1,0 +1,9 @@
+- [[chemical bonding]]
+- [[chemical element]]
+    - isotope: 同位素
+    - isomer: 异构体
+        - enantiomer
+        - superposable
+    - [[periodic table of elements]]
+- [[computational chemistry]]; computer chemistry
+- [[quantum chemistry]]

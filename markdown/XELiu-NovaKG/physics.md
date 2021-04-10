@@ -4,6 +4,7 @@
     - [[optics]]
 - [[astrophysics]]
 - [[classical mechanics]]
+- [[computational physics]]
 - [[electrodynamics]]
 - [[experimental physics]]; [[experimental physicist]]
 - field

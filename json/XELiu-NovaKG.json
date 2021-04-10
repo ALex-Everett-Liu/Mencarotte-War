@@ -607,7 +607,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1618002972957,
+            "edit-time": 1618017385804,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -617,9 +617,9 @@
           },
           {
             "string": "",
-            "create-time": 1617570848327,
-            "uid": "omHnjHXm7",
-            "edit-time": 1617734703608,
+            "create-time": 1618017353562,
+            "uid": "UKCZUE324",
+            "edit-time": 1618017373653,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -1105,19 +1105,51 @@
     },
     "children": [
       {
-        "string": "[[file management]]",
-        "refs": [
+        "string": "management...",
+        "create-time": 1618011452267,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
           {
-            "uid": "KDtukqRyB"
+            "string": "[[file management]]",
+            "refs": [
+              {
+                "uid": "KDtukqRyB"
+              }
+            ],
+            "uid": "MRclbAZo7",
+            "edit-time": 1617620129247,
+            ":block/refs": [
+              {
+                ":block/uid": "KDtukqRyB"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[time management]]",
+            "refs": [
+              {
+                "uid": "D-JRo0ZvD"
+              }
+            ],
+            "uid": "3_my4m8fS",
+            "edit-time": 1618011460798,
+            ":block/refs": [
+              {
+                ":block/uid": "D-JRo0ZvD"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
-        "uid": "MRclbAZo7",
-        "edit-time": 1617620129247,
-        ":block/refs": [
-          {
-            ":block/uid": "KDtukqRyB"
-          }
-        ],
+        "uid": "LvvEaZ4JT",
+        "edit-time": 1618011456482,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -4161,6 +4193,28 @@
         }
       },
       {
+        "string": "[[computational physics]]",
+        "create-time": 1618014478991,
+        ":block/refs": [
+          {
+            ":block/uid": "et4-zBGf9"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "et4-zBGf9"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "TpxMHGhcm",
+        "edit-time": 1618014481097,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[electrodynamics]]",
         "create-time": 1617921748742,
         ":block/refs": [
@@ -5022,11 +5076,139 @@
   {
     "create-time": 1617596363703,
     "title": "chemistry",
-    "uid": "zvenI0sCb",
-    "edit-time": 1617596363704,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[chemical bonding]]",
+        "refs": [
+          {
+            "uid": "Hj4vcrS60"
+          }
+        ],
+        "uid": "Ez7VpsZUX",
+        "edit-time": 1618014431445,
+        ":block/refs": [
+          {
+            ":block/uid": "Hj4vcrS60"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[chemical element]]",
+        "refs": [
+          {
+            "uid": "QiVzjJSvZ"
+          }
+        ],
+        "children": [
+          {
+            "string": "isotope: 同位素",
+            "uid": "7QiOy4-YR",
+            "edit-time": 1618014431445,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "isomer: 异构体",
+            "children": [
+              {
+                "string": "enantiomer",
+                "uid": "f3SCECMZ6",
+                "edit-time": 1618014431445,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "superposable",
+                "uid": "nUQEdXNzu",
+                "edit-time": 1618014431445,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "7CrKo-BEi",
+            "edit-time": 1618014431445,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[periodic table of elements]]",
+            "refs": [
+              {
+                "uid": "WHhdevGzX"
+              }
+            ],
+            "uid": "6XE_zrOS1",
+            "edit-time": 1618014431445,
+            ":block/refs": [
+              {
+                ":block/uid": "WHhdevGzX"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "P8ta946qG",
+        "edit-time": 1618014431445,
+        ":block/refs": [
+          {
+            ":block/uid": "QiVzjJSvZ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[computational chemistry]]; computer chemistry",
+        "refs": [
+          {
+            "uid": "G-JzmtCkR"
+          }
+        ],
+        "uid": "qYne9sZhq",
+        "edit-time": 1618014431445,
+        ":block/refs": [
+          {
+            ":block/uid": "G-JzmtCkR"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[quantum chemistry]]",
+        "refs": [
+          {
+            "uid": "2298muUiT"
+          }
+        ],
+        "uid": "Ki4UDF86o",
+        "edit-time": 1618014453274,
+        ":block/refs": [
+          {
+            ":block/uid": "2298muUiT"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "zvenI0sCb",
+    "edit-time": 1617596363704,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -14598,6 +14780,20 @@
             "uid": "tWm0_2ye0"
           }
         ],
+        "children": [
+          {
+            "string": "divine spirit: 圣灵",
+            "create-time": 1618004755535,
+            "uid": "mxIRSFAXK",
+            "edit-time": 1618010946671,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "mPzsMYSYB",
         "edit-time": 1617670787642,
         ":block/refs": [
@@ -18105,6 +18301,28 @@
     },
     "children": [
       {
+        "string": "((Ki4UDF86o))",
+        "create-time": 1618014462486,
+        ":block/refs": [
+          {
+            ":block/uid": "Ki4UDF86o"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Ki4UDF86o"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "uQ0TBjfzs",
+        "edit-time": 1618014463612,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1617780004528,
         "children": [
           {
@@ -20272,13 +20490,59 @@
                     }
                   },
                   {
-                    "string": "As you can see, [there is a striking similarity between] the luminiferous aether and [Newton's absolute space]. They both [originated in attempts to] [provide a reference for] [defining motion]; accelerated motion led to absolute space, [light's motion] led to the luminiferous aether. In fact, many physicists [viewed the aether as] a down-to-earth stand-in for the divine spirit that Henry More, Newton, and others had envisioned permeating absolute space. (Newton and others in his age had even used the term \"aether\" in their descriptions of absolute space.) But what actually is the aether? What is it made of? Where did it come from? Does it exist everywhere? These questions about the aether are the same ones that for centuries had been asked about absolute space. But whereas the full Machian test for absolute space involved spinning around in a completely empty universe, physicists were able to propose doable experiments to determine whether the aether really existed. For example, if you swim through water toward an oncoming water wave, the wave approaches you more quickly; if you swim away from the wave, it approaches you more slowly. Similarly, if you move through the supposed aether toward or away from an oncoming light wave, the light wave's approach should, by the same reasoning, be faster or slower than 670 million miles per hour. But in 1887, when Albert Michelson and Edward Morley measured the speed of light, time and time again they found exactly the same speed of 670 million miles per hour regardless of their motion or that of the light's source. All sorts of clever arguments were devised to explain these results. Maybe, some suggested, the experimenters were unwittingly dragging the aether along with them as they moved. Maybe, a few ventured, the equipment was being warped as it moved through the aether, corrupting the measurements. But it was not until Einstein had his revolutionary insight that the explanation finally became clear.",
-                    "create-time": 1618004485562,
-                    "uid": "nCym2sR4v",
-                    "edit-time": 1618004574456,
+                    "edit-time": 1618005054218,
+                    "children": [
+                      {
+                        "string": "But whereas the [full Machian test] for absolute space involved [spinning around in] [a completely empty universe], physicists were able to [propose doable experiments] to determine [whether the aether really existed]. For example, if you [swim through water toward] [an oncoming water wave], the wave [approaches you more quickly]; if you swim away from the wave, it approaches you more slowly. Similarly, if you [move through the supposed aether] toward or away from [an oncoming light wave](((VAOE1-lQL))), the light wave's approach should, by the same reasoning, be faster or slower than 670 million miles per hour. But in 1887, when [Albert Michelson] and [Edward Morley] [measured the speed of light], [time and time again] they found [exactly the same speed] of 670 million miles per hour [regardless of their motion] or that of [the light's source](((ZDhfzP3Tq))). [All sorts of clever arguments] were [devised to explain these results]. Maybe, some suggested, the experimenters were [unwittingly dragging the aether along with them](((cnLh3V5x_))) as they moved. Maybe, a few ventured, [the equipment was being warped] [as it moved through the aether], corrupting the measurements. But it was not until Einstein had his [revolutionary insight] that [the explanation finally became clear].\n(发光以太与绝对空间的实质极其接近，也都被视作为神圣精神的化身-区别在于，以太是否存在是可以设计实验验证的，而绝对空间不行-实验装置拖曳周围的以太-实验装置通过以太时发生弯曲变形)",
+                        "create-time": 1618004485562,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "VAOE1-lQL"
+                          },
+                          {
+                            ":block/uid": "ZDhfzP3Tq"
+                          },
+                          {
+                            ":block/uid": "cnLh3V5x_"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "VAOE1-lQL"
+                          },
+                          {
+                            "uid": "ZDhfzP3Tq"
+                          },
+                          {
+                            "uid": "cnLh3V5x_"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "nCym2sR4v",
+                        "edit-time": 1618010778033,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "mxIRSFAXK"
+                      }
+                    ],
+                    "uid": "TFvymQHkZ",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "mxIRSFAXK"
+                      }
+                    ],
+                    "string": "As you can see, [there is a striking similarity between] the luminiferous aether and [Newton's absolute space]. They both [originated in attempts to] [provide a reference for] [defining motion]; accelerated motion led to absolute space, [light's motion] led to the luminiferous aether. In fact, many physicists [viewed the aether as] [a down-to-earth stand-in for] 切合实际的神圣精神之代行职务者 the [divine spirit](((mxIRSFAXK))) that Henry More, Newton, and others had envisioned [permeating absolute space]. (Newton and [others in his age] had even used the term \"aether\" [in their descriptions of] absolute space.) But what actually is the aether? What is it made of? Where did it come from? Does it exist everywhere? These questions about the aether are the same ones that [for centuries had been asked] about absolute space. ",
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
+                    "create-time": 1618005054218,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -20351,6 +20615,46 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617921212719,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 2
+      },
+      {
+        "edit-time": 1618010824296,
+        "children": [
+          {
+            "string": "In June 1905, Einstein wrote a paper with the unassuming title \"On the Electrodynamics of Moving Bodies,\" which once and for all spelled the end of the luminiferous aether. In one stroke, it also changed forever our understanding of space and time. Einstein formulated the ideas in the paper over an intense five-week period in April and May 1905, but the issues it finally laid to rest had been gnawing at him for over a decade. As a teenager, Einstein struggled with the question of what a light wave would look like if you were to chase after it at exactly light speed. Since you and the light wave would be zipping through the aether at exactly the same speed, you would be keeping perfect pace with the light. And so, Einstein concluded, from your perspective the light should appear as though it wasn't moving. You should be able to reach out and grab a handful of motionless light just as you can scoop up a handful of newly fallen snow.",
+            "create-time": 1618010855169,
+            "uid": "Qt8ynjuXp",
+            "edit-time": 1618010855172,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "But here's the problem. It turns out that Maxwell's equations do not allow light to appear stationary—to look as if it's standing still. And certainly, there is no reliable report of anyone's ever actually catching hold of a stationary clump of light. So, the teenage Einstein asked, what are we to make of this apparent paradox?",
+            "create-time": 1618010855169,
+            "uid": "40fD7D2-v",
+            "edit-time": 1618010860187,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "text-align": "center",
+        "uid": "zMe3FYuIb",
+        "string": "Relative Space, Relative Time",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618010823826,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -21476,6 +21780,18 @@
             }
           },
           {
+            "string": "oncoming light",
+            "create-time": 1618005030093,
+            "uid": "VAOE1-lQL",
+            "edit-time": 1618005031093,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[optical effect]]",
             "refs": [
               {
@@ -21518,6 +21834,58 @@
         },
         "uid": "NxYEXkWFd",
         "edit-time": 1617935116095,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[light source]]; optical source",
+        "refs": [
+          {
+            "uid": "G6D06IGFy"
+          }
+        ],
+        "children": [
+          {
+            "string": "additional light source",
+            "uid": "yERH77uHw",
+            "edit-time": 1618009822598,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "coherent light source",
+            "uid": "D-y7eu9j6",
+            "edit-time": 1618009822598,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "monochromatic beam",
+            "uid": "brtYqsUux",
+            "edit-time": 1618009822598,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "single incident beam",
+            "uid": "m3gWN4l38",
+            "edit-time": 1618009822598,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ZDhfzP3Tq",
+        "edit-time": 1618009831982,
+        ":block/refs": [
+          {
+            ":block/uid": "G6D06IGFy"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -22010,6 +22378,28 @@
             ],
             "uid": "IlYM8ibDk",
             "edit-time": 1617931394823,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Obsidian 第三方插件威廉推荐单第002期/共8款（包含一款必备 CSS）](https://zhuanlan.zhihu.com/p/363522207) #pt9",
+            "create-time": 1618009594953,
+            ":block/refs": [
+              {
+                ":block/uid": "7jsr38N4d"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7jsr38N4d"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "LQnPaodiN",
+            "edit-time": 1618009606138,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -24131,6 +24521,20 @@
                 "uid": "Z40kYp46A"
               }
             ],
+            "children": [
+              {
+                "string": "drag the aether",
+                "create-time": 1618009984685,
+                "uid": "cnLh3V5x_",
+                "edit-time": 1618009986142,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
             "uid": "Xuq9V2ETn",
             "edit-time": 1618003910801,
             ":block/refs": [
@@ -24417,6 +24821,312 @@
     "title": "light speed",
     "uid": "DyGBwv9Is",
     "edit-time": 1618004162061,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618009606141,
+    "title": "pt9",
+    "uid": "7jsr38N4d",
+    "edit-time": 1618009606141,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618009831985,
+    "title": "light source",
+    "uid": "G6D06IGFy",
+    "edit-time": 1618009831986,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618011460799,
+    "title": "time management",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[RescueTime]]",
+        "refs": [
+          {
+            "uid": "uENlE3JiZ"
+          }
+        ],
+        "uid": "QMX93bw85",
+        "edit-time": 1618011467323,
+        ":block/refs": [
+          {
+            ":block/uid": "uENlE3JiZ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "spend time",
+        "uid": "V67uY8Lo9",
+        "edit-time": 1618011448601,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "D-JRo0ZvD",
+    "edit-time": 1618011460800,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618011467326,
+    "title": "RescueTime",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1618011472228,
+        "children": [
+          {
+            "string": "[129 yuan](https://sspai.com/item/93), 绝对的好价！可惜已售罄; 给少数派这傻逼组织来卖真的是糟蹋了 #pt10-100",
+            "create-time": 1618011472223,
+            ":block/refs": [
+              {
+                ":block/uid": "Kp4t9aQO7"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kp4t9aQO7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "9-k7Edu1N",
+            "edit-time": 1618011567336,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "FdKnUTK7d",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618011468913,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "uENlE3JiZ",
+    "edit-time": 1618011467327,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618014431440,
+    "title": "chemical element",
+    "uid": "QiVzjJSvZ",
+    "edit-time": 1618014431445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618014431441,
+    "title": "periodic table of elements",
+    "uid": "WHhdevGzX",
+    "edit-time": 1618014431445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618014431441,
+    "title": "computational chemistry",
+    "uid": "G-JzmtCkR",
+    "edit-time": 1618014431445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618014431439,
+    "title": "chemical bonding",
+    "uid": "Hj4vcrS60",
+    "edit-time": 1618014431445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618014453278,
+    "title": "quantum chemistry",
+    "uid": "2298muUiT",
+    "edit-time": 1618014453278,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618014481099,
+    "title": "computational physics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((qYne9sZhq))",
+        "create-time": 1618014487153,
+        ":block/refs": [
+          {
+            ":block/uid": "qYne9sZhq"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "qYne9sZhq"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "3mGdRClYS",
+        "edit-time": 1618014488305,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "et4-zBGf9",
+    "edit-time": 1618014481099,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618017332416,
+    "title": "A complete beginner’s guide to Computer Programming with Clojure",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Part 9 — Regular Expressions (REGEX).]]",
+        "create-time": 1618017373647,
+        ":block/refs": [
+          {
+            ":block/uid": "HTcu_OaZ3"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "HTcu_OaZ3"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "1YGI24nnt",
+        "edit-time": 1618017378195,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Qf9MuyXwB",
+    "edit-time": 1618017332417,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618017378197,
+    "title": "Part 9 — Regular Expressions (REGEX).",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Part 9 — A complete beginner’s guide to Computer Programming with Clojure: Regular Expressions (REGEX).",
+        "create-time": 1618017386287,
+        "uid": "ah1olzBwr",
+        "edit-time": 1618017386629,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1618017387496,
+        "uid": "JDmR7pva-",
+        "edit-time": 1618017387496,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "HTcu_OaZ3",
+    "edit-time": 1618017378197,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019004366,
+    "title": "April 10th, 2021",
+    "uid": "04-10-2021",
+    "edit-time": 1618019004366,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

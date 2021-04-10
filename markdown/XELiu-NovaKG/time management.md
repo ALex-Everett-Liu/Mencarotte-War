@@ -1,0 +1,2 @@
+- [[RescueTime]]
+- spend time

@@ -1,4 +1,6 @@
-- [[file management]]
+- management...
+    - [[file management]]
+    - [[time management]]
 - [[note-taking]]; note-taking tool
 - style...
 - [[text editor]]
