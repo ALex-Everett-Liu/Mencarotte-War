@@ -163,6 +163,13 @@
                         - politician;
             - ponder
                 - pondered;
+        - pr
+            - pro
+                - [[protagonist]]
+                - provide
+                    - provided, 2; provider
+                    - single provider;
+                - province
     - r
         - re
             - res

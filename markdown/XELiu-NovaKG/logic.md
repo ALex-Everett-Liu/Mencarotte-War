@@ -1,0 +1,4 @@
+- abstract...
+    - abstract noun
+- [[cognitive bias]]
+- [[heuristic]]

@@ -37,6 +37,7 @@
     - raw material
 - meta phys...
     - [[reality]]; [[physical reality]]
+    - [[reductionism]] v.s. [[emergence]]?
     - #inbox
         - 还有搞[圈量子]的 Rovelli 也有不少[科哲方面的论述](https://www.zhihu.com/question/453060681)可以关注 #pt10-99.99
             - 读读这本论文集: Why trust a theory? - epistemology of fundamental physics, Cambridge University Press (2019)

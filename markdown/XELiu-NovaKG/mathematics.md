@@ -3,3 +3,4 @@
         - digit: 位
         - [[whole number]]
             - decimal whole number
+- [[logic]]

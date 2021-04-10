@@ -1,2 +1,14 @@
-- existential
+- existential; [[existential philosophy]]
+- general...
+    - collective view;
+- [[logic]]
+- [[metaphysics]]
+- [[methodology]]...
+- [[science philosophy]]...
+- [[skepticism]]
 - [[theology]]
+- truth
+    - the pursuit of truth
+- ultimate question
+- value...
+    - life value; the meaning of life

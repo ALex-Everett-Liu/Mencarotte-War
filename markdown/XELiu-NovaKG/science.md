@@ -1,2 +1,9 @@
+- general...
+    - scientific development; scientific progress
+    - scientific fact
+    - [[scientific inquiry]]
+    - scientific methodology...
+    - scientific opinion
 - [[popularize of science]]; popular science
     - [[Scientific American]]
+- [[science philosophy]]...
