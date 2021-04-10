@@ -1,12 +1,11 @@
 - line...
-    - indentation
-        - indentation style?
-            - rainbow indentation
+    - [[indentation]]
     - line terminator
     - linebreak; line break
-    - new line; newline character
+    - new line; [[newline]]; newline character
     - return character
     - separate lines
     - all in one line
     - line-by-line changes
     - line number
+- [[symbol]]; 标点符号;

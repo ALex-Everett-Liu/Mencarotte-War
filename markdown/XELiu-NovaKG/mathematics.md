@@ -1,0 +1,5 @@
+- general...
+    - number
+        - digit: 位
+        - [[whole number]]
+            - decimal whole number

@@ -5360,11 +5360,73 @@
   {
     "create-time": 1617596362719,
     "title": "mathematics",
-    "uid": "Yt0Vp4KAw",
-    "edit-time": 1617596362720,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "number",
+            "children": [
+              {
+                "string": "digit: 位",
+                "create-time": 1618035073501,
+                "uid": "U7IM89CV6",
+                "edit-time": 1618035074423,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[whole number]]",
+                "refs": [
+                  {
+                    "uid": "D_xVos9bJ"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "decimal whole number",
+                    "uid": "Pbd1zn_eU",
+                    "edit-time": 1618034992016,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "6ikjj9RC2",
+                "edit-time": 1618035000389,
+                ":block/refs": [
+                  {
+                    ":block/uid": "D_xVos9bJ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "FAQPe08bO",
+            "edit-time": 1618034992016,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yIj3AaICL",
+        "edit-time": 1618034992016,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Yt0Vp4KAw",
+    "edit-time": 1617596362720,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -25553,6 +25615,100 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "edit-time": 1618030542794,
+            "children": [
+              {
+                "string": "For our Year pattern above, **[0–9] **is any number. If we wanted, instead of **0–9**, we could also use **\\d** to [specify decimal whole numbers](((Pbd1zn_eU))). 指定十进制整数 So, **[0–9]{3} **is any [three-digit number](((U7IM89CV6))) e.g. 496. Which can also be written as** [\\d]{3}**.",
+                "create-time": 1618034910036,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Pbd1zn_eU"
+                  },
+                  {
+                    ":block/uid": "U7IM89CV6"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Pbd1zn_eU"
+                  },
+                  {
+                    "uid": "U7IM89CV6"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "8j4Up0GVa",
+                "edit-time": 1618035081869,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Consider the following:\n`(re-find #”\\d+” “abc12345def678”)\n“12345”`\nSo what happened to “678”?",
+                "create-time": 1618035106773,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "The [re-find command](((vmHG6WKas))) [looks for the first instance of] [a REGEX pattern]. Hence, [as soon as it found] [a sequence of numbers] (as indicated by **#”\\d+”**, which is the same as **[0–9]+**), it stopped and [returned the result].\n210410-14:11",
+                    "create-time": 1618035129884,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "vmHG6WKas"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "vmHG6WKas"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "Tm7D26j2n",
+                    "edit-time": 1618035234058,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "sx8XI4p2s",
+                "edit-time": 1618035129759,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8xbuoFY3r"
+              },
+              {
+                "uid": "EqMQNFYN9"
+              }
+            ],
+            "uid": "5CqtcYVy6",
+            ":block/refs": [
+              {
+                ":block/uid": "8xbuoFY3r"
+              },
+              {
+                ":block/uid": "EqMQNFYN9"
+              }
+            ],
+            "string": "Returning to our REGEX explanation, we see just before the dollar **$** [sign]([[dollar sign]]), a **+**. The **+** symbol [indicates one or more]. Next, [[curly bracket]]s are used to [specify the number of instances] for the [previous pattern]. For example, when we needed to create a year filter, we used {3}.\n`#”^[12][0–9]{3}$”`",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618030415105,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -25778,17 +25934,17 @@
         ],
         "children": [
           {
-            "string": "[[backslash]]",
+            "string": "((PeYIfYT1W))",
             "refs": [
               {
-                "uid": "CSkJgbyqy"
+                "uid": "PeYIfYT1W"
               }
             ],
             "uid": "J-OGoJhvd",
-            "edit-time": 1618025901852,
+            "edit-time": 1618030956529,
             ":block/refs": [
               {
-                ":block/uid": "CSkJgbyqy"
+                ":block/uid": "PeYIfYT1W"
               }
             ],
             ":edit/user": {
@@ -25816,39 +25972,35 @@
         }
       },
       {
-        "string": "[[literal hyphen]]: 文字连字符",
-        "refs": [
-          {
-            "uid": "U4w9H4uqs"
-          }
-        ],
-        "children": [
-          {
-            "string": "[[subtraction command]]",
-            "refs": [
-              {
-                "uid": "BUjqthh1Y"
-              }
-            ],
-            "uid": "SJb7KY5-N",
-            "edit-time": 1618025898824,
-            ":block/refs": [
-              {
-                ":block/uid": "BUjqthh1Y"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "YDu-x7ivU",
-        "edit-time": 1618025900971,
+        "string": "re-find command",
+        "create-time": 1618035214135,
+        "uid": "vmHG6WKas",
+        "edit-time": 1618035215062,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((tbfO7hq3Y))",
+        "create-time": 1618030812834,
         ":block/refs": [
           {
-            ":block/uid": "U4w9H4uqs"
+            ":block/uid": "tbfO7hq3Y"
           }
         ],
+        "refs": [
+          {
+            "uid": "tbfO7hq3Y"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "fi0m8p1Xg",
+        "edit-time": 1618030813776,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -26193,29 +26345,19 @@
         "string": "line...",
         "children": [
           {
-            "string": "indentation",
-            "children": [
+            "string": "[[indentation]]",
+            "refs": [
               {
-                "string": "indentation style?",
-                "children": [
-                  {
-                    "string": "rainbow indentation",
-                    "uid": "DoAzJ2kkq",
-                    "edit-time": 1618026189800,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  }
-                ],
-                "uid": "uyO1X_fao",
-                "edit-time": 1618026189800,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
+                "uid": "OITSfayjC"
               }
             ],
             "uid": "sVBbAwATJ",
-            "edit-time": 1618026189800,
+            "edit-time": 1618028527226,
+            ":block/refs": [
+              {
+                ":block/uid": "OITSfayjC"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -26237,9 +26379,19 @@
             }
           },
           {
-            "string": "new line; newline character",
+            "string": "new line; [[newline]]; newline character",
+            "refs": [
+              {
+                "uid": "xklmWTGRr"
+              }
+            ],
             "uid": "H2iyqKo2T",
-            "edit-time": 1618026189800,
+            "edit-time": 1618028601679,
+            ":block/refs": [
+              {
+                ":block/uid": "xklmWTGRr"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -26290,10 +26442,578 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[symbol]]; 标点符号;",
+        "create-time": 1618030790317,
+        ":block/refs": [
+          {
+            ":block/uid": "RxbCEumIN"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "RxbCEumIN"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "tbfO7hq3Y",
+        "edit-time": 1618030794149,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "Le16Mo5DM",
     "edit-time": 1618026188235,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618028527228,
+    "title": "indentation",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "indentation style?",
+        "children": [
+          {
+            "string": "[[rainbow indentation]]",
+            "refs": [
+              {
+                "uid": "MRTnBv4ax"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[box shadow]]",
+                "create-time": 1618028569728,
+                ":block/refs": [
+                  {
+                    ":block/uid": "sU8dfmfuU"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "sU8dfmfuU"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "GljdJqvjP",
+                "edit-time": 1618028573296,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "DoAzJ2kkq",
+            "edit-time": 1618028525879,
+            ":block/refs": [
+              {
+                ":block/uid": "MRTnBv4ax"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "uyO1X_fao",
+        "edit-time": 1618026189800,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "OITSfayjC",
+    "edit-time": 1618028527229,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618030440305,
+    "title": "dollar sign",
+    "uid": "8xbuoFY3r",
+    "edit-time": 1618030440306,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618030542796,
+    "title": "curly bracket",
+    "uid": "EqMQNFYN9",
+    "edit-time": 1618030542797,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618030794151,
+    "title": "symbol",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "abbreviation",
+        "uid": "CQTQoXSOW",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "brace",
+        "uid": "_C_kjyZi1",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[bracket]]",
+        "refs": [
+          {
+            "uid": "D5CbdO7FN"
+          }
+        ],
+        "uid": "eEvdTPuIf",
+        "edit-time": 1618030993656,
+        ":block/refs": [
+          {
+            ":block/uid": "D5CbdO7FN"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[caret]]: 脱字符, 插入光标;",
+        "refs": [
+          {
+            "uid": "pppByyW2z"
+          }
+        ],
+        "uid": "KQjbPwZzx",
+        "edit-time": 1618031021749,
+        ":block/refs": [
+          {
+            ":block/uid": "pppByyW2z"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[comma]]",
+        "refs": [
+          {
+            "uid": "MxqBmjH-F"
+          }
+        ],
+        "uid": "FpBGAmqCN",
+        "edit-time": 1618031019278,
+        ":block/refs": [
+          {
+            ":block/uid": "MxqBmjH-F"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[dollar sign]]",
+        "refs": [
+          {
+            "uid": "8xbuoFY3r"
+          }
+        ],
+        "uid": "V37e-2USC",
+        "edit-time": 1618031017984,
+        ":block/refs": [
+          {
+            ":block/uid": "8xbuoFY3r"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "full-width symbol",
+        "uid": "fo54rVqR8",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[literal hyphen]]: 文字连字符",
+        "refs": [
+          {
+            "uid": "U4w9H4uqs"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[subtraction command]]",
+            "refs": [
+              {
+                "uid": "BUjqthh1Y"
+              }
+            ],
+            "uid": "SJb7KY5-N",
+            "edit-time": 1618025898824,
+            ":block/refs": [
+              {
+                ":block/uid": "BUjqthh1Y"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "YDu-x7ivU",
+        "edit-time": 1618025900971,
+        ":block/refs": [
+          {
+            ":block/uid": "U4w9H4uqs"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "notation",
+        "children": [
+          {
+            "string": "notational hierarchy",
+            "uid": "7nC62mfcI",
+            "edit-time": 1618030857885,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ODiILREBJ",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[parenthesis]]; parentheses",
+        "refs": [
+          {
+            "uid": "p8clU17cH"
+          }
+        ],
+        "uid": "Wp15gZ40N",
+        "edit-time": 1618030905550,
+        ":block/refs": [
+          {
+            ":block/uid": "p8clU17cH"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "period; full stop",
+        "children": [
+          {
+            "string": "[[literal period]]",
+            "refs": [
+              {
+                "uid": "7tQcodJvY"
+              }
+            ],
+            "uid": "1XDk3Ul8D",
+            "edit-time": 1618030915599,
+            ":block/refs": [
+              {
+                ":block/uid": "7tQcodJvY"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "sB2dbNvHf",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "preceding symbol",
+        "uid": "J_fN0eeOB",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "punctuation mark",
+        "uid": "rG9pWmN2J",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[quote]]",
+        "refs": [
+          {
+            "uid": "llZ8DdliS"
+          }
+        ],
+        "uid": "zN7N-bc4H",
+        "edit-time": 1618030977707,
+        ":block/refs": [
+          {
+            ":block/uid": "llZ8DdliS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "slash",
+        "children": [
+          {
+            "string": "forward slash; [[backslash]]",
+            "refs": [
+              {
+                "uid": "CSkJgbyqy"
+              }
+            ],
+            "uid": "PeYIfYT1W",
+            "edit-time": 1618030952242,
+            ":block/refs": [
+              {
+                ":block/uid": "CSkJgbyqy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "29a9oa-Pi",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "RxbCEumIN",
+    "edit-time": 1618030794151,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618030905552,
+    "title": "parenthesis",
+    "uid": "p8clU17cH",
+    "edit-time": 1618030905553,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618030915601,
+    "title": "literal period",
+    "uid": "7tQcodJvY",
+    "edit-time": 1618030915601,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618030977709,
+    "title": "quote",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "single quote; double quotes",
+        "uid": "X20axEodm",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "scare quotes",
+        "uid": "1afFWA44V",
+        "edit-time": 1618030857885,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "llZ8DdliS",
+    "edit-time": 1618030977711,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618030993659,
+    "title": "bracket",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[curly bracket]]",
+        "refs": [
+          {
+            "uid": "EqMQNFYN9"
+          }
+        ],
+        "uid": "p-qZzb_0c",
+        "edit-time": 1618031004927,
+        ":block/refs": [
+          {
+            ":block/uid": "EqMQNFYN9"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[open bracket]]",
+        "refs": [
+          {
+            "uid": "h7C3cQf7B"
+          }
+        ],
+        "uid": "y7MUtiHm8",
+        "edit-time": 1618031003358,
+        ":block/refs": [
+          {
+            ":block/uid": "h7C3cQf7B"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[square bracket]]",
+        "refs": [
+          {
+            "uid": "KfI9R1hVt"
+          }
+        ],
+        "uid": "yvHVVkElh",
+        "edit-time": 1618031002129,
+        ":block/refs": [
+          {
+            ":block/uid": "KfI9R1hVt"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "D5CbdO7FN",
+    "edit-time": 1618030993659,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618031002131,
+    "title": "square bracket",
+    "uid": "KfI9R1hVt",
+    "edit-time": 1618031002132,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618031003359,
+    "title": "open bracket",
+    "uid": "h7C3cQf7B",
+    "edit-time": 1618031003359,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618031019280,
+    "title": "comma",
+    "uid": "MxqBmjH-F",
+    "edit-time": 1618031019281,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618031021751,
+    "title": "caret",
+    "uid": "pppByyW2z",
+    "edit-time": 1618031021751,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618035000390,
+    "title": "whole number",
+    "uid": "D_xVos9bJ",
+    "edit-time": 1618035000391,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

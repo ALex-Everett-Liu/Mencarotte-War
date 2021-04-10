@@ -6,3 +6,12 @@
 `#”^[0–9xX\-]+$”`
     - The REGEX [followed a pattern], **#”filter”** . The filter usually starts with a **^** to [indicate the beginning of a line](((7ffsv6tS9))), and a **$** [for the end of a line]. [Square brackets] **[ ]** contain the [specific REGEX pattern]. For our ISBN, we [wanted all numbers] and the letter **X** [in both upper and lower case]. In addition, we required a hyphen **-**. To ensure we got a [[literal hyphen]], and not a [[subtraction command]], we used an [[escape character]]. The escape character is provided by a [[backslash]] **\**.
         - An escape character is used to [tell the computer] to [use the following character] [in a non-standard way]. For example, the letter **n** is [simply interpreted as] the character **n**. However, if we [escape the letter] **n** with a backslash** \**, we now [get a newline]([[newline]]) **\n**.
+    - Returning to our REGEX explanation, we see just before the dollar **$** [sign]([[dollar sign]]), a **+**. The **+** symbol [indicates one or more]. Next, [[curly bracket]]s are used to [specify the number of instances] for the [previous pattern]. For example, when we needed to create a year filter, we used {3}.
+`#”^[12][0–9]{3}$”`
+        - For our Year pattern above, **[0–9] **is any number. If we wanted, instead of **0–9**, we could also use **\d** to [specify decimal whole numbers](((Pbd1zn_eU))). 指定十进制整数 So, **[0–9]{3} **is any [three-digit number](((U7IM89CV6))) e.g. 496. Which can also be written as** [\d]{3}**.
+        - Consider the following:
+`(re-find #”\d+” “abc12345def678”)
+“12345”`
+So what happened to “678”?
+            - The [re-find command](((vmHG6WKas))) [looks for the first instance of] [a REGEX pattern]. Hence, [as soon as it found] [a sequence of numbers] (as indicated by **#”\d+”**, which is the same as **[0–9]+**), it stopped and [returned the result].
+210410-14:11

@@ -1,5 +1,5 @@
 - [[escape character]]
-    - [[backslash]]
+    - forward slash; [[backslash]]
 - indicate the beginning of a line
-- [[literal hyphen]]: 文字连字符
-    - [[subtraction command]]
+- re-find command
+- [[symbol]]; 标点符号;

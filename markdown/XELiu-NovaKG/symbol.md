@@ -1,0 +1,19 @@
+- abbreviation
+- brace
+- [[bracket]]
+- [[caret]]: 脱字符, 插入光标;
+- [[comma]]
+- [[dollar sign]]
+- full-width symbol
+- [[literal hyphen]]: 文字连字符
+    - [[subtraction command]]
+- notation
+    - notational hierarchy
+- [[parenthesis]]; parentheses
+- period; full stop
+    - [[literal period]]
+- preceding symbol
+- punctuation mark
+- [[quote]]
+- slash
+    - forward slash; [[backslash]]
