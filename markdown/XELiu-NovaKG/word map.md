@@ -65,6 +65,10 @@
                     - grapple with: 扭打, 抓住;
                 - gray
                     - grey;
+        - gu
+            - guide
+                - misguided;
+            - guise: 表现形式; 外貌; 伪装
     - i
         - in
             - inc
@@ -148,13 +152,29 @@
                 - pattern
                     - develop the pattern; standard pattern; orderly pattern
         - pe
+            - pen
+                - penal
+                    - penalty
+                        - penalties;
+                - pend
+                    - pendular
+                        - pendulum
+                - penetrate
+                    - impenetrate
+                        - impenetrable;
             - per
                 - perform
                     - performed; performing
                     - perform the experiment; 
+                - peri-
+                    - period: 句点;
+                        - periodic; periodically
+                    - periscope
                 - permeate: 弥漫, 遍布; 渗透;
                     - permeating;
                 - perpendicular
+                - perplex
+                    - perplexing;
         - po
             - police
                 - polite

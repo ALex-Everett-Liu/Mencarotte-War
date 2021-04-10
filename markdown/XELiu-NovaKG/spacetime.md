@@ -1,0 +1,17 @@
+- absolute conception of space and time
+    - [[absolute space]]
+        - an absolute conception of acceleration
+    - Newtonian worldview
+- a discrete structure of space
+- [[empty space]]
+    - existential; [[existential philosophy]]
+    - [[relationist position]]: 关系论
+        - [[independent existence]]; independent reality; relative
+            - [[real entity]]
+- space dimension
+    - extra spatial dimensions
+    - space point
+    - three-dimensional space; three dimensional space...
+- [[time arrow]]; time direction
+    - asymmetry of time;
+    - time-symmetric;

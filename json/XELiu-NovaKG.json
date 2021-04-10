@@ -607,7 +607,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1618046084746,
+            "edit-time": 1618064906119,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -4664,7 +4664,12 @@
         "string": "general...",
         "children": [
           {
-            "string": "abstract...",
+            "string": "((hcVXZeMDi))",
+            "refs": [
+              {
+                "uid": "hcVXZeMDi"
+              }
+            ],
             "children": [
               {
                 "string": "[[abstract idea]]",
@@ -4728,7 +4733,12 @@
               }
             ],
             "uid": "0vvx7_tui",
-            "edit-time": 1617728167532,
+            "edit-time": 1618064221958,
+            ":block/refs": [
+              {
+                ":block/uid": "hcVXZeMDi"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -4883,9 +4893,19 @@
                 }
               },
               {
-                "string": "real entity",
+                "string": "[[real entity]]",
+                "refs": [
+                  {
+                    "uid": "vKraPcagD"
+                  }
+                ],
                 "uid": "z2tQi4CgP",
-                "edit-time": 1617658374458,
+                "edit-time": 1618064184756,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vKraPcagD"
+                  }
+                ],
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -5276,6 +5296,28 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617601101313,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[quantum gravity]]; quantum gravity theory",
+        "create-time": 1618065611397,
+        ":block/refs": [
+          {
+            ":block/uid": "8GUpf6kWQ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8GUpf6kWQ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Z5egU4sxz",
+        "edit-time": 1618065616091,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -5680,17 +5722,43 @@
         "string": "general...",
         "children": [
           {
-            "string": "scientific development; scientific progress",
+            "string": "[[scientific development]]; [[scientific progress]]",
+            "refs": [
+              {
+                "uid": "wQ2EBIPMm"
+              },
+              {
+                "uid": "wq3hvzPFJ"
+              }
+            ],
             "uid": "TiiS7DS3J",
-            "edit-time": 1618046122942,
+            "edit-time": 1618064449559,
+            ":block/refs": [
+              {
+                ":block/uid": "wQ2EBIPMm"
+              },
+              {
+                ":block/uid": "wq3hvzPFJ"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "scientific fact",
+            "string": "[[scientific fact]]",
+            "refs": [
+              {
+                "uid": "WG2n9syRt"
+              }
+            ],
             "uid": "w4Eub8JVg",
-            "edit-time": 1618046122942,
+            "edit-time": 1618064451967,
+            ":block/refs": [
+              {
+                ":block/uid": "WG2n9syRt"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -5722,9 +5790,19 @@
             }
           },
           {
-            "string": "scientific opinion",
+            "string": "[[scientific opinion]]",
+            "refs": [
+              {
+                "uid": "umAzGKeHM"
+              }
+            ],
             "uid": "avE7cQZb0",
-            "edit-time": 1618046122942,
+            "edit-time": 1618064240283,
+            ":block/refs": [
+              {
+                ":block/uid": "umAzGKeHM"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -6214,6 +6292,200 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "create-time": 1617310994186,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1618048521735,
+                "children": [
+                  {
+                    "edit-time": 1618064898804,
+                    "children": [
+                      {
+                        "string": "We then [encounter subsequent discoveries] that [transformed the question once again] by redefining the meaning of \"empty,\" envisioning that space is unavoidably [suffused with] what are called [[quantum field]]s and possibly a [diffuse uniform energy](((AjJr-pCcp))) called a [[cosmological constant]]—[modern echoes of] the [old and discredited notion] of a [space-filling aether]([[aether]]). What's more, we then describe how upcoming [[space-based experiment]]s may [confirm particular features of] Mach's conclusions that [happen to agree with] Einstein's [[general relativity]], illustrating well the fascinating and [tangled web] of [[scientific development]].\n(空间是空的吗-是一种真正的实体还是抽象概念-量子场和宇宙常数-充满空间的以太这个概念的现代回响)\n210402-05:25, 05:44",
+                        "create-time": 1617311605864,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "PxK4ieXED"
+                          },
+                          {
+                            ":block/uid": "_RskAkVuC"
+                          },
+                          {
+                            ":block/uid": "Z40kYp46A"
+                          },
+                          {
+                            ":block/uid": "49XSmPF0a"
+                          },
+                          {
+                            ":block/uid": "wQ2EBIPMm"
+                          },
+                          {
+                            ":block/uid": "AjJr-pCcp"
+                          },
+                          {
+                            ":block/uid": "Xcdct1Sf8"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "PxK4ieXED"
+                          },
+                          {
+                            "uid": "_RskAkVuC"
+                          },
+                          {
+                            "uid": "Z40kYp46A"
+                          },
+                          {
+                            "uid": "49XSmPF0a"
+                          },
+                          {
+                            "uid": "wQ2EBIPMm"
+                          },
+                          {
+                            "uid": "AjJr-pCcp"
+                          },
+                          {
+                            "uid": "Xcdct1Sf8"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "8gDNgIoMu",
+                        "edit-time": 1618065938270,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "U7hdbrsKu"
+                      },
+                      {
+                        "uid": "gYcXKdluT"
+                      },
+                      {
+                        "uid": "ffGo-PIx-"
+                      },
+                      {
+                        "uid": "HP88EcTnX"
+                      },
+                      {
+                        "uid": "bmeg137-W"
+                      },
+                      {
+                        "uid": "vKraPcagD"
+                      },
+                      {
+                        "uid": "umAzGKeHM"
+                      }
+                    ],
+                    "uid": "GBTJmtTQj",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "U7hdbrsKu"
+                      },
+                      {
+                        ":block/uid": "gYcXKdluT"
+                      },
+                      {
+                        ":block/uid": "ffGo-PIx-"
+                      },
+                      {
+                        ":block/uid": "HP88EcTnX"
+                      },
+                      {
+                        ":block/uid": "bmeg137-W"
+                      },
+                      {
+                        ":block/uid": "vKraPcagD"
+                      },
+                      {
+                        ":block/uid": "umAzGKeHM"
+                      }
+                    ],
+                    "string": "For example, on the [perplexing question](((HP88EcTnX))) of whether [completely empty space]([[empty space]]) is, like [a blank canvas], 画布, 帆布 a [[real entity]] or merely an [[abstract idea]], we [follow the pendulum of](((bmeg137-W))) [[scientific opinion]] as it swings between Isaac Newton's seventeenth-century declaration that space is real, [[Ernst Mach]]'s conclusion in the nineteenth century that it isn't, and Einstein's twentieth-century dramatic [reformulation of the question itself], in which he [merged space and time], and largely refuted Mach. 驳倒 ",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1617312345496,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "In our own era we encounter [[inflationary cosmology]]'s [gratifying insights into] [time's arrow]([[time arrow]]), 令人兴奋的洞见 [[string theory]]'s rich assortment of [extra spatial dimensions](((nVe8Psp5u))), [[M-theory]]'s radical suggestion 激进的设想 that [the space we inhabit] may be but [a sliver floating in a grander cosmos], 在一个更广阔的宇宙中漂浮的[薄片, 成小片, 剖成长条] and the [current wild speculation] that [the universe we see] [may be nothing more than] a [[cosmic hologram]]. [We don't yet know] if [the more recent of] these [theoretical proposals] are right. But outrageous as they sound, we [take them seriously] because they are where our [dogged search] for [the deepest laws of the universe] leads. Not only can [a strange and unfamiliar reality] arise from the [fertile imagination] of science fiction, but one may also emerge from the [cutting-edge findings] of [modem physics]. 前沿发现\n210402-06:05",
+                    "create-time": 1618065855703,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "GfLgx8iHI"
+                      },
+                      {
+                        ":block/uid": "Uwhjmr3xa"
+                      },
+                      {
+                        ":block/uid": "nVe8Psp5u"
+                      },
+                      {
+                        ":block/uid": "hM_Sa1szh"
+                      },
+                      {
+                        ":block/uid": "FPisikLq7"
+                      },
+                      {
+                        ":block/uid": "gBRXwT9KP"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "GfLgx8iHI"
+                      },
+                      {
+                        "uid": "Uwhjmr3xa"
+                      },
+                      {
+                        "uid": "nVe8Psp5u"
+                      },
+                      {
+                        "uid": "hM_Sa1szh"
+                      },
+                      {
+                        "uid": "FPisikLq7"
+                      },
+                      {
+                        "uid": "gBRXwT9KP"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "cVrpRwChB",
+                    "edit-time": 1618065915049,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9VJNkwZfz"
+                  }
+                ],
+                "uid": "q-ZYS95m0",
+                ":block/refs": [
+                  {
+                    ":block/uid": "9VJNkwZfz"
+                  }
+                ],
+                "string": "Many of [the questions we explore] are the same ones that, [in various guises](((9VJNkwZfz))), [furrowed the brows of] Aristotle, Galileo, Newton, Einstein, and countless others through the ages. And because this book seeks to convey science in the making, we follow these questions as they've been declared answered by one generation, overturned by their successors, and refined and reinterpreted 提炼和重新解释 by scientists in the centuries that followed.",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1618048521429,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -8705,173 +8977,19 @@
         }
       },
       {
-        "string": "space and time",
-        "children": [
+        "string": "space and time; [[spacetime]]",
+        "refs": [
           {
-            "string": "absolute conception of space and time",
-            "children": [
-              {
-                "edit-time": 1617658280613,
-                "children": [
-                  {
-                    "string": "an absolute conception of acceleration",
-                    "create-time": 1617708868714,
-                    "uid": "A9dYpN98c",
-                    "edit-time": 1617708870225,
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "OqumjAbRW"
-                  }
-                ],
-                "uid": "xKhID6UWO",
-                ":block/refs": [
-                  {
-                    ":block/uid": "OqumjAbRW"
-                  }
-                ],
-                "string": "[[absolute space]]",
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "create-time": 1617658279684,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "Newtonian worldview",
-                "uid": "RU4Ebt98p",
-                "edit-time": 1617647278460,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "s54v9I_DO",
-            "edit-time": 1617647278460,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[empty space]]",
-            "refs": [
-              {
-                "uid": "U7hdbrsKu"
-              }
-            ],
-            "children": [
-              {
-                "string": "((HyaLG0isG))",
-                "create-time": 1617737632389,
-                ":block/refs": [
-                  {
-                    ":block/uid": "HyaLG0isG"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "HyaLG0isG"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "E9-mysksD",
-                "edit-time": 1617737633341,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "[[relationist position]]: 关系论",
-                "refs": [
-                  {
-                    "uid": "liSO_DqYx"
-                  }
-                ],
-                "children": [
-                  {
-                    "edit-time": 1617685368980,
-                    "children": [
-                      {
-                        "string": "((z2tQi4CgP))",
-                        "create-time": 1617685391863,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "z2tQi4CgP"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "z2tQi4CgP"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        },
-                        "uid": "xcniClIyd",
-                        "edit-time": 1617685393324,
-                        ":edit/user": {
-                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "UoE10Q9R3"
-                      }
-                    ],
-                    "uid": "hSSedE0Wg",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "UoE10Q9R3"
-                      }
-                    ],
-                    "string": "[[independent existence]]; independent reality; relative",
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "create-time": 1617671672717,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  }
-                ],
-                "uid": "L8bC0Pri7",
-                "edit-time": 1617673230740,
-                ":block/refs": [
-                  {
-                    ":block/uid": "liSO_DqYx"
-                  }
-                ],
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "Fgjp3ggKF",
-            "edit-time": 1617647313155,
-            ":block/refs": [
-              {
-                ":block/uid": "U7hdbrsKu"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
+            "uid": "T8Wy5g8LJ"
           }
         ],
         "uid": "bdFCA4aQj",
-        "edit-time": 1617647278460,
+        "edit-time": 1618065432011,
+        ":block/refs": [
+          {
+            ":block/uid": "T8Wy5g8LJ"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -9097,14 +9215,14 @@
             }
           },
           {
-            "string": "[[inflationary cosmology]]",
+            "string": "[[inflationary cosmology]]: 暴涨宇宙学 ",
             "refs": [
               {
                 "uid": "GfLgx8iHI"
               }
             ],
             "uid": "8FpleTwnz",
-            "edit-time": 1617648087768,
+            "edit-time": 1618065920180,
             ":block/refs": [
               {
                 ":block/uid": "GfLgx8iHI"
@@ -9151,6 +9269,70 @@
         }
       },
       {
+        "string": "[[cosmic evolution]]",
+        "refs": [
+          {
+            "uid": "et-9uGbRQ"
+          }
+        ],
+        "uid": "vsOIkWIXl",
+        "edit-time": 1618064854079,
+        ":block/refs": [
+          {
+            ":block/uid": "et-9uGbRQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[cosmological constant]]",
+        "refs": [
+          {
+            "uid": "Xcdct1Sf8"
+          }
+        ],
+        "children": [
+          {
+            "string": "diffuse uniform energy: 弥散的均匀的能量 ",
+            "uid": "AjJr-pCcp",
+            "edit-time": 1618065943264,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "SLcdnYUmQ",
+        "edit-time": 1618064852153,
+        ":block/refs": [
+          {
+            ":block/uid": "Xcdct1Sf8"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[cosmic microwave background radiation (CBR)]]",
+        "refs": [
+          {
+            "uid": "nErmD8HNW"
+          }
+        ],
+        "uid": "7vntzgJRF",
+        "edit-time": 1618064828654,
+        ":block/refs": [
+          {
+            ":block/uid": "nErmD8HNW"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[quantum cosmology]]",
         "refs": [
           {
@@ -9180,6 +9362,24 @@
             "string": "the amount of matter in the universe; material content; matter content",
             "uid": "Nl1IfbT79",
             "edit-time": 1617899791896,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[observable universe]]",
+            "refs": [
+              {
+                "uid": "rT06c55k0"
+              }
+            ],
+            "uid": "QSyfDvF2x",
+            "edit-time": 1618064859853,
+            ":block/refs": [
+              {
+                ":block/uid": "rT06c55k0"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -10655,6 +10855,46 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "gu",
+                "create-time": 1617311755585,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "guide",
+                    "children": [
+                      {
+                        "string": "misguided;",
+                        "uid": "2eNjKCwDH",
+                        "edit-time": 1618048503652,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "-jxksghyl",
+                    "edit-time": 1618048503652,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "guise: 表现形式; 外貌; 伪装",
+                    "uid": "9VJNkwZfz",
+                    "edit-time": 1618048503652,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "wOoeRq5LS",
+                "edit-time": 1618048503652,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "T8MfNAHGg",
@@ -11544,6 +11784,104 @@
                 },
                 "children": [
                   {
+                    "string": "pen",
+                    "create-time": 1617312080094,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "penal",
+                        "children": [
+                          {
+                            "string": "penalty",
+                            "children": [
+                              {
+                                "string": "penalties;",
+                                "uid": "6_R3wgY5S",
+                                "edit-time": 1618048619691,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "GKXeQRrvI",
+                            "edit-time": 1618048619691,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "QBGdPPRjK",
+                        "edit-time": 1618048619691,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "pend",
+                        "children": [
+                          {
+                            "string": "pendular",
+                            "children": [
+                              {
+                                "string": "pendulum",
+                                "uid": "bmeg137-W",
+                                "edit-time": 1618048619691,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "Ue-9bItzg",
+                            "edit-time": 1618048619691,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "QQLa00_8F",
+                        "edit-time": 1618048619691,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "penetrate",
+                        "children": [
+                          {
+                            "string": "impenetrate",
+                            "children": [
+                              {
+                                "string": "impenetrable;",
+                                "uid": "IZvN36UEX",
+                                "edit-time": 1618048619691,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "0t25wGwx6",
+                            "edit-time": 1618048619691,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "hYzebUYge",
+                        "edit-time": 1618048619691,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "Rydu-30Hy",
+                    "edit-time": 1618048619691,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "per",
                     "create-time": 1617729445900,
                     ":create/user": {
@@ -11587,6 +11925,42 @@
                         }
                       },
                       {
+                        "string": "peri-",
+                        "children": [
+                          {
+                            "string": "period: 句点;",
+                            "children": [
+                              {
+                                "string": "periodic; periodically",
+                                "uid": "SEe5BD3_h",
+                                "edit-time": 1618048565154,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "VMWdqq0dN",
+                            "edit-time": 1618048565154,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "periscope",
+                            "uid": "lTcsD4aph",
+                            "edit-time": 1618048565154,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "FoW7fFDw-",
+                        "edit-time": 1618048565154,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "permeate: 弥漫, 遍布; 渗透;",
                         "children": [
                           {
@@ -11608,6 +11982,24 @@
                         "string": "perpendicular",
                         "uid": "XTLPEheE0",
                         "edit-time": 1617936675074,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "perplex",
+                        "children": [
+                          {
+                            "string": "perplexing;",
+                            "uid": "HP88EcTnX",
+                            "edit-time": 1618048565154,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "cJCg-zBiU",
+                        "edit-time": 1618048565154,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -19256,6 +19648,34 @@
         },
         "uid": "uQ0TBjfzs",
         "edit-time": 1618014463612,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[quantum field]]; [[quantum field theory]]",
+        "create-time": 1618064312131,
+        ":block/refs": [
+          {
+            ":block/uid": "49XSmPF0a"
+          },
+          {
+            ":block/uid": "aQO-qOZ5-"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "49XSmPF0a"
+          },
+          {
+            "uid": "aQO-qOZ5-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "uvgQctPzG",
+        "edit-time": 1618064318010,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -27899,6 +28319,856 @@
     "title": "science philosophy",
     "uid": "ncTCMN83C",
     "edit-time": 1618046343626,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064184761,
+    "title": "real entity",
+    "uid": "vKraPcagD",
+    "edit-time": 1618064184762,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064240287,
+    "title": "scientific opinion",
+    "uid": "umAzGKeHM",
+    "edit-time": 1618064240287,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064318012,
+    "title": "quantum field",
+    "uid": "49XSmPF0a",
+    "edit-time": 1618064318013,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064318012,
+    "title": "quantum field theory",
+    "uid": "aQO-qOZ5-",
+    "edit-time": 1618064318013,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064449562,
+    "title": "scientific development",
+    "uid": "wQ2EBIPMm",
+    "edit-time": 1618064449562,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064449562,
+    "title": "scientific progress",
+    "uid": "wq3hvzPFJ",
+    "edit-time": 1618064449562,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064451969,
+    "title": "scientific fact",
+    "uid": "WG2n9syRt",
+    "edit-time": 1618064451970,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064828658,
+    "title": "cosmic microwave background radiation (CBR)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "microwave radiation",
+        "uid": "QE-xbeBrC",
+        "edit-time": 1618064818492,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "uniform temperature; uniformity",
+        "uid": "meAR1q0YE",
+        "edit-time": 1618064818492,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "dictionary ",
+        "create-time": 1618064951241,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "The cosmic microwave background called the CMB for short also [provides evidence to back up] the Big Bang theory. www.[astronomy].com.cn",
+            "create-time": 1618064958401,
+            "uid": "Yh72nI60B",
+            "edit-time": 1618064972173,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The [recent progress on] observation and theory of the cosmic microwave background radiation (CBR) is [presented in this paper]. dict.cnki.net",
+            "create-time": 1618064958401,
+            "uid": "t17T-OfmW",
+            "edit-time": 1618064982871,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The [new measurements] of the cosmic microwave background radiation by the [COBE satellite] and the [LEP experimental results] support strongly the [hot Big Bang model]. ",
+            "create-time": 1618064958401,
+            "uid": "T4Fv-A7OD",
+            "edit-time": 1618064996555,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A Study on the Effect of [Reheating Energy Scale] on CMB. 宇宙重新加热能标",
+            "create-time": 1618064958401,
+            "uid": "_a17QeVc-",
+            "edit-time": 1618065000705,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "An [Approximate Analytic Formula] for Polarization of Cosmic Microwave Background Radiation. www.[dictall].com",
+            "create-time": 1618064958401,
+            "uid": "lHn8vsNjM",
+            "edit-time": 1618065005690,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "KQwbUGHsq",
+        "edit-time": 1618064953541,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "nErmD8HNW",
+    "edit-time": 1618064828659,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064852156,
+    "title": "cosmological constant",
+    "uid": "Xcdct1Sf8",
+    "edit-time": 1618064852156,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064854080,
+    "title": "cosmic evolution",
+    "uid": "et-9uGbRQ",
+    "edit-time": 1618064854081,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618064859855,
+    "title": "observable universe",
+    "uid": "rT06c55k0",
+    "edit-time": 1618064859855,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065432013,
+    "title": "spacetime",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "absolute conception of space and time",
+        "children": [
+          {
+            "edit-time": 1617658280613,
+            "children": [
+              {
+                "string": "an absolute conception of acceleration",
+                "create-time": 1617708868714,
+                "uid": "A9dYpN98c",
+                "edit-time": 1617708870225,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "OqumjAbRW"
+              }
+            ],
+            "uid": "xKhID6UWO",
+            ":block/refs": [
+              {
+                ":block/uid": "OqumjAbRW"
+              }
+            ],
+            "string": "[[absolute space]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1617658279684,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Newtonian worldview",
+            "uid": "RU4Ebt98p",
+            "edit-time": 1617647278460,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "s54v9I_DO",
+        "edit-time": 1617647278460,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((GTpoMP3St))",
+        "create-time": 1618065823306,
+        ":block/refs": [
+          {
+            ":block/uid": "GTpoMP3St"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "GTpoMP3St"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "wN5q3C9OC",
+        "edit-time": 1618065824544,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[empty space]]",
+        "refs": [
+          {
+            "uid": "U7hdbrsKu"
+          }
+        ],
+        "children": [
+          {
+            "string": "((HyaLG0isG))",
+            "create-time": 1617737632389,
+            ":block/refs": [
+              {
+                ":block/uid": "HyaLG0isG"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "HyaLG0isG"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "E9-mysksD",
+            "edit-time": 1617737633341,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[relationist position]]: 关系论",
+            "refs": [
+              {
+                "uid": "liSO_DqYx"
+              }
+            ],
+            "children": [
+              {
+                "edit-time": 1617685368980,
+                "children": [
+                  {
+                    "string": "((z2tQi4CgP))",
+                    "create-time": 1617685391863,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "z2tQi4CgP"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "z2tQi4CgP"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "xcniClIyd",
+                    "edit-time": 1617685393324,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "UoE10Q9R3"
+                  }
+                ],
+                "uid": "hSSedE0Wg",
+                ":block/refs": [
+                  {
+                    ":block/uid": "UoE10Q9R3"
+                  }
+                ],
+                "string": "[[independent existence]]; independent reality; relative",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1617671672717,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "L8bC0Pri7",
+            "edit-time": 1617673230740,
+            ":block/refs": [
+              {
+                ":block/uid": "liSO_DqYx"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Fgjp3ggKF",
+        "edit-time": 1617647313155,
+        ":block/refs": [
+          {
+            ":block/uid": "U7hdbrsKu"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "space dimension",
+        "children": [
+          {
+            "string": "((nVe8Psp5u))",
+            "create-time": 1618065746064,
+            ":block/refs": [
+              {
+                ":block/uid": "nVe8Psp5u"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "nVe8Psp5u"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "kPMoW5XS9",
+            "edit-time": 1618065747046,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "space point",
+            "uid": "nlWfSXp3N",
+            "edit-time": 1618065508397,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "three-dimensional space; three dimensional space...",
+            "uid": "AR4blAzFX",
+            "edit-time": 1618065508397,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "B_-_eDn7z",
+        "edit-time": 1618065486006,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[time arrow]]; time direction",
+        "refs": [
+          {
+            "uid": "Uwhjmr3xa"
+          }
+        ],
+        "children": [
+          {
+            "string": "asymmetry of time;",
+            "uid": "KB2v9iC3H",
+            "edit-time": 1618065486006,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "time-symmetric;",
+            "uid": "PM321fdEA",
+            "edit-time": 1618065486006,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "uFxRBoUGx",
+        "edit-time": 1618065499604,
+        ":block/refs": [
+          {
+            ":block/uid": "Uwhjmr3xa"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "T8Wy5g8LJ",
+    "edit-time": 1618065432014,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065499606,
+    "title": "time arrow",
+    "uid": "Uwhjmr3xa",
+    "edit-time": 1618065499607,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065616094,
+    "title": "quantum gravity",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "covariant dynamics",
+        "uid": "ZLeX74_SP",
+        "edit-time": 1618065636331,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "a discrete structure of space",
+        "uid": "GTpoMP3St",
+        "edit-time": 1618065636331,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[loop quantum gravity]]",
+        "refs": [
+          {
+            "uid": "P70EJT3ft"
+          }
+        ],
+        "uid": "lDmSXi6CA",
+        "edit-time": 1618065809512,
+        ":block/refs": [
+          {
+            ":block/uid": "P70EJT3ft"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[spin foam]]",
+        "refs": [
+          {
+            "uid": "rBCDeUiyw"
+          }
+        ],
+        "uid": "O38t8QCDB",
+        "edit-time": 1618065782374,
+        ":block/refs": [
+          {
+            ":block/uid": "rBCDeUiyw"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[spin network]]",
+        "refs": [
+          {
+            "uid": "e1yAy3ASY"
+          }
+        ],
+        "uid": "fO5mo_ycM",
+        "edit-time": 1618065798513,
+        ":block/refs": [
+          {
+            ":block/uid": "e1yAy3ASY"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[string theory]]",
+        "refs": [
+          {
+            "uid": "hM_Sa1szh"
+          }
+        ],
+        "uid": "a5O19L48G",
+        "edit-time": 1618065722531,
+        ":block/refs": [
+          {
+            ":block/uid": "hM_Sa1szh"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[unified theory]]",
+        "refs": [
+          {
+            "uid": "d6ZuWgknu"
+          }
+        ],
+        "children": [
+          {
+            "string": "universal theory;",
+            "uid": "rz1eklNwO",
+            "edit-time": 1618065636331,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "02MDT90fD",
+        "edit-time": 1618065720250,
+        ":block/refs": [
+          {
+            ":block/uid": "d6ZuWgknu"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "8GUpf6kWQ",
+    "edit-time": 1618065616094,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065720252,
+    "title": "unified theory",
+    "uid": "d6ZuWgknu",
+    "edit-time": 1618065720252,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065722534,
+    "title": "string theory",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "extra spatial dimensions",
+        "uid": "nVe8Psp5u",
+        "edit-time": 1618065636331,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[M-theory]]",
+        "refs": [
+          {
+            "uid": "gBRXwT9KP"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[cosmic hologram]]",
+            "refs": [
+              {
+                "uid": "FPisikLq7"
+              }
+            ],
+            "uid": "_bOCmTfl7",
+            "edit-time": 1618065770194,
+            ":block/refs": [
+              {
+                ":block/uid": "FPisikLq7"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "JxQ5YTqJx",
+        "edit-time": 1618065771676,
+        ":block/refs": [
+          {
+            ":block/uid": "gBRXwT9KP"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[superstring theory]]",
+        "refs": [
+          {
+            "uid": "jWiEN4Pza"
+          }
+        ],
+        "uid": "XdkTmRqNm",
+        "edit-time": 1618065768254,
+        ":block/refs": [
+          {
+            ":block/uid": "jWiEN4Pza"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "hM_Sa1szh",
+    "edit-time": 1618065722534,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065768256,
+    "title": "superstring theory",
+    "uid": "jWiEN4Pza",
+    "edit-time": 1618065768257,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065770196,
+    "title": "cosmic hologram",
+    "uid": "FPisikLq7",
+    "edit-time": 1618065770196,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065771679,
+    "title": "M-theory",
+    "uid": "gBRXwT9KP",
+    "edit-time": 1618065771679,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065782376,
+    "title": "spin foam",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "spin foam vertex amplitude",
+        "uid": "neVwyavz0",
+        "edit-time": 1618065636331,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[spinfoam cosmology]]",
+        "refs": [
+          {
+            "uid": "74JeortVy"
+          }
+        ],
+        "uid": "bxQXPykqK",
+        "edit-time": 1618065800628,
+        ":block/refs": [
+          {
+            ":block/uid": "74JeortVy"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rBCDeUiyw",
+    "edit-time": 1618065782376,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065798522,
+    "title": "spin network",
+    "uid": "e1yAy3ASY",
+    "edit-time": 1618065798524,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065800631,
+    "title": "spinfoam cosmology",
+    "uid": "74JeortVy",
+    "edit-time": 1618065800632,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618065809514,
+    "title": "loop quantum gravity",
+    "uid": "P70EJT3ft",
+    "edit-time": 1618065809515,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

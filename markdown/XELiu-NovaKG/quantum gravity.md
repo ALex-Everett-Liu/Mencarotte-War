@@ -1,0 +1,8 @@
+- covariant dynamics
+- a discrete structure of space
+- [[loop quantum gravity]]
+- [[spin foam]]
+- [[spin network]]
+- [[string theory]]
+- [[unified theory]]
+    - universal theory;

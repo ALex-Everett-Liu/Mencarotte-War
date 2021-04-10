@@ -2,10 +2,15 @@
     - the beginning of the universe; the origin of the universe
         - highly ordered; a highly ordered environment
     - [[big bang]]
-    - [[inflationary cosmology]]
+    - [[inflationary cosmology]]: 暴涨宇宙学 
     - the shape of space
     - the size of the universe
     - the structure of the universe
+- [[cosmic evolution]]
+- [[cosmological constant]]
+    - diffuse uniform energy: 弥散的均匀的能量 
+- [[cosmic microwave background radiation (CBR)]]
 - [[quantum cosmology]]
 - [[universe]]
     - the amount of matter in the universe; material content; matter content
+    - [[observable universe]]

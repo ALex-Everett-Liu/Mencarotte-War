@@ -1,14 +1,5 @@
 - [[general theory of relativity]]; [[general relativity]]
 - [[nonrelativistic motion]]
 - [[relative motion]]
-- space and time
-    - absolute conception of space and time
-        - [[absolute space]]
-            - an absolute conception of acceleration
-        - Newtonian worldview
-    - [[empty space]]
-        - existential; [[existential philosophy]]
-        - [[relationist position]]: 关系论
-            - [[independent existence]]; independent reality; relative
-                - real entity
+- space and time; [[spacetime]]
 - [[special theory of relativity]]; [[special relativity]]

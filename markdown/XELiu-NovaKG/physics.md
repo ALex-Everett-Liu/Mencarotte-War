@@ -25,7 +25,7 @@
     - object, entity...
         - [[physical entity]]; [[non-physical entity]]
         - ordinary object
-        - real entity
+        - [[real entity]]
     - physical mechanism
     - physical process
     - physical properties
@@ -48,6 +48,7 @@
 - [[popularize of science]]; popular science
     - [[Brian Greene]]
         - [[The Fabric of the Cosmos - Space, Time, and the Texture of Reality]]
+- [[quantum gravity]]; quantum gravity theory
 - [[quantum mechanics]]
 - [[relativity]]; [[theory of relativity]]
 - [[thermodynamics]]; [[statistical mechanics]]
