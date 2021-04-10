@@ -1,3 +1,4 @@
 - comment; review;
+- [[ISBN]]; [[ISBN number]]
 - [[publication]]; [[publisher]]; publishing platform
 - [[release]]

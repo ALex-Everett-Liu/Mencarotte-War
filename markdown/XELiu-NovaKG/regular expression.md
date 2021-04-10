@@ -1,0 +1,5 @@
+- [[escape character]]
+    - [[backslash]]
+- indicate the beginning of a line
+- [[literal hyphen]]: 文字连字符
+    - [[subtraction command]]

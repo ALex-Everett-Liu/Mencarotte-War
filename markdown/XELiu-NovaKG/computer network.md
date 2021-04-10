@@ -1,0 +1,11 @@
+- [[Ethernet]]
+- general...
+    - network technologies
+    - connection pool
+- Internet access
+- [[local area networks (LAN)]]
+- [[MAC address]]
+- [[metropolitan area networks (MAN)]]
+- session
+- [[wide area networks (WAN)]]
+- Wi-Fi

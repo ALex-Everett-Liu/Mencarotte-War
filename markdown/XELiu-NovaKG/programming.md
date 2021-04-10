@@ -1,0 +1,5 @@
+- character
+    - [[character string]]
+- [[regular expression]]; REGEX 
+- [[string]]
+    - [[character string]]

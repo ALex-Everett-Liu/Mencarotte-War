@@ -1063,14 +1063,29 @@
         }
       },
       {
-        "string": "[[Web]]; [[World Wide Web (WWW)]]",
-        "create-time": 1617578519910,
-        ":block/refs": [
+        "edit-time": 1617578738508,
+        "children": [
           {
-            ":block/uid": "yetJt_2cM"
-          },
-          {
-            ":block/uid": "E7sBhuPt6"
+            "string": "[[computer network]]; computer networking...",
+            "create-time": 1618023206759,
+            ":block/refs": [
+              {
+                ":block/uid": "xVctcBX2v"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xVctcBX2v"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "gbuje0Dbg",
+            "edit-time": 1618023216363,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -1081,11 +1096,20 @@
             "uid": "E7sBhuPt6"
           }
         ],
+        "uid": "m9OhGzhe_",
+        ":block/refs": [
+          {
+            ":block/uid": "yetJt_2cM"
+          },
+          {
+            ":block/uid": "E7sBhuPt6"
+          }
+        ],
+        "string": "[[Web]]; [[World Wide Web (WWW)]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "m9OhGzhe_",
-        "edit-time": 1617578738508,
+        "create-time": 1617578519910,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -1177,28 +1201,6 @@
         }
       },
       {
-        "string": "((vZXtDEAvo))",
-        "create-time": 1617579007379,
-        ":block/refs": [
-          {
-            ":block/uid": "vZXtDEAvo"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "vZXtDEAvo"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "hyPUJg8eP",
-        "edit-time": 1617579008001,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "[[text editor]]",
         "create-time": 1617577986368,
         ":block/refs": [
@@ -1216,6 +1218,74 @@
         },
         "uid": "3i9esrdcU",
         "edit-time": 1617577990402,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618026188233,
+        "children": [
+          {
+            "string": "((q9EzgVx47))",
+            "create-time": 1618026233862,
+            ":block/refs": [
+              {
+                ":block/uid": "q9EzgVx47"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "q9EzgVx47"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "DLYvBei6g",
+            "edit-time": 1618026234832,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((vZXtDEAvo))",
+            "create-time": 1617579007379,
+            ":block/refs": [
+              {
+                ":block/uid": "vZXtDEAvo"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vZXtDEAvo"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "hyPUJg8eP",
+            "edit-time": 1617579008001,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Le16Mo5DM"
+          }
+        ],
+        "uid": "XL_BcYb21",
+        ":block/refs": [
+          {
+            ":block/uid": "Le16Mo5DM"
+          }
+        ],
+        "string": "[[typesetting]]; formatting...",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618026178253,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2670,11 +2740,109 @@
   {
     "create-time": 1617578784927,
     "title": "programming",
-    "uid": "NuO_cSYQH",
-    "edit-time": 1617578784927,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "character",
+        "create-time": 1618022970651,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "((F_uyOv91C))",
+            "create-time": 1618022978267,
+            ":block/refs": [
+              {
+                ":block/uid": "F_uyOv91C"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "F_uyOv91C"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "dz_TX8fb4",
+            "edit-time": 1618022979475,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hYVBnPLBk",
+        "edit-time": 1618022974407,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[regular expression]]; REGEX ",
+        "create-time": 1618019696108,
+        ":block/refs": [
+          {
+            ":block/uid": "LB8ENYqY4"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "LB8ENYqY4"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "4m44q8w-E",
+        "edit-time": 1618019717295,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[string]]",
+        "refs": [
+          {
+            "uid": "-qg3j_j9g"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[character string]]",
+            "refs": [
+              {
+                "uid": "BTk4AGz6h"
+              }
+            ],
+            "uid": "F_uyOv91C",
+            "edit-time": 1618022934513,
+            ":block/refs": [
+              {
+                ":block/uid": "BTk4AGz6h"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "QTEsrQdgN",
+        "edit-time": 1618022935513,
+        ":block/refs": [
+          {
+            ":block/uid": "-qg3j_j9g"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "NuO_cSYQH",
+    "edit-time": 1617578784927,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -2728,6 +2896,134 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617578800246,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Lisp]]",
+        "refs": [
+          {
+            "uid": "7t7mgKCO3"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Clojure]]",
+            "refs": [
+              {
+                "uid": "Kv36kPiUy"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[ClojureScript]]",
+                "refs": [
+                  {
+                    "uid": "0ed0ES4z2"
+                  }
+                ],
+                "uid": "GXMaVlH8i",
+                "edit-time": 1618019512517,
+                ":block/refs": [
+                  {
+                    ":block/uid": "0ed0ES4z2"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "EDN; formatted edn",
+                "uid": "F_Or1HVEJ",
+                "edit-time": 1618019457750,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "-dY75S0qN",
+            "edit-time": 1618019513398,
+            ":block/refs": [
+              {
+                ":block/uid": "Kv36kPiUy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "iOkDgMlDd",
+        "edit-time": 1618019514668,
+        ":block/refs": [
+          {
+            ":block/uid": "7t7mgKCO3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Matlab]]",
+        "refs": [
+          {
+            "uid": "SqBCEdm7Q"
+          }
+        ],
+        "uid": "pDAmXKrOf",
+        "edit-time": 1618019506327,
+        ":block/refs": [
+          {
+            ":block/uid": "SqBCEdm7Q"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Node",
+        "uid": "Jy97QvqbV",
+        "edit-time": 1618019457750,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[PHP]]",
+        "refs": [
+          {
+            "uid": "C61Oplr1-"
+          }
+        ],
+        "uid": "bvxkfr2M0",
+        "edit-time": 1618019496249,
+        ":block/refs": [
+          {
+            ":block/uid": "C61Oplr1-"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Project Jupyter]]",
+        "refs": [
+          {
+            "uid": "jJy_frTM3"
+          }
+        ],
+        "uid": "UPuu43XcH",
+        "edit-time": 1618019473335,
+        ":block/refs": [
+          {
+            ":block/uid": "jJy_frTM3"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -5818,6 +6114,34 @@
         },
         "uid": "HaWAPLpwj",
         "edit-time": 1617618839273,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[ISBN]]; [[ISBN number]]",
+        "create-time": 1618025665937,
+        ":block/refs": [
+          {
+            ":block/uid": "0LDT0Fgj-"
+          },
+          {
+            ":block/uid": "rtGcak_V_"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0LDT0Fgj-"
+          },
+          {
+            "uid": "rtGcak_V_"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "E3bgRAdhc",
+        "edit-time": 1618025671931,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -25104,13 +25428,149 @@
         }
       },
       {
-        "string": "",
-        "create-time": 1618017387496,
-        "uid": "JDmR7pva-",
-        "edit-time": 1618017387496,
+        "string": "[Harvey Ellams](https://distroharvix.medium.com/?source=post_page-----29a7d18730a9--------------------------------) | [Jan 3 · 4 min read](https://distroharvix.medium.com/part-9-a-complete-beginners-guide-to-computer-programming-with-clojure-regular-expressions-29a7d18730a9?source=post_page-----29a7d18730a9--------------------------------)",
+        "uid": "SbH43pJlt",
+        "edit-time": 1618019597745,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Photo by [Jamie Haughton](https://unsplash.com/@haughters?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)",
+        "create-time": 1618019617384,
+        "uid": "6ODqlWsai",
+        "edit-time": 1618019617642,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "**__Regular__** **__Expressions__**, otherwise known as **__REGEX__**, are a method of [applying formulas to manipulate text]. REGEX allows you to search, and [filter swathes of text] 过滤一长条文本 and [extract only the desired]. [It can also be used to] test a [[character string]] for [specific features]. For example, is it a [[MAC address]], a mobile phone number, or an ISBN number? REGEX is [a hugely powerful tool] and often [applied to forms and databases], as it can help [control both input and output]. #[[regular expression]]",
+        "create-time": 1618019621259,
+        ":block/refs": [
+          {
+            ":block/uid": "LB8ENYqY4"
+          },
+          {
+            ":block/uid": "BTk4AGz6h"
+          },
+          {
+            ":block/uid": "ySU4jTCzE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "LB8ENYqY4"
+          },
+          {
+            "uid": "BTk4AGz6h"
+          },
+          {
+            "uid": "ySU4jTCzE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "b0gRaM4wE",
+        "edit-time": 1618023009862,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618025613806,
+        "children": [
+          {
+            "edit-time": 1618025912252,
+            "children": [
+              {
+                "string": "An escape character is used to [tell the computer] to [use the following character] [in a non-standard way]. For example, the letter **n** is [simply interpreted as] the character **n**. However, if we [escape the letter] **n** with a backslash** \\**, we now [get a newline]([[newline]]) **\\n**.",
+                "create-time": 1618025978235,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xklmWTGRr"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xklmWTGRr"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "0X1WpQ_ZG",
+                "edit-time": 1618026021092,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "U4w9H4uqs"
+              },
+              {
+                "uid": "BUjqthh1Y"
+              },
+              {
+                "uid": "Rc4ZcIGqe"
+              },
+              {
+                "uid": "CSkJgbyqy"
+              },
+              {
+                "uid": "7ffsv6tS9"
+              }
+            ],
+            "uid": "3q2nID2Qs",
+            ":block/refs": [
+              {
+                ":block/uid": "U4w9H4uqs"
+              },
+              {
+                ":block/uid": "BUjqthh1Y"
+              },
+              {
+                ":block/uid": "Rc4ZcIGqe"
+              },
+              {
+                ":block/uid": "CSkJgbyqy"
+              },
+              {
+                ":block/uid": "7ffsv6tS9"
+              }
+            ],
+            "string": "The REGEX [followed a pattern], **#”filter”** . The filter usually starts with a **^** to [indicate the beginning of a line](((7ffsv6tS9))), and a **$** [for the end of a line]. [Square brackets] **[ ]** contain the [specific REGEX pattern]. For our ISBN, we [wanted all numbers] and the letter **X** [in both upper and lower case]. In addition, we required a hyphen **-**. To ensure we got a [[literal hyphen]], and not a [[subtraction command]], we used an [[escape character]]. The escape character is provided by a [[backslash]] **\\**.",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618025688651,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0LDT0Fgj-"
+          }
+        ],
+        "uid": "iPHG2LTOn",
+        ":block/refs": [
+          {
+            ":block/uid": "0LDT0Fgj-"
+          }
+        ],
+        "string": "In **Part** **8**, we used a REGEX to [control input for] an [[ISBN number]].\n`#”^[0–9xX\\-]+$”`",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618025581617,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -25130,6 +25590,710 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019473337,
+    "title": "Project Jupyter",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "web-based user interface",
+        "uid": "GnWUFxkcf",
+        "edit-time": 1618019457750,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Jupyter Notebook]]",
+        "refs": [
+          {
+            "uid": "K4LleAkJQ"
+          }
+        ],
+        "uid": "fk26Zdp3Y",
+        "edit-time": 1618019482647,
+        ":block/refs": [
+          {
+            ":block/uid": "K4LleAkJQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "JupyterLab",
+        "children": [
+          {
+            "string": "JupyterLab Documentation",
+            "uid": "t7-HVPK05",
+            "edit-time": 1618019457750,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "0XkJMpxDw",
+        "edit-time": 1618019457750,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "jJy_frTM3",
+    "edit-time": 1618019473338,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019482649,
+    "title": "Jupyter Notebook",
+    "uid": "K4LleAkJQ",
+    "edit-time": 1618019482649,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019496251,
+    "title": "PHP",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "PHP script",
+        "uid": "c5NwcLxnb",
+        "edit-time": 1618019457750,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "C61Oplr1-",
+    "edit-time": 1618019496251,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019506330,
+    "title": "Matlab",
+    "uid": "SqBCEdm7Q",
+    "edit-time": 1618019506330,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019512520,
+    "title": "ClojureScript",
+    "uid": "0ed0ES4z2",
+    "edit-time": 1618019512520,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019513400,
+    "title": "Clojure",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "---",
+        "uid": "mjGeUL0Zn",
+        "edit-time": 1618019548744,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[A complete beginner’s guide to Computer Programming with Clojure]]",
+        "refs": [
+          {
+            "uid": "Qf9MuyXwB"
+          }
+        ],
+        "uid": "rjucNYv04",
+        "edit-time": 1618019553202,
+        ":block/refs": [
+          {
+            ":block/uid": "Qf9MuyXwB"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Kv36kPiUy",
+    "edit-time": 1618019513400,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019514670,
+    "title": "Lisp",
+    "uid": "7t7mgKCO3",
+    "edit-time": 1618019514671,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618019700297,
+    "title": "regular expression",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[escape character]]",
+        "refs": [
+          {
+            "uid": "Rc4ZcIGqe"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[backslash]]",
+            "refs": [
+              {
+                "uid": "CSkJgbyqy"
+              }
+            ],
+            "uid": "J-OGoJhvd",
+            "edit-time": 1618025901852,
+            ":block/refs": [
+              {
+                ":block/uid": "CSkJgbyqy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ro_z6fdhb",
+        "edit-time": 1618025903957,
+        ":block/refs": [
+          {
+            ":block/uid": "Rc4ZcIGqe"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "indicate the beginning of a line",
+        "uid": "7ffsv6tS9",
+        "edit-time": 1618025895388,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[literal hyphen]]: 文字连字符",
+        "refs": [
+          {
+            "uid": "U4w9H4uqs"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[subtraction command]]",
+            "refs": [
+              {
+                "uid": "BUjqthh1Y"
+              }
+            ],
+            "uid": "SJb7KY5-N",
+            "edit-time": 1618025898824,
+            ":block/refs": [
+              {
+                ":block/uid": "BUjqthh1Y"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "YDu-x7ivU",
+        "edit-time": 1618025900971,
+        ":block/refs": [
+          {
+            ":block/uid": "U4w9H4uqs"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "LB8ENYqY4",
+    "edit-time": 1618019700298,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618022820688,
+    "title": "character string",
+    "uid": "BTk4AGz6h",
+    "edit-time": 1618022820689,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618022935515,
+    "title": "string",
+    "uid": "-qg3j_j9g",
+    "edit-time": 1618022935515,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618022999230,
+    "title": "MAC address",
+    "uid": "ySU4jTCzE",
+    "edit-time": 1618022999231,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618023216365,
+    "title": "computer network",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Ethernet]]",
+        "refs": [
+          {
+            "uid": "NAG2NLf0X"
+          }
+        ],
+        "uid": "qN6csFYCl",
+        "edit-time": 1618023283579,
+        ":block/refs": [
+          {
+            ":block/uid": "NAG2NLf0X"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "network technologies",
+            "uid": "SzkpkxiO2",
+            "edit-time": 1618023248425,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "connection pool",
+            "uid": "hRUvjm20l",
+            "edit-time": 1618023248425,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "dpmolObNE",
+        "edit-time": 1618023248425,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Internet access",
+        "uid": "2oMEejGED",
+        "edit-time": 1618023248425,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[local area networks (LAN)]]",
+        "refs": [
+          {
+            "uid": "0DUZNAGnr"
+          }
+        ],
+        "uid": "PoeKCHRMb",
+        "edit-time": 1618023278610,
+        ":block/refs": [
+          {
+            ":block/uid": "0DUZNAGnr"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[MAC address]]",
+        "refs": [
+          {
+            "uid": "ySU4jTCzE"
+          }
+        ],
+        "uid": "AkOwW5qaZ",
+        "edit-time": 1618023280436,
+        ":block/refs": [
+          {
+            ":block/uid": "ySU4jTCzE"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[metropolitan area networks (MAN)]]",
+        "refs": [
+          {
+            "uid": "HY3jM5RYs"
+          }
+        ],
+        "uid": "M3RkFKxLw",
+        "edit-time": 1618023277159,
+        ":block/refs": [
+          {
+            ":block/uid": "HY3jM5RYs"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "session",
+        "uid": "e8Lyux8H1",
+        "edit-time": 1618023269523,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[wide area networks (WAN)]]",
+        "refs": [
+          {
+            "uid": "_-sKKam5Y"
+          }
+        ],
+        "uid": "QQlOVj1HO",
+        "edit-time": 1618023275810,
+        ":block/refs": [
+          {
+            ":block/uid": "_-sKKam5Y"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Wi-Fi",
+        "uid": "NqmhkH96h",
+        "edit-time": 1618023269523,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "xVctcBX2v",
+    "edit-time": 1618023216366,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618023275812,
+    "title": "wide area networks (WAN)",
+    "uid": "_-sKKam5Y",
+    "edit-time": 1618023275813,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618023277161,
+    "title": "metropolitan area networks (MAN)",
+    "uid": "HY3jM5RYs",
+    "edit-time": 1618023277161,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618023278611,
+    "title": "local area networks (LAN)",
+    "uid": "0DUZNAGnr",
+    "edit-time": 1618023278611,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618023283581,
+    "title": "Ethernet",
+    "uid": "NAG2NLf0X",
+    "edit-time": 1618023283581,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618025613808,
+    "title": "ISBN number",
+    "uid": "0LDT0Fgj-",
+    "edit-time": 1618025613809,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618025670489,
+    "title": "ISBN",
+    "uid": "rtGcak_V_",
+    "edit-time": 1618025670489,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618025817916,
+    "title": "literal hyphen",
+    "uid": "U4w9H4uqs",
+    "edit-time": 1618025817924,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618025817916,
+    "title": "subtraction command",
+    "uid": "BUjqthh1Y",
+    "edit-time": 1618025817924,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618025817916,
+    "title": "escape character",
+    "uid": "Rc4ZcIGqe",
+    "edit-time": 1618025817924,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618025833881,
+    "title": "backslash",
+    "uid": "CSkJgbyqy",
+    "edit-time": 1618025833882,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618026021094,
+    "title": "newline",
+    "uid": "xklmWTGRr",
+    "edit-time": 1618026021095,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618026188235,
+    "title": "typesetting",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "line...",
+        "children": [
+          {
+            "string": "indentation",
+            "children": [
+              {
+                "string": "indentation style?",
+                "children": [
+                  {
+                    "string": "rainbow indentation",
+                    "uid": "DoAzJ2kkq",
+                    "edit-time": 1618026189800,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "uyO1X_fao",
+                "edit-time": 1618026189800,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "sVBbAwATJ",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "line terminator",
+            "uid": "YOT8i49Yl",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "linebreak; line break",
+            "uid": "afUgtIEzO",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "new line; newline character",
+            "uid": "H2iyqKo2T",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "return character",
+            "uid": "sia7RO8cE",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "separate lines",
+            "uid": "KUM-slSLZ",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "all in one line",
+            "uid": "YW0N8if6T",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "line-by-line changes",
+            "uid": "rjQZhV3qd",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "line number",
+            "uid": "OGWdXw7In",
+            "edit-time": 1618026189800,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "T1ZckzWVc",
+        "edit-time": 1618026189800,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Le16Mo5DM",
+    "edit-time": 1618026188235,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
