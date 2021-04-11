@@ -1088,23 +1088,29 @@
         "edit-time": 1617578738508,
         "children": [
           {
-            "string": "[[computer network]]; computer networking...",
+            "string": "[[computer network]]; computer networking; [[network]]...",
             "create-time": 1618023206759,
             ":block/refs": [
               {
                 ":block/uid": "xVctcBX2v"
+              },
+              {
+                ":block/uid": "fF2Rt-Lr2"
               }
             ],
             "refs": [
               {
                 "uid": "xVctcBX2v"
+              },
+              {
+                "uid": "fF2Rt-Lr2"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "gbuje0Dbg",
-            "edit-time": 1618023216363,
+            "edit-time": 1618109443579,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -5868,6 +5874,24 @@
         ":block/refs": [
           {
             ":block/uid": "KhKGSC3sR"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[prize]]...",
+        "refs": [
+          {
+            "uid": "1YaDzKjwo"
+          }
+        ],
+        "uid": "vcZYc4Dpe",
+        "edit-time": 1618112254901,
+        ":block/refs": [
+          {
+            ":block/uid": "1YaDzKjwo"
           }
         ],
         ":edit/user": {
@@ -25424,14 +25448,14 @@
         }
       },
       {
-        "string": "[[television]]...",
+        "string": "[[television]]",
         "refs": [
           {
             "uid": "zQvgaMs5H"
           }
         ],
         "uid": "mF2fblvXN",
-        "edit-time": 1617959342442,
+        "edit-time": 1618109408371,
         ":block/refs": [
           {
             ":block/uid": "zQvgaMs5H"
@@ -25556,24 +25580,6 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
-      },
-      {
-        "string": "[[telephone]]",
-        "refs": [
-          {
-            "uid": "-ZGnvYusa"
-          }
-        ],
-        "uid": "vgueVisWU",
-        "edit-time": 1617959784407,
-        ":block/refs": [
-          {
-            ":block/uid": "-ZGnvYusa"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
       }
     ],
     "uid": "Fh2E7OzbH",
@@ -25626,12 +25632,239 @@
     },
     "children": [
       {
-        "string": "the transmission of information: 信息传输",
+        "string": "[[communications satellite]]",
+        "refs": [
+          {
+            "uid": "RkOv89W9W"
+          }
+        ],
+        "uid": "wnIPdb3On",
+        "edit-time": 1618109363487,
+        ":block/refs": [
+          {
+            ":block/uid": "RkOv89W9W"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((gbuje0Dbg))",
+        "create-time": 1618109451470,
+        ":block/refs": [
+          {
+            ":block/uid": "gbuje0Dbg"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "gbuje0Dbg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "NFQEzCeTp",
+        "edit-time": 1618109452491,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "electrical and electronic telecommunications",
+        "children": [
+          {
+            "string": "[[radio communication]]",
+            "refs": [
+              {
+                "uid": "YdFhur9pb"
+              }
+            ],
+            "children": [
+              {
+                "string": "((ELxEVsgGM))",
+                "create-time": 1618109419097,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ELxEVsgGM"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ELxEVsgGM"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "73mXppFdI",
+                "edit-time": 1618109420006,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "smaMUuvui",
+            "edit-time": 1618112390007,
+            ":block/refs": [
+              {
+                ":block/uid": "YdFhur9pb"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5tvnI3Fze",
+        "edit-time": 1618112384277,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[optical fiber]]",
+        "refs": [
+          {
+            "uid": "C_a_7Gkaa"
+          }
+        ],
+        "uid": "MtHg9aCmr",
+        "edit-time": 1618109361918,
+        ":block/refs": [
+          {
+            ":block/uid": "C_a_7Gkaa"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[telegraph]]; [[teleprinter]]",
+        "create-time": 1618109370711,
+        ":block/refs": [
+          {
+            ":block/uid": "8BAjRrUO3"
+          },
+          {
+            ":block/uid": "FMjjQGk94"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8BAjRrUO3"
+          },
+          {
+            "uid": "FMjjQGk94"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "i3SrQz5vd",
+        "edit-time": 1618109374889,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[telephone]]",
+        "refs": [
+          {
+            "uid": "-ZGnvYusa"
+          }
+        ],
+        "uid": "vgueVisWU",
+        "edit-time": 1617959784407,
+        ":block/refs": [
+          {
+            ":block/uid": "-ZGnvYusa"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((mF2fblvXN))",
+        "create-time": 1618109412087,
+        ":block/refs": [
+          {
+            ":block/uid": "mF2fblvXN"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mF2fblvXN"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "-jbKcN87U",
+        "edit-time": 1618109413024,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "the transmission of information; [[information transmission]]: 信息传输",
+        "refs": [
+          {
+            "uid": "l8g70o2aC"
+          }
+        ],
         "children": [
           {
             "string": "convey information",
             "uid": "FbWzm2XCN",
             "edit-time": 1618099655251,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[long-distance communication]]",
+            "create-time": 1618109491615,
+            ":block/refs": [
+              {
+                ":block/uid": "cIP5ZgPQa"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cIP5ZgPQa"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "mIa5cK8FD",
+            "edit-time": 1618109492359,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[microwave transmission]]",
+            "create-time": 1618109498601,
+            ":block/refs": [
+              {
+                ":block/uid": "bOVo2MfSe"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "bOVo2MfSe"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "VcQ1iW9MU",
+            "edit-time": 1618109500261,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -25674,7 +25907,34 @@
           }
         ],
         "uid": "GQi11qfmQ",
-        "edit-time": 1618095618229,
+        "edit-time": 1618109267531,
+        ":block/refs": [
+          {
+            ":block/uid": "l8g70o2aC"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[wireless communication]]",
+        "create-time": 1618112409801,
+        ":block/refs": [
+          {
+            ":block/uid": "TU2HabTbS"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "TU2HabTbS"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "_6wGI4ux2",
+        "edit-time": 1618112415269,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -25695,50 +25955,105 @@
         "edit-time": 1618095922162,
         "children": [
           {
-            "string": "The [[transmission media]] in telecommunication have [evolved through numerous stages of technology], from [[beacon]]s and other [[visual signal]]s (such as [smoke signals](((eeerAXRTp))), [semaphore telegraphs](((OK5DWZF9r))), [[signal flag]]s, and [[optical heliograph]]s), to [[electrical cable]] and [[electromagnetic radiation]], including light. Such [[transmission path]]s are often divided into [[communication channel]]s, which [afford the advantages of] [multiplexing](((xT92A0HRb))) multiple [concurrent communication sessions](((JOVXLbIdf))). 多路复用多个并发通信会话 Telecommunication is often used in its [plural form](((ysSRt7QuS))), because it [involves many different technologies].[3]\n210411-08:05",
-            "create-time": 1618095465606,
-            ":block/refs": [
+            "edit-time": 1618099816851,
+            "children": [
               {
-                ":block/uid": "oPloMHYm0"
+                "string": "Other examples of pre-modern [[long-distance communication]] included [audio messages](((LWPR0dAgf))), such as [coded drumbeats], [lung-blown horns], 肺吹笛角 and [loud whistles]. 响亮的哨声 ",
+                "create-time": 1618109037357,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cIP5ZgPQa"
+                  },
+                  {
+                    ":block/uid": "LWPR0dAgf"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cIP5ZgPQa"
+                  },
+                  {
+                    "uid": "LWPR0dAgf"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "vHqMfQKbQ",
+                "edit-time": 1618109338560,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               },
               {
-                ":block/uid": "sAYctwMXJ"
-              },
-              {
-                ":block/uid": "3KGHmNbT-"
-              },
-              {
-                ":block/uid": "RMV42LWFc"
-              },
-              {
-                ":block/uid": "wCMH0aDXh"
-              },
-              {
-                ":block/uid": "p01KIQgkV"
-              },
-              {
-                ":block/uid": "OMqXr44vR"
-              },
-              {
-                ":block/uid": "qGe4Ydf13"
-              },
-              {
-                ":block/uid": "rE-txODeu"
-              },
-              {
-                ":block/uid": "JOVXLbIdf"
-              },
-              {
-                ":block/uid": "xT92A0HRb"
-              },
-              {
-                ":block/uid": "OK5DWZF9r"
-              },
-              {
-                ":block/uid": "eeerAXRTp"
-              },
-              {
-                ":block/uid": "ysSRt7QuS"
+                "string": "[20th- and 21st-century technologies] for long-distance communication usually involve [electrical and electromagnetic technologies], such as [[telegraph]], [[telephone]], [[television]] and [[teleprinter]], [[network]]s, [[radio]], [[microwave transmission]], [[optical fiber]], and [communications satellites]([[communications satellite]]).\n210411-10:48",
+                "create-time": 1618095462856,
+                ":block/refs": [
+                  {
+                    ":block/uid": "zQvgaMs5H"
+                  },
+                  {
+                    ":block/uid": "qZMqkSwtM"
+                  },
+                  {
+                    ":block/uid": "-ZGnvYusa"
+                  },
+                  {
+                    ":block/uid": "RkOv89W9W"
+                  },
+                  {
+                    ":block/uid": "8BAjRrUO3"
+                  },
+                  {
+                    ":block/uid": "FMjjQGk94"
+                  },
+                  {
+                    ":block/uid": "fF2Rt-Lr2"
+                  },
+                  {
+                    ":block/uid": "bOVo2MfSe"
+                  },
+                  {
+                    ":block/uid": "C_a_7Gkaa"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "zQvgaMs5H"
+                  },
+                  {
+                    "uid": "qZMqkSwtM"
+                  },
+                  {
+                    "uid": "-ZGnvYusa"
+                  },
+                  {
+                    "uid": "RkOv89W9W"
+                  },
+                  {
+                    "uid": "8BAjRrUO3"
+                  },
+                  {
+                    "uid": "FMjjQGk94"
+                  },
+                  {
+                    "uid": "fF2Rt-Lr2"
+                  },
+                  {
+                    "uid": "bOVo2MfSe"
+                  },
+                  {
+                    "uid": "C_a_7Gkaa"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "OLCbkS64Y",
+                "edit-time": 1618109615419,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -25785,11 +26100,56 @@
                 "uid": "ysSRt7QuS"
               }
             ],
+            "uid": "cE07h1AoA",
+            ":block/refs": [
+              {
+                ":block/uid": "oPloMHYm0"
+              },
+              {
+                ":block/uid": "sAYctwMXJ"
+              },
+              {
+                ":block/uid": "3KGHmNbT-"
+              },
+              {
+                ":block/uid": "RMV42LWFc"
+              },
+              {
+                ":block/uid": "wCMH0aDXh"
+              },
+              {
+                ":block/uid": "p01KIQgkV"
+              },
+              {
+                ":block/uid": "OMqXr44vR"
+              },
+              {
+                ":block/uid": "qGe4Ydf13"
+              },
+              {
+                ":block/uid": "rE-txODeu"
+              },
+              {
+                ":block/uid": "JOVXLbIdf"
+              },
+              {
+                ":block/uid": "xT92A0HRb"
+              },
+              {
+                ":block/uid": "OK5DWZF9r"
+              },
+              {
+                ":block/uid": "eeerAXRTp"
+              },
+              {
+                ":block/uid": "ysSRt7QuS"
+              }
+            ],
+            "string": "The [[transmission media]] in telecommunication have [evolved through numerous stages of technology], from [[beacon]]s and other [[visual signal]]s (such as [smoke signals](((eeerAXRTp))), [semaphore telegraphs](((OK5DWZF9r))), [[signal flag]]s, and [[optical heliograph]]s), to [[electrical cable]] and [[electromagnetic radiation]], including light. Such [[transmission path]]s are often divided into [[communication channel]]s, which [afford the advantages of] [multiplexing](((xT92A0HRb))) multiple [concurrent communication sessions](((JOVXLbIdf))). 多路复用多个并发通信会话 Telecommunication is often used in its [plural form](((ysSRt7QuS))), because it [involves many different technologies].[3]\n210411-08:05",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "cE07h1AoA",
-            "edit-time": 1618099816851,
+            "create-time": 1618095465606,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -25834,10 +26194,56 @@
         }
       },
       {
-        "string": "Other examples of pre-modern long-distance communication included audio messages, such as coded drumbeats, lung-blown horns, and loud whistles. 20th- and 21st-century technologies for long-distance communication usually involve electrical and electromagnetic technologies, such as telegraph, telephone, television and teleprinter, networks, radio, microwave transmission, optical fiber, and communications satellites.",
-        "create-time": 1618095462856,
-        "uid": "OLCbkS64Y",
-        "edit-time": 1618095465612,
+        "string": "A revolution in [[wireless communication]] began [in the first decade of the 20th century] with the [pioneering developments] in [[radio communication]]s by [[Guglielmo Marconi]], who won the [Nobel Prize in Physics](((z8JLrf3Bc))) in 1909, and other notable [pioneering inventors] and developers in the field of [electrical and electronic telecommunications](((5tvnI3Fze))). These included Charles Wheatstone and Samuel Morse (inventors of the telegraph), Antonio Meucci and Alexander Graham Bell (some of the [inventors and developers] of the telephone, see Invention of the telephone), Edwin Armstrong and Lee de Forest (inventors of radio), as well as Vladimir K. Zworykin, John Logie Baird and Philo Farnsworth (some of the inventors of television).",
+        "create-time": 1618109532548,
+        ":block/refs": [
+          {
+            ":block/uid": "TU2HabTbS"
+          },
+          {
+            ":block/uid": "YdFhur9pb"
+          },
+          {
+            ":block/uid": "z8JLrf3Bc"
+          },
+          {
+            ":block/uid": "1qLe46fth"
+          },
+          {
+            ":block/uid": "5tvnI3Fze"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "TU2HabTbS"
+          },
+          {
+            "uid": "YdFhur9pb"
+          },
+          {
+            "uid": "z8JLrf3Bc"
+          },
+          {
+            "uid": "1qLe46fth"
+          },
+          {
+            "uid": "5tvnI3Fze"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "fil8Y-KNt",
+        "edit-time": 1618112398070,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "According to __Article 1.3__ of the Radio Regulations (RR), telecommunication is defined as __« Any [transmission], [emission] or reception of signs, signals, writings, images and sounds or intelligence of any nature by [wire], [radio], optical or other [electromagnetic] systems__.» This definition is identical to those contained in the Annex to the [Constitution and Convention of the International Telecommunication Union] (Geneva, 1992).",
+        "create-time": 1618109534245,
+        "uid": "BVdFLb6Ho",
+        "edit-time": 1618109575504,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -30316,6 +30722,18 @@
     },
     "children": [
       {
+        "string": "audio message",
+        "create-time": 1618109331327,
+        "uid": "LWPR0dAgf",
+        "edit-time": 1618109332565,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[communication channel]]",
         "refs": [
           {
@@ -30509,6 +30927,192 @@
     "title": "April 11th, 2021",
     "uid": "04-11-2021",
     "edit-time": 1618105752353,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109033830,
+    "title": "communications satellite",
+    "uid": "RkOv89W9W",
+    "edit-time": 1618109033840,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109033830,
+    "title": "telegraph",
+    "uid": "8BAjRrUO3",
+    "edit-time": 1618109033840,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109033830,
+    "title": "teleprinter",
+    "uid": "FMjjQGk94",
+    "edit-time": 1618109033840,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109033830,
+    "title": "network",
+    "uid": "fF2Rt-Lr2",
+    "edit-time": 1618109033840,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109033830,
+    "title": "microwave transmission",
+    "uid": "bOVo2MfSe",
+    "edit-time": 1618109033840,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109033830,
+    "title": "optical fiber",
+    "uid": "C_a_7Gkaa",
+    "edit-time": 1618109033840,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109056537,
+    "title": "long-distance communication",
+    "uid": "cIP5ZgPQa",
+    "edit-time": 1618109056538,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618109267534,
+    "title": "information transmission",
+    "uid": "l8g70o2aC",
+    "edit-time": 1618109267534,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618112130198,
+    "title": "wireless communication",
+    "uid": "TU2HabTbS",
+    "edit-time": 1618112130199,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618112145589,
+    "title": "radio communication",
+    "uid": "YdFhur9pb",
+    "edit-time": 1618112145589,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618112254904,
+    "title": "prize",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Nobel Prize]]",
+        "refs": [
+          {
+            "uid": "XsfxtFUfw"
+          }
+        ],
+        "children": [
+          {
+            "string": "Nobel Prize in Physics",
+            "uid": "z8JLrf3Bc",
+            "edit-time": 1618112219954,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Bf7umqIuF",
+        "edit-time": 1618112263930,
+        ":block/refs": [
+          {
+            ":block/uid": "XsfxtFUfw"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "1YaDzKjwo",
+    "edit-time": 1618112254904,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618112263932,
+    "title": "Nobel Prize",
+    "uid": "XsfxtFUfw",
+    "edit-time": 1618112263932,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618112359960,
+    "title": "Guglielmo Marconi",
+    "uid": "1qLe46fth",
+    "edit-time": 1618112359969,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

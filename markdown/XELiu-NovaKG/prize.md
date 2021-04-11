@@ -1,0 +1,2 @@
+- [[Nobel Prize]]
+    - Nobel Prize in Physics

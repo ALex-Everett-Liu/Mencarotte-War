@@ -5,4 +5,4 @@
         - fragmented information
         - technological revolution
 - [[information volume]];
-- the transmission of information: 信息传输
+- the transmission of information; [[information transmission]]: 信息传输

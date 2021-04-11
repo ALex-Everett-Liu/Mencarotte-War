@@ -1,4 +1,3 @@
 - [[mail]]
 - [[signal]]
 - [[telecommunication]]
-- [[telephone]]
