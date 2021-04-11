@@ -1,5 +1,7 @@
+- [[file structure]]
 - management...
     - [[file management]]
+    - [[project management]]
     - [[time management]]
 - [[note-taking]]; note-taking tool
 - [[text editor]]

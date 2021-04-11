@@ -4,7 +4,6 @@
 - [[engineering]]
 - [[daily life]]; [[everyday life]]...
 - [[geoscience]]
-- [[history]]
 - [[language]]
 - [[life science]]
 - [[literature and art]]
@@ -18,9 +17,12 @@
 - personal
     - [[meiz]]
 - [[philosophy]]
-- [[politics]]
-- [[religion]]
 - [[science]]
+- [[social science]]
+    - [[history]]
+    - [[law]]
+    - [[politics]]
+    - [[religion]]
 - [[technology]]
 - ---
 - my methodology

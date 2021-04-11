@@ -1,0 +1,7 @@
+- [[cheat sheet]]
+- check form; check box...
+- long-term project
+- sample project
+- [[task management]]
+- [[todo list]]; [[to-do list]]
+    - un-completed project

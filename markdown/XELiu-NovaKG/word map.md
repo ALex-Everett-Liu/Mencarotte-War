@@ -32,6 +32,14 @@
             - cognize
                 - cognition; cognitive
                 - recognise; recognize
+            - com
+                - com-
+                    - comp
+                        - company
+                            - accompany
+                                - accompaniment;
+                        - compass
+                            - encompass
             - con
                 - contra
                     - contradict

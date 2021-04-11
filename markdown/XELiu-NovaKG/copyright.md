@@ -1,0 +1,5 @@
+- license...
+    - open-source
+    - [[free license]]; [[free software]]
+    - Creative Commons license
+    - maintain the system

@@ -1,2 +1,3 @@
+- [[marketing]]
 - [[product]]
 - [[publish]]

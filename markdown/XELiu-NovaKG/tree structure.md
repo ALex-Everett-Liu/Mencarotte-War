@@ -1,0 +1,15 @@
+- [[index]]
+    - [[keyword]]; [[topic]]
+    - [[outline]]
+        - [[outliner]]
+    - parallel index
+    - relative index; relative location
+        - appropriate location; proper place
+    - structured note
+    - [[Table of Contents (ToC)]]
+        - [[Map of Content (MoC)]]
+    - [[tag]]; [[label]]; [[category]]...
+        - the types of content
+- file cabinet
+- [[file tree]]; knowledge tree
+- [[mind map]]; mind mapping
