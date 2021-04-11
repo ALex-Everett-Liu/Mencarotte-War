@@ -1,0 +1,6 @@
+- dictionary 
+    - Past research [pays close attention to] the impact on social structure of change of mass media technology more, seldom discuss the function in the social stratum splits up of mass media. 阶层分化 dict.cnki.net
+    - Derived from the theory of mass media technology in the medium-term, it entered into the late technological determinism of the pessimist "fatal strategy" of object. 
+    - All the [weird issues] like mass media, technology, crazy shopping, even [Hitler studies] and [terrorist doctrines] have been classified into these kinds of religions. www.[fabiao].net
+    - With the development of mass media and high technology, popular culture has stirred a rising cacophony throughout the world. 众声喧哗
+    - Firstly, the paper describes how [religious organizations] have been using mass media and information technology, such as print, cinema, radio, television, Internet, cellular phone, and virtual reality. www.[ceps].com.tw

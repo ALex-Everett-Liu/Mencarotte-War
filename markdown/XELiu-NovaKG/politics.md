@@ -1,3 +1,16 @@
+- political activity
 - political spectrum
+    - centrist: 中间派, 中立派, 温和主义者;
     - radical left: 激进的左翼
     - statist right: 中央集权主义右翼
+    - 政治倾向;
+- [[public utility]]; public utilities; 公共事业; 公用事业
+    - economics of transport and utility industries 
+    - emergency vehicle
+        - fire engine
+        - ambulance
+    - [[public service]]
+    - public spending
+    - public feelings
+- reform
+- revolution

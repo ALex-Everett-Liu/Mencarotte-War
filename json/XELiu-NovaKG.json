@@ -19689,8 +19689,32 @@
     },
     "children": [
       {
+        "string": "political activity",
+        "create-time": 1618116624894,
+        "uid": "SYcTr9mcg",
+        "edit-time": 1618116625566,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "political spectrum",
         "children": [
+          {
+            "string": "centrist: 中间派, 中立派, 温和主义者;",
+            "create-time": 1618116613360,
+            "uid": "5YbtoZVFp",
+            "edit-time": 1618116614028,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "radical left: 激进的左翼",
             "uid": "WkShs5RN7",
@@ -19706,10 +19730,130 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "政治倾向;",
+            "create-time": 1618116617259,
+            "uid": "phWH-nLjM",
+            "edit-time": 1618116618181,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "ApkzZBYux",
         "edit-time": 1617735150916,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[public utility]]; public utilities; 公共事业; 公用事业",
+        "refs": [
+          {
+            "uid": "Kwql6Lvsh"
+          }
+        ],
+        "children": [
+          {
+            "string": "economics of transport and utility industries ",
+            "create-time": 1618116733602,
+            "uid": "7ywKM-n2M",
+            "edit-time": 1618116734646,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "emergency vehicle",
+            "children": [
+              {
+                "string": "fire engine",
+                "uid": "wmpY7jhfg",
+                "edit-time": 1618116634357,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "ambulance",
+                "uid": "0LKhutz9j",
+                "edit-time": 1618116634357,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "U77mOn1nW",
+            "edit-time": 1618116634357,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[public service]]",
+            "refs": [
+              {
+                "uid": "IrOtKog8c"
+              }
+            ],
+            "uid": "m4aF1Phv-",
+            "edit-time": 1618116651874,
+            ":block/refs": [
+              {
+                ":block/uid": "IrOtKog8c"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "public spending",
+            "uid": "K2XBdSu9i",
+            "edit-time": 1618116634357,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "public feelings",
+            "uid": "Z45IdDIOr",
+            "edit-time": 1618116634357,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "e-j1HEalH",
+        "edit-time": 1618116704676,
+        ":block/refs": [
+          {
+            ":block/uid": "Kwql6Lvsh"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "reform",
+        "uid": "_Puf3ZPtF",
+        "edit-time": 1618116634357,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "revolution",
+        "uid": "BQybWcvpr",
+        "edit-time": 1618116634357,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -23125,6 +23269,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "((7ywKM-n2M))",
+        "create-time": 1618116759256,
+        ":block/refs": [
+          {
+            ":block/uid": "7ywKM-n2M"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "7ywKM-n2M"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "P3JGLLyfU",
+        "edit-time": 1618116760188,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "_XO4tWBi2",
@@ -25412,6 +25578,28 @@
         }
       },
       {
+        "string": "[[mass media technology]]: 大众传媒技术",
+        "create-time": 1618116400172,
+        ":block/refs": [
+          {
+            ":block/uid": "ovkIkM5vt"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ovkIkM5vt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "0E2C-MwhR",
+        "edit-time": 1618116408441,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[multi-media]]",
         "refs": [
           {
@@ -25952,105 +26140,245 @@
         }
       },
       {
-        "edit-time": 1618095922162,
+        "string": "Abstract",
+        "create-time": 1618115858218,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         "children": [
           {
-            "edit-time": 1618099816851,
+            "edit-time": 1618095922162,
             "children": [
               {
-                "string": "Other examples of pre-modern [[long-distance communication]] included [audio messages](((LWPR0dAgf))), such as [coded drumbeats], [lung-blown horns], 肺吹笛角 and [loud whistles]. 响亮的哨声 ",
-                "create-time": 1618109037357,
-                ":block/refs": [
+                "edit-time": 1618115949238,
+                "children": [
                   {
-                    ":block/uid": "cIP5ZgPQa"
+                    "string": "Other examples of pre-modern [[long-distance communication]] included [audio messages](((LWPR0dAgf))), such as [coded drumbeats], [lung-blown horns], 肺吹笛角 and [loud whistles]. 响亮的哨声 ",
+                    "create-time": 1618109037357,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "cIP5ZgPQa"
+                      },
+                      {
+                        ":block/uid": "LWPR0dAgf"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "cIP5ZgPQa"
+                      },
+                      {
+                        "uid": "LWPR0dAgf"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "vHqMfQKbQ",
+                    "edit-time": 1618109338560,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   },
                   {
-                    ":block/uid": "LWPR0dAgf"
+                    "string": "[20th- and 21st-century technologies] for long-distance communication usually involve [electrical and electromagnetic technologies], such as [[telegraph]], [[telephone]], [[television]] and [[teleprinter]], [[network]]s, [[radio]], [[microwave transmission]], [[optical fiber]], and [communications satellites]([[communications satellite]]).\n210411-10:48",
+                    "create-time": 1618095462856,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "zQvgaMs5H"
+                      },
+                      {
+                        ":block/uid": "qZMqkSwtM"
+                      },
+                      {
+                        ":block/uid": "-ZGnvYusa"
+                      },
+                      {
+                        ":block/uid": "RkOv89W9W"
+                      },
+                      {
+                        ":block/uid": "8BAjRrUO3"
+                      },
+                      {
+                        ":block/uid": "FMjjQGk94"
+                      },
+                      {
+                        ":block/uid": "fF2Rt-Lr2"
+                      },
+                      {
+                        ":block/uid": "bOVo2MfSe"
+                      },
+                      {
+                        ":block/uid": "C_a_7Gkaa"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "zQvgaMs5H"
+                      },
+                      {
+                        "uid": "qZMqkSwtM"
+                      },
+                      {
+                        "uid": "-ZGnvYusa"
+                      },
+                      {
+                        "uid": "RkOv89W9W"
+                      },
+                      {
+                        "uid": "8BAjRrUO3"
+                      },
+                      {
+                        "uid": "FMjjQGk94"
+                      },
+                      {
+                        "uid": "fF2Rt-Lr2"
+                      },
+                      {
+                        "uid": "bOVo2MfSe"
+                      },
+                      {
+                        "uid": "C_a_7Gkaa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "OLCbkS64Y",
+                    "edit-time": 1618109615419,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[Visualization](https://en.wikipedia.org/wiki/File:Internet_map_1024.jpg) from the [[Opte Project]] of the [various routes] through [a portion of the Internet] #pt9",
+                    "create-time": 1618115758918,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "7jsr38N4d"
+                      },
+                      {
+                        ":block/uid": "0fQOjXusp"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "7jsr38N4d"
+                      },
+                      {
+                        "uid": "0fQOjXusp"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "zrAc0Vv02",
+                    "edit-time": 1618115809807,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "cIP5ZgPQa"
+                    "uid": "oPloMHYm0"
                   },
                   {
-                    "uid": "LWPR0dAgf"
+                    "uid": "sAYctwMXJ"
+                  },
+                  {
+                    "uid": "3KGHmNbT-"
+                  },
+                  {
+                    "uid": "RMV42LWFc"
+                  },
+                  {
+                    "uid": "wCMH0aDXh"
+                  },
+                  {
+                    "uid": "p01KIQgkV"
+                  },
+                  {
+                    "uid": "OMqXr44vR"
+                  },
+                  {
+                    "uid": "qGe4Ydf13"
+                  },
+                  {
+                    "uid": "rE-txODeu"
+                  },
+                  {
+                    "uid": "JOVXLbIdf"
+                  },
+                  {
+                    "uid": "xT92A0HRb"
+                  },
+                  {
+                    "uid": "OK5DWZF9r"
+                  },
+                  {
+                    "uid": "eeerAXRTp"
+                  },
+                  {
+                    "uid": "ysSRt7QuS"
+                  },
+                  {
+                    "uid": "I_DWGp0oN"
                   }
                 ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "vHqMfQKbQ",
-                "edit-time": 1618109338560,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "[20th- and 21st-century technologies] for long-distance communication usually involve [electrical and electromagnetic technologies], such as [[telegraph]], [[telephone]], [[television]] and [[teleprinter]], [[network]]s, [[radio]], [[microwave transmission]], [[optical fiber]], and [communications satellites]([[communications satellite]]).\n210411-10:48",
-                "create-time": 1618095462856,
+                "uid": "cE07h1AoA",
                 ":block/refs": [
                   {
-                    ":block/uid": "zQvgaMs5H"
+                    ":block/uid": "oPloMHYm0"
                   },
                   {
-                    ":block/uid": "qZMqkSwtM"
+                    ":block/uid": "sAYctwMXJ"
                   },
                   {
-                    ":block/uid": "-ZGnvYusa"
+                    ":block/uid": "3KGHmNbT-"
                   },
                   {
-                    ":block/uid": "RkOv89W9W"
+                    ":block/uid": "RMV42LWFc"
                   },
                   {
-                    ":block/uid": "8BAjRrUO3"
+                    ":block/uid": "wCMH0aDXh"
                   },
                   {
-                    ":block/uid": "FMjjQGk94"
+                    ":block/uid": "p01KIQgkV"
                   },
                   {
-                    ":block/uid": "fF2Rt-Lr2"
+                    ":block/uid": "OMqXr44vR"
                   },
                   {
-                    ":block/uid": "bOVo2MfSe"
+                    ":block/uid": "qGe4Ydf13"
                   },
                   {
-                    ":block/uid": "C_a_7Gkaa"
+                    ":block/uid": "rE-txODeu"
+                  },
+                  {
+                    ":block/uid": "JOVXLbIdf"
+                  },
+                  {
+                    ":block/uid": "xT92A0HRb"
+                  },
+                  {
+                    ":block/uid": "OK5DWZF9r"
+                  },
+                  {
+                    ":block/uid": "eeerAXRTp"
+                  },
+                  {
+                    ":block/uid": "ysSRt7QuS"
+                  },
+                  {
+                    ":block/uid": "I_DWGp0oN"
                   }
                 ],
-                "refs": [
-                  {
-                    "uid": "zQvgaMs5H"
-                  },
-                  {
-                    "uid": "qZMqkSwtM"
-                  },
-                  {
-                    "uid": "-ZGnvYusa"
-                  },
-                  {
-                    "uid": "RkOv89W9W"
-                  },
-                  {
-                    "uid": "8BAjRrUO3"
-                  },
-                  {
-                    "uid": "FMjjQGk94"
-                  },
-                  {
-                    "uid": "fF2Rt-Lr2"
-                  },
-                  {
-                    "uid": "bOVo2MfSe"
-                  },
-                  {
-                    "uid": "C_a_7Gkaa"
-                  }
-                ],
+                "string": "The [[transmission media]] in telecommunication have [evolved through numerous stages of technology], from [[beacon]]s and other [[visual signal]]s (such as [smoke signals](((eeerAXRTp))), [semaphore telegraphs](((OK5DWZF9r))), [[signal flag]]s, and [[optical heliograph]]s), to [[electrical cable]] and [[electromagnetic radiation]], including light. Such [[transmission path]]s are often divided into [[communication channel]]s, which [afford the advantages of] [multiplexing](((xT92A0HRb))) multiple [concurrent communication sessions](((JOVXLbIdf))). 多路复用多个并发通信会话 Telecommunication is often used in its [plural form](((ysSRt7QuS))), because it [involves many different technologies].[3](((I_DWGp0oN)))\n210411-08:05",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "OLCbkS64Y",
-                "edit-time": 1618109615419,
+                "create-time": 1618095465606,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -26058,195 +26386,193 @@
             ],
             "refs": [
               {
-                "uid": "oPloMHYm0"
+                "uid": "9YL0xmCYF"
               },
               {
-                "uid": "sAYctwMXJ"
+                "uid": "GQi11qfmQ"
               },
               {
-                "uid": "3KGHmNbT-"
+                "uid": "E6gBLqUFt"
               },
               {
-                "uid": "RMV42LWFc"
-              },
-              {
-                "uid": "wCMH0aDXh"
-              },
-              {
-                "uid": "p01KIQgkV"
-              },
-              {
-                "uid": "OMqXr44vR"
-              },
-              {
-                "uid": "qGe4Ydf13"
-              },
-              {
-                "uid": "rE-txODeu"
-              },
-              {
-                "uid": "JOVXLbIdf"
-              },
-              {
-                "uid": "xT92A0HRb"
-              },
-              {
-                "uid": "OK5DWZF9r"
-              },
-              {
-                "uid": "eeerAXRTp"
-              },
-              {
-                "uid": "ysSRt7QuS"
+                "uid": "q20CfgDNj"
               }
             ],
-            "uid": "cE07h1AoA",
+            "uid": "Ju3cx6ENc",
             ":block/refs": [
               {
-                ":block/uid": "oPloMHYm0"
+                ":block/uid": "9YL0xmCYF"
               },
               {
-                ":block/uid": "sAYctwMXJ"
+                ":block/uid": "GQi11qfmQ"
               },
               {
-                ":block/uid": "3KGHmNbT-"
+                ":block/uid": "E6gBLqUFt"
               },
               {
-                ":block/uid": "RMV42LWFc"
-              },
-              {
-                ":block/uid": "wCMH0aDXh"
-              },
-              {
-                ":block/uid": "p01KIQgkV"
-              },
-              {
-                ":block/uid": "OMqXr44vR"
-              },
-              {
-                ":block/uid": "qGe4Ydf13"
-              },
-              {
-                ":block/uid": "rE-txODeu"
-              },
-              {
-                ":block/uid": "JOVXLbIdf"
-              },
-              {
-                ":block/uid": "xT92A0HRb"
-              },
-              {
-                ":block/uid": "OK5DWZF9r"
-              },
-              {
-                ":block/uid": "eeerAXRTp"
-              },
-              {
-                ":block/uid": "ysSRt7QuS"
+                ":block/uid": "q20CfgDNj"
               }
             ],
-            "string": "The [[transmission media]] in telecommunication have [evolved through numerous stages of technology], from [[beacon]]s and other [[visual signal]]s (such as [smoke signals](((eeerAXRTp))), [semaphore telegraphs](((OK5DWZF9r))), [[signal flag]]s, and [[optical heliograph]]s), to [[electrical cable]] and [[electromagnetic radiation]], including light. Such [[transmission path]]s are often divided into [[communication channel]]s, which [afford the advantages of] [multiplexing](((xT92A0HRb))) multiple [concurrent communication sessions](((JOVXLbIdf))). 多路复用多个并发通信会话 Telecommunication is often used in its [plural form](((ysSRt7QuS))), because it [involves many different technologies].[3]\n210411-08:05",
+            "string": "Telecommunication is [the transmission of information](((GQi11qfmQ))) [by various types of technologies] over wire, radio, optical or other [[electromagnetic system]]s.[1][2] [It has its origin in] [the desire of humans for] [communication over a distance] greater than that [feasible with the human voice]([[human voice]]), but [with a similar scale of expediency]; 适宜性 thus, [slow systems] (such as [[postal mail]]) are [excluded from the field].\n210411-07:05",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "create-time": 1618095465606,
+            "create-time": 1618095466562,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A revolution in [[wireless communication]] began [in the first decade of the 20th century] with the [pioneering developments] in [[radio communication]]s by [[Guglielmo Marconi]], who won the [Nobel Prize in Physics](((z8JLrf3Bc))) in 1909, and other notable [pioneering inventors] and developers in the field of [electrical and electronic telecommunications](((5tvnI3Fze))). These included Charles Wheatstone and Samuel Morse (inventors of the telegraph), Antonio Meucci and Alexander Graham Bell (some of the [inventors and developers] of the telephone, see Invention of the telephone), Edwin Armstrong and Lee de Forest (inventors of radio), as well as Vladimir K. Zworykin, John Logie Baird and Philo Farnsworth (some of the inventors of television).",
+            "create-time": 1618109532548,
+            ":block/refs": [
+              {
+                ":block/uid": "TU2HabTbS"
+              },
+              {
+                ":block/uid": "YdFhur9pb"
+              },
+              {
+                ":block/uid": "z8JLrf3Bc"
+              },
+              {
+                ":block/uid": "1qLe46fth"
+              },
+              {
+                ":block/uid": "5tvnI3Fze"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "TU2HabTbS"
+              },
+              {
+                "uid": "YdFhur9pb"
+              },
+              {
+                "uid": "z8JLrf3Bc"
+              },
+              {
+                "uid": "1qLe46fth"
+              },
+              {
+                "uid": "5tvnI3Fze"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "fil8Y-KNt",
+            "edit-time": 1618112398070,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "According to __Article 1.3__ of the Radio Regulations (RR), telecommunication is defined as __« Any [transmission], [emission] or reception of signs, signals, writings, images and sounds or intelligence of any nature by [wire], [radio], optical or other [electromagnetic] systems__.» [This definition is identical to] those contained in the Annex to the [Constitution and Convention of the International Telecommunication Union] (Geneva, 1992).",
+            "create-time": 1618109534245,
+            "uid": "BVdFLb6Ho",
+            "edit-time": 1618115725108,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "refs": [
-          {
-            "uid": "9YL0xmCYF"
-          },
-          {
-            "uid": "GQi11qfmQ"
-          },
-          {
-            "uid": "E6gBLqUFt"
-          },
-          {
-            "uid": "q20CfgDNj"
-          }
-        ],
-        "uid": "Ju3cx6ENc",
-        ":block/refs": [
-          {
-            ":block/uid": "9YL0xmCYF"
-          },
-          {
-            ":block/uid": "GQi11qfmQ"
-          },
-          {
-            ":block/uid": "E6gBLqUFt"
-          },
-          {
-            ":block/uid": "q20CfgDNj"
-          }
-        ],
-        "string": "Telecommunication is [the transmission of information](((GQi11qfmQ))) [by various types of technologies] over wire, radio, optical or other [[electromagnetic system]]s.[1][2] [It has its origin in] [the desire of humans for] [communication over a distance] greater than that [feasible with the human voice]([[human voice]]), but [with a similar scale of expediency]; 适宜性 thus, [slow systems] (such as [[postal mail]]) are [excluded from the field].\n210411-07:05",
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "create-time": 1618095466562,
+        "uid": "y6zatHu2k",
+        "edit-time": 1618115861796,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
       },
       {
-        "string": "A revolution in [[wireless communication]] began [in the first decade of the 20th century] with the [pioneering developments] in [[radio communication]]s by [[Guglielmo Marconi]], who won the [Nobel Prize in Physics](((z8JLrf3Bc))) in 1909, and other notable [pioneering inventors] and developers in the field of [electrical and electronic telecommunications](((5tvnI3Fze))). These included Charles Wheatstone and Samuel Morse (inventors of the telegraph), Antonio Meucci and Alexander Graham Bell (some of the [inventors and developers] of the telephone, see Invention of the telephone), Edwin Armstrong and Lee de Forest (inventors of radio), as well as Vladimir K. Zworykin, John Logie Baird and Philo Farnsworth (some of the inventors of television).",
-        "create-time": 1618109532548,
-        ":block/refs": [
-          {
-            ":block/uid": "TU2HabTbS"
-          },
-          {
-            ":block/uid": "YdFhur9pb"
-          },
-          {
-            ":block/uid": "z8JLrf3Bc"
-          },
-          {
-            ":block/uid": "1qLe46fth"
-          },
-          {
-            ":block/uid": "5tvnI3Fze"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "TU2HabTbS"
-          },
-          {
-            "uid": "YdFhur9pb"
-          },
-          {
-            "uid": "z8JLrf3Bc"
-          },
-          {
-            "uid": "1qLe46fth"
-          },
-          {
-            "uid": "5tvnI3Fze"
-          }
-        ],
+        "string": "References",
+        "create-time": 1618115872850,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "fil8Y-KNt",
-        "edit-time": 1618112398070,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "According to __Article 1.3__ of the Radio Regulations (RR), telecommunication is defined as __« Any [transmission], [emission] or reception of signs, signals, writings, images and sounds or intelligence of any nature by [wire], [radio], optical or other [electromagnetic] systems__.» This definition is identical to those contained in the Annex to the [Constitution and Convention of the International Telecommunication Union] (Geneva, 1992).",
-        "create-time": 1618109534245,
-        "uid": "BVdFLb6Ho",
-        "edit-time": 1618109575504,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
+        "children": [
+          {
+            "string": "Citations",
+            "create-time": 1618115873315,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[3]: Huurdeman, Anton A. ([31 July 2003](https://books.google.com/books?id=SnjGRDVIUL4C&pg=PA3)). [__The Worldwide History of Telecommunications__]. John Wiley & Sons. [ISBN] [978-0-471-20505-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-471-20505-0).",
+                "create-time": 1618115898889,
+                "uid": "I_DWGp0oN",
+                "edit-time": 1618115936456,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[6]: Jean-Marie Dilhac, [From tele-communicare to Telecommunications](http://www.ieee.org/portal/cms_docs_iportals/iportals/aboutus/history_center/conferences/che2004/Dilhac.pdf), 2004.",
+                "create-time": 1618115965431,
+                "uid": "w5fIPImsf",
+                "edit-time": 1618115967631,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "4FFW7yvwO",
+            "edit-time": 1618115898898,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Bibliography",
+            "create-time": 1618115988358,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[Goggin, Gerard](https://en.wikipedia.org/wiki/Gerard_Goggin), __Global Mobile Media__ (New York: Routledge, 2011), p. 176. [ISBN] [978-0-415-46918-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-415-46918-0).",
+                "create-time": 1618115988744,
+                "uid": "tCho9zuiP",
+                "edit-time": 1618116008008,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Wheen, Andrew. __Dot-Dash to Dot.Com: How [Modern Telecommunications] Evolved from the Telegraph to the Internet__ (Springer, 2011).",
+                "create-time": 1618116016036,
+                "uid": "CWWtRQwdM",
+                "edit-time": 1618116025791,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "SvpdhwEZa",
+            "edit-time": 1618115988752,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "22qwWDmUX",
+        "edit-time": 1618115873320,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -31113,6 +31439,130 @@
     "title": "Guglielmo Marconi",
     "uid": "1qLe46fth",
     "edit-time": 1618112359969,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618115786661,
+    "title": "Opte Project",
+    "uid": "0fQOjXusp",
+    "edit-time": 1618115786661,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618116408443,
+    "title": "mass media technology",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1618116410289,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Past research [pays close attention to] the impact on social structure of change of mass media technology more, seldom discuss the function in the social stratum splits up of mass media. 阶层分化 dict.cnki.net",
+            "create-time": 1618116417768,
+            "uid": "QyGraKHaQ",
+            "edit-time": 1618116437352,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Derived from the theory of mass media technology in the medium-term, it entered into the late technological determinism of the pessimist \"fatal strategy\" of object. ",
+            "create-time": 1618116417768,
+            "uid": "laAB2vs9X",
+            "edit-time": 1618116417772,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "All the [weird issues] like mass media, technology, crazy shopping, even [Hitler studies] and [terrorist doctrines] have been classified into these kinds of religions. www.[fabiao].net",
+            "create-time": 1618116417768,
+            "uid": "oTYUv_lnE",
+            "edit-time": 1618116454441,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "With the development of mass media and high technology, popular culture has stirred a rising cacophony throughout the world. 众声喧哗",
+            "create-time": 1618116417768,
+            "uid": "EP6Wma7qV",
+            "edit-time": 1618116417772,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Firstly, the paper describes how [religious organizations] have been using mass media and information technology, such as print, cinema, radio, television, Internet, cellular phone, and virtual reality. www.[ceps].com.tw",
+            "create-time": 1618116417768,
+            "uid": "aB-TLJllm",
+            "edit-time": 1618116471602,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "gj4VGHb1e",
+        "edit-time": 1618116412261,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ovkIkM5vt",
+    "edit-time": 1618116408444,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618116651876,
+    "title": "public service",
+    "uid": "IrOtKog8c",
+    "edit-time": 1618116651877,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618116653893,
+    "title": "public utility",
+    "uid": "Kwql6Lvsh",
+    "edit-time": 1618116653894,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
