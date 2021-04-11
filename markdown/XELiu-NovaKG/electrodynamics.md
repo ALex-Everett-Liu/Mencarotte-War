@@ -10,6 +10,7 @@
         - electric displacement field
         - electric field strength
         - electric field vector
+    - [[electromagnetic system]]
     - [[electromagnetic wave]]
         - [[energy distribution]]
         - [[electromagnetic radiation]]

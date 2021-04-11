@@ -1,0 +1,9 @@
+- [[communication channel]]
+    - concurrent communication sessions
+    - multiplexing
+- [[visual signal]]
+    - [[beacon]]: 烽火; 灯塔; 信标
+    - [[optical heliograph]]: 日光反射信号仪器
+    - semaphore telegraph: 旗语电报, 信标
+    - [[signal flag]]
+    - smoke signal

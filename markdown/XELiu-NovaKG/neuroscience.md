@@ -1,0 +1,16 @@
+- [[brain science]]...
+    - human brain
+- human interaction...
+    - [[human voice]]
+    - vision: 视觉
+        - binocular vision
+        - human eye
+        - [[retinas]]
+    - listening...
+        - hearing impairment
+    - [[perception]]
+        - touch
+            - tactile impression: 触觉印象 
+- [[psychology]]
+- thinking
+    - thought structure

@@ -1,0 +1,5 @@
+- conduct electricity
+- [[electrical cable]]
+- electromagnetic interference
+- [[electrical power]]
+    - high voltage electricity

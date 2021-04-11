@@ -1,8 +1,2 @@
 - human interaction...
-    - vision: 视觉
-        - binocular vision
-        - human eye
-        - [[retinas]]
-    - listening...
-        - hearing impairment
 - [[medicine]]

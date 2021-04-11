@@ -1,1 +1,8 @@
+- general...
+    - provide information;
+    - Information Age
+        - information explosion; knowledge explosion
+        - fragmented information
+        - technological revolution
 - [[information volume]];
+- the transmission of information: 信息传输

@@ -1,6 +1,6 @@
 - existential; [[existential philosophy]]
 - general...
-    - collective view;
+    - [[collective view]];
 - [[logic]]
 - [[metaphysics]]
 - [[methodology]]...

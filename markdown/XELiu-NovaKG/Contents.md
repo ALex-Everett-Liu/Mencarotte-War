@@ -13,6 +13,7 @@
     - [[mathematics]]
     - [[physics]]
 - [[military]]
+- [[neuroscience]]
 - [[non-reality]]
 - personal
     - [[meiz]]
