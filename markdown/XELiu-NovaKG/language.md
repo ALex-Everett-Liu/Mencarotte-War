@@ -1,4 +1,7 @@
+- [[etymology]]
+    - [[Old Chinese]]
 - letter
     - [[alphabet]]
     - [[lexicographic relation]]: 词典关系
+- [[phonology]]
 - [[vocabulary]]

@@ -13341,6 +13341,44 @@
     },
     "children": [
       {
+        "string": "[[etymology]]",
+        "refs": [
+          {
+            "uid": "GVeo-VtH8"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Old Chinese]]",
+            "refs": [
+              {
+                "uid": "62kUvSo-l"
+              }
+            ],
+            "uid": "i6rsUcsW_",
+            "edit-time": 1618149666796,
+            ":block/refs": [
+              {
+                ":block/uid": "62kUvSo-l"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "znyforjsm",
+        "edit-time": 1618149668344,
+        ":block/refs": [
+          {
+            ":block/uid": "GVeo-VtH8"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "letter",
         "children": [
           {
@@ -13386,6 +13424,24 @@
         ],
         "uid": "l6aSbCGxR",
         "edit-time": 1617671742675,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[phonology]]",
+        "refs": [
+          {
+            "uid": "_6IpbJuc5"
+          }
+        ],
+        "uid": "NZDIY9p_M",
+        "edit-time": 1618149603944,
+        ":block/refs": [
+          {
+            ":block/uid": "_6IpbJuc5"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -32921,6 +32977,322 @@
     "title": "hierarchical level",
     "uid": "usxYjA27G",
     "edit-time": 1618141871940,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149603946,
+    "title": "phonology",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Old Chinese phonology]]",
+        "refs": [
+          {
+            "uid": "c4-IHAyp9"
+          }
+        ],
+        "uid": "_4TJiosUe",
+        "edit-time": 1618149610771,
+        ":block/refs": [
+          {
+            ":block/uid": "c4-IHAyp9"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "_6IpbJuc5",
+    "edit-time": 1618149603946,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149610773,
+    "title": "Old Chinese phonology",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Baxter–Sagart",
+        "uid": "QGiqq0wek",
+        "edit-time": 1618149600095,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Baxter's transcription",
+        "uid": "GAtrPIUMV",
+        "edit-time": 1618149600095,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "c4-IHAyp9",
+    "edit-time": 1618149610774,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149666800,
+    "title": "Old Chinese",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((_4TJiosUe))",
+        "refs": [
+          {
+            "uid": "_4TJiosUe"
+          }
+        ],
+        "uid": "2zyaN52rW",
+        "edit-time": 1618149648775,
+        ":block/refs": [
+          {
+            ":block/uid": "_4TJiosUe"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Middle Chinese]]",
+        "refs": [
+          {
+            "uid": "jYI_aCkml"
+          }
+        ],
+        "children": [
+          {
+            "string": "Early Middle Chinese",
+            "uid": "VTyBFal6N",
+            "edit-time": 1618149630339,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "YQt5B40fL",
+        "edit-time": 1618149689200,
+        ":block/refs": [
+          {
+            ":block/uid": "jYI_aCkml"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[seal script]]",
+        "refs": [
+          {
+            "uid": "HL9SQk4Mr"
+          }
+        ],
+        "uid": "9AjTpqjSs",
+        "edit-time": 1618149687820,
+        ":block/refs": [
+          {
+            ":block/uid": "HL9SQk4Mr"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[sound change]]",
+        "refs": [
+          {
+            "uid": "ym72Kcb4C"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[陈第 (Chen Di)]]",
+            "refs": [
+              {
+                "uid": "ZdEFH6V-O"
+              }
+            ],
+            "uid": "DlflL8LWy",
+            "edit-time": 1618149685368,
+            ":block/refs": [
+              {
+                ":block/uid": "ZdEFH6V-O"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Vd9rWMTKv",
+        "edit-time": 1618149686408,
+        ":block/refs": [
+          {
+            ":block/uid": "ym72Kcb4C"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618149697562,
+        "children": [
+          {
+            "edit-time": 1618149940925,
+            "children": [
+              {
+                "string": "另外还有一些[研究者本身的因素]。其中一个问题是做[历史语言学]的人比较少，而且进入[汉藏语系][历史语言学]的[门槛比较低]。在[印欧语]的历史语言学中，大部分学者都能至少精通希腊语和梵语，比如说耶拿的 Martin Kümmel，精通五六种[古典语言]，上课的时候[不带任何资料]，直接告诉你什么形态在什么文献中出现多少次，上他的课，学生大多都是[惊讶地张着嘴]度过的。汉藏语学者呢？这样的人可能一个都没有。[向柏霖]经常说，以后研究汉藏语系的历史语言学的人，必须精通藏语和一门[嘉绒语组]语言，不然这活儿真的干不下去。",
+                "create-time": 1618149892224,
+                "uid": "LZH8p1TOJ",
+                "edit-time": 1618149930934,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "还有就是，要分得清什么是脚踏实地的活儿，什么是[花活儿]。最终让你功成名就的，可能是那些花活儿，比如搞出个词汇扩散理论，或者落花理论、流水理论，或者构拟了个[原始藏缅语]，又或者是骂几句[西方学术霸权][为国人争光]……",
+                "children": [
+                  {
+                    "string": "但是真正能让你有成功的满足感的，是那些脚踏实地的活儿。",
+                    "uid": "BaoGb4zv9",
+                    "edit-time": 1618149817432,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "Pl9UFfYWm",
+                "edit-time": 1618149835822,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kp4t9aQO7"
+              }
+            ],
+            "uid": "4RrnWo3Ti",
+            ":block/refs": [
+              {
+                ":block/uid": "Kp4t9aQO7"
+              }
+            ],
+            "string": "去年有一本新书，Nathan Hill (2019)[2](https://www.zhihu.com/question/428821732#ref_2)（很多人已经看出了我是 Nathan Hill 控，实际上除了在 mirative 是否存在的问题上我对他[持保留意见]，他的其余观点我都是赞同的，而且我喜欢他写文章的方式），里边对[汉藏语系]的三种[古典语言]，藏语、汉语和缅语的[历史音系]进行了讨论，并[尝试解释了]其中的一些[对应关系]。这是一个[比较好的]对[原始汉藏语](https://www.zhihu.com/question/428821732)探索的开始，但是我们应该知道，这远远不够。 #pt10-100",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618149697558,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "8pSmtg0yE",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618149695614,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "62kUvSo-l",
+    "edit-time": 1618149666800,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149668347,
+    "title": "etymology",
+    "uid": "GVeo-VtH8",
+    "edit-time": 1618149668347,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149685370,
+    "title": "陈第 (Chen Di)",
+    "uid": "ZdEFH6V-O",
+    "edit-time": 1618149685371,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149686409,
+    "title": "sound change",
+    "uid": "ym72Kcb4C",
+    "edit-time": 1618149686410,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149687822,
+    "title": "seal script",
+    "uid": "HL9SQk4Mr",
+    "edit-time": 1618149687823,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618149689202,
+    "title": "Middle Chinese",
+    "uid": "jYI_aCkml",
+    "edit-time": 1618149689203,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
