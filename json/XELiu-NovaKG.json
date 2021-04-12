@@ -8291,6 +8291,44 @@
     },
     "children": [
       {
+        "string": "[[archive]]",
+        "refs": [
+          {
+            "uid": "DvoIW-sBy"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[backup]]",
+            "refs": [
+              {
+                "uid": "a--Jaw545"
+              }
+            ],
+            "uid": "QwaT7v3EN",
+            "edit-time": 1618263413043,
+            ":block/refs": [
+              {
+                ":block/uid": "a--Jaw545"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-BgJ8NQhJ",
+        "edit-time": 1618263414266,
+        ":block/refs": [
+          {
+            ":block/uid": "DvoIW-sBy"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[file format]]",
         "refs": [
           {
@@ -8360,6 +8398,40 @@
             ":block/refs": [
               {
                 ":block/uid": "tCoPTVQjw"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[import]]; [[export]]",
+            "refs": [
+              {
+                "uid": "SqiFCaxpD"
+              },
+              {
+                "uid": "_O1cKfjw6"
+              }
+            ],
+            "children": [
+              {
+                "string": "export to other format;",
+                "uid": "cxGMbQ0vM",
+                "edit-time": 1618263466858,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "q13a6d2Vg",
+            "edit-time": 1618263474610,
+            ":block/refs": [
+              {
+                ":block/uid": "SqiFCaxpD"
+              },
+              {
+                ":block/uid": "_O1cKfjw6"
               }
             ],
             ":edit/user": {
@@ -26314,6 +26386,104 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "Integration",
+        "create-time": 1618263206381,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1618263624534,
+            "children": [
+              {
+                "string": "[Notepad++ Portable]-A full-featured text editor with [syntax highlighting]. www.[dictall].com",
+                "create-time": 1618263555831,
+                "uid": "AnpxVfqZU",
+                "edit-time": 1618263569022,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "-yflEIlQI"
+              },
+              {
+                "uid": "cxGMbQ0vM"
+              },
+              {
+                "uid": "XdsnOGg1L"
+              },
+              {
+                "uid": "0XUGzrFz2"
+              },
+              {
+                "uid": "xewrmC20S"
+              }
+            ],
+            "uid": "Ve4aNrYbZ",
+            ":block/refs": [
+              {
+                ":block/uid": "-yflEIlQI"
+              },
+              {
+                ":block/uid": "cxGMbQ0vM"
+              },
+              {
+                ":block/uid": "XdsnOGg1L"
+              },
+              {
+                ":block/uid": "0XUGzrFz2"
+              },
+              {
+                ":block/uid": "xewrmC20S"
+              }
+            ],
+            "string": "Org-mode has some features to [export to other formats](((cxGMbQ0vM))), and other systems have some features to [handle org-mode formats]. Further, [a full-featured text editor] 功能齐全的 may [have functions to handle] [[wiki]]s, [[personal contact]]s, [[email]], [[calendar]]s, and so on; because org-mode is [simply plain text], these features could be integrated into [org-mode documents] as well.",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618263214026,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "From org-mode, add-on packages export to other markup format such as MediaWiki (org-export-generic, org-export), to flashcard learning systems implementing SuperMemo's algorithms (org-drill, org-learn).[17]\n\n",
+            "create-time": 1618263214917,
+            "uid": "rjqF72sPh",
+            "edit-time": 1618263214917,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Outside of org-mode editors, org markup is supported by the GitLab and GitHub code repositories,[18] the JIRA issue tracker,[19] Pandoc, and others.",
+            "create-time": 1618263206819,
+            "uid": "qnMwDnjmP",
+            "edit-time": 1618263214923,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "DChtMbkzZ",
+        "edit-time": 1618263206827,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "YMDS0Gq9h",
@@ -38565,6 +38735,168 @@
     "title": "Ubuntu",
     "uid": "XgVFrRQSl",
     "edit-time": 1618227439048,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263413047,
+    "title": "backup",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "backup script; backup tool",
+        "uid": "3mvwn-lsr",
+        "edit-time": 1618263431878,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "backup timeout",
+        "uid": "02_uFxeVU",
+        "edit-time": 1618263431878,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "full fidelity backups",
+        "uid": "ZO2odVWvQ",
+        "edit-time": 1618263431878,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((q13a6d2Vg))",
+        "create-time": 1618263486477,
+        ":block/refs": [
+          {
+            ":block/uid": "q13a6d2Vg"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q13a6d2Vg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "sLokNByGx",
+        "edit-time": 1618263487399,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "rolling backups",
+        "create-time": 1618263436504,
+        "uid": "FmMEMz27X",
+        "edit-time": 1618263437518,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "a--Jaw545",
+    "edit-time": 1618263413048,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263414268,
+    "title": "archive",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "conversations-of-record",
+        "uid": "ML0-wfzzf",
+        "edit-time": 1618263404874,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "recent file",
+        "uid": "4-l0CRUL_",
+        "edit-time": 1618263404874,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "DvoIW-sBy",
+    "edit-time": 1618263414268,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263474613,
+    "title": "import",
+    "uid": "SqiFCaxpD",
+    "edit-time": 1618263474614,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263474613,
+    "title": "export",
+    "uid": "_O1cKfjw6",
+    "edit-time": 1618263474614,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263616290,
+    "title": "calendar",
+    "uid": "XdsnOGg1L",
+    "edit-time": 1618263616291,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263624537,
+    "title": "wiki",
+    "uid": "0XUGzrFz2",
+    "edit-time": 1618263624538,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263624537,
+    "title": "personal contact",
+    "uid": "xewrmC20S",
+    "edit-time": 1618263624538,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
