@@ -1,6 +1,6 @@
 - innovation!
     - [[Roam Research]]
-- markdown
+- [[markdown]]; [[Markdown]]
     - [[Note-taking/Obsidian]]
     - [[思源笔记 (Siyuan Note)]]
     - [[Typora]]

@@ -2,7 +2,5 @@
 - [[markup language]]
 - [[source]]; [[resource]]
     - [[upload]]; [[download]]
-- style...
-    - [[scrollbar]]
 - [[upload]]; [[download]]
 - [[Web development]]; web developer; Website Development

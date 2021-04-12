@@ -1,6 +1,7 @@
 - [[cheat sheet]]
 - check form; check box...
 - long-term project
+- [[project planning]]
 - sample project
 - [[task management]]
 - [[todo list]]; [[to-do list]]; [[TODO list]]

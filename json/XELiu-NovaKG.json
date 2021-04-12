@@ -1520,28 +1520,6 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
-          },
-          {
-            "string": "((vZXtDEAvo))",
-            "create-time": 1617579007379,
-            ":block/refs": [
-              {
-                ":block/uid": "vZXtDEAvo"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "vZXtDEAvo"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "hyPUJg8eP",
-            "edit-time": 1617579008001,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
           }
         ],
         "refs": [
@@ -1615,7 +1593,12 @@
         }
       },
       {
-        "string": "markdown",
+        "string": "((YehWBZGxx))",
+        "refs": [
+          {
+            "uid": "YehWBZGxx"
+          }
+        ],
         "children": [
           {
             "string": "[[Note-taking/Obsidian]]",
@@ -1673,7 +1656,12 @@
           }
         ],
         "uid": "NCVoRpm1y",
-        "edit-time": 1617931014491,
+        "edit-time": 1618200372704,
+        ":block/refs": [
+          {
+            ":block/uid": "YehWBZGxx"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2757,42 +2745,6 @@
         }
       },
       {
-        "string": "style...",
-        "create-time": 1617578995911,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "children": [
-          {
-            "string": "[[scrollbar]]",
-            "create-time": 1617579035394,
-            ":block/refs": [
-              {
-                ":block/uid": "_B4YqGU4I"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "_B4YqGU4I"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "gGdas74F5",
-            "edit-time": 1617579036734,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "vZXtDEAvo",
-        "edit-time": 1617578998796,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "[[upload]]; [[download]]",
         "create-time": 1618041304141,
         ":block/refs": [
@@ -2857,18 +2809,6 @@
     },
     "children": [
       {
-        "string": "the presentation of a document",
-        "create-time": 1617578676679,
-        "uid": "8UTngpN0B",
-        "edit-time": 1617578677613,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "edit-time": 1618195685551,
         "children": [
           {
@@ -2910,6 +2850,104 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1618195677987,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[LaTeX]]",
+        "create-time": 1618200508777,
+        ":block/refs": [
+          {
+            ":block/uid": "dmiYgzMii"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "dmiYgzMii"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "EKzEJpFN7",
+        "edit-time": 1618200510840,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[markdown]]; [[Markdown]]",
+        "create-time": 1618200356822,
+        ":block/refs": [
+          {
+            ":block/uid": "k51ZeZCjJ"
+          },
+          {
+            ":block/uid": "pyAzpd6qJ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "k51ZeZCjJ"
+          },
+          {
+            "uid": "pyAzpd6qJ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "YehWBZGxx",
+        "edit-time": 1618200380537,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "the presentation of a document",
+        "create-time": 1617578676679,
+        "uid": "8UTngpN0B",
+        "edit-time": 1617578677613,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "style; styling...",
+        "create-time": 1617578995911,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[scrollbar]]",
+            "create-time": 1617579035394,
+            ":block/refs": [
+              {
+                ":block/uid": "_B4YqGU4I"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_B4YqGU4I"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "gGdas74F5",
+            "edit-time": 1617579036734,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "vZXtDEAvo",
+        "edit-time": 1618201277191,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2997,25 +3035,50 @@
         }
       },
       {
-        "string": "XML",
+        "string": "[[XML]]",
+        "refs": [
+          {
+            "uid": "VcR0ALU-T"
+          }
+        ],
         "children": [
           {
-            "string": "OPML",
+            "string": "[[OPML]]",
+            "refs": [
+              {
+                "uid": "ni28SO2DJ"
+              }
+            ],
             "uid": "9Y_cPQ5C8",
-            "edit-time": 1618195539671,
+            "edit-time": 1618201574026,
+            ":block/refs": [
+              {
+                ":block/uid": "ni28SO2DJ"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
         "uid": "WdoeKSnxv",
-        "edit-time": 1618195539671,
+        "edit-time": 1618201575186,
+        ":block/refs": [
+          {
+            ":block/uid": "VcR0ALU-T"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
       },
       {
-        "string": "YAML",
+        "string": "[[YAML]]",
+        "refs": [
+          {
+            "uid": "7fM3Z8gmj"
+          }
+        ],
         "children": [
           {
             "string": "markdown YAML fields;",
@@ -3023,14 +3086,6 @@
               {
                 "string": "YAML front-matter field",
                 "uid": "H8WCzCdRk",
-                "edit-time": 1618195539671,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "2 Backlinks",
-                "uid": "C2__-5cEe",
                 "edit-time": 1618195539671,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -3045,7 +3100,12 @@
           }
         ],
         "uid": "kOxN7DJHb",
-        "edit-time": 1618195539671,
+        "edit-time": 1618201573181,
+        ":block/refs": [
+          {
+            ":block/uid": "7fM3Z8gmj"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -19929,11 +19989,25 @@
               {
                 "string": "老实说就从老朱编排的《逆臣录》中蓝玉的部分来看，[这些罪名的真实度]恐怕大打折扣，《逆臣录》里编排的蓝玉言行之[搞笑离谱程度]，可比什么[第五共和国][生草]多了",
                 "create-time": 1617920684815,
-                "uid": "DwMbtQtIe",
-                "edit-time": 1617920700564,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "children": [
+                  {
+                    "string": "逆臣录简直是把天下人[当猴耍]，也不找个好一点的小说家来[润润色]。",
+                    "create-time": 1618206838328,
+                    "uid": "NXbu9Rzjb",
+                    "edit-time": 1618206846927,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "DwMbtQtIe",
+                "edit-time": 1617920700564,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -25983,7 +26057,7 @@
         },
         "children": [
           {
-            "string": "The Org-mode [[home page]] explains that \"at its core, Org-mode is [a simple outliner] for note-taking and [[list management]]\"[11] The [Org system] author Carsten Dominik explains that \"Org-mode does outlining, note-taking, [[hyperlink]]s, [[spreadsheet]]s, [[TODO list]]s, [[project planning]], [[GTD]], [HTML and LaTeX authoring], all with plain text files in Emacs.\"[12]",
+            "string": "The Org-mode [[home page]] explains that \"at its core, Org-mode is [a simple outliner] for note-taking and [[list management]]\"[11] The [Org system] author Carsten Dominik explains that \"Org-mode does outlining, note-taking, [[hyperlink]]s, [[spreadsheet]]s, [[TODO list]]s, [[project planning]], [[GTD]], [HTML and LaTeX authoring](((NdulT-Y_7))), all with plain text files in Emacs.\"[12]",
             "create-time": 1618191920303,
             ":block/refs": [
               {
@@ -26006,6 +26080,9 @@
               },
               {
                 ":block/uid": "wIcO4y2yN"
+              },
+              {
+                ":block/uid": "NdulT-Y_7"
               }
             ],
             "refs": [
@@ -26029,13 +26106,16 @@
               },
               {
                 "uid": "wIcO4y2yN"
+              },
+              {
+                "uid": "NdulT-Y_7"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "EtGqz2gjR",
-            "edit-time": 1618193244168,
+            "edit-time": 1618202504813,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -29134,6 +29214,28 @@
     },
     "children": [
       {
+        "string": "[[GTD]]",
+        "create-time": 1618206582577,
+        ":block/refs": [
+          {
+            ":block/uid": "1jVDcRqgi"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "1jVDcRqgi"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "0yvxOpyXN",
+        "edit-time": 1618206585998,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[RescueTime]]",
         "refs": [
           {
@@ -30327,6 +30429,108 @@
         ],
         "uid": "T1ZckzWVc",
         "edit-time": 1618026189800,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618201446808,
+        "children": [
+          {
+            "string": "bold; bold letter",
+            "uid": "YozyV8uTh",
+            "edit-time": 1618201453787,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((E-s5p6tVH))",
+            "refs": [
+              {
+                "uid": "E-s5p6tVH"
+              }
+            ],
+            "uid": "Q_hWQTTRV",
+            "edit-time": 1618201498332,
+            ":block/refs": [
+              {
+                ":block/uid": "E-s5p6tVH"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "emphasize text",
+            "uid": "TSYK3tgqt",
+            "edit-time": 1618201453787,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[font]]",
+            "refs": [
+              {
+                "uid": "gsISSgiEv"
+              }
+            ],
+            "uid": "Ea6IBaiuk",
+            "edit-time": 1618201512905,
+            ":block/refs": [
+              {
+                ":block/uid": "gsISSgiEv"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[highlight]]",
+            "refs": [
+              {
+                "uid": "vtnw4jGJp"
+              }
+            ],
+            "uid": "8FSdKJJPl",
+            "edit-time": 1618201510533,
+            ":block/refs": [
+              {
+                ":block/uid": "vtnw4jGJp"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "italics",
+            "uid": "KFW93VU9P",
+            "edit-time": 1618201453787,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "vZXtDEAvo"
+          }
+        ],
+        "uid": "m58JkfHpO",
+        ":block/refs": [
+          {
+            ":block/uid": "vZXtDEAvo"
+          }
+        ],
+        "string": "((vZXtDEAvo))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618201446318,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -33671,6 +33875,28 @@
         "string": "long-term project",
         "uid": "cVQrLCH74",
         "edit-time": 1618140865058,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[project planning]]",
+        "create-time": 1618206562152,
+        ":block/refs": [
+          {
+            ":block/uid": "0FXP7bCxh"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0FXP7bCxh"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "oEF7ljfk4",
+        "edit-time": 1618206563866,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -37699,6 +37925,364 @@
     "title": "citation",
     "uid": "Y44F1n3oO",
     "edit-time": 1618197354542,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618200380540,
+    "title": "markdown",
+    "uid": "pyAzpd6qJ",
+    "edit-time": 1618200380540,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618200510842,
+    "title": "LaTeX",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "display style",
+        "children": [
+          {
+            "string": "[[mathcal]]; [[mathbb]]; [[mathbf]]; [[mathrm]]",
+            "refs": [
+              {
+                "uid": "T9KslS0B-"
+              },
+              {
+                "uid": "rPkfeSOMF"
+              },
+              {
+                "uid": "ssP0-zkIy"
+              },
+              {
+                "uid": "CuggeLmp3"
+              }
+            ],
+            "uid": "bT6deCdV5",
+            "edit-time": 1618200624106,
+            ":block/refs": [
+              {
+                ":block/uid": "T9KslS0B-"
+              },
+              {
+                ":block/uid": "rPkfeSOMF"
+              },
+              {
+                ":block/uid": "ssP0-zkIy"
+              },
+              {
+                ":block/uid": "CuggeLmp3"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "approx (approximation);",
+            "uid": "DrU5GBS4e",
+            "edit-time": 1618200562184,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "E-s5p6tVH",
+        "edit-time": 1618200562184,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "langle",
+        "uid": "1f9rJKBNI",
+        "edit-time": 1618200562184,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "LaTeX authoring; HTML authoring",
+        "create-time": 1618202498139,
+        "uid": "NdulT-Y_7",
+        "edit-time": 1618202499087,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "LaTeX formula",
+        "uid": "USMZmpbMf",
+        "edit-time": 1618200562184,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Mathpix Snipping Tool]] #pt10-100",
+        "refs": [
+          {
+            "uid": "Kp4t9aQO7"
+          },
+          {
+            "uid": "eTNjgKJzd"
+          }
+        ],
+        "uid": "o1GhM_3lJ",
+        "edit-time": 1618200639618,
+        ":block/refs": [
+          {
+            ":block/uid": "Kp4t9aQO7"
+          },
+          {
+            ":block/uid": "eTNjgKJzd"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "dmiYgzMii",
+    "edit-time": 1618200510842,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618200562179,
+    "title": "mathcal",
+    "uid": "T9KslS0B-",
+    "edit-time": 1618200562184,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618200562179,
+    "title": "mathbb",
+    "uid": "rPkfeSOMF",
+    "edit-time": 1618200562184,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618200622517,
+    "title": "mathrm",
+    "uid": "ssP0-zkIy",
+    "edit-time": 1618200622517,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618200624109,
+    "title": "mathbf",
+    "uid": "CuggeLmp3",
+    "edit-time": 1618200624109,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618200632144,
+    "title": "Mathpix Snipping Tool",
+    "uid": "eTNjgKJzd",
+    "edit-time": 1618200632145,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201453780,
+    "title": "font color",
+    "uid": "xqr7l4D82",
+    "edit-time": 1618201453787,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201453780,
+    "title": "font size",
+    "uid": "8Vqib2FR7",
+    "edit-time": 1618201453787,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201510538,
+    "title": "highlight",
+    "uid": "vtnw4jGJp",
+    "edit-time": 1618201510538,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201512908,
+    "title": "font",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[font color]]; [[font size]]",
+        "refs": [
+          {
+            "uid": "xqr7l4D82"
+          },
+          {
+            "uid": "8Vqib2FR7"
+          }
+        ],
+        "uid": "2_jjDA_IN",
+        "edit-time": 1618201453787,
+        ":block/refs": [
+          {
+            ":block/uid": "xqr7l4D82"
+          },
+          {
+            ":block/uid": "8Vqib2FR7"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "text color",
+        "children": [
+          {
+            "string": "color variable",
+            "uid": "OfB2b_7dK",
+            "edit-time": 1618201453787,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "link color",
+            "uid": "k5phRmm2U",
+            "edit-time": 1618201453787,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "bRsMrBahi",
+        "edit-time": 1618201453787,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Times New Roman]]",
+        "refs": [
+          {
+            "uid": "12wdTZBzJ"
+          }
+        ],
+        "uid": "cF8n15uGV",
+        "edit-time": 1618201530105,
+        ":block/refs": [
+          {
+            ":block/uid": "12wdTZBzJ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "gsISSgiEv",
+    "edit-time": 1618201512908,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201530114,
+    "title": "Times New Roman",
+    "uid": "12wdTZBzJ",
+    "edit-time": 1618201530115,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201573183,
+    "title": "YAML",
+    "uid": "7fM3Z8gmj",
+    "edit-time": 1618201573183,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201574029,
+    "title": "OPML",
+    "uid": "ni28SO2DJ",
+    "edit-time": 1618201574029,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618201575188,
+    "title": "XML",
+    "uid": "VcR0ALU-T",
+    "edit-time": 1618201575189,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

@@ -1,0 +1,5 @@
+- [[font color]]; [[font size]]
+- text color
+    - color variable
+    - link color
+- [[Times New Roman]]

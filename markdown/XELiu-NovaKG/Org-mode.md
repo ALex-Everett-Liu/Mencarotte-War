@@ -11,6 +11,6 @@
 Type	[[personal information management (PIM)]], [Notetaking]([[note-taking]]), [[outlining]], [[literate programming]], [Reproducibility](((gupYG0dxf)))
 License	[[GPL]]
 - System
-    - The Org-mode [[home page]] explains that "at its core, Org-mode is [a simple outliner] for note-taking and [[list management]]"[11] The [Org system] author Carsten Dominik explains that "Org-mode does outlining, note-taking, [[hyperlink]]s, [[spreadsheet]]s, [[TODO list]]s, [[project planning]], [[GTD]], [HTML and LaTeX authoring], all with plain text files in Emacs."[12]
+    - The Org-mode [[home page]] explains that "at its core, Org-mode is [a simple outliner] for note-taking and [[list management]]"[11] The [Org system] author Carsten Dominik explains that "Org-mode does outlining, note-taking, [[hyperlink]]s, [[spreadsheet]]s, [[TODO list]]s, [[project planning]], [[GTD]], [HTML and LaTeX authoring](((NdulT-Y_7))), all with plain text files in Emacs."[12]
     - The Org system is based on plain text files [with a simple markup]([[markup]]), which makes the files very [[portable]]. The [Linux Information Project] explains that "Plain text is supported by nearly every [[application program]] on every [[operating system (OS)]]".[13]
     - The system includes [a lightweight markup language]([[markup language]]) for plain text files (similar in function to [[Markdown]], [[reStructuredText]], Textile, etc., with a different implementation), allowing [lines or sections of plain text] to be [hierarchically divided], tagged, linked, and so on.

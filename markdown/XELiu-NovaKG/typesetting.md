@@ -8,4 +8,11 @@
     - all in one line
     - line-by-line changes
     - line number
+- style; styling...
+    - bold; bold letter
+    - display style
+    - emphasize text
+    - [[font]]
+    - [[highlight]]
+    - italics
 - [[symbol]]; 标点符号;

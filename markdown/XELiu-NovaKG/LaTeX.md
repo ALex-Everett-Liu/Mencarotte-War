@@ -1,0 +1,7 @@
+- display style
+    - [[mathcal]]; [[mathbb]]; [[mathbf]]; [[mathrm]]
+    - approx (approximation);
+- langle
+- LaTeX authoring; HTML authoring
+- LaTeX formula
+- [[Mathpix Snipping Tool]] #pt10-100
