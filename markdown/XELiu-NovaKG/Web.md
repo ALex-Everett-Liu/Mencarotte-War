@@ -1,10 +1,8 @@
+- [[link]]
 - [[markup language]]
-    - the presentation of a document
-    - [[HTML]]
-    - [[style sheet language]]
-        - [[Cascading Style Sheets (CSS)]]
 - [[source]]; [[resource]]
     - [[upload]]; [[download]]
 - style...
     - [[scrollbar]]
 - [[upload]]; [[download]]
+- [[Web development]]; web developer; Website Development

@@ -1,4 +1,5 @@
 - [[comedy]]
+- [[creative writings]]
 - [[novel]]
 - [[poetry]]
     - [[Romantic poetry]]

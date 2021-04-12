@@ -1,0 +1,15 @@
+- [[backlink]]
+    - bi-directional link; bidirectional linking
+        - two-way conversation
+- diagonal link
+- direct link; forward-link
+- find the path
+- hovered
+- [[hyperlink]]
+- one way pointer
+- orthogonal linking
+- redirect
+- [[source]]; [[reference]]
+- truncate the link
+- web location
+- URL; url

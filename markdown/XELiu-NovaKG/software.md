@@ -3,6 +3,7 @@
     - [[feature request]]
     - function; [[functionality]]; functionalities
 - [[file structure]]
+- [[help docs]]...
 - management...
     - [[file management]]
     - [[information management]]

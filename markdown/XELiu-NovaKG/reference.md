@@ -1,0 +1,7 @@
+- [[citation]]
+    - inline citation
+- citing source
+- [[footnote]]
+- general reference
+- mentioned
+- referring page

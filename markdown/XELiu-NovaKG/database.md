@@ -1,0 +1,16 @@
+- [[graph database]]
+    - [[directed graph]]
+- field: 域, 字段;
+- form: 表单
+    - form instance;
+- [[list]]
+    - make list; [[list management]]
+- namespace
+- [[SQL]]
+    - OQL
+- [[table]]
+    - [[spreadsheet]]
+        - spreadsheet cell
+    - [[Excel]]
+        - Excel-like
+- view type

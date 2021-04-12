@@ -3,5 +3,5 @@
 - long-term project
 - sample project
 - [[task management]]
-- [[todo list]]; [[to-do list]]
+- [[todo list]]; [[to-do list]]; [[TODO list]]
     - un-completed project
