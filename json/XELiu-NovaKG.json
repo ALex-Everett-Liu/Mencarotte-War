@@ -1311,6 +1311,34 @@
         }
       },
       {
+        "string": "general...",
+        "children": [
+          {
+            "string": "apps; software application; [[application program]]",
+            "refs": [
+              {
+                "uid": "sJgrDRtwy"
+              }
+            ],
+            "uid": "qtGJJ-t35",
+            "edit-time": 1618227350017,
+            ":block/refs": [
+              {
+                ":block/uid": "sJgrDRtwy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xcjzGvoCP",
+        "edit-time": 1618227344283,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[help docs]]...",
         "create-time": 1618192841965,
         ":block/refs": [
@@ -3344,6 +3372,28 @@
         },
         "uid": "PjcAmhrBK",
         "edit-time": 1617933040292,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Operating System (OS); [[operating system (OS)]];",
+        "create-time": 1618227399746,
+        ":block/refs": [
+          {
+            ":block/uid": "WeLom1lkt"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WeLom1lkt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "mqTl55Ecv",
+        "edit-time": 1618227405178,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -36477,11 +36527,63 @@
   {
     "create-time": 1618192018123,
     "title": "operating system (OS)",
-    "uid": "WeLom1lkt",
-    "edit-time": 1618192018123,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Microsoft Windows]]; [[Windows]]",
+        "refs": [
+          {
+            "uid": "hsxJY_1Uf"
+          },
+          {
+            "uid": "-IcP1ENtQ"
+          }
+        ],
+        "uid": "GCnthqEdE",
+        "edit-time": 1618227424159,
+        ":block/refs": [
+          {
+            ":block/uid": "hsxJY_1Uf"
+          },
+          {
+            ":block/uid": "-IcP1ENtQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "macOS",
+        "uid": "sQnaW18XD",
+        "edit-time": 1618227413129,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Unix]]",
+        "refs": [
+          {
+            "uid": "_KKrx2d7i"
+          }
+        ],
+        "uid": "crdAcyUcV",
+        "edit-time": 1618227429329,
+        ":block/refs": [
+          {
+            ":block/uid": "_KKrx2d7i"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WeLom1lkt",
+    "edit-time": 1618192018123,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -38347,6 +38449,122 @@
     "title": "XML",
     "uid": "VcR0ALU-T",
     "edit-time": 1618201575189,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618227422606,
+    "title": "Microsoft Windows",
+    "uid": "hsxJY_1Uf",
+    "edit-time": 1618227422607,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618227424161,
+    "title": "Windows",
+    "uid": "-IcP1ENtQ",
+    "edit-time": 1618227424161,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618227429332,
+    "title": "Unix",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Linux]]",
+        "refs": [
+          {
+            "uid": "uSm4F2DAe"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Ubuntu]]",
+            "refs": [
+              {
+                "uid": "XgVFrRQSl"
+              }
+            ],
+            "uid": "025FIFf6r",
+            "edit-time": 1618227439045,
+            ":block/refs": [
+              {
+                ":block/uid": "XgVFrRQSl"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ZhkPPRQOr",
+        "edit-time": 1618227436315,
+        ":block/refs": [
+          {
+            ":block/uid": "uSm4F2DAe"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Unix derivative",
+        "uid": "Z6oSJkuZs",
+        "edit-time": 1618227413129,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Unix-style",
+        "uid": "v3VBxvF8S",
+        "edit-time": 1618227413129,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "_KKrx2d7i",
+    "edit-time": 1618227429332,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618227436318,
+    "title": "Linux",
+    "uid": "uSm4F2DAe",
+    "edit-time": 1618227436318,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618227439048,
+    "title": "Ubuntu",
+    "uid": "XgVFrRQSl",
+    "edit-time": 1618227439048,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

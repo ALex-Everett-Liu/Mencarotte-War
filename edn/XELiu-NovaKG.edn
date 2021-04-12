@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 11,
+      :order 8,
       :content-id "N5lel-tnd"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -95,7 +95,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 15,
+      :order 12,
       :content-id "L7fTIw9dt"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 14,
+      :order 11,
       :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -111,19 +111,19 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 12,
+      :order 9,
       :content-id "rw6U8VHY-"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536948541]
+   536948621]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuidf5bf6b09-c145-4ea1-a794-2d3fa313fa36"
-   536948577]
+   "uuid4e56abbc-e47f-4bab-a64e-32068a001241"
+   536948621]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -514,6 +514,7 @@
   [14910 :block/children 17881 536947702]
   [14910 :block/children 17901 536947742]
   [14910 :block/children 17995 536948003]
+  [14910 :block/children 18233 536948580]
   [14910 :block/open true 536938106]
   [14910 :block/uid "lUW9EszjF" 536937330]
   [14910 :create/time 1617577252020 536937330]
@@ -523,7 +524,7 @@
   [14910 :edit/user 3 536937330]
   [14910 :node/title "software" 536937330]
   [14911 :block/open true 536937331]
-  [14911 :block/order 4 536948003]
+  [14911 :block/order 5 536948578]
   [14911 :block/page 14910 536937332]
   [14911 :block/parents 14910 536937332]
   [14911 :block/refs 14912 536943683]
@@ -814,7 +815,7 @@
   [14943 :edit/time 1617896110626 536943033]
   [14943 :edit/user 3 536937424]
   [14944 :block/open true 536937430]
-  [14944 :block/order 7 536948003]
+  [14944 :block/order 8 536948578]
   [14944 :block/page 14910 536937431]
   [14944 :block/parents 14910 536937431]
   [14944 :block/refs 14945 536937434]
@@ -1089,6 +1090,7 @@
   [14969 :block/children 14970 536937534]
   [14969 :block/children 16517 536943852]
   [14969 :block/children 17679 536947227]
+  [14969 :block/children 18236 536948588]
   [14969 :block/uid "QOT8RwinJ" 536937533]
   [14969 :create/time 1617578775337 536937533]
   [14969 :create/user 3 536937533]
@@ -1096,7 +1098,7 @@
   [14969 :edit/user 3 536937533]
   [14969 :node/title "computer science (CS)" 536937533]
   [14970 :block/open true 536937534]
-  [14970 :block/order 2 536947236]
+  [14970 :block/order 3 536948588]
   [14970 :block/page 14969 536937535]
   [14970 :block/parents 14969 536937535]
   [14970 :block/refs 14971 536937539]
@@ -19335,7 +19337,7 @@
   [17031 :block/children 17829 536947572]
   [17031 :block/children 17963 536947908]
   [17031 :block/open true 536945340]
-  [17031 :block/order 3 536948003]
+  [17031 :block/order 4 536948578]
   [17031 :block/page 14910 536945341]
   [17031 :block/parents 14910 536945341]
   [17031 :block/string "management..." 536945343]
@@ -20327,7 +20329,7 @@
   [17149 :node/title "newline" 536945716]
   [17150 :block/children 17170 536945741]
   [17150 :block/open true 536945719]
-  [17150 :block/order 8 536948003]
+  [17150 :block/order 9 536948578]
   [17150 :block/page 14910 536945720]
   [17150 :block/parents 14910 536945720]
   [17150 :block/refs 17151 536945723]
@@ -26274,7 +26276,7 @@
   [17843 :edit/user 3 536947609]
   [17843 :node/title "personal knowledge management (PKM)" 536947609]
   [17844 :block/open true 536947611]
-  [17844 :block/order 5 536948003]
+  [17844 :block/order 6 536948578]
   [17844 :block/page 14910 536947612]
   [17844 :block/parents 14910 536947612]
   [17844 :block/refs 17845 536947614]
@@ -26579,7 +26581,7 @@
   [17880 :edit/time 1618179832039 536947697]
   [17880 :edit/user 3 536947697]
   [17881 :block/open true 536947702]
-  [17881 :block/order 6 536948003]
+  [17881 :block/order 7 536948578]
   [17881 :block/page 14910 536947703]
   [17881 :block/parents 14910 536947703]
   [17881 :block/refs 15098 536947705]
@@ -27481,9 +27483,14 @@
   [17987 :edit/time 1618192002316 536947983]
   [17987 :edit/user 3 536947983]
   [17987 :node/title "portable" 536947983]
+  [17988 :block/children 18238 536948596]
+  [17988 :block/children 18239 536948596]
+  [17988 :block/children 18244 536948596]
+  [17988 :block/open true 536948596]
   [17988 :block/uid "WeLom1lkt" 536947986]
   [17988 :create/time 1618192018123 536947986]
   [17988 :create/user 3 536947986]
+  [17988 :edit/seen-by 3 536948600]
   [17988 :edit/time 1618192018123 536947986]
   [17988 :edit/user 3 536947986]
   [17988 :node/title "operating system (OS)" 536947986]
@@ -27525,7 +27532,7 @@
   [17994 :edit/user 3 536948000]
   [17994 :node/title "reStructuredText" 536948000]
   [17995 :block/open false 536948006]
-  [17995 :block/order 2 536948003]
+  [17995 :block/order 3 536948578]
   [17995 :block/page 14910 536948004]
   [17995 :block/parents 14910 536948004]
   [17995 :block/refs 17996 536948008]
@@ -29333,4 +29340,152 @@
   [18231 :block/string "" 536948571]
   [18231 :block/uid "nQnfBwIWr" 536948571]
   [18231 :edit/time 1618216947386 536948571]
-  [18231 :edit/user 3 536948571]]}
+  [18231 :edit/user 3 536948571]
+  [18233 :block/children 18234 536948580]
+  [18233 :block/open true 536948580]
+  [18233 :block/order 2 536948580]
+  [18233 :block/page 14910 536948581]
+  [18233 :block/parents 14910 536948581]
+  [18233 :block/string "general..." 536948580]
+  [18233 :block/uid "xcjzGvoCP" 536948580]
+  [18233 :edit/seen-by 3 536948582]
+  [18233 :edit/time 1618227344283 536948580]
+  [18233 :edit/user 3 536948580]
+  [18234 :block/open true 536948580]
+  [18234 :block/order 0 536948580]
+  [18234 :block/page 14910 536948581]
+  [18234 :block/parents 14910 536948581]
+  [18234 :block/parents 18233 536948581]
+  [18234 :block/refs 17989 536948586]
+  [18234
+   :block/string
+   "apps; software application; [[application program]]"
+   536948585]
+  [18234 :block/uid "qtGJJ-t35" 536948580]
+  [18234 :edit/seen-by 3 536948584]
+  [18234 :edit/time 1618227350017 536948585]
+  [18234 :edit/user 3 536948580]
+  [18235 :block/string "" 536948583]
+  [18235 :block/uid "HwvzBZ5gA" 536948583]
+  [18235 :edit/time 1618227344296 536948583]
+  [18235 :edit/user 3 536948583]
+  [18236 :block/open true 536948588]
+  [18236 :block/order 2 536948588]
+  [18236 :block/page 14969 536948589]
+  [18236 :block/parents 14969 536948589]
+  [18236 :block/refs 17988 536948592]
+  [18236
+   :block/string
+   "Operating System (OS); [[operating system (OS)]];"
+   536948591]
+  [18236 :block/uid "mqTl55Ecv" 536948588]
+  [18236 :create/time 1618227399746 536948588]
+  [18236 :create/user 3 536948588]
+  [18236 :edit/time 1618227405178 536948591]
+  [18236 :edit/user 3 536948588]
+  [18238 :block/open true 536948596]
+  [18238 :block/order 1 536948596]
+  [18238 :block/page 17988 536948597]
+  [18238 :block/parents 17988 536948597]
+  [18238 :block/string "macOS" 536948596]
+  [18238 :block/uid "sQnaW18XD" 536948596]
+  [18238 :edit/time 1618227413129 536948596]
+  [18238 :edit/user 3 536948596]
+  [18239 :block/open true 536948596]
+  [18239 :block/order 2 536948596]
+  [18239 :block/page 17988 536948598]
+  [18239 :block/parents 17988 536948598]
+  [18239 :block/refs 18248 536948608]
+  [18239 :block/string "[[Unix]]" 536948607]
+  [18239 :block/uid "crdAcyUcV" 536948596]
+  [18239 :edit/seen-by 3 536948604]
+  [18239 :edit/time 1618227429329 536948607]
+  [18239 :edit/user 3 536948596]
+  [18240 :block/children 18241 536948596]
+  [18240 :block/open true 536948596]
+  [18240 :block/order 0 536948596]
+  [18240 :block/page 18248 536948612]
+  [18240 :block/parents 18248 536948612]
+  [18240 :block/refs 18249 536948617]
+  [18240 :block/string "[[Linux]]" 536948616]
+  [18240 :block/uid "ZhkPPRQOr" 536948596]
+  [18240 :edit/seen-by 3 536948615]
+  [18240 :edit/time 1618227436315 536948616]
+  [18240 :edit/user 3 536948596]
+  [18241 :block/open true 536948596]
+  [18241 :block/order 0 536948596]
+  [18241 :block/page 18248 536948612]
+  [18241 :block/parents 18240 536948598]
+  [18241 :block/parents 18248 536948612]
+  [18241 :block/refs 18250 536948620]
+  [18241 :block/string "[[Ubuntu]]" 536948619]
+  [18241 :block/uid "025FIFf6r" 536948596]
+  [18241 :edit/seen-by 3 536948618]
+  [18241 :edit/time 1618227439045 536948619]
+  [18241 :edit/user 3 536948596]
+  [18242 :block/open true 536948596]
+  [18242 :block/order 1 536948596]
+  [18242 :block/page 18248 536948613]
+  [18242 :block/parents 18248 536948613]
+  [18242 :block/string "Unix derivative" 536948596]
+  [18242 :block/uid "Z6oSJkuZs" 536948596]
+  [18242 :edit/time 1618227413129 536948596]
+  [18242 :edit/user 3 536948596]
+  [18243 :block/open true 536948596]
+  [18243 :block/order 2 536948596]
+  [18243 :block/page 18248 536948614]
+  [18243 :block/parents 18248 536948614]
+  [18243 :block/string "Unix-style" 536948596]
+  [18243 :block/uid "v3VBxvF8S" 536948596]
+  [18243 :edit/seen-by 3 536948610]
+  [18243 :edit/time 1618227413129 536948596]
+  [18243 :edit/user 3 536948596]
+  [18244 :block/open true 536948596]
+  [18244 :block/order 0 536948596]
+  [18244 :block/page 17988 536948599]
+  [18244 :block/parents 17988 536948599]
+  [18244 :block/refs 18246 536948603]
+  [18244 :block/refs 18247 536948606]
+  [18244 :block/string "[[Microsoft Windows]]; [[Windows]]" 536948605]
+  [18244 :block/uid "GCnthqEdE" 536948596]
+  [18244 :edit/seen-by 3 536948600]
+  [18244 :edit/time 1618227424159 536948605]
+  [18244 :edit/user 3 536948596]
+  [18245 :block/string "" 536948601]
+  [18245 :block/uid "j3WhE6ACJ" 536948601]
+  [18245 :edit/time 1618227413165 536948601]
+  [18245 :edit/user 3 536948601]
+  [18246 :block/uid "hsxJY_1Uf" 536948603]
+  [18246 :create/time 1618227422606 536948603]
+  [18246 :create/user 3 536948603]
+  [18246 :edit/time 1618227422607 536948603]
+  [18246 :edit/user 3 536948603]
+  [18246 :node/title "Microsoft Windows" 536948603]
+  [18247 :block/uid "-IcP1ENtQ" 536948606]
+  [18247 :create/time 1618227424161 536948606]
+  [18247 :create/user 3 536948606]
+  [18247 :edit/time 1618227424161 536948606]
+  [18247 :edit/user 3 536948606]
+  [18247 :node/title "Windows" 536948606]
+  [18248 :block/children 18240 536948611]
+  [18248 :block/children 18242 536948611]
+  [18248 :block/children 18243 536948611]
+  [18248 :block/uid "_KKrx2d7i" 536948608]
+  [18248 :create/time 1618227429332 536948608]
+  [18248 :create/user 3 536948608]
+  [18248 :edit/seen-by 3 536948615]
+  [18248 :edit/time 1618227429332 536948608]
+  [18248 :edit/user 3 536948608]
+  [18248 :node/title "Unix" 536948608]
+  [18249 :block/uid "uSm4F2DAe" 536948617]
+  [18249 :create/time 1618227436318 536948617]
+  [18249 :create/user 3 536948617]
+  [18249 :edit/time 1618227436318 536948617]
+  [18249 :edit/user 3 536948617]
+  [18249 :node/title "Linux" 536948617]
+  [18250 :block/uid "XgVFrRQSl" 536948620]
+  [18250 :create/time 1618227439048 536948620]
+  [18250 :create/user 3 536948620]
+  [18250 :edit/time 1618227439048 536948620]
+  [18250 :edit/user 3 536948620]
+  [18250 :node/title "Ubuntu" 536948620]]}
