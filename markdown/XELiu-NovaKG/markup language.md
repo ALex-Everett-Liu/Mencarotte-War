@@ -3,6 +3,7 @@
 - [[LaTeX]]
 - [[markdown]]; [[Markdown]]
 - the presentation of a document
+- [[reStructuredText]]
 - style; styling...
     - [[scrollbar]]
 - [[style sheet language]]

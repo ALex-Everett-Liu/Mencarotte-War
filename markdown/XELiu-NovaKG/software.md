@@ -15,4 +15,4 @@
 - [[release]]
 - [[text editor]]
 - [[typesetting]]; formatting...
-    - [[markup language]]
+    - [[markup language]]; [[markup]]
