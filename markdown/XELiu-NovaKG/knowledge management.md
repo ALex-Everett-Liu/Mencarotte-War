@@ -1,0 +1,7 @@
+- evaluating knowledge
+- [[insight]]
+- organizing knowledge
+- [[personal knowledge management (PKM)]]
+    - [[note-taking]]; note-taking tool; notetaking
+- [[second brain]]
+- [[wisdom]]

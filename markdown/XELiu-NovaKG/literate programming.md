@@ -1,0 +1,4 @@
+- dictionary 
+    - Although his work on literate programming [has not caught on in his original form], 没有赶上他最初的贡献 it has definitely [influenced the way many of us think about] [writing and annotating programs](((DwNHDx2E8))). www.[[ibm]].com
+    - The Ensure class is analogous to JUnit or TestNG's Assert type; however, it adds [a series of methods] that [facilitate a more readable API] 提供了 (this is often called literate programming). 文学编程 
+    - The insight that prompts Leo is Donald Knuth's concept of "literate programming" & that is, the idea that the [[source code]] for a program is [only a small part of what makes it up]. 

@@ -1,6 +1,6 @@
 - [[index]]
     - [[keyword]]; [[topic]]
-    - [[outline]]
+    - [[outline]]; [[outlining]]
         - [[outliner]]
     - parallel index
     - relative index; relative location
@@ -12,4 +12,5 @@
         - the types of content
 - file cabinet
 - [[file tree]]; knowledge tree
+- [[hierarchy]]
 - [[mind map]]; mind mapping

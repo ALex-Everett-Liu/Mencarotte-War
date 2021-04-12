@@ -1,5 +1,6 @@
 - license...
-    - open-source
-    - [[free license]]; [[free software]]
     - Creative Commons license
+    - [[free license]]; [[free software]]
+    - [[GPL]]
     - maintain the system
+    - open-source

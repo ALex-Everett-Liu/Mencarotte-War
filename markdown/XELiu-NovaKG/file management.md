@@ -1,3 +1,8 @@
 - [[file format]]
     - [[convert the format]]
+    - [[executable file]]
+        - execute; run
+        - executing code
+    - msi
     - [[plain text]]
+    - [[time format]]

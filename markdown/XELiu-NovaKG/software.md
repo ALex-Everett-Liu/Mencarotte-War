@@ -1,9 +1,17 @@
+- feature...
+    - advanced feature
+    - [[feature request]]
+    - function; [[functionality]]; functionalities
 - [[file structure]]
 - management...
     - [[file management]]
+    - [[information management]]
+    - [[knowledge management]]
     - [[project management]]
     - [[time management]]
-- [[note-taking]]; note-taking tool
+- [[note-taking]]; note-taking tool; notetaking
+- [[productivity tool]]
+- [[release]]
 - [[text editor]]
 - [[typesetting]]; formatting...
     - [[markup language]]

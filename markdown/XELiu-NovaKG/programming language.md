@@ -1,6 +1,7 @@
 - [[Java]]
     - [[JavaScript]]
 - [[Lisp]]
+    - [[Emacs]]; [[Emacs lisp]]
     - [[Clojure]]
         - [[ClojureScript]]
         - EDN; formatted edn

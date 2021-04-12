@@ -1,9 +1,15 @@
 - [[customer]]
     - [[prospective customer]];
     - user...
+        - anonymous
+        - [[community]]
         - comment; review;
             - [[book review]];
             - controversy
         - recommendation...
             - [[recommendation engine]]
             - related term; most frequently terms
+        - [[user demand]]; user need...
+            - feature...
+            - last mile
+            - meet the need

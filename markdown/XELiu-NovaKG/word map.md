@@ -193,6 +193,11 @@
                 - pondered;
         - pr
             - pro
+                - produce
+                    - [[product]]
+                    - reproduce; reproducibility: 再现性;
+                - profess
+                    - professional, 2; professor, 2
                 - [[protagonist]]
                 - provide
                     - provided, 2; provider

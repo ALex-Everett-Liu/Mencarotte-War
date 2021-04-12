@@ -1,0 +1,8 @@
+- community project
+- [[development community]]
+- [[forum]]
+    - 2ch
+    - 4chan
+    - baidu tieba
+    - [[Reddit]]
+- post, thread...

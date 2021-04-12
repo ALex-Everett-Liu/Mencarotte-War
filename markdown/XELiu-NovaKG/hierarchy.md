@@ -1,0 +1,32 @@
+- [[categorization]]
+    - general category
+- [[classification]]
+    - dynamic classification
+- degree of branching
+    - bifurcation theory
+    - maximum degree
+    - linear hierarchy
+    - branching hierarchy
+        - overlapping hierarchy
+    - multiple positions
+- [[heterarchy]]: 变态分层结构
+- [[hierarchical level]]
+- [[hierarchical link]]
+- hierarchical structure; structural hierarchy
+- [[nested hierarchy]]
+- [[node]]
+- [[taxonomy]]
+    - vertical taxonomy
+- religion related...
+    - celestial hierarchy
+- 上下级概念...
+    - [[authority]]: 当局, 当权; 权力, 权威;
+    - equally specific
+    - parent and child; children
+        - parent object;
+    - subordinate; subordinate class
+        - direct subordinate
+    - superior
+        - common superior;
+        - immediate superior; direct superior
+        - superordinate: 上级

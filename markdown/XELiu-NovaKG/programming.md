@@ -1,5 +1,18 @@
+- annotating programs
 - character
     - [[character string]]
+- code; coding
+    - [[code block]]
+        - building block
+    - coding style
+    - executing code
+    - instruction...
+        - programming instruction; computing instruction
+        - basic instruction
+    - [[snippet]]
+    - [[source code]]
+    - throwaway code
+- [[literate programming]]
 - [[regular expression]]; REGEX 
 - [[string]]
     - [[character string]]

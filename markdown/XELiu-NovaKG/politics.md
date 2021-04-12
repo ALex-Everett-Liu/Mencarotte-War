@@ -1,9 +1,17 @@
+- [[authority]]: 当局, 当权; 权力, 权威;
+    - [[centralization]]: 中央集权; [[central authority]]
+- elect
+- general...
+    - political reality
+    - political satire
 - political activity
+- [[political philosophy]]
 - political spectrum
     - centrist: 中间派, 中立派, 温和主义者;
     - radical left: 激进的左翼
     - statist right: 中央集权主义右翼
     - 政治倾向;
+- protest: 抗议
 - [[public utility]]; public utilities; 公共事业; 公用事业
     - economics of transport and utility industries 
     - emergency vehicle

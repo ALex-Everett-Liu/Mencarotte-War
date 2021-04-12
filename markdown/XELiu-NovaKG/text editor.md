@@ -1,4 +1,4 @@
-- [[Emacs]]
+- [[Emacs]]; [[Emacs lisp]]
 - indent
     - [[rainbow indentation]]
 - [[plain text]]

@@ -1,0 +1,11 @@
+- beta version; alpha version
+- maintain
+    - maintain the system
+    - [[maintainer]];
+- package
+- trial
+- test
+    - pressure-test
+    - script test
+- update...
+    - continuous update

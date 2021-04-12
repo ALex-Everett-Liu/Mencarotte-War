@@ -1,0 +1,3 @@
+- fast move...
+- [[hotkey]]
+- [[key command]]
