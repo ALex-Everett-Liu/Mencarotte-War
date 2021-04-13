@@ -710,10 +710,10 @@
         },
         "children": [
           {
-            "string": "比特币 入门教程;; 范畴论; 关系型数据库;;",
+            "string": "比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境;  Python in Roam;; ",
             "create-time": 1617570842241,
             "uid": "z7hu5D_X9",
-            "edit-time": 1617897507981,
+            "edit-time": 1618283097071,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -1585,28 +1585,6 @@
         }
       },
       {
-        "string": "[[productivity tool]]",
-        "create-time": 1618179001183,
-        ":block/refs": [
-          {
-            ":block/uid": "UxWdxWIuY"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "UxWdxWIuY"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "mqOGBvi0s",
-        "edit-time": 1618179003328,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "((UR-mLrjFw))",
         "create-time": 1618179852895,
         ":block/refs": [
@@ -1692,6 +1670,52 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1618026178253,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618281190559,
+        "children": [
+          {
+            "string": "[[productivity tool]]",
+            "create-time": 1618179001183,
+            ":block/refs": [
+              {
+                ":block/uid": "UxWdxWIuY"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "UxWdxWIuY"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "mqOGBvi0s",
+            "edit-time": 1618179003328,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "u6duoipmT"
+          }
+        ],
+        "uid": "cyWhN5IDV",
+        ":block/refs": [
+          {
+            ":block/uid": "u6duoipmT"
+          }
+        ],
+        "string": "[[workflow]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618281175592,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -1979,6 +2003,98 @@
         }
       },
       {
+        "edit-time": 1618281818904,
+        "children": [
+          {
+            "string": "wiki-like",
+            "children": [
+              {
+                "string": "[[MediaWiki]]",
+                "create-time": 1618271220149,
+                ":block/refs": [
+                  {
+                    ":block/uid": "4MM1biGXq"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "4MM1biGXq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "zNoW-C1Tz",
+                "edit-time": 1618271222676,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[TiddlyWiki]]",
+                "refs": [
+                  {
+                    "uid": "7BopMUG7d"
+                  }
+                ],
+                "uid": "flfxyvpt4",
+                "edit-time": 1617931056291,
+                ":block/refs": [
+                  {
+                    ":block/uid": "7BopMUG7d"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[Zim Desktop Wiki]]",
+                "refs": [
+                  {
+                    "uid": "m922VCIxu"
+                  }
+                ],
+                "uid": "UKClXCyqu",
+                "edit-time": 1617931057822,
+                ":block/refs": [
+                  {
+                    ":block/uid": "m922VCIxu"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "vJnJ9gCda",
+            "edit-time": 1617931049133,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "harTuRy76"
+          }
+        ],
+        "uid": "TY5YoAbo5",
+        ":block/refs": [
+          {
+            ":block/uid": "harTuRy76"
+          }
+        ],
+        "string": "((harTuRy76))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618281817811,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "rich text",
         "children": [
           {
@@ -2057,74 +2173,6 @@
           }
         ],
         "uid": "tyN1tCNJr",
-        "edit-time": 1617931049133,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "wiki-like",
-        "children": [
-          {
-            "string": "[[MediaWiki]]",
-            "create-time": 1618271220149,
-            ":block/refs": [
-              {
-                ":block/uid": "4MM1biGXq"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "4MM1biGXq"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "zNoW-C1Tz",
-            "edit-time": 1618271222676,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[TiddlyWiki]]",
-            "refs": [
-              {
-                "uid": "7BopMUG7d"
-              }
-            ],
-            "uid": "flfxyvpt4",
-            "edit-time": 1617931056291,
-            ":block/refs": [
-              {
-                ":block/uid": "7BopMUG7d"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[Zim Desktop Wiki]]",
-            "refs": [
-              {
-                "uid": "m922VCIxu"
-              }
-            ],
-            "uid": "UKClXCyqu",
-            "edit-time": 1617931057822,
-            ":block/refs": [
-              {
-                ":block/uid": "m922VCIxu"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "vJnJ9gCda",
         "edit-time": 1617931049133,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -3565,6 +3613,28 @@
         }
       },
       {
+        "string": "[[bug]]",
+        "create-time": 1618284967671,
+        ":block/refs": [
+          {
+            ":block/uid": "A25pvSKtt"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "A25pvSKtt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "p1QYHM-2B",
+        "edit-time": 1618284970607,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "character",
         "create-time": 1618022970651,
         ":create/user": {
@@ -3764,6 +3834,28 @@
         },
         "uid": "4m44q8w-E",
         "edit-time": 1618019717295,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[script]]",
+        "create-time": 1618280122934,
+        ":block/refs": [
+          {
+            ":block/uid": "6vZfnUJTu"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "6vZfnUJTu"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "WqXbLV3cz",
+        "edit-time": 1618280129137,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -6382,6 +6474,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[Triviality](https://www.zhihu.com/people/xia-yu-sen-40) - mathematical physics #pt9-99.99",
+            "create-time": 1618284697589,
+            ":block/refs": [
+              {
+                ":block/uid": "lMcwecsmV"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lMcwecsmV"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "bexywPYyg",
+            "edit-time": 1618284727286,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -8129,41 +8243,19 @@
                 }
               },
               {
-                "string": "recommendation...",
-                "children": [
+                "string": "[[recommendation]]",
+                "refs": [
                   {
-                    "string": "[[recommendation engine]]",
-                    "create-time": 1617620279741,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ay2BjFg8O"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "ay2BjFg8O"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "uid": "ObwO_rpDb",
-                    "edit-time": 1617620282450,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  },
-                  {
-                    "string": "related term; most frequently terms",
-                    "uid": "xNltNgNJj",
-                    "edit-time": 1617618916207,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
+                    "uid": "UvoWEek-B"
                   }
                 ],
                 "uid": "L7Me8N5mH",
-                "edit-time": 1617618916207,
+                "edit-time": 1618285402752,
+                ":block/refs": [
+                  {
+                    ":block/uid": "UvoWEek-B"
+                  }
+                ],
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -26248,7 +26340,7 @@
         }
       },
       {
-        "edit-time": 1618179145614,
+        "edit-time": 1618279771249,
         "children": [
           {
             "string": "Org-mode was created by [[Carsten Dominik]] in 2003, originally to [organize his own life and work]([[organization tool]]),[3] and [since the first release] [numerous other users] and developers have contributed to this [free software package].[4] Emacs includes Org-mode[5] [as a major mode by default]. Bastien Guerry is the [current maintainer]([[maintainer]]), in cooperation with [an active development community]([[development community]]).[6] Since its success in Emacs, some other systems now [provide functions to work with] org files.[7][8]\n210412-06:12, 06:25",
@@ -26391,9 +26483,6 @@
             "uid": "eX8y6oCcm"
           },
           {
-            "uid": "D1-XESmoA"
-          },
-          {
             "uid": "hEEbjLxwj"
           },
           {
@@ -26415,9 +26504,6 @@
             ":block/uid": "eX8y6oCcm"
           },
           {
-            ":block/uid": "D1-XESmoA"
-          },
-          {
             ":block/uid": "hEEbjLxwj"
           },
           {
@@ -26430,7 +26516,7 @@
             ":block/uid": "pmw1E0gyH"
           }
         ],
-        "string": "**Org-mode** (also: __Org mode__;[2](https://en.wikipedia.org/wiki/Org-mode#cite_note-2) [/ˈɔːrɡ moʊd/](https://en.wikipedia.org/wiki/Help:IPA/English)) is a document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the [[free software]] text editor Emacs. The name is used to [encompass](((jn2QX0bmE))) [plain text files]([[plain text]]) (\"[[org file]]s\") that [include simple marks] to [indicate levels of a hierarchy]([[hierarchical level]]) (such as [the outline of an essay]([[outline]]), a topic list with subtopics, nested computer code, etc.), and an editor with functions that can [read the markup] and [manipulate hierarchy elements] (expand/hide elements, move blocks of elements, check off [[to-do list]] items, etc.).\n210411-19:30, 19:47",
+        "string": "**Org-mode** (also: __Org mode__;[2](https://en.wikipedia.org/wiki/Org-mode#cite_note-2) [/ˈɔːrɡ moʊd/](https://en.wikipedia.org/wiki/Help:IPA/English)) is a document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the [[free software]] text editor Emacs. The name is used to [encompass](((jn2QX0bmE))) [plain text files]([[plain text]]) (\"[[org file]]s\") that [include simple marks] to [indicate levels of a hierarchy]([[hierarchical level]]) (such as [the outline of an essay]([[outline]]), a topic list with subtopics, nested computer code, etc.), and an editor with functions that can [read the markup] and [manipulate hierarchy elements] (expand/hide elements, move blocks of elements, check off to-do list items, etc.).\n210411-19:30, 19:47",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -26592,6 +26678,250 @@
         }
       },
       {
+        "string": "Functionality",
+        "create-time": 1618279557706,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1618279675442,
+            "children": [
+              {
+                "string": "[To-do lists]([[to-do list]]) often have [[subtask]]s, and so lend themselves to a [[hierarchical system]]. Org-mode facilitates this by allowing items to be [subdivided into simple steps] (nested to-dos and/or [[checklist]]s), and [given tags and properties] such as [priorities]([[priority]]) and [[deadline]]s. An [[agenda]] for [the items to be done this week or day] can then be [automatically generated](((lPu7McexT))) from [date tags].[14]\n210413-10:35",
+                "create-time": 1618279589312,
+                ":block/refs": [
+                  {
+                    ":block/uid": "D1-XESmoA"
+                  },
+                  {
+                    ":block/uid": "piGPGAdcG"
+                  },
+                  {
+                    ":block/uid": "rG6Xe2jxU"
+                  },
+                  {
+                    ":block/uid": "zfB1GR125"
+                  },
+                  {
+                    ":block/uid": "P0qlaGVNg"
+                  },
+                  {
+                    ":block/uid": "yTWhwOHdM"
+                  },
+                  {
+                    ":block/uid": "lPu7McexT"
+                  },
+                  {
+                    ":block/uid": "iY1iuGI4-"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "D1-XESmoA"
+                  },
+                  {
+                    "uid": "piGPGAdcG"
+                  },
+                  {
+                    "uid": "rG6Xe2jxU"
+                  },
+                  {
+                    "uid": "zfB1GR125"
+                  },
+                  {
+                    "uid": "P0qlaGVNg"
+                  },
+                  {
+                    "uid": "yTWhwOHdM"
+                  },
+                  {
+                    "uid": "lPu7McexT"
+                  },
+                  {
+                    "uid": "iY1iuGI4-"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "TX6RAvAih",
+                "edit-time": 1618281528083,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Plain text outlines.[15]",
+                "create-time": 1618279586826,
+                "uid": "x2qpur4zv",
+                "edit-time": 1618279589319,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Org files as [[interconnected pages]] of a [[personal wiki]], using the markup for links.",
+                "create-time": 1618279595057,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kRrf_kaBh"
+                  },
+                  {
+                    ":block/uid": "nz2t-NTxV"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "kRrf_kaBh"
+                  },
+                  {
+                    "uid": "nz2t-NTxV"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "fK-_FKbpS",
+                "edit-time": 1618281692954,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[Tracking bugs](((0HCjwPBlK))) in a project, by storing [.org files] in a [[distributed revision control system]] such as [[Git]].",
+                "create-time": 1618279577980,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xFMRqKord"
+                  },
+                  {
+                    ":block/uid": "J6KToqkyN"
+                  },
+                  {
+                    ":block/uid": "0HCjwPBlK"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xFMRqKord"
+                  },
+                  {
+                    "uid": "J6KToqkyN"
+                  },
+                  {
+                    "uid": "0HCjwPBlK"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "lBMpG-exf",
+                "edit-time": 1618285013747,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Extensive [linking features](((0a74-kqL5))), to web pages, within the same file, to other files, to emails, and also allows [defining custom links](((K3HCz_Aic)))",
+                "create-time": 1618279563097,
+                ":block/refs": [
+                  {
+                    ":block/uid": "0a74-kqL5"
+                  },
+                  {
+                    ":block/uid": "K3HCz_Aic"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "0a74-kqL5"
+                  },
+                  {
+                    "uid": "K3HCz_Aic"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "21P3ck4yC",
+                "edit-time": 1618283785229,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Hk5dG1SC3"
+              }
+            ],
+            "uid": "0O3yVPg1Z",
+            ":block/refs": [
+              {
+                ":block/uid": "Hk5dG1SC3"
+              }
+            ],
+            "string": "This section [gives some sample uses for] the [hierarchical display](((Hk5dG1SC3))) and editing of plain text.",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618279558204,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "An [org-mode document] can also be [exported to various formats] (including HTML, LaTeX, OpenDocument or plain text), these formats being used to [render the structural outline](((vd61nV9qo))) [in an appropriate fashion] (including [[cross-reference]]s if needed). It can also use [[formatting markup]] (including LaTeX for mathematics), [with facilities similar to] those [present in Markdown or LaTeX], thus [offering an alternative to]([[alternative tool]]) these tools.\n210413-11:42",
+            "create-time": 1618279607476,
+            ":block/refs": [
+              {
+                ":block/uid": "vd61nV9qo"
+              },
+              {
+                ":block/uid": "ZlCBzbgsW"
+              },
+              {
+                ":block/uid": "lEzwM-w3w"
+              },
+              {
+                ":block/uid": "sao6x54Sr"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vd61nV9qo"
+              },
+              {
+                "uid": "ZlCBzbgsW"
+              },
+              {
+                "uid": "lEzwM-w3w"
+              },
+              {
+                "uid": "sao6x54Sr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "MdtFyA9yh",
+            "edit-time": 1618285431096,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CPsNDp7mR",
+        "edit-time": 1618279558209,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "Integration",
         "create-time": 1618263206381,
         ":create/user": {
@@ -26659,7 +26989,7 @@
             }
           },
           {
-            "edit-time": 1618266080616,
+            "edit-time": 1618278702461,
             "children": [
               {
                 "string": "In the \"Add-on packages available for install\" section, a list of [installable packages]([[package]]) is displayed. www.[ibm].com",
@@ -26705,6 +27035,9 @@
               },
               {
                 "uid": "DNnWfFEUv"
+              },
+              {
+                "uid": "5Xd3JCQiQ"
               }
             ],
             "uid": "rjqF72sPh",
@@ -26717,9 +27050,12 @@
               },
               {
                 ":block/uid": "DNnWfFEUv"
+              },
+              {
+                ":block/uid": "5Xd3JCQiQ"
               }
             ],
-            "string": "From org-mode, [add-on packages](((DNnWfFEUv))) export to other markup format such as [[MediaWiki]] (org-export-generic, org-export), to [flashcard learning systems] implementing [[SuperMemo]]'s algorithms (org-drill, org-learn).[17]",
+            "string": "From org-mode, [add-on packages](((DNnWfFEUv))) export to other markup format such as [[MediaWiki]] (org-export-generic, org-export), to [flashcard learning systems](((5Xd3JCQiQ))) implementing [[SuperMemo]]'s algorithms (org-drill, org-learn).[17]",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -29816,6 +30152,28 @@
     },
     "children": [
       {
+        "string": "[[agenda]]: 议程, 日常工作事项;",
+        "create-time": 1618281391234,
+        ":block/refs": [
+          {
+            ":block/uid": "iY1iuGI4-"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "iY1iuGI4-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "D2czHtiiq",
+        "edit-time": 1618281394517,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[calendar]]",
         "create-time": 1618264807966,
         ":block/refs": [
@@ -29881,6 +30239,18 @@
         "string": "spend time",
         "uid": "V67uY8Lo9",
         "edit-time": 1618011448601,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "time interval",
+        "create-time": 1618278596228,
+        "uid": "0ktJ9qCpF",
+        "edit-time": 1618278597165,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -33078,6 +33448,28 @@
         }
       },
       {
+        "string": "[[memory]]",
+        "create-time": 1618278517583,
+        ":block/refs": [
+          {
+            ":block/uid": "NhMT2P4qx"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "NhMT2P4qx"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "c6Zz5nXHY",
+        "edit-time": 1618278519342,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[psychology]]",
         "refs": [
           {
@@ -34334,6 +34726,40 @@
     },
     "children": [
       {
+        "string": "apply worldwide",
+        "uid": "euXlXPlE2",
+        "edit-time": 1618283296944,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[credit]]; credited",
+        "refs": [
+          {
+            "uid": "3lhmHnwkm"
+          }
+        ],
+        "uid": "Qt1NcBRPU",
+        "edit-time": 1618283301535,
+        ":block/refs": [
+          {
+            ":block/uid": "3lhmHnwkm"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "disclaiming of responsibility",
+        "uid": "frfbZqtON",
+        "edit-time": 1618283296944,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "license...",
         "children": [
           {
@@ -34403,6 +34829,56 @@
         ],
         "uid": "bS1OWf8bQ",
         "edit-time": 1618140613020,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[permission]]; [[grant right]]",
+        "refs": [
+          {
+            "uid": "y_9L2P0g3"
+          },
+          {
+            "uid": "Ipkg43U0t"
+          }
+        ],
+        "uid": "0ZLAG-LUT",
+        "edit-time": 1618283306989,
+        ":block/refs": [
+          {
+            ":block/uid": "y_9L2P0g3"
+          },
+          {
+            ":block/uid": "Ipkg43U0t"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[public domain]]",
+        "refs": [
+          {
+            "uid": "uDZz0xI98"
+          }
+        ],
+        "uid": "zNad8cnKi",
+        "edit-time": 1618283306989,
+        ":block/refs": [
+          {
+            ":block/uid": "uDZz0xI98"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "reusing content",
+        "uid": "fLoBjtQLG",
+        "edit-time": 1618283306989,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -34489,6 +34965,30 @@
       },
       {
         "string": "check form; check box...",
+        "children": [
+          {
+            "string": "[[checklist]]; ",
+            "create-time": 1618279960824,
+            ":block/refs": [
+              {
+                ":block/uid": "zfB1GR125"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "zfB1GR125"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "7UAForwS9",
+            "edit-time": 1618279966420,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "AOr1cLb12",
         "edit-time": 1618140865058,
         ":edit/user": {
@@ -34499,6 +34999,44 @@
         "string": "long-term project",
         "uid": "cVQrLCH74",
         "edit-time": 1618140865058,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[priority]]",
+        "refs": [
+          {
+            "uid": "yTWhwOHdM"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[deadline]]",
+            "refs": [
+              {
+                "uid": "P0qlaGVNg"
+              }
+            ],
+            "uid": "xDZZCFALj",
+            "edit-time": 1618280020473,
+            ":block/refs": [
+              {
+                ":block/uid": "P0qlaGVNg"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "uZ4Xufq5X",
+        "edit-time": 1618280021661,
+        ":block/refs": [
+          {
+            ":block/uid": "yTWhwOHdM"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -34656,6 +35194,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[subtask]]",
+        "create-time": 1618279887336,
+        ":block/refs": [
+          {
+            ":block/uid": "piGPGAdcG"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "piGPGAdcG"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "DiDM6-_do",
+        "edit-time": 1618279890466,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "oiux78y8O",
@@ -34679,11 +35239,47 @@
   {
     "create-time": 1618140936643,
     "title": "outline",
-    "uid": "hEEbjLxwj",
-    "edit-time": 1618140936644,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "((o4KpOZZ1o))",
+        "create-time": 1618141725740,
+        ":block/refs": [
+          {
+            ":block/uid": "o4KpOZZ1o"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "o4KpOZZ1o"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "4ZZ4O8UKp",
+        "edit-time": 1618141727230,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "structural outline",
+        "create-time": 1618285193001,
+        "uid": "vd61nV9qo",
+        "edit-time": 1618285194175,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "hEEbjLxwj",
+    "edit-time": 1618140936644,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -34868,6 +35464,190 @@
     },
     "children": [
       {
+        "string": "relation, connection...",
+        "create-time": 1618281988228,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "weight...",
+            "children": [
+              {
+                "string": "assigned weightings",
+                "uid": "I6XLhRcqX",
+                "edit-time": 1618282007234,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "cm1PUaopv",
+            "edit-time": 1618282007234,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "defined relationship; [[relationship strength]]",
+            "refs": [
+              {
+                "uid": "rjxraSNlU"
+              }
+            ],
+            "uid": "XLreNR8jH",
+            "edit-time": 1618282007234,
+            ":block/refs": [
+              {
+                ":block/uid": "rjxraSNlU"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[context]]",
+            "refs": [
+              {
+                "uid": "PkdMpIqO3"
+              }
+            ],
+            "uid": "jU-a_pBl5",
+            "edit-time": 1618282016773,
+            ":block/refs": [
+              {
+                ":block/uid": "PkdMpIqO3"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "explicit relationship",
+            "uid": "oi5HEgepd",
+            "edit-time": 1618282007234,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[interconnectivity]]",
+            "refs": [
+              {
+                "uid": "yiwOdUZCK"
+              }
+            ],
+            "children": [
+              {
+                "string": "connect ideas; [[interconnected pages]]",
+                "refs": [
+                  {
+                    "uid": "kRrf_kaBh"
+                  }
+                ],
+                "uid": "eOzc8LB74",
+                "edit-time": 1618282033830,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kRrf_kaBh"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "We-U6Suqk",
+            "edit-time": 1618282035997,
+            ":block/refs": [
+              {
+                ":block/uid": "yiwOdUZCK"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "multiple relationships",
+            "uid": "4VG5J1QQH",
+            "edit-time": 1618282007234,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "reuse; reuse information",
+            "children": [
+              {
+                "string": "((HS_oNa0Rd))",
+                "create-time": 1618283537165,
+                ":block/refs": [
+                  {
+                    ":block/uid": "HS_oNa0Rd"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "HS_oNa0Rd"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "_JHeG0t_U",
+                "edit-time": 1618283538075,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "remix ideas; remix information",
+                "uid": "eOg7sWzqT",
+                "edit-time": 1618282007234,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "((fLoBjtQLG))",
+                "create-time": 1618283379513,
+                ":block/refs": [
+                  {
+                    ":block/uid": "fLoBjtQLG"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "fLoBjtQLG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "4rrzVSvAf",
+                "edit-time": 1618283380980,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "gWW-wxwvS",
+            "edit-time": 1618282007234,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "OSEbfBEeS",
+        "edit-time": 1618281988933,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "((SKef6ltOX))",
         "create-time": 1618196740059,
         ":block/refs": [
@@ -34943,30 +35723,6 @@
               },
               {
                 "uid": "cXOoXAa52"
-              }
-            ],
-            "children": [
-              {
-                "string": "((o4KpOZZ1o))",
-                "create-time": 1618141725740,
-                ":block/refs": [
-                  {
-                    ":block/uid": "o4KpOZZ1o"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "o4KpOZZ1o"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "4ZZ4O8UKp",
-                "edit-time": 1618141727230,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
               }
             ],
             "uid": "xg4iaCQiR",
@@ -35734,45 +36490,81 @@
         }
       },
       {
-        "string": "[[hierarchical level]]",
+        "edit-time": 1618279801830,
+        "children": [
+          {
+            "string": "hierarchical display",
+            "create-time": 1618279670291,
+            "uid": "Hk5dG1SC3",
+            "edit-time": 1618279671375,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[hierarchical level]]",
+            "refs": [
+              {
+                "uid": "usxYjA27G"
+              }
+            ],
+            "uid": "a2Qkwos0a",
+            "edit-time": 1618178106153,
+            ":block/refs": [
+              {
+                ":block/uid": "usxYjA27G"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[hierarchical link]]",
+            "refs": [
+              {
+                "uid": "oEHCNmYXt"
+              }
+            ],
+            "uid": "_tJBMy9fi",
+            "edit-time": 1618178104759,
+            ":block/refs": [
+              {
+                ":block/uid": "oEHCNmYXt"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "hierarchical structure; structural hierarchy",
+            "uid": "FpbP3iLXe",
+            "edit-time": 1618178070896,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "refs": [
           {
-            "uid": "usxYjA27G"
+            "uid": "rG6Xe2jxU"
           }
         ],
-        "uid": "a2Qkwos0a",
-        "edit-time": 1618178106153,
+        "uid": "AqQtiq8BW",
         ":block/refs": [
           {
-            ":block/uid": "usxYjA27G"
+            ":block/uid": "rG6Xe2jxU"
           }
         ],
-        ":edit/user": {
+        "string": "[[hierarchical system]]",
+        ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "[[hierarchical link]]",
-        "refs": [
-          {
-            "uid": "oEHCNmYXt"
-          }
-        ],
-        "uid": "_tJBMy9fi",
-        "edit-time": 1618178104759,
-        ":block/refs": [
-          {
-            ":block/uid": "oEHCNmYXt"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "hierarchical structure; structural hierarchy",
-        "uid": "FpbP3iLXe",
-        "edit-time": 1618178070896,
+        },
+        "create-time": 1618279799645,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -38266,6 +39058,18 @@
         }
       },
       {
+        "string": "custom link",
+        "create-time": 1618283771355,
+        "uid": "K3HCz_Aic",
+        "edit-time": 1618283772253,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "diagonal link",
         "uid": "qkU1SHDoJ",
         "edit-time": 1618196986758,
@@ -38311,6 +39115,18 @@
             ":block/uid": "SbusYtPQH"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "linking feature",
+        "create-time": 1618283763090,
+        "uid": "0a74-kqL5",
+        "edit-time": 1618283788265,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -39228,23 +40044,47 @@
     },
     "children": [
       {
-        "string": "((vJnJ9gCda))",
-        "create-time": 1618271212317,
-        ":block/refs": [
+        "edit-time": 1618281814428,
+        "children": [
           {
-            ":block/uid": "vJnJ9gCda"
+            "string": "((vJnJ9gCda))",
+            "create-time": 1618271212317,
+            ":block/refs": [
+              {
+                ":block/uid": "vJnJ9gCda"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vJnJ9gCda"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "C0EtLzz7_",
+            "edit-time": 1618271213437,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
           {
-            "uid": "vJnJ9gCda"
+            "uid": "nz2t-NTxV"
           }
         ],
+        "uid": "harTuRy76",
+        ":block/refs": [
+          {
+            ":block/uid": "nz2t-NTxV"
+          }
+        ],
+        "string": "[[personal wiki]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "C0EtLzz7_",
-        "edit-time": 1618271213437,
+        "create-time": 1618281761197,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -40564,79 +41404,119 @@
     },
     "children": [
       {
-        "string": "git",
+        "edit-time": 1618284849654,
         "children": [
           {
-            "string": "[[commit]]",
+            "string": "[[Git]]; [[git]];",
             "refs": [
               {
-                "uid": "hBN0sf0Y7"
+                "uid": "J6KToqkyN"
+              },
+              {
+                "uid": "TSvE4WnYO"
               }
             ],
-            "uid": "DJHJ0HjMR",
-            "edit-time": 1618275152515,
+            "children": [
+              {
+                "string": "[[commit]]",
+                "refs": [
+                  {
+                    "uid": "hBN0sf0Y7"
+                  }
+                ],
+                "uid": "DJHJ0HjMR",
+                "edit-time": 1618275152515,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hBN0sf0Y7"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "diff; diffable",
+                "uid": "d-6XKbCK7",
+                "edit-time": 1618275140349,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "fork",
+                "uid": "vYDNigk0-",
+                "edit-time": 1618275140349,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[GitHub]]",
+                "refs": [
+                  {
+                    "uid": "nWENW6z1a"
+                  }
+                ],
+                "uid": "fMCOPbxOi",
+                "edit-time": 1618275146905,
+                ":block/refs": [
+                  {
+                    ":block/uid": "nWENW6z1a"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "git history",
+                "uid": "6VT5vufXv",
+                "edit-time": 1618275140349,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "push",
+                "uid": "rmHyhYewQ",
+                "edit-time": 1618275140349,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "5Srv0-DX5",
+            "edit-time": 1618284829659,
             ":block/refs": [
               {
-                ":block/uid": "hBN0sf0Y7"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "diff; diffable",
-            "uid": "d-6XKbCK7",
-            "edit-time": 1618275140349,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "fork",
-            "uid": "vYDNigk0-",
-            "edit-time": 1618275140349,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[GitHub]]",
-            "refs": [
+                ":block/uid": "J6KToqkyN"
+              },
               {
-                "uid": "nWENW6z1a"
+                ":block/uid": "TSvE4WnYO"
               }
             ],
-            "uid": "fMCOPbxOi",
-            "edit-time": 1618275146905,
-            ":block/refs": [
-              {
-                ":block/uid": "nWENW6z1a"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "git history",
-            "uid": "6VT5vufXv",
-            "edit-time": 1618275140349,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "push",
-            "uid": "rmHyhYewQ",
-            "edit-time": 1618275140349,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "uid": "5Srv0-DX5",
-        "edit-time": 1618275140349,
+        "refs": [
+          {
+            "uid": "xFMRqKord"
+          }
+        ],
+        "uid": "4OvtBO_W5",
+        ":block/refs": [
+          {
+            ":block/uid": "xFMRqKord"
+          }
+        ],
+        "string": "[[distributed revision control system]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618284845974,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -40706,14 +41586,14 @@
         }
       },
       {
-        "string": "[[version control]]",
+        "string": "[[version control]]; revision control",
         "refs": [
           {
             "uid": "T_XNhQMrs"
           }
         ],
         "uid": "1RAwBBHlG",
-        "edit-time": 1618274964915,
+        "edit-time": 1618285089993,
         ":block/refs": [
           {
             ":block/uid": "T_XNhQMrs"
@@ -40822,6 +41702,1114 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618278519344,
+    "title": "memory",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "discrete memories",
+        "uid": "nNiOGVhB9",
+        "edit-time": 1618278528889,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "memory capacity",
+        "uid": "e63Gi-6ix",
+        "edit-time": 1618278528889,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "memory retrieval",
+        "uid": "gxUoOqFib",
+        "edit-time": 1618278528889,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "memory unit",
+        "uid": "F6xCJaTN2",
+        "edit-time": 1618278528889,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[mnemonics]]",
+        "refs": [
+          {
+            "uid": "13LwGdF8P"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[spaced repetition]]",
+            "refs": [
+              {
+                "uid": "9v9uAo4dK"
+              }
+            ],
+            "uid": "Qdaogzsj_",
+            "edit-time": 1618278533448,
+            ":block/refs": [
+              {
+                ":block/uid": "9v9uAo4dK"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "TiA_vpCrl",
+        "edit-time": 1618278534593,
+        ":block/refs": [
+          {
+            ":block/uid": "13LwGdF8P"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "past memory;",
+        "uid": "5Ip5DZ-yx",
+        "edit-time": 1618278528889,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "NhMT2P4qx",
+    "edit-time": 1618278519344,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618278533451,
+    "title": "spaced repetition",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "flashcard learning system",
+        "children": [
+          {
+            "string": "[[Anki]]",
+            "refs": [
+              {
+                "uid": "ln296-fIY"
+              }
+            ],
+            "uid": "0Q4wSFTXC",
+            "edit-time": 1618278680697,
+            ":block/refs": [
+              {
+                ":block/uid": "ln296-fIY"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[SuperMemo]]",
+            "refs": [
+              {
+                "uid": "_ohknravi"
+              }
+            ],
+            "uid": "VUQS2yGup",
+            "edit-time": 1618278679745,
+            ":block/refs": [
+              {
+                ":block/uid": "_ohknravi"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5Xd3JCQiQ",
+        "edit-time": 1618278671162,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "dictionary ",
+        "create-time": 1618278540794,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Spaced repetition is [a proven memory technique] that helps you keep [what you've learned] strong in your mind. ((grqAHv41F))",
+            "create-time": 1618278549525,
+            ":block/refs": [
+              {
+                ":block/uid": "grqAHv41F"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "grqAHv41F"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "dTNt8gigl",
+            "edit-time": 1618278562377,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Recur at a [specified time interval](((0ktJ9qCpF))). 重复发生 www.[ibm].com",
+            "create-time": 1618278549525,
+            ":block/refs": [
+              {
+                ":block/uid": "0ktJ9qCpF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "0ktJ9qCpF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "3iw8jc_lK",
+            "edit-time": 1618278602189,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "An event that [recurs at intervals]. provided by [jukuu]",
+            "create-time": 1618278549525,
+            "uid": "-F-OeWcHa",
+            "edit-time": 1618278605892,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Median interval The Repeating Delimiter 分隔符 is [limited to 100 characters in length]. www.[dictall].com",
+            "create-time": 1618278549525,
+            "uid": "cneo5nzAY",
+            "edit-time": 1618278609635,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Effect of Repetitive Bouts of Exhaustive Exercise 力竭运动 [with Different Interval] on [Oxygen Consumption] in [Juvenile Southern Catfish]. 南方鲇幼鱼",
+            "create-time": 1618278549525,
+            "uid": "wSjZ5C7wn",
+            "edit-time": 1618278620752,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ghKM-NtD9",
+        "edit-time": 1618278542581,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "9v9uAo4dK",
+    "edit-time": 1618278533451,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618278534595,
+    "title": "mnemonics",
+    "uid": "13LwGdF8P",
+    "edit-time": 1618278534595,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618278680700,
+    "title": "Anki",
+    "uid": "ln296-fIY",
+    "edit-time": 1618278680700,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618279757132,
+    "title": "subtask",
+    "uid": "piGPGAdcG",
+    "edit-time": 1618279757133,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618279757132,
+    "title": "hierarchical system",
+    "uid": "rG6Xe2jxU",
+    "edit-time": 1618279757133,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618279927013,
+    "title": "checklist",
+    "uid": "zfB1GR125",
+    "edit-time": 1618279927014,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618280020475,
+    "title": "deadline",
+    "uid": "P0qlaGVNg",
+    "edit-time": 1618280020475,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618280021664,
+    "title": "priority",
+    "uid": "yTWhwOHdM",
+    "edit-time": 1618280021664,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618280129139,
+    "title": "script",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "automate; automation; 自动化;",
+        "uid": "h7upWPli3",
+        "edit-time": 1618281153882,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "auto-generate; automatically generated",
+        "uid": "lPu7McexT",
+        "edit-time": 1618281153882,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "automatically truncated",
+        "uid": "ZPwKBUUF2",
+        "edit-time": 1618281153882,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[macroinstruction]]; [[macro instruction]]",
+        "refs": [
+          {
+            "uid": "EuYFVCIKy"
+          },
+          {
+            "uid": "vTt--8F-H"
+          }
+        ],
+        "uid": "jHkbb0qi3",
+        "edit-time": 1618281159723,
+        ":block/refs": [
+          {
+            ":block/uid": "EuYFVCIKy"
+          },
+          {
+            ":block/uid": "vTt--8F-H"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "6vZfnUJTu",
+    "edit-time": 1618280129139,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618281158517,
+    "title": "macro instruction",
+    "uid": "EuYFVCIKy",
+    "edit-time": 1618281158518,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618281159724,
+    "title": "macroinstruction",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "character macro",
+        "uid": "Dna1YArNz",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "code reuse",
+        "uid": "HS_oNa0Rd",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "command sequence; character sequence",
+        "uid": "1PZrwU_aS",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "extend the language",
+        "uid": "AD1o5I8Ah",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "invoke",
+        "uid": "bpAgC6pVD",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "lexical token",
+        "uid": "hvGZuUwZS",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "macro expansion",
+        "uid": "Opkg8QiIr",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "map to a replacement output",
+        "uid": "n_NrlQyap",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "single program statement",
+        "uid": "DUE-NSd3N",
+        "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "vTt--8F-H",
+    "edit-time": 1618281159725,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618281190562,
+    "title": "workflow",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((h7upWPli3))",
+        "create-time": 1618281192260,
+        ":block/refs": [
+          {
+            ":block/uid": "h7upWPli3"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "h7upWPli3"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "7rr8qbWiJ",
+        "edit-time": 1618281193297,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "effective",
+        "children": [
+          {
+            "string": "improve efficiency",
+            "uid": "HNpvbRg_0",
+            "edit-time": 1618281285413,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2Jopez6H3",
+        "edit-time": 1618281285413,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[template]]",
+        "refs": [
+          {
+            "uid": "OF9Q1e_4I"
+          }
+        ],
+        "uid": "yDLAL0-vf",
+        "edit-time": 1618281301070,
+        ":block/refs": [
+          {
+            ":block/uid": "OF9Q1e_4I"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "u6duoipmT",
+    "edit-time": 1618281190562,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618281301072,
+    "title": "template",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "interactive template",
+        "uid": "R-8U41idD",
+        "edit-time": 1618281298186,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "OF9Q1e_4I",
+    "edit-time": 1618281301073,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618281352277,
+    "title": "agenda",
+    "uid": "iY1iuGI4-",
+    "edit-time": 1618281352278,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618281692962,
+    "title": "interconnected pages",
+    "uid": "kRrf_kaBh",
+    "edit-time": 1618281692964,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618281692962,
+    "title": "personal wiki",
+    "uid": "nz2t-NTxV",
+    "edit-time": 1618281692964,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618282007228,
+    "title": "relationship strength",
+    "uid": "rjxraSNlU",
+    "edit-time": 1618282007234,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618282016775,
+    "title": "context",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "complete context",
+        "uid": "z45imCciO",
+        "edit-time": 1618282007234,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "consistent context",
+        "uid": "ghaQK77mq",
+        "edit-time": 1618282007234,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "PkdMpIqO3",
+    "edit-time": 1618282016775,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618282035998,
+    "title": "interconnectivity",
+    "uid": "yiwOdUZCK",
+    "edit-time": 1618282035999,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618283301537,
+    "title": "credit",
+    "uid": "3lhmHnwkm",
+    "edit-time": 1618283301538,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618283306986,
+    "title": "public domain",
+    "uid": "uDZz0xI98",
+    "edit-time": 1618283306989,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618283306985,
+    "title": "permission",
+    "uid": "y_9L2P0g3",
+    "edit-time": 1618283306989,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618283306985,
+    "title": "grant right",
+    "uid": "Ipkg43U0t",
+    "edit-time": 1618283306989,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618283579327,
+    "title": "distributed revision control system",
+    "uid": "xFMRqKord",
+    "edit-time": 1618283579328,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618283579327,
+    "title": "Git",
+    "uid": "J6KToqkyN",
+    "edit-time": 1618283579328,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618284828347,
+    "title": "git",
+    "uid": "TSvE4WnYO",
+    "edit-time": 1618284828355,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618284970610,
+    "title": "bug",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "crash",
+        "uid": "FyUkISt1-",
+        "edit-time": 1618285002147,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[debug]]; debugging",
+        "refs": [
+          {
+            "uid": "HxUlmNljA"
+          }
+        ],
+        "children": [
+          {
+            "string": "bug fixes;",
+            "uid": "H0UKJpGQV",
+            "edit-time": 1618285002147,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "tracking bugs;",
+            "uid": "0HCjwPBlK",
+            "edit-time": 1618285002147,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rrvytrS-C",
+        "edit-time": 1618285021405,
+        ":block/refs": [
+          {
+            ":block/uid": "HxUlmNljA"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "error",
+        "children": [
+          {
+            "string": "error-free;",
+            "uid": "CHvJpih4V",
+            "edit-time": 1618285002147,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "error-prone",
+            "uid": "93QwwecEd",
+            "edit-time": 1618285002147,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "error report; error message; error log",
+            "uid": "TBia7Q8K8",
+            "edit-time": 1618285002147,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "fixing errors",
+            "uid": "xn--8nJ8R",
+            "edit-time": 1618285002147,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Yayhhr8RQ",
+        "edit-time": 1618285002147,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "exit code",
+        "uid": "XKqNTG-B6",
+        "edit-time": 1618285002147,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[feedback]]",
+        "refs": [
+          {
+            "uid": "dOj0ulcNE"
+          }
+        ],
+        "uid": "cgwL1zh7v",
+        "edit-time": 1618285031940,
+        ":block/refs": [
+          {
+            ":block/uid": "dOj0ulcNE"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "file not found",
+        "uid": "Nc0ubGlwb",
+        "edit-time": 1618285002147,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[log]]",
+        "refs": [
+          {
+            "uid": "9A7YUo5uE"
+          }
+        ],
+        "uid": "xg_cUSVXW",
+        "edit-time": 1618285034778,
+        ":block/refs": [
+          {
+            ":block/uid": "9A7YUo5uE"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "sanitization",
+        "uid": "lWcFRCBjG",
+        "edit-time": 1618285002147,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "traceback",
+        "uid": "byAwYZ3G2",
+        "edit-time": 1618285002147,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[troubleshooting]]",
+        "refs": [
+          {
+            "uid": "ILyCycsY0"
+          }
+        ],
+        "uid": "B_TU7gvyh",
+        "edit-time": 1618285041585,
+        ":block/refs": [
+          {
+            ":block/uid": "ILyCycsY0"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "unresponsive",
+        "uid": "UrE7BVLcV",
+        "edit-time": 1618285002147,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "A25pvSKtt",
+    "edit-time": 1618284970610,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285021408,
+    "title": "debug",
+    "uid": "HxUlmNljA",
+    "edit-time": 1618285021408,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285031942,
+    "title": "feedback",
+    "uid": "dOj0ulcNE",
+    "edit-time": 1618285031942,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285034780,
+    "title": "log",
+    "uid": "9A7YUo5uE",
+    "edit-time": 1618285034780,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285041587,
+    "title": "troubleshooting",
+    "uid": "ILyCycsY0",
+    "edit-time": 1618285041587,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285220455,
+    "title": "cross-reference",
+    "uid": "ZlCBzbgsW",
+    "edit-time": 1618285220456,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285241577,
+    "title": "formatting markup",
+    "uid": "lEzwM-w3w",
+    "edit-time": 1618285241578,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285315041,
+    "title": "alternative tool",
+    "uid": "sao6x54Sr",
+    "edit-time": 1618285315043,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618285402753,
+    "title": "recommendation",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "alternative choice",
+        "children": [
+          {
+            "string": "[[alternative tool]]",
+            "refs": [
+              {
+                "uid": "sao6x54Sr"
+              }
+            ],
+            "uid": "DKZhate81",
+            "edit-time": 1618285399178,
+            ":block/refs": [
+              {
+                ":block/uid": "sao6x54Sr"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ANALl8y1Q",
+        "edit-time": 1618285392910,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[recommendation engine]]",
+        "create-time": 1617620279741,
+        ":block/refs": [
+          {
+            ":block/uid": "ay2BjFg8O"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ay2BjFg8O"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ObwO_rpDb",
+        "edit-time": 1617620282450,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "related term; most frequently terms",
+        "uid": "xNltNgNJj",
+        "edit-time": 1617618916207,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "UvoWEek-B",
+    "edit-time": 1618285402754,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

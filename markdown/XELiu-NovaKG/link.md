@@ -1,11 +1,13 @@
 - [[backlink]]
     - bi-directional link; bidirectional linking
         - two-way conversation
+- custom link
 - diagonal link
 - direct link; forward-link
 - find the path
 - hovered
 - [[hyperlink]]
+- linking feature
 - one way pointer
 - orthogonal linking
 - redirect

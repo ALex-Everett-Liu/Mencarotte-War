@@ -1,6 +1,12 @@
+- apply worldwide
+- [[credit]]; credited
+- disclaiming of responsibility
 - license...
     - Creative Commons license
     - [[free license]]; [[free software]]
     - [[GPL]]
     - maintain the system
     - open-source
+- [[permission]]; [[grant right]]
+- [[public domain]]
+- reusing content

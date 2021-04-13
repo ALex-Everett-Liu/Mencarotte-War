@@ -10,9 +10,11 @@
         - overlapping hierarchy
     - multiple positions
 - [[heterarchy]]: 变态分层结构
-- [[hierarchical level]]
-- [[hierarchical link]]
-- hierarchical structure; structural hierarchy
+- [[hierarchical system]]
+    - hierarchical display
+    - [[hierarchical level]]
+    - [[hierarchical link]]
+    - hierarchical structure; structural hierarchy
 - [[nested hierarchy]]
 - [[node]]
 - [[taxonomy]]

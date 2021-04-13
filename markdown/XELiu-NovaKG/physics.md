@@ -55,3 +55,4 @@
 - [[wave]]; wave theory
 - #inbox
     - [phys and others](https://www.zhihu.com/people/citysevenstar/answers) #pt10-99.98
+    - [Triviality](https://www.zhihu.com/people/xia-yu-sen-40) - mathematical physics #pt9-99.99

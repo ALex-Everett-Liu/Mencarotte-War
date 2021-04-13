@@ -1,7 +1,6 @@
 - [[index]]
     - [[keyword]]; [[topic]]
     - [[outline]]; [[outlining]]
-        - [[outliner]]
     - parallel index
     - relative index; relative location
         - appropriate location; proper place

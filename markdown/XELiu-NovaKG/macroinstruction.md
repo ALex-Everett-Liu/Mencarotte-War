@@ -1,0 +1,9 @@
+- character macro
+- code reuse
+- command sequence; character sequence
+- extend the language
+- invoke
+- lexical token
+- macro expansion
+- map to a replacement output
+- single program statement

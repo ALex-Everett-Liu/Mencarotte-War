@@ -1,6 +1,9 @@
 - [[cheat sheet]]
 - check form; check box...
+    - [[checklist]]; 
 - long-term project
+- [[priority]]
+    - [[deadline]]
 - [[project planning]]
 - sample project
 - [[task management]]

@@ -6,9 +6,7 @@
         - comment; review;
             - [[book review]];
             - controversy
-        - recommendation...
-            - [[recommendation engine]]
-            - related term; most frequently terms
+        - [[recommendation]]
         - [[user demand]]; user need...
             - feature...
             - last mile

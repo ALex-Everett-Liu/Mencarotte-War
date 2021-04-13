@@ -17,8 +17,9 @@
     - [[project management]]
     - [[time management]]
 - [[note-taking]]; note-taking tool; notetaking
-- [[productivity tool]]
 - [[release]]
 - [[text editor]]
 - [[typesetting]]; formatting...
     - [[markup language]]; [[markup]]
+- [[workflow]]
+    - [[productivity tool]]

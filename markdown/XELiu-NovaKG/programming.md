@@ -1,4 +1,5 @@
 - annotating programs
+- [[bug]]
 - character
     - [[character string]]
 - code; coding
@@ -14,5 +15,6 @@
     - throwaway code
 - [[literate programming]]
 - [[regular expression]]; REGEX 
+- [[script]]
 - [[string]]
     - [[character string]]

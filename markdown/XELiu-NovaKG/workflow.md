@@ -1,0 +1,4 @@
+- automate; automation; 自动化;
+- effective
+    - improve efficiency
+- [[template]]

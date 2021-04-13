@@ -11,6 +11,7 @@
     - [[perception]]
         - touch
             - tactile impression: 触觉印象 
+- [[memory]]
 - [[psychology]]
 - thinking
     - thought structure

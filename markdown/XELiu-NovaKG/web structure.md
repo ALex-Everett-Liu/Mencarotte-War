@@ -1,1 +1,14 @@
+- relation, connection...
+    - weight...
+        - assigned weightings
+    - defined relationship; [[relationship strength]]
+    - [[context]]
+    - explicit relationship
+    - [[interconnectivity]]
+        - connect ideas; [[interconnected pages]]
+    - multiple relationships
+    - reuse; reuse information
+        - code reuse
+        - remix ideas; remix information
+        - reusing content
 - [[link]]

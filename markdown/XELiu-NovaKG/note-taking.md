@@ -12,13 +12,14 @@
     - [[RoamEdit]]
     - [[Roam Research]]
     - [[WorkFlowy]]
+- [[personal wiki]]
+    - wiki-like
+        - [[MediaWiki]]
+        - [[TiddlyWiki]]
+        - [[Zim Desktop Wiki]]
 - rich text
     - [[Evernote]]
 - suck it!
     - [[Note-taking/Notion]]
         - bullshit!
     - [[Note-taking/Wolai]]
-- wiki-like
-    - [[MediaWiki]]
-    - [[TiddlyWiki]]
-    - [[Zim Desktop Wiki]]

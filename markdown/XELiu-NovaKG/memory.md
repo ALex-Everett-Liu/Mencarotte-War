@@ -1,0 +1,7 @@
+- discrete memories
+- memory capacity
+- memory retrieval
+- memory unit
+- [[mnemonics]]
+    - [[spaced repetition]]
+- past memory;
