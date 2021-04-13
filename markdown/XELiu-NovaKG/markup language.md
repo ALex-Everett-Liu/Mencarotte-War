@@ -1,3 +1,4 @@
+- [[formatting markup]]: 格式化标记
 - [[hypertext]]
     - html; [[HyperText Markup Language (HTML)]];
 - [[LaTeX]]

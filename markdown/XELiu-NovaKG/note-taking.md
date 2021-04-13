@@ -1,3 +1,11 @@
+- block; bullet
+    - block level
+    - block-level addressability
+    - [[block reference]]; referenced block
+    - edits in one place
+    - global block
+    - transclusion
+        - transfer-included
 - innovation!
     - [[Roam Research]]
 - [[markdown]]; [[Markdown]]
@@ -19,6 +27,8 @@
         - [[Zim Desktop Wiki]]
 - rich text
     - [[Evernote]]
+- [[slip box]]
+    - atomic note
 - suck it!
     - [[Note-taking/Notion]]
         - bullshit!

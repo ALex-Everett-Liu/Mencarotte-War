@@ -1735,6 +1735,84 @@
     },
     "children": [
       {
+        "string": "block; bullet",
+        "children": [
+          {
+            "string": "block level",
+            "uid": "gwW0qnlLD",
+            "edit-time": 1618306280491,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "block-level addressability",
+            "uid": "iN9z-gdoc",
+            "edit-time": 1618306280491,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[block reference]]; referenced block",
+            "refs": [
+              {
+                "uid": "4IxCm3vAO"
+              }
+            ],
+            "uid": "JcihDPOlO",
+            "edit-time": 1618306286562,
+            ":block/refs": [
+              {
+                ":block/uid": "4IxCm3vAO"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "edits in one place",
+            "uid": "G7rCAEAxt",
+            "edit-time": 1618306280491,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "global block",
+            "uid": "nX4Q0HHnV",
+            "edit-time": 1618306280491,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "transclusion",
+            "children": [
+              {
+                "string": "transfer-included",
+                "uid": "xEqh2Kz8B",
+                "edit-time": 1618306280491,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "onQDeSr2V",
+            "edit-time": 1618306280491,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "nPAo8A7ux",
+        "edit-time": 1618306280491,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "innovation!",
         "create-time": 1617931081148,
         ":create/user": {
@@ -2118,6 +2196,34 @@
         ],
         "uid": "Hb-Rw5W23",
         "edit-time": 1617931049133,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[slip box]]",
+        "refs": [
+          {
+            "uid": "i_ArQnKLe"
+          }
+        ],
+        "children": [
+          {
+            "string": "atomic note",
+            "uid": "O9glREV2o",
+            "edit-time": 1618306257750,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "mWZqQZhNB",
+        "edit-time": 1618306260948,
+        ":block/refs": [
+          {
+            ":block/uid": "i_ArQnKLe"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3038,6 +3144,28 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[formatting markup]]: 格式化标记",
+        "create-time": 1618306086263,
+        ":block/refs": [
+          {
+            ":block/uid": "lEzwM-w3w"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "lEzwM-w3w"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "9WMwsUJCT",
+        "edit-time": 1618306091494,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "edit-time": 1618195685551,
         "children": [
@@ -7788,6 +7916,80 @@
             ":block/uid": "PThdLGlIL"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "房地产",
+        "create-time": 1618300615009,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1618300310465,
+            "children": [
+              {
+                "string": "说一个身边的例子，我有个在[哈工大深圳校区]读书的亲戚，我问他[毕业后][打算去哪里工作](https://www.zhihu.com/question/453282898/answer/1825644008)？他说回长沙吧，深圳[房价太高]，[生活压力]太大了，顶不住。 #pt10-99.99",
+                "refs": [
+                  {
+                    "uid": "qNKpYWTXC"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "哈工大的毕业生，这样的[优质劳动力]，都被深圳房价[吓退了]。",
+                    "uid": "imDo4U0MI",
+                    "edit-time": 1618300644612,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "难道这个城市，真的要[空心化]，真的要被[投资客]和[金融客]占满吗（作为一个普普通通的金融狗，我也表示压力很大）？",
+                    "uid": "ydYNFKnow",
+                    "edit-time": 1618300649276,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "kuUHGReDM",
+                "edit-time": 1618300670774,
+                ":block/refs": [
+                  {
+                    ":block/uid": "qNKpYWTXC"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "L7fTIw9dt"
+              }
+            ],
+            "uid": "R1dHCwnbg",
+            ":block/refs": [
+              {
+                ":block/uid": "L7fTIw9dt"
+              }
+            ],
+            "string": "#inbox",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618300307610,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "OagdKzqE-",
+        "edit-time": 1618300615650,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -15652,6 +15854,92 @@
         ],
         "uid": "8ZOG_owC5",
         "edit-time": 1617657820856,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "两性情感生活",
+        "create-time": 1618302099337,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1618302102560,
+            "children": [
+              {
+                "edit-time": 1618302383433,
+                "children": [
+                  {
+                    "string": "楼主的bf没日到前女友之前[这心结不会解开]",
+                    "create-time": 1618302166481,
+                    "uid": "TuoJDwlRj",
+                    "edit-time": 1618302376494,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "仔细看了看是没追到的，惹，感觉有一天对面有什么要求他就[舔回去了]\n膈应就分了吧",
+                    "create-time": 1618302433541,
+                    "uid": "G6ibpfubm",
+                    "edit-time": 1618302442700,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "qNKpYWTXC"
+                  }
+                ],
+                "uid": "-nO0pHVDR",
+                ":block/refs": [
+                  {
+                    ":block/uid": "qNKpYWTXC"
+                  }
+                ],
+                "string": "其实我也这样，但是[藏的比较好](https://bbs.saraba1st.com/2b/thread-1998751-6-1.html)，[看ex微博]也是用小号 #pt10-99.99",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1618302102554,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "L7fTIw9dt"
+              }
+            ],
+            "uid": "7uPR6G6ES",
+            ":block/refs": [
+              {
+                ":block/uid": "L7fTIw9dt"
+              }
+            ],
+            "string": "#inbox",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618302100077,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "wCuFkkR-g",
+        "edit-time": 1618302109862,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -26688,32 +26976,57 @@
             "edit-time": 1618279675442,
             "children": [
               {
-                "string": "[To-do lists]([[to-do list]]) often have [[subtask]]s, and so lend themselves to a [[hierarchical system]]. Org-mode facilitates this by allowing items to be [subdivided into simple steps] (nested to-dos and/or [[checklist]]s), and [given tags and properties] such as [priorities]([[priority]]) and [[deadline]]s. An [[agenda]] for [the items to be done this week or day] can then be [automatically generated](((lPu7McexT))) from [date tags].[14]\n210413-10:35",
-                "create-time": 1618279589312,
-                ":block/refs": [
+                "edit-time": 1618281528083,
+                "children": [
                   {
-                    ":block/uid": "D1-XESmoA"
-                  },
-                  {
-                    ":block/uid": "piGPGAdcG"
-                  },
-                  {
-                    ":block/uid": "rG6Xe2jxU"
-                  },
-                  {
-                    ":block/uid": "zfB1GR125"
-                  },
-                  {
-                    ":block/uid": "P0qlaGVNg"
-                  },
-                  {
-                    ":block/uid": "yTWhwOHdM"
-                  },
-                  {
-                    ":block/uid": "lPu7McexT"
-                  },
-                  {
-                    ":block/uid": "iY1iuGI4-"
+                    "string": "Org file showing [simple planning for a short trip](https://en.wikipedia.org/wiki/File:Org_file_showing_simple_planning_for_a_short_trip.png)",
+                    "children": [
+                      {
+                        "string": "[Emacs 27.1] on Linux using the [Breeze GTK theme] with the [Papirus icon theme]. Screenshot of the Emacs frame showing and Org buffer constructed to [demonstrate a few features of] Org in [a plan for a short trip]. -- 28 January 2021",
+                        "create-time": 1618306705127,
+                        "uid": "z4-XJN93v",
+                        "edit-time": 1618307011768,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "![org-mode-01](https://upload.wikimedia.org/wikipedia/commons/b/bb/Org_file_showing_simple_planning_for_a_short_trip.png)",
+                        "props": {
+                          "image-size": {
+                            "https://upload.wikimedia.org/wikipedia/commons/b/bb/Org_file_showing_simple_planning_for_a_short_trip.png": {
+                              "width": 580,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1618306613689,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://upload.wikimedia.org/wikipedia/commons/b/bb/Org_file_showing_simple_planning_for_a_short_trip.png": {
+                              ":width": 580,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "yyasbAfj9",
+                        "edit-time": 1618306631699,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "ZhhBjiabk",
+                    "edit-time": 1618306969330,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
@@ -26742,11 +27055,38 @@
                     "uid": "iY1iuGI4-"
                   }
                 ],
+                "uid": "TX6RAvAih",
+                ":block/refs": [
+                  {
+                    ":block/uid": "D1-XESmoA"
+                  },
+                  {
+                    ":block/uid": "piGPGAdcG"
+                  },
+                  {
+                    ":block/uid": "rG6Xe2jxU"
+                  },
+                  {
+                    ":block/uid": "zfB1GR125"
+                  },
+                  {
+                    ":block/uid": "P0qlaGVNg"
+                  },
+                  {
+                    ":block/uid": "yTWhwOHdM"
+                  },
+                  {
+                    ":block/uid": "lPu7McexT"
+                  },
+                  {
+                    ":block/uid": "iY1iuGI4-"
+                  }
+                ],
+                "string": "[To-do lists]([[to-do list]]) often have [[subtask]]s, and so lend themselves to a [[hierarchical system]]. Org-mode facilitates this by allowing items to be [subdivided into simple steps] (nested to-dos and/or [[checklist]]s), and [given tags and properties] such as [priorities]([[priority]]) and [[deadline]]s. An [[agenda]] for [the items to be done this week or day] can then be [automatically generated](((lPu7McexT))) from [date tags].[14]\n210413-10:35",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "TX6RAvAih",
-                "edit-time": 1618281528083,
+                "create-time": 1618279589312,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -39316,6 +39656,28 @@
     },
     "children": [
       {
+        "string": "((JcihDPOlO))",
+        "create-time": 1618306459835,
+        ":block/refs": [
+          {
+            ":block/uid": "JcihDPOlO"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "JcihDPOlO"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "jJevaF49K",
+        "edit-time": 1618306460935,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[citation]]",
         "refs": [
           {
@@ -39347,6 +39709,28 @@
         "string": "citing source",
         "uid": "SI5ErEhS2",
         "edit-time": 1618197340943,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[cross-reference]]",
+        "create-time": 1618306422956,
+        ":block/refs": [
+          {
+            ":block/uid": "ZlCBzbgsW"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZlCBzbgsW"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "B3pX-bekK",
+        "edit-time": 1618306425886,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -42810,6 +43194,30 @@
     ],
     "uid": "UvoWEek-B",
     "edit-time": 1618285402754,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618306260951,
+    "title": "slip box",
+    "uid": "i_ArQnKLe",
+    "edit-time": 1618306260951,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618306286564,
+    "title": "block reference",
+    "uid": "4IxCm3vAO",
+    "edit-time": 1618306286564,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

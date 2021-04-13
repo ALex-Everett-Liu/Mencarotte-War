@@ -18,6 +18,9 @@ License	[[GPL]]
     - This section [gives some sample uses for] the [hierarchical display](((Hk5dG1SC3))) and editing of plain text.
         - [To-do lists]([[to-do list]]) often have [[subtask]]s, and so lend themselves to a [[hierarchical system]]. Org-mode facilitates this by allowing items to be [subdivided into simple steps] (nested to-dos and/or [[checklist]]s), and [given tags and properties] such as [priorities]([[priority]]) and [[deadline]]s. An [[agenda]] for [the items to be done this week or day] can then be [automatically generated](((lPu7McexT))) from [date tags].[14]
 210413-10:35
+            - Org file showing [simple planning for a short trip](https://en.wikipedia.org/wiki/File:Org_file_showing_simple_planning_for_a_short_trip.png)
+                - [Emacs 27.1] on Linux using the [Breeze GTK theme] with the [Papirus icon theme]. Screenshot of the Emacs frame showing and Org buffer constructed to [demonstrate a few features of] Org in [a plan for a short trip]. -- 28 January 2021
+                - ![org-mode-01](https://upload.wikimedia.org/wikipedia/commons/b/bb/Org_file_showing_simple_planning_for_a_short_trip.png)
         - Plain text outlines.[15]
         - Org files as [[interconnected pages]] of a [[personal wiki]], using the markup for links.
         - [Tracking bugs](((0HCjwPBlK))) in a project, by storing [.org files] in a [[distributed revision control system]] such as [[Git]].

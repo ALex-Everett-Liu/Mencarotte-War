@@ -1,6 +1,8 @@
+- [[block reference]]; referenced block
 - [[citation]]
     - inline citation
 - citing source
+- [[cross-reference]]
 - [[footnote]]
 - general reference
 - mentioned
