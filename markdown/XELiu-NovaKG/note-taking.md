@@ -19,5 +19,6 @@
         - bullshit!
     - [[Note-taking/Wolai]]
 - wiki-like
-    - [[Zim Desktop Wiki]]
+    - [[MediaWiki]]
     - [[TiddlyWiki]]
+    - [[Zim Desktop Wiki]]

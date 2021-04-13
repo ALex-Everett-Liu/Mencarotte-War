@@ -1,5 +1,4 @@
 - [[communication and media]]; media communications; 传播学; 传媒...
 - [[moral panic]]
 - [[popular culture]]
-- social activity
-    - social interaction
+- [[social activity]]

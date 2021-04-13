@@ -1,0 +1,9 @@
+- API; api
+    - API access;
+- [[extension]]
+    - [[add-on]]; third-party add-on package
+    - [[plugin]]; [[plug-in]]
+        - plugin loading order
+- hack...
+    - hack-turned-supported
+- user-pioneered

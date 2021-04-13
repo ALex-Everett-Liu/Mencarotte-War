@@ -1,7 +1,11 @@
+- [[customization]]
 - feature...
     - advanced feature
     - [[feature request]]
     - function; [[functionality]]; functionalities
+- file operation
+    - [[copy and paste]]; copy/pasting
+    - [[save and load]]
 - [[file structure]]
 - general...
     - apps; software application; [[application program]]

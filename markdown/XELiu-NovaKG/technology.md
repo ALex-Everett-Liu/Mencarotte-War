@@ -6,5 +6,6 @@
 - [[hardware]]
 - [[information science]]; [[information technology (IT)]]
 - [[software]]
+- [[Software Engineering (SE)]]
 - [[Web]]; [[World Wide Web (WWW)]]
     - [[computer network]]; computer networking; [[network]]...

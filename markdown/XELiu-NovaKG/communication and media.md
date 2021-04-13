@@ -1,7 +1,9 @@
+- broadcast living; live stream; 生配信 (namahaishin); namahousou; 直播 (zhibo);
 - [[conspiracy theory]]
 - extended universe
 - [[mass media technology]]: 大众传媒技术
 - [[multi-media]]
 - news
     - BBC News
+- [[social media]]
 - [[television]]

@@ -1167,6 +1167,28 @@
         }
       },
       {
+        "string": "[[Software Engineering (SE)]]",
+        "create-time": 1618275011605,
+        ":block/refs": [
+          {
+            ":block/uid": "JKxfPOQhf"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "JKxfPOQhf"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "zt499xh67",
+        "edit-time": 1618275014714,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1617578738508,
         "children": [
           {
@@ -1239,6 +1261,28 @@
     },
     "children": [
       {
+        "string": "[[customization]]",
+        "create-time": 1618266018573,
+        ":block/refs": [
+          {
+            ":block/uid": "ub4k3t1VW"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ub4k3t1VW"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "c1NdGTk-v",
+        "edit-time": 1618266023613,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "feature...",
         "children": [
           {
@@ -1288,6 +1332,52 @@
         ],
         "uid": "GYff6CSpb",
         "edit-time": 1618180133369,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "file operation",
+        "children": [
+          {
+            "string": "[[copy and paste]]; copy/pasting",
+            "refs": [
+              {
+                "uid": "gw3Ukk-wI"
+              }
+            ],
+            "uid": "7R4lIyPc3",
+            "edit-time": 1618274981699,
+            ":block/refs": [
+              {
+                ":block/uid": "gw3Ukk-wI"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[save and load]]",
+            "refs": [
+              {
+                "uid": "CbxNinSSp"
+              }
+            ],
+            "uid": "5TDVk2b5g",
+            "edit-time": 1618274979915,
+            ":block/refs": [
+              {
+                ":block/uid": "CbxNinSSp"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hs3O9heAA",
+        "edit-time": 1618274964915,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -1976,19 +2066,23 @@
         "string": "wiki-like",
         "children": [
           {
-            "string": "[[Zim Desktop Wiki]]",
-            "refs": [
-              {
-                "uid": "m922VCIxu"
-              }
-            ],
-            "uid": "UKClXCyqu",
-            "edit-time": 1617931057822,
+            "string": "[[MediaWiki]]",
+            "create-time": 1618271220149,
             ":block/refs": [
               {
-                ":block/uid": "m922VCIxu"
+                ":block/uid": "4MM1biGXq"
               }
             ],
+            "refs": [
+              {
+                "uid": "4MM1biGXq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "zNoW-C1Tz",
+            "edit-time": 1618271222676,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -2005,6 +2099,24 @@
             ":block/refs": [
               {
                 ":block/uid": "7BopMUG7d"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Zim Desktop Wiki]]",
+            "refs": [
+              {
+                "uid": "m922VCIxu"
+              }
+            ],
+            "uid": "UKClXCyqu",
+            "edit-time": 1617931057822,
+            ":block/refs": [
+              {
+                ":block/uid": "m922VCIxu"
               }
             ],
             ":edit/user": {
@@ -6561,6 +6673,44 @@
         }
       },
       {
+        "string": "[[encyclopedia]]...",
+        "refs": [
+          {
+            "uid": "1I2iMlDlc"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[wiki]]...",
+            "refs": [
+              {
+                "uid": "0XUGzrFz2"
+              }
+            ],
+            "uid": "Lf9pQ0eML",
+            "edit-time": 1618271178215,
+            ":block/refs": [
+              {
+                ":block/uid": "0XUGzrFz2"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "9ARe9ibjv",
+        "edit-time": 1618271180016,
+        ":block/refs": [
+          {
+            ":block/uid": "1I2iMlDlc"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "general...",
         "children": [
           {
@@ -7777,9 +7927,19 @@
         }
       },
       {
-        "string": "package",
+        "string": "[[package]]",
+        "refs": [
+          {
+            "uid": "xE_0xlCk_"
+          }
+        ],
         "uid": "jTH0Ltm9b",
-        "edit-time": 1618179882591,
+        "edit-time": 1618266143016,
+        ":block/refs": [
+          {
+            ":block/uid": "xE_0xlCk_"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -14869,6 +15029,28 @@
         }
       },
       {
+        "string": "www.[[hjenglish]].com",
+        "create-time": 1618278329031,
+        ":block/refs": [
+          {
+            ":block/uid": "A_o-YHmGt"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "A_o-YHmGt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "grqAHv41F",
+        "edit-time": 1618278335730,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1617657506900,
         "children": [
           {
@@ -20969,6 +21151,28 @@
     },
     "children": [
       {
+        "string": "[[higher education]]",
+        "create-time": 1618266535628,
+        ":block/refs": [
+          {
+            ":block/uid": "QYff7tN3f"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "QYff7tN3f"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Zg-H5ZIYL",
+        "edit-time": 1618266537904,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[learning]]...",
         "create-time": 1617936345384,
         ":block/refs": [
@@ -26395,7 +26599,7 @@
         },
         "children": [
           {
-            "edit-time": 1618263624534,
+            "edit-time": 1618264831258,
             "children": [
               {
                 "string": "[Notepad++ Portable]-A full-featured text editor with [syntax highlighting]. www.[dictall].com",
@@ -26445,7 +26649,7 @@
                 ":block/uid": "xewrmC20S"
               }
             ],
-            "string": "Org-mode has some features to [export to other formats](((cxGMbQ0vM))), and other systems have some features to [handle org-mode formats]. Further, [a full-featured text editor] 功能齐全的 may [have functions to handle] [[wiki]]s, [[personal contact]]s, [[email]], [[calendar]]s, and so on; because org-mode is [simply plain text], these features could be integrated into [org-mode documents] as well.",
+            "string": "Org-mode has some features to [export to other formats](((cxGMbQ0vM))), and other systems have some features to [handle org-mode formats]. Further, [a full-featured text editor] 功能齐全的 may [have functions to handle] [[wiki]]s, [[personal contact]]s, [[email]], [[calendar]]s, and so on; because org-mode is [simply plain text], these features could be integrated into [org-mode documents] as well.\n210413-05:56",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -26455,25 +26659,105 @@
             }
           },
           {
-            "string": "From org-mode, add-on packages export to other markup format such as MediaWiki (org-export-generic, org-export), to flashcard learning systems implementing SuperMemo's algorithms (org-drill, org-learn).[17]\n\n",
-            "create-time": 1618263214917,
+            "edit-time": 1618266080616,
+            "children": [
+              {
+                "string": "In the \"Add-on packages available for install\" section, a list of [installable packages]([[package]]) is displayed. www.[ibm].com",
+                "create-time": 1618265869577,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xE_0xlCk_"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xE_0xlCk_"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Z8r-UICvj",
+                "edit-time": 1618266127285,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "However, there are a bunch of interesting [third-party add-on packages], such as [relational database adapters] 适配器 and [a Wiki implementation]. [wiki.ubuntu].org.cn",
+                "create-time": 1618265869577,
+                "uid": "zS8hF0DZy",
+                "edit-time": 1618266171159,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4MM1biGXq"
+              },
+              {
+                "uid": "_ohknravi"
+              },
+              {
+                "uid": "DNnWfFEUv"
+              }
+            ],
             "uid": "rjqF72sPh",
-            "edit-time": 1618263214917,
+            ":block/refs": [
+              {
+                ":block/uid": "4MM1biGXq"
+              },
+              {
+                ":block/uid": "_ohknravi"
+              },
+              {
+                ":block/uid": "DNnWfFEUv"
+              }
+            ],
+            "string": "From org-mode, [add-on packages](((DNnWfFEUv))) export to other markup format such as [[MediaWiki]] (org-export-generic, org-export), to [flashcard learning systems] implementing [[SuperMemo]]'s algorithms (org-drill, org-learn).[17]",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "create-time": 1618263214917,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "Outside of org-mode editors, org markup is supported by the GitLab and GitHub code repositories,[18] the JIRA issue tracker,[19] Pandoc, and others.",
+            "string": "Outside of [org-mode editors], [org markup] is supported by the [[GitLab]] and [[GitHub]] [code repositories],[18] the JIRA issue tracker,[19] [[Pandoc]], and others.",
             "create-time": 1618263206819,
-            "uid": "qnMwDnjmP",
-            "edit-time": 1618263214923,
+            ":block/refs": [
+              {
+                ":block/uid": "jYPl7DS24"
+              },
+              {
+                ":block/uid": "nWENW6z1a"
+              },
+              {
+                ":block/uid": "Es-Vuv_v_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "jYPl7DS24"
+              },
+              {
+                "uid": "nWENW6z1a"
+              },
+              {
+                "uid": "Es-Vuv_v_"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "qnMwDnjmP",
+            "edit-time": 1618275178146,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -27430,19 +27714,19 @@
         }
       },
       {
-        "string": "social activity",
-        "children": [
+        "string": "[[social activity]]",
+        "refs": [
           {
-            "string": "social interaction",
-            "uid": "m1xYcZB-w",
-            "edit-time": 1617959308063,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
+            "uid": "cC4CzUsLr"
           }
         ],
         "uid": "xq4pwktG8",
-        "edit-time": 1617959308063,
+        "edit-time": 1618264641717,
+        ":block/refs": [
+          {
+            ":block/uid": "cC4CzUsLr"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -27638,6 +27922,18 @@
     },
     "children": [
       {
+        "string": "broadcast living; live stream; 生配信 (namahaishin); namahousou; 直播 (zhibo);",
+        "create-time": 1618264675309,
+        "uid": "Gz9QPK6Jz",
+        "edit-time": 1618264676393,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[conspiracy theory]]",
         "refs": [
           {
@@ -27717,6 +28013,28 @@
         ],
         "uid": "QcQcNNjco",
         "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[social media]]",
+        "create-time": 1618264710174,
+        ":block/refs": [
+          {
+            ":block/uid": "GRhBtYJOp"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "GRhBtYJOp"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "dlrCxBKvi",
+        "edit-time": 1618264715234,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -29497,6 +29815,28 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[calendar]]",
+        "create-time": 1618264807966,
+        ":block/refs": [
+          {
+            ":block/uid": "XdsnOGg1L"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "XdsnOGg1L"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "dI3mD6qxq",
+        "edit-time": 1618264810710,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[GTD]]",
         "create-time": 1618206582577,
@@ -38883,8 +39223,402 @@
   {
     "create-time": 1618263624537,
     "title": "wiki",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((vJnJ9gCda))",
+        "create-time": 1618271212317,
+        ":block/refs": [
+          {
+            ":block/uid": "vJnJ9gCda"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "vJnJ9gCda"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "C0EtLzz7_",
+        "edit-time": 1618271213437,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Wikipedia]]",
+        "create-time": 1618271274642,
+        ":block/refs": [
+          {
+            ":block/uid": "fZWpZoGDF"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "fZWpZoGDF"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "juwvpnxUS",
+        "edit-time": 1618271276775,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
     "uid": "0XUGzrFz2",
     "edit-time": 1618263624538,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618263624537,
+    "title": "personal contact",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1618264336780,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "You must provide personal contact and [credit card information]. 联系人 www.[ibm].com",
+            "create-time": 1618264340174,
+            "uid": "WSJzMSPWv",
+            "edit-time": 1618264382231,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "I don't have much personal contact with him. 私人上的往来, 私下交往 provided by [jukuu]",
+            "create-time": 1618264340174,
+            "uid": "M2vjCimOx",
+            "edit-time": 1618264349821,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "They were [first brought into personal contact] 初次相识 when they studied in england. ",
+            "create-time": 1618264340174,
+            "uid": "uGLt7dWXf",
+            "edit-time": 1618264394178,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "R: May I have your [personal contact number] too? 私人联络号码 blog.sina.com.cn",
+            "create-time": 1618264340174,
+            "uid": "XPwoak6ah",
+            "edit-time": 1618264400468,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Maintenance of a healthy [work group] requires [steady personal contact]. 经常性的人员接触 www.[dictall].com",
+            "create-time": 1618264340174,
+            "uid": "yNSZVQGxm",
+            "edit-time": 1618264408723,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "_WSyf0sfX",
+        "edit-time": 1618264339333,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "xewrmC20S",
+    "edit-time": 1618263624538,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618264641719,
+    "title": "social activity",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "chat",
+        "children": [
+          {
+            "string": "walk-and-talk chat",
+            "uid": "QDoiEauUt",
+            "edit-time": 1618264643960,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Ia7pLEsJ4",
+        "edit-time": 1618264643960,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "humor...",
+        "children": [
+          {
+            "string": "play-on-words joke",
+            "uid": "GZWPzuTze",
+            "edit-time": 1618264643960,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Whm9YjnZy",
+        "edit-time": 1618264643960,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "relationship...",
+        "children": [
+          {
+            "string": "college roommate",
+            "uid": "zyJVUF6sc",
+            "edit-time": 1618264643960,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2mbjHc7GT",
+        "edit-time": 1618264643960,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "social awareness",
+        "uid": "WrN25vDUn",
+        "edit-time": 1618264643960,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "social interaction",
+        "uid": "m1xYcZB-w",
+        "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "cC4CzUsLr",
+    "edit-time": 1618264641720,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618264715236,
+    "title": "social media",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[blog]]; [[blog post]]",
+        "refs": [
+          {
+            "uid": "z8UYChOv6"
+          },
+          {
+            "uid": "3g7bsfzTn"
+          }
+        ],
+        "children": [
+          {
+            "string": "blogging: 写网志; 写博客",
+            "uid": "k3ICAXRmv",
+            "edit-time": 1618264716920,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[vlog]]",
+            "refs": [
+              {
+                "uid": "WLlHirLEk"
+              }
+            ],
+            "uid": "C30T8Rvei",
+            "edit-time": 1618264727365,
+            ":block/refs": [
+              {
+                ":block/uid": "WLlHirLEk"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[WordPress]]",
+            "refs": [
+              {
+                "uid": "dV8S1uEch"
+              }
+            ],
+            "uid": "x49GS6C_g",
+            "edit-time": 1618264725774,
+            ":block/refs": [
+              {
+                ":block/uid": "dV8S1uEch"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "nO8nVdZMp",
+        "edit-time": 1618264716920,
+        ":block/refs": [
+          {
+            ":block/uid": "z8UYChOv6"
+          },
+          {
+            ":block/uid": "3g7bsfzTn"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[personal contact]]",
+        "refs": [
+          {
+            "uid": "xewrmC20S"
+          }
+        ],
+        "uid": "ZFszeFBSG",
+        "edit-time": 1618264729606,
+        ":block/refs": [
+          {
+            ":block/uid": "xewrmC20S"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Twitter]]; twitter",
+        "refs": [
+          {
+            "uid": "3ATlXEuvl"
+          }
+        ],
+        "children": [
+          {
+            "string": "link economy",
+            "uid": "NhsveMZJv",
+            "edit-time": 1618264716920,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "tweet;",
+            "uid": "SdHbClXwT",
+            "edit-time": 1618264716920,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Twitter Thread; Threaded Twitter",
+            "uid": "zfSgkmepX",
+            "edit-time": 1618264716920,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[weibo (micro-blog)]]",
+            "refs": [
+              {
+                "uid": "91Sbungjf"
+              }
+            ],
+            "uid": "hM_wgVMHr",
+            "edit-time": 1618264742173,
+            ":block/refs": [
+              {
+                ":block/uid": "91Sbungjf"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "SJMFvQXDK",
+        "edit-time": 1618264743449,
+        ":block/refs": [
+          {
+            ":block/uid": "3ATlXEuvl"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "GRhBtYJOp",
+    "edit-time": 1618264715237,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618264716914,
+    "title": "blog",
+    "uid": "z8UYChOv6",
+    "edit-time": 1618264716920,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -38893,10 +39627,1198 @@
     }
   },
   {
-    "create-time": 1618263624537,
-    "title": "personal contact",
-    "uid": "xewrmC20S",
-    "edit-time": 1618263624538,
+    "create-time": 1618264716914,
+    "title": "blog post",
+    "uid": "3g7bsfzTn",
+    "edit-time": 1618264716920,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618264725776,
+    "title": "WordPress",
+    "uid": "dV8S1uEch",
+    "edit-time": 1618264725777,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618264727367,
+    "title": "vlog",
+    "uid": "WLlHirLEk",
+    "edit-time": 1618264727367,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618264742176,
+    "title": "weibo (micro-blog)",
+    "uid": "91Sbungjf",
+    "edit-time": 1618264742176,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618264743450,
+    "title": "Twitter",
+    "uid": "3ATlXEuvl",
+    "edit-time": 1618264743451,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618265789328,
+    "title": "MediaWiki",
+    "uid": "4MM1biGXq",
+    "edit-time": 1618265789329,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618265789328,
+    "title": "SuperMemo",
+    "uid": "_ohknravi",
+    "edit-time": 1618265789329,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266023615,
+    "title": "customization",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "API; api",
+        "children": [
+          {
+            "string": "API access;",
+            "uid": "GQIgMcAsx",
+            "edit-time": 1618266053201,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Zsp13woiJ",
+        "edit-time": 1618266053201,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[extension]]",
+        "refs": [
+          {
+            "uid": "dzoz5UEgz"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[add-on]]; third-party add-on package",
+            "refs": [
+              {
+                "uid": "E6xlidb8G"
+              }
+            ],
+            "uid": "DNnWfFEUv",
+            "edit-time": 1618266161175,
+            ":block/refs": [
+              {
+                ":block/uid": "E6xlidb8G"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[plugin]]; [[plug-in]]",
+            "refs": [
+              {
+                "uid": "fe38ERe8N"
+              },
+              {
+                "uid": "LpTaNg_4w"
+              }
+            ],
+            "children": [
+              {
+                "string": "plugin loading order",
+                "uid": "gAKpkC2KX",
+                "edit-time": 1618266053201,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Qpap7vByO",
+            "edit-time": 1618266066324,
+            ":block/refs": [
+              {
+                ":block/uid": "fe38ERe8N"
+              },
+              {
+                ":block/uid": "LpTaNg_4w"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "A1WPISraJ",
+        "edit-time": 1618266071302,
+        ":block/refs": [
+          {
+            ":block/uid": "dzoz5UEgz"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "hack...",
+        "children": [
+          {
+            "string": "hack-turned-supported",
+            "uid": "5RaB3Lxqh",
+            "edit-time": 1618266053201,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "w-HiQysAR",
+        "edit-time": 1618266053201,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "user-pioneered",
+        "uid": "y4CdXoAsf",
+        "edit-time": 1618266053201,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ub4k3t1VW",
+    "edit-time": 1618266023615,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266065184,
+    "title": "plug-in",
+    "uid": "fe38ERe8N",
+    "edit-time": 1618266065185,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266066326,
+    "title": "plugin",
+    "uid": "LpTaNg_4w",
+    "edit-time": 1618266066327,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266070035,
+    "title": "add-on",
+    "uid": "E6xlidb8G",
+    "edit-time": 1618266070035,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266071305,
+    "title": "extension",
+    "uid": "dzoz5UEgz",
+    "edit-time": 1618266071305,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266127287,
+    "title": "package",
+    "uid": "xE_0xlCk_",
+    "edit-time": 1618266127288,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266537906,
+    "title": "higher education",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "academic rank",
+        "uid": "I_LfISlh2",
+        "edit-time": 1618266546226,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "college education",
+        "uid": "M5YVB8HtN",
+        "edit-time": 1618266546226,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "tuition-free",
+            "uid": "SUD_GF-24",
+            "edit-time": 1618266546226,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "M9Qyc7v6_",
+        "edit-time": 1618266546226,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[graduate school]]",
+        "refs": [
+          {
+            "uid": "DpFzCVx1M"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[graduate student]]",
+            "refs": [
+              {
+                "uid": "-BCuwyE6n"
+              }
+            ],
+            "uid": "lmWF6ynvL",
+            "edit-time": 1618266556947,
+            ":block/refs": [
+              {
+                ":block/uid": "-BCuwyE6n"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "co-supervisor",
+            "uid": "R62a9UiUP",
+            "edit-time": 1618266546226,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[PhD]]",
+            "refs": [
+              {
+                "uid": "BYAvL6Nn8"
+              }
+            ],
+            "uid": "LP1nWHRNB",
+            "edit-time": 1618266561671,
+            ":block/refs": [
+              {
+                ":block/uid": "BYAvL6Nn8"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "postdoctoral position",
+            "uid": "XBm6oZkFO",
+            "edit-time": 1618266546226,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "C3MKRUmQt",
+        "edit-time": 1618266558229,
+        ":block/refs": [
+          {
+            ":block/uid": "DpFzCVx1M"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "major...",
+        "create-time": 1618266601216,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "science majors",
+            "create-time": 1618266603059,
+            "uid": "c4b3kjZ7F",
+            "edit-time": 1618266604600,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hdbC7Hkol",
+        "edit-time": 1618266608685,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "online?",
+        "children": [
+          {
+            "string": "coding university",
+            "uid": "K7jsS_Oep",
+            "edit-time": 1618266623381,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Q2MWJ-CXb",
+        "edit-time": 1618266623381,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[university]]...",
+        "refs": [
+          {
+            "uid": "-3ypDg9Z8"
+          }
+        ],
+        "uid": "rbmLtQQSh",
+        "edit-time": 1618266643354,
+        ":block/refs": [
+          {
+            ":block/uid": "-3ypDg9Z8"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "university hierarchy",
+        "children": [
+          {
+            "string": "affiliated professor",
+            "uid": "EILy2C4Za",
+            "edit-time": 1618266623381,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "faculty",
+            "uid": "SK0EL6vyv",
+            "edit-time": 1618266623381,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "tenure status",
+            "uid": "9KBiiAAD4",
+            "edit-time": 1618266623381,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xrvzIk9fJ",
+        "edit-time": 1618266623381,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "院系部门; 教职员工;",
+        "children": [
+          {
+            "string": "Department of Applied Physics",
+            "uid": "oYS8MGz1b",
+            "edit-time": 1618266623381,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ds_XMKecc",
+        "edit-time": 1618266623381,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618266670656,
+        "children": [
+          {
+            "edit-time": 1618273718046,
+            "children": [
+              {
+                "string": "是的 都是忽悠准备[考研考博](https://bbs.saraba1st.com/2b/thread-1991429-2-1.html)的进组打便宜工的 不知道lz怎么跑进来了",
+                "create-time": 1618273671449,
+                "uid": "cp4eUJiUU",
+                "edit-time": 1618273709786,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oVxMsq163"
+              }
+            ],
+            "uid": "o8UkV3hP5",
+            ":block/refs": [
+              {
+                ":block/uid": "oVxMsq163"
+              }
+            ],
+            "string": "这活不都是忽悠那些[考博没考上][明年再来一年]的倒霉蛋干的吗，路人来干这事图啥啊 #pt9-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618273649122,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "现在直博>硕博连读>专硕考核>>>考博…………收考博的人真不多，毕竟的确[不靠谱的多](https://bbs.saraba1st.com/2b/thread-1998644-2-1.html)…… #pt8-99.99",
+            "create-time": 1618266670651,
+            ":block/refs": [
+              {
+                ":block/uid": "PdZWxhurI"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PdZWxhurI"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "KgW56yTCx",
+            "edit-time": 1618266792534,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "V1R7VvrvB",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618266668594,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "QYff7tN3f",
+    "edit-time": 1618266537909,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266556949,
+    "title": "graduate student",
+    "uid": "-BCuwyE6n",
+    "edit-time": 1618266556949,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266558230,
+    "title": "graduate school",
+    "uid": "DpFzCVx1M",
+    "edit-time": 1618266558231,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266561673,
+    "title": "PhD",
+    "uid": "BYAvL6Nn8",
+    "edit-time": 1618266561674,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266643356,
+    "title": "university",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[California Institute of Technology (CalTech)]]",
+        "refs": [
+          {
+            "uid": "FfWEPqmHb"
+          }
+        ],
+        "uid": "cYBCtY-PK",
+        "edit-time": 1618266660254,
+        ":block/refs": [
+          {
+            ":block/uid": "FfWEPqmHb"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Cambridge University]]",
+        "refs": [
+          {
+            "uid": "bnh24bUPx"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Cambridge University Press]]",
+            "refs": [
+              {
+                "uid": "NHqbVA_cu"
+              }
+            ],
+            "uid": "ETONsteJJ",
+            "edit-time": 1618266657565,
+            ":block/refs": [
+              {
+                ":block/uid": "NHqbVA_cu"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "G_ERPTHgt",
+        "edit-time": 1618266658785,
+        ":block/refs": [
+          {
+            ":block/uid": "bnh24bUPx"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Stanford University]]",
+        "refs": [
+          {
+            "uid": "m1FUoZ79_"
+          }
+        ],
+        "uid": "3snTlxpqr",
+        "edit-time": 1618266656380,
+        ":block/refs": [
+          {
+            ":block/uid": "m1FUoZ79_"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Yale University]]",
+        "refs": [
+          {
+            "uid": "l6xzX0LQC"
+          }
+        ],
+        "uid": "xet5BbIAL",
+        "edit-time": 1618266655174,
+        ":block/refs": [
+          {
+            ":block/uid": "l6xzX0LQC"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "-3ypDg9Z8",
+    "edit-time": 1618266643357,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266655176,
+    "title": "Yale University",
+    "uid": "l6xzX0LQC",
+    "edit-time": 1618266655176,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266656381,
+    "title": "Stanford University",
+    "uid": "m1FUoZ79_",
+    "edit-time": 1618266656381,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266657567,
+    "title": "Cambridge University Press",
+    "uid": "NHqbVA_cu",
+    "edit-time": 1618266657567,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266658786,
+    "title": "Cambridge University",
+    "uid": "bnh24bUPx",
+    "edit-time": 1618266658786,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266660256,
+    "title": "California Institute of Technology (CalTech)",
+    "uid": "FfWEPqmHb",
+    "edit-time": 1618266660256,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618266792537,
+    "title": "pt8-99.99",
+    "uid": "PdZWxhurI",
+    "edit-time": 1618266792537,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618271180020,
+    "title": "encyclopedia",
+    "uid": "1I2iMlDlc",
+    "edit-time": 1618271180020,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618271276777,
+    "title": "Wikipedia",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[disambiguation]]",
+        "refs": [
+          {
+            "uid": "0wxAoG721"
+          }
+        ],
+        "uid": "t4dDQgWwI",
+        "edit-time": 1618271286705,
+        ":block/refs": [
+          {
+            ":block/uid": "0wxAoG721"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "reference check",
+        "uid": "fn-VU61La",
+        "edit-time": 1618271282860,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Wikimedia Commons",
+        "uid": "4LD40roF-",
+        "edit-time": 1618271282860,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "fZWpZoGDF",
+    "edit-time": 1618271276777,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618271286707,
+    "title": "disambiguation",
+    "uid": "0wxAoG721",
+    "edit-time": 1618271286707,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618274757241,
+    "title": "GitLab",
+    "uid": "jYPl7DS24",
+    "edit-time": 1618274757242,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618274757241,
+    "title": "GitHub",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "GitHub Actions",
+        "children": [
+          {
+            "string": "workflow",
+            "children": [
+              {
+                "string": "GitHub workflow action script",
+                "uid": "PAveER9Me",
+                "edit-time": 1618275161600,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "EugYoE0v7",
+            "edit-time": 1618275161600,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-qW-vYn6u",
+        "edit-time": 1618275161600,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "nWENW6z1a",
+    "edit-time": 1618274757242,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618274964911,
+    "title": "version control",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "git",
+        "children": [
+          {
+            "string": "[[commit]]",
+            "refs": [
+              {
+                "uid": "hBN0sf0Y7"
+              }
+            ],
+            "uid": "DJHJ0HjMR",
+            "edit-time": 1618275152515,
+            ":block/refs": [
+              {
+                ":block/uid": "hBN0sf0Y7"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "diff; diffable",
+            "uid": "d-6XKbCK7",
+            "edit-time": 1618275140349,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "fork",
+            "uid": "vYDNigk0-",
+            "edit-time": 1618275140349,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[GitHub]]",
+            "refs": [
+              {
+                "uid": "nWENW6z1a"
+              }
+            ],
+            "uid": "fMCOPbxOi",
+            "edit-time": 1618275146905,
+            ":block/refs": [
+              {
+                ":block/uid": "nWENW6z1a"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "git history",
+            "uid": "6VT5vufXv",
+            "edit-time": 1618275140349,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "push",
+            "uid": "rmHyhYewQ",
+            "edit-time": 1618275140349,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5Srv0-DX5",
+        "edit-time": 1618275140349,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "T_XNhQMrs",
+    "edit-time": 1618274964915,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618274979917,
+    "title": "save and load",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "overwritten",
+        "uid": "eE4vVEZXV",
+        "edit-time": 1618274964915,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "restore the graph",
+        "uid": "SkPI46Ph2",
+        "edit-time": 1618274964915,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "populate changes; save the change",
+        "children": [
+          {
+            "string": "system-wide change; global change",
+            "uid": "vW3hDYi-K",
+            "edit-time": 1618275098338,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "updated in every location",
+            "uid": "NoashHOrC",
+            "edit-time": 1618275098338,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "SaV9CbJoA",
+        "edit-time": 1618275098338,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "save data periodically",
+        "uid": "F7WA_P7TM",
+        "edit-time": 1618274964915,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[version control]]",
+        "refs": [
+          {
+            "uid": "T_XNhQMrs"
+          }
+        ],
+        "uid": "1RAwBBHlG",
+        "edit-time": 1618274964915,
+        ":block/refs": [
+          {
+            ":block/uid": "T_XNhQMrs"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "CbxNinSSp",
+    "edit-time": 1618274979917,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618274981702,
+    "title": "copy and paste",
+    "uid": "gw3Ukk-wI",
+    "edit-time": 1618274981702,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618275014716,
+    "title": "Software Engineering (SE)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((1RAwBBHlG))",
+        "create-time": 1618275044652,
+        ":block/refs": [
+          {
+            ":block/uid": "1RAwBBHlG"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "1RAwBBHlG"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "LBv_bFvMp",
+        "edit-time": 1618275045683,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "JKxfPOQhf",
+    "edit-time": 1618275014716,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618275152518,
+    "title": "commit",
+    "uid": "hBN0sf0Y7",
+    "edit-time": 1618275152518,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618275178148,
+    "title": "Pandoc",
+    "uid": "Es-Vuv_v_",
+    "edit-time": 1618275178148,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618278335732,
+    "title": "hjenglish",
+    "uid": "A_o-YHmGt",
+    "edit-time": 1618278335733,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618278442673,
+    "title": "April 13th, 2021",
+    "uid": "04-13-2021",
+    "edit-time": 1618278442673,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

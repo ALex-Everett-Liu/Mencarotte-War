@@ -16,8 +16,9 @@ License	[[GPL]]
     - The system includes [a lightweight markup language]([[markup language]]) for plain text files (similar in function to [[Markdown]], [[reStructuredText]], Textile, etc., with a different implementation), allowing [lines or sections of plain text] to be [hierarchically divided], tagged, linked, and so on.
 - Integration
     - Org-mode has some features to [export to other formats](((cxGMbQ0vM))), and other systems have some features to [handle org-mode formats]. Further, [a full-featured text editor] 功能齐全的 may [have functions to handle] [[wiki]]s, [[personal contact]]s, [[email]], [[calendar]]s, and so on; because org-mode is [simply plain text], these features could be integrated into [org-mode documents] as well.
+210413-05:56
         - [Notepad++ Portable]-A full-featured text editor with [syntax highlighting]. www.[dictall].com
-    - From org-mode, add-on packages export to other markup format such as MediaWiki (org-export-generic, org-export), to flashcard learning systems implementing SuperMemo's algorithms (org-drill, org-learn).[17]
-
-
-    - Outside of org-mode editors, org markup is supported by the GitLab and GitHub code repositories,[18] the JIRA issue tracker,[19] Pandoc, and others.
+    - From org-mode, [add-on packages](((DNnWfFEUv))) export to other markup format such as [[MediaWiki]] (org-export-generic, org-export), to [flashcard learning systems] implementing [[SuperMemo]]'s algorithms (org-drill, org-learn).[17]
+        - In the "Add-on packages available for install" section, a list of [installable packages]([[package]]) is displayed. www.[ibm].com
+        - However, there are a bunch of interesting [third-party add-on packages], such as [relational database adapters] 适配器 and [a Wiki implementation]. [wiki.ubuntu].org.cn
+    - Outside of [org-mode editors], [org markup] is supported by the [[GitLab]] and [[GitHub]] [code repositories],[18] the JIRA issue tracker,[19] [[Pandoc]], and others.

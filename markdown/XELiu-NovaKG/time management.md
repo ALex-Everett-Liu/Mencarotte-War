@@ -1,3 +1,4 @@
+- [[calendar]]
 - [[GTD]]
 - [[RescueTime]]
 - spend time

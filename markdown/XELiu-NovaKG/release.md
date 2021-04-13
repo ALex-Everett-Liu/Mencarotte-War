@@ -2,7 +2,7 @@
 - maintain
     - maintain the system
     - [[maintainer]];
-- package
+- [[package]]
 - trial
 - test
     - pressure-test

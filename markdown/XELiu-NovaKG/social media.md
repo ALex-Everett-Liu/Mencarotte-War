@@ -1,0 +1,10 @@
+- [[blog]]; [[blog post]]
+    - blogging: 写网志; 写博客
+    - [[vlog]]
+    - [[WordPress]]
+- [[personal contact]]
+- [[Twitter]]; twitter
+    - link economy
+    - tweet;
+    - Twitter Thread; Threaded Twitter
+    - [[weibo (micro-blog)]]

@@ -1,0 +1,24 @@
+- academic rank
+- college education
+- general...
+    - tuition-free
+- [[graduate school]]
+    - [[graduate student]]
+    - co-supervisor
+    - [[PhD]]
+    - postdoctoral position
+- major...
+    - science majors
+- online?
+    - coding university
+- [[university]]...
+- university hierarchy
+    - affiliated professor
+    - faculty
+    - tenure status
+- 院系部门; 教职员工;
+    - Department of Applied Physics
+- #inbox
+    - 这活不都是忽悠那些[考博没考上][明年再来一年]的倒霉蛋干的吗，路人来干这事图啥啊 #pt9-99.98
+        - 是的 都是忽悠准备[考研考博](https://bbs.saraba1st.com/2b/thread-1991429-2-1.html)的进组打便宜工的 不知道lz怎么跑进来了
+    - 现在直博>硕博连读>专硕考核>>>考博…………收考博的人真不多，毕竟的确[不靠谱的多](https://bbs.saraba1st.com/2b/thread-1998644-2-1.html)…… #pt8-99.99
