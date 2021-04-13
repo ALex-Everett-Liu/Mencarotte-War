@@ -16,6 +16,7 @@
     - [[knowledge management]]
     - [[project management]]
     - [[time management]]
+- [[multi-media]]
 - [[note-taking]]; note-taking tool; notetaking
 - [[release]]
 - [[text editor]]

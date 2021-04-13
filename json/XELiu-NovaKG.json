@@ -1563,6 +1563,28 @@
         }
       },
       {
+        "string": "((3DaSHAGfV))",
+        "create-time": 1618307301126,
+        ":block/refs": [
+          {
+            ":block/uid": "3DaSHAGfV"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "3DaSHAGfV"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "urNnL_ltI",
+        "edit-time": 1618307302039,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[note-taking]]; note-taking tool; notetaking",
         "create-time": 1617577255561,
         ":block/refs": [
@@ -5372,6 +5394,28 @@
         ],
         "uid": "jz-DZk1Rd",
         "edit-time": 1617734405519,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[中国近代史]]",
+        "create-time": 1618312211608,
+        ":block/refs": [
+          {
+            ":block/uid": "sgrzDWQ3p"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "sgrzDWQ3p"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "XRfrFy5Js",
+        "edit-time": 1618312238288,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -26628,7 +26672,7 @@
         }
       },
       {
-        "edit-time": 1618279771249,
+        "edit-time": 1618308406709,
         "children": [
           {
             "string": "Org-mode was created by [[Carsten Dominik]] in 2003, originally to [organize his own life and work]([[organization tool]]),[3] and [since the first release] [numerous other users] and developers have contributed to this [free software package].[4] Emacs includes Org-mode[5] [as a major mode by default]. Bastien Guerry is the [current maintainer]([[maintainer]]), in cooperation with [an active development community]([[development community]]).[6] Since its success in Emacs, some other systems now [provide functions to work with] org files.[7][8]\n210412-06:12, 06:25",
@@ -26781,6 +26825,9 @@
           },
           {
             "uid": "pmw1E0gyH"
+          },
+          {
+            "uid": "GhBP11ZJO"
           }
         ],
         "uid": "8-DfQODR0",
@@ -26802,9 +26849,12 @@
           },
           {
             ":block/uid": "pmw1E0gyH"
+          },
+          {
+            ":block/uid": "GhBP11ZJO"
           }
         ],
-        "string": "**Org-mode** (also: __Org mode__;[2](https://en.wikipedia.org/wiki/Org-mode#cite_note-2) [/ˈɔːrɡ moʊd/](https://en.wikipedia.org/wiki/Help:IPA/English)) is a document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the [[free software]] text editor Emacs. The name is used to [encompass](((jn2QX0bmE))) [plain text files]([[plain text]]) (\"[[org file]]s\") that [include simple marks] to [indicate levels of a hierarchy]([[hierarchical level]]) (such as [the outline of an essay]([[outline]]), a topic list with subtopics, nested computer code, etc.), and an editor with functions that can [read the markup] and [manipulate hierarchy elements] (expand/hide elements, move blocks of elements, check off to-do list items, etc.).\n210411-19:30, 19:47",
+        "string": "**Org-mode** (also: __Org mode__;[2](((GhBP11ZJO))) [/ˈɔːrɡ moʊd/](https://en.wikipedia.org/wiki/Help:IPA/English)) is a document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the [[free software]] text editor Emacs. The name is used to [encompass](((jn2QX0bmE))) [plain text files]([[plain text]]) (\"[[org file]]s\") that [include simple marks] to [indicate levels of a hierarchy]([[hierarchical level]]) (such as [the outline of an essay]([[outline]]), a topic list with subtopics, nested computer code, etc.), and an editor with functions that can [read the markup] and [manipulate hierarchy elements] (expand/hide elements, move blocks of elements, check off to-do list items, etc.).\n210411-19:30, 19:47",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -26982,13 +27032,23 @@
                     "string": "Org file showing [simple planning for a short trip](https://en.wikipedia.org/wiki/File:Org_file_showing_simple_planning_for_a_short_trip.png)",
                     "children": [
                       {
-                        "string": "[Emacs 27.1] on Linux using the [Breeze GTK theme] with the [Papirus icon theme]. Screenshot of the Emacs frame showing and Org buffer constructed to [demonstrate a few features of] Org in [a plan for a short trip]. -- 28 January 2021",
+                        "string": "[Emacs 27.1] on Linux using the [Breeze GTK theme] with the [Papirus icon theme]. [Screenshot](((SF2gGA0i5))) of the Emacs frame showing and Org buffer constructed to [demonstrate a few features of] Org in [a plan for a short trip]. -- 28 January 2021",
                         "create-time": 1618306705127,
-                        "uid": "z4-XJN93v",
-                        "edit-time": 1618307011768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "SF2gGA0i5"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "SF2gGA0i5"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         },
+                        "uid": "z4-XJN93v",
+                        "edit-time": 1618308285042,
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -27441,6 +27501,44 @@
         ],
         "uid": "DChtMbkzZ",
         "edit-time": 1618263206827,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "References",
+        "create-time": 1618308314054,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[1]: [\"Org mode for Emacs – Your Life in Plain Text\"](https://orgmode.org/). __orgmode.org__. OrgMode team. Retrieved 2020-09-15.",
+            "create-time": 1618308314463,
+            "uid": "1wfaiOFUp",
+            "edit-time": 1618308322507,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[2]: [Gmane]: [Org, Org-mode, Orgmode, Org Mode](http://thread.gmane.org/gmane.emacs.orgmode/56628/focus=56667). [Archived](https://web.archive.org/web/20170910221714/http://thread.gmane.org/gmane.emacs.orgmode/56628/focus=56667) 2017-09-10 at the [Wayback Machine] - Carsten Dominik: Org, the system; Org-mode, the major mode",
+            "create-time": 1618308333572,
+            "uid": "GhBP11ZJO",
+            "edit-time": 1618308364135,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "7ojOL_CLJ",
+        "edit-time": 1618308314468,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -28476,6 +28574,36 @@
         }
       },
       {
+        "string": "broadcast living; live stream; 生配信 (namahaishin); namahousou; 直播 (zhibo);",
+        "create-time": 1618264675309,
+        "uid": "Gz9QPK6Jz",
+        "edit-time": 1618264676393,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[photograph]]",
+        "refs": [
+          {
+            "uid": "54tsQGlXW"
+          }
+        ],
+        "uid": "I3gt859QY",
+        "edit-time": 1618308249462,
+        ":block/refs": [
+          {
+            ":block/uid": "54tsQGlXW"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[radio]]",
         "refs": [
           {
@@ -28509,6 +28637,42 @@
             ":block/uid": "qZMqkSwtM"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "renderer",
+        "uid": "mXAZSxbbm",
+        "edit-time": 1618308267934,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "screen recording",
+        "children": [
+          {
+            "string": "[[screenshot]]",
+            "refs": [
+              {
+                "uid": "9iOlG878F"
+              }
+            ],
+            "uid": "SF2gGA0i5",
+            "edit-time": 1618308273829,
+            ":block/refs": [
+              {
+                ":block/uid": "9iOlG878F"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "_zANiuG9m",
+        "edit-time": 1618308267934,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -28597,18 +28761,6 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
-      {
-        "string": "broadcast living; live stream; 生配信 (namahaishin); namahousou; 直播 (zhibo);",
-        "create-time": 1618264675309,
-        "uid": "Gz9QPK6Jz",
-        "edit-time": 1618264676393,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
       {
         "string": "[[conspiracy theory]]",
         "refs": [
@@ -43218,6 +43370,196 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618308249465,
+    "title": "photograph",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[camera]]",
+        "create-time": 1618308253807,
+        ":block/refs": [
+          {
+            ":block/uid": "t_bRZtMnc"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "t_bRZtMnc"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "nOpliYTA8",
+        "edit-time": 1618308255999,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "54tsQGlXW",
+    "edit-time": 1618308249465,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618308256001,
+    "title": "camera",
+    "uid": "t_bRZtMnc",
+    "edit-time": 1618308256002,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618308273831,
+    "title": "screenshot",
+    "uid": "9iOlG878F",
+    "edit-time": 1618308273832,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618312225956,
+    "title": "中国近代史",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "西安事变",
+        "create-time": 1618312703434,
+        "uid": "iirCyI7xi",
+        "edit-time": 1618312704738,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618312244607,
+        "children": [
+          {
+            "edit-time": 1618312709064,
+            "children": [
+              {
+                "string": "确实[谈的很深]，根据现在[流出的记录]，西安事变之后谈的[所有协议]其实[之前全部都谈过]，并且打成了[大部分的共识]，[主要分歧在于]红军军事力量的保存规模上，这个其实一直争执到[抗战全面爆发]前",
+                "create-time": 1618312323061,
+                "uid": "czNnKGIuH",
+                "edit-time": 1618312351747,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "周恩来给[炮党]的答复是毛可以[出洋]，朱德绝对不能[离开军队]。（这是1937年，离[遵义会议]两年了，[张闻天]是总负责，张国焘虽然[被批][还没死透]，直到1938年，[任弼时]这个批毛的[急先锋]到国际请示了[季米特洛夫]给的[上方宝剑]，王明不要争了，还是以朱毛为核心等等）",
+                "create-time": 1618312408248,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "所以[周相]从实际的[红军总负责]到抗战[被流放]重庆，到延安政风被批臭，（想一想一国总理[外放][驻美大使]是什么样的，想一想何婆婆1946年驻美代表，真是[绍兴师爷]的本质啊），后来[重庆谈判][亲自当小厮]尝酒回魂。还有一个被操了40天娘的，本身[学历不够]和国民党[格格不入]被湖南何健[灭了满门]的，和朱这种生养父母双全没被军阀骚扰反而被[四方面军]当土豪[没收家产]又退回去的，不完全是湖南骡子和四川耗子的区别",
+                    "create-time": 1618312486715,
+                    "uid": "2tkXFnENe",
+                    "edit-time": 1618312556401,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "RwG--Koqa",
+                "edit-time": 1618312438984,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "日本人[开价]是东四省立宪（傀儡）皇帝，蒋开价是恢复梵蒂冈的教皇待遇（还真是[会叫的孩子有奶吃]，如果没有日本人的开价呢，[宣统]祖坟都被[孙殿英]刨了，被冯基督赶的出家门没地方住了，[国民政府]说啥了，无非是发现[本来死透的][遗老遗少]还有没被自己发现而被对方发现的[剩余价值]而已）",
+                "create-time": 1618312583063,
+                "uid": "TQQY7QyWq",
+                "edit-time": 1618312610759,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lMcwecsmV"
+              },
+              {
+                "uid": "iirCyI7xi"
+              }
+            ],
+            "uid": "p8-0Q05hD",
+            ":block/refs": [
+              {
+                ":block/uid": "lMcwecsmV"
+              },
+              {
+                ":block/uid": "iirCyI7xi"
+              }
+            ],
+            "string": "[西安事变](((iirCyI7xi)))之后，对于蒋介石来说，他要安抚[党内的反对派]和全国人民的[抗日情绪]，立即进攻红军和东北、西北军显然是不合适的。所以他采取了[比较迂回的]先收拾张学良，再收拾杨虎城，[最后的目标]自然还是要再收拾红军。不过日本人[没有给他时间](https://bbs.northdy.com/thread-927744-2-1.html)就是了。 #pt9-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618312244602,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "t4n5cdC10",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618312227364,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "sgrzDWQ3p",
+    "edit-time": 1618312238288,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

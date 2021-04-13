@@ -1,6 +1,11 @@
 - animation...
+- broadcast living; live stream; 生配信 (namahaishin); namahousou; 直播 (zhibo);
+- [[photograph]]
 - [[radio]]
     - [[radio station]]
+- renderer
+- screen recording
+    - [[screenshot]]
 - [[video]]
     - [[video player]]
         - [[Pot Player]]
