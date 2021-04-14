@@ -1,1 +1,3 @@
 - [[Old Chinese phonology]]
+- #inbox
+    - 为什么「朝鲜」在[现代汉语](https://www.zhihu.com/question/30526242)里读作「cháoxiǎn」或「cháoxiān」？ #pt10-100

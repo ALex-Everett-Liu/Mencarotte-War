@@ -38728,6 +38728,52 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "edit-time": 1618398053286,
+        "children": [
+          {
+            "string": "为什么「朝鲜」在[现代汉语](https://www.zhihu.com/question/30526242)里读作「cháoxiǎn」或「cháoxiān」？ #pt10-100",
+            "create-time": 1618398053280,
+            ":block/refs": [
+              {
+                ":block/uid": "Kp4t9aQO7"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kp4t9aQO7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "D75C28szW",
+            "edit-time": 1618398071437,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "3vRwXMUxi",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618398050194,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "_6IpbJuc5",
@@ -46629,6 +46675,178 @@
     "title": "discipline",
     "uid": "YTqGqZuIo",
     "edit-time": 1618369053526,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618401286129,
+    "title": "Introduction to Quantum Mechanics - Griffiths",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Contents - p6",
+        "create-time": 1616704614884,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Part I - Theory",
+            "create-time": 1616704646826,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "1 The Wave Function",
+                "create-time": 1616704661034,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "[[QM Griffiths - 1.1 The Schrödinger Equation]]",
+                    "create-time": 1616704663513,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "q8tYd1uOR"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "q8tYd1uOR"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "nHCqjRhcz",
+                    "edit-time": 1618401291099,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[QM Griffiths - 1.2 The Statistical Interpretation]]",
+                    "create-time": 1616757259552,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_uI4kKWua"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_uI4kKWua"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "QgZLBm0vg",
+                    "edit-time": 1618401291099,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "1.3 Probability",
+                    "create-time": 1616791569752,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "[[QM Griffiths - 1.3.1 Discrete Variables]]",
+                        "create-time": 1616791594537,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "BuKxA8Ewf"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "BuKxA8Ewf"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "nxPkHNKQf",
+                        "edit-time": 1618401291099,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "-js_OvGBL",
+                    "edit-time": 1618401291099,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "mObSW6fdW",
+                "edit-time": 1618401291099,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ULMb47DmV",
+            "edit-time": 1618401291099,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "VKvjzWMph",
+        "edit-time": 1618401291099,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "YpcR5FHsl",
+    "edit-time": 1618401286129,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618401291118,
+    "title": "QM Griffiths - 1.1 The Schrödinger Equation",
+    "uid": "q8tYd1uOR",
+    "edit-time": 1618401291118,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618401291122,
+    "title": "QM Griffiths - 1.2 The Statistical Interpretation",
+    "uid": "_uI4kKWua",
+    "edit-time": 1618401291122,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618401291127,
+    "title": "QM Griffiths - 1.3.1 Discrete Variables",
+    "uid": "BuKxA8Ewf",
+    "edit-time": 1618401291128,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

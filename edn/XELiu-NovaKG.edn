@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 3,
+      :order 4,
       :content-id "N5lel-tnd"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -95,7 +95,7 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 4,
+      :order 5,
       :content-id "rw6U8VHY-"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 5,
+      :order 6,
       :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -111,19 +111,19 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 6,
+      :order 7,
       :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536950697]
+   536950758]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuidce746de0-1bdf-45b9-9039-9db4573dbb80"
-   536950756]
+   "uuid75cd6e3b-1f14-4db8-83b7-eb5aaae46ff5"
+   536950781]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -25488,6 +25488,7 @@
   [17730 :edit/time 1618149600153 536947325]
   [17730 :edit/user 3 536947325]
   [17731 :block/children 17727 536947330]
+  [17731 :block/children 18960 536950759]
   [17731 :block/uid "_6IpbJuc5" 536947327]
   [17731 :create/time 1618149603946 536947327]
   [17731 :create/user 3 536947327]
@@ -36000,4 +36001,177 @@
   [18959 :create/time 1618391361471 536950745]
   [18959 :create/user 3 536950745]
   [18959 :edit/time 1618391370945 536950751]
-  [18959 :edit/user 3 536950745]]}
+  [18959 :edit/user 3 536950745]
+  [18960 :block/children 18961 536950765]
+  [18960 :block/open true 536950759]
+  [18960 :block/order 1 536950759]
+  [18960 :block/page 17731 536950760]
+  [18960 :block/parents 17731 536950760]
+  [18960 :block/refs 14882 536950764]
+  [18960 :block/string "#inbox" 536950763]
+  [18960 :block/uid "3vRwXMUxi" 536950759]
+  [18960 :create/time 1618398050194 536950759]
+  [18960 :create/user 3 536950759]
+  [18960 :edit/time 1618398053286 536950763]
+  [18960 :edit/user 3 536950759]
+  [18961 :block/open true 536950761]
+  [18961 :block/order 0 536950765]
+  [18961 :block/page 17731 536950762]
+  [18961 :block/parents 17731 536950762]
+  [18961 :block/parents 18960 536950766]
+  [18961 :block/refs 15728 536950771]
+  [18961
+   :block/string
+   "为什么「朝鲜」在[现代汉语](https://www.zhihu.com/question/30526242)里读作「cháoxiǎn」或「cháoxiān」？ #pt10-100"
+   536950772]
+  [18961 :block/uid "D75C28szW" 536950761]
+  [18961 :create/time 1618398053280 536950761]
+  [18961 :create/user 3 536950761]
+  [18961 :edit/time 1618398071437 536950772]
+  [18961 :edit/user 3 536950761]
+  [18962 :block/children 18964 536950776]
+  [18962 :block/open true 536950776]
+  [18962 :block/uid "YpcR5FHsl" 536950773]
+  [18962 :create/time 1618401286129 536950773]
+  [18962 :create/user 3 536950773]
+  [18962 :edit/time 1618401286129 536950773]
+  [18962 :edit/user 3 536950773]
+  [18962
+   :node/title
+   "Introduction to Quantum Mechanics - Griffiths"
+   536950773]
+  [18964 :block/children 18965 536950776]
+  [18964 :block/open true 536950776]
+  [18964 :block/order 0 536950776]
+  [18964 :block/page 18962 536950780]
+  [18964 :block/parents 18962 536950780]
+  [18964 :block/string "Contents - p6" 536950776]
+  [18964 :block/uid "VKvjzWMph" 536950776]
+  [18964 :create/time 1616704614884 536950776]
+  [18964 :create/user 3 536950776]
+  [18964 :edit/time 1618401291099 536950776]
+  [18964 :edit/user 3 536950776]
+  [18965 :block/children 18966 536950776]
+  [18965 :block/open true 536950776]
+  [18965 :block/order 0 536950776]
+  [18965 :block/page 18962 536950780]
+  [18965 :block/parents 18962 536950780]
+  [18965 :block/parents 18964 536950780]
+  [18965 :block/string "Part I - Theory" 536950776]
+  [18965 :block/uid "ULMb47DmV" 536950776]
+  [18965 :create/time 1616704646826 536950776]
+  [18965 :create/user 3 536950776]
+  [18965 :edit/time 1618401291099 536950776]
+  [18965 :edit/user 3 536950776]
+  [18966 :block/children 18967 536950776]
+  [18966 :block/children 18968 536950776]
+  [18966 :block/children 18969 536950776]
+  [18966 :block/open true 536950776]
+  [18966 :block/order 0 536950776]
+  [18966 :block/page 18962 536950780]
+  [18966 :block/parents 18962 536950780]
+  [18966 :block/parents 18964 536950780]
+  [18966 :block/parents 18965 536950780]
+  [18966 :block/string "1 The Wave Function" 536950776]
+  [18966 :block/uid "mObSW6fdW" 536950776]
+  [18966 :create/time 1616704661034 536950776]
+  [18966 :create/user 3 536950776]
+  [18966 :edit/time 1618401291099 536950776]
+  [18966 :edit/user 3 536950776]
+  [18967 :block/open true 536950776]
+  [18967 :block/order 0 536950776]
+  [18967 :block/page 18962 536950780]
+  [18967 :block/parents 18962 536950780]
+  [18967 :block/parents 18964 536950780]
+  [18967 :block/parents 18965 536950780]
+  [18967 :block/parents 18966 536950780]
+  [18967 :block/refs 18971 536950777]
+  [18967
+   :block/string
+   "[[QM Griffiths - 1.1 The Schrödinger Equation]]"
+   536950776]
+  [18967 :block/uid "nHCqjRhcz" 536950776]
+  [18967 :create/time 1616704663513 536950776]
+  [18967 :create/user 3 536950776]
+  [18967 :edit/time 1618401291099 536950776]
+  [18967 :edit/user 3 536950776]
+  [18968 :block/open true 536950776]
+  [18968 :block/order 1 536950776]
+  [18968 :block/page 18962 536950780]
+  [18968 :block/parents 18962 536950780]
+  [18968 :block/parents 18964 536950780]
+  [18968 :block/parents 18965 536950780]
+  [18968 :block/parents 18966 536950780]
+  [18968 :block/refs 18972 536950778]
+  [18968
+   :block/string
+   "[[QM Griffiths - 1.2 The Statistical Interpretation]]"
+   536950776]
+  [18968 :block/uid "QgZLBm0vg" 536950776]
+  [18968 :create/time 1616757259552 536950776]
+  [18968 :create/user 3 536950776]
+  [18968 :edit/time 1618401291099 536950776]
+  [18968 :edit/user 3 536950776]
+  [18969 :block/children 18970 536950776]
+  [18969 :block/open true 536950776]
+  [18969 :block/order 2 536950776]
+  [18969 :block/page 18962 536950780]
+  [18969 :block/parents 18962 536950780]
+  [18969 :block/parents 18964 536950780]
+  [18969 :block/parents 18965 536950780]
+  [18969 :block/parents 18966 536950780]
+  [18969 :block/string "1.3 Probability" 536950776]
+  [18969 :block/uid "-js_OvGBL" 536950776]
+  [18969 :create/time 1616791569752 536950776]
+  [18969 :create/user 3 536950776]
+  [18969 :edit/time 1618401291099 536950776]
+  [18969 :edit/user 3 536950776]
+  [18970 :block/open true 536950776]
+  [18970 :block/order 0 536950776]
+  [18970 :block/page 18962 536950780]
+  [18970 :block/parents 18962 536950780]
+  [18970 :block/parents 18964 536950780]
+  [18970 :block/parents 18965 536950780]
+  [18970 :block/parents 18966 536950780]
+  [18970 :block/parents 18969 536950780]
+  [18970 :block/refs 18973 536950779]
+  [18970
+   :block/string
+   "[[QM Griffiths - 1.3.1 Discrete Variables]]"
+   536950776]
+  [18970 :block/uid "nxPkHNKQf" 536950776]
+  [18970 :create/time 1616791594537 536950776]
+  [18970 :create/user 3 536950776]
+  [18970 :edit/time 1618401291099 536950776]
+  [18970 :edit/user 3 536950776]
+  [18971 :block/uid "q8tYd1uOR" 536950777]
+  [18971 :create/time 1618401291118 536950777]
+  [18971 :create/user 3 536950777]
+  [18971 :edit/time 1618401291118 536950777]
+  [18971 :edit/user 3 536950777]
+  [18971
+   :node/title
+   "QM Griffiths - 1.1 The Schrödinger Equation"
+   536950777]
+  [18972 :block/uid "_uI4kKWua" 536950778]
+  [18972 :create/time 1618401291122 536950778]
+  [18972 :create/user 3 536950778]
+  [18972 :edit/time 1618401291122 536950778]
+  [18972 :edit/user 3 536950778]
+  [18972
+   :node/title
+   "QM Griffiths - 1.2 The Statistical Interpretation"
+   536950778]
+  [18973 :block/uid "BuKxA8Ewf" 536950779]
+  [18973 :create/time 1618401291127 536950779]
+  [18973 :create/user 3 536950779]
+  [18973 :edit/time 1618401291128 536950779]
+  [18973 :edit/user 3 536950779]
+  [18973
+   :node/title
+   "QM Griffiths - 1.3.1 Discrete Variables"
+   536950779]
+  [18974 :block/string "" 536950781]
+  [18974 :block/uid "xzWNVzUI4" 536950781]
+  [18974 :edit/time 1618401291150 536950781]
+  [18974 :edit/user 3 536950781]]}
