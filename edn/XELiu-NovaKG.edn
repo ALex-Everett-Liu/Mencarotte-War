@@ -122,8 +122,8 @@
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuidde16582f-85bc-4bac-94b1-9d0dfb017299"
-   536950722]
+   "uuidce746de0-1bdf-45b9-9039-9db4573dbb80"
+   536950756]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -11740,6 +11740,7 @@
   [16076 :block/children 17819 536947511]
   [16076 :block/children 17825 536947558]
   [16076 :block/children 17827 536947562]
+  [16076 :block/children 18956 536950725]
   [16076 :block/open true 536941973]
   [16076 :block/uid "itQGxZbpC" 536941968]
   [16076 :create/time 1617735141437 536941968]
@@ -24262,6 +24263,7 @@
   [17593 :block/parents 16076 536947012]
   [17593 :block/string "revolution" 536947010]
   [17593 :block/uid "BQybWcvpr" 536947010]
+  [17593 :edit/seen-by 3 536950724]
   [17593 :edit/time 1618116634357 536947010]
   [17593 :edit/user 3 536947010]
   [17594 :block/children 17595 536947010]
@@ -35939,4 +35941,63 @@
   [18955 :create/time 1618376524005 536950714]
   [18955 :create/user 3 536950714]
   [18955 :edit/time 1618376524005 536950714]
-  [18955 :edit/user 3 536950714]]}
+  [18955 :edit/user 3 536950714]
+  [18956 :block/children 18957 536950731]
+  [18956 :block/open true 536950725]
+  [18956 :block/order 10 536950725]
+  [18956 :block/page 16076 536950726]
+  [18956 :block/parents 16076 536950726]
+  [18956 :block/refs 14882 536950730]
+  [18956 :block/string "#inbox" 536950729]
+  [18956 :block/uid "rZ1LRNVLe" 536950725]
+  [18956 :create/time 1618391294064 536950725]
+  [18956 :create/user 3 536950725]
+  [18956 :edit/time 1618391295889 536950729]
+  [18956 :edit/user 3 536950725]
+  [18957 :block/children 18958 536950741]
+  [18957 :block/children 18959 536950745]
+  [18957 :block/open false 536950756]
+  [18957 :block/order 0 536950731]
+  [18957 :block/page 16076 536950728]
+  [18957 :block/parents 16076 536950728]
+  [18957 :block/parents 18956 536950732]
+  [18957 :block/refs 16510 536950755]
+  [18957
+   :block/string
+   "Sweden -- 每年[本地税务局]还会出本[小册子](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1998817&extra=page%3D1%26filter%3Dtypeid%26typeid%3D141&page=3)，200kr一本，里面像[电话本]一样列出了所有[在本地纳税的人]的收入，从A到Ä，精确到百位，无一遗漏 #pt9-100"
+   536950754]
+  [18957 :block/uid "BnQWfhqSU" 536950727]
+  [18957 :create/time 1618391295883 536950727]
+  [18957 :create/user 3 536950727]
+  [18957 :edit/time 1618391492290 536950754]
+  [18957 :edit/user 3 536950727]
+  [18958 :block/open true 536950739]
+  [18958 :block/order 0 536950741]
+  [18958 :block/page 16076 536950740]
+  [18958 :block/parents 16076 536950740]
+  [18958 :block/parents 18956 536950740]
+  [18958 :block/parents 18957 536950742]
+  [18958
+   :block/string
+   "社会主义, 高度单一的社会组成和[一致的价值观]. 瑞典的所有行为根源上都可以找到这点. 所以现在随着移民引入问题越来越多."
+   536950744]
+  [18958 :block/uid "3ha0lhXkD" 536950739]
+  [18958 :create/time 1618391324511 536950739]
+  [18958 :create/user 3 536950739]
+  [18958 :edit/time 1618391332677 536950744]
+  [18958 :edit/user 3 536950739]
+  [18959 :block/open true 536950745]
+  [18959 :block/order 1 536950745]
+  [18959 :block/page 16076 536950746]
+  [18959 :block/parents 16076 536950746]
+  [18959 :block/parents 18956 536950746]
+  [18959 :block/parents 18957 536950746]
+  [18959
+   :block/string
+   "后现代社会了,[主流价值观]已经不那么看重[物质财富]了.但是 gold digger 哪里都有."
+   536950751]
+  [18959 :block/uid "dmxKZcAMQ" 536950745]
+  [18959 :create/time 1618391361471 536950745]
+  [18959 :create/user 3 536950745]
+  [18959 :edit/time 1618391370945 536950751]
+  [18959 :edit/user 3 536950745]]}
