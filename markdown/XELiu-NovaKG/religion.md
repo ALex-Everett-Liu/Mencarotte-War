@@ -1,2 +1,28 @@
+- [[astrology]]
+- belief...
+    - pray
+- the story of creation
 - [[Christian]]
+- deity
+- faith
+- general...
+    - guiding principle
+    - secular settings
+- [[occult]]
+- rite; ritual...
+    - sacred rite; sacrificial rite
+    - sacrificial ceremony
+    - sacrificial song
+    - worshipping heaven
+    - worship god
+- [[Satanism]]
 - [[theology]]
+- 神职人员
+    - ecclesiastical hierarchy
+        - [[angel]]
+        - Catholic Church hierarchy
+        - hierarchical church
+    - [[priest]]
+        - high priest
+- 占卜术
+    - [[crystal ball]]

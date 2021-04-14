@@ -1,4 +1,12 @@
 - English
+    - a
+        - as
+            - assert
+                - assertion;
+            - asset
+                - assess: 评估;
+                    - assessing;
+                    - [[sober assessment]];
     - b
         - be
             - begin
@@ -48,6 +56,12 @@
                         - contrasted;
                     - controvert
                         - controversial: 引起争议
+                - conv
+                    - convention
+                    - conversation, 2
+                        - conversant; conversable
+                    - convince
+                        - convinced;
     - d
         - de
             - demonstrate, 2
@@ -218,6 +232,12 @@
                 - staff, 2
                 - stance
                     - substance, 2
+            - str
+                - structure
+                    - construct
+                        - reconstruction;
+                    - [[basic structure]], 2; [[organizational structure]]; [[similar structure]]
+                    - structured;
         - su
             - sub
                 - sub-

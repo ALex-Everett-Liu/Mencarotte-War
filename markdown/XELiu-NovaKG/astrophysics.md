@@ -1,2 +1,4 @@
+- [[astrology]]
 - [[cosmology]]
 - [[space science]]
+- [[telescope]]

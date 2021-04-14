@@ -1,2 +1,4 @@
-- Catholic
+- [[apocalypse]]
+- Catholic; Roman Catholic
     - Inquisition: 宗教裁判所
+- Eastern Orthodox

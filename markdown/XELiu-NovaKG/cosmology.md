@@ -6,6 +6,7 @@
     - the shape of space
     - the size of the universe
     - the structure of the universe
+- [[black hole]]
 - [[cosmic evolution]]
 - [[cosmological constant]]
     - diffuse uniform energy: 弥散的均匀的能量 

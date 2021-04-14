@@ -8,7 +8,7 @@
     - [[relationist position]]: 关系论
         - [[independent existence]]; independent reality; relative
             - [[real entity]]
-- space dimension
+- [[space dimension]]
     - extra spatial dimensions
     - space point
     - three-dimensional space; three dimensional space...

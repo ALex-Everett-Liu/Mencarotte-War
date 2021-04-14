@@ -34,7 +34,7 @@
     - medium...
         - elastic medium; elastic media; 弹性介质
         - [[liquid]]
-    - raw material
+    - [[raw material]]
 - meta phys...
     - [[reality]]; [[physical reality]]
     - [[reductionism]] v.s. [[emergence]]?

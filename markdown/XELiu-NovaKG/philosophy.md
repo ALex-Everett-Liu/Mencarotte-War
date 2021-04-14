@@ -9,6 +9,6 @@
 - [[theology]]
 - truth
     - the pursuit of truth
-- ultimate question
+- [[ultimate question]]
 - value...
-    - life value; the meaning of life
+    - [[life value]]; the meaning of life

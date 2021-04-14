@@ -13,3 +13,5 @@
 - [[invest]]
 - [[stock market]]
     - [[bond market]]: 债券市场 
+- #inbox
+    - 背景知识：如果你没有个好爹或者好干爹，那么[参加这种实习]几乎是唯一的[进大投行]的路。[校招](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1998811&extra=page%3D1%26filter%3Dtypeid%26typeid%3D139&page=3)几乎没啥可能。 #pt8-99.99

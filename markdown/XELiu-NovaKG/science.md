@@ -10,4 +10,8 @@
 - [[popularize of science]]; popular science
     - [[Scientific American]]
 - [[prize]]...
+- [[research]]
+    - collaborative research
+    - [[cutting-edge research]]
+    - [[reproducible research]]: 可重复性研究
 - [[science philosophy]]...

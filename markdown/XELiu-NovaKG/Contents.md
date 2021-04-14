@@ -23,6 +23,7 @@
     - [[law]]
     - [[politics]]
     - [[religion]]
+    - [[sociology]]
 - [[technology]]
 - ---
 - my methodology

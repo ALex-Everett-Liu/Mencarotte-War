@@ -14,8 +14,10 @@
     - [[Typora]]
 - [[outliner]]
     - [[Dynalist]]
+    - list-oriented format: 面向列表的格式
     - [[Logseq]]
     - [[幕布 (Mubu)]]
+    - [[Org-mode]]
     - [[RemNote]]
     - [[RoamEdit]]
     - [[Roam Research]]
@@ -33,3 +35,5 @@
     - [[Note-taking/Notion]]
         - bullshit!
     - [[Note-taking/Wolai]]
+- #inbox
+    - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99

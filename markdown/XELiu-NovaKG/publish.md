@@ -1,4 +1,9 @@
 - comment; review;
-- [[ISBN]]; [[ISBN number]]
+- [[edition]]
+    - edition numbering
+- [[identifier]]
+    - Bibcode
+    - doi
+    - [[ISBN]]; [[ISBN number]]
 - [[publication]]; [[publisher]]; publishing platform
 - [[release]]
