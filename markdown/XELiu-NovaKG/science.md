@@ -1,4 +1,9 @@
 - [[academic]]
+- [[discipline]]; [[scientific discipline]]
+    - study field
+    - interdisciplinary
+        - interdisciplinary field
+        - multidisciplinary field
 - [[encyclopedia]]...
     - [[wiki]]...
 - general...

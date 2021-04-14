@@ -1,0 +1,7 @@
+- [[video player]]
+    - [[Pot Player]]
+- video site...
+    - [[bilibili]]
+    - [[NicoNico]]; niconico
+    - [[YouTube]]
+        - YouTube channel

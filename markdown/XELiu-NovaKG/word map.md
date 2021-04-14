@@ -49,6 +49,18 @@
                         - compass
                             - encompass
             - con
+                - con-
+                    - cons
+                        - consist
+                            - consisted;
+                            - consistent: 相容, 一致; consistently; consistency
+                        - consonant
+                            - consonance
+                        - constrain
+                            - constrained; constraint
+                            - constrained structure;
+                        - consult, 3
+                            - consulting;
                 - contra
                     - contradict
                         - contradictory
@@ -260,3 +272,12 @@
                     - intertwined;
                     - twined;
             - twist: 扭, 拧;
+    - u
+        - ut
+            - utility
+                - [[practical utility]];
+                - utilities;
+                - utilize
+                    - utilized;
+            - utter
+                - utterly;

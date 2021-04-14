@@ -7,5 +7,3 @@
 - screen recording
     - [[screenshot]]
 - [[video]]
-    - [[video player]]
-        - [[Pot Player]]

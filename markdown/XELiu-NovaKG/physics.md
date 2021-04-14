@@ -36,6 +36,8 @@
         - [[liquid]]
     - [[raw material]]
 - meta phys...
+    - predictable
+        - explicable;
     - [[reality]]; [[physical reality]]
     - [[reductionism]] v.s. [[emergence]]?
     - #inbox

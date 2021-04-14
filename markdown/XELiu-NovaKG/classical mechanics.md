@@ -1,6 +1,7 @@
 - [[centrifugal force]] 离心力; [[centripetal force]] 向心力
     - [[spinning motion]]; rotating motion
         - uniform spinning motion
+- [[classical physics]]
 - friction
     - frictionless;
 - Galileo experiment

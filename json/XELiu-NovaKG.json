@@ -694,23 +694,13 @@
         },
         "children": [
           {
-            "string": "((cVQrLCH74))",
+            "string": "",
             "create-time": 1617570844555,
-            ":block/refs": [
-              {
-                ":block/uid": "cVQrLCH74"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "cVQrLCH74"
-              }
-            ],
+            "uid": "Zk8kVIfrJ",
+            "edit-time": 1618367647192,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "Zk8kVIfrJ",
-            "edit-time": 1618363219881,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -719,7 +709,7 @@
             "string": "",
             "create-time": 1618017353562,
             "uid": "UKCZUE324",
-            "edit-time": 1618363173287,
+            "edit-time": 1618367642134,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -2375,6 +2365,42 @@
       {
         "edit-time": 1618350724285,
         "children": [
+          {
+            "string": "Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe",
+            "create-time": 1618366035827,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": " 这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99",
+                "create-time": 1618366075986,
+                ":block/refs": [
+                  {
+                    ":block/uid": "qNKpYWTXC"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "qNKpYWTXC"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "btB-vAbu9",
+                "edit-time": 1618366215686,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "eoh90ZBpt",
+            "edit-time": 1618366053757,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99",
             "refs": [
@@ -6378,6 +6404,24 @@
         "string": "meta phys...",
         "children": [
           {
+            "string": "predictable",
+            "children": [
+              {
+                "string": "explicable;",
+                "uid": "HuQjMBc_p",
+                "edit-time": 1618367522344,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "QwPfyLTwz",
+            "edit-time": 1618367522344,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[reality]]; [[physical reality]]",
             "refs": [
               {
@@ -7076,6 +7120,66 @@
         ":block/refs": [
           {
             ":block/uid": "0bj-iwxUl"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[discipline]]; [[scientific discipline]]",
+        "refs": [
+          {
+            "uid": "ZiOOWsywc"
+          },
+          {
+            "uid": "YTqGqZuIo"
+          }
+        ],
+        "children": [
+          {
+            "string": "study field",
+            "uid": "KBxLRPMBk",
+            "edit-time": 1618369047756,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "interdisciplinary",
+            "children": [
+              {
+                "string": "interdisciplinary field",
+                "uid": "S3i4QiHRY",
+                "edit-time": 1618369047756,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "multidisciplinary field",
+                "uid": "MlPCWHah5",
+                "edit-time": 1618369047756,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "g78gefYX9",
+            "edit-time": 1618369047756,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CmvtPQjdF",
+        "edit-time": 1618369053522,
+        ":block/refs": [
+          {
+            ":block/uid": "ZiOOWsywc"
+          },
+          {
+            ":block/uid": "YTqGqZuIo"
           }
         ],
         ":edit/user": {
@@ -9568,9 +9672,12 @@
                     }
                   },
                   {
-                    "string": "The [central concern] of this book is to explain some of [the most prominent and pivotal of these revisions] 枢轴 to our [picture of reality], [with an intense focus on] those that affect our species' [long-term project](((6h4yMRsHy))) to [understand space and time]. From Aristotle to Einstein, from the [[astrolabe]] to the [[Hubble Space Telescope]], from the pyramids to [mountaintop observatories], space and time have [framed thinking] [since thinking began]. [With the advent of] the [modern scientific age], their importance [has been tremendously heightened]. Over the last three centuries, [developments in physics] have revealed space and time as [the most baffling and most compelling concepts], and as those most instrumental 最重要的工具 in our [scientific analysis] of the universe. Such developments have also shown that space and time [top the list of] age-old [scientific constructs] that are [being fantastically revised by] [[cutting-edge research]].\r\n210402-22:05",
+                    "string": "The [central concern] of this book is to explain some of [the most prominent and pivotal of these revisions] 枢轴 to our [picture of reality], [with an intense focus on] those that affect our species' [long-term project](((cVQrLCH74))) to [understand space and time]. From Aristotle to Einstein, from the [[astrolabe]] to the [[Hubble Space Telescope]], from the pyramids to [mountaintop observatories], space and time have [framed thinking] [since thinking began]. [With the advent of] the [modern scientific age], their importance [has been tremendously heightened]. Over the last three centuries, [developments in physics] have revealed space and time as [the most baffling and most compelling concepts], and as those most instrumental 最重要的工具 in our [scientific analysis] of the universe. Such developments have also shown that space and time [top the list of] age-old [scientific constructs] that are [being fantastically revised by] [[cutting-edge research]].\n210402-22:05",
                     "create-time": 1618363508611,
                     ":block/refs": [
+                      {
+                        ":block/uid": "cVQrLCH74"
+                      },
                       {
                         ":block/uid": "8hJ7iAr2c"
                       },
@@ -9582,6 +9689,9 @@
                       }
                     ],
                     "refs": [
+                      {
+                        "uid": "cVQrLCH74"
+                      },
                       {
                         "uid": "8hJ7iAr2c"
                       },
@@ -9596,7 +9706,7 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "uid": "RON8ajIDa",
-                    "edit-time": 1618363509359,
+                    "edit-time": 1618367566632,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -9759,6 +9869,134 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "edit-time": 1618367337104,
+        "children": [
+          {
+            "edit-time": 1618367645458,
+            "children": [
+              {
+                "edit-time": 1618368915607,
+                "children": [
+                  {
+                    "string": "In the decades following Newton's work, his equations were developed into [an elaborate mathematical structure] that significantly [extended both their reach and] their [[practical utility]]. Classical physics gradually became a sophisticated and mature [[scientific discipline]]. But shining clearly through all these advances was the beacon of Newton's [original insights]. Even today, more than three hundred years later, you can see [Newton's equations] [scrawled on introductory-physics chalkboards] worldwide, 潦草的笔迹 printed on [NASA flight plans] computing [spacecraft trajectories]([[spacecraft trajectory]]), and embedded within the [complex calculations] of [forefront research].",
+                    "create-time": 1617381521699,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "S0VzgzYuN"
+                      },
+                      {
+                        ":block/uid": "WvGf3cM8G"
+                      },
+                      {
+                        ":block/uid": "ZiOOWsywc"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "S0VzgzYuN"
+                      },
+                      {
+                        "uid": "WvGf3cM8G"
+                      },
+                      {
+                        "uid": "ZiOOWsywc"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "MfoaT5L9a",
+                    "edit-time": 1618368867080,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "7ZeGD8xb4"
+                  },
+                  {
+                    "uid": "iVegz7BTP"
+                  },
+                  {
+                    "uid": "kSS4ljwum"
+                  },
+                  {
+                    "uid": "MJdJliZpU"
+                  },
+                  {
+                    "uid": "oTUccSU0-"
+                  }
+                ],
+                "uid": "kuL8Df4KO",
+                ":block/refs": [
+                  {
+                    ":block/uid": "7ZeGD8xb4"
+                  },
+                  {
+                    ":block/uid": "iVegz7BTP"
+                  },
+                  {
+                    ":block/uid": "kSS4ljwum"
+                  },
+                  {
+                    ":block/uid": "MJdJliZpU"
+                  },
+                  {
+                    ":block/uid": "oTUccSU0-"
+                  }
+                ],
+                "string": "Early [scientific study] [focused on the kinds of things] [one might see or experience in everyday life]. Galileo [dropped weights] from a [leaning tower](((7ZeGD8xb4))) (or so legend has it) and watched balls rolling down [[inclined surface]]s; Newton studied [falling apples](((kSS4ljwum))) (or so legend has it) and [the orbit of the moon](((MJdJliZpU))). [The goal of these investigations] was to attune [the nascent scientific ear] 新生的 to [nature's harmonies]. 相协调 To be sure, physical reality was [the stuff of experience], but the challenge was to [hear the rhyme] and [reason behind the rhythm and regularity]. Many sung and unsung heroes contributed to the rapid and [impressive progress] that was made, but Newton [stole the show]. 抢了风头 With a handful of [mathematical equations], he synthesized [everything known about] [motion on earth and in the heavens], and in so doing, [composed the score] for what has come to be known as [[classical physics]]. ",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1617386663189,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "HuQjMBc_p"
+              },
+              {
+                "uid": "Zzng80XEW"
+              }
+            ],
+            "uid": "RVLVfKhBO",
+            ":block/refs": [
+              {
+                ":block/uid": "HuQjMBc_p"
+              },
+              {
+                ":block/uid": "Zzng80XEW"
+              }
+            ],
+            "string": "Historians differ on exactly when the [modern scientific age] began, but certainly by the time Galileo Galilei, Rene Descartes, and Isaac Newton had had their say, it was briskly under way. In those days, the [new scientific mind-set] [was being steadily forged], 正在稳步形成 as patterns found in [terrestrial and astronomical data] [made it increasingly clear that] there is an order to [all the comings and goings of the cosmos], an order accessible to [careful reasoning] and [mathematical analysis]. These [early pioneers] of [modem scientific thought] argued that, when [looked at the right way], [the happenings in the universe] not only are [explicable](((HuQjMBc_p))) but predictable. 不仅是可解释的 The power of science to foretell aspects of the future —[consistently](((Zzng80XEW))) and quantitatively—had been revealed.\n(宇宙的秩序-可解释+可预测)\n210403-00:36",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618367337098,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "text-align": "center",
+        "uid": "LeGECb6hO",
+        "string": "Classical Reality",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618367336428,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "heading": 2
       }
     ],
     "uid": "OT_m1Uigm",
@@ -11987,6 +12225,28 @@
         }
       },
       {
+        "string": "[[classical physics]]",
+        "create-time": 1618368946422,
+        ":block/refs": [
+          {
+            ":block/uid": "oTUccSU0-"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "oTUccSU0-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "TWGPLWvTG",
+        "edit-time": 1618368950018,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "friction",
         "children": [
           {
@@ -13146,6 +13406,122 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "children": [
+                      {
+                        "string": "con-",
+                        "create-time": 1618367599697,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "cons",
+                            "create-time": 1616731920822,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "children": [
+                              {
+                                "string": "consist",
+                                "children": [
+                                  {
+                                    "string": "consisted;",
+                                    "uid": "d9bm4jApG",
+                                    "edit-time": 1618367602216,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  },
+                                  {
+                                    "string": "consistent: 相容, 一致; consistently; consistency",
+                                    "uid": "Zzng80XEW",
+                                    "edit-time": 1618367622837,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "Emph7X-oi",
+                                "edit-time": 1618367602216,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "consonant",
+                                "children": [
+                                  {
+                                    "string": "consonance",
+                                    "uid": "67s-fML7a",
+                                    "edit-time": 1618367602216,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "pHqhcTS73",
+                                "edit-time": 1618367602216,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "constrain",
+                                "children": [
+                                  {
+                                    "string": "constrained; constraint",
+                                    "uid": "-EtvhyWWf",
+                                    "edit-time": 1618367602216,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  },
+                                  {
+                                    "string": "constrained structure;",
+                                    "uid": "HnqLNDkFJ",
+                                    "edit-time": 1618367602216,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "W0-Ml9Dah",
+                                "edit-time": 1618367602216,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "consult, 3",
+                                "children": [
+                                  {
+                                    "string": "consulting;",
+                                    "uid": "Bqp8vi6Eo",
+                                    "edit-time": 1618367602216,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "1olK9A08k",
+                                "edit-time": 1618367602216,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "_FnT99Jx3",
+                            "edit-time": 1618367602216,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "82j3p2jeX",
+                        "edit-time": 1618367601503,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
                       {
                         "string": "contra",
                         "children": [
@@ -15415,6 +15791,106 @@
             ],
             "uid": "3XLTetNOu",
             "edit-time": 1617655308161,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "u",
+            "create-time": 1618369103826,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "ut",
+                "create-time": 1618369104355,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "utility",
+                    "children": [
+                      {
+                        "string": "[[practical utility]];",
+                        "refs": [
+                          {
+                            "uid": "WvGf3cM8G"
+                          }
+                        ],
+                        "uid": "IFPkZuuDd",
+                        "edit-time": 1618369112235,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "WvGf3cM8G"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "utilities;",
+                        "uid": "ZuQpJH4-I",
+                        "edit-time": 1618369106380,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "utilize",
+                        "children": [
+                          {
+                            "string": "utilized;",
+                            "uid": "zje3t1CH8",
+                            "edit-time": 1618369106380,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "QJpn38wtl",
+                        "edit-time": 1618369106380,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "81cMzCEkT",
+                    "edit-time": 1618369106380,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "utter",
+                    "children": [
+                      {
+                        "string": "utterly;",
+                        "uid": "GSgdyFKQk",
+                        "edit-time": 1618369106380,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "nNJsiq2Cf",
+                    "edit-time": 1618369106380,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "Olx1aNBu3",
+                "edit-time": 1618369105596,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "liZHhz6tp",
+            "edit-time": 1618369104360,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -27356,11 +27832,59 @@
   {
     "create-time": 1617930988618,
     "title": "RoamEdit",
-    "uid": "qaeoTNjKW",
-    "edit-time": 1617930988619,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "edit-time": 1618366401642,
+        "children": [
+          {
+            "string": "[V3主题：科幻都市](https://xl2x.com/459.html) -- cool! #pt9-100",
+            "create-time": 1618366401636,
+            ":block/refs": [
+              {
+                ":block/uid": "S41onlg92"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S41onlg92"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "U35O3u_if",
+            "edit-time": 1618366419120,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "_asLxdsIp",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618366033727,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "qaeoTNjKW",
+    "edit-time": 1617930988619,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -30060,46 +30584,6 @@
             "uid": "dO9M3Rz6X"
           }
         ],
-        "children": [
-          {
-            "string": "[[video player]]",
-            "refs": [
-              {
-                "uid": "0q9MjsWrq"
-              }
-            ],
-            "children": [
-              {
-                "string": "[[Pot Player]]",
-                "refs": [
-                  {
-                    "uid": "HFb_sgTdd"
-                  }
-                ],
-                "uid": "G1dAS7YX2",
-                "edit-time": 1617959614208,
-                ":block/refs": [
-                  {
-                    ":block/uid": "HFb_sgTdd"
-                  }
-                ],
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "Rsiv1mgmf",
-            "edit-time": 1617959615299,
-            ":block/refs": [
-              {
-                ":block/uid": "0q9MjsWrq"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
         "uid": "RwYT-C29b",
         "edit-time": 1617959616571,
         ":block/refs": [
@@ -30307,11 +30791,125 @@
   {
     "create-time": 1617959616572,
     "title": "video",
-    "uid": "dO9M3Rz6X",
-    "edit-time": 1617959616572,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[video player]]",
+        "refs": [
+          {
+            "uid": "0q9MjsWrq"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Pot Player]]",
+            "refs": [
+              {
+                "uid": "HFb_sgTdd"
+              }
+            ],
+            "uid": "G1dAS7YX2",
+            "edit-time": 1617959614208,
+            ":block/refs": [
+              {
+                ":block/uid": "HFb_sgTdd"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Rsiv1mgmf",
+        "edit-time": 1617959615299,
+        ":block/refs": [
+          {
+            ":block/uid": "0q9MjsWrq"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "video site...",
+        "children": [
+          {
+            "string": "[[bilibili]]",
+            "refs": [
+              {
+                "uid": "PSABacCD2"
+              }
+            ],
+            "uid": "abqLffABI",
+            "edit-time": 1618365812401,
+            ":block/refs": [
+              {
+                ":block/uid": "PSABacCD2"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[NicoNico]]; niconico",
+            "refs": [
+              {
+                "uid": "LKmLx_9qM"
+              }
+            ],
+            "uid": "7DazeazpO",
+            "edit-time": 1618365819327,
+            ":block/refs": [
+              {
+                ":block/uid": "LKmLx_9qM"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[YouTube]]",
+            "refs": [
+              {
+                "uid": "8_P6oYQbS"
+              }
+            ],
+            "children": [
+              {
+                "string": "YouTube channel",
+                "uid": "gKa-HRBqa",
+                "edit-time": 1618365807671,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "uawtPnUuR",
+            "edit-time": 1618365818013,
+            ":block/refs": [
+              {
+                ":block/uid": "8_P6oYQbS"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2UlKLBLJs",
+        "edit-time": 1618365807671,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "dO9M3Rz6X",
+    "edit-time": 1617959616572,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -45703,6 +46301,138 @@
     "title": "April 14th, 2021",
     "uid": "04-14-2021",
     "edit-time": 1618364558771,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618365812402,
+    "title": "bilibili",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1618365833346,
+        "children": [
+          {
+            "string": "[couple](https://space.bilibili.com/26846937); keai #pt8-100",
+            "create-time": 1618365833340,
+            ":block/refs": [
+              {
+                ":block/uid": "qf_2NHomZ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qf_2NHomZ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "AhNsS861n",
+            "edit-time": 1618365864027,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "DKtPL2s45",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618365830943,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "PSABacCD2",
+    "edit-time": 1618365812403,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618365818015,
+    "title": "YouTube",
+    "uid": "8_P6oYQbS",
+    "edit-time": 1618365818015,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618365819329,
+    "title": "NicoNico",
+    "uid": "LKmLx_9qM",
+    "edit-time": 1618365819329,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618368867088,
+    "title": "classical physics",
+    "uid": "oTUccSU0-",
+    "edit-time": 1618368867089,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618368867093,
+    "title": "practical utility",
+    "uid": "WvGf3cM8G",
+    "edit-time": 1618368867094,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618368867093,
+    "title": "scientific discipline",
+    "uid": "ZiOOWsywc",
+    "edit-time": 1618368867094,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618369053525,
+    "title": "discipline",
+    "uid": "YTqGqZuIo",
+    "edit-time": 1618369053526,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
