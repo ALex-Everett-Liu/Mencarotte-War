@@ -87,43 +87,43 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 5,
+      :order 3,
       :content-id "N5lel-tnd"},
-     "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
-     {:page-uid "L7fTIw9dt",
-      :window-id "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b",
-      :type :outline,
-      :pinned? true,
-      :collapsed? false,
-      :order 8,
-      :content-id "L7fTIw9dt"},
-     "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
-     {:page-uid "JPCvFjovj",
-      :window-id "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb",
-      :type :outline,
-      :pinned? true,
-      :collapsed? false,
-      :order 7,
-      :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
       :type :outline,
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
+      :order 4,
+      :content-id "rw6U8VHY-"},
+     "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
+     {:page-uid "JPCvFjovj",
+      :window-id "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb",
+      :type :outline,
+      :pinned? true,
+      :collapsed? false,
+      :order 5,
+      :content-id "JPCvFjovj"},
+     "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
+     {:page-uid "L7fTIw9dt",
+      :window-id "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b",
+      :type :outline,
+      :pinned? true,
+      :collapsed? false,
       :order 6,
-      :content-id "rw6U8VHY-"}},
+      :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536950651]
+   536950697]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid669147d2-3bb2-4cc3-bc1d-c50223a12793"
-   536950675]
+   "uuidde16582f-85bc-4bac-94b1-9d0dfb017299"
+   536950722]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -402,23 +402,23 @@
   [14900 :block/parents 14899 536937237]
   [14900
    :block/string
-   "比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; "
-   536950331]
+   "比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; "
+   536950722]
   [14900 :block/uid "z7hu5D_X9" 536937233]
   [14900 :create/time 1617570842241 536937233]
   [14900 :create/user 3 536937233]
-  [14900 :edit/time 1618362028996 536950331]
+  [14900 :edit/time 1618380597195 536950722]
   [14900 :edit/user 3 536937233]
   [14901 :block/open true 536937238]
   [14901 :block/order 0 536937244]
   [14901 :block/page 14882 536937239]
   [14901 :block/parents 14882 536937239]
   [14901 :block/parents 14884 536937245]
-  [14901 :block/string "" 536950609]
+  [14901 :block/string "" 536950706]
   [14901 :block/uid "Zk8kVIfrJ" 536937238]
   [14901 :create/time 1617570844555 536937238]
   [14901 :create/user 3 536937238]
-  [14901 :edit/time 1618367647192 536950609]
+  [14901 :edit/time 1618376500041 536950706]
   [14901 :edit/user 3 536937238]
   [14903 :block/children 14904 536937751]
   [14903 :block/open false 536949144]
@@ -3251,6 +3251,7 @@
   [15172 :block/children 17415 536946402]
   [15172 :block/children 18875 536950472]
   [15172 :block/children 18896 536950562]
+  [15172 :block/children 18954 536950712]
   [15172 :block/open true 536950472]
   [15172 :block/uid "OT_m1Uigm" 536938237]
   [15172 :create/time 1617622293906 536938237]
@@ -24897,7 +24898,7 @@
   [17660 :edit/user 3 536947169]
   [17660 :node/title "outline" 536947169]
   [17661 :block/children 17662 536947177]
-  [17661 :block/open false 536950652]
+  [17661 :block/open true 536950678]
   [17661 :block/order 2 536947172]
   [17661 :block/page 15241 536947173]
   [17661 :block/parents 15241 536947173]
@@ -24912,7 +24913,7 @@
   [17661 :edit/time 1618140987473 536947176]
   [17661 :edit/user 3 536947172]
   [17662 :block/children 17670 536947189]
-  [17662 :block/open true 536947174]
+  [17662 :block/open false 536950691]
   [17662 :block/order 0 536947177]
   [17662 :block/page 15241 536947175]
   [17662 :block/parents 15241 536947175]
@@ -25013,7 +25014,10 @@
   [17669 :edit/user 3 536947188]
   [17670 :block/children 17664 536947192]
   [17670 :block/children 17666 536947192]
-  [17670 :block/open false 536947197]
+  [17670 :block/children 18944 536950684]
+  [17670 :block/children 18946 536950684]
+  [17670 :block/children 18948 536950684]
+  [17670 :block/open true 536950681]
   [17670 :block/order 0 536947189]
   [17670 :block/page 15241 536947190]
   [17670 :block/parents 15241 536947190]
@@ -35279,7 +35283,7 @@
   [18895 :edit/user 3 536950551]
   [18896 :block/children 18897 536950567]
   [18896 :block/heading 2 536950570]
-  [18896 :block/open true 536950562]
+  [18896 :block/open false 536950711]
   [18896 :block/order 2 536950562]
   [18896 :block/page 15172 536950563]
   [18896 :block/parents 15172 536950563]
@@ -35291,6 +35295,7 @@
   [18896 :edit/time 1618367337104 536950566]
   [18896 :edit/user 3 536950562]
   [18897 :block/children 18917 536950617]
+  [18897 :block/children 18951 536950700]
   [18897 :block/open true 536950564]
   [18897 :block/order 0 536950567]
   [18897 :block/page 15172 536950565]
@@ -35791,4 +35796,147 @@
   [18942 :block/string "" 536950671]
   [18942 :block/uid "cnUeKTQzZ" 536950671]
   [18942 :edit/time 1618369106412 536950671]
-  [18942 :edit/user 3 536950671]]}
+  [18942 :edit/user 3 536950671]
+  [18944 :block/children 18945 536950684]
+  [18944 :block/open true 536950684]
+  [18944 :block/order 3 536950684]
+  [18944 :block/page 15241 536950685]
+  [18944 :block/parents 15241 536950685]
+  [18944 :block/parents 15242 536950685]
+  [18944 :block/parents 15247 536950685]
+  [18944 :block/parents 15653 536950685]
+  [18944 :block/parents 17661 536950685]
+  [18944 :block/parents 17662 536950685]
+  [18944 :block/parents 17670 536950685]
+  [18944 :block/string "compose" 536950684]
+  [18944 :block/uid "-wX8TPo13" 536950684]
+  [18944 :edit/time 1618376398513 536950684]
+  [18944 :edit/user 3 536950684]
+  [18945 :block/open true 536950684]
+  [18945 :block/order 0 536950684]
+  [18945 :block/page 15241 536950685]
+  [18945 :block/parents 15241 536950685]
+  [18945 :block/parents 15242 536950685]
+  [18945 :block/parents 15247 536950685]
+  [18945 :block/parents 15653 536950685]
+  [18945 :block/parents 17661 536950685]
+  [18945 :block/parents 17662 536950685]
+  [18945 :block/parents 17670 536950685]
+  [18945 :block/parents 18944 536950685]
+  [18945 :block/string "composite; composition" 536950684]
+  [18945 :block/uid "5y9oqKl1r" 536950684]
+  [18945 :edit/time 1618376398513 536950684]
+  [18945 :edit/user 3 536950684]
+  [18946 :block/children 18947 536950684]
+  [18946 :block/open true 536950684]
+  [18946 :block/order 4 536950684]
+  [18946 :block/page 15241 536950686]
+  [18946 :block/parents 15241 536950686]
+  [18946 :block/parents 15242 536950686]
+  [18946 :block/parents 15247 536950686]
+  [18946 :block/parents 15653 536950686]
+  [18946 :block/parents 17661 536950686]
+  [18946 :block/parents 17662 536950686]
+  [18946 :block/parents 17670 536950686]
+  [18946 :block/string "comprehend" 536950684]
+  [18946 :block/uid "Dl51YOL2m" 536950684]
+  [18946 :edit/seen-by 3 536950690]
+  [18946 :edit/time 1618376398513 536950684]
+  [18946 :edit/user 3 536950684]
+  [18947 :block/open true 536950684]
+  [18947 :block/order 0 536950684]
+  [18947 :block/page 15241 536950686]
+  [18947 :block/parents 15241 536950686]
+  [18947 :block/parents 15242 536950686]
+  [18947 :block/parents 15247 536950686]
+  [18947 :block/parents 15653 536950686]
+  [18947 :block/parents 17661 536950686]
+  [18947 :block/parents 17662 536950686]
+  [18947 :block/parents 17670 536950686]
+  [18947 :block/parents 18946 536950686]
+  [18947 :block/string "comprehension;" 536950684]
+  [18947 :block/uid "jrGxjGaCo" 536950684]
+  [18947 :edit/time 1618376398513 536950684]
+  [18947 :edit/user 3 536950684]
+  [18948 :block/open true 536950684]
+  [18948 :block/order 2 536950684]
+  [18948 :block/page 15241 536950687]
+  [18948 :block/parents 15241 536950687]
+  [18948 :block/parents 15242 536950687]
+  [18948 :block/parents 15247 536950687]
+  [18948 :block/parents 15653 536950687]
+  [18948 :block/parents 17661 536950687]
+  [18948 :block/parents 17662 536950687]
+  [18948 :block/parents 17670 536950687]
+  [18948 :block/string "component" 536950684]
+  [18948 :block/uid "cvSA_m3au" 536950684]
+  [18948 :edit/seen-by 3 536950688]
+  [18948 :edit/time 1618376398513 536950684]
+  [18948 :edit/user 3 536950684]
+  [18949 :block/string "" 536950689]
+  [18949 :block/uid "yo7V8dCdm" 536950689]
+  [18949 :edit/time 1618376398556 536950689]
+  [18949 :edit/user 3 536950689]
+  [18951 :block/children 18952 536950700]
+  [18951 :block/open false 536950710]
+  [18951 :block/order 1 536950700]
+  [18951 :block/page 15172 536950703]
+  [18951 :block/parents 15172 536950703]
+  [18951 :block/parents 18896 536950703]
+  [18951 :block/parents 18897 536950703]
+  [18951 :block/refs 18946 536950701]
+  [18951
+   :block/string
+   "But while [formulating his laws of motion], Newton encountered a critical [stumbling block], one that is of [particular importance] to our story (Chapter 2). Everyone knew that [things could move], but what about the arena [within which the motion took place]? Well, that's space, we'd all answer. But, Newton would reply, what is space? Is space [a real physical entity] or is it [an abstract idea] born of the human struggle to [comprehend the cosmos](((Dl51YOL2m)))? Newton realized that this [key question] had to be answered, because without [taking a stand on] the meaning of space and time, his [equations describing motion] [would prove meaningless]. __Understanding requires context; insight must be anchored. 理解需要语境，洞见必须锚定。__"
+   536950700]
+  [18951 :block/uid "mc2VtkiCC" 536950700]
+  [18951 :create/time 1617387444345 536950700]
+  [18951 :create/user 3 536950700]
+  [18951 :edit/time 1618376486296 536950700]
+  [18951 :edit/user 3 536950700]
+  [18952 :block/open true 536950700]
+  [18952 :block/order 0 536950700]
+  [18952 :block/page 15172 536950703]
+  [18952 :block/parents 15172 536950703]
+  [18952 :block/parents 18896 536950703]
+  [18952 :block/parents 18897 536950703]
+  [18952 :block/parents 18951 536950703]
+  [18952 :block/refs 15185 536950709]
+  [18952 :block/refs 15810 536950702]
+  [18952
+   :block/string
+   "And so, with [a few brief sentences] in his [[Principia Mathematica]], Newton [articulated a conception of] space and time, declaring them [absolute and immutable entities] that [provided the universe with] a rigid, unchangeable arena. According to Newton, space and time supplied [an invisible scaffolding] that [gave the universe shape and structure]. Not everyone agreed. Some [argued persuasively that] [it made little sense to] [ascribe existence to something you can't feel], grasp, or affect. But [the explanatory and predictive power] of [Newton's equations] [quieted the critics]. For the next two hundred years, his [absolute conception of space and time](((s54v9I_DO))) was dogma. 教条\n(时空搭建出宇宙的形状与结构-绝对时空观)\n210403-07:00"
+   536950708]
+  [18952 :block/uid "rBb2qnNs-" 536950700]
+  [18952 :create/time 1617387444345 536950700]
+  [18952 :create/user 3 536950700]
+  [18952 :edit/time 1618376503509 536950708]
+  [18952 :edit/user 3 536950700]
+  [18953 :block/string "" 536950704]
+  [18953 :block/uid "VDBfbGCLj" 536950704]
+  [18953 :edit/time 1618376486312 536950704]
+  [18953 :edit/user 3 536950704]
+  [18954 :block/children 18955 536950717]
+  [18954 :block/heading 2 536950719]
+  [18954 :block/open true 536950712]
+  [18954 :block/order 3 536950712]
+  [18954 :block/page 15172 536950713]
+  [18954 :block/parents 15172 536950713]
+  [18954 :block/string "Relativistic Reality" 536950716]
+  [18954 :block/text-align "center" 536950720]
+  [18954 :block/uid "a1mA6njWa" 536950712]
+  [18954 :create/time 1618376523630 536950712]
+  [18954 :create/user 3 536950712]
+  [18954 :edit/time 1618376524012 536950716]
+  [18954 :edit/user 3 536950712]
+  [18955 :block/open true 536950714]
+  [18955 :block/order 0 536950717]
+  [18955 :block/page 15172 536950715]
+  [18955 :block/parents 15172 536950715]
+  [18955 :block/parents 18954 536950718]
+  [18955 :block/string "" 536950714]
+  [18955 :block/uid "w38KvjUvb" 536950714]
+  [18955 :create/time 1618376524005 536950714]
+  [18955 :create/user 3 536950714]
+  [18955 :edit/time 1618376524005 536950714]
+  [18955 :edit/user 3 536950714]]}

@@ -48,6 +48,11 @@
                                 - accompaniment;
                         - compass
                             - encompass
+                        - component
+                        - compose
+                            - composite; composition
+                        - comprehend
+                            - comprehension;
             - con
                 - con-
                     - cons
