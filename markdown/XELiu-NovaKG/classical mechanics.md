@@ -2,6 +2,9 @@
     - [[spinning motion]]; rotating motion
         - uniform spinning motion
 - [[classical physics]]
+- [[conservative system]]
+- [[dynamical variable]]
+- [[energy]]
 - friction
     - frictionless;
 - Galileo experiment

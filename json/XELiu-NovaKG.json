@@ -694,13 +694,23 @@
         },
         "children": [
           {
-            "string": "",
+            "string": "((cr_8Xr70z))",
             "create-time": 1617570844555,
-            "uid": "Zk8kVIfrJ",
-            "edit-time": 1618376500041,
+            ":block/refs": [
+              {
+                ":block/uid": "cr_8Xr70z"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cr_8Xr70z"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "Zk8kVIfrJ",
+            "edit-time": 1618407636030,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -6295,6 +6305,32 @@
             ],
             "uid": "yAQPakWbJ",
             "edit-time": 1617728231943,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "time",
+            "children": [
+              {
+                "string": "at any given time: 某个给定的时间; at any particular time",
+                "uid": "cr_8Xr70z",
+                "edit-time": 1618407630563,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "for all future time",
+                "uid": "rZvEh66Oj",
+                "edit-time": 1618407630563,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "BsFTEkBol",
+            "edit-time": 1618407630563,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -12322,6 +12358,60 @@
         },
         "uid": "TWGPLWvTG",
         "edit-time": 1618368950018,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[conservative system]]",
+        "refs": [
+          {
+            "uid": "BzzLmfcjG"
+          }
+        ],
+        "uid": "GvjTkNSeI",
+        "edit-time": 1618407827307,
+        ":block/refs": [
+          {
+            ":block/uid": "BzzLmfcjG"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[dynamical variable]]",
+        "refs": [
+          {
+            "uid": "GCQ12cGwD"
+          }
+        ],
+        "uid": "IPu-pp9XU",
+        "edit-time": 1618407826236,
+        ":block/refs": [
+          {
+            ":block/uid": "GCQ12cGwD"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[energy]]",
+        "refs": [
+          {
+            "uid": "EBtT5gt2Z"
+          }
+        ],
+        "uid": "9ZMcw9f-v",
+        "edit-time": 1618407849692,
+        ":block/refs": [
+          {
+            ":block/uid": "EBtT5gt2Z"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -46847,6 +46937,172 @@
     "title": "QM Griffiths - 1.3.1 Discrete Variables",
     "uid": "BuKxA8Ewf",
     "edit-time": 1618401291128,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618407826239,
+    "title": "dynamical variable",
+    "uid": "GCQ12cGwD",
+    "edit-time": 1618407826240,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618407827309,
+    "title": "conservative system",
+    "uid": "BzzLmfcjG",
+    "edit-time": 1618407827309,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618407849694,
+    "title": "energy",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[energy conservation]]",
+        "refs": [
+          {
+            "uid": "2mj4PeL3X"
+          }
+        ],
+        "uid": "oRT79W8dY",
+        "edit-time": 1618407885113,
+        ":block/refs": [
+          {
+            ":block/uid": "2mj4PeL3X"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "energy type",
+        "uid": "RX4eXn58v",
+        "edit-time": 1618407845717,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[kinetic energy]]",
+        "refs": [
+          {
+            "uid": "xm5PpSk6M"
+          }
+        ],
+        "uid": "D3lhR52a1",
+        "edit-time": 1618407884074,
+        ":block/refs": [
+          {
+            ":block/uid": "xm5PpSk6M"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[mechanical energy]]",
+        "refs": [
+          {
+            "uid": "XIOp5mPoP"
+          }
+        ],
+        "uid": "Il-E6jx_n",
+        "edit-time": 1618407882557,
+        ":block/refs": [
+          {
+            ":block/uid": "XIOp5mPoP"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[potential energy]]; potential energy function",
+        "refs": [
+          {
+            "uid": "1lh1Vqcpp"
+          }
+        ],
+        "uid": "xotofVyFg",
+        "edit-time": 1618407881449,
+        ":block/refs": [
+          {
+            ":block/uid": "1lh1Vqcpp"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "EBtT5gt2Z",
+    "edit-time": 1618407849695,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618407881451,
+    "title": "potential energy",
+    "uid": "1lh1Vqcpp",
+    "edit-time": 1618407881451,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618407882562,
+    "title": "mechanical energy",
+    "uid": "XIOp5mPoP",
+    "edit-time": 1618407882564,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618407884076,
+    "title": "kinetic energy",
+    "uid": "xm5PpSk6M",
+    "edit-time": 1618407884077,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618407885114,
+    "title": "energy conservation",
+    "uid": "2mj4PeL3X",
+    "edit-time": 1618407885115,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

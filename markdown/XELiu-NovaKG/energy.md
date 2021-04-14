@@ -1,0 +1,5 @@
+- [[energy conservation]]
+- energy type
+- [[kinetic energy]]
+- [[mechanical energy]]
+- [[potential energy]]; potential energy function

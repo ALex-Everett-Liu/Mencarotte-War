@@ -87,43 +87,43 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 4,
+      :order 7,
       :content-id "N5lel-tnd"},
-     "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
-     {:page-uid "7Gc8zMIRI",
-      :type :outline,
-      :pinned? true,
-      :collapsed? true,
-      :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 5,
-      :content-id "rw6U8VHY-"},
-     "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
-     {:page-uid "JPCvFjovj",
-      :window-id "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb",
-      :type :outline,
-      :pinned? true,
-      :collapsed? false,
-      :order 6,
-      :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
       :window-id "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b",
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 7,
-      :content-id "L7fTIw9dt"}},
+      :order 10,
+      :content-id "L7fTIw9dt"},
+     "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
+     {:page-uid "JPCvFjovj",
+      :window-id "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb",
+      :type :outline,
+      :pinned? true,
+      :collapsed? false,
+      :order 9,
+      :content-id "JPCvFjovj"},
+     "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
+     {:page-uid "7Gc8zMIRI",
+      :type :outline,
+      :pinned? true,
+      :collapsed? true,
+      :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
+      :order 8,
+      :content-id "rw6U8VHY-"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536950758]
+   536950839]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid75cd6e3b-1f14-4db8-83b7-eb5aaae46ff5"
-   536950781]
+   "uuidb6ff4214-31d8-4c9b-8d01-cefd5d143ca1"
+   536950839]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -414,11 +414,12 @@
   [14901 :block/page 14882 536937239]
   [14901 :block/parents 14882 536937239]
   [14901 :block/parents 14884 536937245]
-  [14901 :block/string "" 536950706]
+  [14901 :block/refs 18977 536950794]
+  [14901 :block/string "((cr_8Xr70z))" 536950793]
   [14901 :block/uid "Zk8kVIfrJ" 536937238]
   [14901 :create/time 1617570844555 536937238]
   [14901 :create/user 3 536937238]
-  [14901 :edit/time 1618376500041 536950706]
+  [14901 :edit/time 1618407636030 536950793]
   [14901 :edit/user 3 536937238]
   [14903 :block/children 14904 536937751]
   [14903 :block/open false 536949144]
@@ -3792,7 +3793,7 @@
   [15225 :edit/user 3 536938444]
   [15226 :block/children 15261 536939526]
   [15226 :block/open true 536938444]
-  [15226 :block/order 8 536950634]
+  [15226 :block/order 11 536950808]
   [15226 :block/page 15228 536938454]
   [15226 :block/parents 15228 536938454]
   [15226 :block/refs 15229 536938457]
@@ -3817,6 +3818,9 @@
   [15228 :block/children 15802 536940874]
   [15228 :block/children 15803 536940874]
   [15228 :block/children 18923 536950634]
+  [15228 :block/children 18981 536950798]
+  [15228 :block/children 18982 536950798]
+  [15228 :block/children 18987 536950810]
   [15228 :block/open true 536938620]
   [15228 :block/uid "6bYZqDwNj" 536938449]
   [15228 :create/time 1617648323135 536938449]
@@ -3843,7 +3847,7 @@
   [15232 :block/children 15440 536939520]
   [15232 :block/children 15898 536941259]
   [15232 :block/open true 536938495]
-  [15232 :block/order 7 536950634]
+  [15232 :block/order 10 536950808]
   [15232 :block/page 15228 536939515]
   [15232 :block/parents 15228 536939515]
   [15232 :block/refs 15230 536938501]
@@ -5241,7 +5245,7 @@
   [15368 :block/children 15369 536939060]
   [15368 :block/children 15370 536939060]
   [15368 :block/open true 536939060]
-  [15368 :block/order 3 536950634]
+  [15368 :block/order 6 536950808]
   [15368 :block/page 15228 536939061]
   [15368 :block/parents 15228 536939061]
   [15368 :block/string "Galileo experiment" 536939060]
@@ -5973,6 +5977,7 @@
   [15454 :block/children 16180 536942581]
   [15454 :block/children 16301 536943120]
   [15454 :block/children 16302 536943123]
+  [15454 :block/children 18976 536950788]
   [15454 :block/open true 536939472]
   [15454 :block/order 7 536945413]
   [15454 :block/page 15066 536939473]
@@ -6940,7 +6945,7 @@
   [15566 :node/title "idealized situation" 536939840]
   [15568 :block/children 15569 536939843]
   [15568 :block/open true 536939843]
-  [15568 :block/order 2 536950634]
+  [15568 :block/order 5 536950808]
   [15568 :block/page 15228 536939844]
   [15568 :block/parents 15228 536939844]
   [15568 :block/string "friction" 536939843]
@@ -8844,7 +8849,7 @@
   [15759 :node/title "relative position" 536940636]
   [15761 :block/children 15762 536940667]
   [15761 :block/open true 536940667]
-  [15761 :block/order 6 536950634]
+  [15761 :block/order 9 536950808]
   [15761 :block/page 15228 536940668]
   [15761 :block/parents 15228 536940668]
   [15761 :block/string "position" 536940667]
@@ -9215,7 +9220,7 @@
   [15800 :edit/time 1617685393324 536940865]
   [15800 :edit/user 3 536940861]
   [15802 :block/open true 536940874]
-  [15802 :block/order 5 536950634]
+  [15802 :block/order 8 536950808]
   [15802 :block/page 15228 536940875]
   [15802 :block/parents 15228 536940875]
   [15802 :block/string "Newtonian physics" 536940874]
@@ -9228,7 +9233,7 @@
   [15803 :block/children 15806 536940874]
   [15803 :block/children 15807 536940874]
   [15803 :block/open true 536940874]
-  [15803 :block/order 4 536950634]
+  [15803 :block/order 7 536950808]
   [15803 :block/page 15228 536940876]
   [15803 :block/parents 15228 536940876]
   [15803
@@ -35421,6 +35426,7 @@
   [18907 :block/parents 18904 536950595]
   [18907 :block/string "constrain" 536950594]
   [18907 :block/uid "W0-Ml9Dah" 536950594]
+  [18907 :edit/seen-by 3 536950784]
   [18907 :edit/time 1618367602216 536950594]
   [18907 :edit/user 3 536950594]
   [18908 :block/open true 536950594]
@@ -35436,6 +35442,7 @@
   [18908 :block/parents 18907 536950595]
   [18908 :block/string "constrained; constraint" 536950594]
   [18908 :block/uid "-EtvhyWWf" 536950594]
+  [18908 :edit/seen-by 3 536950785]
   [18908 :edit/time 1618367602216 536950594]
   [18908 :edit/user 3 536950594]
   [18909 :block/open true 536950594]
@@ -36174,4 +36181,185 @@
   [18974 :block/string "" 536950781]
   [18974 :block/uid "xzWNVzUI4" 536950781]
   [18974 :edit/time 1618401291150 536950781]
-  [18974 :edit/user 3 536950781]]}
+  [18974 :edit/user 3 536950781]
+  [18976 :block/children 18977 536950788]
+  [18976 :block/children 18978 536950788]
+  [18976 :block/open true 536950788]
+  [18976 :block/order 9 536950788]
+  [18976 :block/page 15066 536950789]
+  [18976 :block/parents 15066 536950789]
+  [18976 :block/parents 15454 536950789]
+  [18976 :block/string "time" 536950788]
+  [18976 :block/uid "BsFTEkBol" 536950788]
+  [18976 :edit/seen-by 3 536950790]
+  [18976 :edit/time 1618407630563 536950788]
+  [18976 :edit/user 3 536950788]
+  [18977 :block/open true 536950788]
+  [18977 :block/order 0 536950788]
+  [18977 :block/page 15066 536950789]
+  [18977 :block/parents 15066 536950789]
+  [18977 :block/parents 15454 536950789]
+  [18977 :block/parents 18976 536950789]
+  [18977
+   :block/string
+   "at any given time: 某个给定的时间; at any particular time"
+   536950788]
+  [18977 :block/uid "cr_8Xr70z" 536950788]
+  [18977 :edit/seen-by 3 536950792]
+  [18977 :edit/time 1618407630563 536950788]
+  [18977 :edit/user 3 536950788]
+  [18978 :block/open true 536950788]
+  [18978 :block/order 1 536950788]
+  [18978 :block/page 15066 536950789]
+  [18978 :block/parents 15066 536950789]
+  [18978 :block/parents 15454 536950789]
+  [18978 :block/parents 18976 536950789]
+  [18978 :block/string "for all future time" 536950788]
+  [18978 :block/uid "rZvEh66Oj" 536950788]
+  [18978 :edit/time 1618407630563 536950788]
+  [18978 :edit/user 3 536950788]
+  [18979 :block/string "" 536950791]
+  [18979 :block/uid "GC_Mo3Rr5" 536950791]
+  [18979 :edit/time 1618407630579 536950791]
+  [18979 :edit/user 3 536950791]
+  [18981 :block/open true 536950798]
+  [18981 :block/order 3 536950798]
+  [18981 :block/page 15228 536950799]
+  [18981 :block/parents 15228 536950799]
+  [18981 :block/refs 18984 536950805]
+  [18981 :block/string "[[dynamical variable]]" 536950804]
+  [18981 :block/uid "IPu-pp9XU" 536950798]
+  [18981 :edit/seen-by 3 536950803]
+  [18981 :edit/time 1618407826236 536950804]
+  [18981 :edit/user 3 536950798]
+  [18982 :block/open true 536950798]
+  [18982 :block/order 2 536950798]
+  [18982 :block/page 15228 536950800]
+  [18982 :block/parents 15228 536950800]
+  [18982 :block/refs 18985 536950807]
+  [18982 :block/string "[[conservative system]]" 536950806]
+  [18982 :block/uid "GvjTkNSeI" 536950798]
+  [18982 :edit/seen-by 3 536950801]
+  [18982 :edit/time 1618407827307 536950806]
+  [18982 :edit/user 3 536950798]
+  [18983 :block/string "" 536950802]
+  [18983 :block/uid "TL0nQgsho" 536950802]
+  [18983 :edit/time 1618407822984 536950802]
+  [18983 :edit/user 3 536950802]
+  [18984 :block/uid "GCQ12cGwD" 536950805]
+  [18984 :create/time 1618407826239 536950805]
+  [18984 :create/user 3 536950805]
+  [18984 :edit/time 1618407826240 536950805]
+  [18984 :edit/user 3 536950805]
+  [18984 :node/title "dynamical variable" 536950805]
+  [18985 :block/uid "BzzLmfcjG" 536950807]
+  [18985 :create/time 1618407827309 536950807]
+  [18985 :create/user 3 536950807]
+  [18985 :edit/time 1618407827309 536950807]
+  [18985 :edit/user 3 536950807]
+  [18985 :node/title "conservative system" 536950807]
+  [18987 :block/open true 536950810]
+  [18987 :block/order 4 536950810]
+  [18987 :block/page 15228 536950811]
+  [18987 :block/parents 15228 536950811]
+  [18987 :block/refs 18995 536950815]
+  [18987 :block/string "[[energy]]" 536950814]
+  [18987 :block/uid "9ZMcw9f-v" 536950810]
+  [18987 :edit/seen-by 3 536950812]
+  [18987 :edit/time 1618407849692 536950814]
+  [18987 :edit/user 3 536950810]
+  [18988 :block/open true 536950810]
+  [18988 :block/order 0 536950810]
+  [18988 :block/page 18995 536950823]
+  [18988 :block/parents 18995 536950823]
+  [18988 :block/refs 19000 536950837]
+  [18988 :block/string "[[energy conservation]]" 536950836]
+  [18988 :block/uid "oRT79W8dY" 536950810]
+  [18988 :edit/seen-by 3 536950819]
+  [18988 :edit/time 1618407885113 536950836]
+  [18988 :edit/user 3 536950810]
+  [18990 :block/open true 536950810]
+  [18990 :block/order 1 536950818]
+  [18990 :block/page 18995 536950824]
+  [18990 :block/parents 18995 536950824]
+  [18990 :block/string "energy type" 536950810]
+  [18990 :block/uid "RX4eXn58v" 536950810]
+  [18990 :edit/time 1618407845717 536950810]
+  [18990 :edit/user 3 536950810]
+  [18991 :block/open true 536950810]
+  [18991 :block/order 2 536950818]
+  [18991 :block/page 18995 536950825]
+  [18991 :block/parents 18995 536950825]
+  [18991 :block/refs 18999 536950835]
+  [18991 :block/string "[[kinetic energy]]" 536950834]
+  [18991 :block/uid "D3lhR52a1" 536950810]
+  [18991 :edit/seen-by 3 536950831]
+  [18991 :edit/time 1618407884074 536950834]
+  [18991 :edit/user 3 536950810]
+  [18992 :block/open true 536950810]
+  [18992 :block/order 3 536950818]
+  [18992 :block/page 18995 536950826]
+  [18992 :block/parents 18995 536950826]
+  [18992 :block/refs 18998 536950833]
+  [18992 :block/string "[[mechanical energy]]" 536950832]
+  [18992 :block/uid "Il-E6jx_n" 536950810]
+  [18992 :edit/seen-by 3 536950828]
+  [18992 :edit/time 1618407882557 536950832]
+  [18992 :edit/user 3 536950810]
+  [18993 :block/open true 536950810]
+  [18993 :block/order 4 536950818]
+  [18993 :block/page 18995 536950827]
+  [18993 :block/parents 18995 536950827]
+  [18993 :block/refs 18997 536950830]
+  [18993
+   :block/string
+   "[[potential energy]]; potential energy function"
+   536950829]
+  [18993 :block/uid "xotofVyFg" 536950810]
+  [18993 :edit/seen-by 3 536950821]
+  [18993 :edit/time 1618407881449 536950829]
+  [18993 :edit/user 3 536950810]
+  [18994 :block/string "" 536950813]
+  [18994 :block/uid "iqIGL4W9x" 536950813]
+  [18994 :edit/time 1618407845749 536950813]
+  [18994 :edit/user 3 536950813]
+  [18995 :block/children 18988 536950822]
+  [18995 :block/children 18990 536950822]
+  [18995 :block/children 18991 536950822]
+  [18995 :block/children 18992 536950822]
+  [18995 :block/children 18993 536950822]
+  [18995 :block/uid "EBtT5gt2Z" 536950815]
+  [18995 :create/time 1618407849694 536950815]
+  [18995 :create/user 3 536950815]
+  [18995 :edit/seen-by 3 536950828]
+  [18995 :edit/time 1618407849695 536950815]
+  [18995 :edit/user 3 536950815]
+  [18995 :node/title "energy" 536950815]
+  [18996 :block/string "" 536950820]
+  [18996 :block/uid "6nSNdp1mr" 536950820]
+  [18996 :edit/time 1618407853248 536950820]
+  [18996 :edit/user 3 536950820]
+  [18997 :block/uid "1lh1Vqcpp" 536950830]
+  [18997 :create/time 1618407881451 536950830]
+  [18997 :create/user 3 536950830]
+  [18997 :edit/time 1618407881451 536950830]
+  [18997 :edit/user 3 536950830]
+  [18997 :node/title "potential energy" 536950830]
+  [18998 :block/uid "XIOp5mPoP" 536950833]
+  [18998 :create/time 1618407882562 536950833]
+  [18998 :create/user 3 536950833]
+  [18998 :edit/time 1618407882564 536950833]
+  [18998 :edit/user 3 536950833]
+  [18998 :node/title "mechanical energy" 536950833]
+  [18999 :block/uid "xm5PpSk6M" 536950835]
+  [18999 :create/time 1618407884076 536950835]
+  [18999 :create/user 3 536950835]
+  [18999 :edit/time 1618407884077 536950835]
+  [18999 :edit/user 3 536950835]
+  [18999 :node/title "kinetic energy" 536950835]
+  [19000 :block/uid "2mj4PeL3X" 536950837]
+  [19000 :create/time 1618407885114 536950837]
+  [19000 :create/user 3 536950837]
+  [19000 :edit/time 1618407885115 536950837]
+  [19000 :edit/user 3 536950837]
+  [19000 :node/title "energy conservation" 536950837]]}
