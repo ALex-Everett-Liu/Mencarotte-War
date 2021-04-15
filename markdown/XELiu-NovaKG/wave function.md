@@ -1,0 +1,2 @@
+- evolution of the wave function
+    - collapse of the wave function; wave function collapses

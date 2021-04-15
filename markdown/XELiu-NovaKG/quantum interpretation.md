@@ -1,0 +1,13 @@
+- agnostic position; [[agnosticism]]: 不可知论
+- [[Copenhagen interpretation]]
+    - orthodox position; orthodox interpretation
+- [[hidden variable]]
+- [[many worlds interpretation (MWI)]]
+- statistical interpretation; Born’s statistical interpretation
+    - indeterminacy
+    - possible results
+    - the probability of finding the particle
+        - the status of a particle; the state of a particle
+    - statistical information
+        - additional information
+    - statistical weighting

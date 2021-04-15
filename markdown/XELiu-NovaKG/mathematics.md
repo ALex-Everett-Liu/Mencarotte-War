@@ -1,6 +1,13 @@
+- [[calculus]]
+- [[complex number]]
 - general...
+    - [[non-negative]]
+    - normalized
     - number
         - digit: 位
         - [[whole number]]
             - decimal whole number
+    - square-integrable function
+    - square root
+    - well-defined
 - [[logic]]

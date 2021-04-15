@@ -1,0 +1,5 @@
+- [[boundary condition]]
+    - [[initial condition]]
+- [[differential equation]]
+- derivative
+- [[Fourier analysis]]

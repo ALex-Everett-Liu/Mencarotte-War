@@ -1,0 +1,1 @@
+- specified force: 某个特定的受力

@@ -18,7 +18,7 @@
         - [[light speed]]; the speed of light
     - [[magnetic field]]
         - auxiliary field vector
-        - magnetic force
+        - [[magnetic force]]
 - [[electron]]
     - electron beam
 - [[Maxwell's equations]]

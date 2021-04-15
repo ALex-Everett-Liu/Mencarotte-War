@@ -1,4 +1,23 @@
+- general...
+    - large-scale regime
+    - [[macroscopic level]]; [[microscopic level]]
+    - quantum process;
+    - subatomic domain;
+- [[quantum interpretation]]
+- localized at a point; localization
+    - non-localization;
+    - spread out in space
+- [[matrix mechanics]]
+- [[quantization]]; quantized
 - [[quantum chemistry]]
 - [[quantum field]]; [[quantum field theory]]
+- [[quantum physics]]; [[quantum theory]]
+- [[Schrödinger equation]]
+- [[spin]]
+- [[symmetry]]
+- [[wave function]]
+- ---
+- 高等量子力学 (Advanced Quantum Mechanics) - 喀兴林
+- 如果你来讲《量子力学》课程，你会如何设计？
 - #inbox
     - {{[[TODO]]}} [Four Postulates of Quantum Mechanics Are Three](https://link.zhihu.com/?target=https%3A//journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.110402) -- [zhihu](https://www.zhihu.com/question/451908940) #pt10-99.99

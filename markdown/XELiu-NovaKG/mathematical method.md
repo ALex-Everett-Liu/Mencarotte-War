@@ -1,0 +1,5 @@
+- conditions...
+    - finite region
+    - infinitely small thicknesses
+- derived
+- [[initial condition]]

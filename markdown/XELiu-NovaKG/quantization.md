@@ -1,0 +1,6 @@
+- discrete value; discrete amount;
+    - discrete unit
+    - discrete point
+- [[Planck’s constant]]
+- quantum hypothesis
+    - energy packet

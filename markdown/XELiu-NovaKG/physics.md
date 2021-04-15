@@ -33,6 +33,12 @@
     - time
         - at any given time: 某个给定的时间; at any particular time
         - for all future time
+- history of physics
+    - two clouds hovering on the horizon
+        - [[Lord Kelvin]]
+- journal
+    - [[American Journal of Physics (Am. J. Phys.)]]
+    - [[Physics Today]]
 - material...
     - medium...
         - elastic medium; elastic media; 弹性介质
@@ -46,6 +52,7 @@
     - #inbox
         - 还有搞[圈量子]的 Rovelli 也有不少[科哲方面的论述](https://www.zhihu.com/question/453060681)可以关注 #pt10-99.99
             - 读读这本论文集: Why trust a theory? - epistemology of fundamental physics, Cambridge University Press (2019)
+- [[mathematical method]]
 - [[nuclear physics]]
 - physicist
     - [[Descartes]]
