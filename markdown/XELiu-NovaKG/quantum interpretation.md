@@ -4,10 +4,10 @@
 - [[hidden variable]]
 - [[many worlds interpretation (MWI)]]
 - statistical interpretation; Born’s statistical interpretation
-    - indeterminacy
+    - [[indeterminacy]]; [[quantum indeterminacy]]
     - possible results
     - the probability of finding the particle
         - the status of a particle; the state of a particle
-    - statistical information
+    - [[statistical information]]
         - additional information
     - statistical weighting

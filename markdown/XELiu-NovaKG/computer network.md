@@ -1,3 +1,8 @@
+- [[distributed computing system]]
+    - [[Byzantine fault tolerance]]
+    - 
+    - [[peer-to-peer network]]
+        - [[inter-node communication]]
 - [[Ethernet]]
 - general...
     - network technologies

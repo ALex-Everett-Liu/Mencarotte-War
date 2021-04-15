@@ -1,0 +1,2 @@
+- [[distributed ledger]]: 分布式账本
+- [[public transaction ledger]]

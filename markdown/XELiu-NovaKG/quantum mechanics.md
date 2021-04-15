@@ -8,6 +8,11 @@
     - non-localization;
     - spread out in space
 - [[matrix mechanics]]
+- [[measurement]]; measurement process; act of measurement
+    - before the measurement; prior to the measurement
+    - [[observation]]
+        - observable difference;
+    - repeated measurement; second measurement
 - [[quantization]]; quantized
 - [[quantum chemistry]]
 - [[quantum field]]; [[quantum field theory]]
@@ -15,6 +20,7 @@
 - [[Schrödinger equation]]
 - [[spin]]
 - [[symmetry]]
+- [[uncertainty principle]]
 - [[wave function]]
 - ---
 - 高等量子力学 (Advanced Quantum Mechanics) - 喀兴林

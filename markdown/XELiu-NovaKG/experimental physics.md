@@ -4,6 +4,8 @@
     - prepare the particle: 制备粒子;
 - [[laboratory]]
     - white coat;
+- [[measurement]]; measurement process; act of measurement
+    - measuring instrument;
 - [[observation]]
     - [[experimental observation]]
     - [[observable consequence]]

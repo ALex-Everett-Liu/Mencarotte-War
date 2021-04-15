@@ -2,8 +2,11 @@
     - 
     - 
 - quick todo
-    - 比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907
-    - 
+    - 比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carolle;; 上古汉语; IPA;; 
+    - old pc trash check; 
+    - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
+    - 丝路大亨; 重生传奇; 吾家有妻骄养成
+    - 御姐; 
 - roam - function test
     - aa
         - **bb**

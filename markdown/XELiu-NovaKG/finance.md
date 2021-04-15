@@ -2,7 +2,12 @@
     - [[credit card]]
         - [[virtual credit card]]
 - [[blockchain]]
-- digital payment...
+    - [[double-spending problem]]
+        - [[central server]]
+        - [[trusted authority]]
+- [[digital currency]]
+    - [[cryptocurrency]]
+- digital payment
     - [[Alipay]]
     - [[PayPal]]
     - [[gift card]]

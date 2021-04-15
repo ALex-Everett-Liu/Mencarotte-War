@@ -1,5 +1,15 @@
 - English
     - a
+        - al
+            - alias
+            - align
+                - alignment
+            - allow
+                - disallowing;
+            - alter
+                - alternate; alternately; alternation; alternative
+                - alteration;
+                - unalterable;
         - as
             - assert
                 - assertion;
@@ -243,6 +253,16 @@
                 - respect
                     - respective
                     - with respect to: 相对于;
+            - ret
+                - retain
+                    - retainer;
+                - retaliate
+                    - retaliation;
+                - retrieve
+                    - retrieval;
+                - retro-
+                    - retroact
+                        - retroactively;
     - s
         - st
             - sta
@@ -286,3 +306,15 @@
                     - utilized;
             - utter
                 - utterly;
+    - v
+        - ve
+            - ver
+                - versus
+                - vertex
+                    - vertical
+                    - vertices
+                - very
+                    - verify
+                        - verifiable;
+                        - unverified; verified;
+                    - verity

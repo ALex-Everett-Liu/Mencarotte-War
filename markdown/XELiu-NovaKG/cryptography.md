@@ -1,0 +1,10 @@
+- [[cryptocurrency]]
+- [[cryptographic hash]]
+- [[ledger]]
+- [[Merkle tree]]
+- record the data
+    - data modification or alteration
+- [[timestamp]]
+- [[transaction data]]
+    - record transactions between two parties: 记录双方之间的交易;
+- validating new blocks
