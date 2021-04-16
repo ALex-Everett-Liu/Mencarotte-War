@@ -1,4 +1,5 @@
 - [[Chinese history]]
+- [[historical geography]]
 - #inbox
     - {{[[TODO]]}} history book purchase
         - https://book.douban.com/subject/35073877/

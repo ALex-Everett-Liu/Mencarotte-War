@@ -1,3 +1,4 @@
+- [[geography]]
 - geophysics
 - [[seismology]]
 - [[weather]]
