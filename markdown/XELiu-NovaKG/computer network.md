@@ -1,6 +1,5 @@
 - [[distributed computing system]]
     - [[Byzantine fault tolerance]]
-    - 
     - [[peer-to-peer network]]
         - [[inter-node communication]]
 - [[Ethernet]]
@@ -11,6 +10,7 @@
 - [[local area networks (LAN)]]
 - [[MAC address]]
 - [[metropolitan area networks (MAN)]]
+- [[server]]
 - session
 - [[wide area networks (WAN)]]
 - Wi-Fi

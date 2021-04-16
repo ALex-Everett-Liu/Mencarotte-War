@@ -1,4 +1,3 @@
 - [[data structure]]
-- [[cryptography]]
 - Operating System (OS); [[operating system (OS)]];
 - [[programming]]; [[programming language]]

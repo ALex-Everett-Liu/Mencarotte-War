@@ -5,17 +5,13 @@
     - [[double-spending problem]]
         - [[central server]]
         - [[trusted authority]]
-- [[digital currency]]
-    - [[cryptocurrency]]
-- digital payment
-    - [[Alipay]]
-    - [[PayPal]]
-    - [[gift card]]
+- [[currency]]
 - [[financial crisis]]
     - [[global financial crisis]]
 - general...
     - [[clearinghouse]]: 票据交换所
 - [[invest]]
+- [[payment]]
 - [[stock market]]
     - [[bond market]]: 债券市场 
 - #inbox

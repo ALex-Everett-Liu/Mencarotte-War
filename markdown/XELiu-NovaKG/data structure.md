@@ -1,2 +1,6 @@
 - [[database]]
 - [[file structure]]
+- meta info?
+    - time
+        - [[timestamp]]
+            - [[creation time]]

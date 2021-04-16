@@ -1,3 +1,4 @@
+- [[advertisement]]; promotion advertisement
 - [[price]]
 - sold...
     - best-selling

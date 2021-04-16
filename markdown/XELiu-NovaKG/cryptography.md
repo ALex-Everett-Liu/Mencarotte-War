@@ -1,10 +1,11 @@
 - [[cryptocurrency]]
-- [[cryptographic hash]]
 - [[ledger]]
-- [[Merkle tree]]
+- [[Merkle tree]]; [[hash tree]]
+    - [[hash value]]
+        - [[cryptographic hash]]
 - record the data
     - data modification or alteration
+- [[security model]]
 - [[timestamp]]
-- [[transaction data]]
-    - record transactions between two parties: 记录双方之间的交易;
+- [[transaction]]
 - validating new blocks

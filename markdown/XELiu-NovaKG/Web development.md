@@ -4,7 +4,7 @@
     - submit the form
     - update the identity
 - Web Design; [[Web design]]; web designer
-    - [[Cascade Style Sheets (CSS)]]; css
+    - [[Cascading Style Sheets (CSS)]]; css
     - html; [[HyperText Markup Language (HTML)]];
     - [[layout]]
     - structural content

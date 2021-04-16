@@ -1,0 +1,2 @@
+- [[digital currency]]
+    - [[cryptocurrency]]

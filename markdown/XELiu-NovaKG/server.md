@@ -1,0 +1,7 @@
+- [[central server]]
+- [[client]]
+- [[host]]
+    - localhost
+- server-based application
+- [[server port]]
+- servlet

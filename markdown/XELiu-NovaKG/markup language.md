@@ -8,7 +8,7 @@
 - style; styling...
     - [[scrollbar]]
 - [[style sheet language]]
-    - [[Cascade Style Sheets (CSS)]]; css
+    - [[Cascading Style Sheets (CSS)]]; css
     - [[style sheet]]
         - default style sheet
         - custom CSS

@@ -1203,6 +1203,28 @@
         }
       },
       {
+        "string": "[[information security]]",
+        "create-time": 1618532584016,
+        ":block/refs": [
+          {
+            ":block/uid": "932j29Avx"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "932j29Avx"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "BgJyTmKjE",
+        "edit-time": 1618532587512,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[software]]",
         "create-time": 1617577245705,
         ":block/refs": [
@@ -3534,23 +3556,23 @@
         "edit-time": 1617578598109,
         "children": [
           {
-            "string": "[[Cascade Style Sheets (CSS)]]; css",
+            "string": "[[Cascading Style Sheets (CSS)]]; css",
             "create-time": 1617578598307,
             ":block/refs": [
               {
-                ":block/uid": "N2G_3czyG"
+                ":block/uid": "RnbJvA__I"
               }
             ],
             "refs": [
               {
-                "uid": "N2G_3czyG"
+                "uid": "RnbJvA__I"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "661_kVNeg",
-            "edit-time": 1618195399477,
+            "edit-time": 1618537247586,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -3715,6 +3737,156 @@
     },
     "children": [
       {
+        "string": "apps...",
+        "children": [
+          {
+            "string": "[[Stylish]]",
+            "refs": [
+              {
+                "uid": "B8XHPBmSZ"
+              }
+            ],
+            "uid": "od1-SYYB-",
+            "edit-time": 1618195265019,
+            ":block/refs": [
+              {
+                ":block/uid": "B8XHPBmSZ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((JF8V2mE5M))",
+            "refs": [
+              {
+                "uid": "JF8V2mE5M"
+              }
+            ],
+            "uid": "hJtzKdEk1",
+            "edit-time": 1618195259948,
+            ":block/refs": [
+              {
+                ":block/uid": "JF8V2mE5M"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "69a3v1vti",
+        "edit-time": 1618195246307,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "background image",
+        "uid": "-mZ_dLPzG",
+        "edit-time": 1618195275324,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "import css",
+        "uid": "fCizMk_EL",
+        "edit-time": 1618195275324,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((uyO1X_fao))",
+        "create-time": 1618195292318,
+        ":block/refs": [
+          {
+            ":block/uid": "uyO1X_fao"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "uyO1X_fao"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "WV7O6h02w",
+        "edit-time": 1618195293218,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "page container",
+        "children": [
+          {
+            "string": "block container",
+            "uid": "YENOqhpnp",
+            "edit-time": 1618195304030,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "m0iCj_FvB",
+        "edit-time": 1618195304030,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[selector]]",
+        "refs": [
+          {
+            "uid": "F7muB90By"
+          }
+        ],
+        "uid": "G5dwaGdGD",
+        "edit-time": 1618195422275,
+        ":block/refs": [
+          {
+            ":block/uid": "F7muB90By"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "width",
+        "children": [
+          {
+            "string": "max width;",
+            "uid": "jhtSJIxXP",
+            "edit-time": 1618195304030,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "_RUtd4vmZ",
+        "edit-time": 1618195304030,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1618537259905,
+        "uid": "s40j-N6A-",
+        "edit-time": 1618537261797,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "...",
         "create-time": 1617578636878,
         ":create/user": {
@@ -3836,28 +4008,6 @@
         },
         "uid": "ypAtonsIS",
         "edit-time": 1618141313764,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "[[cryptography]]",
-        "create-time": 1617933037527,
-        ":block/refs": [
-          {
-            ":block/uid": "R2EH_axEI"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "R2EH_axEI"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "PjcAmhrBK",
-        "edit-time": 1617933040292,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -8602,6 +8752,28 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[business use]]",
+        "create-time": 1618530515745,
+        ":block/refs": [
+          {
+            ":block/uid": "Ez_XQFRr7"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Ez_XQFRr7"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "2a-qZIpcK",
+        "edit-time": 1618530517966,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[marketing]]",
         "create-time": 1618140549014,
@@ -17669,6 +17841,18 @@
         }
       },
       {
+        "string": "www.[fabiao].net",
+        "create-time": 1618532025552,
+        "uid": "RQa5wzhV4",
+        "edit-time": 1618532029164,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "www.[[fortunechina]].com",
         "create-time": 1617656859670,
         ":block/refs": [
@@ -21641,17 +21825,17 @@
             ],
             "children": [
               {
-                "string": "[[central server]]",
+                "string": "((TW_PhQatz))",
                 "refs": [
                   {
-                    "uid": "2Nx7vvQQM"
+                    "uid": "TW_PhQatz"
                   }
                 ],
                 "uid": "VI5-mqdRP",
-                "edit-time": 1618457506220,
+                "edit-time": 1618533120983,
                 ":block/refs": [
                   {
-                    ":block/uid": "2Nx7vvQQM"
+                    ":block/uid": "TW_PhQatz"
                   }
                 ],
                 ":edit/user": {
@@ -21701,103 +21885,23 @@
         }
       },
       {
-        "string": "[[digital currency]]",
-        "refs": [
-          {
-            "uid": "TpzFr_v5B"
-          }
-        ],
-        "children": [
-          {
-            "string": "[[cryptocurrency]]",
-            "refs": [
-              {
-                "uid": "a-54S_XWz"
-              }
-            ],
-            "uid": "I8SATNqX4",
-            "edit-time": 1618457475414,
-            ":block/refs": [
-              {
-                ":block/uid": "a-54S_XWz"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "hjnOQFx4L",
-        "edit-time": 1618457478580,
+        "string": "[[currency]]",
+        "create-time": 1618530454117,
         ":block/refs": [
           {
-            ":block/uid": "TpzFr_v5B"
+            ":block/uid": "0Nhniw5sM"
           }
         ],
-        ":edit/user": {
+        "refs": [
+          {
+            "uid": "0Nhniw5sM"
+          }
+        ],
+        ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "digital payment",
-        "children": [
-          {
-            "string": "[[Alipay]]",
-            "refs": [
-              {
-                "uid": "Q0JtAtE2r"
-              }
-            ],
-            "uid": "ufkAbX4KM",
-            "edit-time": 1617705188675,
-            ":block/refs": [
-              {
-                ":block/uid": "Q0JtAtE2r"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[PayPal]]",
-            "refs": [
-              {
-                "uid": "aTuH-MKTe"
-              }
-            ],
-            "uid": "mOasjmeOz",
-            "edit-time": 1617705187394,
-            ":block/refs": [
-              {
-                ":block/uid": "aTuH-MKTe"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[gift card]]",
-            "refs": [
-              {
-                "uid": "y3rguGiPo"
-              }
-            ],
-            "uid": "N7B1v2Cpx",
-            "edit-time": 1617705186556,
-            ":block/refs": [
-              {
-                ":block/uid": "y3rguGiPo"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "KyHMSHkt9",
-        "edit-time": 1618457469893,
+        },
+        "uid": "CPd045qSS",
+        "edit-time": 1618530457072,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -21880,6 +21984,24 @@
         ":block/refs": [
           {
             ":block/uid": "sTLOYHGlv"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[payment]]",
+        "refs": [
+          {
+            "uid": "8TfczTfXa"
+          }
+        ],
+        "uid": "aKwe-ccCC",
+        "edit-time": 1618530416911,
+        ":block/refs": [
+          {
+            ":block/uid": "8TfczTfXa"
           }
         ],
         ":edit/user": {
@@ -22069,6 +22191,18 @@
     },
     "children": [
       {
+        "string": "chain all blocks together;",
+        "create-time": 1618532702237,
+        "uid": "itFa33oPY",
+        "edit-time": 1618532703760,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1618457484110,
         "children": [
           {
@@ -22135,6 +22269,72 @@
         }
       },
       {
+        "string": "[[decentralized]]",
+        "create-time": 1618532274023,
+        ":block/refs": [
+          {
+            ":block/uid": "ZuESqlFCu"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZuESqlFCu"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "8ZLxkOvEo",
+        "edit-time": 1618532284130,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[private blockchain]]; privatized blockchain",
+        "create-time": 1618530531479,
+        ":block/refs": [
+          {
+            ":block/uid": "XYUP6rQrV"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "XYUP6rQrV"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "6SKvFZj92",
+        "edit-time": 1618530540003,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[permissioned blockchain]]; permissionless blockchain",
+        "create-time": 1618532278714,
+        ":block/refs": [
+          {
+            ":block/uid": "SWOCX_SsK"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "SWOCX_SsK"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "sQrA0HIlf",
+        "edit-time": 1618532282929,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "---",
         "create-time": 1617932974352,
         "uid": "IMW29vdac",
@@ -22147,213 +22347,453 @@
         }
       },
       {
-        "string": "__For other uses, see __[Block chain (disambiguation)]__.__",
-        "create-time": 1617932975203,
-        "uid": "NB9T5ICtv",
-        "edit-time": 1617932982069,
+        "string": "Abstract",
+        "create-time": 1618533607473,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "edit-time": 1618455195112,
         "children": [
           {
-            "string": "For use as a [[distributed ledger]], a blockchain is typically managed by a [[peer-to-peer network]] collectively adhering to a protocol for [[inter-node communication]] and [validating new blocks](((7vTyTc_te))). Although [blockchain records] are not [unalterable](((WW09DE9zv))), blockchains [may be considered secure by design] and exemplify a [[distributed computing system]] with high [[Byzantine fault tolerance]]. The blockchain [has been described as] \"an open, distributed ledger that can [record transactions between two parties](((BH8oN2bZF))) efficiently and in a [verifiable](((WjxKEuSQe))) and permanent way\".[5]\n210415-11:16",
-            "create-time": 1617932993280,
-            ":block/refs": [
+            "string": "__For other uses, see __[Block chain (disambiguation)]__.__",
+            "create-time": 1617932975203,
+            "uid": "NB9T5ICtv",
+            "edit-time": 1617932982069,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1618533234300,
+            "children": [
               {
-                ":block/uid": "3c5_x5O21"
-              },
-              {
-                ":block/uid": "1VH5d7J0Q"
-              },
-              {
-                ":block/uid": "uY-eOYz0d"
-              },
-              {
-                ":block/uid": "EzHyZFV8W"
-              },
-              {
-                ":block/uid": "cgfP_hleH"
-              },
-              {
-                ":block/uid": "WW09DE9zv"
-              },
-              {
-                ":block/uid": "WjxKEuSQe"
-              },
-              {
-                ":block/uid": "BH8oN2bZF"
-              },
-              {
-                ":block/uid": "7vTyTc_te"
+                "string": "For use as a [[distributed ledger]], a blockchain is typically managed by a [[peer-to-peer network]] collectively adhering to a protocol for [[inter-node communication]] and [validating new blocks](((7vTyTc_te))). Although [blockchain records] are not [unalterable](((WW09DE9zv))), blockchains [may be considered secure by design] and exemplify a [[distributed computing system]] with high [[Byzantine fault tolerance]]. The blockchain [has been described as] \"an open, distributed ledger that can [record transactions between two parties](((BH8oN2bZF))) efficiently and in a [verifiable](((WjxKEuSQe))) and permanent way\".[5]\n210415-11:16",
+                "create-time": 1617932993280,
+                ":block/refs": [
+                  {
+                    ":block/uid": "3c5_x5O21"
+                  },
+                  {
+                    ":block/uid": "1VH5d7J0Q"
+                  },
+                  {
+                    ":block/uid": "uY-eOYz0d"
+                  },
+                  {
+                    ":block/uid": "EzHyZFV8W"
+                  },
+                  {
+                    ":block/uid": "cgfP_hleH"
+                  },
+                  {
+                    ":block/uid": "WW09DE9zv"
+                  },
+                  {
+                    ":block/uid": "WjxKEuSQe"
+                  },
+                  {
+                    ":block/uid": "BH8oN2bZF"
+                  },
+                  {
+                    ":block/uid": "7vTyTc_te"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "3c5_x5O21"
+                  },
+                  {
+                    "uid": "1VH5d7J0Q"
+                  },
+                  {
+                    "uid": "uY-eOYz0d"
+                  },
+                  {
+                    "uid": "EzHyZFV8W"
+                  },
+                  {
+                    "uid": "cgfP_hleH"
+                  },
+                  {
+                    "uid": "WW09DE9zv"
+                  },
+                  {
+                    "uid": "WjxKEuSQe"
+                  },
+                  {
+                    "uid": "BH8oN2bZF"
+                  },
+                  {
+                    "uid": "7vTyTc_te"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Qmxpaol1g",
+                "edit-time": 1618456783510,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
               {
-                "uid": "3c5_x5O21"
+                "uid": "R2EH_axEI"
               },
               {
-                "uid": "1VH5d7J0Q"
+                "uid": "V7NdyvQzz"
               },
               {
-                "uid": "uY-eOYz0d"
+                "uid": "bg77NjTLQ"
               },
               {
-                "uid": "EzHyZFV8W"
+                "uid": "DAYgm9VzZ"
               },
               {
-                "uid": "cgfP_hleH"
+                "uid": "3xUwlrviq"
               },
               {
-                "uid": "WW09DE9zv"
+                "uid": "jftJYUko-"
               },
               {
-                "uid": "WjxKEuSQe"
-              },
-              {
-                "uid": "BH8oN2bZF"
-              },
-              {
-                "uid": "7vTyTc_te"
+                "uid": "mqHCXxphE"
               }
             ],
+            "uid": "coCXFW7fi",
+            ":block/refs": [
+              {
+                ":block/uid": "R2EH_axEI"
+              },
+              {
+                ":block/uid": "V7NdyvQzz"
+              },
+              {
+                ":block/uid": "bg77NjTLQ"
+              },
+              {
+                ":block/uid": "DAYgm9VzZ"
+              },
+              {
+                ":block/uid": "3xUwlrviq"
+              },
+              {
+                ":block/uid": "jftJYUko-"
+              },
+              {
+                ":block/uid": "mqHCXxphE"
+              }
+            ],
+            "string": "A blockchain is [a growing list of records], called blocks, that are linked using [[cryptography]].[1][2][3][4] Each block contains a [[cryptographic hash]] of the previous block,[4] a timestamp, and [[transaction data]] (generally represented as a [[Merkle tree]]). By design, a blockchain is resistant to [modification of its data](((mqHCXxphE))). This is because [once recorded](((jftJYUko-))), [the data in any given block] cannot be [altered retroactively](((3xUwlrviq))) 追溯性改变 without [alteration of all subsequent blocks].\n(改变任意数据块时，必须同时变更它所依赖的相邻块)\n210415-10:51",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "Qmxpaol1g",
-            "edit-time": 1618456783510,
+            "create-time": 1617932994400,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1618530235868,
+            "children": [
+              {
+                "string": "[Private blockchains]([[private blockchain]]) [have been proposed for] [[business use]] but __Computerworld__ [called](https://en.wiktionary.org/wiki/snake_oil) the marketing of such [privatized blockchains](((6SKvFZj92))) without a proper [[security model]] \"[[snake oil]]\".[7] However, others have argued that [[permissioned blockchain]]s, if [carefully designed], may be [more decentralized]([[decentralized]]) and therefore [secure in practice than] [permissionless ones](((sQrA0HIlf))).[4][8]\n210415-11:30, 210416-07:48\n(实现了数字货币交易的去中心化服务器与去中心化监管--私有化区块链-安全模型-授予权限许可的-是否更加地去中心化)",
+                "create-time": 1617932989450,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ez_XQFRr7"
+                  },
+                  {
+                    ":block/uid": "XYUP6rQrV"
+                  },
+                  {
+                    ":block/uid": "bEh8bIzu3"
+                  },
+                  {
+                    ":block/uid": "JaDB8vQNc"
+                  },
+                  {
+                    ":block/uid": "SWOCX_SsK"
+                  },
+                  {
+                    ":block/uid": "ZuESqlFCu"
+                  },
+                  {
+                    ":block/uid": "6SKvFZj92"
+                  },
+                  {
+                    ":block/uid": "sQrA0HIlf"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Ez_XQFRr7"
+                  },
+                  {
+                    "uid": "XYUP6rQrV"
+                  },
+                  {
+                    "uid": "bEh8bIzu3"
+                  },
+                  {
+                    "uid": "JaDB8vQNc"
+                  },
+                  {
+                    "uid": "SWOCX_SsK"
+                  },
+                  {
+                    "uid": "ZuESqlFCu"
+                  },
+                  {
+                    "uid": "6SKvFZj92"
+                  },
+                  {
+                    "uid": "sQrA0HIlf"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ZFLtvOq8P",
+                "edit-time": 1618532290462,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[Bitcoin blockchain structure](https://en.wikipedia.org/wiki/File:Bitcoin_Block_Data.svg)",
+                "create-time": 1618532333625,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "![blockchain-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fd6sKWeSNoo.png?alt=media&token=119908d1-1bde-483e-95c4-386e3f2a6e10)",
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fd6sKWeSNoo.png?alt=media&token=119908d1-1bde-483e-95c4-386e3f2a6e10": {
+                          "width": 531,
+                          "height": null
+                        }
+                      }
+                    },
+                    "create-time": 1618532370362,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fd6sKWeSNoo.png?alt=media&token=119908d1-1bde-483e-95c4-386e3f2a6e10": {
+                          ":width": 531,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "qWxg9hXfu",
+                    "edit-time": 1618532392340,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "edit-time": 1618532462817,
+                    "children": [
+                      {
+                        "string": "Prev_Hash: [[hash value]] of previous block. The purpose is to [chain all blocks together](((itFa33oPY))).",
+                        "refs": [
+                          {
+                            "uid": "1LSBPuMWL"
+                          },
+                          {
+                            "uid": "itFa33oPY"
+                          }
+                        ],
+                        "uid": "856h70MpR",
+                        "edit-time": 1618532711406,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "1LSBPuMWL"
+                          },
+                          {
+                            ":block/uid": "itFa33oPY"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Tx_root: [root hash value] of a [[hash tree]] ([w:merkle tree](https://en.wikipedia.org/wiki/merkle_tree)) over all [[transaction]]s.",
+                        "refs": [
+                          {
+                            "uid": "PJ98WaOSk"
+                          },
+                          {
+                            "uid": "ByEXHGA3B"
+                          }
+                        ],
+                        "uid": "nvB3yFHk-",
+                        "edit-time": 1618532734209,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "PJ98WaOSk"
+                          },
+                          {
+                            ":block/uid": "ByEXHGA3B"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[Timestamp]([[timestamp]]): [[creation time]] of block, as seen by [block creator]. The timestamp is [checked by other clients]([[client]]) and [must be within a certain window] 必须在特定窗口内 (tolerates small clock skews). 允许小的时钟偏移\n210416-08:31",
+                        "refs": [
+                          {
+                            "uid": "CkVP9fLND"
+                          },
+                          {
+                            "uid": "hMbOtlYBZ"
+                          },
+                          {
+                            "uid": "QIishGxcP"
+                          }
+                        ],
+                        "uid": "Y9ReDMlsp",
+                        "edit-time": 1618533244269,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "CkVP9fLND"
+                          },
+                          {
+                            ":block/uid": "hMbOtlYBZ"
+                          },
+                          {
+                            ":block/uid": "QIishGxcP"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Nonce: any number to make sure [the resulting hash value of this block] is [below the target hash value]. The Nonce is [a 32 bit number] and the [2^32 number space] is [exhausted during mining] [within less than a second].",
+                        "uid": "vyjBj1C-K",
+                        "edit-time": 1618533486186,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "The transactions (Tx0, Tx1, ...) are [appended to the block]. The [first transaction] [generates new bitcoins] and contains the __coinbase__ field which includes an extraNonce to [provide a larger search space for] [valid block hash values].",
+                        "uid": "GCzT7PJlH",
+                        "edit-time": 1618533534818,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "JBGvMwcKl"
+                      }
+                    ],
+                    "uid": "DYu5MWmv0",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JBGvMwcKl"
+                      }
+                    ],
+                    "string": "Graphic of [[data field]]s in [Bitcoin block chain]. [Simplified depiction]: some fields are missing.\n210416-08:20",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1618532420232,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "ULMqSROle",
+                "edit-time": 1618532403953,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7gemYrXI6"
+              },
+              {
+                "uid": "f2C-dk6i7"
+              },
+              {
+                "uid": "aUlROwUuF"
+              },
+              {
+                "uid": "a-54S_XWz"
+              },
+              {
+                "uid": "TpzFr_v5B"
+              },
+              {
+                "uid": "Uf8InFwMV"
+              },
+              {
+                "uid": "2Nx7vvQQM"
+              },
+              {
+                "uid": "x3REZJBA5"
+              },
+              {
+                "uid": "BLDiW9XeA"
+              }
+            ],
+            "uid": "g1gCF0cY5",
+            ":block/refs": [
+              {
+                ":block/uid": "7gemYrXI6"
+              },
+              {
+                ":block/uid": "f2C-dk6i7"
+              },
+              {
+                ":block/uid": "aUlROwUuF"
+              },
+              {
+                ":block/uid": "a-54S_XWz"
+              },
+              {
+                ":block/uid": "TpzFr_v5B"
+              },
+              {
+                ":block/uid": "Uf8InFwMV"
+              },
+              {
+                ":block/uid": "2Nx7vvQQM"
+              },
+              {
+                ":block/uid": "x3REZJBA5"
+              },
+              {
+                ":block/uid": "BLDiW9XeA"
+              }
+            ],
+            "string": "The blockchain was invented by a person (or [group of people]) using the name [[Satoshi Nakamoto]] in 2008 to serve as the [[public transaction ledger]] of the [[cryptocurrency]] [[bitcoin (BTC)]].[3] The identity of Satoshi Nakamoto [remains unknown to date]. The invention of the blockchain for bitcoin made it the first [[digital currency]] to [solve the double-spending problem]([[double-spending problem]]) [without the need of] a [[trusted authority]] or [[central server]]. The bitcoin design has [inspired other applications][3][2] and blockchains that are [readable by the public] and are [widely used by cryptocurrencies]. The blockchain is considered a type of [[payment rail]].[6] ",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618530235868,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "refs": [
-          {
-            "uid": "R2EH_axEI"
-          },
-          {
-            "uid": "V7NdyvQzz"
-          },
-          {
-            "uid": "CkVP9fLND"
-          },
-          {
-            "uid": "bg77NjTLQ"
-          },
-          {
-            "uid": "DAYgm9VzZ"
-          },
-          {
-            "uid": "3xUwlrviq"
-          },
-          {
-            "uid": "jftJYUko-"
-          },
-          {
-            "uid": "mqHCXxphE"
-          }
-        ],
-        "uid": "coCXFW7fi",
-        ":block/refs": [
-          {
-            ":block/uid": "R2EH_axEI"
-          },
-          {
-            ":block/uid": "V7NdyvQzz"
-          },
-          {
-            ":block/uid": "CkVP9fLND"
-          },
-          {
-            ":block/uid": "bg77NjTLQ"
-          },
-          {
-            ":block/uid": "DAYgm9VzZ"
-          },
-          {
-            ":block/uid": "3xUwlrviq"
-          },
-          {
-            ":block/uid": "jftJYUko-"
-          },
-          {
-            ":block/uid": "mqHCXxphE"
-          }
-        ],
-        "string": "A blockchain is [a growing list of records], called blocks, that are linked using [[cryptography]].[1][2][3][4] Each block contains a [[cryptographic hash]] of the previous block,[4] a [[timestamp]], and [[transaction data]] (generally represented as a [[Merkle tree]]). By design, a blockchain is resistant to [modification of its data](((mqHCXxphE))). This is because [once recorded](((jftJYUko-))), [the data in any given block] cannot be [altered retroactively](((3xUwlrviq))) 追溯性改变 without [alteration of all subsequent blocks].\n(改变任意数据块时，必须同时变更它所依赖的相邻块)\n210415-10:51",
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "create-time": 1617932994400,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "The blockchain was invented by a person (or [group of people]) using the name [[Satoshi Nakamoto]] in 2008 to serve as the [[public transaction ledger]] of the [[cryptocurrency]] [[bitcoin (BTC)]].[3] The identity of Satoshi Nakamoto [remains unknown to date]. The invention of the blockchain for bitcoin made it the first [[digital currency]] to [solve the double-spending problem]([[double-spending problem]]) [without the need of] a [[trusted authority]] or [[central server]]. The bitcoin design has inspired other applications[3][2] and blockchains that are readable by the public and are widely used by cryptocurrencies. The blockchain is considered a type of payment rail.[6] Private blockchains have been proposed for business use but Computerworld called the marketing of such privatized blockchains without a proper security model \"snake oil\".[7] However, others have argued that permissioned blockchains, if carefully designed, may be more decentralized and therefore secure in practice than permissionless ones.[4][8]\n210415-11:30\n(实现了数字货币交易的去中心化服务器与去中心化监管)",
-        "create-time": 1617932989450,
-        ":block/refs": [
-          {
-            ":block/uid": "7gemYrXI6"
-          },
-          {
-            ":block/uid": "f2C-dk6i7"
-          },
-          {
-            ":block/uid": "aUlROwUuF"
-          },
-          {
-            ":block/uid": "a-54S_XWz"
-          },
-          {
-            ":block/uid": "TpzFr_v5B"
-          },
-          {
-            ":block/uid": "Uf8InFwMV"
-          },
-          {
-            ":block/uid": "2Nx7vvQQM"
-          },
-          {
-            ":block/uid": "x3REZJBA5"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "7gemYrXI6"
-          },
-          {
-            "uid": "f2C-dk6i7"
-          },
-          {
-            "uid": "aUlROwUuF"
-          },
-          {
-            "uid": "a-54S_XWz"
-          },
-          {
-            "uid": "TpzFr_v5B"
-          },
-          {
-            "uid": "Uf8InFwMV"
-          },
-          {
-            "uid": "2Nx7vvQQM"
-          },
-          {
-            "uid": "x3REZJBA5"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "ZFLtvOq8P",
-        "edit-time": 1618457580068,
+        "uid": "1SiBX7jkp",
+        "edit-time": 1618533610631,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -29912,24 +30352,6 @@
         }
       },
       {
-        "string": "[[cryptographic hash]]",
-        "refs": [
-          {
-            "uid": "V7NdyvQzz"
-          }
-        ],
-        "uid": "0DDFOM4gJ",
-        "edit-time": 1618455094422,
-        ":block/refs": [
-          {
-            ":block/uid": "V7NdyvQzz"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "[[ledger]]",
         "refs": [
           {
@@ -29948,17 +30370,63 @@
         }
       },
       {
-        "string": "[[Merkle tree]]",
+        "string": "[[Merkle tree]]; [[hash tree]]",
         "refs": [
           {
             "uid": "DAYgm9VzZ"
+          },
+          {
+            "uid": "PJ98WaOSk"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[hash value]]",
+            "refs": [
+              {
+                "uid": "1LSBPuMWL"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[cryptographic hash]]",
+                "refs": [
+                  {
+                    "uid": "V7NdyvQzz"
+                  }
+                ],
+                "uid": "R6N-MC17J",
+                "edit-time": 1618532617893,
+                ":block/refs": [
+                  {
+                    ":block/uid": "V7NdyvQzz"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "c4Kgdefzd",
+            "edit-time": 1618532619123,
+            ":block/refs": [
+              {
+                ":block/uid": "1LSBPuMWL"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "l2ndH-1O9",
-        "edit-time": 1618455093172,
+        "edit-time": 1618532791366,
         ":block/refs": [
           {
             ":block/uid": "DAYgm9VzZ"
+          },
+          {
+            ":block/uid": "PJ98WaOSk"
           }
         ],
         ":edit/user": {
@@ -29984,17 +30452,39 @@
         }
       },
       {
-        "string": "[[timestamp]]",
+        "string": "[[security model]]",
+        "create-time": 1618530596001,
+        ":block/refs": [
+          {
+            ":block/uid": "bEh8bIzu3"
+          }
+        ],
         "refs": [
           {
-            "uid": "CkVP9fLND"
+            "uid": "bEh8bIzu3"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "8cSi41YWl",
+        "edit-time": 1618530598688,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((w22RCmahh))",
+        "refs": [
+          {
+            "uid": "w22RCmahh"
           }
         ],
         "uid": "Pqaqhs8F_",
-        "edit-time": 1618455092263,
+        "edit-time": 1618533368451,
         ":block/refs": [
           {
-            ":block/uid": "CkVP9fLND"
+            ":block/uid": "w22RCmahh"
           }
         ],
         ":edit/user": {
@@ -30002,33 +30492,23 @@
         }
       },
       {
-        "string": "[[transaction data]]",
-        "refs": [
-          {
-            "uid": "bg77NjTLQ"
-          }
-        ],
-        "children": [
-          {
-            "string": "record transactions between two parties: 记录双方之间的交易;",
-            "create-time": 1618456752813,
-            "uid": "BH8oN2bZF",
-            "edit-time": 1618456754186,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "zZSZbLLLj",
-        "edit-time": 1618455089773,
+        "string": "[[transaction]]",
+        "create-time": 1618532801550,
         ":block/refs": [
           {
-            ":block/uid": "bg77NjTLQ"
+            ":block/uid": "ByEXHGA3B"
           }
         ],
+        "refs": [
+          {
+            "uid": "ByEXHGA3B"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "txDgmB1Eh",
+        "edit-time": 1618532813784,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -35387,14 +35867,6 @@
             }
           },
           {
-            "string": "",
-            "uid": "WJRRn6ig5",
-            "edit-time": 1618456733777,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
             "string": "[[peer-to-peer network]]",
             "refs": [
               {
@@ -35553,6 +36025,24 @@
         ":block/refs": [
           {
             ":block/uid": "HY3jM5RYs"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[server]]",
+        "refs": [
+          {
+            "uid": "pRyHpQaVV"
+          }
+        ],
+        "uid": "JWdDIcyEj",
+        "edit-time": 1618533075955,
+        ":block/refs": [
+          {
+            ":block/uid": "pRyHpQaVV"
           }
         ],
         ":edit/user": {
@@ -39000,6 +39490,24 @@
     },
     "children": [
       {
+        "string": "[[advertisement]]; promotion advertisement",
+        "refs": [
+          {
+            "uid": "kkhyLZipm"
+          }
+        ],
+        "uid": "e-Zak6DVR",
+        "edit-time": 1618532189506,
+        ":block/refs": [
+          {
+            ":block/uid": "kkhyLZipm"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[price]]",
         "refs": [
           {
@@ -39755,6 +40263,64 @@
         },
         "uid": "6vxvpvVJG",
         "edit-time": 1618141318530,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "meta info?",
+        "children": [
+          {
+            "string": "time",
+            "children": [
+              {
+                "string": "[[timestamp]]",
+                "refs": [
+                  {
+                    "uid": "CkVP9fLND"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "[[creation time]]",
+                    "refs": [
+                      {
+                        "uid": "QIishGxcP"
+                      }
+                    ],
+                    "uid": "ms2RbTms-",
+                    "edit-time": 1618533358870,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "QIishGxcP"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "w22RCmahh",
+                "edit-time": 1618533360143,
+                ":block/refs": [
+                  {
+                    ":block/uid": "CkVP9fLND"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "JdOtZGcGJ",
+            "edit-time": 1618533351746,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "XPchJCvGp",
+        "edit-time": 1618533351746,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -42788,9 +43354,25 @@
         }
       },
       {
-        "string": "field: 域, 字段;",
+        "string": "[[field]]: 域, 字段; [[data field]]",
+        "refs": [
+          {
+            "uid": "JBGvMwcKl"
+          },
+          {
+            "uid": "wgCtOqiQL"
+          }
+        ],
         "uid": "k3hEVZTEZ",
-        "edit-time": 1618193084136,
+        "edit-time": 1618532875712,
+        ":block/refs": [
+          {
+            ":block/uid": "JBGvMwcKl"
+          },
+          {
+            ":block/uid": "wgCtOqiQL"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -43224,158 +43806,6 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
-    ":edit/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    }
-  },
-  {
-    "create-time": 1618195237964,
-    "title": "Cascade Style Sheets (CSS)",
-    ":create/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    },
-    "children": [
-      {
-        "string": "apps...",
-        "children": [
-          {
-            "string": "[[Stylish]]",
-            "refs": [
-              {
-                "uid": "B8XHPBmSZ"
-              }
-            ],
-            "uid": "od1-SYYB-",
-            "edit-time": 1618195265019,
-            ":block/refs": [
-              {
-                ":block/uid": "B8XHPBmSZ"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "((JF8V2mE5M))",
-            "refs": [
-              {
-                "uid": "JF8V2mE5M"
-              }
-            ],
-            "uid": "hJtzKdEk1",
-            "edit-time": 1618195259948,
-            ":block/refs": [
-              {
-                ":block/uid": "JF8V2mE5M"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "69a3v1vti",
-        "edit-time": 1618195246307,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "background image",
-        "uid": "-mZ_dLPzG",
-        "edit-time": 1618195275324,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "import css",
-        "uid": "fCizMk_EL",
-        "edit-time": 1618195275324,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "((uyO1X_fao))",
-        "create-time": 1618195292318,
-        ":block/refs": [
-          {
-            ":block/uid": "uyO1X_fao"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "uyO1X_fao"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "WV7O6h02w",
-        "edit-time": 1618195293218,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "page container",
-        "children": [
-          {
-            "string": "block container",
-            "uid": "YENOqhpnp",
-            "edit-time": 1618195304030,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "m0iCj_FvB",
-        "edit-time": 1618195304030,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "[[selector]]",
-        "refs": [
-          {
-            "uid": "F7muB90By"
-          }
-        ],
-        "uid": "G5dwaGdGD",
-        "edit-time": 1618195422275,
-        ":block/refs": [
-          {
-            ":block/uid": "F7muB90By"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "width",
-        "children": [
-          {
-            "string": "max width;",
-            "uid": "jhtSJIxXP",
-            "edit-time": 1618195304030,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "_RUtd4vmZ",
-        "edit-time": 1618195304030,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      }
-    ],
-    "uid": "N2G_3czyG",
-    "edit-time": 1618195237965,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -50993,6 +51423,572 @@
     "title": "double-spending problem",
     "uid": "x3REZJBA5",
     "edit-time": 1618457240032,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618529856468,
+    "title": "payment rail",
+    "uid": "BLDiW9XeA",
+    "edit-time": 1618529856469,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530043091,
+    "title": "business use",
+    "uid": "Ez_XQFRr7",
+    "edit-time": 1618530043096,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530101110,
+    "title": "private blockchain",
+    "uid": "XYUP6rQrV",
+    "edit-time": 1618530101113,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530106214,
+    "title": "security model",
+    "uid": "bEh8bIzu3",
+    "edit-time": 1618530106217,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530158983,
+    "title": "snake oil",
+    "uid": "JaDB8vQNc",
+    "edit-time": 1618530158986,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530212758,
+    "title": "permissioned blockchain",
+    "uid": "SWOCX_SsK",
+    "edit-time": 1618530212761,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530259566,
+    "title": "decentralized",
+    "uid": "ZuESqlFCu",
+    "edit-time": 1618530259568,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530416914,
+    "title": "payment",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "digital payment",
+        "children": [
+          {
+            "string": "[[Alipay]]",
+            "refs": [
+              {
+                "uid": "Q0JtAtE2r"
+              }
+            ],
+            "uid": "ufkAbX4KM",
+            "edit-time": 1617705188675,
+            ":block/refs": [
+              {
+                ":block/uid": "Q0JtAtE2r"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[PayPal]]",
+            "refs": [
+              {
+                "uid": "aTuH-MKTe"
+              }
+            ],
+            "uid": "mOasjmeOz",
+            "edit-time": 1617705187394,
+            ":block/refs": [
+              {
+                ":block/uid": "aTuH-MKTe"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[gift card]]",
+            "refs": [
+              {
+                "uid": "y3rguGiPo"
+              }
+            ],
+            "uid": "N7B1v2Cpx",
+            "edit-time": 1617705186556,
+            ":block/refs": [
+              {
+                ":block/uid": "y3rguGiPo"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "KyHMSHkt9",
+        "edit-time": 1618457469893,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[payment rail]]",
+        "refs": [
+          {
+            "uid": "BLDiW9XeA"
+          }
+        ],
+        "uid": "Q-oudGoQY",
+        "edit-time": 1618530413672,
+        ":block/refs": [
+          {
+            ":block/uid": "BLDiW9XeA"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "8TfczTfXa",
+    "edit-time": 1618530416914,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618530457073,
+    "title": "currency",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[digital currency]]",
+        "refs": [
+          {
+            "uid": "TpzFr_v5B"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[cryptocurrency]]",
+            "refs": [
+              {
+                "uid": "a-54S_XWz"
+              }
+            ],
+            "uid": "I8SATNqX4",
+            "edit-time": 1618457475414,
+            ":block/refs": [
+              {
+                ":block/uid": "a-54S_XWz"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hjnOQFx4L",
+        "edit-time": 1618457478580,
+        ":block/refs": [
+          {
+            ":block/uid": "TpzFr_v5B"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "0Nhniw5sM",
+    "edit-time": 1618530457074,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532176285,
+    "title": "advertisement",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[snake oil]]: 推销者的所谓“万应灵药”, 毫无用处的推销品;",
+        "refs": [
+          {
+            "uid": "JaDB8vQNc"
+          }
+        ],
+        "uid": "BA09hrGS6",
+        "edit-time": 1618532197248,
+        ":block/refs": [
+          {
+            ":block/uid": "JaDB8vQNc"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "kkhyLZipm",
+    "edit-time": 1618532176286,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532448591,
+    "title": "data field",
+    "uid": "JBGvMwcKl",
+    "edit-time": 1618532448592,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532490045,
+    "title": "hash value",
+    "uid": "1LSBPuMWL",
+    "edit-time": 1618532490046,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532587513,
+    "title": "information security",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[cryptography]]",
+        "create-time": 1617933037527,
+        ":block/refs": [
+          {
+            ":block/uid": "R2EH_axEI"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "R2EH_axEI"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "PjcAmhrBK",
+        "edit-time": 1617933040292,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "932j29Avx",
+    "edit-time": 1618532587514,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532734211,
+    "title": "hash tree",
+    "uid": "PJ98WaOSk",
+    "edit-time": 1618532734212,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532734211,
+    "title": "transaction",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[transaction data]]",
+        "refs": [
+          {
+            "uid": "bg77NjTLQ"
+          }
+        ],
+        "children": [
+          {
+            "string": "record transactions between two parties: 记录双方之间的交易;",
+            "create-time": 1618456752813,
+            "uid": "BH8oN2bZF",
+            "edit-time": 1618456754186,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "zZSZbLLLj",
+        "edit-time": 1618455089773,
+        ":block/refs": [
+          {
+            ":block/uid": "bg77NjTLQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ByEXHGA3B",
+    "edit-time": 1618532734212,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532875714,
+    "title": "field",
+    "uid": "wgCtOqiQL",
+    "edit-time": 1618532875715,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618532959574,
+    "title": "client",
+    "uid": "hMbOtlYBZ",
+    "edit-time": 1618532959575,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618533075958,
+    "title": "server",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[central server]]",
+        "refs": [
+          {
+            "uid": "2Nx7vvQQM"
+          }
+        ],
+        "uid": "TW_PhQatz",
+        "edit-time": 1618533111626,
+        ":block/refs": [
+          {
+            ":block/uid": "2Nx7vvQQM"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[client]]",
+        "refs": [
+          {
+            "uid": "hMbOtlYBZ"
+          }
+        ],
+        "uid": "tFbMhZeCh",
+        "edit-time": 1618533130408,
+        ":block/refs": [
+          {
+            ":block/uid": "hMbOtlYBZ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[host]]",
+        "refs": [
+          {
+            "uid": "MZfDsHykN"
+          }
+        ],
+        "children": [
+          {
+            "string": "localhost",
+            "uid": "8YO6utSAt",
+            "edit-time": 1618533071069,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "gLP3DoYuM",
+        "edit-time": 1618533129064,
+        ":block/refs": [
+          {
+            ":block/uid": "MZfDsHykN"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "server-based application",
+        "uid": "lJnk_9EjA",
+        "edit-time": 1618533071069,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[server port]]",
+        "refs": [
+          {
+            "uid": "v9EgBsuvN"
+          }
+        ],
+        "uid": "4e3L8p6c7",
+        "edit-time": 1618533134735,
+        ":block/refs": [
+          {
+            ":block/uid": "v9EgBsuvN"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "servlet",
+        "uid": "lRjr8d6Q8",
+        "edit-time": 1618533071069,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "pRyHpQaVV",
+    "edit-time": 1618533075958,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618533129065,
+    "title": "host",
+    "uid": "MZfDsHykN",
+    "edit-time": 1618533129066,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618533134737,
+    "title": "server port",
+    "uid": "v9EgBsuvN",
+    "edit-time": 1618533134737,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618533211828,
+    "title": "creation time",
+    "uid": "QIishGxcP",
+    "edit-time": 1618533211829,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618537551654,
+    "title": "April 16th, 2021",
+    "uid": "04-16-2021",
+    "edit-time": 1618537551654,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
