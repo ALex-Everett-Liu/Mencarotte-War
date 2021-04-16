@@ -11,6 +11,7 @@
 - [[cosmological constant]]
     - diffuse uniform energy: 弥散的均匀的能量 
 - [[cosmic microwave background radiation (CBR)]]
+- measure problem of cosmology
 - [[quantum cosmology]]
 - [[universe]]
     - the amount of matter in the universe; material content; matter content

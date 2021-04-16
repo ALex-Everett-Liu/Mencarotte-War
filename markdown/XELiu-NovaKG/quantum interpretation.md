@@ -3,6 +3,7 @@
     - orthodox position; orthodox interpretation
 - [[hidden variable]]
 - [[many worlds interpretation (MWI)]]
+    - [[multiverse]]
 - statistical interpretation; Born’s statistical interpretation
     - [[indeterminacy]]; [[quantum indeterminacy]]
     - possible results

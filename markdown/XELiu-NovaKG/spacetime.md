@@ -4,6 +4,7 @@
     - Newtonian worldview
 - a discrete structure of space
 - [[empty space]]
+    - empty universe
     - existential; [[existential philosophy]]
     - [[relationist position]]: 关系论
         - [[independent existence]]; independent reality; relative

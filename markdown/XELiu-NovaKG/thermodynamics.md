@@ -3,7 +3,7 @@
 - radiative distribution of entropy
 - [[temperature]]
 - [[thermal equilibrium]]
-    - [[random fluctuation]]
+    - [[random fluctuation]]; [[thermal fluctuation]]
     - [[thermodynamic equilibrium]]; [[thermodynamic equilibrium state]]
 - 热力学三定律
     - absolute zero

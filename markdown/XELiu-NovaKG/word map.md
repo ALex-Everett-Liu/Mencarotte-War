@@ -89,6 +89,15 @@
                         - conversant; conversable
                     - convince
                         - convinced;
+        - cr
+            - crime, 2
+                - criminal; criminate
+                    - discriminate
+                        - indiscriminately;
+            - critic
+                - criteria
+                    - criterion;
+                - criticism;
     - d
         - de
             - demonstrate, 2
@@ -257,6 +266,15 @@
                 - province
     - r
         - re
+            - rel
+                - relate
+                    - correlate
+                        - correlated;
+                    - relating; relative, 2;
+                    - relevant
+                        - relevance: 相关性, 关联性, 适用度;
+                - relay
+                    - relaying;
             - res
                 - reside, 2
                     - resident;
