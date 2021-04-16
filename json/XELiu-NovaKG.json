@@ -53832,6 +53832,18 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "[八王之乱（5）](https://www.bilibili.com/video/BV1sy4y1H7CA)",
+                "create-time": 1618578426614,
+                "uid": "y9WGWj8_n",
+                "edit-time": 1618578433278,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -53911,7 +53923,12 @@
         "edit-time": 1618575819524,
         "children": [
           {
-            "string": "再翻一下她的 lindedin：出生北京，大概童年青少年也是[在国内]；然后到美帝求学，在[加大LA分校]读传媒读公关[学乐器演奏]，又到[哥大]读新闻学的研究生（怎么老是你啊哥大），算是[精英水平]。",
+            "string": "再翻一下她的 lindedin：出生北京，大概童年青少年也是[在国内]；然后到美帝求学，在[加大LA分校]读传媒读公关[学乐器演奏]，又到[哥大]读新闻学的研究生（怎么老是你啊哥大），算是[精英水平]。 #pt9-100",
+            "refs": [
+              {
+                "uid": "S41onlg92"
+              }
+            ],
             "children": [
               {
                 "string": "做过电台做过[校报主编]做过[网站记者]，现在是[日经亚洲]的记者，算是职场里[杀出一条血路]。",
@@ -53951,7 +53968,12 @@
               }
             ],
             "uid": "T9aPhrc_q",
-            "edit-time": 1618575876928,
+            "edit-time": 1618578414291,
+            ":block/refs": [
+              {
+                ":block/uid": "S41onlg92"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
