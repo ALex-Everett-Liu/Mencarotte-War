@@ -2,7 +2,8 @@
     - insulated enclosure
 - radiative distribution of entropy
 - [[temperature]]
-- thermal equilibrium
-    - thermodynamic equilibrium; thermodynamic equilibrium state
+- [[thermal equilibrium]]
+    - [[random fluctuation]]
+    - [[thermodynamic equilibrium]]; [[thermodynamic equilibrium state]]
 - 热力学三定律
     - absolute zero

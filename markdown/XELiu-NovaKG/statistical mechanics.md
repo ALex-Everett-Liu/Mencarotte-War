@@ -1,1 +1,4 @@
+- [[Boltzmann brain]]
+    - [[Ludwig Boltzmann]]
+- [[entropy]]
 - statistical interpretation

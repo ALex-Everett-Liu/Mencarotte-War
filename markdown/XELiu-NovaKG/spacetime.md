@@ -15,3 +15,5 @@
 - [[time arrow]]; time direction
     - asymmetry of time;
     - time-symmetric;
+- [[vacuum]]
+    - [[void]]

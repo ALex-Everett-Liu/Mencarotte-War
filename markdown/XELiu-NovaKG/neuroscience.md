@@ -1,5 +1,5 @@
-- [[brain science]]...
-    - human brain
+- [[brain science]]
+    - [[human brain]]
 - human interaction...
     - [[human voice]]
     - vision: 视觉

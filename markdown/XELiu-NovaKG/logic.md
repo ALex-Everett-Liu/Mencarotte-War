@@ -2,3 +2,4 @@
     - abstract noun
 - [[cognitive bias]]
 - [[heuristic]]
+- [[reductio ad absurdum]]: 归谬法, 反证法

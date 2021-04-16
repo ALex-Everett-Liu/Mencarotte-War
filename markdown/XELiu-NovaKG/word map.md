@@ -94,6 +94,17 @@
             - demonstrate, 2
                 - demo;
                 - demonstration;
+            - det
+                - detail
+                    - in-detail;
+                - detain
+                    - detained;
+                - deter
+                    - determine
+                    - deteriorate: 变坏, 恶化, 退化
+                        - After entering the warehouse, the stocks can [maintain quality] in a span and then begin to deteriorate. www.[fabiao].net
+                        - If you don't average about three swims a week you will lose your feel for the water and your technique will begin to deteriorate. www.[topswim].net
+                        - This suggests the impact of higher energy on headline inflation 高能源价格对总通胀水平的影响 and its indirect pass-through effects on core inflation may begin to deteriorate in the second half of 2011. blog.[tianya].cn
         - di
             - dictate, 2
                 - dictation;

@@ -10,4 +10,5 @@
     - [[experimental observation]]
     - [[observable consequence]]
 - outcome of the experiment
+- [[thought experiment]]
 - yield the value;
