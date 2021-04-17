@@ -1,4 +1,6 @@
 - [[alternative history]]
+- [[fantasy]]; fantasy setting
+    - [[Dungeons & Dragons (DnD)]]; [[DND]]
 - metropolis?
     - 
 - [[romance novel]]

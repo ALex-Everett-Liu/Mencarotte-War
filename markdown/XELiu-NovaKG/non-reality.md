@@ -1,3 +1,3 @@
-- fantasy; fantasy setting
+- [[fantasy]]; fantasy setting
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
 - [[science fiction]]

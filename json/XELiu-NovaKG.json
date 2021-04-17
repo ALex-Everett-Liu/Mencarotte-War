@@ -20551,11 +20551,7 @@
     },
     "children": [
       {
-        "string": "fantasy; fantasy setting",
-        "create-time": 1617923742719,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
+        "edit-time": 1618654262686,
         "children": [
           {
             "string": "[[Dungeons & Dragons (DnD)]]; [[DND]]",
@@ -20586,8 +20582,22 @@
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "67CE9sLHG"
+          }
+        ],
         "uid": "hoHdOIufs",
-        "edit-time": 1617923743767,
+        ":block/refs": [
+          {
+            ":block/uid": "67CE9sLHG"
+          }
+        ],
+        "string": "[[fantasy]]; fantasy setting",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617923742719,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -26923,6 +26933,52 @@
         }
       },
       {
+        "edit-time": 1618654179691,
+        "children": [
+          {
+            "string": "((FqwGWAb1G))",
+            "create-time": 1618654184437,
+            ":block/refs": [
+              {
+                ":block/uid": "FqwGWAb1G"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "FqwGWAb1G"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "WMCmI-KXn",
+            "edit-time": 1618654185883,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hoHdOIufs"
+          }
+        ],
+        "uid": "4uS2D-aK4",
+        ":block/refs": [
+          {
+            ":block/uid": "hoHdOIufs"
+          }
+        ],
+        "string": "((hoHdOIufs))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618654178780,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "metropolis?",
         "create-time": 1617735747790,
         ":create/user": {
@@ -30911,6 +30967,24 @@
         }
       },
       {
+        "string": "[[Dungeons & Dragons: Master's Guide]]",
+        "refs": [
+          {
+            "uid": "lQmQ1B6yJ"
+          }
+        ],
+        "uid": "6DNuQZcdr",
+        "edit-time": 1618547490821,
+        ":block/refs": [
+          {
+            ":block/uid": "lQmQ1B6yJ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "((EYOPyPEXX))",
         "refs": [
           {
@@ -30949,19 +31023,55 @@
         }
       },
       {
-        "string": "[[Dungeons & Dragons: Master's Guide]]",
-        "refs": [
+        "string": "novel",
+        "create-time": 1618654206524,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
           {
-            "uid": "lQmQ1B6yJ"
+            "string": "{{[[TODO]]}} [[费伦的影帝]] - 马库斯家的猫 著 #pt10-99.99",
+            "refs": [
+              {
+                "uid": "cgyryTwl0"
+              },
+              {
+                "uid": "qNKpYWTXC"
+              },
+              {
+                "uid": "tY3CYyij7"
+              }
+            ],
+            "children": [
+              {
+                "string": "小说原名《来自大冰原的传奇扮演者》",
+                "uid": "2xdVtRmi8",
+                "edit-time": 1618654215667,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "aTgG5_Ijs",
+            "edit-time": 1618654229999,
+            ":block/refs": [
+              {
+                ":block/uid": "cgyryTwl0"
+              },
+              {
+                ":block/uid": "qNKpYWTXC"
+              },
+              {
+                ":block/uid": "tY3CYyij7"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
-        "uid": "6DNuQZcdr",
-        "edit-time": 1618547490821,
-        ":block/refs": [
-          {
-            ":block/uid": "lQmQ1B6yJ"
-          }
-        ],
+        "uid": "6ahMxty2_",
+        "edit-time": 1618654208625,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -57203,6 +57313,302 @@
     "title": "spontaneous formation",
     "uid": "_sXxZOnX7",
     "edit-time": 1618652371992,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618654221889,
+    "title": "费伦的影帝",
+    "uid": "tY3CYyij7",
+    "edit-time": 1618654221889,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618654262689,
+    "title": "fantasy",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "novel",
+        "create-time": 1618654263982,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[历史的尘埃 (lishide chen'ai)]]",
+            "create-time": 1618655103317,
+            ":block/refs": [
+              {
+                ":block/uid": "SkUMVukpK"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "SkUMVukpK"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "q37hRBpgX",
+            "edit-time": 1618655116879,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Novel/亵渎 (Xiedu)]]",
+            "create-time": 1618654328273,
+            ":block/refs": [
+              {
+                ":block/uid": "_nVDHMNDD"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_nVDHMNDD"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "FjbB7QSJJ",
+            "edit-time": 1618654352004,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1618654272351,
+            "children": [
+              {
+                "string": "同样的[团灭结局]，如果[亵渎](((FjbB7QSJJ)))算烂尾，那恶魔人漫画本篇结尾可就是烂王之王了。另外看动漫的很多会接受不了亵渎的[真卑鄙主角]，特别是像NGA猴区和阿B那样的一大堆正值“黑深残都是中二小孩看的”的[大二病患者]。 #pt8-99.99",
+                "refs": [
+                  {
+                    "uid": "PdZWxhurI"
+                  },
+                  {
+                    "uid": "FjbB7QSJJ"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "个人感受，除了红楼梦外，亵渎是唯一一个给我“看他起高楼,看他宴宾客,看他楼塌了”感受的作品了，两者[艺术价值]有巨大鸿沟，但结尾[醍醐味]却是几分相似。亵渎之后可能烟男的中年生活过于滋润，锐气一泄再泄，观感直线下滑，近几年甚至可以说是个文笔高配版的三少土豆。",
+                    "uid": "6aRrzUhsf",
+                    "edit-time": 1618654276964,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "如果有朋友没看过亵渎，看前面那么多[负面评论]打消开坑念头的，我觉得大可不必。亵渎对日呆没什么门槛的，相伴相守的女主，一开始的高岭之花魔界公主，还有小恶魔的王国公主，男装丽人（安德罗妮，甚至是主播），都是非常日系的角色。",
+                    "children": [
+                      {
+                        "string": "前面大加鞭笞的杀伐果断，其实都是男主对利益相关的弱者杀伐果断，整部小说几次角色人格高光就有几次是男主为朋友的抉择。杀伐果断的本质是男主输不起，地位都是抱大腿，给别人当狗得来的，不像其他的角色背后有一个家族支持；每次结局也都是自己攒的本钱因为违抗了势力绝对的老大[直接清空砝码离场]。别的不说，男主辗转了小说中四个大势力，每个势力都因为自身权力基础而有组织结构的差异，就凭这一点作者的魄力，已经和烂大街的主角在一个势力里从幼儿园到大学要高明一个档次。",
+                        "uid": "iOCP7zHhJ",
+                        "edit-time": 1618654276964,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "漫区水平有高有低合理，看不起网文也是风气，网文作为大众娱乐有偏好更是正常。不过烟雨江南复旦大学科班出身，正儿八经做过新华社记者，这样的文字功底写出来的在网络有一定名气的作品，直接被有些人踩成不如日轻，不知道那些人是日语太好还是中文太差",
+                        "uid": "CNW1RECbB",
+                        "edit-time": 1618654276964,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "I-BQIzNAB",
+                    "edit-time": 1618654276964,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "看到现在，也没见人提，当年《亵渎》火的一个重要原因是引入并魔改了龙与地下城的很多设定，当年的龙与地下城还是一个[大热点](https://bbs.saraba1st.com/2b/thread-1957828-3-1.html)，游戏也不少，有熟悉感。\n到了《罪恶之城》，跟龙与地下城的关联就少很多，更多进入国内[自创世界]的西幻范畴。",
+                    "create-time": 1617052393585,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "[《历史的尘埃》](((q37hRBpgX)))则是英雄无敌的背景，主打[世事无常]。\n虽说都能归入西幻的范畴，但两者从立意到潜在读者天差地别，唯一相同的两个作者都拥有顶尖的文笔，保证了阅读的下限观感。",
+                        "create-time": 1617052388997,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "q37hRBpgX"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "q37hRBpgX"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "GXpbDLByk",
+                        "edit-time": 1618655129421,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[印象里最深的情节]是末期的《七日之书》，这是本看完就能[飞升到战力顶层]的书，但却是个骗局。很多年后才知道DND的[希瑞经]是原型，一直觉得是个[魔改得很绝妙]的情节。",
+                        "create-time": 1618654530968,
+                        "uid": "a4KNZax8A",
+                        "edit-time": 1618654548480,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "和娶姐一样。\n靠着[黄段子]和[直球色情描写][抓住人眼球]。再从DND里各种[搬设定搬资料]。\n最后[勉强把剧情圆上]，就会有一堆[不肯承认][自己是为了什么目的来看书]的粉丝吹嘘段落设计的多么高明，[文笔创意]多么精彩。",
+                        "create-time": 1618654609883,
+                        "uid": "uIo2L0WPM",
+                        "edit-time": 1618654637436,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "xehxiUsgJ",
+                    "edit-time": 1618654276964,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "回到《亵渎》这本书，[至高神][从始至终始终是]非人格话的光本身（罪恶之城中[人格化]为圣·马丁反而落了下成，展示出烟男笔力与设定力下降），并且没有出场。[十二主神]更类似于希腊神话的神灵，希腊神话这些神灵本身就是残暴妒忌等[负面的大染缸]，对比之下十二主神都算是好的。教皇是毁灭和救赎之主神的信徒，坑害其它主神[下属天使]甚至于最后诱骗奥古斯都[使其堕落]（这里也是开放的，教皇真的不能用大预言术了？）非常符合希腊神话中神灵的内斗表现，智慧之主神同时被毁灭与救赎之主神毁灭。这是一个合理的设定。",
+                    "create-time": 1618655312823,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "乌贼在闺蜜蜘蛛中是尝试[创作神]，但是这种行为如你所见，冰火也自认不能做到，乌贼明显[笔力不够]，所以神只是个人。相比之下亵渎和奥术神座选择的是[描写神]，固然乌贼笔力不及烟男，但是也能体现出一些[神性]，”您是一也是万“ 将土著送给至高神[同化]就体现出一些神性。",
+                        "create-time": 1618655413649,
+                        "uid": "b6mmh7P4t",
+                        "edit-time": 1618655436978,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "写 DnD（以及引申型西幻）的大部分除非是[彻底崩了]，否则的话一般也不会特意把[创世神]写成坏的，毕竟[按设定][普通神灵]就已经是品德和概念化身了，[善神恶神]都属于[概念化]的，那当然没特别的必要去黑。何况AO按定义就是[没有善恶之分的规则本身]，谈不上有什么好掀翻的。",
+                        "children": [
+                          {
+                            "string": "不过这也不光是很多作者写反教会反创世神的问题，仙侠那边当年要[掀翻天道][寻求自由]的也不在少数，都是一个道理。",
+                            "uid": "HXWnz3Vqz",
+                            "edit-time": 1618655548266,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "Gfj42lkDh",
+                        "edit-time": 1618655540907,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "xAYO4R2kV",
+                    "edit-time": 1618655343471,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "7J7gXKVcT",
+                "edit-time": 1618654372606,
+                ":block/refs": [
+                  {
+                    ":block/uid": "PdZWxhurI"
+                  },
+                  {
+                    ":block/uid": "FjbB7QSJJ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "L7fTIw9dt"
+              }
+            ],
+            "uid": "LW6i-Rl2s",
+            ":block/refs": [
+              {
+                ":block/uid": "L7fTIw9dt"
+              }
+            ],
+            "string": "#inbox",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618654266581,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-u0gcvxYE",
+        "edit-time": 1618654266587,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "67CE9sLHG",
+    "edit-time": 1618654262689,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618654352007,
+    "title": "Novel/亵渎 (Xiedu)",
+    "uid": "_nVDHMNDD",
+    "edit-time": 1618654352008,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618655116882,
+    "title": "历史的尘埃 (lishide chen'ai)",
+    "uid": "SkUMVukpK",
+    "edit-time": 1618655116882,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
