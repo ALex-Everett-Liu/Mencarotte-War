@@ -11,3 +11,4 @@
     - square root
     - well-defined
 - [[logic]]
+- [[mathematician]]

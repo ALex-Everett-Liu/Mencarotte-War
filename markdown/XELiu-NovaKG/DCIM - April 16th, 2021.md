@@ -1,0 +1,3 @@
+- 星期五 16/04/2021 15:02~03 #pt10-100 #laopo #[[green coat]]   162~164 cm?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FrtFwRDTmAC.png?alt=media&token=e99bd452-f29e-42b0-b5bd-ff83bc6fe75f)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAD8tlTX6Mp.png?alt=media&token=9628284a-f246-41a9-909f-63c9a1444748)

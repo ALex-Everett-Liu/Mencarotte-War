@@ -1,9 +1,10 @@
 - general...
     - insulated enclosure
+- laws of thermodynamics; 热力学三定律
+    - absolute zero
+    - [[the second law of thermodynamics]]
 - radiative distribution of entropy
 - [[temperature]]
 - [[thermal equilibrium]]
     - [[random fluctuation]]; [[thermal fluctuation]]
     - [[thermodynamic equilibrium]]; [[thermodynamic equilibrium state]]
-- 热力学三定律
-    - absolute zero

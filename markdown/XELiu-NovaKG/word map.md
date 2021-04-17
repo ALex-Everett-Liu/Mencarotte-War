@@ -1,5 +1,10 @@
 - English
     - a
+        - ad
+            - advance
+                - advance the theory;
+                - advancing;
+                - advantage, 2
         - al
             - alias
             - align
@@ -7,7 +12,9 @@
             - allow
                 - disallowing;
             - alter
-                - alternate; alternately; alternation; alternative
+                - alternate; alternately; alternation;
+                - alternative
+                    - alternative theory;
                 - alteration;
                 - unalterable;
         - as
@@ -125,6 +132,21 @@
                     - disturb
                         - disturbance;
     - e
+        - eo
+            - eon: 永世, 万古;
+        - eq
+            - equi
+                - equal
+                    - equation;
+                - equilibria
+                    - equilibrium
+                - equivalent, 2
+        - et
+            - eternal
+                - eternity;
+            - ethno
+                - ethnic
+                    - ethnics; ethnicity;
         - ex
             - exclude
     - g
@@ -299,11 +321,18 @@
                 - stance
                     - substance, 2
             - str
+                - strict
+                    - restrict; restricted, 2
+                        - place limits on (extent or amount or access)
+                            - restrict the use of this parking lot
+                            - limit the time you can spend with your friends
+                - strike
                 - structure
                     - construct
                         - reconstruction;
-                    - [[basic structure]], 2; [[organizational structure]]; [[similar structure]]
+                    - [[basic structure]], 2; [[organizational structure]]; similar structure
                     - structured;
+                    - substructure;
         - su
             - sub
                 - sub-

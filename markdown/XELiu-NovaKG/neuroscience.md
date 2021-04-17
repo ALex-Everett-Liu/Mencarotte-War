@@ -11,6 +11,12 @@
     - [[perception]]
         - touch
             - tactile impression: 触觉印象 
+- intelligence...
+    - [[collective intelligence]]
+    - human intellectual
+    - intelligent life;
+    - [[mental map]]
+    - open-source intelligence
 - [[memory]]
 - [[psychology]]
 - thinking
