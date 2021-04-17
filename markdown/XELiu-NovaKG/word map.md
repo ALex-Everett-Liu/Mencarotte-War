@@ -34,6 +34,13 @@
             - bench
                 - benchmark
             - beware
+        - bo
+            - border
+                - bordered; borderline
+            - bound
+                - boundary
+                - bounded: 有界的, 有边的, 有限制的;
+                - out-bound;
         - br
             - broad
                 - broadcast;
