@@ -1,0 +1,12 @@
+- [[antimatter]]
+- baryonic matter
+- general...
+    - dot particle model
+    - internal structure
+    - smallest indivisible constituent
+- [[particle]]
+    - [[classical particle]]
+    - particle species
+    - submicroscopic particle
+- [[proton]]
+- [[theoretical physics]]; [[theoretical physicist]]

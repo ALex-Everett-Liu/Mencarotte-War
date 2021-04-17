@@ -1,1 +1,4 @@
+- increase entropy
 - [[low-entropy state]]
+- radiative distribution of entropy
+- [[statistical entropy]]

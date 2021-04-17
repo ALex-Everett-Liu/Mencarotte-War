@@ -1,0 +1,7 @@
+- absorb the radiation;
+- emit radiation; emit energy; emission
+    - [[emission spectrum]]
+- radiate energy;
+- [[thermal radiation]]
+    - [[thermal electromagnetic radiation]]
+        - [[black-body radiation]]

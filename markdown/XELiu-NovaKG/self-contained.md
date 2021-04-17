@@ -1,0 +1,6 @@
+- dictionary
+    - [Some of the services] are completely self-contained 自包含的 to [support only internal MDI function], and are [transparent to anything outside of the box]. www.[[ibm]].com
+    - Being [a completely self-contained template engine] and [script interpreter], `Velocity` [has a completely closed model]. 
+    - He seems completely self-contained 独立 and [he doesn't miss you] [when you're not there]. 《柯林斯高阶英汉双解学习词典》
+    - The flat is completely self-contained. 设备非常齐全的公寓 百度翻译例句库
+    - Keeps the LED completely self-contained. provided by jukuu

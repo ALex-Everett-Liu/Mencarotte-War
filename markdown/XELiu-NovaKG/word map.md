@@ -83,6 +83,10 @@
                             - constrained structure;
                         - consult, 3
                             - consulting;
+                    - cont
+                        - contain
+                            - contained;
+                            - [[self-contained]];
                 - contra
                     - contradict
                         - contradictory

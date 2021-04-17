@@ -52,6 +52,7 @@
             - 读读这本论文集: Why trust a theory? - epistemology of fundamental physics, Cambridge University Press (2019)
 - [[mathematical method]]
 - [[nuclear physics]]
+- [[particle physics]]; [[high-energy physics]];
 - physicist
     - [[Descartes]]
         - [[Principia Philosophiae]]

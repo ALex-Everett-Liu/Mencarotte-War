@@ -1,0 +1,5 @@
+- [[black body]]
+- distribution law
+    - [[Wien's law]]
+    - [[Planck's law]]
+- [[cavity radiation]]

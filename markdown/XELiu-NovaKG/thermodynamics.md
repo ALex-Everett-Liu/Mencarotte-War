@@ -3,7 +3,7 @@
 - laws of thermodynamics; 热力学三定律
     - absolute zero
     - [[the second law of thermodynamics]]
-- radiative distribution of entropy
+- [[radiation]]
 - [[temperature]]
 - [[thermal equilibrium]]
     - [[random fluctuation]]; [[thermal fluctuation]]

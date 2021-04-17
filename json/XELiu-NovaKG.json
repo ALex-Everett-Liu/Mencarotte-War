@@ -6919,6 +6919,34 @@
         }
       },
       {
+        "string": "[[particle physics]]; [[high-energy physics]];",
+        "create-time": 1618632405705,
+        ":block/refs": [
+          {
+            ":block/uid": "QImrFfaRT"
+          },
+          {
+            ":block/uid": "_LpGzFESl"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "QImrFfaRT"
+          },
+          {
+            "uid": "_LpGzFESl"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "tWL9tZ7WG",
+        "edit-time": 1618632412681,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "physicist",
         "children": [
           {
@@ -14607,6 +14635,56 @@
                             ],
                             "uid": "_FnT99Jx3",
                             "edit-time": 1618367602216,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "cont",
+                            "create-time": 1618633450520,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "children": [
+                              {
+                                "string": "contain",
+                                "children": [
+                                  {
+                                    "string": "contained;",
+                                    "uid": "UfOCYR_t0",
+                                    "edit-time": 1618633452147,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  },
+                                  {
+                                    "string": "[[self-contained]];",
+                                    "refs": [
+                                      {
+                                        "uid": "BW9LZqcQd"
+                                      }
+                                    ],
+                                    "uid": "yCkIZX-lC",
+                                    "edit-time": 1618633456927,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "BW9LZqcQd"
+                                      }
+                                    ],
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "2iJO6PFkl",
+                                "edit-time": 1618633452147,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "WhUfYRkil",
+                            "edit-time": 1618633451418,
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -35856,9 +35934,19 @@
         }
       },
       {
-        "string": "radiative distribution of entropy",
-        "uid": "oTKMY3Pby",
-        "edit-time": 1618003261527,
+        "string": "[[radiation]]",
+        "refs": [
+          {
+            "uid": "zQY2I2Tjv"
+          }
+        ],
+        "uid": "y3y6Yx0Ed",
+        "edit-time": 1618632968182,
+        ":block/refs": [
+          {
+            ":block/uid": "zQY2I2Tjv"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -54361,6 +54449,66 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "Via quantum fluctuation",
+            "create-time": 1618632064751,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "By one calculation, a Boltzmann brain [would appear as] [a quantum fluctuation in the vacuum] [after a time interval of] $$\\displaystyle 10^{10^{50}}$$ years. This fluctuation can occur even in a true [[Minkowski vacuum]] (a [flat spacetime vacuum] lacking [[vacuum energy]]). Quantum mechanics [heavily favors smaller fluctuations] that [\"borrow\" the least amount of energy from the vacuum]. Typically, a [quantum Boltzmann brain] would [suddenly appear from] the vacuum (alongside [an equivalent amount of] [[virtual antimatter]]), [remain only long enough to] [have a single coherent thought or observation], 连贯的思维过程 and then [disappear into the vacuum] [as suddenly as it appeared]. ^^Such a brain is^^ [completely self-contained]([[self-contained]]), and can never [radiate energy out to infinity](((NDQ59nkIH))).[10] 把能量辐射到无穷远\n(小型量子涨落，从真空中借走最小数量的能量值)\n210417-12:07, 12:20",
+                "create-time": 1618632065623,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8emxKBRFk"
+                  },
+                  {
+                    ":block/uid": "4LJAo_WoB"
+                  },
+                  {
+                    ":block/uid": "AoPFidhPa"
+                  },
+                  {
+                    ":block/uid": "NDQ59nkIH"
+                  },
+                  {
+                    ":block/uid": "BW9LZqcQd"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8emxKBRFk"
+                  },
+                  {
+                    "uid": "4LJAo_WoB"
+                  },
+                  {
+                    "uid": "AoPFidhPa"
+                  },
+                  {
+                    "uid": "NDQ59nkIH"
+                  },
+                  {
+                    "uid": "BW9LZqcQd"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "6di6JUmwq",
+                "edit-time": 1618633215862,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "seX8qg5x3",
+            "edit-time": 1618632065628,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "x1rpFfLL1",
@@ -54427,11 +54575,57 @@
   {
     "create-time": 1618540107449,
     "title": "vacuum",
-    "uid": "YHRVaHIp9",
-    "edit-time": 1618540107449,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Minkowski vacuum]]",
+        "create-time": 1618633178587,
+        ":block/refs": [
+          {
+            ":block/uid": "8emxKBRFk"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8emxKBRFk"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "nbHrNVyX-",
+        "edit-time": 1618633180924,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((Hq4op5fSP))",
+        "create-time": 1618633203682,
+        ":block/refs": [
+          {
+            ":block/uid": "Hq4op5fSP"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Hq4op5fSP"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "xAISRKQcN",
+        "edit-time": 1618633204587,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "YHRVaHIp9",
+    "edit-time": 1618540107449,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -54444,6 +54638,28 @@
     },
     "children": [
       {
+        "string": "((6jUysxvZP))",
+        "create-time": 1618632848157,
+        ":block/refs": [
+          {
+            ":block/uid": "6jUysxvZP"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "6jUysxvZP"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "RTbMeycxZ",
+        "edit-time": 1618632849228,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[low-entropy state]]",
         "refs": [
           {
@@ -54455,6 +54671,32 @@
         ":block/refs": [
           {
             ":block/uid": "UgRCr844M"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "radiative distribution of entropy",
+        "uid": "WPdlURrfx",
+        "edit-time": 1618632799782,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[statistical entropy]]",
+        "refs": [
+          {
+            "uid": "-j6fkRqGg"
+          }
+        ],
+        "uid": "IFMKvQDgD",
+        "edit-time": 1618632824331,
+        ":block/refs": [
+          {
+            ":block/uid": "-j6fkRqGg"
           }
         ],
         ":edit/user": {
@@ -55707,11 +55949,57 @@
   {
     "create-time": 1618628973793,
     "title": "quantum fluctuation",
-    "uid": "ZXC6T_kmR",
-    "edit-time": 1618628973794,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[vacuum energy]]",
+        "create-time": 1618633195377,
+        ":block/refs": [
+          {
+            ":block/uid": "4LJAo_WoB"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "4LJAo_WoB"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Hq4op5fSP",
+        "edit-time": 1618633199367,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[virtual antimatter]]",
+        "create-time": 1618632468139,
+        ":block/refs": [
+          {
+            ":block/uid": "AoPFidhPa"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "AoPFidhPa"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "UjRWBipWY",
+        "edit-time": 1618632474244,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ZXC6T_kmR",
+    "edit-time": 1618628973794,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -55724,6 +56012,702 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632163911,
+    "title": "Minkowski vacuum",
+    "uid": "8emxKBRFk",
+    "edit-time": 1618632163920,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632176274,
+    "title": "vacuum energy",
+    "uid": "4LJAo_WoB",
+    "edit-time": 1618632176275,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632267027,
+    "title": "virtual antimatter",
+    "uid": "AoPFidhPa",
+    "edit-time": 1618632267028,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632412684,
+    "title": "particle physics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[antimatter]]",
+        "refs": [
+          {
+            "uid": "AdVmLUv6A"
+          }
+        ],
+        "uid": "7z__ITLqj",
+        "edit-time": 1618632450104,
+        ":block/refs": [
+          {
+            ":block/uid": "AdVmLUv6A"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "baryonic matter",
+        "uid": "OZKAxSkaM",
+        "edit-time": 1618632421831,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "dot particle model",
+            "uid": "qB30RQyXg",
+            "edit-time": 1618632421831,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "internal structure",
+            "uid": "Bid8NdOwt",
+            "edit-time": 1618632421831,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "smallest indivisible constituent",
+            "uid": "keSOb2bjC",
+            "edit-time": 1618632421831,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "jG9BPdrp9",
+        "edit-time": 1618632421831,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[particle]]",
+        "refs": [
+          {
+            "uid": "WMFeZPuFh"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[classical particle]]",
+            "refs": [
+              {
+                "uid": "69Bi9L1Do"
+              }
+            ],
+            "uid": "wQfW3Z7Zx",
+            "edit-time": 1618632441150,
+            ":block/refs": [
+              {
+                ":block/uid": "69Bi9L1Do"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "particle species",
+            "uid": "Iu8AUfnH6",
+            "edit-time": 1618632421831,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "submicroscopic particle",
+            "uid": "Ke_Blj25T",
+            "edit-time": 1618632421831,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "fb9BZbd1_",
+        "edit-time": 1618632443141,
+        ":block/refs": [
+          {
+            ":block/uid": "WMFeZPuFh"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[proton]]",
+        "refs": [
+          {
+            "uid": "R90arP55e"
+          }
+        ],
+        "uid": "EhN1cH0od",
+        "edit-time": 1618632434669,
+        ":block/refs": [
+          {
+            ":block/uid": "R90arP55e"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[theoretical physics]]; [[theoretical physicist]]",
+        "refs": [
+          {
+            "uid": "SVYTos2TY"
+          },
+          {
+            "uid": "lFaGY0n72"
+          }
+        ],
+        "uid": "yGR-X_G9J",
+        "edit-time": 1618632433054,
+        ":block/refs": [
+          {
+            ":block/uid": "SVYTos2TY"
+          },
+          {
+            ":block/uid": "lFaGY0n72"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "QImrFfaRT",
+    "edit-time": 1618632412684,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632412684,
+    "title": "high-energy physics",
+    "uid": "_LpGzFESl",
+    "edit-time": 1618632412684,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632433056,
+    "title": "theoretical physics",
+    "uid": "SVYTos2TY",
+    "edit-time": 1618632433056,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632433056,
+    "title": "theoretical physicist",
+    "uid": "lFaGY0n72",
+    "edit-time": 1618632433056,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632434671,
+    "title": "proton",
+    "uid": "R90arP55e",
+    "edit-time": 1618632434672,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632441152,
+    "title": "classical particle",
+    "uid": "69Bi9L1Do",
+    "edit-time": 1618632441152,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632450106,
+    "title": "antimatter",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((UjRWBipWY))",
+        "create-time": 1618632476558,
+        ":block/refs": [
+          {
+            ":block/uid": "UjRWBipWY"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "UjRWBipWY"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Lvd-U0VXc",
+        "edit-time": 1618632478097,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "AdVmLUv6A",
+    "edit-time": 1618632450107,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632965192,
+    "title": "Wien's law",
+    "uid": "8Ko76o2cT",
+    "edit-time": 1618632965196,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632968184,
+    "title": "radiation",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "absorb the radiation;",
+        "uid": "Qyx1KK6Qj",
+        "edit-time": 1618632965196,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "emit radiation; emit energy; emission",
+        "children": [
+          {
+            "string": "[[emission spectrum]]",
+            "refs": [
+              {
+                "uid": "og8CUeQZV"
+              }
+            ],
+            "uid": "1FDrbvDuk",
+            "edit-time": 1618633015661,
+            ":block/refs": [
+              {
+                ":block/uid": "og8CUeQZV"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "dkZTrHmgp",
+        "edit-time": 1618632965196,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "radiate energy;",
+        "uid": "NDQ59nkIH",
+        "edit-time": 1618632965196,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[thermal radiation]]",
+        "refs": [
+          {
+            "uid": "OCZ-gfNu9"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[thermal electromagnetic radiation]]",
+            "refs": [
+              {
+                "uid": "mSLIaGlKJ"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[black-body radiation]]",
+                "refs": [
+                  {
+                    "uid": "D1Muj4_KN"
+                  }
+                ],
+                "uid": "TKCyv96RI",
+                "edit-time": 1618632988972,
+                ":block/refs": [
+                  {
+                    ":block/uid": "D1Muj4_KN"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "BlHjldbwE",
+            "edit-time": 1618633005479,
+            ":block/refs": [
+              {
+                ":block/uid": "mSLIaGlKJ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "PPY-7ASlf",
+        "edit-time": 1618633007853,
+        ":block/refs": [
+          {
+            ":block/uid": "OCZ-gfNu9"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "zQY2I2Tjv",
+    "edit-time": 1618632968184,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632988974,
+    "title": "black-body radiation",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[black body]]",
+        "refs": [
+          {
+            "uid": "pJ6-YutHu"
+          }
+        ],
+        "uid": "sMo4akUI8",
+        "edit-time": 1618632998521,
+        ":block/refs": [
+          {
+            ":block/uid": "pJ6-YutHu"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "distribution law",
+        "children": [
+          {
+            "string": "[[Wien's law]]",
+            "refs": [
+              {
+                "uid": "8Ko76o2cT"
+              }
+            ],
+            "uid": "Ormoo96i9",
+            "edit-time": 1618632965196,
+            ":block/refs": [
+              {
+                ":block/uid": "8Ko76o2cT"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Planck's law]]",
+            "refs": [
+              {
+                "uid": "Qu6FHA7nd"
+              }
+            ],
+            "uid": "ZzkbRhTTG",
+            "edit-time": 1618632999869,
+            ":block/refs": [
+              {
+                ":block/uid": "Qu6FHA7nd"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "QfWkALGVr",
+        "edit-time": 1618632965196,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[cavity radiation]]",
+        "refs": [
+          {
+            "uid": "vMFLwd7qG"
+          }
+        ],
+        "uid": "6Si506tzC",
+        "edit-time": 1618632997157,
+        ":block/refs": [
+          {
+            ":block/uid": "vMFLwd7qG"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "D1Muj4_KN",
+    "edit-time": 1618632988975,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632997159,
+    "title": "cavity radiation",
+    "uid": "vMFLwd7qG",
+    "edit-time": 1618632997159,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632998523,
+    "title": "black body",
+    "uid": "pJ6-YutHu",
+    "edit-time": 1618632998524,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618632999879,
+    "title": "Planck's law",
+    "uid": "Qu6FHA7nd",
+    "edit-time": 1618632999879,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618633005481,
+    "title": "thermal electromagnetic radiation",
+    "uid": "mSLIaGlKJ",
+    "edit-time": 1618633005481,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618633007854,
+    "title": "thermal radiation",
+    "uid": "OCZ-gfNu9",
+    "edit-time": 1618633007854,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618633015663,
+    "title": "emission spectrum",
+    "uid": "og8CUeQZV",
+    "edit-time": 1618633015663,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618633034011,
+    "title": "self-contained",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary",
+        "create-time": 1618633237465,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[Some of the services] are completely self-contained 自包含的 to [support only internal MDI function], and are [transparent to anything outside of the box]. ((__44zEawJ))",
+            "create-time": 1618633247489,
+            ":block/refs": [
+              {
+                ":block/uid": "__44zEawJ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "__44zEawJ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "7QEGMyCUp",
+            "edit-time": 1618633372313,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Being [a completely self-contained template engine] and [script interpreter], `Velocity` [has a completely closed model]. ",
+            "create-time": 1618633247489,
+            "uid": "l6r9r35Cm",
+            "edit-time": 1618633388272,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He seems completely self-contained 独立 and [he doesn't miss you] [when you're not there]. 《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1618633247489,
+            "uid": "e0DM-UOW-",
+            "edit-time": 1618633396456,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The flat is completely self-contained. 设备非常齐全的公寓 百度翻译例句库",
+            "create-time": 1618633247489,
+            "uid": "ySL6pdE1B",
+            "edit-time": 1618633247493,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Keeps the LED completely self-contained. provided by jukuu",
+            "create-time": 1618633247489,
+            "uid": "ngCPYaxTg",
+            "edit-time": 1618633247493,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "6htZwKJtA",
+        "edit-time": 1618633243104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "BW9LZqcQd",
+    "edit-time": 1618633034011,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
