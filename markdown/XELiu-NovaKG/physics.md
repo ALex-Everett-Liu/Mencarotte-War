@@ -36,15 +36,13 @@
 - history of physics
     - two clouds hovering on the horizon
         - [[Lord Kelvin]]
-- journal
-    - [[American Journal of Physics (Am. J. Phys.)]]
-    - [[Physics Today]]
 - material...
     - medium...
         - elastic medium; elastic media; 弹性介质
         - [[liquid]]
     - [[raw material]]
 - meta phys...
+    - [[anthropic principle]]
     - predictable
         - explicable;
     - [[reality]]; [[physical reality]]
@@ -60,6 +58,12 @@
 - [[popularize of science]]; popular science
     - [[Brian Greene]]
         - [[The Fabric of the Cosmos - Space, Time, and the Texture of Reality]]
+- publication...
+    - academic journal
+        - [[American Journal of Physics (Am. J. Phys.)]]
+        - [[Physics Today]]
+    - learning
+        - The [[Feynman Lectures on Physics]]
 - [[quantum gravity]]; quantum gravity theory
 - [[quantum mechanics]]
 - [[relativity]]; [[theory of relativity]]

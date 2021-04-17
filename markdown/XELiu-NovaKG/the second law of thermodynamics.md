@@ -1,0 +1,2 @@
+- [[heat death]]
+- increase entropy

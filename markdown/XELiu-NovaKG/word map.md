@@ -103,6 +103,7 @@
                         - indiscriminately;
             - critic
                 - criteria
+                    - [[arbitrary criteria]]: 任意标准, 武断标准;
                     - criterion;
                 - criticism;
     - d
@@ -141,6 +142,16 @@
                 - equilibria
                     - equilibrium
                 - equivalent, 2
+        - er
+            - ergodic: 遍历, 各态历经;
+        - es
+            - eschew
+                - eschewing;
+            - esse
+                - essence; essential, 2; essentially
+            - estimate
+                - estimation;
+                - underestimated: 低估 ; 对…估计不足 ; 对…认识不足 ; 轻视; |
         - et
             - eternal
                 - eternity;
@@ -315,6 +326,13 @@
                     - retroact
                         - retroactively;
     - s
+        - sc
+            - sca
+                - scale
+                    - size or measure according to a scale
+                        - "This model must be scaled down"
+                    - scalar; scalable
+                    - [[timescale]];
         - st
             - sta
                 - staff, 2

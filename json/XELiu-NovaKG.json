@@ -6623,52 +6623,6 @@
         }
       },
       {
-        "string": "journal",
-        "children": [
-          {
-            "string": "[[American Journal of Physics (Am. J. Phys.)]]",
-            "refs": [
-              {
-                "uid": "B0ctQCogB"
-              }
-            ],
-            "uid": "e37ym4b8_",
-            "edit-time": 1618442494434,
-            ":block/refs": [
-              {
-                ":block/uid": "B0ctQCogB"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[Physics Today]]",
-            "refs": [
-              {
-                "uid": "S_F1qVLHK"
-              }
-            ],
-            "uid": "4KSV047q3",
-            "edit-time": 1618442493022,
-            ":block/refs": [
-              {
-                ":block/uid": "S_F1qVLHK"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "Bjx8sLIne",
-        "edit-time": 1618442483443,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "material...",
         "create-time": 1617959984932,
         ":create/user": {
@@ -6765,6 +6719,28 @@
       {
         "string": "meta phys...",
         "children": [
+          {
+            "string": "[[anthropic principle]]",
+            "create-time": 1618627031089,
+            ":block/refs": [
+              {
+                ":block/uid": "iiiCJp9z_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "iiiCJp9z_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ERu92Q0Zb",
+            "edit-time": 1618627033054,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "predictable",
             "children": [
@@ -7048,6 +7024,90 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617601101313,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "publication...",
+        "children": [
+          {
+            "string": "academic journal",
+            "children": [
+              {
+                "string": "[[American Journal of Physics (Am. J. Phys.)]]",
+                "refs": [
+                  {
+                    "uid": "B0ctQCogB"
+                  }
+                ],
+                "uid": "e37ym4b8_",
+                "edit-time": 1618442494434,
+                ":block/refs": [
+                  {
+                    ":block/uid": "B0ctQCogB"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[Physics Today]]",
+                "refs": [
+                  {
+                    "uid": "S_F1qVLHK"
+                  }
+                ],
+                "uid": "4KSV047q3",
+                "edit-time": 1618442493022,
+                ":block/refs": [
+                  {
+                    ":block/uid": "S_F1qVLHK"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Bjx8sLIne",
+            "edit-time": 1618627462306,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "learning",
+            "children": [
+              {
+                "string": "The [[Feynman Lectures on Physics]]",
+                "refs": [
+                  {
+                    "uid": "oJuy8u_8_"
+                  }
+                ],
+                "uid": "ggs9vn-nt",
+                "edit-time": 1618627468294,
+                ":block/refs": [
+                  {
+                    ":block/uid": "oJuy8u_8_"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Hct4wIbwU",
+            "edit-time": 1618627450756,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "J2JtIxYGi",
+        "edit-time": 1618627450756,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -7723,6 +7783,28 @@
       {
         "string": "general...",
         "children": [
+          {
+            "string": "[[modern science]]",
+            "create-time": 1618627006105,
+            ":block/refs": [
+              {
+                ":block/uid": "YiN9m4B4N"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "YiN9m4B4N"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "0Z5c-RRBr",
+            "edit-time": 1618627007892,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "[[scientific development]]; [[scientific progress]]",
             "refs": [
@@ -12387,6 +12469,72 @@
         }
       },
       {
+        "string": "[[astronomy]]; astronomer",
+        "refs": [
+          {
+            "uid": "ZRHOq5jNF"
+          }
+        ],
+        "children": [
+          {
+            "string": "astronomical spectroscopy",
+            "uid": "moYf5rWAw",
+            "edit-time": 1618627331593,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[star]]",
+            "refs": [
+              {
+                "uid": "gWIyVIYzu"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[planet]]",
+                "refs": [
+                  {
+                    "uid": "l1bBLMBRk"
+                  }
+                ],
+                "uid": "I2Vw8XSj5",
+                "edit-time": 1618627336721,
+                ":block/refs": [
+                  {
+                    ":block/uid": "l1bBLMBRk"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "8uo2ROD9q",
+            "edit-time": 1618627338209,
+            ":block/refs": [
+              {
+                ":block/uid": "gWIyVIYzu"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Odmx5iqc0",
+        "edit-time": 1618627335700,
+        ":block/refs": [
+          {
+            ":block/uid": "ZRHOq5jNF"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[cosmology]]",
         "create-time": 1617648029310,
         ":block/refs": [
@@ -14654,6 +14802,28 @@
                         "string": "criteria",
                         "children": [
                           {
+                            "string": "[[arbitrary criteria]]: 任意标准, 武断标准;",
+                            "create-time": 1618628705491,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "EYRUnaUBZ"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "EYRUnaUBZ"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "3VkKYdhN4",
+                            "edit-time": 1618628709797,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
                             "string": "criterion;",
                             "uid": "nRO8oGWTa",
                             "edit-time": 1618546051621,
@@ -15046,6 +15216,96 @@
                 ],
                 "uid": "aZ7AqYEWb",
                 "edit-time": 1618617874453,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "er",
+                "children": [
+                  {
+                    "string": "ergodic: 遍历, 各态历经;",
+                    "uid": "KUkqTYl27",
+                    "edit-time": 1618628321188,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "iZVhIS3MA",
+                "edit-time": 1618628321188,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "es",
+                "children": [
+                  {
+                    "string": "eschew",
+                    "children": [
+                      {
+                        "string": "eschewing;",
+                        "uid": "prS9x4PsD",
+                        "edit-time": 1618628321188,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "tueee_ssI",
+                    "edit-time": 1618628321188,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "esse",
+                    "children": [
+                      {
+                        "string": "essence; essential, 2; essentially",
+                        "uid": "h2CUtldR0",
+                        "edit-time": 1618628321188,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "ELIfNfkxE",
+                    "edit-time": 1618628321188,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "estimate",
+                    "children": [
+                      {
+                        "string": "estimation;",
+                        "uid": "tVLMllR_H",
+                        "edit-time": 1618628321188,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "underestimated: 低估 ; 对…估计不足 ; 对…认识不足 ; 轻视; |",
+                        "uid": "VHuwheNWc",
+                        "edit-time": 1618628321188,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "zUq2CU_Zz",
+                    "edit-time": 1618628321188,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "SG0k8OrAe",
+                "edit-time": 1618628321188,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -16888,6 +17148,88 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "children": [
+              {
+                "string": "sc",
+                "create-time": 1618628917381,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "sca",
+                    "create-time": 1618628918027,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "scale",
+                        "children": [
+                          {
+                            "string": "size or measure according to a scale",
+                            "children": [
+                              {
+                                "string": "\"This model must be scaled down\"",
+                                "uid": "HKWrcmrmm",
+                                "edit-time": 1618628919955,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "j9mYyN2pv",
+                            "edit-time": 1618628919955,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "scalar; scalable",
+                            "uid": "2IGdrJRIa",
+                            "edit-time": 1618628919955,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[[timescale]];",
+                            "refs": [
+                              {
+                                "uid": "gvAed4Fi1"
+                              }
+                            ],
+                            "uid": "sCU1e7F8s",
+                            "edit-time": 1618628924320,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "gvAed4Fi1"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "74LZkD9W5",
+                        "edit-time": 1618628919955,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "dR9ZK3N16",
+                    "edit-time": 1618628919205,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "cCKmPY6J6",
+                "edit-time": 1618628918034,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "string": "st",
                 "create-time": 1617953373075,
@@ -26665,6 +27007,28 @@
         }
       },
       {
+        "string": "[[quantum fluctuation]]",
+        "create-time": 1618629052173,
+        ":block/refs": [
+          {
+            ":block/uid": "ZXC6T_kmR"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZXC6T_kmR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "KqY1qAu4e",
+        "edit-time": 1618629054096,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[quantum physics]]; [[quantum theory]]",
         "refs": [
           {
@@ -30896,6 +31260,28 @@
             ":block/uid": "Ms_MUgb3n"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[nucleation]]: 成核",
+        "create-time": 1618629119923,
+        ":block/refs": [
+          {
+            ":block/uid": "EuIxP0F5r"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EuIxP0F5r"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "XgH5-LJ-R",
+        "edit-time": 1618629127740,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -38329,6 +38715,34 @@
             ":block/uid": "1Ewfp74xd"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "[[logical conclusion]]",
+            "refs": [
+              {
+                "uid": "o-GGcNuH7"
+              }
+            ],
+            "uid": "JEp7L8_Gy",
+            "edit-time": 1618627562255,
+            ":block/refs": [
+              {
+                ":block/uid": "o-GGcNuH7"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "mdRi9us7B",
+        "edit-time": 1618627558838,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -53330,6 +53744,76 @@
     },
     "children": [
       {
+        "edit-time": 1618627158814,
+        "children": [
+          {
+            "string": "((QSyfDvF2x))",
+            "create-time": 1618627186847,
+            ":block/refs": [
+              {
+                ":block/uid": "QSyfDvF2x"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "QSyfDvF2x"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "rWXWUTr2M",
+            "edit-time": 1618627188325,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "observers in smaller fluctuations",
+            "create-time": 1618628021519,
+            "uid": "JgjwOCstW",
+            "edit-time": 1618628022513,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "self-aware observer",
+            "create-time": 1618629162323,
+            "uid": "YDO32vD7S",
+            "edit-time": 1618629163275,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "tZs39fA_p"
+          }
+        ],
+        "uid": "462jehnyk",
+        ":block/refs": [
+          {
+            ":block/uid": "tZs39fA_p"
+          }
+        ],
+        "string": "[[Boltzmann universe]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618627155243,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "empty universe",
         "create-time": 1618553158456,
         "uid": "vSt_uR2WT",
@@ -53619,7 +54103,7 @@
         },
         "children": [
           {
-            "edit-time": 1618617958662,
+            "edit-time": 1618627105504,
             "children": [
               {
                 "string": "The second and [alternative theory](((jGGa4Lb5x))), published in 1896 but attributed in 1895 to [Boltzmann's assistant] [[Ignaz Schütz]], 归属于 is the \"Boltzmann universe\" scenario. In this scenario, the Universe [spends the vast majority of eternity](((d2kD9jgfb))) [in a featureless state of heat death]([[heat death]]); 平凡的状态 however, [over enough eons](((VqEKxTHt0))), eventually [a very rare thermal fluctuation] will occur where [atoms bounce off each other] 相互弹动 [in exactly such a way as to] [form a substructure](((bqdfO1hTG))) equivalent to our entire [[observable universe]]. Boltzmann argues that, while [most of the universe] is featureless, humans [do not see those regions] because they are [devoid of intelligent life](((zQE7T-xwM))); 完全没有, 缺乏 to Boltzmann, [it is unremarkable that] humanity views solely [the interior of its Boltzmann universe]([[Boltzmann universe]]), as [that is the only place where] [intelligent life lives]. ([This may be the first use in] [[modern science]] of the [[anthropic principle]]).[4][5]\n(根据庞加莱回归定理，封闭系统中的统计熵最终必然成为一个周期函数，因而熵增定理不可能是统计的，一定是绝对的-宇宙起源于低熵态-在永恒的热寂这一平凡的状态中，某一刻产生了一次小概率的热涨落使得部分原子形成了一个亚结构，正等价于我们的可观测宇宙-而这只是完整的结构（玻尔兹曼宇宙）中的极小一部分-人择原理)\n210417-08:26",
@@ -53702,6 +54186,46 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "In 1931, astronomer [[Arthur Eddington]] pointed out that, because [a large fluctuation] is [exponentially less probable than] [a small fluctuation], observers in Boltzmann universes [will be vastly outnumbered by] [observers in smaller fluctuations](((JgjwOCstW))). Physicist Richard Feynman [published a similar counterargument] within his widely-read 1964 [[Feynman Lectures on Physics]]. By 2004, physicists had [pushed Eddington's observation to] its [[logical conclusion]]: [the most numerous observers] in [an eternity of thermal fluctuations] would be minimal \"Boltzmann brains\" popping up [in an otherwise featureless universe].[4][6]\n(从概率的角度出发，一次小型涨落中诞生的观察者远比一个玻尔兹曼宇宙中的观察者出现的概率更大-从一个平凡的热寂宇宙中突现/涨落出的玻尔兹曼宇宙)\n210417-10:48",
+                "create-time": 1618547966740,
+                ":block/refs": [
+                  {
+                    ":block/uid": "wNet4eT6K"
+                  },
+                  {
+                    ":block/uid": "oJuy8u_8_"
+                  },
+                  {
+                    ":block/uid": "o-GGcNuH7"
+                  },
+                  {
+                    ":block/uid": "JgjwOCstW"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "wNet4eT6K"
+                  },
+                  {
+                    "uid": "oJuy8u_8_"
+                  },
+                  {
+                    "uid": "o-GGcNuH7"
+                  },
+                  {
+                    "uid": "JgjwOCstW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "Qy1dIO1f3",
+                "edit-time": 1618628029881,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -53725,6 +54249,9 @@
               },
               {
                 "uid": "1rpdXnb1W"
+              },
+              {
+                "uid": "6jUysxvZP"
               }
             ],
             "uid": "7uKetkCEo",
@@ -53749,9 +54276,12 @@
               },
               {
                 ":block/uid": "1rpdXnb1W"
+              },
+              {
+                ":block/uid": "6jUysxvZP"
               }
             ],
-            "string": "In 1896, the mathematician [[Ernst Zermelo]] [advanced a theory that] [[the second law of thermodynamics]] was [absolute rather than statistical].[3] Zermelo [bolstered his theory by pointing out that] 支撑 the [[Poincaré recurrence theorem]] shows [[statistical entropy]] in a [[closed system]] [must eventually be] a [[periodic function]]; therefore, the Second Law, which is [always observed to] [increase entropy], is unlikely to be statistical. To counter Zermelo's argument, the Austrian physicist Ludwig Boltzmann [advanced two theories](((1rpdXnb1W))). The first theory, now believed to be the correct one, is that the Universe started [for some unknown reason] in a low-entropy state. ",
+            "string": "In 1896, the mathematician [[Ernst Zermelo]] [advanced a theory that] [[the second law of thermodynamics]] was [absolute rather than statistical].[3] Zermelo [bolstered his theory by pointing out that] 支撑 the [[Poincaré recurrence theorem]] shows [[statistical entropy]] in a [[closed system]] [must eventually be] a [[periodic function]]; therefore, the Second Law, which is [always observed to] [increase entropy](((6jUysxvZP))), is unlikely to be statistical. To counter Zermelo's argument, the Austrian physicist Ludwig Boltzmann [advanced two theories](((1rpdXnb1W))). The first theory, now believed to be the correct one, is that the Universe started [for some unknown reason] in a low-entropy state. ",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -53759,22 +54289,82 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
-          },
+          }
+        ],
+        "uid": "UtX4yrxrx",
+        "edit-time": 1618547966745,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Spontaneous formation",
+        "create-time": 1618628236133,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
           {
-            "string": "In 1931, astronomer Arthur Eddington pointed out that, because a large fluctuation is exponentially less probable than a small fluctuation, observers in Boltzmann universes will be vastly outnumbered by observers in smaller fluctuations. Physicist Richard Feynman published a similar counterargument within his widely-read 1964 Feynman Lectures on Physics. By 2004, physicists had pushed Eddington's observation to its logical conclusion: the most numerous observers in an eternity of thermal fluctuations would be minimal \"Boltzmann brains\" popping up in an otherwise featureless universe.[4][6]",
-            "create-time": 1618547966740,
-            "uid": "Qy1dIO1f3",
-            "edit-time": 1618547974134,
+            "string": "In the universe's [eventual state] of [ergodic \"heat death\"](((KUkqTYl27))), given enough time, every [possible structure] (including every possible brain) [gets formed via random fluctuation]. The [[timescale]] for this is related to the [Poincaré recurrence time].[4][7][8] [Boltzmann-style thought experiments] focus on structures like [human brains] that are presumably [self-aware observers](((YDO32vD7S))). [Given any arbitrary criteria for]([[arbitrary criteria]]) [what constitutes a Boltzmann brain] (or planet, or universe), [smaller structures] that [minimally and barely meet the criteria] are vastly and [exponentially more common than] larger structures; [a rough analogy] is [how the odds of] [a real English word] showing up when one [shakes a box of Scrabble letters] 拼字游戏字母盒 are [greater than the odds that] [a whole English sentence] or paragraph will form.[9] The [average timescale] required for [the formation of a Boltzmann brain] is [vastly greater than] [the current age of the Universe]. In modern physics, Boltzmann brains [can be formed either by] [[quantum fluctuation]], or by a [[thermal fluctuation]] generally involving [[nucleation]].[4] \n(宇宙的最终状态是一个各态历经的热寂状态，所以，只要给定足够长的时间，任何可能形成的结构最终都会从随机涨落中得以发生-相比于人类大脑以及更大更复杂的结构，任何更小更简单的等价于玻尔兹曼大脑的结构则是概率更大的现实)\n210417-11:10",
+            "create-time": 1618628236623,
+            ":block/refs": [
+              {
+                ":block/uid": "Rgp1ySOp-"
+              },
+              {
+                ":block/uid": "KUkqTYl27"
+              },
+              {
+                ":block/uid": "gvAed4Fi1"
+              },
+              {
+                ":block/uid": "EYRUnaUBZ"
+              },
+              {
+                ":block/uid": "ZXC6T_kmR"
+              },
+              {
+                ":block/uid": "EuIxP0F5r"
+              },
+              {
+                ":block/uid": "YDO32vD7S"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Rgp1ySOp-"
+              },
+              {
+                "uid": "KUkqTYl27"
+              },
+              {
+                "uid": "gvAed4Fi1"
+              },
+              {
+                "uid": "EYRUnaUBZ"
+              },
+              {
+                "uid": "ZXC6T_kmR"
+              },
+              {
+                "uid": "EuIxP0F5r"
+              },
+              {
+                "uid": "YDO32vD7S"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "b-Boae55I",
+            "edit-time": 1618629239638,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "uid": "UtX4yrxrx",
-        "edit-time": 1618547966745,
+        "uid": "x1rpFfLL1",
+        "edit-time": 1618628236629,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -54195,6 +54785,42 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "edit-time": 1618625270237,
+            "children": [
+              {
+                "string": "我不知道所谓的“中国历代王朝都曾将影响辐射到西伯利亚”是什么意思，册封[当地土著首领]？拿点东西[换点土特产]？有些答主拿张[囊括]女真的[明朝疆域图]说明朝是辐射西伯利亚最大的朝代（后来改口要别人列举比明朝影响更大的[汉人王朝]），但我不认为明朝对西伯利亚有什么[实际的影响力]，毕竟蒙古对明朝的遏制太强了，明朝[对女真的控制力]也不够强，明朝要影响西伯利亚，是靠女真人帮明朝辐射，还是和女真人[一起开拓]？",
+                "create-time": 1618625050147,
+                "uid": "PH4FIp13y",
+                "edit-time": 1618625090715,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kp4t9aQO7"
+              }
+            ],
+            "uid": "HGVm0zsLn",
+            ":block/refs": [
+              {
+                ":block/uid": "Kp4t9aQO7"
+              }
+            ],
+            "string": "金宋时期可能有人去过，[金史纪事本末](https://www.zhihu.com/question/440704291)的[夹注]里有关于[南宋使者][被囚禁]发到[黄龙府]在往北的地区有见过[当地野人]的[人土风情记载]。元代肯定有人去过，[南园辍耕录]有元代派人去北方[宣抚外夷]讲过北极圈的爱斯基摩人的记载（[狗拉雪橇][吃生吃海豹][住冰屋]等等）。 #pt10-100",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618624659888,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -54593,11 +55219,39 @@
   {
     "create-time": 1618617072958,
     "title": "the second law of thermodynamics",
-    "uid": "vobsmUUIJ",
-    "edit-time": 1618617072958,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[heat death]]",
+        "refs": [
+          {
+            "uid": "9oYsCl0ts"
+          }
+        ],
+        "uid": "7LJ0WeXPu",
+        "edit-time": 1618627078006,
+        ":block/refs": [
+          {
+            ":block/uid": "9oYsCl0ts"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "increase entropy",
+        "uid": "6jUysxvZP",
+        "edit-time": 1618627074598,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "vobsmUUIJ",
+    "edit-time": 1618617072958,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -54947,6 +55601,126 @@
     "title": "April 17th, 2021",
     "uid": "04-17-2021",
     "edit-time": 1618623737794,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618627213197,
+    "title": "Arthur Eddington",
+    "uid": "wNet4eT6K",
+    "edit-time": 1618627213198,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618627335702,
+    "title": "astronomy",
+    "uid": "ZRHOq5jNF",
+    "edit-time": 1618627335702,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618627336724,
+    "title": "planet",
+    "uid": "l1bBLMBRk",
+    "edit-time": 1618627336724,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618627338211,
+    "title": "star",
+    "uid": "gWIyVIYzu",
+    "edit-time": 1618627338212,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618627375142,
+    "title": "Feynman Lectures on Physics",
+    "uid": "oJuy8u_8_",
+    "edit-time": 1618627375143,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618627528488,
+    "title": "logical conclusion",
+    "uid": "o-GGcNuH7",
+    "edit-time": 1618627528488,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618628460959,
+    "title": "timescale",
+    "uid": "gvAed4Fi1",
+    "edit-time": 1618628460960,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618628669253,
+    "title": "arbitrary criteria",
+    "uid": "EYRUnaUBZ",
+    "edit-time": 1618628669254,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618628973793,
+    "title": "quantum fluctuation",
+    "uid": "ZXC6T_kmR",
+    "edit-time": 1618628973794,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618628997704,
+    "title": "nucleation",
+    "uid": "EuIxP0F5r",
+    "edit-time": 1618628997705,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

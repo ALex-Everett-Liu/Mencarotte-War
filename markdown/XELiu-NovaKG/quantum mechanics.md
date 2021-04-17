@@ -16,6 +16,7 @@
 - [[quantization]]; quantized
 - [[quantum chemistry]]
 - [[quantum field]]; [[quantum field theory]]
+- [[quantum fluctuation]]
 - [[quantum physics]]; [[quantum theory]]
 - [[Schrödinger equation]]
 - [[spin]]

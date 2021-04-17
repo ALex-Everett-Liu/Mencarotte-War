@@ -1,5 +1,7 @@
 - abstract...
     - abstract noun
 - [[cognitive bias]]
+- general...
+    - [[logical conclusion]]
 - [[heuristic]]
 - [[reductio ad absurdum]]: 归谬法, 反证法

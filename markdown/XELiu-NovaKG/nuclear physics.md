@@ -1,3 +1,4 @@
 - [[atomic nucleus]]
 - [[nuclear fusion]]
+- [[nucleation]]: 成核
 - [[radioactive decay]]

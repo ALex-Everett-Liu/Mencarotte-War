@@ -1,4 +1,8 @@
 - [[astrology]]
+- [[astronomy]]; astronomer
+    - astronomical spectroscopy
+    - [[star]]
+        - [[planet]]
 - [[cosmology]]
 - [[space science]]
 - [[telescope]]
