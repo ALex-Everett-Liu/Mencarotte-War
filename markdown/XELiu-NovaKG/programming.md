@@ -18,3 +18,8 @@
 - [[script]]
 - [[string]]
     - [[character string]]
+- #inbox
+    - 感觉是不太复杂的 excel 的运用，是用vba还是python来搞？ #pt8-99.98
+        - pandas + matplotlib
+        - 建议 vba，环境都不用配，这种表少不了要[变化结构]，以后[改需求]也方便
+        - excel 有 lambda function 了，[这种需求](https://bbs.saraba1st.com/2b/thread-1999372-1-2.html)可以直接做吧
