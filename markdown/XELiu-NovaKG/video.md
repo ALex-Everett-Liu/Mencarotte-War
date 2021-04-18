@@ -1,7 +1,9 @@
 - [[video player]]
     - [[Pot Player]]
-- video site...
+- [[streaming media]]; video site
     - [[bilibili]]
     - [[NicoNico]]; niconico
     - [[YouTube]]
         - YouTube channel
+- #inbox
+    - 作者可能说的是[流媒体提供商](https://sspai.com/post/66001)（优爱腾）的[网络带宽]费用高吧，我国[商宽价格]可以说是贵的离谱了，你打开阿里云和腾讯云对比[国内服务器]和[国外服务器]带宽就知道了，所有也有一种说法是我国是商宽补贴家宽，显得[网络资费]相对低。**这样做另一个坏处就是我国家宽[上传都限制的比较低]，因为[上行][卖给商宽]比较赚钱。** #pt9-99.99

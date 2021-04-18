@@ -1,6 +1,8 @@
 - [[business]]
 - [[finance]]
+- [[ledger]]
 - [[money]]
+- [[political economy]]
 - 房地产
     - #inbox
         - 说一个身边的例子，我有个在[哈工大深圳校区]读书的亲戚，我问他[毕业后][打算去哪里工作](https://www.zhihu.com/question/453282898/answer/1825644008)？他说回长沙吧，深圳[房价太高]，[生活压力]太大了，顶不住。 #pt10-99.99

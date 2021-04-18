@@ -1,3 +1,5 @@
+- [[animation]]
+    - [[anime]]
 - [[comedy]]
 - [[creative writings]]
 - [[novel]]

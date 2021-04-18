@@ -5,6 +5,7 @@
     - political reality
     - political satire
 - political activity
+- [[political economy]]
 - [[political philosophy]]
 - political spectrum
     - centrist: 中间派, 中立派, 温和主义者;

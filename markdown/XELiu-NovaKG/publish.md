@@ -1,4 +1,6 @@
+- [[blog]]; [[blog post]]
 - comment; review;
+- consumer distribution mode
 - [[edition]]
     - edition numbering
 - [[identifier]]
@@ -7,3 +9,4 @@
     - [[ISBN]]; [[ISBN number]]
 - [[publication]]; [[publisher]]; publishing platform
 - [[release]]
+- [[图床 (Tuchuang)]]
