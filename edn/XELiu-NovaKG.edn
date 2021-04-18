@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 9,
+      :order 7,
       :content-id "N5lel-tnd"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -95,7 +95,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 12,
+      :order 10,
       :content-id "L7fTIw9dt"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 11,
+      :order 9,
       :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -111,19 +111,19 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 10,
+      :order 8,
       :content-id "rw6U8VHY-"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536954102]
+   536954511]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid71140329-5bb5-44d4-80b7-05b1c0527dee"
-   536954238]
+   "uuid3a8e6e2e-99c9-4a8b-b379-b7d2cc7977a1"
+   536954572]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -388,6 +388,7 @@
   [14899 :block/children 19331 536951752]
   [14899 :block/children 19332 536951757]
   [14899 :block/children 19333 536951761]
+  [14899 :block/children 19917 536954427]
   [14899 :block/open true 536942903]
   [14899 :block/order 1 536937244]
   [14899 :block/page 14882 536937231]
@@ -406,11 +407,11 @@
   [14900
    :block/string
    "比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carolle;; 上古汉语; IPA;; "
-   536951768]
+   536954426]
   [14900 :block/uid "z7hu5D_X9" 536937233]
   [14900 :create/time 1617570842241 536937233]
   [14900 :create/user 3 536937233]
-  [14900 :edit/time 1618458023831 536951768]
+  [14900 :edit/time 1618715376965 536954426]
   [14900 :edit/user 3 536937233]
   [14901 :block/open true 536937238]
   [14901 :block/order 0 536937244]
@@ -820,7 +821,7 @@
   [14942 :edit/user 3 536937418]
   [14942 :node/title "rainbow indentation" 536937418]
   [14943 :block/open true 536937424]
-  [14943 :block/order 3 536951761]
+  [14943 :block/order 4 536954427]
   [14943 :block/page 14882 536937425]
   [14943 :block/parents 14882 536937425]
   [14943 :block/parents 14899 536937425]
@@ -9443,6 +9444,8 @@
   [15820 :block/children 15821 536940955]
   [15820 :block/children 16294 536943039]
   [15820 :block/children 19828 536953842]
+  [15820 :block/children 19910 536954347]
+  [15820 :block/children 19923 536954489]
   [15820 :block/open true 536940949]
   [15820 :block/order 0 536940949]
   [15820 :block/page 15819 536940950]
@@ -9455,7 +9458,7 @@
   [15820 :edit/time 1617704936222 536940953]
   [15820 :edit/user 3 536940949]
   [15821 :block/open true 536940951]
-  [15821 :block/order 2 536953993]
+  [15821 :block/order 4 536954507]
   [15821 :block/page 15819 536940952]
   [15821 :block/parents 15819 536940952]
   [15821 :block/parents 15820 536940956]
@@ -9721,7 +9724,8 @@
   [15849 :edit/user 3 536941022]
   [15849 :node/title "hardware" 536941022]
   [15850 :block/children 15851 536941030]
-  [15850 :block/open false 536941057]
+  [15850 :block/children 19902 536954243]
+  [15850 :block/open true 536954241]
   [15850 :block/order 0 536941024]
   [15850 :block/page 15849 536941025]
   [15850 :block/parents 15849 536941025]
@@ -9733,8 +9737,8 @@
   [15850 :edit/time 1617705413028 536941028]
   [15850 :edit/user 3 536941024]
   [15851 :block/children 15852 536941046]
-  [15851 :block/open true 536941026]
-  [15851 :block/order 0 536941030]
+  [15851 :block/open false 536954242]
+  [15851 :block/order 1 536954249]
   [15851 :block/page 15849 536941027]
   [15851 :block/parents 15849 536941027]
   [15851 :block/parents 15850 536941031]
@@ -13933,7 +13937,7 @@
   [16292 :edit/user 3 536943022]
   [16294 :block/children 16295 536943056]
   [16294 :block/open false 536943066]
-  [16294 :block/order 1 536953994]
+  [16294 :block/order 3 536954508]
   [16294 :block/page 15819 536943040]
   [16294 :block/parents 15819 536943040]
   [16294 :block/parents 15820 536943040]
@@ -20216,6 +20220,8 @@
   [17112 :block/children 17126 536945621]
   [17112 :block/children 19293 536951600]
   [17112 :block/children 19404 536952106]
+  [17112 :block/children 19926 536954513]
+  [17112 :block/children 19928 536954523]
   [17112 :block/open true 536945609]
   [17112 :block/uid "xVctcBX2v" 536945605]
   [17112 :create/time 1618023216365 536945605]
@@ -39005,7 +39011,7 @@
   [19292 :edit/user 3 536951577]
   [19293 :block/children 19296 536951607]
   [19293 :block/children 19298 536951607]
-  [19293 :block/open true 536951600]
+  [19293 :block/open false 536954512]
   [19293 :block/order 0 536951600]
   [19293 :block/page 17112 536951601]
   [19293 :block/parents 17112 536951601]
@@ -39287,7 +39293,7 @@
   [19331 :edit/time 1618457958186 536951756]
   [19331 :edit/user 3 536951752]
   [19332 :block/open true 536951757]
-  [19332 :block/order 4 536951761]
+  [19332 :block/order 5 536954427]
   [19332 :block/page 14882 536951758]
   [19332 :block/parents 14882 536951758]
   [19332 :block/parents 14899 536951758]
@@ -39298,7 +39304,7 @@
   [19332 :edit/time 1618457967811 536951759]
   [19332 :edit/user 3 536951757]
   [19333 :block/open true 536951761]
-  [19333 :block/order 2 536951761]
+  [19333 :block/order 3 536954427]
   [19333 :block/page 14882 536951762]
   [19333 :block/parents 14882 536951762]
   [19333 :block/parents 14899 536951762]
@@ -44815,4 +44821,484 @@
   [19901 :edit/time 1618710451961 536954238]
   [19901 :edit/user 3 536954238]
   [19901 :log/id 1618710451960 536954238]
-  [19901 :node/title "April 18th, 2021" 536954238]]}
+  [19901 :node/title "April 18th, 2021" 536954238]
+  [19902 :block/children 19903 536954249]
+  [19902 :block/children 19904 536954259]
+  [19902 :block/children 19906 536954283]
+  [19902 :block/children 19907 536954293]
+  [19902 :block/open false 536954345]
+  [19902 :block/order 0 536954243]
+  [19902 :block/page 15849 536954244]
+  [19902 :block/parents 15849 536954244]
+  [19902 :block/parents 15850 536954244]
+  [19902 :block/refs 16835 536954343]
+  [19902
+   :block/string
+   "[硬件](https://bbs.saraba1st.com/2b/thread-1999436-2-1.html) 理性讨论，pc diy 会被干死吗？ #pt10-99.98"
+   536954342]
+  [19902 :block/uid "6Sf7zjRBx" 536954243]
+  [19902 :create/time 1618714167100 536954243]
+  [19902 :create/user 3 536954243]
+  [19902 :edit/time 1618714670536 536954342]
+  [19902 :edit/user 3 536954243]
+  [19903 :block/open true 536954247]
+  [19903 :block/order 0 536954249]
+  [19903 :block/page 15849 536954248]
+  [19903 :block/parents 15849 536954248]
+  [19903 :block/parents 15850 536954248]
+  [19903 :block/parents 19902 536954250]
+  [19903
+   :block/string
+   "[整机]相对DIY[技术上]目前没有[绝对优势]，但是如果某一天开始[DIY部件]组不出整机性能/功能的机器的时候，DIY也会变成[情怀党自嗨]\n\n其实现在的[手机的SoC]就是DIY做不到的，这也是为什么同样是CPU/GPU/RAM这些部件，却没有见到有DIY手机\n\n等哪天[桌面级SoC]性能吊打普通DIY部件的时候，DIY估计就真的死绝了，近两年的桌面arm趋势估计就是个开端"
+   536954258]
+  [19903 :block/uid "643IbdQ-C" 536954247]
+  [19903 :create/time 1618714196680 536954247]
+  [19903 :create/user 3 536954247]
+  [19903 :edit/time 1618714232453 536954258]
+  [19903 :edit/user 3 536954247]
+  [19904 :block/children 19905 536954273]
+  [19904 :block/open false 536954282]
+  [19904 :block/order 1 536954259]
+  [19904 :block/page 15849 536954260]
+  [19904 :block/parents 15849 536954260]
+  [19904 :block/parents 15850 536954260]
+  [19904 :block/parents 19902 536954260]
+  [19904
+   :block/string
+   "diy 本来就萎缩的厉害。国内[性价比]也是靠[洋垃圾]和[低价配件厂商]有，但这些利润对 I A N 三家来说都不会是未来[收入大头]，如果[消费市场]没了，也可以做数据中心，主机，笔记本，品牌机只供，而且这几乎是[必然趋势]，无非[挖矿]直接把这一天提前了几年。"
+   536954270]
+  [19904 :block/uid "PLJy77NW7" 536954259]
+  [19904 :create/time 1618714268297 536954259]
+  [19904 :create/user 3 536954259]
+  [19904 :edit/time 1618714321248 536954270]
+  [19904 :edit/user 3 536954259]
+  [19905 :block/open true 536954271]
+  [19905 :block/order 0 536954273]
+  [19905 :block/page 15849 536954272]
+  [19905 :block/parents 15849 536954272]
+  [19905 :block/parents 15850 536954272]
+  [19905 :block/parents 19902 536954272]
+  [19905 :block/parents 19904 536954274]
+  [19905
+   :block/string
+   "[矿潮]只是导火线之一。感觉普通人以后[需要电脑]顶多就买笔记本之类的[成品]或者[苹果m1]那种东西，普通打游戏的玩家大概率就是[手机游戏]或者 ns xbox ps4-5 这类主机"
+   536954281]
+  [19905 :block/uid "3O-JmlAku" 536954271]
+  [19905 :create/time 1618714349037 536954271]
+  [19905 :create/user 3 536954271]
+  [19905 :edit/time 1618714368166 536954281]
+  [19905 :edit/user 3 536954271]
+  [19906 :block/open true 536954283]
+  [19906 :block/order 2 536954283]
+  [19906 :block/page 15849 536954284]
+  [19906 :block/parents 15849 536954284]
+  [19906 :block/parents 15850 536954284]
+  [19906 :block/parents 19902 536954284]
+  [19906
+   :block/string
+   "硬件[还是这种价位的话]估计等我这台八代 u + 1080ti 退役了就不会再装[台式机]了\n什么时候[p社游戏]升级到我的[8代牙膏]完全跑不动了就整个[win本]接[外接显示器]"
+   536954292]
+  [19906 :block/uid "JoF2C8nye" 536954283]
+  [19906 :create/time 1618714399155 536954283]
+  [19906 :create/user 3 536954283]
+  [19906 :edit/time 1618714418123 536954292]
+  [19906 :edit/user 3 536954283]
+  [19907 :block/children 19909 536954326]
+  [19907 :block/open false 536954344]
+  [19907 :block/order 3 536954293]
+  [19907 :block/page 15849 536954294]
+  [19907 :block/parents 15849 536954294]
+  [19907 :block/parents 15850 536954294]
+  [19907 :block/parents 19902 536954294]
+  [19907
+   :block/string
+   "[矿潮][持续再久一点]，等大家都“习惯”了这个状况了，说不定 PC DIY 就真死了\n等[市场萎缩掉]，就不是老黄[良心发现]搞个5060秒4080TI就可以解决的了\n就像森海要是出个HD830，价格只有HD820S 1/3，听感完爆，[销量]能有AIRPODS 1/1000么？"
+   536954303]
+  [19907 :block/uid "dA-YQh8AE" 536954293]
+  [19907 :create/time 1618714469530 536954293]
+  [19907 :create/user 3 536954293]
+  [19907 :edit/time 1618714492816 536954303]
+  [19907 :edit/user 3 536954293]
+  [19908 :block/open true 536954304]
+  [19908 :block/order 0 536954329]
+  [19908 :block/page 15849 536954305]
+  [19908 :block/parents 15849 536954305]
+  [19908 :block/parents 15850 536954305]
+  [19908 :block/parents 19902 536954305]
+  [19908 :block/parents 19907 536954307]
+  [19908 :block/parents 19909 536954330]
+  [19908
+   :block/string
+   "最终的结果 PC DIY 会像[耳机键盘]这些，[客制化]不是因为便宜而是[有自己的特殊需求]，普通人要玩游戏之后去买主机或者买品牌 ‘游戏pc’ 这种[高度集成化的产品]就是了。"
+   536954339]
+  [19908 :block/uid "o_YcgDRA6" 536954304]
+  [19908 :create/time 1618714534468 536954304]
+  [19908 :create/user 3 536954304]
+  [19908 :edit/time 1618714621285 536954339]
+  [19908 :edit/user 3 536954304]
+  [19909 :block/children 19908 536954329]
+  [19909 :block/open true 536954326]
+  [19909 :block/order 0 536954326]
+  [19909 :block/page 15849 536954327]
+  [19909 :block/parents 15849 536954327]
+  [19909 :block/parents 15850 536954327]
+  [19909 :block/parents 19902 536954327]
+  [19909 :block/parents 19907 536954327]
+  [19909
+   :block/string
+   "[游戏市场]不会萎缩的，无非是大家看到[PC游戏厂商][无利可图]转去主机/手机，甚至把[资金大头]就去做[云游戏]了。任何行业还能diy就说明[还比较初期]，不然就[生产厂家]来说，2B无论是[质保]还是生产还是[营销成本]都远低于2C, 过去远有diy发动机车船飞机火箭，近有[华强北][寨机寨板]，为什么变了，并不是人的技术退步，而是[整合后的上下游]成为了[一个2b的市场]，2c直接卖[终端产品]。"
+   536954331]
+  [19909 :block/uid "nOOdtab59" 536954326]
+  [19909 :create/time 1618714596557 536954326]
+  [19909 :create/user 3 536954326]
+  [19909 :edit/time 1618714599463 536954331]
+  [19909 :edit/user 3 536954326]
+  [19910 :block/children 19911 536954364]
+  [19910 :block/children 19913 536954392]
+  [19910 :block/children 19914 536954398]
+  [19910 :block/children 19916 536954416]
+  [19910 :block/children 19920 536954445]
+  [19910 :block/children 19921 536954456]
+  [19910 :block/children 19922 536954471]
+  [19910 :block/open false 536954488]
+  [19910 :block/order 1 536954484]
+  [19910 :block/page 15819 536954348]
+  [19910 :block/parents 15819 536954348]
+  [19910 :block/parents 15820 536954348]
+  [19910 :block/refs 15799 536954481]
+  [19910
+   :block/string
+   "[热钱]这世界太多了, 不是因为[印钱]才有的, 但是热钱[需要个\"故事\"做去处]\n但是[美帝印钱], 全世界[只能跟着一起印], 不然就是[被美帝抢劫]\n那么全世界都[货币贬值]的话, [比特币]这种[具有通缩属性的池子]就天然成了一个\"好故事\" #pt9-99.99"
+   536954480]
+  [19910 :block/uid "Oqw8cfVwQ" 536954347]
+  [19910 :create/time 1618714898931 536954347]
+  [19910 :create/user 3 536954347]
+  [19910 :edit/time 1618716406757 536954480]
+  [19910 :edit/user 3 536954347]
+  [19911 :block/open true 536954362]
+  [19911 :block/order 1 536954395]
+  [19911 :block/page 15819 536954363]
+  [19911 :block/parents 15819 536954363]
+  [19911 :block/parents 15820 536954363]
+  [19911 :block/parents 19910 536954365]
+  [19911
+   :block/string
+   "赶紧买\n本来4T的性价比就是[甜点]，参考2T 3T的价格再跌也跌不到哪里去\n要是整个[硬盘行业]真缺货了，[厂商]可能会拿[有限的芯片产能]去[优先生产][利润更高的][大容量产品]"
+   536954374]
+  [19911 :block/uid "ib6OgmECg" 536954362]
+  [19911 :create/time 1618715049316 536954362]
+  [19911 :create/user 3 536954362]
+  [19911 :edit/time 1618715070914 536954374]
+  [19911 :edit/user 3 536954362]
+  [19912 :block/open true 536954375]
+  [19912 :block/order 0 536954395]
+  [19912 :block/page 15819 536954376]
+  [19912 :block/parents 15819 536954376]
+  [19912 :block/parents 15820 536954376]
+  [19912 :block/parents 19910 536954376]
+  [19912 :block/parents 19913 536954396]
+  [19912
+   :block/string
+   "但是[硬盘空间]就不一样了, 谁还没点[闲置空间]了, 只要(完成初始化后)[挂在电脑上]就可以\n如果chia币确实[价格能稳住], 再参考下ETH现在[全民挖矿]的架势, 如果全民都把[闲置空间]拿来chia的话, [总量]可能确实可以[对抗寡头]"
+   536954394]
+  [19912 :block/uid "OYmHtkdzx" 536954375]
+  [19912 :create/time 1618715097014 536954375]
+  [19912 :create/user 3 536954375]
+  [19912 :edit/time 1618715148951 536954394]
+  [19912 :edit/user 3 536954375]
+  [19913 :block/children 19912 536954395]
+  [19913 :block/children 19915 536954404]
+  [19913 :block/open false 536954487]
+  [19913 :block/order 0 536954392]
+  [19913 :block/page 15819 536954393]
+  [19913 :block/parents 15819 536954393]
+  [19913 :block/parents 15820 536954393]
+  [19913 :block/parents 19910 536954393]
+  [19913
+   :block/string
+   "[chia币](https://bbs.saraba1st.com/2b/thread-1998785-14-2.html)希望改变[比特币]的一个诟病, 就是比特币规则下, 会诞生[算力寡头]\n想起来也确实有希望\n比特币, eth都不可能真正[人人参与], 没人希望自己的CPU GPU[一直满负荷工作]吧, 还影响自己使用电脑\n"
+   536954478]
+  [19913 :block/uid "75X6fyRxI" 536954392]
+  [19913 :create/time 1618715148945 536954392]
+  [19913 :create/user 3 536954392]
+  [19913 :edit/time 1618716399812 536954478]
+  [19913 :edit/user 3 536954392]
+  [19914 :block/open true 536954398]
+  [19914 :block/order 3 536954456]
+  [19914 :block/page 15819 536954399]
+  [19914 :block/parents 15819 536954399]
+  [19914 :block/parents 15820 536954399]
+  [19914 :block/parents 19910 536954399]
+  [19914 :block/string "消费升级，好起来了，以后[pc硬件]就是[超发货币]的好去处" 536954402]
+  [19914 :block/uid "3oo2JUSQG" 536954398]
+  [19914 :create/time 1618715227935 536954398]
+  [19914 :create/user 3 536954398]
+  [19914 :edit/time 1618715233133 536954402]
+  [19914 :edit/user 3 536954398]
+  [19915 :block/children 19918 536954433]
+  [19915 :block/children 19919 536954437]
+  [19915 :block/open false 536954486]
+  [19915 :block/order 1 536954404]
+  [19915 :block/page 15819 536954405]
+  [19915 :block/parents 15819 536954405]
+  [19915 :block/parents 15820 536954405]
+  [19915 :block/parents 19910 536954405]
+  [19915 :block/parents 19913 536954405]
+  [19915
+   :block/string
+   "[机械硬盘]不用的时候闲着是最好的，用[闲置空间]7*24挖矿，那[存储资料]是不想要了吗，很多人[boom硬盘]可比boom显卡更伤啊\n感觉最后还是会被[种田寡头]垄断，[矿老板]玩算机，农老板玩 nas"
+   536954414]
+  [19915 :block/uid "y1HIeofAO" 536954404]
+  [19915 :create/time 1618715263428 536954404]
+  [19915 :create/user 3 536954404]
+  [19915 :edit/time 1618715285249 536954414]
+  [19915 :edit/user 3 536954404]
+  [19916 :block/open true 536954416]
+  [19916 :block/order 4 536954456]
+  [19916 :block/page 15819 536954417]
+  [19916 :block/parents 15819 536954417]
+  [19916 :block/parents 15820 536954417]
+  [19916 :block/parents 19910 536954417]
+  [19916
+   :block/string
+   "md，存的20多t各种[影视资料]一直放在5块移动硬盘里面，一直想买个[大容量硬盘]保存的，现在[又得继续用着]这些移动硬盘[祈祷别挂掉]"
+   536954422]
+  [19916 :block/uid "mtf6QUePr" 536954416]
+  [19916 :create/time 1618715331646 536954416]
+  [19916 :create/user 3 536954416]
+  [19916 :edit/time 1618715345156 536954422]
+  [19916 :edit/user 3 536954416]
+  [19917 :block/open true 536954427]
+  [19917 :block/order 2 536954427]
+  [19917 :block/page 14882 536954428]
+  [19917 :block/parents 14882 536954428]
+  [19917 :block/parents 14899 536954428]
+  [19917 :block/string "buy 4T hdd, ssd;; " 536954429]
+  [19917 :block/uid "OmNNKyZNu" 536954427]
+  [19917 :create/time 1618715378341 536954427]
+  [19917 :create/user 3 536954427]
+  [19917 :edit/time 1618715379367 536954429]
+  [19917 :edit/user 3 536954427]
+  [19918 :block/open true 536954431]
+  [19918 :block/order 0 536954433]
+  [19918 :block/page 15819 536954432]
+  [19918 :block/parents 15819 536954432]
+  [19918 :block/parents 15820 536954432]
+  [19918 :block/parents 19910 536954432]
+  [19918 :block/parents 19913 536954432]
+  [19918 :block/parents 19915 536954434]
+  [19918
+   :block/string
+   "这个币挖矿的时候不[读写硬盘]……只是硬盘在线就可以了……\n他真正破坏的是SSD, 当然你也可以不用SSD, 用HDD来初始化HDD\n每初始化100G, 需要写入2T文件, 初始化完10T硬盘, 等于要写入200T, 对HDD来说应该还行吧"
+   536954436]
+  [19918 :block/uid "arTJHo4EW" 536954431]
+  [19918 :create/time 1618715405029 536954431]
+  [19918 :create/user 3 536954431]
+  [19918 :edit/time 1618715411141 536954436]
+  [19918 :edit/user 3 536954431]
+  [19919 :block/open true 536954437]
+  [19919 :block/order 1 536954437]
+  [19919 :block/page 15819 536954438]
+  [19919 :block/parents 15819 536954438]
+  [19919 :block/parents 15820 536954438]
+  [19919 :block/parents 19910 536954438]
+  [19919 :block/parents 19913 536954438]
+  [19919 :block/parents 19915 536954438]
+  [19919
+   :block/string
+   "虽然没有读写伤害, 但是[矿场的环境不好]的话, [环境本身][对硬盘伤害]也不小就是了, 灰尘温度等……\n不过真[矿难]的话, 到时候300块10T这种价格还是很香就是了"
+   536954444]
+  [19919 :block/uid "ZrI3r1L9u" 536954437]
+  [19919 :create/time 1618715600817 536954437]
+  [19919 :create/user 3 536954437]
+  [19919 :edit/time 1618715618614 536954444]
+  [19919 :edit/user 3 536954437]
+  [19920 :block/open true 536954445]
+  [19920 :block/order 5 536954456]
+  [19920 :block/page 15819 536954446]
+  [19920 :block/parents 15819 536954446]
+  [19920 :block/parents 15820 536954446]
+  [19920 :block/parents 19910 536954446]
+  [19920
+   :block/string
+   "keybase 上的 chia [官方社区]这两天看到好多中国人问问题 \n看到一个矿老板说花了1百万美刀[买设备]，但他[手下的人]不知道挖矿[该怎么设置]"
+   536954455]
+  [19920 :block/uid "W546ahmPn" 536954445]
+  [19920 :create/time 1618715726467 536954445]
+  [19920 :create/user 3 536954445]
+  [19920 :edit/time 1618715745994 536954455]
+  [19920 :edit/user 3 536954445]
+  [19921 :block/open true 536954456]
+  [19921 :block/order 2 536954456]
+  [19921 :block/page 15819 536954457]
+  [19921 :block/parents 15819 536954457]
+  [19921 :block/parents 15820 536954457]
+  [19921 :block/parents 19910 536954457]
+  [19921
+   :block/string
+   "我最担心的是可能因为[矿老板]比[普通用户][更愿意花钱]，更没有要求，这种田对[机械硬盘]又只需要它[有足够空间]，让[pc用户][长期争取][保留下来的][pmr生产线]，就这样被[成本更低的][smr产线]换掉"
+   536954470]
+  [19921 :block/uid "zv4JTHf3E" 536954456]
+  [19921 :create/time 1618716133066 536954456]
+  [19921 :create/user 3 536954456]
+  [19921 :edit/time 1618716159807 536954470]
+  [19921 :edit/user 3 536954456]
+  [19922 :block/open true 536954471]
+  [19922 :block/order 6 536954471]
+  [19922 :block/page 15819 536954472]
+  [19922 :block/parents 15819 536954472]
+  [19922 :block/parents 15820 536954472]
+  [19922 :block/parents 19910 536954472]
+  [19922
+   :block/string
+   "发明这傻逼玩意儿的人也是 [BitTorrent 协议]的[发明者]\n仔细想想，他[发明的东西]都是[花式掏空硬盘空间]的东西 "
+   536954477]
+  [19922 :block/uid "oIpuPo-CX" 536954471]
+  [19922 :create/time 1618716320487 536954471]
+  [19922 :create/user 3 536954471]
+  [19922 :edit/time 1618716334261 536954477]
+  [19922 :edit/user 3 536954471]
+  [19923 :block/children 19924 536954494]
+  [19923 :block/open false 536954509]
+  [19923 :block/order 2 536954508]
+  [19923 :block/page 15819 536954490]
+  [19923 :block/parents 15819 536954490]
+  [19923 :block/parents 15820 536954490]
+  [19923 :block/refs 19925 536954506]
+  [19923
+   :block/string
+   "[自己挖的那点]还不够[转出手续费]的，想[炒币]就直接去[交易中心](https://bbs.saraba1st.com/2b/thread-1999374-1-2.html)买 #pt9-99.97"
+   536954505]
+  [19923 :block/uid "mO4Lrv_sZ" 536954489]
+  [19923 :create/time 1618716602484 536954489]
+  [19923 :create/user 3 536954489]
+  [19923 :edit/time 1618716644009 536954505]
+  [19923 :edit/user 3 536954489]
+  [19924 :block/open true 536954492]
+  [19924 :block/order 0 536954494]
+  [19924 :block/page 15819 536954493]
+  [19924 :block/parents 15819 536954493]
+  [19924 :block/parents 15820 536954493]
+  [19924 :block/parents 19923 536954495]
+  [19924 :block/string "把1080t卖了然后[找所有亲戚借钱][买狗狗币]" 536954498]
+  [19924 :block/uid "uUaNU377W" 536954492]
+  [19924 :create/time 1618716612992 536954492]
+  [19924 :create/user 3 536954492]
+  [19924 :edit/time 1618716621980 536954498]
+  [19924 :edit/user 3 536954492]
+  [19925 :block/uid "w6c088k2C" 536954506]
+  [19925 :create/time 1618716644011 536954506]
+  [19925 :create/user 3 536954506]
+  [19925 :edit/time 1618716644012 536954506]
+  [19925 :edit/user 3 536954506]
+  [19925 :node/title "pt9-99.97" 536954506]
+  [19926 :block/children 19927 536954519]
+  [19926 :block/open true 536954513]
+  [19926 :block/order 12 536954523]
+  [19926 :block/page 17112 536954514]
+  [19926 :block/parents 17112 536954514]
+  [19926 :block/refs 14882 536954518]
+  [19926 :block/string "#inbox" 536954517]
+  [19926 :block/uid "xFGj5UiV8" 536954513]
+  [19926 :create/time 1618716682659 536954513]
+  [19926 :create/user 3 536954513]
+  [19926 :edit/time 1618716686081 536954517]
+  [19926 :edit/user 3 536954513]
+  [19927 :block/children 19929 536954535]
+  [19927 :block/children 19930 536954543]
+  [19927 :block/children 19931 536954547]
+  [19927 :block/children 19932 536954554]
+  [19927 :block/children 19933 536954560]
+  [19927 :block/open true 536954515]
+  [19927 :block/order 0 536954519]
+  [19927 :block/page 17112 536954516]
+  [19927 :block/parents 17112 536954516]
+  [19927 :block/parents 19926 536954520]
+  [19927
+   :block/string
+   "原本[无广告清爽]的 ToDesk，虽然BUG不少，但[凑和能用]，结果现在搞了个[免费限制2终端]，跟 TeamViewer 看齐了。\n现在全靠免费的向日葵[没有类似的限制]，撑着我全家的5、6台电脑。"
+   536954532]
+  [19927 :block/uid "r8ZuA4yad" 536954515]
+  [19927 :create/time 1618716686075 536954515]
+  [19927 :create/user 3 536954515]
+  [19927 :edit/time 1618716746736 536954532]
+  [19927 :edit/user 3 536954515]
+  [19928 :block/open true 536954523]
+  [19928 :block/order 11 536954523]
+  [19928 :block/page 17112 536954524]
+  [19928 :block/parents 17112 536954524]
+  [19928 :block/string "远程桌面" 536954525]
+  [19928 :block/uid "CReSU3Jwi" 536954523]
+  [19928 :create/time 1618716701400 536954523]
+  [19928 :create/user 3 536954523]
+  [19928 :edit/time 1618716704862 536954525]
+  [19928 :edit/user 3 536954523]
+  [19929 :block/open true 536954533]
+  [19929 :block/order 0 536954535]
+  [19929 :block/page 17112 536954534]
+  [19929 :block/parents 17112 536954534]
+  [19929 :block/parents 19926 536954534]
+  [19929 :block/parents 19927 536954536]
+  [19929
+   :block/string
+   "我又回 anydesk 了\n向日葵是不打算再用了,上次删他是因为他产生了一堆[LOG小文件]把我的C盘淹了,没找到是个啥问题,但反正[不会再用了]"
+   536954542]
+  [19929 :block/uid "99wIjQRqu" 536954533]
+  [19929 :create/time 1618716770645 536954533]
+  [19929 :create/user 3 536954533]
+  [19929 :edit/time 1618716785595 536954542]
+  [19929 :edit/user 3 536954533]
+  [19930 :block/open true 536954543]
+  [19930 :block/order 1 536954543]
+  [19930 :block/page 17112 536954544]
+  [19930 :block/parents 17112 536954544]
+  [19930 :block/parents 19926 536954544]
+  [19930 :block/parents 19927 536954544]
+  [19930 :block/string "parsec, 速度吊打todesk和向日葵" 536954546]
+  [19930 :block/uid "3TG6C-7hw" 536954543]
+  [19930 :create/time 1618716813870 536954543]
+  [19930 :create/user 3 536954543]
+  [19930 :edit/time 1618716816185 536954546]
+  [19930 :edit/user 3 536954543]
+  [19931 :block/open true 536954547]
+  [19931 :block/order 2 536954547]
+  [19931 :block/page 17112 536954548]
+  [19931 :block/parents 17112 536954548]
+  [19931 :block/parents 19926 536954548]
+  [19931 :block/parents 19927 536954548]
+  [19931 :block/string "zerotier 组内网然后 windows 的远程桌面" 536954553]
+  [19931 :block/uid "3zqEGWIyG" 536954547]
+  [19931 :create/time 1618716831004 536954547]
+  [19931 :create/user 3 536954547]
+  [19931 :edit/time 1618716836951 536954553]
+  [19931 :edit/user 3 536954547]
+  [19932 :block/open true 536954554]
+  [19932 :block/order 3 536954554]
+  [19932 :block/page 17112 536954555]
+  [19932 :block/parents 17112 536954555]
+  [19932 :block/parents 19926 536954555]
+  [19932 :block/parents 19927 536954555]
+  [19932
+   :block/string
+   "不带压缩的远程桌面真的能用? 都是[千兆上传]?\n我觉得向日葵[白嫖版]非常好 限速根本没影响 稳定性还好 只要不付费就有100台数量\ntodesk 又不限速又限制设备数量 实际上不好用"
+   536954559]
+  [19932 :block/uid "tet85VcIH" 536954554]
+  [19932 :create/time 1618716851588 536954554]
+  [19932 :create/user 3 536954554]
+  [19932 :edit/time 1618716863832 536954559]
+  [19932 :edit/user 3 536954554]
+  [19933 :block/open true 536954560]
+  [19933 :block/order 4 536954560]
+  [19933 :block/page 17112 536954561]
+  [19933 :block/parents 17112 536954561]
+  [19933 :block/parents 19926 536954561]
+  [19933 :block/parents 19927 536954561]
+  [19933
+   :block/string
+   "[有些场景]就是希望代替一下[QQ远程桌面]，给亲戚朋友看个问题。\n但是QQ的远程碰到UAC就会卡死，非常不便。所以需要一个简单快捷的[远程控制工具]（正规的木马），也不可能让他们做什么组内网/FRP\nTeamViewer 死后，目前感觉就向日葵[能满足需求]了"
+   536954572]
+  [19933 :block/uid "D5USfTA37" 536954560]
+  [19933 :create/time 1618716885045 536954560]
+  [19933 :create/user 3 536954560]
+  [19933 :edit/time 1618716936665 536954572]
+  [19933 :edit/user 3 536954560]]}
