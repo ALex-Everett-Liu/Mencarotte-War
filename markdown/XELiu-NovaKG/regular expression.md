@@ -2,4 +2,8 @@
     - forward slash; [[backslash]]
 - indicate the beginning of a line
 - re-find command
+- re-seq command
+    - [[lazy list]]
+    - realization: create the sequence
+        - fully-realized: finite evaluation
 - [[symbol]]; 标点符号;

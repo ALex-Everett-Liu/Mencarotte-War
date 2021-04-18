@@ -2,6 +2,7 @@
     - [[observable universe]]
     - observers in smaller fluctuations
     - self-aware observer
+    - [[spontaneous formation]]
 - empty universe
 - [[reductio ad absurdum]]: 归谬法, 反证法
     - evaluating competing scientific theories
@@ -37,6 +38,14 @@
 (小型量子涨落，从真空中借走最小数量的能量值)
 210417-12:07, 12:20
     - Via nucleation
-        - [Current evidence suggests that] [the vacuum permeating the observable Universe] is not a [[Minkowski space]], but rather a [[de Sitter space]] [with a positive cosmological constant]([[cosmological constant]]).[11]:30 In a de Sitter vacuum (but not in a Minkowski vacuum), a Boltzmann brain can form via nucleation of [[non-virtual particle]]s [gradually assembled by chance] from the [[Hawking radiation]] emitted from the de Sitter space's [bounded](((HvKzzDBrC))) [[cosmological horizon]]. 有界宇宙学视界 One estimate for [the average time required until nucleation] is around $$\displaystyle 10^{10^{69}}$$ years.[10] A typical nucleated Boltzmann brain will, after it finishes its activity, cool off to absolute zero and eventually completely decay, as any isolated object would in the vacuum of space. Unlike the quantum fluctuation case, the Boltzmann brain will radiate energy out to infinity. In nucleation, the most common fluctuations are as close to thermal equilibrium overall as possible given whatever arbitrary criteria are provided for labeling a fluctuation a "Boltzmann brain".[4]
-(德西特空间中的有界宇宙学视界释放霍金辐射产生的非虚粒子的成核过程)
-        - Theoretically a Boltzmann brain can also form, albeit again with a tiny probability, at any time during the matter-dominated early universe.[12]
+        - [Current evidence suggests that] [the vacuum permeating the observable Universe] is not a [[Minkowski space]], but rather a [[de Sitter space]] [with a positive cosmological constant]([[cosmological constant]]).[11]:30 In a [[de Sitter vacuum]] (but not in a Minkowski vacuum), a Boltzmann brain can form via nucleation of [[non-virtual particle]]s [gradually assembled by chance] from the [[Hawking radiation]] emitted from the de Sitter space's [bounded](((HvKzzDBrC))) [[cosmological horizon]]. 有界宇宙学视界 
+            - One estimate for [the average time required until nucleation] is around $$\displaystyle 10^{10^{69}}$$ years.[10] A typical [nucleated Boltzmann brain] will, after it [finishes its activity], [cool off to absolute zero]([[absolute zero]]) and [eventually completely decay], as any [isolated object] would [in the vacuum of space]. Unlike the quantum fluctuation case, the Boltzmann brain will [radiate energy out to infinity](((14T21RwCM))). In nucleation, [the most common fluctuations] are as close to [[thermal equilibrium]] overall as possible [given whatever arbitrary criteria are provided for] labeling a fluctuation a "Boltzmann brain".[4]
+(德西特空间中的有界宇宙学视界释放霍金辐射产生的非虚粒子的成核过程-真空中的孤立物体在结束活动发生后均会冷却至绝对零度并且其结构完全衰退)
+        - Theoretically a Boltzmann brain can also form, albeit again [with a tiny probability], at any time during the [matter-dominated early universe](((vaK30vdRu))).[12]
+- [Modern reactions to] the [Boltzmann brain problem]
+    - The consensus amongst cosmologists is that some yet to be revealed error is hinted at by the surprising calculation that Boltzmann brains should vastly outnumber normal human brains.[4] Sean Carroll states "We're not arguing that Boltzmann Brains exist—we're trying to avoid them."[7] Carroll has stated that the hypothesis of being a Boltzmann brain results in "cognitive instability". Because, he argues, it would take longer than the current age of the universe for a brain to form, and yet it thinks that it observes that it exists in a younger universe, this shows that memories and reasoning processes would be untrustworthy if it were indeed a Boltzmann brain.[13] Seth Lloyd has stated "they fail the Monty Python test: Stop that! That's too silly!" A New Scientist journalist summarizes that "the starting point for our understanding of the universe and its behavior is that humans, not disembodied brains, are typical observers."[14]
+    - Some argue that brains produced via quantum fluctuation, and maybe even brains produced via nucleation in the de Sitter vacuum, do not count as observers. Quantum fluctuations are easier to exclude than nucleated brains, as quantum fluctuations can more easily be targeted by straightforward criteria (such as their lack of interaction with the environment at infinity).[4][10]
+    - Some cosmologists believe that a better understanding of the degrees of freedom in the quantum vacuum of holographic string theory can solve the Boltzmann brain problem.[15]
+
+
+    - Brian Greene states: "I am confident that I am not a Boltzmann brain. However, we want our theories to similarly concur that we are not Boltzmann brains, but so far it has proved surprisingly difficult for them to do so."[16]

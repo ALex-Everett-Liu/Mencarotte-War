@@ -15,3 +15,12 @@
 So what happened to “678”?
             - The [re-find command](((vmHG6WKas))) [looks for the first instance of] [a REGEX pattern]. Hence, [as soon as it found] [a sequence of numbers] (as indicated by **#”\d+”**, which is the same as **[0–9]+**), it stopped and [returned the result].
 210410-14:11
+        - What if we want to find all the numbers, “12345” and “678”?
+            - We can use the [re-seq command](((hQ0DF3o3G))). All **re-seq** does is create a [[lazy list]]. In Clojure programming, the term **__lazy__** infers the list, or [sequence](((apqgRbyjm))), is [only available after] [a function has been applied]. In our case, **re-seq** is the function. Because the sequence is [created on-demand], this [actual creation](((Sf6IwEr-V))) is called a **__realization__**. Some evaluations are infinite, like PI or a third (3.3333 recurring). However, if the evaluation [produces a finite value](((7oOv-OMwZ))), it is referred to as **__fully-realized__**.
+(惰性列表：施用以函数后方可用)
+            - `(re-seq #”\d+” “abc12345def678”)
+(“12345” “678”)`
+            - As you can see, we have found [all groups of numbers]. However, what if we wanted to [find all groups of numbers] and [collect them together as a single string]. For example, “12345678”.
+                - `(apply str (re-seq #”\d+” “abc12345def678”))
+“12345678”`
+As already discussed in the last Post on Functions, we have used **apply** to gather our **__lazy list__** into a single string.

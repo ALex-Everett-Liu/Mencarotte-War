@@ -1,4 +1,4 @@
 - [[degree Celsius]]
-- absolute zero
+- [[absolute zero]]
 - [[room temperature]]
 - [[effective temperature]]

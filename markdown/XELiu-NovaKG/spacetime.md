@@ -2,6 +2,8 @@
     - [[absolute space]]
         - an absolute conception of acceleration
     - Newtonian worldview
+- [[de Sitter space]]
+    - [[de Sitter vacuum]]
 - a discrete structure of space
 - [[empty space]]
     - empty universe
@@ -9,6 +11,8 @@
     - [[relationist position]]: 关系论
         - [[independent existence]]; independent reality; relative
             - [[real entity]]
+- Minkowski space
+    - Minkowski vacuum
 - [[space dimension]]
     - extra spatial dimensions
     - space point

@@ -1,0 +1,4 @@
+- evolutionary history
+- use it or lose it
+- #inbox
+    - 生活在南美洲[安第斯山脉]的[平咽蜥属]蜥蜴的祖先是[卵生的]，[在高海拔的山上][适应寒冷]而使用胎生。那之后，一些从山上[迁移到][山脚温暖环境]的平咽蜥属蜥蜴[重新采用卵生](https://www.zhihu.com/question/454983920/answer/1839626948)[3]。 #pt7-99.99

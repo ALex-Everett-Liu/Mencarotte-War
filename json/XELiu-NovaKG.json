@@ -694,10 +694,10 @@
         },
         "children": [
           {
-            "string": "",
+            "string": "abc12345def678",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1618546070588,
+            "edit-time": 1618738287795,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -12817,6 +12817,18 @@
             }
           },
           {
+            "string": "matter-dominated early universe",
+            "create-time": 1618733393037,
+            "uid": "vaK30vdRu",
+            "edit-time": 1618733393993,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "the shape of space",
             "uid": "jCulKg_15",
             "edit-time": 1617648040894,
@@ -12912,6 +12924,28 @@
             ":block/uid": "Xcdct1Sf8"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[cosmological horizon]]",
+        "create-time": 1618733549089,
+        ":block/refs": [
+          {
+            ":block/uid": "YG-PKvUoM"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "YG-PKvUoM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "YpwY4rGZM",
+        "edit-time": 1618733551255,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -25230,11 +25264,53 @@
             }
           },
           {
-            "string": "[[metropolis list]]",
-            "create-time": 1617801207463,
-            ":block/refs": [
+            "edit-time": 1617801216243,
+            "children": [
               {
-                ":block/uid": "O4-YqA5X2"
+                "edit-time": 1618738945021,
+                "children": [
+                  {
+                    "string": "[look book](https://www.youtube.com/channel/UCWXMWO6UTvjQQa_VealK1BA) -- [Korea](https://bbs.saraba1st.com/2b/thread-1999660-2-1.html) #pt9-99.99",
+                    "create-time": 1618738945014,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "lMcwecsmV"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "lMcwecsmV"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "3k9kEq_CH",
+                    "edit-time": 1618738985387,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "L7fTIw9dt"
+                  }
+                ],
+                "uid": "LhCoaWorc",
+                ":block/refs": [
+                  {
+                    ":block/uid": "L7fTIw9dt"
+                  }
+                ],
+                "string": "#inbox",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1618738940398,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -25242,11 +25318,17 @@
                 "uid": "O4-YqA5X2"
               }
             ],
+            "uid": "_Zhu1x47T",
+            ":block/refs": [
+              {
+                ":block/uid": "O4-YqA5X2"
+              }
+            ],
+            "string": "[[metropolis list]]",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "_Zhu1x47T",
-            "edit-time": 1617801216243,
+            "create-time": 1617801207463,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -34956,6 +35038,28 @@
     },
     "children": [
       {
+        "string": "[[evolutionary biology]]",
+        "create-time": 1618735341644,
+        ":block/refs": [
+          {
+            ":block/uid": "C3jlgjVEt"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "C3jlgjVEt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "EfLp5e6y3",
+        "edit-time": 1618735356268,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "((dHErt50R3))",
         "create-time": 1618095802358,
         ":block/refs": [
@@ -34995,6 +35099,90 @@
         },
         "uid": "Q5pfuD5m4",
         "edit-time": 1617952563171,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "natural history",
+        "children": [
+          {
+            "string": "[[botany]]",
+            "refs": [
+              {
+                "uid": "5m1zCzVxo"
+              }
+            ],
+            "uid": "khEOnQI1S",
+            "edit-time": 1618735465228,
+            ":block/refs": [
+              {
+                ":block/uid": "5m1zCzVxo"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[zoology]]",
+            "refs": [
+              {
+                "uid": "r9LPegwMf"
+              }
+            ],
+            "uid": "uQLCx2S_F",
+            "edit-time": 1618735463862,
+            ":block/refs": [
+              {
+                ":block/uid": "r9LPegwMf"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FS1EDLaaI",
+        "edit-time": 1618735458150,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[systematic biology]]",
+        "refs": [
+          {
+            "uid": "zscBpvSEn"
+          }
+        ],
+        "children": [
+          {
+            "string": "biological organization",
+            "children": [
+              {
+                "string": "life hierarchy",
+                "uid": "tVlC68923",
+                "edit-time": 1618735458150,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "FL7Xv4pf0",
+            "edit-time": 1618735458150,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Y3j2ey3HY",
+        "edit-time": 1618735470900,
+        ":block/refs": [
+          {
+            ":block/uid": "zscBpvSEn"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -36780,6 +36968,28 @@
         }
       },
       {
+        "string": "[[Poincaré recurrence theorem]]",
+        "create-time": 1618733029706,
+        ":block/refs": [
+          {
+            ":block/uid": "0GCtHCc1k"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0GCtHCc1k"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "nDl3QSlUK",
+        "edit-time": 1618733031596,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "statistical interpretation",
         "uid": "4JVaOs8qn",
         "edit-time": 1618540135353,
@@ -36823,9 +37033,19 @@
         "string": "laws of thermodynamics; 热力学三定律",
         "children": [
           {
-            "string": "absolute zero",
+            "string": "[[absolute zero]]",
+            "refs": [
+              {
+                "uid": "v3cSfWdj3"
+              }
+            ],
             "uid": "AkXZdu0Ft",
-            "edit-time": 1618003281147,
+            "edit-time": 1618732763547,
+            ":block/refs": [
+              {
+                ":block/uid": "v3cSfWdj3"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -37992,6 +38212,104 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "What if we want to find all the numbers, “12345” and “678”?",
+                "create-time": 1618736785451,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "We can use the [re-seq command](((hQ0DF3o3G))). All **re-seq** does is create a [[lazy list]]. In Clojure programming, the term **__lazy__** infers the list, or [sequence](((apqgRbyjm))), is [only available after] [a function has been applied]. In our case, **re-seq** is the function. Because the sequence is [created on-demand], this [actual creation](((Sf6IwEr-V))) is called a **__realization__**. Some evaluations are infinite, like PI or a third (3.3333 recurring). However, if the evaluation [produces a finite value](((7oOv-OMwZ))), it is referred to as **__fully-realized__**.\n(惰性列表：施用以函数后方可用)",
+                    "create-time": 1618736792613,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "apqgRbyjm"
+                      },
+                      {
+                        ":block/uid": "hQ0DF3o3G"
+                      },
+                      {
+                        ":block/uid": "Sf6IwEr-V"
+                      },
+                      {
+                        ":block/uid": "7oOv-OMwZ"
+                      },
+                      {
+                        ":block/uid": "K9zpFUruE"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "apqgRbyjm"
+                      },
+                      {
+                        "uid": "hQ0DF3o3G"
+                      },
+                      {
+                        "uid": "Sf6IwEr-V"
+                      },
+                      {
+                        "uid": "7oOv-OMwZ"
+                      },
+                      {
+                        "uid": "K9zpFUruE"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "m8W1J8TRN",
+                    "edit-time": 1618738244883,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "`(re-seq #”\\d+” “abc12345def678”)\n(“12345” “678”)`",
+                    "create-time": 1618738036735,
+                    "uid": "-2S_eiK5T",
+                    "edit-time": 1618738041314,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "As you can see, we have found [all groups of numbers]. However, what if we wanted to [find all groups of numbers] and [collect them together as a single string]. For example, “12345678”.",
+                    "create-time": 1618738050396,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "`(apply str (re-seq #”\\d+” “abc12345def678”))\n“12345678”`\nAs already discussed in the last Post on Functions, we have used **apply** to gather our **__lazy list__** into a single string.",
+                        "create-time": 1618738091470,
+                        "uid": "DMfbbZRCI",
+                        "edit-time": 1618738100863,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "hs4h6mBnu",
+                    "edit-time": 1618738069165,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "fhQBoOuVu",
+                "edit-time": 1618736786562,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -38289,6 +38607,52 @@
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "re-seq command",
+        "children": [
+          {
+            "string": "[[lazy list]]",
+            "refs": [
+              {
+                "uid": "K9zpFUruE"
+              }
+            ],
+            "uid": "uJ5aSY0GG",
+            "edit-time": 1618738219171,
+            ":block/refs": [
+              {
+                ":block/uid": "K9zpFUruE"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "realization: create the sequence",
+            "children": [
+              {
+                "string": "fully-realized: finite evaluation",
+                "uid": "7oOv-OMwZ",
+                "edit-time": 1618738175791,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Sf6IwEr-V",
+            "edit-time": 1618738175791,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hQ0DF3o3G",
+        "edit-time": 1618738192247,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -40334,6 +40698,44 @@
         }
       },
       {
+        "string": "[[de Sitter space]]",
+        "refs": [
+          {
+            "uid": "ESVfm9ov_"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[de Sitter vacuum]]",
+            "refs": [
+              {
+                "uid": "AiKf3xCHe"
+              }
+            ],
+            "uid": "gk6CikPF4",
+            "edit-time": 1618733439412,
+            ":block/refs": [
+              {
+                ":block/uid": "AiKf3xCHe"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "uEV2hZFmL",
+        "edit-time": 1618733440658,
+        ":block/refs": [
+          {
+            ":block/uid": "ESVfm9ov_"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "((GTpoMP3St))",
         "create-time": 1618065823306,
         ":block/refs": [
@@ -40481,6 +40883,24 @@
             ":block/uid": "U7hdbrsKu"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Minkowski space",
+        "children": [
+          {
+            "string": "Minkowski vacuum",
+            "uid": "1MH79ZcV6",
+            "edit-time": 1618733082552,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "YM4F9XNEJ",
+        "edit-time": 1618733082552,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -46287,6 +46707,18 @@
                 ":block/uid": "qA4Rt9i9Z"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "sequence",
+            "create-time": 1618737915055,
+            "uid": "apqgRbyjm",
+            "edit-time": 1618737915995,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -54999,6 +55431,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[[spontaneous formation]]",
+            "create-time": 1618733010497,
+            ":block/refs": [
+              {
+                ":block/uid": "_sXxZOnX7"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_sXxZOnX7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "3eH8ZjjTR",
+            "edit-time": 1618733012687,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -55634,29 +56088,41 @@
             },
             "children": [
               {
-                "string": "[Current evidence suggests that] [the vacuum permeating the observable Universe] is not a [[Minkowski space]], but rather a [[de Sitter space]] [with a positive cosmological constant]([[cosmological constant]]).[11]:30 In a de Sitter vacuum (but not in a Minkowski vacuum), a Boltzmann brain can form via nucleation of [[non-virtual particle]]s [gradually assembled by chance] from the [[Hawking radiation]] emitted from the de Sitter space's [bounded](((HvKzzDBrC))) [[cosmological horizon]]. 有界宇宙学视界 One estimate for [the average time required until nucleation] is around $$\\displaystyle 10^{10^{69}}$$ years.[10] A typical nucleated Boltzmann brain will, after it finishes its activity, cool off to absolute zero and eventually completely decay, as any isolated object would in the vacuum of space. Unlike the quantum fluctuation case, the Boltzmann brain will radiate energy out to infinity. In nucleation, the most common fluctuations are as close to thermal equilibrium overall as possible given whatever arbitrary criteria are provided for labeling a fluctuation a \"Boltzmann brain\".[4]\n(德西特空间中的有界宇宙学视界释放霍金辐射产生的非虚粒子的成核过程)",
-                "create-time": 1618649851931,
-                ":block/refs": [
+                "edit-time": 1618733149864,
+                "children": [
                   {
-                    ":block/uid": "Xcdct1Sf8"
-                  },
-                  {
-                    ":block/uid": "byURcu1dq"
-                  },
-                  {
-                    ":block/uid": "13-m-FNqS"
-                  },
-                  {
-                    ":block/uid": "ESVfm9ov_"
-                  },
-                  {
-                    ":block/uid": "77NAqZF0P"
-                  },
-                  {
-                    ":block/uid": "YG-PKvUoM"
-                  },
-                  {
-                    ":block/uid": "HvKzzDBrC"
+                    "string": "One estimate for [the average time required until nucleation] is around $$\\displaystyle 10^{10^{69}}$$ years.[10] A typical [nucleated Boltzmann brain] will, after it [finishes its activity], [cool off to absolute zero]([[absolute zero]]) and [eventually completely decay], as any [isolated object] would [in the vacuum of space]. Unlike the quantum fluctuation case, the Boltzmann brain will [radiate energy out to infinity](((14T21RwCM))). In nucleation, [the most common fluctuations] are as close to [[thermal equilibrium]] overall as possible [given whatever arbitrary criteria are provided for] labeling a fluctuation a \"Boltzmann brain\".[4]\n(德西特空间中的有界宇宙学视界释放霍金辐射产生的非虚粒子的成核过程-真空中的孤立物体在结束活动发生后均会冷却至绝对零度并且其结构完全衰退)",
+                    "create-time": 1618649851931,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fVov8PaXx"
+                      },
+                      {
+                        ":block/uid": "v3cSfWdj3"
+                      },
+                      {
+                        ":block/uid": "14T21RwCM"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "fVov8PaXx"
+                      },
+                      {
+                        "uid": "v3cSfWdj3"
+                      },
+                      {
+                        "uid": "14T21RwCM"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "DilpE7Jtg",
+                    "edit-time": 1618733149877,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
@@ -55680,25 +56146,65 @@
                   },
                   {
                     "uid": "HvKzzDBrC"
+                  },
+                  {
+                    "uid": "AiKf3xCHe"
                   }
                 ],
+                "uid": "aeAUV1iOk",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Xcdct1Sf8"
+                  },
+                  {
+                    ":block/uid": "byURcu1dq"
+                  },
+                  {
+                    ":block/uid": "13-m-FNqS"
+                  },
+                  {
+                    ":block/uid": "ESVfm9ov_"
+                  },
+                  {
+                    ":block/uid": "77NAqZF0P"
+                  },
+                  {
+                    ":block/uid": "YG-PKvUoM"
+                  },
+                  {
+                    ":block/uid": "HvKzzDBrC"
+                  },
+                  {
+                    ":block/uid": "AiKf3xCHe"
+                  }
+                ],
+                "string": "[Current evidence suggests that] [the vacuum permeating the observable Universe] is not a [[Minkowski space]], but rather a [[de Sitter space]] [with a positive cosmological constant]([[cosmological constant]]).[11]:30 In a [[de Sitter vacuum]] (but not in a Minkowski vacuum), a Boltzmann brain can form via nucleation of [[non-virtual particle]]s [gradually assembled by chance] from the [[Hawking radiation]] emitted from the de Sitter space's [bounded](((HvKzzDBrC))) [[cosmological horizon]]. 有界宇宙学视界 ",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "DilpE7Jtg",
-                "edit-time": 1618652207894,
+                "create-time": 1618733149864,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               },
               {
-                "string": "Theoretically a Boltzmann brain can also form, albeit again with a tiny probability, at any time during the matter-dominated early universe.[12]",
+                "string": "Theoretically a Boltzmann brain can also form, albeit again [with a tiny probability], at any time during the [matter-dominated early universe](((vaK30vdRu))).[12]",
                 "create-time": 1618649836725,
-                "uid": "6Hi-wEBI2",
-                "edit-time": 1618649851937,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vaK30vdRu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "vaK30vdRu"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "6Hi-wEBI2",
+                "edit-time": 1618733400098,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -55727,6 +56233,68 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1618628236133,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[Modern reactions to] the [Boltzmann brain problem]",
+        "create-time": 1618733742091,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "The consensus amongst cosmologists is that some yet to be revealed error is hinted at by the surprising calculation that Boltzmann brains should vastly outnumber normal human brains.[4] Sean Carroll states \"We're not arguing that Boltzmann Brains exist—we're trying to avoid them.\"[7] Carroll has stated that the hypothesis of being a Boltzmann brain results in \"cognitive instability\". Because, he argues, it would take longer than the current age of the universe for a brain to form, and yet it thinks that it observes that it exists in a younger universe, this shows that memories and reasoning processes would be untrustworthy if it were indeed a Boltzmann brain.[13] Seth Lloyd has stated \"they fail the Monty Python test: Stop that! That's too silly!\" A New Scientist journalist summarizes that \"the starting point for our understanding of the universe and its behavior is that humans, not disembodied brains, are typical observers.\"[14]",
+            "create-time": 1618733758062,
+            "uid": "ujomcC0Gb",
+            "edit-time": 1618733760595,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Some argue that brains produced via quantum fluctuation, and maybe even brains produced via nucleation in the de Sitter vacuum, do not count as observers. Quantum fluctuations are easier to exclude than nucleated brains, as quantum fluctuations can more easily be targeted by straightforward criteria (such as their lack of interaction with the environment at infinity).[4][10]",
+            "create-time": 1618733757002,
+            "uid": "7qoK-x08-",
+            "edit-time": 1618733762289,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Some cosmologists believe that a better understanding of the degrees of freedom in the quantum vacuum of holographic string theory can solve the Boltzmann brain problem.[15]\n\n",
+            "create-time": 1618733755926,
+            "uid": "GOXyHp2Wj",
+            "edit-time": 1618733757008,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Brian Greene states: \"I am confident that I am not a Boltzmann brain. However, we want our theories to similarly concur that we are not Boltzmann brains, but so far it has proved surprisingly difficult for them to do so.\"[16]",
+            "create-time": 1618733742935,
+            "uid": "F5kqMXG3D",
+            "edit-time": 1618733755932,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hExwFKHwi",
+        "edit-time": 1618733772886,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -57428,6 +57996,44 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[virtual particle]]",
+        "refs": [
+          {
+            "uid": "Z5pyH1TJZ"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[non-virtual particle]];",
+            "refs": [
+              {
+                "uid": "77NAqZF0P"
+              }
+            ],
+            "uid": "vqpAmMG3T",
+            "edit-time": 1618733515490,
+            ":block/refs": [
+              {
+                ":block/uid": "77NAqZF0P"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "laJBAiGzE",
+        "edit-time": 1618733516773,
+        ":block/refs": [
+          {
+            ":block/uid": "Z5pyH1TJZ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "QImrFfaRT",
@@ -57589,6 +58195,20 @@
       },
       {
         "string": "radiate energy;",
+        "children": [
+          {
+            "string": "radiate energy out to infinity; ",
+            "create-time": 1618732917497,
+            "uid": "14T21RwCM",
+            "edit-time": 1618732919691,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "NDQ59nkIH",
         "edit-time": 1618632965196,
         ":edit/user": {
@@ -58510,6 +59130,166 @@
     ],
     "uid": "0SPrNsv6R",
     "edit-time": 1618718611701,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618732759167,
+    "title": "absolute zero",
+    "uid": "v3cSfWdj3",
+    "edit-time": 1618732759168,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618733108809,
+    "title": "de Sitter vacuum",
+    "uid": "AiKf3xCHe",
+    "edit-time": 1618733108811,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618733516775,
+    "title": "virtual particle",
+    "uid": "Z5pyH1TJZ",
+    "edit-time": 1618733516776,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618735356270,
+    "title": "evolutionary biology",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "evolutionary history",
+        "uid": "1m0DBtZ36",
+        "edit-time": 1618735482852,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "use it or lose it",
+        "uid": "naPe6MUei",
+        "edit-time": 1618735482852,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618735359446,
+        "children": [
+          {
+            "string": "生活在南美洲[安第斯山脉]的[平咽蜥属]蜥蜴的祖先是[卵生的]，[在高海拔的山上][适应寒冷]而使用胎生。那之后，一些从山上[迁移到][山脚温暖环境]的平咽蜥属蜥蜴[重新采用卵生](https://www.zhihu.com/question/454983920/answer/1839626948)[3]。 #pt7-99.99",
+            "create-time": 1618735359440,
+            ":block/refs": [
+              {
+                ":block/uid": "fUmISsvts"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "fUmISsvts"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "fDF-ouTB9",
+            "edit-time": 1618735561859,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "J7V3WrgIh",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618735357412,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "C3jlgjVEt",
+    "edit-time": 1618735356270,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618735463865,
+    "title": "zoology",
+    "uid": "r9LPegwMf",
+    "edit-time": 1618735463865,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618735465230,
+    "title": "botany",
+    "uid": "5m1zCzVxo",
+    "edit-time": 1618735465231,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618735470902,
+    "title": "systematic biology",
+    "uid": "zscBpvSEn",
+    "edit-time": 1618735470903,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618738217052,
+    "title": "lazy list",
+    "uid": "K9zpFUruE",
+    "edit-time": 1618738217053,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

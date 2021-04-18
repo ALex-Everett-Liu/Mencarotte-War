@@ -10,3 +10,5 @@
     - submicroscopic particle
 - [[proton]]
 - [[theoretical physics]]; [[theoretical physicist]]
+- [[virtual particle]]
+    - [[non-virtual particle]];

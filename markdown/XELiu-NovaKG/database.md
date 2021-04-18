@@ -5,6 +5,7 @@
     - form instance;
 - [[list]]
     - make list; [[list management]]
+    - sequence
 - namespace
 - [[SQL]]
     - OQL

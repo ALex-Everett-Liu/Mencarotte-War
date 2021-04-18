@@ -1,7 +1,7 @@
 - general...
     - insulated enclosure
 - laws of thermodynamics; 热力学三定律
-    - absolute zero
+    - [[absolute zero]]
     - [[the second law of thermodynamics]]
 - [[radiation]]
 - [[temperature]]
