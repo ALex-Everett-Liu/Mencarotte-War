@@ -192,6 +192,10 @@
                         - exclusive;
                             - [[mutually exclusive]];
                     - included; including
+            - inhere
+                - inherent: 固有的
+            - initial
+                - initially;
             - int
                 - intrinsic: 固有的; 内在的; 本身的, 本征的, 本质的;
         - is

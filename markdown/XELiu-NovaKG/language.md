@@ -3,5 +3,6 @@
 - letter
     - [[alphabet]]
     - [[lexicographic relation]]: 词典关系
+- [[input method (IME)]]
 - [[phonology]]
 - [[vocabulary]]

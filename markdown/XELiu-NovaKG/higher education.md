@@ -3,8 +3,9 @@
 - general...
     - tuition-free
 - [[graduate school]]
-    - [[graduate student]]
     - co-supervisor
+    - [[graduate student]]
+    - Master degree
     - [[PhD]]
     - postdoctoral position
 - major...

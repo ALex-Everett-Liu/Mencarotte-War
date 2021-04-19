@@ -1,5 +1,24 @@
+- computer monitor
+- display
+    - high contrast
+    - [[screen]]
+- electronic device; digital device
+    - device type;
+    - smart device
+- [[firmware]]
+- [[GPU]]
+    - NVIDIA control panel
+    - GeForce GTX 1650 -- my device 202011
+- hardware component;
 - [[mobile phone]]
     - [[smartphone]]
+- [[processor]]
+    - [[CPU (central processing unit)]]
+- [[RAM]] -- 16.0 GB
+- storage
+    - disk bay
+    - [[floppy disk]]
+- [[wearable technology]]
 - #inbox
     - [硬件](https://bbs.saraba1st.com/2b/thread-1999436-2-1.html) 理性讨论，pc diy 会被干死吗？ #pt10-99.98
         - [整机]相对DIY[技术上]目前没有[绝对优势]，但是如果某一天开始[DIY部件]组不出整机性能/功能的机器的时候，DIY也会变成[情怀党自嗨]

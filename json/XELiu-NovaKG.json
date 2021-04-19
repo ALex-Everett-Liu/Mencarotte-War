@@ -738,10 +738,10 @@
         },
         "children": [
           {
-            "string": "abc12345def678",
+            "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1618738287795,
+            "edit-time": 1618799114974,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -4221,6 +4221,28 @@
     },
     "children": [
       {
+        "string": "[[artificial intelligence (AI)]]",
+        "create-time": 1618803753386,
+        ":block/refs": [
+          {
+            ":block/uid": "CJA0vqI1F"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "CJA0vqI1F"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ML1MzRFQt",
+        "edit-time": 1618803755320,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[data structure]]",
         "create-time": 1618141297636,
         ":block/refs": [
@@ -4446,27 +4468,35 @@
             }
           },
           {
-            "string": "instruction...",
+            "string": "instruction",
             "children": [
               {
-                "string": "programming instruction; computing instruction",
-                "uid": "XXBTS1t6h",
-                "edit-time": 1618180284519,
+                "string": "basic instruction",
+                "uid": "DtVyuDcUk",
+                "edit-time": 1618803410100,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               },
               {
-                "string": "basic instruction",
-                "uid": "1vnq1s_In",
-                "edit-time": 1618180284519,
+                "string": "programming instruction; computing instruction",
+                "uid": "8Tz2wzfTH",
+                "edit-time": 1618803410100,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "a sequence of instructions",
+                "uid": "kj2eAb_ww",
+                "edit-time": 1618803410100,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
               }
             ],
             "uid": "EprraoRzR",
-            "edit-time": 1618180284519,
+            "edit-time": 1618803413018,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -4762,6 +4792,28 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[assembly language]]",
+        "create-time": 1618802802253,
+        ":block/refs": [
+          {
+            ":block/uid": "mvrxOmbl1"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mvrxOmbl1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "egi-uI_wp",
+        "edit-time": 1618802806465,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[Language/BASIC]]",
         "create-time": 1618796428828,
@@ -5843,6 +5895,42 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "create-time": 1617923830913,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1618804256609,
+            "children": [
+              {
+                "string": "三代之前的华夏文明，很可能更类似于苏美尔城邦林地的状态",
+                "create-time": 1618804203529,
+                "uid": "9n1E_-lOr",
+                "edit-time": 1618804204946,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZwUxvBbB4"
+              }
+            ],
+            "uid": "cXuCbdI1P",
+            ":block/refs": [
+              {
+                ":block/uid": "ZwUxvBbB4"
+              }
+            ],
+            "string": "“蛮”这个字在[出土器物]中最早出现[西周青铜器]上，写作“䜌”，[后世]加上“虫”[表示贬低]。可能是[特指][某个部落]，也可能是[泛指][某些周边的势力]。“䜌”又分化出“栾”，成为一个[姓氏]。现在这个“蛮”[被抽象出来]，成为[鄙视链的低端一方]，这个就扯不清了。没有[文献证据]的情况下，[瞎猜][谁是蛮子][基本上没啥意义](https://bbs.northdy.com/thread-929003-1-1.html)。 #pt7-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618804055742,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -16286,6 +16374,42 @@
                     }
                   },
                   {
+                    "string": "inhere",
+                    "children": [
+                      {
+                        "string": "inherent: 固有的",
+                        "uid": "Xt-z5MCz8",
+                        "edit-time": 1618803026870,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "HnOpBgaor",
+                    "edit-time": 1618803026870,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "initial",
+                    "children": [
+                      {
+                        "string": "initially;",
+                        "uid": "iEPF4oMFz",
+                        "edit-time": 1618803026870,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "9vHPRT5aF",
+                    "edit-time": 1618803026870,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
                     "string": "int",
                     "create-time": 1617649900929,
                     ":create/user": {
@@ -19226,6 +19350,28 @@
         ],
         "uid": "l6aSbCGxR",
         "edit-time": 1617671742675,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[input method (IME)]]",
+        "create-time": 1618799105817,
+        ":block/refs": [
+          {
+            ":block/uid": "muu3VLWvb"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "muu3VLWvb"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "FNoIRSEFC",
+        "edit-time": 1618799107890,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -25059,6 +25205,138 @@
     },
     "children": [
       {
+        "string": "computer monitor",
+        "uid": "66YeinBuV",
+        "edit-time": 1618802600143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "display",
+        "children": [
+          {
+            "string": "high contrast",
+            "uid": "Va9oxl_DO",
+            "edit-time": 1618802600143,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[screen]]",
+            "refs": [
+              {
+                "uid": "IdW2u-lza"
+              }
+            ],
+            "uid": "Wcy1ziySm",
+            "edit-time": 1618802617158,
+            ":block/refs": [
+              {
+                ":block/uid": "IdW2u-lza"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Yw0WdResB",
+        "edit-time": 1618802600143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "electronic device; digital device",
+        "children": [
+          {
+            "string": "device type;",
+            "uid": "JlepjOh44",
+            "edit-time": 1618802659401,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "smart device",
+            "uid": "7ooPG_-7L",
+            "edit-time": 1618802659401,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "qCUkXXbh3",
+        "edit-time": 1618802659401,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[firmware]]",
+        "refs": [
+          {
+            "uid": "TON7pxk4a"
+          }
+        ],
+        "uid": "QLoxTwEno",
+        "edit-time": 1618802675529,
+        ":block/refs": [
+          {
+            ":block/uid": "TON7pxk4a"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[GPU]]",
+        "refs": [
+          {
+            "uid": "7lYVnxjq1"
+          }
+        ],
+        "children": [
+          {
+            "string": "NVIDIA control panel",
+            "uid": "i4T-VztuB",
+            "edit-time": 1618802659401,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "GeForce GTX 1650 -- my device 202011",
+            "uid": "Z0w7_YIAA",
+            "edit-time": 1618802659401,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "q8Hi0dfWc",
+        "edit-time": 1618802682417,
+        ":block/refs": [
+          {
+            ":block/uid": "7lYVnxjq1"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "hardware component;",
+        "uid": "41-wxSmnM",
+        "edit-time": 1618802659401,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1618718611698,
         "children": [
           {
@@ -25100,6 +25378,120 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1618718606314,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618802879518,
+        "children": [
+          {
+            "string": "[[CPU (central processing unit)]]",
+            "refs": [
+              {
+                "uid": "WuNiEnlSP"
+              }
+            ],
+            "uid": "b5FmZPKvX",
+            "edit-time": 1618802604535,
+            ":block/refs": [
+              {
+                ":block/uid": "WuNiEnlSP"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "XhtiXd76k"
+          }
+        ],
+        "uid": "5Y6mz33w8",
+        ":block/refs": [
+          {
+            ":block/uid": "XhtiXd76k"
+          }
+        ],
+        "string": "[[processor]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618802875820,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[RAM]] -- 16.0 GB",
+        "refs": [
+          {
+            "uid": "6u3z8hsle"
+          }
+        ],
+        "uid": "kMp_vFc0w",
+        "edit-time": 1618802712694,
+        ":block/refs": [
+          {
+            ":block/uid": "6u3z8hsle"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "storage",
+        "children": [
+          {
+            "string": "disk bay",
+            "uid": "yfHaFsETL",
+            "edit-time": 1618802702766,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[floppy disk]]",
+            "refs": [
+              {
+                "uid": "LleHe2Zy5"
+              }
+            ],
+            "uid": "8gGcnzrmw",
+            "edit-time": 1618802707168,
+            ":block/refs": [
+              {
+                ":block/uid": "LleHe2Zy5"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "NnDt5qr0g",
+        "edit-time": 1618802702766,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[wearable technology]]",
+        "refs": [
+          {
+            "uid": "ITy7QlhX_"
+          }
+        ],
+        "uid": "u__JE644W",
+        "edit-time": 1618802729301,
+        ":block/refs": [
+          {
+            ":block/uid": "ITy7QlhX_"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -27943,6 +28335,42 @@
                 ":block/uid": "S41onlg92"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1618799891870,
+            "children": [
+              {
+                "string": "其实湖畔里面[大部分都是][被阿里投资的企业]和[淘系关联企业]高管。\n[鹅厂]也有类似的[小圈子]，无非是大家不知道罢了。",
+                "create-time": 1618799784240,
+                "uid": "5Ynq29aQD",
+                "edit-time": 1618799799377,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZwUxvBbB4"
+              }
+            ],
+            "uid": "uBiKH0Jm-",
+            ":block/refs": [
+              {
+                ":block/uid": "ZwUxvBbB4"
+              }
+            ],
+            "string": "[泰山会]也好，[湖畔大学]也好，这种[有钱人的小团体](https://bbs.saraba1st.com/2b/thread-1998433-5-1.html)感觉就很 evil #pt7-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618799435675,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -35834,6 +36262,28 @@
     },
     "children": [
       {
+        "string": "((6Rdswto82))",
+        "create-time": 1618802637676,
+        ":block/refs": [
+          {
+            ":block/uid": "6Rdswto82"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "6Rdswto82"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "-NXpHoMqO",
+        "edit-time": 1618802638751,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "television show",
         "uid": "sZOaol5Gu",
         "edit-time": 1617959308063,
@@ -38591,7 +39041,51 @@
             "heading": 2,
             "children": [
               {
-                "string": "I often refer to a computer, or [computing enabled device] such as a [[smartphone]], as the ‘Machine’. In other words, [any machine capable of] being programmed (Not your [washing machine](((TIIb--9QZ)))). I first began to try and understand the ‘Machine’ in 1982. At this time, Computer Science, or as it was known at the time, Computer Studies, was the ‘new kid’ in school. At the time, I saved up all my pennies from [paper-rounds](((QAtW1P6XK))) and other [[part-time job]]s to purchase my very first Machine, a Sinclair ZX81. At this time, the [programming language] to know was [[Language/BASIC]]. BASIC stood for ‘Beginners All-Purpose Symbolic Instruction Code.’ Compared to my ZX81, the school computer was a highly advanced device built by a local company called Research Machines. It had a 5 and a quarter inch floppy disk and 4K RAM; wealthy schools had BBC Micros or Apples! At this time, the Processor or CPU (central processing unit) was more than likely a Z80 processor. To get the most out of this processor (especially with only 1K of RAM), you needed to know low-level Assembly language. This meant injecting your BASIC code with Peek and Poke commands — necessary to force in Assembly mnemonics and get the most out of the processor. Nevertheless, because of inherent hardware limitations, coding on these old machines ensured you learned to code efficiently and strictly.\n210419-09:39",
+                "edit-time": 1618803092607,
+                "children": [
+                  {
+                    "string": "Compared to my ZX81, the [school computer] was [a highly advanced device] built by a [local company] called Research Machines. It had a 5 and a quarter inch [[floppy disk]] 5.25 英寸软盘 and 4K RAM; [wealthy schools] had [BBC Micros] or Apples! At this time, the Processor or [[CPU (central processing unit)]] was more than likely a [Z80 processor]. To get the most out of this processor (especially with only 1K of RAM), you needed to know [low-level Assembly language](((egi-uI_wp))). This meant [injecting your BASIC code with] Peek and Poke commands — necessary to force in Assembly mnemonics and [get the most out of the processor](((5Y6mz33w8))). Nevertheless, because of [inherent hardware limitations](((Xt-z5MCz8))), [coding on these old machines] ensured you [learned to code efficiently and strictly].\n210419-09:39, 11:28",
+                    "refs": [
+                      {
+                        "uid": "LleHe2Zy5"
+                      },
+                      {
+                        "uid": "WuNiEnlSP"
+                      },
+                      {
+                        "uid": "egi-uI_wp"
+                      },
+                      {
+                        "uid": "5Y6mz33w8"
+                      },
+                      {
+                        "uid": "Xt-z5MCz8"
+                      }
+                    ],
+                    "uid": "IzdNG1etl",
+                    "edit-time": 1618803145947,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "LleHe2Zy5"
+                      },
+                      {
+                        ":block/uid": "WuNiEnlSP"
+                      },
+                      {
+                        ":block/uid": "egi-uI_wp"
+                      },
+                      {
+                        ":block/uid": "5Y6mz33w8"
+                      },
+                      {
+                        ":block/uid": "Xt-z5MCz8"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
                 "refs": [
                   {
                     "uid": "_9Tz9U1le"
@@ -38609,8 +39103,7 @@
                     "uid": "-EfzkojEk"
                   }
                 ],
-                "uid": "IzdNG1etl",
-                "edit-time": 1618796441200,
+                "uid": "FkSsOTlSi",
                 ":block/refs": [
                   {
                     ":block/uid": "_9Tz9U1le"
@@ -38628,6 +39121,33 @@
                     ":block/uid": "-EfzkojEk"
                   }
                 ],
+                "string": "I often refer to a computer, or [computing enabled device] such as a [[smartphone]], as the ‘Machine’. In other words, [any machine capable of] being programmed (Not your [washing machine](((TIIb--9QZ)))). I first began to try and understand the ‘Machine’ in 1982. At this time, Computer Science, or as it was known at the time, Computer Studies, was the ‘new kid’ in school. At the time, I saved up all my pennies from [paper-rounds](((QAtW1P6XK))) and other [[part-time job]]s to purchase my very first Machine, a Sinclair ZX81. At this time, the [programming language] to know was [[Language/BASIC]]. BASIC stood for ‘Beginners All-Purpose Symbolic Instruction Code.’ ",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1618803092607,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Now everyone is an ‘IT Expert.’ To be an IT expert, [all you need to do] is [a few vanity courses] and, perhaps, a [Master's degree](((IEb4EMouZ))). There are now more ‘IT Experts’ than those that can actually code. Nevertheless, [you will never really understand] the Machine unless you can [talk to the machine]. To talk to the Machine, [you need to know] [how to code].",
+                "create-time": 1618803172859,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IEb4EMouZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "IEb4EMouZ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "iwJfiyhpg",
+                "edit-time": 1618803319672,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -38635,6 +39155,116 @@
             ],
             "uid": "MAmwbE_Bt",
             "edit-time": 1618795554984,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Coding aka Programming",
+            "heading": 2,
+            "children": [
+              {
+                "string": "All computer programs can be built out of just three elements, **__sequence__**, **__selection__**, and **__repetition__**. Sequence refers to [a sequence of instructions](((kj2eAb_ww))) that [follow a specific order]. For example:",
+                "refs": [
+                  {
+                    "uid": "kj2eAb_ww"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "1. Wake-up\n2. Get out of bed\n3. Shower\n4. Get dressed\n5. Drink Coffee\n6. Leave for work",
+                    "create-time": 1618803469268,
+                    "uid": "uvkrpeP2T",
+                    "edit-time": 1618803469268,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[The important thing about] Sequence is the order. You wouldn’t want to Shower [before you woke-up]?",
+                    "create-time": 1618803456591,
+                    "uid": "4z_JuadJL",
+                    "edit-time": 1618803480691,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "GVrRciQgU",
+                "edit-time": 1618803422181,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kj2eAb_ww"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "CdbuZl-Ox",
+            "edit-time": 1618803177570,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Why Clojure",
+            "heading": 2,
+            "children": [
+              {
+                "string": "The Clojure language was [initially released in] 2007. Clojure is [a modern dialect of] [an old language] called LISP. For many reasons, [which I will not go into] because to do so would [require a whole other book] (or books), LISP [became indispensable in] [early AI (Artificial Intelligence) research](((ML1MzRFQt))). Like all [LISP-like languages](((SzZImJXGt))), Clojure code is written as **__S-expressions__**. An [S-expression](((YJ2oDHxYT))) is [a simple structure]:\n**__(function argument argument … )__**\n210419-11:40",
+                "refs": [
+                  {
+                    "uid": "YJ2oDHxYT"
+                  },
+                  {
+                    "uid": "SzZImJXGt"
+                  },
+                  {
+                    "uid": "ML1MzRFQt"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "For example, to add two numbers:\n`(+ 2 3)`",
+                    "create-time": 1618803632615,
+                    "uid": "7EmkaVYNK",
+                    "edit-time": 1618803647297,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "Gtx5B6Qm3",
+                "edit-time": 1618803778483,
+                ":block/refs": [
+                  {
+                    ":block/uid": "YJ2oDHxYT"
+                  },
+                  {
+                    ":block/uid": "SzZImJXGt"
+                  },
+                  {
+                    ":block/uid": "ML1MzRFQt"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "QekT_doJj",
+            "edit-time": 1618803511712,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -39496,11 +40126,29 @@
   {
     "create-time": 1618019514670,
     "title": "Lisp",
-    "uid": "7t7mgKCO3",
-    "edit-time": 1618019514671,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "LISP-like;",
+        "uid": "SzZImJXGt",
+        "edit-time": 1618803678558,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "S-expression",
+        "uid": "YJ2oDHxYT",
+        "edit-time": 1618803678558,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "7t7mgKCO3",
+    "edit-time": 1618019514671,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -42692,6 +43340,28 @@
         },
         "children": [
           {
+            "string": "((ML1MzRFQt))",
+            "create-time": 1618803863976,
+            ":block/refs": [
+              {
+                ":block/uid": "ML1MzRFQt"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ML1MzRFQt"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "U86GgSr_Y",
+            "edit-time": 1618803864894,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[collective intelligence]]",
             "refs": [
               {
@@ -42788,19 +43458,23 @@
         },
         "children": [
           {
-            "string": "[[neuron]]",
-            "refs": [
-              {
-                "uid": "W6Q4tqYt-"
-              }
-            ],
-            "uid": "oZa0LuV5C",
-            "edit-time": 1618792891308,
+            "string": "((zEa56DIZT))",
+            "create-time": 1618803914700,
             ":block/refs": [
               {
-                ":block/uid": "W6Q4tqYt-"
+                ":block/uid": "zEa56DIZT"
               }
             ],
+            "refs": [
+              {
+                "uid": "zEa56DIZT"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "6sR3_yU6l",
+            "edit-time": 1618803915359,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -42817,6 +43491,24 @@
             ":block/refs": [
               {
                 ":block/uid": "ss2KJrkOb"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[neuron]]",
+            "refs": [
+              {
+                "uid": "W6Q4tqYt-"
+              }
+            ],
+            "uid": "oZa0LuV5C",
+            "edit-time": 1618792891308,
+            ":block/refs": [
+              {
+                ":block/uid": "W6Q4tqYt-"
               }
             ],
             ":edit/user": {
@@ -50233,6 +50925,14 @@
         ],
         "children": [
           {
+            "string": "co-supervisor",
+            "uid": "R62a9UiUP",
+            "edit-time": 1618266546226,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[graduate student]]",
             "refs": [
               {
@@ -50251,9 +50951,13 @@
             }
           },
           {
-            "string": "co-supervisor",
-            "uid": "R62a9UiUP",
-            "edit-time": 1618266546226,
+            "string": "Master degree",
+            "create-time": 1618803287363,
+            "uid": "IEb4EMouZ",
+            "edit-time": 1618803288729,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -61902,6 +62606,316 @@
     "title": "April 19th, 2021",
     "uid": "04-19-2021",
     "edit-time": 1618796729167,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618799107893,
+    "title": "input method (IME)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1618799118080,
+        "children": [
+          {
+            "string": "顺带安利一下GitHub上的[rime词库扩展计划]\n算是有一个[现成的词库][可以导入]",
+            "create-time": 1618799118075,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "Windows: 自带的输入法\nAndroid: Gboard\niOS: 自带的输入法",
+                "create-time": 1618799320542,
+                "uid": "xQSp1n1xo",
+                "edit-time": 1618799320542,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "gboard [切语言]实在太方便。。。西里尔字母拉丁字母汉字[随便切着玩]太爽了\n就算[不作恶][泄露隐私]也求他弄个ios和win版的。。。 #pt9-99.99",
+                "create-time": 1618799167664,
+                ":block/refs": [
+                  {
+                    ":block/uid": "lMcwecsmV"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "lMcwecsmV"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "twl2O3LhX",
+                "edit-time": 1618799426180,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Lx_j5cV9K",
+            "edit-time": 1618799127413,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "QPH4VdKsu",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618799116072,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "muu3VLWvb",
+    "edit-time": 1618799107894,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802219477,
+    "title": "floppy disk",
+    "uid": "LleHe2Zy5",
+    "edit-time": 1618802219478,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802293216,
+    "title": "CPU (central processing unit)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "AMD Ryzen 5 — 4650G -- Radeon Graphics -- 3.69 GHz -- my device 202011",
+        "uid": "FgKOoeQz2",
+        "edit-time": 1618802600143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "x64 -- 64-bit",
+        "uid": "kTL3Y19NB",
+        "edit-time": 1618802600143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WuNiEnlSP",
+    "edit-time": 1618802293218,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802617160,
+    "title": "screen",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "glowing screen",
+        "uid": "_F3ni6B5t",
+        "edit-time": 1618802600143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "screen size",
+        "uid": "ncMRsvgJf",
+        "edit-time": 1618802600143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "television screen",
+        "uid": "6Rdswto82",
+        "edit-time": 1618802600143,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "IdW2u-lza",
+    "edit-time": 1618802617160,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802675531,
+    "title": "firmware",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "firmware maintenance",
+        "uid": "VQ1GvCMYh",
+        "edit-time": 1618802659401,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "TON7pxk4a",
+    "edit-time": 1618802675532,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802682419,
+    "title": "GPU",
+    "uid": "7lYVnxjq1",
+    "edit-time": 1618802682419,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802712696,
+    "title": "RAM",
+    "uid": "6u3z8hsle",
+    "edit-time": 1618802712696,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802729302,
+    "title": "wearable technology",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Garmin",
+        "uid": "Lc4H3bvQM",
+        "edit-time": 1618802726003,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ITy7QlhX_",
+    "edit-time": 1618802729303,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802806467,
+    "title": "assembly language",
+    "uid": "mvrxOmbl1",
+    "edit-time": 1618802806468,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618802879521,
+    "title": "processor",
+    "uid": "XhtiXd76k",
+    "edit-time": 1618802879521,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618803755322,
+    "title": "artificial intelligence (AI)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[neural network]]",
+        "refs": [
+          {
+            "uid": "E9-cPhTG3"
+          }
+        ],
+        "uid": "zEa56DIZT",
+        "edit-time": 1618803807165,
+        ":block/refs": [
+          {
+            ":block/uid": "E9-cPhTG3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "OpenAI",
+        "uid": "YkbZW_P-F",
+        "edit-time": 1618803800795,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "CJA0vqI1F",
+    "edit-time": 1618803755322,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618803807168,
+    "title": "neural network",
+    "uid": "E9-cPhTG3",
+    "edit-time": 1618803807168,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

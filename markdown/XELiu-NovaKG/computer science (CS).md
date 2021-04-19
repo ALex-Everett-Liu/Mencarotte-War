@@ -1,3 +1,4 @@
+- [[artificial intelligence (AI)]]
 - [[data structure]]
 - Operating System (OS); [[operating system (OS)]];
 - [[programming]]; [[programming language]]

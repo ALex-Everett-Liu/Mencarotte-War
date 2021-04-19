@@ -13,6 +13,7 @@
         - touch
             - tactile impression: 触觉印象 
 - intelligence...
+    - [[artificial intelligence (AI)]]
     - [[collective intelligence]]
     - human intellectual
     - intelligent life;
@@ -20,8 +21,9 @@
     - open-source intelligence
 - [[memory]]
 - neural system...
-    - [[neuron]]
+    - [[neural network]]
     - [[neural pathway]]
+    - [[neuron]]
     - [[synaptic activation]]
 - [[psychology]]
 - thinking
