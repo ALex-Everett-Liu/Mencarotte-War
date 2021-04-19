@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 7,
+      :order 8,
       :content-id "N5lel-tnd"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -95,7 +95,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 10,
+      :order 11,
       :content-id "L7fTIw9dt"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 9,
+      :order 10,
       :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -111,19 +111,19 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 8,
+      :order 9,
       :content-id "rw6U8VHY-"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536956382]
+   536956383]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuidab2c345d-95ee-4afa-9c18-762e2fdce8dc"
-   536956382]
+   "uuid53a4c260-e69e-4346-853e-0b9c2e91ffe2"
+   536956431]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -951,6 +951,8 @@
   [14954 :block/children 17235 536945979]
   [14954 :block/children 18059 536948125]
   [14954 :block/children 18121 536948281]
+  [14954 :block/children 20357 536956384]
+  [14954 :block/children 20359 536956393]
   [14954 :block/open true 536938061]
   [14954 :block/uid "yetJt_2cM" 536937475]
   [14954 :create/time 1617578523736 536937475]
@@ -977,7 +979,7 @@
   [14955 :edit/user 3 536937479]
   [14955 :node/title "markup language" 536937479]
   [14957 :block/open true 536948206]
-  [14957 :block/order 1 536948281]
+  [14957 :block/order 2 536956393]
   [14957 :block/page 14954 536937481]
   [14957 :block/parents 14954 536937481]
   [14957 :block/refs 14955 536937486]
@@ -2830,7 +2832,7 @@
   [15122 :node/title "zlibrary" 536938057]
   [15124 :block/children 17238 536945988]
   [15124 :block/open true 536938061]
-  [15124 :block/order 2 536948281]
+  [15124 :block/order 3 536956393]
   [15124 :block/page 14954 536938062]
   [15124 :block/parents 14954 536938062]
   [15124 :block/refs 15128 536938066]
@@ -21372,7 +21374,7 @@
   [17234 :edit/time 1618041106246 536945975]
   [17234 :edit/user 3 536945961]
   [17235 :block/open true 536945979]
-  [17235 :block/order 3 536948473]
+  [17235 :block/order 4 536956393]
   [17235 :block/page 14954 536945980]
   [17235 :block/parents 14954 536945980]
   [17235 :block/refs 17236 536945983]
@@ -28360,7 +28362,7 @@
   [18058 :edit/user 3 536948121]
   [18058 :node/title "TODO list" 536948121]
   [18059 :block/open true 536948125]
-  [18059 :block/order 4 536948473]
+  [18059 :block/order 5 536956393]
   [18059 :block/page 14954 536948126]
   [18059 :block/parents 14954 536948126]
   [18059 :block/refs 18060 536948130]
@@ -28838,7 +28840,7 @@
   [18120 :edit/time 1618196333571 536948276]
   [18120 :edit/user 3 536948264]
   [18121 :block/open true 536948281]
-  [18121 :block/order 0 536948281]
+  [18121 :block/order 1 536956393]
   [18121 :block/page 14954 536948282]
   [18121 :block/parents 14954 536948282]
   [18121 :block/refs 18123 536948286]
@@ -49289,4 +49291,73 @@
   [20356 :create/time 1618819415546 536956372]
   [20356 :create/user 3 536956372]
   [20356 :edit/time 1618819423058 536956375]
-  [20356 :edit/user 3 536956372]]}
+  [20356 :edit/user 3 536956372]
+  [20357 :block/children 20358 536956390]
+  [20357 :block/open true 536956384]
+  [20357 :block/order 6 536956393]
+  [20357 :block/page 14954 536956385]
+  [20357 :block/parents 14954 536956385]
+  [20357 :block/refs 14882 536956389]
+  [20357 :block/string "#inbox" 536956388]
+  [20357 :block/uid "fF48liLvH" 536956384]
+  [20357 :create/time 1618848989323 536956384]
+  [20357 :create/user 3 536956384]
+  [20357 :edit/time 1618848991732 536956388]
+  [20357 :edit/user 3 536956384]
+  [20358 :block/children 20360 536956398]
+  [20358 :block/children 20361 536956419]
+  [20358 :block/open false 536956431]
+  [20358 :block/order 0 536956390]
+  [20358 :block/page 14954 536956387]
+  [20358 :block/parents 14954 536956387]
+  [20358 :block/parents 20357 536956391]
+  [20358 :block/refs 18390 536956430]
+  [20358
+   :block/string
+   "上传[度娘云] 先[用 aes 加密软件]，加密文件名和内容，再 update。下载回来后[用aes解密]后[得到对应的资料]，再打开。证书在手，天下我有。[群晖]有[实时加密上传]的[套件]，不知道现在还能用么。 #pt8-99.99"
+   536956429]
+  [20358 :block/uid "tTVCqfoJs" 536956386]
+  [20358 :create/time 1618848991726 536956386]
+  [20358 :create/user 3 536956386]
+  [20358 :edit/time 1618849157386 536956429]
+  [20358 :edit/user 3 536956386]
+  [20359 :block/open true 536956393]
+  [20359 :block/order 0 536956393]
+  [20359 :block/page 14954 536956394]
+  [20359 :block/parents 14954 536956394]
+  [20359 :block/string "cloud service..." 536956395]
+  [20359 :block/uid "Zl9SLXrOZ" 536956393]
+  [20359 :create/time 1618849001793 536956393]
+  [20359 :create/user 3 536956393]
+  [20359 :edit/time 1618849002936 536956395]
+  [20359 :edit/user 3 536956393]
+  [20360 :block/open true 536956396]
+  [20360 :block/order 0 536956398]
+  [20360 :block/page 14954 536956397]
+  [20360 :block/parents 14954 536956397]
+  [20360 :block/parents 20357 536956397]
+  [20360 :block/parents 20358 536956399]
+  [20360
+   :block/string
+   "能用是能用，但是百度[相当狗](https://www.zhihu.com/question/420273850/answer/1836326995)，与群晖同步[三天两头断连]，需要[重认证]。况且[百度云]对[冷资源]也有[极大概率的丢失]。所以我是用 WebDAV 与坚果云同步做的[混合云]，用于灾备最重要的数据，同时加强[外网访问的可靠性]。"
+   536956427]
+  [20360 :block/uid "TNWIpYzNN" 536956396]
+  [20360 :create/time 1618849014246 536956396]
+  [20360 :create/user 3 536956396]
+  [20360 :edit/time 1618849149998 536956427]
+  [20360 :edit/user 3 536956396]
+  [20361 :block/open true 536956419]
+  [20361 :block/order 1 536956419]
+  [20361 :block/page 14954 536956420]
+  [20361 :block/parents 14954 536956420]
+  [20361 :block/parents 20357 536956420]
+  [20361 :block/parents 20358 536956420]
+  [20361
+   :block/string
+   "到处[复制粘贴]洗地不累？现在的问题不是[违规文件]，而是[正常文件][被误伤]，至于什么样的文件会被误伤，你猜猜看？反正百度[就不告诉你]。删除了你的正常文件你还得感恩戴德呢"
+   536956426]
+  [20361 :block/uid "F58qFHhaj" 536956419]
+  [20361 :create/time 1618849094174 536956419]
+  [20361 :create/user 3 536956419]
+  [20361 :edit/time 1618849111985 536956426]
+  [20361 :edit/user 3 536956419]]}

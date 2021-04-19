@@ -1,6 +1,11 @@
+- cloud service...
 - [[link]]
 - [[markup language]]; [[markup]]
 - [[source]]; [[resource]]
     - [[upload]]; [[download]]
 - [[upload]]; [[download]]
 - [[Web development]]; web developer; Website Development
+- #inbox
+    - 上传[度娘云] 先[用 aes 加密软件]，加密文件名和内容，再 update。下载回来后[用aes解密]后[得到对应的资料]，再打开。证书在手，天下我有。[群晖]有[实时加密上传]的[套件]，不知道现在还能用么。 #pt8-99.99
+        - 能用是能用，但是百度[相当狗](https://www.zhihu.com/question/420273850/answer/1836326995)，与群晖同步[三天两头断连]，需要[重认证]。况且[百度云]对[冷资源]也有[极大概率的丢失]。所以我是用 WebDAV 与坚果云同步做的[混合云]，用于灾备最重要的数据，同时加强[外网访问的可靠性]。
+        - 到处[复制粘贴]洗地不累？现在的问题不是[违规文件]，而是[正常文件][被误伤]，至于什么样的文件会被误伤，你猜猜看？反正百度[就不告诉你]。删除了你的正常文件你还得感恩戴德呢
