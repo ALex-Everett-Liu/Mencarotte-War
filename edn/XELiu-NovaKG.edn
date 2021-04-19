@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 8,
+      :order 7,
       :content-id "N5lel-tnd"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -95,7 +95,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 11,
+      :order 10,
       :content-id "L7fTIw9dt"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 10,
+      :order 9,
       :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -111,19 +111,19 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 9,
+      :order 8,
       :content-id "rw6U8VHY-"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536956267]
+   536956382]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuida7c6e14d-337f-498b-a8b7-d5e98d439908"
-   536956295]
+   "uuidab2c345d-95ee-4afa-9c18-762e2fdce8dc"
+   536956382]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -418,11 +418,11 @@
   [14901 :block/page 14882 536937239]
   [14901 :block/parents 14882 536937239]
   [14901 :block/parents 14884 536937245]
-  [14901 :block/string "" 536955917]
+  [14901 :block/string "" 536956350]
   [14901 :block/uid "Zk8kVIfrJ" 536937238]
   [14901 :create/time 1617570844555 536937238]
   [14901 :create/user 3 536937238]
-  [14901 :edit/time 1618799114974 536955917]
+  [14901 :edit/time 1618819284478 536956350]
   [14901 :edit/user 3 536937238]
   [14903 :block/children 14904 536937751]
   [14903 :block/open false 536955907]
@@ -1123,9 +1123,12 @@
   [14969 :block/children 18236 536948588]
   [14969 :block/children 20095 536955464]
   [14969 :block/children 20330 536956235]
+  [14969 :block/children 20348 536956332]
+  [14969 :block/open true 536956332]
   [14969 :block/uid "QOT8RwinJ" 536937533]
   [14969 :create/time 1617578775337 536937533]
   [14969 :create/user 3 536937533]
+  [14969 :edit/seen-by 3 536956334]
   [14969 :edit/time 1617578775338 536937533]
   [14969 :edit/user 3 536937533]
   [14969 :node/title "computer science (CS)" 536937533]
@@ -21384,6 +21387,7 @@
   [17236 :block/uid "Jkw2XwfKL" 536945983]
   [17236 :create/time 1618041307177 536945983]
   [17236 :create/user 3 536945983]
+  [17236 :edit/seen-by 3 536956315]
   [17236 :edit/time 1618041307178 536945983]
   [17236 :edit/user 3 536945983]
   [17236 :node/title "download" 536945983]
@@ -21406,6 +21410,7 @@
   [17238 :edit/time 1618041314427 536945990]
   [17238 :edit/user 3 536945986]
   [17239 :block/children 17240 536946001]
+  [17239 :block/children 20341 536956298]
   [17239 :block/open true 536945995]
   [17239 :block/order 0 536945995]
   [17239 :block/page 17236 536945996]
@@ -21415,6 +21420,7 @@
   [17239 :block/uid "NNixxeG7G" 536945995]
   [17239 :create/time 1618041335087 536945995]
   [17239 :create/user 3 536945995]
+  [17239 :edit/seen-by 3 536956315]
   [17239 :edit/time 1618041343309 536945999]
   [17239 :edit/user 3 536945995]
   [17240 :block/open true 536945997]
@@ -49116,4 +49122,171 @@
   [20340 :create/time 1618804203529 536956286]
   [20340 :create/user 3 536956286]
   [20340 :edit/time 1618804204946 536956290]
-  [20340 :edit/user 3 536956286]]}
+  [20340 :edit/user 3 536956286]
+  [20341 :block/children 20342 536956307]
+  [20341 :block/children 20344 536956312]
+  [20341 :block/children 20345 536956312]
+  [20341 :block/open false 536956327]
+  [20341 :block/order 1 536956298]
+  [20341 :block/page 17236 536956299]
+  [20341 :block/parents 17236 536956299]
+  [20341 :block/parents 17239 536956299]
+  [20341 :block/refs 18390 536956326]
+  [20341
+   :block/string
+   "我一直用 utorrent，有时候加不加 trackerlist [下载速度](https://bbs.saraba1st.com/2b/thread-1999752-2-1.html)真的相差巨大。 #pt8-99.99"
+   536956325]
+  [20341 :block/uid "VaXN_C1s_" 536956298]
+  [20341 :create/time 1618819039833 536956298]
+  [20341 :create/user 3 536956298]
+  [20341 :edit/seen-by 3 536956315]
+  [20341 :edit/time 1618819140666 536956325]
+  [20341 :edit/user 3 536956298]
+  [20342 :block/open true 536956305]
+  [20342 :block/order 0 536956307]
+  [20342 :block/page 17236 536956306]
+  [20342 :block/parents 17236 536956306]
+  [20342 :block/parents 17239 536956306]
+  [20342 :block/parents 20341 536956308]
+  [20342 :block/string "直接用115目前最强了吧." 536956309]
+  [20342 :block/uid "m9P5oFwUa" 536956305]
+  [20342 :create/time 1618819060080 536956305]
+  [20342 :create/user 3 536956305]
+  [20342 :edit/time 1618819061304 536956309]
+  [20342 :edit/user 3 536956305]
+  [20344 :block/open true 536956312]
+  [20344 :block/order 2 536956312]
+  [20344 :block/page 17236 536956313]
+  [20344 :block/parents 17236 536956313]
+  [20344 :block/parents 17239 536956313]
+  [20344 :block/parents 20341 536956313]
+  [20344
+   :block/string
+   "按客户端的连接来说，体感 utorrent transmission qbittorrent bitcomet 的[使用人数]差不太多，其他[客户端]明显比这几个少一些"
+   536956322]
+  [20344 :block/uid "Z_YnDs7oE" 536956312]
+  [20344 :edit/seen-by 3 536956317]
+  [20344 :edit/time 1618819090314 536956322]
+  [20344 :edit/user 3 536956312]
+  [20345 :block/open true 536956312]
+  [20345 :block/order 1 536956312]
+  [20345 :block/page 17236 536956314]
+  [20345 :block/parents 17236 536956314]
+  [20345 :block/parents 17239 536956314]
+  [20345 :block/parents 20341 536956314]
+  [20345
+   :block/string
+   "qbittorrent enhanced edition 可屏蔽[吸血雷]"
+   536956318]
+  [20345 :block/uid "qYnbqZv4F" 536956312]
+  [20345 :edit/seen-by 3 536956315]
+  [20345 :edit/time 1618819082704 536956318]
+  [20345 :edit/user 3 536956312]
+  [20346 :block/string "" 536956316]
+  [20346 :block/uid "Q6fZotfAW" 536956316]
+  [20346 :edit/time 1618819071176 536956316]
+  [20346 :edit/user 3 536956316]
+  [20348 :block/open true 536956332]
+  [20348 :block/order 5 536956332]
+  [20348 :block/page 14969 536956333]
+  [20348 :block/parents 14969 536956333]
+  [20348 :block/refs 20351 536956337]
+  [20348 :block/string "[[virtual machine]]" 536956336]
+  [20348 :block/uid "9QXLBA4Bn" 536956332]
+  [20348 :edit/seen-by 3 536956334]
+  [20348 :edit/time 1618819263906 536956336]
+  [20348 :edit/user 3 536956332]
+  [20349 :block/open true 536956332]
+  [20349 :block/order 0 536956332]
+  [20349 :block/page 20351 536956340]
+  [20349 :block/parents 20351 536956340]
+  [20349 :block/string "Android simulator" 536956332]
+  [20349 :block/uid "7oReZMGIg" 536956332]
+  [20349 :edit/seen-by 3 536956341]
+  [20349 :edit/time 1618819260660 536956332]
+  [20349 :edit/user 3 536956332]
+  [20350 :block/string "" 536956335]
+  [20350 :block/uid "K8heJjKWr" 536956335]
+  [20350 :edit/time 1618819260691 536956335]
+  [20350 :edit/user 3 536956335]
+  [20351 :block/children 20349 536956339]
+  [20351 :block/children 20352 536956342]
+  [20351 :block/uid "wfCd96hP8" 536956337]
+  [20351 :create/time 1618819263908 536956337]
+  [20351 :create/user 3 536956337]
+  [20351 :edit/seen-by 3 536956341]
+  [20351 :edit/time 1618819263908 536956337]
+  [20351 :edit/user 3 536956337]
+  [20351 :node/title "virtual machine" 536956337]
+  [20352 :block/children 20353 536956348]
+  [20352 :block/open true 536956342]
+  [20352 :block/order 1 536956342]
+  [20352 :block/page 20351 536956343]
+  [20352 :block/parents 20351 536956343]
+  [20352 :block/refs 14882 536956347]
+  [20352 :block/string "#inbox" 536956346]
+  [20352 :block/uid "wcSS1xDR6" 536956342]
+  [20352 :create/time 1618819269278 536956342]
+  [20352 :create/user 3 536956342]
+  [20352 :edit/time 1618819272139 536956346]
+  [20352 :edit/user 3 536956342]
+  [20353 :block/children 20354 536956358]
+  [20353 :block/children 20355 536956364]
+  [20353 :block/children 20356 536956372]
+  [20353 :block/open false 536956380]
+  [20353 :block/order 0 536956348]
+  [20353 :block/page 20351 536956345]
+  [20353 :block/parents 20351 536956345]
+  [20353 :block/parents 20352 536956349]
+  [20353 :block/refs 20039 536956379]
+  [20353
+   :block/string
+   "本来主力机是1600x，[MUMU模拟器]是[越用越卡](https://bbs.saraba1st.com/2b/thread-1999742-1-1.html)，一开始可以开车模拟器+QQ+chrome再[同时打LOL]，后来就[有点卡了]，于是换了3600，暂时顶住了 #pt7-99.96"
+   536956378]
+  [20353 :block/uid "q6a5kU7IV" 536956344]
+  [20353 :create/time 1618819272135 536956344]
+  [20353 :create/user 3 536956344]
+  [20353 :edit/time 1618819472808 536956378]
+  [20353 :edit/user 3 536956344]
+  [20354 :block/open true 536956356]
+  [20354 :block/order 0 536956358]
+  [20354 :block/page 20351 536956357]
+  [20354 :block/parents 20351 536956357]
+  [20354 :block/parents 20352 536956357]
+  [20354 :block/parents 20353 536956359]
+  [20354
+   :block/string
+   "[CPU占用]的话，在操作方舟的时候直接蹦100%。内存有16G，系统盘是SSD，[开了VT]，模拟器也是[装在SSD]"
+   536956363]
+  [20354 :block/uid "jsrt-aCUm" 536956356]
+  [20354 :create/time 1618819318065 536956356]
+  [20354 :create/user 3 536956356]
+  [20354 :edit/time 1618819333410 536956363]
+  [20354 :edit/user 3 536956356]
+  [20355 :block/open true 536956364]
+  [20355 :block/order 1 536956364]
+  [20355 :block/page 20351 536956365]
+  [20355 :block/parents 20351 536956365]
+  [20355 :block/parents 20352 536956365]
+  [20355 :block/parents 20353 536956365]
+  [20355
+   :block/string
+   "bluestacks hyper-v+bstweaker 请 其他的都是些什么妖魔鬼怪"
+   536956371]
+  [20355 :block/uid "zgqRKCLsJ" 536956364]
+  [20355 :create/time 1618819359100 536956364]
+  [20355 :create/user 3 536956364]
+  [20355 :edit/time 1618819376644 536956371]
+  [20355 :edit/user 3 536956364]
+  [20356 :block/open true 536956372]
+  [20356 :block/order 2 536956372]
+  [20356 :block/page 20351 536956373]
+  [20356 :block/parents 20351 536956373]
+  [20356 :block/parents 20352 536956373]
+  [20356 :block/parents 20353 536956373]
+  [20356 :block/string "蓝叠有专门的hyper-v版本，跟其他的[基于vbox]的不一样" 536956375]
+  [20356 :block/uid "44pgsRvdA" 536956372]
+  [20356 :create/time 1618819415546 536956372]
+  [20356 :create/user 3 536956372]
+  [20356 :edit/time 1618819423058 536956375]
+  [20356 :edit/user 3 536956372]]}

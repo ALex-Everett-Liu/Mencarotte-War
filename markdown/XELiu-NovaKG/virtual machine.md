@@ -1,0 +1,6 @@
+- Android simulator
+- #inbox
+    - 本来主力机是1600x，[MUMU模拟器]是[越用越卡](https://bbs.saraba1st.com/2b/thread-1999742-1-1.html)，一开始可以开车模拟器+QQ+chrome再[同时打LOL]，后来就[有点卡了]，于是换了3600，暂时顶住了 #pt7-99.96
+        - [CPU占用]的话，在操作方舟的时候直接蹦100%。内存有16G，系统盘是SSD，[开了VT]，模拟器也是[装在SSD]
+        - bluestacks hyper-v+bstweaker 请 其他的都是些什么妖魔鬼怪
+        - 蓝叠有专门的hyper-v版本，跟其他的[基于vbox]的不一样

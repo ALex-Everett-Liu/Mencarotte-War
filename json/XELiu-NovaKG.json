@@ -741,7 +741,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1618799114974,
+            "edit-time": 1618819284478,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -4332,6 +4332,24 @@
         },
         "uid": "USUBned7r",
         "edit-time": 1618792569003,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[virtual machine]]",
+        "refs": [
+          {
+            "uid": "wfCd96hP8"
+          }
+        ],
+        "uid": "9QXLBA4Bn",
+        "edit-time": 1618819263906,
+        ":block/refs": [
+          {
+            ":block/uid": "wfCd96hP8"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -41850,6 +41868,58 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "edit-time": 1618819140666,
+            "children": [
+              {
+                "string": "直接用115目前最强了吧.",
+                "create-time": 1618819060080,
+                "uid": "m9P5oFwUa",
+                "edit-time": 1618819061304,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "qbittorrent enhanced edition 可屏蔽[吸血雷]",
+                "uid": "qYnbqZv4F",
+                "edit-time": 1618819082704,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "按客户端的连接来说，体感 utorrent transmission qbittorrent bitcomet 的[使用人数]差不太多，其他[客户端]明显比这几个少一些",
+                "uid": "Z_YnDs7oE",
+                "edit-time": 1618819090314,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PdZWxhurI"
+              }
+            ],
+            "uid": "VaXN_C1s_",
+            ":block/refs": [
+              {
+                ":block/uid": "PdZWxhurI"
+              }
+            ],
+            "string": "我一直用 utorrent，有时候加不加 trackerlist [下载速度](https://bbs.saraba1st.com/2b/thread-1999752-2-1.html)真的相差巨大。 #pt8-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618819039833,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -62919,6 +62989,112 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618819263908,
+    "title": "virtual machine",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Android simulator",
+        "uid": "7oReZMGIg",
+        "edit-time": 1618819260660,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618819272139,
+        "children": [
+          {
+            "edit-time": 1618819472808,
+            "children": [
+              {
+                "string": "[CPU占用]的话，在操作方舟的时候直接蹦100%。内存有16G，系统盘是SSD，[开了VT]，模拟器也是[装在SSD]",
+                "create-time": 1618819318065,
+                "uid": "jsrt-aCUm",
+                "edit-time": 1618819333410,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "bluestacks hyper-v+bstweaker 请 其他的都是些什么妖魔鬼怪",
+                "create-time": 1618819359100,
+                "uid": "zgqRKCLsJ",
+                "edit-time": 1618819376644,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "蓝叠有专门的hyper-v版本，跟其他的[基于vbox]的不一样",
+                "create-time": 1618819415546,
+                "uid": "44pgsRvdA",
+                "edit-time": 1618819423058,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "E0gCAiQcc"
+              }
+            ],
+            "uid": "q6a5kU7IV",
+            ":block/refs": [
+              {
+                ":block/uid": "E0gCAiQcc"
+              }
+            ],
+            "string": "本来主力机是1600x，[MUMU模拟器]是[越用越卡](https://bbs.saraba1st.com/2b/thread-1999742-1-1.html)，一开始可以开车模拟器+QQ+chrome再[同时打LOL]，后来就[有点卡了]，于是换了3600，暂时顶住了 #pt7-99.96",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618819272135,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "wcSS1xDR6",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618819269278,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "wfCd96hP8",
+    "edit-time": 1618819263908,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

@@ -1,2 +1,6 @@
 - #inbox
     - 选择 `(<div class="_190hxbq">)` ---> 然后点击[展开此选项]就可以看到[视频地址路径](https://www.zhihu.com/question/66184247/answer/849495616) #pt10-99.99
+    - 我一直用 utorrent，有时候加不加 trackerlist [下载速度](https://bbs.saraba1st.com/2b/thread-1999752-2-1.html)真的相差巨大。 #pt8-99.99
+        - 直接用115目前最强了吧.
+        - qbittorrent enhanced edition 可屏蔽[吸血雷]
+        - 按客户端的连接来说，体感 utorrent transmission qbittorrent bitcomet 的[使用人数]差不太多，其他[客户端]明显比这几个少一些
