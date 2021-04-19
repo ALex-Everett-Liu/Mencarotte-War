@@ -2,7 +2,10 @@
 - extended universe
 - [[mass media technology]]: 大众传媒技术
 - [[multi-media]]
-- news
-    - BBC News
+- [[news]]
 - [[social media]]
+- subscription; subscribe...
+    - [[newsletter]]
+    - RSS; rss
+        - auto-generated-from-RSS
 - [[television]]

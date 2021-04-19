@@ -24,3 +24,29 @@ So what happened to “678”?
                 - `(apply str (re-seq #”\d+” “abc12345def678”))
 “12345678”`
 As already discussed in the last Post on Functions, we have used **apply** to gather our **__lazy list__** into a single string.
+        - Let’s look at another REGEX command, re-matches.
+            - ```clojure
+(re-matches #”\d+” “12345”)
+“12345”
+(re-matches #”\d+” “12345a”)
+nil```
+            - Recall, **re-find** will [find and match the first instance] of the [requested pattern](((kppDwvK93))). But **re-seq** will carry on and find them all.
+                - Our new pattern, **re-matches**, will only [match the exact pattern](((bsGya8koq))). Hence, **nil** [when a non-number appeared in the string].
+                - [For those occasions where] you [require an exact match](((k8dt2GS0K))), consider **re-matches**.
+            - We can also use [[wild card]]s [for occasions when] we only wish to [search with part of a string] or we wish to [return more than one result] [e.g.] [doing a database search].
+210419-08:27
+                - `(re-matches #”Star.*” “Star Trek”)
+“Star Trek”`
+Here we used a [[full-stop]] **. **to [indicate any character] and an [[asterisk]] `*` [for none or more occurrences]([[occurrence]]).
+                - But what if we are [not sure about the case]? Consider the following.
+`(re-matches #”(?i)STAR.*” “Star Trek”)
+“Star Trek”`
+                    - Effectively, by placing **(?i)** in front of our [REGEX search string] we [instigate a search] that is not [[case sensitive]]. Can you see [how useful that is]? ^^You can now [use an abbreviated search term] 缩写搜索词 that [ignores the case].^^
+210419-08:36
+- Applying REGEX
+    - Recall from Part 8 the code we used to [filter for an ISBN number]. Notice, this code [follows a pattern]:
+        - ![regex-pattern-01](https://miro.medium.com/max/2870/1*c8HOr00gfGNbw5yLXEZY0Q.png)
+        - This **if **statement pattern can be used to [solve a number of programming problems]. In programming, this is known as **__Selection__**. Recall, a [computer program] can be created from only three elements: **__Sequence__**, **__Selection,__** and **__Repetition__**. Our pattern above is an example **__Selection__**. The **if **[statement](((7aRqMJ-o5))) [checks a condition](((v66B1envk))) and if it is **true** it [executes the green line]. If it is **false**, it executes the red line. Again, by [replicating the pattern above], you [have a powerful tool to] control Form input and output, as well as [database and file searches]. #selection
+210419-09:20
+- SUMMARY
+    - Like all things related to [computer programming], [subjects such as] REGEX [command a whole army] of literature, websites, and debate. 统领着一支文献大军 [A number of sites] [offer huge amounts of] pre-written REGEX for just [about any situation]. Nevertheless, finding the ‘perfect’ REGEX can prove elusive. In reality, for the [budding programmer], REGEX creation [often involves much trial and error].

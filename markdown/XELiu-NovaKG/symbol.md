@@ -1,4 +1,5 @@
 - abbreviation
+- [[asterisk]]
 - brace
 - [[bracket]]
 - [[caret]]: 脱字符, 插入光标;
@@ -10,7 +11,7 @@
 - notation
     - notational hierarchy
 - [[parenthesis]]; parentheses
-- period; full stop
+- [[period]]; [[full stop]]; [[full-stop]]
     - [[literal period]]
 - preceding symbol
 - punctuation mark

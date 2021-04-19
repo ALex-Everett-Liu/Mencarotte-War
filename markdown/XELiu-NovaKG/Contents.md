@@ -1,9 +1,12 @@
 - [[culture]]
 - [[economy]]
 - [[education]]
+    - [[career]]
 - [[engineering]]
 - [[daily life]]; [[everyday life]]...
 - [[geoscience]]
+- [[industry]]
+    - [[military]]
 - [[language]]
 - [[life science]]
 - [[literature and art]]
@@ -11,7 +14,6 @@
     - [[chemistry]]
     - [[mathematics]]
     - [[physics]]
-- [[military]]
 - [[neuroscience]]
 - [[non-reality]]
 - personal

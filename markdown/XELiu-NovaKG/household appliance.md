@@ -1,0 +1,11 @@
+- [[dishwasher]]
+- [[vacuum cleaner]]
+- [[washing machine]]
+- ---
+- dictionary 
+    - electric appliance; housekeeping appliance; 
+    - They [sell a wide range of] [[domestic appliance]]s ─ washing machines, [[dishwasher]]s and so on. 《牛津高阶英汉双解词典》
+    - These appliances should not be [connected to power supplies]([[power supply]]). 《柯林斯高阶英汉双解学习词典》
+    - All the cupboards 橱柜 and appliances dated from the 1950s 
+    - He could also learn to use the [[vacuum cleaner]], the washing machine and other household appliances. 
+    - [In the days before] [domestic gadgetry] 小器具 and [time-saving appliances], [food preparation](((dSyZrdrEd))) [took up most of the day]. 

@@ -1,5 +1,6 @@
 - [[brain science]]
     - [[human brain]]
+- [[cognitive science]]: 认知科学
 - human interaction...
     - [[human voice]]
     - vision: 视觉
@@ -18,6 +19,10 @@
     - [[mental map]]
     - open-source intelligence
 - [[memory]]
+- neural system...
+    - [[neuron]]
+    - [[neural pathway]]
+    - [[synaptic activation]]
 - [[psychology]]
 - thinking
     - thought structure

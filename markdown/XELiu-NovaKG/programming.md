@@ -16,6 +16,9 @@
 - [[literate programming]]
 - [[regular expression]]; REGEX 
 - [[script]]
+- [[selection]]
+    - if statement
+        - check the condition
 - [[string]]
     - [[character string]]
 - #inbox

@@ -1,0 +1,4 @@
+- [[LinkedIn]]
+- my resume/CV
+- [[part-time job]]
+- work experience

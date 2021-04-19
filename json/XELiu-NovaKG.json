@@ -77,11 +77,25 @@
         }
       },
       {
-        "string": "[[education]]",
-        "create-time": 1617734910228,
-        ":block/refs": [
+        "edit-time": 1617734916992,
+        "children": [
           {
-            ":block/uid": "1zWF5-TNl"
+            "string": "[[career]]",
+            "refs": [
+              {
+                "uid": "UNCOZ88WQ"
+              }
+            ],
+            "uid": "CY8FPFGxt",
+            "edit-time": 1618796538643,
+            ":block/refs": [
+              {
+                ":block/uid": "UNCOZ88WQ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -89,11 +103,17 @@
             "uid": "1zWF5-TNl"
           }
         ],
+        "uid": "tgNQr-YtA",
+        ":block/refs": [
+          {
+            ":block/uid": "1zWF5-TNl"
+          }
+        ],
+        "string": "[[education]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "tgNQr-YtA",
-        "edit-time": 1617734916992,
+        "create-time": 1617734910228,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -166,6 +186,48 @@
         },
         "uid": "B6zVCaUlb",
         "edit-time": 1617941583576,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618792966841,
+        "children": [
+          {
+            "string": "[[military]]",
+            "refs": [
+              {
+                "uid": "biujg3BIW"
+              }
+            ],
+            "uid": "JTNphXUhM",
+            "edit-time": 1617664613238,
+            ":block/refs": [
+              {
+                ":block/uid": "biujg3BIW"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "eXzShIB3x"
+          }
+        ],
+        "uid": "nK-1HpX8Y",
+        ":block/refs": [
+          {
+            ":block/uid": "eXzShIB3x"
+          }
+        ],
+        "string": "[[industry]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618792964851,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -312,24 +374,6 @@
         ],
         "uid": "bY2Sb7e0S",
         "edit-time": 1617596327937,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "[[military]]",
-        "refs": [
-          {
-            "uid": "biujg3BIW"
-          }
-        ],
-        "uid": "JTNphXUhM",
-        "edit-time": 1617664613238,
-        ":block/refs": [
-          {
-            ":block/uid": "biujg3BIW"
-          }
-        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -4247,6 +4291,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[search]]",
+        "create-time": 1618792567351,
+        ":block/refs": [
+          {
+            ":block/uid": "fQBQlbI2D"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "fQBQlbI2D"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "USUBned7r",
+        "edit-time": 1618792569003,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "QOT8RwinJ",
@@ -4523,6 +4589,44 @@
         }
       },
       {
+        "string": "[[selection]]",
+        "refs": [
+          {
+            "uid": "Ba4KbUf1c"
+          }
+        ],
+        "children": [
+          {
+            "string": "if statement",
+            "children": [
+              {
+                "string": "check the condition",
+                "uid": "v66B1envk",
+                "edit-time": 1618795166308,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "7aRqMJ-o5",
+            "edit-time": 1618795166308,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "eHIOOCpiS",
+        "edit-time": 1618795169930,
+        ":block/refs": [
+          {
+            ":block/uid": "Ba4KbUf1c"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[string]]",
         "refs": [
           {
@@ -4658,6 +4762,28 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[Language/BASIC]]",
+        "create-time": 1618796428828,
+        ":block/refs": [
+          {
+            ":block/uid": "-EfzkojEk"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-EfzkojEk"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "RJX3CVRc0",
+        "edit-time": 1618796429950,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "edit-time": 1617578805751,
         "children": [
@@ -19982,8 +20108,46 @@
       },
       {
         "string": "food and drink; tabemono, nomemono;",
+        "children": [
+          {
+            "string": "food preparation;",
+            "create-time": 1618795983428,
+            "uid": "dSyZrdrEd",
+            "edit-time": 1618795984769,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "XF1KVuF7L",
         "edit-time": 1617657820856,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[household appliance]]; [[domestic appliance]]; 家用电器",
+        "refs": [
+          {
+            "uid": "WPz4JZ953"
+          },
+          {
+            "uid": "LtmjgFbN5"
+          }
+        ],
+        "uid": "JD9WBS5gC",
+        "edit-time": 1618796014904,
+        ":block/refs": [
+          {
+            ":block/uid": "WPz4JZ953"
+          },
+          {
+            ":block/uid": "LtmjgFbN5"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -24895,11 +25059,29 @@
     },
     "children": [
       {
-        "string": "[[mobile phone]]",
-        "create-time": 1618718606314,
-        ":block/refs": [
+        "edit-time": 1618718611698,
+        "children": [
           {
-            ":block/uid": "0SPrNsv6R"
+            "string": "[[smartphone]]",
+            "create-time": 1618795627266,
+            ":block/refs": [
+              {
+                ":block/uid": "_9Tz9U1le"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_9Tz9U1le"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "lAjRrpD3p",
+            "edit-time": 1618795630374,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -24907,11 +25089,17 @@
             "uid": "0SPrNsv6R"
           }
         ],
+        "uid": "bBZgBu6HQ",
+        ":block/refs": [
+          {
+            ":block/uid": "0SPrNsv6R"
+          }
+        ],
+        "string": "[[mobile phone]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "bBZgBu6HQ",
-        "edit-time": 1618718611698,
+        "create-time": 1618718606314,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -35890,19 +36078,19 @@
         }
       },
       {
-        "string": "news",
-        "children": [
+        "string": "[[news]]",
+        "refs": [
           {
-            "string": "BBC News",
-            "uid": "zS0D_IEJd",
-            "edit-time": 1617959308063,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
+            "uid": "W59YDds4p"
           }
         ],
         "uid": "QcQcNNjco",
-        "edit-time": 1617959308063,
+        "edit-time": 1618796293767,
+        ":block/refs": [
+          {
+            ":block/uid": "W59YDds4p"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -35925,6 +36113,52 @@
         },
         "uid": "dlrCxBKvi",
         "edit-time": 1618264715234,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "subscription; subscribe...",
+        "children": [
+          {
+            "string": "[[newsletter]]",
+            "refs": [
+              {
+                "uid": "FjNQuRKiY"
+              }
+            ],
+            "uid": "RHdtC8tXm",
+            "edit-time": 1618796277484,
+            ":block/refs": [
+              {
+                ":block/uid": "FjNQuRKiY"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "RSS; rss",
+            "children": [
+              {
+                "string": "auto-generated-from-RSS",
+                "uid": "9ALiDl4PW",
+                "edit-time": 1618796269434,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ETrZzdFbj",
+            "edit-time": 1618796269434,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "qBS_WIESa",
+        "edit-time": 1618796269434,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -38338,6 +38572,81 @@
     },
     "children": [
       {
+        "string": "Part 1 — A complete beginner's guide to Computer Programming with Clojure.",
+        "children": [
+          {
+            "string": "**Part 1 **is [a simple introduction to] the world of [computer coding]. [A number of parts] will follow and each [should be considered like] [the chapter of a Book]. In **Part 2**, [you will be introduced to] a free Virtual Machine with all the [necessary resources] pre-installed.",
+            "create-time": 1618795479701,
+            "uid": "ff2MvuFBu",
+            "edit-time": 1618795518187,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Introduction",
+            "heading": 2,
+            "children": [
+              {
+                "string": "I often refer to a computer, or [computing enabled device] such as a [[smartphone]], as the ‘Machine’. In other words, [any machine capable of] being programmed (Not your [washing machine](((TIIb--9QZ)))). I first began to try and understand the ‘Machine’ in 1982. At this time, Computer Science, or as it was known at the time, Computer Studies, was the ‘new kid’ in school. At the time, I saved up all my pennies from [paper-rounds](((QAtW1P6XK))) and other [[part-time job]]s to purchase my very first Machine, a Sinclair ZX81. At this time, the [programming language] to know was [[Language/BASIC]]. BASIC stood for ‘Beginners All-Purpose Symbolic Instruction Code.’ Compared to my ZX81, the school computer was a highly advanced device built by a local company called Research Machines. It had a 5 and a quarter inch floppy disk and 4K RAM; wealthy schools had BBC Micros or Apples! At this time, the Processor or CPU (central processing unit) was more than likely a Z80 processor. To get the most out of this processor (especially with only 1K of RAM), you needed to know low-level Assembly language. This meant injecting your BASIC code with Peek and Poke commands — necessary to force in Assembly mnemonics and get the most out of the processor. Nevertheless, because of inherent hardware limitations, coding on these old machines ensured you learned to code efficiently and strictly.\n210419-09:39",
+                "refs": [
+                  {
+                    "uid": "_9Tz9U1le"
+                  },
+                  {
+                    "uid": "TIIb--9QZ"
+                  },
+                  {
+                    "uid": "vztrxbcjI"
+                  },
+                  {
+                    "uid": "QAtW1P6XK"
+                  },
+                  {
+                    "uid": "-EfzkojEk"
+                  }
+                ],
+                "uid": "IzdNG1etl",
+                "edit-time": 1618796441200,
+                ":block/refs": [
+                  {
+                    ":block/uid": "_9Tz9U1le"
+                  },
+                  {
+                    ":block/uid": "TIIb--9QZ"
+                  },
+                  {
+                    ":block/uid": "vztrxbcjI"
+                  },
+                  {
+                    ":block/uid": "QAtW1P6XK"
+                  },
+                  {
+                    ":block/uid": "-EfzkojEk"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "MAmwbE_Bt",
+            "edit-time": 1618795554984,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "pJq94RHgQ",
+        "edit-time": 1618795460108,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[Part 9 — Regular Expressions (REGEX).]]",
         "create-time": 1618017373647,
         ":block/refs": [
@@ -38676,6 +38985,182 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "Let’s look at another REGEX command, re-matches.",
+                "create-time": 1618790247404,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "```clojure\n(re-matches #”\\d+” “12345”)\n“12345”\n(re-matches #”\\d+” “12345a”)\nnil```",
+                    "create-time": 1618790253584,
+                    "uid": "V4tWKNp24",
+                    "edit-time": 1618790259388,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "Recall, **re-find** will [find and match the first instance] of the [requested pattern](((kppDwvK93))). But **re-seq** will carry on and find them all.",
+                    "refs": [
+                      {
+                        "uid": "kppDwvK93"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "Our new pattern, **re-matches**, will only [match the exact pattern](((bsGya8koq))). Hence, **nil** [when a non-number appeared in the string].",
+                        "refs": [
+                          {
+                            "uid": "bsGya8koq"
+                          }
+                        ],
+                        "uid": "Xh6akuIqg",
+                        "edit-time": 1618791870097,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "bsGya8koq"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[For those occasions where] you [require an exact match](((k8dt2GS0K))), consider **re-matches**.",
+                        "refs": [
+                          {
+                            "uid": "k8dt2GS0K"
+                          }
+                        ],
+                        "uid": "m6O0_ZDhU",
+                        "edit-time": 1618791846406,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "k8dt2GS0K"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "rN3PyDM6c",
+                    "edit-time": 1618791862508,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "kppDwvK93"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "edit-time": 1618792085445,
+                    "children": [
+                      {
+                        "string": "`(re-matches #”Star.*” “Star Trek”)\n“Star Trek”`\nHere we used a [[full-stop]] **. **to [indicate any character] and an [[asterisk]] `*` [for none or more occurrences]([[occurrence]]).",
+                        "create-time": 1618791809346,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "qG07LbMKG"
+                          },
+                          {
+                            ":block/uid": "yj2ziWtod"
+                          },
+                          {
+                            ":block/uid": "uPlg8HBIY"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "qG07LbMKG"
+                          },
+                          {
+                            "uid": "yj2ziWtod"
+                          },
+                          {
+                            "uid": "uPlg8HBIY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "_XbzIQwQy",
+                        "edit-time": 1618792055003,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "But what if we are [not sure about the case]? Consider the following.\n`(re-matches #”(?i)STAR.*” “Star Trek”)\n“Star Trek”`",
+                        "create-time": 1618792107793,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "Effectively, by placing **(?i)** in front of our [REGEX search string] we [instigate a search] that is not [[case sensitive]]. Can you see [how useful that is]? ^^You can now [use an abbreviated search term] 缩写搜索词 that [ignores the case].^^\n210419-08:36",
+                            "create-time": 1618792097754,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "nbXCssaVl"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "nbXCssaVl"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            "uid": "2cjWqPeW5",
+                            "edit-time": 1618792690053,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "w35zPDpYG",
+                        "edit-time": 1618792138433,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "JnpepKB1R"
+                      }
+                    ],
+                    "uid": "1evoOvOAd",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JnpepKB1R"
+                      }
+                    ],
+                    "string": "We can also use [[wild card]]s [for occasions when] we only wish to [search with part of a string] or we wish to [return more than one result] [e.g.] [doing a database search].\n210419-08:27",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1618791729032,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "daHhFNLwA",
+                "edit-time": 1618790248424,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -38721,6 +39206,114 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1618025581617,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Applying REGEX",
+        "create-time": 1618794917911,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Recall from Part 8 the code we used to [filter for an ISBN number]. Notice, this code [follows a pattern]:",
+            "create-time": 1618794918882,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "![regex-pattern-01](https://miro.medium.com/max/2870/1*c8HOr00gfGNbw5yLXEZY0Q.png)",
+                "props": {
+                  "image-size": {
+                    "https://miro.medium.com/max/2870/1*c8HOr00gfGNbw5yLXEZY0Q.png": {
+                      "width": 580,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1618794947163,
+                ":block/props": {
+                  ":image-size": {
+                    "https://miro.medium.com/max/2870/1*c8HOr00gfGNbw5yLXEZY0Q.png": {
+                      ":width": 580,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "04xv5udnu",
+                "edit-time": 1618794981836,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "This **if **statement pattern can be used to [solve a number of programming problems]. In programming, this is known as **__Selection__**. Recall, a [computer program] can be created from only three elements: **__Sequence__**, **__Selection,__** and **__Repetition__**. Our pattern above is an example **__Selection__**. The **if **[statement](((7aRqMJ-o5))) [checks a condition](((v66B1envk))) and if it is **true** it [executes the green line]. If it is **false**, it executes the red line. Again, by [replicating the pattern above], you [have a powerful tool to] control Form input and output, as well as [database and file searches]. #selection\n210419-09:20",
+                "create-time": 1618794970891,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ba4KbUf1c"
+                  },
+                  {
+                    ":block/uid": "7aRqMJ-o5"
+                  },
+                  {
+                    ":block/uid": "v66B1envk"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Ba4KbUf1c"
+                  },
+                  {
+                    "uid": "7aRqMJ-o5"
+                  },
+                  {
+                    "uid": "v66B1envk"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "bopa4z4mu",
+                "edit-time": 1618795207718,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "GPpRlzw2K",
+            "edit-time": 1618794938127,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "pLoLCiWNP",
+        "edit-time": 1618794918890,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "SUMMARY",
+        "children": [
+          {
+            "string": "Like all things related to [computer programming], [subjects such as] REGEX [command a whole army] of literature, websites, and debate. 统领着一支文献大军 [A number of sites] [offer huge amounts of] pre-written REGEX for just [about any situation]. Nevertheless, finding the ‘perfect’ REGEX can prove elusive. In reality, for the [budding programmer], REGEX creation [often involves much trial and error].",
+            "uid": "E6_cpn2iE",
+            "edit-time": 1618795395991,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2O1Eq9_PS",
+        "edit-time": 1618795229112,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -38958,9 +39551,69 @@
         }
       },
       {
+        "string": "exact match; re-matches",
+        "create-time": 1618791836720,
+        "uid": "k8dt2GS0K",
+        "edit-time": 1618791837664,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "indicate the beginning of a line",
         "uid": "7ffsv6tS9",
         "edit-time": 1618025895388,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "pattern...",
+        "children": [
+          {
+            "string": "find and match the pattern;",
+            "uid": "bsGya8koq",
+            "edit-time": 1618791855936,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[occurrence]]: 发生/出现次数",
+            "create-time": 1618792060668,
+            ":block/refs": [
+              {
+                ":block/uid": "uPlg8HBIY"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uPlg8HBIY"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "dmqqFhA7W",
+            "edit-time": 1618792069123,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "requested pattern;",
+            "uid": "kppDwvK93",
+            "edit-time": 1618791855936,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "drbNse09t",
+        "edit-time": 1618791855936,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -39041,6 +39694,28 @@
         },
         "uid": "fi0m8p1Xg",
         "edit-time": 1618030813776,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[wild card]]: 通配符, 百搭牌; 外卡;",
+        "create-time": 1618791882268,
+        ":block/refs": [
+          {
+            ":block/uid": "JnpepKB1R"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "JnpepKB1R"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "myNts3Tee",
+        "edit-time": 1618791886758,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -39974,6 +40649,28 @@
         }
       },
       {
+        "string": "[[asterisk]]",
+        "create-time": 1618792016275,
+        ":block/refs": [
+          {
+            ":block/uid": "yj2ziWtod"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "yj2ziWtod"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "sMM1VYIGl",
+        "edit-time": 1618792018017,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "brace",
         "uid": "_C_kjyZi1",
         "edit-time": 1618030857885,
@@ -40136,7 +40833,18 @@
         }
       },
       {
-        "string": "period; full stop",
+        "string": "[[period]]; [[full stop]]; [[full-stop]]",
+        "refs": [
+          {
+            "uid": "qG07LbMKG"
+          },
+          {
+            "uid": "VOiZ61QMh"
+          },
+          {
+            "uid": "EJog8jnhY"
+          }
+        ],
         "children": [
           {
             "string": "[[literal period]]",
@@ -40158,7 +40866,18 @@
           }
         ],
         "uid": "sB2dbNvHf",
-        "edit-time": 1618030857885,
+        "edit-time": 1618792038408,
+        ":block/refs": [
+          {
+            ":block/uid": "qG07LbMKG"
+          },
+          {
+            ":block/uid": "VOiZ61QMh"
+          },
+          {
+            ":block/uid": "EJog8jnhY"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -41812,6 +42531,28 @@
         }
       },
       {
+        "string": "[[cognitive science]]: 认知科学",
+        "create-time": 1618792852812,
+        ":block/refs": [
+          {
+            ":block/uid": "Sz58bkFZM"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Sz58bkFZM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "xCfnNL3y6",
+        "edit-time": 1618792857162,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "human interaction...",
         "children": [
           {
@@ -42035,6 +42776,74 @@
         },
         "uid": "c6Zz5nXHY",
         "edit-time": 1618278519342,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "neural system...",
+        "create-time": 1618792875614,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[neuron]]",
+            "refs": [
+              {
+                "uid": "W6Q4tqYt-"
+              }
+            ],
+            "uid": "oZa0LuV5C",
+            "edit-time": 1618792891308,
+            ":block/refs": [
+              {
+                ":block/uid": "W6Q4tqYt-"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[neural pathway]]",
+            "refs": [
+              {
+                "uid": "ss2KJrkOb"
+              }
+            ],
+            "uid": "Wi2cVwOKU",
+            "edit-time": 1618792890057,
+            ":block/refs": [
+              {
+                ":block/uid": "ss2KJrkOb"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[synaptic activation]]",
+            "refs": [
+              {
+                "uid": "gmsWHnGMj"
+              }
+            ],
+            "uid": "AtwoAbkMK",
+            "edit-time": 1618792889017,
+            ":block/refs": [
+              {
+                ":block/uid": "gmsWHnGMj"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5QV0HHg9X",
+        "edit-time": 1618792876207,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -42529,6 +43338,28 @@
             ":block/uid": "axptYaHvL"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[power supply]]",
+        "create-time": 1618796033231,
+        ":block/refs": [
+          {
+            ":block/uid": "LsezpIBym"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "LsezpIBym"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "W93ZZS9Ol",
+        "edit-time": 1618796034895,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -51949,11 +52780,85 @@
   {
     "create-time": 1618357720386,
     "title": "population",
-    "uid": "czUNrpjxl",
-    "edit-time": 1618357720386,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "生育率危机",
+        "create-time": 1618794526800,
+        "uid": "KbV3kDKTB",
+        "edit-time": 1618794533694,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618794536130,
+        "children": [
+          {
+            "edit-time": 1618794824084,
+            "children": [
+              {
+                "string": "先不说自己死后哪管洪水滔天的想法，\n低估[时间的力量]，以为自己不会变，[到时反悔]却生不了的人不少\n人老了[激素一下来]，就不会想太多什么爽不爽之类的事了，到时只想要个[精神寄托]",
+                "create-time": 1618794673935,
+                "uid": "AArWBYlD5",
+                "edit-time": 1618794691946,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "E0gCAiQcc"
+              }
+            ],
+            "uid": "8IktyRVO3",
+            ":block/refs": [
+              {
+                ":block/uid": "E0gCAiQcc"
+              }
+            ],
+            "string": "这养儿抢劫防老不知道是[来杠一下]还是真的[脑子构造有点问题]\n如果[抢劫孤寡]成为[常规谋生手段]，那[社会秩序]显然崩塌了，国家也名存实亡\n反之如果国家仍然在[维持正常运转]，那你[用心培养的][这一窝罪犯]必然会让你完蛋\n换句话说，这是在赌[废土世界线](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1999576&extra=page%3D1%26filter%3Dtypeid%26typeid%3D139&page=5)啊 #pt7-99.96",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618794536185,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "4q03LYzzD",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618794533688,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "czUNrpjxl",
+    "edit-time": 1618357720386,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -59873,6 +60778,1130 @@
     "title": "图床 (Tuchuang)",
     "uid": "6uW_FgN8x",
     "edit-time": 1618748794064,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618791751683,
+    "title": "wild card",
+    "uid": "JnpepKB1R",
+    "edit-time": 1618791751684,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618791980641,
+    "title": "full-stop",
+    "uid": "qG07LbMKG",
+    "edit-time": 1618791980642,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618791985126,
+    "title": "asterisk",
+    "uid": "yj2ziWtod",
+    "edit-time": 1618791985126,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792038410,
+    "title": "period",
+    "uid": "VOiZ61QMh",
+    "edit-time": 1618792038410,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792038410,
+    "title": "full stop",
+    "uid": "EJog8jnhY",
+    "edit-time": 1618792038410,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792055007,
+    "title": "occurrence",
+    "uid": "uPlg8HBIY",
+    "edit-time": 1618792055007,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792282167,
+    "title": "case sensitive",
+    "uid": "nbXCssaVl",
+    "edit-time": 1618792282168,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792569005,
+    "title": "search",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[case-sensitive]]; [[case sensitive]]",
+        "refs": [
+          {
+            "uid": "nbXCssaVl"
+          },
+          {
+            "uid": "kxYJDObRy"
+          }
+        ],
+        "uid": "bEnfqjy2l",
+        "edit-time": 1618792589034,
+        ":block/refs": [
+          {
+            ":block/uid": "nbXCssaVl"
+          },
+          {
+            ":block/uid": "kxYJDObRy"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "filter; filtering",
+        "children": [
+          {
+            "string": "pass the query filters",
+            "uid": "oiUUF7WtD",
+            "edit-time": 1618792580033,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-RW4-xJnA",
+        "edit-time": 1618792580033,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Information Retrieval (IR)",
+        "uid": "l-tCPtTVn",
+        "edit-time": 1618792580033,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "local search; desktop search",
+        "children": [
+          {
+            "string": "[[Everything Search]]",
+            "refs": [
+              {
+                "uid": "uVjuh5EO-"
+              }
+            ],
+            "uid": "yPZaiREP1",
+            "edit-time": 1618792596986,
+            ":block/refs": [
+              {
+                ":block/uid": "uVjuh5EO-"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "9rpGCu-Ao",
+        "edit-time": 1618792580033,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "partial search",
+        "uid": "X9ooEnYla",
+        "edit-time": 1618792580033,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[query]]; query language",
+        "refs": [
+          {
+            "uid": "LKdpWZavM"
+          }
+        ],
+        "uid": "diUlmjJPF",
+        "edit-time": 1618792593084,
+        ":block/refs": [
+          {
+            ":block/uid": "LKdpWZavM"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[search engine]]; web search engine",
+        "refs": [
+          {
+            "uid": "XpG7lkKsD"
+          }
+        ],
+        "uid": "4ktD9nkey",
+        "edit-time": 1618792627642,
+        ":block/refs": [
+          {
+            ":block/uid": "XpG7lkKsD"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "search function; ",
+        "uid": "ULneGZfrQ",
+        "edit-time": 1618792617362,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "sorting",
+        "children": [
+          {
+            "string": "alphabetical order",
+            "uid": "giSL5PmDZ",
+            "edit-time": 1618792609773,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "exact order",
+            "uid": "e1cp2LME3",
+            "edit-time": 1618792609773,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "sorted by rating",
+            "uid": "ONB-01PbH",
+            "edit-time": 1618792609773,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "byslxnfyY",
+        "edit-time": 1618792609773,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "fQBQlbI2D",
+    "edit-time": 1618792569006,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792589036,
+    "title": "case-sensitive",
+    "uid": "kxYJDObRy",
+    "edit-time": 1618792589036,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792593086,
+    "title": "query",
+    "uid": "LKdpWZavM",
+    "edit-time": 1618792593086,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792596988,
+    "title": "Everything Search",
+    "uid": "uVjuh5EO-",
+    "edit-time": 1618792596988,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792627645,
+    "title": "search engine",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[damping function]]",
+        "refs": [
+          {
+            "uid": "kefo0MY66"
+          }
+        ],
+        "children": [
+          {
+            "string": "decrease with distance",
+            "uid": "XonXs340U",
+            "edit-time": 1618792646920,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[linear decay]]; [[exponential decay]]; hyperbolic decay",
+            "refs": [
+              {
+                "uid": "m0zH8T4Ji"
+              },
+              {
+                "uid": "6OTkb3SXx"
+              }
+            ],
+            "uid": "IPJ9sning",
+            "edit-time": 1618792646920,
+            ":block/refs": [
+              {
+                ":block/uid": "m0zH8T4Ji"
+              },
+              {
+                ":block/uid": "6OTkb3SXx"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "path length",
+            "uid": "9_Sv-QIPi",
+            "edit-time": 1618792646920,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "MwE-Hog2-",
+        "edit-time": 1618792645950,
+        ":block/refs": [
+          {
+            ":block/uid": "kefo0MY66"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[ranking function]]",
+        "refs": [
+          {
+            "uid": "DQigukQ7k"
+          }
+        ],
+        "children": [
+          {
+            "string": "importance propagation",
+            "uid": "2mi5_iEY8",
+            "edit-time": 1618792661019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "link analysis",
+            "uid": "bPimxnqg3",
+            "edit-time": 1618792661019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "link-based ranking algorithm",
+            "uid": "uOVjFih1X",
+            "edit-time": 1618792661019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "page importance; page ordering",
+            "children": [
+              {
+                "string": "page ranking; PageRank",
+                "uid": "bKMYAhCa9",
+                "edit-time": 1618792661019,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "o77sNVRWB",
+            "edit-time": 1618792661019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "rank quality",
+            "uid": "106ctMU_g",
+            "edit-time": 1618792661019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "relevance estimation",
+            "uid": "ITpCdEZDp",
+            "edit-time": 1618792661019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "VyZ35_7aq",
+        "edit-time": 1618792660068,
+        ":block/refs": [
+          {
+            ":block/uid": "DQigukQ7k"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Web graph",
+        "uid": "VNvz-zSQM",
+        "edit-time": 1618792609773,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "XpG7lkKsD",
+    "edit-time": 1618792627645,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792645952,
+    "title": "damping function",
+    "uid": "kefo0MY66",
+    "edit-time": 1618792645953,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792646914,
+    "title": "linear decay",
+    "uid": "m0zH8T4Ji",
+    "edit-time": 1618792646920,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792646914,
+    "title": "exponential decay",
+    "uid": "6OTkb3SXx",
+    "edit-time": 1618792646920,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792660071,
+    "title": "ranking function",
+    "uid": "DQigukQ7k",
+    "edit-time": 1618792660071,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792857164,
+    "title": "cognitive science",
+    "uid": "Sz58bkFZM",
+    "edit-time": 1618792857165,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792889018,
+    "title": "synaptic activation",
+    "uid": "gmsWHnGMj",
+    "edit-time": 1618792889019,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792890059,
+    "title": "neural pathway",
+    "uid": "ss2KJrkOb",
+    "edit-time": 1618792890059,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792891310,
+    "title": "neuron",
+    "uid": "W6Q4tqYt-",
+    "edit-time": 1618792891311,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618792966842,
+    "title": "industry",
+    "uid": "eXzShIB3x",
+    "edit-time": 1618792966843,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795130595,
+    "title": "selection",
+    "uid": "Ba4KbUf1c",
+    "edit-time": 1618795130595,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795593222,
+    "title": "smartphone",
+    "uid": "_9Tz9U1le",
+    "edit-time": 1618795593223,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795808391,
+    "title": "household appliance",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[dishwasher]]",
+        "refs": [
+          {
+            "uid": "BBayuWX6x"
+          }
+        ],
+        "uid": "lKVBcPPt0",
+        "edit-time": 1618796003356,
+        ":block/refs": [
+          {
+            ":block/uid": "BBayuWX6x"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[vacuum cleaner]]",
+        "refs": [
+          {
+            "uid": "ml0dAR3ou"
+          }
+        ],
+        "uid": "57xHuyju9",
+        "edit-time": 1618796001815,
+        ":block/refs": [
+          {
+            ":block/uid": "ml0dAR3ou"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[washing machine]]",
+        "refs": [
+          {
+            "uid": "ONwsKmKMJ"
+          }
+        ],
+        "uid": "TIIb--9QZ",
+        "edit-time": 1618795838748,
+        ":block/refs": [
+          {
+            ":block/uid": "ONwsKmKMJ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1618795998262,
+        "uid": "i-Dye7oMc",
+        "edit-time": 1618795999254,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "dictionary ",
+        "create-time": 1618795824021,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "electric appliance; housekeeping appliance; ",
+            "create-time": 1618795831192,
+            "uid": "Y6vnPEvq5",
+            "edit-time": 1618795831197,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "They [sell a wide range of] [[domestic appliance]]s ─ washing machines, [[dishwasher]]s and so on. 《牛津高阶英汉双解词典》",
+            "create-time": 1618795831192,
+            ":block/refs": [
+              {
+                ":block/uid": "LtmjgFbN5"
+              },
+              {
+                ":block/uid": "BBayuWX6x"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "LtmjgFbN5"
+              },
+              {
+                "uid": "BBayuWX6x"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "xPMALSjn3",
+            "edit-time": 1618795874899,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "These appliances should not be [connected to power supplies]([[power supply]]). 《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1618795831192,
+            ":block/refs": [
+              {
+                ":block/uid": "LsezpIBym"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "LsezpIBym"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "bBS7-o98J",
+            "edit-time": 1618795898192,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "All the cupboards 橱柜 and appliances dated from the 1950s ",
+            "create-time": 1618795831192,
+            "uid": "geD4crtyJ",
+            "edit-time": 1618795831197,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He could also learn to use the [[vacuum cleaner]], the washing machine and other household appliances. ",
+            "create-time": 1618795831192,
+            ":block/refs": [
+              {
+                ":block/uid": "ml0dAR3ou"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ml0dAR3ou"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "-eBkYkzIn",
+            "edit-time": 1618795928970,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[In the days before] [domestic gadgetry] 小器具 and [time-saving appliances], [food preparation](((dSyZrdrEd))) [took up most of the day]. ",
+            "create-time": 1618795831192,
+            ":block/refs": [
+              {
+                ":block/uid": "dSyZrdrEd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "dSyZrdrEd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "aB1xI7tnB",
+            "edit-time": 1618795989660,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "6hV3P-7kt",
+        "edit-time": 1618795825962,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WPz4JZ953",
+    "edit-time": 1618795808391,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795838751,
+    "title": "washing machine",
+    "uid": "ONwsKmKMJ",
+    "edit-time": 1618795838752,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795862537,
+    "title": "domestic appliance",
+    "uid": "LtmjgFbN5",
+    "edit-time": 1618795862538,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795874903,
+    "title": "dishwasher",
+    "uid": "BBayuWX6x",
+    "edit-time": 1618795874903,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795898194,
+    "title": "power supply",
+    "uid": "LsezpIBym",
+    "edit-time": 1618795898195,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618795928973,
+    "title": "vacuum cleaner",
+    "uid": "ml0dAR3ou",
+    "edit-time": 1618795928973,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796141902,
+    "title": "part-time job",
+    "uid": "vztrxbcjI",
+    "edit-time": 1618796141903,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796277486,
+    "title": "newsletter",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "email newsletter",
+        "uid": "qJigNyAjO",
+        "edit-time": 1618796269434,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "FjNQuRKiY",
+    "edit-time": 1618796277486,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796293769,
+    "title": "news",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "BBC News",
+        "uid": "zS0D_IEJd",
+        "edit-time": 1617959308063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[fake news]]",
+        "create-time": 1618796308572,
+        ":block/refs": [
+          {
+            ":block/uid": "Og24p5Gi3"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Og24p5Gi3"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "a4OFLBGmW",
+        "edit-time": 1618796309607,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((RHdtC8tXm))",
+        "create-time": 1618796295002,
+        ":block/refs": [
+          {
+            ":block/uid": "RHdtC8tXm"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "RHdtC8tXm"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "QXkSFua97",
+        "edit-time": 1618796296157,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[newspaper]]",
+        "refs": [
+          {
+            "uid": "ULm4XQ0Co"
+          }
+        ],
+        "children": [
+          {
+            "string": "Huffington Post",
+            "uid": "avQUsXfct",
+            "edit-time": 1618796317581,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "paper-round: 送报",
+            "uid": "QAtW1P6XK",
+            "edit-time": 1618796317581,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "YyD9QjUpN",
+        "edit-time": 1618796323213,
+        ":block/refs": [
+          {
+            ":block/uid": "ULm4XQ0Co"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "W59YDds4p",
+    "edit-time": 1618796293769,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796309610,
+    "title": "fake news",
+    "uid": "Og24p5Gi3",
+    "edit-time": 1618796309611,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796323215,
+    "title": "newspaper",
+    "uid": "ULm4XQ0Co",
+    "edit-time": 1618796323216,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796370482,
+    "title": "Language/BASIC",
+    "uid": "-EfzkojEk",
+    "edit-time": 1618796370482,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796538644,
+    "title": "career",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[LinkedIn]]",
+        "refs": [
+          {
+            "uid": "SKfi17PmM"
+          }
+        ],
+        "uid": "-pUkJAdeU",
+        "edit-time": 1618796553475,
+        ":block/refs": [
+          {
+            ":block/uid": "SKfi17PmM"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "my resume/CV",
+        "uid": "OdyaVnec-",
+        "edit-time": 1618796528319,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[part-time job]]",
+        "refs": [
+          {
+            "uid": "vztrxbcjI"
+          }
+        ],
+        "uid": "-BZ3lbPMB",
+        "edit-time": 1618796552431,
+        ":block/refs": [
+          {
+            ":block/uid": "vztrxbcjI"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "work experience",
+        "uid": "5EWYT9MMO",
+        "edit-time": 1618796528319,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "UNCOZ88WQ",
+    "edit-time": 1618796538645,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796553477,
+    "title": "LinkedIn",
+    "uid": "SKfi17PmM",
+    "edit-time": 1618796553478,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618796729167,
+    "title": "April 19th, 2021",
+    "uid": "04-19-2021",
+    "edit-time": 1618796729167,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

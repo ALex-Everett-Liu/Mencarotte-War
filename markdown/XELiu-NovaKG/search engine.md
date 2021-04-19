@@ -1,0 +1,13 @@
+- [[damping function]]
+    - decrease with distance
+    - [[linear decay]]; [[exponential decay]]; hyperbolic decay
+    - path length
+- [[ranking function]]
+    - importance propagation
+    - link analysis
+    - link-based ranking algorithm
+    - page importance; page ordering
+        - page ranking; PageRank
+    - rank quality
+    - relevance estimation
+- Web graph

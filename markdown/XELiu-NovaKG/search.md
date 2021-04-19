@@ -1,0 +1,14 @@
+- [[case-sensitive]]; [[case sensitive]]
+- filter; filtering
+    - pass the query filters
+- Information Retrieval (IR)
+- local search; desktop search
+    - [[Everything Search]]
+- partial search
+- [[query]]; query language
+- [[search engine]]; web search engine
+- search function; 
+- sorting
+    - alphabetical order
+    - exact order
+    - sorted by rating

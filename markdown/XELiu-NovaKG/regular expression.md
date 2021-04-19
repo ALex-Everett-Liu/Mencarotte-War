@@ -1,9 +1,15 @@
 - [[escape character]]
     - forward slash; [[backslash]]
+- exact match; re-matches
 - indicate the beginning of a line
+- pattern...
+    - find and match the pattern;
+    - [[occurrence]]: 发生/出现次数
+    - requested pattern;
 - re-find command
 - re-seq command
     - [[lazy list]]
     - realization: create the sequence
         - fully-realized: finite evaluation
 - [[symbol]]; 标点符号;
+- [[wild card]]: 通配符, 百搭牌; 外卡;
