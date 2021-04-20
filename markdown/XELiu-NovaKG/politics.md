@@ -4,6 +4,12 @@
 - general...
     - political reality
     - political satire
+- [[government]]
+    - administration
+        - [[administrative division]]
+    - approve the decision
+    - commission
+    - management
 - political activity
 - [[political economy]]
 - [[political philosophy]]

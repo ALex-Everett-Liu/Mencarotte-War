@@ -1,4 +1,8 @@
 - automate; automation; 自动化;
+- collaboration tool
+    - [[workaround]]
+    - [[workspace]]
 - effective
     - improve efficiency
 - [[template]]
+- subconsciously learnable flow

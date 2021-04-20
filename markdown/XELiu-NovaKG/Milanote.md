@@ -14,5 +14,5 @@
     - Organize visually
         - Milanote's [flexible drag and drop interface] lets you [arrange things in whatever way] [makes sense for your project].
     - Share with your team
-        - Milanote boards can be [a private place to think], or [a shared workspace] for collaboration—you're [in total control of] [who sees what].
+        - Milanote boards can be [a private place to think], or [a shared workspace](((tt1E-ii3j))) for [collaboration](((qoomjxQ6j)))—you're [in total control of] [who sees what].
 - [How people use Milanote](https://milanote.com/inspiration?referrer=rcCO3ehGRWkqTf3QEE)

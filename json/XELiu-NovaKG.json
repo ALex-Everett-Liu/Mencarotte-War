@@ -788,10 +788,10 @@
             }
           },
           {
-            "string": "old pc trash check;; wayback machine",
+            "string": "old pc trash check;; wayback machine;; garmin sync",
             "create-time": 1618457951481,
             "uid": "0XNy08NgL",
-            "edit-time": 1618893602576,
+            "edit-time": 1618920498775,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -9827,6 +9827,52 @@
         }
       },
       {
+        "string": "management",
+        "children": [
+          {
+            "string": "[[collaboration]]; collaborate",
+            "refs": [
+              {
+                "uid": "kF8ir9BV-"
+              }
+            ],
+            "uid": "qoomjxQ6j",
+            "edit-time": 1618919778264,
+            ":block/refs": [
+              {
+                ":block/uid": "kF8ir9BV-"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Master in Business Administration (MBA)]]",
+            "refs": [
+              {
+                "uid": "a1nS2fGt-"
+              }
+            ],
+            "uid": "kvcl8L3U2",
+            "edit-time": 1618919761004,
+            ":block/refs": [
+              {
+                ":block/uid": "a1nS2fGt-"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "6X1tEKzgb",
+        "edit-time": 1618919742104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[money]]",
         "refs": [
           {
@@ -9862,6 +9908,18 @@
         },
         "uid": "6jlEnVnUM",
         "edit-time": 1618740021405,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "反垄断",
+        "create-time": 1618919756908,
+        "uid": "jcHsjQ4Hh",
+        "edit-time": 1618919757829,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -28637,12 +28695,7 @@
     },
     "children": [
       {
-        "string": "[[authority]]: 当局, 当权; 权力, 权威;",
-        "refs": [
-          {
-            "uid": "doyaUfHJQ"
-          }
-        ],
+        "edit-time": 1618920037804,
         "children": [
           {
             "string": "((Ul-Xzj58j))",
@@ -28667,13 +28720,22 @@
             }
           }
         ],
-        "uid": "8SP7N7KDX",
-        "edit-time": 1618178392022,
+        "refs": [
+          {
+            "uid": "doyaUfHJQ"
+          }
+        ],
+        "uid": "En6878iev",
         ":block/refs": [
           {
             ":block/uid": "doyaUfHJQ"
           }
         ],
+        "string": "[[authority]]: 当局, 当权; 权力, 权威;",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618919907204,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -28708,6 +28770,92 @@
         ],
         "uid": "wDpSN-K76",
         "edit-time": 1618178240600,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[government]]",
+        "refs": [
+          {
+            "uid": "F9Cf4zTW3"
+          }
+        ],
+        "children": [
+          {
+            "string": "administration",
+            "children": [
+              {
+                "string": "((vIfY85jkd))",
+                "refs": [
+                  {
+                    "uid": "vIfY85jkd"
+                  }
+                ],
+                "uid": "oEICfGMZE",
+                "edit-time": 1618920061032,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vIfY85jkd"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "I6mInnZLW",
+            "edit-time": 1618920022883,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "approve the decision",
+            "uid": "IjjU590HJ",
+            "edit-time": 1618920022883,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "commission",
+            "uid": "DdwPAtrO6",
+            "edit-time": 1618920022883,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((6X1tEKzgb))",
+            "create-time": 1618919914289,
+            ":block/refs": [
+              {
+                ":block/uid": "6X1tEKzgb"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "6X1tEKzgb"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ddAVhzXLW",
+            "edit-time": 1618919915931,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rFsMARAv_",
+        "edit-time": 1618920045129,
+        ":block/refs": [
+          {
+            ":block/uid": "F9Cf4zTW3"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -48025,16 +48173,16 @@
         "string": "上下级概念...",
         "children": [
           {
-            "string": "((8SP7N7KDX))",
+            "string": "((En6878iev))",
             "create-time": 1618178271627,
             ":block/refs": [
               {
-                ":block/uid": "8SP7N7KDX"
+                ":block/uid": "En6878iev"
               }
             ],
             "refs": [
               {
-                "uid": "8SP7N7KDX"
+                "uid": "En6878iev"
               }
             ],
             ":create/user": {
@@ -53570,6 +53718,52 @@
         }
       },
       {
+        "string": "collaboration tool",
+        "children": [
+          {
+            "string": "[[workaround]]",
+            "refs": [
+              {
+                "uid": "VFVeE7GKq"
+              }
+            ],
+            "uid": "mYUIY1MV4",
+            "edit-time": 1618919705154,
+            ":block/refs": [
+              {
+                ":block/uid": "VFVeE7GKq"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[workspace]]",
+            "refs": [
+              {
+                "uid": "KI9-NRyez"
+              }
+            ],
+            "uid": "NJgsHgKtV",
+            "edit-time": 1618919696990,
+            ":block/refs": [
+              {
+                ":block/uid": "KI9-NRyez"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rZkguaRol",
+        "edit-time": 1618919679653,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "effective",
         "children": [
           {
@@ -53601,6 +53795,18 @@
             ":block/uid": "OF9Q1e_4I"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "subconsciously learnable flow",
+        "create-time": 1618919718481,
+        "uid": "vf__1iJ1P",
+        "edit-time": 1618919719413,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -64701,9 +64907,25 @@
             "string": "Share with your team",
             "children": [
               {
-                "string": "Milanote boards can be [a private place to think], or [a shared workspace] for collaboration—you're [in total control of] [who sees what].",
+                "string": "Milanote boards can be [a private place to think], or [a shared workspace](((tt1E-ii3j))) for [collaboration](((qoomjxQ6j)))—you're [in total control of] [who sees what].",
+                "refs": [
+                  {
+                    "uid": "tt1E-ii3j"
+                  },
+                  {
+                    "uid": "qoomjxQ6j"
+                  }
+                ],
                 "uid": "9GJARgHKK",
-                "edit-time": 1618895602312,
+                "edit-time": 1618919798572,
+                ":block/refs": [
+                  {
+                    ":block/uid": "tt1E-ii3j"
+                  },
+                  {
+                    ":block/uid": "qoomjxQ6j"
+                  }
+                ],
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -64868,6 +65090,246 @@
     "title": "bookmark",
     "uid": "EzwjGcDMQ",
     "edit-time": 1618893890993,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618919696992,
+    "title": "workspace",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "digital workspace; shared workspace",
+        "uid": "tt1E-ii3j",
+        "edit-time": 1618919679653,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "KI9-NRyez",
+    "edit-time": 1618919696993,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618919705157,
+    "title": "workaround",
+    "uid": "VFVeE7GKq",
+    "edit-time": 1618919705157,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618919742096,
+    "title": "group",
+    "uid": "GaAfJFFrz",
+    "edit-time": 1618919742104,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618919742096,
+    "title": "organization",
+    "uid": "83I8RIdF9",
+    "edit-time": 1618919742104,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618919761006,
+    "title": "Master in Business Administration (MBA)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1618919802898,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "He has [a Master's in Business Administration]. 《牛津高阶英汉双解词典》",
+            "create-time": 1618919810381,
+            "uid": "UkgbMtKD5",
+            "edit-time": 1618919841261,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "C: Yes, I received [a Bachelor of Business Administration]. en.eol.cn",
+            "create-time": 1618919810381,
+            "uid": "qEuJ0Cxzw",
+            "edit-time": 1618919845957,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Do they always [have a degree in] finance or MBA? blog.sina.com.cn",
+            "create-time": 1618919810381,
+            "uid": "Ys1UXYNlK",
+            "edit-time": 1618919849633,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[California College of the Arts] saw 92 applications for the [M.B.A. in Design Strategy] in its first year, 2008. ((oYnFbMbuc))",
+            "create-time": 1618919810381,
+            ":block/refs": [
+              {
+                ":block/uid": "oYnFbMbuc"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oYnFbMbuc"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "V11TgdZ4s",
+            "edit-time": 1618919859812,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Design and Realization of] the [Industry and Commerce Administration Information System] of Benxi City [Based on UML]. www.[dictall].com",
+            "create-time": 1618919810381,
+            "uid": "wb8sqE3Pi",
+            "edit-time": 1618919874356,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "831KV3RNX",
+        "edit-time": 1618919804998,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "a1nS2fGt-",
+    "edit-time": 1618919761006,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618919778268,
+    "title": "collaboration",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((rZkguaRol))",
+        "refs": [
+          {
+            "uid": "rZkguaRol"
+          }
+        ],
+        "uid": "kgh1vAZtw",
+        "edit-time": 1618919752325,
+        ":block/refs": [
+          {
+            ":block/uid": "rZkguaRol"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "collaborator; co-worker; colleague",
+        "uid": "2LjjY9bu7",
+        "edit-time": 1618919742104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "coordination problem",
+        "uid": "ObcTdmD25",
+        "edit-time": 1618919742104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[group]]; [[organization]]",
+        "refs": [
+          {
+            "uid": "GaAfJFFrz"
+          },
+          {
+            "uid": "83I8RIdF9"
+          }
+        ],
+        "uid": "L46Q6GfLo",
+        "edit-time": 1618919742104,
+        ":block/refs": [
+          {
+            ":block/uid": "GaAfJFFrz"
+          },
+          {
+            ":block/uid": "83I8RIdF9"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "kF8ir9BV-",
+    "edit-time": 1618919778269,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618920045131,
+    "title": "government",
+    "uid": "F9Cf4zTW3",
+    "edit-time": 1618920045132,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
