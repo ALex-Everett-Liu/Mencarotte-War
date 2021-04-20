@@ -1,0 +1,2 @@
+- already done archive
+    - buy 4T hdd, ssd | 1d || 

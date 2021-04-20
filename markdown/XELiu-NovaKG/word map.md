@@ -108,6 +108,19 @@
                     - convince
                         - convinced;
         - cr
+            - cre
+                - crease
+                    - increase
+                        - increasing;
+                    - decrease
+                - create
+                    - creation; creator;
+                    - creative;
+                    - re-created;
+                - credo
+                    - credal
+                    - credent; credential
+                    - credit; credited, 2
             - crime, 2
                 - criminal; criminate
                     - discriminate

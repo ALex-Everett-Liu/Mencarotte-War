@@ -1,0 +1,18 @@
+- home
+    - Get organized. [Stay creative](https://milanote.com/?referrer=rcCO3ehGRWkqTf3QEE).
+        - Milanote is [an easy-to-use tool] to [organize your ideas](((BP9ax-DQ4))) and projects into [visual boards](((kCdij3Bc4))).
+        - The Evernote for [Creatives](((S5NabLA1j))).
+    - Collect everything in one place
+        - ### Write notes & to-do lists
+            - Simple [text editing] and [[task management]] [make it easy to] [add your thoughts to a board].
+        - ### Upload images & files
+            - Milanote [supports all common file types] including JPGs, PDFs, Word, Excel, [common design files] and many more.
+        - ### Save text, images & links from the web
+            - The [Milanote Web Clipper](https://milanote.com/download-web-clipper?referrer=rcCO3ehGRWkqTf3QEE) lets you [save inspiration and ideas] [from any website] [with a single click]. #[[Web Clipper]]
+        - ### Add notes & photos from your phone
+            - Anything you save in the [Milanote app](https://milanote.com/download-mobile-app?referrer=rcCO3ehGRWkqTf3QEE) will be ready to organize [as soon as you're back at your computer].
+    - Organize visually
+        - Milanote's [flexible drag and drop interface] lets you [arrange things in whatever way] [makes sense for your project].
+    - Share with your team
+        - Milanote boards can be [a private place to think], or [a shared workspace] for collaboration—you're [in total control of] [who sees what].
+- [How people use Milanote](https://milanote.com/inspiration?referrer=rcCO3ehGRWkqTf3QEE)

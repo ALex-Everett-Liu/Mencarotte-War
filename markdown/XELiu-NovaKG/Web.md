@@ -3,6 +3,7 @@
 - [[markup language]]; [[markup]]
 - [[source]]; [[resource]]
     - [[upload]]; [[download]]
+    - [[Web Clipper]]
 - [[upload]]; [[download]]
 - [[Web development]]; web developer; Website Development
 - #inbox

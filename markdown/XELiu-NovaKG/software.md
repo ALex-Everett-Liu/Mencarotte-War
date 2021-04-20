@@ -20,6 +20,15 @@
 - [[multi-media]]
 - [[note-taking]]; note-taking tool; notetaking
 - [[release]]
+- storage
+    - library?
+        - [[archive]]
+        - [[library science]]
+        - [[repository]]; [[repo]]
+    - [[save and load]]
+        - eat up the storage
+    - storage system
+    - store files
 - [[text editor]]
 - [[typesetting]]; formatting...
     - [[markup language]]; [[markup]]

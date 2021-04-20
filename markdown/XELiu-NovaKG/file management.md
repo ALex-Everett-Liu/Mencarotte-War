@@ -1,5 +1,8 @@
 - [[archive]]
     - [[backup]]
+    - [[bookmark]]
+        - [[starred]]
+        - [[Web Clipper]]
 - [[file format]]
     - [[convert the format]]
     - [[executable file]]

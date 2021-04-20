@@ -6,13 +6,16 @@
     - global block
     - transclusion
         - transfer-included
+- board
+    - [[kanban]]
+    - [[Milanote]]
+        - visual board
 - innovation!
     - [[Roam Research]]
 - [[markdown]]; [[Markdown]]
     - [[Note-taking/Obsidian]]
     - [[思源笔记 (Siyuan Note)]]
     - [[Typora]]
-- [[Milanote]]
 - [[outliner]]
     - [[Dynalist]]
     - list-oriented format: 面向列表的格式
@@ -42,6 +45,7 @@
         -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
+    - 今天在群里了解到一款——知识图谱项目[前端可视化]图论库 cytoscape.js（[这一大串名头是查出来的](https://link.ld246.com/forward?goto=https%3A%2F%2Fwww.cnblogs.com%2Fzhilin%2Fp%2F12074688.html)），自带[一键分析图谱]功能，我感觉很适合[在此基础上]做[双链笔记的关系图](https://ld246.com/article/1618829898054)。 #pt9-99.98
     - Vscode的[Markdown插件]我也试过，在VScode上进行[Markdown写作]最方便的地方在于可以[自定义一些snippet]来[缩短一些重复输入的时间]，不过比较遗憾的是它并不能像Typora那样[实时渲染](https://sspai.com/post/65682)，而实时渲染是Typora吸引我的主要原因之一。
         - 最近又试了试notion，然而我觉得notion并不适合我，notion的quote块和callout块中不能插入图片和LaTeX，虽然有inline-table却没有inline-page。感觉用了notion就只能按照notion的思路[来写文档]了，不太舒服。
         - 当我昨天一口气在typora里面连着敲了六个井号的时候[我才意识到]，[学习笔记]这种[逻辑条理特别强]，大知识点套小知识点[无限套娃]的情况下，markdown只能说是凑合，还是需要用outliner。然后今天早上[又废了半天劲]把笔记全部移到workflowy上…… #pt8-99.99

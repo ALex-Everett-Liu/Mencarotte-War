@@ -1,4 +1,5 @@
 - [[index]]
+    - [[bookmark]]
     - [[keyword]]; [[topic]]
     - [[outline]]; [[outlining]]
     - parallel index
