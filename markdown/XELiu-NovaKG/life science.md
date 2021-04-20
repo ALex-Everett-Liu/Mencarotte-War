@@ -7,3 +7,5 @@
 - [[systematic biology]]
     - biological organization
         - life hierarchy
+- #inbox
+    - 人们已经[在实验室获得](https://www.zhihu.com/question/455240538)能用常见的[化学物质][浓度梯度]、酸碱性等驱动的[有机分子马达]。[地球生物]使用的[ATP酶]之类[有机分子]作为[分子马达]的性能是让人惊异的，你完全可以想象自然产生的[温差自养生物]使用十分高效的分子马达。 #pt9-100
