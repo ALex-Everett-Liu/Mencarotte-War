@@ -20,5 +20,19 @@
 210419-11:40
             - For example, to add two numbers:
 `(+ 2 3)`
-            - The **+** represents an [[in-built function]] for addition. The numbers **2** and **3** are the [[argument]]s. For mathematics, this is known as **__Polish notation__**. So, **(+ 2 3)** is the equivalent of **2 + 3**. Therefore, **x > 2** (x is greater than 2) would be **(> x 2)**. Clojure allows you to test these conditions. For example:
+            - The **+** represents an [[in-built function]] for addition. The numbers **2** and **3** are the [[argument]]s. For mathematics, this is known as [[Polish notation]]. So, **(+ 2 3)** is the equivalent of **2 + 3**. Therefore, **x > 2** (x is greater than 2) would be **(> x 2)**. Clojure allows you to test these conditions. For example:
+                - **(> 3 2)** will evaluate to true. See the examples below:
+                    - ```clojure
+(> 3 2)
+=> true   
+(< 3 2)
+=> false```
+                    - Both true and false are [displayed automatically] [i.e.] as soon as you [hit the return key].
+        - The other reason for using Clojure over other programming languages is **__Abstraction__**. Clojure is highly **__Abstract__**. A programming language [with a high level of Abstraction](((7TuCipGIi))) can [solve the same problem with less code] than [a less abstract language]. For example, [go to this page](http://rosettacode.org/wiki/Draw_a_cuboid) on the Rosetta Code website:
+            - [Scroll down] and compare the Clojure code listing to other languages such as Java. [You should notice a distinct difference in] [the amount of written code] required to [solve the same problem]. So, the more abstract a language is, the less code [needs to be written].
+(程序语言的抽象程度越高，解决同一问题时所需要的代码量就越少)
+210420-10:26
+    - ## SUMMARY
+        - [This first Post] introduced [the ‘Why’ of coding] and [a basic ‘How’]. We also covered ‘Why Clojure’ and introduced some [programming terms]. For instance, **__S-Expressions__**, **__Polish__** **__notation__**, **__Abstraction,__** and **__Concurrency__**. [Computer programming] is [littered with concepts] and their [associated jargon](((NTHIIyygB))). Throughout, I will introduce many more concepts and jargon. Often, I will [repeat their explanation with different examples] [over different posts]. At the end of all these posts, you should be able to hold your own in any [coding discussion].
+        - For now, recall Clojure is a modern language designed to run on the **__JVM__** and uses a specific format (**__S-Expression__**) that utilizes **__Polish Notation__** for maths. In addition, writing Clojure code involves less typing (**__Abstract__**) and is designed to run efficiently on modern multi-core processors (**__Concurrency__**).
 - [[Part 9 — Regular Expressions (REGEX).]]

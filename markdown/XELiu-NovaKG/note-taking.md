@@ -12,6 +12,7 @@
     - [[Note-taking/Obsidian]]
     - [[思源笔记 (Siyuan Note)]]
     - [[Typora]]
+- [[Milanote]]
 - [[outliner]]
     - [[Dynalist]]
     - list-oriented format: 面向列表的格式
@@ -39,6 +40,7 @@
 - #inbox
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
+    - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
     - Vscode的[Markdown插件]我也试过，在VScode上进行[Markdown写作]最方便的地方在于可以[自定义一些snippet]来[缩短一些重复输入的时间]，不过比较遗憾的是它并不能像Typora那样[实时渲染](https://sspai.com/post/65682)，而实时渲染是Typora吸引我的主要原因之一。
         - 最近又试了试notion，然而我觉得notion并不适合我，notion的quote块和callout块中不能插入图片和LaTeX，虽然有inline-table却没有inline-page。感觉用了notion就只能按照notion的思路[来写文档]了，不太舒服。

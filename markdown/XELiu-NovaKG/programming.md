@@ -1,4 +1,7 @@
+- abstraction
+    - high level of abstraction
 - annotating programs
+- boolean expression
 - [[bug]]
 - character
     - [[character string]]
@@ -14,6 +17,10 @@
     - [[snippet]]
     - [[source code]]
     - throwaway code
+- evaluate; evaluation
+- expression
+    - arithmetic expression;
+    - evaluation of expressions;
 - function...
     - [[argument]]: 参数, 自变量;
     - [[in-built function]]

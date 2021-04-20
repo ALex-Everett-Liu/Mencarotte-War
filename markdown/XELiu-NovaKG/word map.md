@@ -216,6 +216,14 @@
                     - [Greater London] [fragmentation of governance] 治理碎裂化 and the resulting performance of the thorny issues. www.[fabiao].net
                     - However, with the [rapid development] of [B2C e-commerce], also face [a number of thorny issues]. 
                 - raise the issue;
+    - j
+        - ja
+            - jargon: 行业术语, 行话, 黑话, 切口;
+        - jo
+            - join
+                - joint
+            - journal
+                - journey, 2
     - m
         - ma
             - mark

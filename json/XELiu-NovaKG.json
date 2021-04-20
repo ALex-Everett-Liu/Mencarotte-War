@@ -2105,6 +2105,28 @@
         }
       },
       {
+        "string": "[[Milanote]]",
+        "create-time": 1618889836175,
+        ":block/refs": [
+          {
+            ":block/uid": "QrKDOvw-S"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "QrKDOvw-S"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "kqwtuWKS6",
+        "edit-time": 1618889841715,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1617577283873,
         "children": [
           {
@@ -2557,6 +2579,34 @@
             ],
             "uid": "eoh90ZBpt",
             "edit-time": 1618366053757,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100",
+            "create-time": 1618889670348,
+            ":block/refs": [
+              {
+                ":block/uid": "cgyryTwl0"
+              },
+              {
+                ":block/uid": "qf_2NHomZ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cgyryTwl0"
+              },
+              {
+                "uid": "qf_2NHomZ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "By-m-p_MN",
+            "edit-time": 1618889704158,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -4453,10 +4503,40 @@
     },
     "children": [
       {
+        "string": "abstraction",
+        "children": [
+          {
+            "string": "high level of abstraction",
+            "uid": "7TuCipGIi",
+            "edit-time": 1618885550091,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ccV0q1XHx",
+        "edit-time": 1618885550091,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "annotating programs",
         "create-time": 1618187157098,
         "uid": "DwNHDx2E8",
         "edit-time": 1618187158207,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "boolean expression",
+        "create-time": 1618883513091,
+        "uid": "6sIb--IxL",
+        "edit-time": 1618883513776,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -4650,6 +4730,40 @@
         ],
         "uid": "-38TNlTYL",
         "edit-time": 1618180284519,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "evaluate; evaluation",
+        "uid": "hpjOt1VLt",
+        "edit-time": 1618883519182,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "expression",
+        "children": [
+          {
+            "string": "arithmetic expression;",
+            "uid": "SVr5SkmEf",
+            "edit-time": 1618883519182,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "evaluation of expressions;",
+            "uid": "Y6gIj10_f",
+            "edit-time": 1618883519182,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "M-Zlsjq6P",
+        "edit-time": 1618883519182,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -16795,6 +16909,84 @@
             ],
             "uid": "zMsDJngXH",
             "edit-time": 1617649899883,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "j",
+            "create-time": 1618885815472,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "ja",
+                "children": [
+                  {
+                    "string": "jargon: 行业术语, 行话, 黑话, 切口;",
+                    "uid": "NTHIIyygB",
+                    "edit-time": 1618885816835,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "S8-0bg-HK",
+                "edit-time": 1618885816835,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "jo",
+                "children": [
+                  {
+                    "string": "join",
+                    "children": [
+                      {
+                        "string": "joint",
+                        "uid": "nGWTGtLJa",
+                        "edit-time": 1618885816835,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "739lEs5pE",
+                    "edit-time": 1618885816835,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "journal",
+                    "children": [
+                      {
+                        "string": "journey, 2",
+                        "uid": "jU5imHQ-R",
+                        "edit-time": 1618885816835,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "tbcWhWBse",
+                    "edit-time": 1618885816835,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "UFevWQ_Gs",
+                "edit-time": 1618885816835,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Wbvnr9AUi",
+            "edit-time": 1618885815762,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -39465,14 +39657,45 @@
                     }
                   },
                   {
-                    "string": "The **+** represents an [[in-built function]] for addition. The numbers **2** and **3** are the [[argument]]s. For mathematics, this is known as **__Polish notation__**. So, **(+ 2 3)** is the equivalent of **2 + 3**. Therefore, **x > 2** (x is greater than 2) would be **(> x 2)**. Clojure allows you to test these conditions. For example:",
-                    "create-time": 1618882950581,
-                    ":block/refs": [
+                    "edit-time": 1618883134914,
+                    "children": [
                       {
-                        ":block/uid": "adIvHDSDJ"
-                      },
-                      {
-                        ":block/uid": "7dq4RtEt2"
+                        "string": "**(> 3 2)** will evaluate to true. See the examples below:",
+                        "create-time": 1618884704544,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "```clojure\n(> 3 2)\n=> true   \n(< 3 2)\n=> false```",
+                            "create-time": 1618884711927,
+                            "uid": "CXnDVxP6q",
+                            "edit-time": 1618884720815,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "Both true and false are [displayed automatically] [i.e.] as soon as you [hit the return key].",
+                            "create-time": 1618884759701,
+                            "uid": "vSx3Ubbk8",
+                            "edit-time": 1618884786979,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "3ICWk0l4Z",
+                        "edit-time": 1618884706085,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "refs": [
@@ -39481,13 +39704,28 @@
                       },
                       {
                         "uid": "7dq4RtEt2"
+                      },
+                      {
+                        "uid": "p39nYndp1"
                       }
                     ],
+                    "uid": "Tgv9R-zF6",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "adIvHDSDJ"
+                      },
+                      {
+                        ":block/uid": "7dq4RtEt2"
+                      },
+                      {
+                        ":block/uid": "p39nYndp1"
+                      }
+                    ],
+                    "string": "The **+** represents an [[in-built function]] for addition. The numbers **2** and **3** are the [[argument]]s. For mathematics, this is known as [[Polish notation]]. So, **(+ 2 3)** is the equivalent of **2 + 3**. Therefore, **x > 2** (x is greater than 2) would be **(> x 2)**. Clojure allows you to test these conditions. For example:",
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
-                    "uid": "Tgv9R-zF6",
-                    "edit-time": 1618883039435,
+                    "create-time": 1618882950581,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -39509,10 +39747,87 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "edit-time": 1618885567862,
+                "children": [
+                  {
+                    "string": "[Scroll down] and compare the Clojure code listing to other languages such as Java. [You should notice a distinct difference in] [the amount of written code] required to [solve the same problem]. So, the more abstract a language is, the less code [needs to be written].\n(程序语言的抽象程度越高，解决同一问题时所需要的代码量就越少)\n210420-10:26",
+                    "create-time": 1618885573522,
+                    "uid": "YcKq5XIOH",
+                    "edit-time": 1618885659470,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "7TuCipGIi"
+                  }
+                ],
+                "uid": "tuEE4BgmO",
+                ":block/refs": [
+                  {
+                    ":block/uid": "7TuCipGIi"
+                  }
+                ],
+                "string": "The other reason for using Clojure over other programming languages is **__Abstraction__**. Clojure is highly **__Abstract__**. A programming language [with a high level of Abstraction](((7TuCipGIi))) can [solve the same problem with less code] than [a less abstract language]. For example, [go to this page](http://rosettacode.org/wiki/Draw_a_cuboid) on the Rosetta Code website:",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1618884802416,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "QekT_doJj",
             "edit-time": 1618803511712,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "SUMMARY",
+            "heading": 2,
+            "children": [
+              {
+                "string": "[This first Post] introduced [the ‘Why’ of coding] and [a basic ‘How’]. We also covered ‘Why Clojure’ and introduced some [programming terms]. For instance, **__S-Expressions__**, **__Polish__** **__notation__**, **__Abstraction,__** and **__Concurrency__**. [Computer programming] is [littered with concepts] and their [associated jargon](((NTHIIyygB))). Throughout, I will introduce many more concepts and jargon. Often, I will [repeat their explanation with different examples] [over different posts]. At the end of all these posts, you should be able to hold your own in any [coding discussion].",
+                "refs": [
+                  {
+                    "uid": "NTHIIyygB"
+                  }
+                ],
+                "uid": "TfPVt2qft",
+                "edit-time": 1618885861448,
+                ":block/refs": [
+                  {
+                    ":block/uid": "NTHIIyygB"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "For now, recall Clojure is a modern language designed to run on the **__JVM__** and uses a specific format (**__S-Expression__**) that utilizes **__Polish Notation__** for maths. In addition, writing Clojure code involves less typing (**__Abstract__**) and is designed to run efficiently on modern multi-core processors (**__Concurrency__**).",
+                "create-time": 1618885878016,
+                "uid": "WAbQ9XrRi",
+                "edit-time": 1618885878362,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Z8eBrgMKR",
+            "edit-time": 1618885673262,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -40388,6 +40703,52 @@
       },
       {
         "string": "S-expression",
+        "children": [
+          {
+            "string": "[[Polish notation]]",
+            "refs": [
+              {
+                "uid": "p39nYndp1"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[reverse Polish notation (RPN)]]; [[postfix notation]]",
+                "refs": [
+                  {
+                    "uid": "idcJdWZNU"
+                  },
+                  {
+                    "uid": "Y6kgu_6t2"
+                  }
+                ],
+                "uid": "3tnU_Q-sG",
+                "edit-time": 1618883620666,
+                ":block/refs": [
+                  {
+                    ":block/uid": "idcJdWZNU"
+                  },
+                  {
+                    ":block/uid": "Y6kgu_6t2"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "xU6tEpzRM",
+            "edit-time": 1618883622327,
+            ":block/refs": [
+              {
+                ":block/uid": "p39nYndp1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "YJ2oDHxYT",
         "edit-time": 1618803678558,
         ":edit/user": {
@@ -63496,6 +63857,158 @@
     "title": "April 20th, 2021",
     "uid": "04-20-2021",
     "edit-time": 1618883072452,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618883134916,
+    "title": "Polish notation",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1618883298285,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[postfix notation]] 后缀表示法 is also known as [[reverse Polish notation (RPN)]] and is commonly used because it [enables easy evaluation of expressions](((Y6gIj10_f))). ((__44zEawJ))",
+            "create-time": 1618883301681,
+            ":block/refs": [
+              {
+                ":block/uid": "__44zEawJ"
+              },
+              {
+                ":block/uid": "idcJdWZNU"
+              },
+              {
+                ":block/uid": "Y6kgu_6t2"
+              },
+              {
+                ":block/uid": "Y6gIj10_f"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "__44zEawJ"
+              },
+              {
+                "uid": "idcJdWZNU"
+              },
+              {
+                "uid": "Y6kgu_6t2"
+              },
+              {
+                "uid": "Y6gIj10_f"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "lYNco-5TE",
+            "edit-time": 1618883531032,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Remember struggling with reverse Polish notation on your first [scientific calculator]? ",
+            "create-time": 1618883301681,
+            "uid": "IOyfkXxcg",
+            "edit-time": 1618883419104,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Analysis and [Program Design] and Compare about Two Algorithms on Reversed Polish Notation. dict.cnki.net",
+            "create-time": 1618883301681,
+            "uid": "m8knk3Lpp",
+            "edit-time": 1618883421330,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "This article discusses the problem about reversed polish notation in [inverted file retrieval technique] 倒排文档检索技术 for [full text retrieval]; ",
+            "create-time": 1618883301681,
+            "uid": "VKjM3KEvc",
+            "edit-time": 1618883433435,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "RANDOM NOTES OF POLAND The transform of Polish notation and inverse Polish notation in [arithmetic expression] ",
+            "create-time": 1618883301681,
+            "uid": "LEQXvxze3",
+            "edit-time": 1618883441946,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "MWJrNyK8A",
+        "edit-time": 1618883300112,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "p39nYndp1",
+    "edit-time": 1618883134917,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618883314715,
+    "title": "postfix notation",
+    "uid": "idcJdWZNU",
+    "edit-time": 1618883314715,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618883322254,
+    "title": "reverse Polish notation (RPN)",
+    "uid": "Y6kgu_6t2",
+    "edit-time": 1618883322255,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618889841717,
+    "title": "Milanote",
+    "uid": "QrKDOvw-S",
+    "edit-time": 1618889841717,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
