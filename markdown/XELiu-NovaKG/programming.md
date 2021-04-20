@@ -14,6 +14,10 @@
     - [[snippet]]
     - [[source code]]
     - throwaway code
+- function...
+    - [[argument]]: 参数, 自变量;
+    - [[in-built function]]
+    - standard library function
 - [[literate programming]]
 - [[regular expression]]; REGEX 
 - [[script]]

@@ -20,4 +20,5 @@
 210419-11:40
             - For example, to add two numbers:
 `(+ 2 3)`
+            - The **+** represents an [[in-built function]] for addition. The numbers **2** and **3** are the [[argument]]s. For mathematics, this is known as **__Polish notation__**. So, **(+ 2 3)** is the equivalent of **2 + 3**. Therefore, **x > 2** (x is greater than 2) would be **(> x 2)**. Clojure allows you to test these conditions. For example:
 - [[Part 9 — Regular Expressions (REGEX).]]

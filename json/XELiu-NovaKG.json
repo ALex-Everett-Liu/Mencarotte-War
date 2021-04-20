@@ -4655,6 +4655,64 @@
         }
       },
       {
+        "string": "function...",
+        "children": [
+          {
+            "string": "[[argument]]: 参数, 自变量;",
+            "create-time": 1618883063767,
+            ":block/refs": [
+              {
+                ":block/uid": "7dq4RtEt2"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7dq4RtEt2"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "4zhG9AAs2",
+            "edit-time": 1618883066303,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[in-built function]]",
+            "refs": [
+              {
+                "uid": "adIvHDSDJ"
+              }
+            ],
+            "uid": "Jy_8c0EA6",
+            "edit-time": 1618883027895,
+            ":block/refs": [
+              {
+                ":block/uid": "adIvHDSDJ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "standard library function",
+            "uid": "r8tVBsSAs",
+            "edit-time": 1618883024653,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "o3TQNyGbh",
+        "edit-time": 1618883024653,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[literate programming]]",
         "create-time": 1618191559008,
         ":block/refs": [
@@ -20446,6 +20504,66 @@
         },
         "uid": "wCuFkkR-g",
         "edit-time": 1618362429150,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618878768928,
+        "children": [
+          {
+            "edit-time": 1618878884613,
+            "children": [
+              {
+                "string": "gopnic 这词自己就是个典故～过了[维斯瓦河]，就不怎么蹲了～过了大西洋，基本上以跪代蹲。",
+                "create-time": 1618878867875,
+                "uid": "_zwoei0Xw",
+                "edit-time": 1618878874681,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lMcwecsmV"
+              }
+            ],
+            "uid": "gQIy6Vki0",
+            ":block/refs": [
+              {
+                ":block/uid": "lMcwecsmV"
+              }
+            ],
+            "string": "请自行在各大[购物app]搜索“一次性马桶垫”，[独立包装]可以[直接塞兜里]，前段加长背面可粘贴，[pe材质防水]我去国际大都市一般随身塞两包，实在没[蹲坑]简直迷之从容，就那种别人纠结于能不能坐下去还是蹲上去，你从容的撕开一张[一次性马桶垫][舒服的坐上去](https://bbs.saraba1st.com/2b/thread-1999851-3-1.html) #pt9-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618878768921,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "i42ByFqke",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618878767184,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -39342,6 +39460,34 @@
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "The **+** represents an [[in-built function]] for addition. The numbers **2** and **3** are the [[argument]]s. For mathematics, this is known as **__Polish notation__**. So, **(+ 2 3)** is the equivalent of **2 + 3**. Therefore, **x > 2** (x is greater than 2) would be **(> x 2)**. Clojure allows you to test these conditions. For example:",
+                    "create-time": 1618882950581,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "adIvHDSDJ"
+                      },
+                      {
+                        ":block/uid": "7dq4RtEt2"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "adIvHDSDJ"
+                      },
+                      {
+                        "uid": "7dq4RtEt2"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "Tgv9R-zF6",
+                    "edit-time": 1618883039435,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -61431,6 +61577,80 @@
     },
     "children": [
       {
+        "string": "dictionary ",
+        "create-time": 1618879356930,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "The book is concerned with [political economics]. 百度翻译例句库",
+            "create-time": 1618879359700,
+            "uid": "mt-dXufqU",
+            "edit-time": 1618879371453,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "They refrained from genuflecting to [the laws of political economy]. 拒不 顶礼膜拜 《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1618879359700,
+            "uid": "iTlVukd-O",
+            "edit-time": 1618879377307,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He [explained scientifically] [the most important questions] of political economy. 《汉英大词典》",
+            "create-time": 1618879359700,
+            "uid": "AmzUY8lUM",
+            "edit-time": 1618879396096,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "He studied [politics and economics] at Yale. 《牛津高阶英汉双解词典》",
+            "create-time": 1618879359700,
+            "uid": "WXgUolxpN",
+            "edit-time": 1618879400471,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The writer is Professor of [European politics and economy], [Athens University of Economics]. www.[ftchinese].com",
+            "create-time": 1618879359700,
+            "uid": "VdwXzms2H",
+            "edit-time": 1618879412054,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rsgofVKNY",
+        "edit-time": 1618879358770,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1618740102205,
         "children": [
           {
@@ -61622,11 +61842,75 @@
   {
     "create-time": 1618747836097,
     "title": "streaming media",
-    "uid": "S8i61xz_2",
-    "edit-time": 1618747836106,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1618879216093,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[QoS control] based on two ends for [streaming media on Internet]. www.[dictall].com",
+            "create-time": 1618879221500,
+            "uid": "7SewhShGO",
+            "edit-time": 1618879234707,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The Implementation of [Embedded Stream Media Player] [Based on ARM] ",
+            "create-time": 1618879221500,
+            "uid": "rD31572xT",
+            "edit-time": 1618879243184,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Research on [collaborative resource strategy] 协同调度 for [video transmission] over [wireless Mesh network] ",
+            "create-time": 1618879221500,
+            "uid": "f0-x-R5c2",
+            "edit-time": 1618879253275,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Research on [Transmission QoS] of Streaming Media Based on [Delay Jitter] 延迟抖动",
+            "create-time": 1618879221500,
+            "uid": "J5XxdHyV8",
+            "edit-time": 1618879259738,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "qkhAd1pW2",
+        "edit-time": 1618879218112,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "S8i61xz_2",
+    "edit-time": 1618747836106,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -63179,6 +63463,42 @@
     ],
     "uid": "wfCd96hP8",
     "edit-time": 1618819263908,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618882964816,
+    "title": "in-built function",
+    "uid": "adIvHDSDJ",
+    "edit-time": 1618882964817,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618883039438,
+    "title": "argument",
+    "uid": "7dq4RtEt2",
+    "edit-time": 1618883039438,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618883072452,
+    "title": "April 20th, 2021",
+    "uid": "04-20-2021",
+    "edit-time": 1618883072452,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
