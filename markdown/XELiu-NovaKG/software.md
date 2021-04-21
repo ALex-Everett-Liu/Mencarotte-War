@@ -21,6 +21,10 @@
 - [[note-taking]]; note-taking tool; notetaking
 - [[release]]
 - storage
+    - capability...
+        - fill to overflowing
+        - raw storage
+    - cloud storage
     - library?
         - [[archive]]
         - [[library science]]

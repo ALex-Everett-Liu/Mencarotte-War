@@ -741,7 +741,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1618819284478,
+            "edit-time": 1619007457349,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -1806,6 +1806,58 @@
         },
         "children": [
           {
+            "string": "capability...",
+            "create-time": 1619001065214,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "fill to overflowing",
+                "uid": "exvjiIcHP",
+                "edit-time": 1619001071483,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "raw storage",
+                "uid": "v3mmDDqFW",
+                "edit-time": 1619001071483,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "HuFxj1qP1",
+            "edit-time": 1619001065834,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((s-87vvWE-))",
+            "create-time": 1619001054944,
+            ":block/refs": [
+              {
+                ":block/uid": "s-87vvWE-"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "s-87vvWE-"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "SqnsHgeew",
+            "edit-time": 1619001055808,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "library?",
             "children": [
               {
@@ -2155,7 +2207,12 @@
         }
       },
       {
-        "string": "board",
+        "string": "[[board]]",
+        "refs": [
+          {
+            "uid": "xWIMYsCiq"
+          }
+        ],
         "children": [
           {
             "string": "[[kanban]]",
@@ -2218,10 +2275,43 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[[moodboard]]",
+            "refs": [
+              {
+                "uid": "mDNCTgNkW"
+              }
+            ],
+            "children": [
+              {
+                "string": "visual material",
+                "uid": "tVw9MAFma",
+                "edit-time": 1619004129218,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "aGHN52DKZ",
+            "edit-time": 1619004146012,
+            ":block/refs": [
+              {
+                ":block/uid": "mDNCTgNkW"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "GTG4fG4ld",
-        "edit-time": 1618891523088,
+        "edit-time": 1619004229195,
+        ":block/refs": [
+          {
+            ":block/uid": "xWIMYsCiq"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -2685,6 +2775,18 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "卡片式写作",
+            "create-time": 1619005817520,
+            "uid": "FMNpOodu6",
+            "edit-time": 1619005818455,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "mWZqQZhNB",
@@ -2772,6 +2874,56 @@
         },
         "uid": "eVXxB8qMZ",
         "edit-time": 1618748812422,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "writing tool; 写作工具",
+        "children": [
+          {
+            "string": "[[Gingko]]",
+            "create-time": 1619006902477,
+            ":block/refs": [
+              {
+                ":block/uid": "McBmJfVAv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "McBmJfVAv"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "bTIDDUOm6",
+            "edit-time": 1619006905390,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Scrivener]]",
+            "refs": [
+              {
+                "uid": "YXdgTMSu4"
+              }
+            ],
+            "uid": "tWcHJs74Z",
+            "edit-time": 1619006712992,
+            ":block/refs": [
+              {
+                ":block/uid": "YXdgTMSu4"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "0Dgs4VPU8",
+        "edit-time": 1619006707400,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3737,13 +3889,19 @@
     },
     "children": [
       {
-        "string": "cloud service...",
-        "create-time": 1618849001793,
-        "uid": "Zl9SLXrOZ",
-        "edit-time": 1618849002936,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
+        "string": "[[cloud service]]...",
+        "refs": [
+          {
+            "uid": "-dW4TqD7G"
+          }
+        ],
+        "uid": "nrqHjBqDp",
+        "edit-time": 1619000992358,
+        ":block/refs": [
+          {
+            ":block/uid": "-dW4TqD7G"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3914,78 +4072,6 @@
         },
         "uid": "FHxQOlgVk",
         "edit-time": 1618193444401,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "edit-time": 1618848991732,
-        "children": [
-          {
-            "edit-time": 1618849157386,
-            "children": [
-              {
-                "string": "能用是能用，但是百度[相当狗](https://www.zhihu.com/question/420273850/answer/1836326995)，与群晖同步[三天两头断连]，需要[重认证]。况且[百度云]对[冷资源]也有[极大概率的丢失]。所以我是用 WebDAV 与坚果云同步做的[混合云]，用于灾备最重要的数据，同时加强[外网访问的可靠性]。",
-                "create-time": 1618849014246,
-                "uid": "TNWIpYzNN",
-                "edit-time": 1618849149998,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "到处[复制粘贴]洗地不累？现在的问题不是[违规文件]，而是[正常文件][被误伤]，至于什么样的文件会被误伤，你猜猜看？反正百度[就不告诉你]。删除了你的正常文件你还得感恩戴德呢",
-                "create-time": 1618849094174,
-                "uid": "F58qFHhaj",
-                "edit-time": 1618849111985,
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "PdZWxhurI"
-              }
-            ],
-            "uid": "tTVCqfoJs",
-            ":block/refs": [
-              {
-                ":block/uid": "PdZWxhurI"
-              }
-            ],
-            "string": "上传[度娘云] 先[用 aes 加密软件]，加密文件名和内容，再 update。下载回来后[用aes解密]后[得到对应的资料]，再打开。证书在手，天下我有。[群晖]有[实时加密上传]的[套件]，不知道现在还能用么。 #pt8-99.99",
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "create-time": 1618848991726,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "L7fTIw9dt"
-          }
-        ],
-        "uid": "fF48liLvH",
-        ":block/refs": [
-          {
-            ":block/uid": "L7fTIw9dt"
-          }
-        ],
-        "string": "#inbox",
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "create-time": 1618848989323,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -26901,6 +26987,64 @@
         }
       },
       {
+        "string": "design...",
+        "children": [
+          {
+            "string": "[[creative professional]]",
+            "create-time": 1619004469022,
+            ":block/refs": [
+              {
+                ":block/uid": "_2uUHR9D3"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_2uUHR9D3"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "QIRqNqMDR",
+            "edit-time": 1619004487161,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "history-inspired renewal",
+            "uid": "pKbOkQmzb",
+            "edit-time": 1619004436660,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((Zw3dPKYLS))",
+            "refs": [
+              {
+                "uid": "Zw3dPKYLS"
+              }
+            ],
+            "uid": "OVCAgVK7f",
+            "edit-time": 1619004450994,
+            ":block/refs": [
+              {
+                ":block/uid": "Zw3dPKYLS"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "vKyItifMl",
+        "edit-time": 1619004436660,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[novel]]",
         "refs": [
           {
@@ -29672,6 +29816,24 @@
         ],
         "uid": "Qstml6tnv",
         "edit-time": 1617735751212,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "novelist",
+        "children": [
+          {
+            "string": "纳博科夫",
+            "uid": "YX_zqR_fI",
+            "edit-time": 1619006153747,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CqJmZpI_Q",
+        "edit-time": 1619006153747,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -48186,6 +48348,18 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "结构调整",
+            "create-time": 1619007430937,
+            "uid": "LoQIBcBIj",
+            "edit-time": 1619007431871,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "LNIUEA5ec",
@@ -49788,6 +49962,18 @@
             "string": "setup instruction;",
             "uid": "f34XuXAT6",
             "edit-time": 1618192900180,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "step-by-step guide;",
+            "create-time": 1619001499805,
+            "uid": "UUfxExubi",
+            "edit-time": 1619001500409,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -54063,6 +54249,24 @@
         ],
         "uid": "2Jopez6H3",
         "edit-time": 1618281285413,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "mental cost?",
+        "children": [
+          {
+            "string": "learning cost;",
+            "uid": "QnM74teNT",
+            "edit-time": 1619007153910,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "WlXPzRY7M",
+        "edit-time": 1619007153910,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -65655,6 +65859,160 @@
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
+                      },
+                      {
+                        "string": "Collaboration on demand",
+                        "children": [
+                          {
+                            "string": "Milanote boards are [private by default], but [with a few clicks] you can [share your notes with your team to collaborate], [get feedback] or [ask for input].",
+                            "children": [
+                              {
+                                "string": "Simple [commenting tools] [make it easy to] [discuss your ideas].",
+                                "uid": "XZSE68Y4w",
+                                "edit-time": 1619000857882,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "![milanote-02](https://images.prismic.io/milanote/68159c442b4c817ff10f0987542809a49e428d20_graphic-creative-notes-app-board.png)",
+                                "props": {
+                                  "image-size": {
+                                    "https://images.prismic.io/milanote/68159c442b4c817ff10f0987542809a49e428d20_graphic-creative-notes-app-board.png": {
+                                      "width": 552,
+                                      "height": null
+                                    }
+                                  }
+                                },
+                                "create-time": 1619000902711,
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://images.prismic.io/milanote/68159c442b4c817ff10f0987542809a49e428d20_graphic-creative-notes-app-board.png": {
+                                      ":width": 552,
+                                      ":height": null
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                "uid": "bCqZMCoNB",
+                                "edit-time": 1619000907917,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "phsnSb8BS",
+                            "edit-time": 1619000845088,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "72R91AyYs",
+                        "edit-time": 1619000819862,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Instantly synced to all your devices",
+                        "children": [
+                          {
+                            "string": "[Every note you add to] Milanote is [instantly and seamlessly synced to the cloud]([[cloud sync]]), which means you [never have to worry about] saving again. And because Milanote lives online, [all of your content] is instantly [available from all of your devices].\n210421-18:30",
+                            "refs": [
+                              {
+                                "uid": "3PjtxI5VO"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "Instant saving to the cloud.",
+                                "uid": "FuGxWl70Y",
+                                "edit-time": 1619000924503,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "Seamless [real-time sync] between devices.",
+                                "uid": "_yxlGprpb",
+                                "edit-time": 1619001122409,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Quickly add notes] from your phone.",
+                                "uid": "3_0MC1Prg",
+                                "edit-time": 1619001127471,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "kRlD2Qcat",
+                            "edit-time": 1619001155944,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "3PjtxI5VO"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "erUoa-VTV",
+                        "edit-time": 1619000924503,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Secure and private",
+                        "children": [
+                          {
+                            "string": "Our infrastructure is [designed for security], [constantly monitored] & always available. [All of your data] is [hosted in an environment with] [world class security] and privacy.",
+                            "children": [
+                              {
+                                "string": "Real-time backups.",
+                                "uid": "lQcL1pH-Q",
+                                "edit-time": 1619001144071,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "Notes encrypted both at rest and in transit.",
+                                "uid": "xPInX5Ptf",
+                                "edit-time": 1619001144071,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Strict policies and controls] to prevent Milanote staff from [accessing your content].",
+                                "uid": "t3CE-ZR5q",
+                                "edit-time": 1619001285629,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "aOzr2tT1T",
+                            "edit-time": 1619001257196,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "vqlKfLzQz",
+                        "edit-time": 1619001144071,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
                       }
                     ],
                     "uid": "yPjvvE3nX",
@@ -65694,6 +66052,56 @@
         ],
         "uid": "_qjpCVRk9",
         "edit-time": 1618891194390,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Guides",
+        "create-time": 1619001317090,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Moodboard",
+            "create-time": 1619001317977,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[[Make beautiful, shareable moodboards in minutes with Milanote]]",
+                "create-time": 1619001393817,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Oe3bx8Nll"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Oe3bx8Nll"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "IHJFiBtaj",
+                "edit-time": 1619001532973,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "n7qowr0La",
+            "edit-time": 1619001393824,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "3rLSt53hB",
+        "edit-time": 1619001317981,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -66082,11 +66490,35 @@
   {
     "create-time": 1618969525625,
     "title": "April 21st, 2021",
-    "uid": "04-21-2021",
-    "edit-time": 1618969525625,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[有哪些适合长文的轻量级写作软件值得推荐？]]\n210421-20pm",
+        "create-time": 1619007482645,
+        ":block/refs": [
+          {
+            ":block/uid": "d0MthsLg1"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "d0MthsLg1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Hw40-2O6z",
+        "edit-time": 1619007490289,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "04-21-2021",
+    "edit-time": 1618969525625,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -66571,6 +67003,1079 @@
     ],
     "uid": "1YTwkTwdz",
     "edit-time": 1618984950298,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619000947952,
+    "title": "cloud sync",
+    "uid": "3PjtxI5VO",
+    "edit-time": 1619000947953,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619000992361,
+    "title": "cloud service",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "cloud storage",
+        "create-time": 1619001009965,
+        "uid": "s-87vvWE-",
+        "edit-time": 1619001015838,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[sync]]",
+        "refs": [
+          {
+            "uid": "OQEjIvu49"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[cloud sync]]",
+            "refs": [
+              {
+                "uid": "3PjtxI5VO"
+              }
+            ],
+            "uid": "iWN42u7kw",
+            "edit-time": 1619001008290,
+            ":block/refs": [
+              {
+                ":block/uid": "3PjtxI5VO"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "LVcS9Ljrb",
+        "edit-time": 1619001009977,
+        ":block/refs": [
+          {
+            ":block/uid": "OQEjIvu49"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618848991732,
+        "children": [
+          {
+            "edit-time": 1618849157386,
+            "children": [
+              {
+                "string": "能用是能用，但是百度[相当狗](https://www.zhihu.com/question/420273850/answer/1836326995)，与群晖同步[三天两头断连]，需要[重认证]。况且[百度云]对[冷资源]也有[极大概率的丢失]。所以我是用 WebDAV 与坚果云同步做的[混合云]，用于灾备最重要的数据，同时加强[外网访问的可靠性]。",
+                "create-time": 1618849014246,
+                "uid": "TNWIpYzNN",
+                "edit-time": 1618849149998,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "到处[复制粘贴]洗地不累？现在的问题不是[违规文件]，而是[正常文件][被误伤]，至于什么样的文件会被误伤，你猜猜看？反正百度[就不告诉你]。删除了你的正常文件你还得感恩戴德呢",
+                "create-time": 1618849094174,
+                "uid": "F58qFHhaj",
+                "edit-time": 1618849111985,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PdZWxhurI"
+              }
+            ],
+            "uid": "tTVCqfoJs",
+            ":block/refs": [
+              {
+                ":block/uid": "PdZWxhurI"
+              }
+            ],
+            "string": "上传[度娘云] 先[用 aes 加密软件]，加密文件名和内容，再 update。下载回来后[用aes解密]后[得到对应的资料]，再打开。证书在手，天下我有。[群晖]有[实时加密上传]的[套件]，不知道现在还能用么。 #pt8-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1618848991726,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "fF48liLvH",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618848989323,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "-dW4TqD7G",
+    "edit-time": 1619000992362,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619001009978,
+    "title": "sync",
+    "uid": "OQEjIvu49",
+    "edit-time": 1619001009979,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619001532975,
+    "title": "Make beautiful, shareable moodboards in minutes with Milanote",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1619001591830,
+        "children": [
+          {
+            "string": "Written by Marc Clancy",
+            "uid": "2gbr83ZeU",
+            "edit-time": 1619004613425,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Updated 16th Apr, 2021",
+            "uid": "MDRbO-Ttu",
+            "edit-time": 1619004613425,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "![milanote-moodboard-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F3ouc2NqaxD.png?alt=media&token=03a096d5-04af-43b2-8992-5ae18707395f)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F3ouc2NqaxD.png?alt=media&token=03a096d5-04af-43b2-8992-5ae18707395f": {
+                  "width": 544,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1619001426799,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F3ouc2NqaxD.png?alt=media&token=03a096d5-04af-43b2-8992-5ae18707395f": {
+                  ":width": 544,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "iO1JAt_zF",
+            "edit-time": 1619001441188,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "UUfxExubi"
+          }
+        ],
+        "uid": "IrqN7_jEN",
+        ":block/refs": [
+          {
+            ":block/uid": "UUfxExubi"
+          }
+        ],
+        "string": "[Follow this](https://milanote.com/guide/create-better-moodboards?referrer=rcCO3ehGRWkqTf3QEE) [step-by-step guide](((UUfxExubi))) to learn the [modern process] of creating a moodboard in Milanote, [a free tool] [used by top creatives].\n210421-18:39",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619001410762,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "How to make a moodboard in 10 easy steps",
+        "heading": 2,
+        "children": [
+          {
+            "string": "A [[moodboard]] is [a collection of visual materials](((tVw9MAFma))) that [evoke a certain style or concept]. Designers, illustrators, photographers, filmmakers and all types of [[creative professional]]s create moodboards to [communicate the \"feel\" of an idea]. They can be [a powerful starting point in] [a creative project]—[a visual reference for] the team and [a springboard for new ideas]. 跳板\n(一系列视觉材料，传达一种感觉或风格)\n210421-19:22",
+            "refs": [
+              {
+                "uid": "tVw9MAFma"
+              },
+              {
+                "uid": "mDNCTgNkW"
+              },
+              {
+                "uid": "_2uUHR9D3"
+              }
+            ],
+            "children": [
+              {
+                "string": "But moodboards [have come a long way since the days of] [attaching printouts to physical boards]([[board]]) 打印件 or [creating static PDFs]. [Digital moodboards] [have the ability to] include video, bring together a remote team, and [evolve over time]—[unlocking a whole new world of] [creative possibilities].\n210421-19:29",
+                "refs": [
+                  {
+                    "uid": "xWIMYsCiq"
+                  }
+                ],
+                "uid": "CFxDuSY5Z",
+                "edit-time": 1619004500803,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xWIMYsCiq"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "EHfCI9LDp",
+            "edit-time": 1619004485614,
+            ":block/refs": [
+              {
+                ":block/uid": "tVw9MAFma"
+              },
+              {
+                ":block/uid": "mDNCTgNkW"
+              },
+              {
+                ":block/uid": "_2uUHR9D3"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "In this guide, you'll learn the [modern approach to] creating a moodboard using Milanote. Remember, the [creative process] is non-linear, so [you may find yourself] [moving back and forth between the steps] as you go.",
+            "uid": "ZPZ3ze0_v",
+            "edit-time": 1619004315109,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "DAqyAgrPI",
+        "edit-time": 1619001657474,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "1. Set the direction of your project",
+        "heading": 3,
+        "children": [
+          {
+            "string": "Moodboards can be literal and practical (featuring fonts, [color schemes](https://www.evinex.com/color-schemes/) and images that you actually plan to use in the final piece of work) or they can be more about exploring tone and mood. You can tackle these two different types sequentially, or just do one at a time.",
+            "uid": "JFYBbQBkz",
+            "edit-time": 1619004639149,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "lExZdOX5x",
+        "edit-time": 1619004639149,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Oe3bx8Nll",
+    "edit-time": 1619001532975,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619004144375,
+    "title": "moodboard",
+    "uid": "mDNCTgNkW",
+    "edit-time": 1619004144376,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619004221182,
+    "title": "board",
+    "uid": "xWIMYsCiq",
+    "edit-time": 1619004221182,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619004485617,
+    "title": "creative professional",
+    "uid": "_2uUHR9D3",
+    "edit-time": 1619004485618,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619005453147,
+    "title": "有哪些适合长文的轻量级写作软件值得推荐？",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[王树义 (Wang Shuyi)]]",
+        "refs": [
+          {
+            "uid": "iyPrfplwx"
+          }
+        ],
+        "children": [
+          {
+            "string": "终身学习者，[大学教师](https://www.zhihu.com/people/wang-shu-yi-11)。[稍微懂一点儿]写作、演讲和 Python。公众号 “玉树芝兰”。",
+            "uid": "RJFjCMYn0",
+            "edit-time": 1619005507164,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "南开大学 情报学博士",
+            "uid": "sfshlqkrM",
+            "edit-time": 1619005471060,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[史蒂芬平克]在《风格感觉》一书中提到：",
+            "children": [
+              {
+                "string": "> 写作之难，在于把[网状的思考]，用[树状的语法结构]，[转换成][线性字符串]。（“The Web, the Tree, and the String”）。",
+                "uid": "6hgLl3enA",
+                "edit-time": 1619005552817,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "4uYid5-IT",
+            "edit-time": 1619005546200,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "你看，思维是网状的，语法结构是树状的。可我们[起草稿件]，总是直接用[线性的文本]方式，这对吗？",
+            "uid": "uWKcWRcqk",
+            "edit-time": 1619005563405,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "许多大作家，却早早[掌握了诀窍]，写得轻松愉快，质量还高。",
+            "children": [
+              {
+                "string": "《[你一写长文章就焦虑拖延？](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/16eb649519cd)》一文里，[我给你推荐了][非线性卡片式写作](((FMNpOodu6)))。",
+                "refs": [
+                  {
+                    "uid": "FMNpOodu6"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "![card-writing-01](https://pic2.zhimg.com/80/v2-3dd37030ac7e79950f8f839d5dee202d.jpg)",
+                    "props": {
+                      "image-size": {
+                        "https://pic2.zhimg.com/80/v2-3dd37030ac7e79950f8f839d5dee202d.jpg": {
+                          "width": 505,
+                          "height": null
+                        }
+                      }
+                    },
+                    "create-time": 1619005613606,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://pic2.zhimg.com/80/v2-3dd37030ac7e79950f8f839d5dee202d.jpg": {
+                          ":width": 505,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "52v6pa4Et",
+                    "edit-time": 1619005639956,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "这种[写作方法]，使你[不必瞻前顾后]。[无须管那些][框定头脑的纲要]，让思维飞跃浮动。",
+                    "children": [
+                      {
+                        "string": "你[偶然想到的点子]，也[不必立即放到]某个[最后呈现的固定位置]。只需要[不断堆砌积累]就好。",
+                        "uid": "DqdNio1rs",
+                        "edit-time": 1619006069434,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "你知道它是[拼图的一角]，最终总会有[合适的位置]。",
+                        "uid": "U0DT2V2Qs",
+                        "edit-time": 1619006075674,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "Z16rmTV6w",
+                    "edit-time": 1619006052909,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[纳博科夫](((YX_zqR_fI)))能够[优雅地面对这种境况]，是因为所有的整理、校对和打印工作，都是[他太太][帮助完成]的。",
+                    "refs": [
+                      {
+                        "uid": "YX_zqR_fI"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "[那时候]也没有[个人电脑]。所以，[老先生][完全不必纠结][编辑工具]的选择。",
+                        "uid": "bCwNcDs7v",
+                        "edit-time": 1619006186226,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "而今天，我们活在一个[不得不加速变化]的[数字年代]里，效率很重要。",
+                        "uid": "oV5okC5Gv",
+                        "edit-time": 1619006192497,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "vluBvycjd",
+                    "edit-time": 1619006169268,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "YX_zqR_fI"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "zXTqoaZwl",
+                "edit-time": 1619005823040,
+                ":block/refs": [
+                  {
+                    ":block/uid": "FMNpOodu6"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "1I3o3Bi6J",
+            "edit-time": 1619005592248,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "痛苦",
+            "heading": 2,
+            "children": [
+              {
+                "string": "我尝试过多种不同的[卡片式写作应用]。但是实话实说，效果都不好。",
+                "children": [
+                  {
+                    "string": "例如 [[Milanote]] ，[最大优点在于]灵活。你可以在[一张很大的画板上]，[随意摆放排布]文字、图片、链接。这在[内容搜集阶段]，很有用处。[思考和积累素材]的时候可以[天马行空]，许多[设计师][大呼过瘾]。 ",
+                    "refs": [
+                      {
+                        "uid": "QrKDOvw-S"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "但是它的问题，也出在[太灵活]。最终，当你需要[梳理逻辑]的时候，还是得手动[把一堆卡片][用框子框住]，以防止[到处乱飞]。否则导出的时候，我至今也没有搞明白，自由的卡片们，从左到右和从上到下[两个方向]，究竟哪个[优先级更高]。",
+                        "uid": "KGjimEUAa",
+                        "edit-time": 1619006340314,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "而且一旦框定了，你恐怕也懒得将其在不同分组之间进行挪动了。[架构调整的灵活性]于是大打折扣。 #pt10-100",
+                        "refs": [
+                          {
+                            "uid": "Kp4t9aQO7"
+                          }
+                        ],
+                        "uid": "QEy5wHS9u",
+                        "edit-time": 1619006553934,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Kp4t9aQO7"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "![milanote-wsy-01](https://pic2.zhimg.com/80/v2-f516ae4c9111d6459c1a04a53343b421.jpg)",
+                        "props": {
+                          "image-size": {
+                            "https://pic2.zhimg.com/80/v2-f516ae4c9111d6459c1a04a53343b421.jpg": {
+                              "width": 580,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1619006390979,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://pic2.zhimg.com/80/v2-f516ae4c9111d6459c1a04a53343b421.jpg": {
+                              ":width": 580,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "BJv-dOJTU",
+                        "edit-time": 1619006401005,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "Cz9SpxiRr",
+                    "edit-time": 1619006545412,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "QrKDOvw-S"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "edit-time": 1619006517933,
+                    "children": [
+                      {
+                        "string": "而且[导出最后的文稿]，还得设置一堆烦人的参数。我这个人比较懒，着实受不了这种虐待。",
+                        "create-time": 1619006568985,
+                        "uid": "MT4ln1MAh",
+                        "edit-time": 1619006576475,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "YXdgTMSu4"
+                      }
+                    ],
+                    "uid": "973N9EeCk",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "YXdgTMSu4"
+                      }
+                    ],
+                    "string": "要价不菲的 [[Scrivener]] ，允许你把卡片[二维排布]起来。我[花钱购买]，原本就是看中了这个[卡片板（corkboard）]功能。但是如果你需要实现[逻辑上的嵌套和组合关系]，还是[需要跳来跳去]的。",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1619006445178,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "edit-time": 1619006616516,
+                    "children": [
+                      {
+                        "string": "不知不觉地，你会在[搜集材料阶段]，因为内容[与当前体系不兼容]，直接抛弃掉，错过很多[远程联想的机会]。",
+                        "create-time": 1619006625836,
+                        "uid": "HaCH8Ll7p",
+                        "edit-time": 1619006634402,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "一款真正好用的[创意写作工具](((0Dgs4VPU8)))，^^应该是让你在网状、树状和[线性结构]之间[游刃有余]，迅速切换。从而让你的写作[行云流水]。^^",
+                        "create-time": 1619006645959,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0Dgs4VPU8"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "0Dgs4VPU8"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "MbVSO3YI-",
+                        "edit-time": 1619006757482,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9O0IvwEp-"
+                      }
+                    ],
+                    "uid": "4bnDb6BJ-",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9O0IvwEp-"
+                      }
+                    ],
+                    "string": "[[WorkFlowy]] 这样的[树状大纲工具]挺好用。把[不同分支][进行挪动]也很便捷。可一旦你[列出一棵树状大纲]，你的思维也就跟着这棵树在走。",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1619006598107,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "lCcwv7OW0",
+                "edit-time": 1619006227088,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "我也知道[工具的切换]，会给人带来很大的[认知负荷](((WlXPzRY7M)))，同时也会[降低写作的积极性]与[愉悦感]。",
+                "refs": [
+                  {
+                    "uid": "WlXPzRY7M"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "但在当时，我并没有更好的办法。只能[两害相衡取其轻]，以不同工具的组合，达到一种[让人尽量满意的][写作效率]。",
+                    "uid": "J9ooNe--W",
+                    "edit-time": 1619006860358,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "CBnZ4miyl",
+                "edit-time": 1619007169195,
+                ":block/refs": [
+                  {
+                    ":block/uid": "WlXPzRY7M"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "今天，告诉你一个好消息，我找到了这款[一站式][非线性卡片写作工具]。",
+                "children": [
+                  {
+                    "string": "它的名字，叫做 [[Gingko]]。",
+                    "refs": [
+                      {
+                        "uid": "McBmJfVAv"
+                      }
+                    ],
+                    "uid": "c-P3Y8Sxm",
+                    "edit-time": 1619006867989,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "McBmJfVAv"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "IaKCwflW7",
+                "edit-time": 1619006866146,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "NZ2l1-HZ-",
+            "edit-time": 1619006220183,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "特色",
+            "heading": 2,
+            "children": [
+              {
+                "string": "见到一款新软件，至于那么兴奋吗？",
+                "children": [
+                  {
+                    "string": "听我给你说说它的特点，你就明白了。",
+                    "uid": "xxBFE9NhZ",
+                    "edit-time": 1619006878162,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "aqfRnwW7A",
+                "edit-time": 1619006878162,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "二维树状结构",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "[树状结构]([[tree structure]])，会比[直接码字儿]，更能[有效积累和梳理][你头脑中][不同模块的非线性关系]。",
+                    "refs": [
+                      {
+                        "uid": "zqp5Eu_Mx"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "但是，传统[树状结构编辑工具]，会让你只见树木，不见森林，忽视了[这棵树以外的世界]。",
+                        "uid": "-ulinhopM",
+                        "edit-time": 1619007199948,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Gingko 的做法，很有新意。就是把树[用二维方式展示]。",
+                        "children": [
+                          {
+                            "string": "[分类的逻辑]([[classification]])，也不用[吹毛求疵]。如果一开始，你分类不是很恰当，那是再正常不过。",
+                            "refs": [
+                              {
+                                "uid": "0-gll54rc"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "一旦写了很多字儿，你恐怕就懒得[在编辑器里变动架构]了。因为伤筋动骨，成本很高。",
+                                "uid": "f1-uKJTgM",
+                                "edit-time": 1619007348880,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "Gingko 有意思的地方在于，你可以在这个[二维平面上][直接拖拽]，[后续下级节点][都跟着一起走]，这样可以[最大限度降低][结构调整的成本](((LoQIBcBIj)))。使你更愿意[仔细端详][逻辑架构]，做出调整。\n210421-20:15",
+                                "refs": [
+                                  {
+                                    "uid": "LoQIBcBIj"
+                                  }
+                                ],
+                                "children": [
+                                  {
+                                    "string": "这样，大部分材料都不会写废。",
+                                    "children": [
+                                      {
+                                        "string": "因为[所谓的废品]，就是[摆在不合适位置上的]资源嘛。",
+                                        "uid": "uo1BDDJMG",
+                                        "edit-time": 1619007554791,
+                                        ":edit/user": {
+                                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                        }
+                                      },
+                                      {
+                                        "string": "调调位置，每张卡片的价值，也许就会[大有改观]。",
+                                        "uid": "on-SpExXe",
+                                        "edit-time": 1619007558659,
+                                        ":edit/user": {
+                                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "MPgfp2Qzi",
+                                    "edit-time": 1619007541665,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "Oc3gltfYR",
+                                "edit-time": 1619007468293,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "LoQIBcBIj"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "eaeYo6_7P",
+                            "edit-time": 1619007422628,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0-gll54rc"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "YgdBhm1JG",
+                        "edit-time": 1619007204377,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "1bph_945z",
+                    "edit-time": 1619007280238,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "zqp5Eu_Mx"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "CEdkDhTdG",
+                "edit-time": 1619006885422,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Markdown 格式",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "许多[在线的写作工具]，都把[最小的单位][定义成一个组块]。这个组块，可以是文字，可以是图像，也可以是[代码块]。但[往往不能同时]既包括图片，又包括图像。",
+                    "uid": "BN_f7d_jq",
+                    "edit-time": 1619007607864,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "Gingko 不存在这个问题。^^它的[每一张卡片]，都是一个 [HTML 单元]。^^[编辑的方式]是 Markdown 。这样一来，别说你[想在一张卡片里面][混合图文]，就是打算把一本书[放到一张卡片上]，也毫无问题。 #pt10-100",
+                    "create-time": 1619007633963,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Kp4t9aQO7"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Kp4t9aQO7"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "TYBAFj_2J",
+                    "edit-time": 1619007712527,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "pIrTbxVId",
+                "edit-time": 1619007586188,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "全键盘操作",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "前面我给你演示了用鼠标拖拽，便可以让卡片自由游动，拆分组合调整逻辑结构。",
+                    "children": [
+                      {
+                        "string": "但是，手离开键盘这件事儿本身，有时候也比较让人烦恼。因为思路容易被打断，灵感可能转瞬即逝，再也找不回来。",
+                        "uid": "tMOPSsCqT",
+                        "edit-time": 1619007684346,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "eZ7nbn_67",
+                    "edit-time": 1619007684346,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "好在 Gingko 的操作上，这些都不是问题。因为在浏览模式下，你可以用方向键直接在结构树上游走。甚至，如果你足够极客，还可以选择用 vim 模式的 hjkl 方向键。",
+                    "uid": "8xMncDsrh",
+                    "edit-time": 1619007684346,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "wCfLhiNtM",
+                "edit-time": 1619007684346,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "RdKh5Y5nc",
+            "edit-time": 1619006878162,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "gtakCtmuL",
+        "edit-time": 1619005515757,
+        ":block/refs": [
+          {
+            ":block/uid": "iyPrfplwx"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "d0MthsLg1",
+    "edit-time": 1619005453148,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619005515759,
+    "title": "王树义 (Wang Shuyi)",
+    "uid": "iyPrfplwx",
+    "edit-time": 1619005515760,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619006517936,
+    "title": "Scrivener",
+    "uid": "YXdgTMSu4",
+    "edit-time": 1619006517936,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619006867991,
+    "title": "Gingko",
+    "uid": "McBmJfVAv",
+    "edit-time": 1619006867992,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

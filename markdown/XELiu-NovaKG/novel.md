@@ -3,6 +3,8 @@
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
 - metropolis?
     - 
+- novelist
+    - 纳博科夫
 - [[romance novel]]
 - misc
     - {{[[TODO]]}} 江湖遍地卖装备 #pt10-99.99

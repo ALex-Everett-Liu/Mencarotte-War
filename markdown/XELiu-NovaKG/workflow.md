@@ -4,5 +4,7 @@
     - [[workspace]]
 - effective
     - improve efficiency
+- mental cost?
+    - learning cost;
 - [[template]]
 - subconsciously learnable flow

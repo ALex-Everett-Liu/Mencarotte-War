@@ -50,3 +50,21 @@
                         - Notes [automatically expand] as you type.
                         - Manually [resize any note to any size].
                         - [Convert to long form] when you need to [write a more traditional document].
+                - Collaboration on demand
+                    - Milanote boards are [private by default], but [with a few clicks] you can [share your notes with your team to collaborate], [get feedback] or [ask for input].
+                        - Simple [commenting tools] [make it easy to] [discuss your ideas].
+                        - ![milanote-02](https://images.prismic.io/milanote/68159c442b4c817ff10f0987542809a49e428d20_graphic-creative-notes-app-board.png)
+                - Instantly synced to all your devices
+                    - [Every note you add to] Milanote is [instantly and seamlessly synced to the cloud]([[cloud sync]]), which means you [never have to worry about] saving again. And because Milanote lives online, [all of your content] is instantly [available from all of your devices].
+210421-18:30
+                        - Instant saving to the cloud.
+                        - Seamless [real-time sync] between devices.
+                        - [Quickly add notes] from your phone.
+                - Secure and private
+                    - Our infrastructure is [designed for security], [constantly monitored] & always available. [All of your data] is [hosted in an environment with] [world class security] and privacy.
+                        - Real-time backups.
+                        - Notes encrypted both at rest and in transit.
+                        - [Strict policies and controls] to prevent Milanote staff from [accessing your content].
+- Guides
+    - Moodboard
+        - [[Make beautiful, shareable moodboards in minutes with Milanote]]

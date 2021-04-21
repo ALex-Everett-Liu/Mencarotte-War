@@ -3,6 +3,10 @@
 - [[comedy]]
 - [[creative writings]]
     - [[story]]
+- design...
+    - [[creative professional]]
+    - history-inspired renewal
+    - Web Design; [[Web design]]; web designer
 - [[novel]]
 - [[poetry]]
     - [[Romantic poetry]]

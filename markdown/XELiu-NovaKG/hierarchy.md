@@ -2,6 +2,7 @@
     - general category
 - [[classification]]
     - dynamic classification
+    - 结构调整
 - degree of branching
     - bifurcation theory
     - maximum degree

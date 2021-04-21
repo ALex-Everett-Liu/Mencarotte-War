@@ -6,11 +6,13 @@
     - global block
     - transclusion
         - transfer-included
-- board
+- [[board]]
     - [[kanban]]
     - [[Milanote]]
         - infinite canvas;
         - visual board
+    - [[moodboard]]
+        - visual material
 - innovation!
     - [[Roam Research]]
 - [[markdown]]; [[Markdown]]
@@ -37,11 +39,15 @@
     - [[Evernote]]
 - [[slip box]]
     - atomic note
+    - 卡片式写作
 - suck it!
     - [[Note-taking/Notion]]
         - bullshit!
     - [[Note-taking/Wolai]]
 - [[图床 (Tuchuang)]]
+- writing tool; 写作工具
+    - [[Gingko]]
+    - [[Scrivener]]
 - #inbox
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
