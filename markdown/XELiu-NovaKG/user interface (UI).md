@@ -1,0 +1,23 @@
+- drag and drop; drag files
+    - flexible drag and drop interface;
+- interactive; dynamic...
+    - confirmation box
+    - pop-up box;
+    - slide-in call-to-action (CTA)
+- magnifier; 放大镜
+- [[menu]]
+- navigation...
+    - fast move...
+    - indicator
+    - navigation-system
+    - previous page; next page
+    - return to top of page
+- [[pane]]
+- [[scrollbar]]
+- [[sidebar]]
+- style; styling...
+    - [[theme]]
+- [[tab]]
+- use case
+    - message-of-the-medium
+- [[user experience (UX)]]

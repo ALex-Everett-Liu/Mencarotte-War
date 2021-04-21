@@ -2,6 +2,7 @@
     - [[anime]]
 - [[comedy]]
 - [[creative writings]]
+    - [[story]]
 - [[novel]]
 - [[poetry]]
     - [[Romantic poetry]]

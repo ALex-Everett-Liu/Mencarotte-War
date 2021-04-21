@@ -11,7 +11,7 @@
         - ### Add notes & photos from your phone
             - Anything you save in the [Milanote app](https://milanote.com/download-mobile-app?referrer=rcCO3ehGRWkqTf3QEE) will be ready to organize [as soon as you're back at your computer].
     - Organize visually
-        - Milanote's [flexible drag and drop interface] lets you [arrange things in whatever way] [makes sense for your project].
+        - Milanote's [flexible drag and drop interface](((2D-uWhHN7))) lets you [arrange things in whatever way] [makes sense for your project].
     - Share with your team
         - Milanote boards can be [a private place to think], or [a shared workspace](((tt1E-ii3j))) for [collaboration](((qoomjxQ6j)))—you're [in total control of] [who sees what].
         - Edit together in real-time
@@ -26,7 +26,27 @@
                 - "The Evernote for [creatives](((S5NabLA1j)))"
                     - [Linear word documents](((1JistdAAV))) are great for your [final output], but on day one you need [a flexible space] to [explore your ideas]. 
                 - See the big picture
-                    - Traditional notes apps separate your notes into silos accessed by tags and search terms. But Milanote is different. You can arrange your notes side by side on an infinite canvas to start seeing patterns and connections.
-                        - Map out the sections of a project, a piece of writing or an argument by arranging your ideas side by side.
-                        - Use lines and colours to add another layer of meaning.
+                    - [Traditional notes apps] [separate your notes into silos] [accessed by tags and search terms]. But Milanote is different. You can [arrange your notes side by side] [on an infinite canvas](((tR8GFHomw))) to start [seeing patterns and connections].
+                        - Map out the sections of a project, [a piece of writing] or an argument by [arranging your ideas side by side].
+                        - [Use lines and colours] to [add another layer of meaning].
                     - [Check out the full list of supported files in our help centre](https://help.milanote.com/frequently-asked-questions/what-kind-of-files-can-i-upload)
+                - Save ideas and inspiration from around the web
+                    - Install the Milanote Web Clipper to instantly save text, images, videos or links to your boards [from any website you visit]. The [one-click interface] lets you [save inspiration in seconds].
+                        - Users of the Milanote Web Clipper have [rated it 4.8 out of 5 stars](((f5g4mmE2U))) on the [Google Chrome store].
+                    - [Install the Milanote Web Clipper now](https://chrome.google.com/webstore/detail/milanote-web-clipper/mipimgcmndeggldjcbjfeogcpoafomhl)
+                - More than just a [notes app]
+                    - Milanote lets you [save much more than just notes]. You can [upload files], [track to-do lists] and tasks, save images, videos and much more. [All of your content] can [live in one secure place], side by side.
+                        - Arrange your notes side by side with images, links and more.
+                        - [Track your tasks](((a3No-Jku_))) with [integrated to-do lists].
+                        - Upload any image to your boards. Milanote [supports all common image formats], including JPG, PNG, GIF, SVG and many more.
+                        - [Drag files into your browser](((2rbx96xWw))) to upload them.
+                - Just enough formatting
+                    - Milanote's [simple text editor] lets you add headings, lists and other [simple formatting] [without overwhelming you with complex options]. This means that instead of [getting distracted by] [choosing from dozens of fonts], you can [focus on your note taking] and relax knowing that [everything will look beautiful by default].
+                        - [Simple keyboard shortcuts](((5LF_BgoR9))) let you [format text instantly].
+                        - Any Markdown you use is [instantly transformed into] [beautifully formatted rich text]([[rich text]]).
+                        - ![milanote-01](https://images.prismic.io/milanote/1db00af7e8fc2556561e6fd4fcd533f036b51131_highlight-creative-notes-app-board.png)
+                - Adapts to your writing—from [quick notes](((NO0qX0HAG))) to [long form writing](((MnRlQjD_s)))
+                    - Some [notes apps] are [great for quick ideas]. Others work well when you're [writing longer documents]. But only Milanote's interface [adapts seamlessly] [as your ideas grow over time].
+                        - Notes [automatically expand] as you type.
+                        - Manually [resize any note to any size].
+                        - [Convert to long form] when you need to [write a more traditional document].

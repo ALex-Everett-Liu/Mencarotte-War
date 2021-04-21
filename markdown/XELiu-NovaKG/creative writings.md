@@ -1,1 +1,3 @@
 - article, essay, paper...
+- long form writing
+- writing experience

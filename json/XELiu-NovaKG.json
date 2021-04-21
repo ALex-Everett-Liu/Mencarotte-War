@@ -1995,6 +1995,28 @@
         }
       },
       {
+        "string": "[[user interface (UI)]]",
+        "create-time": 1618979035732,
+        ":block/refs": [
+          {
+            ":block/uid": "pPjWTgdzR"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "pPjWTgdzR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "sfHdyYb9p",
+        "edit-time": 1618979037322,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1618281190559,
         "children": [
           {
@@ -2156,6 +2178,14 @@
           {
             "edit-time": 1618889841715,
             "children": [
+              {
+                "string": "infinite canvas;",
+                "uid": "tR8GFHomw",
+                "edit-time": 1618977958236,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "string": "visual board",
                 "create-time": 1618891331581,
@@ -2591,7 +2621,24 @@
         }
       },
       {
-        "string": "rich text",
+        "string": "quick note; quick ideas",
+        "create-time": 1618981192479,
+        "uid": "NO0qX0HAG",
+        "edit-time": 1618981566909,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[rich text]]",
+        "refs": [
+          {
+            "uid": "dkypKJ2z4"
+          }
+        ],
         "children": [
           {
             "string": "[[Evernote]]",
@@ -2613,7 +2660,12 @@
           }
         ],
         "uid": "Hb-Rw5W23",
-        "edit-time": 1617931049133,
+        "edit-time": 1618980957580,
+        ":block/refs": [
+          {
+            ":block/uid": "dkypKJ2z4"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3953,11 +4005,41 @@
     },
     "children": [
       {
-        "string": "[[formatting markup]]: 格式化标记",
-        "create-time": 1618306086263,
-        ":block/refs": [
+        "edit-time": 1618306091494,
+        "children": [
           {
-            ":block/uid": "lEzwM-w3w"
+            "string": "formatted markdown",
+            "create-time": 1618980943072,
+            "uid": "kU12TJ_LJ",
+            "edit-time": 1618980944041,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((aIyyYUHCF))",
+            "create-time": 1618980932542,
+            ":block/refs": [
+              {
+                ":block/uid": "aIyyYUHCF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "aIyyYUHCF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "X7A5tb_Tj",
+            "edit-time": 1618980933777,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -3965,11 +4047,17 @@
             "uid": "lEzwM-w3w"
           }
         ],
+        "uid": "9WMwsUJCT",
+        ":block/refs": [
+          {
+            ":block/uid": "lEzwM-w3w"
+          }
+        ],
+        "string": "[[formatting markup]]: 格式化标记",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "9WMwsUJCT",
-        "edit-time": 1618306091494,
+        "create-time": 1618306086263,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -4112,23 +4200,23 @@
         },
         "children": [
           {
-            "string": "[[scrollbar]]",
+            "string": "((B5EWSaQrE))",
             "create-time": 1617579035394,
             ":block/refs": [
               {
-                ":block/uid": "_B4YqGU4I"
+                ":block/uid": "B5EWSaQrE"
               }
             ],
             "refs": [
               {
-                "uid": "_B4YqGU4I"
+                "uid": "B5EWSaQrE"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "gGdas74F5",
-            "edit-time": 1617579036734,
+            "edit-time": 1618981422779,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -10595,6 +10683,46 @@
                 }
               },
               {
+                "string": "rating; rating stars...",
+                "create-time": 1618978149394,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "level",
+                    "children": [
+                      {
+                        "string": "same level;",
+                        "uid": "sLxA-9t-a",
+                        "edit-time": 1618978217702,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "Me8a63VAA",
+                    "edit-time": 1618978217702,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "score; ranking...",
+                    "uid": "zausHA42k",
+                    "edit-time": 1618978217702,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "f5g4mmE2U",
+                "edit-time": 1618978150310,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "[[recommendation]]",
                 "refs": [
                   {
@@ -10650,6 +10778,28 @@
                     "string": "meet the need",
                     "uid": "scMqjWOSy",
                     "edit-time": 1618180094044,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "((kDkMCCcYL))",
+                    "create-time": 1618980502357,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "kDkMCCcYL"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "kDkMCCcYL"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "KStQvUKvU",
+                    "edit-time": 1618980503162,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -26709,11 +26859,25 @@
         }
       },
       {
-        "string": "[[creative writings]]",
-        "create-time": 1618197180112,
-        ":block/refs": [
+        "edit-time": 1618197184681,
+        "children": [
           {
-            ":block/uid": "C74fgmEdn"
+            "string": "[[story]]",
+            "refs": [
+              {
+                "uid": "hiwofCv3l"
+              }
+            ],
+            "uid": "qTTvINDJA",
+            "edit-time": 1618981160277,
+            ":block/refs": [
+              {
+                ":block/uid": "hiwofCv3l"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -26721,11 +26885,17 @@
             "uid": "C74fgmEdn"
           }
         ],
+        "uid": "lghlH7Ufe",
+        ":block/refs": [
+          {
+            ":block/uid": "C74fgmEdn"
+          }
+        ],
+        "string": "[[creative writings]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "lghlH7Ufe",
-        "edit-time": 1618197184681,
+        "create-time": 1618197180112,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -46528,51 +46698,53 @@
             "uid": "oiux78y8O"
           }
         ],
-        "uid": "h7rAaSojk",
-        "edit-time": 1618140880382,
-        ":block/refs": [
-          {
-            ":block/uid": "oiux78y8O"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "[[todo list]]; [[to-do list]]; [[TODO list]]",
-        "refs": [
-          {
-            "uid": "D1-XESmoA"
-          },
-          {
-            "uid": "SFfii9xjY"
-          },
-          {
-            "uid": "wIcO4y2yN"
-          }
-        ],
         "children": [
           {
-            "string": "un-completed project",
-            "uid": "VypvSiOuX",
-            "edit-time": 1618140865058,
+            "string": "[[todo list]]; [[to-do list]]; [[TODO list]]",
+            "refs": [
+              {
+                "uid": "D1-XESmoA"
+              },
+              {
+                "uid": "SFfii9xjY"
+              },
+              {
+                "uid": "wIcO4y2yN"
+              }
+            ],
+            "children": [
+              {
+                "string": "un-completed project",
+                "uid": "VypvSiOuX",
+                "edit-time": 1618140865058,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "HlA6JuU8J",
+            "edit-time": 1618193260307,
+            ":block/refs": [
+              {
+                ":block/uid": "D1-XESmoA"
+              },
+              {
+                ":block/uid": "SFfii9xjY"
+              },
+              {
+                ":block/uid": "wIcO4y2yN"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           }
         ],
-        "uid": "HlA6JuU8J",
-        "edit-time": 1618193260307,
+        "uid": "h7rAaSojk",
+        "edit-time": 1618140880382,
         ":block/refs": [
           {
-            ":block/uid": "D1-XESmoA"
-          },
-          {
-            ":block/uid": "SFfii9xjY"
-          },
-          {
-            ":block/uid": "wIcO4y2yN"
+            ":block/uid": "oiux78y8O"
           }
         ],
         ":edit/user": {
@@ -46691,6 +46863,18 @@
         },
         "uid": "DiDM6-_do",
         "edit-time": 1618279890466,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "track the task",
+        "create-time": 1618978785587,
+        "uid": "a3No-Jku_",
+        "edit-time": 1618978786481,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -49616,14 +49800,14 @@
         }
       },
       {
-        "string": "[[help database]]",
+        "string": "help centre; [[help database]]; ",
         "refs": [
           {
             "uid": "j_5mF42BM"
           }
         ],
         "uid": "N8kCH2S4_",
-        "edit-time": 1618192860250,
+        "edit-time": 1618980576169,
         ":block/refs": [
           {
             ":block/uid": "j_5mF42BM"
@@ -50725,6 +50909,22 @@
         },
         "uid": "HZFk5JU4X",
         "edit-time": 1618197229477,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "long form writing",
+        "uid": "MnRlQjD_s",
+        "edit-time": 1618981130140,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "writing experience",
+        "uid": "x5_hzzAZC",
+        "edit-time": 1618981130140,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -64953,9 +65153,19 @@
             "string": "Organize visually",
             "children": [
               {
-                "string": "Milanote's [flexible drag and drop interface] lets you [arrange things in whatever way] [makes sense for your project].",
+                "string": "Milanote's [flexible drag and drop interface](((2D-uWhHN7))) lets you [arrange things in whatever way] [makes sense for your project].",
+                "refs": [
+                  {
+                    "uid": "2D-uWhHN7"
+                  }
+                ],
                 "uid": "YC59c4V-3",
-                "edit-time": 1618895498846,
+                "edit-time": 1618977964257,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2D-uWhHN7"
+                  }
+                ],
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -65134,27 +65344,37 @@
                         "string": "See the big picture",
                         "children": [
                           {
-                            "string": "Traditional notes apps separate your notes into silos accessed by tags and search terms. But Milanote is different. You can arrange your notes side by side on an infinite canvas to start seeing patterns and connections.",
+                            "string": "[Traditional notes apps] [separate your notes into silos] [accessed by tags and search terms]. But Milanote is different. You can [arrange your notes side by side] [on an infinite canvas](((tR8GFHomw))) to start [seeing patterns and connections].",
+                            "refs": [
+                              {
+                                "uid": "tR8GFHomw"
+                              }
+                            ],
                             "children": [
                               {
-                                "string": "Map out the sections of a project, a piece of writing or an argument by arranging your ideas side by side.",
+                                "string": "Map out the sections of a project, [a piece of writing] or an argument by [arranging your ideas side by side].",
                                 "uid": "o07udVgVC",
-                                "edit-time": 1618975078485,
+                                "edit-time": 1618977937462,
                                 ":edit/user": {
                                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                                 }
                               },
                               {
-                                "string": "Use lines and colours to add another layer of meaning.",
+                                "string": "[Use lines and colours] to [add another layer of meaning].",
                                 "uid": "B0C16Njst",
-                                "edit-time": 1618975078485,
+                                "edit-time": 1618977950336,
                                 ":edit/user": {
                                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                                 }
                               }
                             ],
                             "uid": "NUCLSFER4",
-                            "edit-time": 1618975078485,
+                            "edit-time": 1618977972200,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "tR8GFHomw"
+                              }
+                            ],
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -65170,6 +65390,268 @@
                         ],
                         "uid": "csF16DZcO",
                         "edit-time": 1618975078485,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Save ideas and inspiration from around the web",
+                        "children": [
+                          {
+                            "string": "Install the Milanote Web Clipper to instantly save text, images, videos or links to your boards [from any website you visit]. The [one-click interface] lets you [save inspiration in seconds].",
+                            "children": [
+                              {
+                                "string": "Users of the Milanote Web Clipper have [rated it 4.8 out of 5 stars](((f5g4mmE2U))) on the [Google Chrome store].",
+                                "refs": [
+                                  {
+                                    "uid": "f5g4mmE2U"
+                                  }
+                                ],
+                                "uid": "AdV_LsmCI",
+                                "edit-time": 1618978158668,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "f5g4mmE2U"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "k3pKx_TwQ",
+                            "edit-time": 1618978029614,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[Install the Milanote Web Clipper now](https://chrome.google.com/webstore/detail/milanote-web-clipper/mipimgcmndeggldjcbjfeogcpoafomhl)",
+                            "uid": "Yjlfl_J5a",
+                            "edit-time": 1618978006851,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "cPP_-Lxs3",
+                        "edit-time": 1618978006851,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "More than just a [notes app]",
+                        "children": [
+                          {
+                            "string": "Milanote lets you [save much more than just notes]. You can [upload files], [track to-do lists] and tasks, save images, videos and much more. [All of your content] can [live in one secure place], side by side.",
+                            "children": [
+                              {
+                                "string": "Arrange your notes side by side with images, links and more.",
+                                "uid": "9JGsl0h6Y",
+                                "edit-time": 1618978232650,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Track your tasks](((a3No-Jku_))) with [integrated to-do lists].",
+                                "refs": [
+                                  {
+                                    "uid": "a3No-Jku_"
+                                  }
+                                ],
+                                "uid": "l6FZ9CaKg",
+                                "edit-time": 1618978795275,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "a3No-Jku_"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "Upload any image to your boards. Milanote [supports all common image formats], including JPG, PNG, GIF, SVG and many more.",
+                                "uid": "PsLhxQU2U",
+                                "edit-time": 1618978820388,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Drag files into your browser](((2rbx96xWw))) to upload them.",
+                                "refs": [
+                                  {
+                                    "uid": "2rbx96xWw"
+                                  }
+                                ],
+                                "uid": "f8Ig0pTnd",
+                                "edit-time": 1618980594740,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "2rbx96xWw"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "yEkLs3sph",
+                            "edit-time": 1618978704625,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "d-6u0mkCB",
+                        "edit-time": 1618978240272,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Just enough formatting",
+                        "children": [
+                          {
+                            "string": "Milanote's [simple text editor] lets you add headings, lists and other [simple formatting] [without overwhelming you with complex options]. This means that instead of [getting distracted by] [choosing from dozens of fonts], you can [focus on your note taking] and relax knowing that [everything will look beautiful by default].",
+                            "children": [
+                              {
+                                "string": "[Simple keyboard shortcuts](((5LF_BgoR9))) let you [format text instantly].",
+                                "refs": [
+                                  {
+                                    "uid": "5LF_BgoR9"
+                                  }
+                                ],
+                                "uid": "Mh5tuze16",
+                                "edit-time": 1618980712518,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "5LF_BgoR9"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "Any Markdown you use is [instantly transformed into] [beautifully formatted rich text]([[rich text]]).",
+                                "refs": [
+                                  {
+                                    "uid": "dkypKJ2z4"
+                                  }
+                                ],
+                                "uid": "O69tiHlf-",
+                                "edit-time": 1618980732156,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "dkypKJ2z4"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "![milanote-01](https://images.prismic.io/milanote/1db00af7e8fc2556561e6fd4fcd533f036b51131_highlight-creative-notes-app-board.png)",
+                                "props": {
+                                  "image-size": {
+                                    "https://images.prismic.io/milanote/1db00af7e8fc2556561e6fd4fcd533f036b51131_highlight-creative-notes-app-board.png": {
+                                      "width": 420,
+                                      "height": null
+                                    }
+                                  }
+                                },
+                                "create-time": 1618980980202,
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://images.prismic.io/milanote/1db00af7e8fc2556561e6fd4fcd533f036b51131_highlight-creative-notes-app-board.png": {
+                                      ":width": 420,
+                                      ":height": null
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                "uid": "HfhtzJ8Rf",
+                                "edit-time": 1618981010659,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "b8sJPkRoN",
+                            "edit-time": 1618980688322,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "A_k8-oFjE",
+                        "edit-time": 1618980637793,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "Adapts to your writing—from [quick notes](((NO0qX0HAG))) to [long form writing](((MnRlQjD_s)))",
+                        "refs": [
+                          {
+                            "uid": "MnRlQjD_s"
+                          },
+                          {
+                            "uid": "NO0qX0HAG"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "Some [notes apps] are [great for quick ideas]. Others work well when you're [writing longer documents]. But only Milanote's interface [adapts seamlessly] [as your ideas grow over time].",
+                            "children": [
+                              {
+                                "string": "Notes [automatically expand] as you type.",
+                                "uid": "LgJUmjoxi",
+                                "edit-time": 1618981623890,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "Manually [resize any note to any size].",
+                                "uid": "rrvutLfYL",
+                                "edit-time": 1618981627932,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Convert to long form] when you need to [write a more traditional document].",
+                                "uid": "pHZn72Qo-",
+                                "edit-time": 1618981637678,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "TVlFgioSn",
+                            "edit-time": 1618981614240,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "t9P0osFRB",
+                        "edit-time": 1618981198203,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "MnRlQjD_s"
+                          },
+                          {
+                            ":block/uid": "NO0qX0HAG"
+                          }
+                        ],
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
@@ -65605,6 +66087,490 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618979037324,
+    "title": "user interface (UI)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "drag and drop; drag files",
+        "children": [
+          {
+            "string": "flexible drag and drop interface;",
+            "uid": "2D-uWhHN7",
+            "edit-time": 1618977958236,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2rbx96xWw",
+        "edit-time": 1618979336398,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "interactive; dynamic...",
+        "children": [
+          {
+            "string": "confirmation box",
+            "uid": "Z1Z0ApkeI",
+            "edit-time": 1618979336398,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "pop-up box;",
+            "uid": "k6vg_CFw_",
+            "edit-time": 1618979336398,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "slide-in call-to-action (CTA)",
+            "uid": "y4i0FHDiN",
+            "edit-time": 1618979336398,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5SNCB3KyB",
+        "edit-time": 1618979336398,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "magnifier; 放大镜",
+        "uid": "nxYN24Ggd",
+        "edit-time": 1618980547005,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[menu]]",
+        "refs": [
+          {
+            "uid": "WqQsuHlwT"
+          }
+        ],
+        "uid": "PK8QYjdgY",
+        "edit-time": 1618980551966,
+        ":block/refs": [
+          {
+            ":block/uid": "WqQsuHlwT"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "navigation...",
+        "children": [
+          {
+            "string": "((IiiNSd8rN))",
+            "refs": [
+              {
+                "uid": "IiiNSd8rN"
+              }
+            ],
+            "uid": "NOHpDQg53",
+            "edit-time": 1618981245573,
+            ":block/refs": [
+              {
+                ":block/uid": "IiiNSd8rN"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "indicator",
+            "uid": "pPXE5yEIv",
+            "edit-time": 1618981233464,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "navigation-system",
+            "uid": "nVwmXZoUX",
+            "edit-time": 1618981233464,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "previous page; next page",
+            "uid": "0rf1n--tS",
+            "edit-time": 1618981233464,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "return to top of page",
+            "uid": "QTSdOW_44",
+            "edit-time": 1618981233464,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "l3x3JWFL2",
+        "edit-time": 1618981233464,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[pane]]",
+        "refs": [
+          {
+            "uid": "N8kcgQmQA"
+          }
+        ],
+        "uid": "f8cfdlEfe",
+        "edit-time": 1618981264700,
+        ":block/refs": [
+          {
+            ":block/uid": "N8kcgQmQA"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[scrollbar]]",
+        "create-time": 1618981419095,
+        ":block/refs": [
+          {
+            ":block/uid": "_B4YqGU4I"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "_B4YqGU4I"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "B5EWSaQrE",
+        "edit-time": 1618981420020,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[sidebar]]",
+        "refs": [
+          {
+            "uid": "xYC4yQPgn"
+          }
+        ],
+        "uid": "SRC2fjXti",
+        "edit-time": 1618981437070,
+        ":block/refs": [
+          {
+            ":block/uid": "xYC4yQPgn"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1618984920237,
+        "children": [
+          {
+            "string": "[[theme]]",
+            "refs": [
+              {
+                "uid": "1YTwkTwdz"
+              }
+            ],
+            "uid": "wwJfLwBdx",
+            "edit-time": 1618984950295,
+            ":block/refs": [
+              {
+                ":block/uid": "1YTwkTwdz"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "vZXtDEAvo"
+          }
+        ],
+        "uid": "AW0pfxwPC",
+        ":block/refs": [
+          {
+            ":block/uid": "vZXtDEAvo"
+          }
+        ],
+        "string": "((vZXtDEAvo))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1618984919342,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[tab]]",
+        "refs": [
+          {
+            "uid": "xoKPW1x1N"
+          }
+        ],
+        "uid": "ASJMHvSMx",
+        "edit-time": 1618980487437,
+        ":block/refs": [
+          {
+            ":block/uid": "xoKPW1x1N"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "use case",
+        "children": [
+          {
+            "string": "message-of-the-medium",
+            "uid": "uBNJumXVi",
+            "edit-time": 1618980480877,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "MxAXgRsC2",
+        "edit-time": 1618980480877,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[user experience (UX)]]",
+        "refs": [
+          {
+            "uid": "SikPT1G2b"
+          }
+        ],
+        "uid": "kDkMCCcYL",
+        "edit-time": 1618980484794,
+        ":block/refs": [
+          {
+            ":block/uid": "SikPT1G2b"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "pPjWTgdzR",
+    "edit-time": 1618979037325,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618980484796,
+    "title": "user experience (UX)",
+    "uid": "SikPT1G2b",
+    "edit-time": 1618980484797,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618980487439,
+    "title": "tab",
+    "uid": "xoKPW1x1N",
+    "edit-time": 1618980487440,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618980551968,
+    "title": "menu",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((leLyaUlL7))",
+        "refs": [
+          {
+            "uid": "leLyaUlL7"
+          }
+        ],
+        "uid": "qJHyUUjup",
+        "edit-time": 1618980581327,
+        ":block/refs": [
+          {
+            ":block/uid": "leLyaUlL7"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "start menu",
+        "uid": "tSNyYdoZ3",
+        "edit-time": 1618980547005,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WqQsuHlwT",
+    "edit-time": 1618980551968,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618980732159,
+    "title": "rich text",
+    "uid": "dkypKJ2z4",
+    "edit-time": 1618980732159,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618981160279,
+    "title": "story",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "backstory",
+        "uid": "q_DvAyIxX",
+        "edit-time": 1618981156550,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "open-ended",
+        "uid": "9blH8NlT3",
+        "edit-time": 1618981156550,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "storyline",
+        "uid": "LIQVikhYJ",
+        "edit-time": 1618981156550,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "storyteller",
+        "uid": "VMpJcU3Du",
+        "edit-time": 1618981156550,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "hiwofCv3l",
+    "edit-time": 1618981160279,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618981264702,
+    "title": "pane",
+    "uid": "N8kcgQmQA",
+    "edit-time": 1618981264702,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618981437072,
+    "title": "sidebar",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "left sidebar; right sidebar",
+        "uid": "XolN5scen",
+        "edit-time": 1618981434842,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "xYC4yQPgn",
+    "edit-time": 1618981437072,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1618984950297,
+    "title": "theme",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Minimal Theme;",
+        "uid": "xo1ua7fh6",
+        "edit-time": 1618984947637,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "1YTwkTwdz",
+    "edit-time": 1618984950298,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

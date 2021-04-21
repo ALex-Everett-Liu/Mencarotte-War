@@ -1,4 +1,6 @@
 - [[formatting markup]]: 格式化标记
+    - formatted markdown
+    - list-oriented format: 面向列表的格式
 - [[hypertext]]
     - html; [[HyperText Markup Language (HTML)]];
 - [[LaTeX]]

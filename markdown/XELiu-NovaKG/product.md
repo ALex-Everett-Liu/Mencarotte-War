@@ -6,8 +6,13 @@
         - comment; review;
             - [[book review]];
             - controversy
+        - rating; rating stars...
+            - level
+                - same level;
+            - score; ranking...
         - [[recommendation]]
         - [[user demand]]; user need...
             - feature...
             - last mile
             - meet the need
+            - [[user experience (UX)]]

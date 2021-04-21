@@ -9,6 +9,7 @@
 - board
     - [[kanban]]
     - [[Milanote]]
+        - infinite canvas;
         - visual board
 - innovation!
     - [[Roam Research]]
@@ -31,7 +32,8 @@
         - [[MediaWiki]]
         - [[TiddlyWiki]]
         - [[Zim Desktop Wiki]]
-- rich text
+- quick note; quick ideas
+- [[rich text]]
     - [[Evernote]]
 - [[slip box]]
     - atomic note
