@@ -2,3 +2,7 @@
 - indent
     - [[rainbow indentation]]
 - [[plain text]]
+- [[vi editor]]
+    - [[Vim (Vi IMproved)]]
+        - [[vim mode]]
+            - hjkl 方向键

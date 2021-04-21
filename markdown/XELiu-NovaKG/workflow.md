@@ -6,5 +6,6 @@
     - improve efficiency
 - mental cost?
     - learning cost;
+    - 打断思路
 - [[template]]
 - subconsciously learnable flow

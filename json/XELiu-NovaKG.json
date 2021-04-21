@@ -741,7 +741,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1619007457349,
+            "edit-time": 1619011365812,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -753,7 +753,7 @@
             "string": "",
             "create-time": 1618017353562,
             "uid": "UKCZUE324",
-            "edit-time": 1618546076872,
+            "edit-time": 1619011393166,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -788,10 +788,10 @@
             }
           },
           {
-            "string": "old pc trash check;; wayback machine;; garmin sync;; 小红书 douyin;; ",
+            "string": "old pc trash check;; wayback machine;; garmin sync;; 小红书 douyin;; Grammarly-like;; ",
             "create-time": 1618457951481,
             "uid": "0XNy08NgL",
-            "edit-time": 1618973836912,
+            "edit-time": 1619011080355,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -3846,6 +3846,74 @@
         },
         "uid": "t2boxTq3G",
         "edit-time": 1618141132909,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[vi editor]]",
+        "refs": [
+          {
+            "uid": "nV8EuVV5J"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Vim (Vi IMproved)]]",
+            "refs": [
+              {
+                "uid": "D-d_mCX9v"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[vim mode]]",
+                "refs": [
+                  {
+                    "uid": "XzHILTxux"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "hjkl 方向键",
+                    "uid": "oMDEVhAco",
+                    "edit-time": 1619010673175,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "qvLHf34Ee",
+                "edit-time": 1619010678669,
+                ":block/refs": [
+                  {
+                    ":block/uid": "XzHILTxux"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "zqNwq1C_G",
+            "edit-time": 1619010679796,
+            ":block/refs": [
+              {
+                ":block/uid": "D-d_mCX9v"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "AKWB5VsYi",
+        "edit-time": 1619010681158,
+        ":block/refs": [
+          {
+            ":block/uid": "nV8EuVV5J"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -45286,6 +45354,44 @@
     },
     "children": [
       {
+        "string": "[[flow (psychology)]]: 心流",
+        "refs": [
+          {
+            "uid": "90BP1BVE6"
+          }
+        ],
+        "children": [
+          {
+            "string": "((riLgQTHnt))",
+            "refs": [
+              {
+                "uid": "riLgQTHnt"
+              }
+            ],
+            "uid": "LnSl5aMz0",
+            "edit-time": 1619010434297,
+            ":block/refs": [
+              {
+                ":block/uid": "riLgQTHnt"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xGIt3mbXL",
+        "edit-time": 1619010504484,
+        ":block/refs": [
+          {
+            ":block/uid": "90BP1BVE6"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[neuropsychology]]",
         "refs": [
           {
@@ -54260,6 +54366,18 @@
             "string": "learning cost;",
             "uid": "QnM74teNT",
             "edit-time": 1619007153910,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "打断思路",
+            "create-time": 1619010429419,
+            "uid": "riLgQTHnt",
+            "edit-time": 1619010430334,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -66495,7 +66613,7 @@
     },
     "children": [
       {
-        "string": "[[有哪些适合长文的轻量级写作软件值得推荐？]]\n210421-20pm",
+        "string": "[[如何高效写长文？- Gingko]]\n210421-20pm",
         "create-time": 1619007482645,
         ":block/refs": [
           {
@@ -66511,7 +66629,7 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "uid": "Hw40-2O6z",
-        "edit-time": 1619007490289,
+        "edit-time": 1619011385344,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -67375,37 +67493,75 @@
   },
   {
     "create-time": 1619005453147,
-    "title": "有哪些适合长文的轻量级写作软件值得推荐？",
+    "title": "如何高效写长文？- Gingko",
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
       {
-        "string": "[[王树义 (Wang Shuyi)]]",
-        "refs": [
-          {
-            "uid": "iyPrfplwx"
-          }
-        ],
+        "string": "[王树义 Answer](https://zhuanlan.zhihu.com/p/92393099) -- 有哪些适合长文的[轻量级写作软件](https://www.zhihu.com/question/20344081/answer/899380995)值得推荐？",
         "children": [
           {
-            "string": "终身学习者，[大学教师](https://www.zhihu.com/people/wang-shu-yi-11)。[稍微懂一点儿]写作、演讲和 Python。公众号 “玉树芝兰”。",
-            "uid": "RJFjCMYn0",
-            "edit-time": 1619005507164,
+            "edit-time": 1619010990290,
+            "children": [
+              {
+                "string": "终身学习者，[大学教师](https://www.zhihu.com/people/wang-shu-yi-11)。[稍微懂一点儿]写作、演讲和 Python。公众号 “玉树芝兰”。",
+                "children": [
+                  {
+                    "string": "要读更多的文章，微信关注我的公众号 [“玉树芝兰”(nkwangshuyi)](https://link.zhihu.com/?target=https%3A//tva1.sinaimg.cn/large/006y8mN6ly1g7c5l5bit2j3076076aaa.jpg)。别忘了加星标，以免错过[新推送提示]。",
+                    "create-time": 1619010975528,
+                    "uid": "Q8Gc1SZ0t",
+                    "edit-time": 1619011021997,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "RJFjCMYn0",
+                "edit-time": 1619005507164,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "南开大学 情报学博士",
+                "uid": "sfshlqkrM",
+                "edit-time": 1619005471060,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "iyPrfplwx"
+              }
+            ],
+            "uid": "ith8pXFni",
+            ":block/refs": [
+              {
+                ":block/uid": "iyPrfplwx"
+              }
+            ],
+            "string": "[[王树义 (Wang Shuyi)]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619010989081,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "南开大学 情报学博士",
-            "uid": "sfshlqkrM",
-            "edit-time": 1619005471060,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[史蒂芬平克]在《风格感觉》一书中提到：",
+            "string": "[史蒂芬·平克]([[Steven Arthur Pinker]])在《风格感觉》一书中提到：",
+            "refs": [
+              {
+                "uid": "p9QSarc3p"
+              }
+            ],
             "children": [
               {
                 "string": "> 写作之难，在于把[网状的思考]，用[树状的语法结构]，[转换成][线性字符串]。（“The Web, the Tree, and the String”）。",
@@ -67417,7 +67573,12 @@
               }
             ],
             "uid": "4uYid5-IT",
-            "edit-time": 1619005546200,
+            "edit-time": 1619011732430,
+            ":block/refs": [
+              {
+                ":block/uid": "p9QSarc3p"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -67986,27 +68147,71 @@
                 "heading": 3,
                 "children": [
                   {
-                    "string": "前面我给你演示了用鼠标拖拽，便可以让卡片自由游动，拆分组合调整逻辑结构。",
+                    "string": "前面我给你演示了[用鼠标拖拽]，便可以[让卡片自由游动]，[拆分组合][调整逻辑结构]。",
                     "children": [
                       {
-                        "string": "但是，手离开键盘这件事儿本身，有时候也比较让人烦恼。因为思路容易被打断，灵感可能转瞬即逝，再也找不回来。",
+                        "string": "但是，[手离开键盘]这件事儿本身，有时候也比较[让人烦恼]。因为[思路容易被打断](((riLgQTHnt)))，灵感可能转瞬即逝，再也找不回来。",
+                        "refs": [
+                          {
+                            "uid": "riLgQTHnt"
+                          }
+                        ],
                         "uid": "tMOPSsCqT",
-                        "edit-time": 1619007684346,
+                        "edit-time": 1619010438565,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "riLgQTHnt"
+                          }
+                        ],
                         ":edit/user": {
                           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                         }
                       }
                     ],
                     "uid": "eZ7nbn_67",
-                    "edit-time": 1619007684346,
+                    "edit-time": 1619010251147,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
                   },
                   {
-                    "string": "好在 Gingko 的操作上，这些都不是问题。因为在浏览模式下，你可以用方向键直接在结构树上游走。甚至，如果你足够极客，还可以选择用 vim 模式的 hjkl 方向键。",
+                    "string": "好在 Gingko 的操作上，这些都不是问题。因为在[浏览模式]下，你可以[用方向键]直接[在结构树上游走]。甚至，如果你[足够极客]，还可以选择用 [vim 模式]([[vim mode]])的 [hjkl 方向键](((oMDEVhAco)))。",
+                    "refs": [
+                      {
+                        "uid": "oMDEVhAco"
+                      },
+                      {
+                        "uid": "XzHILTxux"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "同样，不论是[拖拽着一整棵树杈][满屏乱跑]，还是把节点与[前后内容]合并、拆分，全都可以[用快捷键完成]。",
+                        "uid": "p-J1ZKh6J",
+                        "edit-time": 1619010755649,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "当你很快熟悉了[按键组合]后，文稿在你手里[就像一个面团]，想怎么捏就怎么捏，架构也会[锤炼迭代]得越发合理。",
+                        "uid": "ZxBjXNscm",
+                        "edit-time": 1619010767537,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
                     "uid": "8xMncDsrh",
-                    "edit-time": 1619007684346,
+                    "edit-time": 1619010695292,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "oMDEVhAco"
+                      },
+                      {
+                        ":block/uid": "XzHILTxux"
+                      }
+                    ],
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -68017,6 +68222,80 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "支持 Latex",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "因为[每张卡片]，都是一个 [HTML 网页]。因此内容里面，可以[内嵌 Latex 公式]。[这意味着]如果你是[学术界的用户]，写作和编辑公式，都不需要[另外打开其他工具]了。",
+                    "uid": "MuI0whPtD",
+                    "edit-time": 1619010819141,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "例如这里我们写一个 Latex 公式：\n$$A\\bowtie{B}$$",
+                    "create-time": 1619010822986,
+                    "uid": "cHXbfVKaY",
+                    "edit-time": 1619010831610,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "y4aHARgru",
+                "edit-time": 1619010799302,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Web 应用",
+                "heading": 3,
+                "children": [
+                  {
+                    "string": "Gingko 目前的[主版本]是个 [Web 应用]。这意味着只要你[记得住账号密码]，[打开任何一个浏览器]就能用。这样一来，不管是在图书馆，还是在宿舍，你都可以随时用自己的[笔记本电脑]，或者[公共计算机]来[编辑和完善文稿]。",
+                    "uid": "RiL2j9WiT",
+                    "edit-time": 1619010868459,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "更有意思的是，因为 Gingko 的每一张卡片，本身就是 HTML ，所以很多[浏览器上可运行的][在线工具]，都是默认支持的。例如学术写作神器 Grammarly ，就可以在写作的时候，[帮你检查]每一张卡片上的英文语法和拼写。",
+                    "create-time": 1619010874762,
+                    "uid": "KlTIQGfVU",
+                    "edit-time": 1619011093227,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "当然，我[不大推荐]你在公共计算机上编辑你的毕业论文，这里有个[安全性问题]。但是[下面这个场景中]，Web 应用的[特性]就很有用了。",
+                    "create-time": 1619010885890,
+                    "uid": "lPabntwHJ",
+                    "edit-time": 1619011103879,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "Q3ERvIJIC",
+                "edit-time": 1619010848074,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "RdKh5Y5nc",
@@ -68024,22 +68303,36 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "题图",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Photo by Lukas Blazek on Unsplash",
+                "uid": "1Julh0zdJ",
+                "edit-time": 1619011127074,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "3T0bxC1q1",
+            "edit-time": 1619011127074,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "gtakCtmuL",
-        "edit-time": 1619005515757,
-        ":block/refs": [
-          {
-            ":block/uid": "iyPrfplwx"
-          }
-        ],
+        "edit-time": 1619011430317,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
       }
     ],
     "uid": "d0MthsLg1",
-    "edit-time": 1619005453148,
+    "edit-time": 1619011385344,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -68073,6 +68366,66 @@
     "title": "Gingko",
     "uid": "McBmJfVAv",
     "edit-time": 1619006867992,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619010405945,
+    "title": "flow (psychology)",
+    "uid": "90BP1BVE6",
+    "edit-time": 1619010405946,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619010678671,
+    "title": "vim mode",
+    "uid": "XzHILTxux",
+    "edit-time": 1619010678673,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619010679798,
+    "title": "Vim (Vi IMproved)",
+    "uid": "D-d_mCX9v",
+    "edit-time": 1619010679799,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619010681160,
+    "title": "vi editor",
+    "uid": "nV8EuVV5J",
+    "edit-time": 1619010681161,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619011626784,
+    "title": "Steven Arthur Pinker",
+    "uid": "p9QSarc3p",
+    "edit-time": 1619011626785,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
