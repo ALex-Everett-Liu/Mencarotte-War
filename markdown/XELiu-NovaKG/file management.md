@@ -5,11 +5,16 @@
         - [[Web Clipper]]
 - [[file format]]
     - [[convert the format]]
+    - document...
+        - documentation;
+        - [[help docs]]...
+        - multiple documents;
+        - pdf; PDF;
+        - [[plain text]]
     - [[executable file]]
         - execute; run
         - executing code
     - [[import]]; [[export]]
         - export to other format;
     - msi
-    - [[plain text]]
     - [[time format]]

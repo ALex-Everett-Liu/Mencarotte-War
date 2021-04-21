@@ -1,3 +1,6 @@
 - [[mail]]
+- push communications
+    - alert; service alert
+    - notification
 - [[signal]]
 - [[telecommunication]]

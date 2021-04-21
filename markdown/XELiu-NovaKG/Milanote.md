@@ -1,7 +1,6 @@
 - home
     - Get organized. [Stay creative](https://milanote.com/?referrer=rcCO3ehGRWkqTf3QEE).
         - Milanote is [an easy-to-use tool] to [organize your ideas](((BP9ax-DQ4))) and projects into [visual boards](((kCdij3Bc4))).
-        - The Evernote for [Creatives](((S5NabLA1j))).
     - Collect everything in one place
         - ### Write notes & to-do lists
             - Simple [text editing] and [[task management]] [make it easy to] [add your thoughts to a board].
@@ -15,4 +14,19 @@
         - Milanote's [flexible drag and drop interface] lets you [arrange things in whatever way] [makes sense for your project].
     - Share with your team
         - Milanote boards can be [a private place to think], or [a shared workspace](((tt1E-ii3j))) for [collaboration](((qoomjxQ6j)))—you're [in total control of] [who sees what].
+        - Edit together in real-time
+            - Instantly see your team's changes, leave comments, and [never miss a thing] with [smart notifications](((EdJCtKiy3))) and alerts.
+        - Share the result
+            - When you're ready, you can [invite anyone to view] and [edit your boards] or [download a high quality printable PDF](((E408WCvTK))).
 - [How people use Milanote](https://milanote.com/inspiration?referrer=rcCO3ehGRWkqTf3QEE)
+    - by technique
+        - [productivity](((mqOGBvi0s)))
+            - Visual note taking
+                - [Organize your notes] into [flexible visual boards].
+                - "The Evernote for [creatives](((S5NabLA1j)))"
+                    - [Linear word documents](((1JistdAAV))) are great for your [final output], but on day one you need [a flexible space] to [explore your ideas]. 
+                - See the big picture
+                    - Traditional notes apps separate your notes into silos accessed by tags and search terms. But Milanote is different. You can arrange your notes side by side on an infinite canvas to start seeing patterns and connections.
+                        - Map out the sections of a project, a piece of writing or an argument by arranging your ideas side by side.
+                        - Use lines and colours to add another layer of meaning.
+                    - [Check out the full list of supported files in our help centre](https://help.milanote.com/frequently-asked-questions/what-kind-of-files-can-i-upload)
