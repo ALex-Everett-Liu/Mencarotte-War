@@ -12,3 +12,19 @@
     - In this guide, you'll learn the [modern approach to] creating a moodboard using Milanote. Remember, the [creative process] is non-linear, so [you may find yourself] [moving back and forth between the steps] as you go.
 - ### 1. Set the direction of your project
     - Moodboards can be literal and practical ([featuring fonts](((8PLpv2cqs))), [color schemes](https://www.evinex.com/color-schemes/) and images that you [actually plan to use] [in the final piece of work]) or [they can be more about] [exploring tone and mood]. You can [tackle these two different types sequentially], or just do one at a time. #[[color scheme]]
+        - Remember, a moodboard is [all about exploration], so [don't get too attached to] a [particular direction]. It's important to [keep an open mind about](((8LPI4xpdu))) [what the right solution might be].
+        - Once you've [found a direction], [give your moodboard a name] and [jot down some initial ideas] 草草记下，匆匆写下 in a [text note] before you [start to collect inspiration](((ldgrFJ-jK))).
+    - How to do this in Milanote
+        - [Create a new board] for [each moodboard direction].
+            - Show me how
+        - [Save time with] a moodboard [[template]].
+            - Each new board [gives you the options to] [start with a beautiful template].
+        - Pro tip:
+            - Creativity often [responds well to some constraints or limitations]. Picking a keyword, theme, color or style [can be a great way to] [give some direction to] your moodboard.
+210422-12:04
+- ### 2. Collect existing material
+    - Now that you've [established the direction for] your moodboard, add any [written content] you have. This might include [[brand value]]s, [positioning statements](((UDbxm8dDY))), [tag-lines](((vqq6Z0z_D))) or [any other parts of the brief] that [will inspire you] and [keep you on track]. 让你步入正轨
+210422-12:15
+    - Next, add any [[logo]]s, [existing expressions of the brand] like websites, [[design element]]s or photography. These might not [make it into the final moodboard], but they're still [a great place to start].
+    - Drag files from your computer.
+        - Click the "Upload file" button or just [drag a file onto your board]. You can add images, logos, documents, videos, audio and much more.

@@ -1,4 +1,5 @@
 - [[academic]]
+- creative...
 - [[discipline]]; [[scientific discipline]]
     - study field
     - interdisciplinary
@@ -19,5 +20,6 @@
 - [[research]]
     - collaborative research
     - [[cutting-edge research]]
+    - [[invention]]
     - [[reproducible research]]: 可重复性研究
 - [[science philosophy]]...

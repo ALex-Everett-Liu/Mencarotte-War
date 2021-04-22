@@ -7,6 +7,7 @@
 - [[language]]
 - [[life science]]
 - [[literature and art]]
+    - [[game]]
     - [[non-reality]]
 - math and phys
     - [[chemistry]]

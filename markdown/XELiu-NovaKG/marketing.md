@@ -1,4 +1,8 @@
 - [[advertisement]]; promotion advertisement
+- [[brand]]
+    - [[brand value]]
+    - [[logo]]
+    - positioning statement: 定位声明
 - [[price]]
 - sold...
     - best-selling

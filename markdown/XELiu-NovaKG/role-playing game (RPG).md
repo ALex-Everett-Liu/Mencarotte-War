@@ -1,0 +1,26 @@
+- [[action role-playing game (ARPG)]]
+- battle
+    - hostile beings
+    - [[monster]]
+- [[CRPG]]
+- conditions
+    - blinded condition
+- environment effect
+- [[JRPG]]
+- [[party]]: 小队
+    - [[companion]]
+- [[player]]; character
+    - character class; occupation -- 职业
+    - [[character creation]]
+        - [[ability score]]
+            - [[Ability/Charisma]]
+            - [[Ability/Constitution]]: 体质, 体格;
+            - [[Ability/Dexterity]]
+            - [[Ability/Intelligence]]: 智力; 情报;
+            - [[Ability/Strength]]
+            - [[Ability/Wisdom]]
+        - [[character sheet]]
+    - [[character level]]
+        - [[experience points (XP)]]
+    - [[player characters (PCs)]]
+        - the inhabitants of the game world; [[non-player characters (NPCs)]]

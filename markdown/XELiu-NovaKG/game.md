@@ -1,0 +1,17 @@
+- campaign; [[campaign settings]]
+- [[game mechanics]]
+- [[game rule]]
+- [[interactive game]]
+- [[modding]]
+    - [[Steam Workshop]]
+- [[Paradox Interactive]]
+- game platform...
+    - [[Game/Steam]]
+- [[referee]]
+- [[role-playing game (RPG)]]; roleplaying game
+- [[RTS]]
+    - [[MOBA]]
+- turn-based...
+    - start the turn;
+- [[video game]]
+- [[wargaming]]

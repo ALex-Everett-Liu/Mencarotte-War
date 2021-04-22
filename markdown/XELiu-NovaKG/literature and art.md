@@ -1,10 +1,18 @@
 - [[animation]]
     - [[anime]]
 - [[comedy]]
+- creative...
+    - idea maze
+    - [[innovation]]
+    - [[inspiration]]
+        - collect inspiration
+    - [[invention]]
+    - [[serendipity]]
 - [[creative writings]]
     - [[story]]
-- design...
+- [[art design]]?
     - [[creative professional]]
+    - [[creative studio]]
     - history-inspired renewal
     - Web Design; [[Web design]]; web designer
 - [[novel]]

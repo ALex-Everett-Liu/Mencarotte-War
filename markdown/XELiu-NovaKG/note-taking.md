@@ -12,6 +12,7 @@
         - infinite canvas;
         - visual board
     - [[moodboard]]
+        - collect inspiration
         - visual material
 - innovation!
     - [[Roam Research]]

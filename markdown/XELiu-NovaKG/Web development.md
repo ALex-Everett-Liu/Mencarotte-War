@@ -5,6 +5,10 @@
     - update the identity
 - Web Design; [[Web design]]; web designer
     - [[Cascading Style Sheets (CSS)]]; css
+    - [[content optimization system (CMS)]]
+    - [[design element]]
     - html; [[HyperText Markup Language (HTML)]];
     - [[layout]]
     - structural content
+        - page structure
+        - the types of content

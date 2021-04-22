@@ -251,6 +251,10 @@
                     - methodology
                 - metro
                     - metre; metric
+        - mi
+            - mind
+                - open mind;
+            - minute
     - n
         - nu
             - nudge: 用肘轻推, 引起注意;

@@ -20,6 +20,7 @@
 - [[multi-media]]
 - [[note-taking]]; note-taking tool; notetaking
 - [[release]]
+- [[Software as a Service (SaaS)]]
 - storage
     - capability...
         - fill to overflowing
@@ -37,5 +38,7 @@
 - [[typesetting]]; formatting...
     - [[markup language]]; [[markup]]
 - [[user interface (UI)]]
+- user service
+    - user account
 - [[workflow]]
     - [[productivity tool]]

@@ -9,6 +9,7 @@
     - [[Table of Contents (ToC)]]
         - [[Map of Content (MoC)]]
     - [[tag]]; [[label]]; [[category]]...
+        - tag-line;
         - the types of content
 - file cabinet
 - [[file tree]]; knowledge tree
