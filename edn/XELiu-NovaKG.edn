@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 10,
+      :order 11,
       :content-id "N5lel-tnd"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -95,7 +95,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 13,
+      :order 14,
       :content-id "L7fTIw9dt"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 12,
+      :order 13,
       :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -111,19 +111,19 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 11,
+      :order 12,
       :content-id "rw6U8VHY-"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536961157]
+   536961247]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid955d0c16-f31a-44f2-b5ec-a22b2cf59c10"
-   536961177]
+   "uuid98c74d76-e0c3-4f8a-81ce-06ff122b5bf7"
+   536961273]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -22371,9 +22371,11 @@
   [17343 :edit/time 1618064318013 536946207]
   [17343 :edit/user 3 536946207]
   [17343 :node/title "quantum field" 536946207]
+  [17344 :block/children 21706 536961248]
   [17344 :block/uid "aQO-qOZ5-" 536946207]
   [17344 :create/time 1618064318012 536946207]
   [17344 :create/user 3 536946207]
+  [17344 :edit/seen-by 3 536961259]
   [17344 :edit/time 1618064318013 536946207]
   [17344 :edit/user 3 536946207]
   [17344 :node/title "quantum field theory" 536946207]
@@ -33768,7 +33770,8 @@
   [18687 :block/children 20051 536955214]
   [18687 :block/children 20438 536956693]
   [18687 :block/children 20525 536956966]
-  [18687 :block/open false 536957979]
+  [18687 :block/children 21694 536961180]
+  [18687 :block/open false 536961245]
   [18687 :block/order 12 536958130]
   [18687 :block/page 14912 536949911]
   [18687 :block/parents 14912 536949911]
@@ -33781,7 +33784,7 @@
   [18687 :edit/time 1618350724285 536949914]
   [18687 :edit/user 3 536949910]
   [18689 :block/open true 536949918]
-  [18689 :block/order 2 536956711]
+  [18689 :block/order 3 536961240]
   [18689 :block/page 14912 536949919]
   [18689 :block/parents 14912 536949919]
   [18689 :block/parents 18687 536949919]
@@ -35581,7 +35584,7 @@
   [18892 :edit/time 1618366401642 536950553]
   [18892 :edit/user 3 536950516]
   [18893 :block/children 18894 536950531]
-  [18893 :block/open false 536956709]
+  [18893 :block/open false 536961244]
   [18893 :block/order 0 536950522]
   [18893 :block/page 14912 536950538]
   [18893 :block/parents 14912 536950538]
@@ -46718,7 +46721,7 @@
   [20051 :block/children 20050 536955217]
   [20051 :block/children 20052 536955227]
   [20051 :block/open false 536956707]
-  [20051 :block/order 4 536956977]
+  [20051 :block/order 5 536961238]
   [20051 :block/page 14912 536955215]
   [20051 :block/parents 14912 536955215]
   [20051 :block/parents 18687 536955215]
@@ -50996,7 +50999,7 @@
   [20524 :edit/time 1618894117066 536956964]
   [20524 :edit/user 3 536956964]
   [20525 :block/open true 536956966]
-  [20525 :block/order 3 536956977]
+  [20525 :block/order 4 536961239]
   [20525 :block/page 14912 536956967]
   [20525 :block/parents 14912 536956967]
   [20525 :block/parents 18687 536956967]
@@ -61442,4 +61445,117 @@
   [21693 :block/string "" 536961177]
   [21693 :block/uid "-RkDpMPCo" 536961177]
   [21693 :edit/time 1619094421403 536961177]
-  [21693 :edit/user 3 536961177]]}
+  [21693 :edit/user 3 536961177]
+  [21694 :block/children 21700 536961187]
+  [21694 :block/children 21704 536961223]
+  [21694 :block/open false 536961237]
+  [21694 :block/order 2 536961240]
+  [21694 :block/page 14912 536961181]
+  [21694 :block/parents 14912 536961181]
+  [21694 :block/parents 18687 536961181]
+  [21694 :block/refs 15799 536961236]
+  [21694
+   :block/string
+   "对于[开发者](https://ld246.com/article/1619080345258)来说，[另一条路]是[一开始就不选择]以 [Markdown 文本]作为[存储格式]，而是使用[更结构化的存储方式]，比如[数据库]或者 JSON，然后[在应用层面][支持 Markdown 语法排版]。[选择这条路]的开发者，也许[已经预见到了][将来可能的复杂场景]。 #pt9-99.99"
+   536961235]
+  [21694 :block/uid "_g483qIZF" 536961180]
+  [21694 :create/time 1619103280011 536961180]
+  [21694 :create/user 3 536961180]
+  [21694 :edit/seen-by 3 536961193]
+  [21694 :edit/time 1619103412665 536961235]
+  [21694 :edit/user 3 536961180]
+  [21700 :block/open true 536961187]
+  [21700 :block/order 0 536961187]
+  [21700 :block/page 14912 536961192]
+  [21700 :block/parents 14912 536961192]
+  [21700 :block/parents 18687 536961192]
+  [21700 :block/parents 21694 536961192]
+  [21700
+   :block/string
+   "在[扩展语法]的道路上[越走越远]以后，我们发现这似乎是在[开历史的倒车]。随着更多[特定语法]的引入，Markdown 的[通用性]逐步散失，就好像变成了[特定软件的私有格式]一般。更讽刺的是，[语法引入]却不能解决 Markdown 最大的问题 —— 自带资源文件（虽然 TextBundle/TextPack 做了一些努力，但[就目前而言]基本也还是[不通用]）。"
+   536961220]
+  [21700 :block/uid "2zogRPHzT" 536961187]
+  [21700 :edit/seen-by 3 536961193]
+  [21700 :edit/time 1619103371552 536961220]
+  [21700 :edit/user 3 536961187]
+  [21701 :block/string "" 536961194]
+  [21701 :block/uid "S9BgCA7So" 536961194]
+  [21701 :edit/time 1619103286107 536961194]
+  [21701 :edit/user 3 536961194]
+  [21703 :block/open true 536961223]
+  [21703 :block/order 0 536961229]
+  [21703 :block/page 14912 536961224]
+  [21703 :block/parents 14912 536961224]
+  [21703 :block/parents 18687 536961224]
+  [21703 :block/parents 21694 536961224]
+  [21703 :block/parents 21704 536961230]
+  [21703
+   :block/string
+   "这并不像更简单 json 取代复杂的 xml 那样, 因为[用途不一样], 我觉得 用 usd 做类比, [展望笔记的未来]才更合适."
+   536961233]
+  [21703 :block/uid "wI1htWGEB" 536961223]
+  [21703 :edit/seen-by 3 536961228]
+  [21703 :edit/time 1619103396757 536961233]
+  [21703 :edit/user 3 536961223]
+  [21704 :block/children 21703 536961229]
+  [21704 :block/open true 536961223]
+  [21704 :block/order 1 536961223]
+  [21704 :block/page 14912 536961225]
+  [21704 :block/parents 14912 536961225]
+  [21704 :block/parents 18687 536961225]
+  [21704 :block/parents 21694 536961225]
+  [21704
+   :block/string
+   "我觉得这是一个发展方向, 我个人也认为原始纯粹的 md 本身[并不适合做笔记]."
+   536961231]
+  [21704 :block/uid "lfd_9bN4x" 536961223]
+  [21704 :edit/seen-by 3 536961226]
+  [21704 :edit/time 1619103391634 536961231]
+  [21704 :edit/user 3 536961223]
+  [21705 :block/string "" 536961227]
+  [21705 :block/uid "n1Jetw2pz" 536961227]
+  [21705 :edit/time 1619103383885 536961227]
+  [21705 :edit/user 3 536961227]
+  [21706 :block/children 21709 536961256]
+  [21706 :block/open true 536961248]
+  [21706 :block/order 0 536961248]
+  [21706 :block/page 17344 536961249]
+  [21706 :block/parents 17344 536961249]
+  [21706 :block/refs 14882 536961253]
+  [21706 :block/string "#inbox" 536961252]
+  [21706 :block/uid "DhUQ9KUxX" 536961248]
+  [21706 :create/time 1619104068410 536961248]
+  [21706 :create/user 3 536961248]
+  [21706 :edit/seen-by 3 536961259]
+  [21706 :edit/time 1619104070450 536961252]
+  [21706 :edit/user 3 536961248]
+  [21708 :block/open true 536961256]
+  [21708 :block/order 0 536961262]
+  [21708 :block/page 17344 536961257]
+  [21708 :block/parents 17344 536961257]
+  [21708 :block/parents 21706 536961257]
+  [21708 :block/parents 21709 536961263]
+  [21708 :block/string "[打破这个框架][唯一的希望]也许只能在量子引力和黑洞方面。" 536961269]
+  [21708 :block/uid "U0gMg07FK" 536961256]
+  [21708 :edit/seen-by 3 536961261]
+  [21708 :edit/time 1619104090904 536961269]
+  [21708 :edit/user 3 536961256]
+  [21709 :block/children 21708 536961262]
+  [21709 :block/open true 536961256]
+  [21709 :block/order 0 536961256]
+  [21709 :block/page 17344 536961258]
+  [21709 :block/parents 17344 536961258]
+  [21709 :block/parents 21706 536961258]
+  [21709 :block/refs 18390 536961272]
+  [21709
+   :block/string
+   "量子场论[兼容性]太好了，以至于很难有什么“物理定律”层面的突破。连[宇宙学]都[纳入了场论框架]，暴胀、暗物质等等都[在这个框架中寻找模型](https://www.zhihu.com/question/453546423/answer/1825929609)。 #pt8-99.99"
+   536961273]
+  [21709 :block/uid "rhuCaHk6z" 536961256]
+  [21709 :edit/seen-by 3 536961259]
+  [21709 :edit/time 1619104111748 536961273]
+  [21709 :edit/user 3 536961256]
+  [21710 :block/string "" 536961260]
+  [21710 :block/uid "6UKfLtj02" 536961260]
+  [21710 :edit/time 1619104072026 536961260]
+  [21710 :edit/user 3 536961260]]}

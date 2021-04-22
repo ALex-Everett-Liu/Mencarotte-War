@@ -3212,6 +3212,56 @@
             }
           },
           {
+            "edit-time": 1619103412665,
+            "children": [
+              {
+                "string": "在[扩展语法]的道路上[越走越远]以后，我们发现这似乎是在[开历史的倒车]。随着更多[特定语法]的引入，Markdown 的[通用性]逐步散失，就好像变成了[特定软件的私有格式]一般。更讽刺的是，[语法引入]却不能解决 Markdown 最大的问题 —— 自带资源文件（虽然 TextBundle/TextPack 做了一些努力，但[就目前而言]基本也还是[不通用]）。",
+                "uid": "2zogRPHzT",
+                "edit-time": 1619103371552,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "我觉得这是一个发展方向, 我个人也认为原始纯粹的 md 本身[并不适合做笔记].",
+                "children": [
+                  {
+                    "string": "这并不像更简单 json 取代复杂的 xml 那样, 因为[用途不一样], 我觉得 用 usd 做类比, [展望笔记的未来]才更合适.",
+                    "uid": "wI1htWGEB",
+                    "edit-time": 1619103396757,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "lfd_9bN4x",
+                "edit-time": 1619103391634,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lMcwecsmV"
+              }
+            ],
+            "uid": "_g483qIZF",
+            ":block/refs": [
+              {
+                ":block/uid": "lMcwecsmV"
+              }
+            ],
+            "string": "对于[开发者](https://ld246.com/article/1619080345258)来说，[另一条路]是[一开始就不选择]以 [Markdown 文本]作为[存储格式]，而是使用[更结构化的存储方式]，比如[数据库]或者 JSON，然后[在应用层面][支持 Markdown 语法排版]。[选择这条路]的开发者，也许[已经预见到了][将来可能的复杂场景]。 #pt9-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619103280011,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99",
             "refs": [
               {
@@ -45671,11 +45721,65 @@
   {
     "create-time": 1618064318012,
     "title": "quantum field theory",
-    "uid": "aQO-qOZ5-",
-    "edit-time": 1618064318013,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "edit-time": 1619104070450,
+        "children": [
+          {
+            "string": "量子场论[兼容性]太好了，以至于很难有什么“物理定律”层面的突破。连[宇宙学]都[纳入了场论框架]，暴胀、暗物质等等都[在这个框架中寻找模型](https://www.zhihu.com/question/453546423/answer/1825929609)。 #pt8-99.99",
+            "refs": [
+              {
+                "uid": "PdZWxhurI"
+              }
+            ],
+            "children": [
+              {
+                "string": "[打破这个框架][唯一的希望]也许只能在量子引力和黑洞方面。",
+                "uid": "U0gMg07FK",
+                "edit-time": 1619104090904,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "rhuCaHk6z",
+            "edit-time": 1619104111748,
+            ":block/refs": [
+              {
+                ":block/uid": "PdZWxhurI"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "DhUQ9KUxX",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619104068410,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "aQO-qOZ5-",
+    "edit-time": 1618064318013,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
