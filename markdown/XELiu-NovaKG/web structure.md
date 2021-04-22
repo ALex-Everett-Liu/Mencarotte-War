@@ -1,3 +1,9 @@
+- [[link]]
+- birds-eye view
+- [[dynamic network]]
+- networked thought
+- [[node]]
+    - [[nodal network]]
 - relation, connection...
     - weight...
         - assigned weightings
@@ -11,4 +17,3 @@
         - code reuse
         - remix ideas; remix information
         - reusing content
-- [[link]]

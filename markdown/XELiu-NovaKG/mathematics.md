@@ -12,3 +12,6 @@
     - well-defined
 - [[logic]]
 - [[mathematician]]
+- [[statistics]]
+    - [[data analysis]]
+    - [[probability theory]]

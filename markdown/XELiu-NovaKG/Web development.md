@@ -3,12 +3,13 @@
     - dynamic behavior
     - submit the form
     - update the identity
-- Web Design; [[Web design]]; web designer
+- Web Design; [[Web design]]; [[web designer]]
     - [[Cascading Style Sheets (CSS)]]; css
     - [[content optimization system (CMS)]]
     - [[design element]]
     - html; [[HyperText Markup Language (HTML)]];
     - [[layout]]
     - structural content
-        - page structure
+        - page structure; [[page hierarchy]]
         - the types of content
+        - website structure

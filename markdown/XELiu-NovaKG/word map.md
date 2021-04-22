@@ -407,6 +407,18 @@
             - swing
                 - swung;
     - t
+        - tr
+            - tra
+                - tradition
+                    - traditionalist;
+                - trait
+                    - character trait; 
+                    - specific trait;
+                        - [Everyone has the obligation to] 义务 ponder well his own [specific traits of character]. 考虑自己的[性格特征] www.[ibm].com
+                        - [Within each category] are [specific traits and behaviors]. www.[kekenet].com
+                        - [Genetics]([[genetics]]) is the study of [the patterns of inheritance] of specific traits. 特征的[遗传模式] www.[dictall].com
+                        - [The region with high frequency] might mean [high expression of specific traits] 特定性状 [under various genetic background] and [environmental conditions]. www.[fabiao].net
+                        - In contrast, [genome-wide association studies] are designed to [find individual genes] that [influence specific traits]. news.dxy.cn
         - tw
             - twi-
                 - twin

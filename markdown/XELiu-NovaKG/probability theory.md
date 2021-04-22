@@ -1,0 +1,2 @@
+- [[Bayesian probability]]
+- [[probability amplitude]]

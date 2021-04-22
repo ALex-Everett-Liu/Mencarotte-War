@@ -787,7 +787,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1619056077332,
+            "edit-time": 1619083632932,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -837,7 +837,7 @@
             "string": "old pc trash check;; wayback machine;; garmin sync;; 小红书 douyin;; Grammarly-like;; ",
             "create-time": 1618457951481,
             "uid": "0XNy08NgL",
-            "edit-time": 1619011080355,
+            "edit-time": 1619083028952,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -2140,9 +2140,83 @@
         "string": "user service",
         "children": [
           {
-            "string": "user account",
+            "string": "contact",
+            "children": [
+              {
+                "string": "[[support team]]",
+                "refs": [
+                  {
+                    "uid": "3IHOL64FP"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "priority support",
+                    "uid": "hEnAvBW2a",
+                    "edit-time": 1619077212018,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "support email",
+                    "uid": "943vKjHO7",
+                    "edit-time": 1619077212018,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "1Twydu-N0",
+                "edit-time": 1619077253046,
+                ":block/refs": [
+                  {
+                    ":block/uid": "3IHOL64FP"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "((cgwL1zh7v))",
+                "refs": [
+                  {
+                    "uid": "cgwL1zh7v"
+                  }
+                ],
+                "uid": "Oe1u_DTXY",
+                "edit-time": 1619077231293,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cgwL1zh7v"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "2ON5I0QdH",
+            "edit-time": 1619077212018,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[user account]]",
+            "refs": [
+              {
+                "uid": "dnhvXyWdW"
+              }
+            ],
             "uid": "zWnz3--eg",
-            "edit-time": 1619073991332,
+            "edit-time": 1619077157803,
+            ":block/refs": [
+              {
+                ":block/uid": "dnhvXyWdW"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -4243,14 +4317,53 @@
         }
       },
       {
-        "string": "[[website]]; [[web site]]; site",
-        "create-time": 1619065144268,
-        ":block/refs": [
+        "edit-time": 1619065150408,
+        "children": [
           {
-            ":block/uid": "9apyh1Qjw"
-          },
-          {
-            ":block/uid": "_Esysuhl6"
+            "edit-time": 1619084496461,
+            "children": [
+              {
+                "string": "[[sitemap]]",
+                "create-time": 1619081581091,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Hu6dFfqEy"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Hu6dFfqEy"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "eRPAhDuu-",
+                "edit-time": 1619081582764,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8BvumirHG"
+              }
+            ],
+            "uid": "FbLLi-BaZ",
+            ":block/refs": [
+              {
+                ":block/uid": "8BvumirHG"
+              }
+            ],
+            "string": "((8BvumirHG))",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619084494976,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -4261,11 +4374,20 @@
             "uid": "_Esysuhl6"
           }
         ],
+        "uid": "KDRLS46Ch",
+        ":block/refs": [
+          {
+            ":block/uid": "9apyh1Qjw"
+          },
+          {
+            ":block/uid": "_Esysuhl6"
+          }
+        ],
+        "string": "[[website]]; [[web site]]; site",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "KDRLS46Ch",
-        "edit-time": 1619065150408,
+        "create-time": 1619065144268,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -5088,6 +5210,28 @@
         },
         "uid": "ML1MzRFQt",
         "edit-time": 1618803755320,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((kk9necvGy))",
+        "create-time": 1619079682220,
+        ":block/refs": [
+          {
+            ":block/uid": "kk9necvGy"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kk9necvGy"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "05Vdbl6k9",
+        "edit-time": 1619079683142,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -9057,6 +9201,62 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[statistics]]",
+        "refs": [
+          {
+            "uid": "MDOexZwXc"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[data analysis]]",
+            "refs": [
+              {
+                "uid": "JZDzxBBV2"
+              }
+            ],
+            "uid": "kk9necvGy",
+            "edit-time": 1619079608597,
+            ":block/refs": [
+              {
+                ":block/uid": "JZDzxBBV2"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[probability theory]]",
+            "refs": [
+              {
+                "uid": "9bn5DPW1U"
+              }
+            ],
+            "uid": "0qOkqsFGm",
+            "edit-time": 1619079607599,
+            ":block/refs": [
+              {
+                ":block/uid": "9bn5DPW1U"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Q6YEQ78Ny",
+        "edit-time": 1619079609741,
+        ":block/refs": [
+          {
+            ":block/uid": "MDOexZwXc"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "Yt0Vp4KAw",
@@ -9559,6 +9759,18 @@
             }
           },
           {
+            "string": "early prototype",
+            "create-time": 1619081883246,
+            "uid": "yTBTWcnW5",
+            "edit-time": 1619081884179,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[invention]]",
             "create-time": 1619064658053,
             ":block/refs": [
@@ -9594,6 +9806,18 @@
                 ":block/uid": "Ne99Xsk3m"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "R&D",
+            "create-time": 1619081877905,
+            "uid": "2po6asJ7N",
+            "edit-time": 1619081878533,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -10639,23 +10863,29 @@
         }
       },
       {
-        "string": "[[marketing]]",
+        "string": "[[marketing]]: 市场营销; [[marketer]]",
         "create-time": 1618140549014,
         ":block/refs": [
           {
             ":block/uid": "Yr4Z1B_QW"
+          },
+          {
+            ":block/uid": "fQZa_p2Qt"
           }
         ],
         "refs": [
           {
             "uid": "Yr4Z1B_QW"
+          },
+          {
+            "uid": "fQZa_p2Qt"
           }
         ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "uid": "XyQiepQXn",
-        "edit-time": 1618140551316,
+        "edit-time": 1619082115685,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -11378,6 +11608,28 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1617665471967,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[product manager]]",
+        "create-time": 1619077367241,
+        ":block/refs": [
+          {
+            ":block/uid": "nPZbs8nXQ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nPZbs8nXQ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "N_buz-2G_",
+        "edit-time": 1619077371710,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -19963,6 +20215,164 @@
             },
             "children": [
               {
+                "string": "tr",
+                "create-time": 1619077993385,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "tra",
+                    "create-time": 1619077993982,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "tradition",
+                        "children": [
+                          {
+                            "string": "traditionalist;",
+                            "uid": "oBsNkBAvW",
+                            "edit-time": 1619077996278,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "T7v5EYu97",
+                        "edit-time": 1619077996278,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "trait",
+                        "children": [
+                          {
+                            "string": "character trait; ",
+                            "create-time": 1619081332542,
+                            "uid": "VdLkrRZyR",
+                            "edit-time": 1619081333461,
+                            ":create/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "specific trait;",
+                            "children": [
+                              {
+                                "string": "[Everyone has the obligation to] 义务 ponder well his own [specific traits of character]. 考虑自己的[性格特征] www.[ibm].com",
+                                "create-time": 1619078012429,
+                                "uid": "ThhRlNQGm",
+                                "edit-time": 1619078053556,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Within each category] are [specific traits and behaviors]. www.[kekenet].com",
+                                "create-time": 1619078012429,
+                                "uid": "IwFZDBbWw",
+                                "edit-time": 1619078067229,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Genetics]([[genetics]]) is the study of [the patterns of inheritance] of specific traits. 特征的[遗传模式] www.[dictall].com",
+                                "create-time": 1619078012429,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "eZKJuXVDz"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "eZKJuXVDz"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                "uid": "W0oWClsvF",
+                                "edit-time": 1619078113957,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[The region with high frequency] might mean [high expression of specific traits] 特定性状 [under various genetic background] and [environmental conditions]. ((RQa5wzhV4))",
+                                "create-time": 1619078012429,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "RQa5wzhV4"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "RQa5wzhV4"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                "uid": "7xIMn81pd",
+                                "edit-time": 1619078091520,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "In contrast, [genome-wide association studies] are designed to [find individual genes] that [influence specific traits]. news.dxy.cn",
+                                "create-time": 1619078012429,
+                                "uid": "ONp22itRM",
+                                "edit-time": 1619078103468,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "iDuFQyPm9",
+                            "edit-time": 1619081331773,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "jnY-_Atnn",
+                        "edit-time": 1619077996278,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "8zkua4Uc6",
+                    "edit-time": 1619077995584,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "3eGCFTlc3",
+                "edit-time": 1619077993988,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "tw",
                 "create-time": 1617655308153,
                 ":create/user": {
@@ -21205,6 +21615,32 @@
         }
       },
       {
+        "string": "www.[cnblogs].com",
+        "create-time": 1619074572423,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. ",
+            "create-time": 1619074567169,
+            "uid": "6DM1YtA-O",
+            "edit-time": 1619074572430,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "lZOT5PebV",
+        "edit-time": 1619074572423,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "danci.[911cha].com",
         "create-time": 1619056385040,
         "uid": "DqtRqq2cL",
@@ -21640,6 +22076,30 @@
             "create-time": 1617657442473,
             "uid": "kPwf4MZQj",
             "edit-time": 1617657482389,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "We can establish a series of criteria of CPCS [on the basis of] the [necessary demand] of residents by use of analysis of ELES, and the multiplier of the studying costs to PDI.",
+            "create-time": 1619074459804,
+            "uid": "Cztlz1ZRd",
+            "edit-time": 1619074472403,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[One possible solution to] this is to [reduce learning cost] and [increase learning benefit].",
+            "create-time": 1619074459804,
+            "uid": "Z1YQl28xB",
+            "edit-time": 1619074506340,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -24969,6 +25429,48 @@
         }
       },
       {
+        "string": "plot...",
+        "children": [
+          {
+            "string": "brighter area",
+            "uid": "dt0sgTpc1",
+            "edit-time": 1619079697876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "central peak",
+            "uid": "T4L0Ph3Z8",
+            "edit-time": 1619079697876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "peak; spike",
+            "uid": "tuNktLxbo",
+            "edit-time": 1619079697876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "yield the value;",
+            "uid": "43jXrbjp3",
+            "edit-time": 1619079697876,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "s1lM6KZR-",
+        "edit-time": 1619079697876,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[thought experiment]]",
         "create-time": 1618541512218,
         ":block/refs": [
@@ -24986,14 +25488,6 @@
         },
         "uid": "CJ-ErTMKu",
         "edit-time": 1618541515233,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "yield the value;",
-        "uid": "wlYCGLUWC",
-        "edit-time": 1617741891295,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -27594,6 +28088,44 @@
         "edit-time": 1618197184681,
         "children": [
           {
+            "string": "[[reader]]",
+            "refs": [
+              {
+                "uid": "-GzAqIvLu"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[audience]]",
+                "refs": [
+                  {
+                    "uid": "8-PBjk3ja"
+                  }
+                ],
+                "uid": "_Gy8xOQnp",
+                "edit-time": 1619080886321,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8-PBjk3ja"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "VzUs2B8fb",
+            "edit-time": 1619080887699,
+            ":block/refs": [
+              {
+                ":block/uid": "-GzAqIvLu"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[story]]",
             "refs": [
               {
@@ -27633,10 +28165,13 @@
         }
       },
       {
-        "string": "[[art design]]?",
+        "string": "[[art design]]; [[designer]]",
         "refs": [
           {
             "uid": "QhIFuz3XL"
+          },
+          {
+            "uid": "n_Jx7pYkA"
           }
         ],
         "children": [
@@ -27712,10 +28247,13 @@
           }
         ],
         "uid": "vKyItifMl",
-        "edit-time": 1619073639206,
+        "edit-time": 1619081699924,
         ":block/refs": [
           {
             ":block/uid": "QhIFuz3XL"
+          },
+          {
+            ":block/uid": "n_Jx7pYkA"
           }
         ],
         ":edit/user": {
@@ -38054,6 +38592,44 @@
         }
       },
       {
+        "string": "[[genetics]]",
+        "refs": [
+          {
+            "uid": "eZKJuXVDz"
+          }
+        ],
+        "children": [
+          {
+            "string": "((b6er0UXD0))",
+            "refs": [
+              {
+                "uid": "b6er0UXD0"
+              }
+            ],
+            "uid": "SQj9M-T-n",
+            "edit-time": 1619078421517,
+            ":block/refs": [
+              {
+                ":block/uid": "b6er0UXD0"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5xx8-3hqR",
+        "edit-time": 1619078422981,
+        ":block/refs": [
+          {
+            ":block/uid": "eZKJuXVDz"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "((dHErt50R3))",
         "create-time": 1618095802358,
         ":block/refs": [
@@ -45761,6 +46337,30 @@
                 "uid": "B1iJWv4I7"
               }
             ],
+            "children": [
+              {
+                "string": "((vbw_UB1V9))",
+                "create-time": 1619081261876,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vbw_UB1V9"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "vbw_UB1V9"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "jFVAnmFL3",
+                "edit-time": 1619081263120,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
             "uid": "6ao59K-0q",
             "edit-time": 1618619553161,
             ":block/refs": [
@@ -45920,6 +46520,52 @@
       {
         "string": "thinking",
         "children": [
+          {
+            "edit-time": 1619081238760,
+            "children": [
+              {
+                "string": "((vbw_UB1V9))",
+                "create-time": 1619081258804,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vbw_UB1V9"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "vbw_UB1V9"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "4PpPwS7E6",
+                "edit-time": 1619081260222,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "wgP31Tf8C"
+              }
+            ],
+            "uid": "ymzCUetG8",
+            ":block/refs": [
+              {
+                ":block/uid": "wgP31Tf8C"
+              }
+            ],
+            "string": "[[brainstorm]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619081236870,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "thought structure",
             "uid": "hIWr_tCF-",
@@ -47213,9 +47859,23 @@
         "string": "free...",
         "children": [
           {
-            "string": "free trial",
-            "uid": "yoC-vy4T2",
-            "edit-time": 1618140563186,
+            "string": "((FE0lvV6qj))",
+            "create-time": 1619077171657,
+            ":block/refs": [
+              {
+                ":block/uid": "FE0lvV6qj"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "FE0lvV6qj"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "xgXVnLxpR",
+            "edit-time": 1619077172562,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -47240,6 +47900,14 @@
                 ":block/uid": "o6opHDZpk"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "free trial",
+            "uid": "yoC-vy4T2",
+            "edit-time": 1618140563186,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -48152,6 +48820,104 @@
     },
     "children": [
       {
+        "string": "((SKef6ltOX))",
+        "create-time": 1618196740059,
+        ":block/refs": [
+          {
+            ":block/uid": "SKef6ltOX"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "SKef6ltOX"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "CR4yV_eYM",
+        "edit-time": 1618196741173,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "birds-eye view",
+        "uid": "UOSaGH9z8",
+        "edit-time": 1619083371064,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[dynamic network]]",
+        "refs": [
+          {
+            "uid": "6olaHOaoc"
+          }
+        ],
+        "uid": "iVggsBgPk",
+        "edit-time": 1619083371064,
+        ":block/refs": [
+          {
+            ":block/uid": "6olaHOaoc"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "networked thought",
+        "uid": "2LRbdwIzQ",
+        "edit-time": 1619083371064,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1619083452500,
+        "children": [
+          {
+            "string": "[[nodal network]]",
+            "refs": [
+              {
+                "uid": "0QYe0wwL2"
+              }
+            ],
+            "uid": "dhLpuCOrs",
+            "edit-time": 1619083384544,
+            ":block/refs": [
+              {
+                ":block/uid": "0QYe0wwL2"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "doxCRiRKa"
+          }
+        ],
+        "uid": "5reLO3_dn",
+        ":block/refs": [
+          {
+            ":block/uid": "doxCRiRKa"
+          }
+        ],
+        "string": "[[node]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619083448783,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "relation, connection...",
         "create-time": 1618281988228,
         ":create/user": {
@@ -48331,28 +49097,6 @@
         ],
         "uid": "OSEbfBEeS",
         "edit-time": 1618281988933,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
-        "string": "((SKef6ltOX))",
-        "create-time": 1618196740059,
-        ":block/refs": [
-          {
-            ":block/uid": "SKef6ltOX"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "SKef6ltOX"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "CR4yV_eYM",
-        "edit-time": 1618196741173,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -49124,10 +49868,13 @@
     },
     "children": [
       {
-        "string": "[[categorization]]",
+        "string": "[[categorization]]; [[categorisation]]; 分类别",
         "refs": [
           {
             "uid": "FDCi7IoCD"
+          },
+          {
+            "uid": "yxLSWd7qT"
           }
         ],
         "children": [
@@ -49141,10 +49888,13 @@
           }
         ],
         "uid": "ZdZPS2zgG",
-        "edit-time": 1618178054648,
+        "edit-time": 1619084572290,
         ":block/refs": [
           {
             ":block/uid": "FDCi7IoCD"
+          },
+          {
+            ":block/uid": "yxLSWd7qT"
           }
         ],
         ":edit/user": {
@@ -49368,17 +50118,17 @@
         }
       },
       {
-        "string": "[[node]]",
+        "string": "((5reLO3_dn))",
         "refs": [
           {
-            "uid": "doxCRiRKa"
+            "uid": "5reLO3_dn"
           }
         ],
         "uid": "F26VAE470",
-        "edit-time": 1618178094413,
+        "edit-time": 1619083622222,
         ":block/refs": [
           {
-            ":block/uid": "doxCRiRKa"
+            ":block/uid": "5reLO3_dn"
           }
         ],
         ":edit/user": {
@@ -51466,7 +52216,7 @@
         }
       },
       {
-        "edit-time": 1618193482872,
+        "edit-time": 1619081712006,
         "children": [
           {
             "string": "((661_kVNeg))",
@@ -51570,13 +52320,23 @@
             "string": "structural content",
             "children": [
               {
-                "string": "page structure",
+                "string": "page structure; [[page hierarchy]]",
                 "create-time": 1619065474894,
-                "uid": "RKP_Chh6M",
-                "edit-time": 1619065476331,
+                ":block/refs": [
+                  {
+                    ":block/uid": "jnhK07BZL"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "jnhK07BZL"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "RKP_Chh6M",
+                "edit-time": 1619084418725,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -51602,6 +52362,18 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "website structure",
+                "create-time": 1619084485827,
+                "uid": "8BvumirHG",
+                "edit-time": 1619084486738,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "8WXIjh93f",
@@ -51614,15 +52386,21 @@
         "refs": [
           {
             "uid": "gfbqyPhqf"
+          },
+          {
+            "uid": "RhqsJmgRG"
           }
         ],
         "uid": "Zw3dPKYLS",
         ":block/refs": [
           {
             ":block/uid": "gfbqyPhqf"
+          },
+          {
+            ":block/uid": "RhqsJmgRG"
           }
         ],
-        "string": "Web Design; [[Web design]]; web designer",
+        "string": "Web Design; [[Web design]]; [[web designer]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -54545,6 +55323,100 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "backend",
+        "children": [
+          {
+            "string": "backend plumbing",
+            "uid": "HBjUvrwj5",
+            "edit-time": 1619081962998,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CoDuHWnbq",
+        "edit-time": 1619081962998,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "run asynchronously",
+            "uid": "-MJI0J9ru",
+            "edit-time": 1619081962998,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[developer]]; software developer; [[software development]]",
+            "refs": [
+              {
+                "uid": "44O1ua83J"
+              },
+              {
+                "uid": "4AhTNQGug"
+              }
+            ],
+            "uid": "b_kiDnxEe",
+            "edit-time": 1619081981342,
+            ":block/refs": [
+              {
+                ":block/uid": "44O1ua83J"
+              },
+              {
+                ":block/uid": "4AhTNQGug"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "JWQztBK0a",
+        "edit-time": 1619081962998,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "iterating; evolving",
+        "uid": "tbNHmv6pf",
+        "edit-time": 1619081962998,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "optimization",
+        "children": [
+          {
+            "string": "maximize performance",
+            "uid": "LNNFD9Zfc",
+            "edit-time": 1619081962998,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "optimization tool",
+            "uid": "GBtzPz1gL",
+            "edit-time": 1619081962998,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "LHdtg2zKX",
+        "edit-time": 1619081962998,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "((1RAwBBHlG))",
         "create-time": 1618275044652,
@@ -67106,6 +67978,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[[Create a rich, visual sitemap for your next website project in Milanote]]",
+            "create-time": 1619081442899,
+            ":block/refs": [
+              {
+                ":block/uid": "WP10C_Q2b"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "WP10C_Q2b"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "PVDWlpO8T",
+            "edit-time": 1619081447414,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "3rLSt53hB",
@@ -67929,9 +68823,133 @@
         }
       },
       {
+        "string": "character",
+        "children": [
+          {
+            "string": "[[character archetype]]",
+            "refs": [
+              {
+                "uid": "n9RaNwPT3"
+              }
+            ],
+            "children": [
+              {
+                "string": "universal persona",
+                "uid": "lLFL53Vy_",
+                "edit-time": 1619079844357,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "q9Vsklazt",
+            "edit-time": 1619079850952,
+            ":block/refs": [
+              {
+                ":block/uid": "n9RaNwPT3"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[hobby]]",
+            "create-time": 1619081395482,
+            ":block/refs": [
+              {
+                ":block/uid": "rQ5lPu-hN"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rQ5lPu-hN"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "phBTQldZp",
+            "edit-time": 1619081397404,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[main character]]",
+            "refs": [
+              {
+                "uid": "AEau3CdlV"
+              }
+            ],
+            "uid": "2TEtEdak4",
+            "edit-time": 1619077785437,
+            ":block/refs": [
+              {
+                ":block/uid": "AEau3CdlV"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[protagonist]]",
+            "refs": [
+              {
+                "uid": "ax2Ua7MNq"
+              }
+            ],
+            "uid": "tnKNrPr3L",
+            "edit-time": 1619077783598,
+            ":block/refs": [
+              {
+                ":block/uid": "ax2Ua7MNq"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "b8Q8IO38g",
+        "edit-time": 1619077780174,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "open-ended",
         "uid": "9blH8NlT3",
         "edit-time": 1618981156550,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[plot]]",
+        "refs": [
+          {
+            "uid": "5IcmB1Hk9"
+          }
+        ],
+        "children": [
+          {
+            "string": "plot outline;",
+            "uid": "zWMEM_Uq_",
+            "edit-time": 1619077674549,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ldqtGSACJ",
+        "edit-time": 1619077678317,
+        ":block/refs": [
+          {
+            ":block/uid": "5IcmB1Hk9"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -71375,7 +72393,7 @@
             }
           },
           {
-            "string": "Milanote is a tool for [planning creative projects]. The [easy-to-use drag-and-drop interface] allows you to arrange images, notes, links, files, videos and tasks, side-by-side on [an infinite virtual canvas]. [The things that you add] [stay exactly where you put them]—there’s no snapping in place to [a predefined layout](((dwiysGt7i))). If you like, you can [add organisation and structure] using lines, arrows and whitespace. It's just like [working on a wall] in a [[creative studio]]. This flexibility means you can [arrange inspiration images into] a beautiful moodboard, [add notes] [explaining your ideas], [get feedback from a client] and [map out tasks on a project]—[all in one place]. Milanote is used by [top creative teams] at companies like Apple, Uber, Sony, Nike and more. Sign up for a free account to begin.\n210422-14:41",
+            "string": "Milanote is a tool for [planning creative projects]. The [easy-to-use drag-and-drop interface] allows you to arrange images, notes, links, files, videos and tasks, side-by-side on [an infinite virtual canvas]. [The things that you add] [stay exactly where you put them]—there’s no snapping in place to [a predefined layout](((dwiysGt7i))). If you like, you can [add organisation and structure] using lines, arrows and whitespace. It's just like [working on a wall] in a [[creative studio]]. This flexibility means you can [arrange inspiration images into] a beautiful moodboard, [add notes] [explaining your ideas], [get feedback from a client] and [map out tasks on a project]—[all in one place]. Milanote is used by [top creative teams] at companies like Apple, Uber, Sony, Nike and more. [Sign up for a free account](((FE0lvV6qj))) to begin.\n210422-14:41",
             "create-time": 1619073303235,
             ":block/refs": [
               {
@@ -71383,6 +72401,9 @@
               },
               {
                 ":block/uid": "mBuvxReyz"
+              },
+              {
+                ":block/uid": "FE0lvV6qj"
               }
             ],
             "refs": [
@@ -71391,13 +72412,16 @@
               },
               {
                 "uid": "mBuvxReyz"
+              },
+              {
+                "uid": "FE0lvV6qj"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "xACZ9WLNe",
-            "edit-time": 1619073856733,
+            "edit-time": 1619077169315,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -71419,6 +72443,237 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "create-time": 1619065756837,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "How to create a character",
+        "create-time": 1619077306702,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "John Pooley, [Product Manager]([[product manager]])",
+            "refs": [
+              {
+                "uid": "nPZbs8nXQ"
+              }
+            ],
+            "children": [
+              {
+                "string": "Updated 30th April, 2020",
+                "uid": "IFxq4AaUb",
+                "edit-time": 1619077318298,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "2SfAzvGkW",
+            "edit-time": 1619077375851,
+            ":block/refs": [
+              {
+                ":block/uid": "nPZbs8nXQ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "In this guide, you'll learn to [create characters] for your novel, screenplay, video game or comic. This is [a great next step] once you've already established [a general story and plot outline](((zWMEM_Uq_))). [You're now ready to] [delve into the characters] and their [specific traits](((iDuFQyPm9))) that [make the story work]. In this guide, we're going to develop the [[main character]] and [[protagonist]] for our story. From there, you can continue to [develop additional characters]. We'll [guide you through the entire process] in Milanote.\n210422-15:47",
+            "create-time": 1619077307087,
+            ":block/refs": [
+              {
+                ":block/uid": "ax2Ua7MNq"
+              },
+              {
+                ":block/uid": "zWMEM_Uq_"
+              },
+              {
+                ":block/uid": "AEau3CdlV"
+              },
+              {
+                ":block/uid": "iDuFQyPm9"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ax2Ua7MNq"
+              },
+              {
+                "uid": "zWMEM_Uq_"
+              },
+              {
+                "uid": "AEau3CdlV"
+              },
+              {
+                "uid": "iDuFQyPm9"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "uuFoaiKHi",
+            "edit-time": 1619078515272,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "f1XTEnchI",
+        "edit-time": 1619077307091,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Start with a character archetype",
+        "heading": 3,
+        "children": [
+          {
+            "string": "[Character archetypes]([[character archetype]]) are [universal personas](((lLFL53Vy_))) that we [subconsciously recognise] 潜意识中认识到的 [when we see them]. They [recur across literature and mythology] and their [actions and behaviours] are [laden with meaning and associations]. 充满了意义和联想 A great example is the Orphan—Harry Potter, Luke Skywalker and Simba from the [Lion King] are all underpinned by this same [prototype character]. [It's also common to find] both layered archetypes (e.g. Sméagol from [The Lord of The Rings] - a combination of the Trickster & Shadow) and even characters that [transform from one into another over time]. The evolution of [Sarah Connor] in Terminator, from Waif to Crusader, is a great example here ([Read more](https://btleditorial.com/2016/12/05/common-archetypal-character/) about character archetypes for your story).",
+            "refs": [
+              {
+                "uid": "n9RaNwPT3"
+              },
+              {
+                "uid": "lLFL53Vy_"
+              }
+            ],
+            "uid": "PJ9rKmC4e",
+            "edit-time": 1619080635115,
+            ":block/refs": [
+              {
+                ":block/uid": "n9RaNwPT3"
+              },
+              {
+                ":block/uid": "lLFL53Vy_"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Start by [adding your plot outline to] an empty **Board**.",
+            "uid": "d3HC6duD2",
+            "edit-time": 1619080673584,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Decide which [character archetypes] are evoked.",
+            "uid": "F0ieCo3rS",
+            "edit-time": 1619080675992,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Map out the roles] that your character archetypes play by connecting **Boards **with **Lines**.\n(原型人物所需要扮演的角色)",
+            "uid": "AvMhXMG0V",
+            "edit-time": 1619080713711,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Add in **Notes** to explain the [major plot points].",
+            "uid": "RInrp05Az",
+            "edit-time": 1619080738099,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Don't forget, you can make **Notes** transparent to [keep things tidy].",
+            "uid": "_5KF1Gy22",
+            "edit-time": 1619080742480,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Ii5xbPTOt",
+        "edit-time": 1619078530299,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Add specific characteristics",
+        "heading": 3,
+        "children": [
+          {
+            "string": " Once you've [defined an initial archetype], you can begin to [shape the character] and make them original. You should consider [the emotional connection between] your audience and your character, and [work towards the desired outcome]. You may find that [switching the age and gender of a character] can [lead to very different responses] from an [[audience]].\n210422-16:40",
+            "refs": [
+              {
+                "uid": "8-PBjk3ja"
+              }
+            ],
+            "children": [
+              {
+                "string": "[Brainstorm your character's core traits]([[brainstorm]]) using **Notes** and **Lines **inside a **Board**.",
+                "refs": [
+                  {
+                    "uid": "wgP31Tf8C"
+                  }
+                ],
+                "uid": "juB67E1rY",
+                "edit-time": 1619081005364,
+                ":block/refs": [
+                  {
+                    ":block/uid": "wgP31Tf8C"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Try to [extend your character's traits into](((VdLkrRZyR))) [behaviours and actions]. If a character is brave, what could their [[hobby]] be?\n210422-16:50",
+                "refs": [
+                  {
+                    "uid": "VdLkrRZyR"
+                  },
+                  {
+                    "uid": "rQ5lPu-hN"
+                  }
+                ],
+                "uid": "qD-CPavpF",
+                "edit-time": 1619081407576,
+                ":block/refs": [
+                  {
+                    ":block/uid": "VdLkrRZyR"
+                  },
+                  {
+                    ":block/uid": "rQ5lPu-hN"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "eydK4J_U6",
+            "edit-time": 1619080901629,
+            ":block/refs": [
+              {
+                ":block/uid": "8-PBjk3ja"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "SOTrNSfEC",
+        "edit-time": 1619080789734,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -72691,22 +73946,32 @@
         },
         "children": [
           {
-            "string": "The boys, both students at the Manchester Creative Studio, 创意工作室 were approached by Virgin Media when presenting their device at a start-up event. 创业活动 language.chinadaily.com.cn",
+            "string": "The boys, both students at the [Manchester Creative Studio], 创意工作室 were approached by [Virgin Media] when [presenting their device] [at a start-up event]. 创业活动 language.[[chinadaily]].com.cn",
             "create-time": 1619073800086,
-            "uid": "dSgPFhPdV",
-            "edit-time": 1619073800092,
+            ":block/refs": [
+              {
+                ":block/uid": "xuNunUDRJ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xuNunUDRJ"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "dSgPFhPdV",
+            "edit-time": 1619074621737,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "Adobe responded by dropping support for the tool in coming versions of Creative Studio. we.pcinlife.com",
+            "string": "Adobe responded by [dropping support for the tool] [in coming versions of] Creative Studio. we.[pcinlife].com",
             "create-time": 1619073800086,
             "uid": "vDIgGahw7",
-            "edit-time": 1619073800092,
+            "edit-time": 1619074642329,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -72715,10 +73980,10 @@
             }
           },
           {
-            "string": "Wen-Sheng Media is a creative studio specializing in design journals, business book design, Journal of the enterprise design, poster design corporate design groups. www.99inf.com",
+            "string": "Wen-Sheng Media is a creative studio specializing in design journals, business book design, Journal of the enterprise design, poster design corporate design groups. www.[99inf].com",
             "create-time": 1619073800086,
             "uid": "CmuX9imH3",
-            "edit-time": 1619073800092,
+            "edit-time": 1619074594922,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -72727,10 +73992,10 @@
             }
           },
           {
-            "string": "Established in 2004, the bluephoenix new media arts, whose antecedent is the bluephoenix creative studio, is a team, who combines art designs, originality creativities, technologies and implement. provided by jukuu",
+            "string": "Established in 2004, the bluephoenix new media arts, whose antecedent is the bluephoenix creative studio, is a team, who combines [art designs], originality creativities, technologies and implement. provided by [jukuu]",
             "create-time": 1619073800086,
             "uid": "gjvxd17fo",
-            "edit-time": 1619073800092,
+            "edit-time": 1619074655932,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -72739,10 +74004,10 @@
             }
           },
           {
-            "string": "Designed by product designer Lina Meier and graphic designer Sara Keranen-Gramner, who are the creative duo behind Studio Yra. blog.artintern.net",
+            "string": "Designed by [product designer] Lina Meier and [graphic designer] Sara Keranen-Gramner, who are the creative duo behind [Studio Yra]. blog.artintern.net",
             "create-time": 1619073800086,
             "uid": "Y2bn8Eaav",
-            "edit-time": 1619073800092,
+            "edit-time": 1619074669663,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -72781,6 +74046,801 @@
     "title": "Software as a Service (SaaS)",
     "uid": "1dIqABsG0",
     "edit-time": 1619073984535,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077157806,
+    "title": "user account",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "free account;",
+        "uid": "FE0lvV6qj",
+        "edit-time": 1619077159375,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[login]]; [[log in]]; [[sign in]]",
+        "refs": [
+          {
+            "uid": "80aKaN_sW"
+          },
+          {
+            "uid": "uFhQPsC2M"
+          },
+          {
+            "uid": "C1EOT7VQR"
+          }
+        ],
+        "uid": "gGJklqBn2",
+        "edit-time": 1619077188374,
+        ":block/refs": [
+          {
+            ":block/uid": "80aKaN_sW"
+          },
+          {
+            ":block/uid": "uFhQPsC2M"
+          },
+          {
+            ":block/uid": "C1EOT7VQR"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[member]]",
+        "refs": [
+          {
+            "uid": "mA8I1e2hh"
+          }
+        ],
+        "uid": "otiblONoR",
+        "edit-time": 1619077196803,
+        ":block/refs": [
+          {
+            ":block/uid": "mA8I1e2hh"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[power user]]",
+        "refs": [
+          {
+            "uid": "MhFgQoYTD"
+          }
+        ],
+        "uid": "RZkIj12kJ",
+        "edit-time": 1619077195402,
+        ":block/refs": [
+          {
+            ":block/uid": "MhFgQoYTD"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[sign up]]; [[register]]; join",
+        "refs": [
+          {
+            "uid": "ASXdqISHJ"
+          },
+          {
+            "uid": "EuMBK3uRX"
+          }
+        ],
+        "uid": "657t2ypfE",
+        "edit-time": 1619077194347,
+        ":block/refs": [
+          {
+            ":block/uid": "ASXdqISHJ"
+          },
+          {
+            ":block/uid": "EuMBK3uRX"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[username]]",
+        "refs": [
+          {
+            "uid": "8_IFlNHFC"
+          }
+        ],
+        "children": [
+          {
+            "string": "validate the username",
+            "uid": "LfHdP5wF-",
+            "edit-time": 1619077159375,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5UVNcjuk_",
+        "edit-time": 1619077191253,
+        ":block/refs": [
+          {
+            ":block/uid": "8_IFlNHFC"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[visitor]]",
+        "refs": [
+          {
+            "uid": "XCDFDx2N0"
+          }
+        ],
+        "uid": "X3Xrdhyqz",
+        "edit-time": 1619077189774,
+        ":block/refs": [
+          {
+            ":block/uid": "XCDFDx2N0"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "dnhvXyWdW",
+    "edit-time": 1619077157806,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077186568,
+    "title": "log in",
+    "uid": "80aKaN_sW",
+    "edit-time": 1619077186569,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077186568,
+    "title": "sign in",
+    "uid": "uFhQPsC2M",
+    "edit-time": 1619077186569,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077188375,
+    "title": "login",
+    "uid": "C1EOT7VQR",
+    "edit-time": 1619077188377,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077189776,
+    "title": "visitor",
+    "uid": "XCDFDx2N0",
+    "edit-time": 1619077189776,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077191263,
+    "title": "username",
+    "uid": "8_IFlNHFC",
+    "edit-time": 1619077191263,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077194349,
+    "title": "sign up",
+    "uid": "ASXdqISHJ",
+    "edit-time": 1619077194349,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077194349,
+    "title": "register",
+    "uid": "EuMBK3uRX",
+    "edit-time": 1619077194349,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077195403,
+    "title": "power user",
+    "uid": "MhFgQoYTD",
+    "edit-time": 1619077195403,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077196805,
+    "title": "member",
+    "uid": "mA8I1e2hh",
+    "edit-time": 1619077196805,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077253048,
+    "title": "support team",
+    "uid": "3IHOL64FP",
+    "edit-time": 1619077253050,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077371712,
+    "title": "product manager",
+    "uid": "nPZbs8nXQ",
+    "edit-time": 1619077371713,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077678318,
+    "title": "plot",
+    "uid": "5IcmB1Hk9",
+    "edit-time": 1619077678319,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619077745974,
+    "title": "main character",
+    "uid": "AEau3CdlV",
+    "edit-time": 1619077745975,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619078113959,
+    "title": "genetics",
+    "uid": "eZKJuXVDz",
+    "edit-time": 1619078113960,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619078625460,
+    "title": "character archetype",
+    "uid": "n9RaNwPT3",
+    "edit-time": 1619078625461,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619079607601,
+    "title": "probability theory",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Bayesian probability]]",
+        "refs": [
+          {
+            "uid": "TKlqrPILS"
+          }
+        ],
+        "uid": "hj4lw9aJq",
+        "edit-time": 1619079640698,
+        ":block/refs": [
+          {
+            ":block/uid": "TKlqrPILS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[probability amplitude]]",
+        "refs": [
+          {
+            "uid": "JfhWkehOy"
+          }
+        ],
+        "uid": "Cxt39j31P",
+        "edit-time": 1619079639034,
+        ":block/refs": [
+          {
+            ":block/uid": "JfhWkehOy"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "9bn5DPW1U",
+    "edit-time": 1619079607601,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619079608601,
+    "title": "data analysis",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "extracting data; extract information",
+        "uid": "GQJiEmC_u",
+        "edit-time": 1619079620672,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "plot...",
+        "children": [
+          {
+            "string": "ray-fan plot",
+            "uid": "Cxpq1Ev6R",
+            "edit-time": 1619079620672,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "spot diagram",
+            "uid": "ynmOI-fn_",
+            "edit-time": 1619079620672,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CecexX5yj",
+        "edit-time": 1619079620672,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "JZDzxBBV2",
+    "edit-time": 1619079608602,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619079609743,
+    "title": "statistics",
+    "uid": "MDOexZwXc",
+    "edit-time": 1619079609743,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619079636504,
+    "title": "Bayesian inference",
+    "uid": "VbHloxOxO",
+    "edit-time": 1619079636507,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619079639036,
+    "title": "probability amplitude",
+    "uid": "JfhWkehOy",
+    "edit-time": 1619079639036,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619079640700,
+    "title": "Bayesian probability",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Bayesian inference]]",
+        "create-time": 1619079652373,
+        ":block/refs": [
+          {
+            ":block/uid": "VbHloxOxO"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "VbHloxOxO"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "iNMLutkVU",
+        "edit-time": 1619079653449,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "TKlqrPILS",
+    "edit-time": 1619079640701,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619080845133,
+    "title": "audience",
+    "uid": "8-PBjk3ja",
+    "edit-time": 1619080845135,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619080887701,
+    "title": "reader",
+    "uid": "-GzAqIvLu",
+    "edit-time": 1619080887702,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081005366,
+    "title": "brainstorm",
+    "uid": "wgP31Tf8C",
+    "edit-time": 1619081005366,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081360161,
+    "title": "hobby",
+    "uid": "rQ5lPu-hN",
+    "edit-time": 1619081360162,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081447416,
+    "title": "Create a rich, visual sitemap for your next website project in Milanote",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "In this guide you'll learn to create a rich, visual [[sitemap]] to [inform a website design project]. Our goal is to [create the perfect combination of] [content and structure], setting out both [the hierarchy of pages](((RKP_Chh6M))) and also [what will live on those pages]. This task is usually [completed by multiple people], [each responsible for] [different elements of the website]. While [[designer]]s and [[marketer]]s are [thinking about navigation and content], the [[developer]]s are [figuring out how they will finally built it]. [It's a good idea to] invite [the rest of your team] to [help you out]. We'll guide you through this process in Milanote - [Get started for free](https://www.milanote.com/register).\n210422-17:00",
+        "create-time": 1619081469867,
+        ":block/refs": [
+          {
+            ":block/uid": "RKP_Chh6M"
+          },
+          {
+            ":block/uid": "Hu6dFfqEy"
+          },
+          {
+            ":block/uid": "n_Jx7pYkA"
+          },
+          {
+            ":block/uid": "fQZa_p2Qt"
+          },
+          {
+            ":block/uid": "44O1ua83J"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "RKP_Chh6M"
+          },
+          {
+            "uid": "Hu6dFfqEy"
+          },
+          {
+            "uid": "n_Jx7pYkA"
+          },
+          {
+            "uid": "fQZa_p2Qt"
+          },
+          {
+            "uid": "44O1ua83J"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "kdh03t8od",
+        "edit-time": 1619082038101,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Start at the top",
+        "heading": 3,
+        "children": [
+          {
+            "string": "Our [visual sitemap] needs to [achieve two main objectives]. First, to [provide a birds-eye view of](((UOSaGH9z8))) the [website structure], [[page hierarchy]] and [[categorisation]]. Second, to [provide guidance on the content] for each page. We're going to [produce a visual sitemap] that [tackles both of these challenges], using [Milanote boards] to [represent each page]. Boards [work like folders]([[folder]]) and we'll [place content inside them later].",
+            "refs": [
+              {
+                "uid": "UOSaGH9z8"
+              },
+              {
+                "uid": "jnhK07BZL"
+              },
+              {
+                "uid": "yxLSWd7qT"
+              },
+              {
+                "uid": "rjGU2CuI1"
+              }
+            ],
+            "uid": "Tb0xX2Bab",
+            "edit-time": 1619084634451,
+            ":block/refs": [
+              {
+                ":block/uid": "UOSaGH9z8"
+              },
+              {
+                ":block/uid": "jnhK07BZL"
+              },
+              {
+                ":block/uid": "yxLSWd7qT"
+              },
+              {
+                ":block/uid": "rjGU2CuI1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "eyQK1Nl3Y",
+        "edit-time": 1619082258081,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WP10C_Q2b",
+    "edit-time": 1619081447417,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081486381,
+    "title": "sitemap",
+    "uid": "Hu6dFfqEy",
+    "edit-time": 1619081486381,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081625204,
+    "title": "designer",
+    "uid": "n_Jx7pYkA",
+    "edit-time": 1619081625207,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081625204,
+    "title": "marketer",
+    "uid": "fQZa_p2Qt",
+    "edit-time": 1619081625207,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081625204,
+    "title": "developer",
+    "uid": "44O1ua83J",
+    "edit-time": 1619081625207,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081712008,
+    "title": "web designer",
+    "uid": "RhqsJmgRG",
+    "edit-time": 1619081712009,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619081981343,
+    "title": "software development",
+    "uid": "4AhTNQGug",
+    "edit-time": 1619081981344,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619083371061,
+    "title": "dynamic network",
+    "uid": "6olaHOaoc",
+    "edit-time": 1619083371064,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619083384546,
+    "title": "nodal network",
+    "uid": "0QYe0wwL2",
+    "edit-time": 1619083384546,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619084409342,
+    "title": "page hierarchy",
+    "uid": "jnhK07BZL",
+    "edit-time": 1619084409343,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619084410679,
+    "title": "categorisation",
+    "uid": "yxLSWd7qT",
+    "edit-time": 1619084410680,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619084634454,
+    "title": "folder",
+    "uid": "rjGU2CuI1",
+    "edit-time": 1619084634456,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

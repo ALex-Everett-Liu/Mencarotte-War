@@ -1,0 +1,4 @@
+- extracting data; extract information
+- plot...
+    - ray-fan plot
+    - spot diagram

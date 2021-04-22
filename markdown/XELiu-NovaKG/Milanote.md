@@ -69,3 +69,4 @@
     - Moodboard
         - [[Make beautiful, shareable moodboards in minutes with Milanote]]
     - [[Milanote: Create a character for your next great novel, screenplay, video game or comic.]]
+    - [[Create a rich, visual sitemap for your next website project in Milanote]]

@@ -1,7 +1,8 @@
 - product price
 - free...
-    - free trial
+    - free account;
     - [[free license]]; [[free software]]
+    - free trial
     - freely available
 - standard plan
 - charged

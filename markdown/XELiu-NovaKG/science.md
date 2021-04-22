@@ -20,6 +20,8 @@
 - [[research]]
     - collaborative research
     - [[cutting-edge research]]
+    - early prototype
     - [[invention]]
     - [[reproducible research]]: 可重复性研究
+    - R&D
 - [[science philosophy]]...

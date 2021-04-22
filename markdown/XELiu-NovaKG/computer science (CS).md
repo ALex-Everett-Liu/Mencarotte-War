@@ -1,4 +1,5 @@
 - [[artificial intelligence (AI)]]
+- [[data analysis]]
 - [[data structure]]
 - Operating System (OS); [[operating system (OS)]];
 - [[programming]]; [[programming language]]

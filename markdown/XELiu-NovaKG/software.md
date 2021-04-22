@@ -39,6 +39,11 @@
     - [[markup language]]; [[markup]]
 - [[user interface (UI)]]
 - user service
-    - user account
+    - contact
+        - [[support team]]
+            - priority support
+            - support email
+        - [[feedback]]
+    - [[user account]]
 - [[workflow]]
     - [[productivity tool]]

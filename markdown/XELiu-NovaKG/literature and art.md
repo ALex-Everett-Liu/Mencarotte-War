@@ -9,12 +9,14 @@
     - [[invention]]
     - [[serendipity]]
 - [[creative writings]]
+    - [[reader]]
+        - [[audience]]
     - [[story]]
-- [[art design]]?
+- [[art design]]; [[designer]]
     - [[creative professional]]
     - [[creative studio]]
     - history-inspired renewal
-    - Web Design; [[Web design]]; web designer
+    - Web Design; [[Web design]]; [[web designer]]
 - [[novel]]
 - [[poetry]]
     - [[Romantic poetry]]

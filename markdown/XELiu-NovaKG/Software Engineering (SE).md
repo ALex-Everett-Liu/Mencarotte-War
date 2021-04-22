@@ -1,1 +1,10 @@
+- backend
+    - backend plumbing
+- general...
+    - run asynchronously
+    - [[developer]]; software developer; [[software development]]
+- iterating; evolving
+- optimization
+    - maximize performance
+    - optimization tool
 - [[version control]]; revision control

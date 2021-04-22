@@ -1,4 +1,6 @@
 - [[evolutionary biology]]
+- [[genetics]]
+    - [[genealogy]]
 - human interaction...
 - [[medicine]]
 - [[molecular biology]]

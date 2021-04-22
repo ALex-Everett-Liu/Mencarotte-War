@@ -1,0 +1,8 @@
+- free account;
+- [[login]]; [[log in]]; [[sign in]]
+- [[member]]
+- [[power user]]
+- [[sign up]]; [[register]]; join
+- [[username]]
+    - validate the username
+- [[visitor]]

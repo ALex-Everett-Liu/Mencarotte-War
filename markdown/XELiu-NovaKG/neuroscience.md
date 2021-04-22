@@ -18,6 +18,7 @@
     - human intellectual
     - intelligent life;
     - [[mental map]]
+        - [[mind map]]; mind mapping
     - open-source intelligence
 - [[memory]]
 - neural system...
@@ -27,4 +28,6 @@
     - [[synaptic activation]]
 - [[psychology]]
 - thinking
+    - [[brainstorm]]
+        - [[mind map]]; mind mapping
     - thought structure

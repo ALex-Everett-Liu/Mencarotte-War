@@ -1,4 +1,12 @@
 - backstory
+- character
+    - [[character archetype]]
+        - universal persona
+    - [[hobby]]
+    - [[main character]]
+    - [[protagonist]]
 - open-ended
+- [[plot]]
+    - plot outline;
 - storyline
 - storyteller

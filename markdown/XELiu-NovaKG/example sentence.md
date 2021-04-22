@@ -4,6 +4,8 @@
 - www.[[chinadaily]].com.cn / bbs.[[chinadaily]].com.cn
     - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
     - ---
+- www.[cnblogs].com
+    - They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. 
 - danci.[911cha].com
 - dict.cnki.net
 - 柯林斯词典 (柯林斯高阶英汉双解学习词典)
@@ -33,5 +35,7 @@
     - ---
 - misc; others
     - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn
+    - We can establish a series of criteria of CPCS [on the basis of] the [necessary demand] of residents by use of analysis of ELES, and the multiplier of the studying costs to PDI.
+    - [One possible solution to] this is to [reduce learning cost] and [increase learning benefit].
 - ---
 - archived

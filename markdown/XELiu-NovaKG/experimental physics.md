@@ -10,5 +10,9 @@
     - [[experimental observation]]
     - [[observable consequence]]
 - outcome of the experiment
+- plot...
+    - brighter area
+    - central peak
+    - peak; spike
+    - yield the value;
 - [[thought experiment]]
-- yield the value;

@@ -1,4 +1,4 @@
-- [[categorization]]
+- [[categorization]]; [[categorisation]]; 分类别
     - general category
 - [[classification]]
     - dynamic classification
