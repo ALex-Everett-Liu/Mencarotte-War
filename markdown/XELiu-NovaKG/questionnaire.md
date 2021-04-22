@@ -1,0 +1,7 @@
+- dictionary
+    - survey by questionnaire; questionnaire investigation
+    - [A quarter of all the people surveyed]([[survey]]) were don't-knows. 没有表示明确意见 《牛津高阶英汉双解词典》
+    - The questionnaire was [administered by trained interviewers]([[interviewer]]). 负责执行
+    - Is [a questionnaire answered by 500 people] [truly representative of the population as a whole]? 
+    - Headteachers will be asked to [fill in a questionnaire]. 校长 《柯林斯高阶英汉双解学习词典》
+    - Paper using [questionnaire survey] and [GIS technology] union way research. img5.vikecn.com

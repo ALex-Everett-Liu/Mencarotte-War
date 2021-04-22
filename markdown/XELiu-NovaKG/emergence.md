@@ -1,1 +1,2 @@
+- allow the structure to emerge gradually;
 - emerge from more basic constituents

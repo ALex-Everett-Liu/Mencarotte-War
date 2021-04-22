@@ -1,4 +1,6 @@
 - [[customer]]
+    - [[customer persona]]: 客户角色
+        - 用户画像
     - [[prospective customer]];
     - user...
         - anonymous

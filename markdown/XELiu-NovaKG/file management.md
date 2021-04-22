@@ -1,8 +1,18 @@
 - [[archive]]
+    - ARTR
     - [[backup]]
     - [[bookmark]]
         - [[starred]]
         - [[Web Clipper]]
+    - conversations-of-record
+    - recent file
+    - summary record of my storage
+- [[directory]]
+    - [[folder]]
+    - [[file path]]
+    - [[subdirectory]]
+- [[explorer]]
+    - [[web browser]]; browser
 - [[file format]]
     - [[convert the format]]
     - document...
@@ -18,3 +28,11 @@
         - export to other format;
     - msi
     - [[time format]]
+- file metadata...
+    - file integrity
+    - [[filename]]
+    - [[file size]]
+    - [[thumbnail]]
+- general...
+    - blank file
+    - remote file

@@ -3,7 +3,7 @@
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
 - metropolis?
     - 
-- novelist
+- [[novelist]]
     - 纳博科夫
 - [[romance novel]]
 - misc

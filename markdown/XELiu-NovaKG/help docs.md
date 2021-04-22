@@ -6,7 +6,7 @@
     - step-by-step guide;
 - help centre; [[help database]]; 
 - help menu
-- [[home page]]; [[main page]];
+- [[home page]]; homepage; [[main page]];
     - main article
     - [[welcome]]
 - [[manual]]

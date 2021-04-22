@@ -787,7 +787,7 @@
             "string": "",
             "create-time": 1617570844555,
             "uid": "Zk8kVIfrJ",
-            "edit-time": 1619083632932,
+            "edit-time": 1619093970741,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -2220,6 +2220,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[[user data]]; customer data",
+            "create-time": 1619089814042,
+            ":block/refs": [
+              {
+                ":block/uid": "LKgwG8smt"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "LKgwG8smt"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "RHTgaXv9K",
+            "edit-time": 1619089820727,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "AJ3HuM6H2",
@@ -2321,6 +2343,28 @@
                 ":block/uid": "4IxCm3vAO"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[bullet list]]",
+            "create-time": 1619094384181,
+            ":block/refs": [
+              {
+                ":block/uid": "XiCGZ_RRH"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "XiCGZ_RRH"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "v8oCXkm4t",
+            "edit-time": 1619094386171,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -4295,6 +4339,44 @@
         }
       },
       {
+        "string": "[[web browser]]; browser",
+        "refs": [
+          {
+            "uid": "GCilcPvw3"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Chrome]]",
+            "refs": [
+              {
+                "uid": "vbCAHrUa2"
+              }
+            ],
+            "uid": "gsJVCoR09",
+            "edit-time": 1619085435080,
+            ":block/refs": [
+              {
+                ":block/uid": "vbCAHrUa2"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "oHsvlZYAi",
+        "edit-time": 1619085437273,
+        ":block/refs": [
+          {
+            ":block/uid": "GCilcPvw3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[Web development]]; web developer; Website Development",
         "create-time": 1618193432467,
         ":block/refs": [
@@ -4319,6 +4401,18 @@
       {
         "edit-time": 1619065150408,
         "children": [
+          {
+            "string": "website analytics suite",
+            "create-time": 1619089682944,
+            "uid": "JC-azSbGz",
+            "edit-time": 1619089683874,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "edit-time": 1619084496461,
             "children": [
@@ -11338,6 +11432,42 @@
         "edit-time": 1617665494407,
         "children": [
           {
+            "edit-time": 1619089327715,
+            "children": [
+              {
+                "string": "用户画像",
+                "create-time": 1619089425037,
+                "uid": "wNaZz2ast",
+                "edit-time": 1619089429477,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "NV5PilyLq"
+              }
+            ],
+            "uid": "vHl4F6tI2",
+            ":block/refs": [
+              {
+                ":block/uid": "NV5PilyLq"
+              }
+            ],
+            "string": "[[customer persona]]: 客户角色",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619089322888,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[prospective customer]];",
             "create-time": 1617665474211,
             ":block/refs": [
@@ -11806,11 +11936,35 @@
   {
     "create-time": 1617619917597,
     "title": "source",
-    "uid": "fzP-KK57B",
-    "edit-time": 1617619917597,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[information source]];",
+        "create-time": 1619089645984,
+        ":block/refs": [
+          {
+            ":block/uid": "pz6FswN3V"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "pz6FswN3V"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "jbI_ow-jH",
+        "edit-time": 1619089651145,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "fzP-KK57B",
+    "edit-time": 1617619917597,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -11842,6 +11996,18 @@
           }
         ],
         "children": [
+          {
+            "string": "ARTR",
+            "create-time": 1619085335506,
+            "uid": "OXQnPI2KL",
+            "edit-time": 1619085337705,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "[[backup]]",
             "refs": [
@@ -11915,6 +12081,30 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "conversations-of-record",
+            "uid": "m6TNNDcxQ",
+            "edit-time": 1619085339193,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "recent file",
+            "uid": "5nN1u0D7U",
+            "edit-time": 1619085339193,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "summary record of my storage",
+            "uid": "IKdh9el75",
+            "edit-time": 1619085339193,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "-BgJ8NQhJ",
@@ -11924,6 +12114,126 @@
             ":block/uid": "DvoIW-sBy"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[directory]]",
+        "refs": [
+          {
+            "uid": "OnpBvXtj7"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[folder]]",
+            "refs": [
+              {
+                "uid": "rjGU2CuI1"
+              }
+            ],
+            "uid": "YUG9HZEOg",
+            "edit-time": 1619085369108,
+            ":block/refs": [
+              {
+                ":block/uid": "rjGU2CuI1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[file path]]",
+            "refs": [
+              {
+                "uid": "3dOFvgELa"
+              }
+            ],
+            "uid": "gKHquqS7u",
+            "edit-time": 1619085368236,
+            ":block/refs": [
+              {
+                ":block/uid": "3dOFvgELa"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[subdirectory]]",
+            "refs": [
+              {
+                "uid": "dy2LlzW3h"
+              }
+            ],
+            "uid": "P9QhNyZ0q",
+            "edit-time": 1619085364256,
+            ":block/refs": [
+              {
+                ":block/uid": "dy2LlzW3h"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "v9W-nb8Kl",
+        "edit-time": 1619085372002,
+        ":block/refs": [
+          {
+            ":block/uid": "OnpBvXtj7"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1619085398010,
+        "children": [
+          {
+            "string": "((oHsvlZYAi))",
+            "create-time": 1619085440940,
+            ":block/refs": [
+              {
+                ":block/uid": "oHsvlZYAi"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oHsvlZYAi"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "M6jBkj3X-",
+            "edit-time": 1619085442317,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "RgUsf-oB4"
+          }
+        ],
+        "uid": "vQziNmAz-",
+        ":block/refs": [
+          {
+            ":block/uid": "RgUsf-oB4"
+          }
+        ],
+        "string": "[[explorer]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619085396290,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -12142,6 +12452,104 @@
             ":block/uid": "0TPxupI4D"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "file metadata...",
+        "children": [
+          {
+            "string": "file integrity",
+            "uid": "lk7jMyPLR",
+            "edit-time": 1619085482377,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[filename]]",
+            "refs": [
+              {
+                "uid": "-nxV9jaex"
+              }
+            ],
+            "uid": "KO_dOAcIk",
+            "edit-time": 1619085487814,
+            ":block/refs": [
+              {
+                ":block/uid": "-nxV9jaex"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[file size]]",
+            "refs": [
+              {
+                "uid": "j--anBw_I"
+              }
+            ],
+            "uid": "AOSOuy4mt",
+            "edit-time": 1619085486294,
+            ":block/refs": [
+              {
+                ":block/uid": "j--anBw_I"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[thumbnail]]",
+            "refs": [
+              {
+                "uid": "HjY25qIWH"
+              }
+            ],
+            "uid": "TUHRowuJj",
+            "edit-time": 1619085482377,
+            ":block/refs": [
+              {
+                ":block/uid": "HjY25qIWH"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "pOpzIL1ke",
+        "edit-time": 1619085482377,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "general...",
+        "children": [
+          {
+            "string": "blank file",
+            "uid": "uANgiCCgF",
+            "edit-time": 1619085501617,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "remote file",
+            "uid": "VzcmGlYTd",
+            "edit-time": 1619085501617,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "vCi9b1fgC",
+        "edit-time": 1619085501617,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -17297,6 +17705,24 @@
                         }
                       },
                       {
+                        "string": "critical",
+                        "children": [
+                          {
+                            "string": "critical question;",
+                            "uid": "44p-Y35L6",
+                            "edit-time": 1619087533776,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "cvd0CWlLk",
+                        "edit-time": 1619087533776,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
                         "string": "criticism;",
                         "uid": "OCKkzL5LI",
                         "edit-time": 1618546051621,
@@ -17867,6 +18293,110 @@
             ],
             "uid": "VLixPTZnv",
             "edit-time": 1617669751946,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "f",
+            "create-time": 1619087663788,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "fi",
+                "create-time": 1619087664041,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "fin",
+                    "create-time": 1619087666104,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "find",
+                        "children": [
+                          {
+                            "string": "found;",
+                            "uid": "qjTLO5qwD",
+                            "edit-time": 1619087668046,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "gFaDHf1E0",
+                        "edit-time": 1619087668046,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "fine",
+                        "children": [
+                          {
+                            "string": "[confine](https://workflowy.com/#/29547f8c7e22);",
+                            "uid": "WxKnDIsSw",
+                            "edit-time": 1619087668046,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "refine",
+                            "uid": "UKI1gPxTv",
+                            "edit-time": 1619087668046,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "mbvldll74",
+                        "edit-time": 1619087668046,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "finite",
+                        "children": [
+                          {
+                            "string": "infinite",
+                            "uid": "6uBGe6UiJ",
+                            "edit-time": 1619087668046,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "HJKOGYhsr",
+                        "edit-time": 1619087668046,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "beZUZfcG3",
+                    "edit-time": 1619087667335,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "QGQOaJhVQ",
+                "edit-time": 1619087666110,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "7ofKH5use",
+            "edit-time": 1619087664049,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -31089,7 +31619,12 @@
         }
       },
       {
-        "string": "novelist",
+        "string": "[[novelist]]",
+        "refs": [
+          {
+            "uid": "ZoZvT7ogK"
+          }
+        ],
         "children": [
           {
             "string": "纳博科夫",
@@ -31101,7 +31636,12 @@
           }
         ],
         "uid": "CqJmZpI_Q",
-        "edit-time": 1619006153747,
+        "edit-time": 1619087356392,
+        ":block/refs": [
+          {
+            ":block/uid": "ZoZvT7ogK"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -44684,6 +45224,18 @@
     },
     "children": [
       {
+        "string": "allow the structure to emerge gradually;",
+        "create-time": 1619086697354,
+        "uid": "ADzm56gx-",
+        "edit-time": 1619086698707,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "emerge from more basic constituents",
         "create-time": 1618038376937,
         "uid": "4dQlWc-5i",
@@ -48961,6 +49513,18 @@
             }
           },
           {
+            "string": "connect with lines; connect ideas;",
+            "create-time": 1619086878697,
+            "uid": "6UCYtK1ZB",
+            "edit-time": 1619086879663,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[context]]",
             "refs": [
               {
@@ -48995,14 +49559,14 @@
             ],
             "children": [
               {
-                "string": "connect ideas; [[interconnected pages]]",
+                "string": "[[interconnected pages]]",
                 "refs": [
                   {
                     "uid": "kRrf_kaBh"
                   }
                 ],
                 "uid": "eOzc8LB74",
-                "edit-time": 1618282033830,
+                "edit-time": 1619086891040,
                 ":block/refs": [
                   {
                     ":block/uid": "kRrf_kaBh"
@@ -49351,6 +49915,28 @@
             ":block/uid": "OYvuD7vfE"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((YUG9HZEOg))",
+        "create-time": 1619085588988,
+        ":block/refs": [
+          {
+            ":block/uid": "YUG9HZEOg"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "YUG9HZEOg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Uniu2BUP0",
+        "edit-time": 1619085589918,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -51580,7 +52166,7 @@
         }
       },
       {
-        "string": "[[home page]]; [[main page]];",
+        "string": "[[home page]]; homepage; [[main page]];",
         "refs": [
           {
             "uid": "IBDWb7sXe"
@@ -51618,7 +52204,7 @@
           }
         ],
         "uid": "REvD1KmmF",
-        "edit-time": 1618192881148,
+        "edit-time": 1619085695138,
         ":block/refs": [
           {
             ":block/uid": "IBDWb7sXe"
@@ -52299,6 +52885,74 @@
             }
           },
           {
+            "string": "[[icon]]",
+            "create-time": 1619085993636,
+            ":block/refs": [
+              {
+                ":block/uid": "PfGcTwPtd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PfGcTwPtd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "GlmOmLdla",
+            "edit-time": 1619085995432,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1619086742721,
+            "children": [
+              {
+                "string": "[[sub-page]]",
+                "create-time": 1619086988536,
+                ":block/refs": [
+                  {
+                    ":block/uid": "j8i7AOehd"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "j8i7AOehd"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "RXTJPmQQd",
+                "edit-time": 1619086991379,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8aKi6Vw3B"
+              }
+            ],
+            "uid": "cjOHKVBiy",
+            ":block/refs": [
+              {
+                ":block/uid": "8aKi6Vw3B"
+              }
+            ],
+            "string": "[[landing page]]; top-level page",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619086737762,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[layout]]",
             "refs": [
               {
@@ -52618,6 +53272,28 @@
         }
       },
       {
+        "string": "[[external link]]",
+        "create-time": 1619086340706,
+        ":block/refs": [
+          {
+            ":block/uid": "WeIFqvm71"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WeIFqvm71"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "1j6jxQrx_",
+        "edit-time": 1619086342648,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "find the path",
         "uid": "5WfpFnQxT",
         "edit-time": 1618196986758,
@@ -52647,6 +53323,28 @@
             ":block/uid": "SbusYtPQH"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[internal link]]; internal linking",
+        "create-time": 1619086316697,
+        ":block/refs": [
+          {
+            ":block/uid": "9O7PbsfcM"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "9O7PbsfcM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Z2LzKF_p9",
+        "edit-time": 1619086322506,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -52726,9 +53424,19 @@
         }
       },
       {
-        "string": "URL; url",
+        "string": "[[URL]]; url",
+        "refs": [
+          {
+            "uid": "a0keoLVDg"
+          }
+        ],
         "uid": "t6266yUHr",
-        "edit-time": 1618196841905,
+        "edit-time": 1619086357960,
+        ":block/refs": [
+          {
+            ":block/uid": "a0keoLVDg"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -53485,11 +54193,173 @@
   {
     "create-time": 1618227436318,
     "title": "Linux",
-    "uid": "uSm4F2DAe",
-    "edit-time": 1618227436318,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "edit-time": 1619090793856,
+        "children": [
+          {
+            "edit-time": 1619093184592,
+            "children": [
+              {
+                "string": "社区认为，明尼苏达大学竟然会让这种研究获得 IRB Exempt，证明学校并不在乎[开源社区]、甚至可能是故意的。",
+                "create-time": 1619090893947,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "有人分析是[作者隐瞒了]，直接说不是[人类研究]。",
+                    "create-time": 1619091089895,
+                    "uid": "ck0kZCZKG",
+                    "edit-time": 1619091097004,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "那为啥我[这么熟悉]呢，因为读书的时候，有个研究涉及[对实验者拍照]来[建立一个数据库]（就是正常[拍个正脸照]，特别正常）。教授告诉我[一旦涉及到人]，就属于 human subject research，得通过 IRB。于是我就[屁颠屁颠][去参加培训]了。",
+                    "create-time": 1619092224413,
+                    "uid": "Dk3fktzlK",
+                    "edit-time": 1619092252480,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "jsVd0PUpn",
+                "edit-time": 1619090903665,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "这已经不仅仅是“被试验”了。就像是你自称“安全研究员”，但却去[汽车维修店]里剪断了所有汽车的[刹车线]，[看看有多少人]会遇上[撞车事故]。",
+                "create-time": 1619090933722,
+                "uid": "ym7we7l0a",
+                "edit-time": 1619090945144,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "但现在，这些人[滥用这种信任]，[故意提交][包含 bug 的代码]。这就把[信任关系]变成了[对抗关系]。",
+                "create-time": 1619091408851,
+                "uid": "mPGyiYxzm",
+                "edit-time": 1619091423057,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "这最终表现出来的不就是“精致的利己主义”嘛，白嫖 linux 内核维护体系中的[人力][来给自己发 paper]，还是一而再地在干。",
+                "create-time": 1619092855933,
+                "uid": "SpmlHJk2y",
+                "edit-time": 1619092868932,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "虽说吐槽GPL的人很多，但既然选择用Linux就好好[遵守license]没啥好说的吧？[违反license][还有理了么][捂脸]",
+                "create-time": 1619092990520,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "不服就自己 fork 出去，然后[造个社区]呗。。又讽刺又[接着用]就不太好看了。。",
+                    "create-time": 1619092970628,
+                    "uid": "wOORmuag1",
+                    "edit-time": 1619092978630,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "pSMymtEbI",
+                "edit-time": 1619093000827,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "把 linux 当维基媒体计划了呗，[维基媒体计划]的[社群建构时期]就以吉米威尔士的“宽容”为底色，[拿来搞测试]之类的不会有任何除了被“一小撮”性格不好的维基人默默地骂以外的[任何后果]。",
+                "create-time": 1619093093919,
+                "uid": "S4uG3XyyI",
+                "edit-time": 1619093115280,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oVxMsq163"
+              }
+            ],
+            "uid": "BHjcfF58e",
+            ":block/refs": [
+              {
+                ":block/uid": "oVxMsq163"
+              }
+            ],
+            "string": "此事被 Greg 挂出，整个[开源社区][立即炸开了锅](https://www.zhihu.com/question/455891395)。Twitter、Reddit、Hacker News 都在疯狂盖楼中。 #pt9-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619090793849,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "JLRvvqwhF",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619090789080,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "uSm4F2DAe",
+    "edit-time": 1618227436318,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -57149,6 +58019,72 @@
             ":block/uid": "czUNrpjxl"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1619093928438,
+        "children": [
+          {
+            "string": "[[interview]]; [[interviewer]]",
+            "refs": [
+              {
+                "uid": "wuzPffoOZ"
+              },
+              {
+                "uid": "ek08OsjCh"
+              }
+            ],
+            "uid": "4dbGCbBO4",
+            "edit-time": 1619094256201,
+            ":block/refs": [
+              {
+                ":block/uid": "wuzPffoOZ"
+              },
+              {
+                ":block/uid": "ek08OsjCh"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[survey]];",
+            "refs": [
+              {
+                "uid": "ZnOYBjp5w"
+              }
+            ],
+            "uid": "3HHGsM3ct",
+            "edit-time": 1619094253993,
+            ":block/refs": [
+              {
+                ":block/uid": "ZnOYBjp5w"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "jQUcO-GwZ"
+          }
+        ],
+        "uid": "XIdiEm9g4",
+        ":block/refs": [
+          {
+            ":block/uid": "jQUcO-GwZ"
+          }
+        ],
+        "string": "[[questionnaire]]",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619093924401,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -62777,6 +63713,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "祖狄首先是[流民帅](https://bbs.northdy.com/thread-929604-1-1.html)，然后才是[士族]。而[东晋朝廷]不信任流民帅，这是[根本问题]。祖狄作为[士族出身的]流民帅有机会跟[上流士族][打成一片]甚至融入（比如[郗鉴]），但[需要契机]，他[没有等到]就死了。\n简单的说就是祖狄在东晋朝廷看来属于[还可以交流沟通的]流民帅，但还没到信任的程度 #pt7-99.98",
+            "create-time": 1619085040825,
+            ":block/refs": [
+              {
+                ":block/uid": "ZwUxvBbB4"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZwUxvBbB4"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "4HF1j4EsF",
+            "edit-time": 1619085103003,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -67958,23 +68916,81 @@
             }
           },
           {
-            "string": "[[Milanote: Create a character for your next great novel, screenplay, video game or comic.]]",
-            "create-time": 1619065708371,
+            "string": "Writing",
+            "create-time": 1619087094899,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[[Milanote: Create a character for your next great novel, screenplay, video game or comic.]]",
+                "create-time": 1619065708371,
+                ":block/refs": [
+                  {
+                    ":block/uid": "LM1FkHuDU"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "LM1FkHuDU"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "4Qktdp_gu",
+                "edit-time": 1619065728012,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[How to start your novel: 5 critical questions you must answer first]]",
+                "create-time": 1619087083108,
+                ":block/refs": [
+                  {
+                    ":block/uid": "aizvst9NX"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "aizvst9NX"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "u5JNTulFg",
+                "edit-time": 1619087085558,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "iXv5fI26b",
+            "edit-time": 1619087100129,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Create customer personas for your next big creative project]] 大型创意项目",
+            "create-time": 1619089240488,
             ":block/refs": [
               {
-                ":block/uid": "LM1FkHuDU"
+                ":block/uid": "6U0qJ0RyC"
               }
             ],
             "refs": [
               {
-                "uid": "LM1FkHuDU"
+                "uid": "6U0qJ0RyC"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "4Qktdp_gu",
-            "edit-time": 1619065728012,
+            "uid": "T7iR0UpP9",
+            "edit-time": 1619089267489,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -68689,6 +69705,28 @@
         }
       },
       {
+        "string": "[[toolbar]]",
+        "create-time": 1619085718993,
+        ":block/refs": [
+          {
+            ":block/uid": "nB3v_AiwT"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "nB3v_AiwT"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "d4BkC9JZ7",
+        "edit-time": 1619085721986,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "use case",
         "children": [
           {
@@ -68919,6 +69957,28 @@
         }
       },
       {
+        "string": "[[core conflict]]",
+        "create-time": 1619089137628,
+        ":block/refs": [
+          {
+            ":block/uid": "5ieLTKKXm"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "5ieLTKKXm"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "q9dNz6TBe",
+        "edit-time": 1619089139445,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "open-ended",
         "uid": "9blH8NlT3",
         "edit-time": 1618981156550,
@@ -68935,9 +69995,9 @@
         ],
         "children": [
           {
-            "string": "plot outline;",
+            "string": "story or plot outline;",
             "uid": "zWMEM_Uq_",
-            "edit-time": 1619077674549,
+            "edit-time": 1619087293054,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -74701,10 +75761,202 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "Begin by dragging a new **Board** in from the [[toolbar]].",
+            "refs": [
+              {
+                "uid": "nB3v_AiwT"
+              }
+            ],
+            "uid": "eNPVOs5vo",
+            "edit-time": 1619085625518,
+            ":block/refs": [
+              {
+                ":block/uid": "nB3v_AiwT"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Name the **Board** ['Homepage'](((REvD1KmmF))).",
+            "refs": [
+              {
+                "uid": "REvD1KmmF"
+              }
+            ],
+            "uid": "GV3MGvJ4G",
+            "edit-time": 1619085702961,
+            ":block/refs": [
+              {
+                ":block/uid": "REvD1KmmF"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Milanote will [automatically generate an icon](((lPu7McexT))) for the board, but [you can change this if you wish]. #icon",
+            "refs": [
+              {
+                "uid": "lPu7McexT"
+              },
+              {
+                "uid": "PfGcTwPtd"
+              }
+            ],
+            "uid": "cbQA1EnHn",
+            "edit-time": 1619085935713,
+            ":block/refs": [
+              {
+                ":block/uid": "lPu7McexT"
+              },
+              {
+                ":block/uid": "PfGcTwPtd"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "eyQK1Nl3Y",
         "edit-time": 1619082258081,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Create top level page boards",
+        "heading": 3,
+        "children": [
+          {
+            "string": "Next up are the [top-level pages](https://www.paldesk.com/create-landing-page). We're going to use boards for these too, and indicate [internal linking]([[internal link]]) by [connecting them with lines]. [You may not be sure] [how many pages you need] [at this stage]. This is fine! It's important to [remain open minded] and [allow the structure to emerge gradually](((ADzm56gx-))) [as you discover more about] [what will exist within the pages].\n210422-18:17",
+            "refs": [
+              {
+                "uid": "9O7PbsfcM"
+              },
+              {
+                "uid": "ADzm56gx-"
+              }
+            ],
+            "uid": "CeqXE1DUl",
+            "edit-time": 1619086771847,
+            ":block/refs": [
+              {
+                ":block/uid": "9O7PbsfcM"
+              },
+              {
+                ":block/uid": "ADzm56gx-"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Create your [first top-level page](((cjOHKVBiy))) by dragging in a new **Board** from the toolbar.",
+            "refs": [
+              {
+                "uid": "cjOHKVBiy"
+              }
+            ],
+            "uid": "ibyRmZzCB",
+            "edit-time": 1619086756112,
+            ":block/refs": [
+              {
+                ":block/uid": "cjOHKVBiy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Give the **Board** a name.",
+            "uid": "Qs4_qoLKB",
+            "edit-time": 1619086718058,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Connect your pages] by selecting both **Boards**, [right-clicking], and selecting ['Connect with Lines'](((6UCYtK1ZB))).",
+            "refs": [
+              {
+                "uid": "6UCYtK1ZB"
+              }
+            ],
+            "uid": "3wT2CO2im",
+            "edit-time": 1619086883876,
+            ":block/refs": [
+              {
+                ":block/uid": "6UCYtK1ZB"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Repeat this for each top-level page] [you wish to create].",
+            "uid": "WIFkT-WT2",
+            "edit-time": 1619086906785,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ke65qHwiy",
+        "edit-time": 1619086072200,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Create sub-pages",
+        "heading": 3,
+        "children": [
+          {
+            "string": "Next we're going to create the [[sub-page]]s that [live deeper within the website]. For larger websites, you can [group large sections together] to be [represented by one board].\n210422-18:23",
+            "refs": [
+              {
+                "uid": "j8i7AOehd"
+              }
+            ],
+            "uid": "p2Ud5Rv51",
+            "edit-time": 1619086999035,
+            ":block/refs": [
+              {
+                ":block/uid": "j8i7AOehd"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Drag in new **Boards** [for each sub page].",
+            "uid": "g9KXXK189",
+            "edit-time": 1619087016871,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Connect these with lines] [as you did previously].",
+            "uid": "tixBfQvZW",
+            "edit-time": 1619087022984,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "GM8qOOsCZ",
+        "edit-time": 1619086915326,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -74841,6 +76093,863 @@
     "title": "folder",
     "uid": "rjGU2CuI1",
     "edit-time": 1619084634456,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085364258,
+    "title": "subdirectory",
+    "uid": "dy2LlzW3h",
+    "edit-time": 1619085364258,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085368246,
+    "title": "file path",
+    "uid": "3dOFvgELa",
+    "edit-time": 1619085368246,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085370405,
+    "title": "directory",
+    "uid": "OnpBvXtj7",
+    "edit-time": 1619085370405,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085398012,
+    "title": "explorer",
+    "uid": "RgUsf-oB4",
+    "edit-time": 1619085398013,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085435082,
+    "title": "Chrome",
+    "uid": "vbCAHrUa2",
+    "edit-time": 1619085435082,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085437276,
+    "title": "web browser",
+    "uid": "GCilcPvw3",
+    "edit-time": 1619085437276,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085482367,
+    "title": "thumbnail",
+    "uid": "HjY25qIWH",
+    "edit-time": 1619085482377,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085486296,
+    "title": "file size",
+    "uid": "j--anBw_I",
+    "edit-time": 1619085486296,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085487816,
+    "title": "filename",
+    "uid": "-nxV9jaex",
+    "edit-time": 1619085487817,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085625521,
+    "title": "toolbar",
+    "uid": "nB3v_AiwT",
+    "edit-time": 1619085625521,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619085935715,
+    "title": "icon",
+    "uid": "PfGcTwPtd",
+    "edit-time": 1619085935715,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619086322509,
+    "title": "internal link",
+    "uid": "9O7PbsfcM",
+    "edit-time": 1619086322509,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619086342650,
+    "title": "external link",
+    "uid": "WeIFqvm71",
+    "edit-time": 1619086342650,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619086357962,
+    "title": "URL",
+    "uid": "a0keoLVDg",
+    "edit-time": 1619086357964,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619086742724,
+    "title": "landing page",
+    "uid": "8aKi6Vw3B",
+    "edit-time": 1619086742724,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619086949483,
+    "title": "sub-page",
+    "uid": "j8i7AOehd",
+    "edit-time": 1619086949484,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619087085560,
+    "title": "How to start your novel: 5 critical questions you must answer first",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1619087369386,
+        "children": [
+          {
+            "string": "Angel McCoy, Author",
+            "uid": "f8-tK_D2U",
+            "edit-time": 1619087183492,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Updated [30th April, 2020](https://milanote.com/guide/how-to-start-a-novel?referrer=rcCO3ehGRWkqTf3QEE)",
+            "uid": "0TL6nHjll",
+            "edit-time": 1619089206274,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F15ul-wbSZE.png?alt=media&token=54581593-6e8b-4ea0-b83a-2e056997d075)",
+            "create-time": 1619087169404,
+            "uid": "c4c3b3ZSD",
+            "edit-time": 1619087171485,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "F-XW47tfE"
+          },
+          {
+            "uid": "zWMEM_Uq_"
+          },
+          {
+            "uid": "ZoZvT7ogK"
+          }
+        ],
+        "uid": "d8tGfEqWX",
+        ":block/refs": [
+          {
+            ":block/uid": "F-XW47tfE"
+          },
+          {
+            ":block/uid": "zWMEM_Uq_"
+          },
+          {
+            ":block/uid": "ZoZvT7ogK"
+          }
+        ],
+        "string": "[Writing a novel]([[novel]]) is [the most amazing adventure] [you may ever undertake]. It's [a baring of the soul], no matter how fictional. It requires dedication, attention to detail, imagination, and [a burning desire to] [tell a story]. When you sit down to [begin your story outline](((zWMEM_Uq_))), you're [taking the first step on] [a journey into the unknown]. Fortunately, many [[novelist]]s [have already travelled the path before you], so you don't have to [go into that wilderness without a map].\n210422-18:29",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619087174533,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "How to start your novel",
+        "heading": 3,
+        "children": [
+          {
+            "string": "This guide gives you tips, tricks, and tools to [lay the foundation for] [writing your novel]. We all [have to start somewhere], and [a solid foundation] [puts you on the right foot to] [make strong progress forward]. You will learn five [critical questions](((44p-Y35L6))) to [ask yourself about your novel] so that you can begin [formulating a vision for it]. 制定一个愿景/规划 These questions are [practical and inspirational]. [This is the first step toward] writing your novel, [so let's settle in] and get started!\n210422-18:34",
+            "refs": [
+              {
+                "uid": "44p-Y35L6"
+              }
+            ],
+            "uid": "jWsnHfC-K",
+            "edit-time": 1619087693497,
+            ":block/refs": [
+              {
+                ":block/uid": "44p-Y35L6"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "LXYgdOmOE",
+        "edit-time": 1619087396971,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "What is this novel about?",
+        "heading": 3,
+        "children": [
+          {
+            "string": "The first question is \"What is this novel about?\" [At this stage], you don't want to [dive too deep]. [State your answer as] a [\"What if…\" question], and [limit yourself to twenty words] or less. These limitations help to [refine your concept](((UKI1gPxTv))). See example below for [The Wizard of Oz].",
+            "refs": [
+              {
+                "uid": "UKI1gPxTv"
+              }
+            ],
+            "uid": "3E0f1lmzV",
+            "edit-time": 1619087684880,
+            ":block/refs": [
+              {
+                ":block/uid": "UKI1gPxTv"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "BFq4FACrT",
+        "edit-time": 1619087586865,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "What are the stakes?",
+        "heading": 3,
+        "children": [
+          {
+            "string": "The next question is \"What are the stakes?\" If your heroes fail, what will happen? What do the world and your characters have to lose [if this story ends in tragedy]?",
+            "uid": "pAPEwPUDc",
+            "edit-time": 1619088701755,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "NquPxZvOQ",
+        "edit-time": 1619087596104,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "What is the core conflict?",
+        "heading": 3,
+        "children": [
+          {
+            "string": "After the stakes, you want to define the [[core conflict]]. [A great way to express this] is with an [\"X versus Y\" statement], where X is your [[protagonist]] and Y is [the force working against your protagonist], who or what wants to [keep the protagonist from achieving success]? Is it an individual, a group, a situation, an [internal struggle], or something else? Again, see our example below from The Wizard of Oz.",
+            "refs": [
+              {
+                "uid": "ax2Ua7MNq"
+              },
+              {
+                "uid": "5ieLTKKXm"
+              }
+            ],
+            "uid": "gIth6VRno",
+            "edit-time": 1619089158598,
+            ":block/refs": [
+              {
+                ":block/uid": "ax2Ua7MNq"
+              },
+              {
+                ":block/uid": "5ieLTKKXm"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "DRRs0jSIt",
+        "edit-time": 1619088717394,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "aizvst9NX",
+    "edit-time": 1619087085561,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619087340278,
+    "title": "novelist",
+    "uid": "ZoZvT7ogK",
+    "edit-time": 1619087340279,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619089063037,
+    "title": "core conflict",
+    "uid": "5ieLTKKXm",
+    "edit-time": 1619089063038,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619089244707,
+    "title": "Create customer personas for your next big creative project",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[In this guide](https://milanote.com/guide/personas?referrer=rcCO3ehGRWkqTf3QEE) you'll learn to create [[customer persona]]s—fictional, [composite characters] that [represent a key segment of your audience]. We believe that the best personas are more than just [static PDFs]. They should [grow and evolve naturally] [as you learn more about] your customers. With Milanote, you can continue to [update your personas] over time, and can easily [share the boards with clients] and your team for feedback.\n210422-19:04",
+        "create-time": 1619089346081,
+        ":block/refs": [
+          {
+            ":block/uid": "NV5PilyLq"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "NV5PilyLq"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "eSyklwSMj",
+        "edit-time": 1619089579466,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[Gather existing data] on your customers",
+        "heading": 3,
+        "children": [
+          {
+            "string": "[Collecting information about your audience] is the first step in [creating a persona]. There are usually many [good sources of information]([[information source]]) available, from [the data that's housed in] your [website analytics suite](((JC-azSbGz))) 网站分析套件 to [real-life conversations with customers]. 真实对话 [It really helps to] [spend some time] [gathering together the most relevant data] that you have access to, and to spend some time [preparing it for discussion] with your team. Anyone who [interacts with customers] or [customer data](((RHTgaXv9K))) should be involved in [sharing their perspective on] [what makes your customers tick].\n210422-19:11",
+            "refs": [
+              {
+                "uid": "pz6FswN3V"
+              },
+              {
+                "uid": "JC-azSbGz"
+              },
+              {
+                "uid": "RHTgaXv9K"
+              }
+            ],
+            "uid": "f4p3h0clo",
+            "edit-time": 1619089854437,
+            ":block/refs": [
+              {
+                ":block/uid": "pz6FswN3V"
+              },
+              {
+                ":block/uid": "JC-azSbGz"
+              },
+              {
+                ":block/uid": "RHTgaXv9K"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Drag a new **Board** in [from the toolbar] and title it \"Persona Research\" [or something similar].",
+            "uid": "oRYZvvkij",
+            "edit-time": 1619089891708,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Milanote will [automatically set an icon] that represents the **Board**, but you can change this if you wish.",
+            "uid": "Mq8kuJRPB",
+            "edit-time": 1619089897054,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Open the **Board** you created and [start compiling your research].",
+            "uid": "cHy5OjabR",
+            "edit-time": 1619089906602,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Drag in a **Note** from the toolbar [for each piece of content] (or [double-click the canvas] to create a new **Note**).",
+            "uid": "tsLOeMt1x",
+            "edit-time": 1619089917660,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You can also [drag in any useful files], such as PDFs, spreadsheets, images, etc.",
+            "uid": "EYjpFe2FH",
+            "edit-time": 1619089922973,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "IuHO9EjQK",
+        "edit-time": 1619089514512,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Interview customers to fill in the gaps",
+        "heading": 3,
+        "children": [
+          {
+            "string": "After spending time [sorting through your research], 整理你的研究 you'll probably [become aware of] [the gaps in the information you have access to]. It's time to start [having real conversations]—after all, who knows your customers better than themselves? [[survey]]s and [[interview]]s are often [a critical component of] [building useful personas]. Simple tools like [Typeform](https://typeform.com/?utm_source=Milanote&utm_medium=referral) and [Survey Monkey](https://www.surveymonkey.com/?utm_source=Milanote&utm_medium=referral) can help you to [capture survey responses](https://www.nextiva.com/blog/survey-best-practices.html) relatively quickly, while [interviewing customers] [either in person or over the phone] will help you to really [dive into the details].\n210422-20:21",
+            "refs": [
+              {
+                "uid": "ZnOYBjp5w"
+              },
+              {
+                "uid": "ek08OsjCh"
+              }
+            ],
+            "uid": "-AeeITdfj",
+            "edit-time": 1619094269609,
+            ":block/refs": [
+              {
+                ":block/uid": "ZnOYBjp5w"
+              },
+              {
+                ":block/uid": "ek08OsjCh"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Drag a new **Board** in from the toolbar and title it \"Interviews\" or something similar. This is [where your planning will take place].",
+            "uid": "XNGRqjXuL",
+            "edit-time": 1619094303333,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Drag in a **Note** from the toolbar and enter each group of [interview questions] as **Bullet** list items. #[[bullet list]]",
+            "refs": [
+              {
+                "uid": "XiCGZ_RRH"
+              }
+            ],
+            "uid": "roTAc0jVJ",
+            "edit-time": 1619094319996,
+            ":block/refs": [
+              {
+                ":block/uid": "XiCGZ_RRH"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Drag in a **To-do **list to [help prepare the rest of] the [interview sessions]. #[[to-do list]]",
+            "refs": [
+              {
+                "uid": "D1-XESmoA"
+              }
+            ],
+            "uid": "iV5Zs_LOL",
+            "edit-time": 1619094342303,
+            ":block/refs": [
+              {
+                ":block/uid": "D1-XESmoA"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "N9JjiO7Md",
+        "edit-time": 1619089933614,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Decide how many personas are necessary",
+        "heading": 3,
+        "children": [
+          {
+            "string": "Once you've gathered all of your research together, you should start to see some common themes emerge. You can now begin to break your audience down into sub-groups or segments. There's no 'correct' number here, but we recommend creating three to five personas to represent your audience; this number is big enough to cover the majority of your customers yet small enough to still be specific.",
+            "uid": "oz0HFEaSi",
+            "edit-time": 1619094403843,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Click on the **Templates **button in the toolbar, and search for the \"persona\"** **template.",
+            "uid": "GKmJ-f7Az",
+            "edit-time": 1619094421327,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Drag the **Template **out on to the canvas.",
+            "uid": "wUxPY0oUg",
+            "edit-time": 1619094421327,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Open the **Template **and click on \"Clear example content\" in the top right-hand corner.",
+            "uid": "M7US21sTv",
+            "edit-time": 1619094421327,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Give the **Board** a representative name and repeat this step for each **Persona** that you require.",
+            "uid": "0hQKvLDUq",
+            "edit-time": 1619094421327,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "fImzQiSPJ",
+        "edit-time": 1619094403843,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "6U0qJ0RyC",
+    "edit-time": 1619089244708,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619089327718,
+    "title": "customer persona",
+    "uid": "NV5PilyLq",
+    "edit-time": 1619089327718,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619089627030,
+    "title": "information source",
+    "uid": "pz6FswN3V",
+    "edit-time": 1619089627031,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619089820729,
+    "title": "user data",
+    "uid": "LKgwG8smt",
+    "edit-time": 1619089820730,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619093928440,
+    "title": "questionnaire",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary",
+        "create-time": 1619093936001,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "survey by questionnaire; questionnaire investigation",
+            "create-time": 1619093943560,
+            "uid": "3av-p92QX",
+            "edit-time": 1619093943566,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[A quarter of all the people surveyed]([[survey]]) were don't-knows. 没有表示明确意见 《牛津高阶英汉双解词典》",
+            "create-time": 1619093943560,
+            ":block/refs": [
+              {
+                ":block/uid": "ZnOYBjp5w"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZnOYBjp5w"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "c_dlbsvDM",
+            "edit-time": 1619094072157,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The questionnaire was [administered by trained interviewers]([[interviewer]]). 负责执行",
+            "create-time": 1619093943560,
+            ":block/refs": [
+              {
+                ":block/uid": "wuzPffoOZ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "wuzPffoOZ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "kmUKWIbbk",
+            "edit-time": 1619094089099,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Is [a questionnaire answered by 500 people] [truly representative of the population as a whole]? ",
+            "create-time": 1619093943560,
+            "uid": "JuJRNLTzv",
+            "edit-time": 1619094120192,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Headteachers will be asked to [fill in a questionnaire]. 校长 《柯林斯高阶英汉双解学习词典》",
+            "create-time": 1619093943560,
+            "uid": "XFP90bHYf",
+            "edit-time": 1619094127304,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Paper using [questionnaire survey] and [GIS technology] union way research. img5.vikecn.com",
+            "create-time": 1619093943560,
+            "uid": "9w3eJ94zx",
+            "edit-time": 1619094135007,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "dwnuTSfBq",
+        "edit-time": 1619093942810,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "jQUcO-GwZ",
+    "edit-time": 1619093928441,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619094072160,
+    "title": "survey",
+    "uid": "ZnOYBjp5w",
+    "edit-time": 1619094072160,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619094089102,
+    "title": "interviewer",
+    "uid": "wuzPffoOZ",
+    "edit-time": 1619094089102,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619094227270,
+    "title": "interview",
+    "uid": "ek08OsjCh",
+    "edit-time": 1619094227281,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619094319999,
+    "title": "bullet list",
+    "uid": "XiCGZ_RRH",
+    "edit-time": 1619094320000,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

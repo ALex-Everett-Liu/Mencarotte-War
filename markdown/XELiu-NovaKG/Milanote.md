@@ -68,5 +68,8 @@
 - Guides
     - Moodboard
         - [[Make beautiful, shareable moodboards in minutes with Milanote]]
-    - [[Milanote: Create a character for your next great novel, screenplay, video game or comic.]]
+    - Writing
+        - [[Milanote: Create a character for your next great novel, screenplay, video game or comic.]]
+        - [[How to start your novel: 5 critical questions you must answer first]]
+    - [[Create customer personas for your next big creative project]] 大型创意项目
     - [[Create a rich, visual sitemap for your next website project in Milanote]]

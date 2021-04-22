@@ -5,8 +5,9 @@
     - [[hobby]]
     - [[main character]]
     - [[protagonist]]
+- [[core conflict]]
 - open-ended
 - [[plot]]
-    - plot outline;
+    - story or plot outline;
 - storyline
 - storyteller

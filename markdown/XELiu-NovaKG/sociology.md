@@ -3,4 +3,7 @@
 - the interests of humanity
 - [[population]]
     - [[family]]
+- [[questionnaire]]
+    - [[interview]]; [[interviewer]]
+    - [[survey]];
 - 阶级; 社会阶层

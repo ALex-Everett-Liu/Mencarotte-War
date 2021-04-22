@@ -2,6 +2,7 @@
     - block level
     - block-level addressability
     - [[block reference]]; referenced block
+    - [[bullet list]]
     - edits in one place
     - global block
     - transclusion

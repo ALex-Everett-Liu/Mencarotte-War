@@ -18,6 +18,7 @@
 - style; styling...
     - [[theme]]
 - [[tab]]
+- [[toolbar]]
 - use case
     - message-of-the-medium
 - [[user experience (UX)]]

@@ -8,6 +8,9 @@
     - [[content optimization system (CMS)]]
     - [[design element]]
     - html; [[HyperText Markup Language (HTML)]];
+    - [[icon]]
+    - [[landing page]]; top-level page
+        - [[sub-page]]
     - [[layout]]
     - structural content
         - page structure; [[page hierarchy]]

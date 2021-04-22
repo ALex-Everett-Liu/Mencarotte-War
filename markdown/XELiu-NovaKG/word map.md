@@ -129,6 +129,8 @@
                 - criteria
                     - [[arbitrary criteria]]: 任意标准, 武断标准;
                     - criterion;
+                - critical
+                    - critical question;
                 - criticism;
     - d
         - de
@@ -184,6 +186,16 @@
                     - ethnics; ethnicity;
         - ex
             - exclude
+    - f
+        - fi
+            - fin
+                - find
+                    - found;
+                - fine
+                    - [confine](https://workflowy.com/#/29547f8c7e22);
+                    - refine
+                - finite
+                    - infinite
     - g
         - gr
             - gra

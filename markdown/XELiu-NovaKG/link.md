@@ -4,9 +4,11 @@
 - custom link
 - diagonal link
 - direct link; forward-link
+- [[external link]]
 - find the path
 - hovered
 - [[hyperlink]]
+- [[internal link]]; internal linking
 - linking feature
 - one way pointer
 - orthogonal linking
@@ -14,4 +16,4 @@
 - [[source]]; [[reference]]
 - truncate the link
 - web location
-- URL; url
+- [[URL]]; url

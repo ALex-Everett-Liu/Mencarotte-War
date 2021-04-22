@@ -8,10 +8,11 @@
     - weight...
         - assigned weightings
     - defined relationship; [[relationship strength]]
+    - connect with lines; connect ideas;
     - [[context]]
     - explicit relationship
     - [[interconnectivity]]
-        - connect ideas; [[interconnected pages]]
+        - [[interconnected pages]]
     - multiple relationships
     - reuse; reuse information
         - code reuse
