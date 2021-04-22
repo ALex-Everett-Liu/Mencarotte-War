@@ -2,7 +2,7 @@
 - food and drink; tabemono, nomemono;
     - food preparation;
 - [[household appliance]]; [[domestic appliance]]; 家用电器
-- personal care and service occupations 个人护理和服务职业
+- personal care and service occupations: 个人护理和服务职业
     - [[cosmetics]]
 - 两性情感生活; [[两性关系 (liangxing guanxi)]]
 - #inbox

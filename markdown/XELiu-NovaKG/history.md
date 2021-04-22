@@ -1,5 +1,8 @@
 - [[Chinese history]]
+- ethnics
+    - ethnic group
 - [[historical geography]]
+- [[Inner Asia]]
 - #inbox
     - {{[[TODO]]}} history book purchase
         - https://book.douban.com/subject/35073877/

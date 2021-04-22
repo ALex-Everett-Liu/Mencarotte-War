@@ -1,7 +1,7 @@
 - www.[[ibm]].com
     - The telltale sign 依据的标志 is that [files prefixed with](((oNP_DnzqV))) "_atc" are compiled. 
     - ---
-- bbs.[[chinadaily]].com.cn
+- www.[[chinadaily]].com.cn / bbs.[[chinadaily]].com.cn
     - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
     - ---
 - dict.cnki.net

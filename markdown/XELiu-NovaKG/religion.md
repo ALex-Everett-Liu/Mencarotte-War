@@ -17,6 +17,7 @@
     - worship god
 - [[Satanism]]
 - [[theology]]
+- 迷信
 - 神职人员
     - ecclesiastical hierarchy
         - [[angel]]

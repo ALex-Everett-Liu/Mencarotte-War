@@ -1,0 +1,9 @@
+- [[Xituanshan Culture]]
+- ---
+- Sushen is the modern Chinese name for [an ancient ethnic group of people](((nWSg6QJyg))) who [lived in the northeastern part of China] (in the area of modern Jilin and Heilongjiang) and what is [in modern times] the [Russian Maritime Province] and some other [Siberian provinces]. They were active [during the Zhou Dynasty period]. [Archeological relics](((z9SNVn1Ch))) in the area are attributed to the [[Xituanshan Culture]].[1]
+210422-08:54
+    - Bao says based on [[archeological survey]], [a large number of relics] is [still buried underground]. www.[[chinadaily]].com.cn / bbs.[[chinadaily]].com.cn
+    - According to the [[国语 (Guoyu)]] and the [[山海经 (Classic of Mountains and Seas)]] published [in the Warring States period] (476–221 BCE), Sushen was [the name of the tribe] who lived in Shandong and border of Liaoxi Province.[2]
+    - The name's characters appeared as early as the 6th century BC [in Chinese documents]. They are [almost unknown with the exception of the fact that] they [lived to the north of China] and used [flint-headed wooden arrows], 燧石 farmed, hunted, and fished, and [lived in caves and trees].[3] Ancient Chinese believed that the Sushen [paid arrows as tribute to]([[tribute]]) [an ideal Chinese ruler]. In other words, [an arrival of Sushen delegates] was, 代表团 for the Chinese, [an auspicious sign of](((rrzrKXHet))) [the Chinese ruler's virtue].
+210422-09:08
+- From the 3rd century to the 6th century, the name Sushen was used as an alias for the Yilou, who were in eastern Manchuria. However, the connection between the Yilou and the ancient Sushen is unclear. Some historians think that Chinese, having heard that the Yilou paid arrows as tribute, linked them with the Sushen based on knowledge of ancient documents. They paid tribute several times and pleased rulers of Northern China. The Yilou disappeared from documents in the 6th century. The Mohe rose into power there instead.[4]

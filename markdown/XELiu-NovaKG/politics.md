@@ -1,5 +1,6 @@
 - [[authority]]: 当局, 当权; 权力, 权威;
     - [[centralization]]: 中央集权; [[central authority]]
+- [[diplomacy]]
 - elect
 - general...
     - political reality
