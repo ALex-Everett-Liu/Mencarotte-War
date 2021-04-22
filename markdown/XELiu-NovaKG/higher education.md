@@ -5,7 +5,7 @@
 - [[graduate school]]
     - co-supervisor
     - [[graduate student]]
-    - Master degree
+    - Master degree; [[graduate degree]]
     - [[PhD]]
     - postdoctoral position
 - major...

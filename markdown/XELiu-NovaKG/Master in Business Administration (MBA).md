@@ -2,5 +2,5 @@
     - He has [a Master's in Business Administration]. 《牛津高阶英汉双解词典》
     - C: Yes, I received [a Bachelor of Business Administration]. en.eol.cn
     - Do they always [have a degree in] finance or MBA? blog.sina.com.cn
-    - [California College of the Arts] saw 92 applications for the [M.B.A. in Design Strategy] in its first year, 2008. www.[okread].info
+    - [California College of the Arts] saw 92 applications for the [M.B.A. in Design Strategy] in its first year, 2008. www.[[okread]].info
     - [Design and Realization of] the [Industry and Commerce Administration Information System] of Benxi City [Based on UML]. www.[dictall].com

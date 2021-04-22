@@ -3,6 +3,7 @@
     - ethnic group
 - [[historical geography]]
 - [[Inner Asia]]
+    - [[Japan]]
 - #inbox
     - {{[[TODO]]}} history book purchase
         - https://book.douban.com/subject/35073877/

@@ -1,3 +1,5 @@
+- [[agreement]]
 - foreign affairs
     - [[Foreign Office]]; [[Foreign Ministry]]
-    - [[international relations]]
+- [[international relations]]
+- [[tribute]]

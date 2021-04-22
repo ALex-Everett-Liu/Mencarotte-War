@@ -1,0 +1,4 @@
+- historical geography
+    - [[佐渡 (Sado)]]
+- original source
+    - [[日本书纪 (Nihon Shoki)]]

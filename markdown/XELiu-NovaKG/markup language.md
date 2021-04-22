@@ -8,6 +8,14 @@
 - the presentation of a document
 - [[reStructuredText]]
 - style; styling...
+    - bold; bold letter
+    - [[color scheme]]: 配色方案 
+        - text color; [[font color]]; 
+    - display style
+    - emphasize text
+    - [[font]]
+    - [[highlight]]
+    - italics
     - [[scrollbar]]
 - [[style sheet language]]
     - [[Cascading Style Sheets (CSS)]]; css

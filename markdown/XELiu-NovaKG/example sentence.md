@@ -4,6 +4,7 @@
 - www.[[chinadaily]].com.cn / bbs.[[chinadaily]].com.cn
     - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
     - ---
+- danci.[911cha].com
 - dict.cnki.net
 - 柯林斯词典 (柯林斯高阶英汉双解学习词典)
     - Let me [set the record straight on the misconceptions] [contained in your article]. 
@@ -24,7 +25,7 @@
     - Set the record straight; made sure the facts were straight in the report. 
     - ---
 - www.[[kekenet]].com
-- www.[okread].info
+- www.[[okread]].info
     - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
     - ---
 - [blog.sina]([[sina blog]]).com.cn

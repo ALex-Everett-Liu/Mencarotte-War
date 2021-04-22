@@ -11,4 +11,4 @@
 210421-19:29
     - In this guide, you'll learn the [modern approach to] creating a moodboard using Milanote. Remember, the [creative process] is non-linear, so [you may find yourself] [moving back and forth between the steps] as you go.
 - ### 1. Set the direction of your project
-    - Moodboards can be literal and practical (featuring fonts, [color schemes](https://www.evinex.com/color-schemes/) and images that you actually plan to use in the final piece of work) or they can be more about exploring tone and mood. You can tackle these two different types sequentially, or just do one at a time.
+    - Moodboards can be literal and practical ([featuring fonts](((8PLpv2cqs))), [color schemes](https://www.evinex.com/color-schemes/) and images that you [actually plan to use] [in the final piece of work]) or [they can be more about] [exploring tone and mood]. You can [tackle these two different types sequentially], or just do one at a time. #[[color scheme]]

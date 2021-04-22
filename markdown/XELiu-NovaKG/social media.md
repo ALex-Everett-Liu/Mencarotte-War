@@ -1,5 +1,6 @@
 - [[blog]]; [[blog post]]
     - blogging: 写网志; 写博客
+    - [[sina blog]]
     - [[vlog]]
     - [[WordPress]]
 - [[personal contact]]
