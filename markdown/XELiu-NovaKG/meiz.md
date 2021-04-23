@@ -6,6 +6,12 @@
     - [[metropolis list]]
         - #inbox
             - [look book](https://www.youtube.com/channel/UCWXMWO6UTvjQQa_VealK1BA) -- [Korea](https://bbs.saraba1st.com/2b/thread-1999660-2-1.html) #pt9-99.99
+        - fuliji
+            - #inbox
+                - **郭杰瑞: 草，想要YP你早讲啊。** #pt10-99.99
+                    - 所以说，这个女的是FLJ吗？
+                        - 应该是，TW 简介有[投食和包养](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=2000552&extra=page%3D1%26filter%3Dtypeid%26typeid%3D139&page=5)
+                        - 靠，这贴太精彩，一堆人讨论[犹太人]，十几个讨论[屁股]，只有几个和我一样关注成都，身为[成都人]，一直想知道，为嘛成都尽出这种鬼，还有上次成都那什么gay吧剑斗，真是[不爆出来都不知道]
 - parallel...
     - scene; scenery...
 - place? environment?

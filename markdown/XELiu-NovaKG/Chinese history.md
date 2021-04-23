@@ -4,6 +4,8 @@
     - [[周王朝 (Zhou dynasty)]]; Zhou kingdom
         - [[陈国 (Chen State)]]
         - [[楚国 (Chu Kingdom)]]
+        - [[晋国 (Jin State)]]
+            - [[晋楚争霸]]
         - [[宋国 (Song State)]]
         - [[春秋时代 (Spring and Autumn period)]]
         - [[西周 (Western Zhou)]]
