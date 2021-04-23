@@ -11485,6 +11485,18 @@
             "edit-time": 1619089327715,
             "children": [
               {
+                "string": "represent your audience;",
+                "create-time": 1619138280446,
+                "uid": "Ky1vqwVBS",
+                "edit-time": 1619138281389,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "用户画像",
                 "create-time": 1619089425037,
                 "uid": "wNaZz2ast",
@@ -76804,9 +76816,19 @@
         "heading": 3,
         "children": [
           {
-            "string": "Once you've gathered all of your research together, you should start to see some common themes emerge. You can now begin to break your audience down into sub-groups or segments. There's no 'correct' number here, but we recommend creating three to five personas to represent your audience; this number is big enough to cover the majority of your customers yet small enough to still be specific.",
+            "string": "Once you've [gathered all of your research together], you should start to [see some common themes emerge]. You can now begin to [break your audience down into sub-groups or segments]. There's no 'correct' number here, but we recommend creating three to five personas to [represent your audience](((Ky1vqwVBS))); [this number is big enough to] [cover the majority of your customers] yet [small enough to still be specific].",
+            "refs": [
+              {
+                "uid": "Ky1vqwVBS"
+              }
+            ],
             "uid": "oz0HFEaSi",
-            "edit-time": 1619094403843,
+            "edit-time": 1619138287797,
+            ":block/refs": [
+              {
+                ":block/uid": "Ky1vqwVBS"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -76836,9 +76858,9 @@
             }
           },
           {
-            "string": "Give the **Board** a representative name and repeat this step for each **Persona** that you require.",
+            "string": "Give the **Board** a [representative name] and [repeat this step for each] **Persona** that you require.",
             "uid": "0hQKvLDUq",
-            "edit-time": 1619094421327,
+            "edit-time": 1619138264738,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -77054,6 +77076,18 @@
     "title": "bullet list",
     "uid": "XiCGZ_RRH",
     "edit-time": 1619094320000,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619142586501,
+    "title": "April 23rd, 2021",
+    "uid": "04-23-2021",
+    "edit-time": 1619142586501,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

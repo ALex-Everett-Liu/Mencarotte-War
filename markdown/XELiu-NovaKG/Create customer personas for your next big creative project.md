@@ -15,8 +15,8 @@
     - Drag in a **Note** from the toolbar and enter each group of [interview questions] as **Bullet** list items. #[[bullet list]]
     - Drag in a **To-do **list to [help prepare the rest of] the [interview sessions]. #[[to-do list]]
 - ### Decide how many personas are necessary
-    - Once you've gathered all of your research together, you should start to see some common themes emerge. You can now begin to break your audience down into sub-groups or segments. There's no 'correct' number here, but we recommend creating three to five personas to represent your audience; this number is big enough to cover the majority of your customers yet small enough to still be specific.
+    - Once you've [gathered all of your research together], you should start to [see some common themes emerge]. You can now begin to [break your audience down into sub-groups or segments]. There's no 'correct' number here, but we recommend creating three to five personas to [represent your audience](((Ky1vqwVBS))); [this number is big enough to] [cover the majority of your customers] yet [small enough to still be specific].
     - Click on the **Templates **button in the toolbar, and search for the "persona"** **template.
     - Drag the **Template **out on to the canvas.
     - Open the **Template **and click on "Clear example content" in the top right-hand corner.
-    - Give the **Board** a representative name and repeat this step for each **Persona** that you require.
+    - Give the **Board** a [representative name] and [repeat this step for each] **Persona** that you require.

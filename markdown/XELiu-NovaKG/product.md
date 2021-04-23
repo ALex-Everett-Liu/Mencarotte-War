@@ -1,5 +1,6 @@
 - [[customer]]
     - [[customer persona]]: 客户角色
+        - represent your audience;
         - 用户画像
     - [[prospective customer]];
     - user...

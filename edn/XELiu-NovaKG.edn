@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 11,
+      :order 8,
       :content-id "N5lel-tnd"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -95,7 +95,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 14,
+      :order 11,
       :content-id "L7fTIw9dt"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 13,
+      :order 10,
       :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -111,19 +111,19 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 12,
+      :order 9,
       :content-id "rw6U8VHY-"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536961247]
+   536961292]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid98c74d76-e0c3-4f8a-81ce-06ff122b5bf7"
-   536961273]
+   "uuidd12b2738-8bde-4d1a-851c-0fa15f771bdb"
+   536961293]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -60718,6 +60718,7 @@
    "Create customer personas for your next big creative project"
    536960859]
   [21624 :block/children 21627 536960886]
+  [21624 :block/children 21711 536961287]
   [21624 :block/open true 536960868]
   [21624 :block/order 0 536960868]
   [21624 :block/page 15107 536960869]
@@ -60751,7 +60752,7 @@
   [21626 :edit/time 1619089579466 536960906]
   [21626 :edit/user 3 536960873]
   [21627 :block/open true 536960884]
-  [21627 :block/order 0 536960886]
+  [21627 :block/order 1 536961287]
   [21627 :block/page 15107 536960885]
   [21627 :block/parents 15107 536960885]
   [21627 :block/parents 15547 536960885]
@@ -61381,13 +61382,14 @@
   [21686 :block/page 21623 536961165]
   [21686 :block/parents 21623 536961165]
   [21686 :block/parents 21685 536961165]
+  [21686 :block/refs 21711 536961291]
   [21686
    :block/string
-   "Once you've gathered all of your research together, you should start to see some common themes emerge. You can now begin to break your audience down into sub-groups or segments. There's no 'correct' number here, but we recommend creating three to five personas to represent your audience; this number is big enough to cover the majority of your customers yet small enough to still be specific."
-   536961164]
+   "Once you've [gathered all of your research together], you should start to [see some common themes emerge]. You can now begin to [break your audience down into sub-groups or segments]. There's no 'correct' number here, but we recommend creating three to five personas to [represent your audience](((Ky1vqwVBS))); [this number is big enough to] [cover the majority of your customers] yet [small enough to still be specific]."
+   536961290]
   [21686 :block/uid "oz0HFEaSi" 536961164]
   [21686 :edit/seen-by 3 536961168]
-  [21686 :edit/time 1619094403843 536961164]
+  [21686 :edit/time 1619138287797 536961290]
   [21686 :edit/user 3 536961164]
   [21687 :block/string "" 536961167]
   [21687 :block/uid "f5uTPtqE6" 536961167]
@@ -61403,6 +61405,7 @@
    "Drag the **Template **out on to the canvas."
    536961171]
   [21689 :block/uid "wUxPY0oUg" 536961171]
+  [21689 :edit/seen-by 3 536961281]
   [21689 :edit/time 1619094421327 536961171]
   [21689 :edit/user 3 536961171]
   [21690 :block/open true 536961171]
@@ -61415,6 +61418,7 @@
    "Open the **Template **and click on \"Clear example content\" in the top right-hand corner."
    536961171]
   [21690 :block/uid "M7US21sTv" 536961171]
+  [21690 :edit/seen-by 3 536961282]
   [21690 :edit/time 1619094421327 536961171]
   [21690 :edit/user 3 536961171]
   [21691 :block/open true 536961171]
@@ -61424,10 +61428,11 @@
   [21691 :block/parents 21685 536961174]
   [21691
    :block/string
-   "Give the **Board** a representative name and repeat this step for each **Persona** that you require."
-   536961171]
+   "Give the **Board** a [representative name] and [repeat this step for each] **Persona** that you require."
+   536961285]
   [21691 :block/uid "0hQKvLDUq" 536961171]
-  [21691 :edit/time 1619094421327 536961171]
+  [21691 :edit/seen-by 3 536961283]
+  [21691 :edit/time 1619138264738 536961285]
   [21691 :edit/user 3 536961171]
   [21692 :block/open true 536961171]
   [21692 :block/order 1 536961171]
@@ -61558,4 +61563,23 @@
   [21710 :block/string "" 536961260]
   [21710 :block/uid "6UKfLtj02" 536961260]
   [21710 :edit/time 1619104072026 536961260]
-  [21710 :edit/user 3 536961260]]}
+  [21710 :edit/user 3 536961260]
+  [21711 :block/open true 536961287]
+  [21711 :block/order 0 536961287]
+  [21711 :block/page 15107 536961288]
+  [21711 :block/parents 15107 536961288]
+  [21711 :block/parents 15547 536961288]
+  [21711 :block/parents 21624 536961288]
+  [21711 :block/string "represent your audience;" 536961289]
+  [21711 :block/uid "Ky1vqwVBS" 536961287]
+  [21711 :create/time 1619138280446 536961287]
+  [21711 :create/user 3 536961287]
+  [21711 :edit/time 1619138281389 536961289]
+  [21711 :edit/user 3 536961287]
+  [21712 :block/uid "04-23-2021" 536961293]
+  [21712 :create/time 1619142586501 536961293]
+  [21712 :create/user 3 536961293]
+  [21712 :edit/time 1619142586501 536961293]
+  [21712 :edit/user 3 536961293]
+  [21712 :log/id 1619142586501 536961293]
+  [21712 :node/title "April 23rd, 2021" 536961293]]}
