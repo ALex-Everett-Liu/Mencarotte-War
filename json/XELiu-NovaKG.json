@@ -834,10 +834,10 @@
             }
           },
           {
-            "string": "old pc trash check;; wayback machine;; garmin sync;; 小红书 douyin;; Grammarly-like;; ",
+            "string": "old pc trash check;; wayback machine, archive.org;; garmin sync;; 小红书 douyin;; Grammarly-like;; ",
             "create-time": 1618457951481,
             "uid": "0XNy08NgL",
-            "edit-time": 1619083028952,
+            "edit-time": 1619153130322,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -7442,6 +7442,24 @@
             ],
             "children": [
               {
+                "string": "[[陈国 (Chen State)]]",
+                "refs": [
+                  {
+                    "uid": "8Nf-xInf6"
+                  }
+                ],
+                "uid": "4IRbKbz-F",
+                "edit-time": 1619160650038,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8Nf-xInf6"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "[[楚国 (Chu Kingdom)]]",
                 "create-time": 1617672835373,
                 ":block/refs": [
@@ -7525,6 +7543,28 @@
                 ":block/uid": "3lh5OeHBW"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[东夷 (Dongyi)]]",
+            "create-time": 1619160023595,
+            ":block/refs": [
+              {
+                ":block/uid": "dzwAx5BQi"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "dzwAx5BQi"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Tl4WZq9E5",
+            "edit-time": 1619160025590,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -72904,6 +72944,28 @@
     },
     "children": [
       {
+        "string": "[[诸申 (Zhushen)]]",
+        "create-time": 1619159607566,
+        ":block/refs": [
+          {
+            ":block/uid": "Pq-Lyxpl2"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Pq-Lyxpl2"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "5XdOp81iJ",
+        "edit-time": 1619159609997,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1619052159203,
         "children": [
           {
@@ -73230,10 +73292,10 @@
         }
       },
       {
-        "edit-time": 1619057154441,
+        "edit-time": 1619153189727,
         "children": [
           {
-            "string": "Some historians consider that the Mishihase were identical with the Sushen of [Chinese records],[6] and others think that Japanese named the [indigenous people] [in the northeast] [based on the knowledge of] [Chinese documents], just as the Chinese did [during the Three Kingdoms period]. They are [generally believed to be] ethnic [[Nivkh people]] and [have influenced several later peoples in the region] such as the Wuji, Yilou and Mohe, and subsequently of the Jurchen, Manchu, Nanai and many other [[Tungusic peoples]].[7]\n(直接借用古籍记载中的肃慎一词对东北方向的原住民进行了命名)",
+            "string": "Some historians consider that the Mishihase were identical with the Sushen of [Chinese records],[6](((LozJc7nFF))) and others think that Japanese named the [indigenous people] [in the northeast] [based on the knowledge of] [Chinese documents], just as the Chinese did [during the Three Kingdoms period]. They are [generally believed to be] ethnic [[Nivkh people]] and [have influenced several later peoples in the region] such as the Wuji, Yilou and Mohe, and subsequently of the Jurchen, Manchu, Nanai and many other [[Tungusic peoples]].[7](((O0XOkDJqn)))\n(直接借用古籍记载中的肃慎一词对东北方向的原住民进行了命名)",
             "create-time": 1619056720488,
             ":block/refs": [
               {
@@ -73241,6 +73303,12 @@
               },
               {
                 ":block/uid": "h16hEtInl"
+              },
+              {
+                ":block/uid": "LozJc7nFF"
+              },
+              {
+                ":block/uid": "O0XOkDJqn"
               }
             ],
             "refs": [
@@ -73249,13 +73317,19 @@
               },
               {
                 "uid": "h16hEtInl"
+              },
+              {
+                "uid": "LozJc7nFF"
+              },
+              {
+                "uid": "O0XOkDJqn"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "HJcG4Rv8u",
-            "edit-time": 1619057364797,
+            "edit-time": 1619153223557,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -73276,6 +73350,9 @@
           },
           {
             "uid": "WFTaT7B9s"
+          },
+          {
+            "uid": "2o-u7dlUO"
           }
         ],
         "uid": "C-_xi2pUx",
@@ -73294,9 +73371,12 @@
           },
           {
             ":block/uid": "WFTaT7B9s"
+          },
+          {
+            ":block/uid": "2o-u7dlUO"
           }
         ],
-        "string": "The Chinese characters of the name [can also be found in] [Japanese documents], in which the characters are [annotated and read as] __Mishihase or Ashihase__. According to the [[日本书纪 (Nihon Shoki)]], the [[Mishihase]] first arrived to [Sado Province]([[佐渡 (Sado)]]) [during the reign of] [[Emperor Kimmei]]. In 660, [Japanese General] [[Abe no Hirafu]] defeated the Mishihase in Hokkaidō [by request from the native inhabitants].[5]\n210422-10:04",
+        "string": "The Chinese characters of the name [can also be found in] [Japanese documents], in which the characters are [annotated and read as] __Mishihase or Ashihase__. According to the [[日本书纪 (Nihon Shoki)]], the [[Mishihase]] first arrived to [Sado Province]([[佐渡 (Sado)]]) [during the reign of] [[Emperor Kimmei]]. In 660, [Japanese General] [[Abe no Hirafu]] defeated the Mishihase in Hokkaidō [by request from the native inhabitants].[5](((2o-u7dlUO)))\n210422-10:04",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -73321,6 +73401,206 @@
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "中国古籍中对于“肃慎”的记载与解释",
+        "create-time": 1619159756729,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1619160731863,
+            "children": [
+              {
+                "string": "[女真人]与[[诸申 (Zhushen)]]的[族源]之一。",
+                "create-time": 1619159565360,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Pq-Lyxpl2"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Pq-Lyxpl2"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "NRqlPtW8T",
+                "edit-time": 1619159580067,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "OXX209UFf"
+              },
+              {
+                "uid": "IsT0aSkCl"
+              }
+            ],
+            "uid": "-gPhk7nDw",
+            ":block/refs": [
+              {
+                ":block/uid": "OXX209UFf"
+              },
+              {
+                ":block/uid": "IsT0aSkCl"
+              }
+            ],
+            "string": "亦称稷慎\n[秦汉时期]直到[南北朝时期]的[挹娄]、[[勿吉 (Wuji)]]\n[[真番 (Zhenfan)]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619158490040,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "先秦文献中的《尚书·序》、《逸周书》、《大戴礼记》的《少闲》篇以及《五帝德》篇、《竹书纪年》、《左传》、《国语》、《山海经》等都有所著录。",
+            "create-time": 1619159774526,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "《尚书》：“成王既伐[[东夷 (Dongyi)]]、[肃慎来贺]。王俾荣伯贿肃慎之命。”",
+                "create-time": 1619159955960,
+                ":block/refs": [
+                  {
+                    ":block/uid": "dzwAx5BQi"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "dzwAx5BQi"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "kPGvNzEbe",
+                "edit-time": 1619159986182,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "《国语》卷二：“仲尼在陈，有[隼][集于][陈侯之庭]而死，楛矢贯之，石砮，其长尺有咫，[[陈惠公 (Chen Huigong)]]使人以隼[如仲尼之馆]，问之，仲尼曰：隼之来也远矣，此[肃慎侯氏]之矢也。昔[武王克商]，通道于[九夷百蛮]，使各[以其方贿来贡]，使无忘职业，于是肃慎氏贡楛矢、石砮，其长尺有咫。先王欲昭[其令德之致远也]，以示后人，使永监焉，故名其栝曰肃慎氏之贡矢，以分[大姬]，配虞胡公而[分封诸陈]。[古者][分同姓以][珍玉]，展亲也；分异姓以[远方之职贡]，使无忘服也，故[分陈以][肃慎氏之贡]，君若使[有司][求诸故府]，其可得也。使求，得之金椟，如之。” 解释：周武王时期，肃慎曾向周进贡[楛矢与石砮]，表示友好与臣服。周成王[讨伐东夷]胜利后，肃慎也进行了朝贡。[2]",
+                "create-time": 1619160455532,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ayksS_alv"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ayksS_alv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "7pSFMAujE",
+                "edit-time": 1619160608516,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "《左传·鲁昭公九年》：“肃慎、燕、亳，吾[北土]也。” 解释：周王朝声称肃慎、燕与亳，都是[属于其管辖的][北方领土]。",
+                "create-time": 1619160427665,
+                "uid": "CZ9RA-3cz",
+                "edit-time": 1619160440760,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "《竹书纪年》：“[帝舜有虞氏]二十五年，[息慎氏]来朝，贡弓矢。”",
+                "create-time": 1619160693111,
+                "uid": "VnkLJ7e_O",
+                "edit-time": 1619160717811,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "《山海经·大荒北经》记载“东北海之外，......[大荒之中]有山，名曰不咸，有肃慎氏之国”。 解释：[[不咸山 (Buxian Mountain)]]，汉代称为[[盖马大山 (Gaima Mountain)]]，隋唐称[[徒太山 (Tutai Mountain)]]，太白山，即今[[长白山]]。",
+                "create-time": 1619160741555,
+                ":block/refs": [
+                  {
+                    ":block/uid": "yi7rWDFcF"
+                  },
+                  {
+                    ":block/uid": "9xt7O8c1T"
+                  },
+                  {
+                    ":block/uid": "WKD0r-gH0"
+                  },
+                  {
+                    ":block/uid": "umV_yu7nT"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "yi7rWDFcF"
+                  },
+                  {
+                    "uid": "9xt7O8c1T"
+                  },
+                  {
+                    "uid": "WKD0r-gH0"
+                  },
+                  {
+                    "uid": "umV_yu7nT"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "6gS7AXwhm",
+                "edit-time": 1619160811630,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "kSfNFKd5m",
+            "edit-time": 1619159774526,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "两汉时期的文献《史记》、《淮南子》的《坠形训》和《原道篇》、《说苑》的《辨物篇》也有片断的记载。",
+            "create-time": 1619159757697,
+            "uid": "ZrWTKdQZh",
+            "edit-time": 1619159774532,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ss4MRLX2x",
+        "edit-time": 1619159757703,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -73399,10 +73679,58 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[5]: Frank Brinkley, Dairoku Kikuchi (1915), __A history of the [Japanese people] [from the earliest times to] the end of the [Meiji era]__, The Encyclopædia Britannica Co.",
+            "create-time": 1619153040637,
+            "uid": "2o-u7dlUO",
+            "edit-time": 1619153060275,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[6]: Reider, Noriko T. (2010). [__Japanese Demon Lore: Oni from Ancient Times to the Present__]. [p. 21.](https://archive.org/details/JapaneseDemonLore) [ISBN] [978-0-87421-794-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-87421-794-0).",
+            "create-time": 1619153067060,
+            "uid": "LozJc7nFF",
+            "edit-time": 1619153084612,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[7]: \"ウェブマガジン(Web magazine) カムイミンタラ　～北海道の[風土・文化誌](fūdo bunka-shi) ：オホーツク文化人とモヨロ貝塚　網走　流氷とともにやってきた古代民族の謎とロマンに魅せられた父子三代と研究者たち\". __kamuimintara.net__. Retrieved [2019-09-12](http://kamuimintara.net/detail.php?rskey=21198707t01).",
+            "create-time": 1619153201793,
+            "uid": "O0XOkDJqn",
+            "edit-time": 1619158411300,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "UROS6FjDr",
         "edit-time": 1619057539505,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Categories: Ethnic groups in Chinese history | Tungusic peoples | Ancient peoples of China | History of Manchuria",
+        "create-time": 1619158297411,
+        "uid": "UCgInqQkm",
+        "edit-time": 1619158307808,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -78597,6 +78925,150 @@
     ],
     "uid": "czrsAMoA9",
     "edit-time": 1619148589332,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619158583551,
+    "title": "勿吉 (Wuji)",
+    "uid": "OXX209UFf",
+    "edit-time": 1619158583552,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619159548313,
+    "title": "真番 (Zhenfan)",
+    "uid": "IsT0aSkCl",
+    "edit-time": 1619159548314,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619159580069,
+    "title": "诸申 (Zhushen)",
+    "uid": "Pq-Lyxpl2",
+    "edit-time": 1619159580070,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619159986184,
+    "title": "东夷 (Dongyi)",
+    "uid": "dzwAx5BQi",
+    "edit-time": 1619159986185,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619160584921,
+    "title": "陈惠公 (Chen Huigong)",
+    "uid": "ayksS_alv",
+    "edit-time": 1619160584922,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619160650040,
+    "title": "陈国 (Chen State)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[陈惠公 (Chen Huigong)]]",
+        "create-time": 1619160655008,
+        ":block/refs": [
+          {
+            ":block/uid": "ayksS_alv"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ayksS_alv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "0ALVDU0Ya",
+        "edit-time": 1619160657371,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "8Nf-xInf6",
+    "edit-time": 1619160650040,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619160773090,
+    "title": "不咸山 (Buxian Mountain)",
+    "uid": "yi7rWDFcF",
+    "edit-time": 1619160773091,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619160784051,
+    "title": "盖马大山 (Gaima Mountain)",
+    "uid": "9xt7O8c1T",
+    "edit-time": 1619160784051,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619160811632,
+    "title": "徒太山 (Tutai Mountain)",
+    "uid": "WKD0r-gH0",
+    "edit-time": 1619160811633,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619160811632,
+    "title": "长白山",
+    "uid": "umV_yu7nT",
+    "edit-time": 1619160811633,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

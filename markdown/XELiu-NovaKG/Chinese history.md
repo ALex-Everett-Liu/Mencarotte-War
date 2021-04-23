@@ -2,10 +2,12 @@
 - Pre-empire Period of China
     - [[商王朝 (Shang dynasty)]]
     - [[周王朝 (Zhou dynasty)]]; Zhou kingdom
+        - [[陈国 (Chen State)]]
         - [[楚国 (Chu Kingdom)]]
         - [[宋国 (Song State)]]
         - [[春秋时代 (Spring and Autumn period)]]
         - [[西周 (Western Zhou)]]
+    - [[东夷 (Dongyi)]]
 - The First Empire of China
     - [[汉王朝 (Han dynasty)]]
     - [[晋与十六国]]
