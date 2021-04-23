@@ -10,6 +10,7 @@
     - NVIDIA control panel
     - GeForce GTX 1650 -- my device 202011
 - hardware component;
+- [[keyboard]]
 - [[mobile phone]]
     - [[smartphone]]
 - [[processor]]

@@ -17,6 +17,7 @@
     - [[snippet]]
     - [[source code]]
     - throwaway code
+- [[command line]]; [[command-line interface]]; shell; Shell
 - evaluate; evaluation
 - expression
     - arithmetic expression;
@@ -26,6 +27,7 @@
     - [[in-built function]]
     - standard library function
 - [[literate programming]]
+- [[register]]: 寄存器
 - [[regular expression]]; REGEX 
 - [[script]]
 - [[selection]]

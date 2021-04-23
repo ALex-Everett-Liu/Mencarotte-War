@@ -1,5 +1,6 @@
 - drag and drop; drag files
     - flexible drag and drop interface;
+- [[graphical user interface (GUI)]]
 - interactive; dynamic...
     - confirmation box
     - pop-up box;

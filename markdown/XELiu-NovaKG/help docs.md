@@ -1,4 +1,5 @@
-- guide; instruction
+- built-in help facility: 内置帮助工具;
+- guide; instruction; user guide
     - about us
     - guideline
     - README
@@ -9,8 +10,9 @@
 - [[home page]]; homepage; [[main page]];
     - main article
     - [[welcome]]
-- [[manual]]
+- [[manual]]; [[user manual]]
     - reference manual
+- [[Q&A]]; [[FAQ]]
 - [[tip]]
 - [[tutorial]]
     - beginner; from beginner to expert

@@ -1,0 +1,3 @@
+- [[keyboard shortcut]]
+- type; [[typist]]: 打字员 
+    - [[touch typing]]

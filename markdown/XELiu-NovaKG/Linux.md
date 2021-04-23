@@ -1,5 +1,5 @@
 - #inbox
-    - 此事被 Greg 挂出，整个[开源社区][立即炸开了锅](https://www.zhihu.com/question/455891395)。Twitter、Reddit、Hacker News 都在疯狂盖楼中。 #pt9-99.98
+    - 此事被 Greg 挂出，整个[开源社区][立即炸开了锅](https://www.zhihu.com/question/455891395)。Twitter、[[Reddit]]、[[Hacker News]] 都在疯狂盖楼中。 #pt9-99.98
         - 社区认为，明尼苏达大学竟然会让这种研究获得 IRB Exempt，证明学校并不在乎[开源社区]、甚至可能是故意的。
             - 有人分析是[作者隐瞒了]，直接说不是[人类研究]。
             - 那为啥我[这么熟悉]呢，因为读书的时候，有个研究涉及[对实验者拍照]来[建立一个数据库]（就是正常[拍个正脸照]，特别正常）。教授告诉我[一旦涉及到人]，就属于 human subject research，得通过 IRB。于是我就[屁颠屁颠][去参加培训]了。

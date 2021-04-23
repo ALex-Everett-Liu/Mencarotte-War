@@ -1,8 +1,11 @@
 - backend
     - backend plumbing
+- cross-platform development;
+    - port: 移植;
 - general...
     - run asynchronously
     - [[developer]]; software developer; [[software development]]
+- [[Integrated Development Environment (IDE)]]; [[development environment]]
 - iterating; evolving
 - optimization
     - maximize performance

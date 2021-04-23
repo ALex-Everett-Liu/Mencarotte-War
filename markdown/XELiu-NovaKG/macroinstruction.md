@@ -5,5 +5,6 @@
 - invoke
 - lexical token
 - macro expansion
+- [[macros history]]
 - map to a replacement output
 - single program statement

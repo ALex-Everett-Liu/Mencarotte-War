@@ -385,6 +385,16 @@
                         - "This model must be scaled down"
                     - scalar; scalable
                     - [[timescale]];
+            - scr
+                - scrap
+                    - scraping;
+                - scratch
+                    - start from scratch: 从零开始; 从头做起; 白手起家;
+                        - [One can hardly believe that] this [paper mill] 造纸厂 was started from scratch [only a few years ago]. 白手起家 《汉英大词典》
+                        - He started his restaurant from scratch. 百度翻译例句库
+                        - [Offshore oil and gas development] started from scratch. 海上油气开发 club.topsage.com
+                        - He started from scratch and [step by step he made it]. blog.sina.com.cn
+                        - They started from scratch and learned as they went. 边学边干 www.[dictall].com
         - st
             - sta
                 - staff, 2

@@ -1538,6 +1538,26 @@
                 "uid": "gw3Ukk-wI"
               }
             ],
+            "children": [
+              {
+                "string": "[[clipboard]]",
+                "refs": [
+                  {
+                    "uid": "czrsAMoA9"
+                  }
+                ],
+                "uid": "95bTJbQsk",
+                "edit-time": 1619148589330,
+                ":block/refs": [
+                  {
+                    ":block/uid": "czrsAMoA9"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
             "uid": "7R4lIyPc3",
             "edit-time": 1618274981699,
             ":block/refs": [
@@ -5739,6 +5759,34 @@
         }
       },
       {
+        "string": "[[command line]]; [[command-line interface]]; shell; Shell",
+        "create-time": 1619143888634,
+        ":block/refs": [
+          {
+            ":block/uid": "HfRSmhMEX"
+          },
+          {
+            ":block/uid": "YFtpcsTeM"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "HfRSmhMEX"
+          },
+          {
+            "uid": "YFtpcsTeM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "crPwaoO1K",
+        "edit-time": 1619143895535,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "evaluate; evaluation",
         "uid": "hpjOt1VLt",
         "edit-time": 1618883519182,
@@ -5848,6 +5896,28 @@
         },
         "uid": "3M2zAgnpr",
         "edit-time": 1618191561092,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[register]]: 寄存器",
+        "create-time": 1619148224776,
+        ":block/refs": [
+          {
+            ":block/uid": "EuMBK3uRX"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EuMBK3uRX"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "3plo1pRnw",
+        "edit-time": 1619148227510,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -12397,7 +12467,7 @@
             }
           },
           {
-            "string": "[[executable file]]",
+            "string": "[[executable file]]; executable",
             "refs": [
               {
                 "uid": "tCoPTVQjw"
@@ -12436,7 +12506,7 @@
               }
             ],
             "uid": "6W__iL4cI",
-            "edit-time": 1618180409542,
+            "edit-time": 1619147703990,
             ":block/refs": [
               {
                 ":block/uid": "tCoPTVQjw"
@@ -20426,6 +20496,118 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "scr",
+                    "create-time": 1619148907819,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "scrap",
+                        "children": [
+                          {
+                            "string": "scraping;",
+                            "uid": "AxW425DZ0",
+                            "edit-time": 1619148909504,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "B8BhJpMyx",
+                        "edit-time": 1619148909504,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "scratch",
+                        "children": [
+                          {
+                            "string": "start from scratch: 从零开始; 从头做起; 白手起家;",
+                            "children": [
+                              {
+                                "string": "[One can hardly believe that] this [paper mill] 造纸厂 was started from scratch [only a few years ago]. 白手起家 《汉英大词典》",
+                                "create-time": 1619148920611,
+                                "uid": "mnRXrqVDd",
+                                "edit-time": 1619148942494,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "He started his restaurant from scratch. 百度翻译例句库",
+                                "create-time": 1619148920611,
+                                "uid": "82q-TrRt8",
+                                "edit-time": 1619148920616,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "[Offshore oil and gas development] started from scratch. 海上油气开发 club.topsage.com",
+                                "create-time": 1619148920611,
+                                "uid": "kI9swS3Al",
+                                "edit-time": 1619148954108,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "He started from scratch and [step by step he made it]. blog.sina.com.cn",
+                                "create-time": 1619148920611,
+                                "uid": "BZxSAlIuX",
+                                "edit-time": 1619148959126,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              },
+                              {
+                                "string": "They started from scratch and learned as they went. 边学边干 www.[dictall].com",
+                                "create-time": 1619148920611,
+                                "uid": "islYJpFw7",
+                                "edit-time": 1619148926304,
+                                ":create/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "gt-It65vy",
+                            "edit-time": 1619148968825,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "b9k1SUl0P",
+                        "edit-time": 1619148909504,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "7LaHSuSKk",
+                    "edit-time": 1619148908491,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "cCKmPY6J6",
@@ -28106,6 +28288,24 @@
         "string": "hardware component;",
         "uid": "41-wxSmnM",
         "edit-time": 1618802659401,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[keyboard]]",
+        "refs": [
+          {
+            "uid": "vFCmPyJGz"
+          }
+        ],
+        "uid": "_ViybS1bl",
+        "edit-time": 1619145705531,
+        ":block/refs": [
+          {
+            ":block/uid": "vFCmPyJGz"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -48493,6 +48693,18 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "most popular;",
+            "create-time": 1619144615684,
+            "uid": "YQk6UYK89",
+            "edit-time": 1619144616660,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "07RyVauz2",
@@ -48701,23 +48913,51 @@
             }
           },
           {
-            "string": "[[GPL]]",
-            "create-time": 1618187330617,
-            ":block/refs": [
-              {
-                ":block/uid": "sTn9YwnYj"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "sTn9YwnYj"
-              }
-            ],
+            "string": "distribution of modified copies",
+            "create-time": 1619144223035,
+            "uid": "E3vKXkDJ4",
+            "edit-time": 1619144223947,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "Ge4EAOH8f",
-            "edit-time": 1618187334063,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[GNU]]",
+            "refs": [
+              {
+                "uid": "cNm7gwmpR"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[General Public License (GPL)]]; GNU GPL",
+                "refs": [
+                  {
+                    "uid": "rT40uml2h"
+                  }
+                ],
+                "uid": "0EOOLRHEz",
+                "edit-time": 1619144177578,
+                ":block/refs": [
+                  {
+                    ":block/uid": "rT40uml2h"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Z5Fsf_VZ8",
+            "edit-time": 1619144179875,
+            ":block/refs": [
+              {
+                ":block/uid": "cNm7gwmpR"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -48731,9 +48971,9 @@
             }
           },
           {
-            "string": "open-source",
+            "string": "open-source; open-source software",
             "uid": "bzCWaTAnR",
-            "edit-time": 1618140613020,
+            "edit-time": 1619144011984,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -51516,14 +51756,60 @@
         }
       },
       {
-        "string": "[[development community]]",
+        "string": "[[development community]]; technology community",
         "refs": [
           {
             "uid": "FsUSO1pbe"
           }
         ],
+        "children": [
+          {
+            "string": "[[Hacker News]]",
+            "create-time": 1619144517998,
+            ":block/refs": [
+              {
+                ":block/uid": "nCFB8JyyL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "nCFB8JyyL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "iKx_Otw8k",
+            "edit-time": 1619144520380,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Stack Overflow]]",
+            "create-time": 1619144490369,
+            ":block/refs": [
+              {
+                ":block/uid": "f2-7O3icr"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "f2-7O3icr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "kRa-kLRtu",
+            "edit-time": 1619144495917,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "s8osJj7C_",
-        "edit-time": 1618179381759,
+        "edit-time": 1619144490202,
         ":block/refs": [
           {
             ":block/uid": "FsUSO1pbe"
@@ -52202,7 +52488,19 @@
     },
     "children": [
       {
-        "string": "guide; instruction",
+        "string": "built-in help facility: 内置帮助工具;",
+        "create-time": 1619148040058,
+        "uid": "PyZoLXNZr",
+        "edit-time": 1619148041156,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "guide; instruction; user guide",
         "children": [
           {
             "string": "about us",
@@ -52250,7 +52548,7 @@
           }
         ],
         "uid": "I5j5DUlIi",
-        "edit-time": 1618192860250,
+        "edit-time": 1619147883414,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -52334,10 +52632,13 @@
         }
       },
       {
-        "string": "[[manual]]",
+        "string": "[[manual]]; [[user manual]]",
         "refs": [
           {
             "uid": "MT6w0dc9g"
+          },
+          {
+            "uid": "X63uVWuym"
           }
         ],
         "children": [
@@ -52351,12 +52652,43 @@
           }
         ],
         "uid": "Wt_CSSmPV",
-        "edit-time": 1618192873369,
+        "edit-time": 1619147868637,
         ":block/refs": [
           {
             ":block/uid": "MT6w0dc9g"
+          },
+          {
+            ":block/uid": "X63uVWuym"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Q&A]]; [[FAQ]]",
+        "create-time": 1619147858407,
+        ":block/refs": [
+          {
+            ":block/uid": "EcOxODBNj"
+          },
+          {
+            ":block/uid": "cF-P2jnwm"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EcOxODBNj"
+          },
+          {
+            "uid": "cF-P2jnwm"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "qxrTSZmbh",
+        "edit-time": 1619147863633,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -54317,7 +54649,7 @@
         "edit-time": 1619090793856,
         "children": [
           {
-            "edit-time": 1619093184592,
+            "edit-time": 1619144529630,
             "children": [
               {
                 "string": "社区认为，明尼苏达大学竟然会让这种研究获得 IRB Exempt，证明学校并不在乎[开源社区]、甚至可能是故意的。",
@@ -54435,15 +54767,27 @@
             "refs": [
               {
                 "uid": "oVxMsq163"
+              },
+              {
+                "uid": "Qk1lvYs_X"
+              },
+              {
+                "uid": "nCFB8JyyL"
               }
             ],
             "uid": "BHjcfF58e",
             ":block/refs": [
               {
                 ":block/uid": "oVxMsq163"
+              },
+              {
+                ":block/uid": "Qk1lvYs_X"
+              },
+              {
+                ":block/uid": "nCFB8JyyL"
               }
             ],
-            "string": "此事被 Greg 挂出，整个[开源社区][立即炸开了锅](https://www.zhihu.com/question/455891395)。Twitter、Reddit、Hacker News 都在疯狂盖楼中。 #pt9-99.98",
+            "string": "此事被 Greg 挂出，整个[开源社区][立即炸开了锅](https://www.zhihu.com/question/455891395)。Twitter、[[Reddit]]、[[Hacker News]] 都在疯狂盖楼中。 #pt9-99.98",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -56328,6 +56672,32 @@
         }
       },
       {
+        "string": "cross-platform development;",
+        "create-time": 1619144821667,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "port: 移植;",
+            "create-time": 1619149043040,
+            "uid": "2eRLaC7kk",
+            "edit-time": 1619149044402,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "hp1--zq9P",
+        "edit-time": 1619144822584,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "general...",
         "children": [
           {
@@ -56365,6 +56735,34 @@
         ],
         "uid": "JWQztBK0a",
         "edit-time": 1619081962998,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Integrated Development Environment (IDE)]]; [[development environment]]",
+        "create-time": 1619144735502,
+        ":block/refs": [
+          {
+            ":block/uid": "AbAqr3euy"
+          },
+          {
+            ":block/uid": "GghCDFWjw"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "AbAqr3euy"
+          },
+          {
+            "uid": "GghCDFWjw"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "0Y-Boe8Xh",
+        "edit-time": 1619144742432,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -56818,6 +57216,34 @@
     },
     "children": [
       {
+        "string": "auto-complete",
+        "children": [
+          {
+            "string": "[[keyword completion]]",
+            "refs": [
+              {
+                "uid": "bhlLLjQNp"
+              }
+            ],
+            "uid": "FcQaT0Gee",
+            "edit-time": 1619148410151,
+            ":block/refs": [
+              {
+                ":block/uid": "bhlLLjQNp"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "StYaTBcu9",
+        "edit-time": 1619148405843,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "automate; automation; 自动化;",
         "uid": "h7upWPli3",
         "edit-time": 1618281153882,
@@ -56943,6 +57369,28 @@
         "string": "macro expansion",
         "uid": "Opkg8QiIr",
         "edit-time": 1618283528521,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[macros history]]",
+        "create-time": 1619148636777,
+        ":block/refs": [
+          {
+            ":block/uid": "A7u192Yht"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "A7u192Yht"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "L3Xe9vIfc",
+        "edit-time": 1619148638534,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -69583,6 +70031,28 @@
         }
       },
       {
+        "string": "[[graphical user interface (GUI)]]",
+        "create-time": 1619143777378,
+        ":block/refs": [
+          {
+            ":block/uid": "0a6RlDFrH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0a6RlDFrH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "aZY6tZlV-",
+        "edit-time": 1619143779315,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "interactive; dynamic...",
         "children": [
           {
@@ -71707,11 +72177,509 @@
   {
     "create-time": 1619010679798,
     "title": "Vim (Vi IMproved)",
-    "uid": "D-d_mCX9v",
-    "edit-time": 1619010679799,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "edit-time": 1619148756088,
+        "children": [
+          {
+            "string": "Since its release for the Amiga, [cross-platform development](((hp1--zq9P))) has [made it available on many other systems]. In 2006, [it was voted the most popular editor](((YQk6UYK89))) amongst [[Linux Journal]] readers;[6](((w_WMEUOtY))) in 2015 the [[Stack Overflow]] [developer survey] found it to be [the third most popular text editor],[7] and in 2019 the fifth most popular [[development environment]].[8](((lB8p0mLVS)))\n210423-10:25",
+            "create-time": 1619143637982,
+            ":block/refs": [
+              {
+                ":block/uid": "1mIJhtCxS"
+              },
+              {
+                ":block/uid": "f2-7O3icr"
+              },
+              {
+                ":block/uid": "AbAqr3euy"
+              },
+              {
+                ":block/uid": "YQk6UYK89"
+              },
+              {
+                ":block/uid": "hp1--zq9P"
+              },
+              {
+                ":block/uid": "w_WMEUOtY"
+              },
+              {
+                ":block/uid": "lB8p0mLVS"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "1mIJhtCxS"
+              },
+              {
+                "uid": "f2-7O3icr"
+              },
+              {
+                "uid": "AbAqr3euy"
+              },
+              {
+                "uid": "YQk6UYK89"
+              },
+              {
+                "uid": "hp1--zq9P"
+              },
+              {
+                "uid": "w_WMEUOtY"
+              },
+              {
+                "uid": "lB8p0mLVS"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "qSiXHre-r",
+            "edit-time": 1619149602999,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "bzCWaTAnR"
+          },
+          {
+            "uid": "HfRSmhMEX"
+          },
+          {
+            "uid": "0a6RlDFrH"
+          },
+          {
+            "uid": "rT40uml2h"
+          },
+          {
+            "uid": "E3vKXkDJ4"
+          },
+          {
+            "uid": "ULTmBQ4Sk"
+          },
+          {
+            "uid": "Y-f7W6FxD"
+          }
+        ],
+        "uid": "7Z1CFOqje",
+        ":block/refs": [
+          {
+            ":block/uid": "bzCWaTAnR"
+          },
+          {
+            ":block/uid": "HfRSmhMEX"
+          },
+          {
+            ":block/uid": "0a6RlDFrH"
+          },
+          {
+            ":block/uid": "rT40uml2h"
+          },
+          {
+            ":block/uid": "E3vKXkDJ4"
+          },
+          {
+            ":block/uid": "ULTmBQ4Sk"
+          },
+          {
+            ":block/uid": "Y-f7W6FxD"
+          }
+        ],
+        "string": "Vim (/vɪm/;[2](((ULTmBQ4Sk))) a contraction of Vi IMproved) is a clone, with additions, of Bill Joy's [vi text editor program] for Unix. Vim's author, Bram Moolenaar, [based it on the source code] for a port of the Stevie editor to the Amiga[3](((Y-f7W6FxD))) and [released a version to the public] in 1991. Vim is [designed for use] both from a [[command-line interface]] and [as a standalone application] in a [[graphical user interface (GUI)]]. Vim is [free and open-source software](((bzCWaTAnR))) and is [released under a license that] includes some [charityware clauses], 慈善软件条款 encouraging [users who enjoy the software] to consider [donating to children in Uganda].[4] The license is compatible with the GNU [[General Public License (GPL)]] [through a special clause] [allowing distribution of modified copies](((E3vKXkDJ4))) \"under the [GNU GPL version 2] [or any later version]\".[5]\n210423-10:14",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619143640229,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Interface",
+        "create-time": 1619144931867,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1619149662571,
+            "children": [
+              {
+                "string": "Graphical Vim (gVim) under GTK+ 2.",
+                "create-time": 1619148264301,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "![gvim-01](https://upload.wikimedia.org/wikipedia/commons/2/28/Vim.png)",
+                    "props": {
+                      "image-size": {
+                        "https://upload.wikimedia.org/wikipedia/commons/2/28/Vim.png": {
+                          "width": 473,
+                          "height": null
+                        }
+                      }
+                    },
+                    "create-time": 1619148301710,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://upload.wikimedia.org/wikipedia/commons/2/28/Vim.png": {
+                          ":width": 473,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "6hMw6B_Il",
+                    "edit-time": 1619148309639,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[en:Screenshot] of graphical [vim](https://en.wikipedia.org/wiki/File:Vim.png) (gvim) showing __keyword completion__. #[[keyword completion]]\n210423-11:27",
+                    "create-time": 1619148344698,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "bhlLLjQNp"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "bhlLLjQNp"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "Gqax160hB",
+                    "edit-time": 1619148459225,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "8l7LLyeb-",
+                "edit-time": 1619148266611,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rOCidNBG5"
+              },
+              {
+                "uid": "WqQsuHlwT"
+              },
+              {
+                "uid": "nB3v_AiwT"
+              },
+              {
+                "uid": "PfGcTwPtd"
+              },
+              {
+                "uid": "_mPPynaVt"
+              },
+              {
+                "uid": "LktPw8BX3"
+              },
+              {
+                "uid": "X8FHXPxIu"
+              }
+            ],
+            "uid": "keLgwnRpp",
+            ":block/refs": [
+              {
+                ":block/uid": "rOCidNBG5"
+              },
+              {
+                ":block/uid": "WqQsuHlwT"
+              },
+              {
+                ":block/uid": "nB3v_AiwT"
+              },
+              {
+                ":block/uid": "PfGcTwPtd"
+              },
+              {
+                ":block/uid": "_mPPynaVt"
+              },
+              {
+                ":block/uid": "LktPw8BX3"
+              },
+              {
+                ":block/uid": "X8FHXPxIu"
+              }
+            ],
+            "string": "Like vi, Vim's interface is not based on [[menu]]s or [[icon]]s but on [commands given in a text user interface]; its [GUI mode], gVim, adds menus and [[toolbar]]s for [commonly used commands] but the [full functionality](((rOCidNBG5))) is still expressed through its [command line mode]. Vi (and by extension Vim) tends to [allow a typist to]([[typist]]) [keep their fingers on the home row], 放在第一排 which [can be an advantage for] a [touch typist]([[touch typing]]).[29](((X8FHXPxIu)))\n210423-10:41",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619144942734,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1619147971126,
+            "children": [
+              {
+                "string": "Vim also has a [built-in help facility](((PyZoLXNZr))) (using the `:help` command) that [allows users to] [query and navigate through commands and features].\n210423-11:20",
+                "create-time": 1619144932242,
+                ":block/refs": [
+                  {
+                    ":block/uid": "PyZoLXNZr"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "PyZoLXNZr"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "qTiLAjQas",
+                "edit-time": 1619148073747,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "6W__iL4cI"
+              },
+              {
+                "uid": "EcOxODBNj"
+              },
+              {
+                "uid": "X63uVWuym"
+              },
+              {
+                "uid": "bzEKROhtZ"
+              }
+            ],
+            "uid": "dpkYwf6ny",
+            ":block/refs": [
+              {
+                ":block/uid": "6W__iL4cI"
+              },
+              {
+                ":block/uid": "EcOxODBNj"
+              },
+              {
+                ":block/uid": "X63uVWuym"
+              },
+              {
+                ":block/uid": "bzEKROhtZ"
+              }
+            ],
+            "string": "Vim has a [built-in tutorial for beginners] called vimtutor. It's usually [installed along with Vim], but it [exists as a separate executable](((6W__iL4cI))) and [can be run with a shell command]([[shell command]]).[30] There is also the Vim [Users' Manual]([[user manual]]) that [details Vim's features] and a [[FAQ]]. This manual [can be read from within Vim], or [found online].[31][32]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619144941729,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1619148684641,
+            "children": [
+              {
+                "string": "Search (grep) inside Vim across files on disk, [without plugins](https://en.wikipedia.org/wiki/File:Vim-search-copen-quickfix.png)",
+                "create-time": 1619148475912,
+                "uid": "bZuV1luf0",
+                "edit-time": 1619148522735,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "EuMBK3uRX"
+              },
+              {
+                "uid": "ygOprxdij"
+              },
+              {
+                "uid": "A7u192Yht"
+              }
+            ],
+            "uid": "H6H8-BygF",
+            ":block/refs": [
+              {
+                ":block/uid": "EuMBK3uRX"
+              },
+              {
+                ":block/uid": "ygOprxdij"
+              },
+              {
+                ":block/uid": "A7u192Yht"
+              }
+            ],
+            "string": "[Vim 8.2](https://en.wikipedia.org/wiki/File:Vim-opened-files-and-registers.png) -- Code at the top (Go), opened files, [[register]]s (\"[[clipboard manager]]\" and [[macros history]])\n210423-11:32",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619148113447,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "IqXjdWKwc",
+        "edit-time": 1619144932278,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "References",
+        "create-time": 1619148657075,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[2]: [Vim documentation: intro](https://vimhelp.org/intro.txt.html): \"Vim is pronounced as one word, like Jim, not vi-ai-em. It's written with a capital, since it's a name, again like Jim.\"",
+            "create-time": 1619148657491,
+            "uid": "ULTmBQ4Sk",
+            "edit-time": 1619148666309,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[3]: Zapletal, Lukáš (18 April 2005), [\"Interview: Bram Moolenaar\"](http://www.linuxexpres.cz/rozhovor/rozhovor-bram-moolenaar?highlightWords=Bram+moolenaar), __LinuxEXPRES__: 21–22, retrieved 5 February2015, Is VIM derivate of other [VI clone] or you [started from scratch](((gt-It65vy)))? I started with Stevie. This was a Vi clone for the [Atari ST computer], [ported to the Amiga](((2eRLaC7kk))). [It had quite a lot of problems] and [could not do everything] that Vi could, but [since the source code was available] [I could fix that myself]. ([English translation](http://www.moolenaar.net/interv_czech_en.html))\n210423-11:38",
+            "create-time": 1619148731330,
+            ":block/refs": [
+              {
+                ":block/uid": "gt-It65vy"
+              },
+              {
+                ":block/uid": "2eRLaC7kk"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "gt-It65vy"
+              },
+              {
+                "uid": "2eRLaC7kk"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Y-f7W6FxD",
+            "edit-time": 1619149093780,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[6]: [\"Linux Journal: 2003 Readers' Choice Awards\"](http://www.linuxjournal.com/article/7029#N0x850ca10.0x85cf4c4). 1 November 2003. Retrieved 24 May 2006.; [\"Linux Journal: 2004 Readers' Choice Awards\"](http://www.linuxjournal.com/article/7724#N0x850cd80.0x85d3e3c). 1 November 2004. Retrieved 24 May 2006.; [\"Linux Journal: 2005 Readers' Choice Awards\"](http://www.linuxjournal.com/article/8520#N0x850cd80.0x87983bc). 28 September 2005. Retrieved 24 May 2006.",
+            "create-time": 1619149556249,
+            "uid": "w_WMEUOtY",
+            "edit-time": 1619149558458,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[8]: [\"Stack Overflow Developer Survey 2019 Results\"](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools). Stack Overflow § VII. Development Environments. Retrieved 20 July2019.",
+            "create-time": 1619149584075,
+            "uid": "lB8p0mLVS",
+            "edit-time": 1619149591788,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[29]: Lamb, Linda; Robbins, Arnold (1998). [__Learning the Vi Editor__]. [O'Reilly Media, Inc.](https://archive.org/details/learningvieditor00lamb/page/305) p. [305](https://archive.org/details/learningvieditor00lamb/page/305). [ISBN] [9781565924260](https://en.wikipedia.org/wiki/Special:BookSources/9781565924260).",
+            "create-time": 1619149626790,
+            "uid": "X8FHXPxIu",
+            "edit-time": 1619149648601,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "F2gBahAb0",
+        "edit-time": 1619148657498,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "External links",
+        "create-time": 1619149676427,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[TechTalk by Bram Moolenaar held on 25th Anniversary of first vim release](https://www.youtube.com/watch?v=ayc_qpB-93o) on [YouTube]",
+            "create-time": 1619149676917,
+            "uid": "zHU3t-7NO",
+            "edit-time": 1619149691817,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The Wikibook [Learning the vi Editor](https://en.wikibooks.org/wiki/Learning_the_vi_Editor) [has a page on the topic of]: __**[Vim]**__",
+            "create-time": 1619149701983,
+            "uid": "RfxrrCVb8",
+            "edit-time": 1619149735287,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ooBH-DmWZ",
+        "edit-time": 1619149676922,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "D-d_mCX9v",
+    "edit-time": 1619010679799,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -77086,11 +78054,549 @@
   {
     "create-time": 1619142586501,
     "title": "April 23rd, 2021",
-    "uid": "04-23-2021",
-    "edit-time": 1619142586501,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Vim (Vi IMproved)]]\n210423-11am",
+        "create-time": 1619148702084,
+        ":block/refs": [
+          {
+            ":block/uid": "D-d_mCX9v"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "D-d_mCX9v"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "HBEHBlQxD",
+        "edit-time": 1619148707442,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "04-23-2021",
+    "edit-time": 1619142586501,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619143711712,
+    "title": "command-line interface",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Command Prompt",
+        "children": [
+          {
+            "string": "cmd",
+            "children": [
+              {
+                "string": "system32/cmd.exe",
+                "uid": "L27x4hflF",
+                "edit-time": 1619143911461,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "qgClApshu",
+            "edit-time": 1619143911461,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "RYAAZimH_",
+        "edit-time": 1619143911461,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((aZY6tZlV-))",
+        "create-time": 1619145400346,
+        ":block/refs": [
+          {
+            ":block/uid": "aZY6tZlV-"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "aZY6tZlV-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "CoDNL6WKG",
+        "edit-time": 1619145401263,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "prompt; prompted",
+        "uid": "aktBqHHJT",
+        "edit-time": 1619143911461,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[shell command]]",
+        "create-time": 1619147959618,
+        ":block/refs": [
+          {
+            ":block/uid": "bzEKROhtZ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "bzEKROhtZ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "1HMGBP94w",
+        "edit-time": 1619147962996,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Terminal",
+        "uid": "EwvRBntzq",
+        "edit-time": 1619143911461,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Win + R",
+        "uid": "HXwYcgoUN",
+        "edit-time": 1619143911461,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Windows PowerShell]]",
+        "refs": [
+          {
+            "uid": "DFUGT2mZj"
+          }
+        ],
+        "uid": "TtlTY4O6C",
+        "edit-time": 1619143917472,
+        ":block/refs": [
+          {
+            ":block/uid": "DFUGT2mZj"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "HfRSmhMEX",
+    "edit-time": 1619143711713,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619143732486,
+    "title": "graphical user interface (GUI)",
+    "uid": "0a6RlDFrH",
+    "edit-time": 1619143732486,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619143895538,
+    "title": "command line",
+    "uid": "YFtpcsTeM",
+    "edit-time": 1619143895538,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619143917474,
+    "title": "Windows PowerShell",
+    "uid": "DFUGT2mZj",
+    "edit-time": 1619143917475,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144150155,
+    "title": "General Public License (GPL)",
+    "uid": "rT40uml2h",
+    "edit-time": 1619144150156,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144179877,
+    "title": "GNU",
+    "uid": "cNm7gwmpR",
+    "edit-time": 1619144179877,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144399650,
+    "title": "Linux Journal",
+    "uid": "1mIJhtCxS",
+    "edit-time": 1619144399658,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144399650,
+    "title": "Stack Overflow",
+    "uid": "f2-7O3icr",
+    "edit-time": 1619144399658,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144515368,
+    "title": "Hacker News",
+    "uid": "nCFB8JyyL",
+    "edit-time": 1619144515369,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144581886,
+    "title": "development environment",
+    "uid": "AbAqr3euy",
+    "edit-time": 1619144581886,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144742434,
+    "title": "Integrated Development Environment (IDE)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "file editor window",
+        "uid": "RtpCD8BNQ",
+        "edit-time": 1619144768946,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Integrated Development and Learning Environment (IDLE)]]",
+        "refs": [
+          {
+            "uid": "y52hS-C-h"
+          }
+        ],
+        "uid": "TYzyBy5Qt",
+        "edit-time": 1619144774862,
+        ":block/refs": [
+          {
+            ":block/uid": "y52hS-C-h"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Mu Editor",
+        "uid": "909yaUucC",
+        "edit-time": 1619144768946,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "GghCDFWjw",
+    "edit-time": 1619144742434,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619144774869,
+    "title": "Integrated Development and Learning Environment (IDLE)",
+    "uid": "y52hS-C-h",
+    "edit-time": 1619144774870,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619145610876,
+    "title": "touch typing",
+    "uid": "_mPPynaVt",
+    "edit-time": 1619145610878,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619145667911,
+    "title": "typist",
+    "uid": "LktPw8BX3",
+    "edit-time": 1619145667912,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619145705533,
+    "title": "keyboard",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((5LF_BgoR9))",
+        "create-time": 1619145726635,
+        ":block/refs": [
+          {
+            ":block/uid": "5LF_BgoR9"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "5LF_BgoR9"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "j_GiXrfrY",
+        "edit-time": 1619145727527,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "type; [[typist]]: 打字员 ",
+        "refs": [
+          {
+            "uid": "LktPw8BX3"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[touch typing]]",
+            "refs": [
+              {
+                "uid": "_mPPynaVt"
+              }
+            ],
+            "uid": "IVLneAdaH",
+            "edit-time": 1619145749937,
+            ":block/refs": [
+              {
+                ":block/uid": "_mPPynaVt"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "baEWZWz1U",
+        "edit-time": 1619145780528,
+        ":block/refs": [
+          {
+            ":block/uid": "LktPw8BX3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "vFCmPyJGz",
+    "edit-time": 1619145705533,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619147799364,
+    "title": "FAQ",
+    "uid": "EcOxODBNj",
+    "edit-time": 1619147799364,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619147863636,
+    "title": "Q&A",
+    "uid": "cF-P2jnwm",
+    "edit-time": 1619147863636,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619147868640,
+    "title": "user manual",
+    "uid": "X63uVWuym",
+    "edit-time": 1619147868640,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619147962999,
+    "title": "shell command",
+    "uid": "bzEKROhtZ",
+    "edit-time": 1619147963000,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619148242943,
+    "title": "clipboard manager",
+    "uid": "ygOprxdij",
+    "edit-time": 1619148242944,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619148242943,
+    "title": "macros history",
+    "uid": "A7u192Yht",
+    "edit-time": 1619148242944,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619148365763,
+    "title": "keyword completion",
+    "uid": "bhlLLjQNp",
+    "edit-time": 1619148365764,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619148589331,
+    "title": "clipboard",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[clipboard manager]]",
+        "create-time": 1619148593972,
+        ":block/refs": [
+          {
+            ":block/uid": "ygOprxdij"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ygOprxdij"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "uCvTxi9NW",
+        "edit-time": 1619148596417,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "czrsAMoA9",
+    "edit-time": 1619148589332,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

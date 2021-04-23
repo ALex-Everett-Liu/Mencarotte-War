@@ -1,5 +1,7 @@
 - community project
-- [[development community]]
+- [[development community]]; technology community
+    - [[Hacker News]]
+    - [[Stack Overflow]]
 - [[forum]]
     - 2ch
     - 4chan

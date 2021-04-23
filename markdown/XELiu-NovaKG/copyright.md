@@ -4,9 +4,11 @@
 - license...
     - Creative Commons license
     - [[free license]]; [[free software]]
-    - [[GPL]]
+    - distribution of modified copies
+    - [[GNU]]
+        - [[General Public License (GPL)]]; GNU GPL
     - maintain the system
-    - open-source
+    - open-source; open-source software
 - [[permission]]; [[grant right]]
 - [[public domain]]
 - reusing content

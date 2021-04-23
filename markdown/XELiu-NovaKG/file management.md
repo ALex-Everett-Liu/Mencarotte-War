@@ -21,7 +21,7 @@
         - multiple documents;
         - pdf; PDF;
         - [[plain text]]
-    - [[executable file]]
+    - [[executable file]]; executable
         - execute; run
         - executing code
     - [[import]]; [[export]]

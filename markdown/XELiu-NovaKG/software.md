@@ -5,6 +5,7 @@
     - function; [[functionality]]; functionalities
 - file operation
     - [[copy and paste]]; copy/pasting
+        - [[clipboard]]
     - [[save and load]]
 - [[file structure]]
 - general...
