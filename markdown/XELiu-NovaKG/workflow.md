@@ -7,5 +7,6 @@
 - mental cost?
     - learning cost;
     - 打断思路
+- [[quantified self movement]] (量化自我运动)
 - [[template]]
 - subconsciously learnable flow

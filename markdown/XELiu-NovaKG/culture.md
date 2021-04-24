@@ -2,6 +2,7 @@
 - [[moral panic]]
 - [[popular culture]]
 - [[social activity]]
+- [[sports]]
 - 民俗
     - 迷信
         - auspicious sign

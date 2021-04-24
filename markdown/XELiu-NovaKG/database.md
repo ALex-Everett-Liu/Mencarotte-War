@@ -1,17 +1,21 @@
 - [[graph database]]
     - [[directed graph]]
 - [[field]]: 域, 字段; [[data field]]
-- form: 表单
+- [[form]]: 表单
     - form instance;
 - [[list]]
     - make list; [[list management]]
     - sequence
 - namespace
+- record; 行属性
 - [[SQL]]
     - OQL
 - [[table]]
     - [[spreadsheet]]
         - spreadsheet cell
-    - [[Excel]]
+    - [[Excel]]; [[Microsoft Excel]]
         - Excel-like
-- view type
+    - [[Google Sheets]]
+- [[view]]
+    - [[calendar view]]
+    - view type

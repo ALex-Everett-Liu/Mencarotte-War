@@ -15,6 +15,9 @@
     - [[moodboard]]
         - collect inspiration
         - visual material
+- database table?
+    - [[Airtable]]
+    - [[Note-taking/Notion]]
 - innovation!
     - [[Roam Research]]
 - [[markdown]]; [[Markdown]]

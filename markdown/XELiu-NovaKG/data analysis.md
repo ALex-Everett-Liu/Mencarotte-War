@@ -1,3 +1,5 @@
+- [[data collection]]
+- [[data generator]]
 - extracting data; extract information
 - plot...
     - ray-fan plot

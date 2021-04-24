@@ -1,0 +1,6 @@
+- dictionary 
+    - data capture; 
+    - [Smartphone-based data collection] [comes at an appropriate time] [in the evolution of] [psychological science]. 六级真题- 2018年 12月 3卷 阅读B
+    - Research on a Tool for [Collecting and Analyzing] [Web Client] [User Behavior Data]. dict.cnki.net
+    - [It paves the way to] [monitor harmonic in real time] 电网谐波的实时监控 together with [SCADA (Supervisory Control and Data Acquisition)] system. 
+    - The Research of [Data-gathering Through Internet] by Using the Replication of [SQL Server 7.0].
