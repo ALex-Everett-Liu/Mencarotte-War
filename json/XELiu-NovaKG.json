@@ -18683,6 +18683,96 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "fo",
+                "create-time": 1619271577341,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "for",
+                    "create-time": 1619271578120,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "form",
+                        "create-time": 1619271579627,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "children": [
+                          {
+                            "string": "[[formula]], 2",
+                            "refs": [
+                              {
+                                "uid": "19zRiba0a"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "formulate; formulated; formulation; formulize",
+                                "children": [
+                                  {
+                                    "string": "elaborate, as of theories and hypotheses;",
+                                    "children": [
+                                      {
+                                        "string": "Could you develop the ideas in your thesis",
+                                        "uid": "Vb7OjXAS4",
+                                        "edit-time": 1619271582372,
+                                        ":edit/user": {
+                                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "dPxP1p7b3",
+                                    "edit-time": 1619271582372,
+                                    ":edit/user": {
+                                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                    }
+                                  }
+                                ],
+                                "uid": "v2s5KlKpa",
+                                "edit-time": 1619271589202,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "Yo35yS1zz",
+                            "edit-time": 1619271591724,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "19zRiba0a"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "hETWb879r",
+                        "edit-time": 1619271581642,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "pt_xC6z4E",
+                    "edit-time": 1619271579634,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "NwmkFzIKw",
+                "edit-time": 1619271578127,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "7ofKH5use",
@@ -28607,6 +28697,24 @@
     },
     "children": [
       {
+        "string": "[[Apple Company]]",
+        "refs": [
+          {
+            "uid": "yXADm7ddy"
+          }
+        ],
+        "uid": "bibcU57XJ",
+        "edit-time": 1619273330807,
+        ":block/refs": [
+          {
+            ":block/uid": "yXADm7ddy"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "computer monitor",
         "uid": "66YeinBuV",
         "edit-time": 1618802600143,
@@ -30892,13 +31000,49 @@
             }
           },
           {
-            "string": "回到主题，明朝在东南亚[建立宗藩圈]的努力[贯穿洪武和永乐两朝]，[洪武年间]朱元璋就试图在东南亚建立[以明朝为宗主]的[宗藩关系]，但是朱元璋的[成果很少]，甚至可以说[比较失败]，至朱元璋死，[东南亚诸国]与明朝建立宗藩关系的也没几个，马六甲以西与西洋诸国的航路亦没有打开，西洋诸国的香料、象牙等物资很难贩运到明朝，或需要经过暹罗等二道贩子才能到明。直到朱棣上来后做了2件大事，一是郑和下西洋，二是征安南，通过这2件事耀兵于海外才最终打通并完全控制了西洋海路，明朝在东南亚的宗主地位和外交体系直到西方殖民者的到来才被打破。",
-            "create-time": 1619269242996,
+            "edit-time": 1619269602748,
+            "children": [
+              {
+                "string": "为什么朱元璋比较失败？因为当时的[马六甲海峡]有一个[满者伯夷]，即[爪哇王朝]，他作为当时的[南海霸主]，已经在[南海地区]建立了他自己的一个[宗藩势力范围]。其势力范围包括了苏门答腊岛、马来半岛、婆罗洲、巴厘、望加锡、班达群岛、马鲁古群岛等。如果用今天的地图来表示，即是说[其势力范围囊括了]今天的马来西亚新加坡和印度尼西亚群岛的大部分地区。大致就是下面这一块。",
+                "create-time": 1619269310423,
+                "uid": "fKKnrbC4y",
+                "edit-time": 1619269558314,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "虽然在此次下西洋途中因为[爪哇东西王的内战]误杀了明朝登陆的将士，但郑和[对此表现了克制]，与南海这个强国爪哇[直接起冲突][并不符合明朝利益]。对明朝而言，夺取南海至西洋诸国的海路和[贸易主导权]，并建立东南亚以明朝为中心的[宗藩国际秩序]才是目的。要注意，此次事件爪哇一开始并没有[遣使谢罪]，直到郑和[第二次下西洋]时，[挟攻灭安南的兵威][直接警告][爪哇西王]。",
+                "create-time": 1619269353868,
+                "uid": "OfY36jU_v",
+                "edit-time": 1619269594446,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "tTmjsa2of"
+              }
+            ],
             "uid": "3Ys3hx7g5",
-            "edit-time": 1619269267357,
+            ":block/refs": [
+              {
+                ":block/uid": "tTmjsa2of"
+              }
+            ],
+            "string": "回到主题，明朝在东南亚[建立宗藩圈]的努力[贯穿洪武和永乐两朝]，[洪武年间]朱元璋就试图在东南亚建立[以明朝为宗主]的[宗藩关系]，但是朱元璋的[成果很少]，甚至可以说[比较失败]，至朱元璋死，[东南亚诸国]与明朝建立宗藩关系的也没几个，马六甲以西[与西洋诸国的航路]亦没有打开，[西洋诸国]的香料、象牙等物资[很难贩运到]明朝，或需要经过暹罗等[二道贩子]才能到明。直到朱棣上来后[做了2件大事]，一是郑和下西洋，二是[征安南]，通过这2件事[耀兵于海外]才最终打通并完全控制了[西洋海路]，明朝在东南亚的[宗主地位]和[外交体系][直到西方殖民者的到来](https://www.zhihu.com/question/388077990/answer/1825887473)才被打破。 #pt7-99.97",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "create-time": 1619269242996,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -39818,6 +39962,24 @@
         }
       },
       {
+        "string": "[[GPS]]",
+        "refs": [
+          {
+            "uid": "TOSLqCwQf"
+          }
+        ],
+        "uid": "o03Jr8tkl",
+        "edit-time": 1619272854661,
+        ":block/refs": [
+          {
+            ":block/uid": "TOSLqCwQf"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[seismology]]",
         "refs": [
           {
@@ -39849,6 +40011,18 @@
             ":block/uid": "olzUwtuPJ"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "经纬度; 经纬度信息",
+        "create-time": 1619272933109,
+        "uid": "g10HqiJPs",
+        "edit-time": 1619272934025,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -49946,66 +50120,6 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
-      },
-      {
-        "string": "[[task management]]",
-        "refs": [
-          {
-            "uid": "oiux78y8O"
-          }
-        ],
-        "children": [
-          {
-            "string": "[[todo list]]; [[to-do list]]; [[TODO list]]",
-            "refs": [
-              {
-                "uid": "D1-XESmoA"
-              },
-              {
-                "uid": "SFfii9xjY"
-              },
-              {
-                "uid": "wIcO4y2yN"
-              }
-            ],
-            "children": [
-              {
-                "string": "un-completed project",
-                "uid": "VypvSiOuX",
-                "edit-time": 1618140865058,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "HlA6JuU8J",
-            "edit-time": 1618193260307,
-            ":block/refs": [
-              {
-                ":block/uid": "D1-XESmoA"
-              },
-              {
-                ":block/uid": "SFfii9xjY"
-              },
-              {
-                ":block/uid": "wIcO4y2yN"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
-        "uid": "h7rAaSojk",
-        "edit-time": 1618140880382,
-        ":block/refs": [
-          {
-            ":block/uid": "oiux78y8O"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
       }
     ],
     "uid": "TMnBzbT3z",
@@ -50119,6 +50233,88 @@
         },
         "uid": "DiDM6-_do",
         "edit-time": 1618279890466,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[task management]]",
+        "refs": [
+          {
+            "uid": "oiux78y8O"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[todo list]]; [[to-do list]]; [[TODO list]]",
+            "refs": [
+              {
+                "uid": "D1-XESmoA"
+              },
+              {
+                "uid": "SFfii9xjY"
+              },
+              {
+                "uid": "wIcO4y2yN"
+              }
+            ],
+            "children": [
+              {
+                "string": "un-completed project",
+                "uid": "VypvSiOuX",
+                "edit-time": 1618140865058,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "HlA6JuU8J",
+            "edit-time": 1618193260307,
+            ":block/refs": [
+              {
+                ":block/uid": "D1-XESmoA"
+              },
+              {
+                ":block/uid": "SFfii9xjY"
+              },
+              {
+                ":block/uid": "wIcO4y2yN"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "h7rAaSojk",
+        "edit-time": 1618140880382,
+        ":block/refs": [
+          {
+            ":block/uid": "oiux78y8O"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Todoist]]",
+        "create-time": 1619270900206,
+        ":block/refs": [
+          {
+            ":block/uid": "H4LqeGwHL"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "H4LqeGwHL"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "0aGSbrg33",
+        "edit-time": 1619270903374,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -53624,7 +53820,7 @@
         }
       },
       {
-        "string": "[[field]]: 域, 字段; [[data field]]",
+        "string": "[[field]]: 域, 字段; [[data field]]; 列属性",
         "refs": [
           {
             "uid": "JBGvMwcKl"
@@ -53633,8 +53829,32 @@
             "uid": "wgCtOqiQL"
           }
         ],
+        "children": [
+          {
+            "string": "[[single select]]",
+            "create-time": 1619271414156,
+            ":block/refs": [
+              {
+                ":block/uid": "Uw4rXZnw8"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Uw4rXZnw8"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "oJSyA1OP4",
+            "edit-time": 1619271416228,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "k3hEVZTEZ",
-        "edit-time": 1618532875712,
+        "edit-time": 1619271393184,
         ":block/refs": [
           {
             ":block/uid": "JBGvMwcKl"
@@ -53741,6 +53961,44 @@
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[relational database]]",
+        "refs": [
+          {
+            "uid": "Fn0sqoEQI"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[data mapping]]",
+            "refs": [
+              {
+                "uid": "WM4BVnGAE"
+              }
+            ],
+            "uid": "eJQj632Hn",
+            "edit-time": 1619270522619,
+            ":block/refs": [
+              {
+                ":block/uid": "WM4BVnGAE"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "SlODtDovo",
+        "edit-time": 1619270523601,
+        ":block/refs": [
+          {
+            ":block/uid": "Fn0sqoEQI"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -55875,6 +56133,28 @@
         },
         "uid": "eyyZJuZKb",
         "edit-time": 1619264036756,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Google Calendar]]",
+        "create-time": 1619270952448,
+        ":block/refs": [
+          {
+            ":block/uid": "tuGDok-kM"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "tuGDok-kM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "XvlgJ2LP6",
+        "edit-time": 1619270954248,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -58394,11 +58674,89 @@
     },
     "children": [
       {
-        "string": "((h7upWPli3))",
-        "create-time": 1618281192260,
-        ":block/refs": [
+        "edit-time": 1619270691074,
+        "children": [
           {
-            ":block/uid": "h7upWPli3"
+            "string": "[[IFTTT]]",
+            "refs": [
+              {
+                "uid": "r-ApW8f3W"
+              }
+            ],
+            "uid": "tYImwFqH2",
+            "edit-time": 1619270642438,
+            ":block/refs": [
+              {
+                ":block/uid": "r-ApW8f3W"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[iOS/Workflow]]",
+            "create-time": 1619273160464,
+            ":block/refs": [
+              {
+                ":block/uid": "vdCTO7qQr"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vdCTO7qQr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "GPlgGKQr4",
+            "edit-time": 1619273162239,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Zapier]]",
+            "refs": [
+              {
+                "uid": "qfOt8SFba"
+              }
+            ],
+            "uid": "qh4KKJAGQ",
+            "edit-time": 1619270641391,
+            ":block/refs": [
+              {
+                ":block/uid": "qfOt8SFba"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "多个应用间的对接与合作; 联动",
+            "create-time": 1619270777177,
+            "uid": "qo9UpGgIM",
+            "edit-time": 1619270778113,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "自动化工具; 自动化流程",
+            "create-time": 1619270687179,
+            "uid": "S80DmwfLR",
+            "edit-time": 1619270688071,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -58406,11 +58764,17 @@
             "uid": "h7upWPli3"
           }
         ],
+        "uid": "7rr8qbWiJ",
+        ":block/refs": [
+          {
+            ":block/uid": "h7upWPli3"
+          }
+        ],
+        "string": "((h7upWPli3))",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "7rr8qbWiJ",
-        "edit-time": 1618281193297,
+        "create-time": 1618281192260,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -69504,6 +69868,44 @@
     },
     "children": [
       {
+        "string": "[[Apple Watch]]",
+        "refs": [
+          {
+            "uid": "BunGlVIsM"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Apple Health]]",
+            "refs": [
+              {
+                "uid": "O0z9wRxA2"
+              }
+            ],
+            "uid": "dV896Q0g3",
+            "edit-time": 1619272615110,
+            ":block/refs": [
+              {
+                ":block/uid": "O0z9wRxA2"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "dDZ1FP83S",
+        "edit-time": 1619272616110,
+        ":block/refs": [
+          {
+            ":block/uid": "BunGlVIsM"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "Garmin",
         "uid": "Lc4H3bvQM",
         "edit-time": 1618802726003,
@@ -72003,11 +72405,35 @@
       {
         "string": "cloud storage",
         "create-time": 1619001009965,
-        "uid": "s-87vvWE-",
-        "edit-time": 1619001015838,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "[[Dropbox]]",
+            "create-time": 1619273448290,
+            ":block/refs": [
+              {
+                ":block/uid": "iu_63nMnB"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "iu_63nMnB"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "YK4uwaZn8",
+            "edit-time": 1619273451741,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "s-87vvWE-",
+        "edit-time": 1619001015838,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -72025,6 +72451,30 @@
             "refs": [
               {
                 "uid": "3PjtxI5VO"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[iCloud]]",
+                "create-time": 1619273395985,
+                ":block/refs": [
+                  {
+                    ":block/uid": "SVXxXmj8v"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "SVXxXmj8v"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "MRGWaPIAk",
+                "edit-time": 1619273401067,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "iWN42u7kw",
@@ -82392,17 +82842,27 @@
             }
           },
           {
-            "string": "可以看出，Airtable 从诞生之初就具备了关系型数据库的样子，已经满足了对数据储存的日常需求。从功能上，除了 Excel Online，基本上没有竞品。",
+            "string": "可以看出，Airtable [从诞生之初就具备了][关系型数据库]([[relational database]])的样子，[已经满足了]对[数据储存]的[日常需求]。从功能上，除了 Excel Online，基本上[没有竞品]。",
+            "refs": [
+              {
+                "uid": "Fn0sqoEQI"
+              }
+            ],
             "uid": "xwnrNrySN",
-            "edit-time": 1619264228654,
+            "edit-time": 1619270421367,
+            ":block/refs": [
+              {
+                ":block/uid": "Fn0sqoEQI"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "要想对个人数据进行集中收集整理，首先需要在 Airtable 创建不同的数据库。建立数据库是个人数据收集工程中的第一步，所以并不是随意乱建的。其中，我们需要先想一想收集数据的大类，然后在细分大类中的小类，并对应到数据表中。我的数据库主要有下面 3 个，树形结构如图所示。",
+            "string": "要想对[个人数据]进行[集中收集整理]，首先需要在 Airtable [创建不同的数据库]。[建立数据库]是[个人数据收集工程]中的第一步，所以并不是[随意乱建]的。其中，我们需要[先想一想]收集数据的大类，然后在[细分大类中的小类]，并对应到数据表中。我的数据库主要有下面 3 个，[树形结构](https://cdn.sspai.com/2018/01/20/58d8d088557c858d6eaac887e060f95d.jpg)如图所示。\n210424-21:20",
             "uid": "ytDEqiFk1",
-            "edit-time": 1619264228654,
+            "edit-time": 1619270541769,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -82410,6 +82870,505 @@
         ],
         "uid": "G1J1bXKEI",
         "edit-time": 1619263733158,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "工作学习数据库",
+        "heading": 2,
+        "children": [
+          {
+            "string": "工作学习数据库会收集[平常我在工作或者学习中][产生的相关数据]。根据我的[使用习惯]，数据库包含了 4 张数据表，分别是：Calendar、Todoist、Trello 以及 Issues（同步 Github）。[看到名字应该就很容易明白]这 4 张表的意思了。",
+            "uid": "wBGssKs4T",
+            "edit-time": 1619270572901,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "对于这四类服务的数据，我均是采用 [[IFTTT]] 或者 [[Zapier]] [将其同步到] Airtable 中。这里补充介绍一下 IFTTT 和 Zapier 的区别与联系。首先，二者都是[整合不同应用提供的][开发者 API] [实现自动化流程](((S80DmwfLR)))的[云端服务]，这是他们的相同之处。但是，Zapier 相对于 IFTTT 会[更强大一些]，它[一般情况下]会支持[原服务][更全面的 API 接口]，且[支持多个服务联动](((qo9UpGgIM)))。相比之下，IFTTT [很多时候][只提供主要的接口]，且只支持[两个服务之间的数据传递]。",
+            "refs": [
+              {
+                "uid": "qfOt8SFba"
+              },
+              {
+                "uid": "r-ApW8f3W"
+              },
+              {
+                "uid": "S80DmwfLR"
+              },
+              {
+                "uid": "qo9UpGgIM"
+              }
+            ],
+            "children": [
+              {
+                "string": "举个例子，当我在使用 Zapier 实现 [[Google Calendar]] → Airtable 的过程中，Zapier 支持读取 Google Calendar 中的 43 项数据（虽然[有一些不实用]），但 IFTTT 只支持 8 个。当然，IFTTT 也有比 Zapier 好用的时候。比如将 [[Todoist]] 完成任务同步到 Airtable 时，Zapier 不支持[监测]任意 Project 下完成的任务，需[针对每个 Project] [设置单独的流程]。\n210424-21:29",
+                "create-time": 1619270812579,
+                ":block/refs": [
+                  {
+                    ":block/uid": "tuGDok-kM"
+                  },
+                  {
+                    ":block/uid": "H4LqeGwHL"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "tuGDok-kM"
+                  },
+                  {
+                    "uid": "H4LqeGwHL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "6szFVcRVJ",
+                "edit-time": 1619270975804,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "NaX--feCD",
+            "edit-time": 1619270795756,
+            ":block/refs": [
+              {
+                ":block/uid": "qfOt8SFba"
+              },
+              {
+                ":block/uid": "r-ApW8f3W"
+              },
+              {
+                ":block/uid": "S80DmwfLR"
+              },
+              {
+                ":block/uid": "qo9UpGgIM"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "四个服务同步到 Airtable 的设置[都大同小异]，这里我只拿 Todoist → Airtable [详细说明]。当我选择 IFTTT 作为 Todoist → Airtable 的[同步工具]时，首先需要到 IFTTT 上看一看其支持读取 Todoist 的哪些数据，你可以通过创建动作时查看。",
+            "create-time": 1619270999221,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "我们可以看到从 Todoist → Airtable 一共支持 7 个类别的数据。那么，现在可以先[新建这个动作]。注意，你[需要遵守] IFTTT 制定的[语法格式]，才能[正确地将数据写入到] Airtable 中。",
+                "uid": "1ctm0pkg1",
+                "edit-time": 1619271079676,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "也就是说，如果要将这 7 类数据[全部同步到] Airtable，你需要在 [IFTTT 动作]的最后[输入如下所示的内容]。我习惯之间使用 IFTTT 的 ingredient 名称作为 Airtable 中的[列名称]。",
+                "children": [
+                  {
+                    "string": "格式： `::airtable::Airtable 中的列名::{{IFTTT 中的 ingredient}}`",
+                    "uid": "hgd4oVj9H",
+                    "edit-time": 1619271049796,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "示例内容：",
+                    "create-time": 1619271109745,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "```clojure\n::airtable::TaskContent::{{TaskContent}} \n::airtable::LinkToTask::{{LinkToTask}} \n::airtable::Project::{{Project}} \n::airtable::Labels::{{Labels}} \n::airtable::Priority:: {{Priority}} \n::airtable::CompletedAt::{{CompletedAt}}\n::airtable::DueDate::{{DueDate}}```",
+                        "create-time": 1619271111838,
+                        "uid": "Hdo78dRCD",
+                        "edit-time": 1619271143445,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "dSl9SB8wJ",
+                    "edit-time": 1619271111017,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "AmnyO6LCq",
+                "edit-time": 1619271093542,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "接下来，就可以到 Airtable 中[设置相应的列名称]了。在[设置对应的列属性]（文本、数字、图片等）时，我建议一开始统一设置为「Single line text」，也就是[单行文本格式]，以防止[导入数据出错]。",
+                "create-time": 1619271176942,
+                "uid": "MA9FhKJAe",
+                "edit-time": 1619271190719,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1619271297158,
+                "children": [
+                  {
+                    "string": "![Airtable-02](https://cdn.sspai.com/2018/01/20/c78bedf072b3dff459cdef04dee8f7ae.png)",
+                    "props": {
+                      "image-size": {
+                        "https://cdn.sspai.com/2018/01/20/c78bedf072b3dff459cdef04dee8f7ae.png": {
+                          "width": 563,
+                          "height": null
+                        }
+                      }
+                    },
+                    "create-time": 1619271260669,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://cdn.sspai.com/2018/01/20/c78bedf072b3dff459cdef04dee8f7ae.png": {
+                          ":width": 563,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "5gq93u-6m",
+                    "edit-time": 1619271270032,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "如果调整列属性之后，表格[显示为空白或报错]，那就意味着[通过 IFTTT 传过来的][数据格式]并不能很好地被 Airtable 支持。比如这里的 `CompletedAt`，也就是[项目的完成日期] + 时间。IFTTT 输出的数据格式是像这样的 `January 20, 2018 at 10:18AM`，Airtable 无法之间将其转换为对应的「日期+时间」的格式。",
+                    "create-time": 1619271426857,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "[为了方便之后的][数据分析]，我们其实[更偏向于][将其处理成时间序列]，也就是按 Airtable 中的「日期+时间」格式保存。此时，我们可以通过[新建中间列][作为过渡]，然后利用 Airtable 的 [Formula 公式]将原[文本列][转换为可识别的]「日期+时间」列。具体步骤如下： #formula\n210424-21:38",
+                        "refs": [
+                          {
+                            "uid": "19zRiba0a"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "明确区别： 原[文本列格式]为 `January 20, 2018 at 10:18AM`，Airtable [可识别的格式]为 `January 20, 2018 10:18 AM`。[注意观察][二者之间的区别]，文本格式多了 `at + 一个空格` 字符，同时 AM 字符前[缺少一个空格]。",
+                            "uid": "wWWgz1rgq",
+                            "edit-time": 1619272291610,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "[格式转换]：[明白区别之后]就可以开始使用 Airtable 提供的 Formula 公式[转换格式]([[convert the format]])。首先是[去掉 at 字符]，然后在结尾的 AM 或者 PM 前面[增加空格]。",
+                            "refs": [
+                              {
+                                "uid": "4SsOI1heP"
+                              }
+                            ],
+                            "uid": "rVXRbi8_V",
+                            "edit-time": 1619272408650,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "4SsOI1heP"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "HuHl30icw",
+                        "edit-time": 1619271525358,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "19zRiba0a"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "这里使用了 `SEARCH()` 函数去[定位要修改的位置]，然后使用 `REPLACE()` 函数[修改字符]。最后再使用 `DATATIME_FOMRMAT()` 函数[格式化字符串]为我们想要的「日期-时间」样式。一个小的技巧是，如果你嫌[增加的中间列]较多，那么可以使用 Airtable [顶部菜单]的 Hide fields 选项[隐去不必要的列]，[只呈现我们需要的]数据即可。\n210424-21:54",
+                        "create-time": 1619272439321,
+                        "uid": "7h_p5qt_J",
+                        "edit-time": 1619272487911,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "Y-5Y83cLl",
+                    "edit-time": 1619271452166,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Uw4rXZnw8"
+                  }
+                ],
+                "uid": "z1IdM9C9_",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Uw4rXZnw8"
+                  }
+                ],
+                "string": "当测试[导入成功]之后，就可以[调整列属性]。例如这里，Project 的数量是有限的，且[每个任务][只对应一个 Project]。就可以[将其列属性设定为] [[single select]]（单选），这样也[方便日后][对任务进行筛选]。同样，日期可以使用 [Date 属性]，链接使用 URL 等。",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1619271221277,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "eERaEA97W",
+            "edit-time": 1619271008373,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "EvTDuwr3q",
+        "edit-time": 1619270307628,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "量化自我数据库",
+        "heading": 2,
+        "children": [
+          {
+            "string": "我的第二个[主要数据库]为量化自我数据库，它是由：Moves、Location、Apple Health、RescueTime 以及 Commute 等 5 个数据表组成。这 5 个数据表分别对应着 Moves 记录的[地理位置数据]、[手动签到]数据、[[Apple Health]] 记录的[运动健康数据]、[[RescueTime]] 记录的[工作效率数据]以及[通勤时间统计数据]。",
+            "refs": [
+              {
+                "uid": "uENlE3JiZ"
+              },
+              {
+                "uid": "O0z9wRxA2"
+              }
+            ],
+            "uid": "OnKyO7hl_",
+            "edit-time": 1619272564901,
+            ":block/refs": [
+              {
+                ":block/uid": "uENlE3JiZ"
+              },
+              {
+                ":block/uid": "O0z9wRxA2"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Moves 数据",
+            "heading": 3,
+            "children": [
+              {
+                "string": "[[App/Moves]] 是我一直在使用的[地理位置追踪应用](((zGaSETqhX)))，它的[运动状态识别]和[地点识别][做的非常好]，以至于[现在都没有找到][可替代的应用]。Moves 其实[拥有完善的 API]，但由于其[认证方式的特殊性]，IFTTT 和 Zapier 都[尚未支持][与 Moves 连接]。于是，我只能自己编写一个 Moves → Airtable 的[脚本]，然后[部署在云服务器上]，[每天自动将昨天产生的数据]同步的 Airtable 中去。",
+                "create-time": 1619272674262,
+                ":block/refs": [
+                  {
+                    ":block/uid": "_tbq3HQ2U"
+                  },
+                  {
+                    ":block/uid": "zGaSETqhX"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_tbq3HQ2U"
+                  },
+                  {
+                    "uid": "zGaSETqhX"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ow_oOTtkO",
+                "edit-time": 1619272864980,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1619272947430,
+                "children": [
+                  {
+                    "string": "因[涉及个人隐私]，此处使用[官方示意图]",
+                    "create-time": 1619273024178,
+                    "uid": "CE873jxUn",
+                    "edit-time": 1619273039945,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "关于 Airtable Blocks 的[更多介绍]，可以阅读[官方的文章]《[Getting started with Airtable blocks](https://support.airtable.com/hc/en-us/articles/115013403608)》",
+                    "create-time": 1619273029398,
+                    "uid": "-Nde3X2x0",
+                    "edit-time": 1619273036731,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "g10HqiJPs"
+                  }
+                ],
+                "uid": "eF5ns12i2",
+                ":block/refs": [
+                  {
+                    ":block/uid": "g10HqiJPs"
+                  }
+                ],
+                "string": "[实现的过程][比较麻烦]，都能[凑够一篇文章]了，另找时间再细说。这里，Moves 的数据包含有[经纬度信息](((g10HqiJPs)))，你可以直接使用 Airtable 提供的 [Map Block 模块][对地理位置可视化]。\n210424-22:02",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1619272880096,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "w_OqwK907",
+            "edit-time": 1619272667751,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Location 数据",
+            "heading": 3,
+            "children": [
+              {
+                "string": "除了使用 Moves [自动记录][地理位置信息]，我还[自己制作了一个][辅助签到]的 [[iOS/Workflow]] [用来标记][我认为重要的地点]，并把[地理位置数据][实时上传到] Airtable 中的 Location 数据表中。",
+                "refs": [
+                  {
+                    "uid": "vdCTO7qQr"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Workflow 非常简单，流程如下：定位 → 解析数据 [街道 - 城市 - 地区 - 国家] → 解析数据 [经度 - 纬度 - 高度] → [结合当前时间][一并上传到] Airtable 中。",
+                    "create-time": 1619273186479,
+                    "uid": "uhY-Gfjat",
+                    "edit-time": 1619273199976,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "EKw2EqWAP",
+                "edit-time": 1619273175684,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vdCTO7qQr"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "pCilLtFp5",
+            "edit-time": 1619273056628,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Apple Health 数据",
+            "heading": 3,
+            "children": [
+              {
+                "string": "目前，[追踪健康信息]主要是使用 [[Apple Watch]] 和 [[iPhone]]，通过[本身的健康应用]以及配合 Moves，[Autosleep] 等[第三方应用]完成。Apple Health 无法实现 [iCloud 同步]([[iCloud]])，更没有 [API 支持]，所以只能[半自动同步]到 Airtable。我[采用的方法是]定期从 Apple Health 中[导出数据文件到] [[Dropbox]] 中，Dropbox 的[数据压缩包]会[自动同步到云服务器中]，再由[云服务器中部署的] [Python 脚本][自动完成数据解析]，并[通过 API 同步到] Airtable 的表格中去。\n210424-22:11",
+                "refs": [
+                  {
+                    "uid": "BunGlVIsM"
+                  },
+                  {
+                    "uid": "s7Jm1YHft"
+                  },
+                  {
+                    "uid": "SVXxXmj8v"
+                  },
+                  {
+                    "uid": "iu_63nMnB"
+                  }
+                ],
+                "uid": "cUDkTCPaE",
+                "edit-time": 1619273482399,
+                ":block/refs": [
+                  {
+                    ":block/uid": "BunGlVIsM"
+                  },
+                  {
+                    ":block/uid": "s7Jm1YHft"
+                  },
+                  {
+                    ":block/uid": "SVXxXmj8v"
+                  },
+                  {
+                    ":block/uid": "iu_63nMnB"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "L0W8oL1fQ",
+            "edit-time": 1619273253779,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "kMY5rv5co",
+        "edit-time": 1619272507310,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -83082,6 +84041,462 @@
     "title": "sbnmsl",
     "uid": "nY7O8yij4",
     "edit-time": 1619266924750,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619270421369,
+    "title": "relational database",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1619270423103,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Why was [System R] [chosen as the model for] [[IBM]]'s first relational database? ((__44zEawJ))",
+            "create-time": 1619270428406,
+            ":block/refs": [
+              {
+                ":block/uid": "__44zEawJ"
+              },
+              {
+                ":block/uid": "_eo_yQYil"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "__44zEawJ"
+              },
+              {
+                "uid": "_eo_yQYil"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "DHsb3owdc",
+            "edit-time": 1619270444306,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "First, our [existing relational database products] can store [[XML]]. ",
+            "create-time": 1619270428406,
+            ":block/refs": [
+              {
+                ":block/uid": "VcR0ALU-T"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "VcR0ALU-T"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ntIniVWxe",
+            "edit-time": 1619270465917,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Relational database [watermarking algorithm] based on [(t, n) threshold]. 门限 www.[dictall].com",
+            "create-time": 1619270428406,
+            "uid": "yMthfQr7v",
+            "edit-time": 1619270479699,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "A Research on [[data mapping]] [Between XML and Relationship Database]. dict.cnki.net",
+            "create-time": 1619270428406,
+            ":block/refs": [
+              {
+                ":block/uid": "WM4BVnGAE"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "WM4BVnGAE"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "TZxowQfc-",
+            "edit-time": 1619270500685,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Implementation of the Correspondence between Relational Databases and [XML File] 相互映射模型",
+            "create-time": 1619270428406,
+            "uid": "8TsXbv42b",
+            "edit-time": 1619270487380,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "mY7RmCWfp",
+        "edit-time": 1619270424666,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Fn0sqoEQI",
+    "edit-time": 1619270421370,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619270444308,
+    "title": "IBM",
+    "uid": "_eo_yQYil",
+    "edit-time": 1619270444308,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619270500689,
+    "title": "data mapping",
+    "uid": "WM4BVnGAE",
+    "edit-time": 1619270500690,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619270584683,
+    "title": "Zapier",
+    "uid": "qfOt8SFba",
+    "edit-time": 1619270584684,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619270585790,
+    "title": "IFTTT",
+    "uid": "r-ApW8f3W",
+    "edit-time": 1619270585791,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619270823568,
+    "title": "Google Calendar",
+    "uid": "tuGDok-kM",
+    "edit-time": 1619270823568,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619270850803,
+    "title": "Todoist",
+    "uid": "H4LqeGwHL",
+    "edit-time": 1619270850803,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619271297160,
+    "title": "single select",
+    "uid": "Uw4rXZnw8",
+    "edit-time": 1619271297161,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619271518483,
+    "title": "formula",
+    "uid": "19zRiba0a",
+    "edit-time": 1619271518484,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619272549646,
+    "title": "Apple Health",
+    "uid": "O0z9wRxA2",
+    "edit-time": 1619272549658,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619272616112,
+    "title": "Apple Watch",
+    "uid": "BunGlVIsM",
+    "edit-time": 1619272616112,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619272793855,
+    "title": "App/Moves",
+    "uid": "_tbq3HQ2U",
+    "edit-time": 1619272793856,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619272854663,
+    "title": "GPS",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "地理位置追踪应用",
+        "children": [
+          {
+            "string": "[[App/Moves]]",
+            "refs": [
+              {
+                "uid": "_tbq3HQ2U"
+              }
+            ],
+            "uid": "UJgpx0DsB",
+            "edit-time": 1619272867118,
+            ":block/refs": [
+              {
+                ":block/uid": "_tbq3HQ2U"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "zGaSETqhX",
+        "edit-time": 1619272851980,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "TOSLqCwQf",
+    "edit-time": 1619272854664,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619273140725,
+    "title": "iOS/Workflow",
+    "uid": "vdCTO7qQr",
+    "edit-time": 1619273140726,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619273263894,
+    "title": "iPhone",
+    "uid": "s7Jm1YHft",
+    "edit-time": 1619273263894,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619273330809,
+    "title": "Apple Company",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((dDZ1FP83S))",
+        "refs": [
+          {
+            "uid": "dDZ1FP83S"
+          }
+        ],
+        "uid": "ZL2IF77Wj",
+        "edit-time": 1619273340775,
+        ":block/refs": [
+          {
+            ":block/uid": "dDZ1FP83S"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[iPad]]",
+        "refs": [
+          {
+            "uid": "ZsXxz2uYA"
+          }
+        ],
+        "uid": "b12RyFNoM",
+        "edit-time": 1619273348161,
+        ":block/refs": [
+          {
+            ":block/uid": "ZsXxz2uYA"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[iPhone]]",
+        "refs": [
+          {
+            "uid": "s7Jm1YHft"
+          }
+        ],
+        "uid": "_4ogRSc7N",
+        "edit-time": 1619273347087,
+        ":block/refs": [
+          {
+            ":block/uid": "s7Jm1YHft"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[MacBook]]",
+        "refs": [
+          {
+            "uid": "KhCcwL6ff"
+          }
+        ],
+        "uid": "Hi-T_7d4u",
+        "edit-time": 1619273346255,
+        ":block/refs": [
+          {
+            ":block/uid": "KhCcwL6ff"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "yXADm7ddy",
+    "edit-time": 1619273330810,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619273346256,
+    "title": "MacBook",
+    "uid": "KhCcwL6ff",
+    "edit-time": 1619273346256,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619273348163,
+    "title": "iPad",
+    "uid": "ZsXxz2uYA",
+    "edit-time": 1619273348164,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619273401069,
+    "title": "iCloud",
+    "uid": "SVXxXmj8v",
+    "edit-time": 1619273401070,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619273437014,
+    "title": "Dropbox",
+    "uid": "iu_63nMnB",
+    "edit-time": 1619273437016,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

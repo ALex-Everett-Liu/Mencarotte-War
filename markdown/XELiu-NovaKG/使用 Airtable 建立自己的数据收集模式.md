@@ -29,5 +29,48 @@
         - Records（记录）：Tables 中的[行属性](((RWoVY27wc)))，也就是数据表中的数据。
         - Blocks（模块）：[Beta 功能]，提供像[数据概览]、数据可视化、计时器、[发送短信]等[拓展模块]。[模块功能]目前[仍然在内测过程中]，仅 [Pro 版的付费用户]可以[申请使用]。
 210424-19:37
-    - 可以看出，Airtable 从诞生之初就具备了关系型数据库的样子，已经满足了对数据储存的日常需求。从功能上，除了 Excel Online，基本上没有竞品。
-    - 要想对个人数据进行集中收集整理，首先需要在 Airtable 创建不同的数据库。建立数据库是个人数据收集工程中的第一步，所以并不是随意乱建的。其中，我们需要先想一想收集数据的大类，然后在细分大类中的小类，并对应到数据表中。我的数据库主要有下面 3 个，树形结构如图所示。
+    - 可以看出，Airtable [从诞生之初就具备了][关系型数据库]([[relational database]])的样子，[已经满足了]对[数据储存]的[日常需求]。从功能上，除了 Excel Online，基本上[没有竞品]。
+    - 要想对[个人数据]进行[集中收集整理]，首先需要在 Airtable [创建不同的数据库]。[建立数据库]是[个人数据收集工程]中的第一步，所以并不是[随意乱建]的。其中，我们需要[先想一想]收集数据的大类，然后在[细分大类中的小类]，并对应到数据表中。我的数据库主要有下面 3 个，[树形结构](https://cdn.sspai.com/2018/01/20/58d8d088557c858d6eaac887e060f95d.jpg)如图所示。
+210424-21:20
+- ## 工作学习数据库
+    - 工作学习数据库会收集[平常我在工作或者学习中][产生的相关数据]。根据我的[使用习惯]，数据库包含了 4 张数据表，分别是：Calendar、Todoist、Trello 以及 Issues（同步 Github）。[看到名字应该就很容易明白]这 4 张表的意思了。
+    - 对于这四类服务的数据，我均是采用 [[IFTTT]] 或者 [[Zapier]] [将其同步到] Airtable 中。这里补充介绍一下 IFTTT 和 Zapier 的区别与联系。首先，二者都是[整合不同应用提供的][开发者 API] [实现自动化流程](((S80DmwfLR)))的[云端服务]，这是他们的相同之处。但是，Zapier 相对于 IFTTT 会[更强大一些]，它[一般情况下]会支持[原服务][更全面的 API 接口]，且[支持多个服务联动](((qo9UpGgIM)))。相比之下，IFTTT [很多时候][只提供主要的接口]，且只支持[两个服务之间的数据传递]。
+        - 举个例子，当我在使用 Zapier 实现 [[Google Calendar]] → Airtable 的过程中，Zapier 支持读取 Google Calendar 中的 43 项数据（虽然[有一些不实用]），但 IFTTT 只支持 8 个。当然，IFTTT 也有比 Zapier 好用的时候。比如将 [[Todoist]] 完成任务同步到 Airtable 时，Zapier 不支持[监测]任意 Project 下完成的任务，需[针对每个 Project] [设置单独的流程]。
+210424-21:29
+    - 四个服务同步到 Airtable 的设置[都大同小异]，这里我只拿 Todoist → Airtable [详细说明]。当我选择 IFTTT 作为 Todoist → Airtable 的[同步工具]时，首先需要到 IFTTT 上看一看其支持读取 Todoist 的哪些数据，你可以通过创建动作时查看。
+        - 我们可以看到从 Todoist → Airtable 一共支持 7 个类别的数据。那么，现在可以先[新建这个动作]。注意，你[需要遵守] IFTTT 制定的[语法格式]，才能[正确地将数据写入到] Airtable 中。
+        - 也就是说，如果要将这 7 类数据[全部同步到] Airtable，你需要在 [IFTTT 动作]的最后[输入如下所示的内容]。我习惯之间使用 IFTTT 的 ingredient 名称作为 Airtable 中的[列名称]。
+            - 格式： `::airtable::Airtable 中的列名::{{IFTTT 中的 ingredient}}`
+            - 示例内容：
+                - ```clojure
+::airtable::TaskContent::{{TaskContent}} 
+::airtable::LinkToTask::{{LinkToTask}} 
+::airtable::Project::{{Project}} 
+::airtable::Labels::{{Labels}} 
+::airtable::Priority:: {{Priority}} 
+::airtable::CompletedAt::{{CompletedAt}}
+::airtable::DueDate::{{DueDate}}```
+        - 接下来，就可以到 Airtable 中[设置相应的列名称]了。在[设置对应的列属性]（文本、数字、图片等）时，我建议一开始统一设置为「Single line text」，也就是[单行文本格式]，以防止[导入数据出错]。
+        - 当测试[导入成功]之后，就可以[调整列属性]。例如这里，Project 的数量是有限的，且[每个任务][只对应一个 Project]。就可以[将其列属性设定为] [[single select]]（单选），这样也[方便日后][对任务进行筛选]。同样，日期可以使用 [Date 属性]，链接使用 URL 等。
+            - ![Airtable-02](https://cdn.sspai.com/2018/01/20/c78bedf072b3dff459cdef04dee8f7ae.png)
+            - 如果调整列属性之后，表格[显示为空白或报错]，那就意味着[通过 IFTTT 传过来的][数据格式]并不能很好地被 Airtable 支持。比如这里的 `CompletedAt`，也就是[项目的完成日期] + 时间。IFTTT 输出的数据格式是像这样的 `January 20, 2018 at 10:18AM`，Airtable 无法之间将其转换为对应的「日期+时间」的格式。
+                - [为了方便之后的][数据分析]，我们其实[更偏向于][将其处理成时间序列]，也就是按 Airtable 中的「日期+时间」格式保存。此时，我们可以通过[新建中间列][作为过渡]，然后利用 Airtable 的 [Formula 公式]将原[文本列][转换为可识别的]「日期+时间」列。具体步骤如下： #formula
+210424-21:38
+                    - 明确区别： 原[文本列格式]为 `January 20, 2018 at 10:18AM`，Airtable [可识别的格式]为 `January 20, 2018 10:18 AM`。[注意观察][二者之间的区别]，文本格式多了 `at + 一个空格` 字符，同时 AM 字符前[缺少一个空格]。
+                    - [格式转换]：[明白区别之后]就可以开始使用 Airtable 提供的 Formula 公式[转换格式]([[convert the format]])。首先是[去掉 at 字符]，然后在结尾的 AM 或者 PM 前面[增加空格]。
+                - 这里使用了 `SEARCH()` 函数去[定位要修改的位置]，然后使用 `REPLACE()` 函数[修改字符]。最后再使用 `DATATIME_FOMRMAT()` 函数[格式化字符串]为我们想要的「日期-时间」样式。一个小的技巧是，如果你嫌[增加的中间列]较多，那么可以使用 Airtable [顶部菜单]的 Hide fields 选项[隐去不必要的列]，[只呈现我们需要的]数据即可。
+210424-21:54
+- ## 量化自我数据库
+    - 我的第二个[主要数据库]为量化自我数据库，它是由：Moves、Location、Apple Health、RescueTime 以及 Commute 等 5 个数据表组成。这 5 个数据表分别对应着 Moves 记录的[地理位置数据]、[手动签到]数据、[[Apple Health]] 记录的[运动健康数据]、[[RescueTime]] 记录的[工作效率数据]以及[通勤时间统计数据]。
+    - ### Moves 数据
+        - [[App/Moves]] 是我一直在使用的[地理位置追踪应用](((zGaSETqhX)))，它的[运动状态识别]和[地点识别][做的非常好]，以至于[现在都没有找到][可替代的应用]。Moves 其实[拥有完善的 API]，但由于其[认证方式的特殊性]，IFTTT 和 Zapier 都[尚未支持][与 Moves 连接]。于是，我只能自己编写一个 Moves → Airtable 的[脚本]，然后[部署在云服务器上]，[每天自动将昨天产生的数据]同步的 Airtable 中去。
+        - [实现的过程][比较麻烦]，都能[凑够一篇文章]了，另找时间再细说。这里，Moves 的数据包含有[经纬度信息](((g10HqiJPs)))，你可以直接使用 Airtable 提供的 [Map Block 模块][对地理位置可视化]。
+210424-22:02
+            - 因[涉及个人隐私]，此处使用[官方示意图]
+            - 关于 Airtable Blocks 的[更多介绍]，可以阅读[官方的文章]《[Getting started with Airtable blocks](https://support.airtable.com/hc/en-us/articles/115013403608)》
+    - ### Location 数据
+        - 除了使用 Moves [自动记录][地理位置信息]，我还[自己制作了一个][辅助签到]的 [[iOS/Workflow]] [用来标记][我认为重要的地点]，并把[地理位置数据][实时上传到] Airtable 中的 Location 数据表中。
+            - Workflow 非常简单，流程如下：定位 → 解析数据 [街道 - 城市 - 地区 - 国家] → 解析数据 [经度 - 纬度 - 高度] → [结合当前时间][一并上传到] Airtable 中。
+    - ### Apple Health 数据
+        - 目前，[追踪健康信息]主要是使用 [[Apple Watch]] 和 [[iPhone]]，通过[本身的健康应用]以及配合 Moves，[Autosleep] 等[第三方应用]完成。Apple Health 无法实现 [iCloud 同步]([[iCloud]])，更没有 [API 支持]，所以只能[半自动同步]到 Airtable。我[采用的方法是]定期从 Apple Health 中[导出数据文件到] [[Dropbox]] 中，Dropbox 的[数据压缩包]会[自动同步到云服务器中]，再由[云服务器中部署的] [Python 脚本][自动完成数据解析]，并[通过 API 同步到] Airtable 的表格中去。
+210424-22:11

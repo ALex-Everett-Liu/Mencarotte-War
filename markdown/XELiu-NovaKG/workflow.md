@@ -1,4 +1,9 @@
 - automate; automation; 自动化;
+    - [[IFTTT]]
+    - [[iOS/Workflow]]
+    - [[Zapier]]
+    - 多个应用间的对接与合作; 联动
+    - 自动化工具; 自动化流程
 - collaboration tool
     - [[workaround]]
     - [[workspace]]

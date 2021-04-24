@@ -1,0 +1,6 @@
+- dictionary 
+    - Why was [System R] [chosen as the model for] [[IBM]]'s first relational database? www.[[ibm]].com
+    - First, our [existing relational database products] can store [[XML]]. 
+    - Relational database [watermarking algorithm] based on [(t, n) threshold]. 门限 www.[dictall].com
+    - A Research on [[data mapping]] [Between XML and Relationship Database]. dict.cnki.net
+    - Implementation of the Correspondence between Relational Databases and [XML File] 相互映射模型

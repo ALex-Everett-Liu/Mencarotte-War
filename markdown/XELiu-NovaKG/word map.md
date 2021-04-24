@@ -196,6 +196,13 @@
                     - refine
                 - finite
                     - infinite
+        - fo
+            - for
+                - form
+                    - [[formula]], 2
+                        - formulate; formulated; formulation; formulize
+                            - elaborate, as of theories and hypotheses;
+                                - Could you develop the ideas in your thesis
     - g
         - gr
             - gra

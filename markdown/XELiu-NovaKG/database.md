@@ -1,6 +1,7 @@
 - [[graph database]]
     - [[directed graph]]
-- [[field]]: 域, 字段; [[data field]]
+- [[field]]: 域, 字段; [[data field]]; 列属性
+    - [[single select]]
 - [[form]]: 表单
     - form instance;
 - [[list]]
@@ -8,6 +9,8 @@
     - sequence
 - namespace
 - record; 行属性
+- [[relational database]]
+    - [[data mapping]]
 - [[SQL]]
     - OQL
 - [[table]]

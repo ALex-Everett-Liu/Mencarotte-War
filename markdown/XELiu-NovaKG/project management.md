@@ -6,6 +6,3 @@
     - [[deadline]]
 - [[project planning]]
 - sample project
-- [[task management]]
-    - [[todo list]]; [[to-do list]]; [[TODO list]]
-        - un-completed project

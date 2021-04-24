@@ -1,3 +1,4 @@
+- [[Apple Company]]
 - computer monitor
 - display
     - high contrast
