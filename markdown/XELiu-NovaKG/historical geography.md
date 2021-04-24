@@ -9,7 +9,7 @@
     - [[山海经 (Classic of Mountains and Seas)]]
 - placename
 - northeast...
-    - [[长白山]]; [[不咸山 (Buxian Mountain)]]; [[徒太山 (Tutai Mountain)]]
+    - [[长白山]]; 白頭山; [[不咸山 (Buxian Mountain)]]; [[徒太山 (Tutai Mountain)]]
         - [[盖马大山 (Gaima Mountain)]]
     - [[弱水 (River Ruo)]]
 - 制图工作者
