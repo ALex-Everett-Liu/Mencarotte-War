@@ -43282,6 +43282,18 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "通勤时间",
+        "create-time": 1619294175455,
+        "uid": "VmCQthGHf",
+        "edit-time": 1619294176572,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "D-JRo0ZvD",
@@ -83362,6 +83374,140 @@
             ],
             "uid": "L0W8oL1fQ",
             "edit-time": 1619273253779,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "RescueTime 数据",
+            "heading": 3,
+            "children": [
+              {
+                "string": "[工作效率记录]我会使用到 RescueTime 应用，RescueTime 会[自动记录]各类程序的[前台运行时间]，再和数据库进行比对得到[相应应用]属于[效率应用]还是[非效率应用]，从而[自动统计][每天的工作效率]。",
+                "uid": "LmxOwIS1O",
+                "edit-time": 1619293933398,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "RescueTime 的数据同步到 Airtable 就比较方便了，可以使用 IFTTT，Zapier 或者[开发者接口]同步。我选择的是 Zapier，因为它可以同步多达 59 项[数据信息]。触发的动作选择「当每日数据汇总后」，然后再将[对应的数据][更新到对应的列]即可。过程非常简单，就不再赘述了。",
+                "children": [
+                  {
+                    "string": "![RSCT-Airtable-01](https://cdn.sspai.com/2018/01/20/00ec55cfc6bb9a7052353640b24b29e1.jpg)",
+                    "props": {
+                      "image-size": {
+                        "https://cdn.sspai.com/2018/01/20/00ec55cfc6bb9a7052353640b24b29e1.jpg": {
+                          "width": 360,
+                          "height": null
+                        }
+                      }
+                    },
+                    "create-time": 1619293968085,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://cdn.sspai.com/2018/01/20/00ec55cfc6bb9a7052353640b24b29e1.jpg": {
+                          ":width": 360,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "wHsg-yEpd",
+                    "edit-time": 1619293986283,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "QtALRHs1b",
+                "edit-time": 1619293953329,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "这里介绍一个使用 RescueTime 的[一个小技巧]，^^那就是最好[定期去][手动标记]相应应用的[效率属性]。^^首先，我们每天[浏览的大多数网页]或者[使用的应用]都是[比较固定的]，[手动标记][花费的时间不多]。其次，有一些应用对每个人的效率属性不一致。比如，我已经好多年没用 QQ 作为和别人的[聊天工具]了，所以凡是当使用 QQ 时，基本上都属于[处理工作上面的事情]，它对于我而言就是[效率状态]，而不是[消遣状态]。 #pt9-99.99",
+                "create-time": 1619294001336,
+                ":block/refs": [
+                  {
+                    ":block/uid": "lMcwecsmV"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "lMcwecsmV"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "1cKqpC7Z1",
+                "edit-time": 1619294069969,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "nUEFxfEjp",
+            "edit-time": 1619293898477,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "通勤时间数据",
+            "heading": 3,
+            "children": [
+              {
+                "string": "Commute 表用来统计我的[通勤时间](((VmCQthGHf)))。每天，我都会选择地铁作为[上班通勤]的[主要交通工具]，虽然地铁[在站与站之间的运行时间]比较确定，但由于存在[换乘]，所以[每天的通勤时间的变化]就比较大了。打个比方，有时候早上只晚出发 5 分钟，如果[正好赶上一波高峰]，实际[到达公司的时间]往往会晚 20 分钟。所以，我[从年初就开始]每天记录自己的通勤时间，打算等到[数据累计到一定量之后]，通过[数据分析]得到自己每天的[合理出发时间]。",
+                "refs": [
+                  {
+                    "uid": "VmCQthGHf"
+                  }
+                ],
+                "uid": "_IeQ8fNJ9",
+                "edit-time": 1619294181078,
+                ":block/refs": [
+                  {
+                    ":block/uid": "VmCQthGHf"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "在[记录通勤时间]的时候，由于准备[将数据保存到] Airtable，所以一开始就[直接就排除了]现有的[计时器]或者[第三方 App]，然后[把目标集中到] Workflow。但是，很快我就发现 Workflow 的[现有动作中]，并没有支持[在后台完成计时]的动作。后来，我就想到了[直接借助] Airtable [来完成这个功能]，这个功能的逻辑非常简单。流程如下：\n210425-03:55",
+                "children": [
+                  {
+                    "string": "每天[从家中出发]的时候，点击 workflow 将[此刻的时间]上传到 Airtable，并记为[出发时间]。",
+                    "uid": "Ww5-d3I53",
+                    "edit-time": 1619294251975,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "当到达公司时，再次点击 Workflow 将时间上传到 Airtable 。由于 Airtable 本身可以使用数据函数，就能计算出两个时间差，并直接在我第二次点击 Workflow 上传时间后，将计算好的通勤时间推送到手机上。这样，既可以实时看到记录下来的通勤时间，也不再需要二次过程将数据上传到 Airtable 中。",
+                    "uid": "d7dnf6MAV",
+                    "edit-time": 1619294243755,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "PUa3SWgIl",
+                "edit-time": 1619294258668,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Fvs0yVO-F",
+            "edit-time": 1619294091673,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
