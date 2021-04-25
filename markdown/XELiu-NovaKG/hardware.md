@@ -1,4 +1,6 @@
-- [[Apple Company]]
+- company
+    - [[Apple Company]]
+    - [[Lenovo]]
 - computer monitor
 - display
     - high contrast
@@ -12,14 +14,19 @@
     - GeForce GTX 1650 -- my device 202011
 - hardware component;
 - [[keyboard]]
+- [[mainframe computer]]: 大型主机
+- [[middleware]]
 - [[mobile phone]]
     - [[smartphone]]
 - [[processor]]
     - [[CPU (central processing unit)]]
-- [[RAM]] -- 16.0 GB
+- [[personal computer (PC)]]
+- [[random-access memory (RAM)]]
 - storage
     - disk bay
     - [[floppy disk]]
+    - [[hard disk drive (HDD)]]
+        - [[SSD]]
 - [[wearable technology]]
 - #inbox
     - [硬件](https://bbs.saraba1st.com/2b/thread-1999436-2-1.html) 理性讨论，pc diy 会被干死吗？ #pt10-99.98

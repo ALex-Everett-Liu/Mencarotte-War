@@ -1,0 +1,26 @@
+- [[album]]
+    - [[CD]]
+- [[audio]]
+    - [[ASMR]]
+- [[dance]]
+- English?
+    - [[The Cascades]]
+    - [[The Carpenters]]
+    - [[Carly Rae Jepsen]]
+- Japan?
+    - [[Bokalo Ongaku]]
+- genre
+    - folk song
+    - [[rhythm and blues (RnB)]]; [[R&B]]
+- [[musical instrument]]
+- musical theory??
+    - [[musical note]]: 音符
+    - [[musical score]]: 乐谱
+    - [[musical tone]]: 音调
+- song; sing
+    - [[artist]]
+    - [[singer]]
+    - uta; 唄
+    - [[vocal]]
+- tools
+- [[utattemita]]??

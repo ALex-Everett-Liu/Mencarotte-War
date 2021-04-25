@@ -1,0 +1,2 @@
+- [[automated teller machine (ATM)]]
+- [[magnetic stripe card]]

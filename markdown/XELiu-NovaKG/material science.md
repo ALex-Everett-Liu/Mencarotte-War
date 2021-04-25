@@ -1,0 +1,4 @@
+- flammable material
+- general...
+    - withstand high temperatures
+- [[nanotechnology]]

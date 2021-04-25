@@ -11,7 +11,7 @@
 - record; 行属性
 - [[relational database]]
     - [[data mapping]]
-- [[SQL]]
+- [[SQL]]; SQL programming language
     - OQL
 - [[table]]
     - [[spreadsheet]]

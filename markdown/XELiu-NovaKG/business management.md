@@ -1,0 +1,7 @@
+- [[collaboration]]; collaborate
+- [[employment]]
+    - [[employee]]
+    - [[employer]]
+    - [[salary]]
+        - payoff
+- [[Master in Business Administration (MBA)]]

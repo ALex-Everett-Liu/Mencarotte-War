@@ -1,2 +1,5 @@
+- [[National Medals of Science (USA)]]
+- [[National Medals of Technology (USA)]]
 - [[Nobel Prize]]
     - Nobel Prize in Physics
+- [[Turing Award]]

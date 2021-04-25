@@ -1,9 +1,7 @@
 - [[business]]
 - [[finance]]
 - [[ledger]]
-- management
-    - [[collaboration]]; collaborate
-    - [[Master in Business Administration (MBA)]]
+- [[business management]]
 - [[money]]
 - [[political economy]]
 - 反垄断

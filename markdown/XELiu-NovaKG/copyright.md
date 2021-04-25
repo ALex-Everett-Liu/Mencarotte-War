@@ -9,6 +9,7 @@
         - [[General Public License (GPL)]]; GNU GPL
     - maintain the system
     - open-source; open-source software
+- [[patent]]
 - [[permission]]; [[grant right]]
 - [[public domain]]
 - reusing content

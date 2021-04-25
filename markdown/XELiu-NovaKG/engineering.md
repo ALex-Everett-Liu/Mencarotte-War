@@ -1,6 +1,7 @@
 - [[architecture]]
 - [[aerospace engineering]]
 - [[Electrical Engineering (EE)]]
+- [[material]]; [[material science]]
 - [[Mechanical Engineering (ME)]]
 - [[space science]]
 - [[transportation]]

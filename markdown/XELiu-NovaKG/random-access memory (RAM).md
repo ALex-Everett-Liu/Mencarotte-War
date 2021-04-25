@@ -1,0 +1,2 @@
+- [[dynamic random-access memory (DRAM)]]
+- my RAM -- 16.0 GB at 202011

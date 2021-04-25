@@ -10,7 +10,7 @@
         - [[administrative division]]
     - approve the decision
     - commission
-    - management
+    - [[business management]]
 - political activity
 - [[political economy]]
 - [[political philosophy]]

@@ -16,12 +16,13 @@
     - [[scientific opinion]]
 - [[popularize of science]]; popular science
     - [[Scientific American]]
-- [[prize]]...
+- [[prize]]
 - [[research]]
     - collaborative research
     - [[cutting-edge research]]
     - early prototype
     - [[invention]]
+        - [[patent]]
     - [[reproducible research]]: 可重复性研究
     - R&D
 - [[science philosophy]]...

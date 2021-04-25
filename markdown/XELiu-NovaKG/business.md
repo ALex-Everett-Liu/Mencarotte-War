@@ -1,3 +1,4 @@
+- [[business operation]]: 企业经营, 业务运作;
 - [[business use]]
 - [[marketing]]: 市场营销; [[marketer]]
 - [[product]]
