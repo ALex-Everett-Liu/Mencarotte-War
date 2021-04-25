@@ -203,6 +203,16 @@
                         - formulate; formulated; formulation; formulize
                             - elaborate, as of theories and hypotheses;
                                 - Could you develop the ideas in your thesis
+        - fr
+            - fracted
+                - fractal
+                    - fraction
+            - frame
+                - framework, 2
+            - frequent
+                - frequency;
+            - front
+                - front-matter: 正文之前;
     - g
         - gr
             - gra
@@ -357,6 +367,12 @@
                     - single provider;
                 - province
     - r
+        - ra
+            - [[ratio]]
+                - ration
+                    - rational
+            - raw
+            - ray
         - re
             - rel
                 - relate

@@ -3,6 +3,7 @@
         - highly ordered; a highly ordered environment
     - [[big bang]]
     - [[inflationary cosmology]]: 暴涨宇宙学 
+        - [[eternal inflation]]
     - matter-dominated early universe
     - the shape of space
     - the size of the universe
@@ -13,7 +14,7 @@
     - diffuse uniform energy: 弥散的均匀的能量 
 - [[cosmological horizon]]
 - [[cosmic microwave background radiation (CBR)]]
-- measure problem of cosmology
+- [[measure problem in cosmology]]
 - [[quantum cosmology]]
 - [[universe]]
     - the amount of matter in the universe; material content; matter content
