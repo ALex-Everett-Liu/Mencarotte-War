@@ -1,3 +1,6 @@
+- [[activity tracker]]
 - [[Apple Watch]]
     - [[Apple Health]]
 - Garmin
+- [[heart rate]]
+    - [[movement]]

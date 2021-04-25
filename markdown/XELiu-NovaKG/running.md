@@ -1,0 +1,1 @@
+- slow jogging: 慢跑

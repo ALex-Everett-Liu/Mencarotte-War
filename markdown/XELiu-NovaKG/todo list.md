@@ -1,2 +1,3 @@
 - already done archive
+    - garmin sync | 3d ||
     - buy 4T hdd, ssd | 1d || 

@@ -1,0 +1,9 @@
+- energy?
+    - [[calories burned]]
+    - [[energy usage]]
+    - keep you energized;
+- [[intense activity]]
+    - moderate exercise; vigorous exercise
+- ride a bike; 
+- [[running]]
+    - [[brisk walking]]

@@ -1,3 +1,5 @@
 - anatomy
     - ocular anatomy: 眼部解剖
+- [[diabetes]]: 糖尿病
+- [[heart disease]]
 - personal care and service occupations: 个人护理和服务职业

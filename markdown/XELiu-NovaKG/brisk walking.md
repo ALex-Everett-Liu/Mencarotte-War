@@ -1,0 +1,6 @@
+- dictionary 
+    - Brisk walking [burns up more calories than]([[calories burned]]) [slow jogging](((RH7pTiFRZ))). 《柯林斯高阶英汉双解学习词典》
+    - "Brisk walking is [a phenomenal example]," she said. www.[crazyenglish].org
+    - Brisk walking [an hour a day] [could cut your risk of] [developing diabetes]([[diabetes]]) in half. prenzhi.tianyablog.com
+    - [Go out for some brisk walking] or [ride a bike](((uX8dF5rNk))). www.[kekenet].com
+    - [[heart disease]]: brisk walking is [known to be good for the heart], which [makes a lot of sense]. provided by jukuu

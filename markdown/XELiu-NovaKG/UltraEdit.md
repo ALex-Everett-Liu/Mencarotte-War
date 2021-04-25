@@ -1,0 +1,3 @@
+- the cracked version that i'm using now...
+    - this one works -> C:\Program Files (x86)\IDM Computer Solutions\UltraEdit
+    - this one's license already expired -> D:\Program Files\IDM Computer Solutions\UltraEdit

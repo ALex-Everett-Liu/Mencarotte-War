@@ -1,0 +1,10 @@
+- [[heart rate variability (HRV)]]
+    - [[active state]]
+    - high-resolution heart rate data
+        - unmeasured period
+    - [[stress level]]
+        - 24-hour period
+        - low stress; medium stress; high stress
+        - a state of rest; recovery; recover from stress
+        - [[stress reaction]]
+- [[resting heart rate]]

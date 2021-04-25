@@ -448,6 +448,15 @@
                         - [Genetics]([[genetics]]) is the study of [the patterns of inheritance] of specific traits. 特征的[遗传模式] www.[dictall].com
                         - [The region with high frequency] might mean [high expression of specific traits] 特定性状 [under various genetic background] and [environmental conditions]. www.[fabiao].net
                         - In contrast, [genome-wide association studies] are designed to [find individual genes] that [influence specific traits]. news.dxy.cn
+            - tri
+                - tribe
+                    - tribal;
+                    - tribute
+                        - [distribute](https://workflowy.com/#/65de1a65026f);
+                        - tributary;
+                - trigger
+                    - triggered; triggering;
+                - trim
         - tw
             - twi-
                 - twin
