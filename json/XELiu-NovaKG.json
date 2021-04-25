@@ -834,10 +834,10 @@
             }
           },
           {
-            "string": "old pc trash check;; wayback machine, archive.org;; garmin sync;; 小红书 douyin;; Grammarly-like;; digikam;; ",
+            "string": "garmin sync;; old pc trash check;; wayback machine, archive.org;; 小红书 douyin;; Grammarly-like;; digikam;; ",
             "create-time": 1618457951481,
             "uid": "0XNy08NgL",
-            "edit-time": 1619192411148,
+            "edit-time": 1619330598428,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -4402,11 +4402,25 @@
             }
           },
           {
-            "string": "[[Web Clipper]]",
-            "create-time": 1618893972880,
-            ":block/refs": [
+            "edit-time": 1618893977896,
+            "children": [
               {
-                ":block/uid": "0m6gZ_Qb2"
+                "string": "[[read it later (RIL)]]; 稍后阅读工具",
+                "refs": [
+                  {
+                    "uid": "aN7_MHXut"
+                  }
+                ],
+                "uid": "TuhevcmeV",
+                "edit-time": 1619323086085,
+                ":block/refs": [
+                  {
+                    ":block/uid": "aN7_MHXut"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "refs": [
@@ -4414,11 +4428,17 @@
                 "uid": "0m6gZ_Qb2"
               }
             ],
+            "uid": "0fNcvPiKM",
+            ":block/refs": [
+              {
+                ":block/uid": "0m6gZ_Qb2"
+              }
+            ],
+            "string": "[[Web Clipper]]",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "0fNcvPiKM",
-            "edit-time": 1618893977896,
+            "create-time": 1618893972880,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -22951,18 +22971,6 @@
         }
       },
       {
-        "string": "danci.[911cha].com",
-        "create-time": 1619056385040,
-        "uid": "DqtRqq2cL",
-        "edit-time": 1619056390041,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "dict.cnki.net",
         "create-time": 1617921910190,
         "uid": "ov4uq4k2f",
@@ -23008,6 +23016,18 @@
         ],
         "uid": "jldk-hLLo",
         "edit-time": 1617653394162,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "danci.[911cha].com",
+        "create-time": 1619056385040,
+        "uid": "DqtRqq2cL",
+        "edit-time": 1619056390041,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -23274,6 +23294,18 @@
         },
         "uid": "oL7ajmjq1",
         "edit-time": 1617921928938,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "《牛津高阶英汉双解词典》",
+        "create-time": 1619331649690,
+        "uid": "cesqM_tg6",
+        "edit-time": 1619331650897,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -40916,6 +40948,86 @@
         }
       },
       {
+        "string": "[[movie]]; movie industry",
+        "refs": [
+          {
+            "uid": "0XvGbHTKv"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[cinema]]",
+            "refs": [
+              {
+                "uid": "0MHKoIhdW"
+              }
+            ],
+            "children": [
+              {
+                "string": "movie theater",
+                "uid": "eJ6fBGboy",
+                "edit-time": 1619331886299,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Rear Window Captioning System (RWC)",
+                "uid": "hNqDEfvxs",
+                "edit-time": 1619331886299,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "vhOvR9mwr",
+            "edit-time": 1619331947411,
+            ":block/refs": [
+              {
+                ":block/uid": "0MHKoIhdW"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[theater]]; [[theatre]]",
+            "refs": [
+              {
+                "uid": "2GUrlUz7V"
+              },
+              {
+                "uid": "BfYlkIygY"
+              }
+            ],
+            "uid": "5KMUcAM0d",
+            "edit-time": 1619331942885,
+            ":block/refs": [
+              {
+                ":block/uid": "2GUrlUz7V"
+              },
+              {
+                ":block/uid": "BfYlkIygY"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "oZV1T_HBs",
+        "edit-time": 1619331890552,
+        ":block/refs": [
+          {
+            ":block/uid": "0XvGbHTKv"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[multi-media]]",
         "refs": [
           {
@@ -49626,9 +49738,37 @@
     },
     "children": [
       {
-        "string": "product price",
-        "uid": "ozQuh8ry8",
+        "string": "charged",
+        "uid": "59hDEDpvt",
         "edit-time": 1618140563186,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[discount]]",
+        "refs": [
+          {
+            "uid": "IImdBTywY"
+          }
+        ],
+        "children": [
+          {
+            "string": "教育优惠",
+            "uid": "ztbubVpFG",
+            "edit-time": 1619331588260,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "EMwN_o5jG",
+        "edit-time": 1619331593885,
+        ":block/refs": [
+          {
+            ":block/uid": "IImdBTywY"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -49706,16 +49846,16 @@
         }
       },
       {
-        "string": "standard plan",
-        "uid": "DShqpJQ5w",
+        "string": "product price",
+        "uid": "ozQuh8ry8",
         "edit-time": 1618140563186,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
       },
       {
-        "string": "charged",
-        "uid": "59hDEDpvt",
+        "string": "standard plan",
+        "uid": "DShqpJQ5w",
         "edit-time": 1618140563186,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -55451,6 +55591,94 @@
             ":block/uid": "eTNjgKJzd"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "rendering?",
+        "children": [
+          {
+            "string": "[[KaTex]]",
+            "refs": [
+              {
+                "uid": "0Gfq3BmLr"
+              }
+            ],
+            "uid": "QlvEJFJeG",
+            "edit-time": 1619333268746,
+            ":block/refs": [
+              {
+                ":block/uid": "0Gfq3BmLr"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[MathJax]]",
+            "refs": [
+              {
+                "uid": "8lG__khDa"
+              }
+            ],
+            "uid": "upry1Dr-L",
+            "edit-time": 1619333267403,
+            ":block/refs": [
+              {
+                ":block/uid": "8lG__khDa"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "HMh9JNOnq",
+        "edit-time": 1619333251427,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1619333171036,
+        "children": [
+          {
+            "string": "目前在 MathJax 3 里面貌似[不能直接通过] `\\\\` 来[换行](https://ld246.com/article/1619319439534)： #pt8-100\n[The line break(\\) is not work · Issue #2312 · mathjax/MathJax · GitHub](https://link.ld246.com/forward?goto=https%3A%2F%2Fgithub.com%2Fmathjax%2FMathJax%2Fissues%2F2312)",
+            "refs": [
+              {
+                "uid": "qf_2NHomZ"
+              }
+            ],
+            "uid": "4iKjiUflc",
+            "edit-time": 1619333284115,
+            ":block/refs": [
+              {
+                ":block/uid": "qf_2NHomZ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "tR7Dv06L8"
+          }
+        ],
+        "uid": "6q8bhuFVg",
+        ":block/refs": [
+          {
+            ":block/uid": "tR7Dv06L8"
+          }
+        ],
+        "string": "#index",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619333167018,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -71693,8 +71921,30 @@
     },
     "children": [
       {
+        "string": "[[Make beautiful, shareable moodboards in minutes with Milanote]]\n210421-19pm",
+        "create-time": 1619323275508,
+        ":block/refs": [
+          {
+            ":block/uid": "Oe3bx8Nll"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Oe3bx8Nll"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "mJA7dsuXT",
+        "edit-time": 1619323281527,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[如何高效写长文？- Gingko]]\n210421-20pm",
-        "create-time": 1619007482645,
+        "create-time": 1619323270719,
         ":block/refs": [
           {
             ":block/uid": "d0MthsLg1"
@@ -71708,8 +71958,8 @@
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "Hw40-2O6z",
-        "edit-time": 1619011385344,
+        "uid": "Ra5r_-kE_",
+        "edit-time": 1619323273095,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -78756,11 +79006,59 @@
   {
     "create-time": 1619066518401,
     "title": "MOBA",
-    "uid": "WNwjuI3mE",
-    "edit-time": 1619066518401,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "edit-time": 1619330753572,
+        "children": [
+          {
+            "string": "DOTA1 原本的[背景设定]就是[那个年代]最终幻想、万智牌、天诛、秀逗魔法师、DND、WWE 之类[ACG角色]的[大乱斗]，所以才叫 allstars 嘛。如果当初[论坛]没有关，继续作为[独立游戏][运营下去]，大概现在会和[任天堂大乱斗]差不多吧，[眼熟的角色](https://bbs.saraba1st.com/2b/thread-2000670-2-1.html)会越来越多，想想也挺有趣。 #pt7-99.96",
+            "create-time": 1619330753567,
+            ":block/refs": [
+              {
+                ":block/uid": "E0gCAiQcc"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "E0gCAiQcc"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "XXuUiT4Lm",
+            "edit-time": 1619331412612,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "8QiMkjz8t",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619330751224,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WNwjuI3mE",
+    "edit-time": 1619066518401,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -82382,11 +82680,35 @@
   {
     "create-time": 1619228819001,
     "title": "April 24th, 2021",
-    "uid": "04-24-2021",
-    "edit-time": 1619228819001,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[使用 Airtable 建立自己的数据收集模式]]\n210424-19pm",
+        "create-time": 1619323190190,
+        ":block/refs": [
+          {
+            ":block/uid": "MaeoUM726"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "MaeoUM726"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "OZStHRg6j",
+        "edit-time": 1619323196253,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "04-24-2021",
+    "edit-time": 1619228819001,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -83491,9 +83813,9 @@
                     }
                   },
                   {
-                    "string": "当到达公司时，再次点击 Workflow 将时间上传到 Airtable 。由于 Airtable 本身可以使用数据函数，就能计算出两个时间差，并直接在我第二次点击 Workflow 上传时间后，将计算好的通勤时间推送到手机上。这样，既可以实时看到记录下来的通勤时间，也不再需要二次过程将数据上传到 Airtable 中。",
+                    "string": "当到达公司时，再次点击 Workflow 将时间上传到 Airtable 。由于 Airtable 本身可以使用[数据函数]，就能[计算出两个时间差]，并直接在我[第二次点击] Workflow 上传时间后，将[计算好的通勤时间][推送到手机上]。这样，既可以[实时看到][记录下来的通勤时间]，也不再需要二次过程将数据上传到 Airtable 中。",
                     "uid": "d7dnf6MAV",
-                    "edit-time": 1619294243755,
+                    "edit-time": 1619322920332,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -83515,6 +83837,327 @@
         ],
         "uid": "kMY5rv5co",
         "edit-time": 1619272507310,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "信息存档数据库",
+        "heading": 2,
+        "children": [
+          {
+            "string": "信息存档数据库是用来保存我认为[有必要存档的][互联网数据]。其中，主要有三个 Tables，分别是：微博、博客以及稍后读。",
+            "uid": "yUIvOp1IQ",
+            "edit-time": 1619322944203,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "我喜欢[定期清空]自己的微博，防止在互联网上留下过多的「🌚 历史」。但又不想丢掉自己[转发过的微博]，于是就有了这个微博[存档表]。[存档微博]的方法非常简单，使用 IFTTT [新建一个动作]，实时将微博记录到 Airtable 中保存。",
+            "children": [
+              {
+                "string": "![weibo-airtable-01](https://cdn.sspai.com/2018/01/20/490a16df19c502bcfcaa9f44fb77b34f.jpg)",
+                "props": {
+                  "image-size": {
+                    "https://cdn.sspai.com/2018/01/20/490a16df19c502bcfcaa9f44fb77b34f.jpg": {
+                      "width": 546,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1619322983916,
+                ":block/props": {
+                  ":image-size": {
+                    "https://cdn.sspai.com/2018/01/20/490a16df19c502bcfcaa9f44fb77b34f.jpg": {
+                      ":width": 546,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "M6AqOW6j0",
+                "edit-time": 1619322994320,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "StHzo4K8S",
+            "edit-time": 1619322963550,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "同样，我使用 [Pocket](https://getpocket.com/) 作为[稍后阅读工具]([[read it later (RIL)]])，也就通过创建 IFTTT 动作，将保存在 [[Pocket]] 中的文章[同步存档到] Airtable 中。",
+            "refs": [
+              {
+                "uid": "dZ0wMWUaX"
+              },
+              {
+                "uid": "aN7_MHXut"
+              }
+            ],
+            "uid": "6PDU6VdEA",
+            "edit-time": 1619323100779,
+            ":block/refs": [
+              {
+                ":block/uid": "dZ0wMWUaX"
+              },
+              {
+                ":block/uid": "aN7_MHXut"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "除此之外，[博客][存档表]用来备份自己[在互联网上创作的内容]。比如在少数派写的文章以及自己的[博客文章]。该表单使用了自己编写的 [Python 脚本]，定期将我的博客文章以及[在少数派发表的文章]同步保存到 Airtable 中。\n210425-11:57",
+            "uid": "9Xlx6x-6s",
+            "edit-time": 1619323138088,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xaTFFTvt3",
+        "edit-time": 1619322937576,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "其他数据库",
+        "heading": 2,
+        "children": [
+          {
+            "string": "除了上面提到的这三个[主要的数据库]，我还有几个[自己比较喜欢的]数据库，也分享一下。",
+            "uid": "TebSn096S",
+            "edit-time": 1619323345038,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "票据存档数据库",
+            "heading": 3,
+            "children": [
+              {
+                "string": "票据存档的数据库主要是记录平常[我认为比较重要的]收据、发票、[合同文件]等。当然，[超市购物小票]这类[不太重要的票据]也就[没必要存档]了。",
+                "uid": "PZzKcRxrg",
+                "edit-time": 1619323367239,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "![Airtable-03](https://cdn.sspai.com/2018/01/20/57ef8b498ea1bec2c86ff2bc5ca73608.jpg)",
+                "props": {
+                  "image-size": {
+                    "https://cdn.sspai.com/2018/01/20/57ef8b498ea1bec2c86ff2bc5ca73608.jpg": {
+                      "width": 551,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1619323389465,
+                ":block/props": {
+                  ":image-size": {
+                    "https://cdn.sspai.com/2018/01/20/57ef8b498ea1bec2c86ff2bc5ca73608.jpg": {
+                      ":width": 551,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "cRsJ4ouf-",
+                "edit-time": 1619323401555,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "nSJgX2AyJ",
+            "edit-time": 1619323335325,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "教育优惠统计数据库",
+            "heading": 3,
+            "children": [
+              {
+                "string": "几个月前，我在少数派写过一篇 [《在校师生福利：Apple、微软、Adobe 等产品如何通过教育优惠购买》](https://sspai.com/post/39430) ，这篇文章中介绍一些[高校学生][可以享受的][教育优惠项目](((ztbubVpFG)))。不久前，我通过 Airtable 整理了一份[更加详细的]教育优惠表单，希望[更多的学生][能享受到][低价][有品质的服务]。",
+                "refs": [
+                  {
+                    "uid": "ztbubVpFG"
+                  }
+                ],
+                "uid": "sl7ujyIiN",
+                "edit-time": 1619332063385,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ztbubVpFG"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "你可以[通过检索的方式]来获取[自己感兴趣的]教育优惠项目。当然，我也[呼吁大家来一起][完善这个表单]。如果有一些教育优惠项目非常好，但表单中[未涉及到]，欢迎直接通过下面的链接[补充提交到表单中去]。",
+                "children": [
+                  {
+                    "string": "表单链接：[「教育优惠项目」](https://airtable.com/shrRxkehT8l33lTva)",
+                    "uid": "V3wiPwscl",
+                    "edit-time": 1619323498896,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "完善表单：[「教育优惠应用提交」](https://airtable.com/shrFK5SNHOopuw5sq)",
+                    "uid": "pJEBOx9Mn",
+                    "edit-time": 1619323498896,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "C40O7FSUe",
+                "edit-time": 1619323525041,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "b4Pul2TdN",
+            "edit-time": 1619323421797,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "菜品、餐馆统计数据库",
+            "heading": 3,
+            "children": [
+              {
+                "string": "最近，我[正在完善的一个数据库][来源于]我[生活中的一个痛点]，那就是[经常不知道吃什么]。这个数据库中会记录下一些[餐馆和菜品]。我会将[平常吃过感觉不错的]，或者[想吃的餐馆]信息添加到餐馆数据表中，同时会记录一些做过或者[想做的菜品]。",
+                "children": [
+                  {
+                    "string": "当我自己[想做菜吃的时候]，我就会通过 Workflow [随机返回]菜品[作为灵感]，而想出去吃的时候，也可以随机返回餐馆信息。目前，这个数据库和 Workflow 还没有完全做好，等完善之后，会同大家一起分享。",
+                    "uid": "Dtin6YKv2",
+                    "edit-time": 1619332115250,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "0dJrHCTQ3",
+                "edit-time": 1619332105327,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "另外，文中提到的一些[自动化数据获取]的 Python 脚本，我也会[整理后][择时]与少数派读者分享。",
+                "uid": "Dl-05jn-G",
+                "edit-time": 1619332131929,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "xb5OkJOYA",
+            "edit-time": 1619332075122,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "p4J1Kv6tN",
+        "edit-time": 1619323335325,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "结语",
+        "heading": 2,
+        "children": [
+          {
+            "string": "我其实[很早就知道] Airtable 了，但[真正有效地利用起来][也是近一年才开始的]。目前，虽然 Airtable [已经帮我][存下来不少的数据]，但是我对它的[利用程度][还并不满意]，今年我会[继续发掘] Airtable 的「正确使用方式」。",
+            "uid": "SZnOq37PY",
+            "edit-time": 1619332165682,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "如今，我们都知道[时常需要备份]自己的照片、手机、电脑，防止[资料丢失]。除此之外，我们[同样应该重视起]自己每天[产生的其他数据]。目前[初步建立起来的][数据集中收集模式]只是开始。等待[数据积累到一定量时]，就需要着手「数据集中分析」，使其[真正地能帮助自己][发现某个坏习惯]，提升一些效率，改变一些东西。",
+            "uid": "k2e6SCU-6",
+            "edit-time": 1619332213655,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "( **本文「参与年度征文活动」**)",
+            "uid": "lOmct6zvl",
+            "edit-time": 1619332143130,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "GqjNq0545",
+        "edit-time": 1619332143130,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "comment",
+        "create-time": 1619332266140,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "你不觉得你的逻辑是[神逻辑]吗？你自己[记了那么多日记]，然后你[绝大多数不想看]，然后你就觉得量化你自己不好啦，然后你就觉得[量化自我]本身对大家对社会对个人都不好的吗？[那你有没有想过][可能就是你自己不适合](https://sspai.com/u/helloworld000/updates)量化自我啊😑",
+            "create-time": 1619332267867,
+            "uid": "ZXxw9gUEJ",
+            "edit-time": 1619332318987,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "速度比较慢。airtable 代码里用了一些谷歌的 [js 文件]之类 ，之前反应[官方客服]说的",
+            "create-time": 1619333034094,
+            "uid": "LARXe0Lxz",
+            "edit-time": 1619333048572,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "44hvlfDJP",
+        "edit-time": 1619332267871,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -84655,6 +85298,234 @@
     "title": "April 25th, 2021",
     "uid": "04-25-2021",
     "edit-time": 1619315578131,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619323062795,
+    "title": "Pocket",
+    "uid": "dZ0wMWUaX",
+    "edit-time": 1619323062804,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619323086087,
+    "title": "read it later (RIL)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[Pocket]]",
+        "create-time": 1619323090101,
+        ":block/refs": [
+          {
+            ":block/uid": "dZ0wMWUaX"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "dZ0wMWUaX"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "nTEFJ49n9",
+        "edit-time": 1619323093222,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "aN7_MHXut",
+    "edit-time": 1619323086088,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619331593887,
+    "title": "discount",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1619331594972,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "They were [selling everything at a discount]. ((cesqM_tg6))",
+            "create-time": 1619331603207,
+            ":block/refs": [
+              {
+                ":block/uid": "cesqM_tg6"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cesqM_tg6"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "9NrDRjF9B",
+            "edit-time": 1619331661591,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The [[theatre]] gives a 10% discount to [parties of more than ten]. ",
+            "create-time": 1619331603207,
+            ":block/refs": [
+              {
+                ":block/uid": "2GUrlUz7V"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "2GUrlUz7V"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "rYixEcHhh",
+            "edit-time": 1619331685604,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "They [have an offer on beer] [at the moment]. ",
+            "create-time": 1619331603207,
+            "uid": "PHTQMohcP",
+            "edit-time": 1619332031451,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[There are reductions for children] [sharing a room with two adults]. ",
+            "create-time": 1619331603207,
+            "uid": "b4moArX5m",
+            "edit-time": 1619332037845,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The theatre [gives discounts for] [block bookings]. 团体票",
+            "create-time": 1619331603207,
+            "uid": "7utrGoEpd",
+            "edit-time": 1619332046498,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "6kxDGKMIz",
+        "edit-time": 1619331602061,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "IImdBTywY",
+    "edit-time": 1619331593888,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619331685606,
+    "title": "theatre",
+    "uid": "2GUrlUz7V",
+    "edit-time": 1619331685606,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619331890554,
+    "title": "movie",
+    "uid": "0XvGbHTKv",
+    "edit-time": 1619331890554,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619331942886,
+    "title": "theater",
+    "uid": "BfYlkIygY",
+    "edit-time": 1619331942886,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619331947413,
+    "title": "cinema",
+    "uid": "0MHKoIhdW",
+    "edit-time": 1619331947413,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619333267404,
+    "title": "MathJax",
+    "uid": "8lG__khDa",
+    "edit-time": 1619333267405,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619333268748,
+    "title": "KaTex",
+    "uid": "0Gfq3BmLr",
+    "edit-time": 1619333268748,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

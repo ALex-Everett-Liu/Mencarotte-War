@@ -6,11 +6,11 @@
     - ---
 - www.[cnblogs].com
     - They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. 
-- danci.[911cha].com
 - dict.cnki.net
 - 柯林斯词典 (柯林斯高阶英汉双解学习词典)
     - Let me [set the record straight on the misconceptions] [contained in your article]. 
     - ---
+- danci.[911cha].com
 - www.[[ebigear]].com
     - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
     - ---
@@ -27,6 +27,7 @@
     - Set the record straight; made sure the facts were straight in the report. 
     - ---
 - www.[[kekenet]].com
+- 《牛津高阶英汉双解词典》
 - www.[[okread]].info
     - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
     - ---

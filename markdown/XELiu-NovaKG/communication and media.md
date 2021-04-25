@@ -1,6 +1,11 @@
 - [[conspiracy theory]]
 - extended universe
 - [[mass media technology]]: 大众传媒技术
+- [[movie]]; movie industry
+    - [[cinema]]
+        - movie theater
+        - Rear Window Captioning System (RWC)
+    - [[theater]]; [[theatre]]
 - [[multi-media]]
 - [[news]]
 - [[social media]]

@@ -5,3 +5,9 @@
 - LaTeX authoring; HTML authoring
 - LaTeX formula
 - [[Mathpix Snipping Tool]] #pt10-100
+- rendering?
+    - [[KaTex]]
+    - [[MathJax]]
+- #index
+    - 目前在 MathJax 3 里面貌似[不能直接通过] `\\` 来[换行](https://ld246.com/article/1619319439534)： #pt8-100
+[The line break(\) is not work · Issue #2312 · mathjax/MathJax · GitHub](https://link.ld246.com/forward?goto=https%3A%2F%2Fgithub.com%2Fmathjax%2FMathJax%2Fissues%2F2312)

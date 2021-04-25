@@ -1,8 +1,10 @@
-- product price
+- charged
+- [[discount]]
+    - 教育优惠
 - free...
     - free account;
     - [[free license]]; [[free software]]
     - free trial
     - freely available
+- product price
 - standard plan
-- charged
