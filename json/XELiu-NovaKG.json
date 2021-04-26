@@ -23565,6 +23565,24 @@
         }
       },
       {
+        "string": "[[translation]]",
+        "refs": [
+          {
+            "uid": "yE1DP1VMy"
+          }
+        ],
+        "uid": "yeLczkRD3",
+        "edit-time": 1619411136494,
+        ":block/refs": [
+          {
+            ":block/uid": "yE1DP1VMy"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[vocabulary]]",
         "create-time": 1618099788407,
         ":block/refs": [
@@ -92848,11 +92866,49 @@
   {
     "create-time": 1619407909721,
     "title": "Crusader Kings III (CK3)",
-    "uid": "yRA0Stuuy",
-    "edit-time": 1619407909725,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[ck3 mod]]",
+        "refs": [
+          {
+            "uid": "ZJVKYoKLB"
+          }
+        ],
+        "uid": "hQbdXixAM",
+        "edit-time": 1619410867172,
+        ":block/refs": [
+          {
+            ":block/uid": "ZJVKYoKLB"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[ck3 modding]]",
+        "refs": [
+          {
+            "uid": "Vie4xQbcs"
+          }
+        ],
+        "uid": "9j0pfdMpT",
+        "edit-time": 1619410849465,
+        ":block/refs": [
+          {
+            ":block/uid": "Vie4xQbcs"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "yRA0Stuuy",
+    "edit-time": 1619407909725,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -92865,6 +92921,542 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410839768,
+    "title": "characters modding",
+    "uid": "tZmhgK8MO",
+    "edit-time": 1619410839776,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410839768,
+    "title": "ck3 characters",
+    "uid": "QMzGKidZV",
+    "edit-time": 1619410839776,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410839768,
+    "title": "ck2 characters",
+    "uid": "rIOsxdJ81",
+    "edit-time": 1619410839776,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410839769,
+    "title": "map modding",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "my workflow ",
+        "create-time": 1610970007158,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "map_data/definition.csv -- 确定地块与色块",
+            "create-time": 1610970018798,
+            "uid": "XG6mHckAM",
+            "edit-time": 1619411022559,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1619411022559,
+            "children": [
+              {
+                "string": "combat_locators, etc.",
+                "create-time": 1610970193917,
+                "uid": "711Ijl2mE",
+                "edit-time": 1619411022559,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "6E5yCjOd3"
+              }
+            ],
+            "uid": "MkhHfihN3",
+            ":block/refs": [
+              {
+                ":block/uid": "6E5yCjOd3"
+              }
+            ],
+            "string": "gfx/map/map_object_data/[[building locator]]s -- 确定城镇建筑坐标",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1610970135181,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "map/provinces.png -- 省份色块地图编辑",
+            "create-time": 1610971206781,
+            "uid": "dwXyg4hou",
+            "edit-time": 1619411022559,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "history/provinces -- 确定省份信息、发展度与城镇建筑类型",
+            "create-time": 1610970437232,
+            "uid": "_HnyW0uTE",
+            "edit-time": 1619411022559,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "common/landed_titles -- 确定相应省份的行政区划等级及层级关系",
+            "create-time": 1610970437232,
+            "uid": "niu5AOAEb",
+            "edit-time": 1619411022559,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "history/titles -- 确定省份对应的封建制度头衔及其层级关系",
+            "create-time": 1610970460671,
+            "uid": "ARF00DdTQ",
+            "edit-time": 1619411022559,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[localization]] -- 相应的文本本地化工作",
+            "create-time": 1610970577047,
+            ":block/refs": [
+              {
+                ":block/uid": "6lhCz1AX1"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "6lhCz1AX1"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "vgmq6EQIO",
+            "edit-time": 1619411022559,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "common/province_[[terrain]] -- 确认省份整体地形与效果",
+            "create-time": 1611092118035,
+            ":block/refs": [
+              {
+                ":block/uid": "d16ATMxWy"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "d16ATMxWy"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "SMvCTZY8w",
+            "edit-time": 1619411022559,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2Vb_WUBCP",
+        "edit-time": 1619411022559,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Ye8eWXreg",
+    "edit-time": 1619410839776,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410845430,
+    "title": "ck3 localization",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "localization\\simp_chinese\\custom_titles_l_simp_chinese.yml (b-009)",
+        "uid": "pzwrZ6LCC",
+        "edit-time": 1619410944184,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "ParaTanz 云汉化平台",
+        "uid": "vy42gM-f0",
+        "edit-time": 1619410944184,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "gklJYdRrH",
+    "edit-time": 1619410845431,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410846547,
+    "title": "ck3 history",
+    "uid": "9RDHyZ5nh",
+    "edit-time": 1619410846548,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410849474,
+    "title": "ck3 modding",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[characters modding]]; [[ck3 characters]]; [[ck2 characters]]",
+        "refs": [
+          {
+            "uid": "tZmhgK8MO"
+          },
+          {
+            "uid": "QMzGKidZV"
+          },
+          {
+            "uid": "rIOsxdJ81"
+          }
+        ],
+        "uid": "YjsSMlRMt",
+        "edit-time": 1619410839776,
+        ":block/refs": [
+          {
+            ":block/uid": "tZmhgK8MO"
+          },
+          {
+            ":block/uid": "QMzGKidZV"
+          },
+          {
+            ":block/uid": "rIOsxdJ81"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[ck3 history]]",
+        "refs": [
+          {
+            "uid": "9RDHyZ5nh"
+          }
+        ],
+        "uid": "2e02KAnHc",
+        "edit-time": 1619410846544,
+        ":block/refs": [
+          {
+            ":block/uid": "9RDHyZ5nh"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[ck3 localization]]; [[localization]]",
+        "refs": [
+          {
+            "uid": "gklJYdRrH"
+          },
+          {
+            "uid": "6lhCz1AX1"
+          }
+        ],
+        "uid": "7XsfSvPX0",
+        "edit-time": 1619411181060,
+        ":block/refs": [
+          {
+            ":block/uid": "gklJYdRrH"
+          },
+          {
+            ":block/uid": "6lhCz1AX1"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[map modding]]",
+        "refs": [
+          {
+            "uid": "Ye8eWXreg"
+          }
+        ],
+        "uid": "Ee2W2jF9L",
+        "edit-time": 1619410839776,
+        ":block/refs": [
+          {
+            ":block/uid": "Ye8eWXreg"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "syntax, script...",
+        "uid": "2O3uO9X4X",
+        "edit-time": 1619410839776,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Vie4xQbcs",
+    "edit-time": 1619410849475,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619410867174,
+    "title": "ck3 mod",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "porn...",
+        "uid": "Nsq4sp7zG",
+        "edit-time": 1619410887173,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Rhomaioi - A Byzantine Empire Mod",
+        "children": [
+          {
+            "string": "这是一个[拜占庭政体][大修mod]的[汉化](https://bbs.52pcgame.net/forum.php?mod=viewthread&tid=347033)，作者增加了[总督制]，军区制， 普洛尼亚制，和[帝国元老院][等一系列内容]。非常具有[可玩性]。",
+            "uid": "1tTwtRTAZ",
+            "edit-time": 1619410917892,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[汉化程度] 96%。感谢 [ParaTanz 云汉化平台](((vy42gM-f0)))。",
+            "refs": [
+              {
+                "uid": "vy42gM-f0"
+              }
+            ],
+            "uid": "o00Cgor18",
+            "edit-time": 1619410984719,
+            ":block/refs": [
+              {
+                ":block/uid": "vy42gM-f0"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "gKeZ3csVV",
+        "edit-time": 1619410887173,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ZJVKYoKLB",
+    "edit-time": 1619410867175,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619411022573,
+    "title": "building locator",
+    "uid": "6E5yCjOd3",
+    "edit-time": 1619411022573,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619411022580,
+    "title": "localization",
+    "uid": "6lhCz1AX1",
+    "edit-time": 1619411022580,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619411022584,
+    "title": "terrain",
+    "uid": "d16ATMxWy",
+    "edit-time": 1619411022585,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619411136496,
+    "title": "translation",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "English translation",
+        "uid": "cRHf75tY4",
+        "edit-time": 1619411126211,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[localization]]",
+        "refs": [
+          {
+            "uid": "6lhCz1AX1"
+          }
+        ],
+        "uid": "_pXvzWMfa",
+        "edit-time": 1619411145391,
+        ":block/refs": [
+          {
+            ":block/uid": "6lhCz1AX1"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "translation tools",
+        "children": [
+          {
+            "string": "[baidu fanyi](https://fanyi.baidu.com/)",
+            "uid": "bcI8ur_E9",
+            "edit-time": 1619411126211,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[DeepL](https://www.deepl.com/translator)",
+            "uid": "CqXfuSTya",
+            "edit-time": 1619411126211,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Google Translation](https://translate.google.cn/)",
+            "children": [
+              {
+                "string": "[other languages](https://translate.google.cn/?sl=ja&tl=en&text=xxx&op=translate)",
+                "uid": "AOjlHcioE",
+                "edit-time": 1619411126211,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "R_x3-Qs8d",
+            "edit-time": 1619411126211,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Dhq1nCjbG",
+        "edit-time": 1619411126211,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "yE1DP1VMy",
+    "edit-time": 1619411136496,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

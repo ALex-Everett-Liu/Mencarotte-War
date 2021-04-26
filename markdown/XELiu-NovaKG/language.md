@@ -5,4 +5,5 @@
     - [[lexicographic relation]]: 词典关系
 - [[input method (IME)]]
 - [[phonology]]
+- [[translation]]
 - [[vocabulary]]
