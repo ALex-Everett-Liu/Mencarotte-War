@@ -33,6 +33,7 @@
         - [[repository]]; [[repo]]
     - [[save and load]]
         - eat up the storage
+    - [[SpaceSniffer]]
     - storage system
     - store files
 - [[text editor]]
