@@ -1,4 +1,6 @@
 - [[general theory of relativity]]; [[general relativity]]
+    - [[proper time]]
+        - [[proper-time cutoff measure]]
 - [[nonrelativistic motion]]
 - [[relative motion]]
 - space and time; [[spacetime]]

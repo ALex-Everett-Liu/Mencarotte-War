@@ -784,13 +784,23 @@
         },
         "children": [
           {
-            "string": "",
+            "string": "((A8pNv3Mgv))",
             "create-time": 1617570844555,
-            "uid": "Zk8kVIfrJ",
-            "edit-time": 1619093970741,
+            ":block/refs": [
+              {
+                ":block/uid": "A8pNv3Mgv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "A8pNv3Mgv"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "Zk8kVIfrJ",
+            "edit-time": 1619401132910,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -8321,53 +8331,19 @@
         }
       },
       {
-        "string": "field",
-        "children": [
+        "string": "[[physics/field]]",
+        "refs": [
           {
-            "string": "[[force field]]",
-            "refs": [
-              {
-                "uid": "VNkcSXeP7"
-              }
-            ],
-            "children": [
-              {
-                "string": "((8xH2uTtsH))",
-                "create-time": 1617937200578,
-                ":block/refs": [
-                  {
-                    ":block/uid": "8xH2uTtsH"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "8xH2uTtsH"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "kxLOitL4X",
-                "edit-time": 1617937201829,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              }
-            ],
-            "uid": "K_A7dfVeX",
-            "edit-time": 1617937204626,
-            ":block/refs": [
-              {
-                ":block/uid": "VNkcSXeP7"
-              }
-            ],
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
+            "uid": "HKh8IkEbt"
           }
         ],
         "uid": "cUb7gXijd",
-        "edit-time": 1617937182182,
+        "edit-time": 1619396942906,
+        ":block/refs": [
+          {
+            ":block/uid": "HKh8IkEbt"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -15302,6 +15278,54 @@
             "uid": "PxK4ieXED"
           }
         ],
+        "children": [
+          {
+            "edit-time": 1619397010129,
+            "children": [
+              {
+                "string": "((6jpFQEeGQ))",
+                "create-time": 1619400131239,
+                ":block/refs": [
+                  {
+                    ":block/uid": "6jpFQEeGQ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "6jpFQEeGQ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "BFSWtI8ex",
+                "edit-time": 1619400132651,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Y-FduNr8H"
+              }
+            ],
+            "uid": "Il2h-PchC",
+            ":block/refs": [
+              {
+                ":block/uid": "Y-FduNr8H"
+              }
+            ],
+            "string": "[[proper time]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619397005399,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "lUTDITYRl",
         "edit-time": 1617647305595,
         ":block/refs": [
@@ -15701,6 +15725,28 @@
             }
           },
           {
+            "string": "[[Hubble parameter]]",
+            "create-time": 1619394044997,
+            ":block/refs": [
+              {
+                ":block/uid": "cGw8_31IW"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cGw8_31IW"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Vu_6LEU2C",
+            "edit-time": 1619394046725,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "[[inflationary cosmology]]: 暴涨宇宙学 ",
             "refs": [
               {
@@ -15726,6 +15772,30 @@
                 },
                 "uid": "2Fxys94fr",
                 "edit-time": 1619382891643,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "exit inflation",
+                "create-time": 1619400653737,
+                "uid": "NNouQKOA5",
+                "edit-time": 1619400654703,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "inflationary exponential growth",
+                "create-time": 1619400669460,
+                "uid": "TyPRal3Es",
+                "edit-time": 1619400670360,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -15895,7 +15965,7 @@
         }
       },
       {
-        "string": "[[measure problem in cosmology]]",
+        "string": "[[measure problem in cosmology]]: 测度问题",
         "create-time": 1618547621709,
         ":block/refs": [
           {
@@ -15911,7 +15981,7 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "uid": "5_MXWsOaA",
-        "edit-time": 1619382761609,
+        "edit-time": 1619390704934,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -18984,9 +19054,19 @@
                         "string": "fractal",
                         "children": [
                           {
-                            "string": "fraction",
+                            "string": "[[fraction]]",
+                            "refs": [
+                              {
+                                "uid": "X9IzCjDP2"
+                              }
+                            ],
                             "uid": "1i6qhRxQ8",
-                            "edit-time": 1619383850317,
+                            "edit-time": 1619390142284,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "X9IzCjDP2"
+                              }
+                            ],
                             ":edit/user": {
                               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                             }
@@ -20456,6 +20536,78 @@
                 ],
                 "uid": "UKt0lvSsD",
                 "edit-time": 1617729445905,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "pl",
+                "create-time": 1619401120715,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "pla",
+                    "create-time": 1619401121588,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "play",
+                        "children": [
+                          {
+                            "string": "display",
+                            "children": [
+                              {
+                                "string": "displayed;",
+                                "uid": "eRPOCFMGC",
+                                "edit-time": 1619401123900,
+                                ":edit/user": {
+                                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                                }
+                              }
+                            ],
+                            "uid": "onJLBbmio",
+                            "edit-time": 1619401123900,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          },
+                          {
+                            "string": "playing;",
+                            "uid": "aphqa0nPQ",
+                            "edit-time": 1619401123900,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "7WxY1qRUi",
+                        "edit-time": 1619401123900,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "plaza: 广场, 市场, 购物区;",
+                        "uid": "A8pNv3Mgv",
+                        "edit-time": 1619401123900,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "lZioL-4Gl",
+                    "edit-time": 1619401123149,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "UnoyhiWl6",
+                "edit-time": 1619401121594,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -23441,11 +23593,73 @@
       {
         "string": "dict.cnki.net",
         "create-time": 1617921910190,
-        "uid": "ov4uq4k2f",
-        "edit-time": 1617921911929,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机",
+            "create-time": 1619390921923,
+            "uid": "BDL1-8NHG",
+            "edit-time": 1619390955779,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "---",
+            "create-time": 1619390811575,
+            "uid": "X2vEpPw1C",
+            "edit-time": 1619390830319,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Also, this paper analysis the measure problem of the [zero-current in the system]. 零电流检测 ",
+            "create-time": 1619390831067,
+            "uid": "89puRXGDE",
+            "edit-time": 1619390840056,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The analysis of measure problem on the [roller brake tester] 滚筒试验台",
+            "create-time": 1619390831067,
+            "uid": "70qH-x-Cs",
+            "edit-time": 1619390843963,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "This thesis solves some measure problem in the traditional [ultrasonic flow meter]. 流量计",
+            "create-time": 1619390831067,
+            "uid": "gQD7xAJFO",
+            "edit-time": 1619390848146,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "ov4uq4k2f",
+        "edit-time": 1617921911929,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -23622,6 +23836,32 @@
         },
         "uid": "grqAHv41F",
         "edit-time": 1618278335730,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "www.[hxen].com",
+        "create-time": 1619390720248,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "But the \"measure problem\" makes [calculating this value] impossible.",
+            "create-time": 1619390782077,
+            "uid": "lgzQXcrOx",
+            "edit-time": 1619390790242,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Yu6DP51Wm",
+        "edit-time": 1619390723602,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -32253,6 +32493,28 @@
       {
         "edit-time": 1619268657546,
         "children": [
+          {
+            "string": "皇汉泛滥，知乎[清史领域](https://www.zhihu.com/question/456232737/answer/1851536142)的[优秀答主]大部分都是[因为这个原因离开]的。 #pt9-100",
+            "create-time": 1619399626787,
+            ":block/refs": [
+              {
+                ":block/uid": "S41onlg92"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S41onlg92"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "mgMtSpABB",
+            "edit-time": 1619399650921,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "edit-time": 1619268913404,
             "children": [
@@ -47644,6 +47906,28 @@
     },
     "children": [
       {
+        "string": "[[regularization]]",
+        "create-time": 1619390259294,
+        ":block/refs": [
+          {
+            ":block/uid": "h62f4gHQa"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "h62f4gHQa"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "aZi8C7UxO",
+        "edit-time": 1619390262609,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1619104070450,
         "children": [
           {
@@ -60755,6 +61039,46 @@
         "edit-time": 1618312244607,
         "children": [
           {
+            "string": "43年[西南联大]偏安昆明，当时[国统区][物价飞涨]，[教授们][薪水捉襟见肘]，[蒋梦麟]有言，道是昆明“物价[一日三跳],有如[脱缰的野马]”，某段时间里豆腐是16块钱一斤，而助教[每月工资]连十斤豆腐的钱都不够，只好纷纷去[做兼职]。无奈[学问太多]，市场有限，搞到最后昆明城里号称只剩下了三样[便宜货]：“邮票、电影和助教”。 #pt9-100",
+            "refs": [
+              {
+                "uid": "S41onlg92"
+              }
+            ],
+            "children": [
+              {
+                "string": "如何生财呢？各有各的高招，[有能耐的]去做[掮客]，[没本事的][变卖家产]，[女学生们]在[蒋梦麟夫人]的领导之下[陪美军跳舞]，每小时入账4刀——那可是 U.S Dollar，货真价实，童叟无欺。",
+                "uid": "3h5SPHWdk",
+                "edit-time": 1619398968578,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "故事讲完了，回到问题上来。[前辈学人](https://www.zhihu.com/question/455761670/answer/1847622440)没有手机，翻书的时候只好[做水磨功夫]，[看见一点有用的东西][就赶紧记下来]，形成卡片，每日汇编整理。许多[先辈大家]都将此作为自己[门下学生]的[必修之道]，直到2000年的时候，北大的朱青生先生还要专门给学生写信详述[制作卡片的规范]跟方法——后来这两封信被收到了《十九札》之中。假如他们知道若干年后，世界上会有手机、OneNote 跟[电子笔记]这种东西，恐怕会高兴得跳起来——这玩意比起[一抽屉一抽屉的卡片]跟索引，可不知强了多少倍。",
+                "create-time": 1619398987026,
+                "uid": "pj0EYCq9k",
+                "edit-time": 1619399128447,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "-vKgsEI4r",
+            "edit-time": 1619399142124,
+            ":block/refs": [
+              {
+                ":block/uid": "S41onlg92"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "edit-time": 1618312709064,
             "children": [
               {
@@ -61069,6 +61393,42 @@
         "string": "the interests of humanity",
         "uid": "pEyxm8DuP",
         "edit-time": 1618357713309,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "pandemic",
+        "create-time": 1619389344045,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[COVID]]",
+            "create-time": 1619389363671,
+            ":block/refs": [
+              {
+                ":block/uid": "S3TkEiKBc"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S3TkEiKBc"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Lxx1HKjzG",
+            "edit-time": 1619389373458,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "BWakhXgTP",
+        "edit-time": 1619389355091,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -66666,11 +67026,125 @@
     },
     "children": [
       {
-        "string": "[[infinite multiverse theories]]; infinitely branching multiverse",
-        "create-time": 1619383377827,
-        ":block/refs": [
+        "edit-time": 1619383382993,
+        "children": [
           {
-            ":block/uid": "VGQb6pYyf"
+            "string": "calculate the limit; the limit of the fractions of each type of universe",
+            "create-time": 1619390322045,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "converge",
+                "uid": "yk4SzVKFV",
+                "edit-time": 1619392334363,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "ordering method",
+                "create-time": 1619393438652,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "[[On-Line Encyclopedia of Integer Sequences (OEIS)]]",
+                    "refs": [
+                      {
+                        "uid": "IuBfkXrFp"
+                      }
+                    ],
+                    "uid": "fmLSkCU4e",
+                    "edit-time": 1619392350798,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "IuBfkXrFp"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "edit-time": 1619393580784,
+                    "children": [
+                      {
+                        "string": "[[cutoff]] of the set or sequence or list",
+                        "refs": [
+                          {
+                            "uid": "ouhq7PDbA"
+                          }
+                        ],
+                        "uid": "vsnRONyrz",
+                        "edit-time": 1619392340674,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ouhq7PDbA"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[[youngness paradox]]",
+                        "create-time": 1619400740331,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "fYxTx8-JL"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "fYxTx8-JL"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "Q6vr-aUrS",
+                        "edit-time": 1619400742610,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "PNslfJ9pZ"
+                      }
+                    ],
+                    "uid": "6jpFQEeGQ",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "PNslfJ9pZ"
+                      }
+                    ],
+                    "string": "[[proper-time cutoff measure]]",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1619393577840,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "Udh-NejFQ",
+                "edit-time": 1619393439248,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "MCk-D_HrT",
+            "edit-time": 1619390444356,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -66678,11 +67152,17 @@
             "uid": "VGQb6pYyf"
           }
         ],
+        "uid": "H_jLtIdDn",
+        ":block/refs": [
+          {
+            ":block/uid": "VGQb6pYyf"
+          }
+        ],
+        "string": "[[infinite multiverse theories]]; infinitely branching multiverse",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "H_jLtIdDn",
-        "edit-time": 1619383382993,
+        "create-time": 1619383377827,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -78694,6 +79174,34 @@
       {
         "edit-time": 1619174372685,
         "children": [
+          {
+            "string": "一个[万人嫌](https://www.zhihu.com/question/456256296/answer/1851847425)的老头，一个[政治异类]，在[中美关系蜜月]内，仅仅因为参与了一项[反华议案]，就得到了往日[不曾得到过的礼遇]，甚至[以往反对他的人]都[对他表示支持和祝贺]。 #pt8-100",
+            "refs": [
+              {
+                "uid": "qf_2NHomZ"
+              }
+            ],
+            "children": [
+              {
+                "string": "什么叫“[反华]是[美国内部][最低限度的基本共识]”，明白了吗？",
+                "uid": "yIMWv3aCt",
+                "edit-time": 1619399264963,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "TE-s41D1F",
+            "edit-time": 1619399360040,
+            ":block/refs": [
+              {
+                ":block/uid": "qf_2NHomZ"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "edit-time": 1619175293516,
             "children": [
@@ -90744,29 +91252,23 @@
         "edit-time": 1619382904236,
         "children": [
           {
-            "string": "Measures [can be evaluated by] whether they predict [observed physical constants], as well as whether they [avoid counterintuitive implications], 违反直觉的暗示 such as the [[youngness paradox]] or [[Boltzmann brain]]s.[2] While dozens of measures [have been proposed],[3]:2 few physicists [consider the problem to be solved].[4]",
+            "string": "Measures [can be evaluated by] whether they predict [observed physical constants], as well as whether they [avoid counterintuitive implications], 违反直觉的暗示 such as the [youngness paradox] or [[Boltzmann brain]]s.[2] While dozens of measures [have been proposed],[3]:2 few physicists [consider the problem to be solved].[4]",
             "create-time": 1619382739817,
             ":block/refs": [
               {
                 ":block/uid": "GHL2783Cr"
-              },
-              {
-                ":block/uid": "fYxTx8-JL"
               }
             ],
             "refs": [
               {
                 "uid": "GHL2783Cr"
-              },
-              {
-                "uid": "fYxTx8-JL"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "QdySh3WLa",
-            "edit-time": 1619383055168,
+            "edit-time": 1619400343139,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -90809,7 +91311,7 @@
             "edit-time": 1619383867159,
             "children": [
               {
-                "string": "In a single universe, [cows born with two heads] are rarer than [cows born with one head]. ^^[But in an infinitely branching multiverse] there are [an infinite number of] [one-headed cows]^^ and an infinite number of two-headed cows. What happens to the [[ratio]]?\n(生出来一头双头牛是极小概率的事件，但在无限多分支的多世界中，这个极小概率的事件显然也必定会发生~~很多次~~无限多次，如何计算该类事件所占的比例--当一个物理学理论给出无穷大的计算结果时，很显然是与现实世界的情况有冲突的，如何解决)\n210426-04:43",
+                "string": "In a single universe, [cows born with two heads] are rarer than [cows born with one head]. ^^[But in an infinitely branching multiverse] there are [an infinite number of] [one-headed cows]^^ and an infinite number of two-headed cows. What happens to the [[ratio]]?\n(生出来一头双头牛是极小概率的事件，但在无限多分支的多世界中，这个极小概率的事件显然也必定会发生~~很多次~~无限多次，如何计算该类事件所占的比例-当一个物理学理论给出无穷大的计算结果时，很显然是与现实世界的情况有冲突的，如何解决)\n210426-04:43",
                 "create-time": 1619383070356,
                 ":block/refs": [
                   {
@@ -90825,7 +91327,7 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "XCLcR4T_k",
-                "edit-time": 1619383601810,
+                "edit-time": 1619400421790,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -90867,13 +91369,35 @@
             "edit-time": 1619384823487,
             "children": [
               {
-                "string": "Say there are an infinite number of universes in which George W. Bush became President in 2000, and also an infinite number in which Al Gore became President in 2000. To calculate the fraction N(Bush)/N(Gore), we need to have a measure — a way of taming those infinities. Usually this is done by “regularization.” We start with a small piece of universe where all the numbers are finite, calculate the fraction, and then let our piece get bigger, and calculate the limit that our fraction approaches.",
+                "string": "Say there are [an infinite number of universes] in which [George W. Bush became President] in 2000, and also an infinite number in which [Al Gore became President in 2000]. To [calculate the fraction]([[fraction]]) N(Bush)/N(Gore), we need to have a measure — a way of [taming those infinities]. 驯服那些无限 Usually this is done by “[[regularization]].” We [start with a small piece of universe] where [all the numbers are finite], calculate the fraction, and then [let our piece get bigger], and [calculate the limit](((MCk-D_HrT))) that [our fraction approaches].\n(重整化，消除物理学理论计算中出现的无穷大计算结果)",
                 "create-time": 1619384807927,
-                "uid": "tynzYQIP0",
-                "edit-time": 1619384811000,
+                ":block/refs": [
+                  {
+                    ":block/uid": "X9IzCjDP2"
+                  },
+                  {
+                    ":block/uid": "h62f4gHQa"
+                  },
+                  {
+                    ":block/uid": "MCk-D_HrT"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "X9IzCjDP2"
+                  },
+                  {
+                    "uid": "h62f4gHQa"
+                  },
+                  {
+                    "uid": "MCk-D_HrT"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "tynzYQIP0",
+                "edit-time": 1619390329367,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -90898,10 +91422,248 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "edit-time": 1619390509038,
+            "children": [
+              {
+                "string": "One way to illustrate how [different regularization methods] [produce different answers] is to [calculate the limit of the fraction of] [sets of positive integers that are even]. 偶数正整数集合 Suppose the integers are [ordered the usual way],\n1, 2, 3, 4, 5, 6, 7, 8, ... ([OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences): [A000027](https://oeis.org/A000027))",
+                "create-time": 1619390349470,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "At a __cutoff__ of \"the first five elements of the list\", the fraction is 2/5; at a [[cutoff]] of \"the first six elements\" the fraction is 1/2; [the limit of the fraction], as the subset grows, [converges to 1/2](((yk4SzVKFV))). However, if the integers are ordered such that [any two consecutive odd numbers] are [separated by two even numbers],\n1, 2, 4, 3, 6, 8, 5, 10, 12, 7, 14, 16, ... ([[On-Line Encyclopedia of Integer Sequences (OEIS)]]: [A265667](https://oeis.org/A265667))\n210426-07:10",
+                    "create-time": 1619392099761,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ouhq7PDbA"
+                      },
+                      {
+                        ":block/uid": "IuBfkXrFp"
+                      },
+                      {
+                        ":block/uid": "yk4SzVKFV"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ouhq7PDbA"
+                      },
+                      {
+                        "uid": "IuBfkXrFp"
+                      },
+                      {
+                        "uid": "yk4SzVKFV"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "e3Mr2wPkQ",
+                    "edit-time": 1619392364653,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "the limit of the fraction of integers that are even [converges to 2/3 rather than 1/2].[5]",
+                    "create-time": 1619393361545,
+                    "uid": "Hw6rhP_uD",
+                    "edit-time": 1619393370872,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "KXT-PHvKO",
+                "edit-time": 1619392079438,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[A popular way to] [decide what ordering to use] in regularization is to pick the simplest or [most natural-seeming method] of [ordering](((Udh-NejFQ))). [Everyone agrees that] the first sequence, ordered by increasing size of the integers, seems more natural. Similarly, [many physicists agree that] the \"[[proper-time cutoff measure]]\" (below) seems [the simplest and most natural method] of regularization. Unfortunately, the proper-time cutoff measure seems to [produce incorrect results].[3]:2[5]\n(一个集合/序列/列表的排序方式的选择)",
+                "create-time": 1619393385470,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Udh-NejFQ"
+                  },
+                  {
+                    ":block/uid": "PNslfJ9pZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Udh-NejFQ"
+                  },
+                  {
+                    "uid": "PNslfJ9pZ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "P737p9Mm3",
+                "edit-time": 1619393551179,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "MCk-D_HrT"
+              }
+            ],
+            "uid": "XMXoKmPMa",
+            ":block/refs": [
+              {
+                ":block/uid": "MCk-D_HrT"
+              }
+            ],
+            "string": "[Different procedures for] [computing the limit of this fraction](((MCk-D_HrT))) [yield wildly different answers].[1]\n210426-06:40",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619390351991,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The measure problem is [important in cosmology] because in order to [compare cosmological theories] [in an infinite multiverse], we need to know [which types of universes] they predict to be [more common than others].[4]\n210426-07:33",
+            "create-time": 1619393383182,
+            "uid": "gjhCED0QY",
+            "edit-time": 1619393638409,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "nuroLCt6m",
         "edit-time": 1619383070361,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Proposed measures",
+        "create-time": 1619393675140,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Proper-time cutoff",
+            "create-time": 1619393675577,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "The __proper-time cutoff measure__ considers the probability $$\\displaystyle P(\\phi ,t)$$ of finding a given [[scalar field]] phi at a given [[proper time]] t.[3]:1–2 During inflation, [the region around a point] grows like $$e^{3 H \\Delta t}$$ [in a small proper-time interval]([[time interval]]) Delta t,[3]:1 where H is the [[Hubble parameter]].\n(测量到暴涨中的标量场的概率)",
+                "create-time": 1619393683696,
+                ":block/refs": [
+                  {
+                    ":block/uid": "iKavrOlj_"
+                  },
+                  {
+                    ":block/uid": "Y-FduNr8H"
+                  },
+                  {
+                    ":block/uid": "1JFNeGL30"
+                  },
+                  {
+                    ":block/uid": "cGw8_31IW"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "iKavrOlj_"
+                  },
+                  {
+                    "uid": "Y-FduNr8H"
+                  },
+                  {
+                    "uid": "1JFNeGL30"
+                  },
+                  {
+                    "uid": "cGw8_31IW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "_A0rJ1uNL",
+                "edit-time": 1619393992459,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "This measure [has the advantage of] [being stationary in the sense that] [probabilities remain the same over time] [in the limit of] large t.[3]:1 However, it suffers from the [[youngness paradox]], which [has the effect of] [making it exponentially more probable that] we'd be [in regions of high temperature], in conflict with what we observe; this is because [regions that exited inflation later](((NNouQKOA5))) than our region, [spent more time than us] experiencing runaway [inflationary exponential growth](((TyPRal3Es))).[3]:2 失控的 For example, [observers in a Universe] of [13.7 billion years old] (our observed age) are outnumbered by observers in a 13.0 billion year old Universe by a factor of $$\\displaystyle 10^{10^{60}}$$. This lopsidedness continues, 不均衡 ^^until [the most numerous observers] resembling us are \"Boltzmann babies\" formed by [improbable fluctuations] in the hot, very early, Universe.^^ Therefore, physicists reject [the simple proper-time cutoff] [as a failed hypothesis].[6]\n(当时间较大时，该测度计算得出的概率趋于稳定-年轻悖论：我们所在的宇宙区域具有高温度的概率指数性地较大-比我们所在区域更晚退出暴涨的区域)\n210426-09:31",
+                "create-time": 1619400225525,
+                ":block/refs": [
+                  {
+                    ":block/uid": "fYxTx8-JL"
+                  },
+                  {
+                    ":block/uid": "NNouQKOA5"
+                  },
+                  {
+                    ":block/uid": "TyPRal3Es"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "fYxTx8-JL"
+                  },
+                  {
+                    "uid": "NNouQKOA5"
+                  },
+                  {
+                    "uid": "TyPRal3Es"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "tTAoea9Sc",
+                "edit-time": 1619400840389,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "In this [toy multiverse](https://en.wikipedia.org/wiki/File:Measure_problem.svg), the left-hand region [exits inflation] (red line) later than the right-hand region does. With the proper-time cutoff shown by the black dotted lines, the immediately post-inflation portion of the left-hand universe dominates the measure, flooding the measure with five \"Boltzmann babies\" (red) that are freakishly young. Extending the proper-time cutoff to later times does not help, as other regions (not pictured) that exit inflation even later would then dominate. With the scale-factor cutoff shown by the gray dotted lines, only observers who exist before the region has expanded by the scale factor are counted, giving normal observers (blue) time to dominate the measure, while the left-hand universe hits the scale cutoff even before it exits inflation in this example.[3]",
+                "create-time": 1619400871773,
+                "uid": "4-vLFmbph",
+                "edit-time": 1619400917981,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "JSOEI3WpG",
+            "edit-time": 1619393683702,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yat9LbZBP",
+        "edit-time": 1619393678857,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -90981,6 +91743,408 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619389373460,
+    "title": "COVID",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1619389392955,
+        "children": [
+          {
+            "edit-time": 1619398892511,
+            "children": [
+              {
+                "string": "正如我从去年[疫情集中爆发]开始就说的那样，[新冠疫情][真正的王炸]是印度，因为印度同时具备[卫生环境差]、人口密度高、[政府管控能力]和效率低下、经济和医疗水平低等[病毒传播的最理想条件]，和去年不一样的是，去年印度政府[重视防控]的情况下，[各大贫民窟]防控是印度面临的最大挑战，但印度政府[放开管控]，再经过洒红节、大壶节和[旷日持久的农民抗议]等活动后，印度疫情[已经完全失控]，唯一出路就是或主动（打疫苗）或被动（躺平硬抗）的[群体免疫]，然而近期印度出现的[双重及三重变异毒株]和美国对疫苗37种[关键原材料][实施出口禁令]一定程度[堵死了]主动群体免疫的路，加上印度经济本就脆弱不堪，[再搞封禁]肯定会死人，印度这波疫情愿不愿意大概率[只能靠硬抗了]。",
+                "create-time": 1619389768152,
+                "uid": "bUeqrgiLY",
+                "edit-time": 1619389824050,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "从今年三月下旬开始，印度的[确诊人数]突然[像雨后春笋一样节节攀升]。我当时的[第一反应]以为[数据弄错了]，或者是政府[修改了检测或确诊的标准]……因为这不科学啊！印度[大部分地区]，从三月中就开始进入[热季]了，四五月份是印度[最热的两个月]，这点[南北印度]都一样，很多地方的[日常气温]可以到40度。而且这段时间基本上也[不怎么下雨]，每天[太阳暴晒]，这就相当于在[给室外环境消毒]，[吐个唾沫星子出去][还没落地就干了]……你要说病毒[在冬季爆发]一下我还能理解，赶在热季爆发[实在是匪夷所思]。",
+                "create-time": 1619391066521,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "大家千万不要觉得印度跟我们之间[隔着喜马拉雅]，我们国家[严防死守]，影响不到我们。我觉得印度这次[大爆发]最可怕之处在于“反季节爆发”——这个词是我自己定义。病毒在[印度热季]这样大爆发意味两件事——第一，病毒已经突变出了[耐高温特性]，可以在盛夏[大肆传播]并[产生症状]，大家可以去看一下[天气预报]，最近印度很多城市都是37、8度甚至40度的天气；第二，就算[有抗体]可能也无济于事，孟买和德里等城市居民的[抗体检出率]都很高，然而在[变异病毒]面前[不堪一击]。",
+                    "create-time": 1619391171760,
+                    "uid": "J9OR8ZVgA",
+                    "edit-time": 1619391261256,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "印度[封城]的逻辑跟咱们是不一样的，中国封城那是在[跟病毒死磕到底]，不把病毒全部闷死不罢休；印度去年的封城本来也想这么搞来着，奈何这个国家[千疮百孔]，一来根本堵不住，二来没等病毒饿死就会[先把老百姓饿死]。比方说现在[北方邦（Uttar Pradesh）]的疫情很严重，[高院裁决]几个城市[封锁一周]，然而[当地政府决定抗命]——去年封城导致了7500万人[返贫]，再次封城的话，[饿死的人]可能比病死的还多，毕竟目前全印度才病死十几万人，两害相权取其轻。",
+                    "create-time": 1619391601521,
+                    "uid": "GB01ZAwK-",
+                    "edit-time": 1619391637938,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "按照我一个多月前的幻想：[这场疫情][到了今年夏天][差不多就该消停了]，毕竟高温可以帮着[抑制病毒]；与此同时[接种过疫苗的人]越来越多，[病毒的生存空间]越来越小，到了年底的时候，[国际旅行]应该就能放宽了；到时候我可以[先一个人回国][办好印度签证]，再回到印度给我儿子办[旅行证]，然后再把妻儿带回中国[上户口]（关于本人尝试[拖家带口回国]的[诸多周折]可参见《[疫苗有时，归期无期——印度疫苗接种记](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3ODEyMDQxNg%3D%3D%26mid%3D2664802382%26idx%3D1%26sn%3Dbadde840ae12cb0b3fdb6c3949c6341c%26chksm%3D84669cc1b31115d7884e05770f36fbea57391715521eb98f3f2f89aad1924d8bf9728d779e71%26scene%3D21%23wechat_redirect)》）……然而从目前的情况来看，这一[幻想已经破灭]，多个国家[封锁了印度的航班]，[回国的计划]再度遥遥无期。",
+                    "create-time": 1619391315220,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "children": [
+                      {
+                        "string": "印度主要亏在[资源有限]，僧多粥少。前些天我写《[疫苗有时，归期无期——印度疫苗接种记]》的时候，印度[疫苗短缺]还[只是我个人的推测]，过了两天之后[这个消息就被实锤了]，现在印度很多[疫苗接种中心]都没有疫苗。要不是那天我太太在医院[死缠烂打]，大概率我就接种不上第二剂了。并且印度宣布了新政策，5月1号起[私立医院]必须自己想办法直接从[制造商]那里[购买疫苗]，政府不再提供[免费疫苗]。莫迪虽然比我早一天[接种第一剂疫苗]，但他比我晚了一个多星期才接种上第二剂，所以我有可能是整个印度[疫苗接种第二阶段]最早[接种完两剂疫苗]的人。",
+                        "create-time": 1619391479731,
+                        "uid": "6ofh9qcUE",
+                        "edit-time": 1619391542670,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "I50NbZS5Y",
+                    "edit-time": 1619391388220,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "dwhEcq_su",
+                "edit-time": 1619391227708,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[纽约时报][报道中国]肯定[加一层阴间滤镜]，但是西方人写印度这个[世界最大的][民主国家][还是很客气的]，毕竟印度[受教育人口]也会英语，[得罪他们][订阅量]就不高了。",
+                "children": [
+                  {
+                    "string": "最重要的是印度人还把握着英语版知乎、Twitter 还有油管的[话语权]，可是说是[英语舆论的一股强大力量]。",
+                    "uid": "z9rnLL3hO",
+                    "edit-time": 1619397972579,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "S8oZCdGvA",
+                "edit-time": 1619397961767,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "VY-0GE6cY"
+              }
+            ],
+            "uid": "P96XJjFJq",
+            ":block/refs": [
+              {
+                ":block/uid": "VY-0GE6cY"
+              }
+            ],
+            "string": "对我国[最大影响]就是，[多次变异病株](https://www.zhihu.com/question/456287206/answer/1852081547)可能会使得我国[疫苗效果下降]，不过[第二代疫苗]也会[逐步研发生产]，但这样的话，最近3.4年恐怕我们[要至少接种2到3代疫苗]，才能[在全世界范围][控制新冠]了。我国[对外人员流动限制]，恐怕今年甚至明年都是[无法彻底解除]的，因为各种[变异病株]不断出现，哪怕[全民打了疫苗]，[国际人员流通]依然[存在较大风险]。世界范围[病毒得到全面遏止]，我国才能彻底回复之前人员流动，而非洲跟印度这这些养蛊地持续不断的变异病株，使得这种开放会不断延后。 #pt8-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619389392950,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "wEw_oq1ia",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619389378607,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "S3TkEiKBc",
+    "edit-time": 1619389373461,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619390136398,
+    "title": "fraction",
+    "uid": "X9IzCjDP2",
+    "edit-time": 1619390136399,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619390189379,
+    "title": "regularization",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((MCk-D_HrT))",
+        "create-time": 1619390465350,
+        ":block/refs": [
+          {
+            ":block/uid": "MCk-D_HrT"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "MCk-D_HrT"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "m5NlUt8rU",
+        "edit-time": 1619390473750,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "h62f4gHQa",
+    "edit-time": 1619390189379,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619392123437,
+    "title": "cutoff",
+    "uid": "ouhq7PDbA",
+    "edit-time": 1619392123438,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619392294914,
+    "title": "On-Line Encyclopedia of Integer Sequences (OEIS)",
+    "uid": "IuBfkXrFp",
+    "edit-time": 1619392294915,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619393551181,
+    "title": "proper-time cutoff measure",
+    "uid": "PNslfJ9pZ",
+    "edit-time": 1619393551182,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619393872961,
+    "title": "April 26th, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[measure problem in cosmology]]\n210426-07am",
+        "create-time": 1619393873517,
+        ":block/refs": [
+          {
+            ":block/uid": "9-nvL8vl8"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "9-nvL8vl8"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "KDe8AnNdY",
+        "edit-time": 1619393881790,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "04-26-2021",
+    "edit-time": 1619393872961,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619393920368,
+    "title": "scalar field",
+    "uid": "iKavrOlj_",
+    "edit-time": 1619393920369,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619393920368,
+    "title": "proper time",
+    "uid": "Y-FduNr8H",
+    "edit-time": 1619393920369,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619393956017,
+    "title": "time interval",
+    "uid": "1JFNeGL30",
+    "edit-time": 1619393956018,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619393956017,
+    "title": "Hubble parameter",
+    "uid": "cGw8_31IW",
+    "edit-time": 1619393956018,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619396942908,
+    "title": "physics/field",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[force field]]",
+        "refs": [
+          {
+            "uid": "VNkcSXeP7"
+          }
+        ],
+        "children": [
+          {
+            "string": "((8xH2uTtsH))",
+            "create-time": 1617937200578,
+            ":block/refs": [
+              {
+                ":block/uid": "8xH2uTtsH"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8xH2uTtsH"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "kxLOitL4X",
+            "edit-time": 1617937201829,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "K_A7dfVeX",
+        "edit-time": 1617937204626,
+        ":block/refs": [
+          {
+            ":block/uid": "VNkcSXeP7"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[scalar field]]",
+        "create-time": 1619396947811,
+        ":block/refs": [
+          {
+            ":block/uid": "iKavrOlj_"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "iKavrOlj_"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "VL0sWjd1y",
+        "edit-time": 1619396950775,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "HKh8IkEbt",
+    "edit-time": 1619396942909,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

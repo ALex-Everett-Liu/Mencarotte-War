@@ -2,8 +2,11 @@
     - the beginning of the universe; the origin of the universe
         - highly ordered; a highly ordered environment
     - [[big bang]]
+    - [[Hubble parameter]]
     - [[inflationary cosmology]]: 暴涨宇宙学 
         - [[eternal inflation]]
+        - exit inflation
+        - inflationary exponential growth
     - matter-dominated early universe
     - the shape of space
     - the size of the universe
@@ -14,7 +17,7 @@
     - diffuse uniform energy: 弥散的均匀的能量 
 - [[cosmological horizon]]
 - [[cosmic microwave background radiation (CBR)]]
-- [[measure problem in cosmology]]
+- [[measure problem in cosmology]]: 测度问题
 - [[quantum cosmology]]
 - [[universe]]
     - the amount of matter in the universe; material content; matter content

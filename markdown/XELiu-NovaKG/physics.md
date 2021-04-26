@@ -7,9 +7,7 @@
 - [[computational physics]]
 - [[electrodynamics]]
 - [[experimental physics]]; [[experimental physicist]]
-- field
-    - [[force field]]
-        - [[electromagnetic field]]; the electric and magnetic fields
+- [[physics/field]]
 - general...
     - abstract...
         - [[abstract idea]]

@@ -7,6 +7,11 @@
 - www.[cnblogs].com
     - They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. 
 - dict.cnki.net
+    - When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机
+    - ---
+    - Also, this paper analysis the measure problem of the [zero-current in the system]. 零电流检测 
+    - The analysis of measure problem on the [roller brake tester] 滚筒试验台
+    - This thesis solves some measure problem in the traditional [ultrasonic flow meter]. 流量计
 - 柯林斯词典 (柯林斯高阶英汉双解学习词典)
     - Let me [set the record straight on the misconceptions] [contained in your article]. 
     - ---
@@ -18,6 +23,8 @@
 - www.[[fortunechina]].com
 - www.[[ftchinese]].com
 - www.[[hjenglish]].com
+- www.[hxen].com
+    - But the "measure problem" makes [calculating this value] impossible.
 - provided by [[jukuu]]
     - She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 
     - ---

@@ -206,7 +206,7 @@
         - fr
             - fracted
                 - fractal
-                    - fraction
+                    - [[fraction]]
             - frame
                 - framework, 2
             - frequent
@@ -346,6 +346,13 @@
                 - perpendicular
                 - perplex
                     - perplexing;
+        - pl
+            - pla
+                - play
+                    - display
+                        - displayed;
+                    - playing;
+                - plaza: 广场, 市场, 购物区;
         - po
             - police
                 - polite

@@ -1,6 +1,8 @@
 - conference
     - [[press conference]]
 - the interests of humanity
+- pandemic
+    - [[COVID]]
 - [[population]]
     - [[family]]
 - [[questionnaire]]

@@ -4,6 +4,8 @@
 - [[international relations]]
 - [[tribute]]
 - #inbox
+    - 一个[万人嫌](https://www.zhihu.com/question/456256296/answer/1851847425)的老头，一个[政治异类]，在[中美关系蜜月]内，仅仅因为参与了一项[反华议案]，就得到了往日[不曾得到过的礼遇]，甚至[以往反对他的人]都[对他表示支持和祝贺]。 #pt8-100
+        - 什么叫“[反华]是[美国内部][最低限度的基本共识]”，明白了吗？
     - 你把 Wendover/RealLifeLore/PolyMatter [等等这一系列的]看成[欧美营销号]就挺好理解了，[受众看得开心][才是最重要的]，想想[国内营销号][整天发些什么]吧
 这些营销号还算[稍微做点功课了的]，像 The Infographics Show 吹4V可[单刷大胜]搞得4V都觉得[吹太过了]
 其实即使是 CaspianReport 这种[看似认真调查了]的，一到了[中俄问题]就开始充满 wishful thinking，这也很好理解，国内同样有[看起来什么都精通]但[讲到自己所在领域]就[听着想打人](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=2000474)了 #pt8-99.98
