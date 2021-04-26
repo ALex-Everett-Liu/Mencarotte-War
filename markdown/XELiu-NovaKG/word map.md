@@ -25,6 +25,15 @@
                     - assessing;
                     - [[sober assessment]];
     - b
+        - ba
+            - back, 2
+            - band
+            - barbaric
+                - barbarian; barbarians; barbarization
+            - barrier
+                - lower the entry barriers;
+            - basic
+                - basics;
         - be
             - begin
                 - beginning;

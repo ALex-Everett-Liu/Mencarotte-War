@@ -2,9 +2,7 @@
 - [[link]]
 - [[markup language]]; [[markup]]
 - [[source]]; [[resource]]
-    - [[upload]]; [[download]]
-    - [[Web Clipper]]
-        - [[read it later (RIL)]]; 稍后阅读工具
+    - [[information source]]; information resource
 - [[upload]]; [[download]]
 - [[web browser]]; browser
     - [[Chrome]]

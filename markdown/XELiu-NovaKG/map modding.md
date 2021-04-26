@@ -1,3 +1,9 @@
+- building
+    - [[special building]]; [[building slot]];
+    - [[building locator]]
+        - gfx\map\map_object_data\building_locators (b-004)
+        - gfx\map\map_object_data\combat_locators (b-005)
+- ---
 - my workflow 
     1. map_data/definition.csv -- 确定地块与色块
     2. gfx/map/map_object_data/[[building locator]]s -- 确定城镇建筑坐标

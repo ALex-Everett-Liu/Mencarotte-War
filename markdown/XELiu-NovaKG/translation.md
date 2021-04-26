@@ -1,5 +1,6 @@
 - English translation
 - [[localization]]
+    - [[native language]]
 - translation tools
     - [baidu fanyi](https://fanyi.baidu.com/)
     - [DeepL](https://www.deepl.com/translator)

@@ -2,8 +2,7 @@
 - [[game mechanics]]
 - [[game rule]]
 - [[interactive game]]
-- [[modding]]
-    - [[Steam Workshop]]
+- [[modding]]; creating mods
 - [[Paradox Interactive]]
 - game platform...
     - [[Game/Steam]]

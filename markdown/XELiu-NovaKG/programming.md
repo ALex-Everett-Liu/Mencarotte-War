@@ -17,6 +17,7 @@
     - [[snippet]]
     - [[source code]]
     - throwaway code
+    - working vanilla code;
 - [[command line]]; [[command-line interface]]; shell; Shell
 - evaluate; evaluation
 - expression

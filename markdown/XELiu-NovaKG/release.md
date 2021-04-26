@@ -3,6 +3,8 @@
     - maintain the system
     - [[maintainer]];
 - [[package]]
+- [[personal use]]
+- release publicly;
 - trial
 - test
     - pressure-test
