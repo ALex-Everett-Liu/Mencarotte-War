@@ -1,0 +1,1 @@
+- C:\Users\Zz\Documents\Paradox Interactive\Crusader Kings III\save games

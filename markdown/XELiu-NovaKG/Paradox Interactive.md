@@ -1,0 +1,9 @@
+- file management -- directories
+    - main game
+        - D:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game
+    - [[mod management]]
+    - [[save game]]
+- [[Paradox Development Studio (PDS)]]
+    - [[Clausewitz Engine]]
+    - [[Crusader Kings II (CK2)]]; [[Crusader Kings III (CK3)]]
+- [paradox plaza](((A8pNv3Mgv)))

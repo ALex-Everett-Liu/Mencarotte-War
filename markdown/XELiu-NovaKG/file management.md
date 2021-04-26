@@ -9,7 +9,7 @@
     - summary record of my storage
 - [[directory]]
     - [[folder]]
-    - [[file path]]
+    - [[file path]]; [[path]]
     - [[subdirectory]]
 - [[explorer]]
     - [[web browser]]; browser
@@ -35,4 +35,4 @@
     - [[thumbnail]]
 - general...
     - blank file
-    - remote file
+    - [[remote file]]

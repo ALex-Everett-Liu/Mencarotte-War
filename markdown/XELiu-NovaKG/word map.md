@@ -137,6 +137,16 @@
             - demonstrate, 2
                 - demo;
                 - demonstration;
+            - des
+                - describe
+                    - [[descriptor]];
+                - design
+                    - designate
+                        - designating;
+                - desire
+                    - desirable;
+                - desperate
+                    - desperation;
             - det
                 - detail
                     - in-detail;
@@ -187,6 +197,11 @@
         - ex
             - exclude
     - f
+        - fa
+            - fact
+                - factor
+                    - refactor: 重构, 重整;
+                    - [[scale factor]]: 比例因子; scale-factor;
         - fi
             - fin
                 - find

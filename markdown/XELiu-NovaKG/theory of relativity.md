@@ -1,6 +1,9 @@
 - [[general theory of relativity]]; [[general relativity]]
-    - [[proper time]]
-        - [[proper-time cutoff measure]]
+    - parameterize time
+        - by the scale factor of space
+            - space expansion factor
+        - [[proper time]]
+            - [[proper-time cutoff measure]]
 - [[nonrelativistic motion]]
 - [[relative motion]]
 - space and time; [[spacetime]]
