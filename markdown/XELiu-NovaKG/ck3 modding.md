@@ -1,4 +1,7 @@
-- [[characters modding]]; [[ck3 characters]]; [[ck2 characters]]
+- [[ck3 characters]]; [[ck2 characters]]
+    - [[characters modding]]; 
+    - [[ck3 traits]]
+    - dynasty
 - [[ck3 history]]
 - [[ck3 localization]]; [[localization]]
 - [[map modding]]
@@ -7,7 +10,8 @@
 - [Abstract](https://ck3.paradoxwikis.com/Modding)
     - [Modding]([[modding]]), or [creating mods], is the act of modifying the [[asset]]s or [behavior of the game] either for [[personal use]], or to [release publicly](((r5AeYZqom))) to other [[player]]s, for instance via [Paradox Mods](https://mods.paradoxplaza.com/games/ck3) or the [Steam Workshop](https://steamcommunity.com/app/1158310/workshop/). #[[Steam Workshop]]
     - As with all Paradox games, Crusader Kings III is [moddable to a great extent]([[moddable]]). [Motivations of modders] [may vary widely]; better translation to [[native language]], more events or decisions, better map, [[major overhaul]], [[cheating]], etc.
-    - [This guide is intended to] [lower the entry barriers to the world of](((Eu46_sor_))) [Crusader Kings III modding]. However, there is still a [[learning curve]] to it, and [it cannot replace the need to] read some [working vanilla code] and [do lots of trial]([[trial]]) and [[error experimentation]].
-    - __Important__: the majority of mods will change the checksum, not allowing the player to get achievements. See checksum_manifest.txt in the game folder for the list of checksummed folders and files. The only safe mods are the ones that replace textures, shaders, fonts or music.
+    - [This guide is intended to] [lower the entry barriers to the world of](((Eu46_sor_))) [Crusader Kings III modding]. However, there is still a [[learning curve]] to it, and [it cannot replace the need to] read some [working vanilla code](((TvjoQD_Uw))) and [do lots of trial]([[trial]]) and [[error experimentation]].
+210426-17:48
+    - __Important__: [the majority of mods] will [change the checksum]([[checksum]]), [not allowing the player to] [get achievements]([[achievement]]). See `checksum_manifest.txt` [in the game folder] [for the list of] [checksummed folders and files]. [The only safe mods] are the ones that replace textures, shaders, fonts or music.
 - Index
     - **Scripting** -- [[characters modding]] | 

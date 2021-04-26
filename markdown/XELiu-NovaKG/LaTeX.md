@@ -9,5 +9,6 @@
     - [[KaTex]]
     - [[MathJax]]
 - #index
+    - 以前我用 Emacs 的时候打 LaTeX 比较快。专门为 LaTeX [写了个配置文件]，一方面做 snippet，另一方面做[直观化]，基本把[常用公式]做成[所见即所得](https://www.zhihu.com/question/265122140/answer/1855373350)了。 #pt9-100
     - 目前在 MathJax 3 里面貌似[不能直接通过] `\\` 来[换行](https://ld246.com/article/1619319439534)： #pt8-100
 [The line break(\) is not work · Issue #2312 · mathjax/MathJax · GitHub](https://link.ld246.com/forward?goto=https%3A%2F%2Fgithub.com%2Fmathjax%2FMathJax%2Fissues%2F2312)

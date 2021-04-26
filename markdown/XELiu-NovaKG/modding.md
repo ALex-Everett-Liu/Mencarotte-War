@@ -1,5 +1,6 @@
 - [[cheating]]
     - [[cheat engine]]
+- [[checksum]]; checksum manifest
 - [[major overhaul]]
 - [[moddable]]
 - [[modder]]

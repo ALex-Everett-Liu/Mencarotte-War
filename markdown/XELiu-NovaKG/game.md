@@ -1,6 +1,7 @@
 - campaign; [[campaign settings]]
 - [[game mechanics]]
 - [[game rule]]
+- goal; [[achievement]]
 - [[interactive game]]
 - [[modding]]; creating mods
 - [[Paradox Interactive]]

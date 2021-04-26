@@ -11711,9 +11711,19 @@
         }
       },
       {
-        "string": "trial",
+        "string": "[[trial]]",
+        "refs": [
+          {
+            "uid": "eZVh4V9c9"
+          }
+        ],
         "uid": "tbI5GTh3m",
-        "edit-time": 1618179882591,
+        "edit-time": 1619430700922,
+        ":block/refs": [
+          {
+            ":block/uid": "eZVh4V9c9"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -32488,6 +32498,42 @@
         "edit-time": 1617733148582,
         "children": [
           {
+            "edit-time": 1619431288173,
+            "children": [
+              {
+                "string": "如果说安史之乱前[能采取什么措施]，我认为在[河北中南部][建立一个节度使]可能最好，历史应对[契丹之乱]，当时一个[幽州]组建[范阳军]，一个是河北中南部用[本地团练兵][组建一个二线部队]，但是[唐明皇][没把这块整合起来]。历史这些人以[颜真卿]他们起来，但是分散[缺乏整合][被各个击破了]……",
+                "create-time": 1619431226948,
+                "uid": "cRkvZr8VF",
+                "edit-time": 1619431258621,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "VY-0GE6cY"
+              }
+            ],
+            "uid": "WjcRl9vx1",
+            ":block/refs": [
+              {
+                ":block/uid": "VY-0GE6cY"
+              }
+            ],
+            "string": "历史安禄山那个[三镇节度使]，[河东本部]其实安禄山[不能控制]，他[能控制的是]河东有力一部的[大同盆地]的部队，而[平卢节度使]本来就是从范阳[拆分出来]的，兵力不强，从[军事体制]上范阳平卢[本来就是一体化的]，而且后边平卢也[反正]了甚至[南渡到山东]，[日后也学着][安史叛军]割据，闹到[唐宪宗]时期[才彻底消灭](https://bbs.northdy.com/thread-930151-1-1.html)。 #pt8-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619431168658,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "edit-time": 1617733154865,
             "children": [
               {
@@ -33239,11 +33285,53 @@
         }
       },
       {
-        "string": "[[learning]]...",
-        "create-time": 1617936345384,
-        ":block/refs": [
+        "edit-time": 1617936351995,
+        "children": [
           {
-            ":block/uid": "waY5zr0Ii"
+            "edit-time": 1619430626640,
+            "children": [
+              {
+                "string": "((QnM74teNT))",
+                "create-time": 1619430639197,
+                ":block/refs": [
+                  {
+                    ":block/uid": "QnM74teNT"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "QnM74teNT"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "1Zh5DGmJV",
+                "edit-time": 1619430640665,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "OFkhu8P_n"
+              }
+            ],
+            "uid": "M9EPo5kn0",
+            ":block/refs": [
+              {
+                ":block/uid": "OFkhu8P_n"
+              }
+            ],
+            "string": "[[learning curve]]",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619430620538,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -33251,11 +33339,17 @@
             "uid": "waY5zr0Ii"
           }
         ],
+        "uid": "AldQwsyq1",
+        ":block/refs": [
+          {
+            ":block/uid": "waY5zr0Ii"
+          }
+        ],
+        "string": "[[learning]]...",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "AldQwsyq1",
-        "edit-time": 1617936351995,
+        "create-time": 1617936345384,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -57215,6 +57309,28 @@
         "edit-time": 1619333171036,
         "children": [
           {
+            "string": "以前我用 Emacs 的时候打 LaTeX 比较快。专门为 LaTeX [写了个配置文件]，一方面做 snippet，另一方面做[直观化]，基本把[常用公式]做成[所见即所得](https://www.zhihu.com/question/265122140/answer/1855373350)了。 #pt9-100",
+            "create-time": 1619435046850,
+            ":block/refs": [
+              {
+                ":block/uid": "S41onlg92"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S41onlg92"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "PTZnVj93W",
+            "edit-time": 1619435075306,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "目前在 MathJax 3 里面貌似[不能直接通过] `\\\\` 来[换行](https://ld246.com/article/1619319439534)： #pt8-100\n[The line break(\\) is not work · Issue #2312 · mathjax/MathJax · GitHub](https://link.ld246.com/forward?goto=https%3A%2F%2Fgithub.com%2Fmathjax%2FMathJax%2Fissues%2F2312)",
             "refs": [
               {
@@ -60988,6 +61104,28 @@
       {
         "string": "error",
         "children": [
+          {
+            "string": "[[error experimentation]];",
+            "create-time": 1619430752313,
+            ":block/refs": [
+              {
+                ":block/uid": "yPYN5mBQF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "yPYN5mBQF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "abRHPtl-l",
+            "edit-time": 1619430756618,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "error-free;",
             "uid": "CHvJpih4V",
@@ -80823,6 +80961,28 @@
         }
       },
       {
+        "string": "goal; [[achievement]]",
+        "create-time": 1619430932607,
+        ":block/refs": [
+          {
+            ":block/uid": "ljlnWzVP6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ljlnWzVP6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "OzIGO18EJ",
+        "edit-time": 1619430935389,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[interactive game]]",
         "refs": [
           {
@@ -81136,6 +81296,28 @@
             ":block/uid": "Ta6Y-lmYG"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[checksum]]; checksum manifest",
+        "create-time": 1619430940839,
+        ":block/refs": [
+          {
+            ":block/uid": "HXbj_VeDD"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "HXbj_VeDD"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "XDTAFFXWd",
+        "edit-time": 1619430975845,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -93279,6 +93461,30 @@
             "uid": "Vie4xQbcs"
           }
         ],
+        "children": [
+          {
+            "string": "[[ck3 mechanics]]",
+            "create-time": 1619435898958,
+            ":block/refs": [
+              {
+                ":block/uid": "S4mU6HZJv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S4mU6HZJv"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "2kRBhP5Tx",
+            "edit-time": 1619435902983,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "9j0pfdMpT",
         "edit-time": 1619410849465,
         ":block/refs": [
@@ -93312,11 +93518,59 @@
   {
     "create-time": 1619410839768,
     "title": "characters modding",
-    "uid": "tZmhgK8MO",
-    "edit-time": 1619410839776,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "alternative or custom start?",
+        "children": [
+          {
+            "string": "[[ruler designer]]",
+            "refs": [
+              {
+                "uid": "t8j13ofQ_"
+              }
+            ],
+            "children": [
+              {
+                "string": "appearance",
+                "uid": "ShZa_xCwG",
+                "edit-time": 1619436089128,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "OfsA7gNwc",
+            "edit-time": 1619436110666,
+            ":block/refs": [
+              {
+                ":block/uid": "t8j13ofQ_"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yUolAz0cq",
+        "edit-time": 1619436089128,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "character ID",
+        "uid": "8xWf_m_kT",
+        "edit-time": 1619436089128,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "tZmhgK8MO",
+    "edit-time": 1619410839776,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -93645,11 +93899,8 @@
     },
     "children": [
       {
-        "string": "[[characters modding]]; [[ck3 characters]]; [[ck2 characters]]",
+        "string": "[[ck3 characters]]; [[ck2 characters]]",
         "refs": [
-          {
-            "uid": "tZmhgK8MO"
-          },
           {
             "uid": "QMzGKidZV"
           },
@@ -93657,12 +93908,59 @@
             "uid": "rIOsxdJ81"
           }
         ],
-        "uid": "YjsSMlRMt",
-        "edit-time": 1619410839776,
-        ":block/refs": [
+        "children": [
           {
-            ":block/uid": "tZmhgK8MO"
+            "string": "[[characters modding]]; ",
+            "create-time": 1619436040813,
+            ":block/refs": [
+              {
+                ":block/uid": "tZmhgK8MO"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "tZmhgK8MO"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "qVUUXYuav",
+            "edit-time": 1619436042488,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           },
+          {
+            "string": "[[ck3 traits]]",
+            "refs": [
+              {
+                "uid": "AFlv94QFx"
+              }
+            ],
+            "uid": "gWVJOqXKt",
+            "edit-time": 1619436063409,
+            ":block/refs": [
+              {
+                ":block/uid": "AFlv94QFx"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "dynasty",
+            "uid": "KgSIFrN4b",
+            "edit-time": 1619436059946,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "YjsSMlRMt",
+        "edit-time": 1619436040503,
+        ":block/refs": [
           {
             ":block/uid": "QMzGKidZV"
           },
@@ -93846,7 +94144,7 @@
             }
           },
           {
-            "string": "[This guide is intended to] [lower the entry barriers to the world of](((Eu46_sor_))) [Crusader Kings III modding]. However, there is still a [[learning curve]] to it, and [it cannot replace the need to] read some [working vanilla code] and [do lots of trial]([[trial]]) and [[error experimentation]].",
+            "string": "[This guide is intended to] [lower the entry barriers to the world of](((Eu46_sor_))) [Crusader Kings III modding]. However, there is still a [[learning curve]] to it, and [it cannot replace the need to] read some [working vanilla code](((TvjoQD_Uw))) and [do lots of trial]([[trial]]) and [[error experimentation]].\n210426-17:48",
             "refs": [
               {
                 "uid": "Eu46_sor_"
@@ -93859,10 +94157,13 @@
               },
               {
                 "uid": "yPYN5mBQF"
+              },
+              {
+                "uid": "TvjoQD_Uw"
               }
             ],
             "uid": "l4UF5rsSd",
-            "edit-time": 1619430401200,
+            "edit-time": 1619430712034,
             ":block/refs": [
               {
                 ":block/uid": "Eu46_sor_"
@@ -93875,6 +94176,9 @@
               },
               {
                 ":block/uid": "yPYN5mBQF"
+              },
+              {
+                ":block/uid": "TvjoQD_Uw"
               }
             ],
             ":edit/user": {
@@ -93882,9 +94186,25 @@
             }
           },
           {
-            "string": "__Important__: the majority of mods will change the checksum, not allowing the player to get achievements. See checksum_manifest.txt in the game folder for the list of checksummed folders and files. The only safe mods are the ones that replace textures, shaders, fonts or music.",
+            "string": "__Important__: [the majority of mods] will [change the checksum]([[checksum]]), [not allowing the player to] [get achievements]([[achievement]]). See `checksum_manifest.txt` [in the game folder] [for the list of] [checksummed folders and files]. [The only safe mods] are the ones that replace textures, shaders, fonts or music.",
+            "refs": [
+              {
+                "uid": "HXbj_VeDD"
+              },
+              {
+                "uid": "ljlnWzVP6"
+              }
+            ],
             "uid": "5rzurzAh6",
-            "edit-time": 1619428066198,
+            "edit-time": 1619431006956,
+            ":block/refs": [
+              {
+                ":block/uid": "HXbj_VeDD"
+              },
+              {
+                ":block/uid": "ljlnWzVP6"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -94362,6 +94682,124 @@
     "title": "error experimentation",
     "uid": "yPYN5mBQF",
     "edit-time": 1619430401203,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619430852705,
+    "title": "checksum",
+    "uid": "HXbj_VeDD",
+    "edit-time": 1619430852706,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619430902775,
+    "title": "achievement",
+    "uid": "ljlnWzVP6",
+    "edit-time": 1619430902776,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619435902985,
+    "title": "ck3 mechanics",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "**Characters** -- [[ck3 traits]] •",
+        "create-time": 1610512605957,
+        ":block/refs": [
+          {
+            ":block/uid": "AFlv94QFx"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "AFlv94QFx"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "JZk-fycly",
+        "edit-time": 1619435914763,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "**Faith** -- [[ck3 religion]] | ",
+        "create-time": 1610458612854,
+        ":block/refs": [
+          {
+            ":block/uid": "mPc4MPy1L"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mPc4MPy1L"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "LMurguh92",
+        "edit-time": 1619435914763,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "S4mU6HZJv",
+    "edit-time": 1619435902986,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619435914770,
+    "title": "ck3 traits",
+    "uid": "AFlv94QFx",
+    "edit-time": 1619435914770,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619435914774,
+    "title": "ck3 religion",
+    "uid": "mPc4MPy1L",
+    "edit-time": 1619435914774,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619436110669,
+    "title": "ruler designer",
+    "uid": "t8j13ofQ_",
+    "edit-time": 1619436110669,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

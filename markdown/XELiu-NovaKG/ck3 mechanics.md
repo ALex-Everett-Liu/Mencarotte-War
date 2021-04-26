@@ -1,0 +1,2 @@
+- **Characters** -- [[ck3 traits]] •
+- **Faith** -- [[ck3 religion]] | 

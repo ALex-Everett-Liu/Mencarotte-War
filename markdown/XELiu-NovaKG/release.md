@@ -5,7 +5,7 @@
 - [[package]]
 - [[personal use]]
 - release publicly;
-- trial
+- [[trial]]
 - test
     - pressure-test
     - script test

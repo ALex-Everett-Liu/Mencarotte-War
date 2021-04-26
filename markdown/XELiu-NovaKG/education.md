@@ -1,5 +1,7 @@
 - [[higher education]]
 - [[learning]]...
+    - [[learning curve]]
+        - learning cost;
 - [[pedagogy]]: 教学法
 - practical application
 - school

@@ -3,6 +3,7 @@
     - bug fixes;
     - tracking bugs;
 - error
+    - [[error experimentation]];
     - error-free;
     - error-prone
     - error report; error message; error log
