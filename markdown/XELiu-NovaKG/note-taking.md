@@ -61,6 +61,7 @@
         - 在[扩展语法]的道路上[越走越远]以后，我们发现这似乎是在[开历史的倒车]。随着更多[特定语法]的引入，Markdown 的[通用性]逐步散失，就好像变成了[特定软件的私有格式]一般。更讽刺的是，[语法引入]却不能解决 Markdown 最大的问题 —— 自带资源文件（虽然 TextBundle/TextPack 做了一些努力，但[就目前而言]基本也还是[不通用]）。
         - 我觉得这是一个发展方向, 我个人也认为原始纯粹的 md 本身[并不适合做笔记].
             - 这并不像更简单 json 取代复杂的 xml 那样, 因为[用途不一样], 我觉得 用 usd 做类比, [展望笔记的未来]才更合适.
+    - 现在[缺陷还很多]。主要是我 [js 代码]是[花了两个小时]查看 zotero 的 api+ [学习例子和教程]学来的；同时 [Quicker 宏编程]我也是参考了很多 [zplusless](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2FUser%2FActions%2F110499-zplusless) [大佬][摘录助手-增强版](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2Fsharedaction%3Fcode%3D623da485-f979-4fda-414e-08d84e0e87c8)的内容，我自己[之前并没有接触过]，问题很多。。。我觉得[主要如下](https://ld246.com/article/1619536691753)： #pt9-99.99
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
     - 今天在群里了解到一款——知识图谱项目[前端可视化]图论库 cytoscape.js（[这一大串名头是查出来的](https://link.ld246.com/forward?goto=https%3A%2F%2Fwww.cnblogs.com%2Fzhilin%2Fp%2F12074688.html)），自带[一键分析图谱]功能，我感觉很适合[在此基础上]做[双链笔记的关系图](https://ld246.com/article/1618829898054)。 #pt9-99.98
     - Vscode的[Markdown插件]我也试过，在VScode上进行[Markdown写作]最方便的地方在于可以[自定义一些snippet]来[缩短一些重复输入的时间]，不过比较遗憾的是它并不能像Typora那样[实时渲染](https://sspai.com/post/65682)，而实时渲染是Typora吸引我的主要原因之一。

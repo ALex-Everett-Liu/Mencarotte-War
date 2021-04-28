@@ -122,8 +122,8 @@
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid64a352e9-ad90-4892-bb77-e6e007b7dc09"
-   536968699]
+   "uuid44005e0d-a807-4c61-bdff-24d49d26f151"
+   536968724]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -33891,7 +33891,8 @@
   [18687 :block/children 20438 536956693]
   [18687 :block/children 20525 536956966]
   [18687 :block/children 21694 536961180]
-  [18687 :block/open false 536961245]
+  [18687 :block/children 23231 536968702]
+  [18687 :block/open true 536968702]
   [18687 :block/order 13 536963539]
   [18687 :block/page 14912 536949911]
   [18687 :block/parents 14912 536949911]
@@ -33904,7 +33905,7 @@
   [18687 :edit/time 1618350724285 536949914]
   [18687 :edit/user 3 536949910]
   [18689 :block/open true 536949918]
-  [18689 :block/order 3 536961240]
+  [18689 :block/order 4 536968724]
   [18689 :block/page 14912 536949919]
   [18689 :block/parents 14912 536949919]
   [18689 :block/parents 18687 536949919]
@@ -46858,7 +46859,7 @@
   [20051 :block/children 20050 536955217]
   [20051 :block/children 20052 536955227]
   [20051 :block/open false 536956707]
-  [20051 :block/order 5 536961238]
+  [20051 :block/order 6 536968722]
   [20051 :block/page 14912 536955215]
   [20051 :block/parents 14912 536955215]
   [20051 :block/parents 18687 536955215]
@@ -51135,7 +51136,7 @@
   [20524 :edit/time 1618894117066 536956964]
   [20524 :edit/user 3 536956964]
   [20525 :block/open true 536956966]
-  [20525 :block/order 4 536961239]
+  [20525 :block/order 5 536968723]
   [20525 :block/page 14912 536956967]
   [20525 :block/parents 14912 536956967]
   [20525 :block/parents 18687 536956967]
@@ -76387,4 +76388,26 @@
   [23229 :edit/time 1619574313158 536968699]
   [23229 :edit/user 3 536968699]
   [23229 :log/id 1619574313157 536968699]
-  [23229 :node/title "April 28th, 2021" 536968699]]}
+  [23229 :node/title "April 28th, 2021" 536968699]
+  [23231 :block/open true 536968702]
+  [23231 :block/order 3 536968724]
+  [23231 :block/page 14912 536968703]
+  [23231 :block/parents 14912 536968703]
+  [23231 :block/parents 18687 536968703]
+  [23231 :block/refs 15799 536968721]
+  [23231
+   :block/string
+   "现在[缺陷还很多]。主要是我 [js 代码]是[花了两个小时]查看 zotero 的 api+ [学习例子和教程]学来的；同时 [Quicker 宏编程]我也是参考了很多 [zplusless](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2FUser%2FActions%2F110499-zplusless) [大佬][摘录助手-增强版](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2Fsharedaction%3Fcode%3D623da485-f979-4fda-414e-08d84e0e87c8)的内容，我自己[之前并没有接触过]，问题很多。。。我觉得[主要如下](https://ld246.com/article/1619536691753)： #pt9-99.99"
+   536968720]
+  [23231 :block/uid "7V0_iVfwE" 536968702]
+  [23231 :edit/seen-by 3 536968704]
+  [23231 :edit/time 1619586026750 536968720]
+  [23231 :edit/user 3 536968702]
+  [23233 :block/string "" 536968705]
+  [23233 :block/uid "8-7rY8U2q" 536968705]
+  [23233 :edit/time 1619585973309 536968705]
+  [23233 :edit/user 3 536968705]
+  [23234 :block/string "" 536968708]
+  [23234 :block/uid "slMOfkoDN" 536968708]
+  [23234 :edit/time 1619585975138 536968708]
+  [23234 :edit/user 3 536968708]]}
