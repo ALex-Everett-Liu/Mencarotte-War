@@ -87,7 +87,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 0,
+      :order 1,
       :content-id "N5lel-tnd"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -95,7 +95,7 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 1,
+      :order 2,
       :content-id "rw6U8VHY-"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -103,7 +103,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 2,
+      :order 3,
       :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -111,19 +111,19 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 3,
+      :order 4,
       :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :allow-custom-components? true,
     :rtl? false,
     :roam/js {:active-blocks #{"aRpia0jex"}}}
-   536968697]
+   536968787]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid91e4ffd6-b4a4-449c-8e98-afe3d21e05c0"
-   536968761]
+   "uuid5e6d111d-21d2-4f9c-bd28-7e8a056eeeda"
+   536968883]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -76475,4 +76475,229 @@
   [23239 :edit/time 1619660578241 536968761]
   [23239 :edit/user 3 536968761]
   [23239 :log/id 1619660578240 536968761]
-  [23239 :node/title "April 29th, 2021" 536968761]]}
+  [23239 :node/title "April 29th, 2021" 536968761]
+  [23240 :block/children 23241 536968763]
+  [23240 :block/children 23257 536968831]
+  [23240 :block/uid "rp2m7XEyX" 536968762]
+  [23240 :create/time 1619673903194 536968762]
+  [23240 :create/user 3 536968762]
+  [23240 :edit/seen-by 3 536968773]
+  [23240 :edit/time 1619673903194 536968762]
+  [23240 :edit/user 3 536968762]
+  [23240 :node/title "Roam Newsletter 漫游研究所周报" 536968762]
+  [23241 :block/open true 536968763]
+  [23241 :block/order 0 536968835]
+  [23241 :block/page 23240 536968764]
+  [23241 :block/parents 23240 536968764]
+  [23241 :block/refs 23247 536968786]
+  [23241
+   :block/string
+   "如何把 Roam Research 安利给你的另一半？ | [[Roam Newsletter 漫游研究所周报 2021W12]]"
+   536968785]
+  [23241 :block/uid "yxY4VcPKv" 536968763]
+  [23241 :create/time 1619673907361 536968763]
+  [23241 :create/user 3 536968763]
+  [23241 :edit/seen-by 3 536968773]
+  [23241 :edit/time 1619673950088 536968785]
+  [23241 :edit/user 3 536968763]
+  [23244 :block/open true 536968770]
+  [23244 :block/order 0 536968770]
+  [23244 :block/page 23247 536968794]
+  [23244 :block/parents 23247 536968794]
+  [23244
+   :block/string
+   "[吕立青_JimmyLv](https://jimmylv.substack.com/people/15095535-_jimmylv) | [Mar 22](https://jimmylv.substack.com/p/-roam-newsletter-2021w12)"
+   536968792]
+  [23244 :block/uid "Rp1zlhn-9" 536968770]
+  [23244 :edit/seen-by 3 536968773]
+  [23244 :edit/time 1619673964324 536968792]
+  [23244 :edit/user 3 536968770]
+  [23245 :block/string "" 536968774]
+  [23245 :block/uid "AdZus3BoA" 536968774]
+  [23245 :edit/time 1619673916757 536968774]
+  [23245 :edit/user 3 536968774]
+  [23246 :block/string "Mar 22" 536968777]
+  [23246 :block/uid "oPRYCEqYR" 536968777]
+  [23246 :edit/time 1619673919753 536968777]
+  [23246 :edit/user 3 536968777]
+  [23247 :block/children 23244 536968793]
+  [23247 :block/children 23248 536968788]
+  [23247 :block/children 23250 536968800]
+  [23247 :block/children 23251 536968809]
+  [23247 :block/children 23254 536968816]
+  [23247 :block/children 23256 536968825]
+  [23247 :block/uid "ti9x5zCL_" 536968786]
+  [23247 :create/time 1619673950090 536968786]
+  [23247 :create/user 3 536968786]
+  [23247 :edit/time 1619673950091 536968786]
+  [23247 :edit/user 3 536968786]
+  [23247 :node/title "Roam Newsletter 漫游研究所周报 2021W12" 536968786]
+  [23248 :block/open true 536968788]
+  [23248 :block/order 1 536968793]
+  [23248 :block/page 23247 536968789]
+  [23248 :block/parents 23247 536968789]
+  [23248
+   :block/string
+   "`#[[Roam 技术]]` 基于 puppeteer 实现的 Roam Research [私有 API]"
+   536968799]
+  [23248 :block/uid "1QW1XW54t" 536968788]
+  [23248 :create/time 1619673955053 536968788]
+  [23248 :create/user 3 536968788]
+  [23248 :edit/time 1619674014344 536968799]
+  [23248 :edit/user 3 536968788]
+  [23250 :block/open true 536968800]
+  [23250 :block/order 2 536968800]
+  [23250 :block/page 23247 536968801]
+  [23250 :block/parents 23247 536968801]
+  [23250
+   :block/string
+   "`#[[Roam 技术]]` 在 [HTML 元素]添加 data-link-uid 属性，能够[极大地方便]开发者对 Block 内容[进行查询或修改]"
+   536968808]
+  [23250 :block/uid "wQQqq3yIY" 536968800]
+  [23250 :create/time 1619674026643 536968800]
+  [23250 :create/user 3 536968800]
+  [23250 :edit/time 1619674038947 536968808]
+  [23250 :edit/user 3 536968800]
+  [23251 :block/open true 536968809]
+  [23251 :block/order 4 536968825]
+  [23251 :block/page 23247 536968810]
+  [23251 :block/parents 23247 536968810]
+  [23251 :block/refs 15784 536968812]
+  [23251 :block/refs 23253 536968812]
+  [23251
+   :block/string
+   "`#[[Roam 插件]]` #Roam42 #SmartBlocks 新命令，支持垂直和水平的屏幕布局控制，类似 Tmux 的[窗口管理体验]"
+   536968815]
+  [23251 :block/uid "feEyvsCVN" 536968809]
+  [23251 :create/time 1619674144134 536968809]
+  [23251 :create/user 3 536968809]
+  [23251 :edit/time 1619674169436 536968815]
+  [23251 :edit/user 3 536968809]
+  [23253 :block/uid "-W-AEB4Ji" 536968812]
+  [23253 :create/time 1619674145117 536968812]
+  [23253 :create/user 3 536968812]
+  [23253 :edit/time 1619674145118 536968812]
+  [23253 :edit/user 3 536968812]
+  [23253 :node/title "SmartBlocks" 536968812]
+  [23254 :block/open true 536968816]
+  [23254 :block/order 5 536968825]
+  [23254 :block/page 23247 536968817]
+  [23254 :block/parents 23247 536968817]
+  [23254
+   :block/string
+   "`#[[Roam 社区]]` [作者分享]自己如何把 Roam Research [安利给自己老婆]的[有趣故事]"
+   536968824]
+  [23254 :block/uid "AximQk3x1" 536968816]
+  [23254 :create/time 1619674204546 536968816]
+  [23254 :create/user 3 536968816]
+  [23254 :edit/time 1619674217348 536968824]
+  [23254 :edit/user 3 536968816]
+  [23256 :block/open true 536968825]
+  [23256 :block/order 3 536968825]
+  [23256 :block/page 23247 536968826]
+  [23256 :block/parents 23247 536968826]
+  [23256
+   :block/string
+   "`#[[Roam 技术]]` 从想法到项目，作者分享自己如何创造 Roam Excalidraw 画图插件"
+   536968829]
+  [23256 :block/uid "15H7pmg6N" 536968825]
+  [23256 :create/time 1619674446653 536968825]
+  [23256 :create/user 3 536968825]
+  [23256 :edit/time 1619674450529 536968829]
+  [23256 :edit/user 3 536968825]
+  [23257 :block/open true 536968831]
+  [23257 :block/order 1 536968835]
+  [23257 :block/page 23240 536968832]
+  [23257 :block/parents 23240 536968832]
+  [23257 :block/refs 23258 536968837]
+  [23257
+   :block/string
+   "事物间丰富的关联，是我们抽象、感知和思考的重要部分 | [[Roam Newsletter 漫游研究所周报 2021W11]]"
+   536968836]
+  [23257 :block/uid "-v3kVYI_L" 536968831]
+  [23257 :create/time 1619674468703 536968831]
+  [23257 :create/user 3 536968831]
+  [23257 :edit/time 1619674476014 536968836]
+  [23257 :edit/user 3 536968831]
+  [23258 :block/children 23259 536968838]
+  [23258 :block/children 23260 536968843]
+  [23258 :block/children 23262 536968858]
+  [23258 :block/children 23266 536968869]
+  [23258 :block/children 23268 536968875]
+  [23258 :block/open true 536968858]
+  [23258 :block/uid "zNnNQPbdE" 536968837]
+  [23258 :create/time 1619674476016 536968837]
+  [23258 :create/user 3 536968837]
+  [23258 :edit/seen-by 3 536968860]
+  [23258 :edit/time 1619674476017 536968837]
+  [23258 :edit/user 3 536968837]
+  [23258 :node/title "Roam Newsletter 漫游研究所周报 2021W11" 536968837]
+  [23259 :block/open true 536968838]
+  [23259 :block/order 0 536968838]
+  [23259 :block/page 23258 536968839]
+  [23259 :block/parents 23258 536968839]
+  [23259
+   :block/string
+   "[Mar 13](https://jimmylv.substack.com/p/-roam-newsletter-2021w11)"
+   536968842]
+  [23259 :block/uid "BRRavBGJT" 536968838]
+  [23259 :create/time 1619674484144 536968838]
+  [23259 :create/user 3 536968838]
+  [23259 :edit/time 1619674490127 536968842]
+  [23259 :edit/user 3 536968838]
+  [23260 :block/open true 536968843]
+  [23260 :block/order 1 536968843]
+  [23260 :block/page 23258 536968844]
+  [23260 :block/parents 23258 536968844]
+  [23260
+   :block/string
+   "`#[[Roam 插件]]` 直接在 Roam Research 里面[运行 Python 代码]， `Alt + Enter` 可[运行当前代码块]，`Alt + Shift + Enter` 可运行[当前笔记本中的][所有代码块]。"
+   536968855]
+  [23260 :block/uid "Owcm8u3gX" 536968843]
+  [23260 :create/time 1619674490591 536968843]
+  [23260 :create/user 3 536968843]
+  [23260 :edit/time 1619674560179 536968855]
+  [23260 :edit/user 3 536968843]
+  [23262 :block/open true 536968858]
+  [23262 :block/order 2 536968858]
+  [23262 :block/page 23258 536968859]
+  [23262 :block/parents 23258 536968859]
+  [23262
+   :block/string
+   "`#[[Roam 技术]]` 使用新的 Filesystem API 可以使 [@RoamResearch](https://twitter.com/RoamResearch) [能够直接编辑]本地的博客 Markdown 文件"
+   536968868]
+  [23262 :block/uid "utz4Toysi" 536968858]
+  [23262 :edit/seen-by 3 536968860]
+  [23262 :edit/time 1619674621604 536968868]
+  [23262 :edit/user 3 536968858]
+  [23264 :block/string "" 536968861]
+  [23264 :block/uid "jOVBeyqK9" 536968861]
+  [23264 :edit/time 1619674597140 536968861]
+  [23264 :edit/user 3 536968861]
+  [23265 :block/string "" 536968867]
+  [23265 :block/uid "VvS4DzqbU" 536968867]
+  [23265 :edit/time 1619674613169 536968867]
+  [23265 :edit/user 3 536968867]
+  [23266 :block/open true 536968869]
+  [23266 :block/order 4 536968875]
+  [23266 :block/page 23258 536968870]
+  [23266 :block/parents 23258 536968870]
+  [23266 :block/string "`#[[Roam 洞见]]` 磨刀记得砍柴" 536968873]
+  [23266 :block/uid "UuOQLmyIR" 536968869]
+  [23266 :create/time 1619674672537 536968869]
+  [23266 :create/user 3 536968869]
+  [23266 :edit/time 1619674676144 536968873]
+  [23266 :edit/user 3 536968869]
+  [23268 :block/open true 536968875]
+  [23268 :block/order 3 536968875]
+  [23268 :block/page 23258 536968876]
+  [23268 :block/parents 23258 536968876]
+  [23268
+   :block/string
+   "`#[[Roam 技巧]]` Multibar 可以[快速折叠文章段落]，Roam 页面标题也可以[加上背景图片] :D"
+   536968882]
+  [23268 :block/uid "_Jqe4tUbt" 536968875]
+  [23268 :create/time 1619674691264 536968875]
+  [23268 :create/user 3 536968875]
+  [23268 :edit/time 1619674701205 536968882]
+  [23268 :edit/user 3 536968875]]}

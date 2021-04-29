@@ -1,0 +1,5 @@
+- [Mar 13](https://jimmylv.substack.com/p/-roam-newsletter-2021w11)
+- `#[[Roam 插件]]` 直接在 Roam Research 里面[运行 Python 代码]， `Alt + Enter` 可[运行当前代码块]，`Alt + Shift + Enter` 可运行[当前笔记本中的][所有代码块]。
+- `#[[Roam 技术]]` 使用新的 Filesystem API 可以使 [@RoamResearch](https://twitter.com/RoamResearch) [能够直接编辑]本地的博客 Markdown 文件
+- `#[[Roam 技巧]]` Multibar 可以[快速折叠文章段落]，Roam 页面标题也可以[加上背景图片] :D
+- `#[[Roam 洞见]]` 磨刀记得砍柴

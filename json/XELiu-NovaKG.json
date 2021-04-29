@@ -95328,5 +95328,243 @@
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
+  },
+  {
+    "create-time": 1619673903194,
+    "title": "Roam Newsletter 漫游研究所周报",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "如何把 Roam Research 安利给你的另一半？ | [[Roam Newsletter 漫游研究所周报 2021W12]]",
+        "create-time": 1619673907361,
+        ":block/refs": [
+          {
+            ":block/uid": "ti9x5zCL_"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ti9x5zCL_"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "yxY4VcPKv",
+        "edit-time": 1619673950088,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "事物间丰富的关联，是我们抽象、感知和思考的重要部分 | [[Roam Newsletter 漫游研究所周报 2021W11]]",
+        "create-time": 1619674468703,
+        ":block/refs": [
+          {
+            ":block/uid": "zNnNQPbdE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "zNnNQPbdE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "-v3kVYI_L",
+        "edit-time": 1619674476014,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rp2m7XEyX",
+    "edit-time": 1619673903194,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619673950090,
+    "title": "Roam Newsletter 漫游研究所周报 2021W12",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[吕立青_JimmyLv](https://jimmylv.substack.com/people/15095535-_jimmylv) | [Mar 22](https://jimmylv.substack.com/p/-roam-newsletter-2021w12)",
+        "uid": "Rp1zlhn-9",
+        "edit-time": 1619673964324,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 技术]]` 基于 puppeteer 实现的 Roam Research [私有 API]",
+        "create-time": 1619673955053,
+        "uid": "1QW1XW54t",
+        "edit-time": 1619674014344,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 技术]]` 在 [HTML 元素]添加 data-link-uid 属性，能够[极大地方便]开发者对 Block 内容[进行查询或修改]",
+        "create-time": 1619674026643,
+        "uid": "wQQqq3yIY",
+        "edit-time": 1619674038947,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 技术]]` 从想法到项目，作者分享自己如何创造 Roam Excalidraw 画图插件",
+        "create-time": 1619674446653,
+        "uid": "15H7pmg6N",
+        "edit-time": 1619674450529,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 插件]]` #Roam42 #SmartBlocks 新命令，支持垂直和水平的屏幕布局控制，类似 Tmux 的[窗口管理体验]",
+        "create-time": 1619674144134,
+        ":block/refs": [
+          {
+            ":block/uid": "J893nRdDv"
+          },
+          {
+            ":block/uid": "-W-AEB4Ji"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "J893nRdDv"
+          },
+          {
+            "uid": "-W-AEB4Ji"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "feEyvsCVN",
+        "edit-time": 1619674169436,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 社区]]` [作者分享]自己如何把 Roam Research [安利给自己老婆]的[有趣故事]",
+        "create-time": 1619674204546,
+        "uid": "AximQk3x1",
+        "edit-time": 1619674217348,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ti9x5zCL_",
+    "edit-time": 1619673950091,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619674145117,
+    "title": "SmartBlocks",
+    "uid": "-W-AEB4Ji",
+    "edit-time": 1619674145118,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619674476016,
+    "title": "Roam Newsletter 漫游研究所周报 2021W11",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[Mar 13](https://jimmylv.substack.com/p/-roam-newsletter-2021w11)",
+        "create-time": 1619674484144,
+        "uid": "BRRavBGJT",
+        "edit-time": 1619674490127,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 插件]]` 直接在 Roam Research 里面[运行 Python 代码]， `Alt + Enter` 可[运行当前代码块]，`Alt + Shift + Enter` 可运行[当前笔记本中的][所有代码块]。",
+        "create-time": 1619674490591,
+        "uid": "Owcm8u3gX",
+        "edit-time": 1619674560179,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 技术]]` 使用新的 Filesystem API 可以使 [@RoamResearch](https://twitter.com/RoamResearch) [能够直接编辑]本地的博客 Markdown 文件",
+        "uid": "utz4Toysi",
+        "edit-time": 1619674621604,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 技巧]]` Multibar 可以[快速折叠文章段落]，Roam 页面标题也可以[加上背景图片] :D",
+        "create-time": 1619674691264,
+        "uid": "_Jqe4tUbt",
+        "edit-time": 1619674701205,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "`#[[Roam 洞见]]` 磨刀记得砍柴",
+        "create-time": 1619674672537,
+        "uid": "UuOQLmyIR",
+        "edit-time": 1619674676144,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "zNnNQPbdE",
+    "edit-time": 1619674476017,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
   }
 ]
