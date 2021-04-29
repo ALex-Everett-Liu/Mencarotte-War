@@ -1,0 +1,26 @@
+- [The Charts extension](https://roamjs.com/docs/extensions/charts) allows users to [render excel-esque charts] in Roam!
+- ### Installation
+    - You could use the Copy Extension button below to individually install this extension. To install, just paste anywhere in your Roam graph and click "Yes, I Know What I'm Doing".
+- ### Test
+    - {{line chart}}
+        - X-Axis:: time
+        - avg_max
+            - 04/15/2021, 70.48
+            - 04/16/2021, 69.97
+            - 04/17/2021, 69.8
+            - 04/18/2021, 69.86
+        - avg_min
+            - 04/15/2021, 70.08
+            - 04/16/2021, 69.52
+            - 04/17/2021, 69.59
+            - 04/18/2021, 69.63
+        - max
+            - 04/15/2021, 70.65
+            - 04/16/2021, 70.4
+            - 04/17/2021, 70
+            - 04/18/2021, 70
+        - min
+            - 04/15/2021, 69.75
+            - 04/16/2021, 69.05
+            - 04/17/2021, 69.5
+            - 04/18/2021, 69.45

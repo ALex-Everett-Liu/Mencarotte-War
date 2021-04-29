@@ -30,3 +30,16 @@ var pyroam = document.createElement('script');
 	pyroam.src =  "https://adamkrivka.com/roam-plugins/pyroam/pyroam.js";
   	pyroam.async = true;
 document.getElementsByTagName('head')[0].appendChild(pyroam);```
+- [[Roam Charts]]
+    - {{roam/js}}
+        - ```javascript
+var existing = document.getElementById("roamjs-charts");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/charts.js";
+  extension.id = "roamjs-charts";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```

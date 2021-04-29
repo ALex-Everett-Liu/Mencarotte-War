@@ -1,6 +1,7 @@
 - bug report;
     - [[issue]]
     - [[pull request]]
+- bundle; [[bundler]]
 - clone the repository;
 - GitHub Actions
     - workflow
