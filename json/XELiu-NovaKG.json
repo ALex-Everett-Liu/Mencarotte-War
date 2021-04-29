@@ -5873,6 +5873,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[编译原理]]",
+        "create-time": 1619705930925,
+        ":block/refs": [
+          {
+            ":block/uid": "it3o44Vl3"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "it3o44Vl3"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "x1l_uLWZM",
+        "edit-time": 1619705932596,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "QOT8RwinJ",
@@ -6515,28 +6537,6 @@
     },
     "children": [
       {
-        "string": "[[assembly language]]",
-        "create-time": 1618802802253,
-        ":block/refs": [
-          {
-            ":block/uid": "mvrxOmbl1"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "mvrxOmbl1"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
-        "uid": "egi-uI_wp",
-        "edit-time": 1618802806465,
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "[[Language/BASIC]]",
         "create-time": 1618796428828,
         ":block/refs": [
@@ -6750,6 +6750,28 @@
             ":block/uid": "jJy_frTM3"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Python]]",
+        "create-time": 1619706010256,
+        ":block/refs": [
+          {
+            ":block/uid": "GdNQYoCTd"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "GdNQYoCTd"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "fCurQhdXr",
+        "edit-time": 1619706015897,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -58850,6 +58872,18 @@
         }
       },
       {
+        "string": "DM; 私信",
+        "create-time": 1619707571127,
+        "uid": "u5UYf8I3M",
+        "edit-time": 1619707572049,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[personal contact]]",
         "refs": [
           {
@@ -59939,6 +59973,86 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "edit-time": 1619707514820,
+        "children": [
+          {
+            "string": "[[issue]]",
+            "create-time": 1619707434610,
+            ":block/refs": [
+              {
+                ":block/uid": "kUugeURla"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "kUugeURla"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "4-sGOdZ6s",
+            "edit-time": 1619707439305,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[pull request]]",
+            "create-time": 1619707440026,
+            ":block/refs": [
+              {
+                ":block/uid": "cQSEEbA3Y"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cQSEEbA3Y"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ct7aZtPwT",
+            "edit-time": 1619707444563,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "1m6i3bcP7"
+          }
+        ],
+        "uid": "o4qogwobN",
+        ":block/refs": [
+          {
+            ":block/uid": "1m6i3bcP7"
+          }
+        ],
+        "string": "((1m6i3bcP7))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619707513688,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "clone the repository;",
+        "create-time": 1619709220203,
+        "uid": "ai8NKxQZI",
+        "edit-time": 1619709221142,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "GitHub Actions",
         "children": [
@@ -61471,6 +61585,18 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "bug report;",
+        "create-time": 1619707493299,
+        "uid": "1m6i3bcP7",
+        "edit-time": 1619707494396,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "crash",
         "uid": "FyUkISt1-",
@@ -73097,11 +73223,25 @@
   {
     "create-time": 1618802806467,
     "title": "assembly language",
-    "uid": "mvrxOmbl1",
-    "edit-time": 1618802806468,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "conditional assembler program",
+        "create-time": 1619705949615,
+        "uid": "0A8GSa4MU",
+        "edit-time": 1619705951057,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "mvrxOmbl1",
+    "edit-time": 1618802806468,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -95644,11 +95784,35 @@
   {
     "create-time": 1619660578241,
     "title": "April 29th, 2021",
-    "uid": "04-29-2021",
-    "edit-time": 1619660578241,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Pyroam - Python notebooks in Roam Research]]\n210429-22pm",
+        "create-time": 1619707605550,
+        ":block/refs": [
+          {
+            ":block/uid": "2F6zmkqkY"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "2F6zmkqkY"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "X6WtNqgie",
+        "edit-time": 1619707611723,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "04-29-2021",
+    "edit-time": 1619660578241,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -96185,27 +96349,29 @@
             "heading": 3,
             "children": [
               {
-                "string": "By default, the current page is the __active notebook__, i.e., when you press <Alt+Shift+Enter>, all blocks on the current page get run and their outputs are written.",
+                "string": "By default, the [current page] is the __active notebook__, i.e., when you press <Alt+Shift+Enter>, [all blocks on the current page] get run and [their outputs are written].",
+                "children": [
+                  {
+                    "string": "You can [designate a smaller portion of the page to be] the __active notebook__ by [referencing the page] [[pyroam/notebook]] [in the parent block], i.e. [all blocks nested under this blocks] will get run when pressing <Alt+Shift+Enter>, but no other. You can also [nest notebooks] - the plugin will always run the \"smallest\" one.",
+                    "refs": [
+                      {
+                        "uid": "L2LePpZec"
+                      }
+                    ],
+                    "uid": "hgZpXOUGK",
+                    "edit-time": 1619705710739,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "L2LePpZec"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
                 "uid": "BGz-JAK9z",
-                "edit-time": 1619696871728,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "You can designate a smaller portion of the page to be the __active notebook__ by referencing the page [[pyroam/notebook]] in the parent block, i.e. all blocks nested under this blocks will get run when pressing <Alt+Shift+Enter>, but no other. You can also nest notebooks - the plugin will always run the \"smallest\" one.",
-                "refs": [
-                  {
-                    "uid": "L2LePpZec"
-                  }
-                ],
-                "uid": "hgZpXOUGK",
-                "edit-time": 1619696871728,
-                ":block/refs": [
-                  {
-                    ":block/uid": "L2LePpZec"
-                  }
-                ],
+                "edit-time": 1619705644054,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -96224,10 +96390,148 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "Packages",
+            "heading": 3,
+            "children": [
+              {
+                "string": "Currently, [[numpy]], [[matplotlib]] and [[scipy]] get loaded, though `numpy` [tends to be buggy] and [plot generation with] `matplotlib` [doesn't work yet].\n210429-22:20",
+                "refs": [
+                  {
+                    "uid": "d47-PdWHc"
+                  },
+                  {
+                    "uid": "GVfIbPDaF"
+                  },
+                  {
+                    "uid": "PpL8xr7i3"
+                  }
+                ],
+                "uid": "AKpJnGzEZ",
+                "edit-time": 1619706162272,
+                ":block/refs": [
+                  {
+                    ":block/uid": "d47-PdWHc"
+                  },
+                  {
+                    ":block/uid": "GVfIbPDaF"
+                  },
+                  {
+                    ":block/uid": "PpL8xr7i3"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "In the future, the plugin will [load all imported packages dynamically] (as long as [[pyodide]], the underlying [Python browser compiler](((GM7Pg8lJ8))), allows it).",
+                "refs": [
+                  {
+                    "uid": "GM7Pg8lJ8"
+                  },
+                  {
+                    "uid": "jqoEyG-Xf"
+                  }
+                ],
+                "uid": "tYb3Hr5xD",
+                "edit-time": 1619706970651,
+                ":block/refs": [
+                  {
+                    ":block/uid": "GM7Pg8lJ8"
+                  },
+                  {
+                    ":block/uid": "jqoEyG-Xf"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "lOHVkWGdA",
+            "edit-time": 1619705751799,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "P9MVQevVR",
         "edit-time": 1619696660595,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[Bug reports](((1m6i3bcP7))) & Contributing",
+        ":block/refs": [
+          {
+            ":block/uid": "1m6i3bcP7"
+          }
+        ],
+        "heading": 2,
+        "refs": [
+          {
+            "uid": "1m6i3bcP7"
+          }
+        ],
+        "children": [
+          {
+            "string": "You can [create issues](((4-sGOdZ6s))) or [[pull request]]s in the [repository](https://github.com/aidam38/pyroam) [or](((u5UYf8I3M))) [DM me on Twitter](https://twitter.com/adam_krivka)\n210429-22:45",
+            "refs": [
+              {
+                "uid": "cQSEEbA3Y"
+              },
+              {
+                "uid": "4-sGOdZ6s"
+              },
+              {
+                "uid": "u5UYf8I3M"
+              }
+            ],
+            "uid": "vbf2ft1Qq",
+            "edit-time": 1619707598398,
+            ":block/refs": [
+              {
+                ":block/uid": "cQSEEbA3Y"
+              },
+              {
+                ":block/uid": "4-sGOdZ6s"
+              },
+              {
+                ":block/uid": "u5UYf8I3M"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "If you want to [develop this plugin], you need to [clone this repository](((ai8NKxQZI))), run `npm install` or `yarn install` and then npm run dev yarn run dev. The final script will be hosted at localhost:1234/pyroam.js (or something else, the bundler will tell you), so you should replace the src of the script in Roam with that (it is adamkrivka.com/roam-plugins/pyroam/pyroam.js by default). Unfortunately, you need to refresh Roam each time you make a change (there are keyboard listeners which get added on each other).",
+            "create-time": 1619709154562,
+            ":block/refs": [
+              {
+                ":block/uid": "ai8NKxQZI"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ai8NKxQZI"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "Iddz5nVMp",
+            "edit-time": 1619709225428,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "RKmlRWb6R",
+        "edit-time": 1619707501664,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -96612,6 +96916,486 @@
     "title": "pyroam/notebook",
     "uid": "L2LePpZec",
     "edit-time": 1619696871728,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619705766305,
+    "title": "numpy",
+    "uid": "d47-PdWHc",
+    "edit-time": 1619705766306,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619705766305,
+    "title": "matplotlib",
+    "uid": "GVfIbPDaF",
+    "edit-time": 1619705766306,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619705766305,
+    "title": "scipy",
+    "uid": "PpL8xr7i3",
+    "edit-time": 1619705766306,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619705932598,
+    "title": "编译原理",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[assembly language]]",
+        "create-time": 1618802802253,
+        ":block/refs": [
+          {
+            ":block/uid": "mvrxOmbl1"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mvrxOmbl1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "egi-uI_wp",
+        "edit-time": 1618802806465,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "compile; [[compiler]]",
+        "refs": [
+          {
+            "uid": "AZX98xycz"
+          }
+        ],
+        "uid": "ZOYrmc_i6",
+        "edit-time": 1619706897635,
+        ":block/refs": [
+          {
+            ":block/uid": "AZX98xycz"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[interpreter]]",
+        "refs": [
+          {
+            "uid": "hoRYIuFWD"
+          }
+        ],
+        "uid": "P8kNsWFDo",
+        "edit-time": 1619705991524,
+        ":block/refs": [
+          {
+            ":block/uid": "hoRYIuFWD"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "parsed",
+        "uid": "B3nh5NVnV",
+        "edit-time": 1619705937764,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "it3o44Vl3",
+    "edit-time": 1619705932598,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619705991526,
+    "title": "interpreter",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "((2j4qgw7Fv))",
+        "create-time": 1619706244219,
+        ":block/refs": [
+          {
+            ":block/uid": "2j4qgw7Fv"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "2j4qgw7Fv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "9MT1t6IGZ",
+        "edit-time": 1619706245272,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "hoRYIuFWD",
+    "edit-time": 1619705991527,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619706015899,
+    "title": "Python",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1619706922519,
+        "children": [
+          {
+            "string": "Python browser compiler",
+            "create-time": 1619706937098,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[[pyodide]]",
+                "create-time": 1619706953062,
+                ":block/refs": [
+                  {
+                    ":block/uid": "jqoEyG-Xf"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "jqoEyG-Xf"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "F8dnftGZh",
+                "edit-time": 1619706956093,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "GM7Pg8lJ8",
+            "edit-time": 1619706947714,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZOYrmc_i6"
+          }
+        ],
+        "uid": "HkRHx-QCB",
+        ":block/refs": [
+          {
+            ":block/uid": "ZOYrmc_i6"
+          }
+        ],
+        "string": "((ZOYrmc_i6))",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619706921027,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Python interpreter",
+        "uid": "2j4qgw7Fv",
+        "edit-time": 1619706026226,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "module library",
+        "uid": "E2OdUyr6-",
+        "edit-time": 1619706026226,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "package",
+        "create-time": 1619706090203,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[[matplotlib]]",
+            "refs": [
+              {
+                "uid": "GVfIbPDaF"
+              }
+            ],
+            "uid": "db5CvBGVb",
+            "edit-time": 1619706188792,
+            ":block/refs": [
+              {
+                ":block/uid": "GVfIbPDaF"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[numpy]]",
+            "refs": [
+              {
+                "uid": "d47-PdWHc"
+              }
+            ],
+            "uid": "2LNni4m1t",
+            "edit-time": 1619706187471,
+            ":block/refs": [
+              {
+                ":block/uid": "d47-PdWHc"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((xkUWJW1WW))",
+            "refs": [
+              {
+                "uid": "xkUWJW1WW"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[conda]]",
+                "refs": [
+                  {
+                    "uid": "vhPV0j9Q3"
+                  }
+                ],
+                "uid": "jezLqksx3",
+                "edit-time": 1619706058500,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vhPV0j9Q3"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[pip]]",
+                "refs": [
+                  {
+                    "uid": "N3_qH0rIe"
+                  }
+                ],
+                "uid": "gN3lj5jIG",
+                "edit-time": 1619706057406,
+                ":block/refs": [
+                  {
+                    ":block/uid": "N3_qH0rIe"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "sXfEa6CXo",
+            "edit-time": 1619706047398,
+            ":block/refs": [
+              {
+                ":block/uid": "xkUWJW1WW"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[scipy]]",
+            "create-time": 1619706135614,
+            ":block/refs": [
+              {
+                ":block/uid": "PpL8xr7i3"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PpL8xr7i3"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "fXAc6hsoS",
+            "edit-time": 1619706185161,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "4smOj-_Y7",
+        "edit-time": 1619706092882,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Python 3]]",
+        "refs": [
+          {
+            "uid": "JXhYz1g8E"
+          }
+        ],
+        "uid": "llVItqxoE",
+        "edit-time": 1619706181357,
+        ":block/refs": [
+          {
+            ":block/uid": "JXhYz1g8E"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "scrap data",
+        "uid": "mupJOqRt4",
+        "edit-time": 1619706026226,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "GdNQYoCTd",
+    "edit-time": 1619706015899,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619706057408,
+    "title": "pip",
+    "uid": "N3_qH0rIe",
+    "edit-time": 1619706057408,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619706058502,
+    "title": "conda",
+    "uid": "vhPV0j9Q3",
+    "edit-time": 1619706058503,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619706181359,
+    "title": "Python 3",
+    "uid": "JXhYz1g8E",
+    "edit-time": 1619706181359,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619706897638,
+    "title": "compiler",
+    "uid": "AZX98xycz",
+    "edit-time": 1619706897647,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619706952313,
+    "title": "pyodide",
+    "uid": "jqoEyG-Xf",
+    "edit-time": 1619706952313,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619707410477,
+    "title": "pull request",
+    "uid": "cQSEEbA3Y",
+    "edit-time": 1619707410479,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619707439307,
+    "title": "issue",
+    "uid": "kUugeURla",
+    "edit-time": 1619707439307,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

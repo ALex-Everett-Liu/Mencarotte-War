@@ -5,3 +5,4 @@
 - [[programming]]; [[programming language]]
 - [[search]]
 - [[virtual machine]]
+- [[编译原理]]

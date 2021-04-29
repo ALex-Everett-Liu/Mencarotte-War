@@ -1,3 +1,7 @@
+- bug report;
+    - [[issue]]
+    - [[pull request]]
+- clone the repository;
 - GitHub Actions
     - workflow
         - GitHub workflow action script

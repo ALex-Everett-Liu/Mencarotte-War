@@ -1,0 +1,14 @@
+- compile; [[compiler]]
+    - Python browser compiler
+        - [[pyodide]]
+- Python interpreter
+- module library
+- package
+    - [[matplotlib]]
+    - [[numpy]]
+    - [[package manager]]
+        - [[conda]]
+        - [[pip]]
+    - [[scipy]]
+- [[Python 3]]
+- scrap data

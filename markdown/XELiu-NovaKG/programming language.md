@@ -1,4 +1,3 @@
-- [[assembly language]]
 - [[Language/BASIC]]
 - [[Java]]
     - [[JavaScript]]
@@ -11,3 +10,4 @@
 - Node
 - [[PHP]]
 - [[Project Jupyter]]
+- [[Python]]

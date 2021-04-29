@@ -3,6 +3,7 @@
     - [[sina blog]]
     - [[vlog]]
     - [[WordPress]]
+- DM; 私信
 - [[personal contact]]
 - [[Twitter]]; twitter
     - link economy
