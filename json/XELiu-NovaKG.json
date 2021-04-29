@@ -58852,7 +58852,12 @@
         }
       },
       {
-        "string": "hack...",
+        "string": "[[hack]]...",
+        "refs": [
+          {
+            "uid": "NcXN5uStI"
+          }
+        ],
         "children": [
           {
             "string": "hack-turned-supported",
@@ -58864,7 +58869,12 @@
           }
         ],
         "uid": "w-HiQysAR",
-        "edit-time": 1618266053201,
+        "edit-time": 1619689449941,
+        ":block/refs": [
+          {
+            ":block/uid": "NcXN5uStI"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -95563,6 +95573,141 @@
     ],
     "uid": "zNnNQPbdE",
     "edit-time": 1619674476017,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619689373276,
+    "title": "Roam plugins by Adam Krivka",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "This is the **home of my Roam Reserach plugins**.",
+        "uid": "4832EYtqY",
+        "edit-time": 1619689379313,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[🔗](https://adamkrivka.com/roam-plugins/#list-of-plugins)List of plugins",
+        "heading": 2,
+        "children": [
+          {
+            "string": "[roam/sr](https://adamkrivka.com/roam-plugins/roam-plugins/roamsr) - [[spaced repetition]] in Roam",
+            "refs": [
+              {
+                "uid": "9v9uAo4dK"
+              }
+            ],
+            "uid": "B1x_dsmtZ",
+            "edit-time": 1619689403281,
+            ":block/refs": [
+              {
+                ":block/uid": "9v9uAo4dK"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[pyroam](https://adamkrivka.com/roam-plugins/roam-plugins/pyroam) - Python notebooks in Roam",
+            "uid": "2t3f4NVBR",
+            "edit-time": 1619689379313,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[LittleScripts](https://adamkrivka.com/roam-plugins/roam-plugins/littlescripts) - a collection of [small hacks]([[hack]])",
+            "refs": [
+              {
+                "uid": "NcXN5uStI"
+              }
+            ],
+            "uid": "iJtYeh6Lv",
+            "edit-time": 1619689418642,
+            ":block/refs": [
+              {
+                ":block/uid": "NcXN5uStI"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "tHfzCRjzT",
+        "edit-time": 1619689379313,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "What I'm working on",
+        "heading": 2,
+        "children": [
+          {
+            "string": "I just finished the MVP of pyroam and [plan to shift my focus towards] roam/sr more again, but I'm [stuck on a few conceptual and technical issues] so I'm not sure [how fast the progress is going to be] and if I might not [take another detour to some of my other ideas] (the biggest one of which right now is probably roam/convert - a better markdown exporter).",
+            "uid": "Zn3QY8kEU",
+            "edit-time": 1619689537637,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "5bLEGzGl-",
+        "edit-time": 1619689468397,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[🔗](https://adamkrivka.com/roam-plugins/#donations)Donations",
+        "heading": 2,
+        "children": [
+          {
+            "string": "I'm not money-constrained, but if you feel like you want to buy me a beer for what I'm doing, you can do so here (big thanks for everyone who has already donated!).",
+            "uid": "r095-gan3",
+            "edit-time": 1619689468397,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[🍺Buy me a beer](http://buymeacoffee.com/adamkrivka)",
+            "uid": "5ctBCp187",
+            "edit-time": 1619689468397,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "33LCpjsYz",
+        "edit-time": 1619689468397,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "aE3SPUO0z",
+    "edit-time": 1619689373276,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619689418643,
+    "title": "hack",
+    "uid": "NcXN5uStI",
+    "edit-time": 1619689418643,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
