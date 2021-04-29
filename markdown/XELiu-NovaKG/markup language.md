@@ -5,6 +5,7 @@
     - html; [[HyperText Markup Language (HTML)]];
 - [[LaTeX]]
 - [[markdown]]; [[Markdown]]
+    - markdown exporter
 - the presentation of a document
 - [[reStructuredText]]
 - style; styling...

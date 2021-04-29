@@ -12,6 +12,7 @@
     - apps; software application; [[application program]]
         - mobile app; 
 - [[help docs]]...
+- [[install]]
 - management...
     - [[file management]]
     - [[information management]]

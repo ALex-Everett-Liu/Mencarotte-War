@@ -1,10 +1,11 @@
 - This is the **home of my Roam Reserach plugins**.
 - ## [🔗](https://adamkrivka.com/roam-plugins/#list-of-plugins)List of plugins
     - [roam/sr](https://adamkrivka.com/roam-plugins/roam-plugins/roamsr) - [[spaced repetition]] in Roam
-    - [pyroam](https://adamkrivka.com/roam-plugins/roam-plugins/pyroam) - Python notebooks in Roam
+    - [pyroam](https://adamkrivka.com/roam-plugins/roam-plugins/pyroam) - Python notebooks in Roam | [[Pyroam - Python notebooks in Roam Research]]
     - [LittleScripts](https://adamkrivka.com/roam-plugins/roam-plugins/littlescripts) - a collection of [small hacks]([[hack]])
 - ## What I'm working on
-    - I just finished the MVP of pyroam and [plan to shift my focus towards] roam/sr more again, but I'm [stuck on a few conceptual and technical issues] so I'm not sure [how fast the progress is going to be] and if I might not [take another detour to some of my other ideas] ([the biggest one of which right now] is probably roam/convert - a better [markdown exporter]).
+    - I just finished the MVP of pyroam and [plan to shift my focus towards] roam/sr more again, but I'm [stuck on a few conceptual and technical issues] so I'm not sure [how fast the progress is going to be] and if I might not [take another detour to some of my other ideas] ([the biggest one of which right now] is probably roam/convert - a better [markdown exporter](((5BAgbxsMF)))).
+210429-17:46
 - ## [🔗](https://adamkrivka.com/roam-plugins/#donations)Donations
-    - I'm not money-constrained, but if you feel like you want to buy me a beer for what I'm doing, you can do so here (big thanks for everyone who has already donated!).
+    - I'm not money-constrained, but [if you feel like you want to] [buy me a beer] [for what I'm doing], you can do so here (big thanks for everyone who has already donated!). #donation
     - [🍺Buy me a beer](http://buymeacoffee.com/adamkrivka)

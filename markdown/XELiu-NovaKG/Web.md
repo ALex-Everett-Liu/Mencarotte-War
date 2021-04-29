@@ -1,6 +1,9 @@
 - [[cloud service]]...
 - [[link]]
 - [[markup language]]; [[markup]]
+- online or offline; web or local...
+    - desktop software
+    - web-based application
 - [[source]]; [[resource]]
     - [[information source]]; information resource
 - [[upload]]; [[download]]
@@ -8,6 +11,7 @@
     - [[Chrome]]
 - [[Web development]]; web developer; Website Development
 - [[website]]; [[web site]]; site
+    - [[web page]]; [[webpage]]
     - website analytics suite
     - website structure
         - [[sitemap]]

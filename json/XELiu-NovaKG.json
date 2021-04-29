@@ -882,10 +882,10 @@
             }
           },
           {
-            "string": "擦鞋去污渍的喷雾;; ",
+            "string": "擦鞋去污渍的喷雾;; jdjr",
             "create-time": 1619176892058,
             "uid": "haXJA427C",
-            "edit-time": 1619176911193,
+            "edit-time": 1619696177560,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -1490,6 +1490,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[[Internet]]",
+            "create-time": 1619695095059,
+            ":block/refs": [
+              {
+                ":block/uid": "16SAx_JCU"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "16SAx_JCU"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "0DpFvrPO9",
+            "edit-time": 1619695097295,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -1762,6 +1784,28 @@
         },
         "uid": "n88mLOdwI",
         "edit-time": 1618192848441,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[install]]",
+        "create-time": 1619695251178,
+        ":block/refs": [
+          {
+            ":block/uid": "psSo6LpXj"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "psSo6LpXj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "HXEkYSBle",
+        "edit-time": 1619695252717,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -3961,11 +4005,7 @@
     },
     "children": [
       {
-        "string": "Roam42 ROAM/JS Code",
-        "create-time": 1617579311846,
-        ":create/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        },
+        "edit-time": 1619696581597,
         "children": [
           {
             "string": "{{roam/js}}",
@@ -3994,8 +4034,72 @@
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "J893nRdDv"
+          }
+        ],
         "uid": "KSSszX2U-",
-        "edit-time": 1617579312889,
+        ":block/refs": [
+          {
+            ":block/uid": "J893nRdDv"
+          }
+        ],
+        "string": "[[Roam42]] ROAM/JS Code",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1617579311846,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1619696553920,
+        "children": [
+          {
+            "string": "{{roam/js}}",
+            "create-time": 1614936982236,
+            ":create/user": {
+              ":user/uid": "NN3wahQsfoW2IowIsDJHVJbMTvT2"
+            },
+            "children": [
+              {
+                "string": "```javascript\n/** pyroam - Python notebooks in Roam\n *  Author: Adam Krivka\n *  Docs: https://adamkrivka.com/roam-plugins/pyroam\n */\n\nwindow.pyroamSettings = {\n  /** There might some important settings here in the future,\n   *   make sure to check the docs once in a while.\n   */\n}\n\nvar pyroamID = \"pyroam-script\";\nvar oldPyroam = document.getElementById(pyroamID);\nif (oldPyroam) oldPyroam.remove();\nvar pyroam = document.createElement('script');\n\tpyroam.type = \"text/javascript\";\n\tpyroam.id = pyroamID;\n\tpyroam.src =  \"https://adamkrivka.com/roam-plugins/pyroam/pyroam.js\";\n  \tpyroam.async = true;\ndocument.getElementsByTagName('head')[0].appendChild(pyroam);```",
+                "create-time": 1614936987208,
+                "uid": "axwryAyPZ",
+                "edit-time": 1619696533428,
+                ":create/user": {
+                  ":user/uid": "NN3wahQsfoW2IowIsDJHVJbMTvT2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "AxYW5wsjk",
+            "edit-time": 1619696624474,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "2F6zmkqkY"
+          }
+        ],
+        "uid": "FiQME34Fk",
+        ":block/refs": [
+          {
+            ":block/uid": "2F6zmkqkY"
+          }
+        ],
+        "string": "[[Pyroam - Python notebooks in Roam Research]]",
+        ":create/user": {
+          ":user/uid": "NN3wahQsfoW2IowIsDJHVJbMTvT2"
+        },
+        "create-time": 1614936980460,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -4523,6 +4627,32 @@
         }
       },
       {
+        "string": "online or offline; web or local...",
+        "children": [
+          {
+            "string": "desktop software",
+            "uid": "L0japFjSX",
+            "edit-time": 1619695087461,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "web-based application",
+            "uid": "8BQWt3a-d",
+            "edit-time": 1619695087461,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Z1y0SQfkn",
+        "edit-time": 1619695087461,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[source]]; [[resource]]",
         "refs": [
           {
@@ -4661,6 +4791,34 @@
       {
         "edit-time": 1619065150408,
         "children": [
+          {
+            "string": "[[web page]]; [[webpage]]",
+            "create-time": 1619695058988,
+            ":block/refs": [
+              {
+                ":block/uid": "MVeRrkQNx"
+              },
+              {
+                ":block/uid": "om-SNsUow"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "MVeRrkQNx"
+              },
+              {
+                "uid": "om-SNsUow"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "euYWaMxbl",
+            "edit-time": 1619695064319,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "website analytics suite",
             "create-time": 1619089682944,
@@ -4887,14 +5045,19 @@
         }
       },
       {
-        "string": "[[markdown]]; [[Markdown]]",
-        "create-time": 1618200356822,
-        ":block/refs": [
+        "edit-time": 1618200380537,
+        "children": [
           {
-            ":block/uid": "k51ZeZCjJ"
-          },
-          {
-            ":block/uid": "pyAzpd6qJ"
+            "string": "markdown exporter",
+            "create-time": 1619689620985,
+            "uid": "5BAgbxsMF",
+            "edit-time": 1619689622419,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -4905,11 +5068,20 @@
             "uid": "pyAzpd6qJ"
           }
         ],
+        "uid": "YehWBZGxx",
+        ":block/refs": [
+          {
+            ":block/uid": "k51ZeZCjJ"
+          },
+          {
+            ":block/uid": "pyAzpd6qJ"
+          }
+        ],
+        "string": "[[markdown]]; [[Markdown]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "YehWBZGxx",
-        "edit-time": 1618200380537,
+        "create-time": 1618200356822,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -12963,6 +13135,30 @@
             "children": [
               {
                 "string": "export to other format;",
+                "children": [
+                  {
+                    "string": "((5BAgbxsMF))",
+                    "create-time": 1619689645260,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5BAgbxsMF"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5BAgbxsMF"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "zFfjSGKoP",
+                    "edit-time": 1619689646570,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
                 "uid": "cxGMbQ0vM",
                 "edit-time": 1618263466858,
                 ":edit/user": {
@@ -34321,6 +34517,66 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "edit-time": 1619691647464,
+        "children": [
+          {
+            "edit-time": 1619694666848,
+            "children": [
+              {
+                "string": "[两败俱伤]是肯定的。有毒失去了这么屌的[编辑团队]，而这么屌的编辑团队又[大概率][被新资方坑]......",
+                "create-time": 1619691650730,
+                "uid": "UWOa4N0-y",
+                "edit-time": 1619691688330,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZwUxvBbB4"
+              }
+            ],
+            "uid": "8QiOCUgTK",
+            ":block/refs": [
+              {
+                ":block/uid": "ZwUxvBbB4"
+              }
+            ],
+            "string": "[编辑团队]们其实[早就找到下家了](https://www.zhihu.com/question/456982468)，[这几个月的谈判]其实就是[代表新的资方]想要收购有毒。 #pt7-99.98",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619691647459,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "D32syuXSh",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619691645785,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "F-XW47tfE",
@@ -51462,6 +51718,28 @@
         }
       },
       {
+        "string": "[[donation]]",
+        "create-time": 1619694725304,
+        ":block/refs": [
+          {
+            ":block/uid": "dviUUd7KX"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "dviUUd7KX"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ivicU9z07",
+        "edit-time": 1619694727055,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "free...",
         "children": [
           {
@@ -54509,6 +54787,28 @@
             ":block/uid": "S-GPmp4cZ"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[keybinding]];",
+        "create-time": 1619696719078,
+        ":block/refs": [
+          {
+            ":block/uid": "ysF52D_M6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ysF52D_M6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "MHqr34_Xg",
+        "edit-time": 1619696722637,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -83931,11 +84231,25 @@
   {
     "create-time": 1619085435082,
     "title": "Chrome",
-    "uid": "vbCAHrUa2",
-    "edit-time": 1619085435082,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "Chrome-based browser;",
+        "create-time": 1619694906152,
+        "uid": "LQ8IHZrAT",
+        "edit-time": 1619694907164,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "vbCAHrUa2",
+    "edit-time": 1619085435082,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -95615,9 +95929,19 @@
             }
           },
           {
-            "string": "[pyroam](https://adamkrivka.com/roam-plugins/roam-plugins/pyroam) - Python notebooks in Roam",
+            "string": "[pyroam](https://adamkrivka.com/roam-plugins/roam-plugins/pyroam) - Python notebooks in Roam | [[Pyroam - Python notebooks in Roam Research]]",
+            "refs": [
+              {
+                "uid": "2F6zmkqkY"
+              }
+            ],
             "uid": "2t3f4NVBR",
-            "edit-time": 1619689379313,
+            "edit-time": 1619694779963,
+            ":block/refs": [
+              {
+                ":block/uid": "2F6zmkqkY"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -95652,9 +95976,19 @@
         "heading": 2,
         "children": [
           {
-            "string": "I just finished the MVP of pyroam and [plan to shift my focus towards] roam/sr more again, but I'm [stuck on a few conceptual and technical issues] so I'm not sure [how fast the progress is going to be] and if I might not [take another detour to some of my other ideas] (the biggest one of which right now is probably roam/convert - a better markdown exporter).",
+            "string": "I just finished the MVP of pyroam and [plan to shift my focus towards] roam/sr more again, but I'm [stuck on a few conceptual and technical issues] so I'm not sure [how fast the progress is going to be] and if I might not [take another detour to some of my other ideas] ([the biggest one of which right now] is probably roam/convert - a better [markdown exporter](((5BAgbxsMF)))).\n210429-17:46",
+            "refs": [
+              {
+                "uid": "5BAgbxsMF"
+              }
+            ],
             "uid": "Zn3QY8kEU",
-            "edit-time": 1619689537637,
+            "edit-time": 1619689661067,
+            ":block/refs": [
+              {
+                ":block/uid": "5BAgbxsMF"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -95671,9 +96005,19 @@
         "heading": 2,
         "children": [
           {
-            "string": "I'm not money-constrained, but if you feel like you want to buy me a beer for what I'm doing, you can do so here (big thanks for everyone who has already donated!).",
+            "string": "I'm not money-constrained, but [if you feel like you want to] [buy me a beer] [for what I'm doing], you can do so here (big thanks for everyone who has already donated!). #donation",
+            "refs": [
+              {
+                "uid": "dviUUd7KX"
+              }
+            ],
             "uid": "r095-gan3",
-            "edit-time": 1619689468397,
+            "edit-time": 1619694687865,
+            ":block/refs": [
+              {
+                ":block/uid": "dviUUd7KX"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -95705,6 +96049,569 @@
     "title": "hack",
     "uid": "NcXN5uStI",
     "edit-time": 1619689418643,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619694687868,
+    "title": "donation",
+    "uid": "dviUUd7KX",
+    "edit-time": 1619694687869,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619694779965,
+    "title": "Pyroam - Python notebooks in Roam Research",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Installation",
+        "heading": 2,
+        "children": [
+          {
+            "string": "To install this plugin, **click** on the \"__Copy extension__.\" button below, **paste** somewhere in your graph and **click** the \"__Yes, I know what I'm doing.__\" button.",
+            "children": [
+              {
+                "string": "(__Warning__: The above method might not work in not [Chrome-based browsers](((LQ8IHZrAT))), in which case you should follow the [manual installation](((SK_K1xC3t))) below.)\n210429-19:20",
+                "create-time": 1619694861417,
+                ":block/refs": [
+                  {
+                    ":block/uid": "LQ8IHZrAT"
+                  },
+                  {
+                    ":block/uid": "SK_K1xC3t"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "LQ8IHZrAT"
+                  },
+                  {
+                    "uid": "SK_K1xC3t"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "dDqnLuJW3",
+                "edit-time": 1619695397194,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "ZmoKlW5-Z",
+            "edit-time": 1619694850340,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "VjeN-H2VX",
+        "edit-time": 1619694850340,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Usage",
+        "heading": 2,
+        "children": [
+          {
+            "string": "[The main thing you need to know] are the two following [[keybinding]]s:",
+            "refs": [
+              {
+                "uid": "ysF52D_M6"
+              }
+            ],
+            "children": [
+              {
+                "string": "Keybinding\tAction\n<Alt+Enter>\tRun current cell and write\n<Alt+Shift+Enter>\t[Run all cells in active notebook] and write",
+                "create-time": 1619696755711,
+                "uid": "KuxpTNNKQ",
+                "edit-time": 1619696777206,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "htT7J3tov",
+            "edit-time": 1619696674942,
+            ":block/refs": [
+              {
+                ":block/uid": "ysF52D_M6"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "When a codeblock is run, [the output is written to] [the block nested one below it].",
+            "uid": "vLqfouQLW",
+            "edit-time": 1619696797627,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[The fastest way to] add a [Python codeblock] in Roam is by typing `/python` and [pressing Enter].",
+            "create-time": 1619696813380,
+            "uid": "snwdt7gPo",
+            "edit-time": 1619696859830,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Active notebooks",
+            "heading": 3,
+            "children": [
+              {
+                "string": "By default, the current page is the __active notebook__, i.e., when you press <Alt+Shift+Enter>, all blocks on the current page get run and their outputs are written.",
+                "uid": "BGz-JAK9z",
+                "edit-time": 1619696871728,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "You can designate a smaller portion of the page to be the __active notebook__ by referencing the page [[pyroam/notebook]] in the parent block, i.e. all blocks nested under this blocks will get run when pressing <Alt+Shift+Enter>, but no other. You can also nest notebooks - the plugin will always run the \"smallest\" one.",
+                "refs": [
+                  {
+                    "uid": "L2LePpZec"
+                  }
+                ],
+                "uid": "hgZpXOUGK",
+                "edit-time": 1619696871728,
+                ":block/refs": [
+                  {
+                    ":block/uid": "L2LePpZec"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "All variables are shared, it's like if the code blocks were one script.",
+                "uid": "d0kt5rOUc",
+                "edit-time": 1619696871728,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "YlW-zpkCh",
+            "edit-time": 1619696871728,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "P9MVQevVR",
+        "edit-time": 1619696660595,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "2F6zmkqkY",
+    "edit-time": 1619694779965,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695064321,
+    "title": "web page",
+    "uid": "MVeRrkQNx",
+    "edit-time": 1619695064322,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695064321,
+    "title": "webpage",
+    "uid": "om-SNsUow",
+    "edit-time": 1619695064322,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695097296,
+    "title": "Internet",
+    "uid": "16SAx_JCU",
+    "edit-time": 1619695097297,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695252719,
+    "title": "install",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dependence...",
+        "children": [
+          {
+            "string": "independent",
+            "uid": "dGk5f8soC",
+            "edit-time": 1619695284063,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "isolated",
+            "uid": "lJ4maoluO",
+            "edit-time": 1619695284063,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "khKWDhIJv",
+        "edit-time": 1619695275277,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "installation guide",
+        "uid": "7KdHlpY5k",
+        "edit-time": 1619695275277,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[installer]]",
+        "refs": [
+          {
+            "uid": "1rtI9ZvGM"
+          }
+        ],
+        "uid": "PNf99Qtxq",
+        "edit-time": 1619695402145,
+        ":block/refs": [
+          {
+            ":block/uid": "1rtI9ZvGM"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "manual installation",
+        "uid": "SK_K1xC3t",
+        "edit-time": 1619695275277,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[package manager]]",
+        "refs": [
+          {
+            "uid": "UINd5WlRt"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Scoop]]",
+            "refs": [
+              {
+                "uid": "ekwHNfg0h"
+              }
+            ],
+            "uid": "yo6We9Oac",
+            "edit-time": 1619695370687,
+            ":block/refs": [
+              {
+                ":block/uid": "ekwHNfg0h"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Chocolatey]]",
+            "refs": [
+              {
+                "uid": "o-djtERso"
+              }
+            ],
+            "uid": "mf_lwlC0Y",
+            "edit-time": 1619695369765,
+            ":block/refs": [
+              {
+                ":block/uid": "o-djtERso"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Homebrew]]",
+            "refs": [
+              {
+                "uid": "mXB185SuH"
+              }
+            ],
+            "uid": "kQzxYqsgV",
+            "edit-time": 1619695368901,
+            ":block/refs": [
+              {
+                ":block/uid": "mXB185SuH"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "xkUWJW1WW",
+        "edit-time": 1619695391075,
+        ":block/refs": [
+          {
+            ":block/uid": "UINd5WlRt"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[setup]]",
+        "refs": [
+          {
+            "uid": "x_VgxzJO3"
+          }
+        ],
+        "uid": "bxBYCRkzt",
+        "edit-time": 1619695367439,
+        ":block/refs": [
+          {
+            ":block/uid": "x_VgxzJO3"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "sudo apt-get install",
+        "uid": "SfFKEcwa1",
+        "edit-time": 1619695275277,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[uninstall]]",
+        "refs": [
+          {
+            "uid": "tE0gVPK5L"
+          }
+        ],
+        "uid": "EtswrHRpK",
+        "edit-time": 1619695363874,
+        ":block/refs": [
+          {
+            ":block/uid": "tE0gVPK5L"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "psSo6LpXj",
+    "edit-time": 1619695252720,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695363875,
+    "title": "uninstall",
+    "uid": "tE0gVPK5L",
+    "edit-time": 1619695363875,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695367441,
+    "title": "setup",
+    "uid": "x_VgxzJO3",
+    "edit-time": 1619695367442,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695368903,
+    "title": "Homebrew",
+    "uid": "mXB185SuH",
+    "edit-time": 1619695368903,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695369767,
+    "title": "Chocolatey",
+    "uid": "o-djtERso",
+    "edit-time": 1619695369767,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695370689,
+    "title": "Scoop",
+    "uid": "ekwHNfg0h",
+    "edit-time": 1619695370689,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695391077,
+    "title": "package manager",
+    "uid": "UINd5WlRt",
+    "edit-time": 1619695391077,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619695402147,
+    "title": "installer",
+    "uid": "1rtI9ZvGM",
+    "edit-time": 1619695402147,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619696674945,
+    "title": "keybinding",
+    "uid": "ysF52D_M6",
+    "edit-time": 1619696674946,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619696813377,
+    "title": "April 30th, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "The fastest way to add a Python codeblock in Roam is by typing /python and pressing Enter. {{[[∆]]:1+2}}",
+        "refs": [
+          {
+            "uid": "Zba5WSjqn"
+          }
+        ],
+        "uid": "e03A6ZfSQ",
+        "edit-time": 1619696813400,
+        ":block/refs": [
+          {
+            ":block/uid": "Zba5WSjqn"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "04-30-2021",
+    "edit-time": 1619696813377,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619696813401,
+    "title": "∆",
+    "uid": "Zba5WSjqn",
+    "edit-time": 1619696813402,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619696871725,
+    "title": "pyroam/notebook",
+    "uid": "L2LePpZec",
+    "edit-time": 1619696871728,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

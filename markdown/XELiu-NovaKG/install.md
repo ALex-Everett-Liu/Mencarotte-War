@@ -1,0 +1,13 @@
+- dependence...
+    - independent
+    - isolated
+- installation guide
+- [[installer]]
+- manual installation
+- [[package manager]]
+    - [[Scoop]]
+    - [[Chocolatey]]
+    - [[Homebrew]]
+- [[setup]]
+- sudo apt-get install
+- [[uninstall]]

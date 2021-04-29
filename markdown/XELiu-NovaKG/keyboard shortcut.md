@@ -1,3 +1,4 @@
 - fast move...
 - [[hotkey]]
+- [[keybinding]];
 - [[key command]]

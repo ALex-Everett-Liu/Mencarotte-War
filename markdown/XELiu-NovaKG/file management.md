@@ -26,6 +26,7 @@
         - executing code
     - [[import]]; [[export]]
         - export to other format;
+            - markdown exporter
     - msi
     - [[time format]]
 - file metadata...

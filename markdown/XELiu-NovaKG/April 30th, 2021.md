@@ -1,0 +1,1 @@
+- The fastest way to add a Python codeblock in Roam is by typing /python and pressing Enter. {{[[∆]]:1+2}}
