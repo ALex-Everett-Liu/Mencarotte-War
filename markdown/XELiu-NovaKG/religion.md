@@ -3,8 +3,11 @@
     - pray
 - the story of creation
 - [[Christian]]
-- deity
-- faith
+- [[deity]]
+    - holy figure
+- [[doctrine]]; [[tenet]]
+- [[faith]]
+    - [[faith hostility]]: 信仰敌对态度;
 - general...
     - guiding principle
     - secular settings
@@ -16,6 +19,7 @@
     - worshipping heaven
     - worship god
 - [[Satanism]]
+- [[Taoism]]
 - [[theology]]
 - 迷信
 - 神职人员
@@ -25,5 +29,7 @@
         - hierarchical church
     - [[priest]]
         - high priest
+- 异端
+    - [[astray]]: 迷途, 误入歧途, 离开正道;
 - 占卜术
     - [[crystal ball]]

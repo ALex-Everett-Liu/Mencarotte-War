@@ -1,0 +1,5 @@
+- [[concubine]]; [[consort]]
+- [[divorce]]
+    - [[allow divorce]];
+- [[monogamy]]
+- [[spouse]]

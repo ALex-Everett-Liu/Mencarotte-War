@@ -1,0 +1,5 @@
+- [[default variable]]
+- [[environment variable]]
+- [[global variable]]
+- [[parameter]]
+    - positional parameter; keyword parameter

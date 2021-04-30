@@ -327,6 +327,13 @@
                 - observation; observed, 2; observer
             - obsess
                 - obsessed; obsession
+        - op
+            - opaque
+            - oppose
+                - opposed;
+            - option
+                - optional;
+                - additional option; viable option;
     - p
         - pa
             - par

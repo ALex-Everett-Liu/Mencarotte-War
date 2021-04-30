@@ -784,23 +784,13 @@
         },
         "children": [
           {
-            "string": "((ka2B2ZQ7c))",
+            "string": "",
             "create-time": 1619718628988,
-            ":block/refs": [
-              {
-                ":block/uid": "ka2B2ZQ7c"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "ka2B2ZQ7c"
-              }
-            ],
+            "uid": "YfYQzQsik",
+            "edit-time": 1619791937615,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "YfYQzQsik",
-            "edit-time": 1619784444158,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -6530,6 +6520,28 @@
             ":block/uid": "-qg3j_j9g"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[variable]]",
+        "create-time": 1619788066357,
+        ":block/refs": [
+          {
+            ":block/uid": "m5QurmySY"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "m5QurmySY"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "OX5_Dltjy",
+        "edit-time": 1619788069863,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -20941,6 +20953,72 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
+              },
+              {
+                "string": "op",
+                "create-time": 1619788790938,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "opaque",
+                    "uid": "Zk4dcRlIg",
+                    "edit-time": 1619788792486,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "oppose",
+                    "children": [
+                      {
+                        "string": "opposed;",
+                        "uid": "_uSQwI3La",
+                        "edit-time": 1619788792486,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "QO5uVlNGw",
+                    "edit-time": 1619788792486,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "option",
+                    "children": [
+                      {
+                        "string": "optional;",
+                        "uid": "pEnDCkx8g",
+                        "edit-time": 1619788792486,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "additional option; viable option;",
+                        "uid": "2_NJ1IuY-",
+                        "edit-time": 1619788792486,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "CiyGF_WSb",
+                    "edit-time": 1619788792486,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "fU3gOC19-",
+                "edit-time": 1619788791767,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
               }
             ],
             "uid": "c1HpKJUZL",
@@ -23537,17 +23615,95 @@
         }
       },
       {
-        "string": "deity",
+        "string": "[[deity]]",
+        "refs": [
+          {
+            "uid": "QZw4dPcSW"
+          }
+        ],
+        "children": [
+          {
+            "string": "holy figure",
+            "create-time": 1619788379839,
+            "uid": "QFoV_ZjdB",
+            "edit-time": 1619788385999,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "2iNNvKX19",
-        "edit-time": 1618360374891,
+        "edit-time": 1619788395262,
+        ":block/refs": [
+          {
+            ":block/uid": "QZw4dPcSW"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
       },
       {
-        "string": "faith",
-        "uid": "3JYKuWJ9q",
-        "edit-time": 1618360374891,
+        "string": "[[doctrine]]; [[tenet]]",
+        "refs": [
+          {
+            "uid": "mXfFmN308"
+          },
+          {
+            "uid": "pxA8aZZjD"
+          }
+        ],
+        "uid": "quymwQRdS",
+        "edit-time": 1619788421205,
+        ":block/refs": [
+          {
+            ":block/uid": "mXfFmN308"
+          },
+          {
+            ":block/uid": "pxA8aZZjD"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[faith]]",
+        "refs": [
+          {
+            "uid": "R-aEZea42"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[faith hostility]]: 信仰敌对态度;",
+            "refs": [
+              {
+                "uid": "xRfAX5NEW"
+              }
+            ],
+            "uid": "tgvE16lkt",
+            "edit-time": 1619788418323,
+            ":block/refs": [
+              {
+                ":block/uid": "xRfAX5NEW"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "1rd38NAn5",
+        "edit-time": 1619788419224,
+        ":block/refs": [
+          {
+            ":block/uid": "R-aEZea42"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -23664,6 +23820,24 @@
         },
         "uid": "1g0FLeXYM",
         "edit-time": 1618360413457,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Taoism]]",
+        "refs": [
+          {
+            "uid": "5EQ1tnfAs"
+          }
+        ],
+        "uid": "1jte8lzeB",
+        "edit-time": 1619788186891,
+        ":block/refs": [
+          {
+            ":block/uid": "5EQ1tnfAs"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -23795,6 +23969,34 @@
         }
       },
       {
+        "string": "异端",
+        "children": [
+          {
+            "string": "[[astray]]: 迷途, 误入歧途, 离开正道;",
+            "refs": [
+              {
+                "uid": "jq55zcYTF"
+              }
+            ],
+            "uid": "XFTNh0AY0",
+            "edit-time": 1619788444961,
+            ":block/refs": [
+              {
+                ":block/uid": "jq55zcYTF"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Te0PMMMaU",
+        "edit-time": 1619788442351,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "占卜术",
         "children": [
           {
@@ -23880,6 +24082,28 @@
         "string": "Eastern Orthodox",
         "uid": "wl-rAPkSQ",
         "edit-time": 1618360350013,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Ecumenism]]: 泛基督教, 普世教会大联合运动;",
+        "create-time": 1619788483051,
+        ":block/refs": [
+          {
+            ":block/uid": "5RSLo5Rcs"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "5RSLo5Rcs"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ph6YijAqr",
+        "edit-time": 1619788485845,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -25325,11 +25549,25 @@
         }
       },
       {
-        "string": "两性情感生活; [[两性关系 (liangxing guanxi)]]",
-        "create-time": 1618302099337,
-        ":block/refs": [
+        "edit-time": 1618362429150,
+        "children": [
           {
-            ":block/uid": "9Gpp_IhWO"
+            "string": "[[marriage]]",
+            "refs": [
+              {
+                "uid": "cyf73i-ox"
+              }
+            ],
+            "uid": "tx5goKRHl",
+            "edit-time": 1619787959435,
+            ":block/refs": [
+              {
+                ":block/uid": "cyf73i-ox"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -25337,11 +25575,17 @@
             "uid": "9Gpp_IhWO"
           }
         ],
+        "uid": "wCuFkkR-g",
+        ":block/refs": [
+          {
+            ":block/uid": "9Gpp_IhWO"
+          }
+        ],
+        "string": "两性情感生活; [[两性关系 (liangxing guanxi)]]",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "wCuFkkR-g",
-        "edit-time": 1618362429150,
+        "create-time": 1618302099337,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -95892,11 +96136,119 @@
   {
     "create-time": 1619435914770,
     "title": "ck3 traits",
-    "uid": "AFlv94QFx",
-    "edit-time": 1619435914770,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "__See also:__ [Console commands#Trait IDs](https://ck3.paradoxwikis.com/Console_commands#Trait_IDs)",
+        "create-time": 1610512639440,
+        "uid": "wuPIQTIqm",
+        "edit-time": 1619789770428,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Traits represent a character's [[personality]], [abilities]([[ability]]), [[reputation]], and [[physical characteristics]]. They [can be gained or lost through] [[event]]s and some traits [can be inherited by]([[inherit]]) [[descendant]]s. Traits [affect everything about] a character, from [[attribute]]s to the [[opinion]] others have on them. Most traits [influence the outcome of] [certain event]s or [grant additional options](((2_NJ1IuY-))). When using the [Ruler Designer]([[ruler designer]]), traits have a [[cost]] in [[customization point]]s.",
+        "create-time": 1610512656872,
+        ":block/refs": [
+          {
+            ":block/uid": "t8j13ofQ_"
+          },
+          {
+            ":block/uid": "D4hC3UgNX"
+          },
+          {
+            ":block/uid": "2_NJ1IuY-"
+          },
+          {
+            ":block/uid": "Cj13VZlft"
+          },
+          {
+            ":block/uid": "-swPZAW9_"
+          },
+          {
+            ":block/uid": "gtQZ-xuFf"
+          },
+          {
+            ":block/uid": "p2P0C-h3y"
+          },
+          {
+            ":block/uid": "DsXf9jON-"
+          },
+          {
+            ":block/uid": "Qa2d0XiDb"
+          },
+          {
+            ":block/uid": "-jFZ_9oBE"
+          },
+          {
+            ":block/uid": "y0KGuauL2"
+          },
+          {
+            ":block/uid": "u7pZp9SWD"
+          },
+          {
+            ":block/uid": "tDEoxBC14"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "t8j13ofQ_"
+          },
+          {
+            "uid": "D4hC3UgNX"
+          },
+          {
+            "uid": "2_NJ1IuY-"
+          },
+          {
+            "uid": "Cj13VZlft"
+          },
+          {
+            "uid": "-swPZAW9_"
+          },
+          {
+            "uid": "gtQZ-xuFf"
+          },
+          {
+            "uid": "p2P0C-h3y"
+          },
+          {
+            "uid": "DsXf9jON-"
+          },
+          {
+            "uid": "Qa2d0XiDb"
+          },
+          {
+            "uid": "-jFZ_9oBE"
+          },
+          {
+            "uid": "y0KGuauL2"
+          },
+          {
+            "uid": "u7pZp9SWD"
+          },
+          {
+            "uid": "tDEoxBC14"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "cxQ4jj1nM",
+        "edit-time": 1619789958803,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "AFlv94QFx",
+    "edit-time": 1619435914770,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -95904,11 +96256,503 @@
   {
     "create-time": 1619435914774,
     "title": "ck3 religion",
-    "uid": "mPc4MPy1L",
-    "edit-time": 1619435914774,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "Religion determines which [deities]([[deity]]) and [holy figures](((QFoV_ZjdB))) a character or [the population of a county] believes in. [The most basic level] is the [[faith]], whose [[doctrine]]s and [[tenet]]s determine its effects and [[law]]s. Each faith is categorized under [a broader religion], which in turn falls under one of three [religious families]([[religious family]]). 属于三大宗教家族中的一个",
+        "create-time": 1610458639013,
+        ":block/refs": [
+          {
+            ":block/uid": "9l-MrIBOS"
+          },
+          {
+            ":block/uid": "QZw4dPcSW"
+          },
+          {
+            ":block/uid": "XJ06bh5nM"
+          },
+          {
+            ":block/uid": "R-aEZea42"
+          },
+          {
+            ":block/uid": "mXfFmN308"
+          },
+          {
+            ":block/uid": "pxA8aZZjD"
+          },
+          {
+            ":block/uid": "QFoV_ZjdB"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "9l-MrIBOS"
+          },
+          {
+            "uid": "QZw4dPcSW"
+          },
+          {
+            "uid": "XJ06bh5nM"
+          },
+          {
+            "uid": "R-aEZea42"
+          },
+          {
+            "uid": "mXfFmN308"
+          },
+          {
+            "uid": "pxA8aZZjD"
+          },
+          {
+            "uid": "QFoV_ZjdB"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Xu3_g5W9x",
+        "edit-time": 1619788391684,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Introducing CK3 `#12` - Religion. __Pixelated Apollo__ will show you [all you need to know about] religion. [Creating your own religion] will be [like a walk in the park](((ka2B2ZQ7c))).",
+        "create-time": 1610512151926,
+        ":block/refs": [
+          {
+            ":block/uid": "ka2B2ZQ7c"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ka2B2ZQ7c"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "7YbIdfx6Y",
+        "edit-time": 1619788464646,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Religious family",
+        "create-time": 1610512199597,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Each faith is part of a religious family, which determines how [[faith hostility]] is calculated. Faiths that have the ![](https://ck3.paradoxwikis.com/images/thumb/2/2a/Doctrine_ecumenical_christian.png/24px-Doctrine_ecumenical_christian.png) [[Ecumenism]], Sunni, Shia or Muhakkima doctrine consider [other faiths with the same doctrine] [[astray]]. There are also several tenets that modify faith hostility.",
+            "create-time": 1610512200044,
+            ":block/refs": [
+              {
+                ":block/uid": "xRfAX5NEW"
+              },
+              {
+                ":block/uid": "5RSLo5Rcs"
+              },
+              {
+                ":block/uid": "jq55zcYTF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xRfAX5NEW"
+              },
+              {
+                "uid": "5RSLo5Rcs"
+              },
+              {
+                "uid": "jq55zcYTF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "-XdGBpCDB",
+            "edit-time": 1619784625321,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "fUYCMrt8P",
+        "edit-time": 1610512200052,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "doctrines",
+        "create-time": 1610459379325,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "doctrine_concubine_type = {",
+            "create-time": 1610459385548,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "group = \"[[marriage]]\"",
+                "create-time": 1610459390803,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cyf73i-ox"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cyf73i-ox"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "YgYkLAzlh",
+                "edit-time": 1610459411467,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1610459431132,
+                "children": [
+                  {
+                    "string": "piety_cost = {\n\tvalue = faith_doctrine_cost_mid\n\tif = {\n\t\tlimit = { has_doctrine = doctrine_concubines }\n\t\tmultiply = faith_unchanged_doctrine_cost_mult\n\t}\n}",
+                    "create-time": 1610459687119,
+                    "uid": "t_3gKAgBB",
+                    "edit-time": 1610459700513,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "can_pick = {\n\tcustom_description = {\n\t\ttext = doctrine_not_both_marriage_and_concubinage\n\t\tflag:doctrine_monogamy = { is_in_list = selected_doctrines }\n\t}\n}",
+                    "create-time": 1610459451018,
+                    "uid": "GDeOZ_WBv",
+                    "edit-time": 1610459471233,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "[[parameter]]s = {\n\tnumber_of_[[spouse]]s = 1\n\tnumber_of_[[consort]]s = 30\n}",
+                    "create-time": 1610459481137,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FDC6Ic0vo"
+                      },
+                      {
+                        ":block/uid": "qNbWFFSa5"
+                      },
+                      {
+                        ":block/uid": "sXEsH9Nls"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "FDC6Ic0vo"
+                      },
+                      {
+                        "uid": "qNbWFFSa5"
+                      },
+                      {
+                        "uid": "sXEsH9Nls"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "qe83NFxI9",
+                    "edit-time": 1610459660504,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "yfQYgdk1H"
+                  }
+                ],
+                "uid": "i4yaXpCYi",
+                ":block/refs": [
+                  {
+                    ":block/uid": "yfQYgdk1H"
+                  }
+                ],
+                "string": "doctrine_[[concubine]]s",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1610459405000,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Uw5F0r4EB",
+            "edit-time": 1610459389537,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "eNKxFmoaS",
+        "edit-time": 1610459385552,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Marriage",
+        "create-time": 1610458875971,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "doctrine = doctrine_[[monogamy]]",
+            "create-time": 1610458887914,
+            ":block/refs": [
+              {
+                ":block/uid": "ROUjrVfLZ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ROUjrVfLZ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "DZj2FGouk",
+            "edit-time": 1610458895816,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "doctrine = doctrine_[divorce_allowed]([[allow divorce]]) ",
+            "create-time": 1610458887914,
+            ":block/refs": [
+              {
+                ":block/uid": "iTLO019F9"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "iTLO019F9"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "tvN1ET9CQ",
+            "edit-time": 1610458961969,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "doctrine = ((i4yaXpCYi))",
+            "create-time": 1610459208312,
+            "uid": "4VR7UJ73w",
+            "edit-time": 1610459435306,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "doctrine = doctrine_bastardry_none",
+            "create-time": 1610458887914,
+            "uid": "SDFBtoS5O",
+            "edit-time": 1610458887926,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "doctrine = doctrine_consanguinity_cousins",
+            "create-time": 1610458887914,
+            "uid": "tEQR2DwV2",
+            "edit-time": 1610458887926,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "zS5LPTVYS",
+        "edit-time": 1610458876548,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Taoism",
+        "create-time": 1610459012573,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "taoism_religion = {",
+            "create-time": 1610459016593,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "family = rf_eastern",
+                "create-time": 1610459026010,
+                "uid": "xYIEt1k4I",
+                "edit-time": 1610459026015,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "doctrine = eastern_hostility_doctrine",
+                "create-time": 1610459026010,
+                "uid": "qEg48qhoM",
+                "edit-time": 1610459026015,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "graphical_faith = dharmic_gfx",
+                "create-time": 1610459026010,
+                "uid": "FAErvmWrk",
+                "edit-time": 1610459026015,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "2a98J2b4Z",
+            "edit-time": 1610459018474,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "faiths = {",
+            "create-time": 1610459049391,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "edit-time": 1610459139783,
+                "children": [
+                  {
+                    "string": "color = { 8 140 131 }\nicon = taoism",
+                    "create-time": 1610459065958,
+                    "uid": "kAG4wWPXT",
+                    "edit-time": 1610459078384,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "-dvzY3aK-"
+                  }
+                ],
+                "uid": "WCRUNfbV-",
+                ":block/refs": [
+                  {
+                    ":block/uid": "-dvzY3aK-"
+                  }
+                ],
+                "string": "zhengyi = { #[[正一道 (Zhengyi)]]",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1610459049953,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "quanzhen = { #[[全真道 (Quanzhen)]]",
+                "create-time": 1610459093174,
+                ":block/refs": [
+                  {
+                    ":block/uid": "0-p-t3ML9"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "0-p-t3ML9"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "7Dk2G3Ol8",
+                "edit-time": 1610459153370,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "z26ZdT-9t",
+            "edit-time": 1610459049958,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "b9XZuThXl",
+        "edit-time": 1610459016599,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "mPc4MPy1L",
+    "edit-time": 1619435914774,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -97431,40 +98275,8 @@
   {
     "create-time": 1619696813377,
     "title": "April 30th, 2021",
-    ":create/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    },
-    "children": [
-      {
-        "string": "The fastest way to add a Python codeblock in Roam is by typing /python and pressing Enter. {{[[∆]]:1+2}}",
-        "refs": [
-          {
-            "uid": "Zba5WSjqn"
-          }
-        ],
-        "uid": "e03A6ZfSQ",
-        "edit-time": 1619696813400,
-        ":block/refs": [
-          {
-            ":block/uid": "Zba5WSjqn"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      }
-    ],
     "uid": "04-30-2021",
     "edit-time": 1619696813377,
-    ":edit/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    }
-  },
-  {
-    "create-time": 1619696813401,
-    "title": "∆",
-    "uid": "Zba5WSjqn",
-    "edit-time": 1619696813402,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -99585,6 +100397,614 @@
     "title": "park",
     "uid": "eybW_9yfl",
     "edit-time": 1619784440562,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619787959437,
+    "title": "marriage",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[concubine]]; [[consort]]",
+        "refs": [
+          {
+            "uid": "yfQYgdk1H"
+          },
+          {
+            "uid": "qNbWFFSa5"
+          }
+        ],
+        "uid": "hTXGOa4p_",
+        "edit-time": 1619787971195,
+        ":block/refs": [
+          {
+            ":block/uid": "yfQYgdk1H"
+          },
+          {
+            ":block/uid": "qNbWFFSa5"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[divorce]]",
+        "refs": [
+          {
+            "uid": "Yom4ytbAX"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[allow divorce]];",
+            "refs": [
+              {
+                "uid": "iTLO019F9"
+              }
+            ],
+            "uid": "NkhKIRf7Q",
+            "edit-time": 1619787973242,
+            ":block/refs": [
+              {
+                ":block/uid": "iTLO019F9"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FcSFgad8o",
+        "edit-time": 1619787974293,
+        ":block/refs": [
+          {
+            ":block/uid": "Yom4ytbAX"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[monogamy]]",
+        "refs": [
+          {
+            "uid": "ROUjrVfLZ"
+          }
+        ],
+        "uid": "qY_fdYyWk",
+        "edit-time": 1619787968994,
+        ":block/refs": [
+          {
+            ":block/uid": "ROUjrVfLZ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[spouse]]",
+        "refs": [
+          {
+            "uid": "FDC6Ic0vo"
+          }
+        ],
+        "uid": "ovDlAYfvE",
+        "edit-time": 1619787967848,
+        ":block/refs": [
+          {
+            ":block/uid": "FDC6Ic0vo"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "cyf73i-ox",
+    "edit-time": 1619787959438,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619787967850,
+    "title": "spouse",
+    "uid": "FDC6Ic0vo",
+    "edit-time": 1619787967850,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619787968995,
+    "title": "monogamy",
+    "uid": "ROUjrVfLZ",
+    "edit-time": 1619787968996,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619787971197,
+    "title": "concubine",
+    "uid": "yfQYgdk1H",
+    "edit-time": 1619787971198,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619787971197,
+    "title": "consort",
+    "uid": "qNbWFFSa5",
+    "edit-time": 1619787971198,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619787973244,
+    "title": "allow divorce",
+    "uid": "iTLO019F9",
+    "edit-time": 1619787973244,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619787974305,
+    "title": "divorce",
+    "uid": "Yom4ytbAX",
+    "edit-time": 1619787974305,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788069865,
+    "title": "variable",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[default variable]]",
+        "refs": [
+          {
+            "uid": "VhT4ENlwI"
+          }
+        ],
+        "uid": "FL_meBFcB",
+        "edit-time": 1619788081214,
+        ":block/refs": [
+          {
+            ":block/uid": "VhT4ENlwI"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[environment variable]]",
+        "refs": [
+          {
+            "uid": "jZ9YQcoGX"
+          }
+        ],
+        "uid": "wduBdwGQb",
+        "edit-time": 1619788079794,
+        ":block/refs": [
+          {
+            ":block/uid": "jZ9YQcoGX"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[global variable]]",
+        "refs": [
+          {
+            "uid": "nVmjPyJMQ"
+          }
+        ],
+        "uid": "9FhIWpKjS",
+        "edit-time": 1619788078859,
+        ":block/refs": [
+          {
+            ":block/uid": "nVmjPyJMQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[parameter]]",
+        "refs": [
+          {
+            "uid": "sXEsH9Nls"
+          }
+        ],
+        "children": [
+          {
+            "string": "positional parameter; keyword parameter",
+            "uid": "kfpoOqYAD",
+            "edit-time": 1619788074492,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "UG9LcURLa",
+        "edit-time": 1619788084217,
+        ":block/refs": [
+          {
+            ":block/uid": "sXEsH9Nls"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "m5QurmySY",
+    "edit-time": 1619788069865,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788078861,
+    "title": "global variable",
+    "uid": "nVmjPyJMQ",
+    "edit-time": 1619788078861,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788079796,
+    "title": "environment variable",
+    "uid": "jZ9YQcoGX",
+    "edit-time": 1619788079797,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788081217,
+    "title": "default variable",
+    "uid": "VhT4ENlwI",
+    "edit-time": 1619788081217,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788084220,
+    "title": "parameter",
+    "uid": "sXEsH9Nls",
+    "edit-time": 1619788084220,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788186893,
+    "title": "Taoism",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[全真道 (Quanzhen)]]",
+        "refs": [
+          {
+            "uid": "0-p-t3ML9"
+          }
+        ],
+        "uid": "Ac6DNG_IW",
+        "edit-time": 1619788194525,
+        ":block/refs": [
+          {
+            ":block/uid": "0-p-t3ML9"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[正一道 (Zhengyi)]]",
+        "refs": [
+          {
+            "uid": "-dvzY3aK-"
+          }
+        ],
+        "uid": "cT4ljofFR",
+        "edit-time": 1619788193168,
+        ":block/refs": [
+          {
+            ":block/uid": "-dvzY3aK-"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "5EQ1tnfAs",
+    "edit-time": 1619788186893,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788193169,
+    "title": "正一道 (Zhengyi)",
+    "uid": "-dvzY3aK-",
+    "edit-time": 1619788193170,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788194527,
+    "title": "全真道 (Quanzhen)",
+    "uid": "0-p-t3ML9",
+    "edit-time": 1619788194528,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244963,
+    "title": "deity",
+    "uid": "QZw4dPcSW",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244963,
+    "title": "religious family",
+    "uid": "XJ06bh5nM",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244963,
+    "title": "faith",
+    "uid": "R-aEZea42",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244963,
+    "title": "doctrine",
+    "uid": "mXfFmN308",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244963,
+    "title": "tenet",
+    "uid": "pxA8aZZjD",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244965,
+    "title": "faith hostility",
+    "uid": "xRfAX5NEW",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244965,
+    "title": "Ecumenism",
+    "uid": "5RSLo5Rcs",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788244965,
+    "title": "astray",
+    "uid": "jq55zcYTF",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619788259260,
+    "title": "May 1st, 2021",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "",
+        "uid": "e03A6ZfSQ",
+        "edit-time": 1619788282215,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "05-01-2021",
+    "edit-time": 1619788259260,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "ability",
+    "uid": "Cj13VZlft",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "personality",
+    "uid": "-swPZAW9_",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "descendant",
+    "uid": "gtQZ-xuFf",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "opinion",
+    "uid": "p2P0C-h3y",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "event",
+    "uid": "DsXf9jON-",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "cost",
+    "uid": "Qa2d0XiDb",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "physical characteristics",
+    "uid": "-jFZ_9oBE",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "inherit",
+    "uid": "y0KGuauL2",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "reputation",
+    "uid": "u7pZp9SWD",
+    "edit-time": 1619789770445,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619789770437,
+    "title": "customization point",
+    "uid": "tDEoxBC14",
+    "edit-time": 1619789770445,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
