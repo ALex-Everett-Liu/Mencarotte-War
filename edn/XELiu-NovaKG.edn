@@ -91,45 +91,45 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 5,
+      :order 3,
       :content-id "N5lel-tnd"},
-     "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
-     {:page-uid "L7fTIw9dt",
-      :window-id "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b",
-      :type :outline,
-      :pinned? true,
-      :collapsed? false,
-      :order 8,
-      :content-id "L7fTIw9dt"},
-     "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
-     {:page-uid "JPCvFjovj",
-      :window-id "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb",
-      :type :outline,
-      :pinned? true,
-      :collapsed? false,
-      :order 7,
-      :content-id "JPCvFjovj"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
       :type :outline,
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
+      :order 4,
+      :content-id "rw6U8VHY-"},
+     "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
+     {:page-uid "JPCvFjovj",
+      :window-id "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb",
+      :type :outline,
+      :pinned? true,
+      :collapsed? false,
+      :order 5,
+      :content-id "JPCvFjovj"},
+     "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
+     {:page-uid "L7fTIw9dt",
+      :window-id "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b",
+      :type :outline,
+      :pinned? true,
+      :collapsed? false,
       :order 6,
-      :content-id "rw6U8VHY-"}},
+      :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :rtl? false}
-   536969717]
+   536969746]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid9884321b-1ea3-430d-9c3f-a02d8a528b3e"
-   536969744]
+   "uuid3e73c181-50f0-4055-8928-d9a24503c311"
+   536969759]
   [14875
    :version/upgraded-nonce
-   "uuid9884321b-1ea3-430d-9c3f-a02d8a528b3e"
-   536969745]
+   "uuid3e73c181-50f0-4055-8928-d9a24503c311"
+   536969760]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -16068,6 +16068,7 @@
   [16497 :block/children 16498 536943762]
   [16497 :block/children 17010 536945252]
   [16497 :block/children 17234 536945961]
+  [16497 :block/children 23514 536969747]
   [16497 :block/open true 536943756]
   [16497 :block/order 0 536943756]
   [16497 :block/page 16475 536943757]
@@ -16083,7 +16084,7 @@
   [16498 :block/children 16499 536943767]
   [16498 :block/children 16502 536943784]
   [16498 :block/children 16506 536943800]
-  [16498 :block/open false 536945251]
+  [16498 :block/open false 536969759]
   [16498 :block/order 0 536943762]
   [16498 :block/page 16475 536943759]
   [16498 :block/parents 16475 536943759]
@@ -21498,7 +21499,7 @@
   [17233 :edit/time 1618038414675 536945958]
   [17233 :edit/user 3 536945946]
   [17234 :block/open true 536945961]
-  [17234 :block/order 2 536945961]
+  [17234 :block/order 3 536969757]
   [17234 :block/page 16475 536945962]
   [17234 :block/parents 16475 536945962]
   [17234 :block/parents 16497 536945962]
@@ -78762,12 +78763,12 @@
   [23509 :version/id "0.8.5" 536969717]
   [23509
    :version/nonce
-   "uuidfc114d54-aa3d-4c22-adcb-4f618e0fb3c3"
-   536969745]
+   "uuid6ad75838-cd42-4e38-964b-8c56cbab95f4"
+   536969760]
   [23509
    :version/upgraded-nonce
-   "uuidcee6b480-529c-443f-a9a1-6f917fafd00e"
-   536969745]
+   "uuidfc114d54-aa3d-4c22-adcb-4f618e0fb3c3"
+   536969760]
   [23510 :block/open true 536969719]
   [23510 :block/order 4 536969719]
   [23510 :block/page 23464 536969720]
@@ -78819,4 +78820,19 @@
   [23513 :create/time 1619753234267 536969740]
   [23513 :create/user 3 536969740]
   [23513 :edit/time 1619753238118 536969744]
-  [23513 :edit/user 3 536969740]]}
+  [23513 :edit/user 3 536969740]
+  [23514 :block/open true 536969747]
+  [23514 :block/order 2 536969757]
+  [23514 :block/page 16475 536969748]
+  [23514 :block/parents 16475 536969748]
+  [23514 :block/parents 16497 536969748]
+  [23514 :block/refs 18390 536969756]
+  [23514
+   :block/string
+   "Journey - 查找两个笔记之间的链接关系 -- 查找[两个笔记文件之间的][链接关系](https://zhuanlan.zhihu.com/p/368487154), 包含中间的链接节点. #pt8-99.99"
+   536969755]
+  [23514 :block/uid "eOedyrKr-" 536969747]
+  [23514 :create/time 1619757113808 536969747]
+  [23514 :create/user 3 536969747]
+  [23514 :edit/time 1619757202183 536969755]
+  [23514 :edit/user 3 536969747]]}

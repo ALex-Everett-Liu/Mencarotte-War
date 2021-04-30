@@ -39609,6 +39609,28 @@
             }
           },
           {
+            "string": "Journey - 查找两个笔记之间的链接关系 -- 查找[两个笔记文件之间的][链接关系](https://zhuanlan.zhihu.com/p/368487154), 包含中间的链接节点. #pt8-99.99",
+            "create-time": 1619757113808,
+            ":block/refs": [
+              {
+                ":block/uid": "PdZWxhurI"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PdZWxhurI"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "eOedyrKr-",
+            "edit-time": 1619757202183,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "虽然Obsidian有[风险提示](https://zhuanlan.zhihu.com/p/363753101)，但多[不懂编程]的朋友还是完全不知道Obsidian的三方插件都是使用js注入，[js 注入]的方式可以轻松把你笔记和电脑任意内容上传，存在风险。[笔者建议]使用 Obsidian 应配合 NetLimiter Pro 进行。某些管家和数字软件笔者不推荐使用，因为你也完全不清楚这些软件是在保护你还是在尽可能的对你电脑进行分析和上传，隐私也是特别成问题。杀软自带的防火墙都很难以操作和[功能不够丰富]所以笔者推荐这款软件，比如杀软里公认最强防火墙就是诺顿但还是没有NetLimiter Pro够傻瓜。 #pt8",
             "create-time": 1618041026006,
             ":block/refs": [
