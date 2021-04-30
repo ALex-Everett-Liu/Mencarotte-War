@@ -1,1 +1,1 @@
-- yyyy-mm-dd
+- yyyy-mm-dd; mm/dd/yyyy

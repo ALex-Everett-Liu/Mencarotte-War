@@ -3,6 +3,7 @@
     - [[pull request]]
 - bundle; [[bundler]]
 - clone the repository;
+- contributor; contribution
 - GitHub Actions
     - workflow
         - GitHub workflow action script

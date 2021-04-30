@@ -4,7 +4,7 @@
     - linebreak; line break
     - new line; [[newline]]; newline character
     - return character
-    - separate lines
+    - separate lines; delimit with a comma; deliminate
     - all in one line
     - line-by-line changes
     - line number

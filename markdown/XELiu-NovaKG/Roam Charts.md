@@ -8,12 +8,27 @@
         - Create a `{{line}}` or `{{line chart}}` button to [render a line graph](((Yjd2drHsy))).
         - Create a `{{bar}}` or `{{bar chart}}` button to [render a bar graph](((oSfi8yssF))).
     - You will need to nest labels and data as children of the [rendered chart]. You should [have one label per line], and data should be [nested under the label]([[label]]). The data should be [two numbers separated by a comma]([[comma]]). Here's an example:
-    - You could [specify multiple y values for each x value](((sh6tc3dR_))). [Simply delimit with a comma] the additional y values on each block.
+    - You could [specify multiple y values for each x value](((sh6tc3dR_))). [Simply delimit with a comma](((KUM-slSLZ))) the additional y values on each block.
     - You could use the [[dropdown]]s on the right to define [what type of axis the charts use]([[axis]]). The supported types are:
 210430-17:11
         - linear - numerical values
         - [ordinal](((kDn1pqcWa))) - [text values](((hksO4t4SO)))
-        - time - date values (default MM/dd/yyyy format)
+        - time - date values (default [MM/dd/yyyy format](((zIt1UwZdv))))
+    - You could [save the types that the axis use] by [setting the following attributes]([[attribute]]) [as children of the chart]:
+210430-18:29
+        - X-Axis:: - Define the type of the x axis
+        - Y-Axis:: - Define the type of the y axis
+        - `Date Format::` - Define the [[date format]] to use, based on [these specification](https://date-fns.org/v2.16.1/docs/parse).
+- ### Playground
+    - In the playground below, the chart will [update dynamically] [based on the inputs]. Each [text input] will be the [data label], and each [text area] will be the [data values]. [Deliminate each value with a new line](((KUM-slSLZ))) to resemble new blocks in Roam.
+    - ![roam-charts-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FMrsPF374Fy.png?alt=media&token=f3430d9f-709c-4439-88c4-eb1bab2b0104)
+- ### [Contributors](((C7e2fFHHU)))
+    - This extension is brought to you by [[RoamJS]]! If you are [facing any issues] reach out to [support@roamjs.com](mailto:support@roamjs.com) or [click on the chat button] [on the bottom right]. If you [get value from using this extension], [consider sponsoring]([[sponsor]]) RoamJS by [clicking on the button below]!
+210430-18:37
+    - ![roamjs-sponsor-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FZxf54y4oRs.png?alt=media&token=ace7797c-582e-48dc-b9fd-875d798f9ba8)
+- ### ROAMJS DIGEST
+    - [Add your email below] to [stay up to date] on all RoamJS features, fixes, and news!
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV9ZlZ4EujY.png?alt=media&token=af43e10c-a6a2-46b5-82ea-6eff291ecb2d)
 - ### Test
     - {{line chart}}
         - X-Axis:: time

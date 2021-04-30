@@ -28,7 +28,7 @@
         - export to other format;
             - markdown exporter
     - msi
-    - [[time format]]
+    - [[time format]]; [[date format]]
 - file metadata...
     - file integrity
     - [[filename]]

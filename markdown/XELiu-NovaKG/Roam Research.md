@@ -4,6 +4,7 @@
             - [[Automatic RoamResearch backup]]
             - [[Roam2Github]]
         - [[Roam42]]
+        - [[RoamJS]]
     - [[roam/css]]
     - [[roam/js]]
 - roam-like

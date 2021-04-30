@@ -1,6 +1,14 @@
 - [[communication and media]]; media communications; 传播学; 传媒...
 - [[moral panic]]
 - [[popular culture]]
+- scene; scenery...
+    - [[night sky]]
+        - fixed stars in the sky
+        - [[星空 (hoshizora)]]; [[夜空 (yozora)]]
+            - 今夜星を見に行こう
+            - 夜空は星が降るようで
+    - [[park]]
+        - walk in the park;
 - [[social activity]]
 - [[sports]]
 - 民俗

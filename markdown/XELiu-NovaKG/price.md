@@ -8,4 +8,5 @@
     - free trial
     - freely available
 - product price
+- [[sponsor]]; 
 - standard plan
