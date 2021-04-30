@@ -10,6 +10,9 @@
     - square-integrable function
     - square root
     - well-defined
+- [[geometry]]
+- [[group theory]]
+- [[linear algebra]]
 - [[logic]]
 - [[mathematician]]
 - [[statistics]]

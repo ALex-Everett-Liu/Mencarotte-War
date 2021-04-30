@@ -1989,6 +1989,28 @@
         }
       },
       {
+        "string": "[[settings]]",
+        "create-time": 1619772575599,
+        ":block/refs": [
+          {
+            ":block/uid": "55TS5Q8Rv"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "55TS5Q8Rv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "uroKisICc",
+        "edit-time": 1619772578432,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[Software as a Service (SaaS)]]",
         "create-time": 1619073982764,
         ":block/refs": [
@@ -9894,6 +9916,60 @@
         ],
         "uid": "yIj3AaICL",
         "edit-time": 1618034992016,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[geometry]]",
+        "refs": [
+          {
+            "uid": "ob-aOa1lh"
+          }
+        ],
+        "uid": "bzVVKvc-8",
+        "edit-time": 1619773971017,
+        ":block/refs": [
+          {
+            ":block/uid": "ob-aOa1lh"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[group theory]]",
+        "refs": [
+          {
+            "uid": "e_XieHPW6"
+          }
+        ],
+        "uid": "Gh368e8u0",
+        "edit-time": 1619773968630,
+        ":block/refs": [
+          {
+            ":block/uid": "e_XieHPW6"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[linear algebra]]",
+        "refs": [
+          {
+            "uid": "M-7Vd61uo"
+          }
+        ],
+        "uid": "_KD2LvJnh",
+        "edit-time": 1619773967614,
+        ":block/refs": [
+          {
+            ":block/uid": "M-7Vd61uo"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -53354,7 +53430,7 @@
             }
           },
           {
-            "string": "[[tag]]; [[label]]; [[category]]...",
+            "string": "[[tag]]; [[label]]: 标签, 标注; [[category]]...",
             "refs": [
               {
                 "uid": "-tRhwxb2f"
@@ -53389,7 +53465,7 @@
               }
             ],
             "uid": "gq8Je_C2N",
-            "edit-time": 1618141686023,
+            "edit-time": 1619773729316,
             ":block/refs": [
               {
                 ":block/uid": "-tRhwxb2f"
@@ -75227,6 +75303,30 @@
             "uid": "WqQsuHlwT"
           }
         ],
+        "children": [
+          {
+            "string": "[[dropdown]];",
+            "create-time": 1619773918550,
+            ":block/refs": [
+              {
+                ":block/uid": "VyZAlsCH_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "VyZAlsCH_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "RWxe4bxEh",
+            "edit-time": 1619773921591,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "PK8QYjdgY",
         "edit-time": 1618980551966,
         ":block/refs": [
@@ -83778,6 +83878,88 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[chart]]",
+        "refs": [
+          {
+            "uid": "ZkbfHWznB"
+          }
+        ],
+        "children": [
+          {
+            "string": "bar graph",
+            "uid": "oSfi8yssF",
+            "edit-time": 1619772402310,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "line graph",
+            "children": [
+              {
+                "string": "specify multiple y values for each x value;",
+                "create-time": 1619773826318,
+                "uid": "sh6tc3dR_",
+                "edit-time": 1619773827717,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Yjd2drHsy",
+            "edit-time": 1619772402310,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "ordinal axis: 序数坐标轴",
+            "create-time": 1619775569030,
+            "uid": "kDn1pqcWa",
+            "edit-time": 1619775629596,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "render excel-esque charts",
+            "uid": "0-IXjhopM",
+            "edit-time": 1619772301778,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "text value",
+            "create-time": 1619775630263,
+            "uid": "hksO4t4SO",
+            "edit-time": 1619775633000,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "GGQ5AqIOL",
+        "edit-time": 1619772311099,
+        ":block/refs": [
+          {
+            ":block/uid": "ZkbfHWznB"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[data collection]]",
         "refs": [
@@ -97658,9 +97840,19 @@
     },
     "children": [
       {
-        "string": "[The Charts extension](https://roamjs.com/docs/extensions/charts) allows users to [render excel-esque charts] in Roam!",
+        "string": "[The Charts extension](https://roamjs.com/docs/extensions/charts) allows users to [render excel-esque charts](((0-IXjhopM))) in Roam!",
+        "refs": [
+          {
+            "uid": "0-IXjhopM"
+          }
+        ],
         "uid": "xsKvtXTuu",
-        "edit-time": 1619718326546,
+        "edit-time": 1619772308620,
+        ":block/refs": [
+          {
+            ":block/uid": "0-IXjhopM"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -97670,9 +97862,9 @@
         "heading": 3,
         "children": [
           {
-            "string": "You could use the Copy Extension button below to individually install this extension. To install, just paste anywhere in your Roam graph and click \"Yes, I Know What I'm Doing\".",
+            "string": "You could use the [Copy Extension button] below to [individually install this extension]. To install, [just paste anywhere in] your Roam graph and click \"Yes, I Know What I'm Doing\".",
             "uid": "uOQVaFLEn",
-            "edit-time": 1619718303792,
+            "edit-time": 1619772353972,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -97680,6 +97872,193 @@
         ],
         "uid": "_v6Z-6QFb",
         "edit-time": 1619718303792,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Usage",
+        "heading": 3,
+        "children": [
+          {
+            "string": "The script is not [[configurable]].",
+            "refs": [
+              {
+                "uid": "dqWbXuoWB"
+              }
+            ],
+            "uid": "QMlSczKAj",
+            "edit-time": 1619772433097,
+            ":block/refs": [
+              {
+                ":block/uid": "dqWbXuoWB"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "There are [two types of charts] supported:\n210430-16:48",
+            "children": [
+              {
+                "string": "Create a `{{line}}` or `{{line chart}}` button to [render a line graph](((Yjd2drHsy))).",
+                "refs": [
+                  {
+                    "uid": "Yjd2drHsy"
+                  }
+                ],
+                "uid": "ALRGoNXDL",
+                "edit-time": 1619772413286,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Yjd2drHsy"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "Create a `{{bar}}` or `{{bar chart}}` button to [render a bar graph](((oSfi8yssF))).",
+                "refs": [
+                  {
+                    "uid": "oSfi8yssF"
+                  }
+                ],
+                "uid": "ghj_Motl9",
+                "edit-time": 1619772408520,
+                ":block/refs": [
+                  {
+                    ":block/uid": "oSfi8yssF"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "taIEDctow",
+            "edit-time": 1619772687565,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You will need to nest labels and data as children of the [rendered chart]. You should [have one label per line], and data should be [nested under the label]([[label]]). The data should be [two numbers separated by a comma]([[comma]]). Here's an example:",
+            "create-time": 1619773656812,
+            ":block/refs": [
+              {
+                ":block/uid": "MxqBmjH-F"
+              },
+              {
+                ":block/uid": "-tRhwxb2f"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "MxqBmjH-F"
+              },
+              {
+                "uid": "-tRhwxb2f"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "b-cDi8b1U",
+            "edit-time": 1619773745834,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You could [specify multiple y values for each x value](((sh6tc3dR_))). [Simply delimit with a comma] the additional y values on each block.",
+            "refs": [
+              {
+                "uid": "sh6tc3dR_"
+              }
+            ],
+            "uid": "KuYp5wUJM",
+            "edit-time": 1619773844159,
+            ":block/refs": [
+              {
+                ":block/uid": "sh6tc3dR_"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "You could use the [[dropdown]]s on the right to define [what type of axis the charts use]([[axis]]). The supported types are:\n210430-17:11",
+            "refs": [
+              {
+                "uid": "oQ3YnDuPP"
+              },
+              {
+                "uid": "VyZAlsCH_"
+              }
+            ],
+            "children": [
+              {
+                "string": "linear - numerical values",
+                "uid": "CXsy9AMFP",
+                "edit-time": 1619773760148,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[ordinal](((kDn1pqcWa))) - [text values](((hksO4t4SO)))",
+                "refs": [
+                  {
+                    "uid": "kDn1pqcWa"
+                  },
+                  {
+                    "uid": "hksO4t4SO"
+                  }
+                ],
+                "uid": "gNGOI_lu7",
+                "edit-time": 1619775647354,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kDn1pqcWa"
+                  },
+                  {
+                    ":block/uid": "hksO4t4SO"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "time - date values (default MM/dd/yyyy format)",
+                "uid": "bX2kYBiWw",
+                "edit-time": 1619773760148,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "W9OlxBISE",
+            "edit-time": 1619773979551,
+            ":block/refs": [
+              {
+                ":block/uid": "oQ3YnDuPP"
+              },
+              {
+                ":block/uid": "VyZAlsCH_"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "x02AGUzaW",
+        "edit-time": 1619772332830,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -97787,6 +98166,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "04/20/2021, 70.01",
+                    "create-time": 1619772106226,
+                    "uid": "Q9G6HlPgh",
+                    "edit-time": 1619772121962,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "ELIJaYad5",
@@ -97855,6 +98246,18 @@
                     "create-time": 1619753209128,
                     "uid": "TGI9oEoEh",
                     "edit-time": 1619753227407,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "04/20/2021, 69.76",
+                    "create-time": 1619772124345,
+                    "uid": "UKkzQf7H1",
+                    "edit-time": 1619772138462,
                     ":create/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
@@ -97935,6 +98338,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "04/20/2021, 70.3",
+                    "create-time": 1619772126352,
+                    "uid": "0p-t7W4w6",
+                    "edit-time": 1619772145273,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "3kUZQtAmP",
@@ -98009,6 +98424,18 @@
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
+                  },
+                  {
+                    "string": "04/20/2021, 69.55",
+                    "create-time": 1619772128447,
+                    "uid": "5c6gJNA4i",
+                    "edit-time": 1619772151559,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "uid": "JWsVhs5gF",
@@ -98043,6 +98470,638 @@
     "title": "X-Axis",
     "uid": "TZwvsfQJt",
     "edit-time": 1619718841491,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772311102,
+    "title": "chart",
+    "uid": "ZkbfHWznB",
+    "edit-time": 1619772311104,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772433100,
+    "title": "configurable",
+    "uid": "dqWbXuoWB",
+    "edit-time": 1619772433101,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772578434,
+    "title": "settings",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "accessibility settings",
+        "uid": "fw_cfeDA2",
+        "edit-time": 1619772597412,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "configure; configuration",
+        "children": [
+          {
+            "string": "bin directory",
+            "uid": "-blKLQKim",
+            "edit-time": 1619772597412,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[configurable]];",
+            "refs": [
+              {
+                "uid": "dqWbXuoWB"
+              }
+            ],
+            "uid": "7e-7Ud9wo",
+            "edit-time": 1619772626466,
+            ":block/refs": [
+              {
+                ":block/uid": "dqWbXuoWB"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "user-level",
+            "uid": "ea9l5F4Ke",
+            "edit-time": 1619772597412,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "wvHnS1NJP",
+        "edit-time": 1619772597412,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[default settings]]",
+        "refs": [
+          {
+            "uid": "G90fM1oVD"
+          }
+        ],
+        "children": [
+          {
+            "string": "extra settings; extra options;",
+            "uid": "ShlRjsxhq",
+            "edit-time": 1619772597412,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "vR9ZgHT1q",
+        "edit-time": 1619772633521,
+        ":block/refs": [
+          {
+            ":block/uid": "G90fM1oVD"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "((khKWDhIJv))",
+        "refs": [
+          {
+            "uid": "khKWDhIJv"
+          }
+        ],
+        "uid": "Pvpxwsd6I",
+        "edit-time": 1619772615820,
+        ":block/refs": [
+          {
+            ":block/uid": "khKWDhIJv"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[option]]",
+        "refs": [
+          {
+            "uid": "cM0Us5mVM"
+          }
+        ],
+        "uid": "8oUGp6noq",
+        "edit-time": 1619772636251,
+        ":block/refs": [
+          {
+            ":block/uid": "cM0Us5mVM"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[preference]]: 首选项, 优先, 偏好;",
+        "refs": [
+          {
+            "uid": "nO8pZfC2t"
+          }
+        ],
+        "uid": "2fawZ6wlx",
+        "edit-time": 1619772664759,
+        ":block/refs": [
+          {
+            ":block/uid": "nO8pZfC2t"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "system settings",
+        "children": [
+          {
+            "string": "[[Control Panel]]",
+            "refs": [
+              {
+                "uid": "QxL6adhBm"
+              }
+            ],
+            "uid": "U59Km5f28",
+            "edit-time": 1619772673501,
+            ":block/refs": [
+              {
+                ":block/uid": "QxL6adhBm"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[task manager]]",
+            "refs": [
+              {
+                "uid": "YVapD2yuS"
+              }
+            ],
+            "uid": "IUR0xh0fR",
+            "edit-time": 1619772672012,
+            ":block/refs": [
+              {
+                ":block/uid": "YVapD2yuS"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "QQeorInAK",
+        "edit-time": 1619772597412,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "timeout",
+        "uid": "ddDhTllbV",
+        "edit-time": 1619772597412,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "55TS5Q8Rv",
+    "edit-time": 1619772578434,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772633522,
+    "title": "default settings",
+    "uid": "G90fM1oVD",
+    "edit-time": 1619772633523,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772636253,
+    "title": "option",
+    "uid": "cM0Us5mVM",
+    "edit-time": 1619772636253,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772642238,
+    "title": "preference",
+    "uid": "nO8pZfC2t",
+    "edit-time": 1619772642239,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772672015,
+    "title": "task manager",
+    "uid": "YVapD2yuS",
+    "edit-time": 1619772672016,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619772673504,
+    "title": "Control Panel",
+    "uid": "QxL6adhBm",
+    "edit-time": 1619772673505,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619773879335,
+    "title": "axis",
+    "uid": "oQ3YnDuPP",
+    "edit-time": 1619773879336,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619773879335,
+    "title": "dropdown",
+    "uid": "VyZAlsCH_",
+    "edit-time": 1619773879336,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619773967615,
+    "title": "linear algebra",
+    "uid": "M-7Vd61uo",
+    "edit-time": 1619773967615,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619773968644,
+    "title": "group theory",
+    "uid": "e_XieHPW6",
+    "edit-time": 1619773968646,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619773971018,
+    "title": "geometry",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[area]]",
+        "refs": [
+          {
+            "uid": "0e8XUUZvs"
+          }
+        ],
+        "uid": "VjeWE6Vsm",
+        "edit-time": 1619774023136,
+        ":block/refs": [
+          {
+            ":block/uid": "0e8XUUZvs"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[axis]]; [[direction]]; [[angle]]",
+        "refs": [
+          {
+            "uid": "oQ3YnDuPP"
+          },
+          {
+            "uid": "nqdTShl5u"
+          },
+          {
+            "uid": "rvoiyUdNQ"
+          }
+        ],
+        "children": [
+          {
+            "string": "oblique angle",
+            "uid": "-jDGrU8O5",
+            "edit-time": 1619774001773,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "opposite direction",
+            "uid": "SGs56T1jD",
+            "edit-time": 1619774001773,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "perpendicular direction; normal direction",
+            "uid": "dE2XWvok_",
+            "edit-time": 1619774001773,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "AA0w8xfA3",
+        "edit-time": 1619774021718,
+        ":block/refs": [
+          {
+            ":block/uid": "oQ3YnDuPP"
+          },
+          {
+            ":block/uid": "nqdTShl5u"
+          },
+          {
+            ":block/uid": "rvoiyUdNQ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[coordinate]]",
+        "refs": [
+          {
+            "uid": "D1B4C5hXg"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[coordinate axis]]",
+            "create-time": 1619774012676,
+            ":block/refs": [
+              {
+                ":block/uid": "r9J7NtwWw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "r9J7NtwWw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "AFxb_GWIN",
+            "edit-time": 1619774016377,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "7v5b7RdFB",
+        "edit-time": 1619774017806,
+        ":block/refs": [
+          {
+            ":block/uid": "D1B4C5hXg"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[elementary geometry]]",
+        "refs": [
+          {
+            "uid": "CuNQCNI6P"
+          }
+        ],
+        "uid": "1bHC4ngJ-",
+        "edit-time": 1619774033588,
+        ":block/refs": [
+          {
+            ":block/uid": "CuNQCNI6P"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "half-space; halfspace",
+        "uid": "HhJPVfIeo",
+        "edit-time": 1619773993124,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[plane]]",
+        "refs": [
+          {
+            "uid": "RreQ3T-8O"
+          }
+        ],
+        "uid": "vpwF28dPP",
+        "edit-time": 1619774032259,
+        ":block/refs": [
+          {
+            ":block/uid": "RreQ3T-8O"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "vertex; vertices",
+        "children": [
+          {
+            "string": "outgoing arc",
+            "create-time": 1619775536516,
+            "uid": "cn8gy_LL-",
+            "edit-time": 1619775537880,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "RtBe3VM9P",
+        "edit-time": 1619773993124,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[volume]]",
+        "refs": [
+          {
+            "uid": "7dexygom6"
+          }
+        ],
+        "uid": "axsD4Y3SH",
+        "edit-time": 1619775539993,
+        ":block/refs": [
+          {
+            ":block/uid": "7dexygom6"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "ob-aOa1lh",
+    "edit-time": 1619773971018,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619774016378,
+    "title": "coordinate axis",
+    "uid": "r9J7NtwWw",
+    "edit-time": 1619774016379,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619774017809,
+    "title": "coordinate",
+    "uid": "D1B4C5hXg",
+    "edit-time": 1619774017809,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619774019230,
+    "title": "angle",
+    "uid": "nqdTShl5u",
+    "edit-time": 1619774019230,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619774020260,
+    "title": "direction",
+    "uid": "rvoiyUdNQ",
+    "edit-time": 1619774020261,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619774023137,
+    "title": "area",
+    "uid": "0e8XUUZvs",
+    "edit-time": 1619774023138,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619774033589,
+    "title": "elementary geometry",
+    "uid": "CuNQCNI6P",
+    "edit-time": 1619774033590,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619775539996,
+    "title": "volume",
+    "uid": "7dexygom6",
+    "edit-time": 1619775539997,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

@@ -22,6 +22,7 @@
 - [[multi-media]]
 - [[note-taking]]; note-taking tool; notetaking
 - [[release]]
+- [[settings]]
 - [[Software as a Service (SaaS)]]
 - storage
     - capability...

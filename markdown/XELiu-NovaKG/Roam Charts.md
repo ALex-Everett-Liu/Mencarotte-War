@@ -1,6 +1,19 @@
-- [The Charts extension](https://roamjs.com/docs/extensions/charts) allows users to [render excel-esque charts] in Roam!
+- [The Charts extension](https://roamjs.com/docs/extensions/charts) allows users to [render excel-esque charts](((0-IXjhopM))) in Roam!
 - ### Installation
-    - You could use the Copy Extension button below to individually install this extension. To install, just paste anywhere in your Roam graph and click "Yes, I Know What I'm Doing".
+    - You could use the [Copy Extension button] below to [individually install this extension]. To install, [just paste anywhere in] your Roam graph and click "Yes, I Know What I'm Doing".
+- ### Usage
+    - The script is not [[configurable]].
+    - There are [two types of charts] supported:
+210430-16:48
+        - Create a `{{line}}` or `{{line chart}}` button to [render a line graph](((Yjd2drHsy))).
+        - Create a `{{bar}}` or `{{bar chart}}` button to [render a bar graph](((oSfi8yssF))).
+    - You will need to nest labels and data as children of the [rendered chart]. You should [have one label per line], and data should be [nested under the label]([[label]]). The data should be [two numbers separated by a comma]([[comma]]). Here's an example:
+    - You could [specify multiple y values for each x value](((sh6tc3dR_))). [Simply delimit with a comma] the additional y values on each block.
+    - You could use the [[dropdown]]s on the right to define [what type of axis the charts use]([[axis]]). The supported types are:
+210430-17:11
+        - linear - numerical values
+        - [ordinal](((kDn1pqcWa))) - [text values](((hksO4t4SO)))
+        - time - date values (default MM/dd/yyyy format)
 - ### Test
     - {{line chart}}
         - X-Axis:: time
@@ -10,21 +23,25 @@
             - 04/17/2021, 69.8
             - 04/18/2021, 69.86
             - 04/19/2021, 70.12
+            - 04/20/2021, 70.01
         - avg_min
             - 04/15/2021, 70.08
             - 04/16/2021, 69.52
             - 04/17/2021, 69.59
             - 04/18/2021, 69.63
             - 04/19/2021, 69.83
+            - 04/20/2021, 69.76
         - max
             - 04/15/2021, 70.65
             - 04/16/2021, 70.4
             - 04/17/2021, 70
             - 04/18/2021, 70
             - 04/19/2021, 70.4
+            - 04/20/2021, 70.3
         - min
             - 04/15/2021, 69.75
             - 04/16/2021, 69.05
             - 04/17/2021, 69.5
             - 04/18/2021, 69.45
             - 04/19/2021, 69.55
+            - 04/20/2021, 69.55

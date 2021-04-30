@@ -7,6 +7,7 @@
     - slide-in call-to-action (CTA)
 - magnifier; 放大镜
 - [[menu]]
+    - [[dropdown]];
 - navigation...
     - fast move...
     - indicator

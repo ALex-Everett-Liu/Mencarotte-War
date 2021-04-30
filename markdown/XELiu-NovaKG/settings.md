@@ -1,0 +1,14 @@
+- accessibility settings
+- configure; configuration
+    - bin directory
+    - [[configurable]];
+    - user-level
+- [[default settings]]
+    - extra settings; extra options;
+- dependence...
+- [[option]]
+- [[preference]]: 首选项, 优先, 偏好;
+- system settings
+    - [[Control Panel]]
+    - [[task manager]]
+- timeout

@@ -8,7 +8,7 @@
     - structured note
     - [[Table of Contents (ToC)]]
         - [[Map of Content (MoC)]]
-    - [[tag]]; [[label]]; [[category]]...
+    - [[tag]]; [[label]]: 标签, 标注; [[category]]...
         - tag-line;
         - the types of content
 - file cabinet

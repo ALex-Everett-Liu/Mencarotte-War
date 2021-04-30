@@ -1,0 +1,13 @@
+- [[area]]
+- [[axis]]; [[direction]]; [[angle]]
+    - oblique angle
+    - opposite direction
+    - perpendicular direction; normal direction
+- [[coordinate]]
+    - [[coordinate axis]]
+- [[elementary geometry]]
+- half-space; halfspace
+- [[plane]]
+- vertex; vertices
+    - outgoing arc
+- [[volume]]
