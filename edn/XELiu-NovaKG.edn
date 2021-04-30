@@ -71,6 +71,10 @@
    :version/nonce
    "uuid3208583c-ca8b-4423-9736-e05635af426e"
    536870916]
+  [2
+   :version/upgraded-nonce
+   "uuid3208583c-ca8b-4423-9736-e05635af426e"
+   536969718]
   [3 :block/uid "h-M04qhHX" 536870915]
   [3 :user/display-name "Everett Liu" 536870915]
   [3
@@ -114,16 +118,18 @@
       :order 6,
       :content-id "rw6U8VHY-"}},
     :link-brackets? true,
-    :allow-custom-components? true,
-    :rtl? false,
-    :roam/js {:active-blocks #{"aRpia0jex" "AxYW5wsjk" "kJpwMc-hE"}}}
-   536969563]
+    :rtl? false}
+   536969717]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
    "uuid2f2d1777-41b3-4fca-8c09-d6f24a825da9"
    536969716]
+  [14875
+   :version/upgraded-nonce
+   "uuid2f2d1777-41b3-4fca-8c09-d6f24a825da9"
+   536969718]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -78748,4 +78754,9 @@
   [23508 :block/string "" 536969707]
   [23508 :block/uid "UPcC75A4R" 536969707]
   [23508 :edit/time 1619719272419 536969707]
-  [23508 :edit/user 3 536969707]]}
+  [23508 :edit/user 3 536969707]
+  [23509 :version/id "0.8.5" 536969717]
+  [23509
+   :version/nonce
+   "uuidcee6b480-529c-443f-a9a1-6f917fafd00e" 
+   536969718]]}
