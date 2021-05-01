@@ -4,7 +4,7 @@
 - Northeast?
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
     - [[高句丽 (Goguryeo)]]
-        - [[高丽 (Gaoli)]]
+        - [[安東都護府 (Andong Duhufu)]]
     - [[濊貊 (huimo)]]
         - [[小水貊 (xiaoshuimo)]]
         - [[东濊 (Eastern Ye)]]

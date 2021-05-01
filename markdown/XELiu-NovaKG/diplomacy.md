@@ -2,6 +2,7 @@
 - foreign affairs
     - [[Foreign Office]]; [[Foreign Ministry]]
 - [[international relations]]
+- [[protectorate]]: 保护国, 摄政政体;
 - [[tribute]]
 - #inbox
     - 一个[万人嫌](https://www.zhihu.com/question/456256296/answer/1851847425)的老头，一个[政治异类]，在[中美关系蜜月]内，仅仅因为参与了一项[反华议案]，就得到了往日[不曾得到过的礼遇]，甚至[以往反对他的人]都[对他表示支持和祝贺]。 #pt8-100

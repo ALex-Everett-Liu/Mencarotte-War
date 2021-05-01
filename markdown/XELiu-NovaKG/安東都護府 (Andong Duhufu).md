@@ -1,0 +1,8 @@
+- [The Protectorate-General to Pacify the East] (simplified Chinese: 安东都护府; traditional Chinese: 安東都護府; pinyin: Āndōng Dūhùfǔ) was a [[protectorate]] [established by the Tang dynasty] in the northeast after [defeating the kingdom] of [[高句丽 (Goguryeo)]]. In the place of [[百济 (Baekje)]] and Goguryeo, the Tang created the Protectorate General to Pacify the East, [Ungjin Commandery]([[熊津都督府 (Xiongjin Dudufu)]]) and [Gyerim Territory Area Command]([[鷄林州都督府 (jilinzhou dudufu)]]).
+210501-22:21
+- Hangul	안동도호부
+- History
+    - After the Tang dynasty conquered Goguryeo in 668, the Protectorate General to Pacify the East, otherwise known as the Andong Protectorate, was created in Pyongyang and supposedly stationed with 200,000 soldiers. The protectorate was divided into 9 [commanderies]([[commandery]]), 42 [[prefecture]]s, and 100 counties.[1][2][3]
+    - In 669 the people of Goguryeo [revolted in response to Tang governance]. In response the Tang [forcibly deported] 78,000 households and [resettled them in empty areas](((oS8mkp0o5))) south of the Changjiang (Yangtze) and Huai River, each in contemporary China. [The weak and poor were left behind] and [assigned to guard duty] in service of the protectorate.[2]
+210501-22:28
+    - From 670 to 673 [the rebels launched an uprising every year], [the last of which] [lasted for four years]. The [Goguryeo loyalists] were aided by the kingdom of [[新罗 (Silla)]], who were angered by [Emperor Gaozong of Tang]. Originally [Emperor Taizong of Tang] promised to exchange Baekje and the lands south of Pyeonyang in return for Silla's [military cooperation]. However Taizong died before [the conquest of Goguryeo] was completed, and his successor Gaozong [reneged on the promise].[4]

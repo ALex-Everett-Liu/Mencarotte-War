@@ -11,7 +11,8 @@
 - 三韩
     - [[辰韓 (Jinhan)]]
         - [[新罗 (Silla)]]
-            - [[鸡林州都督府 (jilinzhou dudufu)]]
+            - [[鷄林州都督府 (jilinzhou dudufu)]]
             - 新罗九州
     - 马韩
-        - 百济
+        - [[百济 (Baekje)]]
+            - [[熊津都督府 (Xiongjin Dudufu)]]
