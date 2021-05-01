@@ -1,3 +1,5 @@
+- background image
+    - [[wallpaper]]
 - drag and drop; drag files
     - flexible drag and drop interface;
 - [[graphical user interface (GUI)]]

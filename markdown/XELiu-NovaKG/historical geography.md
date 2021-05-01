@@ -11,6 +11,10 @@
 - northeast...
     - [[长白山]]; 白頭山; [[不咸山 (Buxian Mountain)]]; [[徒太山 (Tutai Mountain)]]
         - [[盖马大山 (Gaima Mountain)]]
+    - Korea
+        - [[大同江 (Taedong River)]]
+    - [[辽东 (Liaodong)]]
+    - [[辽西 (Liaoxi)]]
     - [[弱水 (River Ruo)]]
 - 制图工作者
 - #inbox

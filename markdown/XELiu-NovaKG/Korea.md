@@ -1,4 +1,5 @@
 - Administrative divisions of South Korea
+    - [[京畿道 (Gyeonggi)]]
 - 朝鲜三国时代
 - Eight Provinces of Korea
     - 江原道
