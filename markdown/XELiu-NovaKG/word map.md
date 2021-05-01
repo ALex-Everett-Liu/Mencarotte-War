@@ -1,5 +1,11 @@
 - English
     - a
+        - ab
+            - able
+                - [[ability]]; abilities; inability
+                - disable; unable
+                - enable
+                    - enabling;
         - ad
             - advance
                 - advance the theory;
@@ -60,6 +66,12 @@
                 - cautious
                 - cautionary: 警告;
             - cavity
+        - ch
+            - character
+                - characteristic, 2; characteristically; characteristics, 2
+                    - [[physical characteristics]];
+                    - typical or [distinctive](https://workflowy.com/#/f51a45ab24b1)
+                - single character;
         - ci
             - circle
             - circum-
@@ -377,6 +389,9 @@
                 - perpendicular
                 - perplex
                     - perplexing;
+                - perspective, 2
+                - person
+                    - [[personality]];
         - pl
             - pla
                 - play
@@ -421,6 +436,13 @@
                         - relevance: 相关性, 关联性, 适用度;
                 - relay
                     - relaying;
+            - rep
+                - repeat, 2
+                    - repetend; repetition
+                - report
+                    - reportedly;
+                - repute
+                    - [[reputation]]
             - res
                 - reside, 2
                     - resident;

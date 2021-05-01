@@ -1,7 +1,8 @@
 - [[ck3 characters]]; [[ck2 characters]]
     - [[characters modding]]; 
     - [[ck3 traits]]
-    - dynasty
+    - [[dynasty]]
+    - [[opinion]]
 - [[ck3 history]]
 - [[ck3 localization]]; [[localization]]
 - [[map modding]]
