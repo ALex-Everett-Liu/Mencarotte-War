@@ -6,6 +6,10 @@
                 - disable; unable
                 - enable
                     - enabling;
+            - abstract, 2
+                - [[abstraction]];
+                - existing only in the mind; [separated from](https://workflowy.com/#/337f6b9f2187) [embodiment](https://workflowy.com/#/f3e9ab091afc);
+                    - [abstract words] like 'truth' and 'justice'
         - ad
             - advance
                 - advance the theory;

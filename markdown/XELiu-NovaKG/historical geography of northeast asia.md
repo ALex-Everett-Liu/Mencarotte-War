@@ -1,0 +1,15 @@
+- [[长白山]]; 白頭山; [[不咸山 (Buxian Mountain)]]; [[徒太山 (Tutai Mountain)]]
+    - [[盖马大山 (Gaima Mountain)]]
+- Korea
+    - Administrative divisions of South Korea
+        - [[京畿道 (Gyeonggi)]]
+    - Eight Provinces of Korea
+        - 江原道
+            - 溟州道; 江陵道
+            - 朔方道; 岭东, 岭西;
+            - 铁原郡
+    - [[大同江 (Taedong River)]]
+    - [[新罗九州]]
+- [[辽东 (Liaodong)]]
+- [[辽西 (Liaoxi)]]
+- [[弱水 (River Ruo)]]

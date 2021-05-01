@@ -1,0 +1,7 @@
+- #inbox
+    - 对于[开发者](https://ld246.com/article/1619080345258)来说，[另一条路]是[一开始就不选择]以 [Markdown 文本]作为[存储格式]，而是使用[更结构化的存储方式]，比如[数据库]或者 JSON，然后[在应用层面][支持 Markdown 语法排版]。[选择这条路]的开发者，也许[已经预见到了][将来可能的复杂场景]。 #pt9-99.99
+        - 在[扩展语法]的道路上[越走越远]以后，我们发现这似乎是在[开历史的倒车]。随着更多[特定语法]的引入，Markdown 的[通用性]逐步散失，就好像变成了[特定软件的私有格式]一般。更讽刺的是，[语法引入]却不能解决 Markdown 最大的问题 —— 自带资源文件（虽然 TextBundle/TextPack 做了一些努力，但[就目前而言]基本也还是[不通用]）。
+        - 我觉得这是一个发展方向, 我个人也认为原始纯粹的 md 本身[并不适合做笔记].
+            - 这并不像更简单 json 取代复杂的 xml 那样, 因为[用途不一样], 我觉得 用 usd 做类比, [展望笔记的未来]才更合适.
+    - 经过一段时间的[调研和尝试](https://ld246.com/article/1619868273581)，[我们确认了]使用[标准 Markdown 语法]（CommonMark/GFM）是[无法实现][块级引用]的，必须[引入扩展语法]。在众多的 [Markdown 扩展语法]中，我们选择了 [kramdown](https://link.ld246.com/forward?goto=https%3A%2F%2Fkramdown.gettalong.org) 提供的[内联属性列表]（[Inline Attribute Lists](https://link.ld246.com/forward?goto=https%3A%2F%2Fkramdown.gettalong.org%2Fsyntax.html%23inline-attribute-lists)）语法给[块级元素][做标识]，让每个块级元素都[拥有唯一的 ID]。这样[在引用的时候]就能[精确地获取到]该块。保持 [Markdown 文本][人类易读写]的前提下[最大限度地实现]通用性和互操作性。 #pt8-99.99
+        - All non-trivial [[abstraction]]s, to some degree, are leaky.
