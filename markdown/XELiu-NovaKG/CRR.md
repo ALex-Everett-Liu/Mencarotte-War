@@ -1,6 +1,7 @@
 - [[dress]]
 - girls' stuff...
     - [[bag]]
+    - [[hair]]
     - scarf
         - wool scarf; 
 - [[shitagi]]

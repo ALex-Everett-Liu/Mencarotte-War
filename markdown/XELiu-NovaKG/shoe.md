@@ -1,2 +1,3 @@
 - [[high heeled]]
+- [[sneaker]]
 - [[wedge heeled]]

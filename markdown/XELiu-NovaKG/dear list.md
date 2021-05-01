@@ -1,15 +1,18 @@
 - [[田鑫 (Tian Xin)]] -- 169 cm
-- [[Huang Yandi]] -- 163 cm
+- [[黄滟荻 (Huang Yandi)]] -- 163 cm
 - [[王淼 (Wang Miao)]] -- 167 cm?
 - 东区jk -- #pt10-100   163~164 cm?
     - 2021
         - ((EcphWwHnq))
         - 星期日 31/01/2021 17:31
         - ((jR9xRL9Um))
-        - ((VVcKWCNHp))
+        - 星期日 21/02/2021 17:30 #pt10-100 #ponytail # light pink big faquan # black-purple sneaker # black coat
         - __星期日 14/03/2021 11:22~23__
             - 很嚣张地一路甩着细胳膊，可爱
         - 星期六 27/03/2021 12:35~36
+- [[虞喆 (Yu Zhe)]] -- 160 cm?
+- [[臧妤姣 (Zang Yujiao)]]
+- HIT Energy School 201703?
 - 星期五 26/04/2019 16:16 #pt10-99.99 #laopo #[[flesh pantyhose]] # light pink high heeled #[[blue-white skirt]] #[[white coat]] #[[pink bag]]   161~163 cm?
 - 东区jk2 -- #pt10-99.99   164~167 cm?
 - 星期二 23/03/2021 12:39 #pt10-100 #laopo #[[grey socks]] #canvas #[[light jeans]] # black dayi   166~169 cm?
