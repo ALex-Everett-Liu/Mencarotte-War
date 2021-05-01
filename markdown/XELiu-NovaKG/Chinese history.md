@@ -15,10 +15,13 @@
     - [[晋与十六国]]
 - The Second Empire of China
     - [[唐王朝 (Tang dynasty)]]
+    - [[宋王朝 (Song dynasty)]]
 - The Third Empire of China
     - [[明王朝 (Ming dynasty)]]
     - [[清王朝 (Qing dynasty)]]
 - [[中国近代史]]
+- original source; 史料
+    - [[通典 (Tongdian)]]
 - [[sinology]]
 - [[centralization]]: 中央集权; [[central authority]]
     - 郡县化

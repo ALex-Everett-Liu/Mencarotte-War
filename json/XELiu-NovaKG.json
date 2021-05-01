@@ -787,7 +787,7 @@
             "string": "",
             "create-time": 1619718628988,
             "uid": "YfYQzQsik",
-            "edit-time": 1619846643846,
+            "edit-time": 1619868946683,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -8214,6 +8214,28 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[[宋王朝 (Song dynasty)]]",
+            "create-time": 1619869338985,
+            ":block/refs": [
+              {
+                ":block/uid": "cAggZx5KL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cAggZx5KL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "PE4xMm-EF",
+            "edit-time": 1619869378639,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "n0XD9cMqo",
@@ -8290,6 +8312,34 @@
         },
         "uid": "XRfrFy5Js",
         "edit-time": 1618312238288,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "original source; 史料",
+        "children": [
+          {
+            "string": "[[通典 (Tongdian)]]",
+            "refs": [
+              {
+                "uid": "CNNfv7XUs"
+              }
+            ],
+            "uid": "jTSni3_kU",
+            "edit-time": 1619868941601,
+            ":block/refs": [
+              {
+                ":block/uid": "CNNfv7XUs"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FTiMmiUj7",
+        "edit-time": 1619868938802,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -34056,11 +34106,31 @@
   {
     "create-time": 1617734473252,
     "title": "sinology",
-    "uid": "AJSQk24jD",
-    "edit-time": 1617734473253,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Confucian School]]",
+        "refs": [
+          {
+            "uid": "WCBxx4tNx"
+          }
+        ],
+        "uid": "mgBBLuSSM",
+        "edit-time": 1619869696608,
+        ":block/refs": [
+          {
+            ":block/uid": "WCBxx4tNx"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "AJSQk24jD",
+    "edit-time": 1617734473253,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -36805,6 +36875,44 @@
     },
     "children": [
       {
+        "string": "black knee socks",
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0": {
+                  "width": 280,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1607742630252,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0": {
+                  ":width": 280,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "JEfj9cESb",
+            "edit-time": 1619867319337,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "vz3LT-JL9",
+        "edit-time": 1619867319337,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[pantyhose]]",
         "create-time": 1617855188104,
         ":block/refs": [
@@ -36974,6 +37082,28 @@
         },
         "uid": "Op_stx1b-",
         "edit-time": 1617855469005,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[leather shoes]]",
+        "create-time": 1619867254858,
+        ":block/refs": [
+          {
+            ":block/uid": "fYbHDx6yU"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "fYbHDx6yU"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ATH6fC7HI",
+        "edit-time": 1619867257014,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -37377,23 +37507,49 @@
         }
       },
       {
-        "string": "[[long coat]]",
-        "create-time": 1616142105339,
-        ":block/refs": [
-          {
-            ":block/uid": "mHBd4Sqob"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "mHBd4Sqob"
-          }
-        ],
+        "string": "light blue coat",
+        "create-time": 1619867145953,
+        "uid": "vbSeZQOkt",
+        "edit-time": 1619867146617,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "fJT9uF585",
-        "edit-time": 1617856962662,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "brown coat",
+        "create-time": 1616153769410,
+        "uid": "_J5zEKD37",
+        "edit-time": 1619867158549,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "creamy-brown coat",
+        "create-time": 1616408170607,
+        "uid": "5GwmBgbkl",
+        "edit-time": 1619867158549,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "coffee coat",
+        "create-time": 1616143291430,
+        "uid": "hAb6UmfHa",
+        "edit-time": 1619867158549,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -37422,7 +37578,7 @@
       },
       {
         "string": "[[green coat]]",
-        "create-time": 1618620491024,
+        "create-time": 1616140793977,
         ":block/refs": [
           {
             ":block/uid": "I4IpGiva0"
@@ -37436,8 +37592,54 @@
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "BrQX7W6Ql",
-        "edit-time": 1618620491974,
+        "uid": "MV8yMiN5X",
+        "edit-time": 1619867177311,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "dark jeans coat",
+        "create-time": 1616409647520,
+        "uid": "5vPdAlUfE",
+        "edit-time": 1619867177311,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[long coat]]",
+        "create-time": 1616142105339,
+        ":block/refs": [
+          {
+            ":block/uid": "mHBd4Sqob"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mHBd4Sqob"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "fJT9uF585",
+        "edit-time": 1617856962662,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "red coat",
+        "create-time": 1616354317799,
+        "uid": "CnKlzc7ga",
+        "edit-time": 1619867191330,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -37485,6 +37687,18 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "creamy-white coat",
+        "create-time": 1616703393922,
+        "uid": "5X2BgwSue",
+        "edit-time": 1619867191330,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "RyB-uQI0j",
@@ -37513,6 +37727,28 @@
     },
     "children": [
       {
+        "string": "[[black bag]]",
+        "create-time": 1619867366424,
+        ":block/refs": [
+          {
+            ":block/uid": "LYaSEkpLP"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "LYaSEkpLP"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Yjw5XJB42",
+        "edit-time": 1619867370033,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[pink bag]]",
         "create-time": 1617855859363,
         ":block/refs": [
@@ -37530,6 +37766,54 @@
         },
         "uid": "vK4xAgUC5",
         "edit-time": 1617855864925,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[yellow bag]]",
+        "create-time": 1619867361920,
+        ":block/refs": [
+          {
+            ":block/uid": "MeGmoWNHt"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "MeGmoWNHt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Xcomnl_gy",
+        "edit-time": 1619867364833,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "书包",
+        "create-time": 1616027950407,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "可爱的书包挂件",
+            "create-time": 1616027956424,
+            "uid": "ZGtcpdUmT",
+            "edit-time": 1619867391675,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "zXHHuQCJ3",
+        "edit-time": 1619867391675,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -79008,6 +79292,44 @@
         }
       },
       {
+        "string": "[[东胡 (Donghu)]]",
+        "refs": [
+          {
+            "uid": "kBAZEOdz_"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[Khitan (契丹)]]",
+            "refs": [
+              {
+                "uid": "iRyh4uT1r"
+              }
+            ],
+            "uid": "Vmd_sZeYM",
+            "edit-time": 1619869294984,
+            ":block/refs": [
+              {
+                ":block/uid": "iRyh4uT1r"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "bOjDXQ51W",
+        "edit-time": 1619869287282,
+        ":block/refs": [
+          {
+            ":block/uid": "kBAZEOdz_"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "Northeast?",
         "create-time": 1619052136411,
         ":create/user": {
@@ -79015,7 +79337,7 @@
         },
         "children": [
           {
-            "string": "[[扶余 (Fuyu)]]; 夫余; 夫餘",
+            "string": "[[扶余 (Buyeo)]]; 夫余; 夫餘",
             "create-time": 1619162020566,
             ":block/refs": [
               {
@@ -79031,13 +79353,13 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "cglPzaQ1I",
-            "edit-time": 1619233927715,
+            "edit-time": 1619868329720,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "[[高句丽]]",
+            "string": "[[高句丽 (Goguryeo)]]",
             "refs": [
               {
                 "uid": "NGu1_BMZJ"
@@ -79064,7 +79386,7 @@
               }
             ],
             "uid": "rZMQAtdUo",
-            "edit-time": 1619162411489,
+            "edit-time": 1619868317526,
             ":block/refs": [
               {
                 ":block/uid": "NGu1_BMZJ"
@@ -79075,23 +79397,175 @@
             }
           },
           {
-            "string": "[[寇漫汗]]",
-            "create-time": 1619233973567,
+            "string": "[[濊貊 (huimo)]]",
+            "refs": [
+              {
+                "uid": "8OUEeG6mo"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[小水貊 (xiaoshuimo)]]",
+                "refs": [
+                  {
+                    "uid": "IE7wwRr-k"
+                  }
+                ],
+                "uid": "4jn7DENvm",
+                "edit-time": 1619868373283,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IE7wwRr-k"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[东濊 (Eastern Ye)]]",
+                "refs": [
+                  {
+                    "uid": "WKNPz0l7A"
+                  }
+                ],
+                "uid": "xm40VmlA3",
+                "edit-time": 1619868372193,
+                ":block/refs": [
+                  {
+                    ":block/uid": "WKNPz0l7A"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "NK08KJQkI",
+            "edit-time": 1619868374760,
             ":block/refs": [
               {
-                ":block/uid": "YDjs339WL"
+                ":block/uid": "8OUEeG6mo"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Korea]]",
+            "create-time": 1619868253240,
+            ":block/refs": [
+              {
+                ":block/uid": "HsOfJXYXl"
               }
             ],
             "refs": [
               {
-                "uid": "YDjs339WL"
+                "uid": "HsOfJXYXl"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "TbZPy7Esl",
+            "edit-time": 1619868255778,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[寇漫汗 (Koumanhan)]]",
+            "create-time": 1619233973567,
+            ":block/refs": [
+              {
+                ":block/uid": "ByslMD8WX"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ByslMD8WX"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "q2Jtulf_B",
-            "edit-time": 1619233975733,
+            "edit-time": 1619868399598,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[沃沮 (Okjeo)]]",
+            "refs": [
+              {
+                "uid": "7qujq52oO"
+              }
+            ],
+            "uid": "_EugT4NGo",
+            "edit-time": 1619868449680,
+            ":block/refs": [
+              {
+                ":block/uid": "7qujq52oO"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[Siberia]]",
+            "refs": [
+              {
+                "uid": "vZ6AtIyxA"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[Lake Baikal]]",
+                "refs": [
+                  {
+                    "uid": "YRtcPH4U4"
+                  }
+                ],
+                "uid": "LRqeks_q9",
+                "edit-time": 1619868505301,
+                ":block/refs": [
+                  {
+                    ":block/uid": "YRtcPH4U4"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[Onon River]]",
+                "refs": [
+                  {
+                    "uid": "xqvAW5YAu"
+                  }
+                ],
+                "uid": "IchuxTOmG",
+                "edit-time": 1619868503581,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xqvAW5YAu"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "W0jIILMp2",
+            "edit-time": 1619868514188,
+            ":block/refs": [
+              {
+                ":block/uid": "vZ6AtIyxA"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -79099,6 +79573,70 @@
           {
             "edit-time": 1619171060167,
             "children": [
+              {
+                "string": "[[Jurchen]]",
+                "create-time": 1619052146889,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8IKMl_0BK"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8IKMl_0BK"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "PxPr7A8hV",
+                "edit-time": 1619052154473,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[靺鞨 (Mohe)]]; 靺羯",
+                "refs": [
+                  {
+                    "uid": "8-yXI0HC2"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "[[勿吉 (Wuji)]]",
+                    "create-time": 1619162394896,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "OXX209UFf"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "OXX209UFf"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "JprMGQebU",
+                    "edit-time": 1619162396236,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "NG8Z96Lzl",
+                "edit-time": 1619163693009,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8-yXI0HC2"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
               {
                 "string": "[[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)",
                 "refs": [
@@ -79148,70 +79686,6 @@
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
-              },
-              {
-                "string": "[[靺鞨 (Mohe)]]; 靺羯",
-                "refs": [
-                  {
-                    "uid": "8-yXI0HC2"
-                  }
-                ],
-                "children": [
-                  {
-                    "string": "[[勿吉 (Wuji)]]",
-                    "create-time": 1619162394896,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "OXX209UFf"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "OXX209UFf"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    },
-                    "uid": "JprMGQebU",
-                    "edit-time": 1619162396236,
-                    ":edit/user": {
-                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                    }
-                  }
-                ],
-                "uid": "NG8Z96Lzl",
-                "edit-time": 1619163693009,
-                ":block/refs": [
-                  {
-                    ":block/uid": "8-yXI0HC2"
-                  }
-                ],
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "[[Jurchen]]",
-                "create-time": 1619052146889,
-                ":block/refs": [
-                  {
-                    ":block/uid": "8IKMl_0BK"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "8IKMl_0BK"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "PxPr7A8hV",
-                "edit-time": 1619052154473,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
               }
             ],
             "refs": [
@@ -79230,28 +79704,6 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "create-time": 1619057388123,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "[[北沃沮 (North Woju)]]",
-            "create-time": 1619162058788,
-            ":block/refs": [
-              {
-                ":block/uid": "_lrveSc-8"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "_lrveSc-8"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "jQIc6-_2o",
-            "edit-time": 1619162061293,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -79337,6 +79789,60 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "[[吉林通志]]",
+        "refs": [
+          {
+            "uid": "buzzrjKIJ"
+          }
+        ],
+        "uid": "KT5lIEzuj",
+        "edit-time": 1619868561320,
+        ":block/refs": [
+          {
+            ":block/uid": "buzzrjKIJ"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[满洲 (Manchuria)]]",
+        "refs": [
+          {
+            "uid": "TJ9CcVWpK"
+          }
+        ],
+        "uid": "rM4wZ487X",
+        "edit-time": 1619868559825,
+        ":block/refs": [
+          {
+            ":block/uid": "TJ9CcVWpK"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[熟女真 (Shu Nvzhen)]]",
+        "refs": [
+          {
+            "uid": "gNUcq5AVX"
+          }
+        ],
+        "uid": "dKDredB1J",
+        "edit-time": 1619868558802,
+        ":block/refs": [
+          {
+            ":block/uid": "gNUcq5AVX"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[诸申 (Zhushen)]]",
         "create-time": 1619159607566,
@@ -80294,7 +80800,7 @@
                 }
               },
               {
-                "string": "《后汉书·挹娄传》：“挹娄，古肃愼之国也，在[[扶余 (Fuyu)]][东北千余里](((tB-qG_GQ6)))，东滨大海，南与[[北沃沮 (North Woju)]]接，不知其北所及。”",
+                "string": "《后汉书·挹娄传》：“挹娄，古肃愼之国也，在[[扶余 (Buyeo)]][东北千余里](((tB-qG_GQ6)))，东滨大海，南与[[北沃沮 (North Okjeo)]]接，不知其北所及。”",
                 "create-time": 1619161970795,
                 ":block/refs": [
                   {
@@ -80322,7 +80828,7 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "ZdFJ0Sqn5",
-                "edit-time": 1619162116182,
+                "edit-time": 1619868443112,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -80340,7 +80846,7 @@
                 }
               },
               {
-                "edit-time": 1619236689852,
+                "edit-time": 1619868432595,
                 "children": [
                   {
                     "string": "俗皆[編髮]，以布作襜，徑尺餘，以蔽前後．將嫁娶，男以[毛羽]插女頭，女和則持歸，然後[致禮娉之]．婦貞而[女淫]，貴壯而賤老，死者其日即[葬之於野]，交木作[小槨]，[殺豬][積其上]，以為[死者之糧]．性凶悍，以無憂哀相尚．父母死，男子[不哭泣]，[哭者][謂之不壯]．相盜竊，無多少[皆殺之]，故雖野處而[不相犯]．有石砮，皮骨之甲，[檀弓]三尺五寸，[楛矢](((AzzDqGYeh)))長尺有咫．[其國東北][有山出石]，其利入鐵，將取之，必先[祈神]．”  \n(人々はみな髪を編み、布で襜（せん：まえだれ）を作った。その大きさは径一尺あまりであり、それで身体の前後を蔽った。結婚しようとする時には、男が女の頭に[毛羽を挿し]、女が[結婚を承諾すれば](shōdaku)[毛羽を家に持ち帰り]、然る後に[礼をつくして女を娶る]。婦人は貞淑であるが、女はほしいままにふるまう。人々は[壮者を貴び]、老人を賤しむ。死者はその日のうちに[野に葬られ]、[木を組み合わせて]小さな槨（かく：ひつぎ）をつくり、[豬を殺して]その上に積み、死者の糧とする。性格はあらあらしく、憂い哀しまないことをもって互いに尚んだ。[父母が死んでも]男子は[泣き叫んだりしない]。[泣き叫ぶような者]は壮者とは言わない。[盗竊した者]は[その多少にかかわらず][皆これを殺すので]、あたりに放り出していても盗む者はいない。武器は石砮・皮骨の甲、3尺5寸の檀弓、長さ1尺数咫の楛矢[2](((sR_6d-vRC)))がある。その国の東北には[石を産出する山](sanshutsu)があり、[その石の鋭利さ]は鉄をも凌ぐほどである。[これを採取するときに]は必ず[その前に神に祈るのである]。)\n210424-11:15",
@@ -80419,22 +80925,22 @@
                 ],
                 "refs": [
                   {
-                    "uid": "YDjs339WL"
+                    "uid": "_OX3SoVSa"
                   },
                   {
-                    "uid": "_OX3SoVSa"
+                    "uid": "ByslMD8WX"
                   }
                 ],
                 "uid": "YVVb4whqq",
                 ":block/refs": [
                   {
-                    ":block/uid": "YDjs339WL"
+                    ":block/uid": "_OX3SoVSa"
                   },
                   {
-                    ":block/uid": "_OX3SoVSa"
+                    ":block/uid": "ByslMD8WX"
                   }
                 ],
-                "string": "『晋書』四夷伝：“…… 肅慎氏一名挹婁，在[不咸山]北，去[夫餘]可六十日行．[東濱大海]，西接[寇漫汗國]([[寇漫汗]])，北極[[弱水 (River Ruo)]]．其[土界廣袤數千里]，居深山窮谷，其路險阻，車馬不通．夏則[巣居]，冬則[穴處]．父子[世為君長]．無文墨，以言語為約．有馬不乘，但[以為財産]而已．無牛羊，多[畜豬]，食其肉，衣其皮，績毛以為布．有樹名[雒常]，若中國[有聖帝代立]，則其木生皮可衣．無井竈，作瓦鬲，受四五升以食．坐則[箕踞]，以足挾肉而[啖之]，得凍肉，坐其上令暖．土無鹽鐵，燒木作灰，灌取汁而食之． \n(粛慎氏は一名を挹婁（ゆうろう）といい、不咸山（白頭山）の北に在り、夫余から60日ばかりの行程である。東は大海（日本海）に沿い、西は寇漫汗国に接し、北は弱水（アムール川）にまで達している。その領域は東西・南北ともに数千里におよび、人々は[奥深い山や谷に]住んでいる。その路は険阻であり、車馬は通わない。夏の間は[樹の上に住み]、冬の間は[地下の穴の中で生活する]。父子が代々君長となる。文字はなく、口頭でもって約束ごとをおこなった。馬がいるが乗らず、ただ財産とするだけである。牛や羊はいないが、多くの豬（ブタ）を飼っており、その肉を食べ、その皮を衣とする。毛を紡いで布とする。樹の名前に雒常（らくじょう）というものがあり、中国の聖帝が新たに帝位につく時には、その木は皮を生じるので衣とすることができた。井戸や竈（かまど）はなく、瓦鬲（がれき：土釜）を作り、それに4・5升を盛って食べる。[座り方]は[両足を伸ばして座り]、足をもって肉をつかんで食べ、凍った肉を得れば、その上に座って暖める。その地には塩や鉄がなく、木を焼いて灰を作り、水を注いで汁を取り、それを食した。)",
+                "string": "『晋書』四夷伝：“…… 肅慎氏一名挹婁，在[不咸山]北，去[夫餘]可六十日行．[東濱大海]，西接[寇漫汗國]([[寇漫汗 (Koumanhan)]])，北極[[弱水 (River Ruo)]]．其[土界廣袤數千里]，居深山窮谷，其路險阻，車馬不通．夏則[巣居]，冬則[穴處]．父子[世為君長]．無文墨，以言語為約．有馬不乘，但[以為財産]而已．無牛羊，多[畜豬]，食其肉，衣其皮，績毛以為布．有樹名[雒常]，若中國[有聖帝代立]，則其木生皮可衣．無井竈，作瓦鬲，受四五升以食．坐則[箕踞]，以足挾肉而[啖之]，得凍肉，坐其上令暖．土無鹽鐵，燒木作灰，灌取汁而食之． \n(粛慎氏は一名を挹婁（ゆうろう）といい、不咸山（白頭山）の北に在り、夫余から60日ばかりの行程である。東は大海（日本海）に沿い、西は寇漫汗国に接し、北は弱水（アムール川）にまで達している。その領域は東西・南北ともに数千里におよび、人々は[奥深い山や谷に]住んでいる。その路は険阻であり、車馬は通わない。夏の間は[樹の上に住み]、冬の間は[地下の穴の中で生活する]。父子が代々君長となる。文字はなく、口頭でもって約束ごとをおこなった。馬がいるが乗らず、ただ財産とするだけである。牛や羊はいないが、多くの豬（ブタ）を飼っており、その肉を食べ、その皮を衣とする。毛を紡いで布とする。樹の名前に雒常（らくじょう）というものがあり、中国の聖帝が新たに帝位につく時には、その木は皮を生じるので衣とすることができた。井戸や竈（かまど）はなく、瓦鬲（がれき：土釜）を作り、それに4・5升を盛って食べる。[座り方]は[両足を伸ばして座り]、足をもって肉をつかんで食べ、凍った肉を得れば、その上に座って暖める。その地には塩や鉄がなく、木を焼いて灰を作り、水を注いで汁を取り、それを食した。)",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -82097,11 +82603,87 @@
   {
     "create-time": 1619056663043,
     "title": "靺鞨 (Mohe)",
-    "uid": "8-yXI0HC2",
-    "edit-time": 1619056663044,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[渤海国 (Bohai Kingdom)]]",
+        "refs": [
+          {
+            "uid": "CuxjW8Bb4"
+          }
+        ],
+        "uid": "FUhlEnv6u",
+        "edit-time": 1619868596622,
+        ":block/refs": [
+          {
+            ":block/uid": "CuxjW8Bb4"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "黑水部; [[黑水靺鞨 (Heishui Mohe)]]",
+        "refs": [
+          {
+            "uid": "p_LcEYKdo"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[黑水都督府 (heishui dudufu)]]",
+            "refs": [
+              {
+                "uid": "pX40iIDGk"
+              }
+            ],
+            "uid": "GQB06Y8BE",
+            "edit-time": 1619868611042,
+            ":block/refs": [
+              {
+                ":block/uid": "pX40iIDGk"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "CvtTCJZ5l",
+        "edit-time": 1619868614406,
+        ":block/refs": [
+          {
+            ":block/uid": "p_LcEYKdo"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[忽汗州 (Huhanzhou)]]",
+        "refs": [
+          {
+            "uid": "qL835LT28"
+          }
+        ],
+        "uid": "OZCSot8D2",
+        "edit-time": 1619868622428,
+        ":block/refs": [
+          {
+            ":block/uid": "qL835LT28"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "8-yXI0HC2",
+    "edit-time": 1619056663044,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -87297,9 +87879,9 @@
   },
   {
     "create-time": 1619162022396,
-    "title": "扶余 (Fuyu)",
+    "title": "扶余 (Buyeo)",
     "uid": "zKMvWv1mG",
-    "edit-time": 1619162022396,
+    "edit-time": 1619868329720,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -87309,9 +87891,9 @@
   },
   {
     "create-time": 1619162041098,
-    "title": "北沃沮 (North Woju)",
+    "title": "北沃沮 (North Okjeo)",
     "uid": "_lrveSc-8",
-    "edit-time": 1619162041099,
+    "edit-time": 1619868443112,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -87333,9 +87915,9 @@
   },
   {
     "create-time": 1619162411491,
-    "title": "高句丽",
+    "title": "高句丽 (Goguryeo)",
     "uid": "NGu1_BMZJ",
-    "edit-time": 1619162411491,
+    "edit-time": 1619868317526,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -87456,18 +88038,6 @@
     "title": "周公旦 (Zhougong Dan)",
     "uid": "NjmclaOho",
     "edit-time": 1619233854398,
-    ":create/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    },
-    ":edit/user": {
-      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-    }
-  },
-  {
-    "create-time": 1619233975735,
-    "title": "寇漫汗",
-    "uid": "YDjs339WL",
-    "edit-time": 1619233975735,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -99045,11 +99615,35 @@
   {
     "create-time": 1619696813377,
     "title": "April 30th, 2021",
-    "uid": "04-30-2021",
-    "edit-time": 1619696813377,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[Roam Charts]]\n210430-18pm",
+        "create-time": 1619870212537,
+        ":block/refs": [
+          {
+            ":block/uid": "aN642z4pR"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "aN642z4pR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "ym7ZXjWu1",
+        "edit-time": 1619870220977,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "04-30-2021",
+    "edit-time": 1619696813377,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -101648,9 +102242,19 @@
     },
     "children": [
       {
-        "string": "",
+        "string": "[[渤海“震国”与“振国”释诂之争]]\n210501-19pm",
+        "refs": [
+          {
+            "uid": "6kM9cZZmX"
+          }
+        ],
         "uid": "e03A6ZfSQ",
-        "edit-time": 1619788282215,
+        "edit-time": 1619869894584,
+        ":block/refs": [
+          {
+            ":block/uid": "6kM9cZZmX"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -102287,6 +102891,12 @@
           },
           {
             "uid": "MeGmoWNHt"
+          },
+          {
+            "uid": "5GwmBgbkl"
+          },
+          {
+            "uid": "oXd5qr91E"
           }
         ],
         "uid": "jR9xRL9Um",
@@ -102296,6 +102906,12 @@
           },
           {
             ":block/uid": "MeGmoWNHt"
+          },
+          {
+            ":block/uid": "5GwmBgbkl"
+          },
+          {
+            ":block/uid": "oXd5qr91E"
           }
         ],
         "string": "__星期六 20/02/2021 17:26 33__ | 17:27~29 | # ((5GwmBgbkl)) # ((oXd5qr91E)) #[[yellow bag]] #pt10-100",
@@ -102319,6 +102935,1278 @@
     "title": "yellow bag",
     "uid": "MeGmoWNHt",
     "edit-time": 1619862019064,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619867257015,
+    "title": "leather shoes",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "black leather shoes",
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)",
+            "create-time": 1616152959952,
+            "uid": "u9_x6lB4r",
+            "edit-time": 1619867270218,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((JEfj9cESb))",
+            "create-time": 1607742725952,
+            ":block/refs": [
+              {
+                ":block/uid": "JEfj9cESb"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JEfj9cESb"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "BE_Cbos-s",
+            "edit-time": 1619867270218,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "oXd5qr91E",
+        "edit-time": 1619867270218,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "fYbHDx6yU",
+    "edit-time": 1619867257016,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619867370035,
+    "title": "black bag",
+    "uid": "LYaSEkpLP",
+    "edit-time": 1619867370035,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868255780,
+    "title": "Korea",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Administrative divisions of South Korea",
+        "uid": "99ZTRALhd",
+        "edit-time": 1619868265864,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "朝鲜三国时代",
+        "uid": "FHJR9fSJU",
+        "edit-time": 1619868265864,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Eight Provinces of Korea",
+        "children": [
+          {
+            "string": "江原道",
+            "children": [
+              {
+                "string": "溟州道; 江陵道",
+                "uid": "9LNm7wLer",
+                "edit-time": 1619868265864,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "朔方道; 岭东, 岭西;",
+                "uid": "o8zgMG1ye",
+                "edit-time": 1619868265864,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "铁原郡",
+                "uid": "_4g17godt",
+                "edit-time": 1619868265864,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "vZX_Z3qeD",
+            "edit-time": 1619868265864,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "_D60UrfJ8",
+        "edit-time": 1619868265864,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Gojoseon (古朝鮮)]]",
+        "refs": [
+          {
+            "uid": "-MIfNwDBI"
+          }
+        ],
+        "uid": "7p6_2R8A0",
+        "edit-time": 1619868279108,
+        ":block/refs": [
+          {
+            ":block/uid": "-MIfNwDBI"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "History of Korea",
+        "uid": "G0j0OhczD",
+        "edit-time": 1619868265864,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Jin State (辰國)]]",
+        "refs": [
+          {
+            "uid": "OYink4R7l"
+          }
+        ],
+        "uid": "SizTKjeHp",
+        "edit-time": 1619868277513,
+        ":block/refs": [
+          {
+            ":block/uid": "OYink4R7l"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "三韩",
+        "children": [
+          {
+            "string": "[[辰韓 (Jinhan)]]",
+            "refs": [
+              {
+                "uid": "niU9ybjcH"
+              }
+            ],
+            "children": [
+              {
+                "string": "[[新罗 (Silla)]]",
+                "refs": [
+                  {
+                    "uid": "RDFOtAZ05"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "[[鸡林州都督府 (jilinzhou dudufu)]]",
+                    "refs": [
+                      {
+                        "uid": "7IDxxmJpu"
+                      }
+                    ],
+                    "uid": "kKkDr7B57",
+                    "edit-time": 1619868287975,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "7IDxxmJpu"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "新罗九州",
+                    "uid": "UOfwuUYLx",
+                    "edit-time": 1619868265864,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "qYf0I0GAD",
+                "edit-time": 1619868289128,
+                ":block/refs": [
+                  {
+                    ":block/uid": "RDFOtAZ05"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "VB_6xqffW",
+            "edit-time": 1619868291276,
+            ":block/refs": [
+              {
+                ":block/uid": "niU9ybjcH"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "马韩",
+            "children": [
+              {
+                "string": "百济",
+                "uid": "vUqy9B-WW",
+                "edit-time": 1619868265864,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "bpSUgXP8b",
+            "edit-time": 1619868265864,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "Od1qWqjeU",
+        "edit-time": 1619868265864,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "HsOfJXYXl",
+    "edit-time": 1619868255780,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868277515,
+    "title": "Jin State (辰國)",
+    "uid": "OYink4R7l",
+    "edit-time": 1619868277515,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868279110,
+    "title": "Gojoseon (古朝鮮)",
+    "uid": "-MIfNwDBI",
+    "edit-time": 1619868279110,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868287977,
+    "title": "鸡林州都督府 (jilinzhou dudufu)",
+    "uid": "7IDxxmJpu",
+    "edit-time": 1619868287978,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868289130,
+    "title": "新罗 (Silla)",
+    "uid": "RDFOtAZ05",
+    "edit-time": 1619868289131,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868291279,
+    "title": "辰韓 (Jinhan)",
+    "uid": "niU9ybjcH",
+    "edit-time": 1619868291279,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868372194,
+    "title": "东濊 (Eastern Ye)",
+    "uid": "WKNPz0l7A",
+    "edit-time": 1619868372194,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868373285,
+    "title": "小水貊 (xiaoshuimo)",
+    "uid": "IE7wwRr-k",
+    "edit-time": 1619868373285,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868374762,
+    "title": "濊貊 (huimo)",
+    "uid": "8OUEeG6mo",
+    "edit-time": 1619868374762,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868399599,
+    "title": "寇漫汗 (Koumanhan)",
+    "uid": "ByslMD8WX",
+    "edit-time": 1619868399600,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868449684,
+    "title": "沃沮 (Okjeo)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[北沃沮 (North Okjeo)]]",
+        "refs": [
+          {
+            "uid": "_lrveSc-8"
+          }
+        ],
+        "uid": "n0Td3iJ3m",
+        "edit-time": 1619868448231,
+        ":block/refs": [
+          {
+            ":block/uid": "_lrveSc-8"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "7qujq52oO",
+    "edit-time": 1619868449685,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868503584,
+    "title": "Onon River",
+    "uid": "xqvAW5YAu",
+    "edit-time": 1619868503585,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868505304,
+    "title": "Lake Baikal",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[巳尼陂 (Sinipo)]]",
+        "create-time": 1619868508901,
+        ":block/refs": [
+          {
+            ":block/uid": "qGJjHL4Sk"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "qGJjHL4Sk"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "kWjdcOl1B",
+        "edit-time": 1619868511028,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "YRtcPH4U4",
+    "edit-time": 1619868505305,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868511029,
+    "title": "巳尼陂 (Sinipo)",
+    "uid": "qGJjHL4Sk",
+    "edit-time": 1619868511030,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868514190,
+    "title": "Siberia",
+    "uid": "vZ6AtIyxA",
+    "edit-time": 1619868514191,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868558804,
+    "title": "熟女真 (Shu Nvzhen)",
+    "uid": "gNUcq5AVX",
+    "edit-time": 1619868558804,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868559835,
+    "title": "满洲 (Manchuria)",
+    "uid": "TJ9CcVWpK",
+    "edit-time": 1619868559835,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868561322,
+    "title": "吉林通志",
+    "uid": "buzzrjKIJ",
+    "edit-time": 1619868561322,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868596624,
+    "title": "渤海国 (Bohai Kingdom)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[渤海都督府 (bohai dudufu)]]",
+        "refs": [
+          {
+            "uid": "djYE4nX8J"
+          }
+        ],
+        "uid": "kYO818YFT",
+        "edit-time": 1619868629282,
+        ":block/refs": [
+          {
+            ":block/uid": "djYE4nX8J"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "海东盛国",
+        "uid": "Lr12H__SN",
+        "edit-time": 1619868581262,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[粟末靺鞨 (Sumo Mohe)]]",
+        "create-time": 1619869210351,
+        ":block/refs": [
+          {
+            ":block/uid": "O4SwIp_Zy"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "O4SwIp_Zy"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "J3PFHW-VN",
+        "edit-time": 1619869212209,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[震国 (Zheng Kingdom)]]",
+        "refs": [
+          {
+            "uid": "XjEVKtu-W"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[震旦 (Zhengdan)]]; 东方大国大振那",
+            "create-time": 1619869153597,
+            ":block/refs": [
+              {
+                ":block/uid": "4ZSaEW8WS"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4ZSaEW8WS"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "sLxuJAJBl",
+            "edit-time": 1619869158001,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "6hgVELCNn",
+        "edit-time": 1619868627847,
+        ":block/refs": [
+          {
+            ":block/uid": "XjEVKtu-W"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "世系",
+        "children": [
+          {
+            "string": "乞四比羽; 许国公;",
+            "create-time": 1619870032252,
+            "uid": "WKROpx68h",
+            "edit-time": 1619870033241,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "震国公 - 乞乞仲象",
+            "uid": "TXLLvpF5W",
+            "edit-time": 1619870145527,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "大祚荣",
+            "uid": "aih18m67s",
+            "edit-time": 1619870145527,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "OpiW3_RaW",
+        "edit-time": 1619870145527,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "CuxjW8Bb4",
+    "edit-time": 1619868596625,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868611043,
+    "title": "黑水都督府 (heishui dudufu)",
+    "uid": "pX40iIDGk",
+    "edit-time": 1619868611044,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868614407,
+    "title": "黑水靺鞨 (Heishui Mohe)",
+    "uid": "p_LcEYKdo",
+    "edit-time": 1619868614408,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868622429,
+    "title": "忽汗州 (Huhanzhou)",
+    "uid": "qL835LT28",
+    "edit-time": 1619868622430,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868627848,
+    "title": "震国 (Zheng Kingdom)",
+    "uid": "XjEVKtu-W",
+    "edit-time": 1619868627848,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868629283,
+    "title": "渤海都督府 (bohai dudufu)",
+    "uid": "djYE4nX8J",
+    "edit-time": 1619868629284,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868700984,
+    "title": "渤海“震国”与“振国”释诂之争",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "**渤海“震国”“振国”释诂之争**",
+        "children": [
+          {
+            "string": "2020年10月15日 [08:53](http://www.cssn.cn/lsx/sxpy/202010/t20201015_5194494.shtml)　\n来源：中国社会科学网-中国社会科学报　　\n作者：孙昊",
+            "uid": "PU4wStO4O",
+            "edit-time": 1619868725065,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[历史学](http://www.cssn.cn/lsx/) >> [史学评议](http://www.cssn.cn/lsx/sxpy/)",
+            "create-time": 1619868729814,
+            "uid": "qa_SbR45E",
+            "edit-time": 1619868731009,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "D1ruenb-C",
+        "edit-time": 1619868707517,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[传世文献]对唐代东北[靺鞨人][大祚荣][建立的政权][名号]记述，存在“振国” 与 “[[震国 (Zheng Kingdom)]]”的差异。前者以《旧唐书》《册府元龟》《谢不许北国居上表》为代表，称大祚荣自立为“振国王”，或者“[始称]振国”。后者主要见于《五代会要》《新唐书》之中，提及[武则天][册封]大祚荣之父[乞乞仲象]“震国公”，并称大祚荣“[自号][震国王]”。[这一问题涉及]对渤海早期[历史定位]的理解，故[渤海史]研究者围绕“振国”“震国”的[用字与释义][展开讨论]，诸说并存。\n210501-19:32",
+        "refs": [
+          {
+            "uid": "XjEVKtu-W"
+          }
+        ],
+        "uid": "frQ2_U4ly",
+        "edit-time": 1619868837312,
+        ":block/refs": [
+          {
+            ":block/uid": "XjEVKtu-W"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1619869215913,
+        "children": [
+          {
+            "string": "震旦”属于[印度佛教典籍]中的[用语]，在唐代译写为“振旦”“振那”。如8世纪译出的《佛说文殊师利法宝藏陀罗尼经》认为，“于此赡部州东北方，有国名[大振那]，[其国中][有山]，号曰‘五顶’，[文殊童子][游行居住]，[为诸众生][于中说法]”。其意首先是指[东方大国]，[在印度视角下]也可[专门意指]中国。一然在此处将“震国”释作“震旦”，自然是站在中国[中原王朝视角]审视东北大祚荣政权。近代[稻叶君山][曾称][多有人赞成]“震国”是佛教[东方大震那]之说，盖源于一然之说。\n210501-19:40",
+            "uid": "D5pCS4C-z",
+            "edit-time": 1619869230960,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "CNNfv7XUs"
+          },
+          {
+            "uid": "fepuv3JyM"
+          },
+          {
+            "uid": "4ZSaEW8WS"
+          },
+          {
+            "uid": "O4SwIp_Zy"
+          }
+        ],
+        "uid": "HbJZIa31f",
+        ":block/refs": [
+          {
+            ":block/uid": "CNNfv7XUs"
+          },
+          {
+            ":block/uid": "fepuv3JyM"
+          },
+          {
+            ":block/uid": "4ZSaEW8WS"
+          },
+          {
+            ":block/uid": "O4SwIp_Zy"
+          }
+        ],
+        "string": "　　“震国”为佛教“震旦”说。[[一然 (Yiran)]]《三国遗事》卷1《纪异》（《域外汉籍珍本文库》第2辑，西南师范大学出版社、人民出版社2011年版）中称，“《通典》云，渤海，本[[粟末靺鞨 (Sumo Mohe)]]。至[其酋][柞荣][立国]，自号[[震旦 (Zhengdan)]]。先天中，始去靺鞨号，[专称]渤海”。这条文字不见于今本《[[通典 (Tongdian)]]》，大祚荣“自号震旦”之说当属时人的一种认识。“",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1619868980315,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "“震国”源于《[[易经 (Yijing)]]》[震卦](((sPQfBHMUA)))说。唐晏在《渤海国志》卷1《原始》（南林刘氏求恕斋1895年刊本）中称，“金轮初封[仲象]为[震国公]，帝出乎震。遂以肇[完颜]、[爱新][之基]，天命所归于兹兆矣”。然而[并未对此展开讨论]。[[稻叶君山]]在《满洲发达史》（大阪屋号出版部1915年版）一书中也认为，大祚荣自称震国之“震”取自周易“[帝出震](((_5VspK8DL)))”，震代表东方之意。[[金毓黻]]在《渤海国志长编》卷19《杂考》（辽阳千华山馆1934年刊本）中虽然认为，“振国”“震国”[各有所本]，但他赞同稻叶君山震卦之释，故从“震”不从“振”。\n210501-19:50",
+        "refs": [
+          {
+            "uid": "_05aYn7ht"
+          },
+          {
+            "uid": "YBMnZoBhS"
+          },
+          {
+            "uid": "id2Zoz12u"
+          },
+          {
+            "uid": "sPQfBHMUA"
+          },
+          {
+            "uid": "_5VspK8DL"
+          }
+        ],
+        "children": [
+          {
+            "string": "{{[[TODO]]}} 　　[后世学者][张碧波]的《汉唐[郡望观念]与[渤海大氏]：渤海大氏三考》（《学习与探索》2002年第1期）、《渤海早期国号考索》（《黑龙江民族丛刊》2002年第1期）在“震”作震卦之解的基础上[进行发挥]，认为其义是[帝出于震]，位主东方，将“震国公”引申为[东方各国]（民族集团）的首领，并指出[这意味着]武则天[推尊其为][东方诸族首领]。 #pt8-99.97",
+            "refs": [
+              {
+                "uid": "cgyryTwl0"
+              },
+              {
+                "uid": "CTLoQVNz1"
+              }
+            ],
+            "uid": "KZiME21PO",
+            "edit-time": 1619869870027,
+            ":block/refs": [
+              {
+                ":block/uid": "cgyryTwl0"
+              },
+              {
+                ":block/uid": "CTLoQVNz1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "VbWtVzIgi",
+        "edit-time": 1619869878848,
+        ":block/refs": [
+          {
+            ":block/uid": "_05aYn7ht"
+          },
+          {
+            ":block/uid": "YBMnZoBhS"
+          },
+          {
+            ":block/uid": "id2Zoz12u"
+          },
+          {
+            ":block/uid": "sPQfBHMUA"
+          },
+          {
+            ":block/uid": "_5VspK8DL"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} “震国”源于“肃慎”[音转]说。刘振华在《渤海史识微》（《学习与探索》1982年第6期）一文中认为，《新唐书》中武则天[册封][乞四比羽](((WKROpx68h)))的“许国公”、乞乞仲象的“震国公”中的“许”“震”二字与“肃”“慎”二字[中古读音][可勘同]，唐代“肃慎”可能是靺鞨的一种[古雅别称]。在此基础上，他推测“许国公”与“震国公”是“肃国公”与“慎国公”，即[肃慎二公]，亦即靺鞨二公。 #pt9-99.98\n210501-19:57",
+        "refs": [
+          {
+            "uid": "cgyryTwl0"
+          },
+          {
+            "uid": "oVxMsq163"
+          },
+          {
+            "uid": "WKROpx68h"
+          }
+        ],
+        "uid": "OB7NnjtR0",
+        "edit-time": 1619870172827,
+        ":block/refs": [
+          {
+            ":block/uid": "cgyryTwl0"
+          },
+          {
+            ":block/uid": "oVxMsq163"
+          },
+          {
+            ":block/uid": "WKROpx68h"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "　　“震国”为[王爵号][美称]说。宋基豪的《渤海政治史研究》（一潮阁1995年版）引用[张国刚]关于[唐前期][封国公号][可取美称]的观点，认为乞乞仲象的“震国公”如李靖封[卫国公]、[李勣]封[英国公]之例，属于王爵国号的美称。[胡梧挺]虽指出宋基豪受张国刚影响，观点[存在错误]，但他也[延续]王爵号美称说的[理路]，做出新的解释。胡梧挺在《渤海“振（震）国名号新探”：以唐朝册封周边民族[爵号类型]为视角》（《东北史地》2014年第6期）一文中认为，“震国公”与“归国公”“顺国公”的意义相同，是武则天对于乞乞仲象[救国家之急]、[扬国家之威]的期望，也是大祚荣[继承其父]的[王爵封号][作为自号]。",
+        "uid": "HILpqmtMg",
+        "edit-time": 1619870103362,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "6kM9cZZmX",
+    "edit-time": 1619868700985,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619868881565,
+    "title": "通典 (Tongdian)",
+    "uid": "CNNfv7XUs",
+    "edit-time": 1619868881566,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869057919,
+    "title": "一然 (Yiran)",
+    "uid": "fepuv3JyM",
+    "edit-time": 1619869057920,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869077220,
+    "title": "震旦 (Zhengdan)",
+    "uid": "4ZSaEW8WS",
+    "edit-time": 1619869077221,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869212211,
+    "title": "粟末靺鞨 (Sumo Mohe)",
+    "uid": "O4SwIp_Zy",
+    "edit-time": 1619869212212,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869287284,
+    "title": "东胡 (Donghu)",
+    "uid": "kBAZEOdz_",
+    "edit-time": 1619869287284,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869294987,
+    "title": "Khitan (契丹)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[辽王朝 (Liao Dynasty)]]",
+        "refs": [
+          {
+            "uid": "NHLhKk8yr"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[辽史 (Liaoshi)]]",
+            "refs": [
+              {
+                "uid": "br6wiHl-x"
+              }
+            ],
+            "uid": "q_6Kbrrot",
+            "edit-time": 1619869321651,
+            ":block/refs": [
+              {
+                ":block/uid": "br6wiHl-x"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "辽朝行政区划",
+            "children": [
+              {
+                "string": "[[中京大定府 (Dading Fu)]]",
+                "refs": [
+                  {
+                    "uid": "zEEWngwvQ"
+                  }
+                ],
+                "uid": "7i4oQVdby",
+                "edit-time": 1619869320498,
+                ":block/refs": [
+                  {
+                    ":block/uid": "zEEWngwvQ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "9Frk_7Wby",
+            "edit-time": 1619869311418,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "dg4qHXIpb",
+        "edit-time": 1619869323229,
+        ":block/refs": [
+          {
+            ":block/uid": "NHLhKk8yr"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[乌突汗 (Wutu Khan)]]",
+        "refs": [
+          {
+            "uid": "IxV1fvCP-"
+          }
+        ],
+        "uid": "0DS1q3oZy",
+        "edit-time": 1619869328171,
+        ":block/refs": [
+          {
+            ":block/uid": "IxV1fvCP-"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "iRyh4uT1r",
+    "edit-time": 1619869294988,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869320500,
+    "title": "中京大定府 (Dading Fu)",
+    "uid": "zEEWngwvQ",
+    "edit-time": 1619869320500,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869321652,
+    "title": "辽史 (Liaoshi)",
+    "uid": "br6wiHl-x",
+    "edit-time": 1619869321652,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869323230,
+    "title": "辽王朝 (Liao Dynasty)",
+    "uid": "NHLhKk8yr",
+    "edit-time": 1619869323230,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869328173,
+    "title": "乌突汗 (Wutu Khan)",
+    "uid": "IxV1fvCP-",
+    "edit-time": 1619869328173,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869378641,
+    "title": "宋王朝 (Song dynasty)",
+    "uid": "cAggZx5KL",
+    "edit-time": 1619869378641,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869643791,
+    "title": "易经 (Yijing)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "震卦",
+        "children": [
+          {
+            "string": "帝出震; 东方",
+            "uid": "_5VspK8DL",
+            "edit-time": 1619869791766,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "sPQfBHMUA",
+        "edit-time": 1619869791766,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "_05aYn7ht",
+    "edit-time": 1619869643792,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869696610,
+    "title": "Confucian School",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "[[易经 (Yijing)]]",
+        "create-time": 1619869701224,
+        ":block/refs": [
+          {
+            ":block/uid": "_05aYn7ht"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "_05aYn7ht"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "2oSyZKv1S",
+        "edit-time": 1619869703322,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "WCBxx4tNx",
+    "edit-time": 1619869696610,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869754807,
+    "title": "稻叶君山",
+    "uid": "YBMnZoBhS",
+    "edit-time": 1619869754809,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869763497,
+    "title": "金毓黻",
+    "uid": "id2Zoz12u",
+    "edit-time": 1619869763497,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619869870029,
+    "title": "pt8-99.97",
+    "uid": "CTLoQVNz1",
+    "edit-time": 1619869870040,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

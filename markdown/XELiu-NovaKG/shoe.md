@@ -1,3 +1,4 @@
 - [[high heeled]]
+- [[leather shoes]]
 - [[sneaker]]
 - [[wedge heeled]]
