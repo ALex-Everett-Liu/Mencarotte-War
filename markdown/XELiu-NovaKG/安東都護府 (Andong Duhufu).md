@@ -21,8 +21,6 @@
         - ![Tang-Goguryeo War-01](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang-Korean_wars.png)
         - **Author**: [SY](https://commons.wikimedia.org/wiki/User:Seasonsinthesun)
     - Map of the six major protectorates during Tang dynasty. The Protectorate General to Pacify the East is marked as [Andong (安东都护府)]. -- 唐朝的[六大都护府][示意地图](https://en.wikipedia.org/wiki/File:Tang_Protectorates.png)
-    - [统一新罗图](https://en.wikipedia.org/wiki/File:%E7%BB%9F%E4%B8%80%E6%96%B0%E7%BD%97%E5%9B%BE(Unified_Silla).jpg) (Unified Silla)
-        - **Author**: [GeorgeZhao](https://commons.wikimedia.org/wiki/User:GeorgeZhao)
 - List of protector generals
     - Wei Zhe (668–669)
     - [[薛仁贵 (Xue Rengui)]] (669–670) – 안동도호부사/安東都護府使

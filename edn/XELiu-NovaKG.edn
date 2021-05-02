@@ -91,7 +91,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 2,
+      :order 1,
       :content-id "N5lel-tnd"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -99,7 +99,7 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 3,
+      :order 2,
       :content-id "rw6U8VHY-"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -107,7 +107,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 4,
+      :order 3,
       :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -115,21 +115,21 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 5,
+      :order 4,
       :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :rtl? false}
-   536972614]
+   536972954]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuida482eefc-dbde-4436-858e-b9bd6573b856"
-   536972866]
+   "uuid4bfd5e0f-bff1-42d8-9cd0-73536aeb6f80"
+   536972964]
   [14875
    :version/upgraded-nonce
-   "uuida482eefc-dbde-4436-858e-b9bd6573b856"
-   536972867]
+   "uuid4bfd5e0f-bff1-42d8-9cd0-73536aeb6f80"
+   536972965]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -78842,12 +78842,12 @@
   [23509 :version/id "0.8.5" 536969717]
   [23509
    :version/nonce
-   "uuid333f1e5b-82bd-4596-a3a8-4e4436bfb7e6"
-   536972867]
+   "uuid31f6afec-f97c-4659-9f3e-26016910a2ae"
+   536972965]
   [23509
    :version/upgraded-nonce
-   "uuide6411d05-aed0-4af0-8470-3f6f51c500d1"
-   536972867]
+   "uuid333f1e5b-82bd-4596-a3a8-4e4436bfb7e6"
+   536972965]
   [23510 :block/open true 536969719]
   [23510 :block/order 4 536969719]
   [23510 :block/page 23464 536969720]
@@ -83597,7 +83597,6 @@
   [24079 :block/children 24094 536971492]
   [24079 :block/children 24146 536971717]
   [24079 :block/children 24239 536972312]
-  [24079 :block/children 24243 536972327]
   [24079 :block/open true 536972378]
   [24079 :block/order 2 536971363]
   [24079 :block/page 24069 536971364]
@@ -84495,11 +84494,14 @@
   [24166 :block/page 24164 536971836]
   [24166 :block/parents 24164 536971836]
   [24166 :block/refs 24169 536971856]
-  [24166 :block/string "新罗九州是[[统一新罗]]模仿[中原的九州制度]而[建立的九个州]。" 536971855]
+  [24166
+   :block/string
+   "[新罗九州](https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%9D%BC%EC%9D%98_%ED%96%89%EC%A0%95_%EA%B5%AC%EC%97%AD)是[[统一新罗]]模仿[中原的九州制度]而[建立的九个州]。"
+   536972953]
   [24166 :block/uid "ASyy2EK-L" 536971835]
   [24166 :create/time 1619898088765 536971835]
   [24166 :create/user 3 536971835]
-  [24166 :edit/time 1619898155550 536971855]
+  [24166 :edit/time 1619968720425 536972953]
   [24166 :edit/user 3 536971835]
   [24167 :block/open true 536971839]
   [24167 :block/order 0 536971872]
@@ -84529,6 +84531,7 @@
   [24168 :create/user 3 536971842]
   [24168 :edit/time 1619898221524 536971871]
   [24168 :edit/user 3 536971842]
+  [24169 :block/children 24243 536972957]
   [24169 :block/uid "6upjldP3q" 536971854]
   [24169 :create/time 1619898153289 536971854]
   [24169 :create/user 3 536971854]
@@ -84564,6 +84567,8 @@
   [24171 :edit/user 3 536971879]
   [24172 :block/children 24185 536971976]
   [24172 :block/children 24189 536972006]
+  [24172 :block/children 24304 536972876]
+  [24172 :block/children 24311 536972938]
   [24172 :block/open true 536971884]
   [24172 :block/order 1 536971894]
   [24172 :block/page 24164 536971885]
@@ -84575,6 +84580,8 @@
   [24172 :create/user 3 536971884]
   [24172 :edit/time 1619899713481 536971889]
   [24172 :edit/user 3 536971884]
+  [24173 :block/children 24306 536972898]
+  [24173 :block/children 24309 536972919]
   [24173 :block/open true 536971887]
   [24173 :block/order 2 536971976]
   [24173 :block/page 24164 536971888]
@@ -84587,7 +84594,7 @@
   [24173 :edit/time 1619899716288 536971891]
   [24173 :edit/user 3 536971887]
   [24174 :block/children 24178 536971918]
-  [24174 :block/open true 536971892]
+  [24174 :block/open false 536972894]
   [24174 :block/order 0 536971909]
   [24174 :block/page 24164 536971893]
   [24174 :block/parents 24164 536971893]
@@ -84604,7 +84611,7 @@
   [24174 :edit/time 1619900014611 536971967]
   [24174 :edit/user 3 536971892]
   [24175 :block/children 24176 536971905]
-  [24175 :block/open true 536971914]
+  [24175 :block/open false 536972925]
   [24175 :block/order 1 536971918]
   [24175 :block/page 24164 536971901]
   [24175 :block/parents 24164 536971901]
@@ -84686,6 +84693,10 @@
   [24182 :block/children 24183 536971960]
   [24182 :block/children 24184 536971969]
   [24182 :block/children 24188 536972000]
+  [24182 :block/children 24303 536972868]
+  [24182 :block/children 24305 536972888]
+  [24182 :block/children 24308 536972913]
+  [24182 :block/children 24312 536972941]
   [24182 :block/open true 536971953]
   [24182 :block/order 2 536971955]
   [24182 :block/page 24164 536971954]
@@ -84780,7 +84791,7 @@
   [24188 :edit/time 1619900191540 536972004]
   [24188 :edit/user 3 536972000]
   [24189 :block/children 24190 536972011]
-  [24189 :block/open true 536972006]
+  [24189 :block/open false 536972875]
   [24189 :block/order 1 536972006]
   [24189 :block/page 24164 536972007]
   [24189 :block/parents 24164 536972007]
@@ -85422,11 +85433,11 @@
   [24242 :edit/time 1619946807724 536972318]
   [24242 :edit/user 3 536972318]
   [24243 :block/children 24244 536972333]
-  [24243 :block/open false 536972339]
-  [24243 :block/order 6 536972327]
-  [24243 :block/page 24069 536972328]
-  [24243 :block/parents 24069 536972328]
-  [24243 :block/parents 24079 536972328]
+  [24243 :block/children 24313 536972960]
+  [24243 :block/open true 536972959]
+  [24243 :block/order 0 536972957]
+  [24243 :block/page 24169 536972958]
+  [24243 :block/parents 24169 536972958]
   [24243
    :block/string
    "[统一新罗图](https://en.wikipedia.org/wiki/File:%E7%BB%9F%E4%B8%80%E6%96%B0%E7%BD%97%E5%9B%BE(Unified_Silla).jpg) (Unified Silla)"
@@ -85438,9 +85449,8 @@
   [24243 :edit/user 3 536972327]
   [24244 :block/open true 536972331]
   [24244 :block/order 0 536972333]
-  [24244 :block/page 24069 536972332]
-  [24244 :block/parents 24069 536972332]
-  [24244 :block/parents 24079 536972332]
+  [24244 :block/page 24169 536972958]
+  [24244 :block/parents 24169 536972958]
   [24244 :block/parents 24243 536972334]
   [24244
    :block/string
@@ -86185,4 +86195,154 @@
   [24302 :create/time 1619957002476 536972863]
   [24302 :create/user 3 536972863]
   [24302 :edit/time 1619957004489 536972866]
-  [24302 :edit/user 3 536972863]]}
+  [24302 :edit/user 3 536972863]
+  [24303 :block/open true 536972868]
+  [24303 :block/order 3 536972868]
+  [24303 :block/page 24164 536972869]
+  [24303 :block/parents 24164 536972869]
+  [24303 :block/parents 24182 536972869]
+  [24303
+   :block/string
+   "[4]: ‘三国史记’36・地理志・全州条は、完山州の设置を真兴王16年（555年）とし、同26年（565年）に[いったん廃止](haishi)、神文王5年（685年）に[再设置した]とするが、対応する[真兴王本纪]の记事には州治を比斯伐（庆尚南道昌宁郡）としていたり、6世纪中顷には全罗道は未だ百済の支配下にあるために、は下州の误りであると考えられている。（→井上1980）"
+   536972887]
+  [24303 :block/uid "iaQNZXgMY" 536972868]
+  [24303 :create/time 1619968274174 536972868]
+  [24303 :create/user 3 536972868]
+  [24303 :edit/time 1619968445408 536972887]
+  [24303 :edit/user 3 536972868]
+  [24304 :block/open true 536972876]
+  [24304 :block/order 2 536972876]
+  [24304 :block/page 24164 536972877]
+  [24304 :block/parents 24164 536972877]
+  [24304 :block/parents 24170 536972877]
+  [24304 :block/parents 24172 536972877]
+  [24304 :block/refs 24303 536972883]
+  [24304 :block/string "完山州[4](((iaQNZXgMY))) -- 685年 创设 " 536972882]
+  [24304 :block/uid "SK3orFfpo" 536972876]
+  [24304 :create/time 1619968302401 536972876]
+  [24304 :create/user 3 536972876]
+  [24304 :edit/time 1619968323745 536972882]
+  [24304 :edit/user 3 536972876]
+  [24305 :block/open true 536972888]
+  [24305 :block/order 4 536972888]
+  [24305 :block/page 24164 536972889]
+  [24305 :block/parents 24164 536972889]
+  [24305 :block/parents 24182 536972889]
+  [24305
+   :block/string
+   "[5]: ‘三国史记’35・地理志・溟州条には、溟州はもとは高句丽の河西良であり、分注には何瑟罗とある。新罗本纪や[异斯夫伝]の本文には何瑟罗州の名で现れる。"
+   536972912]
+  [24305 :block/uid "o9bm1NS1H" 536972888]
+  [24305 :create/time 1619968457362 536972888]
+  [24305 :create/user 3 536972888]
+  [24305 :edit/time 1619968524203 536972912]
+  [24305 :edit/user 3 536972888]
+  [24306 :block/children 24307 536972906]
+  [24306 :block/open false 536972918]
+  [24306 :block/order 0 536972898]
+  [24306 :block/page 24164 536972897]
+  [24306 :block/parents 24164 536972897]
+  [24306 :block/parents 24170 536972897]
+  [24306 :block/parents 24173 536972899]
+  [24306 :block/string "悉直州 -- 505年 创设 " 536972903]
+  [24306 :block/uid "CUCV-w222" 536972896]
+  [24306 :create/time 1619968483921 536972896]
+  [24306 :create/user 3 536972896]
+  [24306 :edit/time 1619968496698 536972903]
+  [24306 :edit/user 3 536972896]
+  [24307 :block/open true 536972904]
+  [24307 :block/order 0 536972906]
+  [24307 :block/page 24164 536972905]
+  [24307 :block/parents 24164 536972905]
+  [24307 :block/parents 24170 536972905]
+  [24307 :block/parents 24173 536972905]
+  [24307 :block/parents 24306 536972907]
+  [24307 :block/refs 24305 536972911]
+  [24307 :block/string "何瑟罗州[5](((o9bm1NS1H)))" 536972910]
+  [24307 :block/uid "LgAxlIe-2" 536972904]
+  [24307 :create/time 1619968504921 536972904]
+  [24307 :create/user 3 536972904]
+  [24307 :edit/time 1619968514985 536972910]
+  [24307 :edit/user 3 536972904]
+  [24308 :block/open true 536972913]
+  [24308 :block/order 5 536972913]
+  [24308 :block/page 24164 536972914]
+  [24308 :block/parents 24164 536972914]
+  [24308 :block/parents 24182 536972914]
+  [24308
+   :block/string
+   "[6]: 元の比列忽州、后の朔州に相当する州の687年时点の名称について、井上1972は牛首州とするが武田2000により首若州とする。なお、‘三国史记’35・地理志・朔州条では朔州の由来を、本文は[善徳女王]6年（637年）に设置した牛首州とし、分注は文武王13年（673年）に设置した首若州とする。同书・新罗本纪では、善徳女王・文武王の[本纪记事]には[州の改称について]の[直接的な记事]は见られず、景徳王の本纪における[地名改称]记事（景徳王16年（757年）12月条）では、首若州を朔州としたとしている。"
+   536972937]
+  [24308 :block/uid "BiWEcIVlY" 536972913]
+  [24308 :create/time 1619968526003 536972913]
+  [24308 :create/user 3 536972913]
+  [24308 :edit/time 1619968626722 536972937]
+  [24308 :edit/user 3 536972913]
+  [24309 :block/children 24310 536972928]
+  [24309 :block/open true 536972919]
+  [24309 :block/order 1 536972919]
+  [24309 :block/page 24164 536972920]
+  [24309 :block/parents 24164 536972920]
+  [24309 :block/parents 24170 536972920]
+  [24309 :block/parents 24173 536972920]
+  [24309 :block/string "比列忽州 -- 556年 创设 " 536972923]
+  [24309 :block/uid "7NolhO2nI" 536972919]
+  [24309 :create/time 1619968548974 536972919]
+  [24309 :create/user 3 536972919]
+  [24309 :edit/time 1619968557068 536972923]
+  [24309 :edit/user 3 536972919]
+  [24310 :block/open true 536972926]
+  [24310 :block/order 0 536972928]
+  [24310 :block/page 24164 536972927]
+  [24310 :block/parents 24164 536972927]
+  [24310 :block/parents 24170 536972927]
+  [24310 :block/parents 24173 536972927]
+  [24310 :block/parents 24309 536972929]
+  [24310 :block/refs 24308 536972932]
+  [24310 :block/string "首若州[6](((BiWEcIVlY)))" 536972931]
+  [24310 :block/uid "z7GqmopqK" 536972926]
+  [24310 :create/time 1619968573022 536972926]
+  [24310 :create/user 3 536972926]
+  [24310 :edit/time 1619968585807 536972931]
+  [24310 :edit/user 3 536972926]
+  [24311 :block/open true 536972938]
+  [24311 :block/order 3 536972938]
+  [24311 :block/page 24164 536972939]
+  [24311 :block/parents 24164 536972939]
+  [24311 :block/parents 24170 536972939]
+  [24311 :block/parents 24172 536972939]
+  [24311 :block/refs 24312 536972949]
+  [24311 :block/string "南原小京[7](((IrEd4Ejxh)))" 536972948]
+  [24311 :block/uid "4tJDN-eFk" 536972938]
+  [24311 :create/time 1619968646663 536972938]
+  [24311 :create/user 3 536972938]
+  [24311 :edit/time 1619968691555 536972948]
+  [24311 :edit/user 3 536972938]
+  [24312 :block/open true 536972941]
+  [24312 :block/order 6 536972941]
+  [24312 :block/page 24164 536972942]
+  [24312 :block/parents 24164 536972942]
+  [24312 :block/parents 24182 536972942]
+  [24312
+   :block/string
+   "[7]: 景徳王によって改めて南原小京と改称されたわけではない。他の小京は‘三国史记’地理志の[各条]に[改称记事]が见られるが、南原小京のみ[改称の记事が见られない]。\n210502-23:18"
+   536972951]
+  [24312 :block/uid "IrEd4Ejxh" 536972941]
+  [24312 :create/time 1619968659096 536972941]
+  [24312 :create/user 3 536972941]
+  [24312 :edit/time 1619968702688 536972951]
+  [24312 :edit/user 3 536972941]
+  [24313 :block/open true 536972960]
+  [24313 :block/order 1 536972960]
+  [24313 :block/page 24169 536972961]
+  [24313 :block/parents 24169 536972961]
+  [24313 :block/parents 24243 536972961]
+  [24313
+   :block/string
+   "[统一新罗九州.jpg](https://commons.wikimedia.org/wiki/File:%E7%BB%9F%E4%B8%80%E6%96%B0%E7%BD%97%E4%B9%9D%E5%B7%9E.jpg)"
+   536972964]
+  [24313 :block/uid "TLHl3yI48" 536972960]
+  [24313 :create/time 1619968834123 536972960]
+  [24313 :create/user 3 536972960]
+  [24313 :edit/time 1619968841866 536972964]
+  [24313 :edit/user 3 536972960]]}
