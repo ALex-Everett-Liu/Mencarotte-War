@@ -91,7 +91,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 3,
+      :order 1,
       :content-id "N5lel-tnd"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -99,7 +99,7 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 4,
+      :order 2,
       :content-id "rw6U8VHY-"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -107,7 +107,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 5,
+      :order 3,
       :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -115,21 +115,21 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 6,
+      :order 4,
       :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :rtl? false}
-   536971939]
+   536972021]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
    :version/nonce
-   "uuid1e92cb46-3ba0-4c5d-9f5e-ec3f3dc51050"
-   536972018]
+   "uuid83edb1b5-a80c-4cca-9d95-28d75aa97fc3"
+   536972174]
   [14875
    :version/upgraded-nonce
-   "uuid1e92cb46-3ba0-4c5d-9f5e-ec3f3dc51050"
-   536972019]
+   "uuid83edb1b5-a80c-4cca-9d95-28d75aa97fc3"
+   536972175]
   [14876 :block/children 14877 536937179]
   [14876 :block/uid "04-05-2021" 536937178]
   [14876 :create/time 1617570350391 536937178]
@@ -78837,12 +78837,12 @@
   [23509 :version/id "0.8.5" 536969717]
   [23509
    :version/nonce
-   "uuidc05dc5f7-1624-4324-8f3d-42f3c2efcedc"
-   536972020]
+   "uuide5a7d027-a404-4f8c-acd5-8289a3f6f9f3"
+   536972175]
   [23509
    :version/upgraded-nonce
-   "uuidcc507832-6288-4e39-b500-a15a5e765878"
-   536972019]
+   "uuidc05dc5f7-1624-4324-8f3d-42f3c2efcedc"
+   536972175]
   [23510 :block/open true 536969719]
   [23510 :block/order 4 536969719]
   [23510 :block/page 23464 536969720]
@@ -82311,7 +82311,7 @@
   [23907 :edit/user 3 536970777]
   [23908 :block/children 23909 536970777]
   [23908 :block/open true 536970777]
-  [23908 :block/order 1 536971823]
+  [23908 :block/order 2 536972022]
   [23908 :block/page 24162 536971826]
   [23908 :block/parents 24141 536971826]
   [23908 :block/parents 24162 536971826]
@@ -83496,6 +83496,7 @@
   [24069 :block/children 24070 536971327]
   [24069 :block/children 24078 536971360]
   [24069 :block/children 24079 536971363]
+  [24069 :block/children 24206 536972130]
   [24069 :block/uid "wlk2K2eZL" 536971325]
   [24069 :create/time 1619878589473 536971325]
   [24069 :create/user 3 536971325]
@@ -83583,7 +83584,7 @@
   [24079 :block/children 24082 536971374]
   [24079 :block/children 24094 536971492]
   [24079 :block/children 24146 536971717]
-  [24079 :block/open true 536971363]
+  [24079 :block/open false 536972129]
   [24079 :block/order 2 536971363]
   [24079 :block/page 24069 536971364]
   [24079 :block/parents 24069 536971364]
@@ -84173,6 +84174,7 @@
   [24141 :block/children 23923 536971823]
   [24141 :block/children 24142 536971688]
   [24141 :block/children 24163 536971827]
+  [24141 :block/children 24192 536972022]
   [24141 :block/open true 536971688]
   [24141 :block/order 1 536971688]
   [24141 :block/page 24162 536971819]
@@ -84183,7 +84185,7 @@
   [24141 :edit/time 1619894119455 536971688]
   [24141 :edit/user 3 536971688]
   [24142 :block/open true 536971688]
-  [24142 :block/order 2 536971825]
+  [24142 :block/order 3 536972022]
   [24142 :block/page 24162 536971819]
   [24142 :block/parents 24141 536971689]
   [24142 :block/parents 24162 536971819]
@@ -84430,7 +84432,7 @@
    "historical geography of northeast asia"
    536971815]
   [24163 :block/open true 536971827]
-  [24163 :block/order 3 536971827]
+  [24163 :block/order 4 536972022]
   [24163 :block/page 24162 536971828]
   [24163 :block/parents 24141 536971828]
   [24163 :block/parents 24162 536971828]
@@ -84789,4 +84791,302 @@
   [24191 :edit/time 1619920389637 536972020]
   [24191 :edit/user 3 536972020]
   [24191 :log/id 1619920389636 536972020]
-  [24191 :node/title "May 2nd, 2021" 536972020]]}
+  [24191 :node/title "May 2nd, 2021" 536972020]
+  [24192 :block/open true 536972022]
+  [24192 :block/order 1 536972022]
+  [24192 :block/page 24162 536972023]
+  [24192 :block/parents 24141 536972023]
+  [24192 :block/parents 24162 536972023]
+  [24192 :block/refs 24193 536972026]
+  [24192 :block/string "[[唐城郡 (Dangseong Jin)]]" 536972025]
+  [24192 :block/uid "fWStqK-Lc" 536972022]
+  [24192 :create/time 1619930497064 536972022]
+  [24192 :create/user 3 536972022]
+  [24192 :edit/time 1619930501085 536972025]
+  [24192 :edit/user 3 536972022]
+  [24193 :block/children 24195 536972030]
+  [24193 :block/children 24196 536972051]
+  [24193 :block/children 24198 536972076]
+  [24193 :block/uid "7HyXJGnUA" 536972026]
+  [24193 :create/time 1619930501087 536972026]
+  [24193 :create/user 3 536972026]
+  [24193 :edit/time 1619930501089 536972026]
+  [24193 :edit/user 3 536972026]
+  [24193 :node/title "唐城郡 (Dangseong Jin)" 536972026]
+  [24194 :block/open true 536972027]
+  [24194 :block/order 0 536972033]
+  [24194 :block/page 24193 536972028]
+  [24194 :block/parents 24193 536972028]
+  [24194 :block/parents 24195 536972034]
+  [24194
+   :block/string
+   "寧堤（ヨンジェ、ねいてい、영제）、戈浦（クワポ、かほ、과포）は、南陽の異称である。"
+   536972032]
+  [24194 :block/uid "8EBye0pOJ" 536972027]
+  [24194 :create/time 1619930518632 536972027]
+  [24194 :create/user 3 536972027]
+  [24194 :edit/time 1619930521731 536972032]
+  [24194 :edit/user 3 536972027]
+  [24195 :block/children 24194 536972033]
+  [24195 :block/open false 536972050]
+  [24195 :block/order 0 536972030]
+  [24195 :block/page 24193 536972031]
+  [24195 :block/parents 24193 536972031]
+  [24195
+   :block/string
+   "南陽郡（ナムヤンぐん、なんようぐん、朝鮮語: 남양군）は、かつて存在した[京畿道の行政区域]で、今日の[華城市]西部（南陽邑（朝鮮語版）など）と、[安山市][大阜洞]（朝鮮語版）、[仁川広域市][甕津郡][霊興面]（朝鮮語版）一帯にあたる。[日本統治時代]初期、1914年の[行政区域改編で](Gyōsei kuiki kaihen)水原郡（朝鮮語版）と合併し、[島である]大阜洞と霊興面は富川郡（朝鮮語版）に吸収された。\n210502-12:42"
+   536972049]
+  [24195 :block/uid "Rys48p3_S" 536972030]
+  [24195 :create/time 1619930521722 536972030]
+  [24195 :create/user 3 536972030]
+  [24195 :edit/time 1619930633059 536972049]
+  [24195 :edit/user 3 536972030]
+  [24196 :block/children 24197 536972056]
+  [24196 :block/open false 536972125]
+  [24196 :block/order 1 536972051]
+  [24196 :block/page 24193 536972052]
+  [24196 :block/parents 24193 536972052]
+  [24196 :block/string "[由来](yurai)" 536972059]
+  [24196 :block/uid "LRrgc0jR9" 536972051]
+  [24196 :create/time 1619931303937 536972051]
+  [24196 :create/user 3 536972051]
+  [24196 :edit/time 1619931316856 536972059]
+  [24196 :edit/user 3 536972051]
+  [24197 :block/open true 536972053]
+  [24197 :block/order 0 536972056]
+  [24197 :block/page 24193 536972054]
+  [24197 :block/parents 24193 536972054]
+  [24197 :block/parents 24196 536972057]
+  [24197
+   :block/string
+   "古くは唐恩郡（タンウンぐん、とうおんぐん、당은군）、唐城郡（タンソンぐん、とうじょうぐん、당성군、Dansongun）と呼ばれた。百済や新羅が[中国と往来した]華城唐城（[朝鮮語版](https://ko.wikipedia.org/wiki/%ED%99%94%EC%84%B1_%EB%8B%B9%EC%84%B1)）（別名、党項城、당항성）が当地にあった。 **党項城**は、百済と新羅が、中国との交易（朝貢）で[優位を占めようと]、激しく争奪戦を繰り広げた場所であった。雨汀邑（朝鮮語版）と長安面一帯は、三帰、ないし、三槐（サムグィ、さんき、삼귀）と称され、高麗時代には**双阜県**（[朝鮮語版](https://ko.wikipedia.org/wiki/%EC%8C%8D%EB%B6%80%ED%98%84)）と呼ばれた。"
+   536972074]
+  [24197 :block/uid "lPiC3JJOG" 536972053]
+  [24197 :create/time 1619931304352 536972053]
+  [24197 :create/user 3 536972053]
+  [24197 :edit/time 1619931465900 536972074]
+  [24197 :edit/user 3 536972053]
+  [24198 :block/children 24199 536972081]
+  [24198 :block/children 24200 536972084]
+  [24198 :block/children 24201 536972087]
+  [24198 :block/children 24202 536972090]
+  [24198 :block/children 24203 536972109]
+  [24198 :block/children 24204 536972112]
+  [24198 :block/open true 536972076]
+  [24198 :block/order 2 536972076]
+  [24198 :block/page 24193 536972077]
+  [24198 :block/parents 24193 536972077]
+  [24198 :block/string "歴史" 536972080]
+  [24198 :block/uid "W6dPPhsAh" 536972076]
+  [24198 :create/time 1619931475363 536972076]
+  [24198 :create/user 3 536972076]
+  [24198 :edit/time 1619931475757 536972080]
+  [24198 :edit/user 3 536972076]
+  [24199 :block/open true 536972078]
+  [24199 :block/order 3 536972090]
+  [24199 :block/page 24193 536972079]
+  [24199 :block/parents 24193 536972079]
+  [24199 :block/parents 24198 536972082]
+  [24199
+   :block/string
+   "百済の聖王の時代、[しばらくの間は](For a while)百済の領土として回復されたが、新羅の真興王が奪取して[新羅に編入し](hennyuushi)、^^以降は党項城と呼ばれた。^^"
+   536972108]
+  [24199 :block/uid "JQBiLGL0H" 536972078]
+  [24199 :create/time 1619931475750 536972078]
+  [24199 :create/user 3 536972078]
+  [24199 :edit/time 1619931610110 536972108]
+  [24199 :edit/user 3 536972078]
+  [24200 :block/open true 536972084]
+  [24200 :block/order 0 536972084]
+  [24200 :block/page 24193 536972085]
+  [24200 :block/parents 24193 536972085]
+  [24200 :block/parents 24198 536972085]
+  [24200
+   :block/string
+   "三韓時代の^^馬韓の爰襄国（원양국）^^、後の双阜県の地域は^^桑外国（상외국）^^であったと推定されている。"
+   536972096]
+  [24200 :block/uid "dcPJdNk0B" 536972084]
+  [24200 :create/time 1619931485630 536972084]
+  [24200 :create/user 3 536972084]
+  [24200 :edit/time 1619931513452 536972096]
+  [24200 :edit/user 3 536972084]
+  [24201 :block/open true 536972087]
+  [24201 :block/order 1 536972087]
+  [24201 :block/page 24193 536972088]
+  [24201 :block/parents 24193 536972088]
+  [24201 :block/parents 24198 536972088]
+  [24201 :block/string "三国時代初期、百済の領域に属し、唐城（당성）と呼ばれ始めた。" 536972094]
+  [24201 :block/uid "KiV6qQok9" 536972087]
+  [24201 :create/time 1619931486393 536972087]
+  [24201 :create/user 3 536972087]
+  [24201 :edit/time 1619931491358 536972094]
+  [24201 :edit/user 3 536972087]
+  [24202 :block/open true 536972090]
+  [24202 :block/order 2 536972090]
+  [24202 :block/page 24193 536972091]
+  [24202 :block/parents 24193 536972091]
+  [24202 :block/parents 24198 536972091]
+  [24202 :block/string "高句麗の長寿王の時代以後、一時は高句麗に占領された。" 536972097]
+  [24202 :block/uid "guIy5miNO" 536972090]
+  [24202 :create/time 1619931487303 536972090]
+  [24202 :create/user 3 536972090]
+  [24202 :edit/time 1619931534029 536972097]
+  [24202 :edit/user 3 536972090]
+  [24203 :block/open true 536972109]
+  [24203 :block/order 5 536972118]
+  [24203 :block/page 24193 536972110]
+  [24203 :block/parents 24193 536972110]
+  [24203 :block/parents 24198 536972110]
+  [24203 :block/string "高麗時代、双阜県と称され始めた。" 536972117]
+  [24203 :block/uid "Mb33Ve6w7" 536972109]
+  [24203 :create/time 1619931630519 536972109]
+  [24203 :create/user 3 536972109]
+  [24203 :edit/time 1619931635646 536972117]
+  [24203 :edit/user 3 536972109]
+  [24204 :block/children 24205 536972118]
+  [24204 :block/open true 536972112]
+  [24204 :block/order 4 536972112]
+  [24204 :block/page 24193 536972113]
+  [24204 :block/parents 24193 536972113]
+  [24204 :block/parents 24198 536972113]
+  [24204
+   :block/string
+   "757年、景徳王16年、[行政制度の改編によって]唐恩郡と改称された後、車城県（거성현）と振威県（진위현）の[2県を管轄した][1]。\n210502-13:00"
+   536972128]
+  [24204 :block/uid "eDYzv5KQQ" 536972112]
+  [24204 :create/time 1619931634719 536972112]
+  [24204 :create/user 3 536972112]
+  [24204 :edit/time 1619931708387 536972128]
+  [24204 :edit/user 3 536972112]
+  [24205 :block/open true 536972115]
+  [24205 :block/order 0 536972118]
+  [24205 :block/page 24193 536972116]
+  [24205 :block/parents 24193 536972116]
+  [24205 :block/parents 24198 536972116]
+  [24205 :block/parents 24204 536972119]
+  [24205
+   :block/string
+   "829年、興徳王4年、唐城鎮（당성진）が[設置された](Setchi)。"
+   536972127]
+  [24205 :block/uid "ej_s32ct9" 536972115]
+  [24205 :create/time 1619931635641 536972115]
+  [24205 :create/user 3 536972115]
+  [24205 :edit/time 1619931698347 536972127]
+  [24205 :edit/user 3 536972115]
+  [24206 :block/children 24207 536972135]
+  [24206 :block/children 24208 536972138]
+  [24206 :block/children 24209 536972141]
+  [24206 :block/children 24210 536972144]
+  [24206 :block/children 24211 536972147]
+  [24206 :block/children 24213 536972162]
+  [24206 :block/children 24214 536972165]
+  [24206 :block/open true 536972130]
+  [24206 :block/order 3 536972130]
+  [24206 :block/page 24069 536972131]
+  [24206 :block/parents 24069 536972131]
+  [24206 :block/string "List of protector generals" 536972134]
+  [24206 :block/uid "Gts1An2xJ" 536972130]
+  [24206 :create/time 1619933069594 536972130]
+  [24206 :create/user 3 536972130]
+  [24206 :edit/time 1619933070036 536972134]
+  [24206 :edit/user 3 536972130]
+  [24207 :block/open true 536972132]
+  [24207 :block/order 4 536972147]
+  [24207 :block/page 24069 536972133]
+  [24207 :block/parents 24069 536972133]
+  [24207 :block/parents 24206 536972136]
+  [24207 :block/string "Qu Tuquan (681–685)" 536972140]
+  [24207 :block/uid "UMZTIXT9o" 536972132]
+  [24207 :create/time 1619933070028 536972132]
+  [24207 :create/user 3 536972132]
+  [24207 :edit/time 1619933079044 536972140]
+  [24207 :edit/user 3 536972132]
+  [24208 :block/open true 536972138]
+  [24208 :block/order 3 536972147]
+  [24208 :block/page 24069 536972139]
+  [24208 :block/parents 24069 536972139]
+  [24208 :block/parents 24206 536972139]
+  [24208
+   :block/string
+   "Bojang of Goguryeo (677–681) – (Hangul : 요동주도독 조선왕 Hanja:^^[遼東州都督][朝鮮王]^^) and (Hangul : 조선군왕 Hanja:[朝鮮郡王])\n210502-13:25"
+   536972174]
+  [24208 :block/uid "iVkkbDOUs" 536972138]
+  [24208 :create/time 1619933079038 536972138]
+  [24208 :create/user 3 536972138]
+  [24208 :edit/time 1619933169135 536972174]
+  [24208 :edit/user 3 536972138]
+  [24209 :block/open true 536972141]
+  [24209 :block/order 2 536972147]
+  [24209 :block/page 24069 536972142]
+  [24209 :block/parents 24069 536972142]
+  [24209 :block/parents 24206 536972142]
+  [24209 :block/string "Gao Kan (670–676)\n" 536972146]
+  [24209 :block/uid "TFHOqoPna" 536972141]
+  [24209 :create/time 1619933080172 536972141]
+  [24209 :create/user 3 536972141]
+  [24209 :edit/time 1619933081062 536972146]
+  [24209 :edit/user 3 536972141]
+  [24210 :block/open true 536972144]
+  [24210 :block/order 1 536972147]
+  [24210 :block/page 24069 536972145]
+  [24210 :block/parents 24069 536972145]
+  [24210 :block/parents 24206 536972145]
+  [24210 :block/refs 24212 536972156]
+  [24210
+   :block/string
+   "[[薛仁贵 (Xue Rengui)]] (669–670) – 안동도호부사/安東都護府使"
+   536972155]
+  [24210 :block/uid "Qcd43twAm" 536972144]
+  [24210 :create/time 1619933081053 536972144]
+  [24210 :create/user 3 536972144]
+  [24210 :edit/time 1619933098770 536972155]
+  [24210 :edit/user 3 536972144]
+  [24211 :block/open true 536972147]
+  [24211 :block/order 0 536972147]
+  [24211 :block/page 24069 536972148]
+  [24211 :block/parents 24069 536972148]
+  [24211 :block/parents 24206 536972148]
+  [24211 :block/string "Wei Zhe (668–669)" 536972151]
+  [24211 :block/uid "pfiRp2uPC" 536972147]
+  [24211 :create/time 1619933082191 536972147]
+  [24211 :create/user 3 536972147]
+  [24211 :edit/time 1619933085970 536972151]
+  [24211 :edit/user 3 536972147]
+  [24212 :block/uid "dooyTQbvb" 536972156]
+  [24212 :create/time 1619933098771 536972156]
+  [24212 :create/user 3 536972156]
+  [24212 :edit/time 1619933098772 536972156]
+  [24212 :edit/user 3 536972156]
+  [24212 :node/title "薛仁贵 (Xue Rengui)" 536972156]
+  [24213 :block/open true 536972162]
+  [24213 :block/order 6 536972165]
+  [24213 :block/page 24069 536972163]
+  [24213 :block/parents 24069 536972163]
+  [24213 :block/parents 24206 536972163]
+  [24213 :block/string "Pei Xuangui (696–698) 裴玄珪" 536972167]
+  [24213 :block/uid "kC8B0xgjU" 536972162]
+  [24213 :create/time 1619933141354 536972162]
+  [24213 :create/user 3 536972162]
+  [24213 :edit/time 1619933143869 536972167]
+  [24213 :edit/user 3 536972162]
+  [24214 :block/open true 536972165]
+  [24214 :block/order 5 536972165]
+  [24214 :block/page 24069 536972166]
+  [24214 :block/parents 24069 536972166]
+  [24214 :block/parents 24206 536972166]
+  [24214 :block/refs 24215 536972173]
+  [24214
+   :block/string
+   "[[薛訥 (Xue Ne)]] (685–696) – 安東道經略 안동도경락 – also military commander of Youjou"
+   536972172]
+  [24214 :block/uid "i2XjDINDV" 536972165]
+  [24214 :create/time 1619933143864 536972165]
+  [24214 :create/user 3 536972165]
+  [24214 :edit/time 1619933157491 536972172]
+  [24214 :edit/user 3 536972165]
+  [24215 :block/uid "W2YHeywek" 536972173]
+  [24215 :create/time 1619933157493 536972173]
+  [24215 :create/user 3 536972173]
+  [24215 :edit/time 1619933157494 536972173]
+  [24215 :edit/user 3 536972173]
+  [24215 :node/title "薛訥 (Xue Ne)" 536972173]]}

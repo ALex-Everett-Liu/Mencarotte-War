@@ -20,3 +20,13 @@
 210502-02:37
         - ![Tang-Goguryeo War-01](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang-Korean_wars.png)
         - **Author**: [SY](https://commons.wikimedia.org/wiki/User:Seasonsinthesun)
+- List of protector generals
+    - Wei Zhe (668–669)
+    - [[薛仁贵 (Xue Rengui)]] (669–670) – 안동도호부사/安東都護府使
+    - Gao Kan (670–676)
+
+    - Bojang of Goguryeo (677–681) – (Hangul : 요동주도독 조선왕 Hanja:^^[遼東州都督][朝鮮王]^^) and (Hangul : 조선군왕 Hanja:[朝鮮郡王])
+210502-13:25
+    - Qu Tuquan (681–685)
+    - [[薛訥 (Xue Ne)]] (685–696) – 安東道經略 안동도경락 – also military commander of Youjou
+    - Pei Xuangui (696–698) 裴玄珪
