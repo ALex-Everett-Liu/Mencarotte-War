@@ -1,4 +1,5 @@
 - [[agreement]]
+- [[buffer zone]]
 - foreign affairs
     - [[Foreign Office]]; [[Foreign Ministry]]
 - [[international relations]]

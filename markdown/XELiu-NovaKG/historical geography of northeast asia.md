@@ -11,6 +11,6 @@
             - 铁原郡
     - [[大同江 (Taedong River)]]
     - [[新罗九州]]
-- [[辽东 (Liaodong)]]
+- [[辽东 (Liaodong)]]; [[辽东半岛 (Liaodong Peninsula)]]
 - [[辽西 (Liaoxi)]]
 - [[弱水 (River Ruo)]]

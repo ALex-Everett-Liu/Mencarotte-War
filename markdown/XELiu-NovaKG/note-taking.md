@@ -59,6 +59,7 @@
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
     - 现在[缺陷还很多]。主要是我 [js 代码]是[花了两个小时]查看 zotero 的 api+ [学习例子和教程]学来的；同时 [Quicker 宏编程]我也是参考了很多 [zplusless](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2FUser%2FActions%2F110499-zplusless) [大佬][摘录助手-增强版](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2Fsharedaction%3Fcode%3D623da485-f979-4fda-414e-08d84e0e87c8)的内容，我自己[之前并没有接触过]，问题很多。。。我觉得[主要如下](https://ld246.com/article/1619536691753)： #pt9-99.99
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
+    - RE [暗色毛玻璃主题](https://club.roamedit.com/club/?thread-728.htm)分享 #pt8-100
     - 今天在群里了解到一款——知识图谱项目[前端可视化]图论库 cytoscape.js（[这一大串名头是查出来的](https://link.ld246.com/forward?goto=https%3A%2F%2Fwww.cnblogs.com%2Fzhilin%2Fp%2F12074688.html)），自带[一键分析图谱]功能，我感觉很适合[在此基础上]做[双链笔记的关系图](https://ld246.com/article/1618829898054)。 #pt9-99.98
     - Vscode的[Markdown插件]我也试过，在VScode上进行[Markdown写作]最方便的地方在于可以[自定义一些snippet]来[缩短一些重复输入的时间]，不过比较遗憾的是它并不能像Typora那样[实时渲染](https://sspai.com/post/65682)，而实时渲染是Typora吸引我的主要原因之一。
         - 最近又试了试notion，然而我觉得notion并不适合我，notion的quote块和callout块中不能插入图片和LaTeX，虽然有inline-table却没有inline-page。感觉用了notion就只能按照notion的思路[来写文档]了，不太舒服。
