@@ -3,7 +3,7 @@
     - [[Khitan (契丹)]]
 - Northeast?
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
-    - [[高句丽 (Goguryeo)]]
+    - [[高句丽 (Goguryeo)]]; Gaogouli
         - [[安東都護府 (Andong Duhufu)]]
     - [[濊貊 (huimo)]]
         - [[小水貊 (xiaoshuimo)]]

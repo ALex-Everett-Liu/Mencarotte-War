@@ -1,4 +1,4 @@
-- [[administrative division]]
+- [[administrative division]]; administrative area
 - [[historical map]]
 - original source; 史料
     - 春秋释例

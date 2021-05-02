@@ -70184,14 +70184,14 @@
     },
     "children": [
       {
-        "string": "[[administrative division]]",
+        "string": "[[administrative division]]; administrative area",
         "refs": [
           {
             "uid": "hDpjwE_uN"
           }
         ],
         "uid": "vIfY85jkd",
-        "edit-time": 1618572022788,
+        "edit-time": 1619946764248,
         ":block/refs": [
           {
             ":block/uid": "hDpjwE_uN"
@@ -79603,7 +79603,7 @@
             }
           },
           {
-            "string": "[[高句丽 (Goguryeo)]]",
+            "string": "[[高句丽 (Goguryeo)]]; Gaogouli",
             "refs": [
               {
                 "uid": "NGu1_BMZJ"
@@ -79634,7 +79634,7 @@
               }
             ],
             "uid": "rZMQAtdUo",
-            "edit-time": 1619868317526,
+            "edit-time": 1619948610259,
             ":block/refs": [
               {
                 ":block/uid": "NGu1_BMZJ"
@@ -81322,7 +81322,7 @@
             },
             "children": [
               {
-                "string": "《隋书·靺鞨传》：“靺鞨在[[高丽 (Gaoli)]]之北，[邑落]俱有[酋长]，不相总一。凡有七种，其一号栗（粟）末部，……，其七曰白水（山）部，在栗（粟）末东南，胜兵并不过三千，而[黑水部][尤为劲健]。自拂涅以东，矢皆石镞，即古之肃愼氏也。”",
+                "string": "《隋书·靺鞨传》：“靺鞨在[[高丽 (Goryeo)]]之北，[邑落]俱有[酋长]，不相总一。凡有七种，其一号栗（粟）末部，……，其七曰白水（山）部，在栗（粟）末东南，胜兵并不过三千，而[黑水部][尤为劲健]。自拂涅以东，矢皆石镞，即古之肃愼氏也。”",
                 "create-time": 1619162164778,
                 ":block/refs": [
                   {
@@ -81338,7 +81338,7 @@
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "WySGSTmAZ",
-                "edit-time": 1619162233237,
+                "edit-time": 1619948596860,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -82878,14 +82878,14 @@
     },
     "children": [
       {
-        "string": "[[渤海国 (Bohai Kingdom)]]",
+        "string": "[[渤海国 (Balhae Kingdom)]]",
         "refs": [
           {
             "uid": "CuxjW8Bb4"
           }
         ],
         "uid": "FUhlEnv6u",
-        "edit-time": 1619868596622,
+        "edit-time": 1619947984500,
         ":block/refs": [
           {
             ":block/uid": "CuxjW8Bb4"
@@ -88173,9 +88173,9 @@
   },
   {
     "create-time": 1619162198030,
-    "title": "高丽 (Gaoli)",
+    "title": "高丽 (Goryeo)",
     "uid": "xweEA6e_5",
-    "edit-time": 1619162198031,
+    "edit-time": 1619948596860,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -88191,14 +88191,14 @@
     },
     "children": [
       {
-        "string": "[[高丽 (Gaoli)]]",
+        "string": "[[高丽 (Goryeo)]]; Gaoli",
         "refs": [
           {
             "uid": "xweEA6e_5"
           }
         ],
         "uid": "-OKrv9hF3",
-        "edit-time": 1619162410114,
+        "edit-time": 1619948604096,
         ":block/refs": [
           {
             ":block/uid": "xweEA6e_5"
@@ -88209,12 +88209,34 @@
         }
       },
       {
-        "string": "高丽遗民;",
+        "string": "高丽遗民; the refugees of Goguryeo",
         "create-time": 1619878375589,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "children": [
+          {
+            "string": "[[小高句丽 (Lesser Goguryeo)]]",
+            "create-time": 1619947891237,
+            ":block/refs": [
+              {
+                ":block/uid": "5EVImI2RM"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "5EVImI2RM"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "NQYvO-aub",
+            "edit-time": 1619947893504,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "669, 迁徙高丽遗民八万户至江淮;",
             "create-time": 1619879260100,
@@ -88241,7 +88263,7 @@
           }
         ],
         "uid": "pALJ6ATz6",
-        "edit-time": 1619878376516,
+        "edit-time": 1619948538529,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -102608,6 +102630,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[安東都護府 (Andong Duhufu)]]\n210501-22pm",
+        "create-time": 1619947216807,
+        ":block/refs": [
+          {
+            ":block/uid": "wlk2K2eZL"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "wlk2K2eZL"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "x96rkwu9k",
+        "edit-time": 1619947220815,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "05-01-2021",
@@ -103822,7 +103866,7 @@
   },
   {
     "create-time": 1619868596624,
-    "title": "渤海国 (Bohai Kingdom)",
+    "title": "渤海国 (Balhae Kingdom)",
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -103957,7 +104001,7 @@
       }
     ],
     "uid": "CuxjW8Bb4",
-    "edit-time": 1619868596625,
+    "edit-time": 1619947984500,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -104703,7 +104747,7 @@
         },
         "children": [
           {
-            "string": "After the Tang dynasty conquered Goguryeo in 668, the Protectorate General to Pacify the East, otherwise known as the Andong Protectorate, was created in Pyongyang and supposedly stationed with 200,000 soldiers. The protectorate was divided into 9 [commanderies]([[commandery]]), 42 [[prefecture]]s, and 100 counties.[1][2][3]",
+            "string": "After the Tang dynasty conquered Goguryeo in 668, the Protectorate General to Pacify the East, otherwise known as the Andong Protectorate, was created in Pyongyang and supposedly stationed with 200,000 soldiers. The protectorate was divided into 9 [commanderies]([[commandery]]), 42 [[prefecture]]s, and 100 counties.[1](((YKnjMEesc)))[2][3]",
             "create-time": 1619878903087,
             ":block/refs": [
               {
@@ -104711,6 +104755,9 @@
               },
               {
                 ":block/uid": "Zn9J0y4V4"
+              },
+              {
+                ":block/uid": "YKnjMEesc"
               }
             ],
             "refs": [
@@ -104719,35 +104766,44 @@
               },
               {
                 "uid": "Zn9J0y4V4"
+              },
+              {
+                "uid": "YKnjMEesc"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "AoHhy516K",
-            "edit-time": 1619879093439,
+            "edit-time": 1619947320013,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
           },
           {
-            "string": "In 669 the people of Goguryeo [revolted in response to Tang governance]. In response the Tang [forcibly deported] 78,000 households and [resettled them in empty areas](((oS8mkp0o5))) south of the Changjiang (Yangtze) and Huai River, each in contemporary China. [The weak and poor were left behind] and [assigned to guard duty] in service of the protectorate.[2]\n210501-22:28",
+            "string": "In 669 the people of Goguryeo [revolted in response to Tang governance]. In response the Tang [forcibly deported] 78,000 households and [resettled them in empty areas](((oS8mkp0o5))) south of the Changjiang (Yangtze) and Huai River, each in contemporary China. [The weak and poor were left behind] and [assigned to guard duty] in service of the protectorate.[2](((l43vlTF6f)))\n210501-22:28",
             "create-time": 1619878901265,
             ":block/refs": [
               {
                 ":block/uid": "oS8mkp0o5"
+              },
+              {
+                ":block/uid": "l43vlTF6f"
               }
             ],
             "refs": [
               {
                 "uid": "oS8mkp0o5"
+              },
+              {
+                "uid": "l43vlTF6f"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "_Zj5KJvgH",
-            "edit-time": 1619879294910,
+            "edit-time": 1619947490103,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -105019,6 +105075,40 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "Map of the six major protectorates during Tang dynasty. The Protectorate General to Pacify the East is marked as [Andong (安东都护府)]. -- 唐朝的[六大都护府][示意地图](https://en.wikipedia.org/wiki/File:Tang_Protectorates.png)",
+            "uid": "VZ-p9MghB",
+            "edit-time": 1619946903513,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[统一新罗图](https://en.wikipedia.org/wiki/File:%E7%BB%9F%E4%B8%80%E6%96%B0%E7%BD%97%E5%9B%BE(Unified_Silla).jpg) (Unified Silla)",
+            "create-time": 1619946922413,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "**Author**: [GeorgeZhao](https://commons.wikimedia.org/wiki/User:GeorgeZhao)",
+                "create-time": 1619947127289,
+                "uid": "m0tS4G6se",
+                "edit-time": 1619947131303,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "KDBgqrXAt",
+            "edit-time": 1619947145430,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "eM8jSgrO3",
@@ -105137,10 +105227,238 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[[高德武 (Go Deokmu)]] (698–699) (Hangul : 고덕무 Hanja: 高德武), Son of Bojang – 안동도독/安東都督",
+            "create-time": 1619946634030,
+            ":block/refs": [
+              {
+                ":block/uid": "Qe_NLgVa-"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Qe_NLgVa-"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "6VVaRAPQb",
+            "edit-time": 1619946681759,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[唐休璟 (Tang Xiujing)]] (704–705) ",
+            "create-time": 1619946634870,
+            ":block/refs": [
+              {
+                ":block/uid": "k4I9hHEhB"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "k4I9hHEhB"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "dGHeXcS_W",
+            "edit-time": 1619946647072,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Pei Huaigu (712) 裴懷古",
+            "create-time": 1619946631764,
+            "uid": "dBEZkDSg7",
+            "edit-time": 1619946634875,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "...",
+            "create-time": 1619946694808,
+            "uid": "Up_diHB_B",
+            "edit-time": 1619946697570,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Pei Min (733–741) 裴旻\r\nJia Xun (742–755) 賈循\r\nWang Xuanzhi (756–758) 王玄志\r\nHou Xiyi (758–761) 侯希逸",
+            "create-time": 1619946697565,
+            "uid": "EILQhKHk7",
+            "edit-time": 1619946698452,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "Gts1An2xJ",
         "edit-time": 1619933070036,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Administrative area",
+        "create-time": 1619946725932,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Administratively, it was intended to oversee nine commanderies, 42 prefectures (later reorganized into 14) and 100 counties.\n210502-17:13",
+            "create-time": 1619946726561,
+            "uid": "uW_RDKDw6",
+            "edit-time": 1619946814610,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "aoMwG5u1l",
+        "edit-time": 1619946726567,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "References",
+        "create-time": 1619947176451,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[1]: [\"舊唐書\"](http://ctext.org/wiki.pl?if=gb&res=456206&searchu=%E5%AE%89%E6%9D%B1%E9%83%BD%E8%AD%B7%E5%BA%9C). __中國哲學書電子化計劃__. Retrieved 3 August 2017. 安東都護府[總章]元年九月，[司空李勣][平高麗]。高麗[本五部]，一百七十六城，戶六十九萬七千。其年十二月，[分高麗地為][九都督府]，四十二州，一百縣，置[安東都護府][於平壤城][以統之]。\n210502-17:24",
+            "create-time": 1619947250060,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "In the ninth month of the first year of the [Zongzhang era] [668], the [Minister of Works] Li Ji pacified Goguryeo. Originally Goguryeo had 5 regions, 176 cities, and 697,000 households. In the twelfth month of that year, Goguryeo’s territory was divided into 9 commanderies, 42 prefectures, and 100 counties. The Andong Protectorate was situated at Pyeongyang to govern it.",
+                "create-time": 1619947176893,
+                "uid": "MFbgRBuxl",
+                "edit-time": 1619947351402,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "YKnjMEesc",
+            "edit-time": 1619947513178,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[2]: [Wang 2013](https://en.wikipedia.org/wiki/Protectorate_General_to_Pacify_the_East#CITEREFWang2013), [p. 81.](((IujaYGpGg)))",
+            "create-time": 1619947371873,
+            ":block/refs": [
+              {
+                ":block/uid": "IujaYGpGg"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "IujaYGpGg"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "l43vlTF6f",
+            "edit-time": 1619947416498,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[3]: [Xiong 2008](https://en.wikipedia.org/wiki/Protectorate_General_to_Pacify_the_East#CITEREFXiong2008), [p. 43.](((MEcZqGN_y)))",
+            "create-time": 1619947425594,
+            ":block/refs": [
+              {
+                ":block/uid": "MEcZqGN_y"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "MEcZqGN_y"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "LGsFIB4Qa",
+            "edit-time": 1619947472962,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "dCaaKxTKq",
+        "edit-time": 1619947176901,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Bibliography",
+        "create-time": 1619947387883,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Wang, Zhenping (2013), __Tang China in Multi-Polar Asia: A History of Diplomacy and War__, University of Hawaii Press",
+            "create-time": 1619947388210,
+            "uid": "IujaYGpGg",
+            "edit-time": 1619947394349,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Xiong, Victor (2008), [__Historical Dictionary of Medieval China__], United States of America: Scarecrow Press, Inc., [ISBN](https://www.amazon.ca/Historical-Dictionary-Medieval-Victor-Cunrui/dp/0810860538/ref=sr_1_1?ie=UTF8&qid=1438312041&sr=8-1&keywords=historical+dictionary+of+medieval+china) [0810860538](https://en.wikipedia.org/wiki/Special:BookSources/0810860538)",
+            "create-time": 1619947434578,
+            "uid": "MEcZqGN_y",
+            "edit-time": 1619947455830,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "0XKuPQGIz",
+        "edit-time": 1619947388216,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -106283,11 +106601,35 @@
   {
     "create-time": 1619920389637,
     "title": "May 2nd, 2021",
-    "uid": "05-02-2021",
-    "edit-time": 1619920389637,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "[[唐城郡 (Dangseong Jin)]]\n210502-12pm",
+        "create-time": 1619946582047,
+        ":block/refs": [
+          {
+            ":block/uid": "7HyXJGnUA"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "7HyXJGnUA"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "LXohzVWzC",
+        "edit-time": 1619946587811,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "05-02-2021",
+    "edit-time": 1619920389637,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -106300,7 +106642,7 @@
     },
     "children": [
       {
-        "string": "南陽郡（ナムヤンぐん、なんようぐん、朝鮮語: 남양군）は、かつて存在した[京畿道の行政区域]で、今日の[華城市]西部（南陽邑（朝鮮語版）など）と、[安山市][大阜洞]（朝鮮語版）、[仁川広域市][甕津郡][霊興面]（朝鮮語版）一帯にあたる。[日本統治時代]初期、1914年の[行政区域改編で](Gyōsei kuiki kaihen)水原郡（朝鮮語版）と合併し、[島である]大阜洞と霊興面は富川郡（朝鮮語版）に吸収された。\n210502-12:42",
+        "string": "[南陽郡](https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EA%B5%B0)（ナムヤンぐん、なんようぐん、朝鮮語: 남양군）は、かつて存在した[京畿道の行政区域]で、今日の[華城市]西部（南陽邑（朝鮮語版）など）と、[安山市][大阜洞]（朝鮮語版）、[仁川広域市][甕津郡][霊興面]（朝鮮語版）一帯にあたる。[日本統治時代]初期、1914年の[行政区域改編で](Gyōsei kuiki kaihen)水原郡（朝鮮語版）と合併し、[島である]大阜洞と霊興面は富川郡（朝鮮語版）に吸収された。\n210502-12:42",
         "create-time": 1619930521722,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -106320,7 +106662,7 @@
           }
         ],
         "uid": "Rys48p3_S",
-        "edit-time": 1619930633059,
+        "edit-time": 1619946601470,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -106407,11 +106749,7 @@
             }
           },
           {
-            "string": "757年、景徳王16年、[行政制度の改編によって]唐恩郡と改称された後、車城県（거성현）と振威県（진위현）の[2県を管轄した][1]。\n210502-13:00",
-            "create-time": 1619931634719,
-            ":create/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
+            "edit-time": 1619946450532,
             "children": [
               {
                 "string": "829年、興徳王4年、唐城鎮（당성진）が[設置された](Setchi)。",
@@ -106426,8 +106764,22 @@
                 }
               }
             ],
+            "refs": [
+              {
+                "uid": "rEoH3LQIa"
+              }
+            ],
             "uid": "eDYzv5KQQ",
-            "edit-time": 1619931708387,
+            ":block/refs": [
+              {
+                ":block/uid": "rEoH3LQIa"
+              }
+            ],
+            "string": "757年、景徳王16年、[行政制度の改編によって]唐恩郡と改称された後、車城県（거성현）と振威県（진위현）の[2県を管轄した][1](((rEoH3LQIa)))。\n210502-13:00",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1619931634719,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -106443,10 +106795,160 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "1018年、顕宗9年、水州（水原）へ属郡として編入された。その後、再び**弥鄒忽**（[朝鮮語版](https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%B6%94%ED%99%80)）（仁川）に編入された。",
+            "create-time": 1619946217554,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "1172年、明宗2年、監務が設置された。",
+                "create-time": 1619946218712,
+                "uid": "TM0VW-Ycy",
+                "edit-time": 1619946227908,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "wwiL84GCK",
+            "edit-time": 1619946244731,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "1271年、元宗12年、[モンゴル帝国]が大阜島を[侵略した](Shinryaku)が、すぐに[島の住民たち]が蜂起して殲滅した。",
+            "create-time": 1619946219642,
+            "uid": "VFZi6uWZy",
+            "edit-time": 1619946291366,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "1290年、忠烈王16年、洪茶丘の故郷として益州の名で[昇格し](Shōkakushi)、__[知益州事]__が[派遣された](haken sareta)。以後、[江寧都護府]や益州牧が設置された。",
+            "create-time": 1619946220470,
+            "uid": "hQlxGN_PC",
+            "edit-time": 1619946360775,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "1310年、忠宣王2年、全国の牧（朝鮮語版）が廃止され、南陽府（도호부）となった。",
+            "create-time": 1619946221547,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "1413年、朝鮮王太宗13年、南陽都護府（남양도호부）として再昇格した。",
+                "create-time": 1619946211719,
+                "uid": "c3ELrujTF",
+                "edit-time": 1619946221552,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "QEGtvGAxg",
+            "edit-time": 1619946370137,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "W6dPPhsAh",
         "edit-time": 1619931475757,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "脚注",
+        "create-time": 1619946389406,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[1]: 唐恩郡, 本高句麗 唐城郡, 景德王改名, 今復故. \n[領縣]二: 車城縣, 本高句麗 上[一作車.]忽縣, 景德王改名, 今龍城縣; 振威縣, 本高句麗 釜山縣, 景德王改名, 今因之.\n35卷-志4-地理2-09《[三國史記](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E5%8F%B2%E8%A8%98)》\n210502-17:06",
+            "create-time": 1619946389736,
+            "uid": "rEoH3LQIa",
+            "edit-time": 1619946462166,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[2]: 칙령 제98호 지방제도의개정에관한안건",
+            "create-time": 1619946504874,
+            "uid": "_V6tLTjgA",
+            "edit-time": 1619946507782,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[4]: [大韓帝国勅令第49号](https://ko.wikipedia.org/wiki/s:%EB%8C%80%ED%95%9C%EC%A0%9C%EA%B5%AD_1906%EB%85%84_%EC%B9%99%EB%A0%B9_%EC%A0%9C49%ED%98%B8)（1906年9月24日）",
+            "create-time": 1619946507854,
+            "uid": "Uc8UWD5eX",
+            "edit-time": 1619946515140,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[5]: [朝鮮総督府](https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E7%B7%8F%E7%9D%A3%E5%BA%9C)令第111号（[1913年][12月29日]）",
+            "create-time": 1619946524641,
+            "uid": "zjLu667sS",
+            "edit-time": 1619946544104,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "bUxndNQ6T",
+        "edit-time": 1619946389742,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "カテゴリ: 京畿道の歴史",
+        "create-time": 1619946556410,
+        "uid": "aTz3_fPHb",
+        "edit-time": 1619946566187,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -106478,6 +106980,104 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619946647074,
+    "title": "唐休璟 (Tang Xiujing)",
+    "uid": "k4I9hHEhB",
+    "edit-time": 1619946647074,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619946681770,
+    "title": "高德武 (Go Deokmu)",
+    "uid": "Qe_NLgVa-",
+    "edit-time": 1619946681770,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1619947893505,
+    "title": "小高句丽 (Lesser Goguryeo)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Little Goguryeo or Lesser Goguryeo (699-820) (小高句麗, 소고구려) is a [hypothetical term] for a state proposed by Japanese scholar [Kaizaburo Hino (ja:日野開三郎)]. [The existence of the state] [has been debated among scholars].[1] The name was not [mentioned in historical records], and the leaders were recorded as Governors-General subject to the Tang dynasty.[2][3]",
+        "create-time": 1619947900863,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[It was allegedly] 提出但尚未证实 established by [the refugees of Goguryeo](((pALJ6ATz6))) after its defeat by the Tang dynasty.[4] The kingdom was supposedly originally called [[高丽 (Goryeo)]], but later historians added \"Lesser\" for disambiguation from Goguryeo, which was also often called Goryeo. \"Goryeo\" is also the name of [a later period of Korean history], and the source of the English name [[Korea]].\n210502-17:44",
+            "create-time": 1619948484704,
+            ":block/refs": [
+              {
+                ":block/uid": "xweEA6e_5"
+              },
+              {
+                ":block/uid": "HsOfJXYXl"
+              },
+              {
+                ":block/uid": "pALJ6ATz6"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xweEA6e_5"
+              },
+              {
+                "uid": "HsOfJXYXl"
+              },
+              {
+                "uid": "pALJ6ATz6"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "OqzCbnDpT",
+            "edit-time": 1619948662015,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "yXLXCMSqf",
+        "edit-time": 1619948430664,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "After the Korean Silla kingdom and the Chinese Tang dynasty allied to destroy Goguryeo, the Liaodong Peninsula was administered by the Tang. The theory is that Tang lost effective control due to rebellion by Goguryeo refugees, and the region became a buffer zone between Tang and the Korean kingdom of Balhae. Although Lesser Goguryeo declared itself an independent kingdom, it was soon absorbed into Balhae, which became a successor state to Goguryeo.",
+        "create-time": 1619948481620,
+        "uid": "p_PrWpk6y",
+        "edit-time": 1619948484712,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "5EVImI2RM",
+    "edit-time": 1619947893506,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

@@ -7,7 +7,7 @@
     - political satire
 - [[government]]
     - administration
-        - [[administrative division]]
+        - [[administrative division]]; administrative area
     - approve the decision
     - commission
     - [[business management]]

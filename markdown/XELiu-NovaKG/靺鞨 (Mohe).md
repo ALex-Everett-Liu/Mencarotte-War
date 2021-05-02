@@ -1,4 +1,4 @@
-- [[渤海国 (Bohai Kingdom)]]
+- [[渤海国 (Balhae Kingdom)]]
 - 黑水部; [[黑水靺鞨 (Heishui Mohe)]]
     - [[黑水都督府 (heishui dudufu)]]
 - [[忽汗州 (Huhanzhou)]]

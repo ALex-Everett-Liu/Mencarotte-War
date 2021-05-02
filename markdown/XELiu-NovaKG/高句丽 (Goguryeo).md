@@ -1,5 +1,6 @@
-- [[高丽 (Gaoli)]]
-- 高丽遗民;
+- [[高丽 (Goryeo)]]; Gaoli
+- 高丽遗民; the refugees of Goguryeo
+    - [[小高句丽 (Lesser Goguryeo)]]
     - 669, 迁徙高丽遗民八万户至江淮;
     - 681, 寶藏王与靺鞨合谋复辟高丽，事泄，被流放至西南
 - [[唐丽战争 (Tang-Goguryeo War)]]
