@@ -1,5 +1,7 @@
 - [[etymology]]
     - [[Old Chinese]]
+- foreign languages
+    - [[Korean]]
 - letter
     - [[alphabet]]
     - [[lexicographic relation]]: 词典关系

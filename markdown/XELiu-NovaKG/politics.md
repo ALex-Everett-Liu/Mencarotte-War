@@ -9,8 +9,11 @@
     - administration
         - [[administrative division]]; administrative area
     - approve the decision
-    - commission
     - [[business management]]
+    - commission
+- [[nation]]
+    - [[nation/state]]
+        - [[statelet]];
 - political activity
 - [[political economy]]
 - [[political philosophy]]

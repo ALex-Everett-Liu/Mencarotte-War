@@ -1,0 +1,11 @@
+- Administrative divisions of South Korea
+    - [[京畿道 (Gyeonggi)]]
+- [[唐城郡 (Dangseong Jin)]]
+- Eight Provinces of Korea
+    - 江原道
+        - 溟州道; 江陵道
+        - 朔方道; 岭东, 岭西;
+        - 铁原郡
+- [[汉江 (Han River)]]
+- [[大同江 (Taedong River)]]
+- [[新罗九州]]

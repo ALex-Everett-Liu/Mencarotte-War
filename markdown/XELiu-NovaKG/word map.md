@@ -158,6 +158,13 @@
                     - critical question;
                 - criticism;
     - d
+        - da
+            - date
+                - dating;
+                - predate;
+            - [[dawn]]: 破晓, 拂晓, 黎明;
+            - daze
+                - dazzle; dazzling
         - de
             - demonstrate, 2
                 - demo;

@@ -4,7 +4,7 @@
 - [[Jin State (辰國)]]
 - [[箕子朝鲜]]; [[辰国]]
 - [[朝鮮 (Joseon)]]; Chaoxian
-- 三韩
+- [[三韩 (Samhan)]]
     - [[伽耶 (Gaya)]]
     - [[辰韓 (Jinhan)]]
         - [[新罗 (Silla)]]
