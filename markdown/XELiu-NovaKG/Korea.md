@@ -2,6 +2,7 @@
 - [[Gojoseon (古朝鮮)]]
 - History of Korea
 - [[Jin State (辰國)]]
+- [[箕子朝鲜]]; [[辰国]]
 - [[朝鮮 (Joseon)]]; Chaoxian
 - 三韩
     - [[伽耶 (Gaya)]]

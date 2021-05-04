@@ -1,4 +1,5 @@
 - campaign; [[campaign settings]]
+- [[game design]]
 - [[game mechanics]]
 - [[game rule]]
 - goal; [[achievement]]
