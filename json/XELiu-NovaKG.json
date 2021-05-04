@@ -104830,6 +104830,28 @@
         }
       },
       {
+        "string": "[[朝鲜郡王]]",
+        "create-time": 1620101670844,
+        ":block/refs": [
+          {
+            ":block/uid": "-O7RdpEVi"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-O7RdpEVi"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "Us55PZC8s",
+        "edit-time": 1620101676542,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "---",
         "create-time": 1620088671892,
         "uid": "QmYn_gflz",
@@ -105341,23 +105363,35 @@
         },
         "children": [
           {
-            "string": "[献书待制]杨憼撰“唐[开府仪同三司][工部尚书]特进[右金吾卫大将军]安东都护[郯国公][上柱国]高公墓志序”有云：　　\n[大历八年]夏五月廿有七日，右金吾卫大将军[安东都护公][毙于]洛阳教业里之[私第]，春秋七十三。前年四月十二日，郯国夫人[真定侯氏]先毙于[博陵郡]，……礼也。[公讳震]([[高震 (Gao Zheng)]])，字某渤海人。祖藏，开府仪同三司工部尚书[朝鲜郡王][柳城郡开国公]；祢讳连，云麾将军、右豹韬大将军安东都护。^^公迺扶余贵种，辰韩令族^^，怀化启土，继代称王，嗣为国宾，食邑千室。”[2]",
+            "string": "[献书待制]杨憼撰“唐[开府仪同三司][工部尚书]特进[右金吾卫大将军]安东都护[郯国公][上柱国]高公墓志序”有云：　　\n[大历八年]夏五月廿有七日，右金吾卫大将军[安东都护公][毙于]洛阳教业里之[私第]，春秋七十三。前年四月十二日，郯国夫人[真定侯氏]先毙于[博陵郡]，……礼也。[公讳震]([[高震 (Gao Zheng)]])，字某渤海人。祖藏，开府仪同三司工部尚书[[朝鲜郡王]][柳城郡开国公]；祢讳连，云麾将军、右豹韬大将军安东都护。^^公迺扶余贵种，辰韩令族^^，怀化启土，继代称王，嗣为国宾，食邑千室。”[2](((u0TbT2fIo)))",
             "create-time": 1620088947591,
             ":block/refs": [
               {
                 ":block/uid": "3CztldvIJ"
+              },
+              {
+                ":block/uid": "-O7RdpEVi"
+              },
+              {
+                ":block/uid": "u0TbT2fIo"
               }
             ],
             "refs": [
               {
                 "uid": "3CztldvIJ"
+              },
+              {
+                "uid": "-O7RdpEVi"
+              },
+              {
+                "uid": "u0TbT2fIo"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "61ui1X6E5",
-            "edit-time": 1620089142819,
+            "edit-time": 1620101857187,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -105377,13 +105411,41 @@
         },
         "children": [
           {
-            "string": "Wei Zhe (668–669)",
-            "create-time": 1619933082191,
-            "uid": "pfiRp2uPC",
-            "edit-time": 1619933085970,
+            "string": "**官衔**: 检校安东都护 ",
+            "create-time": 1620101717638,
+            "uid": "J8igGBCMj",
+            "edit-time": 1620101739919,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[魏哲 (Wei Zhe)]][1](((cpz9KgvWa))) (668–669) -- **生卒年**: 616年—669年",
+            "create-time": 1619933082191,
+            ":block/refs": [
+              {
+                ":block/uid": "cpz9KgvWa"
+              },
+              {
+                ":block/uid": "gqtVxcpnc"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cpz9KgvWa"
+              },
+              {
+                "uid": "gqtVxcpnc"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "pfiRp2uPC",
+            "edit-time": 1620101823412,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -105411,13 +105473,23 @@
             }
           },
           {
-            "string": "Gao Kan (670–676)\n",
+            "string": "[[高侃 (Gao Kan)]] (670–676) -- [辽东州][行军总管]、安东都护",
             "create-time": 1619933080172,
-            "uid": "TFHOqoPna",
-            "edit-time": 1619933081062,
+            ":block/refs": [
+              {
+                ":block/uid": "f5A01J_4f"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "f5A01J_4f"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "TFHOqoPna",
+            "edit-time": 1620102125545,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -105503,7 +105575,7 @@
             }
           },
           {
-            "string": "[[唐休璟 (Tang Xiujing)]] (704–705) ",
+            "string": "[[唐休璟 (Tang Xiujing)]] (704–705) -- 检校幽、营等州都督兼安东都护",
             "create-time": 1619946634870,
             ":block/refs": [
               {
@@ -105519,7 +105591,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "dGHeXcS_W",
-            "edit-time": 1619946647072,
+            "edit-time": 1620101880237,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -105549,13 +105621,63 @@
             }
           },
           {
-            "string": "Pei Min (733–741) 裴旻\r\nJia Xun (742–755) 賈循\r\nWang Xuanzhi (756–758) 王玄志\r\nHou Xiyi (758–761) 侯希逸",
-            "create-time": 1619946697565,
-            "uid": "EILQhKHk7",
-            "edit-time": 1619946698452,
+            "string": "颍王李璬 (727-729) -- [平卢军节度大使](((S7-hE8OUn)))[遥领]安东都护，玄宗之子",
+            "create-time": 1620101903767,
+            ":block/refs": [
+              {
+                ":block/uid": "S7-hE8OUn"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S7-hE8OUn"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "YoPPTzwML",
+            "edit-time": 1620101983731,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Pei Min (733–741) 裴旻\nJia Xun (742–755) 賈循\nWang Xuanzhi (756–758) 王玄志\nHou Xiyi (758–761) 侯希逸",
+            "create-time": 1620102029579,
+            "uid": "PcLZmKkX_",
+            "edit-time": 1620102029579,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "![andongduhufu-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fl7qBWvMEaa.png?alt=media&token=da68bbc7-10ac-42b3-9b23-90a94688f9b2)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fl7qBWvMEaa.png?alt=media&token=da68bbc7-10ac-42b3-9b23-90a94688f9b2": {
+                  "width": 346,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1619946697565,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fl7qBWvMEaa.png?alt=media&token=da68bbc7-10ac-42b3-9b23-90a94688f9b2": {
+                  ":width": 346,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "EILQhKHk7",
+            "edit-time": 1620102045378,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -105600,6 +105722,30 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "children": [
+          {
+            "string": "[1]: [唐右将军魏哲神道碑](https://zh.wikisource.org/wiki/%E5%94%90%E5%8F%B3%E5%B0%86%E5%86%9B%E9%AD%8F%E5%93%B2%E7%A5%9E%E9%81%93%E7%A2%91)",
+            "create-time": 1620101790934,
+            "uid": "cpz9KgvWa",
+            "edit-time": 1620101792960,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[2]: 周绍良编《唐代墓志汇编》大历075条",
+            "create-time": 1620101840093,
+            "uid": "u0TbT2fIo",
+            "edit-time": 1620101847582,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "[1]: [\"舊唐書\"](http://ctext.org/wiki.pl?if=gb&res=456206&searchu=%E5%AE%89%E6%9D%B1%E9%83%BD%E8%AD%B7%E5%BA%9C). __中國哲學書電子化計劃__. Retrieved 3 August 2017. 安東都護府[總章]元年九月，[司空李勣][平高麗]。高麗[本五部]，一百七十六城，戶六十九萬七千。其年十二月，[分高麗地為][九都督府]，四十二州，一百縣，置[安東都護府][於平壤城][以統之]。\n210502-17:24",
             "create-time": 1619947250060,
@@ -106141,6 +106287,18 @@
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
     "children": [
+      {
+        "string": "平卢节度使; 平卢军节度大使",
+        "create-time": 1620101977841,
+        "uid": "S7-hE8OUn",
+        "edit-time": 1620101978991,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
       {
         "string": "[[平州 (Pingzhou)]]",
         "create-time": 1619888925363,
@@ -108519,6 +108677,42 @@
     "title": "May 4th, 2021",
     "uid": "05-04-2021",
     "edit-time": 1620092583954,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620101651387,
+    "title": "朝鲜郡王",
+    "uid": "-O7RdpEVi",
+    "edit-time": 1620101651388,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620101823414,
+    "title": "魏哲 (Wei Zhe)",
+    "uid": "gqtVxcpnc",
+    "edit-time": 1620101823415,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620102120489,
+    "title": "高侃 (Gao Kan)",
+    "uid": "f5A01J_4f",
+    "edit-time": 1620102120490,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

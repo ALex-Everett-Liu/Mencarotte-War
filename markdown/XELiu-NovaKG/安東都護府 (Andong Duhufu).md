@@ -1,4 +1,5 @@
 - [[安东都督府 (Andong Dudufu)]]
+- [[朝鲜郡王]]
 - ---
 - [The Protectorate-General to Pacify the East] (simplified Chinese: 安东都护府; traditional Chinese: 安東都護府; pinyin: Āndōng Dūhùfǔ) was a [[protectorate]] [established by the Tang dynasty] in the northeast after [defeating the kingdom] of [[高句丽 (Goguryeo)]]. In the place of [[百济 (Baekje)]] and Goguryeo, the Tang created the Protectorate General to Pacify the East, [Ungjin Commandery]([[熊津都督府 (Xiongjin Dudufu)]]) and [Gyerim Territory Area Command]([[鷄林州都督府 (jilinzhou dudufu)]]).
 210501-22:21
@@ -27,29 +28,33 @@
     - Map of the six major protectorates during Tang dynasty. The Protectorate General to Pacify the East is marked as [Andong (安东都护府)]. -- 唐朝的[六大都护府][示意地图](https://en.wikipedia.org/wiki/File:Tang_Protectorates.png)
 - 高句丽[末代王孙][安东都护]高震
     - [献书待制]杨憼撰“唐[开府仪同三司][工部尚书]特进[右金吾卫大将军]安东都护[郯国公][上柱国]高公墓志序”有云：　　
-[大历八年]夏五月廿有七日，右金吾卫大将军[安东都护公][毙于]洛阳教业里之[私第]，春秋七十三。前年四月十二日，郯国夫人[真定侯氏]先毙于[博陵郡]，……礼也。[公讳震]([[高震 (Gao Zheng)]])，字某渤海人。祖藏，开府仪同三司工部尚书[朝鲜郡王][柳城郡开国公]；祢讳连，云麾将军、右豹韬大将军安东都护。^^公迺扶余贵种，辰韩令族^^，怀化启土，继代称王，嗣为国宾，食邑千室。”[2]
+[大历八年]夏五月廿有七日，右金吾卫大将军[安东都护公][毙于]洛阳教业里之[私第]，春秋七十三。前年四月十二日，郯国夫人[真定侯氏]先毙于[博陵郡]，……礼也。[公讳震]([[高震 (Gao Zheng)]])，字某渤海人。祖藏，开府仪同三司工部尚书[[朝鲜郡王]][柳城郡开国公]；祢讳连，云麾将军、右豹韬大将军安东都护。^^公迺扶余贵种，辰韩令族^^，怀化启土，继代称王，嗣为国宾，食邑千室。”[2](((u0TbT2fIo)))
 - List of protector generals
-    - Wei Zhe (668–669)
+    - **官衔**: 检校安东都护 
+    - [[魏哲 (Wei Zhe)]][1](((cpz9KgvWa))) (668–669) -- **生卒年**: 616年—669年
     - [[薛仁贵 (Xue Rengui)]] (669–670) – 안동도호부사/安東都護府使
-    - Gao Kan (670–676)
-
+    - [[高侃 (Gao Kan)]] (670–676) -- [辽东州][行军总管]、安东都护
     - Bojang of Goguryeo (677–681) – (Hangul : 요동주도독 조선왕 Hanja:^^[遼東州都督][朝鮮王]^^) and (Hangul : 조선군왕 Hanja:[朝鮮郡王])
 210502-13:25
     - Qu Tuquan (681–685)
     - [[薛訥 (Xue Ne)]] (685–696) – 安東道經略 안동도경락 – also military commander of Youjou
     - Pei Xuangui (696–698) 裴玄珪
     - [[高德武 (Go Deokmu)]] (698–699) (Hangul : 고덕무 Hanja: 高德武), Son of Bojang – 안동도독/安東都督
-    - [[唐休璟 (Tang Xiujing)]] (704–705) 
+    - [[唐休璟 (Tang Xiujing)]] (704–705) -- 检校幽、营等州都督兼安东都护
     - Pei Huaigu (712) 裴懷古
     - ...
+    - 颍王李璬 (727-729) -- [平卢军节度大使](((S7-hE8OUn)))[遥领]安东都护，玄宗之子
     - Pei Min (733–741) 裴旻
 Jia Xun (742–755) 賈循
 Wang Xuanzhi (756–758) 王玄志
 Hou Xiyi (758–761) 侯希逸
+    - ![andongduhufu-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fl7qBWvMEaa.png?alt=media&token=da68bbc7-10ac-42b3-9b23-90a94688f9b2)
 - Administrative area
     - Administratively, it was intended to oversee nine commanderies, 42 prefectures (later reorganized into 14) and 100 counties.
 210502-17:13
 - References
+    - [1]: [唐右将军魏哲神道碑](https://zh.wikisource.org/wiki/%E5%94%90%E5%8F%B3%E5%B0%86%E5%86%9B%E9%AD%8F%E5%93%B2%E7%A5%9E%E9%81%93%E7%A2%91)
+    - [2]: 周绍良编《唐代墓志汇编》大历075条
     - [1]: ["舊唐書"](http://ctext.org/wiki.pl?if=gb&res=456206&searchu=%E5%AE%89%E6%9D%B1%E9%83%BD%E8%AD%B7%E5%BA%9C). __中國哲學書電子化計劃__. Retrieved 3 August 2017. 安東都護府[總章]元年九月，[司空李勣][平高麗]。高麗[本五部]，一百七十六城，戶六十九萬七千。其年十二月，[分高麗地為][九都督府]，四十二州，一百縣，置[安東都護府][於平壤城][以統之]。
 210502-17:24
         - In the ninth month of the first year of the [Zongzhang era] [668], the [Minister of Works] Li Ji pacified Goguryeo. Originally Goguryeo had 5 regions, 176 cities, and 697,000 households. In the twelfth month of that year, Goguryeo’s territory was divided into 9 commanderies, 42 prefectures, and 100 counties. The Andong Protectorate was situated at Pyeongyang to govern it.
