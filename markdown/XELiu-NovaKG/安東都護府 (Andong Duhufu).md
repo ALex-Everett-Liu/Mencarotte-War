@@ -3,7 +3,8 @@
 - ---
 - [The Protectorate-General to Pacify the East] (simplified Chinese: 安东都护府; traditional Chinese: 安東都護府; pinyin: Āndōng Dūhùfǔ) was a [[protectorate]] [established by the Tang dynasty] in the northeast after [defeating the kingdom] of [[高句丽 (Goguryeo)]]. In the place of [[百济 (Baekje)]] and Goguryeo, the Tang created the Protectorate General to Pacify the East, [Ungjin Commandery]([[熊津都督府 (Xiongjin Dudufu)]]) and [Gyerim Territory Area Command]([[鷄林州都督府 (jilinzhou dudufu)]]).
 210501-22:21
-- Hangul	안동도호부
+    - Hangul	안동도호부
+    - 唐代营州地区[出土的外国人俑]
 - History
     - After the Tang dynasty conquered Goguryeo in 668, the Protectorate General to Pacify the East, otherwise known as the Andong Protectorate, was created in Pyongyang and supposedly stationed with 200,000 soldiers. The protectorate was divided into 9 [commanderies]([[commandery]]), 42 [[prefecture]]s, and 100 counties.[1](((YKnjMEesc)))[2][3]
     - In 669 the people of Goguryeo [revolted in response to Tang governance]. In response the Tang [forcibly deported] 78,000 households and [resettled them in empty areas](((oS8mkp0o5))) south of the Changjiang (Yangtze) and Huai River, each in contemporary China. [The weak and poor were left behind] and [assigned to guard duty] in service of the protectorate.[2](((l43vlTF6f)))
@@ -49,9 +50,15 @@ Jia Xun (742–755) 賈循
 Wang Xuanzhi (756–758) 王玄志
 Hou Xiyi (758–761) 侯希逸
     - ![andongduhufu-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fl7qBWvMEaa.png?alt=media&token=da68bbc7-10ac-42b3-9b23-90a94688f9b2)
-- Administrative area
+- Administrative area 区划
     - Administratively, it was intended to oversee nine commanderies, 42 prefectures (later reorganized into 14) and 100 counties.
 210502-17:13
+    - 军城
+    - 都督府
+        - 卫乐州都督府 -- 高句丽平壤城 -- 平壤直辖市
+            - 本烈州 -- 平安北道博川郡
+        - 居素州都督府 -- 贞州 -- 开城特别市平和里
+        - 去旦州都督府 -- 内米忽郡 -- 黄海南道海州市
 - References
     - [1]: [唐右将军魏哲神道碑](https://zh.wikisource.org/wiki/%E5%94%90%E5%8F%B3%E5%B0%86%E5%86%9B%E9%AD%8F%E5%93%B2%E7%A5%9E%E9%81%93%E7%A2%91)
     - [2]: 周绍良编《唐代墓志汇编》大历075条
@@ -68,3 +75,16 @@ In the second month of the third year of the Shangyuan era [676], the seat of An
     - Wang, Zhenping (2013), __Tang China in Multi-Polar Asia: A History of Diplomacy and War__, University of Hawaii Press
     - Xiong, Victor (2008), [__Historical Dictionary of Medieval China__], United States of America: Scarecrow Press, Inc., [ISBN](https://www.amazon.ca/Historical-Dictionary-Medieval-Victor-Cunrui/dp/0810860538/ref=sr_1_1?ie=UTF8&qid=1438312041&sr=8-1&keywords=historical+dictionary+of+medieval+china) [0810860538](https://en.wikipedia.org/wiki/Special:BookSources/0810860538)
     - Lee, K.-b. (1984). __A new history of Korea.__ Tr. by E.W. Wagner & E.J. Schulz, based on the Korean rev. ed. of 1979. Seoul: Ilchogak. [ISBN] [89-337-0204-0](https://en.wikipedia.org/wiki/Special:BookSources/89-337-0204-0)
+- 另见
+    - 东夷都护府
+单于都护府
+安北都护府（燕然都护府、瀚海都护府）
+安西都护府
+北庭都护府
+安南都护府
+保宁都护府
+    - 鸡林州都督府
+熊津都督府
+黑水都督府
+安东都督府
+- 分类：唐朝都护府 高句丽 原中国属国 中国历代边境地区

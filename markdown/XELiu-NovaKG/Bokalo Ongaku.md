@@ -3,5 +3,9 @@
     - [[DECO*27]]
     - [[コウ (Diarays)]]
     - [[doriko]]
+    - [[MazoP]]
+    - [[メル (mer)]]
+    - [[みきとP (mikitoP)]]
+    - [[のぼる↑ (noboruP)]]
 - [[VOCALOID]]
     - [[巡音ルカ (Megurine Luka)]];
