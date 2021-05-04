@@ -103722,6 +103722,28 @@
         }
       },
       {
+        "string": "[[罗唐战争]]",
+        "create-time": 1620085056627,
+        ":block/refs": [
+          {
+            ":block/uid": "5tlFPZW5Q"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "5tlFPZW5Q"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "nWWeM9rD2",
+        "edit-time": 1620085058646,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[统一新罗]]",
         "refs": [
           {
@@ -104067,9 +104089,19 @@
             }
           },
           {
-            "string": "大祚荣",
+            "string": "[[大祚荣]]",
+            "refs": [
+              {
+                "uid": "1kwkg4ngY"
+              }
+            ],
             "uid": "aih18m67s",
-            "edit-time": 1619870145527,
+            "edit-time": 1620084906362,
+            ":block/refs": [
+              {
+                ":block/uid": "1kwkg4ngY"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -104572,6 +104604,18 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "698年, 契丹占据营州",
+        "create-time": 1620088714526,
+        "uid": "-q1lHYHU0",
+        "edit-time": 1620088719633,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "iRyh4uT1r",
@@ -104764,6 +104808,40 @@
     },
     "children": [
       {
+        "string": "[[安东都督府 (Andong Dudufu)]]",
+        "create-time": 1620088663223,
+        ":block/refs": [
+          {
+            ":block/uid": "Qj9aOBxr9"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Qj9aOBxr9"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "fg4dZFfKm",
+        "edit-time": 1620088671900,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1620088671892,
+        "uid": "QmYn_gflz",
+        "edit-time": 1620088673967,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[The Protectorate-General to Pacify the East] (simplified Chinese: 安东都护府; traditional Chinese: 安東都護府; pinyin: Āndōng Dūhùfǔ) was a [[protectorate]] [established by the Tang dynasty] in the northeast after [defeating the kingdom] of [[高句丽 (Goguryeo)]]. In the place of [[百济 (Baekje)]] and Goguryeo, the Tang created the Protectorate General to Pacify the East, [Ungjin Commandery]([[熊津都督府 (Xiongjin Dudufu)]]) and [Gyerim Territory Area Command]([[鷄林州都督府 (jilinzhou dudufu)]]).\n210501-22:21",
         "create-time": 1619878606450,
         ":block/refs": [
@@ -104913,26 +104991,32 @@
             }
           },
           {
-            "edit-time": 1619884600782,
+            "edit-time": 1620084656811,
             "children": [
               {
-                "string": "By 676 the Tang were [forced to retreat] and [relocate the protectorate seat to] the [more easily defendable city] of [[辽阳 (Liaoyang)]].[6][3][7]",
+                "string": "By 676 the Tang were [forced to retreat] and [relocate the protectorate seat to] the [more easily defendable city] of [[辽阳 (Liaoyang)]].[6](((m02316t0p)))[3][7]",
                 "create-time": 1619884223503,
                 ":block/refs": [
                   {
                     ":block/uid": "CBmsquwjc"
+                  },
+                  {
+                    ":block/uid": "m02316t0p"
                   }
                 ],
                 "refs": [
                   {
                     "uid": "CBmsquwjc"
+                  },
+                  {
+                    "uid": "m02316t0p"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "6WQpvptnE",
-                "edit-time": 1619884492403,
+                "edit-time": 1620084631635,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -104960,14 +105044,29 @@
                 }
               },
               {
-                "string": "In 667 the deposed [[寶藏王 (Bojang of Goguryeo)]] was designated \"Liaodong Commander King of Joseon\" (Korean: 요동주도독 조선왕; Hanja: 遼東州都督朝鮮王). Upon arriving in Liaodong, he plotted with the Mohe people to [revive Goguryeo](((GZW_DaPHH))). News of his intentions reached the Tang, and Bojang was [banished to southwestern China] in 681.[8]\n210502-01:07",
-                "create-time": 1619888652692,
-                ":block/refs": [
+                "edit-time": 1619888940090,
+                "children": [
                   {
-                    ":block/uid": "6Ps5DLQrs"
-                  },
-                  {
-                    ":block/uid": "GZW_DaPHH"
+                    "string": "唐高宗总章元年（668年）九月，唐朝攻下高句丽后，唐朝[无法管制][高句丽故地]。于676年任命宝藏王“辽东州都督朝鲜王”让他管理[辽东州都督府]。不过宝藏王却联合原[高句丽北疆][境外的附属国]——[粟末靺鞨]人[[大祚荣]]复兴高句丽。681年，宝藏王[被流放剑南道]，682年去世。",
+                    "create-time": 1620084837130,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "1kwkg4ngY"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "1kwkg4ngY"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "_tGpUDQJf",
+                    "edit-time": 1620084923762,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
                   }
                 ],
                 "refs": [
@@ -104978,11 +105077,60 @@
                     "uid": "GZW_DaPHH"
                   }
                 ],
+                "uid": "MOTT9XDA1",
+                ":block/refs": [
+                  {
+                    ":block/uid": "6Ps5DLQrs"
+                  },
+                  {
+                    ":block/uid": "GZW_DaPHH"
+                  }
+                ],
+                "string": "In 667 the deposed [[寶藏王 (Bojang of Goguryeo)]] was designated \"Liaodong Commander King of Joseon\" (Korean: 요동주도독 조선왕; Hanja: 遼東州都督朝鮮王). Upon arriving in Liaodong, he plotted with the Mohe people to [revive Goguryeo](((GZW_DaPHH))). News of his intentions reached the Tang, and Bojang was [banished to southwestern China] in 681.[8]\n210502-01:07",
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "MOTT9XDA1",
-                "edit-time": 1619888940090,
+                "create-time": 1619888652692,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "置安东都护府于平壤城。[辖区最大至][鸭绿江下游两岸]及[辽河以东地区]。不过由于[[罗唐战争]]期间[新罗的不断蚕食]，放弃[大同江以南][高句丽旧地]，676年[都护府驻地]迁移到辽东城（今辽阳），698年因[契丹占据营州](((-q1lHYHU0)))、大祚荣[建立靺鞨国]致安东都护府[被废止并合并到][[安东都督府 (Andong Dudufu)]]。由高句丽宝藏王的三子高德武[担任安东都督]。705年，大祚荣[接受唐朝招安](((2CVNf43Wz)))，唐朝再设安东都护府。安史之乱爆发后，安东都护府遂于761年废除。",
+                "create-time": 1620084984877,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5tlFPZW5Q"
+                  },
+                  {
+                    ":block/uid": "Qj9aOBxr9"
+                  },
+                  {
+                    ":block/uid": "-q1lHYHU0"
+                  },
+                  {
+                    ":block/uid": "2CVNf43Wz"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5tlFPZW5Q"
+                  },
+                  {
+                    "uid": "Qj9aOBxr9"
+                  },
+                  {
+                    "uid": "-q1lHYHU0"
+                  },
+                  {
+                    "uid": "2CVNf43Wz"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ebbC9PoTF",
+                "edit-time": 1620088866809,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -105010,7 +105158,7 @@
                 }
               },
               {
-                "string": "In 736, the Tang formally recognized Silla's control of Korea south of the [[大同江 (Taedong River)]].[8] In 743, the seat was moved to [the Old City of Liaoxi], possibly [Ying Prefecture]([[营州 (Yingzhou)]]) (modern Chaoyang, Liaoning).[9][8][3]",
+                "string": "In 736, the Tang formally recognized Silla's control of Korea south of the [[大同江 (Taedong River)]].[8] In 743, the seat was moved to [the Old City of Liaoxi], possibly [Ying Prefecture]([[营州 (Yingzhou)]]) (modern Chaoyang, Liaoning).[9](((Aim-OK3hJ)))[8][3]",
                 "create-time": 1619888654902,
                 ":block/refs": [
                   {
@@ -105018,6 +105166,9 @@
                   },
                   {
                     ":block/uid": "rwD1wML3K"
+                  },
+                  {
+                    ":block/uid": "Aim-OK3hJ"
                   }
                 ],
                 "refs": [
@@ -105026,13 +105177,16 @@
                   },
                   {
                     "uid": "rwD1wML3K"
+                  },
+                  {
+                    "uid": "Aim-OK3hJ"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "Eu9w-Qg1U",
-                "edit-time": 1619894169623,
+                "edit-time": 1620084716259,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -105059,6 +105213,9 @@
               },
               {
                 "uid": "Zp_LcXdtH"
+              },
+              {
+                "uid": "vQi4fFjZD"
               }
             ],
             "uid": "R_HAa5gbB",
@@ -105071,9 +105228,12 @@
               },
               {
                 ":block/uid": "Zp_LcXdtH"
+              },
+              {
+                ":block/uid": "vQi4fFjZD"
               }
             ],
-            "string": "In 675 the Tang attacked Silla and defeated them in [[京畿道 (Gyeonggi)]]. In response [[文武王 (Munmu of Silla)]] [dispatched a tributary mission to] Tang with apologies. [[唐高宗 (Tang Gaozong)]] accepted Munmu's apologies and [withdrew Tang troops] to [deal with the Tibetan threat in the west]. Seeing the Tang's [strategic weakness], Silla [renewed the advance on] Tang territory.[5]\n210501-23:55",
+            "string": "In 675 the Tang attacked Silla and defeated them in [[京畿道 (Gyeonggi)]]. In response [[文武王 (Munmu of Silla)]] [dispatched a tributary mission to] Tang with apologies. [[唐高宗 (Tang Gaozong)]] accepted Munmu's apologies and [withdrew Tang troops] to [deal with the Tibetan threat in the west]. Seeing the Tang's [strategic weakness], Silla [renewed the advance on] Tang territory.[5](((vQi4fFjZD)))\n210501-23:55",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -105169,6 +105329,42 @@
         ],
         "uid": "eM8jSgrO3",
         "edit-time": 1619878894185,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "高句丽[末代王孙][安东都护]高震",
+        "create-time": 1620088946119,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[献书待制]杨憼撰“唐[开府仪同三司][工部尚书]特进[右金吾卫大将军]安东都护[郯国公][上柱国]高公墓志序”有云：　　\n[大历八年]夏五月廿有七日，右金吾卫大将军[安东都护公][毙于]洛阳教业里之[私第]，春秋七十三。前年四月十二日，郯国夫人[真定侯氏]先毙于[博陵郡]，……礼也。[公讳震]([[高震 (Gao Zheng)]])，字某渤海人。祖藏，开府仪同三司工部尚书[朝鲜郡王][柳城郡开国公]；祢讳连，云麾将军、右豹韬大将军安东都护。^^公迺扶余贵种，辰韩令族^^，怀化启土，继代称王，嗣为国宾，食邑千室。”[2]",
+            "create-time": 1620088947591,
+            ":block/refs": [
+              {
+                ":block/uid": "3CztldvIJ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "3CztldvIJ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "61ui1X6E5",
+            "edit-time": 1620089142819,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "2SJCNp-iR",
+        "edit-time": 1620089026612,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -105473,6 +105669,42 @@
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
+          },
+          {
+            "string": "[5]: [Wang 2013](https://en.wikipedia.org/wiki/Protectorate_General_to_Pacify_the_East#CITEREFWang2013), p. 83-84.",
+            "create-time": 1620084642322,
+            "uid": "vQi4fFjZD",
+            "edit-time": 1620084645044,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[6]: [\"舊唐書\"](http://ctext.org/wiki.pl?if=gb&res=456206&searchu=%E9%81%BC%E8%A5%BF). __中國哲學書電子化計劃__. Retrieved 3 August 2017. [上元三年]二月，移[安東府]於[遼東郡故城]置。儀鳳二年，又移置於[新城]。\nIn the second month of the third year of the Shangyuan era [676], the seat of Andong was moved to [the Old City of Liaodong]. In the second year of the Yifeng era [677], it was move again, this time to Xincheng.",
+            "create-time": 1620084559528,
+            "uid": "m02316t0p",
+            "edit-time": 1620084607226,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[9]: \"舊唐書\". 中國哲學書電子化計劃. Retrieved 3 August 2017. 開元二年，移安東都護於[平州]置。天寶二年，移於[遼西故郡城]置。In the second year of the Kaiyuan era [714], the Andong Protectorate was moved to Ping Prefecture. In the second year of the Tianbao era [743], __it was moved to [the old commandery seat of Liaoxi].__",
+            "create-time": 1620084676466,
+            "uid": "Aim-OK3hJ",
+            "edit-time": 1620084701565,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "dCaaKxTKq",
@@ -105505,6 +105737,18 @@
             "create-time": 1619947434578,
             "uid": "MEcZqGN_y",
             "edit-time": 1619947455830,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Lee, K.-b. (1984). __A new history of Korea.__ Tr. by E.W. Wagner & E.J. Schulz, based on the Korean rev. ed. of 1979. Seoul: Ilchogak. [ISBN] [89-337-0204-0](https://en.wikipedia.org/wiki/Special:BookSources/89-337-0204-0)",
+            "create-time": 1620084734491,
+            "uid": "2iqf1wP8F",
+            "edit-time": 1620084743943,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -108201,6 +108445,80 @@
     "title": "drink",
     "uid": "_BnJfv6j-",
     "edit-time": 1620041841713,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620084873600,
+    "title": "大祚荣",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "705年，大祚荣接受唐朝招安",
+        "create-time": 1620088858026,
+        "uid": "2CVNf43Wz",
+        "edit-time": 1620088859392,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "1kwkg4ngY",
+    "edit-time": 1620084873601,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620085034370,
+    "title": "罗唐战争",
+    "uid": "5tlFPZW5Q",
+    "edit-time": 1620085034370,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620088644828,
+    "title": "安东都督府 (Andong Dudufu)",
+    "uid": "Qj9aOBxr9",
+    "edit-time": 1620088644829,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620089142821,
+    "title": "高震 (Gao Zheng)",
+    "uid": "3CztldvIJ",
+    "edit-time": 1620089142822,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620092583953,
+    "title": "May 4th, 2021",
+    "uid": "05-04-2021",
+    "edit-time": 1620092583954,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
