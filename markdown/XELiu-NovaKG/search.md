@@ -1,5 +1,5 @@
 - [[case-sensitive]]; [[case sensitive]]
-- filter; filtering
+- [[filter]]; filtering
     - pass the query filters
 - Information Retrieval (IR)
 - local search; desktop search

@@ -92,7 +92,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 0,
+      :order 2,
       :content-id "N5lel-tnd"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -100,7 +100,7 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 1,
+      :order 3,
       :content-id "rw6U8VHY-"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -108,7 +108,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 2,
+      :order 4,
       :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -116,11 +116,11 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 3,
+      :order 5,
       :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :rtl? false}
-   536974308]
+   536974513]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
@@ -47440,9 +47440,11 @@
   [20098 :block/order 1 536955471]
   [20098 :block/page 20096 536955472]
   [20098 :block/parents 20096 536955472]
-  [20098 :block/string "filter; filtering" 536955471]
+  [20098 :block/refs 24567 536974516]
+  [20098 :block/string "[[filter]]; filtering" 536974515]
   [20098 :block/uid "-RW4-xJnA" 536955471]
-  [20098 :edit/time 1618792580033 536955471]
+  [20098 :edit/seen-by 3 536974514]
+  [20098 :edit/time 1620237132503 536974515]
   [20098 :edit/user 3 536955471]
   [20099 :block/open true 536955471]
   [20099 :block/order 0 536955471]
@@ -55432,9 +55434,11 @@
   [20968 :edit/time 1619052662773 536958609]
   [20968 :edit/user 3 536958605]
   [20969 :block/children 20972 536958619]
+  [20969 :block/children 24541 536974369]
   [20969 :block/uid "8RHqB85Pr" 536958608]
   [20969 :create/time 1619052661903 536958608]
   [20969 :create/user 3 536958608]
+  [20969 :edit/seen-by 3 536974380]
   [20969 :edit/time 1619052661905 536958608]
   [20969 :edit/user 3 536958608]
   [20969 :node/title "molecular anthropology" 536958608]
@@ -76185,9 +76189,11 @@
   [23201 :create/user 3 536968486]
   [23201 :edit/time 1619447124806 536968624]
   [23201 :edit/user 3 536968486]
+  [23202 :block/children 24547 536974399]
   [23202 :block/uid "fukPCe2mA" 536968490]
   [23202 :create/time 1619445947671 536968490]
   [23202 :create/user 3 536968490]
+  [23202 :edit/seen-by 3 536974422]
   [23202 :edit/time 1619445947671 536968490]
   [23202 :edit/user 3 536968490]
   [23202 :node/title "SpaceSniffer" 536968490]
@@ -77171,6 +77177,7 @@
   [23302 :node/title "webpage" 536969018]
   [23304 :block/children 23305 536969021]
   [23304 :block/children 23306 536969021]
+  [23304 :block/children 24555 536974446]
   [23304 :block/open true 536969021]
   [23304 :block/order 3 536969031]
   [23304 :block/page 14954 536969022]
@@ -77187,10 +77194,11 @@
   [23305 :block/parents 23304 536969022]
   [23305 :block/string "desktop software" 536969021]
   [23305 :block/uid "L0japFjSX" 536969021]
+  [23305 :edit/seen-by 3 536974445]
   [23305 :edit/time 1619695087461 536969021]
   [23305 :edit/user 3 536969021]
   [23306 :block/open true 536969021]
-  [23306 :block/order 1 536969021]
+  [23306 :block/order 2 536974446]
   [23306 :block/page 14954 536969022]
   [23306 :block/parents 14954 536969022]
   [23306 :block/parents 23304 536969022]
@@ -78869,8 +78877,8 @@
   [23509 :version/id "0.8.5" 536969717]
   [23509
    :version/nonce
-   "uuid71a46cda-2427-4fec-9635-4474ceab9a26"
-   536974368]
+   "uuida9dc43d8-2921-4392-b127-1fd6b96f7066"
+   536974527]
   [23509
    :version/upgraded-nonce
    "uuid3e0db610-2368-4bba-a6c0-78075acb160c"
@@ -88862,4 +88870,340 @@
   [24540 :create/time 1620227804896 536974352]
   [24540 :create/user 3 536974352]
   [24540 :edit/time 1620227825321 536974362]
-  [24540 :edit/user 3 536974352]]}
+  [24540 :edit/user 3 536974352]
+  [24541 :block/children 24546 536974387]
+  [24541 :block/open true 536974369]
+  [24541 :block/order 1 536974369]
+  [24541 :block/page 20969 536974370]
+  [24541 :block/parents 20969 536974370]
+  [24541 :block/refs 14882 536974374]
+  [24541 :block/string "#inbox" 536974373]
+  [24541 :block/uid "b1d4hfjdq" 536974369]
+  [24541 :create/time 1620232813534 536974369]
+  [24541 :create/user 3 536974369]
+  [24541 :edit/seen-by 3 536974380]
+  [24541 :edit/time 1620232815214 536974373]
+  [24541 :edit/user 3 536974369]
+  [24543 :block/open true 536974377]
+  [24543 :block/order 0 536974382]
+  [24543 :block/page 20969 536974378]
+  [24543 :block/parents 20969 536974378]
+  [24543 :block/parents 24541 536974378]
+  [24543 :block/parents 24544 536974383]
+  [24543 :block/parents 24546 536974391]
+  [24543
+   :block/string
+   "辽宁汉族，有25%的C2e，4%的\"满蒙C2b\",三分之一的辽宁汉族不是O系。"
+   536974377]
+  [24543 :block/uid "yLXWFjEyX" 536974377]
+  [24543 :edit/seen-by 3 536974381]
+  [24543 :edit/time 1620232816142 536974377]
+  [24543 :edit/user 3 536974377]
+  [24544 :block/children 24543 536974382]
+  [24544 :block/children 24545 536974384]
+  [24544 :block/open true 536974377]
+  [24544 :block/order 0 536974390]
+  [24544 :block/page 20969 536974379]
+  [24544 :block/parents 20969 536974379]
+  [24544 :block/parents 24541 536974379]
+  [24544 :block/parents 24546 536974391]
+  [24544 :block/string "而且即便把所有的O看成一家，汉族也并没有你想的那么纯。" 536974377]
+  [24544 :block/uid "1fSvJunHn" 536974377]
+  [24544 :edit/seen-by 3 536974380]
+  [24544 :edit/time 1620232816142 536974377]
+  [24544 :edit/user 3 536974377]
+  [24545 :block/open true 536974384]
+  [24545 :block/order 1 536974384]
+  [24545 :block/page 20969 536974385]
+  [24545 :block/parents 20969 536974385]
+  [24545 :block/parents 24541 536974385]
+  [24545 :block/parents 24544 536974385]
+  [24545 :block/parents 24546 536974391]
+  [24545
+   :block/string
+   "如此看来，辽宁汉显然不如越南的“含O度”高，汉族不纯实锤了，汉族正统在越南！"
+   536974386]
+  [24545 :block/uid "LGeTjg12O" 536974384]
+  [24545 :create/time 1620232821269 536974384]
+  [24545 :create/user 3 536974384]
+  [24545 :edit/time 1620232821863 536974386]
+  [24545 :edit/user 3 536974384]
+  [24546 :block/children 24544 536974390]
+  [24546 :block/open false 536974398]
+  [24546 :block/order 0 536974387]
+  [24546 :block/page 20969 536974388]
+  [24546 :block/parents 20969 536974388]
+  [24546 :block/parents 24541 536974388]
+  [24546 :block/refs 18390 536974397]
+  [24546
+   :block/string
+   "根据[Y染色体单倍群]，南北汉的差异很大，反正没你想象的那么“纯”。南方的O1和北方的O2分家上万年，只不过都顶了个O的名头而已，比炎黄或者汉族的形成早多了，完全可以分成两个[独立的支系](https://www.zhihu.com/question/454436946/answer/1833911638)。 #pt8-99.99"
+   536974396]
+  [24546 :block/uid "wTQu_sF1k" 536974387]
+  [24546 :create/time 1620232834865 536974387]
+  [24546 :create/user 3 536974387]
+  [24546 :edit/time 1620233111672 536974396]
+  [24546 :edit/user 3 536974387]
+  [24547 :block/children 24548 536974406]
+  [24547 :block/heading 3 536974413]
+  [24547 :block/open false 536974526]
+  [24547 :block/order 0 536974399]
+  [24547 :block/page 23202 536974400]
+  [24547 :block/parents 23202 536974400]
+  [24547 :block/string "related articles" 536974405]
+  [24547 :block/uid "FyDr059sn" 536974399]
+  [24547 :create/time 1620236658270 536974399]
+  [24547 :create/user 3 536974399]
+  [24547 :edit/seen-by 3 536974422]
+  [24547 :edit/time 1620236665770 536974405]
+  [24547 :edit/user 3 536974399]
+  [24548 :block/children 24552 536974418]
+  [24548 :block/children 24553 536974418]
+  [24548 :block/heading 1 536974412]
+  [24548 :block/open true 536974403]
+  [24548 :block/order 0 536974406]
+  [24548 :block/page 23202 536974404]
+  [24548 :block/parents 23202 536974404]
+  [24548 :block/parents 24547 536974407]
+  [24548
+   :block/string
+   "SpaceSniffer : 电脑空间管理神器！极速删掉所有垃圾文件 [#Win](https://www.ifanr.com/app/786150)"
+   536974436]
+  [24548 :block/uid "_cXuMvCWo" 536974403]
+  [24548 :create/time 1620236665764 536974403]
+  [24548 :create/user 3 536974403]
+  [24548 :edit/seen-by 3 536974422]
+  [24548 :edit/time 1620236776588 536974436]
+  [24548 :edit/user 3 536974403]
+  [24551 :block/open true 536974418]
+  [24551 :block/order 0 536974424]
+  [24551 :block/page 23202 536974419]
+  [24551 :block/parents 23202 536974419]
+  [24551 :block/parents 24547 536974419]
+  [24551 :block/parents 24548 536974419]
+  [24551 :block/parents 24553 536974425]
+  [24551
+   :block/string
+   "再者硬盘用久了，里头的文件总是杂乱不堪，十分影响效率和心情；欲清理还需要一个一个文件夹查看，非常不便。"
+   536974418]
+  [24551 :block/uid "yRwlZq-c5" 536974418]
+  [24551 :edit/seen-by 3 536974423]
+  [24551 :edit/time 1620236707297 536974418]
+  [24551 :edit/user 3 536974418]
+  [24552 :block/children 24554 536974441]
+  [24552 :block/children 24559 536974470]
+  [24552 :block/open true 536974418]
+  [24552 :block/order 1 536974424]
+  [24552 :block/page 23202 536974420]
+  [24552 :block/parents 23202 536974420]
+  [24552 :block/parents 24547 536974420]
+  [24552 :block/parents 24548 536974420]
+  [24552
+   :block/string
+   "这时候就需要今天 [AppSo]（微信号 appsolution）推荐的这款神器——SpaceSniffer。 SpaceSniffer 是 Windows 上一款以**块状树**平铺直观展现**磁盘空间占用情况**的软件，使用简单，功能[直击痛点]，而且大小仅 1.58 MB。"
+   536974433]
+  [24552 :block/uid "sQvQculea" 536974418]
+  [24552 :edit/seen-by 3 536974430]
+  [24552 :edit/time 1620236760835 536974433]
+  [24552 :edit/user 3 536974418]
+  [24553 :block/children 24551 536974424]
+  [24553 :block/open true 536974418]
+  [24553 :block/order 0 536974418]
+  [24553 :block/page 23202 536974421]
+  [24553 :block/parents 23202 536974421]
+  [24553 :block/parents 24547 536974421]
+  [24553 :block/parents 24548 536974421]
+  [24553
+   :block/string
+   "虽说当前[机械硬盘]容量动辄 1 TB 以上，但对于影音、游戏、软件收藏爱好者来说，[磁盘条]总有「见红」的时候，更不用说[寸土寸金的][固态硬盘]了。"
+   536974429]
+  [24553 :block/uid "naDjnjlVn" 536974418]
+  [24553 :edit/seen-by 3 536974422]
+  [24553 :edit/time 1620236723855 536974429]
+  [24553 :edit/user 3 536974418]
+  [24554 :block/children 24556 536974457]
+  [24554 :block/open false 536974467]
+  [24554 :block/order 0 536974441]
+  [24554 :block/page 23202 536974440]
+  [24554 :block/parents 23202 536974440]
+  [24554 :block/parents 24547 536974440]
+  [24554 :block/parents 24548 536974440]
+  [24554 :block/parents 24552 536974442]
+  [24554 :block/refs 24555 536974451]
+  [24554
+   :block/string
+   "[由于是](((MfGFfL1pb)))**绿色软件**，下载解压后无需安装，点击 `SpaceSniffer.exe` 即可运行；可以看到除了[说明文档]之外，[软件本体]非常小，甚至不足 1 MB，毕竟这本身就是一款用来「节约空间」的软件。"
+   536974454]
+  [24554 :block/uid "www5gISWT" 536974439]
+  [24554 :create/time 1620236791238 536974439]
+  [24554 :create/user 3 536974439]
+  [24554 :edit/time 1620236864463 536974454]
+  [24554 :edit/user 3 536974439]
+  [24555 :block/open true 536974446]
+  [24555 :block/order 1 536974446]
+  [24555 :block/page 14954 536974447]
+  [24555 :block/parents 14954 536974447]
+  [24555 :block/parents 23304 536974447]
+  [24555 :block/string "portable version; green software" 536974448]
+  [24555 :block/uid "MfGFfL1pb" 536974446]
+  [24555 :create/time 1620236841840 536974446]
+  [24555 :create/user 3 536974446]
+  [24555 :edit/time 1620236842827 536974448]
+  [24555 :edit/user 3 536974446]
+  [24556 :block/open true 536974455]
+  [24556 :block/order 0 536974457]
+  [24556 :block/page 23202 536974456]
+  [24556 :block/parents 23202 536974456]
+  [24556 :block/parents 24547 536974456]
+  [24556 :block/parents 24548 536974456]
+  [24556 :block/parents 24552 536974456]
+  [24556 :block/parents 24554 536974458]
+  [24556
+   :block/props
+   {:image-size
+    {"https://s3.ifanr.com/wp-content/uploads/2017/02/2-8.jpg"
+     {:width 447, :height ##NaN}}}
+   536974466]
+  [24556
+   :block/string
+   "![SpaceSniffer-01](https://s3.ifanr.com/wp-content/uploads/2017/02/2-8.jpg)"
+   536974465]
+  [24556 :block/uid "iwXnRnH6e" 536974455]
+  [24556 :create/time 1620236883351 536974455]
+  [24556 :create/user 3 536974455]
+  [24556 :edit/time 1620236896852 536974465]
+  [24556 :edit/user 3 536974455]
+  [24558 :block/open true 536974470]
+  [24558 :block/order 0 536974475]
+  [24558 :block/page 23202 536974471]
+  [24558 :block/parents 23202 536974471]
+  [24558 :block/parents 24547 536974471]
+  [24558 :block/parents 24548 536974471]
+  [24558 :block/parents 24552 536974471]
+  [24558 :block/parents 24559 536974476]
+  [24558
+   :block/string
+   "点击「Start」后 SpaceSniffer [会以极快的速度][检索磁盘]，呈现出**简洁又华丽的[动态效果]**，有点儿黑客的感觉。"
+   536974481]
+  [24558 :block/uid "NANe9y8rs" 536974470]
+  [24558 :edit/seen-by 3 536974474]
+  [24558 :edit/time 1620236936552 536974481]
+  [24558 :edit/user 3 536974470]
+  [24559 :block/children 24558 536974475]
+  [24559 :block/children 24562 536974484]
+  [24559 :block/children 24566 536974494]
+  [24559 :block/children 24568 536974517]
+  [24559 :block/open true 536974470]
+  [24559 :block/order 1 536974470]
+  [24559 :block/page 23202 536974472]
+  [24559 :block/parents 23202 536974472]
+  [24559 :block/parents 24547 536974472]
+  [24559 :block/parents 24548 536974472]
+  [24559 :block/parents 24552 536974472]
+  [24559
+   :block/string
+   "运行后[弹出窗口]选择[需要分析的盘符]，此时你可以**点击选择某个盘符，或按住「ctrl」同时点选多个盘符，也可以点击「Path：」选择指定文件夹**。\n210506-01:47"
+   536974489]
+  [24559 :block/uid "YgTNQ-ugW" 536974470]
+  [24559 :edit/seen-by 3 536974473]
+  [24559 :edit/time 1620236957288 536974489]
+  [24559 :edit/user 3 536974470]
+  [24561 :block/open true 536974484]
+  [24561 :block/order 0 536974498]
+  [24561 :block/page 23202 536974485]
+  [24561 :block/parents 23202 536974485]
+  [24561 :block/parents 24547 536974485]
+  [24561 :block/parents 24548 536974485]
+  [24561 :block/parents 24552 536974485]
+  [24561 :block/parents 24559 536974485]
+  [24561 :block/parents 24562 536974499]
+  [24561
+   :block/string
+   "你可以很直观地一眼洞穿是哪些文件夹[占用了过大的磁盘空间]；你可能会发现某个「失踪」已久的文件夹原来还在，而某个软件的[临时文件]竟占用了那么大的空间！Σ(っ °Д °;)っ"
+   536974504]
+  [24561 :block/uid "gFRQ_BiaK" 536974484]
+  [24561 :edit/seen-by 3 536974491]
+  [24561 :edit/time 1620237064647 536974504]
+  [24561 :edit/user 3 536974484]
+  [24562 :block/children 24561 536974498]
+  [24562 :block/open true 536974484]
+  [24562 :block/order 1 536974484]
+  [24562 :block/page 23202 536974486]
+  [24562 :block/parents 23202 536974486]
+  [24562 :block/parents 24547 536974486]
+  [24562 :block/parents 24548 536974486]
+  [24562 :block/parents 24552 536974486]
+  [24562 :block/parents 24559 536974486]
+  [24562
+   :block/string
+   "[扫描完毕后][眼前呈现的]大大小小的块块就是**各个文件夹的空间占用情况**了；此时可能弹出日志报告窗口，原因在于某些文件夹[无访问权限]。"
+   536974502]
+  [24562 :block/uid "q1GpKyBHQ" 536974484]
+  [24562 :edit/seen-by 3 536974487]
+  [24562 :edit/time 1620237056207 536974502]
+  [24562 :edit/user 3 536974484]
+  [24563 :block/uid "05-06-2021" 536974490]
+  [24563 :create/time 1620236973567 536974490]
+  [24563 :create/user 3 536974490]
+  [24563 :edit/time 1620236973567 536974490]
+  [24563 :edit/user 3 536974490]
+  [24563 :log/id 1620236973566 536974490]
+  [24563 :node/title "May 6th, 2021" 536974490]
+  [24565 :block/open true 536974494]
+  [24565 :block/order 0 536974520]
+  [24565 :block/page 23202 536974495]
+  [24565 :block/parents 23202 536974495]
+  [24565 :block/parents 24547 536974495]
+  [24565 :block/parents 24548 536974495]
+  [24565 :block/parents 24552 536974495]
+  [24565 :block/parents 24559 536974495]
+  [24565 :block/parents 24566 536974521]
+  [24565 :block/refs 24567 536974512]
+  [24565
+   :block/string
+   "当然你也可以利用强大便捷的**「Filter」过滤器设定筛选条件**，比如设定「>50 mb」SpaceSniffer 会过滤掉 <=50 MB 的文件夹；设定「<3 months」可以找出 3 个月内的文件夹等；更多[筛选规则]可通过「help」→「filtering help」查看。 #filter"
+   536974511]
+  [24565 :block/uid "3-95Q_47D" 536974494]
+  [24565 :edit/seen-by 3 536974505]
+  [24565 :edit/time 1620237113338 536974511]
+  [24565 :edit/user 3 536974494]
+  [24566 :block/children 24565 536974520]
+  [24566 :block/open true 536974494]
+  [24566 :block/order 2 536974498]
+  [24566 :block/page 23202 536974496]
+  [24566 :block/parents 23202 536974496]
+  [24566 :block/parents 24547 536974496]
+  [24566 :block/parents 24548 536974496]
+  [24566 :block/parents 24552 536974496]
+  [24566 :block/parents 24559 536974496]
+  [24566
+   :block/string
+   "此时对于某些体积庞大的文件夹，你可以**点击显示下一级文件夹，一探究竟**，或者**调整总体显示精度**。"
+   536974494]
+  [24566 :block/uid "ECeHCGs1r" 536974494]
+  [24566 :edit/seen-by 3 536974497]
+  [24566 :edit/time 1620237037584 536974494]
+  [24566 :edit/user 3 536974494]
+  [24567 :block/uid "QxUJOVBZJ" 536974512]
+  [24567 :create/time 1620237113341 536974512]
+  [24567 :create/user 3 536974512]
+  [24567 :edit/time 1620237113342 536974512]
+  [24567 :edit/user 3 536974512]
+  [24567 :node/title "filter" 536974512]
+  [24568 :block/open true 536974517]
+  [24568 :block/order 3 536974520]
+  [24568 :block/page 23202 536974518]
+  [24568 :block/parents 23202 536974518]
+  [24568 :block/parents 24547 536974518]
+  [24568 :block/parents 24548 536974518]
+  [24568 :block/parents 24552 536974518]
+  [24568 :block/parents 24559 536974518]
+  [24568
+   :block/string
+   "SpaceSniffer 集成了**便捷的[右键菜单]**，你可以[右击某个文件夹]进行包括[直接删除]在内的[常用操作]。"
+   536974525]
+  [24568 :block/uid "-5_K7iH0P" 536974517]
+  [24568 :create/time 1620237151436 536974517]
+  [24568 :create/user 3 536974517]
+  [24568 :edit/time 1620237163011 536974525]
+  [24568 :edit/user 3 536974517]]}

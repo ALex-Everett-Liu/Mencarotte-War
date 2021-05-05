@@ -3,6 +3,7 @@
 - [[markup language]]; [[markup]]
 - online or offline; web or local...
     - desktop software
+    - portable version; green software
     - web-based application
 - [[source]]; [[resource]]
     - [[information source]]; information resource

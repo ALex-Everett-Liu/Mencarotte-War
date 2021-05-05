@@ -4696,6 +4696,18 @@
             }
           },
           {
+            "string": "portable version; green software",
+            "create-time": 1620236841840,
+            "uid": "MfGFfL1pb",
+            "edit-time": 1620236842827,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
             "string": "web-based application",
             "uid": "8BQWt3a-d",
             "edit-time": 1619695087461,
@@ -74036,7 +74048,12 @@
         }
       },
       {
-        "string": "filter; filtering",
+        "string": "[[filter]]; filtering",
+        "refs": [
+          {
+            "uid": "QxUJOVBZJ"
+          }
+        ],
         "children": [
           {
             "string": "pass the query filters",
@@ -74048,7 +74065,12 @@
           }
         ],
         "uid": "-RW4-xJnA",
-        "edit-time": 1618792580033,
+        "edit-time": 1620237132503,
+        ":block/refs": [
+          {
+            ":block/uid": "QxUJOVBZJ"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -82667,6 +82689,84 @@
         },
         "uid": "B35Z73uc4",
         "edit-time": 1619052679495,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "edit-time": 1620232815214,
+        "children": [
+          {
+            "edit-time": 1620233111672,
+            "children": [
+              {
+                "string": "而且即便把所有的O看成一家，汉族也并没有你想的那么纯。",
+                "children": [
+                  {
+                    "string": "辽宁汉族，有25%的C2e，4%的\"满蒙C2b\",三分之一的辽宁汉族不是O系。",
+                    "uid": "yLXWFjEyX",
+                    "edit-time": 1620232816142,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "如此看来，辽宁汉显然不如越南的“含O度”高，汉族不纯实锤了，汉族正统在越南！",
+                    "create-time": 1620232821269,
+                    "uid": "LGeTjg12O",
+                    "edit-time": 1620232821863,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "1fSvJunHn",
+                "edit-time": 1620232816142,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PdZWxhurI"
+              }
+            ],
+            "uid": "wTQu_sF1k",
+            ":block/refs": [
+              {
+                ":block/uid": "PdZWxhurI"
+              }
+            ],
+            "string": "根据[Y染色体单倍群]，南北汉的差异很大，反正没你想象的那么“纯”。南方的O1和北方的O2分家上万年，只不过都顶了个O的名头而已，比炎黄或者汉族的形成早多了，完全可以分成两个[独立的支系](https://www.zhihu.com/question/454436946/answer/1833911638)。 #pt8-99.99",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1620232834865,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "b1d4hfjdq",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1620232813534,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -99514,11 +99614,199 @@
   {
     "create-time": 1619445947671,
     "title": "SpaceSniffer",
-    "uid": "fukPCe2mA",
-    "edit-time": 1619445947671,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "related articles",
+        "create-time": 1620236658270,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "SpaceSniffer : 电脑空间管理神器！极速删掉所有垃圾文件 [#Win](https://www.ifanr.com/app/786150)",
+            "create-time": 1620236665764,
+            "heading": 1,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "虽说当前[机械硬盘]容量动辄 1 TB 以上，但对于影音、游戏、软件收藏爱好者来说，[磁盘条]总有「见红」的时候，更不用说[寸土寸金的][固态硬盘]了。",
+                "children": [
+                  {
+                    "string": "再者硬盘用久了，里头的文件总是杂乱不堪，十分影响效率和心情；欲清理还需要一个一个文件夹查看，非常不便。",
+                    "uid": "yRwlZq-c5",
+                    "edit-time": 1620236707297,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "naDjnjlVn",
+                "edit-time": 1620236723855,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "这时候就需要今天 [AppSo]（微信号 appsolution）推荐的这款神器——SpaceSniffer。 SpaceSniffer 是 Windows 上一款以**块状树**平铺直观展现**磁盘空间占用情况**的软件，使用简单，功能[直击痛点]，而且大小仅 1.58 MB。",
+                "children": [
+                  {
+                    "edit-time": 1620236864463,
+                    "children": [
+                      {
+                        "string": "![SpaceSniffer-01](https://s3.ifanr.com/wp-content/uploads/2017/02/2-8.jpg)",
+                        "props": {
+                          "image-size": {
+                            "https://s3.ifanr.com/wp-content/uploads/2017/02/2-8.jpg": {
+                              "width": 447,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1620236883351,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://s3.ifanr.com/wp-content/uploads/2017/02/2-8.jpg": {
+                              ":width": 447,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        "uid": "iwXnRnH6e",
+                        "edit-time": 1620236896852,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "MfGFfL1pb"
+                      }
+                    ],
+                    "uid": "www5gISWT",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "MfGFfL1pb"
+                      }
+                    ],
+                    "string": "[由于是](((MfGFfL1pb)))**绿色软件**，下载解压后无需安装，点击 `SpaceSniffer.exe` 即可运行；可以看到除了[说明文档]之外，[软件本体]非常小，甚至不足 1 MB，毕竟这本身就是一款用来「节约空间」的软件。",
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "create-time": 1620236791238,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "运行后[弹出窗口]选择[需要分析的盘符]，此时你可以**点击选择某个盘符，或按住「ctrl」同时点选多个盘符，也可以点击「Path：」选择指定文件夹**。\n210506-01:47",
+                    "children": [
+                      {
+                        "string": "点击「Start」后 SpaceSniffer [会以极快的速度][检索磁盘]，呈现出**简洁又华丽的[动态效果]**，有点儿黑客的感觉。",
+                        "uid": "NANe9y8rs",
+                        "edit-time": 1620236936552,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "[扫描完毕后][眼前呈现的]大大小小的块块就是**各个文件夹的空间占用情况**了；此时可能弹出日志报告窗口，原因在于某些文件夹[无访问权限]。",
+                        "children": [
+                          {
+                            "string": "你可以很直观地一眼洞穿是哪些文件夹[占用了过大的磁盘空间]；你可能会发现某个「失踪」已久的文件夹原来还在，而某个软件的[临时文件]竟占用了那么大的空间！Σ(っ °Д °;)っ",
+                            "uid": "gFRQ_BiaK",
+                            "edit-time": 1620237064647,
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "q1GpKyBHQ",
+                        "edit-time": 1620237056207,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "此时对于某些体积庞大的文件夹，你可以**点击显示下一级文件夹，一探究竟**，或者**调整总体显示精度**。",
+                        "children": [
+                          {
+                            "string": "当然你也可以利用强大便捷的**「Filter」过滤器设定筛选条件**，比如设定「>50 mb」SpaceSniffer 会过滤掉 <=50 MB 的文件夹；设定「<3 months」可以找出 3 个月内的文件夹等；更多[筛选规则]可通过「help」→「filtering help」查看。 #filter",
+                            "refs": [
+                              {
+                                "uid": "QxUJOVBZJ"
+                              }
+                            ],
+                            "uid": "3-95Q_47D",
+                            "edit-time": 1620237113338,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "QxUJOVBZJ"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                            }
+                          }
+                        ],
+                        "uid": "ECeHCGs1r",
+                        "edit-time": 1620237037584,
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      },
+                      {
+                        "string": "SpaceSniffer 集成了**便捷的[右键菜单]**，你可以[右击某个文件夹]进行包括[直接删除]在内的[常用操作]。",
+                        "create-time": 1620237151436,
+                        "uid": "-5_K7iH0P",
+                        "edit-time": 1620237163011,
+                        ":create/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                        }
+                      }
+                    ],
+                    "uid": "YgTNQ-ugW",
+                    "edit-time": 1620236957288,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "sQvQculea",
+                "edit-time": 1620236760835,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "_cXuMvCWo",
+            "edit-time": 1620236776588,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FyDr059sn",
+        "edit-time": 1620236665770,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "fukPCe2mA",
+    "edit-time": 1619445947671,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -110983,6 +111271,30 @@
     "title": "EagleGet",
     "uid": "WyW3KFLJm",
     "edit-time": 1620189925910,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620236973567,
+    "title": "May 6th, 2021",
+    "uid": "05-06-2021",
+    "edit-time": 1620236973567,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620237113341,
+    "title": "filter",
+    "uid": "QxUJOVBZJ",
+    "edit-time": 1620237113342,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
