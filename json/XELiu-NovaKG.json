@@ -784,7 +784,7 @@
         },
         "children": [
           {
-            "string": "{{[[calc]]: ((4096-2432))}}",
+            "string": "{{[[calc]]: ((4096-2562))}}",
             "create-time": 1619718628988,
             ":block/refs": [
               {
@@ -800,7 +800,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "YfYQzQsik",
-            "edit-time": 1620264483477,
+            "edit-time": 1620272809416,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -44440,9 +44440,65 @@
         }
       },
       {
-        "string": "television show",
+        "string": "[[television set]];",
+        "create-time": 1620267239850,
+        ":block/refs": [
+          {
+            ":block/uid": "tICQfjjNy"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "tICQfjjNy"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "mf6OIs-jM",
+        "edit-time": 1620267245423,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[television show]]; TV show",
+        "refs": [
+          {
+            "uid": "n5HVZoQq2"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[television series]]; TV series",
+            "create-time": 1620266992725,
+            ":block/refs": [
+              {
+                ":block/uid": "fwBq5AD9z"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "fwBq5AD9z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "y3AcN9nFz",
+            "edit-time": 1620266997589,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "sZOaol5Gu",
-        "edit-time": 1617959308063,
+        "edit-time": 1620267141896,
+        ":block/refs": [
+          {
+            ":block/uid": "n5HVZoQq2"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -44618,6 +44674,28 @@
     },
     "children": [
       {
+        "string": "[[broadcast]]",
+        "create-time": 1620267311041,
+        ":block/refs": [
+          {
+            ":block/uid": "X7LeRtO9T"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "X7LeRtO9T"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "pBEsAGqEN",
+        "edit-time": 1620267314340,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[conspiracy theory]]",
         "refs": [
           {
@@ -44705,6 +44783,28 @@
                 ":block/uid": "0MHKoIhdW"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "((y3AcN9nFz))",
+            "create-time": 1620267046288,
+            ":block/refs": [
+              {
+                ":block/uid": "y3AcN9nFz"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "y3AcN9nFz"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "9DbydC8BG",
+            "edit-time": 1620267047258,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -44956,7 +45056,7 @@
         }
       },
       {
-        "string": "[[streaming media]]; video site",
+        "string": "[[streaming media]]; streaming service; video site",
         "refs": [
           {
             "uid": "S8i61xz_2"
@@ -45029,7 +45129,7 @@
           }
         ],
         "uid": "2UlKLBLJs",
-        "edit-time": 1618747836095,
+        "edit-time": 1620267411267,
         ":block/refs": [
           {
             ":block/uid": "S8i61xz_2"
@@ -111317,6 +111417,286 @@
     "title": "calc",
     "uid": "_gxCU0M8W",
     "edit-time": 1620263568345,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620266997591,
+    "title": "television series",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1620265902507,
+        "children": [
+          {
+            "string": "Penny 是个被[美国社会][固化印象][具化]的人物，就像[丑矮挫的亚裔]一样，这样的[金发妹子](https://www.zhihu.com/question/22523260/answer/1845770820)一般就是[胸大无脑]，作业有人帮忙写，[被人欺负]有 Quarterback 叫人收拾，每天被多个party邀请，hook up 超级快。男友们有黑人，有运动员，甚至可能是[大麻贩子]，但绝不会是那种[踏实过日子]的男生（比如 Leonard）。在一起的时间绝对长不了，分手了也不会挽留，因为[伤心的时候][找个男生倾诉一下]立马就有 rebound sex（定义：分手后感到空虚，从而与任意一个[有丁丁的动物][填补暂时的欲望]），仅这一点就让[郭楠们]无法接受。表面上有 boundary（定义： you can date me, 但只能由我[决定我们的关系]），实际上就是用这种[模糊的挑逗][让男生掏腰包]。碰到个[肌肉男]那就是[不顾一切的倒贴]，碰到个 nerds 就各种[人形工具箱]，等等等。 #pt8-99.99",
+            "refs": [
+              {
+                "uid": "PdZWxhurI"
+              }
+            ],
+            "children": [
+              {
+                "string": "另外就是她们自己有着[极端二分法]的[处世态度]，所谓[对我好]就是[24小时短信轰炸]，不好就是24小时[没给我发短信]；爱我就是男性[频繁越界的肢体接触]，[矜持]就是[对我没兴趣]；所谓朋友就是[觉得还不错]但[外表有点恶心][不想上床]，Seeing 就是[感觉还不错]，[先来一炮][看看用户体验]。即使[谈了个渣男]，FB上哭一哭，发张单身的[艺术照]，立马就有苍蝇围上来了，分手的代价为零，甚至越分[越受欢迎]，[试想怎么可能]需要她们去[鉴别男生的好坏]呢，不高兴换一个就是了。这也就是为什么第一季里Penny原谅Kurt，把Leonard晾一边，虽然怎么用Bitch渣女形容都不过分，但是设身处地可以理解。（毕竟Kurt是Penny想得到的，而Leonard太丑[没有性吸引力]，完全不顾Kurt简直是[渣中极品]）",
+                "create-time": 1620266204828,
+                "uid": "ay_Vc1-ni",
+                "edit-time": 1620266285520,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "美剧的[乌托邦结局铁律]就是，[主角团][昂撒人]事业可以不是很成功，但[男女关系]必须到位；黑人成为[正义的流星]（无论死活）；[西裔]回墨西哥[抱孩子]；亚女、东欧女、印女如果[还留在主角团]就一定[跟白男缠绵]然后变成[海的女儿]；亚男、东欧男、印男，最好结局给个[开放式]，但大多数都嫁给了[五指姑娘]，如果给个[昂撒女][做对象]，导演会被杀全家。",
+                "create-time": 1620266414108,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "所以，Penny 这种 Homecoming Queen 再差也不会选[印度佬] Raj，就像Rachel[再落魄]也不会选[南意大利痞子]Joey，这是美国[昂撒白人]的[原则问题]，即使是Bitch也不能违背。（什么时候我们也能有[这种原则]呢，叹）",
+                    "create-time": 1620266485470,
+                    "uid": "W4yPUvxzc",
+                    "edit-time": 1620266508346,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "uid": "5AAdxtTHv",
+                "edit-time": 1620266454593,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Vqh9X_OqR",
+            "edit-time": 1620266831544,
+            ":block/refs": [
+              {
+                ":block/uid": "PdZWxhurI"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "PY_ulEhOV",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1620265900209,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "fwBq5AD9z",
+    "edit-time": 1620266997592,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620266999256,
+    "title": "television show",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "A television show – or simply TV show – is [any content produced for] [viewing on a television set]([[television set]]) which can be [broadcast via over-the-air], satellite, cable, - excluding [[breaking news]], [[advertisement]]s, or [[trailer]]s that are [typically placed between shows]. Television shows are most often [scheduled for broadcast well ahead of time] and appear on [electronic guides] or other [TV listings], but [streaming services]([[streaming media]]) often [make them available for viewing anytime]. The content in a television show can be produced with different methodologies such as taped variety shows emanating from a television studio stage, animation or a variety of film productions ranging from movies to series. Shows not produced on a television studio stage are usually contracted or licensed to be made by appropriate production companies. #broadcast\n210506-10:16",
+        "create-time": 1620267099367,
+        ":block/refs": [
+          {
+            ":block/uid": "kkhyLZipm"
+          },
+          {
+            ":block/uid": "S8i61xz_2"
+          },
+          {
+            ":block/uid": "0Wb2kPwUe"
+          },
+          {
+            ":block/uid": "BX-k5uYlM"
+          },
+          {
+            ":block/uid": "tICQfjjNy"
+          },
+          {
+            ":block/uid": "X7LeRtO9T"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kkhyLZipm"
+          },
+          {
+            "uid": "S8i61xz_2"
+          },
+          {
+            "uid": "0Wb2kPwUe"
+          },
+          {
+            "uid": "BX-k5uYlM"
+          },
+          {
+            "uid": "tICQfjjNy"
+          },
+          {
+            "uid": "X7LeRtO9T"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "rBgLaID2l",
+        "edit-time": 1620267427194,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Television shows can be viewed: live (real time); be recorded on home video; a digital video recorder for later viewing; be viewed on demand via a set-top box or streamed over the internet.",
+        "create-time": 1620267101099,
+        "uid": "hirQif7Fj",
+        "edit-time": 1620267108360,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "A television show is also called a television program ([[British English (BrE)]]: programme), especially if it lacks a narrative structure.\n\n",
+        "create-time": 1620267102204,
+        ":block/refs": [
+          {
+            ":block/uid": "97q9OZBQB"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "97q9OZBQB"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "LqXJNBvJ9",
+        "edit-time": 1620267131105,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "In the US and Canada, a television series is usually released in episodes that follow a narrative and are usually divided into seasons. In the UK, a television series, is a yearly or semiannual set of new episodes. (In effect, a \"series\" in the UK is the same as a \"season\" in the US and Canada.)\n\n",
+        "create-time": 1620267103186,
+        "uid": "BiRvzMbTR",
+        "edit-time": 1620267103186,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "With approximately three to six episodes, a serials can be inside of or a small collection of episodes. A small collection may also be called a limited/ mini-series. A one-off collection of episodes may be called a \"'TV special\"' or limited series. A motion picture (also known as a movie) for television is initially broadcast as such rather than direct-to-video or the traditional big screen.",
+        "create-time": 1620267096363,
+        "uid": "qbMERpr22",
+        "edit-time": 1620267103192,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "n5HVZoQq2",
+    "edit-time": 1620266999257,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620267131107,
+    "title": "British English (BrE)",
+    "uid": "97q9OZBQB",
+    "edit-time": 1620267131108,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620267205437,
+    "title": "breaking news",
+    "uid": "0Wb2kPwUe",
+    "edit-time": 1620267205438,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620267205437,
+    "title": "trailer",
+    "uid": "BX-k5uYlM",
+    "edit-time": 1620267205438,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620267227659,
+    "title": "television set",
+    "uid": "tICQfjjNy",
+    "edit-time": 1620267227660,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620267261326,
+    "title": "broadcast",
+    "uid": "X7LeRtO9T",
+    "edit-time": 1620267261328,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

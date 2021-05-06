@@ -1,6 +1,6 @@
 - [[video player]]
     - [[Pot Player]]
-- [[streaming media]]; video site
+- [[streaming media]]; streaming service; video site
     - [[bilibili]]
     - [[NicoNico]]; niconico
     - [[YouTube]]

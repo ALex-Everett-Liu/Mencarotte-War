@@ -1,3 +1,4 @@
+- [[broadcast]]
 - [[conspiracy theory]]
 - extended universe
 - [[mass media technology]]: 大众传媒技术
@@ -5,6 +6,7 @@
     - [[cinema]]
         - movie theater
         - Rear Window Captioning System (RWC)
+    - [[television series]]; TV series
     - [[theater]]; [[theatre]]
 - [[multi-media]]
 - [[news]]

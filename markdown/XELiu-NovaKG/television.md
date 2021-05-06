@@ -1,2 +1,4 @@
 - television screen
-- television show
+- [[television set]];
+- [[television show]]; TV show
+    - [[television series]]; TV series
