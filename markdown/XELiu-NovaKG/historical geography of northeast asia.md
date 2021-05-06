@@ -1,5 +1,6 @@
 - [[长白山]]; 白頭山; [[不咸山 (Buxian Mountain)]]; [[徒太山 (Tutai Mountain)]]
     - [[盖马大山 (Gaima Mountain)]]
+    - [[曷懒甸 (Helan Dian)]]
 - [[historical geography of korea]]
 - [[辽东 (Liaodong)]]; [[辽东半岛 (Liaodong Peninsula)]]
 - [[辽西 (Liaoxi)]]
