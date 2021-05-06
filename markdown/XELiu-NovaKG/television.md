@@ -2,3 +2,6 @@
 - [[television set]];
 - [[television show]]; TV show
     - [[television series]]; TV series
+        - season
+            - [[episode]]
+    - television studio;

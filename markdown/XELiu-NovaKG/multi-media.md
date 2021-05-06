@@ -7,3 +7,4 @@
 - screen recording
     - [[screenshot]]
 - [[video]]
+    - [[digital video recorder (DVR)]]

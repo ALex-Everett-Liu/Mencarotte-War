@@ -1,6 +1,7 @@
 - [[etymology]]
     - [[Old Chinese]]
 - foreign languages
+    - [[English]]
     - [[Korean]]
 - letter
     - [[alphabet]]

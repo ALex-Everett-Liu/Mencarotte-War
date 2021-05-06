@@ -4,10 +4,12 @@
 - [[mass media technology]]: 大众传媒技术
 - [[movie]]; movie industry
     - [[cinema]]
+        - big screen
         - movie theater
         - Rear Window Captioning System (RWC)
     - [[television series]]; TV series
     - [[theater]]; [[theatre]]
+    - [[trailer]]
 - [[multi-media]]
 - [[news]]
 - [[social media]]
