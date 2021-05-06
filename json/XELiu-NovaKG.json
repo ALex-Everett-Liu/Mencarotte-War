@@ -784,13 +784,23 @@
         },
         "children": [
           {
-            "string": "",
+            "string": "{{[[calc]]: ((4096-2432))}}",
             "create-time": 1619718628988,
-            "uid": "YfYQzQsik",
-            "edit-time": 1619868946683,
+            ":block/refs": [
+              {
+                ":block/uid": "_gxCU0M8W"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_gxCU0M8W"
+              }
+            ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
+            "uid": "YfYQzQsik",
+            "edit-time": 1620264483477,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -111295,6 +111305,18 @@
     "title": "filter",
     "uid": "QxUJOVBZJ",
     "edit-time": 1620237113342,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620263568343,
+    "title": "calc",
+    "uid": "_gxCU0M8W",
+    "edit-time": 1620263568345,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
