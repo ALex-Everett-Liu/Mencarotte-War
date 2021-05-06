@@ -3,10 +3,20 @@
 - foreign languages
     - [[English]]
     - [[Korean]]
+- general...
+    - term
+        - general term; generic term
+        - [[glossary]]
+        - technical term
+    - everyday language
+- [[input method (IME)]]
 - letter
     - [[alphabet]]
     - [[lexicographic relation]]: 词典关系
-- [[input method (IME)]]
+- [[linguistics]]
+- name
+    - [[first name]]
 - [[phonology]]
+- [[transcription]]; 转写
 - [[translation]]
 - [[vocabulary]]

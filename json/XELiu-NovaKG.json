@@ -784,7 +784,7 @@
         },
         "children": [
           {
-            "string": "mapped coordinate: (6147, {{[[calc]]: ((4096-2280))}})",
+            "string": "mapped coordinate: (6082, {{[[calc]]: ((4096-2312))}})",
             "create-time": 1619718628988,
             ":block/refs": [
               {
@@ -800,7 +800,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "YfYQzQsik",
-            "edit-time": 1620299621251,
+            "edit-time": 1620310758967,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -24837,6 +24837,90 @@
         }
       },
       {
+        "string": "general...",
+        "children": [
+          {
+            "string": "term",
+            "children": [
+              {
+                "string": "general term; generic term",
+                "uid": "iR5zIGD8I",
+                "edit-time": 1620315452454,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[glossary]]",
+                "refs": [
+                  {
+                    "uid": "y5iQ1LtLr"
+                  }
+                ],
+                "uid": "ixsqeE_vJ",
+                "edit-time": 1620315460377,
+                ":block/refs": [
+                  {
+                    ":block/uid": "y5iQ1LtLr"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "technical term",
+                "uid": "7NL4p4cNn",
+                "edit-time": 1620315452454,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "cieYB23ja",
+            "edit-time": 1620315452454,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "everyday language",
+            "uid": "2UcEGxYUL",
+            "edit-time": 1620315452454,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "QDFFMrqPj",
+        "edit-time": 1620315452454,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[input method (IME)]]",
+        "create-time": 1618799105817,
+        ":block/refs": [
+          {
+            ":block/uid": "muu3VLWvb"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "muu3VLWvb"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "FNoIRSEFC",
+        "edit-time": 1618799107890,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "letter",
         "children": [
           {
@@ -24887,23 +24971,51 @@
         }
       },
       {
-        "string": "[[input method (IME)]]",
-        "create-time": 1618799105817,
+        "string": "[[linguistics]]",
+        "create-time": 1620315477107,
         ":block/refs": [
           {
-            ":block/uid": "muu3VLWvb"
+            ":block/uid": "-X6Fn2ZN8"
           }
         ],
         "refs": [
           {
-            "uid": "muu3VLWvb"
+            "uid": "-X6Fn2ZN8"
           }
         ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "FNoIRSEFC",
-        "edit-time": 1618799107890,
+        "uid": "hY8KHj7lB",
+        "edit-time": 1620315478262,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "name",
+        "children": [
+          {
+            "string": "[[first name]]",
+            "refs": [
+              {
+                "uid": "visizKSgu"
+              }
+            ],
+            "uid": "wJoMqDxso",
+            "edit-time": 1620315487840,
+            ":block/refs": [
+              {
+                ":block/uid": "visizKSgu"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "A77pcsmtK",
+        "edit-time": 1620315485292,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -24920,6 +25032,24 @@
         ":block/refs": [
           {
             ":block/uid": "_6IpbJuc5"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[transcription]]; 转写",
+        "refs": [
+          {
+            "uid": "28B__8ge9"
+          }
+        ],
+        "uid": "AXL9lv5eF",
+        "edit-time": 1620315549841,
+        ":block/refs": [
+          {
+            ":block/uid": "28B__8ge9"
           }
         ],
         ":edit/user": {
@@ -30317,6 +30447,34 @@
       {
         "edit-time": 1618361994008,
         "children": [
+          {
+            "string": "{{[[TODO]]}} 实测丨20款[主流贷款产品](https://bbs.saraba1st.com/2b/thread-2002555-2-1.html)集体“卸妆”：花呗借呗们的[真实利率]究竟是多少？ #pt10-99.98",
+            "create-time": 1620308782572,
+            ":block/refs": [
+              {
+                ":block/uid": "cgyryTwl0"
+              },
+              {
+                ":block/uid": "sw8Ik_kjN"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cgyryTwl0"
+              },
+              {
+                "uid": "sw8Ik_kjN"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ISkxYzKhN",
+            "edit-time": 1620308814046,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "背景知识：如果你没有个好爹或者好干爹，那么[参加这种实习]几乎是唯一的[进大投行]的路。[校招](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1998811&extra=page%3D1%26filter%3Dtypeid%26typeid%3D139&page=3)几乎没啥可能。 #pt8-99.99",
             "create-time": 1618361994000,
@@ -55772,6 +55930,80 @@
         }
       },
       {
+        "string": "pronunciation",
+        "children": [
+          {
+            "string": "[[IPA]]",
+            "refs": [
+              {
+                "uid": "GIwrBa_TI"
+              }
+            ],
+            "uid": "nvKAS1AKo",
+            "edit-time": 1620315523574,
+            ":block/refs": [
+              {
+                ":block/uid": "GIwrBa_TI"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "romanization",
+            "children": [
+              {
+                "string": "[[pinyin]]",
+                "refs": [
+                  {
+                    "uid": "cwWKMNICP"
+                  }
+                ],
+                "uid": "Hqa_lKJDR",
+                "edit-time": 1620315527349,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cwWKMNICP"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[[Wade–Giles]]",
+                "refs": [
+                  {
+                    "uid": "b7-7Al72K"
+                  }
+                ],
+                "uid": "2F32WB9ql",
+                "edit-time": 1620315525977,
+                ":block/refs": [
+                  {
+                    ":block/uid": "b7-7Al72K"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "3eQdPvjbs",
+            "edit-time": 1620315499971,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "BLsT3h0T2",
+        "edit-time": 1620315499971,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "edit-time": 1618398053286,
         "children": [
           {
@@ -80916,6 +81148,28 @@
     },
     "children": [
       {
+        "string": "[[东女真 (East Jurchen)]]",
+        "create-time": 1620316029013,
+        ":block/refs": [
+          {
+            ":block/uid": "p4HiGzz8G"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "p4HiGzz8G"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "seAv61lMt",
+        "edit-time": 1620316031240,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[[吉林通志]]",
         "refs": [
           {
@@ -80947,6 +81201,28 @@
             ":block/uid": "TJ9CcVWpK"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[生女真 (Sheng Nvzhen)]]",
+        "create-time": 1620315917740,
+        ":block/refs": [
+          {
+            ":block/uid": "eHjrD31ey"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "eHjrD31ey"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "fGBzjmGqH",
+        "edit-time": 1620315919436,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -84921,6 +85197,90 @@
       {
         "edit-time": 1619847266246,
         "children": [
+          {
+            "edit-time": 1620308269997,
+            "children": [
+              {
+                "string": "要求国区的每个游戏都必须要有中文的，你们的最好的国区[其实在这里](https://store.steamchina.com/)",
+                "create-time": 1620307467726,
+                "uid": "Q8UONpyO1",
+                "edit-time": 1620307481071,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "现在[非大厂][生存环境堪忧]，很多游戏本身明明[有很多闪光点]，本来还有可能在[后续更新]或者[续作]加入更多语言选项，现在直接被一波海量差评冲没了，搞到最后连对语言没需求的都没得玩\n即使很多游戏[后期加了中文]大部分人也[不会把差评改回去]的，所以你说差评和出中文到底有个**关系啊",
+                "create-time": 1620307808003,
+                "uid": "rdLs9sqm8",
+                "edit-time": 1620307836397,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "你或许也不能理解那些指责《指环王》枯燥，无聊的人。\n实际上我们的社会[发展太快了]，一波又一波的新人见识到了在过去十几二十年里只有[家境较为殷实]的人[才得以享受的][文娱产品]。他们并没有[较高的鉴赏水平]，也并不了解[圈内约定俗成的]所谓规矩，只有朴素的[消费要求]。",
+                "create-time": 1620307969925,
+                "uid": "vlzXCXTbK",
+                "edit-time": 1620307998277,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "[十字军之王2][本体免费]时，某位[FM玩家意见领袖][带人冲了一波差评] (^^常有晴这人太tm恶心了，诅咒他死一户口本^^)",
+                "create-time": 1620308120480,
+                "uid": "a_tSGaNvt",
+                "edit-time": 1620308283568,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "nerugigannte sbnmsl",
+                "create-time": 1620307599208,
+                "uid": "0u4SzcHmy",
+                "edit-time": 1620307603375,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S41onlg92"
+              }
+            ],
+            "uid": "psyOdFRBA",
+            ":block/refs": [
+              {
+                ":block/uid": "S41onlg92"
+              }
+            ],
+            "string": "没办法管那些人，steam 的[好评率]一但掉到60%以下，基本就[无人问津]了，对无法做到[大规模宣传]的[小制作游戏]、独立游戏来说[基本宣布死亡]\n特别是还有[叫嚣](https://bbs.saraba1st.com/2b/thread-2002643-5-1.html)不给中文就是[歧视国区]歧视国人的怪物，已经是无法交流那种了。 #pt9-100",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1620307358995,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "[gatoanavel](https://bbs.saraba1st.com/2b/home.php?mod=space&uid=529231&do=thread&view=me&from=space&type=reply) #pt8-99.99",
             "create-time": 1619847266237,
@@ -110378,6 +110738,34 @@
         }
       },
       {
+        "string": "{{[[TODO]]}} 烤冷面 #pt10-100",
+        "create-time": 1620312753516,
+        ":block/refs": [
+          {
+            ":block/uid": "cgyryTwl0"
+          },
+          {
+            ":block/uid": "Kp4t9aQO7"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "cgyryTwl0"
+          },
+          {
+            "uid": "Kp4t9aQO7"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "KInhZC2L7",
+        "edit-time": 1620312763035,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "酸辣粉 #pt8-99.99",
         "create-time": 1620041627393,
         ":block/refs": [
@@ -112098,25 +112486,145 @@
     },
     "children": [
       {
-        "string": "曷懒甸位于今天朝鲜咸镜南道咸兴市一带。是满族人祖先居住地之一。是10世纪开始存在于东北亚的古地名，金朝及金后的东夏国时期被称为曷懒路，为没有编入辽国国籍的生女真人的故地，[1]",
+        "string": "曷懒甸位于今天朝鲜[咸镜南道][咸兴市][一带]。是[满族人祖先][居住地]之一。是10世纪开始存在于东北亚的[古地名]，金朝及金后的[东夏国]时期被称为[[曷懒路]]，为没有[编入辽国国籍]的[生女真]人的[故地][1]",
         "create-time": 1620297385473,
-        "uid": "xi09g5mxj",
-        "edit-time": 1620297389924,
+        ":block/refs": [
+          {
+            ":block/uid": "B1V4ydOIt"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "B1V4ydOIt"
+          }
+        ],
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "uid": "xi09g5mxj",
+        "edit-time": 1620315687675,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
       },
       {
-        "string": "从1019年，第3次契丹（辽）侵入高丽后作为进攻和控制朝鲜半岛的军事重镇理应被辽国控制，起附近存在众多的女真部落，南部与高丽国为临近。“遣石适欢以星显(今布尔哈通河)、统门(今图们江)之兵往至乙离骨岭，益募兵趋活涅水(今朝鲜洪原附近)，徇地曷懒甸，收叛亡七城。”完颜部统一了女真后，迅速与曷懒甸一带的生女真达成联盟，高丽国“恐近于己而不利也，使人邀止之。”并进而引发了女真和高丽争夺曷懒甸的战争。",
-        "create-time": 1620297382109,
-        "uid": "G6t2l1ypx",
-        "edit-time": 1620297385478,
+        "string": "曷懒甸之战",
+        "create-time": 1620315973397,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
+        "children": [
+          {
+            "string": "从1019年，第3次契丹（辽）[侵入高丽]后作为进攻和控制朝鲜半岛的[军事重镇]理应[被辽国控制]，起附近存在众多的[女真部落]，南部与高丽国为临近。“遣[石适欢]以[星显] (今布尔哈通河)、统门 (今图们江)之兵[往至][乙离骨岭]，[益募兵]趋[活涅水] (今朝鲜洪原附近)，徇地曷懒甸，收叛亡七城。” 完颜部[统一了女真后]，迅速与曷懒甸一带的[[生女真 (Sheng Nvzhen)]]达成联盟，高丽国“恐近于己[而不利也]，使人邀止之。” [并进而引发了]女真和高丽[争夺曷懒甸]的战争。\n210506-23:45",
+            "create-time": 1620297382109,
+            ":block/refs": [
+              {
+                ":block/uid": "eHjrD31ey"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "eHjrD31ey"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "G6t2l1ypx",
+            "edit-time": 1620315952657,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "背景",
+            "create-time": 1620315984826,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "高丽东北部的曷懒甸地区的一些[女真部落][曾经为高丽的臣属]，并与高丽[有密切的贸易往来]。由于这些女真部落位于高丽东北部而称为“[[东女真 (East Jurchen)]]”或“东北女真”。[2] 据《高丽史·定宗世家》载：“三年(948年)九月，东女真[大匡][苏无盖]等[来献马]七百匹及[方物]，”(卷2) 女真[氏族首领]也[接受高丽授予的官职]；武职有将军、宁塞将军、归德将军、柔远将军、怀化将军等; 文职有大相、大匡、元甫、正甫、大丞等。[2] 完颜部统一了女真后，女真变得强大。而高丽长久以来一直觊觎北方拓殖领土，战争一触即发。",
+                "create-time": 1620315985350,
+                ":block/refs": [
+                  {
+                    ":block/uid": "p4HiGzz8G"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "p4HiGzz8G"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "MD7DC2n6E",
+                "edit-time": 1620316076561,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "B-5rcE4fq",
+            "edit-time": 1620315985357,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "高丽和女真的边界纠纷",
+            "create-time": 1620316098655,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "[完颜部]女真部落兴起后，以完颜部为核心的[女真部落联盟]要统一曷懒甸的女真部落，“曷懒甸诸部[尽欲来附]”，这是民族发展中[由分散变为一体]的[趋同运动]。对此，高丽不安，“恐近于己而不利也，使人邀止之”，高丽则要向曷懒甸“拓土开边” ，双方的冲突[势难避免]。",
+                "create-time": 1620316114648,
+                "uid": "nT7D7_3Ia",
+                "edit-time": 1620316144747,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "1104年二月，高丽将领林干等率兵由定州出关侵入曷懒甸，当即遭到女真军的痛击，由于高丽契丹战争后东北亚近百年的和平，高丽那时没有一支强大的军队。林干等战败，损兵折将，不过在尹瓘的游说之下，女真后来休战。\n\n",
+                "create-time": 1620316115771,
+                "uid": "5TQMz8DL6",
+                "edit-time": 1620316115771,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "后高丽改派尹瓘为‘东北面行营都统’，再次率兵入侵曷懒甸，同样遭到女真军的顽强抗击。高丽军“ 陷没死伤者过半，势不能振，遂卑辞讲和，结盟而还”。",
+                "create-time": 1620316102450,
+                "uid": "gxMPTwoK3",
+                "edit-time": 1620316115777,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "GoLAXjVHH",
+            "edit-time": 1620316102455,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "PHfHf63lk",
+        "edit-time": 1620315974571,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -112129,7 +112637,7 @@
         },
         "children": [
           {
-            "string": "历史学家，考古学家[[金毓黻]]先生主张“[[靺鞨 (Mohe)]]，当亦为[[沃沮 (Okjeo)]]、[[勿吉 (Wuji)]]之[音转]”，认为朝鲜半岛北部的沃沮即勿吉，又分[[北沃沮 (North Okjeo)]](黑水等部)、[[东沃沮 (East Okjeo)]]（白山等部），东女真当即古代东沃沮的后裔。此指东女真即曷懒甸女真，为唐以前沃沮的后裔。\n210506-18:38",
+            "string": "历史学家，考古学家[[金毓黻]]先生主张“[[靺鞨 (Mohe)]]，当亦为[[沃沮 (Okjeo)]]、[[勿吉 (Wuji)]]之[音转](((T1Ez9oE5J)))”，认为朝鲜半岛北部的沃沮即勿吉，又分[[北沃沮 (North Okjeo)]](黑水等部)、[[东沃沮 (East Okjeo)]]（白山等部），东女真当即古代东沃沮的后裔。此指东女真即曷懒甸女真，为唐以前沃沮的后裔。\n210506-18:38",
             "create-time": 1620297396244,
             ":block/refs": [
               {
@@ -112149,6 +112657,9 @@
               },
               {
                 ":block/uid": "3f9yCCpB9"
+              },
+              {
+                ":block/uid": "T1Ez9oE5J"
               }
             ],
             "refs": [
@@ -112169,13 +112680,16 @@
               },
               {
                 "uid": "3f9yCCpB9"
+              },
+              {
+                "uid": "T1Ez9oE5J"
               }
             ],
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "38WRaFcvY",
-            "edit-time": 1620297588996,
+            "edit-time": 1620315574105,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -112199,6 +112713,144 @@
     "title": "东沃沮 (East Okjeo)",
     "uid": "3f9yCCpB9",
     "edit-time": 1620297571080,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315460381,
+    "title": "glossary",
+    "uid": "y5iQ1LtLr",
+    "edit-time": 1620315460382,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315478268,
+    "title": "linguistics",
+    "uid": "-X6Fn2ZN8",
+    "edit-time": 1620315478269,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315487842,
+    "title": "first name",
+    "uid": "visizKSgu",
+    "edit-time": 1620315487842,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315523576,
+    "title": "IPA",
+    "uid": "GIwrBa_TI",
+    "edit-time": 1620315523576,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315525979,
+    "title": "Wade–Giles",
+    "uid": "b7-7Al72K",
+    "edit-time": 1620315525979,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315527351,
+    "title": "pinyin",
+    "uid": "cwWKMNICP",
+    "edit-time": 1620315527352,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315549843,
+    "title": "transcription",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "transliterated;",
+        "uid": "KprCkMmwE",
+        "edit-time": 1620315546063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "音转 (yinzhuan);",
+        "uid": "T1Ez9oE5J",
+        "edit-time": 1620315546063,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "28B__8ge9",
+    "edit-time": 1620315549843,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315638128,
+    "title": "曷懒路",
+    "uid": "B1V4ydOIt",
+    "edit-time": 1620315638137,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620315894841,
+    "title": "生女真 (Sheng Nvzhen)",
+    "uid": "eHjrD31ey",
+    "edit-time": 1620315894843,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620316023270,
+    "title": "东女真 (East Jurchen)",
+    "uid": "p4HiGzz8G",
+    "edit-time": 1620316023271,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
