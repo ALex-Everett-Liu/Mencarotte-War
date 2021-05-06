@@ -3,8 +3,13 @@
 - foreign affairs
     - [[Foreign Office]]; [[Foreign Ministry]]
 - [[international relations]]
-- [[protectorate]]: 保护国, 摄政政体;
-- [[tribute]]
+- [[war]]
+    - [[annex]]
+- 臣属关系; 附属国
+    - [[liege]]
+    - [[protectorate]]: 保护国, 摄政政体;
+    - [[tribute]]; pay tribute
+    - [[vassal]]; vassal state
 - #inbox
     - 一个[万人嫌](https://www.zhihu.com/question/456256296/answer/1851847425)的老头，一个[政治异类]，在[中美关系蜜月]内，仅仅因为参与了一项[反华议案]，就得到了往日[不曾得到过的礼遇]，甚至[以往反对他的人]都[对他表示支持和祝贺]。 #pt8-100
         - 什么叫“[反华]是[美国内部][最低限度的基本共识]”，明白了吗？

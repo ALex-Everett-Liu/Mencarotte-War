@@ -10,13 +10,13 @@
         - [[东濊 (Eastern Ye)]]
     - [[Korea]]
     - [[寇漫汗 (Koumanhan)]]
-    - [[沃沮 (Okjeo)]]
     - [[Siberia]]
         - [[Lake Baikal]]
         - [[Onon River]]
     - [[Tungusic peoples]]; ツングース系
         - [[Jurchen]]
         - [[靺鞨 (Mohe)]]; 靺羯
+            - [[沃沮 (Okjeo)]]
             - [[勿吉 (Wuji)]]
         - [[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)
         - [[挹娄 (Yilou)]]; 挹婁

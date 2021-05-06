@@ -1,1 +1,12 @@
+- [[county]]
+- duchy capital
+- 历史沿革 (lishi yange)
+- 陪都 (peidu)
+    - 五京制
+        - 中京 (zhongjing)
 - [[prefecture]]
+- territory
+    - contested territory
+- village...
+    - communal land
+    - village level

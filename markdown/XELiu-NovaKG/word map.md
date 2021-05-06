@@ -313,6 +313,12 @@
                 - joint
             - journal
                 - journey, 2
+    - l
+        - li
+            - literal
+                - literally; lit.: 逐字地, 照字面意义;
+                - literate; literated
+                    - transliterate; transliterated
     - m
         - ma
             - mark
@@ -372,6 +378,9 @@
                         - parsing: 语法分析, 剖析;
                     - [[party]]
             - pat
+                - patch
+                    - dispatch: 派遣; 分派;
+                - path
                 - patient
                     - patiently;
                 - pattern
