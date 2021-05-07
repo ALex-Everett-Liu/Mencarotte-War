@@ -1,9 +1,12 @@
 - [[atmosphere]]; [[atmospheric science]]
+- [[climate]]
+    - [[season]]
+    - [[weather]]
 - [[geography]]
+- [[geology]]
 - [[geophysics]]
 - [[GPS]]
 - [[hydrology]]
 - [[ocean]]; [[ocean science]]
 - [[seismology]]
-- [[weather]]
 - 经纬度; 经纬度信息

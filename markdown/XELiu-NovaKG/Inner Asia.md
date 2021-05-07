@@ -1,4 +1,5 @@
 - 阿尔泰民族
+    - 阿尔泰语系
 - [[东胡 (Donghu)]]
     - [[Khitan (契丹)]]
 - Northeast?
@@ -19,10 +20,14 @@
             - [[沃沮 (Okjeo)]]
             - [[勿吉 (Wuji)]]
         - [[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)
-        - [[Tungusic language family]]
+        - [[Tungusic language family]]; 满-通古斯语族
         - [[Udege]]; [[兀的改 (Wudigai)]]
-            - [[野人女真 (Yeren Nvzhen)]]
             - 窝集, 林中人; 捕貂鼠人
+                - 贡貂
+                    - 恰喀拉人
+                        - 穆尔察氏
+            - 兀者野人;
+            - [[野人女真 (Yeren Nvzhen)]]
         - [[挹娄 (Yilou)]]; 挹婁
             - 貂皮
     - #inbox

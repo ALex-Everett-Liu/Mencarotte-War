@@ -1,1 +1,2 @@
 - native population;
+- original inhabitant;
