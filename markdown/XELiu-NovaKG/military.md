@@ -2,3 +2,10 @@
 - defence...
     - [[defence spending]]
 - [[war]]
+- 城墙
+    - [[雉堞 (zhidie)]]
+- 冷兵器
+    - bow
+        - sandalwood bow
+    - foot soldier
+    - spear

@@ -3,6 +3,7 @@
     - [[猛安谋克 (Meng'an Mouke)]]
 - [[满洲 (Manchuria)]]
 - [[生女真 (Sheng Nvzhen)]]
+    - [[鼻骨德部 (Bigude)]]
     - [[东女真 (East Jurchen)]]
         - [[完颜部 (Wanyanbu)]]
     - 蒲卢毛朵部

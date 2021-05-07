@@ -4,6 +4,9 @@
 - [[business management]]
 - [[money]]
 - [[political economy]]
+- 产业
+    - [[local specialties]]; local product
+    - 制造业
 - 反垄断
 - 房地产
     - #inbox
