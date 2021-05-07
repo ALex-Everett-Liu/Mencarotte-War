@@ -1,5 +1,7 @@
 - [[白山部 (Baishan Mohe)]]
 - [[渤海国 (Balhae Kingdom)]]
 - 黑水部; [[黑水靺鞨 (Heishui Mohe)]]
-    - [[黑水都督府 (heishui dudufu)]]
+    - [[黑水都督府 (heishui dudufu)]]; 黑水府; 黑水经略使
+        - [[勃利州 (Berizhou)]]
+        - 派驻长史;
     - [[窟说部 (Kur-il)]]

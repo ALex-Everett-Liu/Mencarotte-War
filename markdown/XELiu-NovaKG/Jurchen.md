@@ -7,6 +7,8 @@
         - [[完颜部 (Wanyanbu)]]
     - 蒲卢毛朵部
     - [[五国部 (Wuguobu)]]
+        - [[建州女真 (Jianzhou Nvzhen)]]
+        - 头城 [[五国城]]
         - 五国部酋帅
 - [[熟女真 (Shu Nvzhen)]]
 - [[诸申 (Zhushen)]]
