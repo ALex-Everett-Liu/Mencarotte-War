@@ -1,5 +1,5 @@
 - draft
-    - mapped coordinate: (6440, {{[[calc]]: ((4096-2941))}})
+    - mapped coordinate: (6298, {{[[calc]]: ((4096-3061))}})
     - 
 - quick todo
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; 

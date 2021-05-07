@@ -1,6 +1,7 @@
 - [[东女真 (East Jurchen)]]
 - [[吉林通志]]
 - [[金王朝 (Jin Dynasty)]]
+    - [[猛安谋克 (Meng'an Mouke)]]
 - [[满洲 (Manchuria)]]
 - [[生女真 (Sheng Nvzhen)]]
 - [[熟女真 (Shu Nvzhen)]]

@@ -784,7 +784,7 @@
         },
         "children": [
           {
-            "string": "mapped coordinate: (6440, {{[[calc]]: ((4096-2941))}})",
+            "string": "mapped coordinate: (6298, {{[[calc]]: ((4096-3061))}})",
             "create-time": 1619718628988,
             ":block/refs": [
               {
@@ -800,7 +800,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "YfYQzQsik",
-            "edit-time": 1620326975944,
+            "edit-time": 1620368153512,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -809,7 +809,7 @@
             "string": "",
             "create-time": 1618017353562,
             "uid": "UKCZUE324",
-            "edit-time": 1620318233612,
+            "edit-time": 1620368557202,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -24121,6 +24121,18 @@
             "string": "pray",
             "uid": "O9LypZSbl",
             "edit-time": 1618360321109,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "religious belief",
+            "create-time": 1620369662083,
+            "uid": "0rQ4i8dLF",
+            "edit-time": 1620369663021,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -81320,6 +81332,84 @@
                 }
               },
               {
+                "string": "[[Tungusic language family]]",
+                "create-time": 1620369614205,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ISOKV3cOI"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ISOKV3cOI"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "3JuOuumRI",
+                "edit-time": 1620369616319,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1620370009401,
+                "children": [
+                  {
+                    "string": "[[野人女真 (Yeren Nvzhen)]]",
+                    "refs": [
+                      {
+                        "uid": "BzA0Cryi7"
+                      }
+                    ],
+                    "uid": "OQ84N9ku9",
+                    "edit-time": 1620370182303,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "BzA0Cryi7"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  },
+                  {
+                    "string": "窝集, 林中人; 捕貂鼠人",
+                    "uid": "rMyYuttdF",
+                    "edit-time": 1620370178766,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "-VVJu-slc"
+                  },
+                  {
+                    "uid": "15mM5gXmo"
+                  }
+                ],
+                "uid": "0DIo2Zh58",
+                ":block/refs": [
+                  {
+                    ":block/uid": "-VVJu-slc"
+                  },
+                  {
+                    ":block/uid": "15mM5gXmo"
+                  }
+                ],
+                "string": "[[Udege]]; [[兀的改 (Wudigai)]]",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1620369716946,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
                 "string": "[[挹娄 (Yilou)]]; 挹婁",
                 "refs": [
                   {
@@ -81498,6 +81588,30 @@
         "refs": [
           {
             "uid": "C2B70p1TJ"
+          }
+        ],
+        "children": [
+          {
+            "string": "[[猛安谋克 (Meng'an Mouke)]]",
+            "create-time": 1620360626489,
+            ":block/refs": [
+              {
+                ":block/uid": "i7_ydzuyx"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "i7_ydzuyx"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "XuZAXeSHy",
+            "edit-time": 1620360629818,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "uid": "d7NlJziMy",
@@ -83080,23 +83194,29 @@
                 }
               },
               {
-                "string": "真正的通古斯[需要解释]应是勿吉、靺鞨，该名称[被认为]与今日之[乌德海（Udege）]族之[族名][同源]，而该族又处于[南北通古斯之交界]，以“勿吉”一名的古音 /mudged/ /vudged/ 及“靺鞨” /modged/（唐初本写作靺羯/mò jié/，后改作靺鞨。故[本应读作]/mò jié/，而非今日之[官方读音]/mò hé/）来看，[通古斯民族]应于[隋唐前][迁徙至]今日的[黑龙江流域]并且定居，并自此开始[分化出][南北通古斯]（^^见胡增益著“鄂伦春语研究”^^）。[原创研究？] #pt9-99.99\n210423-15:40",
+                "string": "真正的通古斯[需要解释]应是勿吉、靺鞨，该名称[被认为]与今日之[乌德海（[[Udege]]）]族之[族名][同源]，而该族又处于[南北通古斯之交界]，以“勿吉”一名的古音 /mudged/ /vudged/ 及“靺鞨” /modged/（唐初本写作靺羯/mò jié/，后改作靺鞨。故[本应读作]/mò jié/，而非今日之[官方读音]/mò hé/）来看，[通古斯民族]应于[隋唐前][迁徙至]今日的[黑龙江流域]并且定居，并自此开始[分化出][南北通古斯]（^^见胡增益著“鄂伦春语研究”^^）。[原创研究？] #pt9-99.99\n210423-15:40",
                 "create-time": 1619163632022,
                 ":block/refs": [
                   {
                     ":block/uid": "lMcwecsmV"
+                  },
+                  {
+                    ":block/uid": "15mM5gXmo"
                   }
                 ],
                 "refs": [
                   {
                     "uid": "lMcwecsmV"
+                  },
+                  {
+                    "uid": "15mM5gXmo"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "phmwicYq6",
-                "edit-time": 1619163980759,
+                "edit-time": 1620369381775,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -83992,6 +84112,46 @@
         }
       },
       {
+        "string": "[[colony]]",
+        "refs": [
+          {
+            "uid": "Fs6DEmhdS"
+          }
+        ],
+        "uid": "sONh6z-oB",
+        "edit-time": 1620369523428,
+        ":block/refs": [
+          {
+            ":block/uid": "Fs6DEmhdS"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[confederacy]]",
+        "create-time": 1620369502570,
+        ":block/refs": [
+          {
+            ":block/uid": "EzUxKOVpK"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EzUxKOVpK"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "atv3J4ScA",
+        "edit-time": 1620369508982,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "foreign affairs",
         "children": [
           {
@@ -84164,6 +84324,18 @@
                 ":block/uid": "T0be3fRLd"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "藩国; 藩属",
+            "create-time": 1620360990918,
+            "uid": "DtjgYO2n4",
+            "edit-time": 1620360991911,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -84635,6 +84807,28 @@
                 ":block/uid": "pX40iIDGk"
               }
             ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[窟说部 (Kur-il)]]",
+            "create-time": 1620369209140,
+            ":block/refs": [
+              {
+                ":block/uid": "ei8ICace_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ei8ICace_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "bTjsfn5__",
+            "edit-time": 1620369211166,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -90054,11 +90248,33 @@
   {
     "create-time": 1619162198030,
     "title": "高丽 (Goryeo)",
-    "uid": "xweEA6e_5",
-    "edit-time": 1619948596860,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "1235, 蒙古三伐高丽",
+        "uid": "GnXKksEr_",
+        "edit-time": 1620361117226,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "1258, 东夏出舟师围攻高城县的松岛",
+        "create-time": 1620361245013,
+        "uid": "s3mZ2AwTZ",
+        "edit-time": 1620361245950,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "xweEA6e_5",
+    "edit-time": 1619948596860,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -105700,6 +105916,24 @@
         }
       },
       {
+        "string": "[[高丽 (Goryeo)]] (王氏高丽)",
+        "refs": [
+          {
+            "uid": "xweEA6e_5"
+          }
+        ],
+        "uid": "2nYXEZH7M",
+        "edit-time": 1620361127279,
+        ":block/refs": [
+          {
+            ":block/uid": "xweEA6e_5"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "History of Korea",
         "uid": "G0j0OhczD",
         "edit-time": 1619868265864,
@@ -109303,6 +109537,28 @@
             ":block/uid": "umV_yu7nT"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[胡里改路 (Huligai Lu)]]",
+        "create-time": 1620370088771,
+        ":block/refs": [
+          {
+            ":block/uid": "Sm3oB-dUO"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Sm3oB-dUO"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "KNYYlPiFa",
+        "edit-time": 1620370093678,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -113774,14 +114030,35 @@
     },
     "children": [
       {
-        "string": "The Eastern Xia[1] (traditional Chinese: 東夏; simplified Chinese: 东夏; pinyin: Dōng Xià), also known as Dongxia[2] or Dongzhen,[3] was [a short-lived kingdom] established in Manchuria (today's [Northeast China]) by Jurchen warlord [[蒲鲜万奴 (Puxian Wannu)]] in 1215 during the [Mongol conquest of the Jin dynasty]. [It was eventually conquered by] the Mongols and was later put under the [[辽阳行省 (Liaoyang province)]] by the Yuan dynasty.",
-        "create-time": 1620318226509,
-        ":block/refs": [
+        "edit-time": 1620360285124,
+        "children": [
           {
-            ":block/uid": "8iua8Ktni"
-          },
-          {
-            ":block/uid": "_b8CFok9v"
+            "string": "![dongxia-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FZI3osOyl0M.png?alt=media&token=b5125389-6b45-4631-8468-dfedc5ae5eb3)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FZI3osOyl0M.png?alt=media&token=b5125389-6b45-4631-8468-dfedc5ae5eb3": {
+                  "width": 193,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1620360323871,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FZI3osOyl0M.png?alt=media&token=b5125389-6b45-4631-8468-dfedc5ae5eb3": {
+                  ":width": 193,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "qQ7vVf5D1",
+            "edit-time": 1620360332045,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
           }
         ],
         "refs": [
@@ -113790,13 +114067,40 @@
           },
           {
             "uid": "_b8CFok9v"
+          },
+          {
+            "uid": "p3ePbwCdM"
+          },
+          {
+            "uid": "tFlJdLw4V"
+          },
+          {
+            "uid": "9UPkr7v6V"
           }
         ],
+        "uid": "O1HcEnn4W",
+        ":block/refs": [
+          {
+            ":block/uid": "8iua8Ktni"
+          },
+          {
+            ":block/uid": "_b8CFok9v"
+          },
+          {
+            ":block/uid": "p3ePbwCdM"
+          },
+          {
+            ":block/uid": "tFlJdLw4V"
+          },
+          {
+            ":block/uid": "9UPkr7v6V"
+          }
+        ],
+        "string": "The Eastern Xia[1](((p3ePbwCdM))) (traditional Chinese: 東夏; simplified Chinese: 东夏; pinyin: Dōng Xià), also known as Dongxia[2](((tFlJdLw4V))) or Dongzhen,[3](((9UPkr7v6V))) was [a short-lived kingdom] established in Manchuria (today's [Northeast China]) by Jurchen warlord [[蒲鲜万奴 (Puxian Wannu)]] in 1215 during the [Mongol conquest of the Jin dynasty]. [It was eventually conquered by] the Mongols and was later put under the [[辽阳行省 (Liaoyang province)]] by the Yuan dynasty.",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
-        "uid": "O1HcEnn4W",
-        "edit-time": 1620325101713,
+        "create-time": 1620318226509,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -113812,23 +114116,81 @@
             "edit-time": 1620326355252,
             "children": [
               {
-                "string": "Although originally [acknowledged his allegiance to] the Mongol Empire, 承认他效忠 he however [rebelled against the Mongols] and killed the Mongolian [resident commissioners] 常驻专员 in 1217. He also [moved the capital to] Yanji [in modern Jilin province] and called it Nanjing (南京 literally: \"southern capital\"). In 1233, [[Güyük]] (then a prince) was dispatched by [Ögedei Khan] to [conquer the Eastern Xia]. Puxian Wannu was [captured and killed] in the same year, which [marked the official end of] the [Eastern Xia kingdom]. The Jin dynasty was also [conquered by the Mongols] [in the next year].\n210507-02:40",
-                "create-time": 1620325139654,
+                "string": "担任__[辽东宣抚使]__[讨伐反叛的][契丹首领]耶律留哥。他于贞祐三年（1215年）[自立为天王]，国号大真，年号天泰，金朝在东北的[诸猛安谋克]([[猛安谋克 (Meng'an Mouke)]])[多响应]。1216年[降于蒙古]，1217年[再度自立]。势力最大时，西北至上京城（今黑龙江省阿城境内白城子），西南至婆速路（今辽宁丹东境内九连城）以及部分辽东半岛区域，东南到曷懒路（今朝鲜咸镜北道吉州郡）与恤品路（今俄罗斯滨海边疆区乌苏里斯克）。",
+                "create-time": 1620360467307,
                 ":block/refs": [
                   {
-                    ":block/uid": "9p_L81UdN"
+                    ":block/uid": "i7_ydzuyx"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "9p_L81UdN"
+                    "uid": "i7_ydzuyx"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "LvcaSBEbY",
+                "edit-time": 1620360597958,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "东夏前期的[政治中心]在咸平（今辽宁开原北），复国后移至南京（今吉林[图们市][磨盘村山城][1](((ESI7PMExm)))）。蒲鲜万奴在国内依照[金朝官制][设立诸官]，军队则[按猛安谋克组织]。",
+                "create-time": 1620360547888,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ESI7PMExm"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ESI7PMExm"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "IHPJX3mfT",
+                "edit-time": 1620361445866,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "edit-time": 1620360658166,
+                "children": [
+                  {
+                    "string": "1233年，窝阔台派皇子贵由[率领左翼蒙古军]征讨蒲鲜万奴，在南京[擒之]，东夏[从此灭亡]，不再是[独立国家]，但其后蒙古[仍任命]万奴子孙[镇守原地]，为其[藩属]。忽必烈[建立元朝后]，在东夏故地建立[辽阳行省]。",
+                    "create-time": 1620360645203,
+                    "uid": "OoAF1A-x-",
+                    "edit-time": 1620360694072,
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "bl3Ar1Alz"
+                  }
+                ],
                 "uid": "Y4V7-Rd8m",
-                "edit-time": 1620326431492,
+                ":block/refs": [
+                  {
+                    ":block/uid": "bl3Ar1Alz"
+                  }
+                ],
+                "string": "Although originally [acknowledged his allegiance to] the Mongol Empire, 承认他效忠 he however [rebelled against the Mongols] and killed the Mongolian [resident commissioners] 常驻专员 in 1217. He also [moved the capital to] Yanji [in modern Jilin province] and called it Nanjing (南京 literally: \"southern capital\"). In 1233, [[Güyük (贵由)]] (then a prince) was dispatched by [Ögedei Khan] to [conquer the Eastern Xia]. Puxian Wannu was [captured and killed] in the same year, which [marked the official end of] the [Eastern Xia kingdom]. The Jin dynasty was also [conquered by the Mongols] [in the next year].\n210507-02:40",
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "create-time": 1620325139654,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -113879,10 +114241,158 @@
             }
           },
           {
-            "string": "The actual name of the kingdom is controversial. Chinese documents call it Dongxia (东夏/東夏) but Goryeo almost always called it Dongzhen (東眞). Yanai Wataru insisted that Xià (夏) was a misinterpretation of Zhèn (眞). In the meanwhile Ikeuchi Hiroshi claimed that Dongzhen was an abbreviated form of Dong Nüzhen (东女眞/東女眞, Eastern Jurchen) and was just an alias.",
+            "string": "[The actual name of] the kingdom is controversial. Chinese documents call it Dongxia (东夏/東夏) but Goryeo almost always called it Dongzhen (東眞). Yanai Wataru insisted that Xià (夏) was a misinterpretation of Zhèn (眞). In the meanwhile Ikeuchi Hiroshi claimed that Dongzhen was [an abbreviated form of] Dong Nüzhen ([东女眞]([[东女真 (East Jurchen)]])/東女眞, Eastern Jurchen) and [was just an alias].\n210507-12:05",
             "create-time": 1620325127383,
+            ":block/refs": [
+              {
+                ":block/uid": "p4HiGzz8G"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "p4HiGzz8G"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
             "uid": "WyE-PmjTN",
-            "edit-time": 1620325139662,
+            "edit-time": 1620360370204,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "6ZZ38v1zp",
+        "edit-time": 1620325127389,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "政权仍存",
+        "create-time": 1620360711499,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "自康熙二十五年（1686年）发现刻有“大同”年款的[官印]以来，对东夏国的[存亡][又有新说]。据[[王国维 (Wang Guowei)]]的考证：“《[[高丽史 (Goryeo History)]]》多记[东真]即[大真][与高丽交涉事]，自太宗癸巳（1233）以后，至世祖至元之末（1294），凡二十见。意万奴[既擒之后]，蒙古[仍用之]，以镇抚其地，[其子孙承袭][如藩国然](((DtjgYO2n4)))，故尚有东真之称”（^^《黑鞑事略笺证》^^）。在《高丽史》和《元史》1233年后多年的[记载中]仍使用“贵国”、“东夏万奴国”的称谓。\n210507-12:14",
+            "create-time": 1620360719073,
+            ":block/refs": [
+              {
+                ":block/uid": "qvboDTAnK"
+              },
+              {
+                ":block/uid": "ZOLgFofZh"
+              },
+              {
+                ":block/uid": "DtjgYO2n4"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qvboDTAnK"
+              },
+              {
+                "uid": "ZOLgFofZh"
+              },
+              {
+                "uid": "DtjgYO2n4"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "6XAgiSJmx",
+            "edit-time": 1620360997761,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1620361283422,
+            "children": [
+              {
+                "string": "据《高丽史》记载，自1249年至1259年，每年都有东夏的兵马[入境侵扰]。1257年，[入登州]的一次多至[三千余骑]，1258年还[出舟师](((s3mZ2AwTZ)))[围攻]高城县的松岛。直至蒙古[出面干预]，才停止。[元世祖]即位后，[开始逐步加强][对东夏的控制]。至元三年（1266年）二月，曾设立过东京、开元、恤品、合懒、婆速等路[[宣抚司]]。至元二十年（1283年）五月，又增设[海西辽东提刑按察司]。\n210507-12:22",
+                "create-time": 1620360720104,
+                ":block/refs": [
+                  {
+                    ":block/uid": "s3mZ2AwTZ"
+                  },
+                  {
+                    ":block/uid": "LmE5oial-"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "s3mZ2AwTZ"
+                  },
+                  {
+                    "uid": "LmE5oial-"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "aizJWvFcN",
+                "edit-time": 1620361340222,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "恤品、合懒两路是东夏的[领地]，[海西]当谓包括东夏在内，可见已一律与国内地区[统治管辖]。至1287年后，似不再有“东真”、“东夏”之名，想[东夏藩国]当撤于前。",
+                "create-time": 1620360711990,
+                "uid": "-bb2IZ5ks",
+                "edit-time": 1620361317620,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "GnXKksEr_"
+              }
+            ],
+            "uid": "YOhlITULz",
+            ":block/refs": [
+              {
+                ":block/uid": "GnXKksEr_"
+              }
+            ],
+            "string": "1234年2月，“蒙古[留百余骑于]东真，余皆[引还]”（《高丽史》）。1235年设开元、南京二[万户府]，后者[总管]可能即[东夏国王][兼任]。东夏的[旧属]继续维持[管理着该地区的政务]，而[使用的年号]就是“大同”，^^[于当地出土了]多颗不同年份的大同年号[官印]，足以证明。^^作为[藩国]的东夏，自此对蒙古一直[归顺服从]，并协助蒙军镇压高丽的反叛。1235年蒙古三伐高丽，东夏军即[作为前导](((GnXKksEr_)))，攻下了[龙津镇]、[镇溟城]等地（《高丽史》）。1236年蒙军再入高丽，曾[派援兵][百余骑]，侵入[高丽东北境]，自[耀德]、[静边]趋[永兴仓]（《高丽史》）。到了[蒙哥统治时期]，蒙古再度[大规模用兵]高丽，东夏又成为蒙军[进兵的通路]。",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1620361283422,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "R_ooYBr-T",
+        "edit-time": 1620360711995,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "概要",
+        "create-time": 1620361631656,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "蒲鮮万奴は金朝の女真将領であり、[遼東宣撫使]に任じられて[契丹の首領]耶律留哥の[反乱鎮圧]を担当していた。しかし1215年に自立して[天王を号し]、国号を大真と定め、年号を天泰とした。当時中国東北部にあった金朝の猛安・謀克[がこれに呼応している]。1216年にいったん[モンゴル帝国]に降伏したが、1217年[再度自立した](Saido jiritsushita)。[最盛期の領域]は、北西は上京城（現在の[黒竜江省][ハルビン市]阿城区の白城子）に、南西は婆速路（現在の遼寧省丹東市振安区の九連城）と一部の[遼東半島]に、東南は曷懶路（現在の北朝鮮[咸鏡北道][吉州郡]）と**恤品路（現在の[外満州][ウスリースク]）**に及んだ。",
+            "create-time": 1620361632306,
+            "uid": "F1TB5qyHW",
+            "edit-time": 1620361750258,
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
@@ -113891,8 +114401,250 @@
             }
           }
         ],
-        "uid": "6ZZ38v1zp",
-        "edit-time": 1620325127389,
+        "uid": "RJb2WExXm",
+        "edit-time": 1620361632311,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "References 参考文献",
+        "create-time": 1620360234605,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[1]: __Historical Dictionary of Tibet__ by John Powers, David Templeman, p. 493",
+            "create-time": 1620360235011,
+            "uid": "p3ePbwCdM",
+            "edit-time": 1620360242608,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[2]: __China Archaeology & Art Digest__, Volume 3, Issue 1, p. 205 #pt7-99.99",
+            "create-time": 1620360255762,
+            ":block/refs": [
+              {
+                ":block/uid": "fUmISsvts"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "fUmISsvts"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "tFlJdLw4V",
+            "edit-time": 1620360419863,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[3]: __Warfare in Chinese History__, by H. J. Van Derven, p239",
+            "create-time": 1620360271031,
+            "uid": "9UPkr7v6V",
+            "edit-time": 1620360277905,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "王慎荣，《东夏史料》，吉林文史出版社，1990年",
+            "create-time": 1620361475752,
+            "uid": "Y7cbLjcAK",
+            "edit-time": 1620361486110,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "陈祖武，《辽西夏金史研究》，福建人民出版社，2005年，ISBN 9787211049547",
+            "create-time": 1620361477860,
+            "uid": "vk5rjtbP4",
+            "edit-time": 1620361488485,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "《东北通史（上）》，金毓黻，五十年代出版社，1981年6月翻印",
+            "create-time": 1620361478813,
+            "uid": "dk7U7oUKu",
+            "edit-time": 1620361490031,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "《中国北方民族及其政权研究》，申友良，中央民族大学出版社，1998年8月\n",
+            "create-time": 1620361479624,
+            "uid": "BUWUuEKCM",
+            "edit-time": 1620361479624,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "《女真源流史》，《中华民族源流史丛书》，何光岳，江西教育出版社，2004年2月\n",
+            "create-time": 1620361480377,
+            "uid": "8Z1dMunVB",
+            "edit-time": 1620361480377,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "《女真史》，《东北史丛书》，孙进己、张璇如、蒋秀松、于志耿、庄严，吉林文史出版社，1987年7月\n",
+            "create-time": 1620361482327,
+            "uid": "OTLPgRkkd",
+            "edit-time": 1620361482327,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "《金朝史》，何俊哲、张达昌、于国石，中国社会科学出版社，1992年8月",
+            "create-time": 1620361470056,
+            "uid": "y71zJul_5",
+            "edit-time": 1620361482332,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "9StooninM",
+        "edit-time": 1620361417285,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "注释",
+        "create-time": 1620361347934,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "{{[[TODO]]}} [1]: [中国首次发掘古“东夏国”遗存](http://www.kaogu.cn/cn/xccz/20141009/47780.html). [2020-05-15]. （原始内容[存档](https://web.archive.org/web/20200908203544/http://www.kaogu.cn/cn/xccz/20141009/47780.html)于2020-09-08）.",
+            "create-time": 1620361348314,
+            ":block/refs": [
+              {
+                ":block/uid": "cgyryTwl0"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cgyryTwl0"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "ESI7PMExm",
+            "edit-time": 1620361457019,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "i8Ep-XRFy",
+        "edit-time": 1620361348319,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "関連項目",
+        "create-time": 1620362722199,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "満州\n",
+            "create-time": 1620362729468,
+            "uid": "p178Musjk",
+            "edit-time": 1620362729468,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "大同 (年号)",
+            "create-time": 1620362723217,
+            "uid": "ltb8lZWy_",
+            "edit-time": 1620362729473,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "eDI2xMPwK",
+        "edit-time": 1620362723223,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[显示]查论编\n晚唐、五代、宋、金时期存在的[君主制国家]与[藩镇]等",
+        "create-time": 1620361518039,
+        "uid": "nlxlden7i",
+        "edit-time": 1620361532308,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "カテゴリ: 女真 満州の歴史 極東ロシアの歴史",
+        "create-time": 1620362741442,
+        "uid": "qxUaX0SdM",
+        "edit-time": 1620362746214,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -114061,10 +114813,322 @@
     }
   },
   {
-    "create-time": 1620326422391,
-    "title": "Güyük",
-    "uid": "9p_L81UdN",
-    "edit-time": 1620326422392,
+    "create-time": 1620360597960,
+    "title": "猛安谋克 (Meng'an Mouke)",
+    "uid": "i7_ydzuyx",
+    "edit-time": 1620360597961,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620360658167,
+    "title": "Güyük (贵由)",
+    "uid": "bl3Ar1Alz",
+    "edit-time": 1620360658168,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620360794237,
+    "title": "高丽史 (Goryeo History)",
+    "uid": "qvboDTAnK",
+    "edit-time": 1620360794238,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620360830500,
+    "title": "王国维 (Wang Guowei)",
+    "uid": "ZOLgFofZh",
+    "edit-time": 1620360830500,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620361330579,
+    "title": "宣抚司",
+    "uid": "LmE5oial-",
+    "edit-time": 1620361330580,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620368542750,
+    "title": "兀的改 (Wudigai)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "一说来源于黑水靺鞨[[窟说部 (Kur-il)]]，辽代称[兀惹]或[乌惹]。是金代[地处最东北边]的[女真部落]，分布在今[黑龙江下游][山林地区] (一说还[散居在]松花江和[乌苏里江流域]的[森林地区])。元代兀者(吾者)、明兀狄哈、清[乌德赫]或[乌底赫]，前苏联[乌德盖人]，与其[有渊源关系]。 [1](((fLfV6r9vL)))",
+        "create-time": 1620368552667,
+        ":block/refs": [
+          {
+            ":block/uid": "fLfV6r9vL"
+          },
+          {
+            ":block/uid": "ei8ICace_"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "fLfV6r9vL"
+          },
+          {
+            "uid": "ei8ICace_"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "lEHivGWd7",
+        "edit-time": 1620369228013,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "References",
+        "create-time": 1620369036540,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[1]: 高文德主编．《中国少数民族史大辞典》：吉林教育出版社，1995年12月：第108页",
+            "create-time": 1620369040769,
+            "uid": "fLfV6r9vL",
+            "edit-time": 1620369045830,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "qi2VZSzni",
+        "edit-time": 1620369042933,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "-VVJu-slc",
+    "edit-time": 1620368542751,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620369137473,
+    "title": "窟说部 (Kur-il)",
+    "uid": "ei8ICace_",
+    "edit-time": 1620369137474,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620369381778,
+    "title": "Udege",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Udege (Удэгейцы in Russian; endonym: удиэ and удиһе, or Udihe, Udekhe, and Udeghe correspondingly) are a people who live in the [Primorsky Krai] and [Khabarovsk Krai] regions in Russia, the [native population](((fxBR7og_q))) of this region. They [live along the tributaries of] the Ussuri, Amur, Kungari, and Anyuy Rivers. The Udege speak the [Udege language], which belongs to the [[Tungusic language family]]. Their [religious beliefs](((0rQ4i8dLF))) include animism, animal worship, and shamanism. The Udege are mainly engaged in hunting, fishing, and ginseng harvesting. According to the 2002 census, there were 1,657 Udege in Russia, a slight increase from 1,500 in 1970. According to the 2010 census there were 1,496 Udege in Russia. They are one of the closest ethnic groups to the Manchu and Nanai, and are possibly of Jianzhou Jurchen origin.\n210507-14:39",
+        "create-time": 1620369387519,
+        ":block/refs": [
+          {
+            ":block/uid": "fxBR7og_q"
+          },
+          {
+            ":block/uid": "ISOKV3cOI"
+          },
+          {
+            ":block/uid": "0rQ4i8dLF"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "fxBR7og_q"
+          },
+          {
+            "uid": "ISOKV3cOI"
+          },
+          {
+            "uid": "0rQ4i8dLF"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "hxvlIqp25",
+        "edit-time": 1620369852477,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[乌德盖人]是生活在[黑龙江支流]的[乌苏里江东岸]、东至[日本海沿岸]的民族，今俄罗斯[滨海边疆区]和[哈巴罗夫斯克边疆区] (Khabarovsk Krai)。他们自称“乌德盖”，意为“林中人”[1]，在[清朝文献]中[他们被称为]“恰喀拉”（意为“蜂巢的隔壁”）[2]。朝鲜人称他们为“嫌真兀狄哈”（혐진올적합）。部分[俄国学者]主张乌德盖人与[俄国境内的][奥罗奇人][属于同一个群体]。",
+        "create-time": 1620369818150,
+        "uid": "-euZxar1v",
+        "edit-time": 1620369892545,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "历史",
+        "create-time": 1620369973508,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "乌德盖人长期[以渔猎为生]。古称[乌惹]或[兀惹]，[窝集]，意为“林中人”。",
+            "create-time": 1620369979850,
+            "uid": "xfpuEjHR6",
+            "edit-time": 1620369990133,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "金代称之为“[[兀的改 (Wudigai)]]”或“乌底改”（属[[胡里改路 (Huligai Lu)]]管辖）。元代称之为“斡拙”，兀者野人，明代称“[[野人女真 (Yeren Nvzhen)]]与[兀良哈]”，兀狄哈，清代则称“窝集”（[森林人](((rMyYuttdF)))）。他们[在森林中活动][捕杀毛皮动物]，因此又叫[捕貂鼠人](((rMyYuttdF)))。[3]\n210507-14:50",
+            "create-time": 1620369973988,
+            ":block/refs": [
+              {
+                ":block/uid": "-VVJu-slc"
+              },
+              {
+                ":block/uid": "Sm3oB-dUO"
+              },
+              {
+                ":block/uid": "BzA0Cryi7"
+              },
+              {
+                ":block/uid": "rMyYuttdF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "-VVJu-slc"
+              },
+              {
+                "uid": "Sm3oB-dUO"
+              },
+              {
+                "uid": "BzA0Cryi7"
+              },
+              {
+                "uid": "rMyYuttdF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "pt8y6EAom",
+            "edit-time": 1620370221481,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "_jXL6thbs",
+        "edit-time": 1620369973994,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "15mM5gXmo",
+    "edit-time": 1620369381779,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620369523430,
+    "title": "colony",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "native population;",
+        "uid": "fxBR7og_q",
+        "edit-time": 1620369484471,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "Fs6DEmhdS",
+    "edit-time": 1620369523430,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620369561225,
+    "title": "Tungusic language family",
+    "uid": "ISOKV3cOI",
+    "edit-time": 1620369561225,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620370045847,
+    "title": "胡里改路 (Huligai Lu)",
+    "uid": "Sm3oB-dUO",
+    "edit-time": 1620370045847,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620370122621,
+    "title": "野人女真 (Yeren Nvzhen)",
+    "uid": "BzA0Cryi7",
+    "edit-time": 1620370122622,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },

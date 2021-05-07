@@ -19,6 +19,10 @@
             - [[沃沮 (Okjeo)]]
             - [[勿吉 (Wuji)]]
         - [[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)
+        - [[Tungusic language family]]
+        - [[Udege]]; [[兀的改 (Wudigai)]]
+            - [[野人女真 (Yeren Nvzhen)]]
+            - 窝集, 林中人; 捕貂鼠人
         - [[挹娄 (Yilou)]]; 挹婁
             - 貂皮
     - #inbox

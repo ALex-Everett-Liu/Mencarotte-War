@@ -1,6 +1,7 @@
 - [[astrology]]
 - belief...
     - pray
+    - religious belief
 - the story of creation
 - [[Christian]]
 - [[deity]]

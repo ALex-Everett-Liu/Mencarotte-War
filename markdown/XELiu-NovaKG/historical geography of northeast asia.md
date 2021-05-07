@@ -2,6 +2,7 @@
     - [[盖马大山 (Gaima Mountain)]]
     - [[曷懒甸 (Helan Dian)]]
     - [[铁岭卫 (Tieling Wei)]]
+- [[胡里改路 (Huligai Lu)]]
 - [[historical geography of korea]]
 - [[辽东 (Liaodong)]]; [[辽东半岛 (Liaodong Peninsula)]]
     - [[辽阳行省 (Liaoyang province)]]

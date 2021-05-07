@@ -1,5 +1,6 @@
 - 朝鲜三国时代
 - [[Gojoseon (古朝鮮)]]
+- [[高丽 (Goryeo)]] (王氏高丽)
 - History of Korea
 - [[Jin State (辰國)]]
 - [[箕子朝鲜]]; [[辰国]]
