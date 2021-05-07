@@ -27,6 +27,11 @@
                     - alternative theory;
                 - alteration;
                 - unalterable;
+        - an
+            - anonym
+                - [[anonymous]]
+            - antho
+                - anthology
         - as
             - assert
                 - assertion;
@@ -356,6 +361,13 @@
                 - observation; observed, 2; observer
             - obsess
                 - obsessed; obsession
+        - on
+            - onym
+                - 术语, 名字;
+                - onymous
+                    - bearing a name: [articles in magazines] are usually onymous
+                - [[acronym]]; [[anonymous]]; [[antonym]]; [[hyponym]]; [[synonym]];
+                - [[endonym]]; [[ethnonym]]; [[exonym]]
         - op
             - opaque
             - oppose

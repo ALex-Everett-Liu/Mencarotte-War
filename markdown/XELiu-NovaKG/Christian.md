@@ -2,4 +2,5 @@
 - Catholic; Roman Catholic
     - Inquisition: 宗教裁判所
 - Eastern Orthodox
+    - Russian Orthodoxy
 - [[Ecumenism]]: 泛基督教, 普世教会大联合运动;

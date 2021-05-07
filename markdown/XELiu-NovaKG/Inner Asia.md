@@ -21,6 +21,7 @@
             - [[勿吉 (Wuji)]]
         - [[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)
         - [[Tungusic language family]]; 满-通古斯语族
+            - [[Paleosiberian languages]]
         - [[Udege]]; [[兀的改 (Wudigai)]]
             - 窝集, 林中人; 捕貂鼠人
                 - 贡貂

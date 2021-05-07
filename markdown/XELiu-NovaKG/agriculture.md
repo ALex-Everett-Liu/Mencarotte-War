@@ -1,0 +1,8 @@
+- crop rotation
+- farming
+- fishing
+    - [[overfishing]]
+- harvest
+    - good harvest
+- hemp cultivation
+- [[sericulture]]

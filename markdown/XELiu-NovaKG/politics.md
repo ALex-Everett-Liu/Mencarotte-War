@@ -10,6 +10,7 @@
         - [[administrative division]]; administrative area
     - approve the decision
     - [[business management]]
+    - [[collectivization]]
     - commission
 - [[nation]]
     - [[nation/state]]

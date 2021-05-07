@@ -3,6 +3,7 @@
     - [[曷懒甸 (Helan Dian)]]
     - [[铁岭卫 (Tieling Wei)]]
 - [[historical geography of korea]]
+- [[混同江 (Huntong Jiang)]]
 - [[辽东 (Liaodong)]]; [[辽东半岛 (Liaodong Peninsula)]]
     - [[辽阳行省 (Liaoyang province)]]
 - [[辽西 (Liaoxi)]]

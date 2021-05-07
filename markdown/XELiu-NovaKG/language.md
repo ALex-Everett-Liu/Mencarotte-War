@@ -1,3 +1,4 @@
+- [[dialect]]
 - [[etymology]]
     - [[Old Chinese]]
 - foreign languages

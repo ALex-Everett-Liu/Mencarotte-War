@@ -1,12 +1,13 @@
 - [[agreement]]
 - [[buffer zone]]
-- [[colony]]
+- [[colony]]; colonization 
 - [[confederacy]]
 - foreign affairs
     - [[Foreign Office]]; [[Foreign Ministry]]
 - [[international relations]]
 - [[war]]
     - [[annex]]
+- [[treaty]]
 - 臣属关系; 附属国
     - [[liege]]
     - [[protectorate]]: 保护国, 摄政政体;

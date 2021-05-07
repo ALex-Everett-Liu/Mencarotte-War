@@ -1,11 +1,14 @@
-- [[东女真 (East Jurchen)]]
 - [[吉林通志]]
 - [[金王朝 (Jin Dynasty)]]
     - [[猛安谋克 (Meng'an Mouke)]]
 - [[满洲 (Manchuria)]]
 - [[生女真 (Sheng Nvzhen)]]
+    - [[东女真 (East Jurchen)]]
+        - [[完颜部 (Wanyanbu)]]
+    - 蒲卢毛朵部
+    - [[五国部 (Wuguobu)]]
+        - 五国部酋帅
 - [[熟女真 (Shu Nvzhen)]]
-- [[完颜部 (Wanyanbu)]]
 - [[诸申 (Zhushen)]]
 - 1104, 高丽北侵曷懒甸
 - #inbox
