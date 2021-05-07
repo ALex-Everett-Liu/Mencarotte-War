@@ -1,3 +1,5 @@
+- [[animism]]: 泛灵论
+    - [[animal worship]]
 - [[astrology]]
 - belief...
     - pray
@@ -20,6 +22,7 @@
     - worshipping heaven
     - worship god
 - [[Satanism]]
+- [[shamanism]]
 - [[Taoism]]
 - [[theology]]
 - 迷信

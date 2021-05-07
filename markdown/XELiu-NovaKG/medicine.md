@@ -3,3 +3,4 @@
 - [[diabetes]]: 糖尿病
 - [[heart disease]]
 - personal care and service occupations: 个人护理和服务职业
+- [[pharmacy]]

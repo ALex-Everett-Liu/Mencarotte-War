@@ -1,0 +1,7 @@
+- pharmacology: 药理学
+- 传统药材
+    - [[ginseng]]; ginseng harvesting
+- dictionary
+    - Application of [SPSS Software] in [Pharmacy Scientific Research] [Data Processing]. www.[dictall].com
+    - [The Practice and Experience of] Applying [ISO Quality Management Systems] to the [Hospital Pharmacy Management] 
+    - Methods: By using the establishments of [HIS system] as message relay platform and intranet to improve the work of message relay service from [Hospital Pharmacy]. www.[chemyq].com
