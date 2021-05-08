@@ -1,5 +1,5 @@
 - [[culture]]
-- [[economy]]
+- [[economics]]; economy
 - [[engineering]]; [[industry]]
     - [[agriculture]]
     - [[military]]

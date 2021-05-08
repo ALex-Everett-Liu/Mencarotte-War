@@ -2,6 +2,7 @@
     - 阿尔泰语系
 - [[东胡 (Donghu)]]
     - [[Khitan (契丹)]]
+    - [[室韦 (Shiwei)]]
 - Northeast?
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
     - [[高句丽 (Goguryeo)]]; Gaogouli
