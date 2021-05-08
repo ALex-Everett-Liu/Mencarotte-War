@@ -92,7 +92,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? true,
-      :order 4,
+      :order 2,
       :content-id "N5lel-tnd"},
      "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a"
      {:page-uid "7Gc8zMIRI",
@@ -100,7 +100,7 @@
       :pinned? true,
       :collapsed? true,
       :window-id "uuidb09e7bf9-6bb0-4085-9e77-d2306c60f04a",
-      :order 5,
+      :order 3,
       :content-id "rw6U8VHY-"},
      "uuid9bee6c6c-e129-4502-9da0-ee8dda7e58cb"
      {:page-uid "JPCvFjovj",
@@ -108,7 +108,7 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 6,
+      :order 4,
       :content-id "JPCvFjovj"},
      "uuid1774b5fc-3856-49ea-a8a9-52ef5077715b"
      {:page-uid "L7fTIw9dt",
@@ -116,11 +116,11 @@
       :type :outline,
       :pinned? true,
       :collapsed? false,
-      :order 7,
+      :order 5,
       :content-id "L7fTIw9dt"}},
     :link-brackets? true,
     :rtl? false}
-   536978617]
+   536978797]
   [3 :user/uid "QQjd7ZZRUlcE6dFuCspWMbnIbyG2" 536870915]
   [14875 :version/id "0.8.4" 536937176]
   [14875
@@ -6662,6 +6662,10 @@
   [15513 :block/children 24752 536975665]
   [15513 :block/children 25113 536977983]
   [15513 :block/children 25118 536977983]
+  [15513 :block/children 25217 536978800]
+  [15513 :block/children 25220 536978805]
+  [15513 :block/children 25221 536978805]
+  [15513 :block/children 25222 536978805]
   [15513 :block/open true 536977983]
   [15513 :block/uid "biujg3BIW" 536939666]
   [15513 :create/time 1617664613240 536939666]
@@ -78604,12 +78608,12 @@
   [23475 :block/refs 24569 536974740]
   [23475
    :block/string
-   "mapped coordinate: (6640, {{[[calc]]: ((4096-2704))}})"
-   536978663]
+   "mapped coordinate: (6648, {{[[calc]]: ((4096-2621))}})"
+   536978819]
   [23475 :block/uid "YfYQzQsik" 536969615]
   [23475 :create/time 1619718628988 536969615]
   [23475 :create/user 3 536969615]
-  [23475 :edit/time 1620464684034 536978663]
+  [23475 :edit/time 1620469738485 536978819]
   [23475 :edit/user 3 536969615]
   [23476 :block/children 23478 536969626]
   [23476 :block/heading 3 536969621]
@@ -78968,8 +78972,8 @@
   [23509 :version/id "0.8.5" 536969717]
   [23509
    :version/nonce
-   "uuidfe021c9c-1676-4e75-9a77-c091f0bc0a75"
-   536978757]
+   "uuid3876f361-a974-42fb-8340-b7a4881bba6e"
+   536978876]
   [23509
    :version/upgraded-nonce
    "uuid3e0db610-2368-4bba-a6c0-78075acb160c"
@@ -83192,7 +83196,7 @@
   [24009 :node/title "东胡 (Donghu)" 536971064]
   [24010 :block/children 24012 536971070]
   [24010 :block/children 24013 536971070]
-  [24010 :block/children 24345 536973141]
+  [24010 :block/children 25213 536978764]
   [24010 :block/open true 536971070]
   [24010 :block/uid "iRyh4uT1r" 536971066]
   [24010 :create/time 1619869294987 536971066]
@@ -86822,9 +86826,10 @@
   [24344 :edit/time 1620088673967 536973139]
   [24344 :edit/user 3 536973135]
   [24345 :block/open true 536973141]
-  [24345 :block/order 2 536973141]
+  [24345 :block/order 0 536978767]
   [24345 :block/page 24010 536973142]
   [24345 :block/parents 24010 536973142]
+  [24345 :block/parents 25213 536978768]
   [24345 :block/string "698年, 契丹占据营州" 536973145]
   [24345 :block/uid "-q1lHYHU0" 536973141]
   [24345 :create/time 1620088714526 536973141]
@@ -91116,7 +91121,7 @@
   [24751 :edit/user 3 536975662]
   [24751 :node/title "annex" 536975662]
   [24752 :block/open true 536975665]
-  [24752 :block/order 2 536975665]
+  [24752 :block/order 6 536978805]
   [24752 :block/page 15513 536975666]
   [24752 :block/parents 15513 536975666]
   [24752 :block/refs 24753 536975668]
@@ -95089,7 +95094,7 @@
   [25113 :block/children 25116 536977983]
   [25113 :block/children 25117 536977983]
   [25113 :block/open true 536977983]
-  [25113 :block/order 4 536977983]
+  [25113 :block/order 8 536978805]
   [25113 :block/page 15513 536977984]
   [25113 :block/parents 15513 536977984]
   [25113 :block/string "冷兵器" 536977983]
@@ -95136,7 +95141,7 @@
   [25117 :edit/user 3 536977983]
   [25118 :block/children 25119 536977983]
   [25118 :block/open true 536977983]
-  [25118 :block/order 3 536977983]
+  [25118 :block/order 7 536978805]
   [25118 :block/page 15513 536977985]
   [25118 :block/parents 15513 536977985]
   [25118 :block/string "城墙" 536977983]
@@ -95809,7 +95814,7 @@
   [25170 :edit/time 1620456312141 536978470]
   [25170 :edit/user 3 536978453]
   [25171 :block/children 25172 536978476]
-  [25171 :block/open false 536978568]
+  [25171 :block/open false 536978773]
   [25171 :block/order 1 536978471]
   [25171 :block/page 25169 536978472]
   [25171 :block/parents 25169 536978472]
@@ -95854,7 +95859,6 @@
   [25174 :edit/user 3 536978502]
   [25174 :node/title "裴行儉 (Pei Xingjian)" 536978502]
   [25175 :block/children 25176 536978522]
-  [25175 :block/children 25177 536978525]
   [25175 :block/children 25178 536978528]
   [25175 :block/children 25179 536978531]
   [25175 :block/open true 536978517]
@@ -95871,33 +95875,40 @@
   [25175 :edit/time 1620458876192 536978521]
   [25175 :edit/user 3 536978517]
   [25176 :block/open true 536978519]
-  [25176 :block/order 3 536978531]
+  [25176 :block/order 2 536978760]
   [25176 :block/page 25169 536978520]
   [25176 :block/parents 25169 536978520]
   [25176 :block/parents 25175 536978523]
+  [25176 :block/refs 24215 536978795]
+  [25176 :block/refs 25215 536978791]
+  [25176 :block/refs 25218 536978815]
   [25176
    :block/string
-   "In 702, when Wu Zetian was apparently contemplating further military action in the northeast and put the chancellor Wei Yuanzhong in command, Li Duozuo made acting commandant at You Prefecture (幽州, roughly modern Beijing), assisted by the generals Xue Na and Luo Wuzheng (駱務整). However, it appeared that military action was not launched."
-   536978527]
+   "In 702, when Wu Zetian was [apparently contemplating] [further military action in] the northeast 显然在考虑进一步的军事行动 and put the chancellor [[魏元忠 (Wei Yuanzhong)]] in command, Li Duozuo made [acting commandant] 代理指挥官 at You Prefecture (幽州, roughly modern Beijing), assisted by the generals [Xue Na]([[薛訥 (Xue Ne)]]) and [Luo Wuzheng (駱務整)]. However, it appeared that [military action](((1zVlOFgCm))) was not launched.\n210508-17:54"
+   536978817]
   [25176 :block/uid "78OxstZff" 536978519]
   [25176 :create/time 1620458876186 536978519]
   [25176 :create/user 3 536978519]
-  [25176 :edit/time 1620458883521 536978527]
+  [25176 :edit/time 1620467818648 536978817]
   [25176 :edit/user 3 536978519]
   [25177 :block/open true 536978525]
-  [25177 :block/order 2 536978531]
+  [25177 :block/order 0 536978760]
   [25177 :block/page 25169 536978526]
   [25177 :block/parents 25169 536978526]
   [25177 :block/parents 25175 536978526]
+  [25177 :block/parents 25178 536978761]
+  [25177 :block/refs 25213 536978770]
+  [25177 :block/refs 25214 536978778]
   [25177
    :block/string
-   "In 696, the Khitan chieftains Li Jinzhong and Sun Wanrong launched a major rebellion against Zhou rule, invading Zhou territory. Li Duozuo was one of the 28 generals sent against the Khitan, and after the Khitan rebellion ended in 697, Li Duozuo was given the slightly greater office of You Yulin Da Jiangjun (右羽林大將軍), and became the commander of the imperial guards at the north gate of the palace.\n\n"
-   536978530]
+   "In 696, the Khitan chieftains Li Jinzhong and Sun Wanrong [launched a major rebellion against] Zhou rule, invading Zhou territory. Li Duozuo was one of the 28 generals sent against the Khitan, and after the [Khitan rebellion](((qaxA2ssRd))) ended in 697, Li Duozuo was [given the slightly greater office] of You Yulin Da Jiangjun ([[右羽林大將軍 (Right Yulin Dajiangjun)]]), and became [the commander of the imperial guards] [at the north gate of the palace]."
+   536978780]
   [25177 :block/uid "ctdEKjoCi" 536978525]
   [25177 :create/time 1620458883516 536978525]
   [25177 :create/user 3 536978525]
-  [25177 :edit/time 1620458884690 536978530]
+  [25177 :edit/time 1620467535881 536978780]
   [25177 :edit/user 3 536978525]
+  [25178 :block/children 25177 536978760]
   [25178 :block/open true 536978528]
   [25178 :block/order 1 536978531]
   [25178 :block/page 25169 536978529]
@@ -95986,6 +95997,7 @@
   [25187 :edit/user 3 536978565]
   [25187 :node/title "阿史德元珍 (Ashide Yuanzhen)" 536978565]
   [25188 :block/children 25189 536978575]
+  [25188 :block/children 25229 536978822]
   [25188 :block/open true 536978569]
   [25188 :block/order 9 536978569]
   [25188 :block/page 15090 536978570]
@@ -95995,10 +96007,11 @@
   [25188 :block/uid "eeHuZGaej" 536978569]
   [25188 :create/time 1620459389403 536978569]
   [25188 :create/user 3 536978569]
+  [25188 :edit/seen-by 3 536978828]
   [25188 :edit/time 1620459391406 536978573]
   [25188 :edit/user 3 536978569]
   [25189 :block/open true 536978571]
-  [25189 :block/order 0 536978575]
+  [25189 :block/order 1 536978874]
   [25189 :block/page 15090 536978572]
   [25189 :block/parents 15090 536978572]
   [25189 :block/parents 25188 536978576]
@@ -96232,4 +96245,153 @@
   [25212 :create/time 1620466650093 536978730]
   [25212 :create/user 3 536978730]
   [25212 :edit/time 1620466697187 536978753]
-  [25212 :edit/user 3 536978730]]}
+  [25212 :edit/user 3 536978730]
+  [25213 :block/children 24345 536978767]
+  [25213 :block/open true 536978764]
+  [25213 :block/order 2 536978764]
+  [25213 :block/page 24010 536978765]
+  [25213 :block/parents 24010 536978765]
+  [25213 :block/string "696, 契丹反周" 536978766]
+  [25213 :block/uid "qaxA2ssRd" 536978764]
+  [25213 :create/time 1620467475877 536978764]
+  [25213 :create/user 3 536978764]
+  [25213 :edit/time 1620467476428 536978766]
+  [25213 :edit/user 3 536978764]
+  [25214 :block/uid "xrrCJue55" 536978778]
+  [25214 :create/time 1620467522254 536978778]
+  [25214 :create/user 3 536978778]
+  [25214 :edit/time 1620467522255 536978778]
+  [25214 :edit/user 3 536978778]
+  [25214 :node/title "右羽林大將軍 (Right Yulin Dajiangjun)" 536978778]
+  [25215 :block/uid "Q-qXxtUtV" 536978791]
+  [25215 :create/time 1620467675511 536978791]
+  [25215 :create/user 3 536978791]
+  [25215 :edit/time 1620467675511 536978791]
+  [25215 :edit/user 3 536978791]
+  [25215 :node/title "魏元忠 (Wei Yuanzhong)" 536978791]
+  [25217 :block/children 25218 536978800]
+  [25217 :block/open true 536978800]
+  [25217 :block/order 2 536978800]
+  [25217 :block/page 15513 536978801]
+  [25217 :block/parents 15513 536978801]
+  [25217 :block/string "general..." 536978800]
+  [25217 :block/uid "xJmzExNBk" 536978800]
+  [25217 :edit/seen-by 3 536978802]
+  [25217 :edit/time 1620467780207 536978800]
+  [25217 :edit/user 3 536978800]
+  [25218 :block/open true 536978800]
+  [25218 :block/order 0 536978800]
+  [25218 :block/page 15513 536978801]
+  [25218 :block/parents 15513 536978801]
+  [25218 :block/parents 25217 536978801]
+  [25218 :block/string "military action" 536978800]
+  [25218 :block/uid "1zVlOFgCm" 536978800]
+  [25218 :edit/seen-by 3 536978813]
+  [25218 :edit/time 1620467780207 536978800]
+  [25218 :edit/user 3 536978800]
+  [25220 :block/open true 536978805]
+  [25220 :block/order 4 536978805]
+  [25220 :block/page 15513 536978806]
+  [25220 :block/parents 15513 536978806]
+  [25220 :block/string "military service" 536978805]
+  [25220 :block/uid "h7ECoqDQe" 536978805]
+  [25220 :edit/time 1620467788815 536978805]
+  [25220 :edit/user 3 536978805]
+  [25221 :block/open true 536978805]
+  [25221 :block/order 5 536978805]
+  [25221 :block/page 15513 536978807]
+  [25221 :block/parents 15513 536978807]
+  [25221 :block/refs 25223 536978812]
+  [25221 :block/string "[[soldier]]" 536978811]
+  [25221 :block/uid "nCXp8EW6q" 536978805]
+  [25221 :edit/seen-by 3 536978810]
+  [25221 :edit/time 1620467793268 536978811]
+  [25221 :edit/user 3 536978805]
+  [25222 :block/open true 536978805]
+  [25222 :block/order 3 536978805]
+  [25222 :block/page 15513 536978808]
+  [25222 :block/parents 15513 536978808]
+  [25222 :block/string "military formation" 536978805]
+  [25222 :block/uid "aTDsY86yz" 536978805]
+  [25222 :edit/seen-by 3 536978809]
+  [25222 :edit/time 1620467788815 536978805]
+  [25222 :edit/user 3 536978805]
+  [25223 :block/uid "cNUHZWLNy" 536978812]
+  [25223 :create/time 1620467793270 536978812]
+  [25223 :create/user 3 536978812]
+  [25223 :edit/time 1620467793270 536978812]
+  [25223 :edit/user 3 536978812]
+  [25223 :node/title "soldier" 536978812]
+  [25225 :block/open true 536978822]
+  [25225 :block/order 0 536978830]
+  [25225 :block/page 15090 536978823]
+  [25225 :block/parents 15090 536978823]
+  [25225 :block/parents 25188 536978823]
+  [25225 :block/parents 25229 536978831]
+  [25225
+   :block/string
+   "所以[真正的不平等]，其实是[体现在区域上]的，也就是没有大城在身边的那些小城们，他们会陷入一个[长期的衰退]里。"
+   536978855]
+  [25225 :block/uid "sUT7L6aR9" 536978822]
+  [25225 :edit/seen-by 3 536978829]
+  [25225 :edit/time 1620475459294 536978855]
+  [25225 :edit/user 3 536978822]
+  [25226 :block/children 25227 536978838]
+  [25226 :block/children 25228 536978843]
+  [25226 :block/open true 536978822]
+  [25226 :block/order 1 536978833]
+  [25226 :block/page 15090 536978824]
+  [25226 :block/parents 15090 536978824]
+  [25226 :block/parents 25188 536978824]
+  [25226 :block/parents 25229 536978834]
+  [25226
+   :block/string
+   "我一直梦想有轰轰烈烈的[大规模内陆投资]，但现在看来，路线选了这条[折中线]。至于结果是全[面倾倒东南]，还是[拉起中部][稳住北方]（某些学者提的“长江防线”），最大的考验，其实不在大城和大城周围的小城，反而在[次一级大城]和大量小城的[管理者]身上。"
+   536978862]
+  [25226 :block/uid "XZDtaZOWL" 536978822]
+  [25226 :edit/seen-by 3 536978832]
+  [25226 :edit/time 1620475485479 536978862]
+  [25226 :edit/user 3 536978822]
+  [25227 :block/open true 536978822]
+  [25227 :block/order 0 536978838]
+  [25227 :block/page 15090 536978825]
+  [25227 :block/parents 15090 536978825]
+  [25227 :block/parents 25188 536978825]
+  [25227 :block/parents 25226 536978839]
+  [25227 :block/parents 25229 536978837]
+  [25227 :block/string "就是拼[社会治理的能力]，拼[运营]。" 536978864]
+  [25227 :block/uid "jRuXRk034" 536978822]
+  [25227 :edit/seen-by 3 536978835]
+  [25227 :edit/time 1620475490013 536978864]
+  [25227 :edit/user 3 536978822]
+  [25228 :block/open true 536978822]
+  [25228 :block/order 1 536978843]
+  [25228 :block/page 15090 536978826]
+  [25228 :block/parents 15090 536978826]
+  [25228 :block/parents 25188 536978826]
+  [25228 :block/parents 25226 536978844]
+  [25228 :block/parents 25229 536978842]
+  [25228
+   :block/string
+   "有些[管理者]一[调任]，地方民间[一片挽留声]。这不是说老百姓有[封建思想]，而是说这些管理者及其团队有着[更高效的运营思路]。"
+   536978869]
+  [25228 :block/uid "xCa6HKNIJ" 536978822]
+  [25228 :edit/seen-by 3 536978840]
+  [25228 :edit/time 1620475504067 536978869]
+  [25228 :edit/user 3 536978822]
+  [25229 :block/children 25225 536978830]
+  [25229 :block/children 25226 536978833]
+  [25229 :block/open true 536978822]
+  [25229 :block/order 0 536978874]
+  [25229 :block/page 15090 536978827]
+  [25229 :block/parents 15090 536978827]
+  [25229 :block/parents 25188 536978827]
+  [25229 :block/refs 15061 536978876]
+  [25229
+   :block/string
+   "但是也没有[不让小城市发展]。实际上[大城周围的小城]，[未来十年]应该是[新一轮黄金增长]，因为他们[要承担][大城的功能配置]，[要承接]大量大城的[产业转移](https://www.zhihu.com/question/39421902/answer/1868942332)。 #pt8-99.98"
+   536978875]
+  [25229 :block/uid "EThUwJYgk" 536978822]
+  [25229 :edit/seen-by 3 536978828]
+  [25229 :edit/time 1620475579412 536978875]
+  [25229 :edit/user 3 536978822]]}

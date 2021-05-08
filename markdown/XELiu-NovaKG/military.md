@@ -1,6 +1,11 @@
 - [[commandery]]: 骑士团管理地;
 - defence...
     - [[defence spending]]
+- general...
+    - military action
+- military formation
+- military service
+- [[soldier]]
 - [[war]]
 - 城墙
     - [[雉堞 (zhidie)]]
