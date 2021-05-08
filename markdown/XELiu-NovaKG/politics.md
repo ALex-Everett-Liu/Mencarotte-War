@@ -15,6 +15,9 @@
 - [[nation]]
     - [[nation/state]]
         - [[statelet]];
+- [[politics/plot]]; 密谋; 阴谋
+    - [[coup]]: 政变
+    - join the plot;
 - political activity
 - [[political economy]]
 - [[political philosophy]]
@@ -42,6 +45,8 @@
         - tribal confederation
     - 君主制
         - [[regent]]; [[regency]]
+        - 继承制度
+            - [[crown prince]]: 王储 
 - #inbox
     - Sweden -- 每年[本地税务局]还会出本[小册子](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1998817&extra=page%3D1%26filter%3Dtypeid%26typeid%3D141&page=3)，200kr一本，里面像[电话本]一样列出了所有[在本地纳税的人]的收入，从A到Ä，精确到百位，无一遗漏 #pt9-100
         - 社会主义, 高度单一的社会组成和[一致的价值观]. 瑞典的所有行为根源上都可以找到这点. 所以现在随着移民引入问题越来越多.

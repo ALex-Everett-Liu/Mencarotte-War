@@ -8,6 +8,7 @@
 - [[soldier]]
 - [[war]]
 - 城墙
+    - [[翁城 (wengcheng)]]
     - [[雉堞 (zhidie)]]
 - 冷兵器
     - bow

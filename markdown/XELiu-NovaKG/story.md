@@ -7,7 +7,7 @@
     - [[protagonist]]
 - [[core conflict]]
 - open-ended
-- [[plot]]
+- [[story/plot]]
     - story or plot outline;
 - storyline
 - storyteller
