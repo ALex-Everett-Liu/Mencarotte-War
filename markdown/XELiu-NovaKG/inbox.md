@@ -1,14 +1,17 @@
 - draft
     - mapped coordinate: (6389, {{[[calc]]: ((4096-2666))}})
+    - 
     - ...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
 - quick todo
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; 
-    - old pc trash check;; wayback machine, archive.org;; 小红书, douyin;; Grammarly-like;; digikam;; 
+    - old pc trash check;; 小红书, douyin;; Grammarly-like;; digikam;; 
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
     - 丝路大亨; 重生传奇; 吾家有妻骄养成; asmr .txt
     - 御姐; 
     - 擦鞋去污渍的喷雾;; 
+    - wayback machine, archive.org;; 
+        - https://archive.is/
     - ---
     - webpage
         - https://www.zhihu.com/people/jin-wei-66-63

@@ -10,4 +10,4 @@
 - Northeast China;
 - [[弱水 (River Ruo)]]
     - [[胡里改路 (Huligai Lu)]]
-    - [[水达达路 (Shuidada Lu)]]
+    - [[水达达路 (Shuidada Lu)]]; 水鞑靼; usu irgen

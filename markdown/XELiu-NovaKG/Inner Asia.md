@@ -15,7 +15,7 @@
         - [[Lake Baikal]]
         - [[Onon River]]
     - [[Tungusic peoples]]; ツングース系
-        - [[Jurchen]]
+        - [[Jurchen]]; 女真; 女直
         - [[靺鞨 (Mohe)]]; 靺羯
             - [[沃沮 (Okjeo)]]
             - [[勿吉 (Wuji)]]

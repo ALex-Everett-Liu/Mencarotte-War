@@ -5,3 +5,4 @@
         - [[勃利州 (Berizhou)]]
         - 派驻长史;
     - [[窟说部 (Kur-il)]]
+- 黃頭都督 (Huangtou Dudu)
