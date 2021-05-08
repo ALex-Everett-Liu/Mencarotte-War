@@ -1,0 +1,7 @@
+- dictionary 
+    - handicraft industry; 
+    - [Weaving and knitting] 编织和针织 are [traditional cottage industries]. 家庭 《牛津高阶英汉双解词典》
+    - All kinds of [traditional craft industries](((di_1LXIAx))) are preserved here. 《柯林斯高阶英汉双解学习词典》
+    - Bookbinding is largely a [cottage industry]. 装订业
+    - Finding animals that [engage in the human activity] of [tool use] has become a bit of a cottage industry. www.[hjenglish].com
+    - The company has some 10,000 [shop owners], or individuals who have [designed products], from shoes to cellphone cases, that they print out and sell through Shapeways' website. www.[kekenet].com

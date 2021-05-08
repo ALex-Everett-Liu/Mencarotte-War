@@ -6,7 +6,8 @@
 - [[political economy]]
 - 产业
     - [[local specialties]]; local product
-    - 制造业
+    - [[manufacturing]]; 制造业
+    - [[service]]; 服务业
 - 反垄断
 - 房地产
     - #inbox

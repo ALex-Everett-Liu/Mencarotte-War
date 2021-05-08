@@ -1,0 +1,12 @@
+- feudal
+    - [[feudal government]]
+- [[regent]]; [[regency]]
+- 继承制度
+    - [[crown prince]]: 王储 
+- ---
+- dictionary 
+    - The [[revolution]] [tolled the death knell for] the [Russian monarchy]. 敲响了丧钟 《牛津高阶英汉双解词典》
+    - The monarchy is [seen by many people as] [an anachronism in the modern world]. 不合时宜
+    - To them, the monarchy is the [special symbol] of nationhood. 独立国地位 《柯林斯高阶英汉双解学习词典》
+    - We are beginning to muddle 混淆 the [extended royal family] 皇室大家庭 and the monarchy. 
+    - By all accounts, 据各方面记述 the monarchy [does not excite strong feelings] [among the majority of] Romanians.

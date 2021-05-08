@@ -1,6 +1,7 @@
 - [[Chinese history]]
 - ethnics
     - ethnic group
+- [[historian]]
 - [[historical geography]]
 - [[Inner Asia]]
     - [[Japan]]

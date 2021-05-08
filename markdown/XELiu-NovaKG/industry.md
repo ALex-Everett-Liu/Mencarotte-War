@@ -1,0 +1,7 @@
+- [[light industry]]
+    - [[cottage industry]]
+        - craft industry
+        - [[clothing]]
+            - [[fur]]; animal skin and hair
+- [[manufacturing]]; 制造业
+- [[mining]]; [[mining industry]]

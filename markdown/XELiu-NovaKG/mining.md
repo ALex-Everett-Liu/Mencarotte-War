@@ -1,0 +1,10 @@
+- gem
+    - [[jade]]
+        - [[red jade]]
+- ---
+- dictionary
+    - Mining rose by 9.1%, [[manufacturing]] by 9.4% and [[service]]s by 4.3%. 《柯林斯高阶英汉双解学习词典》
+    - The reserve bank, 澳大利亚央行 meanwhile, [seems well-disposed to] 非常欢迎 [an exuberant mining sector], if it [offsets weakness elsewhere]. 弥补其它领域的一蹶不振 www.[[ftchinese]].com
+    - [For an industry that] has failed to [keep up with technologies used in] [big engineering projects] such as the [Channel Tunnel], 英法海底隧道 this is revolutionary. 
+    - In contrast to E. On the [Industrial Classification] of [Geological Prospecting] and Mining. 地勘业 dict.cnki.net
+    - Some [Canadian schools] are also [taking advantage of] the [mining boom]; 繁荣的采矿业 Schulich now has a mining [[Master in Business Administration (MBA)]]. www.[ecocn].org

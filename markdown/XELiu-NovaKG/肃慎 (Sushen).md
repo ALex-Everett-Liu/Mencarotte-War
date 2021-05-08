@@ -10,7 +10,7 @@
 210422-09:08
         - [It's an auspicious sign for] [Chinese people] to [see the Magpies]. 吉兆 喜鹊 danci.[911cha].com
         - This is [a rainbow appeared above] the pavilion in [World Exposition], 尼泊尔馆 上海世博会 which was [an auspicious sign offered by] [the dragon and devas]. [天龙护法]供养的吉祥瑞相 [blog.sina]([[sina blog]]).com.cn
-    - From the 3rd century to the 6th century, the name Sushen was [used as an alias for] the [[挹娄 (Yilou)]], who were in [eastern Manchuria]. However, the connection between the Yilou and the [ancient Sushen] is unclear. [Some historians think that] Chinese, [having heard that] the Yilou [paid arrows as tribute], [linked them with] the Sushen [based on knowledge of] [ancient documents]. They [paid tribute several times] and [pleased rulers of Northern China]. The Yilou [disappeared from documents] in the 6th century. The [[靺鞨 (Mohe)]] [rose into power] there instead.[4](((edut4dQjV)))
+    - From the 3rd century to the 6th century, the name Sushen was [used as an alias for] the [[挹婁 (Yilou)]], who were in [eastern Manchuria]. However, the connection between the Yilou and the [ancient Sushen] is unclear. [Some historians think that] Chinese, [having heard that] the Yilou [paid arrows as tribute], [linked them with] the Sushen [based on knowledge of] [ancient documents]. They [paid tribute several times] and [pleased rulers of Northern China]. The Yilou [disappeared from documents] in the 6th century. The [[靺鞨 (Mohe)]] [rose into power] there instead.[4](((edut4dQjV)))
 210422-09:58
 - The Chinese characters of the name [can also be found in] [Japanese documents], in which the characters are [annotated and read as] __Mishihase or Ashihase__. According to the [[日本书纪 (Nihon Shoki)]], the [[Mishihase]] first arrived to [Sado Province]([[佐渡 (Sado)]]) [during the reign of] [[Emperor Kimmei]]. In 660, [Japanese General] [[Abe no Hirafu]] defeated the Mishihase in Hokkaidō [by request from the native inhabitants].[5](((2o-u7dlUO)))
 210422-10:04
@@ -79,7 +79,7 @@ Baxter–Sagart (2014)	*/siwk-[d]i[n]-s/
     - [[莺歌岭遗址]] 位于中国黑龙江省宁安县[牡丹江流域][镜泊湖畔]，目前判断为商周时期肃慎人一支群落的文化遗存。[2]碳-14测定的年代为 公元前1940±55年（ZK89）与公元前1190±145年（ZK88）。
     - [Archeological relics](((z9SNVn1Ch))) in the area are attributed to the [[西团山文化 (Xituanshan Culture)]].[1](((4Gtxbunz3)))
         - 西团山文化[遗址群] 指[中国东北地区][松花江中游][吉林市附近]西团山、长蛇山、两半山、猴石山、星星哨、土城子等遗址所代表的“西团山文化”，该[遗址文化群][目前判定为]是春秋战国时代[肃慎人社会][发展较快的][一支群落]的[文化遗存]。[2](((lzY-ztUtf)))
-    - 宁安县[[东康遗址]]，也揭示了[挹娄社会]的某些内容[需要解释]。该遗址[用碳-14测定的年代]为公元255±85年和公元315±95（ZK85），相当于后汉三国之际。
+    - 宁安县[[东康遗址]]，也[揭示了][挹娄社会]的[某些内容][需要解释]。该遗址[用碳-14测定的年代]为公元255±85年和公元315±95（ZK85），相当于[后汉三国][之际]。
 - 关于“肃慎”在[民族学]上的讨论
     - 近来有[少数学者]（如徐松石著《日本民族渊源》）认为，实质上的[通古斯民族](((UY-wvypeW)))此时尚在[蒙古高原东北部]，尚未从其他[阿尔泰民族](((3MdxJnVY2)))的[共同始祖民族（群体）][需要解释]中分化出来。
         - 勿吉与肃慎、挹娄是[同种异族]，[婚丧习俗]不同，而不是[同一民族][不同时代不同称呼][来源请求]。[原创研究？]

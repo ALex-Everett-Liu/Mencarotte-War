@@ -1,0 +1,7 @@
+- [[sable skin]]: 紫貂皮 
+- ---
+- dictionary 
+    - [Removing fat] 去脂 is a [major working procedure] 工序 in the Economic [animal skin process]. dict.cnki.net
+    - The [unidentified artist] 不知名的 also used rubber, glass, [animal hair] and [sheet metal]. 金属片 jiangtianran.[tianyablog].com
+    - Mandalas were originally made from [Buffalo hides], 水牛皮 [Eagle feathers], and wild animal furs. word.hcbus.com
+    - [As the nights lengthened] and [grew colder], we exchanged our [grass mats] and [solitary beds] 草垫和单薄的床 for [a heap of animal skins] and stolen blankets. 毯子 www.[ebigear].com

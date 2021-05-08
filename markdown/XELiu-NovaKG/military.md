@@ -11,7 +11,8 @@
     - [[翁城 (wengcheng)]]
     - [[雉堞 (zhidie)]]
 - 冷兵器
-    - bow
+    - [[bow]]
+        - [[archer]]
         - sandalwood bow
     - foot soldier
-    - spear
+    - [[spear]]

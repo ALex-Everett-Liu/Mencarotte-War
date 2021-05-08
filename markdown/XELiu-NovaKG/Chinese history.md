@@ -12,6 +12,7 @@
     - [[东夷 (Dongyi)]]
 - The First Empire of China
     - [[汉王朝 (Han dynasty)]]
+    - [[三国 (Three Kingdoms)]]
     - [[晋与十六国]]
 - The Second Empire of China
     - [[唐王朝 (Tang dynasty)]]

@@ -1,0 +1,3 @@
+- [[chiefdom]]; chieftain
+- head; 大人
+- tribal confederation
