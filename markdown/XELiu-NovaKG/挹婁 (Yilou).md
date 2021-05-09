@@ -14,7 +14,7 @@ Yilou is the modern Chinese name of a people in 3rd- to 6th-century Manchuria.
 210509-06:48
         - [两汉时期]他们是[继肃慎后]生活在今天[中国东北地区]的民族，[东汉以来]他们是[夫余臣民]，扶余对他们[课以重税]，魏[黄初三年]叛。扶余[多次发兵镇压][终不能服](((ytBZRAdUU)))。[魏明帝]与[魏元帝]时代也有[进贡]，在[北魏]前也有[向中原进贡]，唐代属[黑水部]，[一直生活到][渤海国时代][被渤海人统治]，在辽代属[五国部]，金代属胡里改路，他们是[建州女真][族源之一]。
         - 明帝（在位：226年 - 239年）の青龍4年（236年）5月、粛慎（挹婁）は[楛矢を献上した]。
-            - 元帝（在位：260年 - 265年）の景元3年（262年）4月、[[遼東郡 (Liaodong Shire)]]の報告で、粛慎国（挹婁）の遣使が[重譯（[二重通訳して](Nijū tsūyakushite)）][2]入貢し、長さ3尺5寸の弓30張，長さ1尺8寸の楛矢，石弩300枚，皮骨鉄雑鎧20領，貂皮400枚を献上してきた。元帝は詔で[相府に帰属させ]、その王に[錦罽と綿帛を賜った]。
+            - 元帝（在位：260年 - 265年）の景元3年（262年）4月、[[遼東郡 (Liaodong Shire)]]の報告で、粛慎国（挹婁）の遣使が[重譯（[二重通訳して](Nijū tsūyakushite)）][2](((PQNT8A87p)))入貢し、長さ3尺5寸の弓30張，長さ1尺8寸の楛矢，石弩300枚，皮骨鉄雑鎧20領，貂皮400枚を献上してきた。元帝は詔で[相府に帰属させ]、その王に[錦罽と綿帛を賜った]。
     - The Yilou [disappeared from documents] [in the 6th century]. The [[靺鞨 (Mohe)]] [rose into power] there instead.[2]
     - A map of 1st century [Korea and Manchuria], with the early Yilou [placed to the northeast](https://en.wikipedia.org/wiki/File:History_of_Korea-001.png)
         - ![korea-northeast-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FD7u-r8PY3m.png?alt=media&token=d769a887-cac7-46ae-acbf-e48e8c53e386)
@@ -44,7 +44,7 @@ Elevation & shade: GMTED2010
 210509-06:17
         - From page 36. — Preceding [unsigned](https://en.wikipedia.org/wiki/Wikipedia:Signatures) comment added by [Torneberge](https://en.wikipedia.org/wiki/User:Torneberge) ([talk] • [contribs](https://en.wikipedia.org/wiki/Special:Contributions/Torneberge)), 01:50, 9 January 2019 (UTC)
 - History
-    - 古の粛慎（しゅくしん）の[末裔](matsuei)とされ、魏代・晋代でもそのまま粛慎[と呼ばれ続けた]。挹婁の呼称は、[彼等自身の自称]ではなく、鏃（yoro）、箭や後の牛禄（niru）、坑（yeru）などの[音訳]と考えられている[1]。
+    - 古の粛慎（しゅくしん）の[末裔](matsuei)とされ、魏代・晋代でもそのまま粛慎[と呼ばれ続けた]。挹婁の呼称は、[彼等自身の自称]ではなく、鏃（yoro）、箭や後の牛禄（niru）、坑（yeru）などの[音訳]と考えられている[1](((yeLhW1WSi)))。
     - 武帝（在位：265年 - 289年）の咸寧5年（279年）12月、粛慎（挹婁）は楛矢石砮を献上した。
         - 東晋の元帝（在位：317年 - 322年）の大興2年（319年）8月、粛慎（挹婁）は江東（建康）に詣でて楛矢石砮を献上した。
         - 成帝（在位：325年 - 342年）の時代、後趙の石虎（在位：334年 - 349年）に朝貢した。
@@ -61,10 +61,9 @@ Elevation & shade: GMTED2010
     - The [[三国志 (Records of the Three Kingdoms)]] records that the Yilou were located more than a thousand li[3](((guGMrS2cT))) north of Buyeo [in forests covering mountainous terrain] that had formerly been the kingdom of the Sushen clan. The text reports that, although the Yilou were [subjects of Buyeo], they did not [speak the same language as] the people of Buyeo and [[高丽 (Goryeo)]]. 
     - [The text's author] did not know the [northern extent] of Yilou territory, but they reportedly [had access to the sea], as they [sailed in boats] to [plunder other kingdoms]. The text notes that the Yilou were [the most undisciplined] of the [Eastern Barbarians], 最不守纪律的 as they were the only ones not to use [sacrifical vessels] for [food and drink].[4] 器皿
 (扶余和高丽操同种语言，挹娄和肃慎的语言与之不同-挹娄人驾船出海劫掠他国-挹娄乃东夷中最野蛮一支)
-- 習俗
+- [習俗](Shūzoku)
     - According to the Records of the Three Kingdoms, the Yilou had access to grain, cattle, horses, and sackcloth, 粗麻布衣 and they produced [[red jade]] and good-quality [[sable skin]]s, for which they were well known. The Yilou were [talented archers]([[archer]]) and [had a tendency to] [poison their arrowtips] so that anyone they [hit with their arrows] died. They [raised pigs for] [food and clothing], and they [smeared themselves with] [pig fat] in winter to [protect themselves from the cold]. Settlements were [centred around pig pens], and homes were typically [pit houses], with those of the [wealthy families] [descending as far as nine steps below ground]. They apparently [had no single ruler]; instead, [each settlement] [had its own head](((cKrI8GYQ6))) (Chinese: 大人; pinyin: dàren).[4](((176_QMh7A)))
 210509-04:34, 04:54
-        - 物产 -- 五谷、牛、马、麻布、赤玉、貂皮。
     - 穴居，养猪衣皮食肉（夏季[接近全裸]），冬以[豕膏][涂身]。他们[好穴居][作厕家中]，食饮无俎豆，用尿洗手。他们[每年夏天]也[抄掠北沃沮]([[北沃沮 (North Okjeo)]])（用毒箭攻击），[陈寿说]他们是东夷中[最无纲纪]。
     - 衣食住と人尿洗顔
         - 挹婁の[生活スタイル]は、その[東夷諸国](Tōi shokoku)のなかでは[極めて特異である]。まず、挹婁人は[地上に家を建てず]、[地下に縦穴（竪穴）を掘り]生活する。竪穴は深く（[梯子の段数]が多く）かつ大きいほど尊ばれたという。住居を地中に構えたのは、[防寒の為]と考えられている。さらに、[部屋の中央に置いた][尿を溜めた容器]を囲んで暮らし、その人尿で[手や顔を洗った]という。[尿に含まれるアンモニア](Nyō ni fukumareru Anmonia)は[弱アルカリ性]のために[皮脂汚れを落とす]効果があり、[古代ローマ]では[回収した尿で洗濯する業者](((lH8jWA3CG)))がいたことが[現代では知られている]が、[当時の中国大陸]では[そのような習俗はなく]、『三国志』や『後漢書』では「その人々不潔」、「その人々臭穢不潔」と[あらわしている](表している)。
@@ -81,11 +80,18 @@ Elevation & shade: GMTED2010
         - [死者が出たらその日のうちに][木を交えて小槨を作り]、[死者の糧とするために][豬（ブタ）を殺して]その上に積み、土葬する。また、[男子で泣く者は]「男らしくない」と言われるため、父母が死んでも、男子は泣かない。
     - 刑罰
         - [最大の罪である][窃盗をした者]は、[その盗んだ物](nusunda mono)が[多かれ少なかれ死罪となる]。
-- 言語系統
+    - 政治
+        - 挹婁には[統一的な指導者]は存在せず、邑落ごとに大人（たいじん：[部族長]）がいた。
+    - [産業](sangyou)
+        - 五穀、麻布、赤玉、[良質の貂]（“挹婁の貂”）を[産出](Sanshutsu)。[主な食料調達手段](Omona shokuryō chōtatsu shudan)は漁業で[漁網や釣竿が見つかっている]。次いで農耕や養豚、他には[狩猟や養犬も行っていた]。
+物产 -- 五谷、牛、马、麻布、赤玉、貂皮。
+        - [晋代の記録]では「[馬がいる]が騎乗はせず、牛[9]と羊がいないが、多くの[猪（ブタ）を飼っている]」とあり、[家畜]は彼らの財産であった。また、[遺跡](iseki)からは猪と共に多数の[魚や犬の骨が発見されている]が、牛や鹿など[他の動物の骨]は[あまり見られない][10]。
+210510-03:51
+- [言語系統](Gengo keitō)
     - The [[三国志 (Records of the Three Kingdoms)]] records that the Yilou were located more than a thousand li[3](((guGMrS2cT))) north of Buyeo [in forests covering mountainous terrain] that had formerly been the kingdom of the Sushen clan. The text reports that, although the Yilou were [subjects of Buyeo], they did not [speak the same language as] the people of Buyeo and [[高丽 (Goryeo)]]. 
-    - 挹婁の言語について、[中国の史書]は「言語は独異」と記しており[3]、当時の[東北アジア]の中でも[独特の言語を使用していた]ことがわかる。
+    - 挹婁の言語について、[中国の史書]は「言語は独異」と記しており[3]、当時の[東北アジア]の中でも[独特の言語を使用していた](dokutoku no gengo o shiyōshiteita)ことがわかる。
         - ツングース系説…挹婁がのちの女真族（ツングース系）であること、[比較言語学的研究]により粛慎系の語彙がツングース系に近いということ[4]から、古くから支持されてきた説であり、現在では[発掘調査による]出土品から日用品や居住形態、[食生活の連続性]が確認されているため[5]、挹婁は[女真の祖先]であり、[言語系統]も[ツングース系]([[Tungusic language family]])とされる。ただし、史書において粛慎系[と言語が異なるとされる]夫余や高句麗も、日本ではツングース系とされることがあるので[6]、両系統（粛慎系、濊系）ともツングース系の[可能性もある]。
-        - 古シベリア（古アジア）系説…その[独特の言語]、習俗から、勿吉等の粛慎系の言語はツングース系ではなく、[ニヴフ（ギリヤーク）]などの[古シベリア系]([[Paleosiberian languages]])ではないかとする説。過去にシロコゴロフ[7]や三上次男[8]などが[提唱した]。
+        - 古シベリア（古アジア）系説…その[独特の言語]、習俗から、勿吉等の粛慎系の言語はツングース系ではなく、[ニヴフ（ギリヤーク）]などの[古シベリア系]([[Paleosiberian languages]])ではないかとする説。過去にシロコゴロフ[7]や[[三上次男]][8]などが[提唱した](teishou)。
 - 民族系统
     - [三上次男]与[[白鸟库吉]]说挹娄在满语[解鹿（使鹿部）][需要解释]，但他们其实以养猪，捕猎，[简单农业][为主]。他们[用毒箭]，作厕家中，[穴居]与[用尿洗手]的习惯与[濊人]([[濊貊 (Weimo)]])相似。[东夷传说]他们[形似扶余]但[语言不通]。挹娄[另一解释]是[洞穴]。
 210509-06:40
@@ -93,6 +99,9 @@ Elevation & shade: GMTED2010
     - Sushen people
 
     - Mohe, Jurchen, and Manchu peoples
+- [脚注](Kyakuchū)
+    - [1]: 『アルタイ語系　語言文化比較研究』3章2節
+    - [2]: 挹婁の言葉は夫余の言葉と違うため、一旦[夫余語]に通訳してから、漢語に通訳したものと思われる。
 - References
     - [1]: Byington, Mark E. (2016). __The Ancient State of Puyŏ in Northeast Asia__. [Harvard University] [Asia Center]. p. 36. [ISBN] [9780674737198](https://en.wikipedia.org/wiki/Special:BookSources/9780674737198).
     - [2]: ["Chinese History – The Non-Chinese peoples and states of the northeast"](http://www.a3guo.com/en/china/History/Altera/northeast.html). Retrieved 5 April 2009..
