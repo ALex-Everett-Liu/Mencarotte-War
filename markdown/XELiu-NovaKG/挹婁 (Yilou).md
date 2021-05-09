@@ -57,9 +57,6 @@ Elevation & shade: GMTED2010
     - 《三国志》说他们在夫余与[北沃沮]与高句丽[以北一千里]，[西接]寇漫汗国[来源请求]，在现在[依兰县]至[俄国远东区][犹太自治州]（乌苏里江，牡丹江至[日本海]）。[佳木斯]是他们[最集中的地方]。[来源请求]
     - 『三国志』には、夫余の東北千余里のところにおり、[大海に面し](Taikai ni menshi)、南は北沃沮と[境を接し]、北は[どこまで及ぶ]のかわからない。その土地は[険しい山地]が多い。気候は寒冷で、夫余よりも厳しいとあり、外満州（現在の[ロシア連邦][沿海地方]）の松花江流域に居住した。
 210509-11:58
-- 民族系统
-    - [三上次男]与[[白鸟库吉]]说挹娄在满语[解鹿（使鹿部）][需要解释]，但他们其实以养猪，捕猎，[简单农业][为主]。他们[用毒箭]，作厕家中，[穴居]与[用尿洗手]的习惯与[濊人]([[濊貊 (Weimo)]])相似。[东夷传说]他们[形似扶余]但[语言不通]。挹娄[另一解释]是[洞穴]。
-210509-06:40
 - Accounts by outsiders (Records of the Three Kingdoms)
     - The [[三国志 (Records of the Three Kingdoms)]] records that the Yilou were located more than a thousand li[3](((guGMrS2cT))) north of Buyeo [in forests covering mountainous terrain] that had formerly been the kingdom of the Sushen clan. The text reports that, although the Yilou were [subjects of Buyeo], they did not [speak the same language as] the people of Buyeo and [[高丽 (Goryeo)]]. 
     - [The text's author] did not know the [northern extent] of Yilou territory, but they reportedly [had access to the sea], as they [sailed in boats] to [plunder other kingdoms]. The text notes that the Yilou were [the most undisciplined] of the [Eastern Barbarians], 最不守纪律的 as they were the only ones not to use [sacrifical vessels] for [food and drink].[4] 器皿
@@ -87,8 +84,11 @@ Elevation & shade: GMTED2010
 - 言語系統
     - The [[三国志 (Records of the Three Kingdoms)]] records that the Yilou were located more than a thousand li[3](((guGMrS2cT))) north of Buyeo [in forests covering mountainous terrain] that had formerly been the kingdom of the Sushen clan. The text reports that, although the Yilou were [subjects of Buyeo], they did not [speak the same language as] the people of Buyeo and [[高丽 (Goryeo)]]. 
     - 挹婁の言語について、[中国の史書]は「言語は独異」と記しており[3]、当時の[東北アジア]の中でも[独特の言語を使用していた]ことがわかる。
-        - ツングース系説…挹婁がのちの女真族（ツングース系）であること、[比較言語学的研究]により粛慎系の語彙がツングース系に近いということ[4]から、古くから支持されてきた説であり、現在では[発掘調査による]出土品から日用品や居住形態、[食生活の連続性]が確認されているため[5]、挹婁は[女真の祖先]であり、言語系統も[ツングース系]とされる。ただし、史書において粛慎系と言語が異なるとされる夫余や高句麗も、日本ではツングース系とされることがあるので[6]、両系統（粛慎系、濊系）ともツングース系の可能性もある。
-        - 古シベリア（古アジア）系説…その独特の言語、習俗から、勿吉等の粛慎系の言語はツングース系ではなく、ニヴフ（ギリヤーク）などの古シベリア系ではないかとする説。過去にシロコゴロフ[7]や三上次男[8]などが提唱した。
+        - ツングース系説…挹婁がのちの女真族（ツングース系）であること、[比較言語学的研究]により粛慎系の語彙がツングース系に近いということ[4]から、古くから支持されてきた説であり、現在では[発掘調査による]出土品から日用品や居住形態、[食生活の連続性]が確認されているため[5]、挹婁は[女真の祖先]であり、[言語系統]も[ツングース系]([[Tungusic language family]])とされる。ただし、史書において粛慎系[と言語が異なるとされる]夫余や高句麗も、日本ではツングース系とされることがあるので[6]、両系統（粛慎系、濊系）ともツングース系の[可能性もある]。
+        - 古シベリア（古アジア）系説…その[独特の言語]、習俗から、勿吉等の粛慎系の言語はツングース系ではなく、[ニヴフ（ギリヤーク）]などの[古シベリア系]([[Paleosiberian languages]])ではないかとする説。過去にシロコゴロフ[7]や三上次男[8]などが[提唱した]。
+- 民族系统
+    - [三上次男]与[[白鸟库吉]]说挹娄在满语[解鹿（使鹿部）][需要解释]，但他们其实以养猪，捕猎，[简单农业][为主]。他们[用毒箭]，作厕家中，[穴居]与[用尿洗手]的习惯与[濊人]([[濊貊 (Weimo)]])相似。[东夷传说]他们[形似扶余]但[语言不通]。挹娄[另一解释]是[洞穴]。
+210509-06:40
 - See also
     - Sushen people
 

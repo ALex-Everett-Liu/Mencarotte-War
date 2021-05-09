@@ -1,7 +1,7 @@
 - draft
     - mapped coordinate: (6486, {{[[calc]]: ((4096-2617))}})
     - 
-    - ...
+    - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
 - quick todo
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; 
