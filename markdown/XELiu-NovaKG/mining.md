@@ -1,6 +1,6 @@
 - gem
     - [[jade]]
-        - [[red jade]]
+        - [[red jade]]: 赤玉
 - ---
 - dictionary
     - Mining rose by 9.1%, [[manufacturing]] by 9.4% and [[service]]s by 4.3%. 《柯林斯高阶英汉双解学习词典》

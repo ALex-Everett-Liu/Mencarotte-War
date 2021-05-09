@@ -3,13 +3,11 @@
 - [[东胡 (Donghu)]]
     - [[Khitan (契丹)]]
     - [[室韦 (Shiwei)]]
-- Northeast?
+- Northeast; 東夷諸国
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
     - [[高句丽 (Goguryeo)]]; Gaogouli
         - [[安東都護府 (Andong Duhufu)]]
-    - [[濊貊 (huimo)]]
-        - [[小水貊 (xiaoshuimo)]]
-        - [[东濊 (Eastern Ye)]]
+    - [[濊貊 (Weimo)]]
     - [[Korea]]
     - [[寇漫汗 (Koumanhan)]]
     - [[Siberia]]

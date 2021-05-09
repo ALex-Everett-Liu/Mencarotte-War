@@ -14,3 +14,4 @@
 - [[permission]]; [[grant right]]
 - [[public domain]]
 - reusing content
+    - [[derivative work]]
