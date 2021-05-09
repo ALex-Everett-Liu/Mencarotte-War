@@ -53,15 +53,16 @@ Elevation & shade: GMTED2010
     - 近来有[少数学者]（如徐松石著《日本民族渊源》）认为，实质上的[通古斯民族](((UY-wvypeW)))此时尚在[蒙古高原东北部]，尚未从其他[阿尔泰民族](((3MdxJnVY2)))的[共同始祖民族（群体）][需要解释]中分化出来。
         - 但这里[仍有争议]，因为肃慎、挹娄[等等称呼][未必是][该民族自身称呼]，而是[不同时期][不同的人][对他们的叫法]，用肃慎及[女真古音][去对应]，[不能证明]两者不是[同一族系]。
 210509-06:33
-- 民族系统
-    - [三上次男]与[[白鸟库吉]]说挹娄在满语[解鹿（使鹿部）][需要解释]，但他们其实以养猪，捕猎，[简单农业][为主]。他们[用毒箭]，作厕家中，[穴居]与[用尿洗手]的习惯与[濊人]([[濊貊 (Weimo)]])相似。[东夷传说]他们[形似扶余]但[语言不通]。挹娄[另一解释]是[洞穴]。
-210509-06:40
 - 地理/分布
     - 《三国志》说他们在夫余与[北沃沮]与高句丽[以北一千里]，[西接]寇漫汗国[来源请求]，在现在[依兰县]至[俄国远东区][犹太自治州]（乌苏里江，牡丹江至[日本海]）。[佳木斯]是他们[最集中的地方]。[来源请求]
     - 『三国志』には、夫余の東北千余里のところにおり、[大海に面し](Taikai ni menshi)、南は北沃沮と[境を接し]、北は[どこまで及ぶ]のかわからない。その土地は[険しい山地]が多い。気候は寒冷で、夫余よりも厳しいとあり、外満州（現在の[ロシア連邦][沿海地方]）の松花江流域に居住した。
 210509-11:58
+- 民族系统
+    - [三上次男]与[[白鸟库吉]]说挹娄在满语[解鹿（使鹿部）][需要解释]，但他们其实以养猪，捕猎，[简单农业][为主]。他们[用毒箭]，作厕家中，[穴居]与[用尿洗手]的习惯与[濊人]([[濊貊 (Weimo)]])相似。[东夷传说]他们[形似扶余]但[语言不通]。挹娄[另一解释]是[洞穴]。
+210509-06:40
 - Accounts by outsiders (Records of the Three Kingdoms)
-    - The [[三国志 (Records of the Three Kingdoms)]] records that the Yilou were located more than a thousand li[3](((guGMrS2cT))) north of Buyeo [in forests covering mountainous terrain] that had formerly been the kingdom of the Sushen clan. The text reports that, although the Yilou were [subjects of Buyeo], they did not [speak the same language as] the people of Buyeo and [[高丽 (Goryeo)]]. [The text's author] did not know the [northern extent] of Yilou territory, but they reportedly [had access to the sea], as they [sailed in boats] to [plunder other kingdoms]. The text notes that the Yilou were [the most undisciplined] of the [Eastern Barbarians], 最不守纪律的 as they were the only ones not to use [sacrifical vessels] for [food and drink].[4] 器皿
+    - The [[三国志 (Records of the Three Kingdoms)]] records that the Yilou were located more than a thousand li[3](((guGMrS2cT))) north of Buyeo [in forests covering mountainous terrain] that had formerly been the kingdom of the Sushen clan. The text reports that, although the Yilou were [subjects of Buyeo], they did not [speak the same language as] the people of Buyeo and [[高丽 (Goryeo)]]. 
+    - [The text's author] did not know the [northern extent] of Yilou territory, but they reportedly [had access to the sea], as they [sailed in boats] to [plunder other kingdoms]. The text notes that the Yilou were [the most undisciplined] of the [Eastern Barbarians], 最不守纪律的 as they were the only ones not to use [sacrifical vessels] for [food and drink].[4] 器皿
 (扶余和高丽操同种语言，挹娄和肃慎的语言与之不同-挹娄人驾船出海劫掠他国-挹娄乃东夷中最野蛮一支)
 - 習俗
     - According to the Records of the Three Kingdoms, the Yilou had access to grain, cattle, horses, and sackcloth, 粗麻布衣 and they produced [[red jade]] and good-quality [[sable skin]]s, for which they were well known. The Yilou were [talented archers]([[archer]]) and [had a tendency to] [poison their arrowtips] so that anyone they [hit with their arrows] died. They [raised pigs for] [food and clothing], and they [smeared themselves with] [pig fat] in winter to [protect themselves from the cold]. Settlements were [centred around pig pens], and homes were typically [pit houses], with those of the [wealthy families] [descending as far as nine steps below ground]. They apparently [had no single ruler]; instead, [each settlement] [had its own head](((cKrI8GYQ6))) (Chinese: 大人; pinyin: dàren).[4](((176_QMh7A)))
@@ -79,6 +80,15 @@ Elevation & shade: GMTED2010
         - 挹婁人は、弓矢に長けており、必ず人の目を射当てる。矢には[毒が塗られており]、人に当たれば[死に至る]。石製または鉄製の鏃は[先端が鋭利で]、血抜き或は[毒を塗る]為の[溝や凹み]を設けており[精巧な造りをしている](seikōna tsukuri o shiteiru)。
     - 婚礼
         - 男性は[女性の頭に][羽毛を挿し]、[女性と和んだら][すぐに自分の家に持ち帰って][婚礼の儀を執り行う]。
+    - 葬祭
+        - [死者が出たらその日のうちに][木を交えて小槨を作り]、[死者の糧とするために][豬（ブタ）を殺して]その上に積み、土葬する。また、[男子で泣く者は]「男らしくない」と言われるため、父母が死んでも、男子は泣かない。
+    - 刑罰
+        - [最大の罪である][窃盗をした者]は、[その盗んだ物](nusunda mono)が[多かれ少なかれ死罪となる]。
+- 言語系統
+    - The [[三国志 (Records of the Three Kingdoms)]] records that the Yilou were located more than a thousand li[3](((guGMrS2cT))) north of Buyeo [in forests covering mountainous terrain] that had formerly been the kingdom of the Sushen clan. The text reports that, although the Yilou were [subjects of Buyeo], they did not [speak the same language as] the people of Buyeo and [[高丽 (Goryeo)]]. 
+    - 挹婁の言語について、[中国の史書]は「言語は独異」と記しており[3]、当時の[東北アジア]の中でも[独特の言語を使用していた]ことがわかる。
+        - ツングース系説…挹婁がのちの女真族（ツングース系）であること、[比較言語学的研究]により粛慎系の語彙がツングース系に近いということ[4]から、古くから支持されてきた説であり、現在では[発掘調査による]出土品から日用品や居住形態、[食生活の連続性]が確認されているため[5]、挹婁は[女真の祖先]であり、言語系統も[ツングース系]とされる。ただし、史書において粛慎系と言語が異なるとされる夫余や高句麗も、日本ではツングース系とされることがあるので[6]、両系統（粛慎系、濊系）ともツングース系の可能性もある。
+        - 古シベリア（古アジア）系説…その独特の言語、習俗から、勿吉等の粛慎系の言語はツングース系ではなく、ニヴフ（ギリヤーク）などの古シベリア系ではないかとする説。過去にシロコゴロフ[7]や三上次男[8]などが提唱した。
 - See also
     - Sushen people
 
