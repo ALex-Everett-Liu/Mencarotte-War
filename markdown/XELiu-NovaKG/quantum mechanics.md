@@ -4,6 +4,7 @@
     - quantum process;
     - subatomic domain;
 - [[quantum interpretation]]
+- [[quantum information]]
 - localized at a point; localization
     - non-localization;
     - spread out in space
