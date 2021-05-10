@@ -100,7 +100,7 @@ Elevation & shade: GMTED2010
 
     - Mohe, Jurchen, and Manchu peoples
 - [脚注](Kyakuchū)
-    - [1]: 『アルタイ語系　語言文化比較研究』3章2節
+    - [1]: ハスパトル『アルタイ語系　語言文化比較研究』（民族出版社　2006年）3章2節
     - [2]: 挹婁の言葉は夫余の言葉と違うため、一旦[夫余語]に通訳してから、漢語に通訳したものと思われる。
     - [3]: 『魏書』列伝第八十八「言語獨異」、『北史』列伝第八十二「言語獨異」
     - [4]: [[白鳥庫吉 (Shiratori Kurakichi)]]「粛慎考」、「[[濊貊 (Weimo)]]は果たして何民族と見做すべきか」（『白鳥庫吉全集 第4巻』1970年、岩波書店）
@@ -145,13 +145,37 @@ Elevation & shade: GMTED2010
     - [9]: [三国志]では[牛がいる]と記す   (这几段真的不是中国人译成日语的吗？用的都是简体...)
 210510-16:36
     - [10]: [5]: 高凱軍『[通古斯族系]的興起』（2006年、[中華書局]）P50-51参照
-- References
+- References 参考資料
     - [1]: Byington, Mark E. (2016). __The Ancient State of Puyŏ in Northeast Asia__. [Harvard University] [Asia Center]. p. 36. [ISBN] [9780674737198](https://en.wikipedia.org/wiki/Special:BookSources/9780674737198).
     - [2]: ["Chinese History – The Non-Chinese peoples and states of the northeast"](http://www.a3guo.com/en/china/History/Altera/northeast.html). Retrieved 5 April 2009..
     - [3]: A thousand __li__ is often used in [classical Chinese texts] to indicate 'long distances', so the measurement [might not correspond to the real distance] from Buyeo.
 (三千里多为虚指)
 210509-06:01
     - [4]: [Chen Shou] (ed.). "魏书三十——挹娄传" [Book of Wei 30: Biography of the Yilou]. [__三国志__] [__Records of the Three Kingdoms__] (in Chinese). [Ctext](https://ctext.org/text.pl?node=603354&if=gb&remap=gb).
+    - 『三国志』三少帝紀第四、明帝紀第三、烏丸等伝第三十
+『後漢書』東夷伝
+『晋書』武帝紀、元帝明帝紀、四夷伝、苻堅載記上
+陳寿『三国志』（筑摩書房　1992年）
 - Categories: Chinese history stubs | Ethnic groups in Chinese history | History of Manchuria
     - 分类：三国志立传人物 通古斯人 汉朝周边国家 中国古代民族与国家 东北历史 渤海国 东亚历史国家
     - __This article related to the history of China is a __[stub]__. You can help Wikipedia by __[expanding it](https://en.wikipedia.org/w/index.php?title=Yilou&action=edit)__.__ #stub
+- ## ノート:挹婁
+    - 112.138.167.244氏へ
+        - --[トムル](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:%E3%83%88%E3%83%A0%E3%83%AB) 2011年8月15日 (月) 12:43 (UTC)
+            - [あなたはなぜ]脚注にて[出典を明記しない](Shutten o meiki shinai, specify the source)のでしょうか。
+[古い情報](Furui jōhō)[は出典にならない]のでしょうか。
+否定されたのはいつ、どこででしょうか（[少数意見の可能性](Shōsū iken no kanōsei)はないのでしょうか）。
+「日用品や居住形態、食生活の類似＝言語が同じ」となるのでしょうか。
+[ノート:高句麗]の[議論が終了する](Giron ga shūryōsuru)までツングース関係の記事は書きかえないでください。
+[書物](shomotsu)には『』をつけましょう。
+210510-18:08
+        - --[112.138.167.244](https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2/112.138.167.244) 2011年8月16日 (火) 13:01 (UTC)
+            - あなたはなぜ全てに脚注を施し出典を明記するわけでないにもかかわらず人には要求するのでしょうか。[参考文献の確認をする]程度の労力が惜しいのか、それとも何か他に書くに足りる理由があるのでしょうか。
+
+            - 古い情報が[新しい情報]（史料は古いですが）により否定されている場合（^^女真は^^[朱里真や朱理申](((P-2QEr-aR)))の[契丹訛り](namari)）、出典にならないのは[自明の理](jimei)[だと思いますが]、[反論](hanron)あるでしょうか？
+210510-18:35
+            - あなたは[喧嘩している小学生若しく](moshiku)は[それに類似する存在](ruiji suru)なのでしょうか？「いつ、どこで」という問は、**[出典を要請する](yōsei suru)ものではないし、目的がよく解らないのですが。**
+
+            - 当然の前提条件として存在する金史の記述「粛慎挹婁勿吉靺鞨は女真の祖先である」を読んでいるにもかかわらず何故意図的に除外するのか理解に苦しみます。都合がよくないのでしょうか？
+残念ですが、参考文献の情報した内容に編集及び差し戻しを繰り返す方が居るため訂正が必要になりますから、ご要望には応えられません。
+トムルさんの編集した記事はどれも情報の質量共に良好だと感じていましたが、何故高句麗や挹婁の編集ではこの様な愚かな行為に及ぶのか理解に苦しみます。
