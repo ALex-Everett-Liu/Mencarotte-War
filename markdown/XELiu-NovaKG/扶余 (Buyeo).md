@@ -1,0 +1,4 @@
+- [[北扶余 (North Buyeo)]]
+    - [[高句丽 (Goguryeo)]]; Gaogouli
+        - [[安東都護府 (Andong Duhufu)]]
+- 始祖神話; 東明・朱蒙伝説

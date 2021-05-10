@@ -5,8 +5,6 @@
     - [[室韦 (Shiwei)]]
 - Northeast; 東夷諸国
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
-    - [[高句丽 (Goguryeo)]]; Gaogouli
-        - [[安東都護府 (Andong Duhufu)]]
     - [[濊貊 (Weimo)]]
     - [[Korea]]
     - [[寇漫汗 (Koumanhan)]]
@@ -20,7 +18,7 @@
             - [[沃沮 (Okjeo)]]
             - [[勿吉 (Wuji)]]
         - [[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)
-        - [[Tungusic language family]]; 满-通古斯语族
+        - [[Tungusic language family]]; 满-通古斯语族; ツングース・満州語族
             - [[Paleosiberian languages]]
         - [[Udege]]; [[兀的改 (Wudigai)]]
             - 窝集, 林中人; 捕貂鼠人
