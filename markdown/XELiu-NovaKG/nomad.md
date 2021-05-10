@@ -1,0 +1,6 @@
+- dictionary 
+    - For ten years she [dwelled among the nomads] of [North America]. 《牛津高阶英汉双解词典》
+    - Nomads never [keep their homes in one place] very long. www.[dictall].com
+    - The townsmen despise and cheat the nomads. 轻视
+    - [Stop and talk with people] who [live a traditional nomadic lifestyle]. provided by jukuu
+    - [The Evolution of the Policies for] the Settlement of [Xinjiang Nomadic Pastoralists]. dict.cnki.net

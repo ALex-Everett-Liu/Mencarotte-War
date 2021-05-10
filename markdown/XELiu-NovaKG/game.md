@@ -27,3 +27,5 @@
         - [十字军之王2][本体免费]时，某位[FM玩家意见领袖][带人冲了一波差评] (^^常有晴这人太tm恶心了，诅咒他死一户口本^^)
         - nerugigannte sbnmsl
     - [gatoanavel](https://bbs.saraba1st.com/2b/home.php?mod=space&uid=529231&do=thread&view=me&from=space&type=reply) #pt8-99.99
+    - 去年[便宜的时候](https://www.zhihu.com/question/458069212/answer/1873406437)把我的1066换成了3080，玩英灵殿、地平线4、荒野大镖客这些[提升还是很大的]，真就和[电影级画质]一样，而且[2k144]真的和[1080p60]差不少 #pt7-99.96
+        - 1060 至少有我喜欢几款游戏[跑不动]，它们分别是：地铁离去 无主之地3 狂怒2 还有2077，这还是基于 [1080p@60Hz]，如果换到 [2K@144Hz]，1060 真就是个渣渣。

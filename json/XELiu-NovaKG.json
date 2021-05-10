@@ -32455,24 +32455,6 @@
             "uid": "7lYVnxjq1"
           }
         ],
-        "children": [
-          {
-            "string": "NVIDIA control panel",
-            "uid": "i4T-VztuB",
-            "edit-time": 1618802659401,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          },
-          {
-            "string": "GeForce GTX 1650 -- my device 202011",
-            "uid": "Z0w7_YIAA",
-            "edit-time": 1618802659401,
-            ":edit/user": {
-              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            }
-          }
-        ],
         "uid": "q8Hi0dfWc",
         "edit-time": 1618802682417,
         ":block/refs": [
@@ -77777,11 +77759,29 @@
   {
     "create-time": 1618802682419,
     "title": "GPU",
-    "uid": "7lYVnxjq1",
-    "edit-time": 1618802682419,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    "children": [
+      {
+        "string": "NVIDIA control panel",
+        "uid": "i4T-VztuB",
+        "edit-time": 1618802659401,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "GeForce GTX 1650 -- my device 202011",
+        "uid": "Z0w7_YIAA",
+        "edit-time": 1618802659401,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "7lYVnxjq1",
+    "edit-time": 1618802682419,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -82717,14 +82717,14 @@
             }
           },
           {
-            "string": "[[濊貊 (Weimo)]]",
+            "string": "[[濊貊 (Weimo)]]; 濊族",
             "refs": [
               {
                 "uid": "ueOy1Vno8"
               }
             ],
             "uid": "NK08KJQkI",
-            "edit-time": 1620513300827,
+            "edit-time": 1620631969330,
             ":block/refs": [
               {
                 ":block/uid": "ueOy1Vno8"
@@ -87618,13 +87618,23 @@
                 }
               },
               {
-                "string": "[晋代の記録]では「[馬がいる]が騎乗はせず、牛[9]と羊がいないが、多くの[猪（ブタ）を飼っている]」とあり、[家畜]は彼らの財産であった。また、[遺跡](iseki)からは猪と共に多数の[魚や犬の骨が発見されている]が、牛や鹿など[他の動物の骨]は[あまり見られない][10]。\n210510-03:51",
+                "string": "[晋代の記録]では「[馬がいる]が騎乗はせず、牛[9]と羊がいないが、多くの[猪（ブタ）を飼っている]」とあり、[家畜]は彼らの財産であった。また、[遺跡](iseki)からは猪と共に多数の[魚や犬の骨が発見されている]が、牛や鹿など[他の動物の骨]は[あまり見られない][10](((qGfO4bYZu)))。\n210510-03:51",
                 "create-time": 1620589767422,
-                "uid": "4aZGrUx8k",
-                "edit-time": 1620590003535,
+                ":block/refs": [
+                  {
+                    ":block/uid": "qGfO4bYZu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "qGfO4bYZu"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
+                "uid": "4aZGrUx8k",
+                "edit-time": 1620636038635,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -87716,7 +87726,7 @@
                 }
               },
               {
-                "string": "古シベリア（古アジア）系説…その[独特の言語]、習俗から、勿吉等の粛慎系の言語はツングース系ではなく、[ニヴフ（ギリヤーク）]などの[古シベリア系]([[Paleosiberian languages]])ではないかとする説。過去にシロコゴロフ[7]や[[三上次男 (Mikami Tsugio)]][8]などが[提唱した](teishou)。",
+                "string": "古シベリア（古アジア）系説…その[独特の言語]、習俗から、勿吉等の粛慎系の言語はツングース系ではなく、[ニヴフ（ギリヤーク）]などの[古シベリア系]([[Paleosiberian languages]])ではないかとする説。過去にシロコゴロフ[7](((DbP9hFsjy)))や[[三上次男 (Mikami Tsugio)]][8](((4vrY7WZSa)))などが[提唱した](teishou)。",
                 "create-time": 1620569636686,
                 ":block/refs": [
                   {
@@ -87724,6 +87734,12 @@
                   },
                   {
                     ":block/uid": "FF4ygWYnJ"
+                  },
+                  {
+                    ":block/uid": "DbP9hFsjy"
+                  },
+                  {
+                    ":block/uid": "4vrY7WZSa"
                   }
                 ],
                 "refs": [
@@ -87732,13 +87748,19 @@
                   },
                   {
                     "uid": "FF4ygWYnJ"
+                  },
+                  {
+                    "uid": "DbP9hFsjy"
+                  },
+                  {
+                    "uid": "4vrY7WZSa"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
                 "uid": "hKkteOXge",
-                "edit-time": 1620600293169,
+                "edit-time": 1620635904316,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -87948,33 +87970,14 @@
                 }
               },
               {
-                "string": "井上秀雄、他訳注『[東アジア][民族史]1－正史東夷伝』（1974年、平凡社）p103「（高句麗、夫余の）両族は、ともに[ツングース系]と考えられている。[両族が同系であること]は[始祖神話](((--lbJoMnC)))（東明・朱蒙伝説）の類同によっても推測できよう。」",
+                "string": "井上秀雄、他訳注『[東アジア][民族史]1－正史東夷伝』（1974年、平凡社）p103「（高句麗、夫余の）両族は、ともに[ツングース系]と考えられている。[両族が同系であること]は[始祖神話](((--lbJoMnC)))（東明・朱蒙伝説）の類同によっても推測できよう。」\n加藤九祚『[北東アジア][民族学史]の研究』（1986年、恒文社）p156「高句麗は[[北扶余 (North Buyeo)]]から発したというが、その北扶余が[ツングース・満州語族](((3JuOuumRI)))に属することは[定説となっている]」\n210510-06:45",
                 "create-time": 1620599908994,
                 ":block/refs": [
                   {
-                    ":block/uid": "--lbJoMnC"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "--lbJoMnC"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                },
-                "uid": "1G3oW6YFs",
-                "edit-time": 1620600044578,
-                ":edit/user": {
-                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-                }
-              },
-              {
-                "string": "加藤九祚『[北東アジア][民族学史]の研究』（1986年、恒文社）p156「高句麗は[[北扶余 (North Buyeo)]]から発したというが、その北扶余が[ツングース・満州語族](((3JuOuumRI)))に属することは[定説となっている]」\n210510-06:45",
-                "create-time": 1620600057879,
-                ":block/refs": [
-                  {
                     ":block/uid": "3JuOuumRI"
+                  },
+                  {
+                    ":block/uid": "--lbJoMnC"
                   },
                   {
                     ":block/uid": "cSv18uZn7"
@@ -87985,14 +87988,17 @@
                     "uid": "3JuOuumRI"
                   },
                   {
+                    "uid": "--lbJoMnC"
+                  },
+                  {
                     "uid": "cSv18uZn7"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
-                "uid": "sOPG1Iewv",
-                "edit-time": 1620600400750,
+                "uid": "1G3oW6YFs",
+                "edit-time": 1620632079487,
                 ":edit/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 }
@@ -88000,8 +88006,174 @@
               {
                 "string": "三上次男・神田信夫編『民族の世界史3　東北アジアの民族と歴史』（1989年、山川出版社）p161「Ⅱ（夫余、高句麗、濊、東沃沮）の言語は[ツングース・満州語]の一派か、または[それに近い言語]と思われるが、むしろ朝鮮語と近い[親縁関係にある]か、[詳しく](Kuwashiku)調べてみなければわからない。」",
                 "create-time": 1620600238214,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "children": [
+                  {
+                    "string": "((4vrY7WZSa))p87「広く[東北アジア]に[居住する諸族](Kyojūsuru sho-zoku)を当昔にわたって見わたすと、[東部シベリア]から、[東満洲]、[北朝鮮]の[山岳森林地帯]には、古の貊や高句麗、[中世以後]の女真、満洲など、いわゆる[ツングース系の語族]が変らない[大勢力を擁していた]ことがわかる。」\n210510-15:47",
+                    "create-time": 1620632620527,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "4vrY7WZSa"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "4vrY7WZSa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    },
+                    "uid": "xrxP9fIUY",
+                    "edit-time": 1620635880620,
+                    ":edit/user": {
+                      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                    }
+                  }
+                ],
                 "uid": "_V0_CKI8W",
                 "edit-time": 1620600389137,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "鳥越憲三郎『[古代朝鮮]と倭族』（1992年、中央公論社）「高句麗は[紀元前1世紀末]、[ツングース系]の[濊族]によって建国」",
+                "create-time": 1620631932737,
+                "uid": "q_ReGepX6",
+                "edit-time": 1620631948796,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "浜田耕策『[日本大百科全書](hyakka zensho, __Encyclopedia Nipponica__)』「【濊貊】[前3世紀ごろ][モンゴル系民族]に押し出されて[朝鮮半島北東部に南下し]、夫余、高句麗、沃沮を構成した[ツングース系の諸族]を含むのである」\n村山正雄『日本大百科全書』「【夫余】[古代中国の東北地方に]割拠していた[ツングース系]と思われる民族が[建てた国名]」\n佐々木史郎『日本大百科全書』「【満洲族】夫余と靺鞨はツングース系の民族ではないかと考えられている」\n護雅夫『日本大百科全書』「【[騎馬民族](((mUHLyshLM)))】高句麗は[東北アジア]、満州にいた[ツングース系民族]」\n210510-15:38",
+                "create-time": 1620631930522,
+                ":block/refs": [
+                  {
+                    ":block/uid": "mUHLyshLM"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "mUHLyshLM"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "xcgNZrppX",
+                "edit-time": 1620632412091,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "諏訪春雄「朝鮮で高句麗や百済を建国した[夫余族]はツングース系の[遊牧民族]（[学習院大学]教授 [諏訪春雄][通信]）」\n",
+                "create-time": 1620632471742,
+                "uid": "VD3O4HYCK",
+                "edit-time": 1620632471742,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "広辞苑「【高句麗】[紀元前後]、ツングース族の扶余の朱蒙の建国という」\n大辞泉「【高句麗】紀元前後にツングース系の扶余族の朱蒙が建国」\n",
+                "create-time": 1620632489644,
+                "uid": "KZugr-Lql",
+                "edit-time": 1620632489644,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "南出喜久治「私の見解では、高句麗は、__[建国の始祖である]朱蒙がツングース系（満州族）であり__、[韓民族]を[被支配者とした][満州族]による[征服王朝]であつて、[韓民族の民族国家]ではないと考へている。（いはゆる「保守論壇」に問ふ ‹其の五›日韓の[宿痾]と本能論）」\n(高句丽之于三韩实为异族征服王朝)",
+                "create-time": 1620632050245,
+                "uid": "E6auwC88_",
+                "edit-time": 1620632606706,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "長野正孝『古代史の謎は鉄で解ける』（2015年、PHP研究所）「高句麗はツングース系の[騎馬民族]が[つくった国家]で、[定住化によって][遊牧から次第に離れた]が、騎馬による戦力は絶大なものがあった。」\n",
+                "create-time": 1620632697032,
+                "uid": "ngXPPpJr2",
+                "edit-time": 1620632697032,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "埴原和郎『日本人と[日本文化の形成]』（1993年、朝倉書店）p211「[歴史時代に興亡した]扶余も、靺鞨も、高句麗や渤海も、濊や沃沮などもツングース系だといわれている。」\n",
+                "create-time": 1620632714605,
+                "uid": "PH0tqv0x2",
+                "edit-time": 1620632714605,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "酒井忠夫『世界史研究』（1953年、績文堂）p128「高句麗（[北満]の[半農半牧]のツングース族が[漢代以後][中国文化の影響により](eikyou)興り建国）」",
+                "create-time": 1620632754245,
+                "uid": "7_41mYMNJ",
+                "edit-time": 1620634192570,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "青木慶一『民衆と戦争』（1978年、東明社）p40「[オロッコ-ツングース]などから成る高句麗が[次第に南進して][百済を圧迫するに至った]。」\n成瀬治『世界史の意識と理論』（1997年、岩波書店）p116「すなわち、五胡が[中国の華北に侵入し]、騎馬民族の高句麗が[朝鮮に勢力を拡大した]ころ、高句麗と同じ[ツングース系の騎馬民族]」\n沖浦和光『辺界の輝き』（2002年、岩波書店）p32「ツングース族などの[騎馬民族系]は、南下してきて[朝鮮の北部]に[高句麗を建国します]。話が長くなるので[略します](ryakushimasu)が、それから[百済王朝]を[攻め滅ぼします](seme horobo shimasu)。」",
+                "create-time": 1620634254067,
+                "uid": "R2jCCJvo8",
+                "edit-time": 1620634325475,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "白崎昭一郎『[広開土王碑文]の研究』（1993年、古川弘文館）p49「『[言語法俗]大抵与[句麗]同』というから、高句麗と同系で、恐らくツングース系の民族であったろう。」\n",
+                "create-time": 1620634357484,
+                "uid": "PTcd3laej",
+                "edit-time": 1620634357484,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "水野祐『古代の出雲』（1972年、吉川弘文館）p300「[朝鮮半島へ南下した][大陸系北方民族]が、高句麗にしても、扶余にしても、濊にしても、いずれもみな[満州に原住した][ツングース系統]と考えられている。」\n小島直記『[松永安左ェ門]の[生涯]』（1980年、松永安左ェ門伝[刊行会]）p1073「朝鮮には、[西暦紀元頃]、ツングース系の[高句鹿]と、そして[漢民族の移民]とが住んでいたという。」\n佐々木高明『地域と農耕と文化』（1998年、大明堂）p317「高句麗や渤海も、濊や沃沮などもツングース系の民族だといわれている。」",
+                "create-time": 1620634217858,
+                "uid": "qVAP5obRI",
+                "edit-time": 1620635721609,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -88011,7 +88183,65 @@
               }
             ],
             "uid": "lT-zKKlwS",
-            "edit-time": 1620599809137,
+            "edit-time": 1620635791396,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[7]: シロコゴロフ著、川久保悌郎・田中克巳訳『シロコゴロフ　[北方ツングース]の[社會構成](kousei)』（1942年、岩波書店）",
+            "create-time": 1620635739826,
+            "uid": "DbP9hFsjy",
+            "edit-time": 1620635817980,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[8]: 三上次男『古代東北アジア史研究』（1966/1977年、吉川弘文館）",
+            "create-time": 1620635840898,
+            "uid": "4vrY7WZSa",
+            "edit-time": 1620635900432,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[9]: [三国志]では[牛がいる]と記す   (这几段真的不是中国人译成日语的吗？用的都是简体...)\n210510-16:36",
+            "create-time": 1620635919095,
+            "uid": "MchoZT9fM",
+            "edit-time": 1620636051229,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[10]: ((7I7Qr632I))P50-51参照",
+            "create-time": 1620635933486,
+            ":block/refs": [
+              {
+                ":block/uid": "7I7Qr632I"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7I7Qr632I"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "qGfO4bYZu",
+            "edit-time": 1620636020083,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -89963,6 +90193,42 @@
             },
             "uid": "Hdx7FJvSK",
             "edit-time": 1619847281218,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1620634988244,
+            "children": [
+              {
+                "string": "1060 至少有我喜欢几款游戏[跑不动]，它们分别是：地铁离去 无主之地3 狂怒2 还有2077，这还是基于 [1080p@60Hz]，如果换到 [2K@144Hz]，1060 真就是个渣渣。",
+                "create-time": 1620634868120,
+                "uid": "_7HbewYG1",
+                "edit-time": 1620634883399,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "E0gCAiQcc"
+              }
+            ],
+            "uid": "edOzZs2dL",
+            ":block/refs": [
+              {
+                ":block/uid": "E0gCAiQcc"
+              }
+            ],
+            "string": "去年[便宜的时候](https://www.zhihu.com/question/458069212/answer/1873406437)把我的1066换成了3080，玩英灵殿、地平线4、荒野大镖客这些[提升还是很大的]，真就和[电影级画质]一样，而且[2k144]真的和[1080p60]差不少 #pt7-99.96",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1620634767027,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -121164,6 +121430,34 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "畜牧业",
+        "children": [
+          {
+            "string": "[[nomad]]; 遊牧民族; 騎馬民族 (kiba minzoku)",
+            "refs": [
+              {
+                "uid": "rhWV8-l7o"
+              }
+            ],
+            "uid": "mUHLyshLM",
+            "edit-time": 1620632666024,
+            ":block/refs": [
+              {
+                ":block/uid": "rhWV8-l7o"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "k1q4WI8-0",
+        "edit-time": 1620632236984,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "RRv5rZAW2",
@@ -126111,6 +126405,94 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620632245683,
+    "title": "nomad",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "dictionary ",
+        "create-time": 1620632249963,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "For ten years she [dwelled among the nomads] of [North America]. 《牛津高阶英汉双解词典》",
+            "create-time": 1620632256191,
+            "uid": "tz-8BnFFy",
+            "edit-time": 1620632271054,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "Nomads never [keep their homes in one place] very long. www.[dictall].com",
+            "create-time": 1620632256191,
+            "uid": "GcGEw3JY9",
+            "edit-time": 1620632276090,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "The townsmen despise and cheat the nomads. 轻视",
+            "create-time": 1620632256191,
+            "uid": "sFUgmjW0U",
+            "edit-time": 1620632256195,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[Stop and talk with people] who [live a traditional nomadic lifestyle]. provided by jukuu",
+            "create-time": 1620632256191,
+            "uid": "R3lieR7kW",
+            "edit-time": 1620632287239,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[The Evolution of the Policies for] the Settlement of [Xinjiang Nomadic Pastoralists]. dict.cnki.net",
+            "create-time": 1620632256191,
+            "uid": "ubXWtsmQI",
+            "edit-time": 1620632297591,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "OT6tsVg-J",
+        "edit-time": 1620632251743,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "rhWV8-l7o",
+    "edit-time": 1620632245683,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
