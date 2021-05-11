@@ -1,0 +1,2 @@
+- [#貂锦制图#](https://s.weibo.com/weibo?q=%23%E8%B2%82%E9%94%A6%E5%88%B6%E5%9B%BE%23&from=default) [#渤海#](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%23&from=default)  北击海北诸部，南压新罗小邦，[通款项于](https://weibo.com/6817167674/K5cjzxSpQ)日本，战相争同契丹。海东盛国  大氏渤海
+    - [不咸大人](https://weibo.com/6528368592)：[[东牟山 (Dongmou Hill)]]的位置[存疑]，[可能的位置]应该在敦化[敖东古城]附近和敦化东南二十里的[城子山山城]，应当离[渤海国旧都]不远。图中采用延吉西部的[磨盘山山城][还有待进一步][考古发掘]

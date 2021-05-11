@@ -1,6 +1,6 @@
 - draft
     - mapped coordinate: (6470, {{[[calc]]: ((4096-2566))}})
-    - [[靺鞨、渤海与周边国家、部族关系史研究-马一虹]]
+    - 
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
 - quick todo
