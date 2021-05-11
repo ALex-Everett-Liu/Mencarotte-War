@@ -54,6 +54,7 @@
     - [[Gingko]]
     - [[Scrivener]]
 - #inbox
+    - knowledge graph; wolfram alpha; [Wikidata](https://www.zhihu.com/question/20151850/answer/15562816) #pt10-99.99
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100

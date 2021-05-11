@@ -3,7 +3,7 @@
 - 海东盛国
 - 鸿胪井刻石文字 (714)
 - [[忽汗州 (Huhanzhou)]]
-    - [[东牟山城]]
+    - [[东牟山 (Dongmou Hill)]]; [[东牟山城]]
 - [[粟末靺鞨 (Sumo Mohe)]]
 - [[震国 (Zheng Kingdom)]]
     - [[震旦 (Zhengdan)]]; 东方大国大振那

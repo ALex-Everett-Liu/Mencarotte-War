@@ -1,4 +1,4 @@
-- [[长白山]]; 白頭山; [[不咸山 (Buxian Mountain)]]; [[徒太山 (Tutai Mountain)]]
+- [[长白山]]; 白頭山; 太白山; [[不咸山 (Buxian Mountain)]]; [[徒太山 (Tutai Mountain)]]
     - [[盖马大山 (Gaima Mountain)]]
     - [[曷懒甸 (Helan Dian)]]
     - [[铁岭卫 (Tieling Wei)]]
