@@ -1,3 +1,2 @@
-- black knee socks
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2FQn_IlorJRp.png?alt=media&token=013d7408-ce1b-4445-940f-f13df156ece0)
+- [[black knee socks]]
 - [[pantyhose]]
