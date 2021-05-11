@@ -1,5 +1,5 @@
 - [[administrative division]]; administrative area
-- [[historical map]]
+- [[historical map]]; historical atlas
 - original source; 史料
     - 春秋释例
         - 春秋盟会图

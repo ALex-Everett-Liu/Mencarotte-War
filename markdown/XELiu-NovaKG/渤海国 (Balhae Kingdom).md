@@ -11,7 +11,8 @@
     - 乞四比羽; 许国公;
     - 震国公 - 乞乞仲象
     - [[大祚荣]]
-    - [[大钦茂]]
+    - 文王 [[大钦茂]]
+    - [[大仁秀 (Dae Insu)]]
 - ---
 - [[渤海国行政区划 (Administrative division of Balhae)]]
 - [[Map of Balhae]]

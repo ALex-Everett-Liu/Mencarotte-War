@@ -21,6 +21,7 @@
     - sacrificial song
     - worshipping heaven
     - worship god
+- [[sacred site]]
 - [[Satanism]]
 - [[shamanism]]
 - [[Taoism]]

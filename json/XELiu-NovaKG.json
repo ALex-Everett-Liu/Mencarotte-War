@@ -828,14 +828,24 @@
             }
           },
           {
-            "string": "",
-            "create-time": 1620454267952,
+            "edit-time": 1620766687535,
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "TpQ22xubN"
+              }
+            ],
+            "uid": "JM_hOwxwM",
+            ":block/refs": [
+              {
+                ":block/uid": "TpQ22xubN"
+              }
+            ],
+            "string": "[[妙香山 (Mount Myohyang)]]; 太伯山",
             ":create/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
-            "uid": "JM_hOwxwM",
-            "edit-time": 1620753944775,
-            "text-align": "left",
+            "create-time": 1620454267952,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -25006,6 +25016,28 @@
         ],
         "uid": "syKDjfeHX",
         "edit-time": 1618360390108,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[sacred site]]",
+        "create-time": 1620767992643,
+        ":block/refs": [
+          {
+            ":block/uid": "85nSfp-du"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "85nSfp-du"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "qw7Znx4sg",
+        "edit-time": 1620767995332,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -72654,14 +72686,14 @@
         }
       },
       {
-        "string": "[[historical map]]",
+        "string": "[[historical map]]; historical atlas",
         "refs": [
           {
             "uid": "vPfLn3R7k"
           }
         ],
         "uid": "e-opiHuLK",
-        "edit-time": 1618572056175,
+        "edit-time": 1620763677070,
         ":block/refs": [
           {
             ":block/uid": "vPfLn3R7k"
@@ -110803,6 +110835,30 @@
             "uid": "-MIfNwDBI"
           }
         ],
+        "children": [
+          {
+            "string": "[[檀君 (Tangun)]]; 檀君神话",
+            "create-time": 1620764887863,
+            ":block/refs": [
+              {
+                ":block/uid": "iMQrBJV2M"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "iMQrBJV2M"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "dn7Gf_vWd",
+            "edit-time": 1620768030363,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
         "uid": "7p6_2R8A0",
         "edit-time": 1619868279108,
         ":block/refs": [
@@ -111732,23 +111788,37 @@
             }
           },
           {
-            "string": "[[大钦茂]]",
-            "create-time": 1620538645349,
-            ":block/refs": [
-              {
-                ":block/uid": "MIN4DNhfw"
-              }
-            ],
+            "string": "文王 [[大钦茂]]",
             "refs": [
               {
                 "uid": "MIN4DNhfw"
               }
             ],
-            ":create/user": {
+            "uid": "ui-sSZXwq",
+            "edit-time": 1620764052469,
+            ":block/refs": [
+              {
+                ":block/uid": "MIN4DNhfw"
+              }
+            ],
+            ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-            },
-            "uid": "saXI6sXoM",
-            "edit-time": 1620538646971,
+            }
+          },
+          {
+            "string": "[[大仁秀 (Dae Insu)]]",
+            "refs": [
+              {
+                "uid": "S3ZKG-q51"
+              }
+            ],
+            "uid": "qHdN2-yji",
+            "edit-time": 1620764050985,
+            ":block/refs": [
+              {
+                ":block/uid": "S3ZKG-q51"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -112089,7 +112159,7 @@
         }
       },
       {
-        "edit-time": 1619869215913,
+        "edit-time": 1620766798018,
         "children": [
           {
             "string": "震旦”属于[印度佛教典籍]中的[用语]，在唐代译写为“振旦”“振那”。如8世纪译出的《佛说文殊师利法宝藏陀罗尼经》认为，“于此赡部州东北方，有国名[大振那]，[其国中][有山]，号曰‘五顶’，[文殊童子][游行居住]，[为诸众生][于中说法]”。其意首先是指[东方大国]，[在印度视角下]也可[专门意指]中国。一然在此处将“震国”释作“震旦”，自然是站在中国[中原王朝视角]审视东北大祚荣政权。近代[稻叶君山][曾称][多有人赞成]“震国”是佛教[东方大震那]之说，盖源于一然之说。\n210501-19:40",
@@ -112112,6 +112182,9 @@
           },
           {
             "uid": "O4SwIp_Zy"
+          },
+          {
+            "uid": "QZbZxJnvT"
           }
         ],
         "uid": "HbJZIa31f",
@@ -112127,9 +112200,12 @@
           },
           {
             ":block/uid": "O4SwIp_Zy"
+          },
+          {
+            ":block/uid": "QZbZxJnvT"
           }
         ],
-        "string": "　　“震国”为佛教“震旦”说。[[一然 (Yiran)]]《三国遗事》卷1《纪异》（《域外汉籍珍本文库》第2辑，西南师范大学出版社、人民出版社2011年版）中称，“《通典》云，渤海，本[[粟末靺鞨 (Sumo Mohe)]]。至[其酋][柞荣][立国]，自号[[震旦 (Zhengdan)]]。先天中，始去靺鞨号，[专称]渤海”。这条文字不见于今本《[[通典 (Tongdian)]]》，大祚荣“自号震旦”之说当属时人的一种认识。“",
+        "string": "　　“震国”为佛教“震旦”说。[[一然 (Yiran)]]《[[三国遗事]]》卷1《纪异》（《域外汉籍珍本文库》第2辑，西南师范大学出版社、人民出版社2011年版）中称，“《通典》云，渤海，本[[粟末靺鞨 (Sumo Mohe)]]。至[其酋][柞荣][立国]，自号[[震旦 (Zhengdan)]]。先天中，始去靺鞨号，[专称]渤海”。这条文字不见于今本《[[通典 (Tongdian)]]》，大祚荣“自号震旦”之说当属时人的一种认识。“",
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -112245,7 +112321,7 @@
         }
       },
       {
-        "string": "　　“振国”为“[[辰韓 (Jinhan)]]”之“辰”说。杨军的《渤海[早期国号]考》（《东北史地》2006年第1期）从文献角度具体论证了支持“振”字的理由。他认为，[[崔志远 (Cui Zhiyuan)]]《谢不许北国居上表》是[新罗][上奏唐皇帝]的[奏章]，[用语]自然要符合[唐王朝]的[官方通例]，那么其中的“始称振国”就是与唐代[官方记载]符合的。《新唐书》中的“震”字，则是[欧阳修]在[补充新内容]后，[按照己意][作出的改动]。他还提出，既然大祚荣[一度自立]，就不能将“振国”理解为[中原]的[王爵号]，而是将之理解为采用[古辰国名]获取[高丽遗民](((pALJ6ATz6)))的认同与支持。\n210501-22:12",
+        "string": "　　“振国”为“[[辰韓 (Jinhan)]]”之“辰”说。杨军的《渤海[早期国号]考》（《东北史地》2006年第1期）从文献角度具体论证了支持“振”字的理由。他认为，[[崔致远 (Cui Zhiyuan)]]《谢不许北国居上表》是[新罗][上奏唐皇帝]的[奏章]，[用语]自然要符合[唐王朝]的[官方通例]，那么其中的“始称振国”就是与唐代[官方记载]符合的。《新唐书》中的“震”字，则是[欧阳修]在[补充新内容]后，[按照己意][作出的改动]。他还提出，既然大祚荣[一度自立]，就不能将“振国”理解为[中原]的[王爵号]，而是将之理解为采用[古辰国名]获取[高丽遗民](((pALJ6ATz6)))的认同与支持。\n210501-22:12",
         "refs": [
           {
             "uid": "niU9ybjcH"
@@ -112268,7 +112344,7 @@
           }
         ],
         "uid": "1tRWbUq-E",
-        "edit-time": 1619878395389,
+        "edit-time": 1620767067356,
         ":block/refs": [
           {
             ":block/uid": "niU9ybjcH"
@@ -112713,9 +112789,9 @@
   },
   {
     "create-time": 1619878263340,
-    "title": "崔志远 (Cui Zhiyuan)",
+    "title": "崔致远 (Cui Zhiyuan)",
     "uid": "4Z-RaIvDM",
-    "edit-time": 1619878263348,
+    "edit-time": 1620767067356,
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -114692,6 +114768,28 @@
             },
             "uid": "75snX1Yvz",
             "edit-time": 1620297371083,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[妙香山 (Mount Myohyang)]]; 太伯山; 沸流山",
+            "create-time": 1620766731958,
+            ":block/refs": [
+              {
+                ":block/uid": "TpQ22xubN"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "TpQ22xubN"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "3KzwSs-4x",
+            "edit-time": 1620766813898,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -128030,10 +128128,10 @@
                 }
               },
               {
-                "string": "1953年，[苏联科学院]成立了以[奥克拉德尼科夫]为队长的“远东考古勘察队”，开始对[滨海边区]的[古代文化遗存]进行[大规模的调查研究]。此后，一些学者[发表了一系列论著]，例如沙夫库诺夫。\n210511-00:08",
+                "string": "1953年，[苏联科学院]成立了以[奥克拉德尼科夫]为队长的“远东考古勘察队”，开始对[滨海边区]的[古代文化遗存]进行[大规模的调查研究]。此后，一些学者[发表了一系列论著]，例如沙夫库诺夫。\n210512-00:08",
                 "create-time": 1620749258749,
                 "uid": "tWwqS-1nk",
-                "edit-time": 1620749308818,
+                "edit-time": 1620765299098,
                 ":create/user": {
                   ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                 },
@@ -128188,8 +128286,106 @@
     },
     "children": [
       {
+        "edit-time": 1620764259195,
+        "children": [
+          {
+            "string": "[文王时期]([[大钦茂]])木底、玄菟、若忽等州的记载说明该时期渤海占领过辽东的一定地区。《[[贾耽记]]》对辽东无渤海占据的记载，则推测渤海又[有所收缩][退出辽河流域]，^^值得注意的是[文王末年]渤海[一度衰落]。^^最后是《辽史》的[侧面反映]，渤海于[[大仁秀 (Dae Insu)]]的[中兴期间]，对外扩张，可能这时[占领辽阳]。总之，文献不详，除非[从地里挖出][过硬证据]，推测也终究是推测，渤海史[还得看考古](http://c.tieba.baidu.com/p/5087075630)。 #pt10-100\n210512-04:10",
+            "create-time": 1620763801433,
+            ":block/refs": [
+              {
+                ":block/uid": "Kp4t9aQO7"
+              },
+              {
+                ":block/uid": "S3ZKG-q51"
+              },
+              {
+                ":block/uid": "MIN4DNhfw"
+              },
+              {
+                ":block/uid": "3xGeghZ7R"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kp4t9aQO7"
+              },
+              {
+                "uid": "S3ZKG-q51"
+              },
+              {
+                "uid": "MIN4DNhfw"
+              },
+              {
+                "uid": "3xGeghZ7R"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "pK8-jCvHj",
+            "edit-time": 1620765309522,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} 可以去[方舆论坛][下载高清大图]。",
+            "create-time": 1620764081256,
+            ":block/refs": [
+              {
+                ":block/uid": "cgyryTwl0"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cgyryTwl0"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "1Oydoa7Sm",
+            "edit-time": 1620764090677,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "和 [@明镇布武] 的图[差异蛮大]\nre: 标出[和龙西古城]地图就会[随之产生极大变化]。",
+            "create-time": 1620764099075,
+            "uid": "-LBOeM_Kr",
+            "edit-time": 1620764118217,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "PxGnNRM5H"
+          }
+        ],
+        "uid": "07Zgum-L4",
+        ":block/refs": [
+          {
+            ":block/uid": "PxGnNRM5H"
+          }
+        ],
+        "string": "[传世文献][语焉不详]，[渤海国史]本身就是[各种文献拼凑而成]的，[大可不用纠结]辽东的问题。木底、玄菟、若忽等州的记载出现于《[[大日本史]]》等[日本文献]，属于[渤海文王]时期，这些都是[二字州]。《新唐书·渤海传》记载的十五府六十州和《地理志》记载的都是[一字州]，这些肯定是在800年之前改动过的。《辽史》又记载了大量的郡，这些说明渤海[政区变动]一个过程，[建国之初][沿袭唐制]，[地方上]有二字州，刺史。天宝后，效仿唐制，改州为郡。**此后，又仿唐[改郡为一字州]。**",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1620763920817,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
         "string": "[#貂锦制图#](https://s.weibo.com/weibo?q=%23%E8%B2%82%E9%94%A6%E5%88%B6%E5%9B%BE%23&from=default) [#渤海#](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%23&from=default)  北击海北诸部，南压新罗小邦，[通款项于](https://weibo.com/6817167674/K5cjzxSpQ)日本，战相争同契丹。海东盛国  大氏渤海",
-        "create-time": 1620753993890,
+        "create-time": 1620763767212,
         ":create/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
@@ -128217,8 +128413,8 @@
             }
           }
         ],
-        "uid": "2LMhp0M7x",
-        "edit-time": 1620754036285,
+        "uid": "ETRk-4a3h",
+        "edit-time": 1620763782571,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -128226,6 +128422,308 @@
     ],
     "uid": "xPs9_JSUo",
     "edit-time": 1620753987924,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620763823135,
+    "title": "大日本史",
+    "uid": "PxGnNRM5H",
+    "edit-time": 1620763823144,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620763878947,
+    "title": "贾耽记",
+    "uid": "3xGeghZ7R",
+    "edit-time": 1620763878948,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620764741310,
+    "title": "妙香山 (Mount Myohyang)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "妙香山（朝鲜语：묘향산／妙香山），位于朝鲜平安北道香山郡、平安南道宁远郡及慈江道熙川市的交界处，是[朝鲜民主主义人民共和国]的[登山观光胜地]。它集山水、峡谷、森林美，面积达375平方公里，边界128公里，主峰“毗卢峰”（Piro Peak）海拔1,909米，分为“上元洞”（Sangwon Valley）、“万瀑洞”（Manphok Valley）、“毗卢峰”（Piro Peak）等3个“观光区”。",
+        "create-time": 1620764754853,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "The Mount Myohyang[1] (Hangul: 묘향산 - \"Mysterious Fragrant Mountain\") is a mountain in North Korea. [It is named after] the [mystic shapes] and fragrances [found in the area]. It is a [[sacred site]] as, according to legend, it was the home of [King Tangun], forefather of the [Korean people].[2]",
+            "create-time": 1620767756567,
+            ":block/refs": [
+              {
+                ":block/uid": "85nSfp-du"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "85nSfp-du"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "jPQHc4eoL",
+            "edit-time": 1620768024252,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "-UhuwZgaB",
+        "edit-time": 1620766609555,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "歴史",
+        "create-time": 1620764903815,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "妙香山という名は、山勢の妙なるさまと、[山の一帯に漂う][松や柏の木の香り](matsu ya kashiwa)からきている。[古来より]名山として名が高く、[統一新羅時代]([[统一新罗]])の記録では太伯山や北嶽とも呼ばれた[1](((7G6afJnjN)))（ただし新羅の[国境線](Kokkyō-sen)は妙香山よりも南にあった）。\n210512-04:30",
+            "create-time": 1620764912674,
+            ":block/refs": [
+              {
+                ":block/uid": "6upjldP3q"
+              },
+              {
+                ":block/uid": "7G6afJnjN"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "6upjldP3q"
+              },
+              {
+                "uid": "7G6afJnjN"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "SeC6fnzp4",
+            "edit-time": 1620767445831,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "朝鮮[仏教の名山](Bukkyō no meizan)でもあり、[高麗時代以来]の[多くの仏教寺院]や史跡が残っている。[朝鮮王朝実録]を納める史庫の[一つが置かれた]時期もある。",
+            "create-time": 1620767156427,
+            "uid": "LoA5TZEja",
+            "edit-time": 1620767268427,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "また[朝鮮神話]では、妙香山は、檀君の祖先で[天帝桓因]の庶子・桓雄が[天下った]太伯山のこととされている。[新羅末期]の儒学者・崔致遠は、[檀君を記念して][妙香山の岩壁に]「天符経」と呼ばれる経典を刻んだとされる（ただし天符経の[用字法]と、崔致遠が[慣れ親しんだはず]の[唐代の語法]とに不一致が見られる点、妙香山は当時は[新羅領内ではなかった]点などから、[これを偽書とする](gisho, forged document)見方もある）。\n(妙香山天符经实乃后人伪作论-妙香山本身在长白山系的南缘了，朝鲜人自身同妙香山相关的传说都属伪托的话，很难说朝鲜人真的保留了半点关于半岛以北的共同回忆。-不过韩国贱种本身盯着的就是天池为中心的整个长白山，也无所谓妙香山传说能有多少价值了。)\n210512-05:09",
+            "create-time": 1620767098615,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "children": [
+              {
+                "string": "妙香山也为[传说中的]朝鲜族祖先[仙人檀君]([[檀君 (Tangun)]])[降临的地方]，后[新罗国大儒][[崔致远 (Cui Zhiyuan)]]曾在山上刻[[天符经]]以[纪念檀君]。",
+                "create-time": 1620764904298,
+                ":block/refs": [
+                  {
+                    ":block/uid": "4Z-RaIvDM"
+                  },
+                  {
+                    ":block/uid": "iMQrBJV2M"
+                  },
+                  {
+                    ":block/uid": "OtP0LlR26"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "4Z-RaIvDM"
+                  },
+                  {
+                    "uid": "iMQrBJV2M"
+                  },
+                  {
+                    "uid": "OtP0LlR26"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "R8ABZIO8b",
+                "edit-time": 1620768030363,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "uid": "Dut6j8u1Y",
+            "edit-time": 1620767867678,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "edit-time": 1620766899225,
+            "children": [
+              {
+                "string": "大约到18世纪末，[朝鲜人]开始将太白山[定位为]“白头山”或“长白山”，[其代表人物是][安鼎福] (1712～1791)，他在《东史纲目·太伯山考》中根据[新罗文人][[崔致远 (Cui Zhiyuan)]]《上太师侍中状》中关于“高句丽[残孽类聚]，北依太白山下，国号渤海”的说法，[一改][前人的解释]，谓“太白山”(太伯山)即“白头山”，亦即长白山。其后，附和者渐众。直到现在，还有不少人[袭其谬说]，将今长白山同“[[檀君 (Tangun)]]神话”中的“太伯山”联系起来，[并进一步]将[中国的东北]视为所谓[“古朝鲜”的疆域]。",
+                "create-time": 1620766529006,
+                ":block/refs": [
+                  {
+                    ":block/uid": "4Z-RaIvDM"
+                  },
+                  {
+                    ":block/uid": "iMQrBJV2M"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "4Z-RaIvDM"
+                  },
+                  {
+                    "uid": "iMQrBJV2M"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "ft_wqysL9",
+                "edit-time": 1620768030363,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "fepuv3JyM"
+              }
+            ],
+            "uid": "Y5amH92pX",
+            ":block/refs": [
+              {
+                ":block/uid": "fepuv3JyM"
+              }
+            ],
+            "string": "[素称]沸流山、太白山，因山势奇妙，[漫山][松柏树][馨香扑鼻]，景致佳绝，[自11世纪以来][被称为]妙香山。\n[高丽僧人][[一然 (Yiran)]] (1206～1289) 在《三国遗事》[自注]中[明确指出]:“太白，今妙香山。” 《[新增][东国][舆地胜览]》指出:“妙香山，[在府东][一百三十里]，[一名][太伯山]。” [后世学者][也多将][太伯山(太白山)][视为]今妙香山。\n210512-05:00",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1620766629403,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "jLI3ktEcW",
+        "edit-time": 1620764904306,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "脚注",
+        "create-time": 1620767412862,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "[1]: [『三国遺事』より](http://books.google.cn/books?id=KrcBSpLn9-sC&pg=PA29&lpg=PA29&dq=%E8%A7%A3%E6%85%95%E6%BC%B1+%E6%89%B6%E4%BD%99&source=web&ots=XqbCJnsqXA&sig=iXK0yyL7a00nI0GEjFENPDwa6Jg&hl=zh-CN&sa=X&oi=book_result&resnum=9&ct=result#PPA29,M1)",
+            "create-time": 1620767413323,
+            "uid": "7G6afJnjN",
+            "edit-time": 1620767419417,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "cSNVEHJbI",
+        "edit-time": 1620767413328,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "TpQ22xubN",
+    "edit-time": 1620764741311,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620764809989,
+    "title": "檀君 (Tangun)",
+    "uid": "iMQrBJV2M",
+    "edit-time": 1620768030363,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620764822182,
+    "title": "天符经",
+    "uid": "OtP0LlR26",
+    "edit-time": 1620764822183,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620766798020,
+    "title": "三国遗事",
+    "uid": "QZbZxJnvT",
+    "edit-time": 1620766798021,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620767949225,
+    "title": "sacred site",
+    "uid": "85nSfp-du",
+    "edit-time": 1620767949226,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

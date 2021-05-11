@@ -1,5 +1,6 @@
 - 朝鲜三国时代
 - [[Gojoseon (古朝鮮)]]
+    - [[檀君 (Tangun)]]; 檀君神话
 - [[高丽 (Goryeo)]] (王氏高丽)
 - History of Korea
 - [[Jin State (辰國)]]
