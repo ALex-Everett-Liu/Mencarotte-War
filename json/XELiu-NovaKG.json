@@ -806,7 +806,7 @@
         },
         "children": [
           {
-            "string": "mapped coordinate: (6447, {{[[calc]]: ((4096-2582))}})",
+            "string": "mapped coordinate: (6394, {{[[calc]]: ((4096-2526))}})",
             "create-time": 1619718628988,
             ":block/refs": [
               {
@@ -822,7 +822,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "YfYQzQsik",
-            "edit-time": 1620811054722,
+            "edit-time": 1620814585738,
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             }
@@ -834,7 +834,7 @@
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
             },
             "uid": "JM_hOwxwM",
-            "edit-time": 1620811066140,
+            "edit-time": 1620819966052,
             "text-align": "left",
             ":edit/user": {
               ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
@@ -881,6 +881,18 @@
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         },
         "children": [
+          {
+            "string": "buy",
+            "create-time": 1620817433362,
+            "uid": "Sb0wDSpl_",
+            "edit-time": 1620817434975,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
           {
             "string": "比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; ",
             "create-time": 1617570842241,
@@ -24792,6 +24804,28 @@
         ],
         "uid": "4_tNFnWC-",
         "edit-time": 1618360321109,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "[[Buddhism]]",
+        "create-time": 1620819970106,
+        ":block/refs": [
+          {
+            ":block/uid": "LqWNkmqOe"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "LqWNkmqOe"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "wn9w-jAL0",
+        "edit-time": 1620819971448,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -111693,24 +111727,6 @@
         }
       },
       {
-        "string": "[[东丹国 (Dongdan Kingdom)]]",
-        "refs": [
-          {
-            "uid": "tCQ_1JJGm"
-          }
-        ],
-        "uid": "fwGaEWOCm",
-        "edit-time": 1620538956607,
-        ":block/refs": [
-          {
-            ":block/uid": "tCQ_1JJGm"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
-        }
-      },
-      {
         "string": "海东盛国",
         "uid": "Lr12H__SN",
         "edit-time": 1619868581262,
@@ -111764,6 +111780,88 @@
             ":block/uid": "qL835LT28"
           }
         ],
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Post Balhae",
+        "children": [
+          {
+            "string": "[[东丹国 (Dongdan Kingdom)]]",
+            "refs": [
+              {
+                "uid": "tCQ_1JJGm"
+              }
+            ],
+            "uid": "ULA2NUivi",
+            "edit-time": 1620816130460,
+            ":block/refs": [
+              {
+                ":block/uid": "tCQ_1JJGm"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[定安国]]",
+            "refs": [
+              {
+                "uid": "G_-8LnEfT"
+              }
+            ],
+            "uid": "6udaXNg_F",
+            "edit-time": 1620816129032,
+            ":block/refs": [
+              {
+                ":block/uid": "G_-8LnEfT"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[後渤海国]]",
+            "refs": [
+              {
+                "uid": "bifSavAq1"
+              }
+            ],
+            "uid": "ZLxybxa1i",
+            "edit-time": 1620816127557,
+            ":block/refs": [
+              {
+                ":block/uid": "bifSavAq1"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "[[兀惹国 (Weji)]], 995",
+            "refs": [
+              {
+                "uid": "TWN1Yryjy"
+              }
+            ],
+            "uid": "Cnif7UF19",
+            "edit-time": 1620816125622,
+            ":block/refs": [
+              {
+                ":block/uid": "TWN1Yryjy"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "tCMSgp82y",
+        "edit-time": 1620816110908,
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
@@ -111856,14 +111954,14 @@
             }
           },
           {
-            "string": "[[大祚荣]]",
+            "string": "[[大祚榮 (Dae Joyeong)]]",
             "refs": [
               {
                 "uid": "1kwkg4ngY"
               }
             ],
             "uid": "aih18m67s",
-            "edit-time": 1620084906362,
+            "edit-time": 1620818225587,
             ":block/refs": [
               {
                 ":block/uid": "1kwkg4ngY"
@@ -113204,7 +113302,7 @@
                 "edit-time": 1619888940090,
                 "children": [
                   {
-                    "string": "唐高宗总章元年（668年）九月，唐朝攻下高句丽后，唐朝[无法管制][高句丽故地]。于676年任命宝藏王“辽东州都督朝鲜王”让他管理[辽东州都督府]。不过宝藏王却联合原[高句丽北疆][境外的附属国]——[粟末靺鞨]人[[大祚荣]]复兴高句丽。681年，宝藏王[被流放剑南道]，682年去世。",
+                    "string": "唐高宗总章元年（668年）九月，唐朝攻下高句丽后，唐朝[无法管制][高句丽故地]。于676年任命宝藏王“辽东州都督朝鲜王”让他管理[辽东州都督府]。不过宝藏王却联合原[高句丽北疆][境外的附属国]——[粟末靺鞨]人[[大祚榮 (Dae Joyeong)]]复兴高句丽。681年，宝藏王[被流放剑南道]，682年去世。",
                     "create-time": 1620084837130,
                     ":block/refs": [
                       {
@@ -113220,7 +113318,7 @@
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     },
                     "uid": "_tGpUDQJf",
-                    "edit-time": 1620084923762,
+                    "edit-time": 1620818225587,
                     ":edit/user": {
                       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
                     }
@@ -117091,7 +117189,7 @@
   },
   {
     "create-time": 1620084873600,
-    "title": "大祚荣",
+    "title": "大祚榮 (Dae Joyeong)",
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
@@ -117110,7 +117208,7 @@
       }
     ],
     "uid": "1kwkg4ngY",
-    "edit-time": 1620084873601,
+    "edit-time": 1620818225587,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }
@@ -128560,6 +128658,28 @@
         ":edit/user": {
           ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
         }
+      },
+      {
+        "string": "[[兀惹国 (Weji)]]\n210512-18pm",
+        "create-time": 1620815572712,
+        ":block/refs": [
+          {
+            ":block/uid": "TWN1Yryjy"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "TWN1Yryjy"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "uid": "y79GG6u68",
+        "edit-time": 1620815578808,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
       }
     ],
     "uid": "05-12-2021",
@@ -129484,6 +129604,486 @@
     ":create/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620813535443,
+    "title": "兀惹国 (Weji)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "兀惹（995年—996年）在今黑龙江省[宾县]。\n兀惹（こつじゃく）は、[10世紀後半]に存在した[渤海遺民]により[建国された王朝]。",
+        "create-time": 1620813544362,
+        "uid": "VRQW64aaq",
+        "edit-time": 1620815518073,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "概説",
+        "create-time": 1620815295099,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "兀惹は、契丹より渤海が滅亡した後、渤海人貴族が契丹の支配に抵抗して建国された。\n[契丹征服渤海]灭亡后，10世纪后半期[渤海人贵族]建立的[抵抗契丹辽朝统治]的国家。",
+            "create-time": 1620815504882,
+            "uid": "GCm2HHu-r",
+            "edit-time": 1620815516328,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          },
+          {
+            "string": "表記は「兀惹」「烏舎」「烏舎城渤海」「烏惹」「嗢熱」等であり、「兀惹＝烏舎＝烏惹＝嗢熱」と[発音の類似が認められ](Hatsuon no ruiji ga mitomerare)「weji（ウェジ）」（満洲語で「森林」の意味）に近い発音であったと[推測される](suisoku)。後の[賓州]（現在の吉林省長春市[農安県]）にあたり、中国文化を[受容していた](juyou)。\n[史书上又称]“兀惹国”“乌舍国”“乌舍城渤海国”“乌惹”“嗢热部”、“兀惹＝乌舍＝乌惹＝嗢热”、与［weji］的[发音接近]。\n210512-18:30",
+            "create-time": 1620815295526,
+            "uid": "A6sW4RmFs",
+            "edit-time": 1620815533848,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "U3TV6HENw",
+        "edit-time": 1620815295534,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "遼代の兀惹国",
+        "create-time": 1620813947431,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "edit-time": 1620814468213,
+            "children": [
+              {
+                "string": "渤海の滅亡後、[契丹の支配下に]置かれた[渤海国の故地]には、その後の[渤海遺民の自立運動](jiritsu undou)の結果、定安国が建てられた。981年、定安国王烏玄明は[女真使者に託して]北宋に「[高麗の旧壌]と[渤海の遺黎]を以て[方隅に保拠す]云々、扶余府が[契丹に背いて帰順し]、[契丹の脅威が迫る][宋に救援を依頼したい](kyūen o irai shitai)」等と上奏している。",
+                "create-time": 1620815856764,
+                "uid": "A4v7HRsAT",
+                "edit-time": 1620815857109,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "宋朝[下诏建立]宋・高丽・定安三国[对契丹的包围网]，北宋对[乌舍城][浮渝府][渤海琰府王]下诏[共讨契丹]。“浮渝府”[据考]即为“扶余府”。定安国对宋表示扶余府是[自立为国]的，乌舍国是不属于定安国的[独立王国]。\n北宋も詔を以て[宋・高麗・定安の三国による][契丹包囲網が形成された](Hōi-mō ga keisei sareta)。北宋はまた「烏舎城浮渝府渤海琰府王」なる者に[詔を下し](Mikotonori o kudashi)、契丹攻撃を促している（「浮渝府」は「扶余府」と考えられる）。定安国は北宋に対し、扶余府が[自国に帰順した]説明を行っていたが、実際には烏舎国として独立していたことが窺える記録である。\n210512-18:40",
+                "create-time": 1620815879822,
+                "uid": "LALVXKLoH",
+                "edit-time": 1620816085769,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              },
+              {
+                "string": "986年，定安国[被契丹攻灭]。995年，[渤海人贵族][[乌昭庆]]以[兀惹国]的名义[起兵]，996年，投降契丹。\n986年、契丹は定安国を攻撃し、定安国は[滅亡した](metsubou)。[その後]995年に[渤海人貴族][烏昭慶]が[挙兵した](kyohei)が（「兀惹国」）、翌996年、契丹に[降伏した](koufuku)。[契丹への抵抗運動](Teikō undō)は[[後渤海国]]に[引き継がれる](hikitsugareru)。\n210512-18:10",
+                "create-time": 1620813947783,
+                ":block/refs": [
+                  {
+                    ":block/uid": "uruKCQijN"
+                  },
+                  {
+                    ":block/uid": "bifSavAq1"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "uruKCQijN"
+                  },
+                  {
+                    "uid": "bifSavAq1"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                "uid": "LISvO5jQa",
+                "edit-time": 1620816073499,
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "G_-8LnEfT"
+              },
+              {
+                "uid": "nQzZbyrWL"
+              },
+              {
+                "uid": "X27psNdkE"
+              }
+            ],
+            "uid": "esDH9ajAi",
+            ":block/refs": [
+              {
+                ":block/uid": "G_-8LnEfT"
+              },
+              {
+                ":block/uid": "nQzZbyrWL"
+              },
+              {
+                ":block/uid": "X27psNdkE"
+              }
+            ],
+            "string": "契丹国灭亡渤海国后，在[渤海国故地]，有[渤海人建立的政权][[定安国]]存在。981年，[定安国王][[乌玄明]]通过[女真使者][向北宋上表]：“^^臣本以[高丽旧壤]，渤海遗黎，保据方隅^^……而[顷岁][契丹][恃其强暴]，入寇境土，攻破[城砦]，[俘略]人民……而又[[扶余府 (Fuyu Fu)]][昨背契丹]，并归本国，灾祸将至，无大于此。[所宜]受天朝之[密画]，[率胜兵]而[助讨]，必欲报敌，不敢违命。臣玄明[诚恳诚愿]，顿首顿首。”",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1620814147740,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "se-SOs9GC",
+        "edit-time": 1620815589676,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "金代的兀惹国",
+        "create-time": 1620814359756,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "金代には、兀惹国の[指導者](shidousha)は烏氏から李氏に変わっている（支配層の出自に変更があったとする説もある (Suppose that there is a change in the origin of the ruling class, Shihai-sō no shutsuji ni henkō)）。長子の「李靖」の妹「金哥」が、金朝の[第2代皇帝]の伯父で太祖の[庶長子]の[斡本（宗幹）]の側室となった。これは[高い文化を有す]兀惹国（烏舎国）が評価されたものと考えられている。この金哥との間に生まれたのが「充（本名「神土懣」）」である。充は金帝国[第4代皇帝]である海陵王の兄にあたり、[教養人]として知られた。\n兀惹国[首领][乌氏]被李氏[取代]。[海陵王完颜亮]的兄长[郑王完颜充]([[完颜充 (Wanyan Chong)]])，就是[兀惹李氏]的[顺妃李金哥]所生。\n210512-19:10",
+            "create-time": 1620817761700,
+            ":block/refs": [
+              {
+                ":block/uid": "QfMJvJT56"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "QfMJvJT56"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "syarLYLv7",
+            "edit-time": 1620817920735,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "MisCayU8t",
+        "edit-time": 1620814360131,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "外部链接",
+        "create-time": 1620815043195,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "《[钦定古今图书集成·方舆汇编·边裔典·兀惹部](https://zh.wikisource.org/wiki/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E6%96%B9%E8%BC%BF%E5%BD%99%E7%B7%A8/%E9%82%8A%E8%A3%94%E5%85%B8/%E5%85%80%E6%83%B9%E9%83%A8)》，出自[蒋廷锡]《[[古今图书集成]]》 -- [Wikidata](https://www.wikidata.org/wiki/Q8017090)",
+            "create-time": 1620815043750,
+            ":block/refs": [
+              {
+                ":block/uid": "sW6uOCTc4"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "sW6uOCTc4"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "SEmnPALfK",
+            "edit-time": 1620815145660,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "rI4elLXhR",
+        "edit-time": 1620815043756,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "関連項目",
+        "children": [
+          {
+            "string": "渤海\r\n定安国\r\n東北工程",
+            "create-time": 1620817951308,
+            "uid": "FxfISDgdu",
+            "edit-time": 1620817952349,
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "30taFfbiH",
+        "edit-time": 1620817939656,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "TWN1Yryjy",
+    "edit-time": 1620813535444,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620813966600,
+    "title": "定安国",
+    "uid": "G_-8LnEfT",
+    "edit-time": 1620813966601,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620814190254,
+    "title": "乌玄明",
+    "uid": "nQzZbyrWL",
+    "edit-time": 1620814190254,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620814332935,
+    "title": "乌昭庆",
+    "uid": "uruKCQijN",
+    "edit-time": 1620814332935,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620814396847,
+    "title": "完颜充 (Wanyan Chong)",
+    "uid": "QfMJvJT56",
+    "edit-time": 1620814396848,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620814468215,
+    "title": "扶余府 (Fuyu Fu)",
+    "uid": "X27psNdkE",
+    "edit-time": 1620814468216,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620815145662,
+    "title": "古今图书集成",
+    "uid": "sW6uOCTc4",
+    "edit-time": 1620815145663,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620815995756,
+    "title": "後渤海国",
+    "uid": "bifSavAq1",
+    "edit-time": 1620815995756,
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620818128784,
+    "title": "大延琳 (Dae Yeon-rim)",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "string": "Dae Yeon-rim (Hangul: 대연림, Hanja: 大延琳, ?-?) was the founder of the [Heung-yo kingdom], which was a [successor-state] of Balhae.",
+        "create-time": 1620818135432,
+        "uid": "CvnlqOfoO",
+        "edit-time": 1620818156182,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      },
+      {
+        "string": "Background and Rise to power",
+        "create-time": 1620818166535,
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "children": [
+          {
+            "string": "Dae Yeon-rim was a descendant of the [Balhae Royal family] as the [7th-generation direct descendant] of [[大祚榮 (Dae Joyeong)]], who was the founder of Balhae. He entered the Liao army at an unknown age and was eventually assigned to the central province as a general. While serving as a general of the Liao Dynasty, Dae Yeon-rim secretly dreamed of re-establishing the glories of the former kingdom of Balhae, and began gathering people of Balhae origin, and eventually established the kingdom of Heung-yo during the year 1029 AD. The kingdom of Heung-yo gathered the attention of numerous Balhae people, and flourished until 1030 AD, when the Liao sent an army to conquer and destroy the kingdom.",
+            "create-time": 1620818166900,
+            ":block/refs": [
+              {
+                ":block/uid": "1kwkg4ngY"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "1kwkg4ngY"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "uid": "XJPVrEO2u",
+            "edit-time": 1620818237222,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "uid": "FVTys2NQ5",
+        "edit-time": 1620818166909,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "UflsqhIOv",
+    "edit-time": 1620818128784,
+    ":edit/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    }
+  },
+  {
+    "create-time": 1620819833995,
+    "title": "Buddhism",
+    ":create/user": {
+      ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+    },
+    "children": [
+      {
+        "edit-time": 1620819837132,
+        "children": [
+          {
+            "edit-time": 1620819951833,
+            "children": [
+              {
+                "string": "印度的[佛教残余势力][逐渐转入][苏非主义]。",
+                "create-time": 1620819918838,
+                "uid": "x-XHttXqO",
+                "edit-time": 1620819946735,
+                ":create/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                },
+                ":edit/user": {
+                  ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "S41onlg92"
+              }
+            ],
+            "uid": "nFEHViN5p",
+            ":block/refs": [
+              {
+                ":block/uid": "S41onlg92"
+              }
+            ],
+            "string": "[很多东南亚人][在自称佛教徒的同时]也信[四面佛]、[象鼻天]等[印度神]，甚至还有[自然精灵崇拜]，而[印度不少地方]其实也都[保留着自己的地方神祇]，只不过[印度教]用他们的[“阿凡达”传统]把他们也[编成印度神的化身]了。如果缅甸没有选择[小乘佛教]而是[其他宗派]，可能[东南亚的历史传统]也会改变 #pt9-100",
+            ":create/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            },
+            "create-time": 1620819837125,
+            ":edit/user": {
+              ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L7fTIw9dt"
+          }
+        ],
+        "uid": "aKPevuO3f",
+        ":block/refs": [
+          {
+            ":block/uid": "L7fTIw9dt"
+          }
+        ],
+        "string": "#inbox",
+        ":create/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        },
+        "create-time": 1620819835282,
+        ":edit/user": {
+          ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
+        }
+      }
+    ],
+    "uid": "LqWNkmqOe",
+    "edit-time": 1620819833996,
     ":edit/user": {
       ":user/uid": "QQjd7ZZRUlcE6dFuCspWMbnIbyG2"
     }

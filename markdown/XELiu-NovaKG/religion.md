@@ -4,6 +4,7 @@
 - belief...
     - pray
     - religious belief
+- [[Buddhism]]
 - the story of creation
 - [[Christian]]
 - [[deity]]

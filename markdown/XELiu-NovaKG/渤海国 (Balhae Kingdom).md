@@ -1,16 +1,20 @@
 - [[渤海都督府 (bohai dudufu)]]; [[渤海郡王 (Bohai Junwang)]]
-- [[东丹国 (Dongdan Kingdom)]]
 - 海东盛国
 - 鸿胪井刻石文字 (714)
 - [[忽汗州 (Huhanzhou)]]
     - [[东牟山 (Dongmou Hill)]]; [东牟山城]
+- Post Balhae
+    - [[东丹国 (Dongdan Kingdom)]]
+    - [[定安国]]
+    - [[後渤海国]]
+    - [[兀惹国 (Weji)]], 995
 - [[粟末靺鞨 (Sumo Mohe)]]
 - [[震国 (Zheng Kingdom)]]
     - [[震旦 (Zhengdan)]]; 东方大国大振那
 - 世系
     - 乞四比羽; 许国公;
     - 震国公 - 乞乞仲象
-    - [[大祚荣]]
+    - [[大祚榮 (Dae Joyeong)]]
     - 文王 [[大钦茂]]
     - [[大仁秀 (Dae Insu)]]
 - ---
