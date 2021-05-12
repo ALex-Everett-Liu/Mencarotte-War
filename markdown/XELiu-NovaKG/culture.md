@@ -9,8 +9,12 @@
             - 夜空は星が降るようで
     - [[park]]
         - walk in the park;
+    - scenic route
+    - [[scenic spot]]
 - [[social activity]]
 - [[sports]]
+- tour; travel
+    - 随身行李清单
 - 民俗
     - 迷信
         - auspicious sign

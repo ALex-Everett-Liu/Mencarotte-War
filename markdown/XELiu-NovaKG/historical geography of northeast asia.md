@@ -2,6 +2,7 @@
     - [[盖马大山 (Gaima Mountain)]]
     - [[曷懒甸 (Helan Dian)]]
     - [[妙香山 (Mount Myohyang)]]; 太伯山; 沸流山
+    - 双城総管府 (Shuangcheng Zongguanfu)
     - [[铁岭卫 (Tieling Wei)]]
 - [[historical geography of korea]]
 - [[混同江 (Huntong Jiang)]]
