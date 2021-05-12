@@ -16,7 +16,7 @@
         - [[Jurchen]]; 女真; 女直
         - [[靺鞨 (Mohe)]]; 靺羯
             - [[沃沮 (Okjeo)]]
-            - [[勿吉 (Wuji)]]
+            - [[勿吉 (Wuji)]]; 勿吉七部
         - [[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)
         - [[Tungusic language family]]; 满-通古斯语族; ツングース・満州語族
             - [[Paleosiberian languages]]

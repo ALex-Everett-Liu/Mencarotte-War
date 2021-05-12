@@ -6,7 +6,7 @@
 - [[Jin State (辰國)]]
 - [[箕子朝鲜]]; [[辰国]]
 - [[朝鮮 (Joseon)]]; Chaoxian
-- 李氏朝鲜王朝 (Josŏn Dynasty)
+- 李氏[[朝鲜王朝 (Josŏn Dynasty)]]
 - [[三韩 (Samhan)]]
     - [[伽耶 (Gaya)]]
     - [[辰韓 (Jinhan)]]
