@@ -1,5 +1,5 @@
 - draft
-    - mapped coordinate: (6448, {{[[calc]]: ((4096-2529))}})
+    - mapped coordinate: (6344, {{[[calc]]: ((4096-2605))}})
     - 
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
