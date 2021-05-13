@@ -7,6 +7,8 @@
 - [[geophysics]]
 - [[GPS]]
 - [[hydrology]]
+    - [[river]]
+    - [[wetland]]
 - [[ocean]]; [[ocean science]]
 - [[seismology]]
 - 经纬度; 经纬度信息

@@ -10,6 +10,6 @@
     - [[辽阳行省 (Liaoyang province)]]
 - [[辽西 (Liaoxi)]]
 - Northeast China;
-- [[弱水 (River Ruo)]]
+- [[弱水 (River Ruo)]]; [[黑龙江水系]]
     - [[胡里改路 (Huligai Lu)]]
     - [[水达达路 (Shuidada Lu)]]; 水鞑靼; usu irgen
