@@ -55,8 +55,10 @@
     - [[Scrivener]]
 - #inbox
     - knowledge graph; wolfram alpha; [Wikidata](https://www.zhihu.com/question/20151850/answer/15562816) #pt10-99.99
+    - 不能插入外部 url scheme 的软件[不止下面这些]，[这里之所以][只列出它们]，是因为它们有[做得比较好的]表格或图形、本来[很适合用来][管理其它软件的 url scheme] [做高级 moc]，可惜[这种用法][被产品经理 ban 了](https://www.yuque.com/deerain/gannbs/gmkp9w) #pt10-99.99
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
+    - 在此之前[我的工具][大致包括]： 稍后读软件、GTD工具（滴答清单）、写作工具（一般是 VSCode+Hexo）。最近半年沉迷于使用[双链笔记软件]，目前在用的是 Logseq，后面专门[展开介绍一下]。目前在尝试将GTD工具、笔记都整合到 Logseq 里面，主要是[受了这篇文章的启发] [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)，下面就详细介绍一下我的[实践过程](https://www.yuque.com/xiaosen-d20ph/qgy7zg/shi-yonglogseq-gou-jiangtd-xi-tong)。 #pt9-100
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
     - 现在[缺陷还很多]。主要是我 [js 代码]是[花了两个小时]查看 zotero 的 api+ [学习例子和教程]学来的；同时 [Quicker 宏编程]我也是参考了很多 [zplusless](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2FUser%2FActions%2F110499-zplusless) [大佬][摘录助手-增强版](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2Fsharedaction%3Fcode%3D623da485-f979-4fda-414e-08d84e0e87c8)的内容，我自己[之前并没有接触过]，问题很多。。。我觉得[主要如下](https://ld246.com/article/1619536691753)： #pt9-99.99
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99

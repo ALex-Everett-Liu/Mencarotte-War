@@ -3,3 +3,5 @@
     - [[zlibrary]]
 - share; sharing...
 - [[upload]]; [[download]]
+- #inbox
+    - {{[[TODO]]}} [ebook resource](https://www.zhihu.com/question/19709630/answer/1827035395) #pt9-100
