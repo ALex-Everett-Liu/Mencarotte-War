@@ -1,6 +1,5 @@
 - [[Chinese history]]
-- ethnics
-    - ethnic group
+- [[ethnics]]: 人种学
 - [[historian]]
 - [[historical geography]]
 - [[Inner Asia]]

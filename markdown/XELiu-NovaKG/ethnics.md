@@ -1,0 +1,3 @@
+- ethnic group
+- [[ethnic origin]]
+- [[stock]]: 血统

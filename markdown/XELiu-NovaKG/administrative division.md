@@ -8,6 +8,6 @@
 - territory
     - contested territory
 - village...
-    - communal land
-    - village level
+    - [[communal land]]
+    - [[village level]]
 - [[万户府 (wanhufu)]]

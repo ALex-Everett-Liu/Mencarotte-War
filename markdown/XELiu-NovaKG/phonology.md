@@ -1,5 +1,5 @@
 - [[Old Chinese phonology]]
-- pronunciation
+- [[pronunciation]]
     - [[IPA]]
     - romanization
         - [[pinyin]]

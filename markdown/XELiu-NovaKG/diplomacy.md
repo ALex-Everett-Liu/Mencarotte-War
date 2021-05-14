@@ -12,7 +12,7 @@
     - [[liege]]
     - [[protectorate]]: 保护国, 摄政政体;
     - [[tribute]]; pay tribute
-    - [[vassal]]; vassal state
+    - [[vassal]]; [[vassal state]]
     - 藩国; 藩属
 - #inbox
     - 因为[一代华裔]中不少人有[皈依者狂热]，属于[反中魔怔人](https://www.zhihu.com/question/458277293/answer/1875053751)。每天就[盼望故乡爆炸]的那种人。 #pt9-100

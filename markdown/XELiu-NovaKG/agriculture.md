@@ -3,8 +3,8 @@
 - fishing
     - [[overfishing]]
 - harvest
-    - good harvest
-- hemp cultivation
+    - [[good harvest]]
+- [[hemp cultivation]]
 - [[sericulture]]
 - 畜牧业
     - [[nomad]]; 遊牧民族; 騎馬民族 (kiba minzoku)

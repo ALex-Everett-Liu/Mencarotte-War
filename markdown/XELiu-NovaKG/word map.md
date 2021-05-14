@@ -28,6 +28,19 @@
                 - alteration;
                 - unalterable;
         - an
+            - ann
+                - annal
+                    - annals;
+                - annex
+                - announce
+                    - announcement
+                - annotate
+                    - annotation;
+                - annular
+                    - annulus;
+                - annum
+                    - annals;
+                    - annual
             - anonym
                 - [[anonymous]]
             - antho

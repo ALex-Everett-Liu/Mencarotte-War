@@ -3,6 +3,8 @@
     - [[defence spending]]
 - general...
     - military action
+- martial...
+    - [[martial display]]
 - military formation
 - military service
 - [[soldier]]

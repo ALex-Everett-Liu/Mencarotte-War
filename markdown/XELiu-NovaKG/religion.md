@@ -21,7 +21,7 @@
     - sacred rite; sacrificial rite
     - sacrificial ceremony
     - sacrificial song
-    - worshipping heaven
+    - [[worshipping heaven]]
     - worship god
 - [[sacred site]]
 - [[Satanism]]

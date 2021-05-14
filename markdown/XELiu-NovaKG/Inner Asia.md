@@ -3,7 +3,7 @@
 - [[东胡 (Donghu)]]
     - [[Khitan (契丹)]]
     - [[室韦 (Shiwei)]]
-- Northeast; 東夷諸国
+- Northeast; Eastern barbarians; 東夷諸国
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
     - [[濊貊 (Weimo)]]; 濊族
     - [[Korea]]

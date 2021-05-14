@@ -1,4 +1,5 @@
 - [[communication and media]]; media communications; 传播学; 传媒...
+- [[festival]]
 - [[moral panic]]
 - [[popular culture]]
 - scene; scenery...
@@ -15,6 +16,7 @@
 - [[sports]]
 - tour; travel
     - 随身行李清单
-- 民俗
+- [[custom]]; 民俗
+    - [[martial display]]
     - 迷信
         - auspicious sign
