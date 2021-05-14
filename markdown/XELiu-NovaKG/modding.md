@@ -1,7 +1,7 @@
 - [[cheating]]
     - [[cheat engine]]
 - [[checksum]]; checksum manifest
-- [[major overhaul]]
+- [[major overhaul]]; small tweak
 - [[moddable]]
 - [[modder]]
 - [[Steam Workshop]]

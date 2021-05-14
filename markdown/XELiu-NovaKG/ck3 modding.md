@@ -7,6 +7,9 @@
 - [[ck3 localization]]; [[localization]]
 - [[map modding]]
 - syntax, script...
+    - modifier category
+    - [[scripting]]...
+    - [[visual effect]]
 - ---
 - [Abstract](https://ck3.paradoxwikis.com/Modding)
     - [Modding]([[modding]]), or [creating mods], is the act of modifying the [[asset]]s or [behavior of the game] either for [[personal use]], or to [release publicly](((r5AeYZqom))) to other [[player]]s, for instance via [Paradox Mods](https://mods.paradoxplaza.com/games/ck3) or the [Steam Workshop](https://steamcommunity.com/app/1158310/workshop/). #[[Steam Workshop]]

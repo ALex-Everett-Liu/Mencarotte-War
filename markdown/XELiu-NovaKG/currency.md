@@ -1,2 +1,3 @@
 - [[digital currency]]
     - [[cryptocurrency]]
+- money; cash; [[gold]]

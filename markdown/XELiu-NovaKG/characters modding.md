@@ -3,3 +3,7 @@
         - appearance
         - [[customization point]]
 - character ID
+- ---
+- Please help with verifying or [updating older sections of this article].
+    - At least some were [last verified for](((GCtb5pCUl))) [version](https://ck3.paradoxwikis.com/CK3_Wiki:Versioning) 1.1.
+- Modding characters involves changing their [[appearance]], data and behaviour. [This can vary from] [small tweaks](((LPt3Ke05z))) like adding [[gold]] or [[piety]], to [complex changes] like [[scripting]] new [[visual effect]]s and more.

@@ -2,6 +2,7 @@
     - [[animal worship]]
 - [[astrology]]
 - belief...
+    - [[piety]]
     - pray
     - religious belief
 - [[Buddhism]]
