@@ -1,5 +1,5 @@
 - draft
-    - mapped coordinate: (6344, {{[[calc]]: ((4096-2605))}})
+    - mapped coordinate: (6342, {{[[calc]]: ((4096-2527))}})
     - 
     - 
     - queue...

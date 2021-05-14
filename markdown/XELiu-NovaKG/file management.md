@@ -31,7 +31,7 @@
     - [[time format]]; [[date format]]
 - file metadata...
     - file integrity
-    - [[filename]]
+    - [[filename]]; file name
     - [[file size]]
     - [[thumbnail]]
 - general...

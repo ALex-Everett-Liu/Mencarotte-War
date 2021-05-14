@@ -1,3 +1,7 @@
+- alternative or custom start?
+    - [[ruler designer]]
+        - [[customization point]]
+        - [[portrait editor]]
 - [[ck3 characters]]; [[ck2 characters]]
     - [[characters modding]]; 
     - [[ck3 traits]]
@@ -5,10 +9,12 @@
     - [[opinion]]
 - [[ck3 history]]
 - [[ck3 localization]]; [[localization]]
+- [[gfx]]
 - [[map modding]]
-- syntax, script...
-    - modifier category
-    - [[scripting]]...
+- syntax; script; [[scripting]]
+    - [[modifier]]
+        - [[flag]]
+        - modifier category
     - [[visual effect]]
 - ---
 - [Abstract](https://ck3.paradoxwikis.com/Modding)

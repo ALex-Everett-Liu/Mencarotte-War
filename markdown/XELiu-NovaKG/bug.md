@@ -7,8 +7,8 @@
     - [[error experimentation]];
     - error-free;
     - error-prone
-    - error report; error message; error log
-    - fixing errors
+    - error report; [[error message]]; [[error log]]
+    - fixing errors; 
 - exit code
 - [[feedback]]
 - file not found

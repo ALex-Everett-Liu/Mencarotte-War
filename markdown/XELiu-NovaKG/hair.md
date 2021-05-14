@@ -1,7 +1,9 @@
+- [[hair color]]
 - hair style
     - [[ponytail]]
         - dual ponytail
         - [[short ponytail]]
+- [[headgear]]
 - 发卡
     - middle faqia
 - 发圈
