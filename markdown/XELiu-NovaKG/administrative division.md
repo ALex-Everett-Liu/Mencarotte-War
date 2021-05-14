@@ -11,3 +11,5 @@
     - [[communal land]]
     - [[village level]]
 - [[万户府 (wanhufu)]]
+- 中国行政区划变更
+    - 唐改州为郡

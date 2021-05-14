@@ -21,6 +21,7 @@
     - [[大祚榮 (Dae Joyeong)]]
     - 文王 [[大钦茂]]
     - [[大仁秀 (Dae Insu)]]
+- 926.1, 契丹灭渤海国
 - ---
 - [[渤海国行政区划 (Administrative division of Balhae)]]
 - [[Map of Balhae]]
