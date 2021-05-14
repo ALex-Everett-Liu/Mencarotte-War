@@ -1,3 +1,3 @@
 - government institution;
-- 官僚体系
+- 官僚体系; 官制
     - [[chancellor]]
