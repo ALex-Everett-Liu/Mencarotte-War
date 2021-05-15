@@ -1,5 +1,5 @@
 - draft
-    - mapped coordinate: (6342, {{[[calc]]: ((4096-2527))}})
+    - mapped coordinate: (6319, {{[[calc]]: ((4096-2532))}})
     - 
     - 
     - queue...
@@ -17,6 +17,7 @@
     - ---
     - webpage
         - https://www.nicovideo.jp/watch/sm38701181
+        - https://www.youtube.com/watch?v=M4DC8rLRytI
         - https://www.zhihu.com/people/jin-wei-66-63
         - https://weibo.com/u/5972369811
 - roam - function test

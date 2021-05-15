@@ -17,6 +17,7 @@
 - tour; travel
     - 随身行李清单
 - [[custom]]; 民俗
+    - abandon their old dwelling;
     - [[martial display]]
-    - 迷信
+    - superstitions and taboos: 迷信和禁忌
         - auspicious sign

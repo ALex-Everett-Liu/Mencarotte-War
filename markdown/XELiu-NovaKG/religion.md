@@ -28,7 +28,7 @@
 - [[shamanism]]
 - [[Taoism]]
 - [[theology]]
-- 迷信
+- superstitions and taboos: 迷信和禁忌
 - 神职人员
     - ecclesiastical hierarchy
         - [[angel]]

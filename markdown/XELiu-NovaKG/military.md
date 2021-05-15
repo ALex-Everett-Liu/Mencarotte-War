@@ -8,6 +8,7 @@
 - military formation
 - military service
 - [[soldier]]
+    - foot soldier;
 - [[war]]
 - 城墙
     - [[翁城 (wengcheng)]]
