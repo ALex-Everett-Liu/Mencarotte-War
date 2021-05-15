@@ -1,3 +1,9 @@
 - "Paldo" redirects here. For the Korean [food brand], see Korea Yakult. For the [[linux distribution]], see paldo ([[operating system (OS)]]).
 - This article includes a [list of references]([[reference list]]), [related reading](((Zvw6U5FEa))) or [[external link]]s, but [its sources remain unclear]([[unclear source]]) **because it lacks** [inline citations](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations). Please help to [improve](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check) this article by [introducing more precise citations](https://en.wikipedia.org/wiki/Wikipedia:When_to_cite). __(August 2018)____ [Learn how and when to remove this template message]__ #[[citing source]] #[[inline citation]]
 210515-23:22
+- During most of the [[Joseon Dynasty (李氏朝鲜王朝)]], Korea was divided into eight provinces (do; 도; 道). The eight provinces' boundaries [remained unchanged] for about 480 years from 1413 to 1895, and formed a [[geographic paradigm]] that is still reflected today in the [[Korean Peninsula]]'s [[administrative division]]s, [[dialect]]s, and [[regional distinction]]s. The names of all eight provinces [are still preserved today], in one form or another. These eight [historical provinces] [form both North and South Korea], and are [not to be confused with] the current eight provinces that [make up South Korea].
+210516-03:30
+- History
+    - Provinces before 1895
+        - In 1413 (the 13th year of the reign of King Taejong), the northeastern [[boundary]] of Korea was extended to the [[Tumen River]].([[citation needed]]) [The country was reorganized into] eight provinces: Chungcheong, Gangwon, Gyeonggi, Gyeongsang, Jeolla, P'unghae (renamed Hwanghae in 1417), P'yŏngan, and Yŏnggil (eventually renamed Hamgyŏng in 1509).
+无耻的畜生！

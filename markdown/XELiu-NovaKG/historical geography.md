@@ -8,6 +8,7 @@
     - 地理志 (dilizhi)
     - [[山海经 (Classic of Mountains and Seas)]]
 - placename
+- [[regional distinction]]
 - [[historical geography of northeast asia]]
 - 制图工作者
 - #inbox

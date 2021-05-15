@@ -602,7 +602,7 @@
                     - vertices
                 - very
                     - verify
-                        - verifiable;
+                        - verifiable; [[verification]]
                         - unverified; verified;
                     - verity
 - Japanese

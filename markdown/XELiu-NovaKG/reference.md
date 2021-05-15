@@ -1,5 +1,6 @@
 - [[block reference]]; referenced block
 - [[citation]]
+    - [[citation needed]]
     - [[inline citation]]
 - [[cross-reference]]
 - [[footnote]]
@@ -7,7 +8,10 @@
 - mentioned
 - reference check
 - [[reference list]]
+- [[referencing]]
 - referring page
 - source
     - [[citing source]]
+    - [[reliable source]]
     - [[unclear source]];
+    - [[unsourced material]];

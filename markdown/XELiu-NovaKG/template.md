@@ -1,1 +1,2 @@
 - interactive template
+- [[template message]]; 

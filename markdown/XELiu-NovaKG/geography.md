@@ -1,4 +1,6 @@
 - [[forest]]
+- general...
+    - [[geographic paradigm]]
 - [[historical geography]]
 - [[map]]
 - [[terrain]]

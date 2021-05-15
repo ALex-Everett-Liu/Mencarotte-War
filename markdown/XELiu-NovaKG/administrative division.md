@@ -5,8 +5,9 @@
     - 五京制
         - 中京 (zhongjing)
 - [[prefecture]]
-- territory
-    - contested territory
+- [[territory]]
+    - [[boundary]]
+    - [[contested territory]]: 有争议的领土
 - village...
     - [[communal land]]
     - [[village level]]

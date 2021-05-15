@@ -4,7 +4,10 @@
     - [[妙香山 (Mount Myohyang)]]; 太伯山; 沸流山
     - 双城総管府 (Shuangcheng Zongguanfu)
     - [[铁岭卫 (Tieling Wei)]]
-- [[historical geography of korea]]
+    - [[Tumen River]]
+- [[扶余府 (Fuyu Fu)]]; Buyeo Fu
+    - [[蒲与路 (Puyu Lu)]]; Buyeo Lu
+- [[historical geography of korea]]; [[Korean Peninsula]]
 - [[混同江 (Huntong Jiang)]]
 - [[辽东 (Liaodong)]]; [[辽东半岛 (Liaodong Peninsula)]]
     - [[辽阳行省 (Liaoyang province)]]
