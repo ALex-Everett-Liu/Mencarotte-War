@@ -68,6 +68,8 @@
         - 最近又试了试notion，然而我觉得notion并不适合我，notion的quote块和callout块中不能插入图片和LaTeX，虽然有inline-table却没有inline-page。感觉用了notion就只能按照notion的思路[来写文档]了，不太舒服。
         - 当我昨天一口气在typora里面连着敲了六个井号的时候[我才意识到]，[学习笔记]这种[逻辑条理特别强]，大知识点套小知识点[无限套娃]的情况下，markdown只能说是凑合，还是需要用outliner。然后今天早上[又废了半天劲]把笔记全部移到workflowy上…… #pt8-99.99
             - 其实[思维导图]反而还不怎么适合，思维导图适合那种字少的，就那种知识点的名字提点两下，比如说“宣告失踪-条件-时间-起算点”，字一多就是灾难，整个图的可读性直接归零，幕布的生成思维导图功能我就一次都没用过……比起思维导图，那种[根据搜索结果][生成稀疏树]的功能可能更要紧一点
+    - 这个估计得[等API出来后][靠社区了](https://cn.logseq.com/t/topic/256),除了 Alfred,我还希望有 telegram bot, windows quicker, IFFFT 等等[效率工具] #pt8-99.98
+        - roam research 已经有alfred解决方案了
     - Evernote 没有抄到双链的[精髓](https://www.zhihu.com/question/439739387)。
         - Trace back/forward
         - 最要命的是 Block level references，这个如果不解决，怎么抄都不像。一个知识和[另一个知识点]的链接产生在一部分中，如果如果只是Page level的references的话那么跟[打标签][没有实质区别]。 #pt7-99.98

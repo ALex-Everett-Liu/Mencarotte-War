@@ -1,5 +1,8 @@
 - [[authority]]: 当局, 当权; 权力, 权威;
     - [[centralization]]: 中央集权; [[central authority]]
+- [[cold war]]
+    - [[color revolution]]
+        - 和平演变
 - [[diplomacy]]
 - elect
 - general...

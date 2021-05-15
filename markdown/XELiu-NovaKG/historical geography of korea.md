@@ -1,7 +1,7 @@
-- Administrative divisions of South Korea
+- [[Administrative divisions of South Korea]]
     - [[京畿道 (Gyeonggi)]]
 - [[唐城郡 (Dangseong Jin)]]
-- Eight Provinces of Korea
+- [[Eight Provinces of Korea]]
     - 江原道
         - 溟州道; 江陵道
         - 朔方道; 岭东, 岭西;

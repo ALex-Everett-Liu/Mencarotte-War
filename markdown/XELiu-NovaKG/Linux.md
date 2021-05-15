@@ -1,3 +1,4 @@
+- [[linux distribution]]
 - #inbox
     - 此事被 Greg 挂出，整个[开源社区][立即炸开了锅](https://www.zhihu.com/question/455891395)。Twitter、[[Reddit]]、[[Hacker News]] 都在疯狂盖楼中。 #pt9-99.98
         - 社区认为，明尼苏达大学竟然会让这种研究获得 IRB Exempt，证明学校并不在乎[开源社区]、甚至可能是故意的。

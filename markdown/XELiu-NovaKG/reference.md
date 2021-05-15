@@ -1,9 +1,13 @@
 - [[block reference]]; referenced block
 - [[citation]]
-    - inline citation
-- citing source
+    - [[inline citation]]
 - [[cross-reference]]
 - [[footnote]]
 - general reference
 - mentioned
+- reference check
+- [[reference list]]
 - referring page
+- source
+    - [[citing source]]
+    - [[unclear source]];

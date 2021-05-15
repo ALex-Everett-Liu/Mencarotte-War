@@ -1,0 +1,3 @@
+- "Paldo" redirects here. For the Korean [food brand], see Korea Yakult. For the [[linux distribution]], see paldo ([[operating system (OS)]]).
+- This article includes a [list of references]([[reference list]]), [related reading](((Zvw6U5FEa))) or [[external link]]s, but [its sources remain unclear]([[unclear source]]) **because it lacks** [inline citations](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations). Please help to [improve](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check) this article by [introducing more precise citations](https://en.wikipedia.org/wiki/Wikipedia:When_to_cite). __(August 2018)____ [Learn how and when to remove this template message]__ #[[citing source]] #[[inline citation]]
+210515-23:22
