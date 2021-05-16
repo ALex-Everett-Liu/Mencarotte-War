@@ -1,4 +1,11 @@
-- 上京[[龙泉府 (Longquan Fu)]]; 忽汗城 (Huhancheng)
+- [[上京 (Shangjing)]][[龙泉府 (Longquan Fu)]]; 忽汗城 (Huhancheng)
+- [[中京 (Zhongjing)]][[显德府 (Xiande Fu)]]
 - [[鄚颉府 (Maojie Fu)]]
+- ---
+- This article **does not** [cite](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources) any [sources](https://en.wikipedia.org/wiki/Wikipedia:Verifiability). Please help [improve this article] by [adding citations to reliable sources]. Unsourced material may be challenged and [removed](https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence).
+- The Balhae Kingdom (or Bohai kingdom) controlled the northern [[Korean Peninsula]], the area from the [[Amur River]] ([[黑龙江 (Heilong Jiang)]]) to the [[Strait of Tartary]], and the [[辽东半岛 (Liaodong Peninsula)]]. Similar to the workings of the [Chinese Tang Dynasty], the [[administration system]] of the Balhae kingdom was composed of:
+    - 5 capitals: a [[supreme capital]] with four [[secondary capital]]s
+    - 15 [[province]]s; and
+    - 62 [[prefecture]]s.
 - ---
 - 上述十五府，[共辖]五十七州，[所考证内容]**均以孙玉良、李殿福所著《渤海国》为准。**[渤海国行政区划]有六十二州，还有五州是郢、铜、涑、集、麓州。其中前三州[不归京府管辖]，由王朝直辖，[地位高于][一般州]，三个[[独奏州 (duzou zhou)]]，位于上京周围。

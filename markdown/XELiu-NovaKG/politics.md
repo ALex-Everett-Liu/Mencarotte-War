@@ -9,7 +9,7 @@
     - political reality
     - political satire
 - [[government]]
-    - administration
+    - administration; [[administration system]]
         - [[administrative division]]; administrative area
     - approve the decision
     - [[business management]]

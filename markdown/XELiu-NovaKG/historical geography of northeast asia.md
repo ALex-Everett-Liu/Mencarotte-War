@@ -13,10 +13,11 @@
     - [[辽阳行省 (Liaoyang province)]]
 - [[辽西 (Liaoxi)]]
 - Northeast China;
-- [[弱水 (River Ruo)]]; [[黑龙江水系]]
+- [[弱水 (River Ruo)]]; [[黑龙江 (Heilong Jiang)]]; [[黑龙江水系]]; [[Amur River]]
     - [[胡里改路 (Huligai Lu)]]
     - [[水达达路 (Shuidada Lu)]]; 水鞑靼; usu irgen
 - 率·督畔窟之地; 呼兰河流域平原
+- [[Strait of Tartary]] 鞑靼海峡
 - 七大王府
 - #inbox
     - 而1977年还在黑龙江省哈尔滨市阿城区出土了一枚由[八思巴文][篆字]的[铜印]，其文曰“管水达达民户[达鲁花赤之印]”，[印背]有[楷书汉字]为“至元十五年”，由此可推断，这个“管女直水达达民户”是以故[金上京]为中心的一个[行政机构](https://www.zhihu.com/question/415831412/answer/1785031430)。 #pt10-100

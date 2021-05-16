@@ -1,10 +1,9 @@
+- [[capital]]
 - [[county]]
 - duchy capital
 - 历史沿革 (lishi yange)
-- 陪都 (peidu)
-    - 五京制
-        - 中京 (zhongjing)
 - [[prefecture]]
+- [[province]]
 - [[territory]]
     - [[boundary]]
     - [[contested territory]]: 有争议的领土
