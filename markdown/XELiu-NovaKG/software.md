@@ -3,6 +3,7 @@
     - advanced feature
     - [[feature request]]
     - function; [[functionality]]; functionalities
+    - general-purpose nature
 - file operation
     - [[copy and paste]]; copy/pasting
         - [[clipboard]]
@@ -11,6 +12,7 @@
 - general...
     - apps; software application; [[application program]]
         - mobile app; 
+    - [[software utility]]: 实用程序, 软件工具;
 - [[help docs]]...
 - [[install]]
 - management...

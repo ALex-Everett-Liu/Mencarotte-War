@@ -1,4 +1,5 @@
 - [[flow (psychology)]]: 心流
     - 打断思路
+- [[mental pressure]]
 - [[neuropsychology]]
 - [[suicide]]

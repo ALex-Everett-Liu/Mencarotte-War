@@ -1,3 +1,5 @@
+- death
+    - 对死亡的恐惧;
 - existential; [[existential philosophy]]
 - general...
     - [[collective view]];

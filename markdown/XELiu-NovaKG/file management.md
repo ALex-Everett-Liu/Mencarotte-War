@@ -22,7 +22,7 @@
         - pdf; PDF;
         - [[plain text]]
     - [[executable file]]; executable
-        - execute; run
+        - execute; run; execute the command
         - executing code
     - [[import]]; [[export]]
         - export to other format;

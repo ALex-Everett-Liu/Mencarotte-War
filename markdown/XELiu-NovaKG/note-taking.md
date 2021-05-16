@@ -59,6 +59,9 @@
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
     - 在此之前[我的工具][大致包括]： 稍后读软件、GTD工具（滴答清单）、写作工具（一般是 VSCode+Hexo）。最近半年沉迷于使用[双链笔记软件]，目前在用的是 Logseq，后面专门[展开介绍一下]。目前在尝试将GTD工具、笔记都整合到 Logseq 里面，主要是[受了这篇文章的启发] [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)，下面就详细介绍一下我的[实践过程](https://www.yuque.com/xiaosen-d20ph/qgy7zg/shi-yonglogseq-gou-jiangtd-xi-tong)。 #pt9-100
+    - [我记得](https://www.yuque.com/deerain/gannbs/kga20n)[开发者][很早就敲定了]「视图」的[发展方向]（应该是在 github 上说的），这种[产品眼光][是非常先进的]，在双链时代，笔记软件[折腾来折腾去][都是在折腾]「组织方式」，把这一步做完善之后，下一步就是「呈现方式」，也就是[视图]。 #pt9-100
+        - notion 的[第二个问题]是它的视图[太平庸]，说这种话[一点都不事后诸葛亮]，表格看板日历就是[人人都能想到的东西]，更别说[列表视图][完全就是个凑数的]。
+            - 实际上视图[有很多种可能]，比如[这种视图](https://zhuanlan.zhihu.com/p/289356513)，从[知识管理]的层面来说[是非常先进的]；Trilium 的 [relation map note] 和 Tiddlywiki 的[固定式关系图][也很值得一学]，因为[每个元素]都是[自己往图上添加的]，位置都是自己固定的，[实用性]比这些[双链笔记]的[混乱关系图]强太多了。不过这些视图目前在 widget block 里[可能不太好实现]，[坐标数据][没地方存]，毕竟思源好像[还不支持][自定义块属性]，自己手动在 IAL 里写入的块属性会被思源[刷掉]。
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
     - 现在[缺陷还很多]。主要是我 [js 代码]是[花了两个小时]查看 zotero 的 api+ [学习例子和教程]学来的；同时 [Quicker 宏编程]我也是参考了很多 [zplusless](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2FUser%2FActions%2F110499-zplusless) [大佬][摘录助手-增强版](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2Fsharedaction%3Fcode%3D623da485-f979-4fda-414e-08d84e0e87c8)的内容，我自己[之前并没有接触过]，问题很多。。。我觉得[主要如下](https://ld246.com/article/1619536691753)： #pt9-99.99
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
@@ -68,6 +71,7 @@
         - 最近又试了试notion，然而我觉得notion并不适合我，notion的quote块和callout块中不能插入图片和LaTeX，虽然有inline-table却没有inline-page。感觉用了notion就只能按照notion的思路[来写文档]了，不太舒服。
         - 当我昨天一口气在typora里面连着敲了六个井号的时候[我才意识到]，[学习笔记]这种[逻辑条理特别强]，大知识点套小知识点[无限套娃]的情况下，markdown只能说是凑合，还是需要用outliner。然后今天早上[又废了半天劲]把笔记全部移到workflowy上…… #pt8-99.99
             - 其实[思维导图]反而还不怎么适合，思维导图适合那种字少的，就那种知识点的名字提点两下，比如说“宣告失踪-条件-时间-起算点”，字一多就是灾难，整个图的可读性直接归零，幕布的生成思维导图功能我就一次都没用过……比起思维导图，那种[根据搜索结果][生成稀疏树]的功能可能更要紧一点
+    - 用 AirTable [打造][自己专属的][个人数据库](https://www.yuque.com/arvinxx/note/airtable#JuMxx) #pt8-99.98
     - 这个估计得[等API出来后][靠社区了](https://cn.logseq.com/t/topic/256),除了 Alfred,我还希望有 telegram bot, windows quicker, IFFFT 等等[效率工具] #pt8-99.98
         - roam research 已经有alfred解决方案了
     - Evernote 没有抄到双链的[精髓](https://www.zhihu.com/question/439739387)。

@@ -1,6 +1,6 @@
 - backend
     - backend plumbing
-- cross-platform development;
+- cross-platform development; [[cross-platform]]
     - port: 移植;
 - general...
     - run asynchronously
@@ -10,4 +10,5 @@
 - optimization
     - maximize performance
     - optimization tool
+- [[software environment]]
 - [[version control]]; revision control

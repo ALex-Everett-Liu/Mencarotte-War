@@ -1,8 +1,9 @@
+- [[one-time task]]
 - perform the task
-    - [[repetitive task]]
+- [[repetitive task]]
+    - [[regular interval]]
 - [[subtask]]
-- [[task management]]
-    - [[todo list]]; [[to-do list]]; [[TODO list]]
-        - un-completed project
+- [[todo list]]; [[to-do list]]; [[TODO list]]
+    - un-completed project
 - [[Todoist]]
 - track the task

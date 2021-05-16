@@ -1,5 +1,5 @@
 - accessibility settings
-- configure; configuration
+- configure; configuration; configuration file
     - bin directory
     - [[configurable]];
     - user-level

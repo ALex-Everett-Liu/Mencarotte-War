@@ -10,6 +10,16 @@
                 - [[abstraction]];
                 - existing only in the mind; [separated from](https://workflowy.com/#/337f6b9f2187) [embodiment](https://workflowy.com/#/f3e9ab091afc);
                     - [abstract words] like 'truth' and 'justice'
+        - ac
+            - acc
+                - accomplish
+                    - accomplished;
+                - accord
+                    - accordance; according; accordingly
+                - accumulate
+                - accuracy
+                    - accurate; accurately
+                    - inaccurate;
         - ad
             - advance
                 - advance the theory;
@@ -586,7 +596,7 @@
             - twist: 扭, 拧;
     - u
         - ut
-            - utility
+            - utility: 利用; 实用工具; 公用事业;
                 - [[practical utility]];
                 - utilities;
                 - utilize

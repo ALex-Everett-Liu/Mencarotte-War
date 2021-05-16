@@ -3,7 +3,7 @@
         - system32/cmd.exe
 - [[graphical user interface (GUI)]]
 - prompt; prompted
-- [[shell command]]
+- [[command]]; [[shell command]]; [[shell script]]
 - Terminal
 - Win + R
 - [[Windows PowerShell]]

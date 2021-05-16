@@ -1,3 +1,8 @@
 - [[Microsoft Windows]]; [[Windows]]
-- macOS
+- [[macOS]]
+- system
+    - [[system administrator]]; [[administration]]: 管理员权限
+    - system information
+    - [[system maintenance]]
+    - system settings
 - [[Unix]]

@@ -1,7 +1,8 @@
 - [[AHK]]
 - auto-complete
     - [[keyword completion]]
-- automate; automation; 自动化;
+- [[automate]]; automation; 自动化;
+    - [[run periodically]];
 - automating clicking
 - auto-generate; automatically generated
 - automatically truncated
