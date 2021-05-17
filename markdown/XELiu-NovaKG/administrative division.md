@@ -2,6 +2,8 @@
 - [[county]]
 - duchy capital
 - 历史沿革 (lishi yange)
+    - [[ancient name]];
+    - [[modern location]]
 - [[prefecture]]
 - [[province]]
 - [[territory]]

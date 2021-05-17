@@ -366,6 +366,23 @@
                 - open mind;
             - minute
     - n
+        - na
+            - naissance
+                - renaissance
+                    - renaissant;
+            - name
+                - [nickname](https://workflowy.com/#/baf64fe05443);
+                - nomen
+                    - nomenclator
+                        - nomenclature;
+                - surname
+                - rename; renamed
+            - narrate
+                - narrator;
+            - nature
+                - second nature;
+            - navy
+                - navigate
         - nu
             - nudge: 用肘轻推, 引起注意;
             - number
