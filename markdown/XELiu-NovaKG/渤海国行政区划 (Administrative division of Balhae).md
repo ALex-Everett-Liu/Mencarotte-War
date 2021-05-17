@@ -7,5 +7,7 @@
     - 5 capitals: a [[supreme capital]] with four [[secondary capital]]s
     - 15 [[province]]s; and
     - 62 [[prefecture]]s.
+- ## Table of provinces
+    - **Former State** || Province -- [[hanja]] | [[hangul]] | [[pinyin]] | [[Revised Romanization of Korean]] || **Capitals**/[[ancient name]] -- | [[modern location]] || **Prefectures level 속주(屬州)**
 - ---
 - 上述十五府，[共辖]五十七州，[所考证内容]**均以孙玉良、李殿福所著《渤海国》为准。**[渤海国行政区划]有六十二州，还有五州是郢、铜、涑、集、麓州。其中前三州[不归京府管辖]，由王朝直辖，[地位高于][一般州]，三个[[独奏州 (duzou zhou)]]，位于上京周围。
