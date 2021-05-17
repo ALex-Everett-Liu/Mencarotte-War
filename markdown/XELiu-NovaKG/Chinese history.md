@@ -14,6 +14,7 @@
     - [[汉王朝 (Han dynasty)]]
     - [[三国 (Three Kingdoms)]]
     - [[晋与十六国]]
+    - [[南北朝 (South and North Dynasties)]]
 - The Second Empire of China
     - [[唐王朝 (Tang dynasty)]]
     - [[宋王朝 (Song dynasty)]]

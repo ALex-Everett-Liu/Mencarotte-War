@@ -1,4 +1,4 @@
-- [[appearance]]
+- [[appearance]]; [[physical appearance]]; physical characteristic
     - realistic appearance
 - character ID
 - DNA system;

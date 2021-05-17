@@ -1,0 +1,4 @@
+- dictionary 
+    - That analysis appears in the __American Journal of Physical Anthropology__. www.[hjenglish].com
+    - [Physical Anthropology Analysis] of [Dragon Canoe Race] 独木龙舟竞渡 of [Miao Nationality] www.[dictall].com
+    - A study on physical anthropology of Miao Nationality in Hunan dict.cnki.net

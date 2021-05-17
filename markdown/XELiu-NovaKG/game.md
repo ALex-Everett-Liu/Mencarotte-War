@@ -9,6 +9,9 @@
 - game platform...
     - [[Game/Steam]]
 - [[referee]]
+- [[release]]
+    - [[DLC]]
+    - [[patch]]
 - [[role-playing game (RPG)]]; roleplaying game
 - [[RTS]]
     - [[MOBA]]

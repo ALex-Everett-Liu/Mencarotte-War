@@ -532,6 +532,12 @@
                 - retro-
                     - retroact
                         - retroactively;
+        - ro
+            - robust
+            - role
+                - role-play; play the role; play a central role in;
+            - roll
+                - scroll
     - s
         - sc
             - sca
@@ -577,6 +583,12 @@
                         - substitution;
                     - subtract
                         - subtraction;
+            - suffice
+                - insufficient;
+                - suffice it to say that;
+                - sufficient, 2; sufficiently
+                    - of a quantity that can [fulfill a need or requirement] but [without being abundant]([abundant](https://workflowy.com/#/4f55f3581331))
+                        - sufficient food
             - suffuse: 弥漫, 遍布, 充满;
             - suggest
                 - suggestion;

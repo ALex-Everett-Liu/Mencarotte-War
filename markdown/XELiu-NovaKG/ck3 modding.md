@@ -2,6 +2,8 @@
     - [[ruler designer]]
         - [[customization point]]
         - [[portrait editor]]
+    - [[start date]]
+    - [[starting character]]; 
 - [[ck3 characters]]; [[ck2 characters]]
     - [[characters modding]]; 
     - [[ck3 traits]]
