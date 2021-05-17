@@ -5,7 +5,7 @@
         - 春秋盟会图
             - 杜预 (Du Yu)
             - 《土地名》
-    - 地理志 (dilizhi)
+    - [[地理志 (dilizhi)]]
     - [[山海经 (Classic of Mountains and Seas)]]
 - placename
 - [[regional distinction]]

@@ -9,5 +9,14 @@
     - 62 [[prefecture]]s.
 - ## Table of provinces
     - **Former State** || Province -- [[hanja]] | [[hangul]] | [[pinyin]] | [[Revised Romanization of Korean]] || **Capitals**/[[ancient name]] -- | [[modern location]] || **Prefectures level 속주(屬州)**
+- Former Balhae provinces
+    - [Manzhou Yuanliu Kao] [provides records which show that] the Balhae had occupied the Bisa Fortress [at the southern tip of] the Liaodong Peninsula. [The History of Liao] records that the Balhae [established provinces at] the Sin Fortress, Gaemo Fortress, Baegam Fortress, Yodong Fortress and Ansi Fortress area in Liaodong, as well as [a substantial portion of] the [Liaoxi area]. [The Balhae sovereign’s message to] [Yamato Kingdom] in 796 states that it has [recovered the entire old Goguryeo territory] and its [ruler’s authority] now shines beyond the Liao River. The Balhae came to occupy the Songhua and Wusuli River basins as well as the whole [adjoining coastal zone] along the Sea of Japan (East Sea).
+    - 약홀주(若忽州) (present-day Dandong)
+
+    - 목저주(木底州) (present-day Yewutai (葉武臺), Faku County, Liaoning Province, near the Taizi River)
+
+    - 현도주(玄兎州) (near present-day Manzhouli)
+- See also
+    - [[List of Provinces of Liao]]
 - ---
 - 上述十五府，[共辖]五十七州，[所考证内容]**均以孙玉良、李殿福所著《渤海国》为准。**[渤海国行政区划]有六十二州，还有五州是郢、铜、涑、集、麓州。其中前三州[不归京府管辖]，由王朝直辖，[地位高于][一般州]，三个[[独奏州 (duzou zhou)]]，位于上京周围。

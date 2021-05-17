@@ -1,2 +1,5 @@
+- [[辽史 (Liaoshi)]]
+- 辽朝行政区划; [[List of Provinces of Liao]]
+    - [[中京大定府 (Dading Fu)]]
 - 鹰坊 捕鹰
     - 1038, [[鹰路之乱]]; 银牌天使 捕鹰使者
