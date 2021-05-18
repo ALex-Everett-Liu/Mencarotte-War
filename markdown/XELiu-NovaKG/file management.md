@@ -7,6 +7,7 @@
     - conversations-of-record
     - recent file
     - summary record of my storage
+- [[data format]]; [[data interchange format]]
 - [[directory]]
     - [[folder]]
     - [[file path]]; [[path]]

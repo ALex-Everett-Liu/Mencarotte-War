@@ -3,7 +3,7 @@
     - about us
     - [[guideline]]
     - README
-    - setup instruction;
+    - [[setup instruction]];
     - step-by-step guide;
 - help centre; [[help database]]; 
 - help menu

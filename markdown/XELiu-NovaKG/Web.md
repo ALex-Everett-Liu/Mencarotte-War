@@ -2,9 +2,9 @@
 - [[link]]
 - [[markup language]]; [[markup]]
 - online or offline; web or local...
-    - desktop software
+    - [[desktop software]]
     - portable version; green software
-    - web-based application
+    - [[web-based application]]; [[web application]]
 - [[source]]; [[resource]]
     - [[information source]]; information resource
 - [[upload]]; [[download]]

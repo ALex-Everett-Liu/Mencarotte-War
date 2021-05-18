@@ -332,7 +332,7 @@
                     - China and [neighboring countries] [promoted the integration process] 推进了地区一体化建设 and [worked together to] [solve many thorny issues]. www.[chinadaily].com.cn
                     - [Greater London] [fragmentation of governance] 治理碎裂化 and the resulting performance of the thorny issues. www.[fabiao].net
                     - However, with the [rapid development] of [B2C e-commerce], also face [a number of thorny issues]. 
-                - raise the issue;
+                - raise the issue; address the issue: 解决问题
     - j
         - ja
             - jargon: 行业术语, 行话, 黑话, 切口;

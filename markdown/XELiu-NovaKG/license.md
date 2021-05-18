@@ -1,0 +1,8 @@
+- Creative Commons license
+- [[free license]]; [[free software]]
+- distribution of modified copies
+- [[GNU]]
+    - [[General Public License (GPL)]]; GNU GPL
+- maintain the system
+- open-source; open-source software
+- [[release]]

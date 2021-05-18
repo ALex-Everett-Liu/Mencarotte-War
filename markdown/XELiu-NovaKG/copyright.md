@@ -1,16 +1,11 @@
 - apply worldwide
 - [[credit]]; credited
 - disclaiming of responsibility
-- license...
-    - Creative Commons license
-    - [[free license]]; [[free software]]
-    - distribution of modified copies
-    - [[GNU]]
-        - [[General Public License (GPL)]]; GNU GPL
-    - maintain the system
-    - open-source; open-source software
-    - [[release]]
+- [[license]]
 - [[patent]]
+    - standard...
+        - [[international standard]]
+        - [[open standard]]
 - [[permission]]; [[grant right]]
 - [[public domain]]
 - reusing content

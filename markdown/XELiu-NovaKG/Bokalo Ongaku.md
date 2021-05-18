@@ -9,6 +9,8 @@
     - [[メル (mer)]]
     - [[みきとP (mikitoP)]]
     - [[のぼる↑ (noboruP)]]
+    - [[とあ (toa)]]
+    - [[Treow（逆衝動P）]]
 - [[VOCALOID]]
     - [[巡音ルカ (Megurine Luka)]];
 - #inbox

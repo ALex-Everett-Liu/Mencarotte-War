@@ -14,6 +14,7 @@
     - [[data mapping]]
 - [[SQL]]; SQL programming language
     - OQL
+- store and transmit data objects;
 - [[table]]
     - [[spreadsheet]]
         - spreadsheet cell

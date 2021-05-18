@@ -1,4 +1,5 @@
 - [[central server]]
+- communicate with the server;
 - [[client]]
 - [[host]]
     - localhost
