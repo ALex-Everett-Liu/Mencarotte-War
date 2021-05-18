@@ -1,6 +1,8 @@
 - [[dress]]
 - girls' stuff...
     - [[bag]]
+    - [[body hair]]
+    - [[face]]
     - [[hair]]
     - scarf
         - wool scarf; 

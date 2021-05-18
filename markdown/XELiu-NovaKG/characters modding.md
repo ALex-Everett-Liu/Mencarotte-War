@@ -1,7 +1,7 @@
 - [[appearance]]; [[physical appearance]]; physical characteristic
     - realistic appearance
 - character ID
-- DNA system;
+- DNA system; [[DNA preset]]
 - [[portrait editor]]
 - [[hair color]]
 - ---

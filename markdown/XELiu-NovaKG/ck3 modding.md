@@ -8,6 +8,7 @@
     - [[characters modding]]; 
     - [[ck3 traits]]
     - [[dynasty]]
+    - [[male character]]; [[female character]]
     - [[opinion]]
 - [[ck3 history]]
 - [[ck3 localization]]; [[localization]]
