@@ -8,3 +8,12 @@
         - Supports [[EDN]] in addition to [[JSON]] and [[Markdown]] (not [[formatted markdown]] though)
         - [Multiple graph backups] [in the same repo]
         - __Better [error debugging] and [active support] from the developer__ (Erik Newhard @everruler12) to get your backups [running smoothly] and error-free
+    - ## Future Plans
+        -  New, [full guide] with step-by-step [[screen recording]]s
+        -  Update code to [[run asynchronously]], instead of linearly, to [cut down on run time]
+        -  Use fipp for faster EDN formatting
+        -  Allow [setup of public repo] for running Actions and [committing to private repo] for backup, in order to [bypass minute limit] for [private GitHub Actions].
+        - ---
+        -  EDN support (2021-01-31)
+        -  Multi graph support (2021-02-01)
+        -  Markdown support (2021-02-04)

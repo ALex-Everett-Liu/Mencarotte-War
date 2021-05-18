@@ -1,6 +1,7 @@
 - [[attribute]]
 - [[graph database]]
     - [[directed graph]]
+    - restore the graph;
 - [[field]]: 域, 字段; [[data field]]; 列属性
     - [[single select]]
 - [[form]]: 表单

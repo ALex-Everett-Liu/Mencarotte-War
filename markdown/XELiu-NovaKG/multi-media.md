@@ -4,7 +4,7 @@
 - [[radio]]
     - [[radio station]]
 - renderer
-- screen recording
+- [[screen recording]]
     - [[screenshot]]
 - [[video]]
     - [[digital video recorder (DVR)]]

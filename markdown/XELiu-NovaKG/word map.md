@@ -426,8 +426,8 @@
                     - particle
                         - particular
                     - partisan: 党羽, 效忠, 虔诚信徒;
-                    - pars; parse: 解析, 分列;
-                        - parsing: 语法分析, 剖析;
+                    - pars; parse: 解析, 剖析, 语法分析; 分列;
+                        - parsed; parsing;
                     - [[party]]
             - pat
                 - patch
