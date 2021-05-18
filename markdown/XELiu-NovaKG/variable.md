@@ -1,3 +1,4 @@
+- assign a variable;
 - [[default variable]]
 - [[environment variable]]
 - [[global variable]]

@@ -58,7 +58,6 @@
     - 不能插入外部 url scheme 的软件[不止下面这些]，[这里之所以][只列出它们]，是因为它们有[做得比较好的]表格或图形、本来[很适合用来][管理其它软件的 url scheme] [做高级 moc]，可惜[这种用法][被产品经理 ban 了](https://www.yuque.com/deerain/gannbs/gmkp9w) #pt10-99.99
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
-    - 在此之前[我的工具][大致包括]： 稍后读软件、GTD工具（滴答清单）、写作工具（一般是 VSCode+Hexo）。最近半年沉迷于使用[双链笔记软件]，目前在用的是 Logseq，后面专门[展开介绍一下]。目前在尝试将GTD工具、笔记都整合到 Logseq 里面，主要是[受了这篇文章的启发] [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)，下面就详细介绍一下我的[实践过程](https://www.yuque.com/xiaosen-d20ph/qgy7zg/shi-yonglogseq-gou-jiangtd-xi-tong)。 #pt9-100
     - [我记得](https://www.yuque.com/deerain/gannbs/kga20n)[开发者][很早就敲定了]「视图」的[发展方向]（应该是在 github 上说的），这种[产品眼光][是非常先进的]，在双链时代，笔记软件[折腾来折腾去][都是在折腾]「组织方式」，把这一步做完善之后，下一步就是「呈现方式」，也就是[视图]。 #pt9-100
         - notion 的[第二个问题]是它的视图[太平庸]，说这种话[一点都不事后诸葛亮]，表格看板日历就是[人人都能想到的东西]，更别说[列表视图][完全就是个凑数的]。
             - 实际上视图[有很多种可能]，比如[这种视图](https://zhuanlan.zhihu.com/p/289356513)，从[知识管理]的层面来说[是非常先进的]；Trilium 的 [relation map note] 和 Tiddlywiki 的[固定式关系图][也很值得一学]，因为[每个元素]都是[自己往图上添加的]，位置都是自己固定的，[实用性]比这些[双链笔记]的[混乱关系图]强太多了。不过这些视图目前在 widget block 里[可能不太好实现]，[坐标数据][没地方存]，毕竟思源好像[还不支持][自定义块属性]，自己手动在 IAL 里写入的块属性会被思源[刷掉]。
@@ -77,6 +76,10 @@
     - 用 AirTable [打造][自己专属的][个人数据库](https://www.yuque.com/arvinxx/note/airtable#JuMxx) #pt8-99.98
     - 这个估计得[等API出来后][靠社区了](https://cn.logseq.com/t/topic/256),除了 Alfred,我还希望有 telegram bot, windows quicker, IFFFT 等等[效率工具] #pt8-99.98
         - roam research 已经有alfred解决方案了
+    - Obsidian + Zotero
+        - pdf expert 是真的贵，还是订阅的。但是[导出的笔记][没有链接](https://www.bilibili.com/video/BV1Sh411v7XQ)。 #pt8-99.97
+        - [可以试一下]俺写的这个[km宏](https://zhuanlan.zhihu.com/p/368917393) 
+思路是 quicker 的 zotero 摘录助手，边看边摘录
     - Evernote 没有抄到双链的[精髓](https://www.zhihu.com/question/439739387)。
         - Trace back/forward
         - 最要命的是 Block level references，这个如果不解决，怎么抄都不像。一个知识和[另一个知识点]的链接产生在一部分中，如果如果只是Page level的references的话那么跟[打标签][没有实质区别]。 #pt7-99.98

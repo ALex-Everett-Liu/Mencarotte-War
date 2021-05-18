@@ -1,0 +1,2 @@
+- [[character string]]
+- [[quoted string]]

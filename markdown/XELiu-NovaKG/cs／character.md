@@ -1,0 +1,15 @@
+- [[character class]]; [[character set]]
+    - character range
+    - negated character class
+- [[character encoding]]
+- character group
+    - capturing group
+- [[character string]]
+- [[escape character]]
+    - [[backslash-escaped]]; forward slash; [[backslash]]
+- [[meta character]]
+- [[replacement character]]
+- [[reserved character]]
+- [[special character]]
+- [[symbol]]; 标点符号;
+- [[whitespace character]]

@@ -1,5 +1,4 @@
-- [[escape character]]
-    - forward slash; [[backslash]]
+- [[cs/character]]: 字符
 - exact match; re-matches
 - indicate the beginning of a line
 - pattern...
@@ -11,5 +10,4 @@
     - [[lazy list]]
     - realization: create the sequence
         - fully-realized: finite evaluation
-- [[symbol]]; 标点符号;
 - [[wild card]]: 通配符, 百搭牌; 外卡;

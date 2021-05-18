@@ -3,8 +3,7 @@
 - annotating programs
 - boolean expression
 - [[bug]]
-- character
-    - [[character string]]
+- [[cs/character]]: 字符
 - code; coding
     - [[code block]]
         - building block
@@ -35,7 +34,6 @@
     - if statement
         - check the condition
 - [[string]]
-    - [[character string]]
 - [[variable]]
 - #inbox
     - 感觉是不太复杂的 excel 的运用，是用vba还是python来搞？ #pt8-99.98

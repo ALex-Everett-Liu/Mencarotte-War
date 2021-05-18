@@ -1,2 +1,3 @@
 - #inbox
+    - 在此之前[我的工具][大致包括]： 稍后读软件、GTD工具（滴答清单）、写作工具（一般是 VSCode+Hexo）。最近半年沉迷于使用[双链笔记软件]，目前在用的是 Logseq，后面专门[展开介绍一下]。目前在尝试将GTD工具、笔记都整合到 Logseq 里面，主要是[受了这篇文章的启发] [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)，下面就详细介绍一下我的[实践过程](https://www.yuque.com/xiaosen-d20ph/qgy7zg/shi-yonglogseq-gou-jiangtd-xi-tong)。 #pt9-100
     - [#UX 全局导航优化：缺乏所有笔记内容的统一入口](https://cn.logseq.com/t/topic/127) #pt9-99.99

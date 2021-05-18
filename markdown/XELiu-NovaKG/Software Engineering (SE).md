@@ -1,7 +1,8 @@
 - backend
     - backend plumbing
 - cross-platform development; [[cross-platform]]
-    - port: 移植;
+    - port: 移植; [[portable]]: 可移植的; 便携的; [[portability]]
+- [[ecosystem]]
 - general...
     - run asynchronously
     - [[developer]]; software developer; [[software development]]
@@ -11,4 +12,4 @@
     - maximize performance
     - optimization tool
 - [[software environment]]
-- [[version control]]; revision control
+- [[version control]]; [[revision control]]

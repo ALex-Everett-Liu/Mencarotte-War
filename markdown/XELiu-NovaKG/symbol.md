@@ -8,8 +8,10 @@
 - full-width symbol
 - [[literal hyphen]]: 文字连字符
     - [[subtraction command]]
-- notation
-    - notational hierarchy
+- [[notation]]
+    - [[literal notation]]: 文本符号
+        - [[object literal notation]]
+    - [[notational hierarchy]]
 - [[parenthesis]]; parentheses
 - [[period]]; [[full stop]]; [[full-stop]]
     - [[literal period]]

@@ -15,6 +15,7 @@
 - [[linear algebra]]
 - [[logic]]
 - [[mathematician]]
+- [[set theory]]
 - [[statistics]]
     - [[data analysis]]
     - [[probability theory]]

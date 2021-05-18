@@ -1,0 +1,4 @@
+- [[Emoji]]
+- [[Unicode]]
+    - [[Basic Multilingual Plane]]: 基本多文种平面
+- [[UTF-8]]; [[UTF-16]]

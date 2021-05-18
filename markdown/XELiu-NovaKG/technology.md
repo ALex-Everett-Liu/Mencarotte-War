@@ -2,7 +2,6 @@
 - [[computer science (CS)]]
 - [[electronics]]
 - general...
-    - [[portable]]: 可移植的; 便携的;
     - technological advance
 - [[hardware]]
 - [[information science]]; [[information technology (IT)]]

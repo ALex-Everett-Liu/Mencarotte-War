@@ -1,6 +1,7 @@
 - [[block reference]]; referenced block
 - [[citation]]
     - [[citation needed]]
+        - [[original research]]: 暗指未经过同行评议的研究发表
     - [[inline citation]]
 - [[cross-reference]]
 - [[footnote]]
