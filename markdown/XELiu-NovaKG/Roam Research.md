@@ -6,6 +6,7 @@
         - [[Roam42]]
         - [[RoamJS]]
     - [[roam/css]]
+        - [[roam css details]]
     - [[roam/js]]
 - roam-like
     - [[Logseq]]

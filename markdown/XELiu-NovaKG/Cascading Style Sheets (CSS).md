@@ -1,7 +1,7 @@
 - apps...
     - [[Stylish]]
     - [[roam/css]]
-- background image
+- [[background image]]
 - import css
 - indentation style?
 - page container

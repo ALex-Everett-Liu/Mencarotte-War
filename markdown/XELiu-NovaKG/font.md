@@ -1,6 +1,6 @@
 - featuring font: 主要字体;
 - [[font size]]
-- text color; [[font color]]; 
+- [[text color]]; [[font color]]; 
     - color variable
     - link color
 - [[Times New Roman]]

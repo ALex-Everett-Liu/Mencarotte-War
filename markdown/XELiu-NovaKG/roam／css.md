@@ -3,6 +3,16 @@
         - ```css
 @import url('https://jmharris903.github.io/Railscast-for-Roam-Research-Theme/RailsRoam.css');```
 - snippet
+    - [[background image]]
+        - ```javascript
+/* body background */
+body {
+	transition: background-image 1s ease-in-out;
+	background-image: url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FoGSdu_nHAz.jpg?alt=media&token=995ea666-6efa-4fa7-a409-2f84b5a646fc");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}```
     - [[rainbow indentation]]
         - [[box shadow]] value - /* Set to "none" to remove shadow, default is 25px 0px 20px -30px */
         - ```css
