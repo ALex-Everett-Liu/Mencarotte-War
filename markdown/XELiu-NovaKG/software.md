@@ -1,5 +1,5 @@
 - [[customization]]
-- feature...
+- [[feature]]...
     - advanced feature
     - [[feature request]]
     - function; [[functionality]]; functionalities

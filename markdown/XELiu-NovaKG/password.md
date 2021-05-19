@@ -1,0 +1,2 @@
+- [[KeePass]]
+- chrome://settings/passwords

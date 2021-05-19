@@ -1,2 +1,2 @@
 - [[neural network]]
-- OpenAI
+- [[OpenAI]]

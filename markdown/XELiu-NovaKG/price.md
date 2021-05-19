@@ -1,12 +1,12 @@
-- charged
+- [[charged]]
 - [[discount]]
     - 教育优惠
 - [[donation]]; [[donate]]
 - free...
     - free account;
     - [[free license]]; [[free software]]
-    - free trial
+    - [[free trial]]
     - freely available
 - product price
 - [[sponsor]]; 
-- standard plan
+- [[standard plan]]

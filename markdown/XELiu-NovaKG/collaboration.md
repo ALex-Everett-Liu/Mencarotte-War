@@ -1,4 +1,4 @@
 - collaboration tool
-- collaborator; co-worker; colleague
+- [[collaborator]]; co-worker; colleague
 - coordination problem
 - [[group]]; [[organization]]

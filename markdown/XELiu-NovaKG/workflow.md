@@ -1,4 +1,4 @@
-- [[automate]]; automation; 自动化;
+- [[automate]]; [[automation]]; 自动化;
     - [[IFTTT]]
     - [[iOS/Workflow]]
     - [[Zapier]]

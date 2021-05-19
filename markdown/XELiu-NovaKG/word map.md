@@ -111,6 +111,10 @@
             - cite
                 - citation
                 - cited;
+        - cl
+            - clue
+            - clutter: 混乱, 杂乱, 凌乱;
+                - cluttering;
         - co
             - code
                 - encode; decode
@@ -320,6 +324,19 @@
                 - initially;
             - int
                 - intrinsic: 固有的; 内在的; 本身的, 本征的, 本质的;
+            - inv
+                - invent
+                    - invented; invention; inventor
+                - inventory
+                - invert
+                    - inverse, 2
+                        - inversely; inversion
+                - invest
+                    - investigate
+                        - investigated;
+                    - investing; investor
+                - invite
+                    - invited;
         - is
             - isle
                 - island

@@ -2,7 +2,8 @@
 - [[login]]; [[log in]]; [[sign in]]
 - [[member]]
 - [[power user]]
-- [[sign up]]; [[register]]; join
+- premium; [[professional]]
+- [[sign up]]; [[register]]; [[join]]
 - [[username]]
     - validate the username
 - [[visitor]]

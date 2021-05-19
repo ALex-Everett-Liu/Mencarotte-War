@@ -4,4 +4,8 @@
     - [[employer]]
     - [[salary]]
         - payoff
+- [[human management]]
+    - architecture??
+        - [[executive director]]: 执行主任/理事
+    - [[technical staff]]
 - [[Master in Business Administration (MBA)]]
