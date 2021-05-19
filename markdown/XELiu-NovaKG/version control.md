@@ -4,5 +4,5 @@
         - diff; diffable
         - fork
         - [[GitHub]]
-        - git history
+        - [[git history]]
         - push

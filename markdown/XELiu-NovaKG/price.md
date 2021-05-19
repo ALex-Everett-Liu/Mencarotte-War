@@ -1,7 +1,7 @@
 - charged
 - [[discount]]
     - 教育优惠
-- [[donation]]
+- [[donation]]; [[donate]]
 - free...
     - free account;
     - [[free license]]; [[free software]]

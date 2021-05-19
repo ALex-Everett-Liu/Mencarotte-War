@@ -229,6 +229,11 @@
                     - disturb
                         - disturbance;
     - e
+        - ef
+            - effect
+                - efficiency;
+                - effective; effectively, 2;
+                - [[side-effect]]; special effect;
         - eo
             - eon: 永世, 万古;
         - eq

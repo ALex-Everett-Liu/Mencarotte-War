@@ -31,10 +31,10 @@
     - msi
     - [[time format]]; [[date format]]
 - file metadata...
-    - file integrity
+    - [[file integrity]]: 文件的完整性 
     - [[filename]]; file name
     - [[file size]]
     - [[thumbnail]]
 - general...
-    - blank file
+    - [[blank file]]
     - [[remote file]]

@@ -1,4 +1,4 @@
-- backup script; backup tool
+- [[backup script]]; backup tool
 - backup timeout
 - full fidelity backups
 - [[import]]; [[export]]

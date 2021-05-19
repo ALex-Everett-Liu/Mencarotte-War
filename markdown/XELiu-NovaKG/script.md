@@ -5,5 +5,5 @@
     - [[run periodically]];
 - automating clicking
 - auto-generate; automatically generated
-- automatically truncated
+- [[automatically truncated]]
 - [[macroinstruction]]; [[macro instruction]]

@@ -5,7 +5,7 @@
 - [[caret]]: 脱字符, 插入光标;
 - [[comma]]
 - [[dollar sign]]
-- full-width symbol
+- [[full-width symbol]]
 - [[literal hyphen]]: 文字连字符
     - [[subtraction command]]
 - [[notation]]
@@ -18,5 +18,5 @@
 - preceding symbol
 - punctuation mark
 - [[quote]]
-- slash
+- [[slash]]
     - forward slash; [[backslash]]

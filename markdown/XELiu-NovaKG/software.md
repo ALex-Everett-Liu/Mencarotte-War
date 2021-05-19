@@ -44,13 +44,6 @@
 - [[typesetting]]; formatting...
     - [[markup language]]; [[markup]]
 - [[user interface (UI)]]
-- user service
-    - contact
-        - [[support team]]
-            - priority support
-            - support email
-        - [[feedback]]
-    - [[user account]]
-    - [[user data]]; customer data
+- [[user service]]
 - [[workflow]]
     - [[productivity tool]]

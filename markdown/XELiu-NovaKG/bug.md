@@ -5,7 +5,7 @@
     - tracking bugs;
 - error
     - [[error experimentation]];
-    - error-free;
+    - [[error-free]];
     - error-prone
     - error report; [[error message]]; [[error log]]
     - fixing errors; 
@@ -13,7 +13,7 @@
 - [[feedback]]
 - file not found
 - [[log]]
-- sanitization
+- [[sanitization]]
 - traceback
 - [[troubleshooting]]
 - unresponsive

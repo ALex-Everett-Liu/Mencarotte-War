@@ -1,4 +1,4 @@
-- compile; [[compiler]]
+- [[compile]]; [[compiler]]
     - Python browser compiler
         - [[pyodide]]
 - Python interpreter
