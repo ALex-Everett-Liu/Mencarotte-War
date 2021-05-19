@@ -70,5 +70,7 @@
 - [[thermodynamics]]; [[statistical mechanics]]
 - [[wave]]; wave theory
 - #inbox
+    - 上次我[搜一个问题](https://www.zhihu.com/question/38010192/answer/1877033332)，看 Physics Stack Exchange 上[讲得很有水平]，[看完文章][一看作者]，居然是 Matt Reece #pt9-100
+        - [时不时翻到][文教主][在远古时代][发出的灵魂提问]
     - [phys and others](https://www.zhihu.com/people/citysevenstar/answers) #pt10-99.98
     - [Triviality](https://www.zhihu.com/people/xia-yu-sen-40) - mathematical physics #pt9-99.99

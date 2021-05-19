@@ -1,5 +1,5 @@
 - [[formatting markup]]: 格式化标记
-    - [[formatted markdown]]
+    - [[formatted version]]; [[formatted markdown]]
     - list-oriented format: 面向列表的格式
 - [[human-readable text]]
 - [[hypertext]]
