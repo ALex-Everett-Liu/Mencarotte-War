@@ -21,3 +21,12 @@
 [roam css tip](https://www.notion.so/Roam-CSS-d8d781a01a3b4fd9a46d5fb2dd10e7c6) 
 https://www.roamtips.com/home/roam-research-css-styles
 [roam css recommend](https://nesslabs.com/the-best-css-themes-for-roam-research)
+- ---
+- ### [About Us]([[about us]])
+    - A [[note-taking tool]] for [[networked thought]].
+        - As easy to use as a [[document]]. As powerful as a [[graph database]].
+[Roam](https://roamresearch.com/) helps you [organize your research] [for the long haul](https://roamresearch.com/assets/images/Roam-Group-min.png). 费时费力的工作 #asset
+        - 漫游式研究方法及工具
+网络化思维的笔记工具
+    - We believe that [[writing]] is a tool for [[thinking]]. If we can [build a tool for] helping people [write and organize their ideas] [more effectively], we can help them [have better thoughts] and solve otherwise [intractable problems].
+201113-18:31

@@ -1,4 +1,4 @@
-- [[background image]]
+- [[background color]]; [[background image]]
     - [[wallpaper]]
 - drag and drop; drag files
     - flexible drag and drop interface;

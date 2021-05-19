@@ -8,7 +8,7 @@
         - collect inspiration
     - [[invention]]
     - [[serendipity]]
-- [[creative writings]]
+- [[writing]]; [[creative writings]]
     - [[reader]]
         - [[audience]]
     - [[story]]

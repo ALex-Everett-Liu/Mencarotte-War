@@ -1,14 +1,14 @@
 - apps...
     - [[Stylish]]
     - [[roam/css]]
-- [[background image]]
-- import css
+- [[background color]]; [[background image]]
+- [[import css]]
 - indentation style?
-- page container
-    - block container
+- [[page container]]
+    - [[block container]]
 - [[selector]]
 - width
-    - max width;
+    - [[max width]];
 - ---
 - ...
     - Cascading Style Sheets (CSS) is a [[style sheet language]] used for [describing the presentation of a document](((8UTngpN0B))) written in a [[markup language]] such as [[HyperText Markup Language (HTML)]].[1] CSS is a [cornerstone technology] of the [[World Wide Web (WWW)]], alongside HTML and [[JavaScript]].[2]

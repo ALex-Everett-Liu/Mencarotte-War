@@ -50,7 +50,7 @@
         - bullshit!
     - [[Note-taking/Wolai]]
 - [[图床 (Tuchuang)]]
-- writing tool; 写作工具
+- [[writing tool]]; 写作工具
     - [[Gingko]]
     - [[Scrivener]]
 - #inbox

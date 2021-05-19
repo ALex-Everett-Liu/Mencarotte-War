@@ -12,7 +12,6 @@
 - style; styling...
     - bold; bold letter
     - [[color scheme]]: 配色方案 
-        - [[text color]]; [[font color]]; 
     - display style
     - emphasize text
     - [[font]]

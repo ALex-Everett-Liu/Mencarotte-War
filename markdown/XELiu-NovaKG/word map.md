@@ -650,6 +650,10 @@
                         - unverified; verified;
                     - verity
 - Japanese
+    - 駆け上がる [kakeagaru]
+        - 【自动词・五段/一类】
+        - 往上跑。（走って上がる。かけのぼる。）
+            - 階段を駆け上がる。二階へ駆け上がる。
     - 表記 [hyouki]
         - 【名・他动词・サ变/三类】 
         - おもてに書く(書き記す)こと。その書かれたもの。
@@ -659,6 +663,11 @@
         - 标明〔明示する〕。
         - 文字や記号で書き表すこと。 (标题)
             - [表記の件](kudan)について。
+    - ご多用の折り (gotayou no ori); ご多忙の折り
+        - 実用日本語表現辞典
+        - 忙しいところ。「ご多用の折り、[誠に](makotoni)[恐れ](osore)入りますが、[ご返事](gohenji)[賜りたく](tamawaritaku)[お願い申し上げます]。 (We sincerely apologize for the inconvenience, but thank you for your reply.)」のように手紙の結びの挨拶で[用いる](mochiiru)。(used in the closing greeting of a letter) 
+210520-01:05
+            - ちなみに、「ご多忙」と表現する場合もあるが、「忙」が「亡」の文字を含み[縁起が悪いとされる](It is said to be unlucky, engi)ことから「ご多用」を用いることが多い。
     - やく‐しょ【[役所](https://www.weblio.jp/content/%E5%BD%B9%E6%89%80)】
         - 役どころ -- 読み方：やくどころ | 別表記：役所
             - その人がこなす、ふさわしい[役目](yakume)、役割。自分がこなすべき受け持ち。 | 职责

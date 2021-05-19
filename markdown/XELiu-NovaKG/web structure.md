@@ -1,7 +1,7 @@
 - [[link]]
 - birds-eye view
 - [[dynamic network]]
-- networked thought
+- [[networked thought]]
 - [[node]]
     - [[nodal network]]
 - relation, connection...

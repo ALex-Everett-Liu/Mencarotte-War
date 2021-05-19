@@ -6,7 +6,7 @@
 - direct link; forward-link
 - [[external link]]
 - find the path
-- hovered
+- [[hovered]]
 - [[hyperlink]]
 - [[internal link]]; internal linking
 - linking feature
@@ -14,6 +14,6 @@
 - orthogonal linking
 - redirect
 - [[source]]; [[reference]]
-- truncate the link
+- [[truncate the link]]
 - web location
 - [[URL]]; url

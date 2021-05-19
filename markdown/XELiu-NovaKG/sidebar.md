@@ -1,1 +1,1 @@
-- left sidebar; right sidebar
+- [[left sidebar]]; [[right sidebar]]

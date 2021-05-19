@@ -27,7 +27,4 @@
     - [[neuron]]
     - [[synaptic activation]]
 - [[psychology]]
-- thinking
-    - [[brainstorm]]
-        - [[mind map]]; mind mapping
-    - thought structure
+- [[thinking]]

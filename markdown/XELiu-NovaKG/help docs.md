@@ -1,6 +1,6 @@
 - built-in help facility: 内置帮助工具;
 - guide; instruction; user guide
-    - about us
+    - [[about us]]
     - [[guideline]]
     - README
     - [[setup instruction]];

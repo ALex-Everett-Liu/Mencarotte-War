@@ -1,0 +1,3 @@
+- [[brainstorm]]
+    - [[mind map]]; mind mapping
+- thought structure
