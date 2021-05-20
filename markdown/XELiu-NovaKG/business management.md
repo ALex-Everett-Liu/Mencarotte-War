@@ -1,4 +1,4 @@
-- [[collaboration]]; collaborate
+- [[collaboration]]; [[collaborate]]
 - [[employment]]
     - [[employee]]
     - [[employer]]

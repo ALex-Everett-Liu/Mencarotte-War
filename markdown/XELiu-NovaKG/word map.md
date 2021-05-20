@@ -323,6 +323,12 @@
             - initial
                 - initially;
             - int
+                - integer
+                    - [[integrate]], 2; integrated; integration
+                        - disintegration
+                    - integral; integrality
+                - intend
+                    - intended, 2;
                 - intrinsic: 固有的; 内在的; 本身的, 本征的, 本质的;
             - inv
                 - invent

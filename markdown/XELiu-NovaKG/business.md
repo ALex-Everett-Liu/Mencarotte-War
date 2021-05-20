@@ -1,5 +1,12 @@
+- business competition
+    - monopolized
+    - competitor
 - [[business operation]]: 企业经营, 业务运作;
 - [[business use]]
-- [[marketing]]: 市场营销; [[marketer]]
+- [[company]]; [[corporation]]; firm
+    - shareholder
+- digital business??
+    - retail electronics store
+- [[market]]; [[marketing]]: 市场营销; [[marketer]]
 - [[product]]
 - [[publish]]

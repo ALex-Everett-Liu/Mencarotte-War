@@ -3,9 +3,9 @@
     - access granted; access denied
     - admin; mod
         - [[system administrator]]; [[administration]]: 管理员权限
-    - edit access
+    - [[edit access]]
     - identity verification
-    - readonly; read-only
+    - [[readonly]]; read-only
     - [user account](https://workflowy.com/#/4ca6506c76e1)
 - [[cryptography]]
 - malicious

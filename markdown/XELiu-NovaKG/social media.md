@@ -7,6 +7,6 @@
 - [[personal contact]]
 - [[Twitter]]; twitter
     - link economy
-    - tweet;
+    - [[tweet]];
     - Twitter Thread; Threaded Twitter
     - [[weibo (micro-blog)]]

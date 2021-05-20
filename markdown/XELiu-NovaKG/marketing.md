@@ -3,7 +3,12 @@
     - [[brand value]]
     - [[logo]]
     - positioning statement: 定位声明
+- [[marketplace]];
+- marketing communication
+    - marketing-communications platform
+        - Mailchimp
+- market leader
 - [[price]]
-- sold...
+- sell; sale; sold
     - best-selling
     - most popular;

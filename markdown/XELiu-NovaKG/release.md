@@ -8,6 +8,6 @@
 - [[trial]]
 - test
     - pressure-test
-    - script test
+    - [[script test]]
 - update...
     - continuous update
