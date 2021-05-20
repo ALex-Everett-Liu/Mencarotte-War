@@ -6,9 +6,9 @@
     - [[nodal network]]
 - relation, connection...
     - weight...
-        - assigned weightings
-    - defined relationship; [[relationship strength]]
-    - connect with lines; connect ideas;
+        - [[assigned weightings]]
+    - [[defined relationship]]; [[relationship strength]]
+    - connect with lines; [[connect ideas]];
     - [[context]]
     - explicit relationship
     - [[interconnectivity]]

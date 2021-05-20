@@ -1,0 +1,7 @@
+- decision-making; [[decision making]]
+    - [[better-informed decision]]
+    - [[problem-solving]]
+        - break down a problem; 
+        - [[collaborative problem-solving]]
+        - detailed steps
+- [[trade-off]]

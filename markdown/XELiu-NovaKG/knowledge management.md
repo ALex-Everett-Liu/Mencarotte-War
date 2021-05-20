@@ -1,5 +1,6 @@
 - [[evaluating knowledge]]
 - [[insight]]
+- [[information unit]]; [[knowledge unit]]
 - [[organizing knowledge]]; organize your ideas
 - [[personal knowledge management (PKM)]]
     - [[note-taking]]; [[note-taking tool]]; notetaking

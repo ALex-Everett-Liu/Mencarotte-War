@@ -8,8 +8,8 @@
     - maximum degree
     - linear hierarchy
     - branching hierarchy
-        - overlapping hierarchy
-    - multiple positions
+        - [[overlapping hierarchy]]
+    - [[multiple positions]]
 - [[heterarchy]]: 变态分层结构
 - [[hierarchical system]]
     - hierarchical display

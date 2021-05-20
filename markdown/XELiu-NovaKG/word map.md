@@ -143,7 +143,7 @@
                         - consonant
                             - consonance
                         - constrain
-                            - constrained; constraint
+                            - constrained; [[constraint]]
                             - constrained structure;
                         - consult, 3
                             - consulting;
@@ -298,6 +298,16 @@
             - front
                 - front-matter: 正文之前;
     - g
+        - gi
+            - give
+                - gave; given, 2
+        - gl
+            - gloss
+                - glossary
+            - glow: fare14, faguang11, hongguang21, huiguang11;
+        - go
+            - goal
+                - [[ultimate goal]];
         - gr
             - gra
                 - grapple

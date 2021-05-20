@@ -1,5 +1,6 @@
 - [[calculus]]
 - [[complex number]]
+- [[game theory]]
 - general...
     - [[non-negative]]
     - normalized

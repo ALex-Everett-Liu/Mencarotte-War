@@ -8,7 +8,7 @@
 - [[telephone]]
 - [[television]]
 - the transmission of information; [[information transmission]]: 信息传输
-    - convey information
+    - [[convey information]]
     - [[long-distance communication]]
     - [[microwave transmission]]
     - [[transmission media]]

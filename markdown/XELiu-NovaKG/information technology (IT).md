@@ -6,5 +6,7 @@
         - information explosion; knowledge explosion
         - fragmented information
         - technological revolution
+- [[information processing]]
+- [[information unit]]; [[knowledge unit]]
 - [[information volume]];
 - the transmission of information; [[information transmission]]: 信息传输
