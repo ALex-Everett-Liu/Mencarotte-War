@@ -11,7 +11,7 @@
     - [[tag]]; [[label]]: 标签, 标注; [[category]]...
         - tag-line;
         - the types of content
-- file cabinet
+- [[file cabinet]]
 - [[file tree]]; [[knowledge tree]]
 - [[folder]]
 - [[hierarchy]]

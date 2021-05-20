@@ -4,10 +4,11 @@
 - Information Retrieval (IR)
 - local search; desktop search
     - [[Everything Search]]
+- locate the file;
 - partial search
 - [[query]]; query language
 - [[search engine]]; web search engine
-- search function; 
+- [[search function]]; 
 - sorting
     - alphabetical order
     - exact order

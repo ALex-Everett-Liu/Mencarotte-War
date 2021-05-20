@@ -3,10 +3,20 @@
 - consumer distribution mode
 - [[edition]]
     - edition numbering
+    - major edition
 - [[identifier]]
     - Bibcode
     - doi
     - [[ISBN]]; [[ISBN number]]
+- [[library science]]
+- longform content
+- official...
+    - official content
+- press; print
+    - [[Gutenberg Press]]
+    - [print](https://workflowy.com/#/a25f9dd7446d)[-based media](https://workflowy.com/#/a25f9dd7446d)
 - [[publication]]; [[publisher]]; publishing platform
 - [[release]]
+- supplemented
+- [[version]]
 - [[图床 (Tuchuang)]]

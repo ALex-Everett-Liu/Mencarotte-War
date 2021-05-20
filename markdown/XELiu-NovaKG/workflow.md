@@ -7,7 +7,7 @@
 - collaboration tool
     - [[workaround]]
     - [[workspace]]
-- effective
+- effective; [[efficiency]]
     - improve efficiency
 - mental cost?
     - learning cost;

@@ -1,5 +1,5 @@
 - [[one-time task]]
-- perform the task
+- [[perform the task]]
 - [[repetitive task]]
     - [[regular interval]]
 - [[subtask]]

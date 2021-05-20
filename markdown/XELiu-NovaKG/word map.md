@@ -537,6 +537,8 @@
                     - [[personality]];
         - pl
             - pla
+                - plast
+                    - plastic; [[plasticity]]
                 - play
                     - display
                         - displayed;

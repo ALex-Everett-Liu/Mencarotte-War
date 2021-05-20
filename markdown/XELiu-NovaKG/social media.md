@@ -8,5 +8,5 @@
 - [[Twitter]]; twitter
     - link economy
     - [[tweet]];
-    - Twitter Thread; Threaded Twitter
+    - [[Twitter Thread]]; Threaded Twitter
     - [[weibo (micro-blog)]]

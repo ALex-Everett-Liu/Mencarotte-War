@@ -1,5 +1,5 @@
 - [[communication]]
-- [[computer science (CS)]]
+- [[computer science (CS)]]; [[computer]]
 - [[electronics]]
 - general...
     - technological advance

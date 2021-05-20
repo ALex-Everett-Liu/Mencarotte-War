@@ -2,7 +2,7 @@
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
     - parent and child; children
     - updated in every location
-    - use it or lose it
+    - 
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
 - quick todo

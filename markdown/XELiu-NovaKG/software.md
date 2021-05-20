@@ -10,7 +10,7 @@
     - [[save and load]]
 - [[file structure]]
 - general...
-    - apps; software application; [[application program]]
+    - apps; [[software application]]; [[application program]]
         - mobile app; 
     - [[software utility]]: 实用程序, 软件工具;
 - [[help docs]]...
@@ -28,7 +28,7 @@
 - [[Software as a Service (SaaS)]]
 - storage
     - [[capability]]; capacity
-        - fill to overflowing
+        - [[fill to overflowing]]
         - [[raw storage]]
     - cloud storage
     - library?

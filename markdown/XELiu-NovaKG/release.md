@@ -1,4 +1,3 @@
-- beta version; alpha version
 - maintain; [[maintenance]]
     - maintain the system
     - [[maintainer]];

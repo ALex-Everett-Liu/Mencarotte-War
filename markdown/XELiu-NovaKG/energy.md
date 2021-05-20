@@ -3,3 +3,4 @@
 - [[kinetic energy]]
 - [[mechanical energy]]
 - [[potential energy]]; potential energy function
+- [[power]]

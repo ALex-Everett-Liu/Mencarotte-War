@@ -1,5 +1,5 @@
 - access...
-    - access the information; online access; [[first access]]
+    - [[access the information]]; online access; [[first access]]
     - access granted; access denied
     - admin; mod
         - [[system administrator]]; [[administration]]: 管理员权限

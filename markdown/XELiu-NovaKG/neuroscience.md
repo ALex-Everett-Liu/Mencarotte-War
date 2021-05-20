@@ -1,6 +1,8 @@
 - [[brain science]]
     - [[human brain]]
 - [[cognitive science]]: 认知科学
+- general...
+    - rewire with new connections;
 - human interaction...
     - [[human voice]]
     - vision: 视觉

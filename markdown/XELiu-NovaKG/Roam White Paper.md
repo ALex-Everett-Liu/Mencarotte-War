@@ -15,7 +15,7 @@ Check [the](https://roamresearch.com/#/app/help/page/uuidaba49748-739e-466d-bf79
     - [We are experiencing] [an unprecedented explosion of knowledge]([[knowledge explosion]]). Every day, 2700 books are published in the [[United States (USA)]] alone, 6850 [[scientific paper]]s are authored, more than 2 million [[blog post]]s [go live], 超过200万篇博客文章上线 and 294 billion emails [fly back and forth]. 来回飞舞 [The amount of total data] produced with [every rotation of the Earth] would fill [a stack of books] [stretching to the moon] and back.[1](((Q11MeN5ce))) While this [[exponential growth]] [presents enormous opportunities for] individuals and society at large, neither the [human brain] nor [current technologies] [are equipped to harness it] to its [[full potential]].
 201120-11:15, 210120-06:46
 - ## 2. [Current approaches to] [[knowledge management]] 当下的主流知识管理方法
-    - Humans are [poorly adapted to] the [[Information Age]], which has arisen only in the last ~0.02% of our [[evolutionary history]]. While the [brain] does [have a remarkable capacity]([[capability]]) for [[raw storage]], probably [in the range of] several [petabytes],[2](((LK1ttPbos))) it is infamously fallible in [processing information]([[information processing]]). 臭名昭著的易犯错误的 [[memory retrieval]] is [lossy and unreliable]([[lossy]]), while many of our hardwired [[cognitive bias]]es and [[heuristic]]s misfire in the [modern world], distorting our [[perception]], [[judgement]] and [decision-making ability]. [The plasticity of the brain]([[plasticity]]) enables it to [rewire itself with new connections]([[connection]]), but even this is a ‘[use it or lose it]’ [[feature]], causing neglected [[neural pathway]]s to atrophy. 
+    - Humans are [poorly adapted to] the [[Information Age]], which has arisen only in the last ~0.02% of our [[evolutionary history]]. While the [brain] does [have a remarkable capacity]([[capability]]) for [[raw storage]], probably [in the range of] several [petabytes],[2](((LK1ttPbos))) it is infamously fallible in [processing information]([[information processing]]). 臭名昭著的易犯错误的 [[memory retrieval]] is [lossy and unreliable]([[lossy]]), while many of our hardwired [[cognitive bias]]es and [[heuristic]]s misfire in the [modern world], distorting our [[perception]], [[judgement]] and [decision-making ability]. [The plasticity of the brain]([[plasticity]]) [enables it to](((TxbHJO0kl))) [rewire itself with new connections]([[connection]]), but even this is a ‘[use it or lose it](((naPe6MUei)))’ [[feature]], causing neglected [[neural pathway]]s to atrophy. 
 201120-16:53
         - atrophy: 萎缩; 衰退
 misfire: 不奏效; 不起作用; 不起动; 打不着火; 不发火; 射不出子弹
@@ -27,9 +27,9 @@ hardwired: 硬联线的，硬连线的; 基本的，固有的，无法改变的
 plethora: 过多 ; 过量 ; 过剩
         - While [we are presented with] [a plethora of choices] for [organizing knowledge], almost every technology follows the same basic ‘[[file cabinet]]’ format: [A unit of knowledge]([[knowledge unit]]) is saved to a certain [[file path]], which [places it within] a [[taxonomy]] of [[folder]]s, [[chapter]]s or [categories]([[category]]). 
 201120-17:23
-        - [Tags]([[tag]]) [may be applied] when an item [relates to many things]([[multiple relationships]]), but [each file] is generally only stored within one [[nested hierarchy]]. 
+        - [Tags]([[tag]]) [may be applied] when an item [relates to many things](((4VG5J1QQH))), but [each file] is generally only stored within one [[nested hierarchy]]. 
 22:48 201101
-        - To [[access the information]], [the user must remember] where they [stored the file]([[store files]]), what they [tagged it with], or use a [[search function]] to [[locate]] it.
+        - To [[access the information]], [the user must remember] where they [stored the file](((qvPi3Bmqa))), what they [tagged it with], or use a [[search function]] to [locate it](((HyKfngC9O))).
         - Related [[Twitter Thread]]: [[Conor White-Sullivan]]@Conaw
 A brief rant on [note-taking apps] and [the structure of thought]. ^^Or "Why [[Evernote]] is a terrible [[second brain]]."^^   这里真的令人击节赞赏
 201123-06:16
