@@ -265,6 +265,13 @@
                     - ethnics; ethnicity;
         - ex
             - exclude
+            - explore
+                - unexplored;
+            - exponent
+                - exponential;
+                    - [[exponential growth]];
+            - express
+                - expressing;
     - f
         - fa
             - fact
@@ -379,12 +386,27 @@
                 - joint
             - journal
                 - journey, 2
+        - ju
+            - judge
+                - [[judgement]];
+            - junction
+                - conjunct
+                    - conjunction;
+            - junior
     - l
         - li
             - literal
                 - literally; lit.: 逐字地, 照字面意义;
                 - literate; literated
                     - transliterate; transliterated
+        - lo
+            - longing
+                - in a yearning manner 渴望
+                    - he [spent the rest of the act] 余下的时间 [gazing longingly over my right shoulder] at the [illuminated word] 'Exit'
+            - look
+                - look up;
+            - lose
+                - loss; [[lossy]]
     - m
         - ma
             - man
@@ -528,6 +550,10 @@
                         - politician;
             - ponder
                 - pondered;
+            - potent
+                - potential;
+                    - [[full potential]];
+            - power
         - pr
             - pro
                 - produce

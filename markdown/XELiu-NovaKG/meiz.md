@@ -22,7 +22,8 @@ https://www.nvshens.org/g/31772/
 https://www.ugirl.com/meinvtupian/5428.html
 https://www.mm8mm88.com/download/11487-30-0x0.html
 https://www.deviantart.com/chase81/art/Ayumi-with-flowers-851615067
-                - https://www.invshen.net/g/35523/
+                - 10-2
+https://www.invshen.net/g/35523/
 https://www.invshen.net/g/34817/
 https://www.ywpic.com/4512.html
 https://www.ywpic.com/46332.html
@@ -35,6 +36,8 @@ https://www.ywpic.com/162124.html
 https://www.ywpic.com/162106.html
 https://www.ywpic.com/133673.html
 https://www.ywpic.com/2770.html
+
+                - 10-3
 https://www.ywpic.com/33202.html
 https://www.ywpic.com/2728.html
 https://www.ywpic.com/37715.html
@@ -53,6 +56,8 @@ https://www.ywpic.com/145770.html
 https://www.ywpic.com/164783.html
 https://www.ywpic.com/140625.html
 https://www.ywpic.com/144807.html
+https://www.ywpic.com/142311.html
+https://www.ywpic.com/159846.html
                 - 9
 https://www.ywpic.com/162142.html
 https://www.ywpic.com/163173.html
@@ -66,6 +71,7 @@ https://www.ywpic.com/85720.html
 https://www.ywpic.com/44535.html
 https://www.ywpic.com/81219.html
 https://www.ywpic.com/163161.html
+https://www.ywpic.com/40495.html
 https://www.invshen.net/g/35521/
 https://www.invshen.net/g/35007/
 https://www.ywpic.com/163507.html
@@ -75,14 +81,18 @@ https://www.ywpic.com/163149.html
 https://www.ywpic.com/9478.html
 https://www.ywpic.com/140415.html
 https://www.ywpic.com/141435.html
+https://www.ywpic.com/164813.html
+https://www.ywpic.com/138855.html
                 - 8
 https://www.ywpic.com/150199.html
 https://www.ywpic.com/145770.html
 https://www.ywpic.com/150044.html
+https://www.ywpic.com/139836.html
 https://www.invshen.net/g/35000/
 https://www.invshen.net/g/34938/
 https://www.ywpic.com/139599.html
 https://www.ywpic.com/139884.html
+https://www.ywpic.com/137757.html
 https://www.ywpic.com/140403.html
 https://www.ywpic.com/107984.html
 https://www.ywpic.com/160469.html
@@ -96,6 +106,7 @@ https://www.ywpic.com/133905.html
 https://www.ywpic.com/161849.html
 https://www.ywpic.com/161885.html
 https://www.ywpic.com/147127.html
+                - 8-2
 https://www.ywpic.com/74576.html
 https://www.ywpic.com/164765.html
 https://www.ywpic.com/139587.html
@@ -108,10 +119,12 @@ https://www.ywpic.com/161855.html
 https://www.ywpic.com/161879.html
 https://www.ywpic.com/138507.html
 https://www.ywpic.com/134465.html
+https://www.ywpic.com/136858.html
 https://www.ywpic.com/27753.html
 https://www.ywpic.com/141441.html
 https://www.ywpic.com/137751.html
 https://www.ywpic.com/134185.html
+            - [根本原因就是]现在[资源获取难度]增加，同行[盗图转发]、[恶意举报][百度链接]。不管的金钱还是人员精力都日益增加。如果你们了解过尤蜜图片和视频的话，实际上[尤蜜]官方只有一个app在[对外发布资源]，官方从始至终只有[充值][在线观看方式]，没有提供任何[下载服务]！随着官方[防盗机制]难度增加，我们基本无法简单吧图片保存下来。就算保存下来，也是[分辨率很低]的图片，为了保证大家观看的效果，我们还[单独付费]进行[AI高清处理]，做到图片[相对高清]。[这种费力不讨好行为][换来的就是]同行[无止境][盗图转发]，甚至还有拿去[单独出售](https://www.ywpic.com/164142.html)的！ #pt8-99.98
         - fuliji
             - #inbox
                 - **郭杰瑞: 草，想要YP你早讲啊。** #pt10-99.99

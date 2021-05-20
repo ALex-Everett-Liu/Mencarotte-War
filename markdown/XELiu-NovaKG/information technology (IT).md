@@ -2,8 +2,8 @@
     - [[International Business Machines Corporation (IBM)]]; [[ibm]]
 - general...
     - provide information;
-    - Information Age
-        - information explosion; knowledge explosion
+    - [[Information Age]]
+        - [[information explosion]]; [[knowledge explosion]]
         - fragmented information
         - technological revolution
 - [[information processing]]

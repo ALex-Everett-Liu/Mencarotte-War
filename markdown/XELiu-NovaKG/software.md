@@ -27,9 +27,9 @@
 - [[settings]]
 - [[Software as a Service (SaaS)]]
 - storage
-    - capability...
+    - [[capability]]; capacity
         - fill to overflowing
-        - raw storage
+        - [[raw storage]]
     - cloud storage
     - library?
         - [[archive]]
