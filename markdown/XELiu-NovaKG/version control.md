@@ -1,8 +1,9 @@
 - [[distributed revision control system]]
     - [[Git]]; [[git]];
         - [[commit]]
-        - diff; diffable
-        - fork
+        - diff; [[diffable]]
+        - [[fork]]
         - [[GitHub]]
+        - [[git directory]]
         - [[git history]]
-        - push
+        - [[push]]

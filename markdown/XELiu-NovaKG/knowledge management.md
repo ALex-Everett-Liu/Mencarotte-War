@@ -1,6 +1,6 @@
-- evaluating knowledge
+- [[evaluating knowledge]]
 - [[insight]]
-- organizing knowledge; organize your ideas
+- [[organizing knowledge]]; organize your ideas
 - [[personal knowledge management (PKM)]]
     - [[note-taking]]; [[note-taking tool]]; notetaking
 - [[second brain]]

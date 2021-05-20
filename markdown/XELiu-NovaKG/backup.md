@@ -1,5 +1,5 @@
 - [[backup script]]; backup tool
 - [[backup timeout]]
-- full fidelity backups
+- [[full fidelity backups]]: 完全保真度备份
 - [[import]]; [[export]]
-- rolling backups
+- [[rolling backups]]: 回滚备份

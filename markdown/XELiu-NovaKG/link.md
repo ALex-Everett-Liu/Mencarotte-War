@@ -16,4 +16,4 @@
 - [[source]]; [[reference]]
 - [[truncate the link]]
 - web location
-- [[URL]]; url
+- [[URL]]; [[url]]

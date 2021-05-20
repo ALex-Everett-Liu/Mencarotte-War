@@ -1,19 +1,19 @@
 - bug report;
 - crash
 - [[debug]]; debugging
-    - bug fixes;
+    - [[bug fixes]];
     - tracking bugs;
-- error
+- [[error]]
     - [[error experimentation]];
     - [[error-free]];
     - error-prone
     - error report; [[error message]]; [[error log]]
     - fixing errors; 
-- exit code
+- [[exit code]]
 - [[feedback]]
-- file not found
+- [[file not found]]
 - [[log]]
 - [[sanitization]]
 - traceback
 - [[troubleshooting]]
-- unresponsive
+- [[unresponsive]]

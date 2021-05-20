@@ -1,7 +1,7 @@
 - [[overwritten]]
-- restore the graph
-- populate changes; save the change
-    - system-wide change; global change
+- restore the graph;
+- [[populate changes]]; [[save the change]]
+    - [[system-wide change]]; global change
     - updated in every location
 - save data periodically
 - [[version control]]; [[revision control]]

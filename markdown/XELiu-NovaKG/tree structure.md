@@ -12,7 +12,7 @@
         - tag-line;
         - the types of content
 - file cabinet
-- [[file tree]]; knowledge tree
+- [[file tree]]; [[knowledge tree]]
 - [[folder]]
 - [[hierarchy]]
 - [[mind map]]; mind mapping

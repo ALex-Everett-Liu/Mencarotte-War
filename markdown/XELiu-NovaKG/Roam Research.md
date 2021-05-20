@@ -2,6 +2,7 @@
     - [[RoamCN]]
     - [[roamcult]]; RoamCult
     - [[Roam Depot]]
+    - [[RoamHacker]]
 - customization...
     - extensions
         - backup

@@ -377,6 +377,17 @@
                     - transliterate; transliterated
     - m
         - ma
+            - man
+                - mandate
+                    - [[mandatory]]: 受托管;
+                - manipulate
+                    - treat manually, as with massage, for therapeutic purposed 用于治疗目的
+                    - manipulating;
+                - manner
+                - manu
+                    - manual
+                        - manually;
+                    - manus
             - mark
                 - benchmark; 
         - me

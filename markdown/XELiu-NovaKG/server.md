@@ -3,6 +3,7 @@
 - [[client]]
 - [[host]]
     - localhost
+    - [[mandatory]];
 - server-based application
 - [[server port]]
 - servlet

@@ -5,7 +5,7 @@
     - [[Emacs]]; [[GNU Emacs]]; [[Emacs lisp]]
     - [[Clojure]]
         - [[ClojureScript]]
-        - [[EDN]]; formatted edn
+        - [[EDN]]; [[formatted edn]]
 - [[Matlab]]
 - [[Node]]
 - [[PHP]]

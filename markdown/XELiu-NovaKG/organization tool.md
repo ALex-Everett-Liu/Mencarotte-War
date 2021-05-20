@@ -1,1 +1,1 @@
-- organizing knowledge; organize your ideas
+- [[organizing knowledge]]; organize your ideas

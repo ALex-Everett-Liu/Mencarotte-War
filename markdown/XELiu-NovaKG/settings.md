@@ -11,4 +11,4 @@
 - system settings
     - [[Control Panel]]
     - [[task manager]]
-- timeout
+- [[timeout]]

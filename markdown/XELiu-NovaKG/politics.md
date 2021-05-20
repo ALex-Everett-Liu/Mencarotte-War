@@ -6,7 +6,7 @@
 - country...
     - [[India]]
     - [[Japan]]
-    - [[USA]]
+    - [[United States (USA)]]
 - [[diplomacy]]
 - elect
 - general...
