@@ -21,6 +21,15 @@
                     - accurate; accurately
                     - inaccurate;
         - ad
+            - adapt
+                - adaptable; adapted; adapting; adaptation
+            - address
+                - addressed; addressing;
+            - adhocery
+                - ad hoc; [[ad hoc fashion]]
+            - adjacent
+                - adjacent sphere;
+                - adjacence;
             - advance
                 - advance the theory;
                 - advancing;

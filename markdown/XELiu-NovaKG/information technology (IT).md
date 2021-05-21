@@ -4,7 +4,7 @@
     - provide information;
     - [[Information Age]]
         - [[information explosion]]; [[knowledge explosion]]
-        - fragmented information
+        - [[fragmented information]]
         - technological revolution
 - [[information processing]]
 - [[information unit]]; [[knowledge unit]]

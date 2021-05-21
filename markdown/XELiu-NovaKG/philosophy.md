@@ -10,7 +10,7 @@
 - [[skepticism]]
 - [[theology]]
 - truth
-    - the pursuit of truth
+    - the [[pursuit of truth]]
 - [[ultimate question]]
 - value...
     - [[life value]]; the meaning of life

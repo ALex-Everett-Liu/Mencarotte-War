@@ -1,6 +1,10 @@
 - [[evaluating knowledge]]
+- [[human knowledge]]; [[information explosion]]; [[knowledge explosion]]
 - [[insight]]
 - [[information unit]]; [[knowledge unit]]
+- [[knowledge framework]]
+    - [[file tree]]; [[knowledge tree]]
+- [[knowledge graph]]
 - [[organizing knowledge]]; organize your ideas
 - [[personal knowledge management (PKM)]]
     - [[note-taking]]; [[note-taking tool]]; notetaking

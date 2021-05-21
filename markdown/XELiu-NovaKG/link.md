@@ -11,7 +11,7 @@
 - [[internal link]]; internal linking
 - linking feature
 - one way pointer
-- orthogonal linking
+- [[orthogonal linking]]
 - redirect
 - [[source]]; [[reference]]
 - [[truncate the link]]

@@ -21,7 +21,7 @@
     - intelligent life;
     - [[mental map]]
         - [[mind map]]; mind mapping
-    - open-source intelligence
+    - [[open-source intelligence]]
 - [[memory]]
 - neural system...
     - [[neural network]]

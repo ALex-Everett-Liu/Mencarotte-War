@@ -10,7 +10,7 @@
     - [[defined relationship]]; [[relationship strength]]
     - connect with lines; [[connect ideas]];
     - [[context]]
-    - explicit relationship
+    - [[explicit relationship]]
     - [[interconnectivity]]
         - [[interconnected pages]]
     - multiple relationships
