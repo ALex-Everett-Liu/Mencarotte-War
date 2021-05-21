@@ -1,2 +1,8 @@
+- [[black skirt]]
+    - black middle skirt
 - [[blue skirt]]
 - [[blue-white skirt]]
+- [[jk seifuku]]
+    - dark blue skirt
+    - white short sleeves with blue
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Folrji6ip9j.png?alt=media&token=c6b5f29f-2efb-4ede-a731-7d588e9f2527)

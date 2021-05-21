@@ -1,3 +1,4 @@
+- [[boot]]
 - [[high heeled]]
     - [[high heeled sandal]]
 - [[leather shoes]]

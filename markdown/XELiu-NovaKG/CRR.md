@@ -4,6 +4,7 @@
     - [[body hair]]
     - [[face]]
     - [[hair]]
+    - [[hat]]
     - scarf
         - wool scarf; 
 - [[shitagi]]

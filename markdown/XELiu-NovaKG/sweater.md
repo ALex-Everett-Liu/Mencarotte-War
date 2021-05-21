@@ -1,0 +1,2 @@
+- creamy white sweater
+- [[black-white-stripe sweater]]
