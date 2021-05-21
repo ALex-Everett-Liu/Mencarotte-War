@@ -1,1 +1,4 @@
+- black leather shorts
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Fn73aetdNOD.png?alt=media&token=42971083-0ef1-4d10-8436-b4ed1380a6b3)
+- grey shorts
 - [[jeans shorts]]

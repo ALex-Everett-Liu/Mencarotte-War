@@ -9,6 +9,8 @@
     - [[蒲与路 (Puyu Lu)]]; Buyeo Lu
 - [[historical geography of korea]]; [[Korean Peninsula]]
 - [[混同江 (Huntong Jiang)]]
+    - 忽汗河; [[牡丹江 (Mudan River)]]; [[牡丹江 (Mudanjiang)]]
+        - [[忽汗州 (Huhanzhou)]]
 - [[辽东 (Liaodong)]]; [[辽东半岛 (Liaodong Peninsula)]]
     - [[辽阳行省 (Liaoyang province)]]
 - [[辽西 (Liaoxi)]]
