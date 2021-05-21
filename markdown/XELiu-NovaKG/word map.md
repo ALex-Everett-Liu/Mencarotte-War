@@ -633,6 +633,18 @@
                         - [Offshore oil and gas development] started from scratch. 海上油气开发 club.topsage.com
                         - He started from scratch and [step by step he made it]. blog.sina.com.cn
                         - They started from scratch and learned as they went. 边学边干 www.[dictall].com
+        - si
+            - sib
+                - sibling
+            - side
+            - sign
+                - signal
+                - signify
+                    - significant, 2; significantly
+                        - [[significant work]];
+                - signature
+                - resign
+                    - resignation;
         - st
             - sta
                 - staff, 2
@@ -675,6 +687,14 @@
     - t
         - tr
             - tra
+                - track
+                    - [[track down]]: 追捕, 追获;
+                    - tracker;
+                - tract
+                    - [subtract](https://workflowy.com/#/3a3cc78b4478)
+                    - tractable: 驯服的, 易于管教; 易于处理;
+                - trade
+                    - tradeoff; trade-off;
                 - tradition
                     - traditionalist;
                 - trait

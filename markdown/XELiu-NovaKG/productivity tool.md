@@ -1,5 +1,5 @@
 - [[keyboard shortcut]]
 - [[Microsoft Office]]
 - [[organization tool]]
-- redundancy: 冗余
+- [[redundancy]]: 冗余
 - [[spell check]]
