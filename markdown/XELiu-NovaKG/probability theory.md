@@ -1,2 +1,3 @@
 - [[Bayesian probability]]
+- [[gambling]]
 - [[probability amplitude]]

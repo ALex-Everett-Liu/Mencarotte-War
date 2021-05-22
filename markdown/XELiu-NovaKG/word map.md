@@ -156,6 +156,15 @@
                         - comprehend
                             - comprehension;
             - con
+                - conc
+                    - conceive
+                    - concept
+                        - conception, 2; misconception
+                        - conceptual; conceptualization;
+                            - conceptual schema; [[conceptual framework]]
+                    - concern
+                        - concerned;
+                    - concise
                 - con-
                     - cons
                         - consist

@@ -1,4 +1,4 @@
-- [[contact]]
+- [[contact]]; contact us
     - [[support team]]; [[support email]]
         - [[priority support]]
     - [[feedback]]

@@ -73,3 +73,16 @@ cast into a drawer: 扔进抽屉里
     - [2] [[Scientific American]]: New [Estimate] Boosts the Human Brain's [[memory capacity]] [10-Fold].
     - [3]: [Microelectronics]([[microelectronics]]) pioneer [[Carver Mead]], who coined the term [[Moore’s Law]], correctly predicted in 1990 that [present-day computers] would use ten million times more energy for a single [[instruction]] than [the brain uses for] a [[synaptic activation]]. 
 201123-12:20
+- ### [Further Reading]([[further reading]])
+    - Daniel Kahneman, __Thinking, Fast and Slow__
+    - Robin Hanson, __Could Gambling Save Science?__ #gambling 
+    - [Ray Dalio], __[Principles]__
+    - H Van Dyke Paranuk, __Don’t Link Me In:__ Set Based [[hypermedia]] for [[taxonomic reasoning]]
+    - [Michael Nielsen], __[Reinventing Discovery]:__ The [New Era]([[new era]]) of [[networked science]]
+    - Richards J Heuer, The [[psychology]] of [[intelligence analysis]]
+    - Leslie Lamport: __[How to write] a [21st Century] Proof__ #proof
+    - Douglas Engelbart, __Augmenting the Human Intellect: A Conceptual Framework.__ #[[conceptual framework]] #[[human intellectual]]
+201128-02:32
+- ### About this Paper
+    - We wrote this White Paper in Winter of 2017/2018, and while [it still reflects much of our vision] for the tool, some of the features -- particularly related to [[Bayesian reasoning]], [[argument analysis]], and [[prediction market]]s we found to be in-fact much [lower priority]([[low priority]]) for the [[researcher]]s and [decision makers]([[decision making]]) whose thinking [we aim to assist] -- and risked [making the tool too complex] for the more significant [[use case]]s.  If you are interested in using Roam for more formal [[quantitative reasoning]] or building out [[formal model]]s of [[belief network]]s, __or if you are [excited about ideas] in this paper which you [do not see a way to do] currently within Roam, please [contact us].__  
+201128-03:07

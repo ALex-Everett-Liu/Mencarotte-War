@@ -19,7 +19,6 @@
 - [[nested hierarchy]]
 - [[node]]
 - [[taxonomy]]
-    - [[vertical taxonomy]]
 - religion related...
     - celestial hierarchy
 - 上下级概念...

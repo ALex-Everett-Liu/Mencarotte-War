@@ -4,7 +4,5 @@
 - general...
     - [[logical conclusion]]
 - [[heuristic]]
-- reasoning; inference
-    - [[Bayesian inference]]
-    - [[collaborative reasoning]]
+- [[reasoning]]; [[inference]]
 - [[reductio ad absurdum]]: 归谬法, 反证法

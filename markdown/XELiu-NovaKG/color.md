@@ -1,0 +1,5 @@
+- [[color space]]
+    - CIE 1931 color space
+    - Planckian locus
+    - standard observer
+- [[chromaticity]]: 色度

@@ -14,14 +14,7 @@
     - [[perception]]
         - touch
             - tactile impression: 触觉印象 
-- intelligence...
-    - [[artificial intelligence (AI)]]
-    - [[collective intelligence]]
-    - human intellectual
-    - intelligent life;
-    - [[mental map]]
-        - [[mind map]]; mind mapping
-    - [[open-source intelligence]]
+- [[intelligence]]: 智能, 智力活动;
 - [[memory]]
 - neural system...
     - [[neural network]]

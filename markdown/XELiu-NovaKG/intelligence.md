@@ -1,0 +1,8 @@
+- [[artificial intelligence (AI)]]
+- [[collective intelligence]]
+- [[human intellectual]]; human intellect
+- [[intelligence analysis]]
+- intelligent life;
+- [[mental map]]
+    - [[mind map]]; mind mapping
+- [[open-source intelligence]]

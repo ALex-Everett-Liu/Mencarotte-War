@@ -1,9 +1,10 @@
 - [[link]]
 - birds-eye view
-- [[dynamic network]]
-- [[networked thought]]
-- [[node]]
-    - [[nodal network]]
+- [[networked science]]
+    - [[dynamic network]]
+    - [[networked thought]]
+    - [[node]]
+        - [[nodal network]]
 - relation, [[connection]]...
     - weight...
         - [[assigned weightings]]

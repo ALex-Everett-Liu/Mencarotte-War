@@ -16,6 +16,7 @@
 - [[linear algebra]]
 - [[logic]]
 - [[mathematician]]
+- [[proof]]; prove
 - [[set theory]]
 - [[statistics]]
     - [[data analysis]]
