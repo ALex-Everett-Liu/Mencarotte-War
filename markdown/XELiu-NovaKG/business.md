@@ -1,3 +1,4 @@
+- [[acquisition]]: 收购; 获得; 招揽;
 - business competition
     - monopolized
     - competitor

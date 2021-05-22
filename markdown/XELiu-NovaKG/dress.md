@@ -1,3 +1,5 @@
 - [[大衣 (dayi)]]
 - [[gown]]
 - [[long coat]]
+- white sleeveless dress
+- 白色碎花裙

@@ -9,7 +9,7 @@
         - building block
     - coding style
     - executing code
-    - instruction
+    - [[instruction]]
         - basic instruction
         - programming instruction; computing instruction
         - a sequence of instructions

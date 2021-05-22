@@ -1,3 +1,4 @@
 - [[blouse]]
 - [[coat]]
 - [[sweater]]
+- [[white long sleeves]]

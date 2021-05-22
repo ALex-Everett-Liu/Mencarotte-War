@@ -1,1 +1,9 @@
 - black dayi
+- brown dayi
+- light brown dayi
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtqCMGewjjH.png?alt=media&token=f7325d50-beb8-4eb1-9724-09fbe2210c7a)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV0Cksbi2Sb.jpg?alt=media&token=10061018-5601-4627-a243-a525d28a7ef5)
+- dark blue dayi
+- light blue dayi
+- green dayi
+- red dayi

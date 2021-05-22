@@ -1,1 +1,4 @@
 - [[short boot]]
+- [[black boot]]
+- [[black wedge boot]]
+- [[white wedge boot]]

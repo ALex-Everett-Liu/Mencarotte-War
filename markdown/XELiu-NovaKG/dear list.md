@@ -12,13 +12,19 @@
             - 很嚣张地一路甩着细胳膊，可爱
         - 星期六 27/03/2021 12:35~36
 - [[虞喆 (Yu Zhe)]] -- 160 cm?
-- [[臧妤姣 (Zang Yujiao)]]
+- [[臧妤姣 (Zang Yujiao)]] -- 165~168 cm?
 - 05/2019 YIT #pt10-100 #laopo   163~164 cm?
 - 星期四 20/05/2021 19:27 #pt10-100 #laopo #[[white blouse]]   163~165 cm?
 - HIT Energy School 201703? -- 165~168 cm?
 - 星期一 15/03/2021 12:03 #pt10-100 #laopo #[[jk seifuku]] #[[flesh pantyhose]] # black leather shoes   158~161 cm?
 - 星期五 16/04/2021 15:02~03 #pt10-100 #laopo #[[green coat]]   162~164 cm?
 - 星期四 13/05/2021 18:08 #pt10-100 #laopo #[[grey pantyhose]] #[[brown leather shoes]]   164~166 cm?
+- 星期六 24/06/2017 21:23 #pt10-100 #laopo #[[short ponytail]] #[[white wedge boot]]   165~169 cm?
+- [[安冰 (An Bing)]] -- 172 cm?
+- [[辛坤毓 (Xin Kunyu)]]
+- [[胡秋雨 (Hu Qiuyu)]] -- 164~166 cm?
+- 星期一 15/03/2021 11:14 #pt10-100 #laopo # black leather shoes # light brown dayi   164~166 cm?
+- [[Fan Qiaodan]] -- 165~167 cm?
 - [[邹茜 (Zou Qian)]]
 - 星期二 16/03/2021 20:52-57 #pt10-100 #laopo # black short boot # middle faqia   159~162 cm?
 - 星期四 03/08/2017 11:44 -- MOV_7800.mp4 -- 隔壁屋的学姐 #pt10-99.99 # light jeans shorts # 美腿 - beautiful legs   166~169 cm?

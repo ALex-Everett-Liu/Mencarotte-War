@@ -6,6 +6,7 @@
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
 - quick todo
+    - [PDXCON](https://store.steampowered.com/sale/paradox);; 
     - buy;; movie theater;; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Atom/VSCode 配置 Python 环境; Python in Roam;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; 
     - old pc trash check;; 小红书, douyin;; Grammarly-like;; digikam;; lyy weibo

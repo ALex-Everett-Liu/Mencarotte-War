@@ -64,6 +64,18 @@
                 - [[anonymous]]
             - antho
                 - anthology
+        - ar
+            - architect
+                - architecture;
+            - argue
+                - argued;
+            - aristocrat
+                - aristocracy;
+            - arm
+                - arm with: 装备;
+            - arrange
+                - arrangement, 2; arranging
+                - [[rearrange]];
         - as
             - assert
                 - assertion;
@@ -577,6 +589,21 @@
                     - provided, 2; provider
                     - single provider;
                 - province
+    - q
+        - qu
+            - quality
+                - qualify
+                - qualities;
+            - quantity
+                - quantify
+                    - quantifiable: 可量化, 计量; quantifier: 量词;
+                - quantities;
+                - quantum; quanta
+            - query
+                - enquire
+                    - [[enquiry]];
+                - inquire
+                    - inquiry;
     - r
         - ra
             - [[ratio]]

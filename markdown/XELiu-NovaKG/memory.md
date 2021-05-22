@@ -1,5 +1,5 @@
 - [[discrete memories]]
-- memory capacity
+- [[memory capacity]]
 - [[memory retrieval]]
 - [[memory unit]]
 - [[mnemonics]]

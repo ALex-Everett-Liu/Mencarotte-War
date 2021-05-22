@@ -1,5 +1,5 @@
 - AMD Ryzen 5 — 4650G -- Radeon Graphics -- 3.69 GHz -- my device 202011
-- instruction
+- [[instruction]]
 - system type
     - 64-bit system; x86_64; x64
     - 32-bit system; i686

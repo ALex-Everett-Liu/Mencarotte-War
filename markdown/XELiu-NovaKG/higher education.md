@@ -1,7 +1,7 @@
 - academic rank
 - college education
 - general...
-    - tuition-free
+    - [[tuition-free]]
 - [[graduate school]]
     - co-supervisor
     - [[graduate student]]
@@ -11,7 +11,7 @@
 - major...
     - science majors
 - online?
-    - coding university
+    - [[coding university]]
 - [[university]]...
 - university hierarchy
     - affiliated professor

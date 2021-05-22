@@ -4,5 +4,7 @@
 - [[leather shoes]]
 - [[sandal]]
     - [[high heeled sandal]]
+    - [[wedge heeled sandal]]
 - [[sneaker]]
 - [[wedge heeled]]
+    - [[wedge heeled sandal]]

@@ -1,8 +1,12 @@
 - 2017
+    - June
+        - [[June 24th, 2017]] -- [[DCIM - June 24th, 2017]]
     - August
         - [[August 1st, 2017]] -- [[DCIM - August 1st, 2017]]
         - [[August 2nd, 2017]] -- [[DCIM - August 2nd, 2017]]
         - [[August 3rd, 2017]] -- [[DCIM - August 3rd, 2017]]
+    - September
+        - [[September 11th, 2017]] -- [[DCIM - September 11th, 2017]]
 - 2019
     - April
         - [[April 26th, 2019]] -- [[DCIM - April 26th, 2019]]

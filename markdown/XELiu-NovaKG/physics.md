@@ -59,7 +59,7 @@
     - [[Brian Greene]]
         - [[The Fabric of the Cosmos - Space, Time, and the Texture of Reality]]
 - publication...
-    - academic journal
+    - [[academic journal]]
         - [[American Journal of Physics (Am. J. Phys.)]]
         - [[Physics Today]]
     - learning

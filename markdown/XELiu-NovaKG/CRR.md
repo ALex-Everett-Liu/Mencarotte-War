@@ -5,6 +5,8 @@
     - [[face]]
     - [[hair]]
     - [[hat]]
+    - neck
+        - [[choker]]
     - scarf
         - wool scarf; 
 - [[shitagi]]
