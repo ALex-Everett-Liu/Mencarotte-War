@@ -1,8 +1,10 @@
 - abstract...
     - abstract noun
+- [[argument analysis]]
 - [[cognitive bias]]
 - general...
     - [[logical conclusion]]
 - [[heuristic]]
 - [[reasoning]]; [[inference]]
+    - [[Bayesian reasoning]]; [[Bayesian inference]]
 - [[reductio ad absurdum]]: 归谬法, 反证法

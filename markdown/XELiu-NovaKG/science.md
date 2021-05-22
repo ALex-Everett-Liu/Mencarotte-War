@@ -17,7 +17,7 @@
 - [[popularize of science]]; popular science
     - [[Scientific American]]
 - [[prize]]
-- [[research]]
+- [[research]]; [[researcher]]
     - collaborative research
     - [[cutting-edge research]]
     - [[early prototype]]

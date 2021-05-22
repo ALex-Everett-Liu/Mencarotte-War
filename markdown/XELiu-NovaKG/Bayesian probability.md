@@ -1,1 +1,1 @@
-- [[Bayesian inference]]
+- [[Bayesian reasoning]]; [[Bayesian inference]]

@@ -4,4 +4,5 @@
         - break down a problem; 
         - [[collaborative problem-solving]]
         - detailed steps
+    - [[prediction market]]
 - [[trade-off]]

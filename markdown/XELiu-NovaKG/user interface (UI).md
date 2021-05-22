@@ -23,6 +23,6 @@
     - [[theme]]
 - [[tab]]
 - [[toolbar]]
-- use case
+- [[use case]]
     - message-of-the-medium
 - [[user experience (UX)]]

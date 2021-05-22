@@ -1,2 +1,3 @@
 - [[collaborative reasoning]]
+- [[quantitative reasoning]]
 - [[taxonomic reasoning]]: 分类推理
