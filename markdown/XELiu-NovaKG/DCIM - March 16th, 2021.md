@@ -1,4 +1,4 @@
-- 星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # [[black skirt]] # [[black pantyhose]] # black leather shoes   159~163 cm?
+- 星期二 16/03/2021 20:28 #pt10-100 #laopo #ponytail #[[green coat]]  #[[black-white-stripe sweater]] # [[black skirt]] # [[black pantyhose]] # [[black leather shoes]]   159~163 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FHjR28pD2Xt.png?alt=media&token=3145bffd-b9e5-4498-b83a-373559dad46c)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FB75Ih-jSBf.jpg?alt=media&token=e8429a39-cf43-4f87-a368-4ee14fce1065)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F7cInH82-DJ.png?alt=media&token=9b1ad744-cc39-49c6-9e42-9c94d083a1f4)

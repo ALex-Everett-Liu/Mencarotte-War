@@ -15,6 +15,7 @@
 - [[group theory]]
 - [[linear algebra]]
 - [[logic]]
+- [[mathematical modeling]]
 - [[mathematician]]
 - [[proof]]; prove
 - [[set theory]]

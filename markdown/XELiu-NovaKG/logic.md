@@ -7,4 +7,5 @@
 - [[heuristic]]
 - [[reasoning]]; [[inference]]
     - [[Bayesian reasoning]]; [[Bayesian inference]]
+        - [[belief network]]
 - [[reductio ad absurdum]]: 归谬法, 反证法

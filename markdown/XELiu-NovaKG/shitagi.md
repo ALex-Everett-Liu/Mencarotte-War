@@ -1,3 +1,5 @@
 - 美腿 - beautiful legs
+- [[jeans]]
+    - [[jeans shorts]]
 - [[shorts]]; hot pants
 - [[skirt]]

@@ -50,6 +50,7 @@
             - 读读这本论文集: Why trust a theory? - epistemology of fundamental physics, Cambridge University Press (2019)
         - 也许按照[蒯因]的说法[是最省心的]。我们无法说[一个实体]是不是存在的，但是我们却可以通过[语义分析]，确定一个能[描述现象]的[理论结构内部][承诺了什么是存在的]。如果我们[接受了这个理论]，我们就接受了[这个理论的承诺](https://www.zhihu.com/question/455003219/answer/1852325670)。 #pt8-100
 - [[mathematical method]]
+- [[mathematical modeling]]
 - [[nuclear physics]]
 - [[particle physics]]; [[high-energy physics]];
 - physicist

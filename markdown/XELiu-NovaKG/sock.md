@@ -1,2 +1,3 @@
 - [[black knee socks]]
 - [[pantyhose]]
+- [[white socks]]

@@ -1,0 +1,10 @@
+- [[computational physics]]
+- conceptualization process
+- [[grid]]: 栅格, 网格;
+    - 2d grid
+- [[model]]
+    - [[formal model]]
+- [[simulation]]
+- 3-D structure
+- 2D geometric model
+    - two-dimensional figure
