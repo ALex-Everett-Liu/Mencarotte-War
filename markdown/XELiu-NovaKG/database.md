@@ -8,7 +8,7 @@
     - form instance;
 - [[list]]
     - make list; [[list management]]
-    - sequence
+    - [[sequence]]
 - namespace
 - record; 行属性
 - [[relational database]]

@@ -5,6 +5,8 @@
 - general...
     - [[logical conclusion]]
 - [[heuristic]]
+- [[proposition]]: 命题, 提案; 主张, 建议;
+    - [[primary proposition]]: 基本命题
 - [[reasoning]]; [[inference]]
     - [[Bayesian reasoning]]; [[Bayesian inference]]
         - [[belief network]]

@@ -8,5 +8,5 @@
 - test
     - pressure-test
     - [[script test]]
-- update...
+- [[update]]...
     - continuous update

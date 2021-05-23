@@ -1,6 +1,6 @@
 - [[discrete memories]]
 - [[memory capacity]]
-- [[memory retrieval]]
+- [[memory retrieval]]; recall
 - [[memory unit]]
 - [[mnemonics]]
     - [[spaced repetition]]

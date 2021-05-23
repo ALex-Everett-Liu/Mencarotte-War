@@ -137,6 +137,10 @@
             - clutter: 混乱, 杂乱, 凌乱;
                 - cluttering;
         - co
+            - co-
+                - cohere
+                    - coherent;
+                - covary
             - code
                 - encode; decode
             - cognize
@@ -253,6 +257,10 @@
                         - After entering the warehouse, the stocks can [maintain quality] in a span and then begin to deteriorate. www.[fabiao].net
                         - If you don't average about three swims a week you will lose your feel for the water and your technique will begin to deteriorate. www.[topswim].net
                         - This suggests the impact of higher energy on headline inflation 高能源价格对总通胀水平的影响 and its indirect pass-through effects on core inflation may begin to deteriorate in the second half of 2011. blog.[tianya].cn
+            - develop
+                - developed, 3; development, 3;
+            - deviate: 脱离, 偏离, 越轨;
+                - deviant
         - di
             - dictate, 2
                 - dictation;
@@ -356,6 +364,21 @@
             - guide
                 - misguided;
             - guise: 表现形式; 外貌; 伪装
+    - h
+        - he
+            - hetero
+                - heterarchy;
+            - here
+                - cohere; inhere
+        - hi
+            - hieron
+                - hieratic
+                    - hierarch; hierarchy; hierarchies; hierarchical
+                        - heterarchy;
+            - history
+                - historically;
+            - hive
+                - hive off: 蜜蜂分群;
     - i
         - in
             - inc
@@ -367,7 +390,7 @@
                             - [[mutually exclusive]];
                     - included; including
             - inhere
-                - inherent: 固有的
+                - inherent: 固有的, 内在, 生来; inherently
             - initial
                 - initially;
             - int
@@ -784,6 +807,20 @@
             - utter
                 - utterly;
     - v
+        - va
+            - valid, 2
+                - validate; validating
+                - validity;
+            - value
+                - invaluable;
+                - valuable; valuation
+            - vary, 2
+                - covary
+                    - covariant: 协变, 共变;
+                - [[variable]]; [[variant]]; variation
+                - variety, 2; varieties
+            - vast
+                - vastitude;
         - ve
             - ver
                 - versus

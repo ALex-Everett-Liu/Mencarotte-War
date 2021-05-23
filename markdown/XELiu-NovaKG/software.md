@@ -22,7 +22,7 @@
     - [[project management]]
     - [[time management]]
 - [[multi-media]]
-- [[note-taking]]; [[note-taking tool]]; notetaking
+- [[note-taking]]; [[note-taking tool]]; [[note-taking app]]; notetaking
 - [[release]]
 - [[settings]]
 - [[Software as a Service (SaaS)]]

@@ -1,4 +1,5 @@
 - [[article]], [[essay]], [[sci/paper]]...
 - long form writing
+- [[writer]]
 - writing experience
 - [[writing tool]]; 写作工具

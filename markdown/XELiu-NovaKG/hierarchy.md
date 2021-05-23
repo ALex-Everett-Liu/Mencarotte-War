@@ -3,7 +3,7 @@
 - [[classification]]
     - dynamic classification
     - 结构调整
-- degree of branching
+- degree of branching; [[branch]]
     - bifurcation theory
     - maximum degree
     - linear hierarchy

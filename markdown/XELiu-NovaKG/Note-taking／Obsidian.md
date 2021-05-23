@@ -1,4 +1,8 @@
 - #inbox
+    - Supercharged Links 更新 0.2.0 版本，[允许你]在使用 Dataview 的时候对[表格中的链接][进行实时的信息更改]，如下图所示，开发者表示，这样 Dataview 的功能更像[一个真正的表格]了。
+        - Tracker 更新 1.5 版本，现在你可以根据 Dataview 的[检索数值][生成对应的线条图]或者[圆形图]了。
+        - Obsidian-5e-statblocks
+如下图，[龙与地下城跑团][必备](https://www.zhihu.com/pin/1379427044988698624)。 #pt10-99.99
     - [Obsidian 插件推荐（四）](https://zhuanlan.zhihu.com/p/362853550)
         - ### Word Splitting for Simplified Chinese in Edit Mode
             - 当前[这款插件](http://link.zhihu.com/?target=https%3A//github.com/alx-plugins/cm-chs-patch)的功能如其名称英文的直译，就是一款[分词插件]，为了解决我们[在编辑模式下]，[双击选择文字]的时候，只能[选中一整个句子]的问题。

@@ -2,7 +2,7 @@
     - [[Git]]; [[git]];
         - [[commit]]
         - diff; [[diffable]]
-        - [[fork]]
+        - [[fork]]: 分支, 分叉;
         - [[GitHub]]
         - [[git directory]]
         - [[git history]]

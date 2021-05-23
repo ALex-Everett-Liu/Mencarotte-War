@@ -11,7 +11,7 @@
     - [[defined relationship]]; [[relationship strength]]
         - [[defined concept]]
     - connect with lines; [[connect ideas]];
-    - [[context]]; [[original context]]
+    - [[context]]; [[original context]]; [[original meaning]]
     - [[explicit relationship]]
     - [[interconnectivity]]
         - [[interconnected pages]]
