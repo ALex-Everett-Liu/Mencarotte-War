@@ -1,0 +1,4 @@
+- break down a problem; 
+- [[collaborative problem-solving]]
+- detailed steps
+- [[specific sub-question]]

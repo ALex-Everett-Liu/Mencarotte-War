@@ -2,3 +2,4 @@
 - [[collaborator]]; co-worker; colleague
 - [[coordination problem]]
 - [[group]]; [[organization]]
+- [[large-scale collaboration]]

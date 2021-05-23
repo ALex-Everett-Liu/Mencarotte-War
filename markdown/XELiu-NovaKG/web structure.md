@@ -9,13 +9,14 @@
     - weight...
         - [[assigned weightings]]
     - [[defined relationship]]; [[relationship strength]]
+        - [[defined concept]]
     - connect with lines; [[connect ideas]];
-    - [[context]]
+    - [[context]]; [[original context]]
     - [[explicit relationship]]
     - [[interconnectivity]]
         - [[interconnected pages]]
     - multiple relationships; maps all possible relationships
     - reuse; reuse information
         - code reuse
-        - remix ideas; remix information
+        - [[remix ideas]]; remix information
         - reusing content
