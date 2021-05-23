@@ -9,3 +9,4 @@
         - [[executive director]]: 执行主任/理事
     - [[technical staff]]
 - [[Master in Business Administration (MBA)]]
+- shift; 轮班制度

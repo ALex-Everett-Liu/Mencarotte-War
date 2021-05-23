@@ -1,4 +1,4 @@
-- 美腿 - beautiful legs
+- 美腿 - [[beautiful leg]]s
 - [[jeans]]
     - [[jeans shorts]]
 - [[shorts]]; hot pants

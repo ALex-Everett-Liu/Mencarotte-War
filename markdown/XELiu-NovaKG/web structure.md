@@ -14,7 +14,7 @@
     - [[explicit relationship]]
     - [[interconnectivity]]
         - [[interconnected pages]]
-    - multiple relationships
+    - multiple relationships; maps all possible relationships
     - reuse; reuse information
         - code reuse
         - remix ideas; remix information

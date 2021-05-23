@@ -1,5 +1,5 @@
 - dictionary 
-    - Shortly afterwards, cuts in [[defence spending]] 国防开支的削减 forced the aerospace industry to retrench. 紧缩开支 《柯林斯词典 (柯林斯高阶英汉双解学习词典)》
+    - Shortly afterwards, cuts in [[defence spending]] 国防开支的削减 forced the aerospace industry to retrench. 紧缩开支 《[[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)》
     - The world's entire aerospace industry is [feeling the chill winds of recession]. 经济衰退的寒意
     - A [[hydrogen leak]] forced [[NASA]] to ground the [[space shuttle]]. 停止了航天飞机的发射
     - NASA is [hedging its bets] 做了两手准备 and [adopting both strategies]. 双管齐下

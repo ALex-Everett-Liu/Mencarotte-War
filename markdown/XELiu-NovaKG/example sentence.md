@@ -12,7 +12,7 @@
     - Also, this paper analysis the measure problem of the [zero-current in the system]. 零电流检测 
     - The analysis of measure problem on the [roller brake tester] 滚筒试验台
     - This thesis solves some measure problem in the traditional [ultrasonic flow meter]. 流量计
-- 柯林斯词典 (柯林斯高阶英汉双解学习词典)
+- [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
     - Let me [set the record straight on the misconceptions] [contained in your article]. 
     - ---
 - danci.[911cha].com

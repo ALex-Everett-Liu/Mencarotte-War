@@ -588,6 +588,14 @@
                     - [[full potential]];
             - power
         - pr
+            - pre
+                - pre-
+                    - [[prelude]]: 前奏, 序幕;
+                    - present, 3
+                        - presentation;
+                        - represent; represented, 2; representing
+                    - prevent
+                        - preventing;
             - pro
                 - produce
                     - [[product]]

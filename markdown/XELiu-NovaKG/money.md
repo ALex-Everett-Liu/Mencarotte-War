@@ -1,2 +1,4 @@
 - mint: 造币厂;
     - [[Master of the Mint]]
+- [[reward]]
+- [[revenue]]: 收入; 税收; 岁入;

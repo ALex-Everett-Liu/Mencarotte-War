@@ -3,13 +3,20 @@
     - [[bag]]
     - [[body hair]]
     - [[face]]
+    - general...
+        - pretty girl; pretty women
     - [[hair]]
     - [[hat]]
+    - [[化妆 (huazhuang)]]
+        - [[perfume]]
     - neck
         - [[choker]]
     - scarf
         - wool scarf; 
+    - [[身材 (shencai)]]
+        - 修长 (xiuchang); 
 - [[shitagi]]
 - [[shoe]]s - kutsu
 - [[sock]]s - kutsushita
+- [[underwear]]
 - [[uwagi]]

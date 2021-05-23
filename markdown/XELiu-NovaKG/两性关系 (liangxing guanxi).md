@@ -1,3 +1,18 @@
+- [[attractive]]; 性吸引力
+- [[courting]]; chase after
+- general...
+    - [[sweet]]
+- [[kiss]]
+- make love;
+    - sleeping together; 上床
+- [[marriage]]
+- [[philander]]: 玩弄女性, 调戏妇女, 调情; [[hunt for beauties]]
+    - trolling for men; 钓凯子
+- [[romance]]; [[love affair]]
+    - 暧昧关系 (aimei guanxi)
+    - [[dating]]
+    - [[romance novel]]
+- [[sexual harassment]]
 - #inbox
     - 其实我也这样，但是[藏的比较好](https://bbs.saraba1st.com/2b/thread-1998751-6-1.html)，[看ex微博]也是用小号 #pt10-99.99
         - 楼主的bf没日到前女友之前[这心结不会解开]

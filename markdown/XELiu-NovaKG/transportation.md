@@ -1,6 +1,10 @@
 - [[airport]]
+    - [[airline]]
+    - [[airline stewardess]]
     - [[airport security]]
         - [[metal detector]]; [[metallic object]];
+    - first class; 头等舱, 头等座;
+    - [[frequent-flier]]; frequent-flyer miles: 常旅客飞行里程
 - economics of transport and utility industries 
 - transportation security
     - [[life-jacket]]

@@ -15,6 +15,8 @@
 - [[social activity]]
 - [[sports]]
 - tour; travel
+    - [[hotel]]
+        - [[motel]]
     - 随身行李清单
 - [[custom]]; 民俗
     - abandon their old dwelling;

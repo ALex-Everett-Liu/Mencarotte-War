@@ -12,6 +12,8 @@
 - genre
     - folk song
     - [[rhythm and blues (RnB)]]; [[R&B]]
+    - [[rock]]
+        - [[rock star]];
 - [[musical instrument]]
 - musical theory??
     - [[musical note]]: 音符
