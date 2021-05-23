@@ -17,6 +17,7 @@
     - [[creative studio]]
     - history-inspired renewal
     - Web Design; [[Web design]]; [[web designer]]
+- [[modern art]]
 - [[music]]
 - [[novel]]
 - [[poetry]]

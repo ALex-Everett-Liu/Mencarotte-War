@@ -1,0 +1,31 @@
+- dictionary 
+    - You can make a claim on your [[insurance policy]]. 按保险单索赔 《牛津高阶英汉双解词典》
+    - I make no claim to understand [[modern art]]. 自认为不懂
+    - I make no claim to be a paragon. 完人
+    - If you [make a claim about the results], 宣扬您的主张 you must [provide enough information] that [the experiment can be reproduced by](((n3QzxCnsb))) another researcher or [[research team]]. www.[ibm].com
+    - And then you can make a claim on your [[insurance]]. provided by [[jukuu]]; www.[jukuu].com
+    - no, I don't think anyone else can make that claim.
+    - I am here to make a claim of the [latest shipment](((CJLx8Eyo2))). 对[最近的一批货][提出索赔]
+    - To make a claim, you must [specify the date] [when the article was lost](((CJLx8Eyo2))).
+    - I make no claim to [supernatural gifts of any sort].
+    - To make a claim of wrongdoing against; accuse or blame. 对不法行为的指控
+    - You should retain your ups [Internet shipping receipt] 托运收据 [for at least as long as] [the period in which to make a claim]. 可索偿期间
+    - Few who make claim to channel [Ascended Masters] 宣称自己为扬升大师 or Angelics truly do. 天使传导 blog.sina.com.cn
+    - Realistically, no framework [can make that claim].
+    - The beneficiary [will come forward to] [make claim of the consignment]. 受益人将挺身而出 www.[xcar].com.cn
+    - You may make a claim on the firm for the damages. 向公司提出赔偿损失 www.[dictall].com
+    - Make a claim to I finally [had the apartment of my own].
+    - If the problem is in the goods itself, you may make a claim on the supplier. 供货方
+    - You may be able to make a claim and [recover damages], including [attorney's fees and costs]. 要求对方支付律师费和其他费用
+    - We can't make a claim against the [ship owners] because the [short weigh] 短重 was due to the [excessive moisture]. 过量的湿度
+    - But by [geological standards] we [have only recently been able to] make this claim. www.[ftchinese].com
+    - [Otherwise you may find that] [you are ineligible to] make a claim. word.hcbus.com
+    - No other auction search or snipe program can make that claim! 拍卖 www.[jisuxz].com
+    - He doesn't make the claim about the [general utility of freedom] or unlimited speech. v.163.com
+    - Maybe when people make the claim, [it's not clear] which of these things [they've got in mind].
+    - If you make a claim that is not [[common knowledge]], you must [provide a citation to it]([[citation]]). www.[myoops].org
+    - If [any of the articles](((CJLx8Eyo2))) was [damaged during moving], 任何物品在搬运过程中损坏 you may [make a claim for compensation] against our department. www.[[hjenglish]].com
+    - [The damage to the machine-tools] [occurred in transit], 机床的损坏 在转运中 so you should make a claim on the [insurance company].
+    - But customers [sold dodgy products] 问题产品 can face hours of [tedious form-filling] to make a claim. 无聊地填表 www.[ecocn].org
+    - By simply [paying a small extra premium], 额外的保险费 [car owners] [will be eligible to] make a claim [during the year]. www.[dlzycf].com
+    - I'm sure you didn't make the claim, but [it certainly will enable us to] [understand so much more about] the universe? danci.911cha.com

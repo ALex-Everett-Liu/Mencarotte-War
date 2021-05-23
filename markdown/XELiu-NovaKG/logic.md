@@ -2,7 +2,9 @@
     - abstract noun
 - [[argument]]: 论据, 论证, 争论
     - [[certainty]]
+    - [[make the claim]];
     - [[conclusion]]
+    - [[evidence]]
     - [[premise]]
         - combine all premises;
     - [[proposition]]: 命题, 提案; 主张, 建议;

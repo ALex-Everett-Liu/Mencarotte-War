@@ -6,5 +6,8 @@
     - first class; 头等舱, 头等座;
     - [[frequent-flier]]; frequent-flyer miles: 常旅客飞行里程
 - economics of transport and utility industries 
+- 航运业
+    - goods; article: 物件, 物品, 产品; shipment;
 - transportation security
+    - [[airport security]]
     - [[life-jacket]]

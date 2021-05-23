@@ -1,10 +1,11 @@
 - [[academic]]
 - creative...
 - [[discipline]]; [[scientific discipline]]
-    - study field
-    - interdisciplinary
+    - [[expertise]]
+    - [[interdisciplinary]]
         - interdisciplinary field
         - multidisciplinary field
+    - study field
 - [[encyclopedia]]...
     - [[wiki]]...
 - general...
@@ -23,6 +24,10 @@
     - [[early prototype]]
     - [[invention]]
         - [[patent]]
-    - [[reproducible research]]: 可重复性研究
+    - [[reproducible research]]: 可重复性研究; reproduce the experiment;
     - [[R&D]]
-- [[science philosophy]]...
+    - [[research project]]
+    - [[research team]]
+- scientific methodology
+    - [[reproducible research]]: 可重复性研究; reproduce the experiment;
+    - [[science philosophy]]...

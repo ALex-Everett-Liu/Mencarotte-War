@@ -1,6 +1,6 @@
 - dictionary 
     - (1) [seek flowery language]∶[找寻][华美]的[词汇]; [猎艳]以[润色]; [rack one's brains] for [ornate diction] [绞尽脑汁]的[华丽辞藻]
     - (2) [hunt for beauties; [[philander]] with women]∶追寻女色; pursue or [chase after](((MtXHsdv-F))) [pretty women](((5YfN2gp8H))); 
-    - She's [frequenting motels]([[motel]]) and [trolling for men](((6wI4lOzVp))). 经常光顾汽车旅馆猎艳 provided by [[jukuu]]
+    - She's [frequenting motels]([[motel]]) and [trolling for men](((6wI4lOzVp))). 经常光顾汽车旅馆猎艳 provided by [[jukuu]]; www.[jukuu].com
     - She said that [choosing friends] who are slightly [less attractive than you]([[attractive]]) when [going out looking for love] could also [bring advantages]([[advantage]]). www.[[hjenglish]].com
     - [影视]：《猎艳》（Zoom Hunting）是由[卓立][执导]，[温升豪]、[张钧甯]等[主演]的[剧情片]。 source: [baike.baidu].com

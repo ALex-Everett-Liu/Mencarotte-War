@@ -10,6 +10,7 @@
     - [[global financial crisis]]
 - general...
     - [[clearinghouse]]: 票据交换所
+- [[insurance]]
 - [[invest]]; [[investor]]; investment
 - [[payment]]
 - [[stock market]]

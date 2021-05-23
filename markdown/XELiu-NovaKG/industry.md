@@ -5,3 +5,4 @@
             - [[fur]]; animal skin and hair
 - [[manufacturing]]; 制造业
 - [[mining]]; [[mining industry]]
+- [[production safety]]

@@ -1,6 +1,7 @@
 - [[API]]; [[api]]; API 支持;
     - [[API interface]];
     - [[API access]];
+- [[expandable]];
 - [[extension]]
     - [[add-on]]; third-party add-on package
     - [[plugin]]; [[plug-in]]

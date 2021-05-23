@@ -16,6 +16,7 @@
     - Let me [set the record straight on the misconceptions] [contained in your article]. 
     - ---
 - danci.[911cha].com
+- www.[[dictall]].com
 - www.[[ebigear]].com
     - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
     - ---
@@ -25,7 +26,7 @@
 - www.[[hjenglish]].com
 - www.[hxen].com
     - But the "measure problem" makes [calculating this value] impossible.
-- provided by [[jukuu]]
+- provided by [[jukuu]]; www.[jukuu].com
     - She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 
     - ---
     - However, I would like to [set the record straight on a few points]. 
@@ -41,6 +42,7 @@
 - [blog.sina]([[sina blog]]).com.cn
     - Suddenly [a brand new] [Jeep Cherokee] [screeches to a halt next to him]. “呲”的一下停在了他的边上 
     - ---
+- v.163.com
 - misc; others
     - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn
     - We can establish a series of criteria of CPCS [on the basis of] the [necessary demand] of residents by use of analysis of ELES, and the multiplier of the studying costs to PDI.

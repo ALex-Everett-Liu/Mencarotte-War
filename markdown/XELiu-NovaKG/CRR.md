@@ -2,13 +2,12 @@
 - girls' stuff...
     - [[bag]]
     - [[body hair]]
+    - [化妆 (huazhuang)]; [[cosmetics]]
     - [[face]]
     - general...
         - pretty girl; pretty women
     - [[hair]]
     - [[hat]]
-    - [[化妆 (huazhuang)]]
-        - [[perfume]]
     - neck
         - [[choker]]
     - scarf

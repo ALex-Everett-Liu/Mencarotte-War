@@ -1,3 +1,4 @@
+- [[common knowledge]]: 常识;
 - [[evaluating knowledge]]
 - [[human knowledge]]; [[information explosion]]; [[knowledge explosion]]
 - [[insight]]
