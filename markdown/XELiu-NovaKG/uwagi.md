@@ -1,3 +1,4 @@
+- [[black shirt]]
 - [[blouse]]
 - [[coat]]
 - [[grey long sleeves]]

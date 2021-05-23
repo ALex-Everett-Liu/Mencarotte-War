@@ -1,1 +1,3 @@
 - black-purple sneaker
+- grey-white sneaker
+- [[white sneaker]]

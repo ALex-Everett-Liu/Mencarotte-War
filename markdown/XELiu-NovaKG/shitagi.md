@@ -3,3 +3,6 @@
     - [[jeans shorts]]
 - [[shorts]]; hot pants
 - [[skirt]]
+- [[trousers]]
+    - [[black trousers]]
+    - light grey trousers

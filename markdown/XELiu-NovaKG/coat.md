@@ -1,4 +1,4 @@
-- black coat
+- [[black coat]]
 - [[light blue coat]]
 - brown coat
 - creamy-brown coat

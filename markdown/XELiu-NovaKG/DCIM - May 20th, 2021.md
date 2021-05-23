@@ -1,3 +1,5 @@
+- 星期四 20/05/2021 19:11 #pt10-100   164~166 cm?
+- 星期四 20/05/2021 19:11 #pt10-99.99 #[[white high heeled]] # green long skirt   163~165 cm?
 - 星期四 20/05/2021 19:27 #pt10-100 #laopo #[[white blouse]] #[[black long skirt]] #[[black leather shoes]] #[[white socks]]   163~165 cm?
     - #[[grey long sleeves]] #[[suspender jeans]]
     - ![21052019-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv-Rhg6B5dd.jpg?alt=media&token=01f0ea69-f886-46c1-8999-92fa5781c934)

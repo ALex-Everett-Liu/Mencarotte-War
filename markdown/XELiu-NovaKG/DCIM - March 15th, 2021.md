@@ -10,3 +10,5 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F7MBZ-GMPxO.png?alt=media&token=534407a5-273b-4dc7-8a81-614596442066)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fwf_df8EWT8.png?alt=media&token=863bf141-dd2f-4b5d-8b62-a78cfe32a731)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F5rX5tJ0pac.png?alt=media&token=2a06b9de-02e1-413e-b589-77f37e9b641d)
+- 星期一 15/03/2021 15:30 -- MOV_0124 #pt10-100 #[[black coat]] # light grey trousers #[[white sneaker]]   164~166 cm?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1eLukPC80o.jpg?alt=media&token=f0a1e3be-c31f-40ab-9f09-c61434dc366b)

@@ -3,6 +3,7 @@
     - [[ponytail]]
         - dual ponytail
         - [[short ponytail]]
+            - 扎起来的短马尾
 - [[headgear]]
 - 发卡
     - middle faqia

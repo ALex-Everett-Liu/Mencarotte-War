@@ -1,6 +1,7 @@
 - [[王冰冰 (Wang Bingbing)]]
 - [[西野七濑 (Nishino Nanase)]]
 - [[金美子 (Jin Meizi)]] #pt10-100
+- [[绮太郎kitaro]] #pt10-100
 - [[胡博文 (Hu Bowen)]] #pt10-99.99
 - [[李琳玥 (Li Linyue)]] #pt10-99.99
 - [[一只废喵 (Haiyi Neko)]]
