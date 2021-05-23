@@ -6,6 +6,7 @@
 - [[historical geography]]
 - [[Inner Asia]]
     - [[Japan]]
+    - [[Tibet]]
 - #inbox
     - {{[[TODO]]}} history book purchase
         - https://book.douban.com/subject/35073877/

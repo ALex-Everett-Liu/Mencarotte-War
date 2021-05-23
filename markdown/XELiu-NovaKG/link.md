@@ -4,7 +4,7 @@
 - custom link
 - diagonal link
 - direct link; forward-link
-- [[external link]]
+- [[external link]]; external article
 - find the path
 - [[hovered]]
 - [[hyperlink]]

@@ -1,6 +1,7 @@
 - [[article]], [[essay]], [[sci/paper]]...
     - [[chapter]]; [[section]]
     - [[source]]; [[reference]]
+- [[peer-reviewed]];
 - tool...
     - [[Google Scholar]]
 - #inbox

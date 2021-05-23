@@ -1,4 +1,4 @@
-- block; bullet
+- [[block]]; [[bullet]]
     - block level
     - block-level addressability
     - [[block reference]]; referenced block
@@ -86,6 +86,7 @@
 思路是 quicker 的 zotero 摘录助手，边看边摘录
     - 需求: 类似 Notion 的 Database
 类似于可以[自定义一系列页面属性]，将[页面列表][以表格形式展示]，[在前端支持][多种页面属性][来组织DB](https://cn.logseq.com/t/topic/819)。 #pt7-99.99
+    - [logseq 嵌入 draw.io 图形导航](https://cn.logseq.com/t/topic/434) #pt7-99.98
     - Evernote 没有抄到双链的[精髓](https://www.zhihu.com/question/439739387)。
         - Trace back/forward
         - 最要命的是 Block level references，这个如果不解决，怎么抄都不像。一个知识和[另一个知识点]的链接产生在一部分中，如果如果只是Page level的references的话那么跟[打标签][没有实质区别]。 #pt7-99.98

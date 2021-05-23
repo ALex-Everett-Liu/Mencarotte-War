@@ -2,6 +2,7 @@
 - expand the article;
 - reference check
 - related reading; related article
+    - [[external link]]; external article
     - [[further reading]]
 - [[stub]]
 - Wikimedia Commons

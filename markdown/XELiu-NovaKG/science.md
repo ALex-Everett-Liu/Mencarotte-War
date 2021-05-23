@@ -18,7 +18,7 @@
     - [[Scientific American]]
 - [[prize]]
 - [[research]]; [[researcher]]
-    - collaborative research
+    - [[collaborative research]]
     - [[cutting-edge research]]
     - [[early prototype]]
     - [[invention]]

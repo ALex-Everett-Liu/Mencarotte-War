@@ -23,7 +23,7 @@
     - arithmetic expression;
     - evaluation of expressions;
 - function...
-    - [[argument]]: 参数, 自变量;
+    - [[cs/argument]]: 参数, 自变量;
     - [[in-built function]]
     - standard library function
 - [[literate programming]]

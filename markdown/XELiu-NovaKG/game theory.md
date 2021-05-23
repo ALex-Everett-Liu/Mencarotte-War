@@ -1,4 +1,4 @@
-- decision-making; [[decision making]]
+- [[decision-making]]; [[decision making]]
     - [[better-informed decision]]
     - [[problem-solving]]
     - [[prediction market]]

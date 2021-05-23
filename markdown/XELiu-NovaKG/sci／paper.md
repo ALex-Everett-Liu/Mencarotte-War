@@ -7,6 +7,6 @@
 - [[overview]]
 - [[preface]]
 - [[review]]: 综述
-- [[scientific paper]]; academic paper
+- [[scientific paper]]; academic paper; [[research paper]]
     - [[conference paper]]
 - [[summary]]

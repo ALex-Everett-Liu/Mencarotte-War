@@ -1,5 +1,6 @@
 - collaboration tool
 - [[collaborator]]; co-worker; colleague
 - [[coordination problem]]
+- [[collaborative research]]; [[collaborative reasoning]]
 - [[group]]; [[organization]]
 - [[large-scale collaboration]]

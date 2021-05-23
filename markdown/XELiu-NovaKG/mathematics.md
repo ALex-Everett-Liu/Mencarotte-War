@@ -22,3 +22,4 @@
 - [[statistics]]
     - [[data analysis]]
     - [[probability theory]]
+- [[systems theory]]

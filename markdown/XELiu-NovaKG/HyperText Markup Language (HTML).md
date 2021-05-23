@@ -6,3 +6,8 @@
     - opening tag; closing tag
         - opening paragraph tag; closing paragraph tag
 - iframe; iframe embed
+- ---
+- example snippets...
+    - stage1st
+        - <img id="aimg_Jhcag" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" file="http://wx1.sinaimg.cn/large/006mHjocgy1gqp83dnx0hg30f00qo4qv.gif" onmouseover="img_onmouseoverfunc(this)" lazyloadthumb="1" border="0" alt="" /><br />
+            - lazy load thumb; 

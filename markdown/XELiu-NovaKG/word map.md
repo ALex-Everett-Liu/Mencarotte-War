@@ -330,9 +330,10 @@
             - for
                 - form
                     - [[formula]], 2
-                        - formulate; formulated; formulation; formulize
+                        - formulate: 制订; 规划; 构想; 准备; 确切表达; 认真阐述; formulated;
                             - elaborate, as of theories and hypotheses;
                                 - Could you develop the ideas in your thesis
+                        - formulation, 2; formulize
         - fr
             - fracted
                 - fractal

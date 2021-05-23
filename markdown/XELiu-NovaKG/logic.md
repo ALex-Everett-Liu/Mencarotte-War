@@ -1,12 +1,19 @@
 - abstract...
     - abstract noun
-- [[argument analysis]]
+- [[argument]]: 论据, 论证, 争论
+    - [[certainty]]
+    - [[conclusion]]
+    - [[premise]]
+        - combine all premises;
+    - [[proposition]]: 命题, 提案; 主张, 建议;
+        - [[primary proposition]]: 基本命题
+    - [[statement]]
+        - [[compound statement]]
+    - [[true]]; [[false]];
+        - [[both true]];
 - [[cognitive bias]]
 - general...
-    - [[logical conclusion]]
 - [[heuristic]]
-- [[proposition]]: 命题, 提案; 主张, 建议;
-    - [[primary proposition]]: 基本命题
 - [[reasoning]]; [[inference]]
     - [[Bayesian reasoning]]; [[Bayesian inference]]
         - [[belief network]]

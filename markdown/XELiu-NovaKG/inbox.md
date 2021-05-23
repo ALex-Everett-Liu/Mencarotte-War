@@ -17,7 +17,9 @@
         - https://archive.is/
     - ---
     - webpage
+        - DSC_8076-pt10-100
         - 8f5945 -- pt10-99.99
+0u0grx -- pt10-99.99
         - https://www.nicovideo.jp/watch/sm38701181
         - https://www.youtube.com/watch?v=M4DC8rLRytI
         - https://www.zhihu.com/people/jin-wei-66-63

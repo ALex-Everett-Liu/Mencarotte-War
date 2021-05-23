@@ -19,6 +19,7 @@
 - [[pane]]
 - [[scrollbar]]
 - [[sidebar]]
+- [[slider]]
 - style; styling...
     - [[theme]]
 - [[tab]]
