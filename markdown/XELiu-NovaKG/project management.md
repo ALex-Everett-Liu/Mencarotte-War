@@ -1,10 +1,11 @@
 - [[cheat sheet]]
 - check form; check box...
     - [[checklist]]; 
+- [[complicated project]];
 - [[job scheduler]]
 - long-term project
 - [[priority]]
     - [[deadline]]
 - [[project planning]]
 - sample project
-- [[task management]]
+- [[task management]]; [[task]]

@@ -218,7 +218,7 @@
                 - criminal; criminate
                     - discriminate
                         - indiscriminately;
-            - critic
+            - critic; critics
                 - criteria
                     - [[arbitrary criteria]]: 任意标准, 武断标准;
                     - criterion;
@@ -768,6 +768,8 @@
     - t
         - tr
             - tra
+                - [[trace]]
+                    - trace backwards to: 追溯回;
                 - track
                     - [[track down]]: 追捕, 追获;
                     - tracker;

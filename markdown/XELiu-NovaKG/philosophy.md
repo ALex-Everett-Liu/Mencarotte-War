@@ -1,4 +1,4 @@
-- [[belief]]; [[common knowledge]]
+- [[belief]]; [[common knowledge]]; [[common sense]]; [[common-sense statement]]
     - [[belief network]]
     - [[underlying belief]]
 - death

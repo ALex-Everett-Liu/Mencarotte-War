@@ -12,6 +12,8 @@
         - [[primary proposition]]: 基本命题
     - [[statement]]
         - [[compound statement]]
+        - [[controversial statement]]; [[common-sense statement]]
+        - easy-to-defend; hard-to-defend; motte-and-bailey
     - [[true]]; [[false]];
         - [[both true]];
 - [[cognitive bias]]

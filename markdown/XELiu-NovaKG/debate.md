@@ -1,3 +1,4 @@
+- [[cross-purpose]]: 自相矛盾的目的;
 - [[discussion]]
 - [[eloquence]]; [[oratory]]; rhetoric
 - position: 立场
