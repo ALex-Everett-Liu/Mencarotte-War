@@ -5,11 +5,9 @@
     - [[English]]
     - [[Korean]]
 - general...
-    - term
-        - general term; generic term
-        - [[glossary]]
-        - technical term
+    - [[term]]
     - everyday language
+    - [[natural language]]
 - [[input method (IME)]]
 - letter
     - [[alphabet]]

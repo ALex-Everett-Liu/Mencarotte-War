@@ -74,6 +74,7 @@ cast into a drawer: 扔进抽屉里
     - [2] [[Scientific American]]: New [Estimate] Boosts the Human Brain's [[memory capacity]] [10-Fold].
     - [3]: [Microelectronics]([[microelectronics]]) pioneer [[Carver Mead]], who coined the term [[Moore’s Law]], correctly predicted in 1990 that [present-day computers] would use ten million times more energy for a single [[instruction]] than [the brain uses for] a [[synaptic activation]]. 
 201123-12:20
+    - [4]: This [[example]] is [adapted from] 改编自 the Less Wrong sequence 37 Ways Words Can be Wrong.
 - ### [Further Reading]([[further reading]])
     - Daniel Kahneman, __Thinking, Fast and Slow__
     - Robin Hanson, __Could Gambling Save Science?__ #gambling 

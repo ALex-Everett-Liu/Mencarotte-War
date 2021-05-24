@@ -1,5 +1,9 @@
+- [[belief]]; [[common knowledge]]
+    - [[belief network]]
+    - [[underlying belief]]
 - death
     - 对死亡的恐惧;
+- [[debate]]; [[speech]]
 - existential; [[existential philosophy]]
 - general...
     - [[collective view]];

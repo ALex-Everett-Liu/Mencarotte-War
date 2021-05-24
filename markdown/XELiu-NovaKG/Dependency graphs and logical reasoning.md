@@ -20,3 +20,15 @@ If ( (73qfpWUie) ) and (Abv0yk7zT) then (eyR_sF2Hr)
 (wow, 正好在半年后重新回顾这一小节)
         - Roam allows [individual researchers] or [[writer]]s to [organize all the claims] they [wish to make]([[make the claim]]) [across a number of different projects]. It also [creates opportunities for]([[opportunity]]) large-scale [[interdisciplinary]] [[research project]]s. When [teams of interested collaborators]([[collaborator]]) have an [[agreed-upon structure]] for [[formatting arguments]] and [counterarguments], 当感兴趣的合作者的团队达成商定一致的结构时 [it is possible to] create [[expandable]] [[user interface (UI)]]s which “bubble up” [[insight]] from claims which [require expertise]([[expertise]]), to ones that are [more easily understood by] [laypersons]. 外行
 201123-23:03
+        - The [[ambiguity]] of [[natural language]] [derails many discussions]([[discussion]]). Unless [[term]]s are [[clearly defined]] [from the outset], any form of argument is futile, and [will often end up] entrenching the [[initial position]]s of the interlocutors.
+            - derail: tuogui13, chugui13, xianrukunjing4444
+outset: zhuoshou23, kaitou12, zuichu41
+            - entrenching: 使处于牢固地位; 牢固确立
+interlocutor: 参加谈话者; 中间对话者
+            - Example A: Alice:  "A tree falling in a [deserted forest] [makes a sound]." 荒芜森林 
+Bob:  "A tree falling in a deserted forest does not make a sound."
+            - Example B: Alice:  "A tree falling in a deserted forest generates [[acoustic vibration]]s."
+Bob:  "A tree falling in a deserted forest does not generate [[auditory experience]]s." [4](((VKYBpUhDe))) `{ { alias: ( (1597) ) 4 } }` 
+            - While these positions are [[contradictory position]]s [as expressed in] Example A, simply [defining the term] ‘sound’ reveals the [[underlying belief]]s are entirely [[compatible]]. 
+201124-00:10
+(更加明确地定义你所使用的术语，使得自然语言背后的由常识所构成的信念更为清晰无误)

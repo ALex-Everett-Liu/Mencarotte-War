@@ -1,0 +1,18 @@
+- [[discussion]]
+- [[eloquence]]; [[oratory]]; rhetoric
+- position: 立场
+    - [[contradictory position]]: 矛盾立场; [[compatible]]: 相容的;
+    - [[initial position]]
+- dictionary 
+    - The event was to launch a schools' [debating competition]. www.[ftchinese].com
+    - [The debate next week] is [Nankai University] versus [Peking University]. www.[hjenglish].com
+    - [How many teams] will be [participating in the debate]? www.[59edu].com
+    - He [displayed determination as well as] [powerful oratory]([[oratory]]). 《柯林斯高阶英汉双解学习词典》
+    - The skill or power of [using such discourse]. provided by jukuu
+    - He [roused the masses] [with his oratory]. 
+    - [Eloquence]([[eloquence]]) [flourish most in Rome when] [public affairs](((qxj68Q5Zh))) [be in the worst condition]. www.[[dictall]].com
+    - The paper tries to combine [western rhetoric theory] and [PAC theory] to explore [audience analysis] 受众分析 and [effective cross-cultural communication] thus to [enlarge the scope of] [cross-cultural research]. 
+    - A summary of the [comparative study] of the [teaching ideology] in on Learning & the Rhetoric Principles. dict.cnki.net
+    - 1999 saw the publication of Michael Kearns's Rhetorical Narratology, which is unique in taking [speech act theory] as the [theoretical ground]. 
+    - [On the Significance of] Debates for Cultivating College Students' Quality 
+    - Intercollegiate Debate Discourse: [From a Perspective of] [Speech Activity Type] 大专

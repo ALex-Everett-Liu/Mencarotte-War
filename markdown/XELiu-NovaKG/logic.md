@@ -4,6 +4,7 @@
     - [[certainty]]
     - [[make the claim]];
     - [[conclusion]]
+    - [[clearly defined]];
     - [[evidence]]
     - [[premise]]
         - combine all premises;

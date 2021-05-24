@@ -1,4 +1,4 @@
-- [[disambiguation]]
+- [[ambiguity]]; [[disambiguation]]
 - expand the article;
 - reference check
 - related reading; related article

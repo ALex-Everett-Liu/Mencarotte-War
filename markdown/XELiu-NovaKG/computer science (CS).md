@@ -1,6 +1,7 @@
 - [[artificial intelligence (AI)]]
 - [[data analysis]]
 - [[data structure]]
+- [[natural language]]; [[natural language processing (NLP)]]
 - Operating System (OS); [[operating system (OS)]];
 - [[programming]]; [[programming language]]
 - [[search]]

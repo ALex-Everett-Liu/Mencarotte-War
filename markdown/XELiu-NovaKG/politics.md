@@ -39,6 +39,7 @@
     - emergency vehicle
         - fire engine
         - ambulance
+    - public affair;
     - [[public service]]
     - public spending
     - public feelings
