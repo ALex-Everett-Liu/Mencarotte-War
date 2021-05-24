@@ -550,6 +550,8 @@
                         - department
                         - departure, 2
                     - partial; partially
+                    - participate
+                        - [[participant]];
                     - particle
                         - particular
                     - partisan: 党羽, 效忠, 虔诚信徒;
@@ -834,6 +836,12 @@
                         - verifiable; [[verification]]
                         - unverified; verified;
                     - verity
+    - w
+        - wa
+            - ward
+                - ward off: bikai41, duokai31, fangzhi23;
+            - wave
+                - wavelength
 - Japanese
     - 駆け上がる [kakeagaru]
         - 【自动词・五段/一类】

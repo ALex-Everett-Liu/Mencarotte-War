@@ -75,6 +75,8 @@ cast into a drawer: 扔进抽屉里
     - [3]: [Microelectronics]([[microelectronics]]) pioneer [[Carver Mead]], who coined the term [[Moore’s Law]], correctly predicted in 1990 that [present-day computers] would use ten million times more energy for a single [[instruction]] than [the brain uses for] a [[synaptic activation]]. 
 201123-12:20
     - [4]: This [[example]] is [adapted from](((lYmxwkcFA))) the Less Wrong sequence 37 Ways Words Can be Wrong.
+    - [5]: Motte-and-bailey refers to [arguing]([[argue]]) an [easy-to-defend] and often [[common-sense statement]] (the motte), [in order to](((aCf6CVWYv))) [ward off critics] from a [hard-to-defend] and more [[controversial statement]] (the bailey). [The term was popularised by] [Scott Alexander], and explained in [All in All, Another Brick in the Motte]. 城寨; 城堡
+201124-01:00
 - ### [Further Reading]([[further reading]])
     - Daniel Kahneman, __Thinking, Fast and Slow__
     - Robin Hanson, __Could Gambling Save Science?__ #gambling 

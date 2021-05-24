@@ -28,11 +28,8 @@ interlocutor: 参加谈话者; 中间对话者
             - Example A: Alice:  "A tree falling in a [deserted forest] [makes a sound]." 荒芜森林 
 Bob:  "A tree falling in a deserted forest does not make a sound."
             - Example B: Alice:  "A tree falling in a deserted forest generates [[acoustic vibration]]s."
-Bob:  "A tree falling in a deserted forest does not generate [[auditory experience]]s." [4](((VKYBpUhDe))) `{ { alias: ( (1597) ) 4 } }` 
+Bob:  "A tree falling in a deserted forest does not generate [[auditory experience]]s." [4](((VKYBpUhDe))) `{{alias:((1597))4}}` 
             - While these positions are [[contradictory position]]s [as expressed in] Example A, simply [defining the term] ‘sound’ reveals the [[underlying belief]]s are entirely [[compatible]]. 
 201124-00:10
 (更加明确地定义你所使用的术语，使得自然语言背后的由常识所构成的信念更为清晰无误)
-        - The ability to [use clearly defined sets] within a [[dependency graph]] helps to [resolve ambiguity]([[ambiguity]]), [reducing the chances of] [[participant]]s talking at [[cross-purpose]]s, or deliberate “[[motte-and-bailey]]” style [[strategic equivocation]]. `{ { alias: ( (1598) ) 5 } }`
-            - [5]: Motte-and-bailey refers to [arguing]([[argue]]) an [easy-to-defend] and often [[common-sense statement]] (the motte), in order to [ward off critics] from a [hard-to-defend] and more [[controversial statement]] (the bailey). [The term was popularised by] [Scott Alexander], and explained in [All in All, Another Brick in the Motte]. 城寨; 城堡
-201124-01:00
-            - ward off: bikai41, duokai31, fangzhi23
+        - The ability to [use clearly defined sets] within a [[dependency graph]] helps to [resolve ambiguity]([[ambiguity]]), [reducing the chances of] [[participant]]s talking at [[cross-purpose]]s, or deliberate [“motte-and-bailey” style]() [[strategic equivocation]].[5](((MFY2n1R_c))) `{ { alias: ( (1598) ) 5 } }`
