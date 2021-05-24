@@ -1,5 +1,6 @@
 - [[attribute]]
 - [[graph database]]
+    - [[dependency graph]]
     - [[directed graph]]
     - restore the graph;
 - [[field]]: 域, 字段; [[data field]]; 列属性

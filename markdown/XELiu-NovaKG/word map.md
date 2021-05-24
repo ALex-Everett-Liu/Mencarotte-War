@@ -23,6 +23,7 @@
         - ad
             - adapt
                 - adaptable; adapted; adapting; adaptation
+                - adapted from: 改编自;
             - address
                 - addressed; addressing;
             - adhocery

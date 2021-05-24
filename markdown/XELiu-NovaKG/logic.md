@@ -1,6 +1,6 @@
 - abstract...
     - abstract noun
-- [[argument]]: 论据, 论证, 争论
+- [[argument]]: 论据, 论证, 争论; [[argue]]
     - [[certainty]]
     - [[make the claim]];
     - [[conclusion]]
