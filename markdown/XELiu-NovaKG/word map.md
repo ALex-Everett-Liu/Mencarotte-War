@@ -268,6 +268,8 @@
             - deviate: 脱离, 偏离, 越轨;
                 - deviant
         - di
+            - [[diagram]]
+                - diagrammed, 2; diagram image;
             - dictate, 2
                 - dictation;
                 - dictator: 独裁者; 发号施令者

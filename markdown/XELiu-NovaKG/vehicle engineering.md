@@ -1,3 +1,4 @@
 - [[automotive engineering]]
+- [[cruise control]]: 巡航控制
 - [[driver]]
 - [[rear-view mirror]]

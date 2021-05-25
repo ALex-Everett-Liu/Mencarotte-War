@@ -2,7 +2,7 @@
 - the mathematics of feedback;
 - [[negative feedback]]
 - [[positive feedback]]
-- [[self-regulating mechanism]]
+- [[self-regulating mechanism]]: 自我调节机制
 - ---
 - Feedback occurs when [outputs of a system]([[system output]]) are [routed back as inputs] as part of [a chain of cause-and-effect]([[cause-and-effect chain]]) that forms a [[circuit]] or [[loop]].[1] The system [can then be said to] [feed back into itself]. The notion of cause-and-effect has to be [handled carefully] when applied to [[feedback system]]s:
 210525-12:15
@@ -24,4 +24,5 @@
         - Positive feedback: If [the signal feedback from output](((p49eJTP10))) is [[in phase]] with the [[input signal]], the feedback is called [[positive feedback]].
         - Negative feedback: If [the signal feedback] is of [[opposite polarity]] or [[out of phase]] by 180° [with respect to input signal], the feedback is called as [[negative feedback]].
 210525-16:00
-        - As an example of negative feedback, the diagram might represent a cruise control system in a car, for example, that matches a target speed such as the speed limit. The controlled system is the car; its input includes the combined torque from the engine and from the changing slope of the road (the disturbance). The car's speed (status) is measured by a speedometer. The error signal is the departure of the speed as measured by the speedometer from the target speed (set point). This measured error is interpreted by the controller to adjust the accelerator, commanding the fuel flow to the engine (the effector). The resulting change in engine torque, the feedback, combines with the torque exerted by the changing road grade to reduce the error in speed, minimizing the road disturbance.
+            - [As an example of] negative feedback, the [[diagram]] might represent a [[cruise control]] system in a car, for example, that matches a [[target speed]] such as the [[speed limit]]. The [controlled system] is the car; its input includes the [[combined torque]] from the engine 来自发动机的组合扭矩 and from [the changing slope of the road]([[road slope]]) (the [[disturbance]]). The car's speed ([[status]]) is measured by a [[speedometer]]. 
+                - The [[error signal]] is [the departure of the speed] as [measured by the speedometer] from the target speed ([[set point]]). [This measured error] is interpreted by the [[controller]] to [adjust the accelerator], commanding the fuel [flow to the engine] 指令燃油流向发动机 (the [[effector]]). The [resulting change] in [engine torque], the feedback, combines with [the torque exerted by](((0lMFkh8z7))) the [changing road grade] 与不断变化的道路坡度施加的扭矩相结合 to [reduce the error in speed], minimizing the [road disturbance].

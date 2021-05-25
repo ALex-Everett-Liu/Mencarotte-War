@@ -1,0 +1,2 @@
+- [[combined torque]]: 组合扭矩; the torque exerted by which part: 施加的扭矩;
+- [[steam engine]]
