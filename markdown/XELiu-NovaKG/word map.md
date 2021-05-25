@@ -269,6 +269,7 @@
                 - deviant
         - di
             - [[diagram]]
+                - [[block diagram]]; 
                 - diagrammed, 2; diagram image;
             - dictate, 2
                 - dictation;
