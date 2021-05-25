@@ -3,6 +3,7 @@
 - [[金美子 (Jin Meizi)]] #pt10-100
 - [[绮太郎kitaro]] #pt10-100
 - [[胡博文 (Hu Bowen)]] #pt10-99.99
+- [[方子萱 (Fang Zixuan)]] #pt10-100
 - [[李琳玥 (Li Linyue)]] #pt10-99.99
 - [[一只废喵 (Haiyi Neko)]]
 - [[猫九酱Sakura]] #pt10-99.99
@@ -13,6 +14,7 @@
 - [[Eunji Pyoapple (표은지)]] #pt10-99.99
 - [[唐嫣 (Tang Yan)]] -- #pt9-100
 - [[程媛媛 (Cheng Yuanyuan)]]
+- [[苏小曼 (Su Xiaoman)]] #pt9-100
 - [[金梓琳 (Jin Zilin)]] #pt9-99.99
 - [[李小璐 (Li Xiaolu)]]
 - [[白冰 (Bai Bing)]]
@@ -21,3 +23,5 @@
 - [[倪妮 (Ni Ni)]] -- pt9-100
 - [[何嘉颖 (He Jiaying)]] #pt9-100
 - [[桃香子 (taoxiangzi)]] #pt9-99.99
+- korea chemo 01 -- #pt8-99.99
+- 袁姗姗 (Yuan Shanshan) -- pt8-99.97

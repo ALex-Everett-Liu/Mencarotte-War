@@ -2,3 +2,7 @@
 - [[cruise control]]: 巡航控制
 - [[driver]]
 - [[rear-view mirror]]
+- [[road slope]]; changing road grade
+- speed
+    - [[speed limit]]
+    - [[target speed]]
