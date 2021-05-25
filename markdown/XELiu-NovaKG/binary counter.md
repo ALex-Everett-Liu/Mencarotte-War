@@ -1,0 +1,6 @@
+- dictionary 
+    - The Method of How [Integrated Counter] to [Realize any Binary Counter]. dict.cnki.net
+    - The [design procedure] consists in: 1. design a binary counter [with an ordinary method]; 
+    - A design of [four bit binary counter] with ispLSI 
+    - This is a [straightforward approach] that can make a binary counter [count to any number]. www.[dictall].com
+    - Single core binary counter 单磁心

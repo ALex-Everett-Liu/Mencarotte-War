@@ -1,10 +1,13 @@
-- analyze the system as a whole;
+- analyze the system as a whole; the properties of the whole
+    - complete information;
 - [[circuit]]; [[loop]]
 - [[complex system]]
 - [[control theory]]
-- input and output
+- [[linear system]]; [[non-linear system]]
+- [[organizational theory]]
+- input and output; signal
     - causal input;
+    - [[error signal]]
     - [[input signal]]
     - the signal feedback from output;
     - [[system output]]
-- [[organizational theory]]

@@ -1,3 +1,6 @@
+- [[binary counter]]
+    - clock back into the device;
+    - [[current state]]; calculate a new state
 - company
     - [[Apple Company]]
     - [[Lenovo]]
@@ -5,7 +8,8 @@
 - display
     - high contrast
     - [[screen]]
-- electronic device; digital device
+- [[electronic device]]; [[digital device]]
+    - [[digital system]]
     - device type;
     - smart device
 - [[firmware]]

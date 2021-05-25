@@ -1,8 +1,15 @@
+- [[bipolar feedback]]
+- [[controller]]
+- [[disturbance]]
+- [[effector]]: 效应器
 - [[feedback loop]]
+    - [[multiple loops]]
 - the mathematics of feedback;
 - [[negative feedback]]
 - [[positive feedback]]
 - [[self-regulating mechanism]]: 自我调节机制
+- [[set point]]: 设定值
+- [[status]]; [[measuring element]]
 - ---
 - Feedback occurs when [outputs of a system]([[system output]]) are [routed back as inputs] as part of [a chain of cause-and-effect]([[cause-and-effect chain]]) that forms a [[circuit]] or [[loop]].[1] The system [can then be said to] [feed back into itself]. The notion of cause-and-effect has to be [handled carefully] when applied to [[feedback system]]s:
 210525-12:15
@@ -26,6 +33,19 @@
 210525-16:00
             - [As an example of] negative feedback, the [[diagram]] might represent a [[cruise control]] system in a car, for example, that matches a [[target speed]] such as the [[speed limit]]. The [controlled system] is the car; its input includes the [[combined torque]] from the engine 来自发动机的组合扭矩 and from [the changing slope of the road]([[road slope]]) (the [[disturbance]]). The car's speed ([[status]]) is measured by a [[speedometer]]. 
                 - The [[error signal]] is [the departure of the speed] as [measured by the speedometer] from the target speed ([[set point]]). [This measured error] is interpreted by the [[controller]] to [adjust the accelerator], commanding the fuel [flow to the engine] 指令燃油流向发动机 (the [[effector]]). The [resulting change] in [engine torque], the feedback, combines with [the torque exerted by](((0lMFkh8z7))) the [changing road grade](((lIYxvnhKO))) 与不断变化的道路坡度施加的扭矩相结合 to [reduce the error in speed], minimizing the [road disturbance].
+210526-04:15
                 - ![set-point control](https://upload.wikimedia.org/wikipedia/commons/e/ee/Set-point_control.png)
                 - [[block diagram]] of negative feedback to [maintain a set point]([[set point]]) 保持设定值   #[[measuring element]]
                     - [Nitrate control] 硝酸氮控制 aims at the [optimal use of] the [denitrification potential] 缺氧区反硝化潜力 at any moment by [continuously adjusting] the [internal recirculation flow] 内循环回流量 or (and) [external carbon addition flow] 外碳源投加量 in order to [maintain a desired nitrate set point] [in the anoxic zone]. 缺氧区末端硝酸氮浓度 dict.cnki.net
+        - Limitations of negative and positive feedback
+            - While [simple systems] [can sometimes be described as] [one or the other type], [many systems with feedback loops] [cannot be so easily designated as simply] positive or negative, and [this is especially true when] [[multiple loops]] are present.
+                - When [there are only two parts joined] so that [each affects the other], [the properties of the feedback] [give important and useful information about] [the properties of the whole](((2ERIl2IZu))). But [when the parts rise to] [even as few as four], if every one affects the other three, then twenty circuits [can be traced through them]; and knowing the properties of all the twenty circuits [does not give complete information about](((pFQCI1GuU))) the system. [10] (p54)
+(仅仅当反馈回路中的部件数量增大到4个时，我们就能追踪到20个回路，并且其所有部分的性质之总和仅能给出整个系统的一小部分信息)
+210526-04:25
+    - Other types of feedback
+        - In general, feedback systems [can have many signals fed back] and the feedback loop [frequently contain mixtures of] [positive and negative feedback] where positive and negative feedback can [dominate at different frequencies](((p5wb7oZ8r))) or different points in the [[state space]] of a system.
+        - The term [[bipolar feedback]] [has been coined to refer to] [[biological system]]s where [positive and negative feedback systems can interact], [the output of one] [affecting the input of another], and vice versa.[24]
+210526-04:35
+        - [Some systems with feedback] can have very [[complex behavior]]s such as [[chaotic behavior]]s in [[non-linear system]]s, while others [have much more predictable behaviors], [such as those that are used to] make and design [[digital system]]s.
+            - Feedback is [used extensively in] digital systems. For example, [[binary counter]]s and [similar devices] [employ feedback] where the [[current state]] and inputs are used to [calculate a new state](((btrA1_APN))) which is then [fed back and clocked back into the device](((2Yc5yOwb5))) to update it. 反馈并记录到设备中
+210526-04:45

@@ -1,3 +1,5 @@
+- [[complex behavior]];
 - [[complex problem]]; [[complicated problem]]
 - [[complexity]]
+- dominate at different frequencies;
 - [[feedback]]; [[feedback system]]; [[feedback device]]; feedback control theory

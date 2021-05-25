@@ -5,4 +5,5 @@
 - [[road slope]]; changing road grade
 - speed
     - [[speed limit]]
+    - [[speedometer]]
     - [[target speed]]
