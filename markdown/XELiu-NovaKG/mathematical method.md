@@ -1,3 +1,8 @@
+- [[approximation]]
+    - [[accuracy]]; [[accurate]]
+    - first approximation
+    - negligible effect
+    - valid
 - conditions...
     - finite region
     - infinitely small thicknesses

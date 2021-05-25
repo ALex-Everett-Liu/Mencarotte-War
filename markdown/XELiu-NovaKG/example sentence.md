@@ -23,11 +23,14 @@
 - www.[fabiao].net
 - www.[[fortunechina]].com
 - www.[[ftchinese]].com
+    - It needs to [find a route back to profit]. 扭亏为盈的路径
 - www.[[hjenglish]].com
 - www.[hxen].com
     - But the "measure problem" makes [calculating this value] impossible.
 - provided by [[jukuu]]; www.[jukuu].com
     - She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 
+    - They were [looking for a route] [back to reality]. 
+    - One is still en route [back to the planet]. 
     - ---
     - However, I would like to [set the record straight on a few points]. 
     - I'd like to set the record straight. I didn't do it. 纠正一下, 澄清事实
@@ -36,6 +39,7 @@
     - ---
 - www.[[kekenet]].com
 - 《牛津高阶英汉双解词典》
+    - They took the [scenic route](((5n3Dw9NHj))) 景色优美的路线 [back to the hotel]. 
 - www.[[okread]].info
     - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
     - ---

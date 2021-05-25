@@ -1,4 +1,5 @@
-- [[cause-and-effect chain]]
-- [[causal effect]]
+- [[cause-and-effect chain]]; cause and effect; [[causal effect]]
 - [[causal path]]
-- [[nonlinear causality]]
+- [[causal reasoning]]
+- [[linear causality]]; [[nonlinear causality]]
+- [[root cause]]

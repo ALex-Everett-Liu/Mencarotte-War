@@ -18,6 +18,7 @@
             - [[feature]]...
             - last mile
             - meet the need
+            - [[pain point]]: 痛点
             - [[user experience (UX)]]
         - [[user service]]
 - [[product manager]]

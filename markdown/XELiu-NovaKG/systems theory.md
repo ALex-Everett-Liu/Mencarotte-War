@@ -1,3 +1,7 @@
+- analyze the system as a whole;
 - [[circuit]]; [[loop]]
 - [[complex system]]
+- input and output
+    - causal input;
+    - [[system output]]
 - [[organizational theory]]

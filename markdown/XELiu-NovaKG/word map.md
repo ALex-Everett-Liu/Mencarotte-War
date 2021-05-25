@@ -329,6 +329,12 @@
                     - infinite
         - fo
             - for
+                - force
+                    - [[reinforce]]
+                - fore
+                    - foreword
+                - forge
+                    - forging: duanzao44, zhizuo44, jianli44, jiaqiang12;
                 - form
                     - [[formula]], 2
                         - formulate: 制订; 规划; 构想; 准备; 确切表达; 认真阐述; formulated;
@@ -366,6 +372,9 @@
             - guide
                 - misguided;
             - guise: 表现形式; 外貌; 伪装
+            - guile
+                - guilt: 内疚
+                - guilty
     - h
         - he
             - hetero

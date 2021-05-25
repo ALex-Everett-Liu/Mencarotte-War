@@ -8,5 +8,5 @@
 - [[heart disease]]
 - personal care and service occupations: 个人护理和服务职业
 - [[pharmacy]]
-- [[symptom]]
+- [[symptom]]; clusters of symptoms
 - [[treat]]
