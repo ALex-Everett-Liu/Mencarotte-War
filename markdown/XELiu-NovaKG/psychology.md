@@ -2,4 +2,7 @@
     - 打断思路
 - [[mental pressure]]
 - [[neuropsychology]]
-- [[suicide]]
+- [[psychiatry]]: 精神病治疗学
+    - [[depression]]
+        - [[major depression (MD)]]: 重性抑郁症
+    - [[suicide]]

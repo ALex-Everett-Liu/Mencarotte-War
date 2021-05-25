@@ -1,3 +1,4 @@
+- acquire the skill;
 - [[higher education]]
 - [[learning]]...
 - [[pedagogy]]: 教学法

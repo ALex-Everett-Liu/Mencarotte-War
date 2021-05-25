@@ -450,6 +450,17 @@
                     - conjunction;
             - junior
     - l
+        - la
+            - late
+                - latent: 潜伏, 隐藏;
+            - lateral: 侧面
+            - laugh
+            - launch
+                - launched;
+            - lay
+                - layer
+                - laying;
+                - layout
         - li
             - literal
                 - literally; lit.: 逐字地, 照字面意义;
@@ -766,6 +777,15 @@
             - swing
                 - swung;
     - t
+        - ta
+            - tab
+                - table;
+            - tact
+                - tactic
+            - take
+                - take off;
+            - tangle
+                - untangle: 解开, 理清;
         - tr
             - tra
                 - [[trace]]

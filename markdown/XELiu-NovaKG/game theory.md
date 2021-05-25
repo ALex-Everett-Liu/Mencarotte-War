@@ -1,5 +1,6 @@
 - [[decision-making]]; [[decision making]]
     - [[better-informed decision]]
+    - map out the fastest route: 制订最速路线;
     - [[problem-solving]]
     - [[prediction market]]
-- [[trade-off]]
+- [[tradeoff]]; [[trade-off]];

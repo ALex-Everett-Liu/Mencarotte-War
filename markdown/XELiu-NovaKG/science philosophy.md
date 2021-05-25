@@ -1,0 +1,2 @@
+- [[causality]]
+- [[observable variable]]; [[invisible variable]]; [[latent variable]]

@@ -77,6 +77,9 @@ cast into a drawer: 扔进抽屉里
     - [4]: This [[example]] is [adapted from](((lYmxwkcFA))) the Less Wrong sequence 37 Ways Words Can be Wrong.
     - [5]: Motte-and-bailey refers to [arguing]([[argue]]) an [easy-to-defend](((EUE-J-BVz))) and often [[common-sense statement]] (the motte), [in order to](((aCf6CVWYv))) [ward off critics](((Rqz2w_hsJ))) from a [hard-to-defend] and more [[controversial statement]] (the bailey). [The term was popularised by] [Scott Alexander], and explained in [All in All, Another Brick in the Motte]. 城寨; 城堡
 201124-01:00
+    - [6]: Slate Star Codex: __mental disorders as networks.__ 石板星抄本 #[[mental disorder]]
+    - [7]: Michèle B. Nuijten, Marie K. Deserno, Angélique O. J. Cramer, Denny Borsboom: An [[introduction]] and [[overview]] of a [[network approach]] to [[psychopathology]].
+201124-23:20
 - ### [Further Reading]([[further reading]])
     - Daniel Kahneman, __Thinking, Fast and Slow__
     - Robin Hanson, __Could Gambling Save Science?__ #gambling 

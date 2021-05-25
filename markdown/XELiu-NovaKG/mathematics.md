@@ -17,7 +17,7 @@
 - [[logic]]
 - [[mathematical modeling]]
 - [[mathematician]]
-- [[proof]]; prove
+- [[mathematical proof]]; [[proof]]; prove
 - [[set theory]]
 - [[statistics]]
     - [[data analysis]]

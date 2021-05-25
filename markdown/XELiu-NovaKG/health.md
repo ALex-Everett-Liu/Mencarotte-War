@@ -1,4 +1,5 @@
 - [[exercise]]
+- [[fatigue]]: 疲劳
 - health management
 - [[sleep]]
 - [[World Health Organization (WHO)]]

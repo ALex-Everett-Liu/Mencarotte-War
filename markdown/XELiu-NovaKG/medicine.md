@@ -1,6 +1,12 @@
 - anatomy
     - ocular anatomy: 眼部解剖
 - [[diabetes]]: 糖尿病
+- [[disorder]]
+- [[doctor]]; [[patient]]
+- [[flu]]
+    - [[influenza virus]]
 - [[heart disease]]
 - personal care and service occupations: 个人护理和服务职业
 - [[pharmacy]]
+- [[symptom]]
+- [[treat]]

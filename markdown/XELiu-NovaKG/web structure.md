@@ -1,11 +1,12 @@
 - [[link]]
 - birds-eye view
+- [[complex web]];
 - [[networked science]]
     - [[dynamic network]]
     - [[networked thought]]
     - [[node]]
         - [[nodal network]]
-- relation, [[connection]]...
+- relation, [[relationship]], [[connection]]...
     - weight...
         - [[assigned weightings]]
     - [[defined relationship]]; [[relationship strength]]
