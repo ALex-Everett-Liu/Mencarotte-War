@@ -1,0 +1,5 @@
+- [[feedback loop]]
+- ---
+- Feedback occurs when outputs of a system are routed back as inputs as part of [a chain of cause-and-effect]([[cause-and-effect chain]]) that forms a [[circuit]] or [[loop]].[1] The system can then be said to feed back into itself. The notion of cause-and-effect has to be handled carefully when applied to feedback systems:
+    - Simple causal reasoning about a feedback system is difficult because the first system influences the second and second system influences the first, leading to a circular argument. This makes reasoning based upon cause and effect tricky, and it is necessary to analyze the system as a whole.
+    - — Karl Johan Åström and Richard M.Murray, __Feedback Systems: An Introduction for Scientists and Engineers__ [2]

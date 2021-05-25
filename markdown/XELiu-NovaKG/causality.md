@@ -1,3 +1,4 @@
+- [[cause-and-effect chain]]
 - [[causal effect]]
 - [[causal path]]
 - [[nonlinear causality]]
