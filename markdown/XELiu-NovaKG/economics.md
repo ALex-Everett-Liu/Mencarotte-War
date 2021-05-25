@@ -1,4 +1,5 @@
 - [[business]]
+- [[economic theory]]
 - [[finance]]
 - [[ledger]]
 - [[business management]]

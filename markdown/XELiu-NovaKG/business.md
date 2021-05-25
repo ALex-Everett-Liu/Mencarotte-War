@@ -8,6 +8,8 @@
     - shareholder
 - digital business??
     - retail electronics store
+- general...
+    - [[business partner]]
 - [[market]]; [[marketing]]: 市场营销; [[marketer]]
 - [[product]]
 - [[publish]]

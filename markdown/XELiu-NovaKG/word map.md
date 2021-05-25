@@ -63,8 +63,13 @@
                     - annual
             - anonym
                 - [[anonymous]]
-            - antho
-                - anthology
+            - ant
+                - antho
+                    - anthology
+                - anticipate
+                    - anticipated;
+                - antique
+                    - [[antiquity]]
         - ar
             - architect
                 - architecture;

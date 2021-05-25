@@ -1,7 +1,10 @@
 - analyze the system as a whole;
 - [[circuit]]; [[loop]]
 - [[complex system]]
+- [[control theory]]
 - input and output
     - causal input;
+    - [[input signal]]
+    - the signal feedback from output;
     - [[system output]]
 - [[organizational theory]]

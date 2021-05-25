@@ -1,7 +1,7 @@
 - [[double-slit experiment]]
     - parallel slit;
     - detected photon;
-- in phase; out of phase
+- [[in phase]]; [[out of phase]]
 - interfere constructively; interfere destructively
 - [[interference pattern]]
     - accumulating spots

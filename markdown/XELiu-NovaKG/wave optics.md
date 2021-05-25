@@ -1,4 +1,5 @@
 - [[interference]]
+- [[polarization]]
 - the wave theory of light
     - [[aether]]; luminiferous aether
         - drag the aether

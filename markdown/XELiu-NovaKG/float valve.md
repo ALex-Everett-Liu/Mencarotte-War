@@ -1,0 +1,4 @@
+- dictionary 
+    - [High-pressure float valve structure] and general structure similar to the float valve. 浮子控制阀, 浮球阀 www.[gkmade].com
+    - Energy & saving Result of Aluminium [Internal Float Valve Tray]. 浮盘 dict.cnki.net
+    - Application of Float Valve and [Compound Sieve plate] 复合塔板 to [Gas liquid Mass Transfer Units] 
