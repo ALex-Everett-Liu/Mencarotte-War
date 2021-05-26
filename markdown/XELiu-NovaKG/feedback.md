@@ -1,4 +1,5 @@
 - [[bipolar feedback]]
+- change, then trigger a certain result;
 - [[controller]]
 - [[disturbance]]
 - [[effector]]: 效应器

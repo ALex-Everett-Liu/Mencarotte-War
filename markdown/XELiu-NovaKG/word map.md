@@ -520,6 +520,17 @@
             - mind
                 - open mind;
             - minute
+        - mo
+            - mode
+                - model; modeling
+            - modern, 2
+            - modify, 2
+                - modified; modifier; modifying
+                - [[modification]];
+            - modul
+                - mod; modding
+                - module; modular; modulate, 2;
+                - modulus, 2
     - n
         - na
             - naissance
