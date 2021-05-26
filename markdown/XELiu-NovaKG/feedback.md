@@ -40,12 +40,12 @@
                     - [Nitrate control] 硝酸氮控制 aims at the [optimal use of] the [denitrification potential] 缺氧区反硝化潜力 at any moment by [continuously adjusting] the [internal recirculation flow] 内循环回流量 or (and) [external carbon addition flow] 外碳源投加量 in order to [maintain a desired nitrate set point] [in the anoxic zone]. 缺氧区末端硝酸氮浓度 dict.cnki.net
         - Limitations of negative and positive feedback
             - While [simple systems] [can sometimes be described as] [one or the other type], [many systems with feedback loops] [cannot be so easily designated as simply] positive or negative, and [this is especially true when] [[multiple loops]] are present.
-                - When [there are only two parts joined] so that [each affects the other], [the properties of the feedback] [give important and useful information about] [the properties of the whole](((2ERIl2IZu))). But [when the parts rise to] [even as few as four], if every one affects the other three, then twenty circuits [can be traced through them]; and knowing the properties of all the twenty circuits [does not give complete information about](((pFQCI1GuU))) the system. [10] (p54)
+                - When [there are only two parts joined] so that [each affects the other], [the properties of the feedback] [give important and useful information about] [the properties of the whole](((2ERIl2IZu))). But [when the parts rise to] [even as few as four], if every one affects the other three, then twenty circuits [can be traced through them]; and knowing the properties of all the twenty circuits [does not give complete information about](((pFQCI1GuU))) the system. [10](((B58Ejra_L))) (p54)
 (仅仅当反馈回路中的部件数量增大到4个时，我们就能追踪到20个回路，并且其所有部分的性质之总和仅能给出整个系统的一小部分信息)
 210526-04:25
     - Other types of feedback
         - In general, feedback systems [can have many signals fed back] and the feedback loop [frequently contain mixtures of] [positive and negative feedback] where positive and negative feedback can [dominate at different frequencies](((p5wb7oZ8r))) or different points in the [[state space]] of a system.
-        - The term [[bipolar feedback]] [has been coined to refer to] [[biological system]]s where [positive and negative feedback systems can interact], [the output of one] [affecting the input of another], and vice versa.[24]
+        - The term [[bipolar feedback]] [has been coined to refer to] [[biological system]]s where [positive and negative feedback systems can interact], [the output of one] [affecting the input of another], and vice versa.[24](((S0xq-LFF4)))
 210526-04:35
         - [Some systems with feedback] can have very [[complex behavior]]s such as [[chaotic behavior]]s in [[non-linear system]]s, while others [have much more predictable behaviors], [such as those that are used to] make and design [[digital system]]s.
             - Feedback is [used extensively in] digital systems. For example, [[binary counter]]s and [similar devices] [employ feedback] where the [[current state]] and inputs are used to [calculate a new state](((btrA1_APN))) which is then [fed back and clocked back into the device](((2Yc5yOwb5))) to update it. 反馈并记录到设备中
@@ -62,6 +62,8 @@ Perverse incentive
 210526-08:50
     - [4]: Moloney, Jules (2011). __Designing Kinetics for Architectural Facades__. Routledge. [ISBN] [978-0415610346](https://en.wikipedia.org/wiki/Special:BookSources/978-0415610346).
     - [5]: Maxwell, James Clerk (1868). ["On Governors"](https://doi.org/10.1098%2Frspl.1867.0055). __Proceedings of the Royal Society of London__. **16**: 270–283. [doi]:[10.1098/rspl.1867.0055](https://doi.org/10.1098%2Frspl.1867.0055). [JSTOR] [112510](https://www.jstor.org/stable/112510).
+    - [10]: W. Ross Ashby (1957). [__An introduction to cybernetics__] ([PDF](http://pcp.vub.ac.be/books/IntroCyb.pdf)). Chapman & Hall.
+    - [24]: Alta Smit; Arturo O'Byrne (2011). ["Bipolar feedback"](https://books.google.com/books?id=RzXAOUnCM3oC&pg=PA6). __Introduction to Bioregulatory Medicine__. Thieme. p. 6. [ISBN] [9783131469717](https://en.wikipedia.org/wiki/Special:BookSources/9783131469717). 生物调节医学
 - Further reading
     - Katie Salen and [Eric Zimmerman]. __Rules of Play__. [[MIT Press]]. 2004. [ISBN] [0-262-24045-9](https://en.wikipedia.org/wiki/Special:BookSources/0-262-24045-9). Chapter 18: Games as [[cybernetic system]]s.
 210526-06:30

@@ -1,0 +1,3 @@
+- The Albert Team
+    - Last Updated On: June 1, 2020
+    - Albert.io offers the best practice questions for high-stakes exams and core courses spanning grades 6-12. For over five years, hundreds of thousands of students have used Albert to build confidence and score better on their SAT®, ACT®, AP, and Common Core tests. If you're an educator interested in trying Albert, click the button below to learn about our pilot program.
