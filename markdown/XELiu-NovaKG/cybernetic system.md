@@ -1,0 +1,4 @@
+- dictionary 
+    - This article [holds this opinion that] [business ecosystem] is a complicated and [evolutional cybernetic system], the stability of ...   dict.cnki.net
+    - The application course, general compose, function action of [loop electricity cybernetic system] 活套电控系统 for [cold rolling mill] 冷轧厂 are been explained and the [application examples] are given. 
+    - Authors combine [financial theory] with cybernetics and [system theory] to prove and elucidate 论证 a new [bank management method]: the cybernetic system of [commercial bank] [asset liability ratios] management. 资产负债比例

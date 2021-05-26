@@ -6,6 +6,7 @@
     - opening tag; closing tag
         - opening paragraph tag; closing paragraph tag
 - iframe; iframe embed
+- render the video; render as an image;
 - ---
 - example snippets...
     - stage1st

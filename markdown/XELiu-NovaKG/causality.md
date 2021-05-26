@@ -1,4 +1,6 @@
-- [[cause-and-effect chain]]; cause and effect; [[causal effect]]
+- [[cause-and-effect relationship]]; cause and effect; [[causal effect]]
+    - [[cause-and-effect chain]]; a closed chain of cause and effect
+- [[causal loop diagram]]
 - [[causal path]]
 - [[causal reasoning]]
 - [[linear causality]]; [[nonlinear causality]]

@@ -8,6 +8,8 @@
 - [[questionnaire]]
     - [[interview]]; [[interviewer]]
     - [[survey]];
+- [[social dilemmas]]
+- [[social macrodynamics]]
 - 地域矛盾
     - #inbox
         - 你首先得是个[独立经济体]。[发达经济体]之所以发达，是因为可以[对外割韭菜]，方式很多：以前主要是[殖民掠夺]，后来主要是[资本/产业对外收割]。如果只能[对内收割劳动力]，那跟孟买[刹帝利][也没本质区别](https://www.zhihu.com/question/35834004/answer/1840861167)。 #pt9-99.99

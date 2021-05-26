@@ -1,0 +1,5 @@
+- dictionary 
+    - [Network Diagram Model] of Automatic Machinery Coordinating Design. 协调设计 dict.cnki.net
+    - [Parameterized design] and simulation on [geneva mechanism] 槽轮机构 of automatic machinery 
+    - Great quantities of [stepping transmission mechanisms] 步进传动机构 with various types are widely used in Automatic machinery area. 
+    - Many older factories have been introducing automatic machinery to [perform tasks] [previously done by workers]. www.[dictall].com

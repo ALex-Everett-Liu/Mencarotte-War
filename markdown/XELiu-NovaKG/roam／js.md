@@ -43,3 +43,15 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
+- [[Roam VIDEO]]
+    - {{roam/js}}
+        - ```javascript
+var existing = document.getElementById("roamjs-video");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/video.js";
+  extension.id = "roamjs-video";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```

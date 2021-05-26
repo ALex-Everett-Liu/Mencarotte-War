@@ -3,6 +3,7 @@
 - [[circuit]]; [[loop]]
 - [[complex system]]
 - [[control theory]]
+- [[cybernetics]]
 - [[linear system]]; [[non-linear system]]
 - [[organizational theory]]
 - input and output; signal

@@ -1,3 +1,4 @@
+- [[automatic machinery]]
 - [[engine]]
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车

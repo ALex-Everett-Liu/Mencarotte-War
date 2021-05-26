@@ -1,0 +1,6 @@
+- dictionary 
+    - The [Experimental Research] on Children's Development of [Countermeasure Behavior] 儿童对策行为发展 in Social Dilemmas. 两难问题/情景 dict.cnki.net
+    - The [utility transformation] 效用特征转换 of [task structure] and values in social dilemmas 
+    - This study used social dilemmas and [computer simulation] to examine the [utility transformation process] in [decision making]. 
+    - [Most Third World nations] [share a common set of] [economic and social dilemmas]. www.[dictall].com
+    - The study of social dilemmas 社会困境 is the study of [the tension between] [individual and collective rationality]. www.[fabiao].net

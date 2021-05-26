@@ -9,7 +9,7 @@
             - [[Automatic RoamResearch backup]]
             - [[Roam2Github]]
         - [[Roam42]]
-        - [[RoamJS]]
+        - [[RoamJS]]; [[Roam JS Extensions]]
         - [[Roam Portal]]
     - [[roam/css]]
         - [[roam css details]]
