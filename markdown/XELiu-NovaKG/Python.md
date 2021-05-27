@@ -12,3 +12,5 @@
     - [[scipy]]
 - [[Python 3]]
 - scrap data
+- #inbox
+    - {{[[TODO]]}} Atom/VSCode 配置 Python 环境; Python in Roam; #pt10-99.99
