@@ -1,4 +1,7 @@
 - [[biological system]]
+    - biological reaction
+        - [[reaction product]]
+        - regulating mechanism: 调节机制
 - [[evolutionary biology]]
 - [[genetics]]
     - [[genealogy]]
@@ -8,6 +11,7 @@
             - [[ectotherm]]
             - [[endotherm]]
             - [[temperature regulation]]: 温度调节
+            - [[vasodilation]]: 血管舒张
     - [[metabolism]]
 - [[living organism]]
 - [[molecular biology]]

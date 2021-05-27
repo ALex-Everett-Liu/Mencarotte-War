@@ -1,3 +1,4 @@
 - [[black knee socks]]
 - [[pantyhose]]
+- [[stocking]]
 - [[white socks]]
