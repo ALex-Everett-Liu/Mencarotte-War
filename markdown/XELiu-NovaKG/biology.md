@@ -2,6 +2,14 @@
 - [[evolutionary biology]]
 - [[genetics]]
     - [[genealogy]]
+- [[homeostasis]]
+    - [[internal environment]]
+        - [[internal temperature]]
+            - [[ectotherm]]
+            - [[endotherm]]
+            - [[temperature regulation]]: 温度调节
+    - [[metabolism]]
+- [[living organism]]
 - [[molecular biology]]
 - [[systematic biology]]
     - biological organization
