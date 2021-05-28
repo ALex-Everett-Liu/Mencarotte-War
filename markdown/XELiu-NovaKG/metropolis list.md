@@ -27,6 +27,8 @@
 - [[张冬 (Zhang Dong)]] -- pt9-100
 - [[倪妮 (Ni Ni)]] -- pt9-100
 - [[何嘉颖 (He Jiaying)]] #pt9-100
+- 安然Maleah -- pt9-99.99
 - [[桃香子 (taoxiangzi)]] #pt9-99.99
+- 陆萱萱 -- pt9-99.98
 - korea chemo 01 -- #pt8-99.99
 - 袁姗姗 (Yuan Shanshan) -- pt8-99.97
