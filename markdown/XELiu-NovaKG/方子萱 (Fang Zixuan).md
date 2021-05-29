@@ -3,6 +3,8 @@
     - 172 cm -- B86 W60 H90
     - [[重庆 (Chongqing)]] 南岸区
 - weibo
+    - https://weibo.com/u/2403098262
+    - https://weibo.com/u/7149294029
     - XPNeZ8Islx07HSkCHW4E01041200Foqb0E010.mp4 #pt10-100
         - ![fzx-weibo-video-pic-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FWoynae_WxU.png?alt=media&token=7f5e00e6-1bde-40ed-a765-296e7e5f08a2)
         - ![fzx-weibo-video-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FecYL7-5ewx.mp4?alt=media&token=5c6087ae-b941-4377-a82e-04c89488e811)

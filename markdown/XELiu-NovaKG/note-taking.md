@@ -60,7 +60,10 @@
         - 不久前，文件夹还是[我们的全部]，它们[还不够好]。现在，我们有了链接。许多人对文件夹[采取了强硬的立场]，因为他们认为[自己需要的]就是链接。这样，[强硬的立场][转而变得脆弱]。不要[被教条所迷惑]。一个健康[数字资料库]的[正确工具]应该包含多重的「桥梁」（relationship-builder）。
         - UID（User Identification，用户身份证明）实际上是没有必要的，因为 UID 本身[没有可读性]，[它提供了][唯一的时间代码]来[确定笔记的唯一性]，但[这一功能]和[分类号]重复了。不过分类号[提供的是][具有唯一性的][地点代码]，可以考虑舍弃 UID 或者[保留两者]。UID 提供的时间在 Dataview 插件中，可以用 `file.ctime` 代替。
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
-        -  这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
+        - 这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
+    - `file:///` 很不靠谱，workflowy 想[链接到本地文件](https://www.zhihu.com/pin/1381426035402084352)[有两种方法]，[稳定一点的方法]是直接靠 zotero 的 url scheme 来[插入附件]，[灵活一点的方法]是插入 everything 的[搜索型 url scheme] #pt10-99.99
+        - 【多维表格 + url scheme】的组合肯定是比 notion 强的，特别是这个[多维表格]选 Airtable 的时候，notion 哪怕[开放了 api] 也玩不出 Airtable schema app 那种效果；
+        - 【freeplane + url scheme】这个组合[既可以简单使用]，也可以用上[子树脱离嵌套]、属性稀疏树、[日程脚本]等[进阶技巧]，url scheme [则负责][补齐编辑器的短板]，[这一套弄下来][难觅对手]。
     - 我之前跟天生[沟通时][也说过类似的内容]，其实简悦和 Logseq [背后的理念]很相似，都是[主打] 本地 + 高度隐私权 的[产品]。 #pt10-99.99
         - 无奈，因时间有限，所以[无法有太多时间][做很多互动性的事情]，所以希望[在社区的帮助下]，可以有[更多玩法]。
         - 关于如何与 Logseq 的[联动]还有[更多的玩法]，不知道 [@Spike](https://cn.logseq.com/u/spike) [是否可以联络我][一起研究下]？
@@ -81,6 +84,7 @@
         - 当我昨天一口气在typora里面连着敲了六个井号的时候[我才意识到]，[学习笔记]这种[逻辑条理特别强]，大知识点套小知识点[无限套娃]的情况下，markdown只能说是凑合，还是需要用outliner。然后今天早上[又废了半天劲]把笔记全部移到workflowy上…… #pt8-99.99
             - 其实[思维导图]反而还不怎么适合，思维导图适合那种字少的，就那种知识点的名字提点两下，比如说“宣告失踪-条件-时间-起算点”，字一多就是灾难，整个图的可读性直接归零，幕布的生成思维导图功能我就一次都没用过……比起思维导图，那种[根据搜索结果][生成稀疏树]的功能可能更要紧一点
     - 用 AirTable [打造][自己专属的][个人数据库](https://www.yuque.com/arvinxx/note/airtable#JuMxx) #pt8-99.98
+    - {{[[TODO]]}} draw.io 的功能[涵盖了] processon 的很多功能，但是其[最大的卖点](https://www.yuque.com/wangdd/blog/zf3xgd)是**免费。** #pt7-99.98
     - 这个估计得[等API出来后][靠社区了](https://cn.logseq.com/t/topic/256),除了 Alfred,我还希望有 telegram bot, windows quicker, IFFFT 等等[效率工具] #pt8-99.98
         - roam research 已经有alfred解决方案了
     - Obsidian + Zotero
