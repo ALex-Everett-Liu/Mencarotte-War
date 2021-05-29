@@ -1,0 +1,13 @@
+- [[internal environment]]
+    - [[internal temperature]]
+        - [[blood vessel]]
+            - [[vasodilation]]: 血管舒张; [[vasoconstriction]]: 血管收缩
+        - [[ectotherm]]
+        - [[endotherm]]
+        - [[goose bump]]: 鸡皮疙瘩
+        - [[human body temperature]]
+        - [[sweat]]
+        - [[temperature regulation]]: 温度调节
+            - [[cooling mechanism]]
+                - [[convective cooling]]: 对流冷却
+                - [[evaporative cooling]]
