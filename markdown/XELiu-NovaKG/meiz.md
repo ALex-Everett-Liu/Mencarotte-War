@@ -74,8 +74,10 @@ https://img.yalayi.net/hz/nvshens.html?url=https://www.yalayi.com/gallery/816.ht
 https://www.ywpic.com/129881.html
 https://www.ywpic.com/162136.html
 https://www.ywpic.com/164777.html
+https://www.ywpic.com/139287.html
 https://www.ywpic.com/132091.html
 https://www.ywpic.com/160505.html
+https://www.ywpic.com/138501.html
 https://www.ywpic.com/160499.html
 https://www.ywpic.com/154867.html
 https://www.ywpic.com/85720.html
@@ -107,6 +109,7 @@ https://www.ywpic.com/159846.html
 https://www.ywpic.com/150044.html
 https://www.ywpic.com/139836.html
 https://www.ywpic.com/165265.html
+https://www.ywpic.com/153275.html
 https://www.invshen.net/g/35000/
 https://www.invshen.net/g/34938/
 https://www.ywpic.com/139599.html
@@ -127,27 +130,36 @@ https://www.ywpic.com/161885.html
 https://www.ywpic.com/147127.html
 https://www.ywpic.com/138879.html
                 - 8-2
+https://www.ywpic.com/152848.html
 https://www.ywpic.com/74576.html
+https://www.ywpic.com/140147.html
 https://www.ywpic.com/164765.html
+https://www.ywpic.com/165593.html
 https://www.ywpic.com/140111.html
 https://www.ywpic.com/139587.html
 https://www.ywpic.com/133590.html
 https://www.ywpic.com/138849.html
 https://www.ywpic.com/139830.html
+https://www.ywpic.com/116675.html
 https://www.ywpic.com/134793.html
 https://www.ywpic.com/95729.html
 https://www.invshen.net/g/35419/
 https://www.ywpic.com/161855.html
+https://www.ywpic.com/164555.html
 https://www.ywpic.com/161879.html
 https://www.ywpic.com/138507.html
 https://www.ywpic.com/134465.html
 https://www.ywpic.com/136858.html
+https://www.ywpic.com/139557.html
+https://www.ywpic.com/118736.html
 https://www.ywpic.com/27753.html
 https://www.ywpic.com/140975.html
 https://www.ywpic.com/141441.html
 https://www.ywpic.com/138219.html
 https://www.ywpic.com/137751.html
+https://www.ywpic.com/140373.html
 https://www.ywpic.com/134185.html
+https://www.ywpic.com/41335.html
             - [根本原因就是]现在[资源获取难度]增加，同行[盗图转发]、[恶意举报][百度链接]。不管的金钱还是人员精力都日益增加。如果你们了解过尤蜜图片和视频的话，实际上[尤蜜]官方只有一个app在[对外发布资源]，官方从始至终只有[充值][在线观看方式]，没有提供任何[下载服务]！随着官方[防盗机制]难度增加，我们基本无法简单吧图片保存下来。就算保存下来，也是[分辨率很低]的图片，为了保证大家观看的效果，我们还[单独付费]进行[AI高清处理]，做到图片[相对高清]。[这种费力不讨好行为][换来的就是]同行[无止境][盗图转发]，甚至还有拿去[单独出售](https://www.ywpic.com/164142.html)的！ #pt8-99.98
         - fuliji
             - #inbox

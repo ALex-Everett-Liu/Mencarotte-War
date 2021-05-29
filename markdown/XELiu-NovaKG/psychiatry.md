@@ -1,0 +1,1 @@
+- [[psychopathology]]: 精神病理学

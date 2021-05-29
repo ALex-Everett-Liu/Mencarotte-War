@@ -28,6 +28,7 @@
 - [[倪妮 (Ni Ni)]] -- pt9-100
 - [[何嘉颖 (He Jiaying)]] #pt9-100
 - 安然Maleah -- pt9-99.99
+- [[林子欣 (Lin Zixin)]] -- pt8-99.99
 - [[桃香子 (taoxiangzi)]] #pt9-99.99
 - 糯美子MINIbabe -- pt8-99.98
 - 陆萱萱 -- pt9-99.98

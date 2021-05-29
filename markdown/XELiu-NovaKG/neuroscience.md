@@ -5,7 +5,7 @@
     - rewire with new connections;
 - human interaction...
     - [[human voice]]
-    - vision: 视觉
+    - vision; 视觉
         - binocular vision
         - human eye
         - [[retinas]]
@@ -15,6 +15,7 @@
     - [[perception]]
         - touch
             - tactile impression: 触觉印象 
+    - taste
 - [[intelligence]]: 智能, 智力活动;
 - [[memory]]
 - neural system...

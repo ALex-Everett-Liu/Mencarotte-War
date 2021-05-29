@@ -2,11 +2,18 @@
     - biological reaction
         - [[reaction product]]
         - regulating mechanism: 调节机制
+- childbirth; labor
+    - [[cervix]]: 子宫颈
+    - [[oxytocin]]: 催产素, 缩宫素;
+- classification?
+    - [[mammal]]
 - [[evolutionary biology]]
 - [[genetics]]
     - [[genealogy]]
 - [[homeostasis]]
+    - [[chemical signal]]
     - [[metabolism]]
+    - [[receptor cell]]
 - [[living organism]]
 - [[molecular biology]]
 - [[systematic biology]]

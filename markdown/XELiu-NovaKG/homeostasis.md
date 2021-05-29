@@ -11,3 +11,4 @@
             - [[cooling mechanism]]
                 - [[convective cooling]]: 对流冷却
                 - [[evaporative cooling]]
+    - the target of equilibrium; the target of stability

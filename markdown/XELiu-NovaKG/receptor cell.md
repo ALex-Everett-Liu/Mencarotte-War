@@ -1,0 +1,4 @@
+- dictionary 
+    - [A concentration of receptor cells] 受体细胞的集中 [in their inner ear] makes bats [extremely sensitive to frequency changes]. www.[dictall].com
+    - There are several types of [voltage-gated ion channels] 电压门控离子通道 [on the membrane of] [taste receptor cells]. www.[fabiao].net
+    - The receptor cells [have different receptors on their surface] where the glutamate 谷氨酸 is taken in to [activate the cell]. home.xywy.com

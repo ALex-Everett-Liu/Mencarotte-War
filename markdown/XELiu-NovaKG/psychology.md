@@ -1,9 +1,10 @@
 - [[flow (psychology)]]: 心流
     - 打断思路
-- [[mental pressure]]
 - [[neuropsychology]]
 - [[psychiatry]]: 精神病治疗学
     - [[depression]]
         - [[major depression (MD)]]: 重性抑郁症
     - [[generalised anxiety disorder (GAD)]]: 广泛性焦虑症
+    - [[mental disorder]]
+        - [[mental pressure]]
     - [[suicide]]

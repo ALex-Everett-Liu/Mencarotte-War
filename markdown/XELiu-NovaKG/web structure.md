@@ -3,6 +3,7 @@
 - [[complex web]];
 - [[networked science]]
     - [[dynamic network]]
+    - [[network approach]]
     - [[networked thought]]
     - [[node]]
         - [[nodal network]]

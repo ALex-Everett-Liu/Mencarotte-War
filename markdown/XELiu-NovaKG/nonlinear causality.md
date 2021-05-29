@@ -6,3 +6,5 @@
 201124-23:13
     - A model of [[major depression (MD)]] and [[generalised anxiety disorder (GAD)]] by Nuijten, Deserno, Cramer, and Borsboom.[7](((mVlvE90kK))) The disorders roughly map onto [clusters of symptoms](((p2IldDrA8))) that are [often found together] and [reinforce one another]([[reinforce]]), but [there is no clear ‘bright line’] [between the conditions].
 210525-12:30
+- Even at [face value](((o_bE6RBcl))), a nodal network [provides a visual aid to] [[problem-solving]] - a [[bird’s eye view]] of [the connections between various elements]. [This may help to] [identify patterns or clusters] which may be [[counterintuitive]] or [entirely invisible]([[invisible]]) when [each piece of the puzzle]([[puzzle]]) is examined at the [[object level]]. 在对象层面上进行检验
+201124-23:44

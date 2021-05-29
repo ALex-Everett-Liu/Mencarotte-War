@@ -866,6 +866,7 @@
                 - validate; validating
                 - validity;
             - value
+                - face value: 票面价值, 表面价值;
                 - invaluable;
                 - valuable; valuation
             - vary, 2
