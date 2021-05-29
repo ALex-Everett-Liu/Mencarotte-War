@@ -55,6 +55,7 @@
     - [[Scrivener]]
 - #inbox
     - knowledge graph; wolfram alpha; [Wikidata](https://www.zhihu.com/question/20151850/answer/15562816) #pt10-99.99
+    - 渐变就是把 `background-image:` 这里改 `background-image: linear-gradient(90deg, black, transparent);`，[参数][分别是]角度、颜色1、颜色2（颜色可以[多个添加]，[英文逗号分隔]即可）（颜色[最好不要设置][透明度](https://club.roamedit.com/club/?thread-782.htm)） #pt10-99.99
     - 不能插入外部 url scheme 的软件[不止下面这些]，[这里之所以][只列出它们]，是因为它们有[做得比较好的]表格或图形、本来[很适合用来][管理其它软件的 url scheme] [做高级 moc]，可惜[这种用法][被产品经理 ban 了](https://www.yuque.com/deerain/gannbs/gmkp9w) #pt10-99.99
     - 卢曼经过一代「卡片盒子」的积累[确定了自己的][阅读和研究兴趣]，他的[编码主题]不再是[简单的列表]（list）或是基于[分类学]（taxonomy）和[目录（TOC）]的[顺序系统]，而是[依靠编码][确定内容的上下级关系]（也就是依靠编码组织了 Nick Milo 说的「邻近度」），依靠书目和[关键词索引][快速定位笔记]，以及展现[笔记之间意义上联系]的[复杂系统集合](https://zhuanlan.zhihu.com/p/374178962)。 #pt10-99.99
         - 不久前，文件夹还是[我们的全部]，它们[还不够好]。现在，我们有了链接。许多人对文件夹[采取了强硬的立场]，因为他们认为[自己需要的]就是链接。这样，[强硬的立场][转而变得脆弱]。不要[被教条所迷惑]。一个健康[数字资料库]的[正确工具]应该包含多重的「桥梁」（relationship-builder）。
