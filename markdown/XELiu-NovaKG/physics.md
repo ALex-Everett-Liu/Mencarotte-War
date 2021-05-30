@@ -12,6 +12,7 @@
 - general...
     - abstract...
         - [[abstract idea]]
+        - [[counterintuitive]]
         - [[human intuition]]; intuitive sense
             - counter-intuitive property
     - [[collective effect]]

@@ -1,8 +1,11 @@
 - anatomy
     - ocular anatomy: 眼部解剖
 - [[diabetes]]: 糖尿病
+- [[disease]]
+    - [[latent disease]]
 - [[disorder]]
-- [[doctor]]; [[patient]]
+- [[doctor]]
+- [[patient]]
 - [[flu]]
     - [[influenza virus]]
 - [[heart disease]]

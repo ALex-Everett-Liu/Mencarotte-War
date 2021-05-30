@@ -1,1 +1,10 @@
 - [[Bayesian reasoning]]; [[Bayesian inference]]
+- [[Bayes’ Theorem]]
+    - [[observed evidence]]
+    - [[posterior probability]]
+    - [[prior probability]]
+        - [[prior data]]
+    - [[proposition of interest]]: 待处理的问题 
+- [[estimating probabilities]];
+- learn a new fact; acquire new evidence
+- [[testing hypotheses]];

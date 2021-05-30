@@ -1,5 +1,5 @@
 - [[link]]
-- birds-eye view
+- birds-eye view; [[bird’s eye view]]
 - [[complex web]];
 - [[networked science]]
     - [[dynamic network]]

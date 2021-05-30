@@ -363,6 +363,7 @@
         - gi
             - give
                 - gave; given, 2
+                - given that: 毕竟;
         - gl
             - gloss
                 - glossary
@@ -801,6 +802,13 @@
             - suffuse: 弥漫, 遍布, 充满;
             - suggest
                 - suggestion;
+            - sup
+                - super
+                - supply
+                    - supplement
+                - support
+                    - supported;
+                - [[suppose]]
         - sw
             - swing
                 - swung;

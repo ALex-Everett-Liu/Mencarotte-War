@@ -4,6 +4,7 @@
     - port: 移植; [[portable]]: 可移植的; 便携的; [[portability]]
 - [[ecosystem]]
 - general...
+    - [[object level]]
     - [[run asynchronously]]: 异步运行，区别于线性地逐次执行各个步骤
     - [[developer]]; software developer; [[software development]]
 - [[Integrated Development Environment (IDE)]]; [[development environment]]
