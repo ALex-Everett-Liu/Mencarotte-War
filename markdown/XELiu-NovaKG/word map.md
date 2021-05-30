@@ -532,6 +532,20 @@
                 - mod; modding
                 - module; modular; modulate, 2;
                 - modulus, 2
+            - mole
+                - [[molecule]]
+            - moment
+                - [[momentum]];
+            - monitor
+                - monitoring;
+            - mono-
+                - monopoly
+                    - monopolized;
+            - mould
+                - moulded;
+            - mount
+                - surmount
+                    - insurmountable: 难以逾越;
     - n
         - na
             - naissance
@@ -633,6 +647,19 @@
                 - perspective, 2
                 - person
                     - [[personality]];
+        - pi
+            - picture
+                - depict
+                    - depicted, 2;
+                - picturing;
+            - piece
+                - small piece;
+            - pierce
+                - pierced;
+            - pile
+                - [compile](https://workflowy.com/#/df6f38ee7534)
+            - pioneer
+                - pioneered;
         - pl
             - pla
                 - plast

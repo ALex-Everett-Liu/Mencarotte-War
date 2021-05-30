@@ -1,4 +1,5 @@
 - [[census]]
+- [[general population]]
 - 生育率危机
 - #inbox
     - 在"历史的终结"之后继续动荡的世界局势
