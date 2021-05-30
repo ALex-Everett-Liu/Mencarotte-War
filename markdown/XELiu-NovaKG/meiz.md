@@ -178,6 +178,48 @@ https://www.ywpic.com/41335.html
                     - 很多人比如我就是放着[p站][nyaa]不用，非要在[擦边球视频]里面找一点点[颜色片段]，这就叫妻不如妾，妾不如偷，偷不如偷不着
                     - 建议去看下[女子田径比赛][在油管的播放量]
 - parallel...
+    - metropolis career record - test
+        - mansion, hotel, office, shopping; dinner, lunch, morning; family, jiuxi32, business
+        - 2022
+            - {{[[table]]}}
+                - N/A
+                    - 陆萱萱
+                        - 周于希
+                            - 林文文
+                                - 林子欣
+                                    - 杨紫嫣
+                                        - 方子萱
+                - 陆萱萱
+                - 周于希
+                - 林文文
+                    - a
+                        - a
+                            - bn 8
+                                - ln 8, dn 6-1, sp 1
+                                    - ln 12-2, dn 8-2, sp 3-2
+                                        - ln 4, dn 3, sp 1
+                - 林子欣
+                    - ln 7, dn 9-2, sp 2-1
+                        - ln 26-5, dn 15-3, sp 10-2, htl20 2-2, htl22 4-3, mn 4-1
+                            - ln 8-1, dn 6-1, sp 1
+                                - ln 8-3, dn 9, sp 4, jx 3, bn 5, htl20 5-5, htl22 12-8, mn 12-6
+                                    - ln 4, dn 7-2, sp 2, htl22 2-2, mn 2-1
+                                        - ln 1-1
+                - 杨紫嫣
+                    - ln 6, dn 4, sp 2, htl22 1, mn 1
+                        - ln 5, dn 9, sp 6, htl22 3, mn 3
+                            - ln 12-3, dn 8-2, sp 3-1, htl20 2
+                                - ln 4, dn 7-1, sp 2, htl20 1
+                                    - ln 5-2, jx 1, bn 1, htl22 2-1, mn 2
+                                        - ln 7-1, dn 4-1, sp 4-1, htl22 3-2, ms22 1, mn 4-2
+                - 方子萱
+                    - ln 3, dn 2, sp 1
+                        - ln 1, dn 1, sp 1
+                            - ln 4, dn 3, sp 1, htl20 2-2
+                                - ln 1
+                                    - ln 7, dn 4-1, sp 4-1, htl22 3-2, ms22 1, mn 4-1
+                                        - ofc 123
+            - total: ln 97-15, dn 77-13, sp 37-6, jx 4, bn 6, htl20 12, htl22 25-15, ms22 1, mn 17
     - scene; scenery...
 - place? environment?
     - [[sofa]]
