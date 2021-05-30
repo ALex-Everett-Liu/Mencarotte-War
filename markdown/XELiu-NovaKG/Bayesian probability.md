@@ -1,6 +1,8 @@
 - [[Bayesian reasoning]]; [[Bayesian inference]]
 - [[Bayes’ Theorem]]
     - [[observed evidence]]
+        - [[confidence level]]
+        - successive layers of estimates: 连续的估计层; successive layers of evidence
     - [[posterior probability]]
     - [[prior probability]]
         - [[prior data]]
@@ -8,3 +10,6 @@
 - [[estimating probabilities]];
 - learn a new fact; acquire new evidence
 - [[testing hypotheses]];
+- weight...
+    - [[assigned weightings]]
+    - [[revisions to the weightings]];

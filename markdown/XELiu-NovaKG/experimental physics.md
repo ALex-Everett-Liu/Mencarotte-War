@@ -9,7 +9,7 @@
 - [[observation]]
     - [[experimental observation]]
     - [[observable consequence]]
-- outcome of the experiment
+- outcome of the experiment; [[outcome]]
 - plot...
     - brighter area
     - central peak

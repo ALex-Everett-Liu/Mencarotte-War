@@ -333,6 +333,7 @@
                 - fine
                     - [confine](https://workflowy.com/#/29547f8c7e22);
                     - refine
+                        - [[refinement]];
                 - finite
                     - infinite
         - fo

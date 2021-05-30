@@ -3,8 +3,6 @@
     - [[macroscopic level]]; [[microscopic level]]
     - quantum process;
     - subatomic domain;
-- [[quantum interpretation]]
-- [[quantum information]]
 - localized at a point; localization
     - non-localization;
     - spread out in space
@@ -14,10 +12,14 @@
     - [[observation]]
         - observable difference;
     - repeated measurement; second measurement
+- probability features; odds...
+    - predict the outcome
 - [[quantization]]; quantized
 - [[quantum chemistry]]
 - [[quantum field]]; [[quantum field theory]]
 - [[quantum fluctuation]]
+- [[quantum information]]
+- [[quantum interpretation]]
 - [[quantum physics]]; [[quantum theory]]
 - [[Schrödinger equation]]
 - [[spin]]

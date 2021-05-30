@@ -1,5 +1,6 @@
 - precision
 - predict the outcome
+    - outcome of the experiment; [[outcome]]
     - predict with certainty
 - definite position; precise location; [[precise position]]
     - in the vicinity of the position
