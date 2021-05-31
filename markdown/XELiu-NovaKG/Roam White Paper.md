@@ -50,7 +50,7 @@ cast into a drawer: 扔进抽屉里
 - 4. [[Knowledge graphs as nodal networks]] 节点网络形态的知识图谱/基于节点网络的知识图谱
 - 5. [[Dependency graphs and logical reasoning]] 依赖性关系图谱与逻辑推理/基于依赖性关系图谱的逻辑推理
 - 6. [[Untangling complexity]] 理清复杂性
-- 7. [[Optimising for serendipity]] 为获得意外发现进行优化/通向柳暗花明之路的优化方向
+- 7. [[Optimising for serendipity]] 为[获得意外发现](((slV00Hb8m)))[进行优化](((lrHMdIv-p)))/通向柳暗花明之路的优化方向
 - 8. [Collaborative problem-solving]([[collaborative problem-solving]]) 协作解决问题
 - ## 9. [Conclusion]([[conclusion]])
     - The project of [[human knowledge]], as it stands today, is [a vast ocean of] ephemeral and [[fragmented information]] and ideas, much of it inaccurate, some of it [[malicious]], with the [best sources] either [restricted by gatekeepers], 门槛 or [near-impossible to locate]. [The volume of information]([[information volume]]) is [growing exponentially], which [promises enormous opportunities] if the underlying [[coordination problem]]s 潜在的协调问题 [can be resolved].

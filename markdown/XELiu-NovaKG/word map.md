@@ -594,6 +594,8 @@
             - opaque
             - oppose
                 - opposed;
+            - optimal
+                - optimize; optimising
             - option
                 - optional;
                 - additional option; viable option;
@@ -619,8 +621,9 @@
                 - path
                 - patient
                     - patiently;
-                - pattern
+                - [[pattern]]
                     - develop the pattern; standard pattern; orderly pattern
+                    - [[existing pattern]];
         - pe
             - pen
                 - penal
@@ -782,6 +785,17 @@
                         - [Offshore oil and gas development] started from scratch. 海上油气开发 club.topsage.com
                         - He started from scratch and [step by step he made it]. blog.sina.com.cn
                         - They started from scratch and learned as they went. 边学边干 www.[dictall].com
+        - se
+            - ser
+                - serendipity: 巧事; 机缘凑巧; 易遇奇缘, 偶然发现珍宝的才能
+                - sericulture
+                    - seric
+                - series
+            - session: 会话, 对话, 话路
+            - set
+                - reset;
+                - setup; set up
+            - several
         - si
             - sib
                 - sibling
