@@ -1,0 +1,2 @@
+- [[novel stimuli]]
+- [[reorganize the perception]]: 重新组织大脑的感知
