@@ -2,6 +2,6 @@
 - restore the graph;
 - [[populate changes]]; [[save the change]]
     - [[system-wide change]]; global change
-    - updated in every location
+    - updated in every location; automatically populate throughout the graph
 - save data periodically
 - [[version control]]; [[revision control]]; [[revision]]

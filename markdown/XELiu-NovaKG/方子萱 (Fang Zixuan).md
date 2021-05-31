@@ -1,6 +1,6 @@
 - info
     - 1995-02-14
-    - 172 cm -- B86 W60 H90
+    - 173 cm -- B86 W60 H90
     - [[重庆 (Chongqing)]] 南岸区
 - weibo
     - https://weibo.com/u/2403098262

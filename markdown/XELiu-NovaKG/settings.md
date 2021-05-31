@@ -8,6 +8,7 @@
 - dependence...
 - [[option]]
 - [[preference]]: 首选项, 优先, 偏好;
+    - [[personal preference]]
 - system settings
     - [[Control Panel]]
     - [[task manager]]

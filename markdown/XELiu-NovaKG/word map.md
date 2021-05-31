@@ -303,7 +303,7 @@
             - esse
                 - essence; essential, 2; essentially
             - estimate
-                - estimation;
+                - estimation; estimating
                 - underestimated: 低估 ; 对…估计不足 ; 对…认识不足 ; 轻视; |
         - et
             - eternal
