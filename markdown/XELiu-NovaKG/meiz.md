@@ -105,6 +105,8 @@ https://www.ywpic.com/138855.html
                 - 8
 https://www.ywpic.com/150199.html
 https://www.ywpic.com/145770.html
+https://www.ywpic.com/90657.html
+https://www.ywpic.com/140409.html
 https://www.ywpic.com/159846.html
 https://www.ywpic.com/150044.html
 https://www.ywpic.com/139836.html
