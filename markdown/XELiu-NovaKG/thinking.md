@@ -1,3 +1,4 @@
 - [[brainstorm]]
     - [[mind map]]; mind mapping
+- [[random noise]]
 - thought structure

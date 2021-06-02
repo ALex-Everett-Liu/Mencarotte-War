@@ -1,6 +1,7 @@
 - Central Lands...
     - [[Arabia]]
 - [[Chinese history]]
+- [[Europe]]
 - [[ethnics]]: 人种学
 - [[historian]]
 - [[historical geography]]

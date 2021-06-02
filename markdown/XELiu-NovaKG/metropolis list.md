@@ -18,6 +18,7 @@
 - [[梦心月 (Meng Xinyue)]] #pt9-100
 - [[黄楽然 (Huang Leran)]] #pt9-100
 - [[Eunji Pyoapple (표은지)]] #pt10-99.99
+- [[小九月 (xiao jiuyue)]] -- pt8-99.98
 - [[唐嫣 (Tang Yan)]] -- #pt9-100
 - [[程媛媛 (Cheng Yuanyuan)]]
 - [[冯木木 (Feng Mumu)]] -- pt8-99.98

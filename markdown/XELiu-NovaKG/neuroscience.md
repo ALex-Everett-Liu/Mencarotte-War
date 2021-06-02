@@ -1,6 +1,7 @@
 - [[brain science]]
     - [[human brain]]
 - [[cognitive science]]: 认知科学
+- [[dream]]
 - general...
     - rewire with new connections;
 - human interaction...

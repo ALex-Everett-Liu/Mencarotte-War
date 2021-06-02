@@ -1,5 +1,6 @@
 - [[flow (psychology)]]: 心流
     - 打断思路
+- [[meditation]]
 - [[neuropsychology]]
 - [[psychiatry]]: 精神病治疗学
     - [[depression]]

@@ -5,6 +5,7 @@
     - [[latent disease]]
 - [[disorder]]
 - [[doctor]]
+- [[drug]]
 - [[patient]]
 - [[flu]]
     - [[influenza virus]]
