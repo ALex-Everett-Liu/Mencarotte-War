@@ -9,6 +9,7 @@
     - [[メル (mer)]]
     - [[みきとP (mikitoP)]]
     - [[のぼる↑ (noboruP)]]
+    - [[すりぃ (Three)]]
     - [[とあ (toa)]]
     - [[Treow（逆衝動P）]]
 - [[VOCALOID]]

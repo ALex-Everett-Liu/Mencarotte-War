@@ -1,7 +1,7 @@
 - [[ambiguity]]; [[disambiguation]]
 - expand the article;
 - reference check
-- related reading; related article
+- related reading; related article; [[related ideas]]
     - [[external link]]; external article
     - [[further reading]]
 - [[stub]]

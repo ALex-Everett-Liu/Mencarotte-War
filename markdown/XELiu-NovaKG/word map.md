@@ -467,6 +467,7 @@
             - junction
                 - conjunct
                     - conjunction;
+                - [[juncture]]
             - junior
     - l
         - la
