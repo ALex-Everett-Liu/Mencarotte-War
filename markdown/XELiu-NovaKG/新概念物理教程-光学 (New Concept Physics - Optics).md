@@ -1,0 +1,67 @@
+- source
+    - [PDF 文件]使用 "Pdf Factory Pro" [试用版本][创建](www.fineprint.com.cn) 
+- preface - p7
+    - 近年来的最新进展：变换光学，非线性光学，统计光学，信息光学
+    - [2]: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv-4JRAEe-g.png?alt=media&token=b0227a85-1398-45bd-b9bc-bffb8e266ff4)
+- ch1. 光的传播 - p16
+    - 1.1 概念-客体-本性
+        - 光的微粒理论-微粒流
+            - 机械论-机械运动过程
+        - 光的波动理论-充满空间的[弹性介质](((DIlh4P_3s)))中传播的机械波-纵波还是[横波]([[transverse wave]])？
+            - aether - 弹性模量极大
+                - 利用光的干涉效应 探测地球在以太中的绝对运动
+                    - 绝对时空观-以静止以太为背景
+            - 光的偏振现象-横波
+            - 光在水中的速度-Foucault
+        - 光的电磁理论
+            - 无线电波 - Hertz, 1888
+    - 1.2 light source
+        - 光的发射
+            - 热辐射/温度辐射 - 白炽灯
+            - 电致发光
+                - 电弧; 气体辉光放电管
+            - 荧光
+                - 磷光
+                - 化学发光 - 鬼火
+                - 生物发光
+        - light intensity -- [average energy flow density](((Oknqm8qAY))) -- average power in unit area -- p19
+            - [Poynting vector](((MXqraioNA))) 的瞬时值   $$S=|\boldsymbol{E} \times \boldsymbol{H}|=\sqrt{\frac{\varepsilon \varepsilon_{0}}{\mu \mu_{0}}} E^{2}$$   (1.2)
+                - $$\sqrt{\varepsilon \varepsilon_{0}} E=\sqrt{\mu \mu_{0}} H$$
+                    - 在光频波段，磁化机制不起作用，$$\mu \approx 1$$   #approx
+                    - [光学折射率](((K_xYwGdAl))) $$n=\sqrt{\varepsilon \mu}=\sqrt{\varepsilon}$$
+                    - $$c=1 / \sqrt{\varepsilon_{0} \mu_{0}}$$
+                - $$S=\sqrt{\frac{\varepsilon_{0}}{\mu_{0}}} n E^{2}=\frac{n}{c \mu_{0}} E^{2}$$   (1.3)
+                - $$I=\bar{S}=\frac{n}{2 c \mu_{0}} E_{0}^{2}$$   (1.4)
+                    - 简谐振动-振幅-平均值   $$\overline{E^{2}}=\frac{1}{2} E_{0}^{2}$$
+                    - 同一介质中，只关心光强的相对分布，省略比例系数 $$I=\boldsymbol{E}_{0}^{2}$$   (1.5)
+        - light spectrum
+            - 分光仪器-棱镜--非单色光
+                - 衍射光栅
+            - [光谱密度](((9aA4NcsiM))) $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
+                - 则总光强为 $$I=\int_{\lambda=0}^{\lambda=\infty} \mathrm{d} I_{\lambda}=\int_{0}^{\infty} i(\lambda) \mathrm{d} \lambda$$   (1.7)
+            - 连续光谱
+                - 白光-多色混合光
+                    - 互补色混合
+                - 太阳光谱-日光照明
+            - 线光谱
+                - 特征谱线-不同化学成分
+                    - 谱线宽度-单色性-$$\Delta \lambda$$
+                    - 典型谱线表 p20
+    - 1.3 
+        - 几何光学
+            - 波长极短，波动效应不明显
+        - 物理光学/波动光学
+        - 量子光学
+            - 光与物质的相互作用
+    - 2.1 几何光学 p22
+        - 均匀介质，沿直线传播
+            - 暗箱[小孔/针孔成像](((-y3BglRzS)))，倒立的像
+        - [Snell rule](((TqEePDdYU))) - $$\frac{\sin i_{1}}{\sin i_{2}}=n_{12}$$   (1.9)
+            - $$n_{1}{\sin i_{1}}=n_{2}{\sin i_{2}}$$   (1.11）
+            - [折射率](((oG-5ckVGY)))-比例系数n12
+                - 绝对折射率-介质相对于真空的
+                - 光密介质-n较大 | 光疏介质
+                - 常见透明介质对钠黄光的折射率 - D-line, 589.3 nm - p23
+            - 入射面-入射线+分界面的法线
+            - 任意入射线在球面上的折射线 p23 #pt8-99.99
+    - 2.2 全反射

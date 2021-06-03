@@ -1,0 +1,7 @@
+- [[energy flow density]]
+    - average energy flow density
+- [[energy flux]]
+    - directional energy flux
+    - energy flux vector
+- per unit area; per unit time
+- watt per square metre (W/m2)

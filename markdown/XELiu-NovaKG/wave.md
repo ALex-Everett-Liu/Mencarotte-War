@@ -1,8 +1,23 @@
+- composite phenomena
 - elastic medium; elastic media; 弹性介质
     - elastic solid
+- ideal wave
+    - continuous entity
+    - extended region
+    - physical wave
 - [[longitudinal wave]]
     - [[sound wave]]
         - [[sound speed]]; the speed of sound
     - [[pressure wave]]
         - compression and expansion of the material
+- [[mechanical wave]]; 机械波
+- [[plane wave]]
+    - [[spherical wave]]
+        - transverse spherical wave
+- [[transverse wave]]
+    - drum membrane
+    - [[shear wave]]
+    - [[string wave]]
+- [[traveling wave]]
+- [[water wave]]
 - [[wave optics]] / [[physical optics]]

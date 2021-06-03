@@ -1,0 +1,4 @@
+- [displacement](https://workflowy.com/#/c13e6687fb1a)
+    - relaxed position
+- elastic solid
+- local shear deformation

@@ -24,3 +24,7 @@
 - [[Maxwell's equations]]
 - medium...
     - anisotropic medium
+- [[Poynting vector]]
+    - [[energy flow]]; [[power flow]]
+    - [[vector field]]
+        - curl
