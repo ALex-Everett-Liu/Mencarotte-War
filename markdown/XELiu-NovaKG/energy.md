@@ -1,4 +1,6 @@
 - [[energy conservation]]
+- [[energy flow]]; [[power flow]]
+    - [[Umov–Poynting vector]]
 - energy type
 - [[kinetic energy]]
 - [[mechanical energy]]
