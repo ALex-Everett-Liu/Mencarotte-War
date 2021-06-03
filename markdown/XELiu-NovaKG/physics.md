@@ -19,6 +19,11 @@
     - condition...
         - [[extreme condition]]
         - [[idealized situation]]
+    - dependence...
+        - [[correspondence]]; [[yield]]
+        - dependent on the system
+            - [independent entity](https://workflowy.com/#/b0a144674ddf)
+        - scale inversely
     - model
         - [[empirical model]]: 经验模型
     - [[modern physics]]
@@ -30,6 +35,15 @@
     - physical process
     - physical properties
         - counter-intuitive property
+    - scale, scope...
+        - large scale
+        - [[macroscopic scale]]
+            - ordinary scale
+        - [[microscopic scale]]; microscopic system
+            - atomic-scale entity
+            - microscopic phenomena
+            - small scale
+            - subatomic scale
     - time
         - at any given time: 某个给定的时间; at any particular time
         - for all future time

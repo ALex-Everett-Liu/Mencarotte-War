@@ -1,6 +1,19 @@
-- the Law of Reflection
-    - rectilinear propagation
+- far field
+- focus; focused
+    - focal point; focal spot
+    - foci
+    - refractive focal length; diffractive focal length
 - [[lens]]; lenses
 - [[mirror]]
+- optical axis
+    - deflect; deflected
+    - propagation axis
+- perspective
 - [[reflection]]
+    - [[Snell rule]]
+- [[refraction]]
+    - [[birefringence]]
+    - [[refractive index]]
+    - [[refractive lens]]
+- [[shadow]]
 - 小孔成像

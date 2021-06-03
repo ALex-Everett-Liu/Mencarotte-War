@@ -1,2 +1,9 @@
-- [[Snell rule]]
-- [[refractive index]]
+- the Law of Reflection
+    - rectilinear propagation
+- mirror image
+- reflection symmetry; reflectional symmetry
+    - P-symmetry
+    - parity transformation
+- reflecting surface
+    - [mirror surface](https://workflowy.com/#/e0ae07aa53f0)
+    - printed surface

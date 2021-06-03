@@ -1,0 +1,4 @@
+- [[bound system]]
+- [[free particle]]
+- [[potential barrier]]
+- trapped

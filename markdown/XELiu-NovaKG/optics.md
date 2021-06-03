@@ -12,6 +12,9 @@
     - monochromatic beam
     - single incident beam
 - material...
+    - [[glass]]
+        - looking-glasses
+    - [[refractive index]]
 - [[wave optics]] / [[physical optics]]
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]

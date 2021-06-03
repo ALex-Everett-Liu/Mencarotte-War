@@ -2,7 +2,10 @@
 - [[energy flow]]; [[power flow]]
     - [[Umov–Poynting vector]]
 - energy type
+- [[internal energy]]
 - [[kinetic energy]]
+- lose energy
 - [[mechanical energy]]
 - [[potential energy]]; potential energy function
 - [[power]]
+- [[total energy]]
