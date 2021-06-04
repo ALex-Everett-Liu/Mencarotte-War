@@ -1,0 +1,2 @@
+- [[angular frequency]]
+- [[spatial frequency]]

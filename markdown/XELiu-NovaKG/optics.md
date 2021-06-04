@@ -15,20 +15,16 @@
         - vertical direction;
     - propagation speed
 - [[light source]]; optical source
-    - additional light source
-    - coherent light source
-    - [[incident light]]
-    - monochromatic beam
-    - single incident beam
 - [[light spectrum]]
 - material...
     - dielectric medium
-        - [[metal–dielectric interface]]
+        - [[metal–dielectric interface]]; metal/dielectric interface
         - uniform dielectric
     - [[glass]]
         - looking-glasses
     - [[refractive index]]
 - [[photonics]]
+    - [[grating]]
     - [[lithography]]
     - [[microscopy]]; microscope
     - [[nanophotonics]]

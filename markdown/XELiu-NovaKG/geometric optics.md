@@ -1,6 +1,5 @@
 - dispersion; [[dispersion relation]]
-    - prism
-        - 棱镜光谱仪
+    - [[prism]]
     - 分光
     - 折射率随波长变化的数据
 - far field
@@ -17,6 +16,7 @@
 - [[reflection]]
     - [[Snell rule]]
         - 全反射; [[total internal reflection]]
+            - [[attenuated total reflection]]
 - [[refraction]]
     - [[birefringence]]
     - [[refractive index]]

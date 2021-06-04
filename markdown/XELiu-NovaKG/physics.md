@@ -6,6 +6,7 @@
 - [[astrophysics]]
 - [[classical mechanics]]
 - [[computational physics]]
+- [[condensed matter physics (CMP)]]
 - [[electrodynamics]]
 - [[experimental physics]]; [[experimental physicist]]
 - [[physics/field]]
@@ -35,6 +36,9 @@
     - physical process
     - physical properties
         - counter-intuitive property
+    - physical quantity
+        - base quantities
+        - [[frequency]]
     - scale, scope...
         - large scale
         - [[macroscopic scale]]
@@ -54,6 +58,7 @@
     - medium...
         - elastic medium; elastic media; 弹性介质
         - [[liquid]]
+    - [[metal]]
     - [[raw material]]
 - meta phys...
     - [[anthropic principle]]

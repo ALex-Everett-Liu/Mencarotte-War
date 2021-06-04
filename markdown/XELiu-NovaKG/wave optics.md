@@ -9,3 +9,4 @@
     - [[light speed]]; the speed of light
     - the wave nature of light; [[light wave]]
         - the nature of light
+- [[wave vector]]

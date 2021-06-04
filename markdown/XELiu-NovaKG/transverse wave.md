@@ -1,1 +1,2 @@
+- [[TM (transverse magnetic) wave]]
 - transverse spherical wave
