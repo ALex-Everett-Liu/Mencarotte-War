@@ -1,7 +1,11 @@
 - draft
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
     - 
-    - 
+    - my research
+        - 热电子器件-光吸收激发电子-纳米工艺-SPPs
+            - 光电转换效率
+            - 光探测器
+            - 多层平板结构和光栅结构
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
 - quick todo
