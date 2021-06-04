@@ -1,2 +1,4 @@
 - magnifier; magnifying glass
+- [[near-field scanning optical microscopy]]; SNOM; NSOM
 - [[scanning tunnelling microscopy (STM)]]
+    - photoassisted scanning tunnelling microscopy

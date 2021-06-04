@@ -20,4 +20,5 @@
     - [[string wave]]
 - [[traveling wave]]
 - [[water wave]]
+- [[wavelength]]
 - [[wave optics]] / [[physical optics]]

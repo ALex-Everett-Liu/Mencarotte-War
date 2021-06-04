@@ -1,5 +1,6 @@
 - grooved diffraction pattern
 - [[diffraction limit]]
+    - [[Rayleigh criterion]]
 - [[diffractive optical element (DOE)]]
     - [[diffractive lens]]
         - multifocal diffractive lens

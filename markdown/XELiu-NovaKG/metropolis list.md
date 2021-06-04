@@ -31,9 +31,11 @@
 - [[倪妮 (Ni Ni)]] -- pt9-100
 - [[何嘉颖 (He Jiaying)]] #pt9-100
 - 安然Maleah -- pt9-99.99
-- 鱼子酱 --pt8-99.99
+- 人间荒糖 -- pt8-99.99
+- 鱼子酱 (yuzijiang) --pt8-99.99
 - [[桃香子 (taoxiangzi)]] #pt9-99.99
+- 蓝夏Akasha -- pt8-99.99
 - 糯美子MINIbabe -- pt8-99.98
-- 陆萱萱 -- pt9-99.98
+- 陆萱萱 (Lu Xuanxuan) -- pt9-99.98
 - korea chemo 01 -- #pt8-99.99
 - 袁姗姗 (Yuan Shanshan) -- pt8-99.97

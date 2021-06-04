@@ -5,7 +5,7 @@
         - [[Fermi-Dirac function]]; [[Fermi function]]
         - [[non-equilibrium electrons]]
     - [[mobility]]: 迁移率
-- [[collector]]
+- [[collector]]; collect electrons
 - electron; hole; [[electron-hole pair]]
     - recombining with a hole;
 - [[electron flow]]

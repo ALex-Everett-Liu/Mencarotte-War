@@ -5,10 +5,12 @@
 - [energy...](((9ZMcw9f-v)))
     - emit energy; 
     - exchange energy
-    - transfer energy;
+    - transfer energy; 
 - excitation by electrons
 - fire electrons;
+- [[focus light]]
 - [[local field intensity]]
+- [[localized surface plasmons (LSPs)]]
 - [metal...](((cR5R8-2Ol)))
     - [[metal–air interface]]
     - [[metal–dielectric interface]]; metal/dielectric interface
@@ -21,8 +23,6 @@
 - surface...
     - the bulk of a metal; bulk plasma
     - [[free space]]
-        - [[free-space photon]]
-        - [[free-space radiation]]
     - planar surface
     - isolated surface defect
         - [[corrugation]]: 棱皱, 波形;

@@ -1,3 +1,6 @@
+- the behavior of light
+    - [[focus light]]
+    - transport light
 - [[classical optics]]
 - general...
     - capture light
@@ -17,19 +20,19 @@
 - [[light source]]; optical source
 - [[light spectrum]]
 - material...
-    - [[dielectric medium]]; [[dielectric material]]
+    - [[dielectric medium]]; [[dielectric material]]; [[dielectric structure]]
         - [[metal–dielectric interface]]; metal/dielectric interface
         - uniform dielectric
     - [[glass]]
         - looking-glasses
     - [[refractive index]]
+- [[optical component]]
+- [[optical engineering]]
 - [[photonics]]
     - [[grating]]
     - [[lithography]]
-    - [[microscopy]]; microscope
-    - [[nanophotonics]]
-        - [[subwavelength optics]]
-        - [[surface plasmon polaritons (SPPs)]]
+    - [[microscopy]]; [[microscope]]
+    - [[nanophotonics]]; [[nano-optics]]
     - [[photon]]
 - wave guide
     - [[optical fiber]]

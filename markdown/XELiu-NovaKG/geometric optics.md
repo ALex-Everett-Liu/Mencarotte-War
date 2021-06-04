@@ -7,7 +7,7 @@
     - focal point; focal spot
     - foci
     - refractive focal length; diffractive focal length
-- [[lens]]; lenses
+- [[lens]]; [[lenses]]
 - [[mirror]]
 - optical axis
     - deflect; deflected

@@ -6,6 +6,8 @@
 - [[business use]]
 - [[company]]; [[corporation]]; firm
     - shareholder
+- cost
+    - reduce cost;
 - digital business??
     - retail electronics store
 - general...
