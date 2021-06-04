@@ -1,3 +1,4 @@
+- [[diffraction]]
 - [[interference]]
 - [[polarization]]
 - the wave theory of light

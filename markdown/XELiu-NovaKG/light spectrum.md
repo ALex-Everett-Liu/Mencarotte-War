@@ -1,0 +1,22 @@
+- electromagnetic spectrum
+- frequency spectrum
+    - characteristic frequency
+    - shift to higher frequencies; higher frequencies
+- infinite spectrum
+- infrared; infrared spectrum; infrared range; infrared region; infrared-frequency
+    - Near-Infrared (NIR)
+    - infrared-passing filter
+- ultraviolet; ultraviolet radiation
+- visible light; visible frequency; visible-frequency; visible spectrum; visible band
+- non-visible band;
+- wavelength band; spectral band; spectral range
+- X-ray; x-ray
+- 分光仪器
+- 光谱密度
+- 连续光谱
+    - 白光
+        - 多色混合光
+        - 互补色混合
+    - 太阳光谱
+- 线光谱
+    - 特征谱线

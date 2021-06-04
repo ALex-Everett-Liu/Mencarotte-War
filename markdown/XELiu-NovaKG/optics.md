@@ -6,15 +6,38 @@
     - oncoming light
     - [[optical effect]]
 - [[geometric optics]]
+- [[light generation]]
+- light propagation; wave propagation
+    - propagation direction; the direction of propagation
+        - horizontal direction;
+        - perpendicular direction; perpendicular to the direction
+        - right angle
+        - vertical direction;
+    - propagation speed
 - [[light source]]; optical source
     - additional light source
     - coherent light source
+    - [[incident light]]
     - monochromatic beam
     - single incident beam
+- [[light spectrum]]
 - material...
+    - dielectric medium
+        - [[metal–dielectric interface]]
+        - uniform dielectric
     - [[glass]]
         - looking-glasses
     - [[refractive index]]
+- [[photonics]]
+    - [[lithography]]
+    - [[microscopy]]; microscope
+    - [[nanophotonics]]
+        - [[subwavelength optics]]
+        - [[surface plasmon polaritons (SPPs)]]
+    - [[photon]]
+- wave guide
+    - [[optical fiber]]
+    - guided light
 - [[wave optics]] / [[physical optics]]
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]

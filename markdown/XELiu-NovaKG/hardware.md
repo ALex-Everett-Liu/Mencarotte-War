@@ -5,6 +5,7 @@
     - [[Apple Company]]
     - [[Lenovo]]
 - computer monitor
+- [[data storage]]
 - display
     - high contrast
     - [[screen]]
@@ -24,11 +25,6 @@
     - [[CPU (central processing unit)]]
 - [[personal computer (PC)]]
 - [[random-access memory (RAM)]]
-- storage
-    - disk bay
-    - [[floppy disk]]
-    - [[hard disk drive (HDD)]]
-        - [[SSD]]
 - [[wearable technology]]
 - #inbox
     - [硬件](https://bbs.saraba1st.com/2b/thread-1999436-2-1.html) 理性讨论，pc diy 会被干死吗？ #pt10-99.98

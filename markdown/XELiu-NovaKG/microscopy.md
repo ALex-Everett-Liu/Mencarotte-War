@@ -1,0 +1,2 @@
+- magnifier; magnifying glass
+- [[scanning tunnelling microscopy (STM)]]

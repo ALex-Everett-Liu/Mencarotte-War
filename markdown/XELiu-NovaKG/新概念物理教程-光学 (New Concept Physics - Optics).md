@@ -37,7 +37,7 @@
         - light spectrum
             - 分光仪器-棱镜--非单色光
                 - 衍射光栅
-            - [光谱密度](((9aA4NcsiM))) $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
+            - [光谱密度](((37vwpZiO5))) $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
                 - 则总光强为 $$I=\int_{\lambda=0}^{\lambda=\infty} \mathrm{d} I_{\lambda}=\int_{0}^{\infty} i(\lambda) \mathrm{d} \lambda$$   (1.7)
             - 连续光谱
                 - 白光-多色混合光
@@ -55,13 +55,26 @@
             - 光与物质的相互作用
     - 2.1 几何光学 p22
         - 均匀介质，沿直线传播
-            - 暗箱[小孔/针孔成像](((-y3BglRzS)))，倒立的像
-        - [Snell rule](((TqEePDdYU))) - $$\frac{\sin i_{1}}{\sin i_{2}}=n_{12}$$   (1.9)
+            - 暗箱[小孔/针孔成像](((1sTbjr3Ly)))，倒立的像
+        - [Snell rule](((BHGlcQbYd))) - $$\frac{\sin i_{1}}{\sin i_{2}}=n_{12}$$   (1.9)
             - $$n_{1}{\sin i_{1}}=n_{2}{\sin i_{2}}$$   (1.11）
-            - [折射率](((oG-5ckVGY)))-比例系数n12
+            - [折射率](((85GHGy9e3)))-比例系数n12
                 - 绝对折射率-介质相对于真空的
-                - 光密介质-n较大 | 光疏介质
+                - [光密介质](((Wz6Mqyd0-)))-n较大 | 光疏介质
                 - 常见透明介质对钠黄光的折射率 - D-line, 589.3 nm - p23
             - 入射面-入射线+分界面的法线
             - 任意入射线在球面上的折射线 p23 #pt8-99.99
     - 2.2 全反射
+        - 从[光密介质](((Wz6Mqyd0-)))射向光疏介质, $$n_{12}=n_2/n_1<1$$, 折射角 i2 较大
+            - 全反射临界角 $$ i_{c}=\arcsin \left(n_{2} / n_{1}\right) $$   (1.13)
+        - 全反射棱镜-双筒望远镜
+        - **微型波导**-光导纤维-内层的玻璃纤维折射率较高-传像-内窥光学系统
+            - 石英光导纤维-激光光缆通讯
+            - 聚光纤维 p25 - 渐变折射率介质
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FBP-ZR6SpRE.png?alt=media&token=5c4f352d-77e8-47e7-a197-8a68e14022a4)
+                - $$n(r) \cos \theta(r)=constant$$   (1.14)
+$$\frac{\mathrm{d} n}{\mathrm{~d} \theta}=n \tan \theta$$   (1.15)
+$$\frac{d r}{d z}=\tan \theta$$   (1.16)
+    - 2.3 棱镜与色散
+        - 三棱镜的主截面-偏向角-最小偏向角 p27
+        - 分光-dispersion-正常色散 n∝1/lambda - [折射率随波长变化的数据](((65N-PDp0R))) p29 -- 棱镜光谱仪

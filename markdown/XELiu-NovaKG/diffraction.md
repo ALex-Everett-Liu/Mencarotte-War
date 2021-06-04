@@ -1,0 +1,7 @@
+- grooved diffraction pattern
+- [[diffraction limit]]
+- [[diffractive optical element (DOE)]]
+    - [[diffractive lens]]
+        - multifocal diffractive lens
+- [[diffraction order]]
+    - axial diffraction order

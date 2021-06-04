@@ -1,3 +1,8 @@
+- dispersion; [[dispersion relation]]
+    - prism
+        - 棱镜光谱仪
+    - 分光
+    - 折射率随波长变化的数据
 - far field
 - focus; focused
     - focal point; focal spot
@@ -11,6 +16,7 @@
 - perspective
 - [[reflection]]
     - [[Snell rule]]
+        - 全反射; [[total internal reflection]]
 - [[refraction]]
     - [[birefringence]]
     - [[refractive index]]
