@@ -17,7 +17,7 @@
 - [[light source]]; optical source
 - [[light spectrum]]
 - material...
-    - dielectric medium
+    - [[dielectric medium]]; [[dielectric material]]
         - [[metal–dielectric interface]]; metal/dielectric interface
         - uniform dielectric
     - [[glass]]

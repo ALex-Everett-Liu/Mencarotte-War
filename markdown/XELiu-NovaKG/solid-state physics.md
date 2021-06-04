@@ -1,4 +1,32 @@
+- [[bulk temperature]]
+- [[phys/carrier]]; [[charge carrier]]: 电荷载流子
+    - [[carrier density]]
+    - [[electron distribution]]
+        - [[Fermi-Dirac function]]; [[Fermi function]]
+        - [[non-equilibrium electrons]]
+    - [[mobility]]: 迁移率
+- [[collector]]
+- electron; hole; [[electron-hole pair]]
+    - recombining with a hole;
 - [[electron flow]]
-- [[hot-carrier injection (HCI)]]
-- [[semiconductor]]
+- energy band
+    - [[conduction band]]
+    - [[valence band]]
+        - [[valence band offset]]: 价带偏移 
+- free-electron model
+    - [[electron gas temperature]]
+- [[hot-carrier injection (HCI)]]; [[hot carrier]]; [[hot electron]]; hot electron effect; hot-electron effect
+    - energy is lost as heat: 以热能的形式耗散; power dissipated: 功率耗散
+        - electron-phonon (e-p) interaction
+        - the energy dissipated by hot electron phonons: 声子能量耗散
+    - the population of hot electrons
+    - travel into other surrounding materials; tunnel out of the material; being conducted through the material
+- [[leakage current]]
+- [[transistor]]
+- [[reliability]]
+- [[semiconductor]]; [[semiconductor device]]; semiconductor material
+- [[solar cell]]
+    - photovoltaic properties
+        - convert light to electricity
+        - [[inefficiency]]
 - [[solid-state electronic device]]

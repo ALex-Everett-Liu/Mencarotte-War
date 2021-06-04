@@ -1,5 +1,6 @@
 - [[atomic nucleus]]
     - [[nuclear attraction]]
+- [[atomic structure]]
 - [[atomic theory]]
     - [[corpuscular theory]]
 - [[hydrogen atom]]...
