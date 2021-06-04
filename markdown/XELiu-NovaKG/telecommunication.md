@@ -1,9 +1,14 @@
+- [[metal antennas]]
 - [[communications satellite]]
 - [[computer network]]; computer networking; [[network]]...
 - electrical and electronic telecommunications
     - [[radio communication]]
         - [[radio]]
+- [[microwave engineering]]
+    - [[microwave circuit]]
 - [[optical fiber]]
+- [[radio engineering]]
+    - [[radiowave circuit]]
 - [[telegraph]]; [[teleprinter]]
 - [[telephone]]
 - [[television]]

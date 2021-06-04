@@ -1,5 +1,6 @@
 - additional light source
 - coherent light source
 - [[incident light]]; incident beam
-- single incident beam
 - monochromatic beam
+- object illumination source
+- single incident beam

@@ -1,0 +1,2 @@
+- [[angular resolution]]
+- [[spatial resolution]]

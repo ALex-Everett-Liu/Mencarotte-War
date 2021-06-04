@@ -5,4 +5,4 @@
         - [[planet]]
 - [[cosmology]]
 - [[space science]]
-- [[telescope]]
+- [[telescope]]; telescopic instrument

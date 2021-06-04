@@ -1,0 +1,8 @@
+- [[aberration]]: 像差, 畸变;
+- [[aperture]]
+- [[imperfection]]
+- [[misalignment]]
+- [[objective]]: 物镜
+- [[optical stethoscopy]]
+- [[resolution]]
+- [[three-dimensional imaging]]

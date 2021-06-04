@@ -1,0 +1,3 @@
+- [[circular aperture]]
+- [[entrance aperture]]
+- [[numerical aperture]]

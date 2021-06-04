@@ -2,3 +2,5 @@
 - general...
     - withstand high temperatures
 - [[nanotechnology]]
+    - [[metamaterial]]
+        - [[artificial material]]

@@ -682,6 +682,14 @@
                         - politician;
             - ponder
                 - pondered;
+            - port
+                - portal;
+                - [teleport; teleportation](https://workflowy.com/#/c8c05b95dba6)
+            - portion
+                - proportion
+                    - proportional;
+                        - inversely proportional to;
+                    - proportionately increase; 
             - potent
                 - potential;
                     - [[full potential]];

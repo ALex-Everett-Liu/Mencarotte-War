@@ -49,6 +49,7 @@
             - [[nanometer scale]]; nanometer-scale object; nanoscale metal object
             - small scale
             - subatomic scale
+            - deep subwavelength scale
     - time
         - at any given time: 某个给定的时间; at any particular time
         - for all future time
@@ -59,6 +60,7 @@
     - medium...
         - elastic medium; elastic media; 弹性介质
         - [[liquid]]
+        - [[uniform medium]]; [[continuous medium]]
     - [[metal]]
     - [[raw material]]
 - meta phys...
@@ -84,6 +86,7 @@
 - publication...
     - [[academic journal]]
         - [[American Journal of Physics (Am. J. Phys.)]]
+        - [[Appl. Phys. Lett (APL)]]
         - [[Physics Today]]
     - learning
         - The [[Feynman Lectures on Physics]]

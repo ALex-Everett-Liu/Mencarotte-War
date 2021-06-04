@@ -8,17 +8,12 @@
     - transfer energy; 
 - excitation by electrons
 - fire electrons;
-- [[focus light]]
+- [[focus light]]; squeeze light; concentrating fields
 - [[local field intensity]]
 - [[localized surface plasmons (LSPs)]]
-- [metal...](((cR5R8-2Ol)))
-    - [[metal–air interface]]
-    - [[metal–dielectric interface]]; metal/dielectric interface
-    - [[metal surface]]
-    - thin metal film
 - [[polariton]]: 极化电磁声子
 - [[scattering vector]]
-- [[spatial confinement]]
+- confine light; [[spatial confinement]]
     - subwavelength-scale confinement;
 - surface...
     - the bulk of a metal; bulk plasma
@@ -35,7 +30,7 @@
 - ---
 - Surface plasmon polaritons (SPPs) are [[electromagnetic wave]]s that travel along a [[metal–dielectric interface]] or [[metal–air interface]], practically in the [infrared](((8KzfnZDSj))) or [visible-frequency](((it-L_cjdx))). The term "surface plasmon polariton" explains that the wave involves both [[charge motion]] in the metal ("[[surface plasmon]]") and electromagnetic waves in the air or dielectric ("[[polariton]]").[1]
 210604-08:35
-    - They are a type of [[surface wave]], [guided along the interface] [in much the same way] that [light can be guided by] an [[optical fiber]]. SPPs are [shorter in wavelength than] the [[incident light]] (photons).[2] Hence, SPPs can have tighter [[spatial confinement]] and higher [[local field intensity]].[2] [Perpendicular to the interface](((7yr-VUTdF))), they have [subwavelength-scale confinement](((9ZY2l4W2y))). An SPP will [propagate along the interface] [until its energy is lost] either to [absorption in the metal](((fZ6zF-dVg))) or [scattering into other directions] (such as into [[free space]]).
+    - They are a type of [[surface wave]], [guided along the interface] [in much the same way] that [light can be guided by](((Vqo6TbYfI))) an [[optical fiber]]. SPPs are [shorter in wavelength than] the [[incident light]] (photons).[2] Hence, SPPs can have tighter [[spatial confinement]] and higher [[local field intensity]].[2] [Perpendicular to the interface](((7yr-VUTdF))), they have [subwavelength-scale confinement](((9ZY2l4W2y))). An SPP will [propagate along the interface] [until its energy is lost] either to [absorption in the metal](((fZ6zF-dVg))) or [scattering into other directions] (such as into [[free space]]).
 210604-08:55
     - [Application of SPPs enables] [[subwavelength optics]] in [[microscopy]] and [[lithography]] beyond the [[diffraction limit]]. It also enables the first [steady-state micro-mechanical measurement](((-axYZ46NT))) of [a fundamental property of light itself]: [the momentum of a photon](((SnY7jjUOp))) in a [[dielectric medium]]. Other applications are [[photonic data storage]], [[light generation]], and [[bio-photonics]].[2][3][4][5]
 210604-09:07, 09:15

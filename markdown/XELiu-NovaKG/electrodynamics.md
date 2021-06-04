@@ -24,6 +24,7 @@
 - [[Maxwell's equations]]
 - medium...
     - anisotropic medium
+- [[permittivity]]: 介电常数, 电容率;
 - [[Poynting vector]]
     - [[energy flow]]; [[power flow]]
     - [[vector field]]

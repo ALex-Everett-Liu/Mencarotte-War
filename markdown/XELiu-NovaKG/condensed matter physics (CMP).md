@@ -1,3 +1,3 @@
 - [[material]]; [[material science]]
-- [[solid-state physics]]
+- [[solid-state physics]]; [[solid]]
 - [[superfluid]]

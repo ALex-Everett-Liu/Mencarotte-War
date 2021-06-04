@@ -1,5 +1,6 @@
+- [[Airy disk]]
 - grooved diffraction pattern
-- [[diffraction limit]]
+- [[diffraction limit]]; [[diffraction-limited system]]
     - [[Rayleigh criterion]]
 - [[diffractive optical element (DOE)]]
     - [[diffractive lens]]

@@ -2,6 +2,7 @@
 - broadcast living; live stream; 生配信 (namahaishin); namahousou; 直播 (zhibo);
 - [[hypermedia]]
 - [[image processing]]
+    - [[image recording]]
 - [[photograph]]
 - [[radio]]
     - [[radio station]]

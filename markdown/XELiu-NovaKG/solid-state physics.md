@@ -6,6 +6,7 @@
         - [[non-equilibrium electrons]]
     - [[mobility]]: 迁移率
 - [[collector]]; collect electrons
+- [[conductivity]]
 - electron; hole; [[electron-hole pair]]
     - recombining with a hole;
 - [[electron flow]]
@@ -13,7 +14,7 @@
     - [[conduction band]]
     - [[valence band]]
         - [[valence band offset]]: 价带偏移 
-- free-electron model
+- free-electron model; [[free electron]]
     - [[electron gas temperature]]
 - [[hot-carrier injection (HCI)]]; [[hot carrier]]; [[hot electron]]; hot electron effect; hot-electron effect
     - energy is lost as heat: 以热能的形式耗散; power dissipated: 功率耗散

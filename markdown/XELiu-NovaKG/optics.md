@@ -1,5 +1,5 @@
 - the behavior of light
-    - [[focus light]]
+    - [[focus light]]; squeeze light; concentrating fields
     - transport light
 - [[classical optics]]
 - general...
@@ -9,6 +9,10 @@
     - oncoming light
     - [[optical effect]]
 - [[geometric optics]]
+- interaction between light and matter
+    - [[light absorption]]
+    - [[photoelectric effect]]
+- [[light detection]]
 - [[light generation]]
 - light propagation; wave propagation
     - propagation direction; the direction of propagation
@@ -20,23 +24,30 @@
 - [[light source]]; optical source
 - [[light spectrum]]
 - material...
+    - [[cathode ray]]
     - [[dielectric medium]]; [[dielectric material]]; [[dielectric structure]]
         - [[metal–dielectric interface]]; metal/dielectric interface
         - uniform dielectric
     - [[glass]]
         - looking-glasses
-    - [[refractive index]]
+    - [[optical coating]]
+    - optical properties of the material...
+        - non-reflective body
+        - opaque
+        - [[refractive index]]
+        - transparent
 - [[optical component]]
 - [[optical engineering]]
+- [[optical imaging system]]
+- [[optical system]]
 - [[photonics]]
     - [[grating]]
     - [[lithography]]
-    - [[microscopy]]; [[microscope]]
+    - [[microscopy]]; [[microscope]]; microscopic instrument
     - [[nanophotonics]]; [[nano-optics]]
     - [[photon]]
-- wave guide
+- [[waveguide]]
     - [[optical fiber]]
-    - guided light
 - [[wave optics]] / [[physical optics]]
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]
