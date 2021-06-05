@@ -1,21 +1,7 @@
 - draft
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
     - 
-    - my research
-        - 热电子器件-光吸收激发电子-纳米工艺-SPPs
-            - 光电转换效率-光电流响应度
-                - 热弛豫 能量耗散
-                    - 在热载流子能量耗散前穿过金属/半导体肖特基结，就有可能将这部分热载流子转化为回路中的光电流
-            - Photodetectors 光探测器; Photovoltaics
-            - 多层平板结构和光栅结构
-                - 布拉格波长和 DBR 层数
-                - Au 纳米光栅
-                - 耦合-共振-光吸收
-            - Drude 模型和热电子能量分布
-                - 势垒高度和偏置电压
-            - 一般把电子发射到真空中的现象称为外光电效应，电子发射到固体中的现象称为内光电效应。
-                - 非平衡态电子分布
-            - SPs 的电磁场强度在相邻介质中迅速衰减，能将光约束在空间尺寸远小于其自由空间波长的区域内，进而突破衍射极限
+    - 
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
 - quick todo
@@ -24,8 +10,8 @@
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; 23魔方, wegene;; 把瀑布流/整页显示的布局/视图改成分页显示的 css;; 
     - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; 
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
-    - 丝路大亨; 重生传奇; 吾家有妻骄养成; asmr .txt
-    - 御姐; 
+        - 丝路大亨; 重生传奇; 吾家有妻骄养成; asmr .txt
+        - 御姐; 
     - 擦鞋去污渍的喷雾;; 打疫苗
     - wayback machine, archive.org;; 
         - https://archive.is/

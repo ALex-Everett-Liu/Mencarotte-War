@@ -14,6 +14,7 @@
     - [[photoelectric effect]]
 - [[light detection]]
 - [[light generation]]
+- [[light intensity]]
 - light propagation; wave propagation
     - propagation direction; the direction of propagation
         - horizontal direction;

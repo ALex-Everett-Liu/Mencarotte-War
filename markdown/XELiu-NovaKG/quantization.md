@@ -3,4 +3,4 @@
     - discrete point
 - [[Planck’s constant]]
 - quantum hypothesis
-    - energy packet
+    - [[energy packet]]

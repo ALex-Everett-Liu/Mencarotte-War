@@ -1,15 +1,19 @@
 - [[dipole radiation]]
-- electromagnetics; electromagnetism
+- electromagnetics; [[electromagnetism]]
     - [[electricity]]: 电学
         - [[electric charge]]
     - [[magnetism]]
+    - [[Ohm's law]]
 - [[electromagnetic field]]; the electric and magnetic fields
-    - [[electromagnetic energy]]
-    - [[electromagnetic force]]
+    - [[electric current]]
+        - [[current density]]
     - [[electric field]]
         - electric displacement field
         - electric field strength
         - [[electric field vector]]
+    - [[electric potential]]; [[voltage]]
+    - [[electromagnetic energy]]
+    - [[electromagnetic force]]
     - [[electromagnetic system]]
     - [[electromagnetic wave]]
         - [[energy distribution]]
@@ -21,6 +25,7 @@
         - [[magnetic force]]
 - [[electron]]
     - electron beam
+    - [[electron charge]]
 - [[Maxwell's equations]]
 - medium...
     - anisotropic medium

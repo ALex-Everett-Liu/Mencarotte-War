@@ -1,5 +1,6 @@
 - [[Boltzmann brain]]
     - [[Ludwig Boltzmann]]
 - [[entropy]]
+- [[kinetic theory of gases]]; [[kinetic theory]]
 - [[Poincaré recurrence theorem]]
 - statistical interpretation

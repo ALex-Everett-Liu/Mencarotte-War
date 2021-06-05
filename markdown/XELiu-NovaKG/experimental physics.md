@@ -1,3 +1,4 @@
+- [[experimental result]]; outcome of the experiment; [[outcome]]
 - general...
     - testing
     - perform the experiment
@@ -9,7 +10,6 @@
 - [[observation]]
     - [[experimental observation]]
     - [[observable consequence]]
-- outcome of the experiment; [[outcome]]
 - plot...
     - brighter area
     - central peak

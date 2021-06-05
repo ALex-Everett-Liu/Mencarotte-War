@@ -1,0 +1,4 @@
+- intensity distribution
+- light energy
+- low intensity;
+- [[Poynting vector]]

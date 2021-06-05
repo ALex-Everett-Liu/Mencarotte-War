@@ -7,6 +7,10 @@
     - [[mobility]]: 迁移率
 - [[collector]]; collect electrons
 - [[conductivity]]
+- [[Drude model]]
+    - [[electrical conduction]]; [[electric conductivity]]
+        - [[Lorenz number]]
+        - [[thermal conductivity]]
 - electron; hole; [[electron-hole pair]]
     - recombining with a hole;
 - [[electron flow]]
@@ -15,7 +19,7 @@
     - [[valence band]]
         - [[valence band offset]]: 价带偏移 
 - free-electron model; [[free electron]]
-    - [[electron gas temperature]]
+    - [[electron gas]]
 - [[hot-carrier injection (HCI)]]; [[hot carrier]]; [[hot electron]]; hot electron effect; hot-electron effect
     - energy is lost as heat: 以热能的形式耗散; power dissipated: 功率耗散
         - electron-phonon (e-p) interaction
@@ -27,6 +31,7 @@
 - [[reliability]]
 - [[semiconductor]]; [[semiconductor device]]; semiconductor material
 - [[solar cell]]
+    - [[photovoltaic effect]]
     - photovoltaic properties
         - convert light to electricity
         - [[inefficiency]]
