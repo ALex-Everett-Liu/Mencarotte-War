@@ -78,3 +78,21 @@ $$\frac{d r}{d z}=\tan \theta$$   (1.16)
     - 2.3 棱镜与色散
         - 三棱镜的主截面-偏向角-最小偏向角 p27
         - 分光-dispersion-正常色散 n∝1/lambda - [折射率随波长变化的数据](((65N-PDp0R))) p29 -- 棱镜光谱仪
+    - 2.4 光路的可逆性 p29
+    - 3.1 wave-扰动在空间中的传播-周期性振动-波阵面
+        - 波线-切线方向代表传播方向-能量流动方向-同心波束
+    - 3.2 惠更斯原理
+        - 每一面元都是次波的波源-在t'时刻形成次波面-包络面S'
+    - 3.3 折射率-光在两种介质中速度之比 p31
+        - 一束平行光线-反射次波与透射次波-[介质的绝对折射率](((HlYs1cxij))) n=c/v - [光密介质](((Wz6Mqyd0-)))中光速v较小
+        - 微粒碰撞 切向速度v_t不变 法向速度v_n反转 p33
+    - 3.4 光的直线传播
+        - 带小孔的障碍板-边缘光线两侧以外的次波-当孔隙极小时 水波衍射-波的扰动强度的分布- lambda ~ 孔隙线度a   p34
+    - 4.1 [[optical path]]
+        - $$\left( QP \right) =\underset{\left( L \right)}{\int_P^Q}n\text{d}l=\sum_{i} n_{i} \Delta l_{i}$$   (1.30) -- [相位差](((PSreko6cr))) $$\varphi(P)-\varphi(Q)\propto\left( QP \right)$$  #propto
+210605-19:40
+    - 4.2 费马原理
+        - stationary optical path - dy=0 - $$\mathrm{d}^{2} y>0$$ -- $$\delta(Q P)=\delta \underset{\left( L \right)}{\int_P^Q}n\text{d}l=0$$   (1.31)
+    - 4.3 p36
+    - 5.1 光度学-辐射度量学-辐射能通量/功率 (kW)
+        - 能量的频谱分布 谱密度 $$\Psi=\int \psi(\lambda) \mathrm{d} \lambda$$   (1.32)
