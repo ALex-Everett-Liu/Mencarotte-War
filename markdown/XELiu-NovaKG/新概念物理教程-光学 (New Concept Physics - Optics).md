@@ -96,3 +96,12 @@ $$\frac{d r}{d z}=\tan \theta$$   (1.16)
     - 4.3 p36
     - 5.1 光度学-辐射度量学-辐射能通量/功率 (kW)
         - 能量的频谱分布 谱密度 $$\Psi=\int \psi(\lambda) \mathrm{d} \lambda$$   (1.32)
+        - 检测器件-光谱响应曲线 p38
+        - 人眼的光谱响应特征-视见函数 $$V(\lambda)=\frac{\Psi_{555}}{\Psi_{\lambda}}$$   (1.33) - 适亮性 适暗性/微光 - 昏暗的环境中，极大值朝短波方向移动
+        - 总光通量 $$\Phi=K_{\max } \int V(\lambda) \psi(\lambda) \mathrm{d} \lambda$$   (1.34) - 最大光功当量 $$K_{\text {max}}=683 \mathrm{~lm} / \mathrm{W}$$   (1.34) - lumen
+    - 5.2 发光强度
+        - 面光源 扩展光源-单位立体角内的光通量- $$I=\frac{d \Phi}{\mathrm{d} \Omega}$$   (1.35) - candela - 发光强度的角分布-投影面积-亮度 $$B=\frac{d I}{d S^{*}}=\frac{d I}{d S \cos \theta}$$   (1.36) -- $$1 \mathrm{~sb}=1 \mathrm{~lm} /\left(\mathrm{cm}^{2} \cdot \mathrm{sr}\right)$$ (stilb) - 球面度 sr
+    - 5.3 余弦发光体-朗伯余弦定律 p41 - 理想的漫射面-**朗伯反射体**
+        - 定向发光体-能量在方向上的高度集中
+    - 5.4 照度
+        - $$E=\frac{\mathrm{d} \Phi^{\prime}}{\mathrm{d} S^{\prime}}$$   (1.37)
