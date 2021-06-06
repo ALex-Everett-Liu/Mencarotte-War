@@ -12,6 +12,8 @@
 - interaction between light and matter
     - [[light absorption]]
     - [[photoelectric effect]]
+- [[laser]]; [[laser beam]]
+    - [[ray]]
 - [[light detection]]
 - [[light generation]]
 - [[light intensity]]
@@ -24,6 +26,8 @@
     - propagation speed
 - [[light source]]; optical source
 - [[light spectrum]]
+- [[light speed]]; the speed of light
+    - [[propagation speed]]
 - material...
     - [[cathode ray]]
     - [[dielectric medium]]; [[dielectric material]]; [[dielectric structure]]
@@ -37,12 +41,13 @@
         - opaque
         - [[refractive index]]
         - transparent
+    - the properties are independent of direction;
 - [[optical component]]
 - [[optical engineering]]
 - [[optical imaging system]]
 - [[optical path]]
     - 相位差
-- [[optical system]]
+- [[optical system]]: 光学系统, 光具组;
 - [[photonics]]
     - [[grating]]
     - [[lithography]]

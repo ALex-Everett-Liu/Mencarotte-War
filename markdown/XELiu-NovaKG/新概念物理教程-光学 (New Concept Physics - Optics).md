@@ -7,52 +7,24 @@
     - 1.1 概念-客体-本性
         - 光的微粒理论-微粒流
             - 机械论-机械运动过程
-        - 光的波动理论-充满空间的[弹性介质](((DIlh4P_3s)))中传播的机械波-纵波还是[横波]([[transverse wave]])？
-            - aether - 弹性模量极大
+        - 光的波动理论-充满空间的[弹性介质](((DIlh4P_3s)))中传播的[机械波]([[mechanical wave]])-纵波还是[横波]([[transverse wave]])？
+            - aether -[ 弹性模量]([[elastic modulus]])极大
                 - 利用光的干涉效应 探测地球在以太中的绝对运动
                     - 绝对时空观-以静止以太为背景
             - 光的偏振现象-横波
             - 光在水中的速度-Foucault
         - 光的电磁理论
             - 无线电波 - Hertz, 1888
-    - 1.2 light source
+    - 1.2 [[light source]]
         - 光的发射
-            - 热辐射/温度辐射 - 白炽灯
-            - 电致发光
-                - 电弧; 气体辉光放电管
-            - 荧光
-                - 磷光
-                - 化学发光 - 鬼火
-                - 生物发光
-        - light intensity -- [average energy flow density](((Oknqm8qAY))) -- average power in unit area -- p19
-            - [Poynting vector](((GEGfbYqb5))) 的瞬时值   $$S=|\boldsymbol{E} \times \boldsymbol{H}|=\sqrt{\frac{\varepsilon \varepsilon_{0}}{\mu \mu_{0}}} E^{2}$$   (1.2)
-                - $$\sqrt{\varepsilon \varepsilon_{0}} E=\sqrt{\mu \mu_{0}} H$$
-                    - 在光频波段，磁化机制不起作用，$$\mu \approx 1$$   #approx
-                    - [光学折射率](((85GHGy9e3))) $$n=\sqrt{\varepsilon \mu}=\sqrt{\varepsilon}$$
-                    - $$c=1 / \sqrt{\varepsilon_{0} \mu_{0}}$$
-                - $$S=\sqrt{\frac{\varepsilon_{0}}{\mu_{0}}} n E^{2}=\frac{n}{c \mu_{0}} E^{2}$$   (1.3)
-                - $$I=\bar{S}=\frac{n}{2 c \mu_{0}} E_{0}^{2}$$   (1.4)
-                    - 简谐振动-振幅-平均值   $$\overline{E^{2}}=\frac{1}{2} E_{0}^{2}$$
-                    - 同一介质中，只关心光强的相对分布，省略比例系数 $$I=\boldsymbol{E}_{0}^{2}$$   (1.5)
-        - light spectrum
-            - 分光仪器-棱镜--非单色光
-                - 衍射光栅
-            - [光谱密度](((37vwpZiO5))) $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
-                - 则总光强为 $$I=\int_{\lambda=0}^{\lambda=\infty} \mathrm{d} I_{\lambda}=\int_{0}^{\infty} i(\lambda) \mathrm{d} \lambda$$   (1.7)
-            - 连续光谱
-                - 白光-多色混合光
-                    - 互补色混合
-                - 太阳光谱-日光照明
-            - 线光谱
-                - 特征谱线-不同化学成分
-                    - 谱线宽度-单色性-$$\Delta \lambda$$
-                    - 典型谱线表 p20
+        - [[light intensity]]
+        - [[light spectrum]]
     - 1.3 
         - 几何光学
             - 波长极短，波动效应不明显
         - 物理光学/波动光学
         - 量子光学
-            - 光与物质的相互作用
+            - [光与物质的相互作用](((-cguDKDJx)))
     - 2.1 几何光学 p22
         - 均匀介质，沿直线传播
             - 暗箱[小孔/针孔成像](((1sTbjr3Ly)))，倒立的像
@@ -64,7 +36,7 @@
                 - 常见透明介质对钠黄光的折射率 - D-line, 589.3 nm - p23
             - 入射面-入射线+分界面的法线
             - 任意入射线在球面上的折射线 p23 #pt8-99.99
-    - 2.2 全反射
+    - 2.2 [全反射]([[total internal reflection (TIR)]])
         - 从[光密介质](((Wz6Mqyd0-)))射向光疏介质, $$n_{12}=n_2/n_1<1$$, 折射角 i2 较大
             - 全反射临界角 $$ i_{c}=\arcsin \left(n_{2} / n_{1}\right) $$   (1.13)
         - 全反射棱镜-双筒望远镜
@@ -104,4 +76,11 @@ $$\frac{d r}{d z}=\tan \theta$$   (1.16)
     - 5.3 余弦发光体-朗伯余弦定律 p41 - 理想的漫射面-**朗伯反射体**
         - 定向发光体-能量在方向上的高度集中
     - 5.4 照度
-        - $$E=\frac{\mathrm{d} \Phi^{\prime}}{\mathrm{d} S^{\prime}}$$   (1.37)
+        - $$E=\frac{\mathrm{d} \Phi^{\prime}}{\mathrm{d} S^{\prime}}$$   (1.37) -- $$1 \mathrm{~lx}=1 \mathrm{~lm} / \mathrm{m}^{2}, \quad 1 \mathrm{~ph}=1 \mathrm{~lm} / \mathrm{cm}^{2}$$ - lux, phot -- 辐射能流密度
+        - 点光源的照度 $$E=\frac{\mathrm{d} \Phi^{\prime}}{\mathrm{d} S^{\prime}}=\frac{I \cos \theta^{\prime}}{r^{2}}$$   (1.38)   p43
+    - 5.5 发光强度的单位 candle - 标准具 绝对黑体辐射器 - 常见的亮度与照度 p44
+- ch2. 几何光学成像
+    - 1.1 [[concentric beam]]-[[optical system]]-物点和像点-[[real image]] and [[virtual image]] - 透镜不能严格地保持光束的同心性
+210606-06:00
+        - [[real object]] and [[virtual object]] p52
+    - 1.2 ideal optical system-[[object space]] and [[image space]]

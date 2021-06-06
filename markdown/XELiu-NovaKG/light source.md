@@ -5,3 +5,12 @@
 - monochromatic beam
 - object illumination source
 - single incident beam
+- ---
+- 光的发射
+    - 热辐射/温度辐射 - 白炽灯
+    - 电致发光
+        - 电弧; 气体辉光放电管
+    - 荧光
+        - 磷光
+        - 化学发光 - 鬼火
+        - 生物发光

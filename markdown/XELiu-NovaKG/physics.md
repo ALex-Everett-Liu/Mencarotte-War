@@ -7,6 +7,7 @@
 - [[classical mechanics]]
 - [[computational physics]]
 - [[condensed matter physics (CMP)]]
+- [[dimensional analysis]]
 - [[electrodynamics]]
 - [[experimental physics]]; [[experimental physicist]]
 - [[physics/field]]

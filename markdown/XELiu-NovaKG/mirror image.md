@@ -1,0 +1,7 @@
+- chiral; chirality
+- equivalent shift
+- field of view
+    - translated view
+- [[inverted image]]
+- [[left-right reversal]]
+- lateral inversion

@@ -20,3 +20,16 @@
     - 太阳光谱
 - 线光谱
     - 特征谱线
+- ---
+- 分光仪器-棱镜--非单色光
+    - 衍射光栅
+- [光谱密度](((37vwpZiO5))) $$i(\lambda)=\frac{\mathrm{d} I_{\lambda}}{\mathrm{d} \lambda}$$   (1.6)
+    - 则总光强为 $$I=\int_{\lambda=0}^{\lambda=\infty} \mathrm{d} I_{\lambda}=\int_{0}^{\infty} i(\lambda) \mathrm{d} \lambda$$   (1.7)
+- 连续光谱
+    - 白光-多色混合光
+        - 互补色混合
+    - 太阳光谱-日光照明
+- 线光谱
+    - 特征谱线-不同化学成分
+        - 谱线宽度-单色性-$$\Delta \lambda$$
+        - 典型谱线表 p20

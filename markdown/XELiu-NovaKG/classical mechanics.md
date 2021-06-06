@@ -8,6 +8,7 @@
 - friction
     - frictionless;
 - [[force]]
+    - [[stress]]; [[strain]]: 张力
 - Galileo experiment
     - dropped weights from a leaning tower
     - [[inclined surface]]

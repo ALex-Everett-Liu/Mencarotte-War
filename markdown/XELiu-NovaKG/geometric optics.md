@@ -7,19 +7,22 @@
     - focal point; focal spot
     - foci
     - refractive focal length; diffractive focal length
+- [[image]]; [[image space]]
+- [[incident angle]]; incidence angle
 - [[lens]]; [[lenses]]
 - [[mirror]]
+- object; [[object space]]
+    - original object
+    - [[real object]]
+    - [[virtual object]]
 - optical axis
     - deflect; deflected
     - propagation axis
 - perspective
 - [[reflection]]
+    - [[brightness]]
     - [[Snell rule]]
-        - 全反射; [[total internal reflection]]
-            - [[attenuated total reflection]]
+        - [[total internal reflection (TIR)]]; 全反射; 
+    - [[water surface]]; [[water-air surface]]
 - [[refraction]]
-    - [[birefringence]]
-    - [[refractive index]]
-    - [[refractive lens]]
 - [[shadow]]
-- 小孔成像

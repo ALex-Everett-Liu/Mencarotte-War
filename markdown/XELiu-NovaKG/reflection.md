@@ -1,6 +1,6 @@
 - the Law of Reflection
     - rectilinear propagation
-- mirror image
+- [[mirror image]]
 - reflection symmetry; reflectional symmetry
     - P-symmetry
     - parity transformation

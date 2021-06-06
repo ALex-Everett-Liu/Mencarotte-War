@@ -1,12 +1,15 @@
 - [[Roam42]] ROAM/JS Code
     - {{roam/js}}
         - ```javascript
-var s = document.createElement('script');
-	s.type = "text/javascript";
-  	s.src =  "https://roam42.glitch.me/main.js";
-  	s.async = true;
-document.body.appendChild(s);
-```
+var existing = document.getElementById("roamjs-roam42-main");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/roam42/main.js";
+  extension.id = "roamjs-roam42-main";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
 - [[Pyroam - Python notebooks in Roam Research]]
     - {{roam/js}}
         - ```javascript

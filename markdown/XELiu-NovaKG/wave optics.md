@@ -10,3 +10,4 @@
     - the wave nature of light; [[light wave]]
         - the nature of light
 - [[wave vector]]
+- [[wavefront]]

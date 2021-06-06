@@ -1,7 +1,6 @@
 - composite phenomena
 - [[continuous wave]];
 - elastic medium; elastic media; 弹性介质
-    - elastic solid
 - ideal wave
     - continuous entity
     - extended region
