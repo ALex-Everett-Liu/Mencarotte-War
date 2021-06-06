@@ -1,10 +1,10 @@
 - [metal...](((cR5R8-2Ol)))
     - [[lightning rod]]
     - [[metal–air interface]]
-    - [[metal–dielectric interface]]; metal/dielectric interface
+    - [[metal–dielectric interface]]; [[metal-dielectric interface]]; metal/dielectric interface
     - [[metal surface]]
     - [[metallic component]]
-    - nano-sized metal structure;
+    - nano-sized metal structure; [[metallic nanostructure]]
     - thin metal film
 - [[nanoantennas]]
 - [[nanoscale aperture]]

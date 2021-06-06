@@ -25,6 +25,7 @@
         - [[correspondence]]; [[yield]]
         - dependent on the system
             - [independent entity](https://workflowy.com/#/b0a144674ddf)
+        - [[exponential dependence]]
         - scale inversely
     - model
         - [[empirical model]]: 经验模型

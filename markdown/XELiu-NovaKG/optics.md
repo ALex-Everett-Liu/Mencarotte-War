@@ -25,13 +25,13 @@
         - vertical direction;
     - propagation speed
 - [[light source]]; optical source
-- [[light spectrum]]
+- [[light spectrum]]; [[electromagnetic spectrum]]
 - [[light speed]]; the speed of light
     - [[propagation speed]]
 - material...
     - [[cathode ray]]
     - [[dielectric medium]]; [[dielectric material]]; [[dielectric structure]]
-        - [[metal–dielectric interface]]; metal/dielectric interface
+        - [[metal–dielectric interface]]; [[metal-dielectric interface]]; metal/dielectric interface
         - uniform dielectric
     - [[glass]]
         - looking-glasses
@@ -54,7 +54,7 @@
     - [[microscopy]]; [[microscope]]; microscopic instrument
     - [[nanophotonics]]; [[nano-optics]]
     - [[photon]]
-- [[waveguide]]
+- [[waveguide]]; [[optical waveguide]]
     - [[optical fiber]]
 - [[wave optics]] / [[physical optics]]
 - ---

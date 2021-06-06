@@ -7,7 +7,7 @@
     - Near-Infrared (NIR); near-infrared light
     - infrared-passing filter
 - ultraviolet; ultraviolet radiation
-- [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band
+- [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range
 - non-visible band;
 - wavelength band; spectral band; spectral range
 - X-ray; x-ray
