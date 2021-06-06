@@ -1,0 +1,4 @@
+- dictionary 
+    - Using [[optical interconnect]]s instead of electronic interconnects has potential advantages in the communication of [multiprocessing computer systems]. dict.cnki.net
+    - The advantages of [reconfigurable optical interconnects] within [massively parallel systems] [can be used as alternatives to] electronic interconnects within [computer vision systems] which require high [communication and computing speed]. 
+    - With the [electronic products] moving towards lead-free, miniaturization and multi-functions, the reliability of [electronic packaging interconnects] has attracted more and more attentions. www.[fabiao].net

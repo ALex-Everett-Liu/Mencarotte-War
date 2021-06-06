@@ -7,8 +7,11 @@
     - nano-sized metal structure; [[metallic nanostructure]]
     - thin metal film
 - [[nanoantennas]]
+- [[nanoparticle]]
+    - [[metallic nanoparticle array]]
 - [[nanoscale aperture]]
 - [[nanoscale sharp tip]]
+- [[nanowire]]
 - [[plasmonics]]
     - [[surface plasmon polaritons (SPPs)]]
 - [[subwavelength optics]]
