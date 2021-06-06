@@ -1,3 +1,5 @@
+- [[concentric beam]]
+- [[conjugate points]]
 - dispersion; [[dispersion relation]]
     - [[prism]]
     - 分光
@@ -15,7 +17,7 @@
     - original object
     - [[real object]]
     - [[virtual object]]
-- optical axis
+- [[optical axis]]
     - deflect; deflected
     - propagation axis
 - perspective

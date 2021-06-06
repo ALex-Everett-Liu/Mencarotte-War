@@ -83,4 +83,15 @@ $$\frac{d r}{d z}=\tan \theta$$   (1.16)
     - 1.1 [[concentric beam]]-[[optical system]]-物点和像点-[[real image]] and [[virtual image]] - 透镜不能严格地保持光束的同心性
 210606-06:00
         - [[real object]] and [[virtual object]] p52
-    - 1.2 ideal optical system-[[object space]] and [[image space]]
+    - 1.2 ideal optical system-[[object space]] and [[image space]]-[[conjugate points]]
+    - 1.3 等光程性-virtual optical path
+    - 1.4 等光程面 p54 - aplanatic points: 齐明点
+    - 2 共轴球面光具组-[[optical axis]]-傍轴光线的近似成像
+    - 2.1 单个球面上的折射
+        - 光线追迹-正弦和余弦定律
+    - 2.2 轴上无穷远像点的共轭点 物方焦点/前焦点 
+        - $$f=\frac{n r}{n^{\prime}-n}, \quad f^{\prime}=\frac{n^{\prime} r}{n^{\prime}-n}$$   (2.20) - 物像距公式 $$\frac{f^{\prime}}{s^{\prime}}+\frac{f}{s}=1$$   (2.22)   p57 -- 傍轴条件下反射球面成像 $$\frac{1}{s^{\prime}}+\frac{1}{s}=-\frac{2}{r}$$   (2.23)
+    - 2.3 傍轴物点成像
+        - 共轭平面-横向放大率
+    - 2.4 逐次成像 p60
+    - 2.5 Lagrange-Helmholtz theorem
