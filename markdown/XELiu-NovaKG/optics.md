@@ -17,7 +17,7 @@
 - [[light detection]]
 - [[light generation]]
 - [[light intensity]]
-- light propagation; wave propagation
+- light propagation; wave propagation; [[propagating wave]]
     - propagation direction; the direction of propagation
         - horizontal direction;
         - perpendicular direction; perpendicular to the direction
@@ -40,14 +40,14 @@
         - non-reflective body
         - opaque
         - [[refractive index]]
-        - transparent
+        - transparent; [[transparent media]]
+            - lossless medium; perfectly transparent
     - the properties are independent of direction;
-- [[optical component]]
 - [[optical engineering]]
-- [[optical imaging system]]
 - [[optical path]]
     - 相位差
 - [[optical system]]: 光学系统, 光具组;
+    - [[optical component]]
 - [[photonics]]
     - [[grating]]
     - [[lithography]]

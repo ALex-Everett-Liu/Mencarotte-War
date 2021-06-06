@@ -1,3 +1,4 @@
 - Kretschmann configuration
 - Otto configuration
+- [[reflective prism]]
 - 棱镜光谱仪

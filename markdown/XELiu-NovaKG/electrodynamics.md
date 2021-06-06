@@ -1,5 +1,5 @@
 - [[dipole radiation]]
-- electromagnetics; [[electromagnetism]]
+- [[electromagnetics]]; [[electromagnetism]]
     - [[electricity]]: 电学
         - [[electric charge]]
     - [[magnetism]]

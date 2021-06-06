@@ -1,5 +1,6 @@
 - [[aberration]]: 像差, 畸变;
 - [[aperture]]
+- [[image-forming fiberscope]]
 - [[imperfection]]
 - [[misalignment]]
 - [[objective]]: 物镜

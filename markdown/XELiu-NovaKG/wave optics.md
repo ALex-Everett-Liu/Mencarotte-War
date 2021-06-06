@@ -1,7 +1,8 @@
 - [[diffraction]]
+- [[far field]]
 - [[interference]]
 - [[polarization]]
-- the wave theory of light
+- the [[wave theory of light]]
     - [[aether]]; luminiferous aether
         - drag the aether
     - electromagnetic theory of light

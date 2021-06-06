@@ -1,2 +1,3 @@
+- modify polarization
 - [[polarity]]
     - [[opposite polarity]]

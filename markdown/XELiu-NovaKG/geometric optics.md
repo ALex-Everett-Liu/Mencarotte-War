@@ -2,13 +2,13 @@
     - [[prism]]
     - 分光
     - 折射率随波长变化的数据
-- far field
 - focus; focused
     - focal point; focal spot
     - foci
     - refractive focal length; diffractive focal length
 - [[image]]; [[image space]]
-- [[incident angle]]; incidence angle
+- [[optical imaging system]]
+- [[incident angle]]; incidence angle; [[incident plane]]; the plane of incidence
 - [[lens]]; [[lenses]]
 - [[mirror]]
 - object; [[object space]]

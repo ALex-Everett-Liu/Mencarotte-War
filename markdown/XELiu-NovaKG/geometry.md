@@ -2,7 +2,7 @@
 - [[axis]]; [[direction]]; [[angle]]
     - oblique angle
     - opposite direction
-    - perpendicular direction; normal direction
+    - perpendicular direction; normal direction; [[surface normal]]
 - [[coordinate]]
 - [[elementary geometry]]
 - half-space; halfspace

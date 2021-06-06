@@ -1,4 +1,5 @@
 - [[boundary condition]]
+    - [[boundary surface]]
     - [[initial condition]]
 - [[differential equation]]
 - derivative

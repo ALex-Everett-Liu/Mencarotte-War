@@ -1,4 +1,4 @@
-- [[metal antennas]]
+- [[antenna]]
 - [[communications satellite]]
 - [[computer network]]; computer networking; [[network]]...
 - electrical and electronic telecommunications

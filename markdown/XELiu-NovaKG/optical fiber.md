@@ -1,0 +1,11 @@
+- coupling of light into optical fibers
+- fibre channel
+- fiber optic cable; [[telecommunications cable]]
+- [[fiber-optic sensor]]
+- multiplexed
+    - time delay
+        - optical time-domain reflectometer
+    - [[wavelength shift]]
+        - optical frequency domain reflectometry
+- single-mode optical fiber
+- transit time

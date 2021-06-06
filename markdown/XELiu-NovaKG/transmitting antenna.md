@@ -1,0 +1,4 @@
+- dictionary 
+    - Influence of Transmitting Antenna's [[aberration]] 发射天线 on [Laser Propagation] for [Space Optical Communication]. www.[dictall].com
+    - Two Arithmetics of Analyzing the [Current Distribution] Around the [Super Low Frequency Transmitting Antenna] 
+    - This [provides theoretical basis for] reasonably selecting [[aperture]] of optical transmitting antenna. dict.cnki.net

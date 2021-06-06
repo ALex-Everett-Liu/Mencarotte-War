@@ -1,3 +1,5 @@
 - [[astrolabe]]: 星盘; 等高仪
 - astronomical observation
+- [[binocular]]: 双筒望远镜
 - [[Hubble Space Telescope]]
+- [[monocular]]

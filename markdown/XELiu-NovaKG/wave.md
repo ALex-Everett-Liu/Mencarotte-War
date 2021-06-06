@@ -11,6 +11,7 @@
     - [[pressure wave]]
         - compression and expansion of the material
 - [[mechanical wave]]; 机械波
+- [[phase]]
 - [[plane wave]]
     - [[spherical wave]]
         - transverse spherical wave
