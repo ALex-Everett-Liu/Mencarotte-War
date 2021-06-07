@@ -95,3 +95,16 @@ $$\frac{d r}{d z}=\tan \theta$$   (1.16)
         - 共轭平面-横向放大率
     - 2.4 逐次成像 p60
     - 2.5 Lagrange-Helmholtz theorem
+    - 3.1 薄透镜焦距 $$f=f^{\prime}=\frac{1}{\left(n_{\mathrm{L}}-1\right)\left(\frac{1}{r_{1}}-\frac{1}{r_{2}}\right)}$$   (2.40) - 实焦点 会聚透镜
+    - 5.2 投影仪器
+    - 5.3 摄像仪器-照相机
+    - 5.3 eyes p79
+    - 5.4 放大镜-会聚透镜-eyepiece
+        - 物体的最大视角 $$w=\frac{y}{s_{0}}$$   (2.65) - 明视距离
+    - 5.5 显微镜
+        - eyepiece + objective (会聚透镜组)
+    - 5.6 望远镜 p84
+    - 5.7 棱镜光谱仪
+        - 角色散本领-色散率
+    - 6 diaphram: 光阑, 光圈, 隔膜;
+    - 7.1 

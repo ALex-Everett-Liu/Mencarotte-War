@@ -6,7 +6,7 @@
         - [[radio]]
 - [[microwave engineering]]
     - [[microwave circuit]]
-- [[optical fiber]]
+- [[optical fiber]]; [[fiber]]; [[fibre]]
 - [[radio engineering]]
     - [[radiowave circuit]]
 - [[telegraph]]; [[teleprinter]]

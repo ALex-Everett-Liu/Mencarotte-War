@@ -12,7 +12,7 @@
 - interaction between light and matter
     - [[light absorption]]
     - [[photoelectric effect]]
-- [[laser]]; [[laser beam]]
+- [[laser]]; [[laser beam]]; lasing
     - [[ray]]
 - [[light detection]]
 - [[light generation]]
@@ -43,6 +43,7 @@
         - transparent; [[transparent media]]
             - lossless medium; perfectly transparent
     - the properties are independent of direction;
+- [[nonlinear optics (NLO)]]
 - [[optical engineering]]
 - [[optical path]]
     - 相位差
@@ -55,7 +56,7 @@
     - [[nanophotonics]]; [[nano-optics]]
     - [[photon]]
 - [[waveguide]]; [[optical waveguide]]
-    - [[optical fiber]]
+    - [[optical fiber]]; [[fiber]]; [[fibre]]
 - [[wave optics]] / [[physical optics]]
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]
