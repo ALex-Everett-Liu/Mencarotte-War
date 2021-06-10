@@ -6,8 +6,7 @@
     - user...
         - anonymous
         - [[community]]
-        - comment; review;
-            - [[book review]];
+        - [[comment]]; [[review]];
             - controversy
         - rating; rating stars...
             - level

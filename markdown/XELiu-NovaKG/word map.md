@@ -513,6 +513,16 @@
             - junior
     - l
         - la
+            - labor
+                - labour: 努力做, 干苦力活; 困难吃力地行进 |
+            - languid
+                - languish
+                    - languished;
+            - lap
+                - overlap
+                    - overlapped;
+            - lapse
+                - elapse; elapsed
             - late
                 - latent: 潜伏, 隐藏;
             - lateral: 侧面

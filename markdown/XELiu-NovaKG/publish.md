@@ -1,5 +1,5 @@
 - [[blog]]; [[blog post]]
-- comment; review;
+- [[comment]]; [[review]];
 - consumer distribution mode
 - [[edition]]
     - edition numbering
