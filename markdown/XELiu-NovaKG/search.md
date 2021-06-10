@@ -9,6 +9,7 @@
 - [[query]]; query language
 - [[search engine]]; web search engine
 - [[search function]]; 
+- [[search result]]
 - sorting
     - alphabetical order
     - exact order

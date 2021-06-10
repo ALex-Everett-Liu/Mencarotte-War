@@ -76,6 +76,13 @@
         - notion 的[第二个问题]是它的视图[太平庸]，说这种话[一点都不事后诸葛亮]，表格看板日历就是[人人都能想到的东西]，更别说[列表视图][完全就是个凑数的]。
             - 实际上视图[有很多种可能]，比如[这种视图](https://zhuanlan.zhihu.com/p/289356513)，从[知识管理]的层面来说[是非常先进的]；Trilium 的 [relation map note] 和 Tiddlywiki 的[固定式关系图][也很值得一学]，因为[每个元素]都是[自己往图上添加的]，位置都是自己固定的，[实用性]比这些[双链笔记]的[混乱关系图]强太多了。不过这些视图目前在 widget block 里[可能不太好实现]，[坐标数据][没地方存]，毕竟思源好像[还不支持][自定义块属性]，自己手动在 IAL 里写入的块属性会被思源[刷掉]。
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
+    - 【技巧】如何让 RoamEdit 也能使用 Grammarly 插件[检查语法](https://club.roamedit.com/club/?thread-961.htm)？ #pt9-99.99
+        - 英文语法检测，是很多同学的[刚需]。有好几个小伙伴[向我反馈]在 RE 上 Grammarly 浏览器插件[用不了]，今天和 @Innis [研究了一下]，发现这几个问题：
+            - 1、Grammarly 在 RR 上[能用]，不过貌似是这插件对 RR 做了[针对性的优化]。
+            - 2、Grammarly 有一些[触发要求]：Bullet 的[文本框宽度]要大于301px，高度要大于38px。
+        - Innis 更倾向于使用 languagetool，languagetool [能够显示更多的][语法细节](https://club.roamedit.com/club/?thread-964.htm)，[反应速度]也比grammarly快很多，free plan的权限也更多。
+            - ps: languagetool 的[工单提交地址]是这个，用这个[语法纠错]的也可以[去提交一下]。
+            - 感谢Hardy，languagetool 的 [Dnaber](https://forum.languagetool.org/u/dnaber) 和 grammarly的Stacey 对于软件和插件的[及时响应]和优化，致敬！
     - 现在[缺陷还很多]。主要是我 [js 代码]是[花了两个小时]查看 zotero 的 api+ [学习例子和教程]学来的；同时 [Quicker 宏编程]我也是参考了很多 [zplusless](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2FUser%2FActions%2F110499-zplusless) [大佬][摘录助手-增强版](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2Fsharedaction%3Fcode%3D623da485-f979-4fda-414e-08d84e0e87c8)的内容，我自己[之前并没有接触过]，问题很多。。。我觉得[主要如下](https://ld246.com/article/1619536691753)： #pt9-99.99
     - 【离线同步】利用 IndexedDB [自动同步][浏览器的缓存数据](https://club.roamedit.com/club/?thread-815.htm) #pt9-99.99
     - 本来 flomo 的故事是讲得下去的，然而现在有个东西叫 writeathon。writeathon 既是优秀的[收集软件]也是优秀的[写作软件]，虽然 flomo [讲故事的时候][带上了] notion，但 flomo+notion [这个组合][还真比不上][直接用] writeathon，在[收集端] flomo 只比 writeathon 多两个入口、[整理能力]不如 writeathon，在[输出端] notion 也比不上可以[无缝调用自身卡片盒]的 writeathon。[有人留言或私信问我] flomo 怎么样的时候[我都推荐] writeathon，[几乎所有人][在试用之后]都从 flomo [转投](https://www.yuque.com/deerain/gannbs/hkdvkr) writeathon 了。 #pt9-99.99

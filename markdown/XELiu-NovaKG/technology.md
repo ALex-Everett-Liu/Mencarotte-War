@@ -3,6 +3,7 @@
 - [[electronics]]
 - general...
     - technological advance
+    - [[technologist]]
 - [[hardware]]
 - [[information science]]; [[information technology (IT)]]
 - [[information security]]

@@ -6,7 +6,6 @@
     - [[network approach]]
     - [[networked thought]]
     - [[node]]
-        - [[nodal network]]
 - relation, [[relationship]], [[connection]]...
     - weight...
     - [[defined relationship]]; [[relationship strength]]

@@ -1,10 +1,10 @@
 - [[academic]]
 - creative...
 - [[discipline]]; [[scientific discipline]]
-    - [[expertise]]
+    - [[expert]]; [[expertise]]
     - [[interdisciplinary]]
-        - interdisciplinary field
-        - multidisciplinary field
+    - [[specialist]]; [[specialised knowledge]]
+        - [[dilettante-level skill]]: 业余水平
     - study field
     - [[unrelated fields]]; 
 - [[encyclopedia]]...
@@ -32,3 +32,4 @@
 - scientific methodology
     - [[reproducible research]]: 可重复性研究; reproduce the experiment;
     - [[science philosophy]]...
+- [[scientist]]

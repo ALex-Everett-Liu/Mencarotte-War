@@ -1,2 +1,2 @@
 - [[taxonomic reasoning]]: 分类推理
-- [[vertical taxonomy]]
+- [[vertical taxonomy]]; [[vertical hierarchy]]
