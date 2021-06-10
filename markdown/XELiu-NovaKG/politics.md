@@ -1,5 +1,8 @@
 - [[authority]]: 当局, 当权; 权力, 权威;
     - [[centralization]]: 中央集权; [[central authority]]
+- [[autocracy]]
+- [[democracy]]
+    - weight conflicting opinions;
 - [[cold war]]
     - [[color revolution]]
         - 和平演变
@@ -22,6 +25,8 @@
 - [[nation]]
     - [[nation/state]]
         - [[statelet]];
+- [[necessary consensus]]: 必要共识
+- [[policymaker]]
 - [[politics/plot]]; 密谋; 阴谋
     - [[coup]]: 政变
     - join the plot;

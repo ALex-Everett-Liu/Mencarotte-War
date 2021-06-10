@@ -42,7 +42,7 @@
         - base quantities
         - [[frequency]]
     - scale, scope...
-        - large scale
+        - [[large scale]]
         - [[macroscopic scale]]
             - ordinary scale
         - [[microscopic scale]]; microscopic system

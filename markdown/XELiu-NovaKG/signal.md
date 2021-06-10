@@ -3,7 +3,7 @@
     - concurrent communication sessions
     - multiplexing
 - [[noise]]
-    - separate signal from noise
+    - [[separate signal from noise]]
 - relaying signals
 - [[signal processing]]
 - [[visual signal]]

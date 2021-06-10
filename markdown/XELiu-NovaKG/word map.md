@@ -247,6 +247,20 @@
                 - critical
                     - critical question;
                 - criticism;
+        - cu
+            - cult, 2
+                - cultus
+                - culture
+                    - [agriculture](https://workflowy.com/#/67e7dedcf38a);
+            - cumulate
+                - accumulate
+                - cumulative;
+            - curate
+                - curated: 策划; curation: [数字信息]([[digital information]])的[综合处理]; 建立完善的[查询机制]; [策展经历]
+            - custom
+                - accustom
+                    - accustomed;
+                - customarily; customary;
     - d
         - da
             - date
@@ -353,6 +367,17 @@
                         - [[refinement]];
                 - finite
                     - infinite
+        - fl
+            - flection
+                - [reflect](https://workflowy.com/#/0682fffee2d9)
+            - flesh
+                - flesh out: 充实, 使有血有肉
+                - fleshing: 喂肉给……; 使发胖; 长胖
+            - flex
+                - flexible; [[flexibility]];
+            - flow
+                - flowing;
+                - workflow;
         - fo
             - for
                 - force
@@ -527,6 +552,7 @@
             - mark
                 - benchmark; 
         - me
+            - [[merit]]
             - message
             - met
                 - metal
@@ -692,11 +718,18 @@
                     - playing;
                 - plaza: 广场, 市场, 购物区;
         - po
-            - police
-                - polite
-                - polity
-                    - politic; politics
-                        - politician;
+            - pol
+                - polar
+                    - polarize
+                        - polarization;
+                - police
+                    - polite
+                    - polity
+                        - politic; politics
+                            - politician;
+                - pollinic
+                    - pollinate
+                        - cross-pollination: 异花传粉;
             - ponder
                 - pondered;
             - port
@@ -773,10 +806,18 @@
             - res
                 - reside, 2
                     - resident;
-                - respect
+                - resort
+                    - resorting: 诉诸于, 采取;
                 - respect
                     - respective
                     - with respect to: 相对于;
+                - respond
+                    - [correspond](https://workflowy.com/#/1772f6e8dbc9);
+                    - response, 2
+                        - responsible; responsibility
+                        - unresponsive;
+                - rest
+                    - rest on;
             - ret
                 - retain
                     - retainer;
@@ -886,6 +927,7 @@
                 - table;
             - tact
                 - tactic
+            - talent: 天赋, 才能;
             - take
                 - take off;
             - tangle

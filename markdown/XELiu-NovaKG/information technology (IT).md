@@ -1,11 +1,12 @@
 - company...
     - [[International Business Machines Corporation (IBM)]]; [[ibm]]
 - general...
-    - provide information;
+    - [[digital information]];
     - [[Information Age]]
         - [[information explosion]]; [[knowledge explosion]]
         - [[fragmented information]]
         - technological revolution
+    - provide information;
 - [[information processing]]
 - [[information unit]]; [[knowledge unit]]
 - [[information volume]];

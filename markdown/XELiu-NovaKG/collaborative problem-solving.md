@@ -1,0 +1,12 @@
+- While the [individual use case]([[use case]]) for Roam stands on its own [[merit]]s, the [[ultimate goal]] is to [create a platform for]([[platform]]) [[collaborative research]] and [[collaborative learning]]. [Current protocols]([[protocol]]) are [bound by the assumption of] [[necessary consensus]]. The [[flexibility]] of a [curated knowledge graph](((a9w_NtMtW))) allows for a more [pluralistic approach], 多元化的 ^^with the ability to [weight conflicting opinions](((BsqBfyuhF))) and [[separate signal from noise]] [without resorting to](((1DK4hJp4X))) either [[autocracy]] or [[democracy]]. ^^ 能够在不诉诸专制或民主的相应手段的情况下，权衡相互冲突的观点，将信号与噪音分离。
+201126-02:50; 210610-13:14
+- 8.1	[[Finding signal in the noise]] 在噪声中寻觅信号/分离信号与噪音
+- 8.2	**Redundancy** 信息的冗余
+    - Navigating [a vast sea of information] [creates massive redundancy]([[redundancy]]). Most people [labour away at problems] that [have already been solved](already solved problem) ^^[a million times over]. ^^ Those who [[tackle unsolved problems]] often do so in silos, [[unaware]] of each other’s [[existence]]. [All the pieces of]([[piece]]) any given [[puzzle]] may be present, but no one [[individual]] or [[group]] holds them all. 所有解决这个问题的拼图的碎片全都在这里了，散落在公共空间中，但是，我们每个人手中拿到的都只是部分的碎片。
+^^[The wheel is reinvented]([[reinvent the wheel]]) [over and over again], 重复造轮子 in endless [[forum]]s and [[comment section]]s and [[web page]]s and books that [burst into existence] and [fade just as quickly to obscurity]. 有价值的信息突然出现在无名的角落，又很快被众人遗忘，消失得无影无踪。^^
+201126-06:35
+        - labour: 努力做; 干苦力活; 困难吃力地行进 | silos: 地下贮藏库
+        - obscurity: 默默无闻; 无名; 费解; 晦涩; 难懂的事; 昏暗; 黑暗
+    - The goal of Roam is to enable [[systematic curation]] and collaboration on a [[large scale]]. Users [will be able to] [selectively share parts of their graphs]([[selective sharing]]) publicly, or with [circles of peers] and [[colleague]]s. In turn, they [will be able to] [[follow the work]] [of persons they trust], whether they be [[domain expert]]s or [[enthusiastic amateur]]s. Those [looking to acquire] [[specific knowledge]] can turn immediately to [[trusted source]]s, and [[set alert]]s to [[receive update]]s about [new pieces of information]([[information piece]]) pertaining to an [[area of interest]].
+201126-19:15
+        - pertaining: youguan31, shiyong44, cunzai24

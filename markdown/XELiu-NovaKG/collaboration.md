@@ -4,3 +4,4 @@
 - [[collaborative research]]; [[collaborative reasoning]]
 - [[group]]; [[organization]]
 - [[large-scale collaboration]]
+- [[systematic curation]]; curated: 策划; curation: [数字信息]([[digital information]])的[综合处理]; 建立完善的[查询机制]; [策展经历]
