@@ -6,7 +6,7 @@
 - [[cybernetics]]
 - [[linear system]]; [[non-linear system]]
 - [[organizational theory]]
-- input and output; signal
+- input and output; [[signal]]
     - causal input;
     - [[error signal]]
     - [[input signal]]

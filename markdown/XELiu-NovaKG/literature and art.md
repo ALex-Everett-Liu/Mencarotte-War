@@ -6,6 +6,7 @@
     - [[innovation]]
     - [[inspiration]]
         - collect inspiration
+        - spark ideas; 
     - [[invention]]
     - [[serendipity]]
 - [[writing]]; [[creative writings]]

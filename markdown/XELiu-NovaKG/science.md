@@ -3,10 +3,11 @@
 - [[discipline]]; [[scientific discipline]]
     - [[expert]]; [[expertise]]
     - [[interdisciplinary]]
+    - sight; [[focus]]
     - [[specialist]]; [[specialised knowledge]]
         - [[dilettante-level skill]]: 业余水平
     - study field
-    - [[unrelated fields]]; 
+    - [[unrelated fields]]; diverse field
 - [[encyclopedia]]...
     - [[wiki]]...
 - general...

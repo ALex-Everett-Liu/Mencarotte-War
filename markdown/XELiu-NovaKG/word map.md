@@ -121,6 +121,23 @@
                 - broaden; broader
     - c
         - ca
+            - cabin
+                - cabinet;
+            - calculate
+                - calculation, 2; calculus;
+            - caliber
+                - calibrate: 调教, 校准; 筛选;
+                    - calibrated;
+            - cap
+                - capable, 2
+                    - capability;
+                    - having the [requisite](https://workflowy.com/#/1f7775fe56d1) qualities for
+                        - "equal to the task"
+                        - the work isn't up to the standard I require
+                - capital
+                    - capitalised: 投资; 利用;
+                - capture
+                    - capturing;
             - caution
                 - cautious
                 - cautionary: 警告;

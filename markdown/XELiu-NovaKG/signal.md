@@ -2,6 +2,10 @@
 - [[communication channel]]
     - concurrent communication sessions
     - multiplexing
+- [[noise]]
+    - separate signal from noise
+- relaying signals
+- [[signal processing]]
 - [[visual signal]]
     - [[beacon]]: 烽火; 灯塔; 信标
     - [[optical heliograph]]: 日光反射信号仪器

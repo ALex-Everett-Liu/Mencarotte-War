@@ -27,6 +27,7 @@
 - [[安冰 (An Bing)]] -- 172 cm?
 - [[辛坤毓 (Xin Kunyu)]]
 - [[胡秋雨 (Hu Qiuyu)]] -- 164~166 cm?
+- 星期三 09/06/2021 19:08 #pt10-100 #laopo # white shirt #[[black socks]] # white sneaker #[[short ponytail]] -- 162~164 cm?
 - 星期一 15/03/2021 11:14 #pt10-100 #laopo # [[black leather shoes]] # light brown dayi   164~166 cm?
 - [[Fan Qiaodan]] -- 165~167 cm?
 - [[梵言 (fanyan)]] 

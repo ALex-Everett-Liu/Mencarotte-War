@@ -4,4 +4,5 @@
 - [[RescueTime]]
 - spend time
 - time interval
+- [[time investment]]
 - 通勤时间

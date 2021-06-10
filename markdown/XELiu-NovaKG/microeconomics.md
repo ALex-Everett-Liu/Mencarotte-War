@@ -1,0 +1,7 @@
+- [[diminishing return]]: 收益递减
+- ---
+- dictionary 
+    - He has 250 students in his [microeconomics module]. 授课单元 《柯林斯高阶英汉双解学习词典》
+    - A Model of [Mobile Agent Resource Management] and Allocation 分配 Based on [Microeconomic Theory]. dict.cnki.net
+    - By analyzing [current researches] of [applying microeconomic theory to] resource management and allocation field, the paper [designs a model of] mobile agent resource management and allocation [based on market mechanism]. 
+    - A Microeconomics-based [Fuzzy Unicast QoS Routing Scheme] in NGI 单播路由机制

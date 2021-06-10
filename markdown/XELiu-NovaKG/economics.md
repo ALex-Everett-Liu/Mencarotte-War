@@ -3,6 +3,7 @@
 - [[finance]]
 - [[ledger]]
 - [[business management]]
+- [[microeconomics]]
 - [[money]]
 - [[political economy]]
 - 产业
