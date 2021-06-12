@@ -28,3 +28,5 @@
     - __Important__: [the majority of mods] will [change the checksum]([[checksum]]), [not allowing the player to] [get achievements]([[achievement]]). See `checksum_manifest.txt` [in the game folder] [for the list of] [checksummed folders and files]. [The only safe mods] are the ones that replace textures, shaders, fonts or music.
 - Index
     - **Scripting** -- [[characters modding]] | 
+- #inbox
+    - 模组制作[第一期](https://www.bilibili.com/video/BV13v411p7ZP) 省份地图 #pt9-100
