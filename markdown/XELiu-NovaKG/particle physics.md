@@ -7,7 +7,7 @@
 - [[particle]]
     - [[classical particle]]
     - particle species
-    - submicroscopic particle
+    - [[submicroscopic particle]]
 - [[proton]]
 - [[theoretical physics]]; [[theoretical physicist]]
 - [[virtual particle]]

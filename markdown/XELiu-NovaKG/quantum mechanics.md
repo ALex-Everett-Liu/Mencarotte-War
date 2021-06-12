@@ -3,8 +3,8 @@
     - [[macroscopic level]]; [[microscopic level]]
     - quantum process;
     - subatomic domain;
-- localized at a point; localization
-    - non-localization;
+- localized at a point; [[phys/localization]]
+    - [[non-localization]];
     - spread out in space
 - [[matrix mechanics]]
 - [[measurement]]; measurement process; act of measurement

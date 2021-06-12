@@ -6,7 +6,7 @@
     - [[aether]]; luminiferous aether
         - drag the aether
     - electromagnetic theory of light
-        - statistical manifestation
+        - [[statistical manifestation]]: 统计表现 
     - [[light speed]]; the speed of light
     - the wave nature of light; [[light wave]]
         - the nature of light

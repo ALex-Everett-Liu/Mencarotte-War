@@ -12,6 +12,7 @@
 - Galileo experiment
     - dropped weights from a leaning tower
     - [[inclined surface]]
+- [[gravity]]
 - Newton laws; Newton's laws of motion
     - falling apples
     - [[Newton’s second law]]

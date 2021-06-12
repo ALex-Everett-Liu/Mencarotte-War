@@ -1,1 +1,1 @@
-- self-sustaining disturbance
+- [[self-sustaining disturbance]]: 自我维持的扰动 

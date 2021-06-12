@@ -1,10 +1,10 @@
-- composite phenomena
+- [[composite phenomena]]: 复合现象 
 - [[continuous wave]];
 - elastic medium; elastic media; 弹性介质
-- ideal wave
-    - continuous entity
-    - extended region
-    - physical wave
+- [[ideal wave]]
+    - [[continuous entity]]
+    - extended region: 延展的区域 
+    - [[physical wave]]
 - [[longitudinal wave]]
     - [[sound wave]]
         - [[sound speed]]; the speed of sound
