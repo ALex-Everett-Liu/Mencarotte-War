@@ -3,7 +3,7 @@
     - [[keyword completion]]
 - [[automate]]; [[automation]]; 自动化;
     - [[run periodically]];
-- automating clicking
+- [[automating clicking]]
 - auto-generate; automatically generated
 - [[automatically truncated]]
 - [[macroinstruction]]; [[macro instruction]]

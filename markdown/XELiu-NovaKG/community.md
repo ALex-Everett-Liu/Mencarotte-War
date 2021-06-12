@@ -1,5 +1,6 @@
 - community project
 - [[development community]]; technology community; [[technical community]]
+    - [[geek]]
     - [[Hacker News]]
     - [[Stack Overflow]]
 - [[forum]]

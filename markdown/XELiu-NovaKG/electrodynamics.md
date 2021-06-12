@@ -27,7 +27,7 @@
     - electron beam
     - [[electron charge]]
 - [[Maxwell's equations]]
-- medium...
+- medium; [[material medium]]
     - anisotropic medium
 - [[permittivity]]: 介电常数, 电容率;
 - [[Poynting vector]]

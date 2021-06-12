@@ -1,2 +1,2 @@
 - the ripples on a pond
-- surface tension ripple
+- surface tension ripple: 表面张力纹波 

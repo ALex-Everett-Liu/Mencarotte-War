@@ -1,6 +1,7 @@
 - [[composite phenomena]]: 复合现象 
 - [[continuous wave]];
 - elastic medium; elastic media; 弹性介质
+- [[equilibrium position]]
 - [[ideal wave]]
     - [[continuous entity]]
     - extended region: 延展的区域 
@@ -8,10 +9,8 @@
 - [[longitudinal wave]]
     - [[sound wave]]
         - [[sound speed]]; the speed of sound
-    - [[pressure wave]]
-        - compression and expansion of the material
 - [[mechanical wave]]; 机械波
-- [[oscillation cycle]]
+- [[oscillation]]
 - [[phase]]
 - [[plane wave]]
     - [[spherical wave]]

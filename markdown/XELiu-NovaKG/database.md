@@ -19,7 +19,7 @@
 - store and transmit data objects;
 - [[table]]
     - [[spreadsheet]]
-        - spreadsheet cell
+        - [[spreadsheet cell]]
     - [[Excel]]; [[Microsoft Excel]]
         - Excel-like
     - [[Google Sheets]]

@@ -6,7 +6,7 @@
 - general...
     - [[object level]]
     - [[run asynchronously]]: 异步运行，区别于线性地逐次执行各个步骤
-    - [[developer]]; software developer; [[software development]]
+    - [[developer]]; [[software developer]]; [[software development]]
 - [[Integrated Development Environment (IDE)]]; [[development environment]]
 - [[iterating]]; [[evolving]]
 - optimization

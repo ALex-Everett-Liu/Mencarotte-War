@@ -1,6 +1,7 @@
 - [[academic]]
 - creative...
 - [[discipline]]; [[scientific discipline]]
+    - [[amateur]]
     - [[expert]]; [[expertise]]
     - [[interdisciplinary]]
     - sight; [[focus]]

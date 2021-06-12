@@ -10,6 +10,7 @@
     - [[invention]]
     - [[serendipity]]
 - [[writing]]; [[creative writings]]
+    - creative work; create the work
     - [[reader]]
         - [[audience]]
     - [[story]]
@@ -18,6 +19,10 @@
     - [[creative studio]]
     - history-inspired renewal
     - Web Design; [[Web design]]; [[web designer]]
+- general...
+    - common people
+    - [[liberal arts majors]]
+    - men of letters
 - [[modern art]]
 - [[music]]
 - [[novel]]

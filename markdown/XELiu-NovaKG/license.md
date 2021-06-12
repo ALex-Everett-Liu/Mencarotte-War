@@ -1,4 +1,4 @@
-- Creative Commons license
+- [[Creative Commons license]]
 - [[free license]]; [[free software]]
 - distribution of modified copies
 - [[GNU]]

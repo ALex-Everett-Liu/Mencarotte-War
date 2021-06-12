@@ -6,7 +6,7 @@
     - free account;
     - [[free license]]; [[free software]]
     - [[free trial]]
-    - freely available
+    - [[freely available]]
 - product price
 - [[sponsor]]; 
 - [[standard plan]]

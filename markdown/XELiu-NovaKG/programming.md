@@ -26,7 +26,17 @@
     - [[cs/argument]]: 参数, 自变量;
     - [[in-built function]]
     - standard library function
+- general...
+    - domain-specific language
+    - list comprehension
+    - logic-based programming language
+    - modifier; flag
+    - [[practical programming]]
+    - programming task
 - [[literate programming]]
+- [[programming paradigm]]
+    - [[metaprogramming]]
+    - [[object-oriented programming]]
 - [[register]]: 寄存器
 - [[regular expression]]; REGEX 
 - [[script]]

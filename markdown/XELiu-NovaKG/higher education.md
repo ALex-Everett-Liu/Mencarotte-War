@@ -9,6 +9,7 @@
     - [[PhD]]
     - postdoctoral position
 - major...
+    - [[liberal arts majors]]
     - science majors
 - online?
     - [[coding university]]

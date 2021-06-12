@@ -15,5 +15,5 @@
 - [[Q&A]]; [[FAQ]]
 - [[tip]]
 - [[tutorial]]
-    - beginner; from beginner to expert
+    - [[beginner]]; from [[beginner]] to expert
 - [[white paper]]

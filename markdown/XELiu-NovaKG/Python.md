@@ -2,7 +2,7 @@
     - Python browser compiler
         - [[pyodide]]
 - Python interpreter
-- module library
+- [[module library]]
 - package
     - [[matplotlib]]
     - [[numpy]]
@@ -11,6 +11,6 @@
         - [[pip]]
     - [[scipy]]
 - [[Python 3]]
-- scrap data
+- [[scrap data]]: 抓取, 爬取数据 
 - #inbox
     - {{[[TODO]]}} Atom/VSCode 配置 Python 环境; Python in Roam; #pt10-99.99
