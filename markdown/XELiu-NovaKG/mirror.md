@@ -1,4 +1,4 @@
 - [[bronze]]
-- polished copper
-- [[speculum]]
-    - copper alloy rich in tin
+- [[polished copper]]: 抛光铜 
+- [[speculum]]: 窥镜 
+    - copper alloy rich in tin: 富含锡的铜合金 

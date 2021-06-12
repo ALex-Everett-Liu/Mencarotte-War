@@ -2,7 +2,7 @@
 - [[computer science (CS)]]; [[computer]]
 - [[electronics]]
 - general...
-    - technological advance
+    - technological advance: 技术进步 
     - [[technologist]]
 - [[hardware]]
 - [[information science]]; [[information technology (IT)]]

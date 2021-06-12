@@ -2,6 +2,6 @@
 - [[higher education]]
 - [[learning]]...
 - [[pedagogy]]: 教学法
-- practical application
+- [[practical application]]: 实践应用 
 - [[school]]
 - [[selective education]]: 精英教育 

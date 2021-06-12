@@ -1,4 +1,13 @@
+- [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
+    - [[instrumentation]]: 器械操作, 仪器制造 
+    - measuring instrument; measurement device; measuring apparatus
+    - [[plate]]
+        - illuminate the plate;
+- condition, environment...
+    - dark room
+- [[detector]]
 - [[experimental result]]; outcome of the experiment; [[outcome]]
+- experimental v.s. theoretical?
 - general...
     - testing
     - perform the experiment
@@ -6,7 +15,6 @@
 - [[laboratory]]
     - white coat;
 - [[measurement]]; measurement process; act of measurement
-    - measuring instrument;
 - [[observation]]
     - [[experimental observation]]
     - [[observable consequence]]

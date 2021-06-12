@@ -1,5 +1,5 @@
 - archeological relic
 - [[archeological survey]]
 - [[Neolithic]]; Neolithic people
-- specimen
+- [[specimen]]: 样品, 标本 
 - 出土的铜钱; 铜钱年号
