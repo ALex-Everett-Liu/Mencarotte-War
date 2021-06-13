@@ -111,3 +111,4 @@
     - Evernote 没有抄到双链的[精髓](https://www.zhihu.com/question/439739387)。
         - Trace back/forward
         - 最要命的是 Block level references，这个如果不解决，怎么抄都不像。一个知识和[另一个知识点]的链接产生在一部分中，如果如果只是Page level的references的话那么跟[打标签][没有实质区别]。 #pt7-99.98
+    - 在产品形态上，我们觉得以 WordPress 和 Notion 为代表的 Block Editor（块编辑器）是一种更好的[编辑器形态](https://zhuanlan.zhihu.com/p/379723832)的选择；以 Confluence 和 Coda 为代表的 workspace 概念是更好的[团队信息组织方式]；Roam Research 关于[块级引用]和双向链接的[构思]与我们[网状信息结构]的想法[不谋而合]；我们也觉得类似 Airtable 这样的[多视图表格][代表了未来的]表格趋势。在[产品迭代]的过程中，我们也一直在思考[协同平台]的[演进方向]。 #pt7-99.97

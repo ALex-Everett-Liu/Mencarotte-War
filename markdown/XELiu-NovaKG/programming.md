@@ -18,6 +18,9 @@
     - [[throwaway code]]
     - working vanilla code;
 - [[command line]]; [[command-line interface]]; shell; Shell
+- condition
+    - [[certain condition]]
+    - if-else statement
 - evaluate; evaluation
 - expression
     - arithmetic expression;
