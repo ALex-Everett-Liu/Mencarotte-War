@@ -15,5 +15,5 @@
         - [[Automate the Boring Stuff with Python, INTRODUCTION]]
         - PART I - PYTHON PROGRAMMING BASICS
             - 1 [[PYTHON BASICS]]
-- ### ACKNOWLEDGMENTS
+- ## ACKNOWLEDGMENTS
     - It’s misleading to [have just my name on the cover]([[cover]]). I couldn’t have written a book like this [without the help of a lot of people]. I’d like to thank my publisher, Bill Pollock; my [[editor]]s, Laurel Chun, Leslie Shen, Greg Poulos, Jennifer Griffith-Delgado, and Frances Saux; and [the rest of the staff]([[staff]]) at [No Starch Press] for their [invaluable help]. Thanks to my [tech reviewers], Ari Lacenski and Philip James, for [great suggestions], edits, and support.

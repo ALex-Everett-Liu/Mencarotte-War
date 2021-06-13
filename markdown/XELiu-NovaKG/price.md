@@ -7,6 +7,6 @@
     - [[free license]]; [[free software]]
     - [[free trial]]
     - [[freely available]]
-- product price
+- [[product price]]
 - [[sponsor]]; 
 - [[standard plan]]

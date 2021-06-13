@@ -1,5 +1,5 @@
 - collaboration tool
-- [[collaborator]]; co-worker; colleague; [[peer]]: 同侪;
+- [[collaborator]]; [[co-worker]]; colleague; [[peer]]: 同侪;
 - [[coordination problem]]
 - [[collaborative research]]; [[collaborative reasoning]]
 - [[group]]; [[organization]]

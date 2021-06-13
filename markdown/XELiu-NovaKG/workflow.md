@@ -8,7 +8,7 @@
     - [[workaround]]
     - [[workspace]]
 - effective; [[efficiency]]
-    - improve efficiency
+    - [[improve efficiency]]
 - mental cost?
     - learning cost;
     - 打断思路

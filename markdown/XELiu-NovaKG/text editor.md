@@ -1,4 +1,6 @@
 - [[Emacs]]; [[GNU Emacs]]; [[Emacs lisp]]
+- general...
+    - [[modify text]]
 - indent
     - [[rainbow indentation]]
 - [[plain text]]

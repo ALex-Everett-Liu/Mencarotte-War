@@ -3,6 +3,10 @@
         - [[pyodide]]
 - Python interpreter
 - [[module library]]
+    - import modules
+    - third-party module
+    - [[open source module]]
+    - standard library
 - package
     - [[matplotlib]]
     - [[numpy]]

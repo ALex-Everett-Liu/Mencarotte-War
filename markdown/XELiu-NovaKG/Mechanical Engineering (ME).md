@@ -3,5 +3,7 @@
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
 - [[nanomechanics]]
+- tools...
+    - [[Swiss Army knife]]
 - [[valve]]
 - [[vehicle]]; [[vehicle engineering]]

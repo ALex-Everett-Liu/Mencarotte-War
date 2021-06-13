@@ -3,6 +3,6 @@
 - humor...
     - play-on-words joke
 - relationship...
-    - college roommate
+    - [[college roommate]]
 - social awareness
 - social interaction

@@ -1,7 +1,7 @@
 - [[acquisition]]: 收购; 获得; 招揽;
 - business competition
     - monopolized
-    - competitor
+    - [[competitor]]
 - [[business operation]]: 企业经营, 业务运作;
 - [[business use]]
 - [[company]]; [[corporation]]; firm
@@ -9,7 +9,7 @@
 - cost
     - reduce cost;
 - digital business??
-    - retail electronics store
+    - [[retail electronics store]]
 - general...
     - [[business partner]]
 - [[market]]; [[marketing]]: 市场营销; [[marketer]]

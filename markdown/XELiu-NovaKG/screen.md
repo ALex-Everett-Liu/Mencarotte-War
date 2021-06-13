@@ -1,3 +1,3 @@
-- glowing screen
+- [[glowing screen]]
 - screen size
 - television screen

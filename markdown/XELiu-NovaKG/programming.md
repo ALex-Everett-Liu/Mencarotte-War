@@ -6,16 +6,16 @@
 - [[cs/character]]: 字符
 - code; coding
     - [[code block]]
-        - building block
-    - coding style
+        - [[building block]]
+    - [[coding style]]
     - executing code
     - [[instruction]]
-        - basic instruction
-        - programming instruction; computing instruction
+        - [[basic instruction]]
+        - [[programming instruction]]; computing instruction
         - a sequence of instructions
     - [[snippet]]
     - [[source code]]
-    - throwaway code
+    - [[throwaway code]]
     - working vanilla code;
 - [[command line]]; [[command-line interface]]; shell; Shell
 - evaluate; evaluation
@@ -28,7 +28,7 @@
     - standard library function
 - general...
     - domain-specific language
-    - list comprehension
+    - [[list comprehension]]
     - logic-based programming language
     - modifier; flag
     - [[practical programming]]

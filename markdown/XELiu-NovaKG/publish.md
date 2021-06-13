@@ -1,9 +1,12 @@
 - [[blog]]; [[blog post]]
+- [[book]]
+    - [[cover]]
 - [[comment]]; [[review]];
 - consumer distribution mode
 - [[edition]]
     - edition numbering
     - major edition
+- [[editor]]
 - [[identifier]]
     - Bibcode
     - doi

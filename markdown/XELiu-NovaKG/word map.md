@@ -247,6 +247,16 @@
                 - critical
                     - critical question;
                 - criticism;
+            - crowd
+                - crowded;
+            - crucial
+                - crucible;
+            - crunch: 处理; 压缩
+                - [reduce to small pieces] or particles by pounding abrading
+                    - [grind the spices] in a mortar 在研钵中[研磨香料]
+                    - mash the garlic 把大蒜捣碎
+            - crypto-
+                - cryptic;
         - cu
             - cult, 2
                 - cultus
@@ -317,6 +327,19 @@
                 - efficiency;
                 - effective; effectively, 2;
                 - [[side-effect]]; special effect;
+        - el
+            - elaborate: 详细说明, 详细阐述; 精心计划
+                - elaborated;
+            - elect
+                - elected; election; elector
+            - electro
+                - electron;
+            - elegant
+                - [[elegance]];
+            - element
+                - elementary
+            - elevate
+                - elevation
         - eo
             - eon: 永世, 万古;
         - eq

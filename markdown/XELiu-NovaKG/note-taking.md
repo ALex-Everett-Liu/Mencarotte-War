@@ -89,6 +89,7 @@
         - 根据我的经验，像元思这种[从移动端起家的产品]，基本可以[提前认为]它将来[做不好桌面端]，我觉得[没必要关注]
         - 不用 pick，只要懂 bujo 就可以在思源或 Obsidian 里轻松 all in one，这就是[文档型软件]的优势，只要懂[方法论]就可以应对[任务管理]（特别重度的不行），用[大纲型软件][再怎么懂方法][也很难应对好][写作需求]
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
+    - 思源 [CSS 主题]修改[常见问题](https://ld246.com/article/1623514611258)与教程 #pt9-99.99
     - RE [暗色毛玻璃主题](https://club.roamedit.com/club/?thread-728.htm)分享 #pt8-100
     - 今天在群里了解到一款——知识图谱项目[前端可视化]图论库 cytoscape.js（[这一大串名头是查出来的](https://link.ld246.com/forward?goto=https%3A%2F%2Fwww.cnblogs.com%2Fzhilin%2Fp%2F12074688.html)），自带[一键分析图谱]功能，我感觉很适合[在此基础上]做[双链笔记的关系图](https://ld246.com/article/1618829898054)。 #pt9-99.98
     - Vscode的[Markdown插件]我也试过，在VScode上进行[Markdown写作]最方便的地方在于可以[自定义一些snippet]来[缩短一些重复输入的时间]，不过比较遗憾的是它并不能像Typora那样[实时渲染](https://sspai.com/post/65682)，而实时渲染是Typora吸引我的主要原因之一。
@@ -96,6 +97,7 @@
         - 当我昨天一口气在typora里面连着敲了六个井号的时候[我才意识到]，[学习笔记]这种[逻辑条理特别强]，大知识点套小知识点[无限套娃]的情况下，markdown只能说是凑合，还是需要用outliner。然后今天早上[又废了半天劲]把笔记全部移到workflowy上…… #pt8-99.99
             - 其实[思维导图]反而还不怎么适合，思维导图适合那种字少的，就那种知识点的名字提点两下，比如说“宣告失踪-条件-时间-起算点”，字一多就是灾难，整个图的可读性直接归零，幕布的生成思维导图功能我就一次都没用过……比起思维导图，那种[根据搜索结果][生成稀疏树]的功能可能更要紧一点
     - 用 AirTable [打造][自己专属的][个人数据库](https://www.yuque.com/arvinxx/note/airtable#JuMxx) #pt8-99.98
+    - 思源笔记支持 [file 协议],例如[本地文件路径]是 `C:\Users\****\Documents\202106` 的话,使用 `file://C:/users/****/Documents/202106` 的[链接格式]就能够[外链](https://ld246.com/article/1623509532007)了. #pt8-99.98
     - {{[[TODO]]}} draw.io 的功能[涵盖了] processon 的很多功能，但是其[最大的卖点](https://www.yuque.com/wangdd/blog/zf3xgd)是**免费。** #pt7-99.98
     - 这个估计得[等API出来后][靠社区了](https://cn.logseq.com/t/topic/256),除了 Alfred,我还希望有 telegram bot, windows quicker, IFFFT 等等[效率工具] #pt8-99.98
         - roam research 已经有alfred解决方案了
