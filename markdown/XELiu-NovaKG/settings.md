@@ -1,8 +1,8 @@
 - accessibility settings
 - configure; configuration; configuration file
-    - bin directory
+    - [[bin directory]]
     - [[configurable]];
-    - user-level
+    - [[user-level]]
 - [[default settings]]
     - extra settings; extra options;
 - dependence...

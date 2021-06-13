@@ -1,55 +1,59 @@
-- www.[[ibm]].com
-    - The telltale sign 依据的标志 is that [files prefixed with](((oNP_DnzqV))) "_atc" are compiled. 
-    - ---
-- www.[[chinadaily]].com.cn / bbs.[[chinadaily]].com.cn
-    - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
-    - ---
-- www.[cnblogs].com
-    - They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. 
-- dict.cnki.net
-    - When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机
-    - ---
-    - Also, this paper analysis the measure problem of the [zero-current in the system]. 零电流检测 
-    - The analysis of measure problem on the [roller brake tester] 滚筒试验台
-    - This thesis solves some measure problem in the traditional [ultrasonic flow meter]. 流量计
-- [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
-    - Let me [set the record straight on the misconceptions] [contained in your article]. 
-    - ---
-- danci.[911cha].com
-- www.[[dictall]].com
-- www.[[ebigear]].com
-    - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
-    - ---
-- www.[fabiao].net
-- www.[[fortunechina]].com
-- www.[[ftchinese]].com
-    - It needs to [find a route back to profit]. 扭亏为盈的路径
-- www.[[hjenglish]].com
-- www.[hxen].com
-    - But the "measure problem" makes [calculating this value] impossible.
-- provided by [[jukuu]]; www.[jukuu].com
-    - She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 
-    - They were [looking for a route] [back to reality]. 
-    - One is still en route [back to the planet]. 
-    - ---
-    - However, I would like to [set the record straight on a few points]. 
-    - I'd like to set the record straight. I didn't do it. 纠正一下, 澄清事实
-    - I have to set the record straight. 我得把事情搞明白了
-    - Set the record straight; made sure the facts were straight in the report. 
-    - ---
-- www.[[kekenet]].com
-- 《牛津高阶英汉双解词典》
-    - They took the [scenic route](((5n3Dw9NHj))) 景色优美的路线 [back to the hotel]. 
-- www.[[okread]].info
-    - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
-    - ---
-- [blog.sina]([[sina blog]]).com.cn
-    - Suddenly [a brand new] [Jeep Cherokee] [screeches to a halt next to him]. “呲”的一下停在了他的边上 
-    - ---
-- v.163.com
-- misc; others
-    - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn
-    - We can establish a series of criteria of CPCS [on the basis of] the [necessary demand] of residents by use of analysis of ELES, and the multiplier of the studying costs to PDI.
-    - [One possible solution to] this is to [reduce learning cost] and [increase learning benefit].
+- classified by sources
+    - www.[[ibm]].com
+        - The telltale sign 依据的标志 is that [files prefixed with](((oNP_DnzqV))) "_atc" are compiled. 
+        - ---
+    - www.[[chinadaily]].com.cn / bbs.[[chinadaily]].com.cn
+        - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
+        - ---
+    - www.[cnblogs].com
+        - They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. 
+    - dict.cnki.net
+        - When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机
+        - ---
+        - Also, this paper analysis the measure problem of the [zero-current in the system]. 零电流检测 
+        - The analysis of measure problem on the [roller brake tester] 滚筒试验台
+        - This thesis solves some measure problem in the traditional [ultrasonic flow meter]. 流量计
+    - [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
+        - Let me [set the record straight on the misconceptions] [contained in your article]. 
+        - ---
+    - danci.[911cha].com
+    - www.[[dictall]].com
+    - www.[[ebigear]].com
+        - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
+        - ---
+    - www.[fabiao].net
+    - www.[[fortunechina]].com
+    - www.[[ftchinese]].com
+        - It needs to [find a route back to profit]. 扭亏为盈的路径
+    - www.[[hjenglish]].com
+    - www.[hxen].com
+        - But the "measure problem" makes [calculating this value] impossible.
+    - www.[[infoq]].com
+        - This presentation also provides insight into the [background and advantages] of the [thin server approach]. 
+    - provided by [[jukuu]]; www.[jukuu].com
+        - She found [lipstick all over his shirts]([[lipstick]]) 满是口红印 & __the telltale sign that 这说明 Katherine [had been around again].__ 又来纠缠他了 
+        - They were [looking for a route] [back to reality]. 
+        - One is still en route [back to the planet]. 
+        - ---
+        - However, I would like to [set the record straight on a few points]. 
+        - I'd like to set the record straight. I didn't do it. 纠正一下, 澄清事实
+        - I have to set the record straight. 我得把事情搞明白了
+        - Set the record straight; made sure the facts were straight in the report. 
+        - ---
+    - www.[[kekenet]].com
+    - 《牛津高阶英汉双解词典》
+        - They took the [scenic route](((5n3Dw9NHj))) 景色优美的路线 [back to the hotel]. 
+    - www.[[okread]].info
+        - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
+        - ---
+    - [blog.sina]([[sina blog]]).com.cn
+        - Suddenly [a brand new] [Jeep Cherokee] [screeches to a halt next to him]. “呲”的一下停在了他的边上 
+        - ---
+    - v.163.com
+    - misc; others
+        - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn
+        - We can establish a series of criteria of CPCS [on the basis of] the [necessary demand] of residents by use of analysis of ELES, and the multiplier of the studying costs to PDI.
+        - [One possible solution to] this is to [reduce learning cost] and [increase learning benefit].
+- classified by keyword 
 - ---
 - archived

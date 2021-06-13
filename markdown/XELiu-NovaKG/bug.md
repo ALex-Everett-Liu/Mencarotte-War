@@ -1,5 +1,5 @@
 - bug report;
-- crash
+- [[crash]]
 - [[debug]]; [[debugging]]
     - [[bug fixes]];
     - tracking bugs;

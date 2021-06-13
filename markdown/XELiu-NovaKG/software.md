@@ -2,7 +2,7 @@
 - [[feature]]...
     - advanced feature
     - [[feature request]]
-    - function; [[functionality]]; functionalities
+    - [[function]]; [[functionality]]; functionalities
     - general-purpose nature
 - file operation
     - [[copy and paste]]; copy/pasting
@@ -31,7 +31,7 @@
         - [[fill to overflowing]]
         - [[raw storage]]
     - cloud storage
-    - library?
+    - [[library]]?
         - [[archive]]
         - [[library science]]
         - [[repository]]; [[repo]]

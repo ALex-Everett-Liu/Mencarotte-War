@@ -1,12 +1,15 @@
 - [[academic]]
 - creative...
 - [[discipline]]; [[scientific discipline]]
-    - [[amateur]]
-    - [[expert]]; [[expertise]]
+    - [[area of interest]];
+    - follow the work;
     - [[interdisciplinary]]
     - sight; [[focus]]
-    - [[specialist]]; [[specialised knowledge]]
+    - [[specialist]]; [[specialised knowledge]]; [[specific knowledge]]
+        - [[amateur]]; [[enthusiastic amateur]]
         - [[dilettante-level skill]]: 业余水平
+        - [[expert]]; [[expertise]]
+            - [[domain expert]];
     - study field
     - [[unrelated fields]]; diverse field
 - [[encyclopedia]]...

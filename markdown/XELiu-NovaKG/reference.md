@@ -11,8 +11,3 @@
 - [[reference list]]
 - [[referencing]]
 - referring page
-- source
-    - [[citing source]]
-    - [[reliable source]]
-    - [[unclear source]];
-    - [[unsourced material]];

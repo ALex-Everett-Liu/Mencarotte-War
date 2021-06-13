@@ -1,3 +1,4 @@
 - indentation style?
     - [[rainbow indentation]]
         - [[box shadow]]
+- [[whitespace]]; [[whitespace character]]

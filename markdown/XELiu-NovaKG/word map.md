@@ -348,6 +348,14 @@
                 - dis-
                     - disturb
                         - disturbance;
+                - disciple
+                    - discipline, 2
+                - dispense
+                    - dispensing: fenpei14, fenfa11, peiyao44;
+                - [distinct](https://workflowy.com/#/50b9ca656d5b)
+                    - distinctive
+                - distribute
+                    - distributed;
     - e
         - ef
             - effect
@@ -755,6 +763,8 @@
                 - perspective, 2
                 - person
                     - [[personality]];
+                - pertain
+                    - pertaining: youguan31, shiyong44, cunzai24;
         - pi
             - picture
                 - depict

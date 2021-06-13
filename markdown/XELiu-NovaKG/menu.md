@@ -1,2 +1,2 @@
-- help menu
-- start menu
+- [[help menu]]
+- [[start menu]]

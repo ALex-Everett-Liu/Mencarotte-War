@@ -12,4 +12,4 @@
 - [[reserved character]]
 - [[special character]]
 - [[symbol]]; 标点符号;
-- [[whitespace character]]
+- [[whitespace]]; [[whitespace character]]

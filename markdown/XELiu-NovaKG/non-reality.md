@@ -1,3 +1,8 @@
 - [[fantasy]]; fantasy setting
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
+- fiction; fictional setting
+- magic; magic use
+    - [[wizard]]
+    - 魔术师
+        - [[magic wand]]
 - [[science fiction]]

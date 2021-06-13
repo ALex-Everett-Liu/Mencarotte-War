@@ -5,10 +5,10 @@
     - [[desktop software]]
     - portable version; green software
     - [[web-based application]]; [[web application]]
-- [[source]]; [[resource]]
+- [[source]]; [[reference]]
     - [[information source]]; information resource
 - [[upload]]; [[download]]
-- [[web browser]]; browser
+- [[web browser]]; [[browser]]
     - [[Chrome]]
 - [[Web development]]; web developer; Website Development
 - [[website]]; [[web site]]; site

@@ -2,7 +2,7 @@
 - communicate with the server;
 - [[client]]
 - [[host]]
-    - localhost
+    - [[localhost]]
     - [[mandatory]];
 - server-based application
 - [[server port]]

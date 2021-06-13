@@ -17,18 +17,19 @@
     - [[source code]]
     - [[throwaway code]]
     - working vanilla code;
-- [[command line]]; [[command-line interface]]; shell; Shell
+- [[command line]]; [[command-line interface]]; [[shell]]; Shell
 - condition
     - [[certain condition]]
     - if-else statement
-- evaluate; evaluation
-- expression
+- [[evaluate]]; [[evaluation]]
+- [[expression]]
     - arithmetic expression;
     - evaluation of expressions;
+    - [[indentation]]
 - function...
     - [[cs/argument]]: 参数, 自变量;
     - [[in-built function]]
-    - standard library function
+    - [[standard library function]]
 - general...
     - domain-specific language
     - [[list comprehension]]
@@ -37,8 +38,9 @@
     - [[practical programming]]
     - programming task
 - [[interactive shell]]
-    - REPL (Read-Evaluate-Print Loop)
+    - [[REPL (Read-Evaluate-Print Loop)]]
 - [[literate programming]]
+- [[operator]]
 - [[programming paradigm]]
     - [[metaprogramming]]
     - [[object-oriented programming]]
@@ -48,8 +50,9 @@
 - [[selection]]
     - if statement
         - check the condition
-- [[string]]
 - [[syntax]]
+- [[value]]
+    - [[data type]]
 - [[variable]]
 - #inbox
     - 感觉是不太复杂的 excel 的运用，是用vba还是python来搞？ #pt8-99.98

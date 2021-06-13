@@ -1,7 +1,7 @@
 - dependence...
-    - independent
-    - isolated
-- installation guide
+    - [[independent]]
+    - [[isolated]]
+- [[installation guide]]
 - [[installer]]
 - manual installation
 - [[package manager]]
@@ -9,5 +9,5 @@
     - [[Chocolatey]]
     - [[Homebrew]]
 - [[setup]]
-- sudo apt-get install
+- [[sudo apt-get install]]
 - [[uninstall]]

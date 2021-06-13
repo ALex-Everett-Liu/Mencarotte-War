@@ -1,4 +1,4 @@
-- syntactical construction
-- syntax error; invalid syntax
+- [[syntactical construction]]
+- [[syntax error]]; [[invalid syntax]]
 - [[syntax rule]]
 - syntax tree

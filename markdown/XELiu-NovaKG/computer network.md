@@ -11,7 +11,7 @@
 - [[MAC address]]
 - [[metropolitan area networks (MAN)]]
 - [[server]]
-- session
+- [[session]]
 - [[wide area networks (WAN)]]
 - Wi-Fi
 - [[remote desktop]]

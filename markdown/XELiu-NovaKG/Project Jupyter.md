@@ -1,4 +1,4 @@
-- web-based user interface
+- [[web-based user interface]]
 - [[Jupyter Notebook]]
-- JupyterLab
+- [[JupyterLab]]
     - JupyterLab Documentation

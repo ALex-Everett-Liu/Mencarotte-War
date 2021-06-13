@@ -1,6 +1,7 @@
 - [[cs/character]]: 字符
 - exact match; re-matches
 - indicate the beginning of a line
+- [[input string]]
 - pattern...
     - find and match the pattern;
     - [[occurrence]]: 发生/出现次数

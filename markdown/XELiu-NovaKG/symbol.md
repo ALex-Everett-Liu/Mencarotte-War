@@ -12,7 +12,7 @@
     - [[literal notation]]: 文本符号
         - [[object literal notation]]
     - [[notational hierarchy]]
-- [[parenthesis]]; parentheses
+- [[parenthesis]]; [[parentheses]]
 - [[period]]; [[full stop]]; [[full-stop]]
     - [[literal period]]
 - preceding symbol

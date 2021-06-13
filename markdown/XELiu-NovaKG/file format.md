@@ -11,7 +11,7 @@
 - [[import]]; [[export]]
     - export to other format;
         - markdown exporter
-- msi
+- [[msi]]
 - [[time format]]; [[date format]]
 - 压缩包
     - [[zip]]; [[unzip]]

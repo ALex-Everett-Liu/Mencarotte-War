@@ -1,9 +1,9 @@
-- Command Prompt
+- [[Command Prompt]]
     - cmd
         - system32/cmd.exe
 - [[graphical user interface (GUI)]]
-- prompt; [[prompted]]
+- [[prompt]]; [[prompted]]
 - [[command]]; [[shell command]]; [[shell script]]
-- Terminal
+- [[Terminal]]
 - Win + R
 - [[Windows PowerShell]]

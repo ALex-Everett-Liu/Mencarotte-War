@@ -8,5 +8,4 @@
 - test
     - pressure-test
     - [[script test]]
-- [[update]]...
-    - continuous update
+- [[update]]

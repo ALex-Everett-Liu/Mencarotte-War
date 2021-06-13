@@ -2,12 +2,13 @@
     - [[International Business Machines Corporation (IBM)]]; [[ibm]]
 - general...
     - [[digital information]];
-    - [[Information Age]]
+    - [[Information Age]]; [[Internet Age]]
         - [[information explosion]]; [[knowledge explosion]]
-        - [[fragmented information]]
         - technological revolution
     - provide information;
 - [[information processing]]
 - [[information unit]]; [[knowledge unit]]
+    - [[fragmented information]]
+    - [[information piece]];
 - [[information volume]];
 - the transmission of information; [[information transmission]]: 信息传输

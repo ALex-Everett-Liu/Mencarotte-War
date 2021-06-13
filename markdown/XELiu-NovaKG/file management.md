@@ -13,7 +13,7 @@
     - [[file path]]; [[path]]
     - [[subdirectory]]
 - [[explorer]]
-    - [[web browser]]; browser
+    - [[web browser]]; [[browser]]
 - [[file format]]
 - file metadata...
     - [[file integrity]]: 文件的完整性 

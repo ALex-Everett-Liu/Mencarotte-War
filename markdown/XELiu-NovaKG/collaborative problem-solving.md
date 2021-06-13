@@ -7,6 +7,13 @@
 201126-06:35; 210610-16:45
         - silos: 地下贮藏库
         - obscurity: 默默无闻; 无名; 费解; 晦涩; 难懂的事; 昏暗; 黑暗
-    - The goal of Roam is to enable [[systematic curation]] and collaboration on a [[large scale]]. Users [will be able to] [selectively share parts of their graphs]([[selective sharing]]) publicly, or with [circles of peers] and [[colleague]]s. In turn, they [will be able to] [[follow the work]] [of persons they trust], whether they be [[domain expert]]s or [[enthusiastic amateur]]s. Those [looking to acquire] [[specific knowledge]] can turn immediately to [[trusted source]]s, and [[set alert]]s to [[receive update]]s about [new pieces of information]([[information piece]]) pertaining to an [[area of interest]].
+    - The goal of Roam is to enable [[systematic curation]] and collaboration on a [[large scale]]. Users [will be able to] [selectively share parts of their graphs]([[selective sharing]]) publicly, or with [circles of peers] and [[colleague]]s. In turn, they [will be able to] [follow the work](((srgI50K-v))) [of persons they trust], whether they be [[domain expert]]s or [[enthusiastic amateur]]s. Those [looking to acquire] [[specific knowledge]] can turn immediately to [[trusted source]]s, and [[set alert]]s to [[receive update]]s about [new pieces of information]([[information piece]]) [pertaining to](((iMT4oK_dL))) an [[area of interest]].
 201126-19:15
-        - pertaining: youguan31, shiyong44, cunzai24
+- 8.3	**Dispensing with necessary consensus** 在必要的共识的基础上去进行知识的[分发](((rm7kPRTsX)))
+    - Almost every [[medium]] today [presents knowledge] as though it were the [last word]; assuming both a [[necessary consensus]] and an [uncomposable page](). 
+[[Wikipedia]] is one of the [great wonders]([[wonder]]) of the [[Internet Age]], but it [makes both of these mistakes]. There can only be [one article on any subject]([[subject]]) [for any given language], and [the only connection between pages]() is [through links]([[link pages]]), with [no article "built" off another]([[article built on blocks]]). 
+页面之间的唯一连接是通过链接，并且没有文章是在另一篇文章的基础上构建的。
+201126-22:36
+        - composable: 可组合, 可配置
+    - By way of contrast, consider [[Github]]: [Libraries]([[library]]) are [built on other libraries], and [[function]]s are built from other functions. [Developers]([[developer]]) [build tools]() that [others can build upon] to [build ever more impressive tools]. Most of the [modern web] is built on [open-source technologies]([[open-source technology]]), which would not have been possible if [[programmer]]s followed the [old protocols]([[protocol]]) for [[intellectual collaboration]].
+201126-23:57
