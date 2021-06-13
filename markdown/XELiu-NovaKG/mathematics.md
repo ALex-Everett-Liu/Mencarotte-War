@@ -1,3 +1,5 @@
+- [[arithmetic]]
+    - [[basic arithmetic]]
 - [[calculus]]
 - [[complex number]]
 - [[game theory]]
@@ -18,6 +20,8 @@
 - [[mathematical modeling]]
 - [[mathematician]]
 - [[mathematical proof]]; [[proof]]; prove
+- puzzle
+    - [[Sudoku puzzle]]
 - [[set theory]]
 - [[statistics]]
     - [[data analysis]]

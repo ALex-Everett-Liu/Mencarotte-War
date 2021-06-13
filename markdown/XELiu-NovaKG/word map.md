@@ -48,6 +48,16 @@
                 - alteration;
                 - unalterable;
         - an
+            - analyse; analyze
+                - analysed; analyzed
+            - ancestor
+                - ancestral;
+            - anchor
+                - anchoring;
+            - anima
+                - animal
+                - animate
+                    - animated; animation, 2
             - ann
                 - annal
                     - annals;
@@ -70,6 +80,8 @@
                     - anticipated;
                 - antique
                     - [[antiquity]]
+            - [[anxiety]]
+                - anxious;
         - ar
             - architect
                 - architecture;
@@ -156,7 +168,13 @@
                 - citation
                 - cited;
         - cl
-            - clue
+            - client
+            - close
+                - disclose
+                    - disclosure;
+                - enclose
+                    - enclosure;
+            - [[clue]]
             - clutter: 混乱, 杂乱, 凌乱;
                 - cluttering;
         - co
@@ -280,6 +298,15 @@
             - daze
                 - dazzle; dazzling
         - de
+            - debate
+            - decision
+                - decisively;
+            - declare
+                - self-declared;
+            - dedicate
+                - dedicated;
+            - deduce
+                - [[deduction]];
             - demonstrate, 2
                 - demo;
                 - demonstration;

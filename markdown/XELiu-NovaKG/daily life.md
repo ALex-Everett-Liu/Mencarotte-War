@@ -1,6 +1,6 @@
 - day-to-day life; 
 - [[food]] and [[drink]]; tabemono to nomemono;
-- [[household appliance]]; [[domestic appliance]]; 家用电器
+- [[appliance]]; [[household appliance]]; [[domestic appliance]]; 家用电器
 - personal care and service occupations: 个人护理和服务职业
     - [[cosmetics]]
     - #inbox

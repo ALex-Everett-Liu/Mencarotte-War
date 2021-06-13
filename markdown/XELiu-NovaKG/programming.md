@@ -36,6 +36,8 @@
     - modifier; flag
     - [[practical programming]]
     - programming task
+- [[interactive shell]]
+    - REPL (Read-Evaluate-Print Loop)
 - [[literate programming]]
 - [[programming paradigm]]
     - [[metaprogramming]]
@@ -47,6 +49,7 @@
     - if statement
         - check the condition
 - [[string]]
+- [[syntax]]
 - [[variable]]
 - #inbox
     - 感觉是不太复杂的 excel 的运用，是用vba还是python来搞？ #pt8-99.98

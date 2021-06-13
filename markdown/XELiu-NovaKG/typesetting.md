@@ -8,7 +8,7 @@
     - [[separate lines]]; delimit with a comma; deliminate
     - [[all in one line]]
     - [[line-by-line changes]]
-    - line number
+    - [[line number]]
 - style; styling...
 - [[symbol]]; 标点符号;
 - [[text editor]]

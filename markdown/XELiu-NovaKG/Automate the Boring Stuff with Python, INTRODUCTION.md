@@ -29,3 +29,35 @@
 - ### What Is Python?
     - Python is a [programming language] (with [[syntax rule]]s for writing [what is considered] [valid Python code]) and __the [Python interpreter software] that [reads source code] (written in the [Python language]) and [performs its instructions]__. You can download the [[Python interpreter]] for free at https://python.org/, and there are versions for Linux, macOS, and Windows.
     - The name Python comes from the surreal British [comedy group] 超现实喜剧团 [Monty Python], not from the snake. Python programmers are [affectionately called] Pythonistas, and both Monty Python and [serpentine references] usually pepper [Python tutorials and documentation].
+- ### Programmers [Don’t Need to Know Much Math]
+    - [The most common anxiety]([[anxiety]]) I hear about learning to program is the notion that it [requires a lot of math]. Actually, most programming doesn’t require math beyond [[basic arithmetic]]. In fact, [being good at programming] [isn’t that different from] being good at solving [[Sudoku puzzle]]s.
+210228-22:53
+        - To solve a Sudoku puzzle, the numbers 1 through 9 [must be filled in] for each row, each column, and [each 3×3 interior square] 内部正方形 of [the full 9×9 board]. [Some numbers are provided] to [give you a start], and you [find a solution] by [making deductions]([[deduction]]) [based on these numbers]. 
+            - Figure 0-1: A new Sudoku puzzle (left) and its solution (right). Despite [using numbers], Sudoku [doesn’t involve much math]. (Images © [[Wikimedia Commons]])
+            - In the puzzle shown in Figure 0-1, since 5 appears in [the first and second rows], it [cannot show up] in these rows again. Therefore, in the upper-right grid, it must be [in the third row]. Since [the last column] also already has a 5 in it, the 5 cannot [go to the right of] the 6, so it must go to the left of the 6. Solving one row, column, or square will [provide more clues to]([[clue]]) [the rest of the puzzle], and as you [fill in one group] of [numbers 1 to 9] and then another, you’ll soon [solve the entire grid].
+        - Just because Sudoku [involves numbers] doesn’t mean you [have to be good at math] to [figure out the solution]. The same is true of programming. Like [solving a Sudoku puzzle], writing programs involves [breaking down a problem into individual]([[break down a problem]]), [[detailed steps]]. Similarly, when [[debugging]] programs (that is, finding and [[fixing errors]]), you’ll [patiently observe] [what the program is doing] and [find the cause of the bugs]. And like all skills, the more you program, the better you’ll become.
+210228-23:30
+- [[Downloading and Installing Python]]
+- [The Interactive Shell]([[interactive shell]])
+- ### Installing Third-Party Modules
+    - Some [Python code] requires your program to [[import modules]]. Some of these modules come with Python, but others are [[third-party module]]s created by developers outside of the Python [core dev team]. [Appendix A]([[appendix]]) has [detailed instructions] on how to use the `pip` program (on Windows) or `pip3` program (on macOS and Linux) to install third-party modules. Consult Appendix A when this book [instructs you to] [install a particular third-party module]. #pip
+210301-04:30
+- ### How to Find Help
+    - Programmers [tend to learn by] [searching the internet] for [answers to their questions]. This is [quite different from] [the way many people are accustomed to learning]—through an [in-person teacher] who lectures 亲自授课 and can [answer questions]. What’s great about [using the internet as a schoolroom] is that there are [whole communities of folks] who can [answer your questions]. Indeed, your questions have probably [already been answered], and the answers are [waiting online for you to find them]. If you encounter an [[error message]] or [have trouble making your code work], you [won’t be the first person to] [have your problem], and [finding a solution] is [easier than you might think].
+    - For example, let’s [cause an error on purpose]: enter `'42' + 3` into the interactive shell. You don’t need to know [what this instruction means] right now, but the result [should look like this]:
+        - ```python
+>>> '42' + 3
+➊ Traceback (most recent call last):
+     File "<pyshell#0>", line 1, in <module>
+       '42' + 3
+➋ TypeError: Can't convert 'int' object to str implicitly
+   >>>```
+        - The error message ➋ appears because Python couldn’t [understand your instruction]. The [[traceback]] part ➊ of the error message shows the [specific instruction] and [[line number]] that Python [had trouble with]. If you’re not sure what to make of a particular error message, search for it online. Enter **“TypeError: Can’t convert ‘int’ object to str implicitly”** (including the [[quote]]s) into your favorite search engine, and you should see [tons of links] explaining [what the error message means] and [what causes it], as shown in Figure 0-2.
+210301-12:04
+        - Figure 0-2: The [Google results] for an error message [can be very helpful].
+    - You’ll often find that [someone else had the same question as you] and that some other [helpful person] [has already answered it]. No one person can [know everything about] programming, so an [everyday part] of any [software developer]’s job is [looking up answers] to [technical questions].
+- ### Summary
+    - For most people, their computer is just an [[appliance]] [instead of a tool]. But by [learning how to program], you’ll [gain access to] [one of the most powerful tools] of the [modern world], and you’ll have fun along the way. Programming isn’t [brain surgery]—it’s fine for [[amateur]]s to experiment and [make mistakes].
+    - This book assumes you [have zero programming knowledge] and will [teach you quite a bit], but you may [have questions beyond its scope]([[scope]]). Remember that [asking effective questions] and knowing [how to find answers] are [invaluable tools] on your [programming journey].
+210301-12:10
+    - Let’s begin!

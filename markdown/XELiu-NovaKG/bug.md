@@ -1,6 +1,6 @@
 - bug report;
 - crash
-- [[debug]]; debugging
+- [[debug]]; [[debugging]]
     - [[bug fixes]];
     - tracking bugs;
 - [[error]]
@@ -8,12 +8,12 @@
     - [[error-free]];
     - error-prone
     - error report; [[error message]]; [[error log]]
-    - fixing errors; 
+    - [[fixing errors]]; 
 - [[exit code]]
 - [[feedback]]
 - [[file not found]]
 - [[log]]
 - [[sanitization]]
-- traceback
+- [[traceback]]
 - [[troubleshooting]]
 - [[unresponsive]]

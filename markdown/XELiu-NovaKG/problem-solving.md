@@ -1,6 +1,6 @@
-- break down a problem; 
+- [[break down a problem]]; 
 - [[collaborative problem-solving]]
-- detailed steps
+- [[detailed steps]]
 - [[puzzle]]
 - [[specific sub-question]]
 - tackle unsolved problems; already solved problem

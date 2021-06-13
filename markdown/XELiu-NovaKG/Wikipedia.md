@@ -5,4 +5,4 @@
     - [[external link]]; external article
     - [[further reading]]
 - [[stub]]
-- Wikimedia Commons
+- [[Wikimedia Commons]]
