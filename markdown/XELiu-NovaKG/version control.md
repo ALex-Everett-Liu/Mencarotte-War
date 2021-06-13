@@ -1,9 +1,10 @@
+- [[code management]]
 - [[distributed revision control system]]
     - [[Git]]; [[git]];
         - [[commit]]
         - diff; [[diffable]]
         - [[fork]]: 分支, 分叉;
-        - [[GitHub]]
+        - [[GitHub]]; [[Github]]
         - [[git directory]]
         - [[git history]]
         - [[push]]

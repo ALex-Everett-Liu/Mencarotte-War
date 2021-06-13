@@ -1,2 +1,2 @@
 - [[author]]
-- [[subject matter]]
+- [[subject]]; [[subject matter]]

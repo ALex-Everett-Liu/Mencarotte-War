@@ -6,3 +6,4 @@
         - [[neurological stimulation]]
 - [[independent existence]]; independent reality; relative
 - nature of reality
+- [[reality model]];

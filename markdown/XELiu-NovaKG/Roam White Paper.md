@@ -80,6 +80,7 @@ cast into a drawer: 扔进抽屉里
     - [6]: Slate Star Codex: __mental disorders as networks.__ 石板星抄本 #[[mental disorder]]
     - [7]: Michèle B. Nuijten, Marie K. Deserno, Angélique O. J. Cramer, Denny Borsboom: An [[introduction]] and [[overview]] of a [[network approach]] to [[psychopathology]].
 201124-23:20
+    - [8]: As [[Carl Sagan]] observed, while more data is [[broadcast]] in [[TV program]]s every day than the combined [[written work]]s of [all of history], "not all [[bit]]s have [[equal value]]".
 - ### [Further Reading]([[further reading]])
     - Daniel Kahneman, __Thinking, Fast and Slow__
     - Robin Hanson, __Could Gambling Save Science?__ #gambling 

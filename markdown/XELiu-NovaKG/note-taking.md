@@ -2,6 +2,8 @@
     - block level
     - block-level addressability
     - [[block reference]]; referenced block
+    - article built on blocks; build tools;
+        - uncomposable page; composable: 可组合, 可配置; 
     - [[bullet list]]
     - edits in one place
     - global block

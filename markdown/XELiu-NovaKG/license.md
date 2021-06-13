@@ -4,5 +4,5 @@
 - [[GNU]]
     - [[General Public License (GPL)]]; GNU GPL
 - maintain the system
-- [[open-source]]; [[open-source]] software
+- [[open-source]]; [[open-source software]]; [[open-source technology]]
 - [[release]]

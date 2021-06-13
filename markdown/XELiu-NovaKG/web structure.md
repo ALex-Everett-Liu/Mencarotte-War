@@ -10,7 +10,7 @@
     - weight...
     - [[defined relationship]]; [[relationship strength]]
         - [[defined concept]]
-    - connect with lines; [[connect ideas]];
+    - connect with lines; [[connect ideas]]; connection between pages
     - [[context]]; [[original context]]; [[original meaning]]
     - [[explicit relationship]]
     - [[interconnectivity]]

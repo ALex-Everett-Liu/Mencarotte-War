@@ -17,6 +17,7 @@
     - [[source code]]
     - [[throwaway code]]
     - working vanilla code;
+    - [[writing code]];
 - [[command line]]; [[command-line interface]]; [[shell]]; Shell
 - condition
     - [[certain condition]]

@@ -17,7 +17,10 @@
         - easy-to-defend; hard-to-defend; motte-and-bailey
     - [[true]]; [[false]];
         - [[both true]];
-- [[cognitive bias]]
+- bias
+    - [[cognitive bias]]
+- fallacy
+    - [[narrative fallacy]]
 - general...
 - [[heuristic]]
 - [[reasoning]]; [[inference]]

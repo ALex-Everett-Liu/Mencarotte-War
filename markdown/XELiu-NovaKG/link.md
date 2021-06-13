@@ -9,6 +9,7 @@
 - [[hovered]]
 - [[hyperlink]]
 - [[internal link]]; internal linking
+- [[link pages]]
 - linking feature
 - one way pointer
 - [[orthogonal linking]]

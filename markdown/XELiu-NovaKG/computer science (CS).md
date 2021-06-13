@@ -3,7 +3,7 @@
 - [[data structure]]
 - [[natural language]]; [[natural language processing (NLP)]]
 - Operating System (OS); [[operating system (OS)]];
-- [[programming]]; [[programming language]]
+- [[programming]]; [[programming language]]; [[programmer]]
 - [[search]]
 - [[virtual machine]]
 - [[编译原理]]

@@ -307,6 +307,13 @@
                 - dedicated;
             - deduce
                 - [[deduction]];
+            - define
+                - defined; definite; definition
+            - degree
+                - large degree;
+            - deliberate: 故意，从容，深思熟虑，仔细考虑;
+            - deliver
+                - delivered; delivery
             - demonstrate, 2
                 - demo;
                 - demonstration;
@@ -688,7 +695,8 @@
         - ob
             - ob-
                 - obscure: 遮蔽; 湮没;
-                    - obscured; obscurity;
+                    - obscure meaning; 
+                    - obscured; obscurity: 默默无闻; 无名; 费解; 晦涩; 难懂的事; 昏暗; 黑暗;
             - object
                 - objection;
             - observe

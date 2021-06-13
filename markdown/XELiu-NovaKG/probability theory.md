@@ -2,3 +2,4 @@
 - [[chance]]
 - [[gambling]]
 - [[probability amplitude]]
+- [[randomness]]
