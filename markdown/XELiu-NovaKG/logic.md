@@ -25,5 +25,5 @@
 - [[heuristic]]
 - [[reasoning]]; [[inference]]
     - [[Bayesian reasoning]]; [[Bayesian inference]]
-        - [[belief network]]
+        - [[belief network]]; [[trusted network]]
 - [[reductio ad absurdum]]: 归谬法, 反证法

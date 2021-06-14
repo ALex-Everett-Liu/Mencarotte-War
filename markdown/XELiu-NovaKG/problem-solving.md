@@ -2,6 +2,7 @@
 - [[collaborative problem-solving]]
 - [[detailed steps]]
 - [[puzzle]]
+- [[resolve the problem]];
 - [[specific sub-question]]
 - tackle unsolved problems; already solved problem
 - valuable problem;

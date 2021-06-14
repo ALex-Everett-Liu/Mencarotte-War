@@ -1,5 +1,5 @@
 - [[belief]]; [[common knowledge]]; [[common sense]]; [[common-sense statement]]
-    - [[belief network]]
+    - [[belief network]]; [[trusted network]]
     - [[underlying belief]]
 - death
     - 对死亡的恐惧;

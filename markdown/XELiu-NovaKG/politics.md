@@ -2,6 +2,7 @@
     - [[centralization]]: 中央集权; [[central authority]]
 - [[autocracy]]
 - [[democracy]]
+    - [[vote]]
     - weight conflicting opinions;
 - [[cold war]]
     - [[color revolution]]

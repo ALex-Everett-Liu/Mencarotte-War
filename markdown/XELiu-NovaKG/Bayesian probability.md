@@ -2,7 +2,7 @@
 - [[Bayes’ Theorem]]
     - [[observed evidence]]
         - [[confidence level]]
-        - successive layers of estimates: 连续的估计层; successive layers of evidence
+        - successive layers of estimates: 连续的估计层; successive layers of evidence; piece of evidence
     - [[posterior probability]]
     - [[prior probability]]
         - [[prior data]]
