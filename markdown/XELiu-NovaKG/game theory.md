@@ -1,11 +1,4 @@
-- [[decision-making]]; [[decision making]]
-    - [[better-informed decision]]
-    - [[decision quality]]
-    - [[decision tree]]; [[decision matrix]]
-    - [[evaluation matrix]]
-    - [[final decision]]
-    - map out the fastest route: 制订最速路线;
+- [[decision-making]]; [[decision making]]; [[decision]]
     - [[problem-solving]]
-    - [[prediction market]]
 - [[strategy]]
 - [[tradeoff]]; [[trade-off]];

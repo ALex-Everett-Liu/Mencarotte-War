@@ -1,0 +1,7 @@
+- [[better-informed decision]]
+- [[decision quality]]
+- [[decision tree]]; [[decision matrix]]
+- [[evaluation matrix]]
+- [[final decision]]
+- map out the fastest route: 制订最速路线;
+- [[prediction]]; [[prediction market]]

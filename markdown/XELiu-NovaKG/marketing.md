@@ -3,6 +3,7 @@
     - [[brand value]]
     - [[logo]]
     - positioning statement: 定位声明
+- [[content marketer]]: 产品营销人员;
 - [[marketplace]];
 - marketing communication
     - marketing-communications platform
