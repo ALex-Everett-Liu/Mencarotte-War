@@ -189,6 +189,11 @@
                 - recognise; recognize
             - com
                 - com-
+                    - command
+                        - commander
+                            - commandery;
+                    - common, 2
+                        - commonly;
                     - comp
                         - company
                             - accompany
@@ -197,7 +202,7 @@
                             - encompass
                         - component
                         - compose
-                            - composite; composition
+                            - composite; [[composition]]
                         - comprehend
                             - comprehension;
             - con
@@ -387,6 +392,7 @@
         - eq
             - equi
                 - equal
+                    - [[equal value]]; 
                     - equation;
                 - equilibria
                     - equilibrium
@@ -1041,6 +1047,13 @@
                 - trigger
                     - triggered; triggering;
                 - trim
+            - trophi
+                - atrophy
+                - trophic
+            - trunk
+                - truncal; truncate; truncated
+            - trust
+                - entrust: 委托; 交托; 托付
         - tw
             - twi-
                 - twin

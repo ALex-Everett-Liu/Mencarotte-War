@@ -1,3 +1,4 @@
+- [[annual basis]]; [[daily basis]]
 - [[chart]]
     - bar graph
     - line graph
@@ -8,6 +9,8 @@
 - [[data collection]]
 - [[data generator]]
 - extracting data; extract information
+- interpreting the data;
+- [[meaningful data]]; [[random data]]
 - plot...
     - ray-fan plot
     - spot diagram

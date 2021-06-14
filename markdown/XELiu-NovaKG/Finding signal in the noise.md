@@ -3,3 +3,12 @@
     - Just as humans are incapable of [[generating random numbers]], we struggle to [consciously generate random ideas] - to the point where [actively trying to] ‘think differently’ often seems to only further calcify [[existing pattern]]s. Instead of [attempting to brute-force creativity]([[creativity]]), 试图蛮力创造力 the brain [must be confronted with] [[novel stimuli]] 面对新的刺激 in order to [reorganize its perception]([[reorganize the perception]]). [Exposure to] [a certain amount of] [random ‘noise’]([[random noise]]) - [[drug]]s, [[dream]]s, [[meditation]], [Tarot readings], [[mistake]]s - **can [jolt thoughts out of] [well-tracked grooves]** 把思想从井然有序的沟壑中解放出来/颠覆思路 and into [entirely new areas] of idea-space. Typically these [[insight]]s [occur at the juncture of]([[juncture]]) two or more seemingly [[unrelated fields]], [[concept]]s, or [[image]]s. #[[brainstorm]]
 201125-19:12
     - propensity: 倾向; 习性
+- Assume a [[trend]] has a [[signal-to-noise ratio]] of 1:1 on an [[annual basis]] (50% of the data are [[meaningful data]], 50% are [[random data]]). Observing the same data on a [[daily basis]], the [[composition]] changes to 95% noise, 5% signal. [Observing the data hourly] (as [[news hound]]s and [market junkies] do), and it becomes 99.5% random - which is to say, [two hundred times] [more noise than signal].[9](((n87Qayo83)))
+201126-05:18
+    - junkies: 吸毒成瘾者
+- [Institutions] [entrusted with](((h0Jcf2R1u))) [interpreting the data](((OrQXaPWBB))) include the [[media]], [[academia]], and [legislature]. Some [[agent]]s [within these institutions]([[institution]]) deliberately [[obscure the truth]], as demonstrated by ‘[[fake news]]’, [[p-hacking]], and [politicking]. While actively [[malicious behaviour]] is the exception, 即使我们排除掉这些主动恶意行为 even the best-intentioned [[reporter]]s, 善意的 [[researcher]]s and [[analyst]]s [are not immune to] [being fooled by randomness].
+201126-06:00
+    - legislature: 立法机关 | politicking: 拉拢活动; 从事政治活动
+    - gated: fengbi14, bakong34
+- For most people, the problem of [sorting signal from noise] therefore involves finding [trustworthy and accurate] [[secondary source]]s of information. This [[difficult task]] is often frustrated by gated [[scientific journal]]s, as well as [[search engine algorithm]]s increasingly gamed by [[SEO-savvy]] [[content marketer]]s. 被精通搜索引擎优化的产品营销人员所愚弄
+201126-06:07

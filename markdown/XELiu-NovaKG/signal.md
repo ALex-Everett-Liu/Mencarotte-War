@@ -4,6 +4,7 @@
     - multiplexing
 - [[noise]]
     - [[separate signal from noise]]
+    - [[signal-to-noise ratio]]
 - relaying signals
 - [[signal processing]]
 - [[visual signal]]

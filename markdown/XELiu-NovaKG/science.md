@@ -1,4 +1,4 @@
-- [[academic]]
+- [[academia]]; [[academic]]
 - creative...
 - [[discipline]]; [[scientific discipline]]
     - [[area of interest]];

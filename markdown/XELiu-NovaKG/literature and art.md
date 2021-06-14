@@ -11,6 +11,7 @@
     - [[serendipity]]
 - [[writing]]; [[creative writings]]
     - creative work; create the work
+        - [[written work]];
     - [[reader]]
         - [[audience]]
     - [[story]]

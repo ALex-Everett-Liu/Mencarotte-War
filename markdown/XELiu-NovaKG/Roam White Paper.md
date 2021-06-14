@@ -74,13 +74,14 @@ cast into a drawer: 扔进抽屉里
     - [2] [[Scientific American]]: New [Estimate] Boosts the Human Brain's [[memory capacity]] [10-Fold].
     - [3]: [Microelectronics]([[microelectronics]]) pioneer [[Carver Mead]], who coined the term [[Moore’s Law]], correctly predicted in 1990 that [present-day computers] would use ten million times more energy for a single [[instruction]] than [the brain uses for] a [[synaptic activation]]. 
 201123-12:20
-    - [4]: This [[example]] is [adapted from](((lYmxwkcFA))) the Less Wrong sequence 37 Ways Words Can be Wrong.
+    - [4]: This [[example]] is [adapted from](((lYmxwkcFA))) __the Less Wrong sequence 37 Ways Words Can be Wrong__.
     - [5]: Motte-and-bailey refers to [arguing]([[argue]]) an [easy-to-defend](((EUE-J-BVz))) and often [[common-sense statement]] (the motte), [in order to](((aCf6CVWYv))) [ward off critics](((Rqz2w_hsJ))) from a [hard-to-defend] and more [[controversial statement]] (the bailey). [The term was popularised by] [Scott Alexander], and explained in [All in All, Another Brick in the Motte]. 城寨; 城堡
 201124-01:00
     - [6]: Slate Star Codex: __mental disorders as networks.__ 石板星抄本 #[[mental disorder]]
     - [7]: Michèle B. Nuijten, Marie K. Deserno, Angélique O. J. Cramer, Denny Borsboom: An [[introduction]] and [[overview]] of a [[network approach]] to [[psychopathology]].
 201124-23:20
     - [8]: As [[Carl Sagan]] observed, while more data is [[broadcast]] in [[TV program]]s every day than the combined [[written work]]s of [all of history], "not all [[bit]]s have [[equal value]]".
+    - [9]: This example comes from [Nassim Taleb]’s __Antifragile__.
 - ### [Further Reading]([[further reading]])
     - Daniel Kahneman, __Thinking, Fast and Slow__
     - Robin Hanson, __Could Gambling Save Science?__ #gambling 
