@@ -10,4 +10,5 @@
         - page ranking; PageRank
     - rank quality
     - relevance estimation
+- [[search engine algorithm]]
 - Web graph

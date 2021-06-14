@@ -1,4 +1,4 @@
-- [[academic journal]]
+- [[academic journal]]; [[scientific journal]]
 - [[business journalist]]
 - [[first issue]]
 - [[journaling]]: 日志

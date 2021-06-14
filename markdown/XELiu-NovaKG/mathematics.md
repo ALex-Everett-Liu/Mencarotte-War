@@ -24,6 +24,6 @@
     - [[Sudoku puzzle]]
 - [[set theory]]
 - [[statistics]]
-    - [[data analysis]]
+    - [[data analysis]]; [[analyst]]
     - [[probability theory]]
 - [[systems theory]]

@@ -86,7 +86,7 @@
     - [[Brian Greene]]
         - [[The Fabric of the Cosmos - Space, Time, and the Texture of Reality]]
 - publication...
-    - [[academic journal]]
+    - [[academic journal]]; [[scientific journal]]
         - [[American Journal of Physics (Am. J. Phys.)]]
         - [[Appl. Phys. Lett (APL)]]
         - [[Physics Today]]

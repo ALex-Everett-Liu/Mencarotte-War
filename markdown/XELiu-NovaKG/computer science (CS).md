@@ -1,5 +1,5 @@
 - [[artificial intelligence (AI)]]
-- [[data analysis]]
+- [[data analysis]]; [[analyst]]
 - [[data structure]]
 - [[natural language]]; [[natural language processing (NLP)]]
 - Operating System (OS); [[operating system (OS)]];
