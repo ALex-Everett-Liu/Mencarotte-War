@@ -6,6 +6,5 @@
     - [[add-on]]; third-party add-on package
     - [[plugin]]; [[plug-in]]
         - plugin loading order
-- [[hack]]...
-    - hack-turned-supported
+- [[hack]]
 - user-pioneered

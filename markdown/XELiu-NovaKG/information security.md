@@ -8,6 +8,6 @@
     - [[readonly]]; read-only
     - [user account](https://workflowy.com/#/4ca6506c76e1)
 - [[cryptography]]
-- [[malicious]]
+- [[malicious]]; [[malicious behaviour]]
     - [[digital/virus]]
 - [[password]]; security password
