@@ -8,7 +8,7 @@
 - [[form]]: 表单
     - form instance;
 - [[list]]
-    - make list; [[list management]]
+    - [[make list]]; [[list management]]
     - [[sequence]]
 - namespace
 - record; 行属性

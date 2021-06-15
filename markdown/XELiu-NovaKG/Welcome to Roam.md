@@ -13,5 +13,5 @@
         - Yes! Add them to the [Issue Tracker](https://github.com/Roam-Research/issues). #GitHub #[[issue tracker]]
     - ### How can I [[contact]] support? 
         - Email `support@roamresearch.com` or visit our [support portal](https://roamresearch.freshdesk.com/support/home). #[[support portal]]
-        - [Please note that] we're a [[small team]], so we [might be slow to respond](). Don't worry -- we will [get to your ticket]([[ticket]]) eventually! 
+        - [Please note that] we're a [[small team]], so we [might be slow to respond](((d68Bk3I3W))). Don't worry -- we will [get to your ticket]([[ticket]]) eventually! 
 201129-19:38

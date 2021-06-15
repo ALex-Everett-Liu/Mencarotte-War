@@ -20,7 +20,7 @@
 - [[scrollbar]]
 - [[sidebar]]
 - [[slider]]
-- style; styling...
+- style; [[styling]]...
     - [[theme]]
 - [[tab]]
 - [[toolbar]]

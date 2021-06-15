@@ -4,11 +4,12 @@
 - indent
     - [[rainbow indentation]]
 - [[plain text]]
+- [[UltraEdit]]
+    - [[IDM Computer Solutions, Inc.]]
 - [[vi editor]]
     - [[Vim (Vi IMproved)]]
         - [[vim mode]]
             - hjkl 方向键
-- [[UltraEdit]]
-    - [[IDM Computer Solutions, Inc.]]
+- [[WYSIWG editor]]
 - #inbox
     - 做[文本比对]的 PNDiff，这个和VIM的[diff功能][是类似的]，但是它提供另外两个[强大的功能]，一个是可以[将diff的结果]做 Merge，网上有些专门做这种[Merge功能]的[独立工具]，其中有些还是[收费的]；另外一个功能是提供了[用户可配的][比较方式的选择和配置]，这个[大大扩展了]用户对文本比较的[控制力](https://www.zhihu.com/question/458331576/answer/1889346876)。 #pt7-99.97

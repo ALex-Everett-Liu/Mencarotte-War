@@ -117,7 +117,7 @@
                 - beginning;
             - behave
                 - behavior, 2; behaviour
-                    - drive the behavior;
+                    - [[drive the behavior]];
             - bench
                 - benchmark
             - beware

@@ -1,10 +1,10 @@
 - aspx
 - Basic HTML
 - html anchor;
-- HTML tag; element
+- [[HTML tag]]; [[element]]
     - the behavior of elements
-    - opening tag; closing tag
-        - opening paragraph tag; closing paragraph tag
+    - [[opening tag]]; [[closing tag]]
+        - [[opening paragraph tag]]; [[closing paragraph tag]]
 - iframe; iframe embed
 - render the video; render as an image;
 - ---

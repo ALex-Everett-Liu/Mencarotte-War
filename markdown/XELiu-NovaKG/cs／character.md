@@ -6,7 +6,7 @@
     - capturing group
 - [[character string]]
 - [[escape character]]
-    - [[backslash-escaped]]; forward slash; [[backslash]]
+    - [[backslash-escaped]]; [[forward slash]]; [[backslash]]
 - [[meta character]]
 - [[replacement character]]
 - [[reserved character]]

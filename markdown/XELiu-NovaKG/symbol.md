@@ -19,4 +19,4 @@
 - punctuation mark
 - [[quote]]
 - [[slash]]
-    - forward slash; [[backslash]]
+    - [[forward slash]]; [[backslash]]

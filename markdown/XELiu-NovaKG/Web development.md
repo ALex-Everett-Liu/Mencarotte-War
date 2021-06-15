@@ -1,9 +1,11 @@
-- front end
+- [[front end]]
 - interactive site
     - dynamic behavior
     - submit the form
     - update the identity
-- Web Design; [[Web design]]; [[web designer]]
+- static website; [[static site]]
+    - consulting client
+- [[Web Design]]; [[Web design]]; [[web designer]]
     - [[Cascading Style Sheets (CSS)]]; css
     - [[content optimization system (CMS)]]
     - [[design element]]
@@ -13,6 +15,6 @@
         - [[sub-page]]
     - [[layout]]
     - structural content
-        - page structure; [[page hierarchy]]
-        - the types of content
+        - [[page structure]]; [[page hierarchy]]
+        - [[content type]]
         - website structure

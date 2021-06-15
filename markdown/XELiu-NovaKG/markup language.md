@@ -9,11 +9,11 @@
     - markdown exporter
 - the presentation of a document
 - [[reStructuredText]]
-- style; styling...
+- style; [[styling]]...
     - bold; bold letter
     - [[color scheme]]: 配色方案 
     - display style
-    - emphasize text
+    - [[emphasize text]]
     - [[font]]
     - [[highlight]]
     - italics

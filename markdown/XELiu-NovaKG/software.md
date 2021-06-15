@@ -41,9 +41,12 @@
     - storage system
     - store files
 - [[text editor]]
-- [[typesetting]]; formatting...
-    - [[markup language]]; [[markup]]
+- [[typesetting]]; [[formatting]]...
+    - [[markup language]]; [[Markup language]]; [[markup]]
 - [[user interface (UI)]]
 - [[user service]]
 - [[workflow]]
     - [[productivity tool]]
+- #inbox
+    - {{[[TODO]]}} Beyond Compare 支持对比 纯 / 富文本文档、ZIP 压缩文件、文件夹目录、[FTP 站点][等各类场景](https://mp.weixin.qq.com/s/3Z5e1Rplugb1n9zsc6l4Rg)。 #pt9-99.98
+    - {{[[TODO]]}} **Process Lasso **是一款 [Win 平台](https://mp.weixin.qq.com/s/dxuFeOPZS5h4XPiNn2ozHA)上[功能丰富]、远强于[系统任务管理器]的[进程管理工具]。通过[动态平衡系统负载]、智能内存管理、[进程监控自动化][等多种手段][对进程进行优化]。让你的[老电脑]远离[卡顿转圈]，丝滑如新。 #pt8-99.97

@@ -10,7 +10,7 @@
         - [[Map of Content (MoC)]]
     - [[tag]]; [[label]]: 标签, 标注; [[category]]...
         - tag-line;
-        - the types of content
+        - [[content type]]
 - [[file cabinet]]
 - [[file tree]]; [[knowledge tree]]
 - [[folder]]

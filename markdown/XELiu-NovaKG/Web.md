@@ -1,6 +1,6 @@
 - [[cloud service]]...
 - [[link]]
-- [[markup language]]; [[markup]]
+- [[markup language]]; [[Markup language]]; [[markup]]
 - [[online]] or [[offline]]; web or local...
     - [[desktop software]]
     - portable version; green software
@@ -10,7 +10,7 @@
 - [[upload]]; [[download]]
 - [[web browser]]; [[browser]]
     - [[Chrome]]
-- [[Web development]]; web developer; Website Development
+- [[Web development]]; [[Web Development]]; web developer; Website Development
 - [[website]]; [[web site]]; site
     - [[web page]]; [[webpage]]
     - website analytics suite

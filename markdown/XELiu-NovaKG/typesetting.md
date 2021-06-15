@@ -2,14 +2,23 @@
 - line...
     - [[indentation]]
     - [[line terminator]]: 行终止符
-    - [[linebreak]]; line break
+    - [[linebreak]]; [[line break]]
     - new line; [[newline]]; newline character
     - return character
     - [[separate lines]]; delimit with a comma; deliminate
     - [[all in one line]]
     - [[line-by-line changes]]
     - [[line number]]
-- style; styling...
+- page...
+    - [[body text]]
+    - [[footer]]
+    - [[heading]]; [[header]]
+        - [[subheader]]
+    - [[paragraph]]
+    - structural content
+    - [[title]]; page title
+- reformatted;
+- style; [[styling]]...
 - [[symbol]]; 标点符号;
 - [[text editor]]
 - [[word processor]]; [[word processing]]

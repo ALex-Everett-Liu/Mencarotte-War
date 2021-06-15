@@ -1,4 +1,4 @@
 - digital text
 - [[hypermedia]]
 - textual media
-- text file
+- [[text file]]

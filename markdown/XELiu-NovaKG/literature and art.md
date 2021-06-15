@@ -19,7 +19,7 @@
     - [[creative professional]]
     - [[creative studio]]
     - history-inspired renewal
-    - Web Design; [[Web design]]; [[web designer]]
+    - [[Web Design]]; [[Web design]]; [[web designer]]
 - general...
     - common people
     - [[liberal arts majors]]

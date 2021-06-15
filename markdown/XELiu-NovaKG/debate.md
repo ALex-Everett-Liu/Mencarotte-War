@@ -4,7 +4,7 @@
 - position: 立场
     - [[contradictory position]]: 矛盾立场; [[compatible]]: 相容的;
     - [[initial position]]
-- presentation??
+- [[presentation]]??
     - [[example]], case, [[demo]], display...
         - [sample project](https://workflowy.com/#/a8412432157f)
     - flow chart
