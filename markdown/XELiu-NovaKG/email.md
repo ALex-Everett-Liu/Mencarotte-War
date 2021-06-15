@@ -1,5 +1,6 @@
-- [email newsletter](https://workflowy.com/#/4b885dd66930);
-- [[spam]]
-    - [[spam-filter algorithm]]
 - email client
     - Gmail; gmail
+- email newsletter
+- [[mailto]]
+- [[spam]]
+    - [[spam-filter algorithm]]

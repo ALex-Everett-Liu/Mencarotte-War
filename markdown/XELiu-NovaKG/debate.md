@@ -4,6 +4,14 @@
 - position: 立场
     - [[contradictory position]]: 矛盾立场; [[compatible]]: 相容的;
     - [[initial position]]
+- presentation??
+    - [[example]], case, [[demo]], display...
+        - [sample project](https://workflowy.com/#/a8412432157f)
+    - flow chart
+        - [[Excalidraw]]
+    - illustration
+        - accompanying painting
+    - [visualization...](https://workflowy.com/#/76e65c6dfcd0)
 - [[strategic equivocation]]: 策略性搪塞; 含糊其辞; 支吾;
 - dictionary 
     - The event was to launch a schools' [debating competition]. www.[ftchinese].com

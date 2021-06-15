@@ -1,6 +1,7 @@
 - [[business]]
 - [[economic theory]]
 - [[finance]]
+- [[inflation]]
 - [[ledger]]
 - [[business management]]
 - [[microeconomics]]

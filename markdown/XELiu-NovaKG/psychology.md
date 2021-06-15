@@ -8,4 +8,5 @@
     - [[generalised anxiety disorder (GAD)]]: 广泛性焦虑症
     - [[mental disorder]]
         - [[mental pressure]]
+            - [[peer pressure]]
     - [[suicide]]

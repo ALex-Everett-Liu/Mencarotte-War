@@ -1,2 +1,2 @@
-- continuous update
+- continuous update; constantly updated
 - [[receive update]]; 

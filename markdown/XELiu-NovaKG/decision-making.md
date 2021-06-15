@@ -1,7 +1,8 @@
-- [[better-informed decision]]
+- [[better-informed decision]]; better informed position
 - [[decision quality]]
 - [[decision tree]]; [[decision matrix]]
 - [[evaluation matrix]]
 - [[final decision]]
+- [[insider information]]
 - map out the fastest route: 制订最速路线;
 - [[prediction]]; [[prediction market]]

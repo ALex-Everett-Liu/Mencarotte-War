@@ -15,15 +15,13 @@
 201127-06:33
         - Associates: 投资公司
 - c) **Prediction markets**
-    - When people succumb to [[peer pressure]] and other [biases], do not have enough [[specialist knowledge]], or [[deliberately]] make [[false prediction]]s, the ‘[[wisdom of the crowd]]’ **can [end up being very wrong].**
+    - When people succumb to [[peer pressure]] and other [biases], do not have enough [[specialist knowledge]], or [deliberately make false predictions], the ‘[[wisdom of the crowd]]’ **can [end up being very wrong].**
 201127-18:25
-    - The insight behind [[prediction market]]s is that [[participant]]s can be incentivised to [[profit]] from any such [[mistake]]s. Wherever someone believes the [[consensus]] is wrong, they can [stake money on it], and [move the probability back]([[probability]]) to a [[better informed position]]. [Insider information]([[insider information]]) is not only permitted, but welcomed. In this way, [vast amounts of information] [can be synthesised into] one [constantly updated]() [[data point]], which is often [remarkably accurate]([[accurate]]).
+    - The insight behind [[prediction market]]s is that [[participant]]s [can be incentivised to](((wRF4O8FX9))) [profit from any such mistakes]([[profit]]). [Wherever someone believes] the [[consensus]] is wrong, they can [stake money on it], and [move the probability back to]([[probability]]) [a better informed position](((VP1vpHAu-))). [Insider information]([[insider information]]) is not only permitted, but welcomed. In this way, [vast amounts of information] [can be synthesised into] one [constantly updated](((lELLPzO3V))) [[data point]], which is often [remarkably accurate]([[accurate]]).
 201127-21:23
         - succumb: qucong12, qufu12, siyu32
-incentivised: baoyang12, jili14
 stake: dadu33, xiazhu44
-    - The [uptake and growth] of prediction markets [has been dampened by] [[regulatory issue]]s, 绕开权力/暴力机构的监管问题 but [possible workarounds]([[workaround]]) include a [[non-fiat token]], or [[reputation-linked points system]]. 声誉挂钩积分系统
+    - The [uptake and growth] of prediction markets [has been dampened by] [[regulatory issue]]s, 绕开权力/暴力机构的监管问题 but [possible workarounds]([[workaround]]) include a [[non-fiat token]], or [[reputation-linked points system]]. 
 201127-21:33
         - uptake: shequ43, xishou11, lijie33
 dampened: yizhi44, jianruo34, chaoshi21
-regulatory: 具有监管权的

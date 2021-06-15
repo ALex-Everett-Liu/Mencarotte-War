@@ -9,7 +9,7 @@
     - [[Japan]]
     - [[United States (USA)]]
 - [[democracy]]
-    - [[crowd]]
+    - [[crowd]]; [[wisdom of the crowd]]
     - [[popularity contest]]: 人气竞赛
     - [[the tyranny of the majority]]
     - [[unpopular position]]
@@ -31,7 +31,7 @@
 - [[nation]]
     - [[nation/state]]
         - [[statelet]];
-- [[necessary consensus]]: 必要共识
+- [[necessary consensus]]: 必要共识; [[consensus]]
 - [[group]]; [[organization]]
     - association
     - [commission](https://workflowy.com/#/a9e071d40739)

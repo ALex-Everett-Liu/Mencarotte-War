@@ -5,11 +5,12 @@
     - follow the work;
     - [[interdisciplinary]]
     - sight; [[focus]]
-    - [[specialist]]; [[specialised knowledge]]; [[specific knowledge]]; [[domain-specific knowledge]]
+    - [[specialist]]; [[specialised knowledge]]; [[specialist knowledge]]; [[specific knowledge]]; [[domain-specific knowledge]]
         - [[amateur]]; [[enthusiastic amateur]]
         - [[dilettante-level skill]]: 业余水平
         - [[expert]]; [[expertise]]
             - [[domain expert]];
+            - [[power user]]; [[expert user]]
     - study field
     - [[unrelated fields]]; diverse field
 - [[encyclopedia]]...

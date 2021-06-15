@@ -1,4 +1,4 @@
-- bug report;
+- [[bug report]];
 - [[crash]]
 - [[debug]]; [[debugging]]
     - [[bug fixes]];
@@ -15,5 +15,5 @@
 - [[log]]
 - [[sanitization]]
 - [[traceback]]
-- [[troubleshooting]]
+- [[troubleshoot]]; [[troubleshooting]]
 - [[unresponsive]]

@@ -1,7 +1,7 @@
 - free account;
 - [[login]]; [[log in]]; [[sign in]]
 - [[member]]
-- [[power user]]
+- [[power user]]; [[expert user]]
 - premium; [[professional]]
 - [[sign up]]; [[register]]; [[join]]
 - [[username]]

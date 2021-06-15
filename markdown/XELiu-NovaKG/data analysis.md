@@ -8,6 +8,7 @@
     - [[text value]]
 - [[data collection]]
 - [[data generator]]
+- [[data point]];
 - extracting data; extract information
 - interpreting the data;
 - [[meaningful data]]; [[random data]]

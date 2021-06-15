@@ -542,6 +542,9 @@
     - i
         - in
             - inc
+                - incent
+                    - incentive
+                        - incentivised: 褒扬, 激励;
                 - incident
                     - incidence; incidentally
                 - include
@@ -549,6 +552,10 @@
                         - exclusive;
                             - [[mutually exclusive]];
                     - included; including
+                - increment
+                    - incrementally;
+                - inculcate
+                    - inculcation;
             - inhere
                 - inherent: 固有的, 内在, 生来; inherently
             - initial

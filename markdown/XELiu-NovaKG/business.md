@@ -10,9 +10,11 @@
     - reduce cost;
 - digital business??
     - [[retail electronics store]]
+- [[co-founder]]
 - general...
     - [[business partner]]
 - [[market]]; [[marketing]]: 市场营销; [[marketer]]
 - [[product]]
+- [[profit]]
 - [[publish]]
 - [[trade]]

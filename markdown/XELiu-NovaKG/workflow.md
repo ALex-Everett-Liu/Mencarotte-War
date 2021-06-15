@@ -12,6 +12,7 @@
 - mental cost?
     - learning cost;
     - 打断思路
+- practice; best-practice; [[best practice]]
 - [[quantified self movement]] (量化自我运动)
 - [[template]]
 - [[toolchain]]

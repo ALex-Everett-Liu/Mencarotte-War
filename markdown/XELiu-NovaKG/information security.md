@@ -11,3 +11,7 @@
 - [[malicious]]; [[malicious behaviour]]
     - [[digital/virus]]
 - [[password]]; security password
+- [[regulatory issue]]; regulatory: 具有监管权的
+- [[reputation-linked points system]]: 声誉挂钩积分系统
+- token
+    - [[non-fiat token]]: 非法定代币;

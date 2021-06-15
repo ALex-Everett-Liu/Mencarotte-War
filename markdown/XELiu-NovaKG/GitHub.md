@@ -1,5 +1,6 @@
-- bug report;
+- [[bug report]];
     - [[issue]]
+        - [[issue tracker]]
     - [[pull request]]
 - bundle; [[bundler]]
 - clone the repository;

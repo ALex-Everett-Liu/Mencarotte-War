@@ -95,3 +95,15 @@ cast into a drawer: 扔进抽屉里
 - ### About this Paper
     - We wrote this White Paper in Winter of 2017/2018, and while [it still reflects much of our vision] for the tool, some of the features -- particularly related to [[Bayesian reasoning]], [[argument analysis]], and [[prediction market]]s we found to be in-fact much [lower priority]([[low priority]]) for the [[researcher]]s and [decision makers]([[decision making]]) whose thinking [we aim to assist] -- and risked [making the tool too complex] for the more significant [[use case]]s.  If you are interested in using Roam for more formal [[quantitative reasoning]] or building out [[formal model]]s of [[belief network]]s, __or if you are [excited about ideas] in this paper which you [do not see a way to do] currently within Roam, please [contact us].__  
 201128-03:07
+- ### Redistribution
+    - ### [革命性][思维工具]: [Roam Research](https://zhuanlan.zhihu.com/p/142356397) [白皮书]
+        - [Zack](https://www.zhihu.com/people/finance) -- CyberX | [[co-founder]]
+        - Roam 是去年新[涌现出来]的[笔记工具]，其他作者已经在[知乎]上把它的功能进行了[详尽介绍](https://www.zhihu.com/question/384453977/answer/1214041249) 
+            - 这里，我把Roam[创始人]写的白皮书翻译了一下，希望能给大家一些[启发]。 [摘抄]一下[原著]的[结论]：
+        - Author | 原著：[[Conor White-Sullivan]] | [cwhitesullivan](mailto:cwhitesullivan@gmail.com) || English Text
+            - [Translation](https://roamresearch.com/#/app/trade/page/nhzz3wRuM) | 翻译：[Zack Fan] | [zack.fan](mailto:zack.fan@gmail.com) 
+good translation! 点赞!!
+#mailto
+        - 上面为 Whitepaper [正文]， [下面是]一些其他[相关资源]，[供大家参考]
+            - 最后放些[海外用户]的图/视频：
+        - me: 这篇白皮书真的[堪称][雄文]，值得[反复品味]。
