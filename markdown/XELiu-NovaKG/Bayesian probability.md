@@ -13,4 +13,5 @@
 - [[testing hypotheses]];
 - weight...
     - [[assigned weightings]]
+    - [[collective weightings]]
     - [[revisions to the weightings]];

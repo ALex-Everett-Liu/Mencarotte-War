@@ -13,7 +13,7 @@
 - [[science philosophy]]...
 - [[skepticism]]
 - [[theology]]
-- truth
+- [[truth]]
     - the [[pursuit of truth]]
 - [[ultimate question]]
 - value...

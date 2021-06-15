@@ -1,5 +1,5 @@
 - [[acquisition]]: 收购; 获得; 招揽;
-- business competition
+- business competition; [[competition]]
     - monopolized
     - [[competitor]]
 - [[business operation]]: 企业经营, 业务运作;
