@@ -7,7 +7,7 @@
     - [[networked thought]]
     - [[node]]
 - relation, [[relationship]], [[connection]]...
-    - weight...
+    - [[weight]]
     - [[defined relationship]]; [[relationship strength]]
         - [[defined concept]]
     - connect with lines; [[connect ideas]]; connection between pages

@@ -2,6 +2,7 @@
 - [[credit]]; credited
 - disclaiming of responsibility
 - [[license]]
+- [[original content]]
 - [[patent]]
     - standard...
         - [[international standard]]

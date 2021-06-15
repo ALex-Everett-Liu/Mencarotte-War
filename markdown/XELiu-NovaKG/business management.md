@@ -8,5 +8,7 @@
     - architecture??
         - [[executive director]]: 执行主任/理事
     - [[technical staff]]
+- [[manager]]
 - [[Master in Business Administration (MBA)]]
 - shift; 轮班制度
+- [[track performance]];

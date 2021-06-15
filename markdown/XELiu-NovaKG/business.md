@@ -15,3 +15,4 @@
 - [[market]]; [[marketing]]: 市场营销; [[marketer]]
 - [[product]]
 - [[publish]]
+- [[trade]]

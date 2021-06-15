@@ -153,7 +153,7 @@
                 - calculation, 2; calculus;
             - caliber
                 - calibrate: 调教, 校准; 筛选;
-                    - calibrated;
+                    - calibrated; well-calibrated
             - cap
                 - capable, 2
                     - capability;
@@ -716,6 +716,18 @@
                 - second nature;
             - navy
                 - navigate
+        - ne
+            - necessary
+                - necessitate: 迫使, 必需;
+            - negate
+                - negative;
+            - neglect
+                - negligent
+                    - negligible;
+            - neo-
+                - [neoclassical;](https://workflowy.com/#/4cea0363f81f)
+            - new
+                - renew; renewal
         - nu
             - nudge: 用肘轻推, 引起注意;
             - number
@@ -1026,6 +1038,7 @@
                 - supply
                     - supplement
                 - support
+                    - [[broad support]]; 
                     - supported;
                 - [[suppose]]
         - sw

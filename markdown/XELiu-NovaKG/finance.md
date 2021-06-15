@@ -8,6 +8,8 @@
 - [[currency]]
 - [[financial crisis]]
     - [[global financial crisis]]
+- fund
+    - [[hedge fund]]: 对冲基金/避险基金
 - general...
     - [[clearinghouse]]: 票据交换所
 - [[insurance]]

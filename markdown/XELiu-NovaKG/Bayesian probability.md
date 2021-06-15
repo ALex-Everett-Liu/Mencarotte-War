@@ -7,12 +7,14 @@
     - [[prior probability]]
         - [[prior data]]
     - [[proposition of interest]]: 待处理的问题 
+- [[belief network]]; [[trusted network]]
+    - [[believability score]]
 - [[estimating probabilities]];
 - [[expected value]]
 - [[in-group]]
 - learn a new fact; acquire new evidence
 - [[testing hypotheses]];
-- weight...
+- [[weight]]
     - [[assigned weightings]]
     - [[collective weightings]]
     - [[revisions to the weightings]];
