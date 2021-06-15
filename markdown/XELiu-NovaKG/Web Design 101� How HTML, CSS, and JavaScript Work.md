@@ -45,3 +45,13 @@
 210304-18:33
     - ### CSS
         - CSS stands for [[Cascading Style Sheets (CSS)]]. This programming language dictates how [the HTML elements of a website] should actually [appear on the frontend of the page].
+        - ### HTML vs CSS
+            - HTML [provides the raw tools needed to] [structure content on a website]. CSS, on the other hand, helps to [style this content] so [it appears to the user] [the way it was intended to be seen]. These languages are [kept separate] to ensure websites are [built correctly] before they're [[reformatted]].
+210304-23:40
+            - If HTML is the drywall, CSS is the paint.
+            - Whereas HTML was the basic [structure of your website](https://academy.hubspot.com/courses/website-optimization?utm_source=marketing_blog&utm_medium=blog&utm_campaign=website_optimization), CSS is what [gives your entire website its style]. Those slick colors, 光滑的 interesting fonts, and [[background image]]s? All thanks to CSS. This language [affects the entire mood and tone of] a web page, making it [an incredibly powerful tool] -- and [an important skill] for [web developers] to learn. It's also what [allows websites to adapt to] different [[screen size]]s and [[device type]]s.
+            - To show you what CSS does to a website, look at the following two screenshots. The first screenshot is my colleague's [blog post](https://blog.hubspot.com/blog/tabid/6307/bid/23454/The-Ultimate-Cheat-Sheet-for-Mastering-LinkedIn.aspx), but shown in [[Basic HTML]], and the second screenshot is that same blog post with HTML __and __CSS. #LinkedIn #aspx #[[cheat sheet]]
+                - Notice [all the content is still] there, but the visual styling isn't. This is [what you might see] if the [[style sheet]] [doesn't load on the website], for whatever reason. Now, here's what [the same web page] looks like [with CSS added].
+210305-12:03
+                    - Example of HTML + CSS
+                    - Isn't that prettier?

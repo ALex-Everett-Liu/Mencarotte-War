@@ -17,7 +17,7 @@
     - [[paragraph]]
     - structural content
     - [[title]]; page title
-- reformatted;
+- [[reformatted]];
 - style; [[styling]]...
 - [[symbol]]; 标点符号;
 - [[text editor]]

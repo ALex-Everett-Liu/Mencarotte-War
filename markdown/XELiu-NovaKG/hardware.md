@@ -11,7 +11,7 @@
     - [[screen]]
 - [[electronic device]]; [[digital device]]
     - [[digital system]]
-    - device type;
+    - [[device type]];
     - smart device
 - [[firmware]]
 - [[GPU]]
