@@ -9,6 +9,7 @@
     - [[proposition of interest]]: 待处理的问题 
 - [[estimating probabilities]];
 - [[expected value]]
+- [[in-group]]
 - learn a new fact; acquire new evidence
 - [[testing hypotheses]];
 - weight...

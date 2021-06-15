@@ -6,10 +6,6 @@
 - general...
     - [[non-negative]]
     - normalized
-    - number
-        - digit: 位
-        - [[whole number]]
-            - decimal whole number
     - square-integrable function
     - square root
     - well-defined
@@ -20,10 +16,15 @@
 - [[mathematical modeling]]
 - [[mathematician]]
 - [[mathematical proof]]; [[proof]]; prove
+- number
+    - correct figure;
+    - digit: 位
+    - [[whole number]]
+        - decimal whole number
 - puzzle
     - [[Sudoku puzzle]]
 - [[set theory]]
-- [[statistics]]
+- [[statistics]]; [[statistician]]
     - [[data analysis]]; [[analyst]]
     - [[probability theory]]
 - [[systems theory]]

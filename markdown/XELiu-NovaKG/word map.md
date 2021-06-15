@@ -112,6 +112,7 @@
             - basic
                 - basics;
         - be
+            - bear: 承受 ; 忍受 ; 不适于某事 ; 承担责任
             - begin
                 - beginning;
             - behave
@@ -120,6 +121,19 @@
             - bench
                 - benchmark
             - beware
+        - bi
+            - bible
+                - biblio
+                    - bibliographic; bibliography, 2
+            - bifid
+                - bifilar;
+                - bifurcate; bifurcation
+            - birth
+                - born
+                    - [stillborn;](https://workflowy.com/#/7d018a9c87ca)
+            - bit
+                - byte
+                    - [a sequence of](https://workflowy.com/#/fe2464bff968) 8 bits (enough to represent one character of [alphanumeric data]) processed as [a single unit of information]
         - bo
             - border
                 - bordered; borderline
@@ -487,8 +501,20 @@
                 - [[ultimate goal]];
         - gr
             - gra
+                - gradual
+                    - gradually;
+                        - in a gradual [manner](https://workflowy.com/#/91e9f05c9f0f);
+                            - "the snake moved gradually toward its [victim](https://workflowy.com/#/cc923ea436e6)"
+                    - graduate
+                        - graduated;
+                - grammar
+                    - grammatically;
+                - graph
+                    - [bibliography](((6mQpoq6BN))); cartograph; [choreography](https://workflowy.com/#/3ed513bcc254); photograph
+                    - graphic;
                 - grapple
                     - grapple with: 扭打, 抓住;
+                - grasp: 抓紧, 抓牢, 紧握; 理解, 领会, 领悟, 明白; 急忙抓住, 毫不犹豫地抓住; 控制; 能力所及;
                 - gray
                     - grey;
         - gu

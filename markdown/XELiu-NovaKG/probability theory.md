@@ -1,3 +1,4 @@
+- [[average]]
 - [[Bayesian probability]]
 - [[chance]]
 - [[gambling]]

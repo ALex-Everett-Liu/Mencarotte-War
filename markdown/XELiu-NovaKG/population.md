@@ -1,4 +1,6 @@
 - [[census]]
+- [[demography]]: 人口统计学
+    - [[demographic]]
 - [[general population]]
 - 生育率危机
 - #inbox

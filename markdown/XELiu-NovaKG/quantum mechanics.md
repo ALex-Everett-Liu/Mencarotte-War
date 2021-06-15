@@ -1,8 +1,5 @@
 - general...
-    - large-scale regime
-    - [[macroscopic level]]; [[microscopic level]]
     - quantum process;
-    - subatomic domain;
 - localized at a point; [[phys/localization]]
     - [[non-localization]];
     - spread out in space

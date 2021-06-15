@@ -1,10 +1,16 @@
 - [[belief]]; [[common knowledge]]; [[common sense]]; [[common-sense statement]]
     - [[belief network]]; [[trusted network]]
     - [[underlying belief]]
+    - what we believe;
 - death
     - 对死亡的恐惧;
 - [[debate]]; [[speech]]
 - existential; [[existential philosophy]]
+- [[free will]]
+    - [[compatibilism]]: 相容主义;
+    - [[determinism]]
+        - [[hard determinism]]
+    - [[libertarianism]]
 - general...
     - [[collective view]];
 - [[logic]]

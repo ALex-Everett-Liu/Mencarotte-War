@@ -1,9 +1,6 @@
 - [[authority]]: 当局, 当权; 权力, 权威;
     - [[centralization]]: 中央集权; [[central authority]]
 - [[autocracy]]
-- [[democracy]]
-    - [[vote]]
-    - weight conflicting opinions;
 - [[cold war]]
     - [[color revolution]]
         - 和平演变
@@ -11,8 +8,16 @@
     - [[India]]
     - [[Japan]]
     - [[United States (USA)]]
+- [[democracy]]
+    - [[crowd]]
+    - [[popularity contest]]: 人气竞赛
+    - [[the tyranny of the majority]]
+    - [[unpopular position]]
+    - [[vote]]
+    - weight conflicting opinions;
 - [[diplomacy]]
 - elect
+- [[epistocracy]]
 - general...
     - political reality
     - political satire

@@ -7,7 +7,8 @@
 - [[particle]]
     - [[classical particle]]
     - particle species
-    - [[submicroscopic particle]]
+    - subatomic scale; subatomic domain;
+        - subatomic particle; sub-atomic particle; [[submicroscopic particle]]
 - [[proton]]
 - [[theoretical physics]]; [[theoretical physicist]]
 - [[virtual particle]]

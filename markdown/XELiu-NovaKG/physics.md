@@ -41,17 +41,7 @@
     - physical quantity
         - base quantities
         - [[frequency]]
-    - scale, scope...
-        - [[large scale]]
-        - [[macroscopic scale]]
-            - ordinary scale
-        - [[microscopic scale]]; microscopic system
-            - atomic-scale entity
-            - microscopic phenomena; microscopic behaviour
-            - [[nanometer scale]]; nanometer-scale object; nanoscale metal object
-            - small scale
-            - subatomic scale
-            - deep subwavelength scale
+    - [[scale]], scope...
     - time
         - at any given time: 某个给定的时间; at any particular time
         - for all future time
