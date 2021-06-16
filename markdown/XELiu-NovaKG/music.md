@@ -19,7 +19,7 @@
     - [[musical note]]: 音符
     - [[musical score]]: 乐谱
     - [[musical tone]]: 音调
-- song; sing
+- [[song]]; [[sing]]
     - [[artist]]
     - [[singer]]
     - uta; 唄

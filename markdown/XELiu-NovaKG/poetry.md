@@ -1,0 +1,27 @@
+- caesura
+- China poetry
+    - Tang poetry
+        - old style poetry
+        - regulated style
+- [[epic]]
+- four-syllable meter
+- line relationship...
+    - couplet; rhyming couplet
+    - matched lines; line pair
+    - [[parallelism]]
+- metrical translation
+- [[ode]]
+- [[Romantic poetry]]
+- repetition
+    - verbal repetition
+- [[rhyme]]
+    - end rhyme; internal rhyming; rhyme words
+    - lax rhyming practice
+    - rhyme pattern
+- [[song]]; [[sing]]
+    - [[lyric]]
+        - musical accompaniment
+    - ritual song
+- [[stanza]]
+    - successive stanzas
+- [[verse]]

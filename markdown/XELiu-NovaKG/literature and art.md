@@ -28,7 +28,6 @@
 - [[music]]
 - [[novel]]
 - [[poetry]]
-    - [[Romantic poetry]]
 - scene; scenery...
 - [[wallpaper]]
 - [[western literature]]
