@@ -17,15 +17,18 @@
     - [[moodboard]]
         - collect inspiration
         - visual material
+- [[daily note]]; [[diary]]
 - database table?
     - [[Airtable]]
     - [[Note-taking/Notion]]
 - innovation!
     - [[Roam Research]]
+    - [[Piggydb]]
 - [[markdown]]; [[Markdown]]
     - [[Note-taking/Obsidian]]
     - [[思源笔记 (Siyuan Note)]]
     - [[Typora]]
+- [[notebook]]
 - [[outliner]]
     - [[Dynalist]]
     - list-oriented format: 面向列表的格式

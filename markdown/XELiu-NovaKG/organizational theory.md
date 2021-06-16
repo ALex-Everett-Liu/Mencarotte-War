@@ -1,4 +1,4 @@
 - organizational form
 - organizational context
 - [[organization tool]]
-    - [[organizing knowledge]]; organize your ideas
+    - [[organizing knowledge]]; organize your ideas; arrangement

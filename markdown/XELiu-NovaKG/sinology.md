@@ -1,1 +1,4 @@
-- [[Confucian School]]
+- [[Confucian School]]; [[Confucianism]]
+- ---
+- The Harvard History of Imperial China
+- 哥伦比亚中国文学史

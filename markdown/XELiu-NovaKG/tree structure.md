@@ -5,11 +5,10 @@
     - parallel index
     - relative index; relative location
         - appropriate location; proper place
-    - structured note
+    - structured note; [[structured content]]
     - [[Table of Contents (ToC)]]
         - [[Map of Content (MoC)]]
     - [[tag]]; [[label]]: 标签, 标注; [[category]]...
-        - tag-line;
         - [[content type]]
 - [[file cabinet]]
 - [[file tree]]; [[knowledge tree]]

@@ -8,7 +8,7 @@
     - provide information;
 - [[information processing]]
 - [[information unit]]; [[knowledge unit]]
-    - [[fragmented information]]
+    - [[fragmented information]]; [[knowledge fragment]]
     - [[information piece]];
 - [[information volume]];
 - the transmission of information; [[information transmission]]: 信息传输

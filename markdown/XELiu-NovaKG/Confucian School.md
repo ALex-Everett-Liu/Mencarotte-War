@@ -1,1 +1,12 @@
+- canonical classic
+- classic book
+- [[Confucius]]
+- [[五经 (Five Classics)]]
+- general...
+    - propriety and righteousness
+    - proper conduct
+- scholar...
+    - [[郑玄 (Zheng Xuan)]]
+- tools...
+    - [[Chinese Text Project]]
 - [[易经 (Yijing)]]

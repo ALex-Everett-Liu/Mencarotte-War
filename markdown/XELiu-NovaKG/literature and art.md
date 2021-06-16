@@ -1,7 +1,7 @@
 - [[animation]]
     - [[anime]]
 - [[comedy]]
-- creative...
+- creative; [[creativity]]
     - idea maze
     - [[innovation]]
     - [[inspiration]]
@@ -10,7 +10,7 @@
     - [[invention]]
     - [[serendipity]]
 - [[writing]]; [[creative writings]]
-    - creative work; create the work
+    - [[creative work]]; create the work
         - [[written work]];
     - [[reader]]
         - [[audience]]

@@ -3,11 +3,12 @@
 - [[human knowledge]]; [[information explosion]]; [[knowledge explosion]]
 - [[insight]]
 - [[information unit]]; [[knowledge unit]]
+- [[knowledge base]]
 - [[knowledge framework]]
     - [[file tree]]; [[knowledge tree]]
 - [[knowledge graph]]
     - graph view; [[graphical display]]
-- [[organizing knowledge]]; organize your ideas
+- [[organizing knowledge]]; organize your ideas; arrangement
 - [[personal knowledge management (PKM)]]
     - [[note-taking]]; [[note-taking tool]]; [[note-taking app]]; notetaking
 - [[second brain]]

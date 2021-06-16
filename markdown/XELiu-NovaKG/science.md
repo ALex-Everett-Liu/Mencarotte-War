@@ -1,5 +1,5 @@
 - [[academia]]; [[academic]]
-- creative...
+- creative; [[creativity]]
 - [[discipline]]; [[scientific discipline]]
     - [[area of interest]];
     - follow the work;
