@@ -5,5 +5,4 @@
 - Operating System (OS); [[operating system (OS)]];
 - [[programming]]; [[programming language]]; [[programmer]]
 - [[search]]
-- [[virtual machine]]
 - [[编译原理]]

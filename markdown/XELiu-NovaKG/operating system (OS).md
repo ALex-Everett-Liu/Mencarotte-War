@@ -6,3 +6,4 @@
     - [[system maintenance]]
     - system settings
 - [[Unix]]
+- [[virtual machine]]

@@ -23,12 +23,14 @@
     - [[Note-taking/Notion]]
 - innovation!
     - [[Roam Research]]
-    - [[Piggydb]]
 - [[markdown]]; [[Markdown]]
     - [[Note-taking/Obsidian]]
     - [[思源笔记 (Siyuan Note)]]
     - [[Typora]]
 - [[notebook]]
+- network? put more attention to connections...
+    - [[Cotoami]]
+    - [[Piggydb]]
 - [[outliner]]
     - [[Dynalist]]
     - list-oriented format: 面向列表的格式

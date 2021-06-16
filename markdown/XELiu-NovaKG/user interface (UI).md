@@ -17,6 +17,7 @@
     - previous page; next page
     - return to top of page
 - [[pane]]
+- pin; [[pinned]]
 - [[scrollbar]]
 - [[sidebar]]
 - [[slider]]
