@@ -21,7 +21,7 @@
 - [[command line]]; [[command-line interface]]; [[shell]]; Shell
 - condition
     - [[certain condition]]
-    - if-else statement
+    - [[if-else statement]]
 - [[evaluate]]; [[evaluation]]
 - [[expression]]
     - arithmetic expression;
@@ -34,7 +34,7 @@
 - general...
     - domain-specific language
     - [[list comprehension]]
-    - logic-based programming language
+    - [[logic-based programming language]]
     - modifier; flag
     - [[practical programming]]
     - programming task

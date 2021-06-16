@@ -6,7 +6,7 @@
     - [[Korean]]
 - general...
     - [[term]]
-    - everyday language
+    - [[everyday language]]
     - [[natural language]]
 - [[input method (IME)]]
 - letter

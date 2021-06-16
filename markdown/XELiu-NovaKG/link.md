@@ -13,7 +13,7 @@
 - linking feature
 - one way pointer
 - [[orthogonal linking]]
-- redirect
+- [[redirect]]
 - [[source]]; [[reference]]
 - [[truncate the link]]
 - web location

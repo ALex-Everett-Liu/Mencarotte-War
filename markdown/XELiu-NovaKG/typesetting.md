@@ -15,7 +15,7 @@
     - [[heading]]; [[header]]
         - [[subheader]]
     - [[paragraph]]
-    - structural content
+    - [[structural content]]
     - [[title]]; page title
 - [[reformatted]];
 - style; [[styling]]...

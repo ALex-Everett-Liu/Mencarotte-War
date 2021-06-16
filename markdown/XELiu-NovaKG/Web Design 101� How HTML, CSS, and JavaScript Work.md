@@ -55,3 +55,47 @@
 210305-12:03
                     - Example of HTML + CSS
                     - Isn't that prettier?
+        - Put simply, CSS is [a list of rules] that can [assign different properties to] HTML tags, either [specified to single tags], multiple tags, an entire document, or [[multiple documents]]. It exists because, as [[design element]]s like [fonts and colors] were developed, [web designers] [had a lot of trouble] [adapting HTML to these new features].
+210305-12:12
+            - You see, HTML, developed back in 1990, was [not really intended to] show any [physical formatting information]. It was [originally meant only to] define a document's [[structural content]], like headers versus [[paragraph]]s. HTML outgrew these new design features, and CSS was invented and released in 1996: All formatting [could be removed from] [HTML documents] and [stored in separate CSS (.css) files].
+        - So, what exactly does CSS stand for? It stands for Cascading Style Sheets -- __and "style sheet" refers to the document itself.__ Ever [web browser] has a [[default style sheet]], so every web page out there is [affected by at least one style sheet] -- the default style sheet of [whatever browser the web page visitor is using] -- [regardless whether or not] the [web designer] [applies any styles]. For example, my browser's [default font style] is [[Times New Roman]], [size 12], so if I [visited a web page] where the designer didn't [apply a style sheet of their own], I would see the web page in Times New Roman, size 12.
+            - Obviously, [the vast majority of] web pages I visit don't use Times New Roman, size 12 -- that's because [the web designers behind those pages] [started out with a default style sheet] that [had a default font style], and then they [overrode my browser's defaults] with [[custom CSS]]. That's where the word "cascading" [comes into play]. Think about a waterfall -- as water cascades down the fall, it [hits all the rocks] on the way down, but only [the rocks at the bottom] affect [where it will end up flowing]. In the same way, the [[last defined]] style sheet [informs my browser] [which instructions have precedence]([[instruction precedence]]).
+210305-14:10
+        - To learn the specifics of [coding in CSS], I'll [point you again to] the free classes and resources on [codecademy](https://www.codecademy.com/catalog/subject/web-development). But for now, let's talk a bit about JavaScript.
+    - ### JavaScript 
+        - JavaScript is [a more complicated language] than HTML or CSS, and it wasn't [released in beta form] until 1995. Nowadays, JavaScript is supported by all [modern web browsers] and is [used on almost every site] [on the web] for more powerful and [complex functionality].
+        - ### What is JavaScript used for?
+            - JavaScript is a [[logic-based programming language]] that [can be used to] [modify website content] and [make it behave in different ways] [in response to a user's actions]. [Common uses for] JavaScript include [[confirmation box]]es, [calls-to-action], and [adding new identities to] [existing information].
+210305-14:24
+            - In short, JavaScript is a programming language that lets web developers design [[interactive site]]s. Most of the [[dynamic behavior]] [you'll see on a web page] is [thanks to JavaScript], which augments [a browser's default controls and behaviors].
+        - ### Creating Confirmation Boxes
+            - One example of JavaScript in action is boxes that [pop up on your screen]. Think about the last time you [entered your information into] [an online form] and [a confirmation box popped up], asking you to press "OK" or "Cancel" to proceed. That was [made possible because of] JavaScript -- in the code, you'd find [an "if ... else ..." statement]([[if-else statement]]) that [tells the computer to] do one thing if the user clicks "OK," and a different thing if the user clicks "Cancel."
+        - ### Triggering Slide-In CTAs
+            - Another example of [JavaScript in action] is a [slide-in call-to-action (CTA)](https://blog.hubspot.com/marketing/how-to-add-a-slide-in-call-to-action-to-your-blog-posts), like the ones we [put on our blog posts], which [appears on the bottom right-hand side] of your screen when you [scroll past the end of the sidebar]. Here's what it looks like: #[[slide-in call-to-action (CTA)]]
+210305-14:37
+        - ### Storing New Information
+            - JavaScript is [particularly useful for] [assigning new identities to] [existing website elements], [according to the decisions the user makes] while [visiting the page]. For example, [let's say] you're building a [[landing page]] with a form you'd like to [generates leads from] 生成线索 by [capturing information about] a [website visitor]. You might have a "string" of JavaScript [dedicated to the user's first name]([[first name]]). That string might [look something like this]:
+210305-16:04
+
+`function updateFirstname() {
+
+let Firstname = prompt('First Name');
+
+}`
+            - Then, after the [website visitor] [enters his or her first name] -- and [any other information you require] [on the landing page] -- and [submits the form]([[submit the form]]), this action [updates the identity]([[update the identity]]) of the [[initially undefined]] "Firstname" element in your code. Here's how you might [thank your website visitor] by name in JavaScript:
+210305-16:25
+`para.textContent = 'Thanks, ' + Firstname + "! You can now download your ebook."`
+                - In the string of JavaScript above, the "Firstname" element has been [assigned the first name] of the website visitor, and will therefore [produce his or her actual first name] [on the frontend of the webpage]. To a user named Kevin, the sentence [would look like this]:
+__Thanks, Kevin! You can now download your ebook.__
+        - ### Security, Games, and Special Effects
+            - Other uses for JavaScript include [[security password]] creation, [[check form]]s, [[interactive game]]s, [[animation]]s, and [[special effect]]s. It's also used to build [[mobile app]]s and create [[server-based application]]s. You can add JavaScript to an [HTML document] by adding these "scripts," or [[snippet]]s of [JavaScript code], into your [document's header or body].
+            - If you want to learn more about JavaScript, [codecademy has free online courses](https://www.codecademy.com/catalog/language/javascript) you can take, too.
+    - [The hardest part of coding] is [getting started] -- but once you [learn the basics], [it'll be easier to learn] [more advanced programming languages]. And if you [ever feel overwhelmed], head over to [hackertyper.net](http://hackertyper.net/) and __[hit random keys on your keyboard].__
+210305-23:51
+        - Trust me, you'll feel better.
+- __Editor's note: This post was [originally published in] November 2018 and [has been updated for comprehensiveness].__
+    - Originally published Oct 19, 2020 7:00:00 AM, updated October 26 2020
+- Topics: [Website Development](https://blog.hubspot.com/website/website-development)
+    - Don't forget to [share this post]!
+    - Related Articles
+        - [The 4 HTML Codes Every Non-Programmer Needs to Know](https://blog.hubspot.com/blog/tabid/6307/bid/5586/basic-html-every-internet-marketer-should-know.aspx)

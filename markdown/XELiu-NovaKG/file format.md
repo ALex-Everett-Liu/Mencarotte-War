@@ -2,7 +2,7 @@
 - [[document]]...
     - [[documentation]];
     - [[help docs]]...
-    - multiple documents;
+    - [[multiple documents]];
     - [[pdf]]; [[PDF]];
     - [[plain text]]
 - [[executable file]]; executable

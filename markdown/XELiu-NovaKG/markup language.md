@@ -21,8 +21,8 @@
 - [[style sheet language]]
     - [[Cascading Style Sheets (CSS)]]; css
     - [[style sheet]]
-        - default style sheet
-        - custom CSS
+        - [[default style sheet]]
+        - [[custom CSS]]
 - [[XML]]
     - [[OPML]]
 - [[YAML]]

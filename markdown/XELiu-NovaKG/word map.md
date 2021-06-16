@@ -387,7 +387,7 @@
             - effect
                 - efficiency;
                 - effective; effectively, 2;
-                - [[side-effect]]; special effect;
+                - [[side-effect]]; [[special effect]];
         - el
             - elaborate: 详细说明, 详细阐述; 精心计划
                 - elaborated;

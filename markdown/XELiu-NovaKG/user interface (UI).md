@@ -4,9 +4,9 @@
     - flexible drag and drop interface;
 - [[graphical user interface (GUI)]]
 - interactive; dynamic...
-    - confirmation box
+    - [[confirmation box]]
     - pop-up box;
-    - slide-in call-to-action (CTA)
+    - [[slide-in call-to-action (CTA)]]
 - magnifier; 放大镜
 - [[menu]]
     - [[dropdown]];

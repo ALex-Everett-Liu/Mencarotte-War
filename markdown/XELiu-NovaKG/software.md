@@ -11,7 +11,7 @@
 - [[file structure]]
 - general...
     - apps; [[software application]]; [[application program]]
-        - mobile app; 
+        - [[mobile app]]; 
     - [[software utility]]: 实用程序, 软件工具;
 - [[help docs]]...
 - [[install]]

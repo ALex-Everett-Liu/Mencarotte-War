@@ -1,4 +1,5 @@
 - [[ambiguity]]; [[disambiguation]]
+    - [[other use]];
 - expand the article;
 - reference check
 - related reading; related article; [[related ideas]]

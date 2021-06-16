@@ -1,8 +1,8 @@
 - [[front end]]
-- interactive site
-    - dynamic behavior
-    - submit the form
-    - update the identity
+- [[interactive site]]
+    - [[dynamic behavior]]
+    - [[submit the form]]
+    - [[update the identity]]
 - static website; [[static site]]
     - consulting client
 - [[Web Design]]; [[Web design]]; [[web designer]]
@@ -14,7 +14,7 @@
     - [[landing page]]; top-level page
         - [[sub-page]]
     - [[layout]]
-    - structural content
+    - [[structural content]]
         - [[page structure]]; [[page hierarchy]]
         - [[content type]]
         - website structure

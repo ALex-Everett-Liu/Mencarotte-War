@@ -3,6 +3,6 @@
     - [[integer division]]; [[floored quotient]]
     - [[modulus]]; [[remainder]]
 - [[precedence]]; [[operation order]]
-    - initially undefined
-    - instruction precedence
-    - last defined
+    - [[initially undefined]]
+    - [[instruction precedence]]
+    - [[last defined]]
