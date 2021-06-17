@@ -34,6 +34,7 @@
         - [[physical entity]]; [[non-physical entity]]
         - ordinary object
         - [[real entity]]
+        - [[real-world object]];
     - physical mechanism
     - physical process
     - physical properties

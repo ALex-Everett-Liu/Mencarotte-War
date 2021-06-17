@@ -1,3 +1,4 @@
 - communication protocol
 - encryption protocol
 - [[superdense coding]]
+- [[Uniform Resource Identifier (URI)]]

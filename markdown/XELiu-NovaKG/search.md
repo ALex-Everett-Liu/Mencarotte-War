@@ -1,7 +1,7 @@
 - [[case-sensitive]]; [[case sensitive]]
 - [[filter]]; filtering
     - pass the query filters
-- Information Retrieval (IR)
+- [[Information Retrieval (IR)]]
 - local search; desktop search
     - [[Everything Search]]
 - locate the file;

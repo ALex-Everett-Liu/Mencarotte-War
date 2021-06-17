@@ -6,7 +6,7 @@
     - portable version; green software
     - [[web-based application]]; [[web application]]
 - [[source]]; [[reference]]
-    - [[information source]]; information resource
+    - [[information source]]; [[information resource]]
 - [[upload]]; [[download]]
 - [[web browser]]; [[browser]]
     - [[Chrome]]

@@ -10,6 +10,7 @@
 - [[local area networks (LAN)]]
 - [[MAC address]]
 - [[metropolitan area networks (MAN)]]
+- [[private network]]
 - [[protocol]]
 - [[server]]
 - [[session]]

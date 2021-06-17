@@ -1,6 +1,6 @@
 - [[citing source]]
+- [[primary source]]; [[secondary source]]
 - [[reliable source]]; [[trusted source]]
-- [[secondary source]]
 - [[unclear source]];
 - [[unsourced material]];
 - [[Web Clipper]]
