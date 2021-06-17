@@ -8,9 +8,8 @@
     - [[networked thought]]
     - [[node]]
 - relation, [[relationship]], [[connection]]...
-    - [[weight]]
+    - annotating a connection;
     - [[defined relationship]]; [[relationship strength]]
-        - [[defined concept]]
     - connect with lines; [[connect ideas]]; connection between pages
     - [[context]]; [[original context]]; [[original meaning]]
     - [[explicit relationship]]
@@ -21,3 +20,4 @@
         - code reuse
         - [[remix ideas]]; remix information
         - reusing content
+    - [[weight]]

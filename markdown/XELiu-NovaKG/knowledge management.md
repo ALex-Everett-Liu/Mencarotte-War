@@ -7,7 +7,9 @@
 - [[knowledge framework]]
     - [[file tree]]; [[knowledge tree]]
 - [[knowledge graph]]
-    - graph view; [[graphical display]]
+    - [[concept map]]
+        - [[defined concept]]
+    - [[graph view]]; [[graphical display]]
 - [[organizing knowledge]]; organize your ideas; arrangement
 - [[personal knowledge management (PKM)]]
     - [[note-taking]]; [[note-taking tool]]; [[note-taking app]]; notetaking

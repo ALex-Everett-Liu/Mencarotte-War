@@ -1,3 +1,6 @@
 - [[ecosystem]]
     - [[open ecosystem]]
 - [[environment]]; [[environment engineering]]
+- #inbox
+    - [人工林]就是[经济树种]，开除森林[本来就没问题]，[互联网上][和猫狗共情]容易，遇到真保护动物就呵呵了
+        - 在[弓形虫论坛][讲生态]是不是搞错了什么

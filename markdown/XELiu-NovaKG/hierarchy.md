@@ -1,5 +1,6 @@
 - [[categorization]]; [[categorisation]]; 分类别
     - general category
+    - [[uncategorized]];
 - [[classification]]
     - dynamic classification
     - 结构调整
