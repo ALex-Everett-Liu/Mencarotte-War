@@ -1,14 +1,13 @@
 - the behavior of light
     - [[focus light]]; squeeze light; concentrating fields
     - transport light
-- [[classical optics]]
 - general...
     - capture light
     - [[light distribution]]
     - light pulse
     - oncoming light
     - [[optical effect]]
-- [[geometric optics]]
+- [[geometric optics]]; [[classical optics]]
 - interaction between light and matter
     - [[light absorption]]
     - [[photoelectric effect]]

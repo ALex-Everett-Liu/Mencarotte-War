@@ -1006,9 +1006,23 @@
                     - resignation;
         - st
             - sta
+                - stable
+                    - stablish
+                        - establish
+                            - establishment;
+                - stack, 2
+                    - stacked;
                 - staff, 2
                 - stance
                     - substance, 2
+                - start
+                    - startup; [[starting point]]
+                - state
+                    - statement
+                    - status
+                        - stature
+                - statistic
+                    - statistics;
             - str
                 - strict
                     - restrict; restricted, 2

@@ -1,6 +1,6 @@
 - [[link]]
 - birds-eye view; [[bird’s eye view]]
-- [[bottom-up approach]]: 自下而上的方法
+- [[bottom-up approach]]: 自下而上的方法; [[top-down approach]]
 - [[complex web]];
 - [[networked science]]
     - [[dynamic network]]

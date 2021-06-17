@@ -21,6 +21,7 @@
 - database table?
     - [[Airtable]]
     - [[Note-taking/Notion]]
+- [[fine grained]]: 细粒度
 - innovation!
     - [[Roam Research]]
 - [[markdown]]; [[Markdown]]
