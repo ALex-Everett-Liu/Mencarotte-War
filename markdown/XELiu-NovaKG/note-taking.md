@@ -109,6 +109,8 @@
     - 【需求】增加 `file://` 协议，方便[直接使用默认程序打开](https://club.roamedit.com/club/?thread-1010.htm)文件或文件夹 #pt8-99.98
         - 赞同楼上说的，试用了下菜包推荐的那个插件，颇为鸡肋，且[不能离线][不支持中文]。RE如果支持 file:// 协议，可以像 vivaldi [直接管理本地文件]，虽然简陋了点。
         - [客户端]一直是可以[链接本地文件]的，用 `/local file` [链接本地硬盘文件]，因为[安全问题]，浏览器[不用插件]基本不可能支持 `file://` 协议，而[这类插件]都是[外国人制作]，所以不会考虑[中文环境]。从RE网页本身去支持，我觉得[不可能做得到]，只能做到唤醒[支持特定链接]的软件，比如 Eagle 的链接
+    - 以前，我有专门的[任务管理软件]（things3）和[灵感收集软件]（苹果备忘录、drafts、flomo）。在[信息收集]时，我会首先[在头脑中分类]，[哪一些内容属于][单纯的任务]，哪一些是[灵感相关的信息]。最后的结果是，我的各种[灵感收集箱]中装满了[不曾被回顾的想法]。而任务管理软件也因为可以暂时用[子弹笔记]取代而[被多次弃用](https://www.yuque.com/chunfengxiaotingzi/vol3yh/gz447f)。 #pt8-99.98
+        - 写长文，就将 writeathon 里的卡片[导出成] word，直接在 scrivener 里读写。
     - {{[[TODO]]}} draw.io 的功能[涵盖了] processon 的很多功能，但是其[最大的卖点](https://www.yuque.com/wangdd/blog/zf3xgd)是**免费。** #pt7-99.98
     - 这个估计得[等API出来后][靠社区了](https://cn.logseq.com/t/topic/256),除了 Alfred,我还希望有 telegram bot, windows quicker, IFFFT 等等[效率工具] #pt8-99.98
         - roam research 已经有alfred解决方案了
