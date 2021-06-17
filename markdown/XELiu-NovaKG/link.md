@@ -17,4 +17,4 @@
 - [[source]]; [[reference]]
 - [[truncate the link]]
 - web location
-- [[URL]]; [[url]]
+- [[Uniform Resource Locators (URLs)]]; [[URL]]; [[url]]

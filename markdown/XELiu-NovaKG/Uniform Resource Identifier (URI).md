@@ -1,4 +1,4 @@
-- [[Uniform Resource Locators (URLs)]]
+- [[Uniform Resource Locators (URLs)]]; [[URL]]; [[url]]
 - [[Uniform Resource Names (URNs)]]
 - ---
 - This article has [multiple issues]. Please [help improve it] or [discuss these issues] [on the talk page]. (Learn how and when to remove these template messages)
