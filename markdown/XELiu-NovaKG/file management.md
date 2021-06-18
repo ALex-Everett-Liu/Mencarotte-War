@@ -20,6 +20,7 @@
     - [[filename]]; file name
     - [[file size]]
     - [[thumbnail]]
+- [[filesystem]]
 - general...
     - [[blank file]]
     - [[remote file]]

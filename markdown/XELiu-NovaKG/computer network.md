@@ -6,7 +6,9 @@
 - general...
     - network technologies
     - connection pool
-- Internet access
+- [[HTTP]]
+- [[Internet]]
+- [[Intranet]]
 - [[local area networks (LAN)]]
 - [[MAC address]]
 - [[metropolitan area networks (MAN)]]

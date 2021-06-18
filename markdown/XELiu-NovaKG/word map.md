@@ -643,6 +643,22 @@
                 - literate; literated
                     - transliterate; transliterated
         - lo
+            - local
+                - locale; localization
+                - locate, 3
+                    - located; location, 3; locator
+            - locus
+                - the set of all points or lines that [satisfy](https://workflowy.com/#/b691a11f923c) or are determined by [specific conditions]
+                    - guiji34, didian43, suozaidi344;
+                    - "the locus of points equidistant from [a given point] is a [circle](https://workflowy.com/#/74ba921138b5)"
+            - log
+                - [catalog](https://workflowy.com/#/035f5250463e);
+                - logging;
+            - -logy
+                - anthology; [[ontology]]
+            - long
+                - length, 2
+                    - [wavelength](https://workflowy.com/#/a7072a18281e)
             - longing
                 - in a yearning manner 渴望
                     - he [spent the rest of the act] 余下的时间 [gazing longingly over my right shoulder] at the [illuminated word] 'Exit'
@@ -755,6 +771,8 @@
             - obsess
                 - obsessed; obsession
         - on
+            - onto
+                - [[ontology]]
             - onym
                 - 术语, 名字;
                 - onymous
