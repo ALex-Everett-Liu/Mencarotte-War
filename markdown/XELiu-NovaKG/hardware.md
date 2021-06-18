@@ -9,6 +9,8 @@
 - display
     - high contrast
     - [[screen]]
+- earphone
+    - [[MP3 player]]
 - [[electronic device]]; [[digital device]]
     - [[digital system]]
     - [[device type]];
@@ -26,10 +28,16 @@
 - [[middleware]]
 - [[mobile phone]]
     - [[smartphone]]
-- [[processor]]; [[computer processor]]
 - [[personal computer (PC)]]
+- plug...
+    - hot-pluggable
+        - [hot-swappable transceiver](https://workflowy.com/#/500a4039bcb1)
+    - front panel socket; on-board socket
+- [[portable device]]
+- [[processor]]; [[computer processor]]
 - [[real-time computing constraint]]: 实时计算约束
 - [[wearable technology]]
+    - [[digital watch]]
 - #inbox
     - [硬件](https://bbs.saraba1st.com/2b/thread-1999436-2-1.html) 理性讨论，pc diy 会被干死吗？ #pt10-99.98
         - [整机]相对DIY[技术上]目前没有[绝对优势]，但是如果某一天开始[DIY部件]组不出整机性能/功能的机器的时候，DIY也会变成[情怀党自嗨]

@@ -1,4 +1,6 @@
 - [[diminishing return]]: 收益递减
+- [[economies of scale]]
+    - [[mass-produced]];
 - ---
 - dictionary 
     - He has 250 students in his [microeconomics module]. 授课单元 《柯林斯高阶英汉双解学习词典》

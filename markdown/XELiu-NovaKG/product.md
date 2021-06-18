@@ -1,3 +1,4 @@
+- commercial product
 - [[customer]]
     - [[customer persona]]: 客户角色
         - represent your audience;
@@ -20,4 +21,11 @@
             - [[pain point]]: 痛点
             - [[user experience (UX)]]
         - [[user service]]
+- flagship product
+- product description
+    - [[gross weight]]
+    - [[product size]]
+        - [[reduce the size]]
+- product engineering
 - [[product manager]]
+- [[product quality]]

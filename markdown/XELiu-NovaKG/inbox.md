@@ -1,9 +1,9 @@
 - draft
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
-    - smzdm, sspai, s1; 苏伯, 海福盛;
-    - 115, bitball;; 
     - 
-    - 
+    - hybrid vehicle: 混合动力车辆
+    - medical imaging system: 医疗成像系统
+    - avionics: 航空电子设备
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
         - 向日葵远程控制 - 4kPOaxde4ULXis
@@ -15,7 +15,7 @@
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
         - 丝路大亨; 重生传奇; 吾家有妻骄养成; asmr .txt
         - 御姐; 
-    - 擦鞋去污渍的喷雾;; 打疫苗
+    - 擦鞋去污渍的喷雾;; 打疫苗;; 苏伯, 海福盛;; 
     - wayback machine, archive.org;; 
         - https://archive.is/
     - ---

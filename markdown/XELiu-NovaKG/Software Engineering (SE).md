@@ -9,8 +9,8 @@
     - [[developer]]; [[software developer]]; [[software development]]
 - [[Integrated Development Environment (IDE)]]; [[development environment]]
 - [[iterating]]; [[evolving]]
-- optimization
-    - maximize performance
+- [[optimization]]
+    - [[performance]]; maximize performance
     - optimization tool
 - [[reinvent the wheel]]
 - [[software environment]]
