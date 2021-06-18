@@ -1,6 +1,7 @@
 - conduct electricity
 - [[electrical cable]]
 - electromagnetic interference
+- [[electrical hardware]]
 - [[electrical power]]
     - high voltage electricity
 - [[power supply]]

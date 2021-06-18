@@ -4,7 +4,7 @@
 - general...
     - technological advance: 技术进步 
     - [[technologist]]
-- [[hardware]]
+- [[hardware]]; [[electronic hardware]]
 - [[information science]]; [[information technology (IT)]]
 - [[information security]]
 - [[library science]]

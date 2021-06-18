@@ -1,0 +1,2 @@
+- [[integrated memory]]
+- [[random-access memory (RAM)]]

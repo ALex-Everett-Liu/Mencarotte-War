@@ -1,0 +1,4 @@
+- dictionary 
+    - Conversant with [PLC Control Programming], -OMORON, SIEMENS, Automation Language, Electrical Hardware Control and Design. www.[hiall].com.cn
+    - We design the [control scheme selection] and part of the [electrical hardware] of [control system] of [spraying and drying control system], 喷淋与烘干 [hydraulic stroke control system], 液压行程 [monitoring system]. www.[fabiao].net
+    - The [sketch map] of [mechanical improvement], the electrical hardware plan of PLC, [the frame of main program] and partly subprogram are [showed in the paper]. dict.cnki.net

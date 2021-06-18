@@ -13,18 +13,22 @@
     - [[digital system]]
     - [[device type]];
     - smart device
+- [[embedded system]]
 - [[firmware]]
 - [[GPU]]
 - hardware component;
+- [[input/output peripheral device]]: 输入/输出外围设备
+- interface
+    - [[peripheral interface]]; peripheral interface circuit
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机
+- [[computer memory]]
 - [[middleware]]
 - [[mobile phone]]
     - [[smartphone]]
-- [[processor]]
-    - [[CPU (central processing unit)]]
+- [[processor]]; [[computer processor]]
 - [[personal computer (PC)]]
-- [[random-access memory (RAM)]]
+- [[real-time computing constraint]]: 实时计算约束
 - [[wearable technology]]
 - #inbox
     - [硬件](https://bbs.saraba1st.com/2b/thread-1999436-2-1.html) 理性讨论，pc diy 会被干死吗？ #pt10-99.98
