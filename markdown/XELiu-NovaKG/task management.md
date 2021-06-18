@@ -1,4 +1,4 @@
-- [[difficult task]];
+- [[difficult task]]; [[specific task]]
 - [[one-time task]]
 - [[perform the task]]
 - [[repetitive task]]

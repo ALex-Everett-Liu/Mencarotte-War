@@ -1,6 +1,6 @@
 - draft
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
-    - smzdm, sspai, s1
+    - smzdm, sspai, s1; 苏伯, 海福盛;
     - 115, bitball;; 
     - 
     - 

@@ -6,8 +6,7 @@
 - [[business use]]
 - [[company]]; [[corporation]]; firm
     - shareholder
-- cost
-    - reduce cost;
+- [[cost]]
 - digital business??
     - [[retail electronics store]]
 - [[co-founder]]
