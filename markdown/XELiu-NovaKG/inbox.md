@@ -2,8 +2,7 @@
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
     - smzdm, sspai, s1
     - 115, bitball;; 
-    - 23魔方, WeGene
-    - 风灵月影 极乐迪斯科;
+    - 
     - 
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
@@ -11,7 +10,7 @@
 - quick todo
     - [PDXCON](https://store.steampowered.com/sale/paradox);; 
     - buy;; movie theater;; 
-    - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; 23魔方, wegene;; 把瀑布流/整页显示的布局/视图改成分页显示的 css;; 
+    - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; css 中英文字体; css font family;; Roam Meeting - screenshot 2104150907;; smolin; sean carroll;; 上古汉语; IPA;; 23魔方, wegene;; 把瀑布流/整页显示的布局/视图改成分页显示的 css;; 风灵月影 极乐迪斯科;; pixel 拍照;; 
     - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; 
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
         - 丝路大亨; 重生传奇; 吾家有妻骄养成; asmr .txt
