@@ -1,5 +1,6 @@
-- [[MOS transistor]]; [[metal–oxide–semiconductor field-effect transistor (MOSFET)]]: 金属氧化物 
+- [[MOS transistor]]; [[metal–oxide–semiconductor field-effect transistor (MOSFET)]]: 金属氧化物; [[MOS chip]]
     - [[conducting channel]]
         - [[silicon dioxide]] (SiO2)
     - [[gate dielectric]]: 栅介质
     - [[switching characteristics]]: 开关特性
+- [[transistor density]]

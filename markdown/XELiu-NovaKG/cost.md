@@ -1,1 +1,2 @@
+- [[manufacturing cost]];
 - reduce cost; [[reduce the cost]]

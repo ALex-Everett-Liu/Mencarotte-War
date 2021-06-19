@@ -1,3 +1,4 @@
+- [[bipolar chip]]
 - [[bulk temperature]]
 - [[phys/carrier]]; [[charge carrier]]: 电荷载流子
     - [[carrier density]]

@@ -1,0 +1,3 @@
+- [[field-programmable gate array (FPGA)]]: 现场可编程门阵列/逻辑闸阵列
+- [[large-scale integration (LSI)]]
+- [[MOS integrated circuit]]

@@ -5,6 +5,7 @@
     - diode
         - [[tunnel diode]]
     - electron beam
+    - [[integrated circuit]]
     - [[microcontroller]]
     - [[Moore's Law]]; [Moore’s Law]
 - [[nanoelectronics]]
