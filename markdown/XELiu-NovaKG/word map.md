@@ -1022,6 +1022,18 @@
                 - signature
                 - resign
                     - resignation;
+        - sp
+            - space
+                - workspace;
+            - special
+                - especial
+                    - especially, 2;
+                - specially;
+                - specific, 4; specifically;
+                - specified; specify: 指定;
+            - spectacle
+                - spectate
+                    - spectacle; spectacular: zhuangguan41, yinrenzhumu3244; spectacularly
         - st
             - sta
                 - stable

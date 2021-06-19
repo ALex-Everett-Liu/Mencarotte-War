@@ -1,3 +1,4 @@
+- [[electronic design automation (EDA)]]
 - [[electronic interconnect]]
 - [[microelectronics]]
     - [[chip]]
@@ -6,6 +7,9 @@
         - [[tunnel diode]]
     - electron beam
     - [[integrated circuit]]
+    - [[logic gate]]
+        - [[programmable logic block]]
+        - [[reconfigurable interconnect]]; inter-wired in different configurations
     - [[microcontroller]]
     - [[Moore's Law]]; [Moore’s Law]
 - [[nanoelectronics]]
