@@ -72,7 +72,7 @@ cast into a drawer: 扔进抽屉里
 - ### Notes and references
     - [1]: At least 2.5 [quintillion bytes] of information are [produced every day], which is about the [same amount] as was produced [during the entire year] of 2002. 
     - [2] [[Scientific American]]: New [Estimate] Boosts the Human Brain's [[memory capacity]] [10-Fold].
-    - [3]: [Microelectronics]([[microelectronics]]) pioneer [[Carver Mead]], who coined the term [[Moore’s Law]], correctly predicted in 1990 that [present-day computers] would use ten million times more energy for a single [[instruction]] than [the brain uses for] a [[synaptic activation]]. 
+    - [3]: [Microelectronics]([[microelectronics]]) pioneer [[Carver Mead]], who coined the term [[Moore's Law]], correctly predicted in 1990 that [present-day computers] would use ten million times more energy for a single [[instruction]] than [the brain uses for] a [[synaptic activation]]. 
 201123-12:20
     - [4]: This [[example]] is [adapted from](((lYmxwkcFA))) __the Less Wrong sequence 37 Ways Words Can be Wrong__.
     - [5]: Motte-and-bailey refers to [arguing]([[argue]]) an [easy-to-defend](((EUE-J-BVz))) and often [[common-sense statement]] (the motte), [in order to](((aCf6CVWYv))) [ward off critics](((Rqz2w_hsJ))) from a [hard-to-defend] and more [[controversial statement]] (the bailey). [The term was popularised by] [Scott Alexander], and explained in [All in All, Another Brick in the Motte]. 城寨; 城堡

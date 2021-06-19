@@ -16,15 +16,18 @@
     - [[device type]];
     - smart device
 - [[embedded system]]
+    - [[plug-in card]]: 插入卡片, 插件;
 - [[firmware]]
 - [[GPU]]
 - hardware component;
 - [[input/output peripheral device]]: 输入/输出外围设备
-- interface
-    - [[peripheral interface]]; peripheral interface circuit
+- [[interface]]
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机
 - [[computer memory]]
+- [[microcontroller]]
+    - [[microcontroller chip]]
+    - [[programmable logic controller]]
 - [[middleware]]
 - [[mobile phone]]
     - [[smartphone]]

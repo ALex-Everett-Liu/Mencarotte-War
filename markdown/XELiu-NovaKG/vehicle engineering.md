@@ -1,6 +1,7 @@
 - [[automotive engineering]]
 - [[cruise control]]: 巡航控制
 - [[driver]]
+- [[hybrid vehicle]]: 混合动力车辆
 - [[rear-view mirror]]
 - [[road slope]]; changing road grade
 - speed

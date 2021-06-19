@@ -2,6 +2,7 @@
 - [[aperture]]
 - [[image-forming fiberscope]]
 - [[imperfection]]
+- [[medical imaging system]]: 医疗成像系统
 - [[misalignment]]
 - [[objective]]: 物镜
 - [[optical stethoscopy]]

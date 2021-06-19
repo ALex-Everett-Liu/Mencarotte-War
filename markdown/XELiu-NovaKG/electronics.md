@@ -6,7 +6,7 @@
         - [[tunnel diode]]
     - electron beam
     - [[microcontroller]]
-    - [[Moore’s Law]]
+    - [[Moore's Law]]; [Moore’s Law]
 - [[nanoelectronics]]
 - [[quantum electronics]]
 - [[sensor]]

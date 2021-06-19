@@ -1,0 +1,2 @@
+- [[external interface]]
+- [[peripheral interface]]; peripheral interface circuit
