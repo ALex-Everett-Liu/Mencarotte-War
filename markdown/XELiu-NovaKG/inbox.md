@@ -13,7 +13,7 @@
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
         - 丝路大亨; 重生传奇; 吾家有妻骄养成; asmr .txt
         - 御姐; 
-    - 擦鞋去污渍的喷雾;; 打疫苗;; 牙疼, 消炎药;; 苏伯, 海福盛;; 
+    - 擦鞋去污渍的喷雾;; 打疫苗;; 牙疼, 消炎药;; 苏伯, 海福盛;; 一次性毛巾
     - wayback machine, archive.org;; 
         - https://archive.is/
     - ---

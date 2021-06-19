@@ -1,17 +1,18 @@
-- [[bipolar feedback]]
-- change, then trigger a certain result;
-- [[controller]]
-- [[disturbance]]
-- [[effector]]: 效应器
-- [[feedback loop]]
-    - [[multiple loops]]
-- [[information feedback]]
-- the mathematics of feedback;
-- [[negative feedback]]
-- [[positive feedback]]
-- [[self-regulating mechanism]]: 自我调节机制
-- [[set point]]: 设定值
-- [[status]]; [[measuring element]]
+- systems theory/complex system/feedback
+    - [[bipolar feedback]]
+    - change, then trigger a certain result;
+    - [[controller]]
+    - [[disturbance]]
+    - [[effector]]: 效应器
+    - [[feedback loop]]
+        - [[multiple loops]]
+    - [[information feedback]]
+    - the mathematics of feedback;
+    - [[negative feedback]]
+    - [[positive feedback]]
+    - [[self-regulating mechanism]]: 自我调节机制
+    - [[set point]]: 设定值
+    - [[status]]; [[measuring element]]
 - ---
 - Feedback occurs when [outputs of a system]([[system output]]) are [routed back as inputs] as part of [a chain of cause-and-effect]([[cause-and-effect chain]]) that forms a [[circuit]] or [[loop]].[1](((SJzAqLqJg))) The system [can then be said to] [feed back into itself]. The notion of cause-and-effect has to be [handled carefully] when applied to [[feedback system]]s:
 210525-12:15
