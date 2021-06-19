@@ -25,7 +25,7 @@
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机
 - [[computer memory]]; [[memory element]]
-    - [[flip-flop]]
+    - [[flip-flop]]: 触发器
 - [[microcontroller]]
     - [[microcontroller chip]]
     - [[programmable logic controller]]
