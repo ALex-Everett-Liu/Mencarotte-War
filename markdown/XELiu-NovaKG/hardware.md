@@ -24,7 +24,8 @@
 - [[interface]]
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机
-- [[computer memory]]
+- [[computer memory]]; [[memory element]]
+    - [[flip-flop]]
 - [[microcontroller]]
     - [[microcontroller chip]]
     - [[programmable logic controller]]

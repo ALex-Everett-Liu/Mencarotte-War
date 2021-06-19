@@ -14,4 +14,7 @@
     - optimization tool
 - [[reinvent the wheel]]
 - [[software environment]]
+- [[system architecture]]
+- system partitioning trial: 系统分区试验
+- [[system performance simulation]]
 - [[version control]]; [[revision control]]; [[revision]]
