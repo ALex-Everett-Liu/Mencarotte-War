@@ -22,6 +22,18 @@
     - ### Cotonomatizing
         - During a process of chatting, [posting random ideas] and creating [[structured content]] by connecting Cotos, some Cotos would [collect more connections than others]. Those Cotos are possibly [important to you or your team] and worth discussing as [[independent topic]]s. Cotonomatizing allows you to convert them into Cotonomas to [create new dedicated places to] [discuss and research the topics] [in a spontaneous way].
     - ### Linking Phrases
-        - Since the version 0.21.0, you can annotate connections. The term "Linking Phrases" is borrowed from Concept Maps. Actually you can create concept maps with this feature as introduced in the [Concept Mapping](https://github.com/cotoami/cotoami#concept-mapping) section.
-        - Cotonomas (Cotonomatizing) and Linking Phrases are the most two important features so far in Cotoami.
-        - Why is the Linking Phrases feature so important? Concept mapping is a good way to demonstrate this feature, but an important difference is that Cotoami's linking phrases are optional. That means you should annotate only connections whose relationships are obscure to you. These obscure relationships are possibly valuable knowledge for you (since you didn't know them well before), and should be highlighted in your knowledge-base (that's why annotated connections are rendered so that they stand out). I personally call them Horizontal Relationships.
+        - Since the version 0.21.0, you can [annotate connections](((6LPioDuVY))). The term "Linking Phrases" is borrowed from Concept Maps. Actually you can create [[concept map]]s with this feature as introduced in the [Concept Mapping](https://github.com/cotoami/cotoami#concept-mapping) section.
+            - Cotonomas (Cotonomatizing) and Linking Phrases are the most two important features so far in Cotoami.
+        - Why is the linking phrases feature so important? Concept mapping is a good way to [demonstrate this feature], but [an important difference] is that Cotoami's [[linking phrase]]s are optional. That means you should annotate only connections [whose relationships are obscure to you]. These [obscure relationships] are possibly [valuable knowledge] for you (since you didn't know them well before), and [should be highlighted] [in your knowledge-base] (that's why annotated connections are rendered [so that they stand out]). [I personally call them] [Horizontal Relationships].
+210620-21:40
+(某些细微的很容易被忽视的横向关系是最需要标注的，一目了然的包含或演绎关系这类纵向/垂直层级关系倒是无需次次标注)
+            - On the other hand, [Vertical Relationships] [generally means] [inclusive or deductive relationships] like "includes", "results in", or "is determined by". ^^[Simple arrow lines] [would be enough to] [express these relationships] and [you wouldn't feel the need for] annotations [in most cases].^^
+            - So [whether a connection is vertical or horizontal] [depends on your context] [in the same way as] Cotonomas are [concepts emerged in the context of] your knowledge creation.
+        - The [optional linking phrases] are helpful especially when your knowledge graph [grows larger].
+            - When a graph is [relatively simple] with [fewer nodes and connections], it works like a [[mind map]]. You can [grasp the tree structure] even if there are some [[crosslink]]s. However, [when a graph grows larger] and [becomes more complex], [it'll become difficult to] [follow the structure].
+210620-21:48
+            - In that phase, [annotated connections] [become more important than] plain ones because they work as [[highlight]]s in the connections. [You just need to focus on] blue connections in a graph to [grasp what you've learned so far].
+- ## Concept Mapping
+    - [What is a Concept Map?](http://cmap.ihmc.us/docs/conceptmap.php)
+    - [The screenshot above] is an example of a concept map [explaining why we have seasons] (originally presented in the article at Concept Maps official website: [here](http://cmap.ihmc.us/docs/theory-of-concept-maps)).
+    - [If you are interested in] how this concept map was created with Cotoami, here is a [youtube video] to [demonstrate the process]: "Making a concept map with Cotoami" - https://www.youtube.com/watch?v=YYQrsGnSoLU

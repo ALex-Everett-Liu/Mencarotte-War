@@ -10,6 +10,7 @@
 - [[knowledge graph]]
     - [[concept map]]
         - [[defined concept]]
+        - [[linking phrase]]
     - [[graph view]]; [[graphical display]]
 - [[organizing knowledge]]; organize your ideas; arrangement
 - [[personal knowledge management (PKM)]]
