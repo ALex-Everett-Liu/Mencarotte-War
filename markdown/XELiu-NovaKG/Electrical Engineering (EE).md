@@ -2,7 +2,8 @@
 - conduct electricity
 - [[electrical cable]]
 - electromagnetic interference
-- [[electrical hardware]]
+- [[electrical hardware]]; [[electrical product]]
 - [[electrical power]]
     - high voltage electricity
+- [[passive switch box]]: 无源开关箱
 - [[power supply]]

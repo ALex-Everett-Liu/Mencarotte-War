@@ -1,4 +1,4 @@
-- [[electronic design automation (EDA)]]
+- [[electronic design automation (EDA)]]; [[electronic computer-aided design (ECAD)]]
 - [[electronic interconnect]]
 - [[microelectronics]]
     - [[chip]]

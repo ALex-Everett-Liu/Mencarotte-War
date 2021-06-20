@@ -11,7 +11,7 @@
     - [[screen]]
 - earphone
     - [[MP3 player]]
-- [[electronic device]]; [[digital device]]
+- [[electronic device]]; [[digital device]]; [[electronic product]]
     - [[digital system]]
     - [[device type]];
     - smart device
@@ -19,7 +19,7 @@
     - [[plug-in card]]: 插入卡片, 插件;
 - [[firmware]]
 - [[GPU]]
-- hardware component;
+- hardware component; [[electronic component]]
 - [[input/output peripheral device]]: 输入/输出外围设备
 - [[interface]]
 - [[keyboard]]

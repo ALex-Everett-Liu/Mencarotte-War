@@ -1,2 +1,12 @@
 - [[KeePass]]
 - chrome://settings/passwords
+- ---
+- my temp record
+    - email
+        - sepulture2015@outlook.com
+        - lxsummer199378@gmail.com
+        - 2486428704@qq.com
+        - lxsummer199378@hotmail.com
+    - pw
+        - hP3!iZd
+    - id
