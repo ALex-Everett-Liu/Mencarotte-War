@@ -3,3 +3,4 @@
 - [[hardware description language (HDL)]]
 - [[large-scale integration (LSI)]]
 - [[MOS integrated circuit]]
+- [[printed circuit board (PCB)]]
