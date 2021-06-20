@@ -10,6 +10,7 @@
 - relation, [[relationship]], [[connection]]...
     - annotating a connection;
     - [[defined relationship]]; [[relationship strength]]
+    - discover new connections;
     - connect with lines; [[connect ideas]]; connection between pages
     - [[context]]; [[original context]]; [[original meaning]]
     - [[explicit relationship]]

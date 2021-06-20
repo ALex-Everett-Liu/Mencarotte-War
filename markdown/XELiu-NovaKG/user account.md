@@ -1,4 +1,5 @@
 - free account;
+- [[guest account]]
 - [[login]]; [[log in]]; [[sign in]]
 - [[member]]
 - [[power user]]; [[expert user]]

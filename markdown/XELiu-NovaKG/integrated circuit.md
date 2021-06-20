@@ -1,5 +1,6 @@
 - [[application-specific integrated circuit (ASIC)]]
 - [[field-programmable gate array (FPGA)]]: 现场可编程门阵列/逻辑闸阵列
+    - [[field modification]]: 现场改造
 - [[hardware description language (HDL)]]
 - [[large-scale integration (LSI)]]
 - [[MOS integrated circuit]]

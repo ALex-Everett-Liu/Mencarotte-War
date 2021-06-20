@@ -16,3 +16,15 @@
         - [Let’s Play: Piggydb Knowledge Creation](https://piggydb.net/category/letsplay/)
     - ### How Piggydb Works
         - 1. Create [knowledge fragments](http://piggydb.jp/en/fragment.htm?id=36) for anything you [want to write down]: your thoughts, ideas, [articles excerpts], TODOs, etc.
+        - 2. Organize the fragments with:
+            - [Fragment Relationships](http://piggydb.jp/en/fragment.htm?id=35):
+            - [Tags](http://piggydb.jp/en/fragment.htm?id=44):
+        - 3. Browse your [knowledge base] [in the various views]:
+    - ### Demo
+        - [Piggydb Documents](http://piggydb.jp/en/) (view-only demo)
+        - [Sand box](http://piggydb.jp/sandbox/) (editable demo)
+            - [You can login with] the [[guest account]] (guest/guest).
+210620-19:18
+            - The owner-only features are disabled.
+            - The database [might be cleared] [without a notice]. It’s just a demo.
+        - [Table Tennis Videos](http://piggydb.jp/tt/) (view-only demo)

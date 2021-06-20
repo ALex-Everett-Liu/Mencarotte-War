@@ -6,7 +6,7 @@
     - [[edit access]]
     - identity verification
     - [[readonly]]; read-only
-    - [user account](https://workflowy.com/#/4ca6506c76e1)
+    - [[user account]]
 - [[cryptography]]
 - [[malicious]]; [[malicious behaviour]]
     - [[digital/virus]]

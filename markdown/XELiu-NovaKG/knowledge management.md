@@ -6,6 +6,7 @@
 - [[knowledge base]]
 - [[knowledge framework]]
     - [[file tree]]; [[knowledge tree]]
+- [[knowledge generation]];
 - [[knowledge graph]]
     - [[concept map]]
         - [[defined concept]]
