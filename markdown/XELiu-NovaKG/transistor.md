@@ -2,5 +2,6 @@
     - [[conducting channel]]
         - [[silicon dioxide]] (SiO2)
     - [[gate dielectric]]: 栅介质
+    - [[MOS integrated circuit]]
     - [[switching characteristics]]: 开关特性
 - [[transistor density]]

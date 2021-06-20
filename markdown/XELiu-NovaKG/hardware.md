@@ -27,7 +27,6 @@
 - [[computer memory]]; [[memory element]]
     - [[flip-flop]]: 触发器
 - [[microcontroller]]
-    - [[microcontroller chip]]
     - [[programmable logic controller]]
 - [[middleware]]
 - [[mobile phone]]
@@ -40,6 +39,7 @@
 - [[portable device]]
 - [[processor]]; [[computer processor]]
 - [[real-time computing constraint]]: 实时计算约束
+- [[small computer]]
 - [[wearable technology]]
     - [[digital watch]]
 - #inbox
