@@ -2,12 +2,17 @@
 - [[component density]]
 - [[conductive track]]; [[conductive pad]]: 焊盘
 - [[copper layer]]; [[copper plane]]; etched from copper layers: 铜片层蚀刻的
+- [[mechanical adhesive]]: 机械粘合剂
 - [[multi-layer PCB]]
-- [[substrate layer]]; [[non-conductive substrate]]: 非导电基板
-    - laminated onto the substrate: 层压在基板上
+    - [[alternating layers]]: 交替层
+- [[substrate]]; [[substrate layer]]; [[non-conductive substrate]]: 非导电基板
+    - [[base material]]
+    - [[fiberglass]]
+    - laminated onto the substrate: 层压在基板上; laminated together with heat and adhesive: 用热和粘合剂层压在一起
 - [[sheet layer]]
-- soldering onto the PCB
+- [[solder]]: 焊料; soldering onto the PCB
 - [[surface mount technology]]
+- [[trace]]: 迹线
 - ---
 - A printed circuit board (PCB) [mechanically supports] and [electrically connects] [[electronic component]]s using [[conductive track]]s, [[conductive pad]]s and other features [etched from one or more sheet layers of copper](((CDa9nRNMB))) [laminated onto](((eUFU2vtjx))) and/or between [[sheet layer]]s of a [[non-conductive substrate]]. Components are generally [soldered onto the PCB](((wbdGBdMS_))) to both [electrically connect] and [mechanically fasten them to it].
 210620-13:05

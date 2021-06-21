@@ -18,3 +18,17 @@
         - __courtesy Wikipedia user Wikinaut__ <-
         - [A significant advance] was the development of [wire wrapping](http://en.wikipedia.org/wiki/Wire_wrap), where [a small gauge wire] is [literally wrapped around a post] 一根小规格的金属丝缠绕在一根柱子上 at each [[connection point]], creating a [[gas-tight connection]] which is highly durable and easily changeable. #[[wire wrap]]
     - As electronics moved from [[vacuum tube]]s and relays to [[silicon]] and [[integrated circuit]]s, [the size and cost of](((b2pD9dylf))) [[electronic component]]s [began to decrease]. Electronics [became more prevalent in](((CAAXa62nz))) [[consumer goods]], and the pressure to [reduce the size] and [[manufacturing cost]]s of [[electronic product]]s [drove manufacturers to look for better solutions]. Thus was born the PCB.
+210621-14:54
+    - PCB is an [[acronym]] for __printed circuit board__. It is [a board that has lines and pads] that [connect various points together]. In the picture above, there are [[trace]]s that [electrically connect] the various [connectors and components] to each other. A PCB allows [signals and power] to be [routed between physical devices]. Solder is the metal that makes the [electrical connections] [between the surface of the PCB] and the [electronic components]. Being metal, [[solder]] also serves as a strong [[mechanical adhesive]]. 
+210621-15:03
+- ## Composition
+    - A PCB [is sort of like] 分层/夹层蛋糕或千层面 a layer cake or lasagna- there are [[alternating layers]] of [different materials] which are [laminated together with heat and adhesive](((eUFU2vtjx))) [such that the result is a single object].
+    - Let's start in the middle and [work our way out].
+    - ![PCB-layers-01](https://cdn.sparkfun.com/r/700-700/assets/3/f/c/b/c/50d0c95bce395fd321000000.png)
+    - ### FR4
+        - The [[base material]], or [[substrate]], is usually [[fiberglass]]. Historically, [the most common designator] for this fiberglass is "FR4". This [solid core] gives the PCB its [rigidity and thickness]. There are also [flexible PCBs] built on [flexible high-temperature plastic] (Kapton or the equivalent).
+210621-17:10
+        - You will find many [different thickness PCBs]; [the most common thickness for] SparkFun products is 1.6mm (0.063"). Some of our products- LilyPad boards and Arudino Pro Micro boards- use a 0.8mm thick board.
+    - ### Soldermask
+        - The layer on top of the [[copper foil]] 铜箔 is called the [[soldermask layer]]. 防焊层/锡镀层 This layer gives the PCB its green (or, at SparkFun, red) color. [It is overlaid onto the copper layer]([[copper layer]]) to [[insulate]] the [[copper trace]]s from [accidental contact with other metal], solder, or [conductive bits]. 导电钻头 This layer [helps the user to] [solder to the correct places] and prevent [[solder jumper]]s. 焊料跳线
+        - In the example below, the green solder mask is applied to the majority of the PCB, covering up the small traces but leaving the silver rings and SMD pads exposed so they can be soldered to.

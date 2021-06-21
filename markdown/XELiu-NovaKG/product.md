@@ -1,4 +1,5 @@
 - commercial product
+- [[consumer goods]]
 - [[customer]]
     - [[customer persona]]: 客户角色
         - represent your audience;
