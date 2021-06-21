@@ -5,7 +5,6 @@
     - [[English]]
     - [[Korean]]
 - general...
-    - [[term]]
     - [[everyday language]]
     - [[natural language]]
 - [[input method (IME)]]
@@ -16,6 +15,7 @@
 - name
     - [[first name]]
 - [[phonology]]
+- [[term]]; [[terminology]]
 - [[transcription]]; 转写
 - [[translation]]
 - [[vocabulary]]

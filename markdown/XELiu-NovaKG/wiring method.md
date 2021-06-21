@@ -1,2 +1,5 @@
-- [[point-to-point construction]]: 点对点结构
+- [[point-to-point construction]]: 点对点结构; [[point-to-point wiring]]
+- [[wire insulation]]
+- [[wire junction]]
 - [[wire wrap]]: 绕线
+    - [[gas-tight connection]]: 气密连接; [[connection point]]

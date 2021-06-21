@@ -1,4 +1,4 @@
-- [[circuit diagram]]
+- [[circuit]]
 - conduct electricity
 - [[electrical cable]]
 - electromagnetic interference

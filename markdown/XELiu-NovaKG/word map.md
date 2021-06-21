@@ -900,6 +900,14 @@
                         - represent; represented, 2; representing
                     - prevent
                         - preventing;
+                - press
+                    - [express](https://workflowy.com/#/65e4adddf27b)
+                    - impress
+                        - impression; impressive
+                - pretty
+                    - prettier; prettify;
+                - prevail
+                    - prevalent
             - pro
                 - produce
                     - [[product]]
