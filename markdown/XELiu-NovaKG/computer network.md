@@ -17,7 +17,7 @@
 - [[server]]
 - [[session]]
 - [[wide area networks (WAN)]]
-- Wi-Fi
+- [[Wi-Fi]]; [[Wi-Fi module]]
 - [[remote desktop]]
 - #inbox
     - 原本[无广告清爽]的 ToDesk，虽然BUG不少，但[凑和能用]，结果现在搞了个[免费限制2终端]，跟 TeamViewer 看齐了。

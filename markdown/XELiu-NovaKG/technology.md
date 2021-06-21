@@ -7,6 +7,7 @@
 - [[hardware]]; [[electronic hardware]]; [[hardware development]]
 - [[information science]]; [[information technology (IT)]]
 - [[information security]]
+- [[Internet of Things (IoT)]]
 - [[library science]]
 - [[software]]
 - [[Software Engineering (SE)]]

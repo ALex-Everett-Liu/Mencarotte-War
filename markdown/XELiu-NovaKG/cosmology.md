@@ -26,3 +26,4 @@
     - 现代物理中，大多数[守恒定律](https://www.zhihu.com/question/34008885)不是“第一性原理”，它们对应的[第一性原理]是对称性。这个结论叫做[诺瑟第一定理](https://zhuanlan.zhihu.com/p/269735909)。能量守恒是[时间平移对称性]（不存在[绝对时间]）的结果。也就是说，能量守恒的原因是，物理定律的形式不随时间变化，“天行有常，不为尧存，不为桀亡”。 #pt10-100
         - 然而，[宇宙膨胀]破坏了时间平移对称性。过去的宇宙和现在的宇宙，[能量密度]是不一样的，测量宇宙的能量密度，可以作为宇宙的“绝对时间”。这种“物理状态破坏对称性”的现象叫做[对称性自发破缺]。所以，[宇宙学]里不存在[通常意义上][整体守恒的能量]。
         - 光子主导的宇宙会不会[加速膨胀]？答：不会。[相对论性运动]的物质主导的[宇宙膨胀速度]一直是减慢的。只有[负压物质]主导的宇宙才会加速膨胀 (暴胀时期 暗能量时期)。
+    - [这种观点](https://mp.weixin.qq.com/s/f_eFzaEyPvRo7gtZr4EFcA)便是所谓的**宇宙学原理**，它是现有[宇宙学标准模型]的基础。然而近年来，[天文学家][陆续观测到的]一些[大尺度结构](https://www.uclan.ac.uk/news/discovery-of-a-giant-arc-in-distant-space-adds-to-challenges-to-basic-assumptions-about-the-universe)，使得我们对宇宙学原理[这一基本认知][产生了质疑]。比如在之前的一些观测中，就有研究人员发现了[斯隆巨壁]和[南极巨壁]、[巨型伽马射线暴环][等结构](https://www.sciencenews.org/article/galaxy-giant-arc-3-billion-light-years-long-cosmology-space)。 #pt8-99.98

@@ -1,3 +1,4 @@
+- [[analog component]]
 - [[binary counter]]
     - clock back into the device;
     - [[current state]]; calculate a new state
@@ -11,16 +12,19 @@
     - [[screen]]
 - earphone
     - [[MP3 player]]
+- [[edge device]]
 - [[electronic device]]; [[digital device]]; [[electronic product]]
     - [[digital system]]
+        - [[non-digital electronic system]]
     - [[device type]];
     - smart device
-- [[embedded system]]
+- [[embedded system]]; [[embedded application]]
     - [[plug-in card]]: 插入卡片, 插件;
 - [[firmware]]
-- [[GPU]]
+- [[graphics processing unit (GPU)]]
 - hardware component; [[electronic component]]
-- [[input/output peripheral device]]: 输入/输出外围设备
+- input/output device
+    - [[input/output peripheral device]]: 输入/输出外围设备
 - [[interface]]
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机

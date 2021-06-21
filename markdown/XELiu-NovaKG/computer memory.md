@@ -1,2 +1,4 @@
+- [[flash memory]]
 - [[integrated memory]]
+- [[program memory]]
 - [[random-access memory (RAM)]]

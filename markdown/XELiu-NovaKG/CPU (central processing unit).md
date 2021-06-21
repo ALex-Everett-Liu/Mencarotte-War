@@ -1,4 +1,6 @@
 - AMD Ryzen 5 — 4650G -- Radeon Graphics -- 3.69 GHz -- my device 202011
+- [[CPU clock]]
+    - [[clock speed]]
 - [[instruction]]
 - [[system type]]
     - [[64-bit system]]; x86_64; x64

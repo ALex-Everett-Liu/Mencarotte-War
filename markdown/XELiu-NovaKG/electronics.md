@@ -12,4 +12,4 @@
     - [[Moore's Law]]; [Moore’s Law]
 - [[nanoelectronics]]
 - [[quantum electronics]]
-- [[sensor]]
+- [[sensor]]; [[sensing]]

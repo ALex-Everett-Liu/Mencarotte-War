@@ -1,3 +1,4 @@
-- [[CPU (central processing unit)]]
+- [[coprocessor]]
+- [[CPU (central processing unit)]]; [[processor core]]
 - [[digital signal processor (DSP)]]
 - [[microprocessor]]

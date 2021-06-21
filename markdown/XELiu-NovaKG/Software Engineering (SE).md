@@ -3,6 +3,10 @@
 - cross-platform development; [[cross-platform]]
     - port: 移植; [[portable]]: 可移植的; 便携的; [[portability]]
 - [[ecosystem]]
+- event
+    - [[button press]]
+    - [[interrupt]]
+    - waiting for an event;
 - general...
     - [[object level]]
     - [[run asynchronously]]: 异步运行，区别于线性地逐次执行各个步骤

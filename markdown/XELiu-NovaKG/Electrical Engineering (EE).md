@@ -6,4 +6,5 @@
 - [[electrical power]]
     - high voltage electricity
 - [[passive switch box]]: 无源开关箱
+- [[power consumption]]
 - [[power supply]]

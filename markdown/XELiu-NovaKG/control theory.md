@@ -1,1 +1,3 @@
+- automatically controlled product/device;
+- [[control system]]
 - [[feedback]]; [[feedback system]]; [[feedback device]]; feedback control theory
