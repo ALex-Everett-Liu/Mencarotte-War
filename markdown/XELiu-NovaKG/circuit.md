@@ -1,2 +1,7 @@
+- [[analog circuit]]
 - [[circuit diagram]]
+- [[digital circuit]]
+- [[genetic circuit]]
+- [[mixed-signal circuit]]
+    - [[mixed signal microcontroller]]
 - [[short circuit]]

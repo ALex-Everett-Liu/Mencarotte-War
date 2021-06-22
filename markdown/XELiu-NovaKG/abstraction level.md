@@ -1,0 +1,2 @@
+- high level of abstraction
+- [[register-transfer level (RTL)]]: 寄存器传输层

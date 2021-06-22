@@ -1,5 +1,4 @@
-- abstraction
-    - high level of abstraction
+- [[abstraction]]; [[abstraction level]]: 抽象层 
 - annotating programs
 - boolean expression
 - [[bug]]

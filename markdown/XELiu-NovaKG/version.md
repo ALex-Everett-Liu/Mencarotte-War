@@ -1,3 +1,4 @@
 - abridged version: 删节版
+- [[current version]]
 - beta version; alpha version
 - revised version
