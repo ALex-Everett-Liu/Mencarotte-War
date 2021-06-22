@@ -1,4 +1,6 @@
 - [[Language/BASIC]]
+- [[C programming language]]
+- [[C++]]
 - [[Java]]
     - [[JavaScript]]
 - [[Lisp]]
@@ -9,5 +11,6 @@
 - [[Matlab]]
 - [[Node]]
 - [[PHP]]
+- [[preprocessor]]
 - [[Project Jupyter]]
 - [[Python]]

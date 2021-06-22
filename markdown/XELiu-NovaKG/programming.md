@@ -44,6 +44,7 @@
 - [[programming paradigm]]
     - [[metaprogramming]]
     - [[object-oriented programming]]
+    - [[semantics]]: 语义学
 - [[register]]: 寄存器
 - [[regular expression]]; REGEX 
 - [[script]]

@@ -4,4 +4,9 @@
 - [[genetic circuit]]
 - [[mixed-signal circuit]]
     - [[mixed signal microcontroller]]
+- [[schematic capture]]: 截取示意图
+- signal...
+    - [[propagation time]]
+    - [[sensitivity]]
+    - [[signal strength]]
 - [[short circuit]]

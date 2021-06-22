@@ -1,0 +1,4 @@
+- [[blocking assignment]]: 阻塞型赋值
+- [[non-blocking assignment]]
+    - [[state-machine update]]
+    - [[temporary storage variable]]
