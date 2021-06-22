@@ -2,6 +2,7 @@
 - [[component density]]
 - [[conductive track]]; [[conductive pad]]: 焊盘
 - [[copper layer]]; [[copper plane]]; etched from copper layers: 铜片层蚀刻的
+    - [[copper foil]]: 铜箔
 - [[mechanical adhesive]]: 机械粘合剂
 - [[multi-layer PCB]]
     - [[alternating layers]]: 交替层
@@ -12,7 +13,7 @@
 - [[sheet layer]]
 - [[solder]]: 焊料; soldering onto the PCB
 - [[surface mount technology]]
-- [[trace]]: 迹线
+- [[trace]]: 迹线; [[copper trace]];
 - ---
 - A printed circuit board (PCB) [mechanically supports] and [electrically connects] [[electronic component]]s using [[conductive track]]s, [[conductive pad]]s and other features [etched from one or more sheet layers of copper](((CDa9nRNMB))) [laminated onto](((eUFU2vtjx))) and/or between [[sheet layer]]s of a [[non-conductive substrate]]. Components are generally [soldered onto the PCB](((wbdGBdMS_))) to both [electrically connect] and [mechanically fasten them to it].
 210620-13:05

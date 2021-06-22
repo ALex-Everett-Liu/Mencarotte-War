@@ -30,5 +30,5 @@
 210621-17:10
         - You will find many [different thickness PCBs]; [the most common thickness for] SparkFun products is 1.6mm (0.063"). Some of our products- LilyPad boards and Arudino Pro Micro boards- use a 0.8mm thick board.
     - ### Soldermask
-        - The layer on top of the [[copper foil]] 铜箔 is called the [[soldermask layer]]. 防焊层/锡镀层 This layer gives the PCB its green (or, at SparkFun, red) color. [It is overlaid onto the copper layer]([[copper layer]]) to [[insulate]] the [[copper trace]]s from [accidental contact with other metal], solder, or [conductive bits]. 导电钻头 This layer [helps the user to] [solder to the correct places] and prevent [[solder jumper]]s. 焊料跳线
-        - In the example below, the green solder mask is applied to the majority of the PCB, covering up the small traces but leaving the silver rings and SMD pads exposed so they can be soldered to.
+        - The layer on top of the [[copper foil]] is called the [[soldermask layer]]. 防焊层/锡镀层 This layer gives the PCB its green (or, at SparkFun, red) color. [It is overlaid onto the copper layer]([[copper layer]]) to [[insulate]] the [[copper trace]]s from [accidental contact with other metal], solder, or [conductive bits]. 导电钻头 This layer [helps the user to] [solder to the correct places] and prevent [[solder jumper]]s. 焊料跳线
+        - In the example below, the green [solder mask] is [applied to the majority of the PCB], [covering up the small traces] but leaving the [silver rings] and SMD pads exposed [so they can be soldered to].
