@@ -4,7 +4,7 @@
 (微处理器-通用型或用于特定种类计算的)
 210618-13:03
     - Since the embedded system is dedicated to [[specific task]]s, [design engineers] can optimize it to [[reduce the size]] and [[reduce the cost]] of the product and increase the [[reliability]] and [[performance]]. Some embedded systems are [[mass-produced]], benefiting from [[economies of scale]].
-    - Embedded systems range from [[portable device]]s such as [[digital watch]]es and [[MP3 player]]s, to [large stationary installations] 大型固定装置 like [[traffic light controller]]s, [[programmable logic controller]]s, and [large complex systems] like [[hybrid vehicle]]s, [[medical imaging system]]s, and [[avionics]]. Complexity varies from low, with a single [[microcontroller chip]], to very high [with multiple units], peripherals and networks mounted inside a [large equipment rack]. 安装在[大型设备机架]内的[外围设备]和网络
+    - Embedded systems range from [[portable device]]s such as [[digital watch]]es and [[MP3 player]]s, to [large stationary installations] 大型固定装置 like [[traffic light controller]]s, [[programmable logic controller (PLC)]]s, and [large complex systems] like [[hybrid vehicle]]s, [[medical imaging system]]s, and [[avionics]]. Complexity varies from low, with a single [[microcontroller chip]], to very high [with multiple units], peripherals and networks mounted inside a [large equipment rack]. 安装在[大型设备机架]内的[外围设备]和网络
 210618-21:45
     - [An](https://en.wikipedia.org/wiki/File:DHCOM_Computer_On_Module_-_AM35x.jpg) __embedded system__ on a [[plug-in card]] with [[processor]], memory, [[power supply]], and [[external interface]]s
 210619-09:25

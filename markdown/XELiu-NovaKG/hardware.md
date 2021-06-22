@@ -13,7 +13,7 @@
 - earphone
     - [[MP3 player]]
 - [[edge device]]
-- [[electronic device]]; [[digital device]]; [[electronic product]]
+- [[electronic device]]; [[digital device]]; [[electronic product]]; [[electronic system]]
     - [[digital system]]
         - [[non-digital electronic system]]
     - [[device type]];
@@ -31,7 +31,7 @@
 - [[computer memory]]; [[memory element]]
     - [[flip-flop]]: 触发器
 - [[microcontroller]]
-    - [[programmable logic controller]]
+    - [[programmable logic controller (PLC)]]
 - [[middleware]]
 - [[mobile phone]]
     - [[smartphone]]
