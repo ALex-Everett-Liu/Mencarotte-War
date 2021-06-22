@@ -6,12 +6,15 @@
 - [[mechanical adhesive]]: 机械粘合剂
 - [[multi-layer PCB]]
     - [[alternating layers]]: 交替层
+- [[sheet layer]]
+- [[silkscreen]]
+- [[solder]]: 焊料; soldering onto the PCB
+    - [[soldermask layer]]: 防焊层/锡镀层
+    - [[solder jumper]]: 焊料跳线
 - [[substrate]]; [[substrate layer]]; [[non-conductive substrate]]: 非导电基板
     - [[base material]]
     - [[fiberglass]]
     - laminated onto the substrate: 层压在基板上; laminated together with heat and adhesive: 用热和粘合剂层压在一起
-- [[sheet layer]]
-- [[solder]]: 焊料; soldering onto the PCB
 - [[surface mount technology]]
 - [[trace]]: 迹线; [[copper trace]];
 - ---
