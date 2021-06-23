@@ -1,5 +1,6 @@
 - [[automatic machinery]]
 - [[engine]]
+- [[machine operation]]
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
 - [[nanomechanics]]
