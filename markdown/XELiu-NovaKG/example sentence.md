@@ -8,16 +8,18 @@
     - www.[cnblogs].com
         - They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. 
     - dict.cnki.net
-        - When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机
-        - ---
         - Also, this paper analysis the measure problem of the [zero-current in the system]. 零电流检测 
         - The analysis of measure problem on the [roller brake tester] 滚筒试验台
         - This thesis solves some measure problem in the traditional [ultrasonic flow meter]. 流量计
+        - ---
+        - When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机
+        - Research and Application of [Real-time Determination of Attitude] 实时测姿 Using [GPS Carrier] [Phase Differential Technique]. 载波相位差分
     - [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
         - Let me [set the record straight on the misconceptions] [contained in your article]. 
         - ---
     - danci.[911cha].com
     - www.[[dictall]].com
+        - Design of [Average Principle Phase Difference Tester] [Based on FPGA].
     - www.[[ebigear]].com
         - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
         - ---
@@ -49,6 +51,8 @@
     - [blog.sina]([[sina blog]]).com.cn
         - Suddenly [a brand new] [Jeep Cherokee] [screeches to a halt next to him]. “呲”的一下停在了他的边上 
         - ---
+    - blog.163.com
+        - [It is based on the idea that] [our brains interpret the input] from our [sensory organs] by [making a model of the world]. nankaizzj.blog.163.com
     - v.163.com
     - misc; others
         - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn

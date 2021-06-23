@@ -24,7 +24,7 @@
 - hardware component; [[electronic component]]
 - [[housing]]: 外壳
 - [[industrial computer]]
-- [[input/output (I/O)]]; input/output device
+- [[input/output (I/O)]]; input/output device; input and output interface
 - [[interface]]
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机
@@ -48,7 +48,7 @@
     - front panel socket; on-board socket
 - [[portable device]]
 - [[processor]]; [[computer processor]]
-- [[real-time system]]
+- [[real-time operating system]]; [[real-time system]]
     - [[limited time]]
     - [[real-time computing constraint]]: 实时计算约束
 - [[small computer]]

@@ -1,4 +1,6 @@
 - [[antenna]]
+- [[communication network]]
+- [[communications interface]]
 - [[communications satellite]]
 - [[computer network]]; computer networking; [[network]]...
 - electrical and electronic telecommunications
