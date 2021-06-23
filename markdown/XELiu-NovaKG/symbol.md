@@ -1,6 +1,6 @@
 - abbreviation
 - [[asterisk]]
-- brace
+- brace; [[curly brace]]
 - [[bracket]]
 - [[caret]]: 脱字符, 插入光标;
 - [[comma]]

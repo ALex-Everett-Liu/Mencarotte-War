@@ -3,7 +3,7 @@
     - addition operator
     - [[integer division]]; [[floored quotient]]
     - [[modulus]]; [[remainder]]
-- [[precedence]]; [[operation order]]
+- [[precedence]]; [[operator precedence]]; [[operation order]]
     - [[initially undefined]]
     - [[instruction precedence]]
     - [[last defined]]

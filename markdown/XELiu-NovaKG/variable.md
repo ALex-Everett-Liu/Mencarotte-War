@@ -4,3 +4,4 @@
 - [[global variable]]
 - [[parameter]]
     - positional parameter; keyword parameter
+- [[variable declaration]]

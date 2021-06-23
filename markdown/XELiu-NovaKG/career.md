@@ -1,3 +1,8 @@
+- college?
+    - 城市接收函
+    - 就业协议书
+    - 派遣信息
+        - 关于[2017届][硕士毕业生]派遣信息[书面确认工作]的说明-170614.docx
 - [[LinkedIn]]
 - my resume/CV
 - [[part-time job]]
