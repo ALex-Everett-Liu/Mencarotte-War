@@ -5,7 +5,6 @@
 - company
     - [[Apple Company]]
     - [[Lenovo]]
-- computer monitor
 - [[data storage]]
 - display
     - high contrast
@@ -26,7 +25,6 @@
 - [[housing]]: 外壳
 - [[industrial computer]]
 - [[input/output (I/O)]]; input/output device
-    - [[input/output peripheral device]]: 输入/输出外围设备
 - [[interface]]
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机
@@ -40,6 +38,9 @@
 - modular device
     - large rack-mounted modular device: 机架式/安装在机架上的
     - small modular device: 小型模块化设备
+- monitor
+    - computer monitor
+    - [[monitoring system]]
 - [[personal computer (PC)]]
 - plug...
     - hot-pluggable
@@ -47,7 +48,9 @@
     - front panel socket; on-board socket
 - [[portable device]]
 - [[processor]]; [[computer processor]]
-- [[real-time computing constraint]]: 实时计算约束
+- [[real-time system]]
+    - [[limited time]]
+    - [[real-time computing constraint]]: 实时计算约束
 - [[small computer]]
 - [[wearable technology]]
     - [[digital watch]]

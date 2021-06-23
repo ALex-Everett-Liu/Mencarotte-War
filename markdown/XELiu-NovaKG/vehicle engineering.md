@@ -1,7 +1,9 @@
 - [[automobile engine]]: 汽车发动机 
+- automobile manufacturing industry;
 - [[automotive engineering]]
 - [[cruise control]]: 巡航控制
 - [[driver]]
+- hard-wired relay logic system: 硬接线继电器逻辑系统 
 - [[hybrid vehicle]]: 混合动力车辆
 - [[rear-view mirror]]
 - [[road slope]]; changing road grade

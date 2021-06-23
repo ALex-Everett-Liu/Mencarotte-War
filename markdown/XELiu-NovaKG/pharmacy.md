@@ -1,3 +1,4 @@
+- pharmaceutical industry: 制药厂;
 - pharmacology: 药理学
 - 传统药材
     - [[ginseng]]; ginseng harvesting

@@ -1,4 +1,6 @@
 - [[flash memory]]
 - [[integrated memory]]
+- [[non-volatile memory]]: 非易失性存储器
 - [[program memory]]
+- [[programmable memory]]
 - [[random-access memory (RAM)]]

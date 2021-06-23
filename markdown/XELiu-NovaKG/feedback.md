@@ -2,6 +2,7 @@
     - [[bipolar feedback]]
     - change, then trigger a certain result;
     - [[controller]]
+        - automation controller; automatically controlled product/device;
     - [[disturbance]]
     - [[effector]]: 效应器
     - [[feedback loop]]
