@@ -23,6 +23,7 @@
 - [[firmware]]
 - [[graphics processing unit (GPU)]]
 - hardware component; [[electronic component]]
+- [[industrial computer]]
 - input/output device
     - [[input/output peripheral device]]: 输入/输出外围设备
 - [[interface]]

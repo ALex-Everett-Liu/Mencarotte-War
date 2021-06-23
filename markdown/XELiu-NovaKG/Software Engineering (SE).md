@@ -17,6 +17,7 @@
 - [[optimization]]
     - [[performance]]; maximize performance
     - optimization tool
+- [[process fault diagnosis]]: 过程故障诊断 
 - [[reinvent the wheel]]
 - [[software environment]]
 - [[system architecture]]
