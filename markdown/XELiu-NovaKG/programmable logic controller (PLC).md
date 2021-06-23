@@ -1,9 +1,7 @@
 - A programmable logic controller (PLC) or [[programmable controller]] is an [[industrial computer]] that [has been ruggedized and adapted for] [the control of manufacturing processes], such as [[assembly line]]s, machines, [[robotic device]]s, or [any activity that requires] high [[reliability]], ease of programming, and [[process fault diagnosis]]. Dick Morley is [considered as the father of] PLC as he had invented the first PLC, the Modicon 084, for General Motors in 1968.
 210623-11:20
-- PLCs can range from small modular devices with tens of inputs and outputs (I/O), in a housing integral with the processor, to large rack-mounted modular devices with thousands of I/O, and which are often networked to other PLC and SCADA systems.[1]
-- They can be designed for many arrangements of digital and analog I/O, extended temperature ranges, immunity to electrical noise, and resistance to vibration and impact. Programs to control machine operation are typically stored in battery-backed-up or non-volatile memory.
-
-
-- PLCs were first developed in the automobile manufacturing industry to provide flexible, rugged and easily programmable controllers to replace hard-wired relay logic systems. Since then, they have been widely adopted as high-reliability automation controllers suitable for harsh environments.
-
-A PLC is an example of a "hard" real-time system since output results must be produced in response to input conditions within a limited time, otherwise unintended operation will result.
+    - PLCs can range from [small modular devices](((NECU0YvdC))) with tens of [inputs and outputs (I/O)]([[input/output (I/O)]]), in a [[housing]] [integral with the processor](((QePeBzMd6))), 在与处理器集成的外壳中 to [large rack-mounted modular devices](((QTarTdJx5))) [with thousands of I/O], and which are often networked to other PLC and [SCADA systems].[1]
+210623-12:42
+    - They can be designed for many arrangements of digital and analog I/O, extended temperature ranges, immunity to electrical noise, and resistance to vibration and impact. Programs to control machine operation are typically stored in battery-backed-up or non-volatile memory.
+    - PLCs were first developed in the automobile manufacturing industry to provide flexible, rugged and easily programmable controllers to replace hard-wired relay logic systems. Since then, they have been widely adopted as high-reliability automation controllers suitable for harsh environments.
+    - A PLC is an example of a "hard" real-time system since output results must be produced in response to input conditions within a limited time, otherwise unintended operation will result.

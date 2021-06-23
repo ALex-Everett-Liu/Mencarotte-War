@@ -23,8 +23,9 @@
 - [[firmware]]
 - [[graphics processing unit (GPU)]]
 - hardware component; [[electronic component]]
+- [[housing]]: 外壳
 - [[industrial computer]]
-- input/output device
+- [[input/output (I/O)]]; input/output device
     - [[input/output peripheral device]]: 输入/输出外围设备
 - [[interface]]
 - [[keyboard]]
@@ -36,6 +37,9 @@
 - [[middleware]]
 - [[mobile phone]]
     - [[smartphone]]
+- modular device
+    - large rack-mounted modular device: 机架式/安装在机架上的
+    - small modular device: 小型模块化设备
 - [[personal computer (PC)]]
 - plug...
     - hot-pluggable
