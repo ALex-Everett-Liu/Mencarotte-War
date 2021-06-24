@@ -1,7 +1,7 @@
 - [[biology]]
 - [[ecology]]
 - [[health]]
-- human interaction...
+- [[human interaction]]
 - [[medicine]]
 - natural history
     - [[botany]]

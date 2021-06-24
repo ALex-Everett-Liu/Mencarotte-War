@@ -14,15 +14,18 @@
         - ---
         - When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机
         - Research and Application of [Real-time Determination of Attitude] 实时测姿 Using [GPS Carrier] [Phase Differential Technique]. 载波相位差分
+        - An [System Dynamics Model] for the Research on the Development of [Machine Industry]. 
+        - Information of Development in Machine Industry of China [in the Early New Century]
     - [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
         - Let me [set the record straight on the misconceptions] [contained in your article]. 
         - ---
     - danci.[911cha].com
     - www.[[dictall]].com
         - Design of [Average Principle Phase Difference Tester] [Based on FPGA].
+        - Some Problems on the Development of Chinese [Testing Machine Industry]. 试验机 
     - www.[[ebigear]].com
-        - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
         - ---
+        - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
     - www.[fabiao].net
     - www.[[fortunechina]].com
     - www.[[ftchinese]].com

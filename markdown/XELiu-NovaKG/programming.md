@@ -9,9 +9,6 @@
     - [[coding style]]
     - executing code
     - [[instruction]]
-        - [[basic instruction]]
-        - [[programming instruction]]; computing instruction
-        - a sequence of instructions
     - [[snippet]]
     - [[source code]]
     - [[throwaway code]]

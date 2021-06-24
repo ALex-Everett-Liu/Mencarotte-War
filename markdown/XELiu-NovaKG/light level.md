@@ -1,0 +1,6 @@
+- dictionary 
+    - [Control Optimization] for [Low Light Level] 61 Element [Adaptive Optical System]. 光照强度 dict.cnki.net
+    - A [Real Time Noise Reduction System] for [Low Light Level Imaging] 
+    - Research of [detection range] with a [low light level observation device] 微光观察仪
+    - Low Light Level [Image Processing] with [the Method of Frame Integral] 
+    - [Effect of external factors on] [low light level image] 

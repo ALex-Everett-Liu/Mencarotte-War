@@ -1,0 +1,5 @@
+- [[basic instruction]]
+- [[programming instruction]]; computing instruction
+- instruction sequence; a sequence of instructions
+    - current instruction sequence: 当前指令序列;
+    - [[instruction precedence]]

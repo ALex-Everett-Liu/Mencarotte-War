@@ -1,3 +1,4 @@
+- [[automobile]]
 - [[automobile engine]]: 汽车发动机 
 - automobile manufacturing industry;
 - [[automotive engineering]]

@@ -11,6 +11,7 @@
 - [[optical fiber]]; [[fiber]]; [[fibre]]
 - [[radio engineering]]
     - [[radiowave circuit]]
+    - [[radio frequency device]]
 - [[telegraph]]; [[teleprinter]]
 - [[telephone]]
 - [[television]]

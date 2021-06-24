@@ -3,3 +3,4 @@
 - [[digital signal processor (DSP)]]
 - integral with the processor: 与处理器集成
 - [[microprocessor]]
+- signal the processor: 通知处理器;

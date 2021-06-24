@@ -1,4 +1,5 @@
 - [[application-specific integrated circuit (ASIC)]]
+- [[IC/die]]: 裸晶
 - [[field-programmable gate array (FPGA)]]: 现场可编程门阵列/逻辑闸阵列
     - [[field modification]]: 现场改造
 - [[hardware description language (HDL)]]

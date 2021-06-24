@@ -6,7 +6,9 @@
 - [[ecosystem]]
 - event
     - [[button press]]
-    - [[interrupt]]
+    - [[interrupt]]; [[interrupt system]]
+        - [[interrupt service routine (ISR)]]: 中断服务例程; [[interrupt handler]]: 中断处理程序
+        - [[interrupt source]]
     - waiting for an event;
 - general...
     - [[object level]]

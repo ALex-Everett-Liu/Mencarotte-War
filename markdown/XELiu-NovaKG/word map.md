@@ -245,7 +245,7 @@
                     - cont
                         - contain
                             - contained;
-                            - [[self-contained]];
+                            - [[self-contained]]; [[self-contained system]]
                 - contra
                     - contradict
                         - contradictory

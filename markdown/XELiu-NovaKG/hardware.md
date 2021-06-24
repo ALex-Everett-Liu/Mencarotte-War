@@ -5,9 +5,11 @@
 - company
     - [[Apple Company]]
     - [[Lenovo]]
+- [[computer system]]
 - [[data storage]]
 - display
     - high contrast
+    - [[liquid-crystal display (LCD)]]
     - [[screen]]
 - earphone
     - [[MP3 player]]
@@ -21,10 +23,11 @@
     - [[plug-in card]]: 插入卡片, 插件;
 - [[firmware]]
 - [[graphics processing unit (GPU)]]
+- halt the processor;
 - hardware component; [[electronic component]]
 - [[housing]]: 外壳
 - [[industrial computer]]
-- [[input/output (I/O)]]; input/output device; input and output interface
+- [[input/output (I/O)]]; input/output device; [[I/O device]]; input and output interface
 - [[interface]]
 - [[keyboard]]
 - [[mainframe computer]]: 大型主机
@@ -51,6 +54,8 @@
 - [[real-time operating system]]; [[real-time system]]
     - [[limited time]]
     - [[real-time computing constraint]]: 实时计算约束
+    - [[real-time response]]
+- [[self-contained system]]
 - [[small computer]]
 - [[wearable technology]]
     - [[digital watch]]

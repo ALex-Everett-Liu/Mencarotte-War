@@ -4,7 +4,7 @@
 - [[dream]]
 - general...
     - rewire with new connections;
-- human interaction...
+- [[human interaction]]
     - [[human voice]]
     - vision; 视觉
         - binocular vision
