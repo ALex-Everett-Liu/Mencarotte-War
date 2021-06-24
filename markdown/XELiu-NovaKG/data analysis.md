@@ -15,3 +15,4 @@
 - plot...
     - ray-fan plot
     - spot diagram
+- receive data;

@@ -1,4 +1,4 @@
-- [[battery]]
+- [[battery]]; [[battery device]]
 - flammable material
 - general...
     - withstand high temperatures

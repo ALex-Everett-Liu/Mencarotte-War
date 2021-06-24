@@ -336,6 +336,17 @@
             - demonstrate, 2
                 - demo;
                 - demonstration;
+            - dent
+                - indent; indentation, 2
+            - deny
+                - denied;
+            - depend, 3
+                - depend on;
+                - dependence; dependencies; dependent
+                    - device dependent;
+                - independently;
+            - derive
+                - derivative; derived;
             - des
                 - describe
                     - [[descriptor]];

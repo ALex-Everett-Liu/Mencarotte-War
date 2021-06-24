@@ -24,6 +24,7 @@
 - [[firmware]]
 - [[graphics processing unit (GPU)]]
 - halt the processor;
+    - [[low-power sleep state]]
 - hardware component; [[electronic component]]
 - [[housing]]: 外壳
 - [[industrial computer]]
