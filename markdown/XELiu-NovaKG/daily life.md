@@ -16,6 +16,8 @@
     - #inbox
         - list-210623
             - 电蚊拍
+            - software
+                - roam
         - {{[[TODO]]}} 6月1日凌晨0点
 6月18日凌晨0点
 其他时间，没空人的[可以放弃](https://bbs.saraba1st.com/2b/thread-2007243-1-1.html) #pt7-99.98
