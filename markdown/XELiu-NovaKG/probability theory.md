@@ -1,6 +1,9 @@
 - [[average]]
 - [[Bayesian probability]]
+- [[bell curve]]
+    - the spread of the bell curve: 钟形曲线的延展宽度;
 - [[chance]]
+- coin flip; flipping a coin, heads and tails;
 - [[gambling]]
 - [[probability amplitude]]
 - [[randomness]]

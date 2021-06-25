@@ -1,4 +1,6 @@
 - [[classical information]]
+- [[quantum bit]]; [[qubit]]
+    - [[classical bit]]
 - [[quantum communication]]
 - [[quantum computing]]; [[quantum computation]]
 - [[quantum entanglement]]

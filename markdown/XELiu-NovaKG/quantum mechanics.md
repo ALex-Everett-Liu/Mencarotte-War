@@ -1,5 +1,6 @@
 - general...
     - quantum process;
+    - [[quantum world]];
 - localized at a point; [[phys/localization]]
     - [[non-localization]];
     - spread out in space
@@ -18,11 +19,16 @@
 - [[quantum information]]
 - [[quantum interpretation]]
 - [[quantum physics]]; [[quantum theory]]
-- [[Schrödinger equation]]
 - [[spin]]
 - [[symmetry]]
 - [[uncertainty principle]]
 - [[wave function]]
+    - [[quantum state]]
+        - [[complex wave function]]
+        - [[eigenstate]]
+        - [[energy state]]; [[energy level]]
+        - [[Hilbert space]]
+    - [[Schrödinger equation]]
 - ---
 - 高等量子力学 (Advanced Quantum Mechanics) - 喀兴林
 - 如果你来讲《量子力学》课程，你会如何设计？

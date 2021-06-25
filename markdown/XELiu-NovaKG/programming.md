@@ -1,4 +1,9 @@
 - [[abstraction]]; [[abstraction level]]: 抽象层 
+- algorithm
+    - convergence speed
+    - iteration
+    - linear approximation
+    - [[random walk]]; [[drunken walk]]
 - annotating programs
 - boolean expression
 - [[bug]]
