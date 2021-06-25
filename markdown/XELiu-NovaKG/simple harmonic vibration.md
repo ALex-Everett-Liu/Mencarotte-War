@@ -1,0 +1,5 @@
+- dictionary 
+    - Research on simple harmonic vibration for [spring oscillator] [based on MATLAB]. www.[dictall].com
+    - [MATLAB-based Study of] [Composition of Simple Harmonic Vibration] [at Different Frequencies]
+    - Simulation of simple harmonic vibration by [flash movie] technology and [rotational vector method]
+    - The [IR spectra] were obtained and assigned by [vibrational analysis]. dict.cnki.net

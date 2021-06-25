@@ -3,7 +3,7 @@
 - [[Merkle tree]]; [[hash tree]]
     - [[hash value]]
         - [[cryptographic hash]]
-- [[generating random numbers]]
+- [[random number]]; [[generating random numbers]]
 - record the data
     - data modification or alteration
 - [[security model]]

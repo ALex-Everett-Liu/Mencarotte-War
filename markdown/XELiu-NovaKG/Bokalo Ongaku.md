@@ -5,6 +5,11 @@
     - [[DECO*27]]
     - [[コウ (Diarays)]]
     - [[doriko]]
+    - [[ハチ (hachi)]]
+    - 鼻そうめんP (hanasoumenP)
+    - はりー (harry)
+    - [[はるまきごはん (harumaki gohan)]]
+    - HoneyWorks
     - [[MazoP]]
     - [[メル (mer)]]
     - [[みきとP (mikitoP)]]
