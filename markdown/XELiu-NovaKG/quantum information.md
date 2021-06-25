@@ -1,3 +1,4 @@
+- [[classical information]]
 - [[quantum communication]]
-- [[quantum computing]]
+- [[quantum computing]]; [[quantum computation]]
 - [[quantum entanglement]]

@@ -1,6 +1,4 @@
 - [[quantum computer]]
 - ---
 - #inbox
-    - 量子计算是自[计算机技术]出现 “计算” 以来[最大的革命]。[我们的世界]是由 [量子信息](https://en.wikipedia.org/wiki/Quantum_information) 构成的，但我们却是在[经典信息](https://www.quantiki.org/wiki/classical-information)中[感知世界]的。也就是说，[在小范围内][有很多事情]是我们[正常的感官][所无法感知的]。作为人类，[我们进化到][只能处理经典信息]，而不是[量子信息]：[我们的大脑][天生能思考] [Sabertooth cats](https://en.wikipedia.org/wiki/Saber-toothed_cat)，而不是 [Schrodinger’s cats](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)。 #pt10-99.99
-        - 我们可以[很容易地]用 0 和 1 来[编码我们的经典信息]，但是如何访问[组成我们宇宙的][额外信息]呢？我们能利用[现实的量子特性]来[处理信息]吗？当然，否则我们将[不得不在这里就][结束这篇文章]了，这不会让我们满足的。接下来，让我们来探索[量子计算的威力]，然后让你[开始写一些][量子代码](https://www.yuque.com/lucky/blog/rxbnte)。
     - 量子计算机，在其[早期的应用]将会[主要集中在][凝聚态系统]的[量子模拟]和[量子化学]领域，比如[新材料的预言和模拟]。这个很难[粗略的讲]，如果谁告诉[近期就可以做]解密/量子金融，不是[初创公司]的老板就是[诈骗犯](https://www.zhihu.com/question/458402313/answer/1875575487)。 #pt8-99.99

@@ -6,7 +6,7 @@
         - [[information explosion]]; [[knowledge explosion]]
         - technological revolution
     - provide information;
-- [[information processing]]
+- [[information processing]]; [[process information]]
 - [[information unit]]; [[knowledge unit]]
     - [[fragmented information]]; [[knowledge fragment]]
     - [[information piece]];
