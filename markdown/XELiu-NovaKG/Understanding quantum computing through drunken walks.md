@@ -23,3 +23,11 @@
                 - ![](https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/04/Stack_05.png)
     - Now the security team [has a model they can use to] keep up with the [classical drunks], but unfortunately at this bar there are also [quantum drunks]. Whereas the classical drunk is [a simple coin flip for each direction], for the quantum drunk [the coin is quantum], and can be [in a superposition of heads and tails] [at the same time]. The quantum drunk is [following a path that] is [a superposition of left and right] [at each bar stool]. 
 210625-23:03
+        - Superposition is one of the [fundamental concepts] in quantum mechanics and [one of the tools that] differentiates quantum information and classical information. [The treatment here] is [limited by necessity]; [for more fun with] superpositions, check out this Strangeworks post on some of the [fundamentals of qubits](https://quantumcomputing.com/strangeworks/play-with-one-qubit?source=stackoverflow).
+    - The quantum drunk will go in [a superposition of left and right simultaneously] with no [[definite position]] [until security finds them].
+        - When the security looks at [the distribution of positions] [where the quantum drunk is found], [they will find a very different result from] the classical drunk.
+        - [As opposed to] [a smooth bell curve distribution], they will find the “fangs” distribution [shown below]:
+            - ![](https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/04/Stack_07.gif)
+            - ![](https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/04/Stack_08.png)
+            - What is going on? Where is the quantum drunk? Why would [the peaks of the distribution] [be on the outside]? Why are there [areas inside] that are [very low probability] and [others that are higher]? The quantum drunk [has new properties].
+210626-08:54
