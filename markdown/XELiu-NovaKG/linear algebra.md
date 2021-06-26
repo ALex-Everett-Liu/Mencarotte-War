@@ -1,3 +1,27 @@
-- [[Hilbert space]]
 - general...
+- [[linear space]]; [[vector space]]
+    - [[Hilbert space]]
+        - linear operator
+            - self-adjoint operator
+            - operator spectrum...
+                - [[discrete spectrum]]
+                - [[spectral decomposition]]
+            - densely defined
+            - [[linear combination]]
+        - [[projective space]]
+            - [[complex projective space]]
+            - [[eigenspace]]
+            - [[projector]]
+        - [[separable space]]
     - [[inner product]]
+        - [[inner product space]]
+            - complete inner product space
+                - Cauchy 意义下收敛
+            - [[function space]]
+                - 平方可积
+                - 行为良好的复函数
+    - mathematical object
+    - space element
+        - 逆元
+        - 零矢量
+- [[superposition principle]]

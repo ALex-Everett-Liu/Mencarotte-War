@@ -3,4 +3,6 @@
     - [[classical bit]]
 - [[quantum communication]]
 - [[quantum computing]]; [[quantum computation]]
+    - [[quantum algorithm]]
+    - [[quantum programming]]
 - [[quantum entanglement]]

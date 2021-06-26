@@ -8,7 +8,9 @@
 - [[measurement]]; measurement process; act of measurement
     - before the measurement; prior to the measurement
     - [[observation]]
+        - observable; measure the observable
         - observable difference;
+        - [[observer]]
     - repeated measurement; second measurement
 - probability features; odds...
     - predict the outcome
@@ -23,11 +25,27 @@
 - [[symmetry]]
 - [[uncertainty principle]]
 - [[wave function]]
+    - [[complex wave function]]
     - [[quantum state]]
-        - [[complex wave function]]
         - [[eigenstate]]
+            - [[eigenvalue]]
+                - observable; measure the observable
+                - [[degenerate]]
+                - [[non-degenerate]]
+            - [[superposition principle]]; [[superposition]]
+            - possible state
+            - basis of states
         - [[energy state]]; [[energy level]]
         - [[Hilbert space]]
+            - [[state space]]; [[associated Hilbert space]]
+            - [[complex vector space]]
+                - [[state vector]]
+                - [[unit vector]]
+            - [[phase factor]]; [[global phase]]
+            - [[self-adjoint operator]]
+                - [[Hermitian operator]]
+                - [[eigenvector]]
+                - [[eigenspace]]
     - [[Schrödinger equation]]
 - ---
 - 高等量子力学 (Advanced Quantum Mechanics) - 喀兴林

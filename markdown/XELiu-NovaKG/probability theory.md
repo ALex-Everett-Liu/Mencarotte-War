@@ -7,3 +7,5 @@
 - [[gambling]]
 - [[probability amplitude]]
 - [[randomness]]
+- spread
+    - quantum spread
