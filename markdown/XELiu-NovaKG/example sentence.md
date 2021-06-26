@@ -17,8 +17,13 @@
         - An [System Dynamics Model] for the Research on the Development of [Machine Industry]. 
         - Information of Development in Machine Industry of China [in the Early New Century]
     - [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
-        - Let me [set the record straight on the misconceptions] [contained in your article]. 
+        - British [tour companies]([[tour company]]) are [nudging clients to travel further afield]. 鼓动客户到更远的地方去旅游 
+        - [You are not allowed to] [bring plants in] [from further afield] [without a licence].
+        - [They enjoy participating in] [a wide variety of activities], both locally and further afield.
+        - [There's nothing to stop you from] [doing a bit of] [exploring further afield].
+        - During their [[summer holiday]]s they cruised further afield to Normandy and Brittany. 乘船到
         - ---
+        - Let me [set the record straight on the misconceptions] [contained in your article]. 
     - danci.[911cha].com
     - www.[[dictall]].com
         - Design of [Average Principle Phase Difference Tester] [Based on FPGA].

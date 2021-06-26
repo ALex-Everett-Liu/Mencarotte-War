@@ -1,5 +1,5 @@
 - [[communication and media]]; media communications; 传播学; 传媒...
-- [[festival]]
+- [[festival]]; [[holiday]]
 - [[moral panic]]
 - [[popular culture]]
 - scene; scenery...
@@ -14,7 +14,7 @@
     - [[scenic spot]]
 - [[social activity]]
 - [[sports]]
-- tour; travel
+- [[tour]]; [[travel]]
     - [[hotel]]
         - [[motel]]
     - 随身行李清单

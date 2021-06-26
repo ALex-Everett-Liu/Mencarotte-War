@@ -1,6 +1,8 @@
 - covariant dynamics
 - a discrete structure of space
+- gravitize quantum mechanics;
 - [[loop quantum gravity]]
+- [[quantize gravity]];
 - [[spin foam]]
 - [[spin network]]
 - [[string theory]]
