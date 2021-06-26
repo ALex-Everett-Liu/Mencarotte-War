@@ -498,6 +498,16 @@
                 - frequency;
             - front
                 - front-matter: 正文之前;
+        - fu
+            - function
+                - functional; functionality, 2
+            - fund
+                - fundament
+                    - fundamental, 2; fundamentally
+            - futile
+                - futility;
+            - future
+                - not-too-distant future;
     - g
         - gi
             - give

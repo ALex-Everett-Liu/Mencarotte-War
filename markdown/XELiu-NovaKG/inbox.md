@@ -1,7 +1,7 @@
 - draft
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
-    - 
-    - 
+    - mff; tisong
+    - [[Space Emerging from Quantum Mechanics]]
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
         - 向日葵远程控制 - 4kPOaxde4ULXis

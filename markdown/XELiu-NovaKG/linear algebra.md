@@ -24,4 +24,6 @@
     - space element
         - 逆元
         - 零矢量
+- [[matrix]]
+    - [[matrix multiplication]]
 - [[superposition principle]]

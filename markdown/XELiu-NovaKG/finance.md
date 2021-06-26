@@ -15,6 +15,7 @@
 - [[insurance]]
 - [[invest]]; [[investor]]; investment
 - [[payment]]
+- [[risk management]]
 - [[stock market]]
     - [[bond market]]: 债券市场 
 - #inbox

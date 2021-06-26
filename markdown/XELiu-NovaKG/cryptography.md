@@ -1,4 +1,5 @@
 - [[cryptocurrency]]
+- [[cryptographic system]];
 - [[ledger]]
 - [[Merkle tree]]; [[hash tree]]
     - [[hash value]]

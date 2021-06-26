@@ -6,3 +6,4 @@
     - [[quantum algorithm]]
     - [[quantum programming]]
 - [[quantum entanglement]]
+- [[quantum internet]]
