@@ -6,7 +6,7 @@
 - condition, environment...
     - dark room
 - [[detector]]
-- [[experimental result]]; outcome of the experiment; [[outcome]]
+- [[experimental result]]; outcome of the experiment; outcome of the measurement; [[outcome]]
 - experimental v.s. theoretical?
 - general...
     - testing
@@ -15,9 +15,7 @@
 - [[laboratory]]
     - white coat;
 - [[measurement]]; measurement process; act of measurement
-- [[observation]]
-    - [[experimental observation]]
-    - [[observable consequence]]
+    - [[observation]]
 - plot...
     - brighter area
     - central peak

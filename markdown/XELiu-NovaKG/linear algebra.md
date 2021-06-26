@@ -1,5 +1,6 @@
 - general...
 - [[linear space]]; [[vector space]]
+    - [[dot product]]
     - [[Hilbert space]]
         - linear operator
             - self-adjoint operator

@@ -4,6 +4,7 @@
 - [[complex number]]
 - [[game theory]]
 - general...
+    - [[mathematical structure]]
     - [[non-negative]]
     - normalized
     - square-integrable function

@@ -9,7 +9,8 @@
     - before the measurement; prior to the measurement
     - [[observation]]
         - observable; measure the observable
-        - observable difference;
+            - observable difference;
+            - [[observable quantity]]; [[observable consequence]]
         - [[observer]]
     - repeated measurement; second measurement
 - probability features; odds...
