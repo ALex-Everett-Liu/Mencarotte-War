@@ -4,6 +4,8 @@
             - space expansion factor
         - [[proper time]]
             - [[proper-time cutoff measure]]
+    - perturbing the state; adding energy
+    - [[spacetime curvature]]
 - [[nonrelativistic motion]]
 - [[relative motion]]
 - space and time; [[spacetime]]

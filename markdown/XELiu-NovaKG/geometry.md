@@ -7,6 +7,7 @@
 - [[elementary geometry]]
 - half-space; halfspace
 - [[plane]]
-- vertex; vertices
+- [[vertex]]; [[vertices]]
+    - edge; 
     - outgoing arc
 - [[volume]]
