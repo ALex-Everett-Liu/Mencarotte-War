@@ -40,6 +40,7 @@
         - counter-intuitive property
     - physical quantity
         - base quantities
+        - [[degrees of freedom (DoF)]]
         - [[frequency]]
     - [[scale]], scope...
     - time

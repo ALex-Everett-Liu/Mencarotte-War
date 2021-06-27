@@ -8,7 +8,9 @@
     - perturbing the state; adding energy
     - [[spacetime curvature]]
         - [[local modification]]
+- [[Lorentz transformation]]
 - [[nonrelativistic motion]]
 - [[relative motion]]
+- [[relativistic condition]]
 - space and time; [[spacetime]]
 - [[special theory of relativity]]; [[special relativity]]
