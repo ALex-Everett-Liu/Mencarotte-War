@@ -2,6 +2,7 @@
     - [[absolute space]]
         - an absolute conception of acceleration
     - Newtonian worldview
+- [[background spacetime]]
 - [[de Sitter space]]
     - [[de Sitter vacuum]]
 - a discrete structure of space

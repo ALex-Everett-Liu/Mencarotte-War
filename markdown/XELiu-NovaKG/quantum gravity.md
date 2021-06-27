@@ -1,6 +1,9 @@
+- [[AdS/CFT correspondence]]
 - covariant dynamics
 - a discrete structure of space
+- [[entropic gravity]]
 - gravitize quantum mechanics;
+- holographic;
 - [[loop quantum gravity]]
 - quantize the classical system;
 - [[quantize gravity]];
@@ -9,3 +12,4 @@
 - [[string theory]]
 - [[unified theory]]
     - universal theory;
+- [[wormhole]]

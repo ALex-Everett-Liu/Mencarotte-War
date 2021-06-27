@@ -7,6 +7,7 @@
             - [[proper-time cutoff measure]]
     - perturbing the state; adding energy
     - [[spacetime curvature]]
+        - [[local modification]]
 - [[nonrelativistic motion]]
 - [[relative motion]]
 - space and time; [[spacetime]]
