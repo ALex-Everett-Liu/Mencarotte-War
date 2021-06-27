@@ -13,10 +13,12 @@
             - [[real world]]; [[real-world object]]; [[real entity]]
 - Minkowski space
     - Minkowski vacuum
-- [[space dimension]]
+- [[space dimension]]; [[spatial dimensionality]]
+    - [[emergent geometry]]
     - extra spatial dimensions
+    - [[multidimensional scaling]]
     - space point
-    - three-dimensional space; three dimensional space...
+    - three-dimensional space; three dimensional space
 - [[time arrow]]; time direction
     - asymmetry of time;
     - time-symmetric;

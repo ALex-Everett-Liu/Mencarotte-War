@@ -28,3 +28,4 @@
 - [[matrix]]
     - [[matrix multiplication]]
 - [[superposition principle]]
+- [[tensor product]]

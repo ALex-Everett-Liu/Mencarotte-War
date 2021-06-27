@@ -4,4 +4,5 @@
 - [[sleep]]
 - [[World Health Organization (WHO)]]
 - #inbox
+    - {{[[TODO]]}} 打疫苗 210701? 210715? or wait??
     - 我也出现[指甲长得太厚](https://bbs.saraba1st.com/2b/thread-2002258-1-1.html)甚至[两层指甲][这样的症状]，然后开始吃[维生素复合片]后好了，大概是[缺啥维生素了]，去买瓶[21金维他]之类的吃吃试试 #pt8-100

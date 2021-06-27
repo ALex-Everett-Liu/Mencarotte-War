@@ -4,9 +4,11 @@
     - opposite direction
     - perpendicular direction; normal direction; [[surface normal]]
 - [[coordinate]]
+- [[distance measure]]
 - [[elementary geometry]]
 - half-space; halfspace
 - [[plane]]
+- [[spatial manifold]]: 空间流形 
 - [[vertex]]; [[vertices]]
     - edge; 
     - outgoing arc

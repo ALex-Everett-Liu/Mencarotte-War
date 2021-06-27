@@ -1,0 +1,1 @@
+- [[redundancy-constrained state]]: 冗余约束态

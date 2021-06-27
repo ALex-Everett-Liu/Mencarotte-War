@@ -509,6 +509,17 @@
             - future
                 - not-too-distant future;
     - g
+        - ge
+            - genera
+                - general
+                    - generally, 2;
+                    - generalize: 推广; generalized: 广义, 普遍; 
+                - generic
+            - generate
+                - generation; generator
+            - generous
+            - get
+                - got; gotten
         - gi
             - give
                 - gave; given, 2
