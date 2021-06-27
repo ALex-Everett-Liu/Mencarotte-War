@@ -23,3 +23,17 @@
 - [[water wave]]
 - [[wavelength]]; light wavelength
 - [[wave optics]] / [[physical optics]]
+- wave oscillation
+    - displacement
+        - the direction of the displacement
+        - the magnitude of the displacement
+            - sinusoidal function; sinusoidal wave
+    - the direction of the oscillations
+    - oscillation cycle
+    - period
+    - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion 
+        - fixed point
+        - fixed time
+            - snapshot
+        - reference point
+    - wave amplitude or strength

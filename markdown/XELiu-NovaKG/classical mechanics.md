@@ -39,7 +39,7 @@
             - [[Ernst Mach]]
     - [[relative velocity]]
         - [[relative acceleration]]; an absolute conception of acceleration
-- [[simple harmonic vibration]]
+- [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion
 - [[theoretical mechanics]]
     - [[analytical mechanics]]
     - [[Hamiltonian mechanics]]

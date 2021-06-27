@@ -1,1 +1,3 @@
 - [[David Hilbert]]
+- [[finite-dimensional Hilbert space]]
+- [[infinite-dimensional Hilbert space]]
