@@ -6,4 +6,11 @@
     - [[quantum algorithm]]
     - [[quantum programming]]
 - [[quantum entanglement]]
+    - instantaneous connection; instantaneous bond
+    - long-range quantum connection
+    - [[mutual information]]
+    - physical independence;
+    - single entity;
+    - spatiotemporal interconnection
+    - spatially isolated; spatial separation
 - [[quantum internet]]

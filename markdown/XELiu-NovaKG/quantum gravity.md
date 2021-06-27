@@ -2,6 +2,7 @@
 - a discrete structure of space
 - gravitize quantum mechanics;
 - [[loop quantum gravity]]
+- quantize the classical system;
 - [[quantize gravity]];
 - [[spin foam]]
 - [[spin network]]

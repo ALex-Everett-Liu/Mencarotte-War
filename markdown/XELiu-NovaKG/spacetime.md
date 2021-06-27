@@ -10,7 +10,7 @@
     - existential; [[existential philosophy]]
     - [[relationist position]]: 关系论
         - [[independent existence]]; independent reality; relative
-            - [[real entity]]
+            - [[real world]]; [[real-world object]]; [[real entity]]
 - Minkowski space
     - Minkowski vacuum
 - [[space dimension]]

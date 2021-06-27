@@ -7,4 +7,5 @@
 - [[independent existence]]; independent reality; relative
 - nature of reality
 - [[objective reality]]
+- [[real world]]; [[real-world object]]; [[real entity]]
 - [[reality model]];
