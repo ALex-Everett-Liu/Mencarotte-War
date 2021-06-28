@@ -98,3 +98,6 @@ B.
                 - 根据薛定谔方程的[线性演化]： $$\psi_s\psi_A=\left( a|0\rangle_s+b|1\rangle_s \right)|\varnothing\rangle_A\Rightarrow a|0\rangle_s|0\rangle_A+b|1\rangle_s |1\rangle_A$$
                 - 我们可以看到，[系统和仪器][共同演化形成了](((Um3QABrqP)))**纠缠态**。
 210628-11:19
+            - 我们知道，^^S和A之间的[纠缠程度]^^，[可以通过][计算它们的]**共有信息（mutual information）**[来判断]。
+$$I\left( S:A \right)=I\left( S \right)+I\left( A \right)-I\left( SA \right)$$
+                - 其中，这里面的信息是用[冯诺依曼熵]表示的。S或A的信息，是我们[在复合系统中]抛弃（trace out）另一方[得到的信息量]。共有信息的[解读之一]就是，当我们[知道A的状态]时，能够得到S状态的信息多少 – 用大白话说，**就是仪器可以“告诉”我们[关于S状态的信息量]是多少。**
