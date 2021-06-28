@@ -13,6 +13,7 @@
             - [[observable quantity]]; [[observable consequence]]
         - [[observer]]
     - repeated measurement; second measurement
+    - 系统和仪器共同演化形成了纠缠态;
 - probability features; odds...
     - predict the outcome
 - [[quantization]]; quantized

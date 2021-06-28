@@ -20,6 +20,7 @@
     - [[multidimensional scaling]]
     - space point
     - three-dimensional space; three dimensional space
+- space region;
 - [[time arrow]]; time direction
     - asymmetry of time;
     - time-symmetric;

@@ -4,7 +4,8 @@
 - [[entropic gravity]]
 - gravitize quantum mechanics;
 - [[graviton]]
-- holographic;
+- [[holographic principle]]; holographic;
+    - [[boundary area]]
 - [[loop quantum gravity]]
 - quantize the classical system;
 - [[quantize gravity]];

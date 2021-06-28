@@ -1,1 +1,2 @@
 - [[redundancy-constrained state]]: 冗余约束态
+- 双态系统
