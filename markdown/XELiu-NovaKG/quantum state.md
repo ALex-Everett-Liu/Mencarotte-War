@@ -1,2 +1,8 @@
+- [[density matrix]]
+- [[mixed state]]
+- [[pure state]]
+- [[pure bipartite quantum state]]
 - [[redundancy-constrained state]]: 冗余约束态
+- [[separable state]]
+- [[subsystem]]
 - 双态系统
