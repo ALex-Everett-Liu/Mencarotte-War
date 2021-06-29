@@ -1,5 +1,4 @@
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
-    - [[instrumentation]]: 器械操作, 仪器制造 
     - measuring instrument; measurement device; measuring apparatus
     - [[plate]]
         - illuminate the plate;

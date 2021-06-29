@@ -1,5 +1,8 @@
 - [[automatic machinery]]
 - [[engine]]
+- general...
+    - integrated system
+- [[instrument science]]
 - [[machine industry]]
     - [[process control]]
 - [[machine operation]]

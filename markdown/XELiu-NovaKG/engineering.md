@@ -1,7 +1,7 @@
 - [[aerospace engineering]]
 - [[architecture]]
 - [[Electrical Engineering (EE)]]
-- [[environment]]; [[environment engineering]]
+- [[environment]]; [[environment engineering]]; [[environmental science]]
 - [[logistics]]
 - [[material]]; [[material science]]
 - [[Mechanical Engineering (ME)]]

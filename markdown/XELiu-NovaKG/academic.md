@@ -1,5 +1,6 @@
 - [[article]], [[essay]], [[sci/paper]]...
     - [[chapter]]; [[section]]
+    - [[excerpt]]
     - [[source]]; [[reference]]
 - [[peer-reviewed]];
 - tool...

@@ -1,0 +1,29 @@
+- [[instrument design]]
+- ---
+- Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
+    - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.
+210629-13:25
+- **DOI:** https://doi.org/10.1036/1097-8542.346850
+    - Article By: Finkelstein, L. Department of Physics, The City University, London, United Kingdom.
+    - [Engineering & Materials](https://www.accessscience.com/topics/engineering-materials) - [Instruments](https://www.accessscience.com/topics/engineering-materials/instruments)
+    - [The content above] is only an [[excerpt]].
+        - **[The systematically organized body of] [general concepts and principles] [系统地组织起来的][一般概念和原则] underlying the design, analysis, and application of** [[instrument]]s and [[instrument system]]s. Instruments are [[device]]s for [the acquisition and processing of information] [acquired from the physical world]. They embrace, in particular, **measuring and observation instruments**.
+210629-13:06
+- study portals - masters - Other interesting programmes for you
+    - Instrument Science and Technology [plays a significant role in the field of] [information science]. The [research area] includes [signal and information acquisition method] and [conversion amplification and processing technology], 转换放大与处理技术 [measurement methodology], metrology, [instrument engineering], measurement and control system engineering, etc.
+- ...
+    - [仪器科学与技术][学科]-精密仪器类专业-[仪器科学与技术]研究所
+        - 中国仪器仪表学会-[仪器仪表][博士后流动站]
+        - 精密仪器及智能化-精密测试技术与仪器
+        - 光电信息工程-中国光学工程学会
+            - [超精密][光电仪器]工程研究所
+        - 测控技术与仪器
+        - 中国计量测试学会
+        - 测试与检测技术
+        - 陀螺和导航仪器
+        - MEMS 器件与系统
+        - 医疗设备、空间微系统及新能源等方面
+        - 微系统技术与应用
+            - 微纳技术、光电测控技术-微纳卫星和微型飞行器
+        - 微纳测量与控制技术
+            - 生化检测
