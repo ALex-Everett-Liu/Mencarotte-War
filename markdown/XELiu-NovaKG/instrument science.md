@@ -1,4 +1,5 @@
 - [[instrument design]]
+- [[precision instrument]]
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.
@@ -11,19 +12,32 @@
 210629-13:06
 - study portals - masters - Other interesting programmes for you
     - Instrument Science and Technology [plays a significant role in the field of] [information science]. The [research area] includes [signal and information acquisition method] and [conversion amplification and processing technology], 转换放大与处理技术 [measurement methodology], metrology, [instrument engineering], measurement and control system engineering, etc.
-- ...
-    - [仪器科学与技术][学科]-精密仪器类专业-[仪器科学与技术]研究所
-        - 中国仪器仪表学会-[仪器仪表][博士后流动站]
-        - 精密仪器及智能化-精密测试技术与仪器
-        - 光电信息工程-中国光学工程学会
-            - [超精密][光电仪器]工程研究所
-        - 测控技术与仪器
-        - 中国计量测试学会
-        - 测试与检测技术
-        - 陀螺和导航仪器
-        - MEMS 器件与系统
-        - 医疗设备、空间微系统及新能源等方面
-        - 微系统技术与应用
-            - 微纳技术、光电测控技术-微纳卫星和微型飞行器
-        - 微纳测量与控制技术
-            - 生化检测
+- [仪器科学与技术][学科]-[精密仪器类]([[precision instrument]])专业 (Department of Precision Instrument)-[仪器科学与技术]研究所
+    - 中国仪器仪表学会-[仪器仪表][博士后流动站]
+    - 精密仪器及智能化-精密测试技术与仪器
+    - 光电信息工程-中国光学工程学会
+        - [超精密][光电仪器]工程研究所
+        - 光电检测-光电仪器设计
+        - 自适应光学原理
+    - 测控技术与仪器
+    - 中国计量测试学会
+    - 测试与检测技术
+    - 陀螺和导航仪器
+    - MEMS 器件与系统
+    - 医疗设备、空间微系统及新能源等方面
+    - 微系统技术与应用-微机电系统设计
+        - 微纳技术、光电测控技术-微纳卫星和微型飞行器
+        - VHDL 及其机电系统应用
+        - 嵌入式系统设计与实践-嵌入式计算机及机电系统接口应用
+        - CPLD/FPGA 与现代电子系统设计
+        - DSP 原理及其应用技术
+        - 微执行器与微传感器技术
+    - 微纳测量与控制技术
+        - 生化检测
+    - 自动化仪表及大型控制系统
+        - 各种 [[programmable logic controller (PLC)]]，SLC/MLC（单/多回路调节器），各种专用控制器、DCS（分散控制系统）、FCS（现场控制系统）等。
+    - 科学仪器-电化学、光学、热学分析仪器，质谱、波谱、色谱分析仪器、能谱及射线分析仪器、物性分析仪器、生化分析仪器、在线分析仪器
+    - 机械设计基础-制造工程基础
+    - 控制工程-现代控制理论与方法
+    - 量子计量原理及应用
+    - 智能信息处理
