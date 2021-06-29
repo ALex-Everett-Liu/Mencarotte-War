@@ -1,5 +1,11 @@
 - general...
+    - quantum-based
+    - [[quantum effect]]; [[quantum phenomena]];
+    - quantum particle
+    - [[quantum physics]]; [[quantum theory]]
     - quantum process;
+    - [[quantum system]]
+    - quantum technology
     - [[quantum world]];
 - localized at a point; [[phys/localization]]
     - [[non-localization]];
@@ -22,7 +28,6 @@
 - [[quantum fluctuation]]
 - [[quantum information]]
 - [[quantum interpretation]]
-- [[quantum physics]]; [[quantum theory]]
 - [[spin]]
 - [[symmetry]]
 - [[uncertainty principle]]

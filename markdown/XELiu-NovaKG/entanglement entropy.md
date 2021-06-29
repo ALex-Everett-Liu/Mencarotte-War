@@ -2,3 +2,5 @@
 (组成一个复合量子系统的两个子系统之间量子纠缠程度的度量)
 210628-21:21
     - More mathematically; if a state [describing two subsystems] A and B $${\displaystyle |\Psi _{AB}\rangle =|\phi _{A}\rangle |\phi _{B}\rangle }$$ is a [[separable state]], then the reduced density matrix $${\displaystyle \rho _{A}=\operatorname {Tr} _{B}|\Psi _{AB}\rangle \langle \Psi _{AB}|=|\phi _{A}\rangle \langle \phi _{A}|}$$ is a [[pure state]]. Thus, the entropy of the state is zero. Similarly, the density matrix of B would also have 0 entropy. A reduced density matrix [having a non-zero entropy] is therefore [a signal of the existence of entanglement in the system].
+- ## Bipartite entanglement entropy
+    - Suppose that a [[quantum system]] [consists of N particles]. A bipartition of the system is a partition which [divides the system into two parts] {\displaystyle A}A and {\displaystyle B}B, containing {\displaystyle k}k and {\displaystyle l}l particles respectively with $${\displaystyle k+l=N}$$. [[bipartite entanglement entropy]] is defined with respect to this [[bipartition]].
