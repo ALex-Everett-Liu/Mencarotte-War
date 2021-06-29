@@ -35,6 +35,7 @@
 - [[computer memory]]; [[memory element]]
     - [[flip-flop]]: 触发器
 - [[microcontroller]]
+    - [[fuzzy logic classifier]]
     - [[programmable logic controller (PLC)]]
 - [[middleware]]
 - [[mobile phone]]
