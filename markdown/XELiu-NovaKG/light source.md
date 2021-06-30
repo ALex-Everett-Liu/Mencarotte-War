@@ -5,6 +5,8 @@
 - monochromatic beam
 - object illumination source
 - single incident beam
+- [[synchrotron radiation]]
+    - [[third-generation synchrotron radiation source]]
 - ---
 - 光的发射
     - 热辐射/温度辐射 - 白炽灯

@@ -1,0 +1,2 @@
+- [[hard X-ray]]
+- [[X-ray absorption spectroscopy (XAS)]]
