@@ -18,7 +18,7 @@
         - 星期六 03/04/2021 17:46~47 # creamy-white-grey bag
         - 星期六 10/04/2021 17:21
 - 05/2019 YIT #pt10-100 #laopo   163~164 cm?
-- 星期二 29/06/2021 19:07 #pt10-100 #laopo #jeans #[[high ponytail]] 163~164 cm?
+- 星期二 29/06/2021 19:07 #pt10-100 #laopo #jeans #[[white socks]] #[[high ponytail]] 163~164 cm?
 - 星期四 20/05/2021 19:27 #pt10-100 #laopo #[[white blouse]] #[[black long skirt]] #[[black leather shoes]] #[[white socks]]   163~165 cm?
 - HIT Energy School 201703? -- 165~168 cm?
 - 星期一 15/03/2021 12:03 #pt10-100 #laopo #[[jk seifuku]] #[[flesh pantyhose]] # [[black leather shoes]]   158~161 cm?
