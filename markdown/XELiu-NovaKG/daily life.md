@@ -17,7 +17,7 @@
         - list-210623
             - 电蚊拍
             - software
-                - AppGo
+                - vpn; AppGo
                 - roam
                 - VSCode or Atom
         - {{[[TODO]]}} 6月1日凌晨0点

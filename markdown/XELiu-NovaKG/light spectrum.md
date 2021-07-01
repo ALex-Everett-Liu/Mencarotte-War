@@ -9,8 +9,7 @@
 - ultraviolet; ultraviolet radiation
 - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range
 - non-visible band;
-- Raman scattering spectroscopy
-    - [[X-ray Raman scattering (XRS)]]
+- [[Raman spectroscopy]]
 - wavelength band; spectral band; spectral range
 - [[X-ray]]; x-ray
 - 分光仪器
