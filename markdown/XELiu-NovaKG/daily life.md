@@ -1,6 +1,10 @@
 - day-to-day life; 
 - [[food]] and [[drink]]; tabemono to nomemono;
 - [[appliance]]; [[household appliance]]; [[domestic appliance]]; 家用电器
+- housing?
+    - 安居客、自如、贝壳
+        - [你在上面搜][离着公司近的]梦幻家、[锦华新城小区]看看估计[就能找到]，合租或[找个单间]都行，租期半年
+        - 宿舍地址：[锦华新城2期]15栋805；舍友[是我们公司的]曾祥林、李明川
 - personal care and service occupations: 个人护理和服务职业
     - [[cosmetics]]
     - #inbox
