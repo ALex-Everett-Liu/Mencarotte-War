@@ -7,4 +7,5 @@
         - superposable
     - [[periodic table of elements]]
 - [[computational chemistry]]; computer chemistry
+- [[noble gas]]
 - [[quantum chemistry]]

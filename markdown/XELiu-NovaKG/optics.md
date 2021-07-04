@@ -8,14 +8,14 @@
     - oncoming light
     - [[optical effect]]
 - [[geometric optics]]; [[classical optics]]
-- interaction between light and matter
+- interaction between light and matter; interaction between matter and electromagnetic radiation
     - [[light absorption]]
     - [[photoelectric effect]]
 - [[laser]]; [[laser beam]]; lasing
     - [[ray]]
 - [[light detection]]
 - [[light generation]]
-- [[light intensity]]
+- [[light intensity]]; [[radiation intensity]]
 - light propagation; wave propagation; [[propagating wave]]
     - propagation direction; the direction of propagation
         - horizontal direction;
@@ -25,6 +25,7 @@
     - propagation speed
 - [[light source]]; optical source
 - [[light spectrum]]; [[electromagnetic spectrum]]
+    - [[spectroscopy]]
 - [[light speed]]; the speed of light
     - [[propagation speed]]
 - material...

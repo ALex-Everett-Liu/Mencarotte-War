@@ -1,7 +1,7 @@
 - absorb the radiation;
 - emit radiation; emit energy; emission
     - [[emission spectrum]]
-- radiate energy;
+- radiate energy; [[radiative energy]]
     - radiate energy out to infinity; 
 - [[thermal radiation]]
     - [[thermal electromagnetic radiation]]
