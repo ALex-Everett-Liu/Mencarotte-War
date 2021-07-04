@@ -1,8 +1,8 @@
 - additional light source
 - coherent light source
 - [[incident light]]; incident beam
-- light beam
-- monochromatic beam
+- [[light beam]]
+- monochromatic beam; [[monochromatic light beam]]
 - object illumination source
 - single incident beam
 - [[synchrotron radiation]]

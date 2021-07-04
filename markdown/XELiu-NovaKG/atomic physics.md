@@ -3,4 +3,4 @@
 - [[atomic structure]]
 - [[atomic theory]]
     - [[corpuscular theory]]
-- [[hydrogen atom]]...
+- [[hydrogen atom]]

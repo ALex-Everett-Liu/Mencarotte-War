@@ -11,6 +11,7 @@
 - interaction between light and matter; interaction between matter and electromagnetic radiation
     - [[light absorption]]
     - [[photoelectric effect]]
+    - [[spectroscopy]]
 - [[laser]]; [[laser beam]]; lasing
     - [[ray]]
 - [[light detection]]

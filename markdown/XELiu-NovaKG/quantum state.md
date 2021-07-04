@@ -4,5 +4,6 @@
 - [[pure bipartite quantum state]]
 - [[redundancy-constrained state]]: 冗余约束态
 - [[separable state]]
+- [[stationary state]]
 - [[subsystem]]
 - 双态系统

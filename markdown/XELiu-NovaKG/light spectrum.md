@@ -3,7 +3,7 @@
     - characteristic frequency
     - shift to higher frequencies; higher frequencies
 - infinite spectrum
-- infrared; infrared spectrum; infrared range; infrared region; infrared-frequency
+- infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
     - Near-Infrared (NIR); near-infrared light
     - infrared-passing filter
 - ultraviolet; ultraviolet radiation
