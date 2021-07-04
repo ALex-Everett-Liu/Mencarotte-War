@@ -1,8 +1,9 @@
 - [[optical sensor]]
-- remote sensing; remote sensor
+- [[remote sensing]]; remote sensor
     - extrinsic sensor
     - [[remote control]]
     - remote location
+    - [[remote sensing on Earth]]
 - sensing element
     - intrinsic sensor
     - distributed sensing

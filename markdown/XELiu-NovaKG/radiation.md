@@ -5,4 +5,4 @@
     - radiate energy out to infinity; 
 - [[thermal radiation]]
     - [[thermal electromagnetic radiation]]
-        - [[black-body radiation]]
+        - [[black-body radiation]]; [[blackbody radiation]]

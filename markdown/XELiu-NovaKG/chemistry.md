@@ -1,3 +1,4 @@
+- [[analytical chemistry]]
 - [[biochemistry]]
 - [[chemical bonding]]
 - [[chemical element]]
@@ -8,4 +9,5 @@
     - [[periodic table of elements]]
 - [[computational chemistry]]; computer chemistry
 - [[noble gas]]
+- [[physical chemistry]]
 - [[quantum chemistry]]

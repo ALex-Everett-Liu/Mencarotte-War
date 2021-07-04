@@ -26,6 +26,7 @@
 - [[light source]]; optical source
 - [[light spectrum]]; [[electromagnetic spectrum]]
     - [[spectroscopy]]
+        - [[Rayleigh scattering]]
 - [[light speed]]; the speed of light
     - [[propagation speed]]
 - material...
