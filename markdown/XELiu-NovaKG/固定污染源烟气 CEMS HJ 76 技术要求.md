@@ -50,12 +50,13 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 响应时间
         - 24h 零点漂移和量程漂移
         - 准确度 [[accuracy]]
-            - [[reference method]]: 参比方法
+            - [[reference method]]: 参比方法; 校准气态污染物浓度
             - 采用 reference method 与 CEMS 去[同步测量]
-            - 与[参比方法][测量结果][平均值]之间的误差
+                - 与[参比方法][测量结果][平均值]之间的误差
             - [[relative accuracy]]: 相对准确度
-                - correlation calibration
-                - velocity field coefficient
+                - [[correlation calibration]]
+                    - 校准[颗粒物浓度] CEMS
+                - [[velocity field coefficient]]
     - 颗粒物
         - 24h 零点漂移和量程漂移
         - 线性相关校准曲线
@@ -67,8 +68,10 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 准确度
     - 烟气湿度
         - 准确度
-- 术语 
+- 3 术语和定义
     - [[parts per million (ppm)]] (百万分之一体积浓度)
     - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
         - 露点温度≤4℃时 经预处理后 
         - [[standard state]] - 273K, 101.3kPa
+- 5 技术要求
+    - 

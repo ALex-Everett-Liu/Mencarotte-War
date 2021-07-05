@@ -1,7 +1,7 @@
 - 环境监测; 在线监测系统
     - 节能环保产业 
 - [[Continuous Emissions Monitoring Systems (CEMS)]]
-    - parameters? - 术语 
+    - parameters? - 3 术语和定义
         - 排放浓度 排放量
         - [[full scale]]; [[span]]; 满量程值 R
         - maintenance interval: 维护周期
