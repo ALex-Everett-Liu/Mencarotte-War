@@ -1,0 +1,4 @@
+- The role of the diaphragm is to [stop the passage of light], except for the light passing through the aperture. Thus it is also called a stop (an aperture stop, if it limits the brightness of light reaching the focal plane, or a field stop or flare stop for other uses of diaphragms in lenses).
+- Also question is, what does the [[field diaphragm]] do on a [[microscope]]?
+    - The field diaphragm [controls how much light enters] the substage [[condenser]] 进入子级冷凝器 and, consequently, the rest of the microscope.
+- Additionally, what is the function of the iris diaphragm and how do you adjust it? Locate the lever used to regulate the iris diaphragm. Adjusting the size of the opening regulates the amount of light that can pass into the condenser. The main function of the iris diaphragm is to maximize resolution and image contrast by properly channeling the light rays passing through the specimen.

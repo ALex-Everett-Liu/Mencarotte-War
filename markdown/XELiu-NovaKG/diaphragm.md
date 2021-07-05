@@ -1,0 +1,9 @@
+- [[aperture]] -- 限制光束
+- [[field stop]]; [[field diaphragm]]
+    - [[circular field stop]]
+- ---
+- In optics, a diaphragm is [a thin opaque structure] with an opening ([[aperture]]) at its center. The role of the diaphragm is to [stop the passage of light], except for the light [passing through the aperture]. Thus it is also called a stop (an [[aperture stop]], if it limits the [[brightness]] of light reaching the [[focal plane]], or a [[field stop]] or [[flare stop]] for other uses of diaphragms in [[lens]]es). 
+    - The diaphragm is placed in the [[light path]] of a lens or objective, and [the size of the aperture] [regulates the amount of light] that [passes through the lens]. The centre of the diaphragm's aperture coincides with the [[optical axis]] of the [[lens system]].
+    - Most modern [[camera]]s use a type of [[adjustable diaphragm]] known as an [[iris diaphragm]], and [often referred to simply as] an iris.
+    - See the articles on aperture and [[f-number]] for the [[photographic effect]] and system of quantification of [varying the opening in the diaphragm].
+    - A [[Zeiss]] [[rotating diaphragm]], 1906.[1] One diaphragm with five [[aperture]]s.

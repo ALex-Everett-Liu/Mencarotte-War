@@ -24,7 +24,9 @@
         - 便携式烟气监测设备
     - 监测单元
         - 颗粒物监测
-        - [烟气参数][测量监测]
+            - 校准检测实例 p45
+                - 线性相关曲线 置信区间 允许区间
+        - [烟气参数][测量监测] - 烟气分析 - flue gas from stationary sources - SO2, NOx, 颗粒物
             - 温度、压力、流速 - 变送器 测量仪 - 校准装置
             - 湿度、含氧量
                 - zero drift - zero gas 偏差相对于满量程的百分比
@@ -51,6 +53,12 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                     - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
                     - 测量第j种标准气体的平均值
     - 数据采集与处理单元
+        - 数据处理的计算方法
+            - 污染物浓度转换公式 $$C_{s n}=C_{s} \times \frac{101325}{B_{a}+P_{s}} \times \frac{273+t_{s}}{273}$$
+                - 标准状态下质量浓度 (标况浓度) - 实测状态下 工况浓度
+                - 环境大气压值-烟气静压值-烟气温度
+            - 体积浓度与质量浓度的转换 $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ -- mg/m3 g/mol μmol/mol
+            - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$
     - 气体分析、液体分析 - 气体分析取样 - 样品采集与传输装置
         - 采样泵
             - 克服烟道负压
@@ -60,10 +68,21 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - 冷凝器 除湿
             - 样品过滤
         - 颗粒物过滤器
+    - 质量保证
+        - 固定污染源的总排气管-多个烟道或管道
+        - 采样平台 爬梯
+        - 准确度达不到要求 调节后的数据 $$CEMS_{a d}=CEMS \times E_{a c}$$ 
+            - 偏差调节系数 $$E_{a c}=1+\frac{\bar{d}}{\overline{C E M S}}$$ 
+                - CEMS 与[参比方法][测量各数据][对差]的[平均值]
+        - 到达污染物检测器的滞后时间 $$t=V / Q_{s l}$$
+            - 导气管内的体积和流速
+    - 检测项目和相关记录表格 ( HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf p31 )
+    - HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf
 - wave spectrum
     - ^^energy-wavelength-wavenumber corresponding^^
         - ![](local-asset://Minimum-Workflow/rA2aPmLBF6.png)
     - [[wavenumber]] $$\sigma=10000 / \lambda \cdot \mathrm{cm}^{-1}$$
+        - 单位换算 1cm/4000=10000um/4000=2.5um
     - 波谱范围相对应的原子或分子的运动形式
         - 分子的量子化能级
             - 分子运动的能量 
@@ -78,11 +97,16 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                     - 带状光谱
             - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range - 380~780 nm - 原子外层电子的跃迁-电子能级跃迁：1~20eV
             - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
-                - 近红外区光谱：0.78-2.5 μm; 4000~12820 cm-1 - 氢离子的振动 -- 泛频区 - O-H、N-H及C-H键的倍频吸收
+                - 近红外区光谱：0.78-2.5 μm; 4000~12820 cm-1 - 氢离子的振动 -- 泛频区 - O-H, N-H, C-H 键的[倍频吸收]
                 - 中红外区光谱：2.5-25/40 μm; 400~4000 cm-1 - 分子内原子间的振动能 0.025~1 eV  -- 分子振动转动光谱
+                    - [通常所说的]红外分析[主要指][中红外分析]。 -- [[infrared spectroscopy]]: 红外分析仪
                 - 远红外区光谱：25/40-300/1000 μm; 5~400 cm-1 - 整个分子的转动能级  - 晶格振动
                 - 分子中某个基团的振动频率-产生共振-光的能量通过[[偶极矩]]的变化传递给分子-红外光的能量与分子震荡的能量相当。
+            - ultraviolet; ultraviolet radiation
+                - [分子外层价电子][能级跃迁]
+                - [有机和无机物质]的[定性和定量测定]
 - interaction between light and matter; interaction between matter and electromagnetic radiation
+    - [入射光束]([[incident beam]])通过[样品]([[sample]]) - 反射 吸收 透射 散射 荧光
     - coupling interaction between the radiation and matter;
         - [[偶极矩]]变化 u=qd
         - 异核分子，原子[电负性]不同，正负电荷不对称
@@ -90,6 +114,45 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 对称分子，其正负电荷中心重合 - 如 H2、O2、N2，无红外活性。
 - [[spectroscopy]]; 在线光谱分析 
     - [[infrared spectroscopy]]: 红外分析仪
+        - [[Fourier-transform infrared spectroscopy (FTIR)]]
+            - [[interferogram]]: 干涉图
+            - 光谱图
+            - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-A/D D/A
+            - 红外光源 source module -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
+            - [[circular field stop]] - [[gas cell module]] (long path) 气室 -- [[optical relay block]] 继电器 
+            - [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
+            - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
+                - 分束器- KBr (易潮解，需要有[防潮措施])
+                - sample
+                    - 中红外透射分析时对样品的要求:
+                        - 不含游离态的水
+                        - [不能测量]氧气、氢气、氮气等[由相同原子构成的][气体分子]。
+                    - 气体池
+                    - 固定液池
+            - FTIR 光谱获取流程
+                - 采集[背景光谱] R(v)
+                - 采集[样品光谱] S(v)
+                - 透射率光谱 $$T(\nu)=S(\nu) / R(\nu)$$
+                    - [[transmittance]] $$T=\frac{I_{\mathrm{t}}}{I_{0}}$$
+                - 吸光度光谱 $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$
+        - 鉴定化合物和测定分子结构
+            - [结构不同的]两个[化合物]，一定不会有相同的[红外光谱]。
+    - 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
+        - 峰强度：定量 -- 依照[特征吸收峰的强度]来测定混合物中[各组分的含量]。
+    - 光源/照明系统
+        - He-Ne Laser
+        - 能斯特灯 -- [稀土氧化物][加压成型] -- 2-25μm
+        - 硅碳棒--功率200-400W，波长2-30μm，寿命大于1000h。
+        - 氧化铝棒-铹丝电极-30W
+    - 色散/分光型
+        - 光源-样品-分光器-检测器-光谱图
+        - 分光系统
+    - 探测接收系统
+        - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-A/D D/A
+            - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
+                - 温差电现象
+    - 传输存储显示系统
+    - 调制型
         - [[Fourier-transform infrared spectroscopy (FTIR)]]
 - 在线气相色谱仪-色谱分析系统
     - 混合物分离分析技术
