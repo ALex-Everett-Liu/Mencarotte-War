@@ -1,1 +1,4 @@
+- [[relative standard deviation (RSD)]]
+- [[estimator]]: 估计量; [[estimation]]; [[estimate]]
+- [[observed data]]; [[observed evidence]]
 - [[trend]]

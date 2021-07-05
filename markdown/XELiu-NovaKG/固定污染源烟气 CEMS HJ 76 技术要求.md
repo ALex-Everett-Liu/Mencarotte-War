@@ -1,23 +1,28 @@
 - 实验室检测
     - 气体污染物监测单元
-        - 响应时间
+        - 响应时间 [[response time]]
             - 上升时间和下降时间; 小于120s
+            - 仪表响应时间 - 示值产生一个阶跃增加的时刻开始算起，达到[[标准气体标称值]] 90% or 10% 的时刻为止。
+                - system response time = 仪表响应时间 + 管线传输时间
+                    - 自[系统采样探头](((wUgCv_o35)))[通入标准气体](((hfvsLbZiq)))的时刻起
         - 零点漂移和量程漂移
+            - [[span drift]] - [[span calibration gas]]
+            - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
             - 24h
                 - 24h 零点漂移 $$\begin{gathered}
 \Delta Z_{n}=Z_{n}-Z_{0} \\
 Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
 \end{gathered}$$
             - 一周
-        - NO2转换效率
+        - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])
             - NO2转换为NO; 大于95%
             - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
         - 重复性
-            - 测量结果的相对标准偏差; 小于2%
+            - 测量结果的[相对标准偏差]([[relative standard deviation (RSD)]]); 小于2%
             - $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
             - 量程校准气体第i次测量值 $$\mathrm{ppm}\left(\mathrm{mg} / \mathrm{m}^{3}\right)$$
-        - 平行性
-            - 三套仪器测量同一样品
+        - 平行性 parallelism
+            - 相同环境条件下，三套仪器测量同一样品, [[relative standard deviation (RSD)]]
             - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
         - 线性误差
             - 不超过2%满量程
@@ -40,12 +45,17 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
 - 污染物排放现场检测
     - 气体污染物
         - 示值误差
-            - NOx满量程值大于200μmol/mol时，不超过5%标准气体标称值
+            - NOx满量程值大于200μmol/mol时，不超过5%[[标准气体标称值]]
             - NOx满量程值小于200μmol/mol时，不超过5%满量程
         - 响应时间
         - 24h 零点漂移和量程漂移
-        - 准确度 
-            - 与参比方法测量结果平均值之间的误差
+        - 准确度 [[accuracy]]
+            - [[reference method]]: 参比方法
+            - 采用 reference method 与 CEMS 去[同步测量]
+            - 与[参比方法][测量结果][平均值]之间的误差
+            - [[relative accuracy]]: 相对准确度
+                - correlation calibration
+                - velocity field coefficient
     - 颗粒物
         - 24h 零点漂移和量程漂移
         - 线性相关校准曲线
@@ -57,9 +67,8 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 准确度
     - 烟气湿度
         - 准确度
-- 术语
-    - 满量程值 R
-    - 相对准确度
-    - 维护周期
-    - ppm (百万分之一体积浓度)
-    - 干烟气浓度
+- 术语 
+    - [[parts per million (ppm)]] (百万分之一体积浓度)
+    - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
+        - 露点温度≤4℃时 经预处理后 
+        - [[standard state]] - 273K, 101.3kPa

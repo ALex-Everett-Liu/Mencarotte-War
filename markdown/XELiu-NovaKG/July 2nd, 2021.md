@@ -1,27 +1,16 @@
 - 环境监测; 在线监测系统
     - 节能环保产业 
 - [[Continuous Emissions Monitoring Systems (CEMS)]]
-    - parameters?
+    - parameters? - 术语 
         - 排放浓度 排放量
-        - full scale span
-            - span drift - 量程校准气体
-            - zero drift - zero gas 偏差相对于满量程的百分比
-        - response time - 达到标准气体标称值的90%的时刻
-        - maintenance interval
-        - nitrogen dioxide conversion efficiency
-        - parallelism - 相同环境条件下，相对标准偏差
-        - parts per million (ppm) 体积浓度
-        - relative accuracy
-            - reference method
-            - correlation calibration
-            - velocity field coefficient
-        - dry flue gas concentration - 经预处理后 露点温度
-        - standard state - 273K, 101.3kPa
+        - [[full scale]]; [[span]]; 满量程值 R
+        - maintenance interval: 维护周期
+        - [[nitrogen dioxide conversion efficiency]]
+        - 平行性 parallelism
     - [[Volatile Organic Compounds (VOCs)]] 治理 
         - Volatile Organic Compounds Monitored with CEMS Systems 
     - flue gas from stationary sources - SO2, NOx, 颗粒物
-        - 大气污染防治
-        - 便携式烟气监测设备
+        - [[固定污染源烟气 CEMS HJ 76 技术要求]]
     - 监测单元
         - 颗粒物监测
             - 校准检测实例 p45
@@ -29,7 +18,7 @@
         - [烟气参数][测量监测] - 烟气分析 - flue gas from stationary sources - SO2, NOx, 颗粒物
             - 温度、压力、流速 - 变送器 测量仪 - 校准装置
             - 湿度、含氧量
-                - zero drift - zero gas 偏差相对于满量程的百分比
+                - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
             - 烟气流速 连续测量
                 - 速度场系数 $$K_{V}=\frac{F_{s}}{F_{p}} \times \frac{\overline{V_{s}}}{\overline{V_{p}}}$$
                     - [参比方法][测量断面]的[横截面积]
@@ -49,7 +38,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - 二氧化氮转换效率
                 - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
                     - 标准气体的 3次测量平均值
-                - parallelism - 相同环境条件下，相对标准偏差
+                - 平行性 parallelism
                     - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
                     - 测量第j种标准气体的平均值
     - 数据采集与处理单元
