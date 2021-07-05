@@ -1,6 +1,10 @@
 - [[aperture]] -- 限制光束
+    - 对[轴上物点光束]的[口径]（[立体角]或者[发光截面]）[限制得最多]
 - [[field stop]]; [[field diaphragm]]
     - [[circular field stop]]
+    - 对[光具组][成像的视场]限制最多
+- 它可以是[透镜的边缘]、框架或[特别设置的][带孔屏]。
+- 控制光束通过多少
 - ---
 - In optics, a diaphragm is [a thin opaque structure] with an opening ([[aperture]]) at its center. The role of the diaphragm is to [stop the passage of light], except for the light [passing through the aperture]. Thus it is also called a stop (an [[aperture stop]], if it limits the [[brightness]] of light reaching the [[focal plane]], or a [[field stop]] or [[flare stop]] for other uses of diaphragms in [[lens]]es). 
     - The diaphragm is placed in the [[light path]] of a lens or objective, and [the size of the aperture] [regulates the amount of light] that [passes through the lens]. The centre of the diaphragm's aperture coincides with the [[optical axis]] of the [[lens system]].

@@ -46,6 +46,18 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
+- mindmap
+    - {{roam/js}}
+        - ```javascript
+var existing = document.getElementById("roamjs-mindmap");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/mindmap.js";
+  extension.id = "roamjs-mindmap";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
 - [[Roam VIDEO]]
     - {{roam/js}}
         - ```javascript

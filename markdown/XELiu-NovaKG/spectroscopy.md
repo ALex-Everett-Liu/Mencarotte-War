@@ -1,17 +1,20 @@
 - [[absorption spectroscopy]]
 - [[atomic spectroscopy]]; [[atomic spectra]]
     - [[Neon lighting]]
+- [[Beer–Lambert law]]
 - [[biomedical spectroscopy]]
     - [[tissue analysis]]
 - [[characteristic emission frequency]]
 - [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计
-- [[infrared spectroscopy]]: 红外分析仪
+- [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
     - [[Fourier-transform infrared spectroscopy (FTIR)]]
         - broadband light source
+    - [[near-infrared spectroscopy]]
 - [[molecular spectrum]]
 - [[spectral characteristics]]; [[spectral signature]]
 - [[spectral line]]
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪
+- [[spectrophotometry]]: 分光光度测定法
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
 - wavelength dependence; as a function of wavelength
 - ---

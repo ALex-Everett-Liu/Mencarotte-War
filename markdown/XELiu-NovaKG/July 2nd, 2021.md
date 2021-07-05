@@ -93,33 +93,47 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                         - 弹簧-化学键 -- 化学键力常数 k 
                         - 相对原子质量 M
                 - 整个分子的转动能级 
-                - 如果分子的能级[由基态跃迁至激发态]，产生[吸收光谱]; 反之产生发射光谱。 
+                - 在通常情况下，[分子中的原子]大多处于[基态震动]。
+                    - 如果分子的能级[由基态跃迁至激发态]，产生[吸收光谱]; 反之产生发射光谱。 
                     - 带状光谱
+                    - 基频吸收带-跃迁到第一激发态
+                    - 泛频吸收带
+                    - 组频吸收带
             - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range - 380~780 nm - 原子外层电子的跃迁-电子能级跃迁：1~20eV
             - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
                 - 近红外区光谱：0.78-2.5 μm; 4000~12820 cm-1 - 氢离子的振动 -- 泛频区 - O-H, N-H, C-H 键的[倍频吸收]
                 - 中红外区光谱：2.5-25/40 μm; 400~4000 cm-1 - 分子内原子间的振动能 0.025~1 eV  -- 分子振动转动光谱
-                    - [通常所说的]红外分析[主要指][中红外分析]。 -- [[infrared spectroscopy]]: 红外分析仪
+                    - [通常所说的]红外分析[主要指][中红外分析]。 -- [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
                 - 远红外区光谱：25/40-300/1000 μm; 5~400 cm-1 - 整个分子的转动能级  - 晶格振动
-                - 分子中某个基团的振动频率-产生共振-光的能量通过[[偶极矩]]的变化传递给分子-红外光的能量与分子震荡的能量相当。
+                - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 特征性 吸收峰 -- 红外活性
+                    - 谱图解析 -- 谱图库搜索与对比算法
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1T8RWuQHrq.png?alt=media&token=66ca1e77-28e4-43ce-97bf-3cc25dad8a86)
+                    - 吸收线
+                    - 不同气体分子的[特征吸收波长] (指纹) - AO2000-URAS26培训教程.pdf p21
             - ultraviolet; ultraviolet radiation
                 - [分子外层价电子][能级跃迁]
                 - [有机和无机物质]的[定性和定量测定]
 - interaction between light and matter; interaction between matter and electromagnetic radiation
     - [入射光束]([[incident beam]])通过[样品]([[sample]]) - 反射 吸收 透射 散射 荧光
     - coupling interaction between the radiation and matter;
-        - [[偶极矩]]变化 u=qd
+        - [[偶极矩]]变化 μ=qd
+        - 双原子分子-红外活性-震动偶极子
+            - 光子的震动频率与分子的[震动频率][相互匹配]-偶极子的[振幅增大][频率不变]。
+            - 不同气体分子的[特征吸收波长] (指纹) - AO2000-URAS26培训教程.pdf p21
         - 异核分子，原子[电负性]不同，正负电荷不对称
             - 在其平衡位置振动时
-        - 对称分子，其正负电荷中心重合 - 如 H2、O2、N2，无红外活性。
+        - 对称同核分子，其正负电荷中心重合 - 如 H2、O2、N2，No IR Absorption (无红外活性)。 - no absorption spectrum (transparent) - $$\mathrm{d} \mu / \mathrm{dx}=0$$
 - [[spectroscopy]]; 在线光谱分析 
-    - [[infrared spectroscopy]]: 红外分析仪
+    - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
         - [[Fourier-transform infrared spectroscopy (FTIR)]]
             - [[interferogram]]: 干涉图
             - 光谱图
             - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-A/D D/A
-            - 红外光源 source module -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
-            - [[circular field stop]] - [[gas cell module]] (long path) 气室 -- [[optical relay block]] 继电器 
+            - 调制单元
+                - 红外光源 source module -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
+                - 切光片-切光马达 ([[stepper motor]])
+                    - 通过切光片[对光切割]，把[测量信号][调制成交流信号]。
+            - [[circular field stop]] - 气体池 - [[gas cell module]] (long path) 气室 -- [[optical relay block]] 继电器 
             - [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
             - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
                 - 分束器- KBr (易潮解，需要有[防潮措施])
@@ -127,33 +141,47 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                     - 中红外透射分析时对样品的要求:
                         - 不含游离态的水
                         - [不能测量]氧气、氢气、氮气等[由相同原子构成的][气体分子]。
-                    - 气体池
+                    - 气体池 - [[gas cell module]] (long path) 气室
                     - 固定液池
             - FTIR 光谱获取流程
                 - 采集[背景光谱] R(v)
                 - 采集[样品光谱] S(v)
                 - 透射率光谱 $$T(\nu)=S(\nu) / R(\nu)$$
                     - [[transmittance]] $$T=\frac{I_{\mathrm{t}}}{I_{0}}$$
-                - 吸光度光谱 $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$
+                - 吸光度光谱 $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\epsilon cl)$$
+                    - [[Beer–Lambert law]]
+                    - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm))
+                    - 消光系数 $$\epsilon$$
+                    - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
+            - [使用与维护][注意事项]
+                - [相对湿度]应在65%以下，[高湿度时][需要除湿]。
+                    - 每周开机至少两次:  防止受潮
+                - CO2 含量不能太高：密封、干燥 N2 吹扫
+                - [镜面]不可以用[纸巾或湿布][擦拭]
+            - AO2000-URAS26培训教程.pdf
         - 鉴定化合物和测定分子结构
             - [结构不同的]两个[化合物]，一定不会有相同的[红外光谱]。
     - 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
+        - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 特征性 吸收峰 -- 红外活性
         - 峰强度：定量 -- 依照[特征吸收峰的强度]来测定混合物中[各组分的含量]。
     - 光源/照明系统
         - He-Ne Laser
         - 能斯特灯 -- [稀土氧化物][加压成型] -- 2-25μm
         - 硅碳棒--功率200-400W，波长2-30μm，寿命大于1000h。
         - 氧化铝棒-铹丝电极-30W
+        - 陶瓷光源，抛物面反射体。
+            - 密封隔爆
+            - 为增加寿命，内部填充特殊气体。
     - 色散/分光型
         - 光源-样品-分光器-检测器-光谱图
         - 分光系统
+    - 调制型
+        - [[Fourier-transform infrared spectroscopy (FTIR)]]
     - 探测接收系统
         - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-A/D D/A
             - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
                 - 温差电现象
     - 传输存储显示系统
-    - 调制型
-        - [[Fourier-transform infrared spectroscopy (FTIR)]]
 - 在线气相色谱仪-色谱分析系统
     - 混合物分离分析技术
     - [载气]将[样品]带入[色谱柱]，利用各组分在色谱柱中的[保留能力]不同进行分离，
