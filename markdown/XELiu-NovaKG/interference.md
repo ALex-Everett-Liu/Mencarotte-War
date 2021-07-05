@@ -8,3 +8,6 @@
     - blip-by-blip assembly; point-by-point assembly
     - bright and dark bands
     - [[interference fringe]]
+- [[interferogram]]: 干涉图
+- [[Michelson interferometer]]
+    - configuration of mirrors;

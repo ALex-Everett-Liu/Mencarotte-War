@@ -5,7 +5,9 @@
     - [[tissue analysis]]
 - [[characteristic emission frequency]]
 - [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计
-- [[Fourier-transform infrared spectroscopy (FTIR)]]
+- [[infrared spectroscopy]]: 红外分析仪
+    - [[Fourier-transform infrared spectroscopy (FTIR)]]
+        - broadband light source
 - [[molecular spectrum]]
 - [[spectral characteristics]]; [[spectral signature]]
 - [[spectral line]]

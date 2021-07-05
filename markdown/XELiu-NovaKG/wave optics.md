@@ -1,6 +1,6 @@
 - [[diffraction]]
 - [[far field]]
-- [[interference]]
+- [[interference]]; [[wave interference]]
 - [[polarization]]
 - the [[wave theory of light]]
     - [[aether]]; luminiferous aether

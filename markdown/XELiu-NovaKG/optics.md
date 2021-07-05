@@ -9,6 +9,7 @@
     - [[optical effect]]
 - [[geometric optics]]; [[classical optics]]
 - interaction between light and matter; interaction between matter and electromagnetic radiation
+    - coupling interaction between the radiation and matter;
     - [[light absorption]]
     - [[photoelectric effect]]
     - [[spectroscopy]]

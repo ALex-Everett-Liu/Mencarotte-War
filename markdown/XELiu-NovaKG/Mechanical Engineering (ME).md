@@ -9,6 +9,7 @@
 - [[machinery]]: 机械装置
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
+- [[motor]]
 - [[nanomechanics]]
 - [[robotics]]
 - tools...

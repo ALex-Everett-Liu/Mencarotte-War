@@ -1,0 +1,127 @@
+- 环境监测; 在线监测系统
+    - 节能环保产业 
+- [[Continuous Emissions Monitoring Systems (CEMS)]]
+    - parameters?
+        - 排放浓度 排放量
+        - full scale span
+            - span drift - 量程校准气体
+            - zero drift - zero gas 偏差相对于满量程的百分比
+        - response time - 达到标准气体标称值的90%的时刻
+        - maintenance interval
+        - nitrogen dioxide conversion efficiency
+        - parallelism - 相同环境条件下，相对标准偏差
+        - parts per million (ppm) 体积浓度
+        - relative accuracy
+            - reference method
+            - correlation calibration
+            - velocity field coefficient
+        - dry flue gas concentration - 经预处理后 露点温度
+        - standard state - 273K, 101.3kPa
+    - [[Volatile Organic Compounds (VOCs)]] 治理 
+        - Volatile Organic Compounds Monitored with CEMS Systems 
+    - flue gas from stationary sources - SO2, NOx, 颗粒物
+        - 大气污染防治
+        - 便携式烟气监测设备
+    - 监测单元
+        - 颗粒物监测
+        - [烟气参数][测量监测]
+            - 温度、压力、流速 - 变送器 测量仪 - 校准装置
+            - 湿度、含氧量
+                - zero drift - zero gas 偏差相对于满量程的百分比
+            - 烟气流速 连续测量
+                - 速度场系数 $$K_{V}=\frac{F_{s}}{F_{p}} \times \frac{\overline{V_{s}}}{\overline{V_{p}}}$$
+                    - [参比方法][测量断面]的[横截面积]
+                - 精密度 $$C_{v}=\frac{S}{\overline{\overline{K_{v}}}} \times 100 \%$$
+                    - 日均值的标准偏差 $$S=\sqrt{\frac{\sum_{i=1}^{n}\left(\overline{K_{v i}}-\overline{\overline{K_{v}}}\right)^{2}}{n-1}}$$ (m/s)
+        - 气体污染物监测
+            - 完全抽取法-稀释抽取法
+            - 仪表响应时间
+            - 重复性 相对标准偏差 $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
+                - 量程校准气体第i次测量值 $$\mathrm{ppm}\left(\mathrm{mg} / \mathrm{m}^{3}\right)$$
+            - 24h 零点漂移 $$\begin{gathered}
+\Delta Z_{n}=Z_{n}-Z_{0} \\
+Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
+\end{gathered}$$
+                - 满量程值 R
+                - 量程漂移 S_d
+            - 二氧化氮转换效率
+                - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
+                    - 标准气体的 3次测量平均值
+                - parallelism - 相同环境条件下，相对标准偏差
+                    - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
+                    - 测量第j种标准气体的平均值
+    - 数据采集与处理单元
+    - 气体分析、液体分析 - 气体分析取样 - 样品采集与传输装置
+        - 采样泵
+            - 克服烟道负压
+        - 采样探头
+        - 伴热管线
+        - 预处理系统
+            - 冷凝器 除湿
+            - 样品过滤
+        - 颗粒物过滤器
+- wave spectrum
+    - ^^energy-wavelength-wavenumber corresponding^^
+        - ![](local-asset://Minimum-Workflow/rA2aPmLBF6.png)
+    - [[wavenumber]] $$\sigma=10000 / \lambda \cdot \mathrm{cm}^{-1}$$
+    - 波谱范围相对应的原子或分子的运动形式
+        - 分子的量子化能级
+            - 分子运动的能量 
+                - 原子外层电子的跃迁-电子能级跃迁：1~20eV
+                - 分子内原子间的振动能 0.025~1 eV
+                    - 分子振动理论 
+                        - $$v=\frac{1}{2 \pi c} \sqrt{\frac{k}{\mu}}$$ where $$\mu=\frac{m_{1} \cdot m_{2}}{m_{1}+m_{2}}$$
+                        - 弹簧-化学键 -- 化学键力常数 k 
+                        - 相对原子质量 M
+                - 整个分子的转动能级 
+                - 如果分子的能级[由基态跃迁至激发态]，产生[吸收光谱]; 反之产生发射光谱。 
+                    - 带状光谱
+            - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range - 380~780 nm - 原子外层电子的跃迁-电子能级跃迁：1~20eV
+            - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
+                - 近红外区光谱：0.78-2.5 μm; 4000~12820 cm-1 - 氢离子的振动 -- 泛频区 - O-H、N-H及C-H键的倍频吸收
+                - 中红外区光谱：2.5-25/40 μm; 400~4000 cm-1 - 分子内原子间的振动能 0.025~1 eV  -- 分子振动转动光谱
+                - 远红外区光谱：25/40-300/1000 μm; 5~400 cm-1 - 整个分子的转动能级  - 晶格振动
+                - 分子中某个基团的振动频率-产生共振-光的能量通过[[偶极矩]]的变化传递给分子-红外光的能量与分子震荡的能量相当。
+- interaction between light and matter; interaction between matter and electromagnetic radiation
+    - coupling interaction between the radiation and matter;
+        - [[偶极矩]]变化 u=qd
+        - 异核分子，原子[电负性]不同，正负电荷不对称
+            - 在其平衡位置振动时
+        - 对称分子，其正负电荷中心重合 - 如 H2、O2、N2，无红外活性。
+- [[spectroscopy]]; 在线光谱分析 
+    - [[infrared spectroscopy]]: 红外分析仪
+        - [[Fourier-transform infrared spectroscopy (FTIR)]]
+- 在线气相色谱仪-色谱分析系统
+    - 混合物分离分析技术
+    - [载气]将[样品]带入[色谱柱]，利用各组分在色谱柱中的[保留能力]不同进行分离，
+        - 分离后各组分进入检测器，检测器将[离子信号][转换为电信号]，
+        - 获得色谱图，最终由[色谱峰]的保留时间、峰高和峰面积来进行定性、定量分析。
+    - 采样系统、气路系统、分离系统、检测系统和数据处理系统所组成。
+    - 色谱柱
+        - 填充柱
+        - 毛细管柱
+    - 检测器
+        - 质量型
+            - FID (氢火焰离子化检测器)
+            - 火焰光度检测器 (Flame Photometric Detector)
+                - [氢焰部分]包括火焰喷嘴、遮光罩、点火器等。
+                - [光度部分]包括石英片、滤光片和光电倍增管。
+        - 浓度型
+            - 载气流速变化，峰面积变化，峰高不变
+    - HPGC-1000 型在线气相色谱仪
+        - 可用于检测[环境空气]、[固定污染源]等[废气]中甲烷/总烃/非甲烷总烃、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
+        - 气路箱-管线的安装
+        - 电气箱
+            - 母板
+            - 电源板
+            - 阀控制板
+            - 主控板：核心逻辑控制
+            - 前放板：微电流前置放大
+        - 阀控箱
+            - 电磁阀
+        - 柱温箱
+            - 
+        - 流程设计
+            - HPGC-1000D 采用[三路载气]，[双检测器]实现处理装置前后总烃，非甲烷的检测。
+        - 典型色谱图
+            - 

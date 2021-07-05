@@ -4,6 +4,7 @@
     - shift to higher frequencies; higher frequencies
 - infinite spectrum
 - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
+    - [[far-infrared range]];
     - Near-Infrared (NIR); near-infrared light
     - infrared-passing filter
 - ultraviolet; ultraviolet radiation
