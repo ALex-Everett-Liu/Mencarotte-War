@@ -1,0 +1,6 @@
+- 建议
+    - 5 部分表格需考虑[零点标气值]的记录，部分表格[需复制几份]，用于 SO2、CO、NOx、HCl 测试
+- 量程范围
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FJxf9M_fY2N.png?alt=media&token=bcb3f5f2-f486-4759-b55a-aa87d83eda26)
+- 外观检查记录
+    - [样气加热][传输管线][技术要求]

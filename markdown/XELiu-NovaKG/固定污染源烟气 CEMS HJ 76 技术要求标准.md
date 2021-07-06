@@ -1,0 +1,92 @@
+- 实验室检测
+    - 气体污染物监测单元
+        - 响应时间 [[response time]]
+            - 上升时间和下降时间; 小于120s
+            - 仪表响应时间 - 示值产生一个阶跃增加的时刻开始算起，达到[[标准气体标称值]] 90% or 10% 的时刻为止。
+                - system response time = 仪表响应时间 + 管线传输时间
+                    - 自[系统采样探头](((wUgCv_o35)))[通入标准气体](((hfvsLbZiq)))的时刻起
+        - 零点漂移和量程漂移
+            - [[span drift]] - [[span calibration gas]]
+            - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
+            - 24h
+                - 24h 零点漂移 $$\begin{gathered}
+\Delta Z_{n}=Z_{n}-Z_{0} \\
+Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
+\end{gathered}$$
+            - 一周
+        - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])
+            - NO2转换为NO; 大于95%
+            - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
+        - [重复性]([[repeatability]])
+            - 测量结果的[相对标准偏差]([[relative standard deviation (RSD)]]); 小于2%
+            - $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
+                - Ci - [量程校准气体]([[span calibration gas]])第i次测量值 $$\mathrm{ppm}\left(\mathrm{mg} / \mathrm{m}^{3}\right)$$ -- [读数稳定后][记录显示值] -- i=1~n
+                - 测量次数 n≥6
+        - 平行性 parallelism
+            - 相同环境条件下，三套仪器测量同一样品, [[relative standard deviation (RSD)]]
+            - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
+        - 线性误差
+            - 不超过2%满量程
+            - $$L_{e i}=\frac{\left(\overline{C_{d i}}-C_{s i}\right)}{R} \times 100 \%$$
+                - 标准气体序号 i=1~4
+                - [[full scale]] R -- ppm (mg/m3)
+        - 环境温度变化的影响
+        - 进样流量变化的影响
+            - $$V=\frac{P-T}{R} \times 100 \%$$
+        - 供电电压变化的影响
+        - 干扰成分气体的影响
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FcWWcSy7lOj.png?alt=media&token=38a25fba-e088-4467-bd38-c120925b0b14)
+        - 振动的影响
+    - 颗粒物监测单元
+        - [重复性]([[repeatability]])
+            - 零点校准部件 调零
+            - 量程校准部件 -- $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
+        - 零点漂移和量程漂移
+        - 环境温度变化的影响
+        - 供电电压变化的影响
+        - 振动的影响
+        - 检出限
+            - 产生一个能可靠地被检出的分析信号 所需要的某元素的最小含量
+            - 计算所取得信号的标准偏差；待测分析仪器的检出限为其3倍
+- 污染物排放现场检测
+    - 气体污染物
+        - 示值误差
+            - NOx满量程值大于200μmol/mol时，不超过5%[[标准气体标称值]]
+            - NOx满量程值小于200μmol/mol时，不超过5%满量程
+        - 响应时间
+        - 24h 零点漂移和量程漂移
+        - 准确度 [[accuracy]]
+            - [[reference method]]: 参比方法; 校准气态污染物浓度
+            - 采用 reference method 与 CEMS 去[同步测量]
+                - 与[参比方法][测量结果][平均值]之间的误差
+            - [[relative accuracy]]: 相对准确度
+                - [[correlation calibration]]
+                    - 校准[颗粒物浓度] CEMS
+                - [[velocity field coefficient]]
+    - 颗粒物
+        - 24h 零点漂移和量程漂移
+        - 线性相关校准曲线
+        - 准确度
+    - 烟气流速
+        - 速度场系数的精密度
+        - 准确度
+    - 烟气温度
+        - 准确度
+    - 烟气湿度
+        - 准确度
+- ---
+- 3 术语和定义
+    - [[parts per million (ppm)]] (百万分之一体积浓度)
+    - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
+        - 露点温度≤4℃时 经预处理后 
+        - [[standard state]] - 273K, 101.3kPa
+- 5 技术要求
+    - 数据采集和传输设备要求
+        - 记录零点以下和量程以上10%的数据值
+- ---
+- 6 性能指标
+- 7 检测方法
+    - 标准物质要求
+        - [[zero gas]]: [一般为][高纯氮气], CO2 不超过 400 μmol/mol
+        - [[标准气体]]
+            - [量程校准气体]([[span calibration gas]]): 浓度在大于80%满量程范围内

@@ -10,7 +10,7 @@
     - [[Volatile Organic Compounds (VOCs)]] 治理 
         - Volatile Organic Compounds Monitored with CEMS Systems 
     - flue gas from stationary sources - SO2, NOx, 颗粒物
-        - [[固定污染源烟气 CEMS HJ 76 技术要求]]
+        - [[固定污染源烟气 CEMS HJ 76 技术要求标准]]
     - 监测单元
         - 颗粒物监测
             - 校准检测实例 p45

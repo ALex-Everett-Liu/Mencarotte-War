@@ -1,8 +1,8 @@
 - calibration and maintenance system
-- 标准气体; 通入标准气体;
+- [[标准气体]]; 通入标准气体;
+    - [[span calibration gas]]: 量程校准气体
     - [[zero gas]]
     - [[标准气体标称值]]
-    - [[span calibration gas]]: 量程校准气体
 - 采样探头
 - ---
 - Continuous emission monitoring systems (CEMS) are used as a tool to monitor the [effluent gas streams] resulting from [[combustion]] in [[industrial process]]es. CEMS can measure [[flue gas]] for [[oxygen]], [[carbon monoxide]] and [[carbon dioxide]] to [provide information for] [[combustion control]] in [[industrial settings]].[1] [2]They are also used as a means to comply with [[air emission standard]]s such as the United States Environmental Protection Agency's (EPA) Acid Rain Program,[3] other US federal emission programs, or state permitted emission standards. 

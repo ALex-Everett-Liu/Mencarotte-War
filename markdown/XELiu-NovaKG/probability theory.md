@@ -4,8 +4,14 @@
     - the spread of the bell curve: 钟形曲线的延展宽度;
 - [[chance]]
 - coin flip; flipping a coin, heads and tails;
+- [[frequency distribution]]
 - [[gambling]]
+- [[mean]]
+    - the mean of the population; 
 - [[probability amplitude]]
+- [[probability distribution]]
 - [[randomness]]
 - spread
     - quantum spread
+- [[standard deviation (SD)]]
+    - [[coefficient of variation (CV)]]; [[relative standard deviation (RSD)]]
