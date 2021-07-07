@@ -1,0 +1,7 @@
+- ## EXCEL教程 • 引用单元格时，$A$1和A1有什么区别？
+    - 相对引用：在拖动光标进行复制时，被引用单元格在行和列都可变化；
+    - 绝对引用：在拖动光标进行复制时，被引用单元格[不发生任何变化]； -- 全锁定（$A$1）：横竖拖动公式，[都不会变化](https://zhidao.baidu.com/question/174912507.html)，一直都引用“A1”数值；
+    - 混合引用：在拖动光标进行复制时，[被引用单元格][只在行或列中][发生变化](https://zhuanlan.zhihu.com/p/38279572)；
+        - 锁定列（$A1)：公式横向拖动时引用不变，但竖向拖动时，一次变为$A2、$A3……；
+        - 锁定行（A$1)：公式竖向拖动时引用不变，但横向拖动时，一次变为B$1、C$1……。
+    - An [[absolute reference]] [in Excel](https://www.ablebits.com/office-addins-blog/2015/11/25/relative-absolute-reference-excel/) is a [[cell address]] with the [[dollar sign]] ($) in the row or column coordinates, like $A$1. The dollar sign fixes the reference to a given cell, so that it remains unchanged no matter where the formula moves.
