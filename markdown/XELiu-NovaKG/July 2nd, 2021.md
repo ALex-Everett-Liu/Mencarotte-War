@@ -3,7 +3,7 @@
 - [[Continuous Emissions Monitoring Systems (CEMS)]]
     - parameters? - 3 术语和定义
         - 排放浓度 排放量
-        - [[full scale]]; [[span]]; 满量程值 R
+        - [[full scale]]; [[span]]; 满量程值 R -- 最大测量值
         - maintenance interval: 维护周期
         - [[nitrogen dioxide conversion efficiency]]
         - 平行性 parallelism

@@ -31,7 +31,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                 - 标准气体序号 i=1~4
                 - [[full scale]] R -- ppm (mg/m3)
         - 环境温度变化的影响
-        - 进样流量变化的影响
+        - [[进样流量]]变化的影响
             - $$V=\frac{P-T}{R} \times 100 \%$$
         - 供电电压变化的影响
         - 干扰成分气体的影响
@@ -79,12 +79,17 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
     - [[parts per million (ppm)]] (百万分之一体积浓度)
     - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
         - 露点温度≤4℃时 经预处理后 
-        - [[standard state]] - 273K, 101.3kPa
+        - [[standard state]] - 273K, 101.3kPa (0.101MPa)
 - 5 技术要求
+    - 5.2 CEMS 工作条件
+        - 大气压 106 kPa
+        - 供电电压
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV2XzxPA6B4.png?alt=media&token=b003b36d-53e4-4668-95ec-d8ff436159c8)
     - 数据采集和传输设备要求
         - 记录零点以下和量程以上10%的数据值
 - ---
-- 6 性能指标
+- 6 性能指标 p10
+    - 固定污染源烟气 CEMS HJ 76 技术要求.xlsx
 - 7 检测方法
     - 标准物质要求
         - [[zero gas]]: [一般为][高纯氮气], CO2 不超过 400 μmol/mol
