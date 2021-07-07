@@ -1,4 +1,4 @@
-- 实验室检测
+- 7.1 实验室检测 p13
     - 气体污染物监测单元
         - 响应时间 [[response time]]
             - 上升时间和下降时间; 小于120s
@@ -8,7 +8,7 @@
         - 零点漂移和量程漂移
             - [[span drift]] - [[span calibration gas]]
             - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
-            - 24h
+            - 24h -- 7.1.3.1.4 p15
                 - 24h 零点漂移 $$\begin{gathered}
 \Delta Z_{n}=Z_{n}-Z_{0} \\
 Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
@@ -25,7 +25,8 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 平行性 parallelism
             - 相同环境条件下，三套仪器测量同一样品, [[relative standard deviation (RSD)]]
             - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
-        - 线性误差
+        - [线性误差]([[linear deviation]])
+            - 零点校准和满量程校准
             - 不超过2%满量程
             - $$L_{e i}=\frac{\left(\overline{C_{d i}}-C_{s i}\right)}{R} \times 100 \%$$
                 - 标准气体序号 i=1~4
@@ -48,7 +49,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 检出限
             - 产生一个能可靠地被检出的分析信号 所需要的某元素的最小含量
             - 计算所取得信号的标准偏差；待测分析仪器的检出限为其3倍
-- 污染物排放现场检测
+- 污染物排放现场检测 p19
     - 气体污染物
         - 示值误差
             - NOx满量程值大于200μmol/mol时，不超过5%[[标准气体标称值]]
@@ -95,3 +96,4 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - [[zero gas]]: [一般为][高纯氮气], CO2 不超过 400 μmol/mol
         - [[标准气体]]
             - [量程校准气体]([[span calibration gas]]): 浓度在大于80%满量程范围内
+- 9 检测项目 p31
