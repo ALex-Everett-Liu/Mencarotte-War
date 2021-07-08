@@ -17,3 +17,19 @@
 - Spectral range
     - Far-infrared
         - The first FTIR spectrometers were developed for [[far-infrared range]]. The reason for this has to do with the [[mechanical tolerance]] needed for good [[optical performance]], which is related to [the wavelength of the light being used]. For the relatively long wavelengths of the far infrared, ~10 μm tolerances are adequate, whereas for the rock-salt region tolerances have to be better than 1 μm. A typical instrument was the cube interferometer developed at the NPL[9] and marketed by Grubb Parsons. It used a [[stepper motor]] to [drive the moving mirror], [recording the detector response] [after each step was completed].
+- ---
+- # ABB MBGAS3000 FT-IR
+    - 组成结构
+        - [[gas cell box]] 测量池腔体
+            - [加热带]-[[heater]] 200W 120V
+        - [[interferometer box]] 
+            - 光谱分辨率-谱带分开--4cm-1
+                - ![FTIR-resolution-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv_SS5ctNj9.png?alt=media&token=9cfcf724-1db0-4c35-abcc-4a015d0c8937)
+        - 光路图 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p23
+        - [[electronic box]] 电气箱
+            - 数控板
+            - 电源模块
+        - 吹扫气接口
+        - CO2 含量: ＜ 400 ppm
+        - 最大[[露点温度]] -20℃
+    - MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf
