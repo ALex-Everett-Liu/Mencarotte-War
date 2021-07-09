@@ -10,6 +10,8 @@
         - superposable
     - [[periodic table of elements]]
 - [[computational chemistry]]; computer chemistry
+- [[molecular mass]]
 - [[noble gas]]
 - [[physical chemistry]]
 - [[quantum chemistry]]
+- [[sample]]

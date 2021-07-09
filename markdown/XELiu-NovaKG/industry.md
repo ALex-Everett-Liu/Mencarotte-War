@@ -1,5 +1,7 @@
 - [[assembly line]]: 装配线, 流水作业线;
 - [[harsh environment]]
+- [[industrial process]]
+- [[industrial settings]]
 - [[light industry]]
     - [[cottage industry]]
         - craft industry

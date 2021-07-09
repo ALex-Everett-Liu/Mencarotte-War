@@ -1,11 +1,84 @@
 - calibration and maintenance system
-- [[标准气体]]; 通入标准气体;
+- [[calibration gas]]; [[calibration gas system]]
+    - [[span calibration gas]]: 量程校准气体
+- [[standard gas]]; 通入标准气体;
     - [[span calibration gas]]: 量程校准气体
     - [[zero gas]]
-    - [[标准气体标称值]]
+    - [[标称值]]
 - 采样探头
 - ---
 - Continuous emission monitoring systems (CEMS) are used as a tool to monitor the [effluent gas streams] resulting from [[combustion]] in [[industrial process]]es. CEMS can measure [[flue gas]] for [[oxygen]], [[carbon monoxide]] and [[carbon dioxide]] to [provide information for] [[combustion control]] in [[industrial settings]].[1] [2]They are also used as a means to comply with [[air emission standard]]s such as the United States Environmental Protection Agency's (EPA) Acid Rain Program,[3] other US federal emission programs, or state permitted emission standards. 
-    - CEMS typically consist of [[analyzer]]s to measure [[gas concentration]]s within the stream, equipment to direct a sample of that [[gas stream]] to the analyzers if they are remote, equipment to [condition the sample gas by] removing water and other components that could interfere with the reading, [pneumatic plumbing with valves] 带阀门的气动管道 that can be controlled by a [[programmable logic controller (PLC)]] to [route the sample gas to and away from] the analyzers, a [calibration and maintenance system](((FSMdqAh5X))) that allows for the injection of [[calibration gas]]es into the [[sample line]], and a [[Data Acquisition and Handling System (DAHS)]] that collects and stores each [[data point]] and can [perform necessary calculations required to] get [[total mass emission]]s. A CEMS operates at all times even if the process it measures is not on. They can continuously collect, record and report [[emissions data]] for process monitoring and/or for compliance purposes.
-    - The standard CEM system consists of a sample probe, filter, sample line (umbilical), gas conditioning system, calibration gas system, and a series of gas analyzers which reflect the parameters being monitored. Typical monitored emissions include: sulfur dioxide, nitrogen oxides, carbon monoxide, carbon dioxide, hydrogen chloride, airborne particulate matter, mercury, volatile organic compounds, and oxygen. CEM systems can also measure air flow, flue gas opacity and moisture. A monitoring system that measures particulate matter is referred to as a PEMS.
+    - CEMS typically consist of [[analyzer]]s to measure [[gas concentration]]s within the stream, equipment to direct a sample of that [[gas stream]] to the analyzers [if they are remote], equipment to [condition the sample gas by](((bbZEcva84))) [removing water and other components] that could [interfere with the reading](((7oe5A25j1))), 其他可能干扰读数的成分 [pneumatic plumbing with valves] 带阀门的气动管道 that can be controlled by a [[programmable logic controller (PLC)]] to [route the sample gas to and away from]([[sample gas]]) the analyzers, a [calibration and maintenance system](((FSMdqAh5X))) that allows for the injection of [[calibration gas]]es into the [[sample line]], and a [[Data Acquisition and Handling System (DAHS)]] that collects and stores each [[data point]] and can [perform necessary calculations required to] get [[total mass emission]]s. A CEMS operates at all times even if the process it measures is not on. They can continuously collect, record and report [[emissions data]] for process monitoring and/or for compliance purposes.
+210709-17:28
+    - The standard CEM system consists of a [[sample probe]], [[filter]], [[sample line]] (umbilical), 近脐带 [[gas conditioning system]], [[calibration gas system]], and a series of [[gas analyzer]]s which [reflect the parameters being monitored]. Typical monitored emissions include: sulfur dioxide, nitrogen oxides, carbon monoxide, carbon dioxide, hydrogen chloride, airborne particulate matter, mercury, volatile organic compounds, and oxygen. CEM systems can also measure air flow, flue gas opacity and moisture. A monitoring system that measures particulate matter is referred to as a PEMS.
     - In the U.S., the EPA requires a data acquisition and handling system to collect and report the data. Measurements of concentration can be converted to mass/hour by including flow rate measurements. The types of gases being measured and the calculations required are dependent upon the source type and each source type has its own subpart under 40 CFR part 60 and part 75.[4] SO2 emissions are measured in pounds per hour using both an SO2 pollutant concentration monitor and a volumetric flow monitor. For NOx, both a NOx pollutant concentration monitor and a diluent gas monitor are used to determine the emissions rate in weight per volume or weight per heat value (for example lbs/million Btu, lbs/ft3, kg/kWh or kg/m3). Opacity measurements are sometimes required, depending on the source type. CO2 measuring is sometimes a requirement, however if monitored, a CO2 or oxygen monitor plus a flow monitor should be used. The DAHS must be able to collect, record and store data, usually at 1-minute intervals. For compliance purposes, a DAHS must be in continuous operation 24/7/365 even when no process is on. For a valid measurement, the DAHS must record at least one reading every 15 minutes for 3 out of 4 quarters. The readings are then averaged hourly.[5]
+- ---
+- parameters? - 3 术语和定义
+    - 排放浓度 排放量
+    - [[full scale]]; [[span]]; 满量程值 R -- 最大测量值
+    - maintenance interval: 维护周期
+    - [[nitrogen dioxide conversion efficiency]]
+    - 平行性 parallelism
+- [[Volatile Organic Compounds (VOCs)]] 治理 
+    - Volatile Organic Compounds Monitored with CEMS Systems 
+- 监测单元
+    - [烟气参数][测量监测] - 烟气分析 - [[flue gas]]; flue gas from stationary sources - SO2, NOx, 颗粒物
+        - 温度、压力、流速 - 变送器 测量仪 - 校准装置
+        - 湿度、含氧量
+            - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
+        - 烟气流速 连续测量
+            - 速度场系数 $$K_{V}=\frac{F_{s}}{F_{p}} \times \frac{\overline{V_{s}}}{\overline{V_{p}}}$$
+                - [参比方法][测量断面]的[横截面积]
+            - 精密度 $$C_{v}=\frac{S}{\overline{\overline{K_{v}}}} \times 100 \%$$
+                - 日均值的标准偏差 $$S=\sqrt{\frac{\sum_{i=1}^{n}\left(\overline{K_{v i}}-\overline{\overline{K_{v}}}\right)^{2}}{n-1}}$$ (m/s)
+    - 颗粒物监测
+        - 校准检测实例 p45
+            - 线性相关曲线 置信区间 允许区间
+    - 气体污染物监测
+        - 完全抽取法-稀释抽取法
+        - 仪表响应时间
+        - 重复性 相对标准偏差 $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
+            - 量程校准气体第i次测量值 $$\mathrm{ppm}\left(\mathrm{mg} / \mathrm{m}^{3}\right)$$
+        - 24h 零点漂移 $$\begin{gathered}
+\Delta Z_{n}=Z_{n}-Z_{0} \\
+Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
+\end{gathered}$$
+            - 满量程值 R
+            - 量程漂移 S_d
+        - 二氧化氮转换效率
+            - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
+                - 标准气体的 3次测量平均值
+            - 平行性 parallelism
+                - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
+                - 测量第j种标准气体的平均值
+- 数据采集与处理单元
+    - 数据处理的计算方法
+        - 污染物浓度转换公式 $$C_{s n}=C_{s} \times \frac{101325}{B_{a}+P_{s}} \times \frac{273+t_{s}}{273}$$
+            - 标准状态下质量浓度 (标况浓度) - 实测状态下 工况浓度
+            - 环境大气压值-烟气静压值-烟气温度
+        - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ -- mg/m3 g/mol μmol/mol -- ( HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
+            - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
+        - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$
+- 气体分析、液体分析 - 气体分析取样 - 样品采集与传输装置
+    - 采样泵
+        - 克服烟道负压
+        - 采样探头
+    - 伴热管线
+    - [[预处理]]系统
+        - [冷凝器]([[condenser]]) 除湿
+        - 样品过滤
+    - 颗粒物过滤器
+- 质量保证
+    - 固定污染源的总排气管-多个烟道或管道
+    - 采样平台 爬梯
+    - 准确度达不到要求 调节后的数据 $$CEMS_{a d}=CEMS \times E_{a c}$$ 
+        - 偏差调节系数 $$E_{a c}=1+\frac{\bar{d}}{\overline{C E M S}}$$ 
+            - CEMS 与[参比方法][测量各数据][对差]的[平均值]
+    - 到达污染物检测器的滞后时间 $$t=V / Q_{s l}$$
+        - 导气管内的体积和流速
+- HJ 76
+    - [[固定污染源烟气 CEMS HJ 76 技术要求标准]]
+    - HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf
+    - 检测项目和相关记录表格 ( HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf p31 )
+        - [[CEMS 测试记录表]]
+    - [[flue gas]]; flue gas from stationary sources - SO2, NOx, 颗粒物

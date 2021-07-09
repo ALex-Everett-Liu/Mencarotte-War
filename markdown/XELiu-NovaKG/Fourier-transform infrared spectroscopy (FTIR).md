@@ -53,10 +53,10 @@
     - 透射率光谱 $$T(\nu)=S(\nu) / R(\nu)$$
         - [[transmittance]] $$T=\frac{I_{\mathrm{t}}}{I_{0}}$$
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FlzGVLQCf9g.png?alt=media&token=4d6ed711-1812-476c-ad3e-1917639aa4ba)
-    - 吸光度光谱 [[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$
+    - [[吸光度]]光谱 [[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$
         - [[Beer–Lambert law]]
         - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm)) -- absorbance is positive to [[concentration]]
-        - 消光系数 $$\varepsilon$$
+        - [[消光系数]] $$\varepsilon$$
         - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
 - 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
     - 吸收谱及[定量分析]--峰面积-浓度关系
