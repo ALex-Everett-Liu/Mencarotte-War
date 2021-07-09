@@ -79,7 +79,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
 - 3 术语和定义
     - [[parts per million (ppm)]] (百万分之一体积浓度)
     - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
-        - 露点温度≤4℃时 经预处理后 
+        - [[露点温度]]≤4℃时 经[[预处理]]后 
         - [[standard state]] - 273K, 101.3kPa (0.101MPa)
 - 5 技术要求
     - 5.2 CEMS 工作条件

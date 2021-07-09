@@ -12,7 +12,7 @@
 - [[exit code]]
 - [[feedback]]
 - [[file not found]]
-- [[log]]
+- [[log]]; [[log message]]
 - [[sanitization]]
 - [[traceback]]
 - [[troubleshoot]]; [[troubleshooting]]

@@ -1,3 +1,7 @@
+- broadband light source
+- [[gas cell box]]; [[gas cell module]]
+- source module -- MIR source -- __I-nu plot__
+- ---
 - Fourier-transform infrared spectroscopy (FTIR)[1] is [a technique used to] obtain an [[infrared spectrum]] of [absorption or emission of a solid], liquid or gas. An FTIR spectrometer simultaneously collects [high-resolution spectral data] [over a wide spectral range]. This confers a significant advantage over a [[dispersive spectrometer]], which measures intensity over a narrow range of wavelengths at a time.
 210705-02:58
     - The term Fourier-transform infrared spectroscopy [originates from the fact that] a [[Fourier transforms (FTs)]] (a mathematical process) is required to convert the [[raw data]] into the [actual spectrum].
@@ -17,6 +21,67 @@
 - Spectral range
     - Far-infrared
         - The first FTIR spectrometers were developed for [[far-infrared range]]. The reason for this has to do with the [[mechanical tolerance]] needed for good [[optical performance]], which is related to [the wavelength of the light being used]. For the relatively long wavelengths of the far infrared, ~10 μm tolerances are adequate, whereas for the rock-salt region tolerances have to be better than 1 μm. A typical instrument was the cube interferometer developed at the NPL[9] and marketed by Grubb Parsons. It used a [[stepper motor]] to [drive the moving mirror], [recording the detector response] [after each step was completed].
+- ---
+- 探测接收系统
+    - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-A/D D/A
+        - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
+            - 温差电现象
+- 调制单元
+    - source module -- MIR source -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
+    - 切光片-切光马达 ([[stepper motor]])
+        - 通过切光片[对光切割]，把[测量信号][调制成交流信号]。
+- [[circular field stop]] - 气体池 - [[gas cell module]] (long path) 气室 -- [[optical relay block]] 继电器 
+- [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
+    - ![Michelson-interferometer-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsV8bkGeL-n.png?alt=media&token=813ed342-55ad-4a2a-8584-a5860aa0aa38)
+    - 定镜M1 动镜M2
+    - [从两面镜上反射回来的光束][在分束器上会合]([[分束器]])， 两束光的[[光程差]]为 2Δx （记为δ ） 。这两束光[产生干涉]。
+- 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
+    - 分束器- KBr (易潮解，需要有[防潮措施])
+    - sample
+        - 中红外透射分析时对样品的要求:
+            - 不含游离态的水
+            - [不能测量]氧气、氢气、氮气等[由相同原子构成的][气体分子]。
+        - 气体池 - [[gas cell module]] (long path) 气室
+        - 固定液池
+- [[interferogram]]: 干涉图 -- amplitude-position plot
+- 光谱图
+    - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图][光强信号][输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
+- FTIR 光谱获取流程 step
+    - 采集[单通道][背景光谱] R(ν)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
+    - 采集[单通道][样品光谱] S(ν) -- 在[样品有吸收]的[波数]下[强度降低]。
+    - 透射率光谱 $$T(\nu)=S(\nu) / R(\nu)$$
+        - [[transmittance]] $$T=\frac{I_{\mathrm{t}}}{I_{0}}$$
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FlzGVLQCf9g.png?alt=media&token=4d6ed711-1812-476c-ad3e-1917639aa4ba)
+    - 吸光度光谱 [[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$
+        - [[Beer–Lambert law]]
+        - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm)) -- absorbance is positive to [[concentration]]
+        - 消光系数 $$\varepsilon$$
+        - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
+- 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
+    - 吸收谱及[定量分析]--峰面积-浓度关系
+    - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 特征性 吸收峰 -- 红外活性
+    - 峰强度：定量 -- 依照[特征吸收峰的强度]来测定混合物中[各组分的含量]。
+- 光谱范围及对应的气体吸收峰
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_zjQaOoEZa.png?alt=media&token=c2002790-321b-428a-932e-d1492ee4a6f9)
+- [使用与维护][注意事项]
+    - [相对湿度]应在65%以下，[高湿度时][需要除湿]。
+        - 每周开机至少两次:  防止受潮
+    - CO2 含量不能太高：密封、干燥 N2 吹扫
+    - [镜面]不可以用[纸巾或湿布][擦拭]
+- 采集[待测样品谱图][制作定量方法]
+    - 例：乙二醇 CH3ONO
+    - CO2校准方程及相关图表
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqLBpq3E04W.png?alt=media&token=1db5e67c-40b2-4253-b807-05f2c88f0ffe)
+- FTE Test Client
+    - 修改电脑[IP地址]（10.0.0.2, 最后一位2-255皆可以，[主机IP地址]10.0.0.1 ）
+    - Analyzer Health 
+    - 参考背景校正 (reference calibration)
+        - [[gas cell box]] 通入氮气，流速 5000 ml/min, [吹扫气](((GwtsEivzE))) 4 L/min
+        - [[initial reference]]
+        - start characterization acquisition
+    - [[log message]]
+- AO2000-URAS26培训教程.pdf
 - ---
 - # ABB MBGAS3000 FT-IR
     - 组成结构
