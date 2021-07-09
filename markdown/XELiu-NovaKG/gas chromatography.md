@@ -1,0 +1,42 @@
+- Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds] that [can be vaporized without decomposition]. Typical uses of GC include [testing the purity of a particular substance], or separating the different components of a [[mixture]].[1] In [[preparative chromatography]], GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
+    - Gas chromatography is also sometimes known as vapor-phase chromatography (VPC), or gas–liquid partition chromatography (GLPC). These alternative names, as well as their respective abbreviations, are frequently used in scientific literature.[2]
+    - Gas chromatography is the process of separating compounds in a mixture by injecting a gaseous or liquid sample into a mobile phase, typically called the carrier gas, and passing the gas through a stationary phase. The mobile phase is usually an inert gas or an unreactive gas such as helium, argon, nitrogen or hydrogen.[1] The stationary phase is a microscopic layer of viscous liquid on a surface of solid particles on an inert solid support inside a piece of glass or metal tubing called a column.[4] The surface of the solid particles may also act as the stationary phase in some columns.[4] The glass or metal column through which the gas phase passes is located in an oven where the temperature of the gas can be controlled and the eluent coming off the column is monitored by a computerized detector.[1]
+- ---
+- 在线气相色谱仪-色谱分析系统
+    - 混合物分离分析技术
+    - 可用于检测[环境空气]、[固定污染源]等[废气]中甲烷/总烃/非甲烷总烃、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
+    - [载气]将[样品]带入[色谱柱]，利用各组分在色谱柱中的[保留能力]不同进行分离，
+        - 分离后各组分进入检测器，检测器将[离子信号][转换为电信号]，
+        - 获得色谱图，最终由[色谱峰]的保留时间、峰高和峰面积来进行定性、定量分析。
+    - 采样系统、气路系统、分离系统、检测系统和数据处理系统所组成。
+    - 色谱柱
+        - 填充柱
+        - 毛细管柱
+    - 检测器
+        - 质量型
+            - FID (氢火焰离子化检测器)
+                - 以氢气为[[燃气]][在空气中燃烧]，载气（N2）[携带被分析组分]和可燃气（H2）从[喷嘴]进入[检测器]([[detector]])，助燃气（空气）[从四周导入]，
+                    - [被测组分][在火焰中][被解离成正负离子]，在[[极化电压]][形成的电场中]，正负离子向各自相反的电极移动，形成的[离子流]被[收集极]收集，经[[放大器]][放大输出][可测量的电信号]。
+            - 火焰光度检测器 (Flame Photometric Detector)
+                - [氢焰部分]包括火焰喷嘴、遮光罩、点火器等。
+                - [光度部分]包括石英片、滤光片和光电倍增管。
+        - 浓度型
+            - 载气流速变化，峰面积变化，峰高不变
+    - HPGC-1000 型在线气相色谱仪
+- # HPGC-1000 型在线气相色谱仪
+    - ![HPGC-1000-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9z6LkX6_y6.png?alt=media&token=9ed0eedf-4cea-457d-a15b-876b364b6f0c)
+    - 气路箱-管线的安装
+    - 电气箱
+        - 母板
+        - 电源板
+        - 阀控制板
+        - 主控板：核心逻辑控制
+        - 前放板：微电流前置放大
+    - 阀控箱
+        - 电磁阀
+    - 柱温箱
+        - 
+    - 流程设计
+        - HPGC-1000D 采用[三路载气]，[双检测器]实现处理装置前后总烃，非甲烷的检测。
+    - 典型色谱图
+        - 
