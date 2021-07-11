@@ -3,8 +3,9 @@
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
-- interfere with the reading: 干扰读数; 
 - [[precision instrument]]
+- [[reading]]
+    - interfere with the reading: 干扰读数; 
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.
