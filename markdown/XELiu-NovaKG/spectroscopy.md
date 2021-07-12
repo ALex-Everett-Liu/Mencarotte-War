@@ -1,4 +1,4 @@
-- [[absorption spectroscopy]]
+- [[absorption spectroscopy]]; [[absorption spectrum]]
 - [[atomic spectroscopy]]; [[atomic spectra]]
     - [[Neon lighting]]
 - [[Beer–Lambert law]]

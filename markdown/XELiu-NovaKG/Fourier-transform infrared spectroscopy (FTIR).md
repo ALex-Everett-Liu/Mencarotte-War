@@ -1,5 +1,7 @@
 - broadband light source
-- [[gas cell box]]; [[gas cell module]]
+- [[commissioning]]: 试运行
+- [[gas cell]]; [[gas cell box]]; [[gas cell module]]
+- [[purge gas]]: 吹扫气体
 - source module -- MIR source -- __I-nu plot__
 - ---
 - Fourier-transform infrared spectroscopy (FTIR)[1] is [a technique used to] obtain an [[infrared spectrum]] of [absorption or emission of a solid], liquid or gas. An FTIR spectrometer simultaneously collects [high-resolution spectral data] [over a wide spectral range]. This confers a significant advantage over a [[dispersive spectrometer]], which measures intensity over a narrow range of wavelengths at a time.
@@ -23,47 +25,70 @@
         - The first FTIR spectrometers were developed for [[far-infrared range]]. The reason for this has to do with the [[mechanical tolerance]] needed for good [[optical performance]], which is related to [the wavelength of the light being used]. For the relatively long wavelengths of the far infrared, ~10 μm tolerances are adequate, whereas for the rock-salt region tolerances have to be better than 1 μm. A typical instrument was the cube interferometer developed at the NPL[9] and marketed by Grubb Parsons. It used a [[stepper motor]] to [drive the moving mirror], [recording the detector response] [after each step was completed].
 - ---
 - 探测接收系统
-    - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-A/D D/A
+    - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-[[A/D converter]]; [[D/A converter]]
         - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
             - 温差电现象
+    - [[signal processing]] -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p26
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9bPnQHWTkG.png?alt=media&token=1e22d25d-c965-481b-9e41-ef61bae9e49b)
+            - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
 - 调制单元
     - source module -- MIR source -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
+        - monochromatic light source
     - 切光片-切光马达 ([[stepper motor]])
         - 通过切光片[对光切割]，把[测量信号][调制成交流信号]。
 - [[circular field stop]] - 气体池 - [[gas cell module]] (long path) 气室 -- [[optical relay block]] 继电器 
-- [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
-    - ![Michelson-interferometer-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsV8bkGeL-n.png?alt=media&token=813ed342-55ad-4a2a-8584-a5860aa0aa38)
-    - 定镜M1 动镜M2
-    - [从两面镜上反射回来的光束][在分束器上会合]([[分束器]])， 两束光的[[光程差]]为 2Δx （记为δ ） 。这两束光[产生干涉]。
 - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
-    - 分束器- KBr (易潮解，需要有[防潮措施])
-    - sample
+    - [[sample]]
         - 中红外透射分析时对样品的要求:
             - 不含游离态的水
             - [不能测量]氧气、氢气、氮气等[由相同原子构成的][气体分子]。
         - 气体池 - [[gas cell module]] (long path) 气室
         - 固定液池
-- [[interferogram]]: 干涉图 -- amplitude-position plot
+- [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
+    - ![Michelson-interferometer-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsV8bkGeL-n.png?alt=media&token=813ed342-55ad-4a2a-8584-a5860aa0aa38)
+    - [定镜]([[fixed mirror]])M1 [动镜]([[moveable mirror]])M2
+    - [从两面镜上反射回来的光束][在分束器上会合]([[分束器]])， 两束光的[光程差]([[optical path difference]])为 2Δx （记为δ ） 。这两束光[产生干涉]。
+        - interferences as a function of mirror displacement; mirror position x
+        - Results a [[phase difference]] of lambda / 2 !
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F8eueAh3Yzw.png?alt=media&token=eef200c1-0f72-4c6f-a5c7-68dc89f83e3b)
+    - 分束器-可切换镜子
+        - [[beamsplitter]] with [half transparent lay] 半透明层
+        - 分光镜/光束分离器；补偿镜
+        - BS materials
+            - KBr (易潮解，需要有[防潮措施])
+            - 4）采用的 ZnSe 分束器，不吸潮，适合中国环境
+        - 调制频率 分离不同波长的光
+    - [[interferogram]]: 干涉图 -- amplitude-position plot
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FHyCxOFoFup.png?alt=media&token=be9df631-04e3-4547-b409-4dd2a9a7696e)
+        - How we can [scale the base-line] ??? -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p14
+            - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
 - 光谱图
     - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图][光强信号][输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
 - FTIR 光谱获取流程 step
-    - 采集[单通道][背景光谱] R(ν)
+    - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
     - 采集[单通道][样品光谱] S(ν) -- 在[样品有吸收]的[波数]下[强度降低]。
     - 透射率光谱 $$T(\nu)=S(\nu) / R(\nu)$$
         - [[transmittance]] $$T=\frac{I_{\mathrm{t}}}{I_{0}}$$
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FlzGVLQCf9g.png?alt=media&token=4d6ed711-1812-476c-ad3e-1917639aa4ba)
-    - [[吸光度]]光谱 [[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$
+        - raw gas spectrum I_t
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwSVrBW04Ul.png?alt=media&token=7bfe8aa8-92f0-4f29-9a1e-c54ab2d4eecf)
+    - [[吸光度]]光谱--[[absorption spectrum]]--[[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$
         - [[Beer–Lambert law]]
         - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm)) -- absorbance is positive to [[concentration]]
         - [[消光系数]] $$\varepsilon$$
         - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
-- 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
-    - 吸收谱及[定量分析]--峰面积-浓度关系
-    - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 特征性 吸收峰 -- 红外活性
-    - 峰强度：定量 -- 依照[特征吸收峰的强度]来测定混合物中[各组分的含量]。
-- 光谱范围及对应的气体吸收峰
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_zjQaOoEZa.png?alt=media&token=c2002790-321b-428a-932e-d1492ee4a6f9)
+- [[absorption peak]]
+    - 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
+        - 吸收谱及[定量分析]--峰面积-浓度关系
+        - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 特征性 吸收峰 -- 红外活性
+        - 峰强度：定量 -- 依照[特征吸收峰的强度]来测定混合物中[各组分的含量]。
+    - 各测量气体的红外光谱图-光谱范围及对应的气体吸收峰
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_zjQaOoEZa.png?alt=media&token=c2002790-321b-428a-932e-d1492ee4a6f9)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F6doyL7PMoP.png?alt=media&token=459d7e49-4472-460b-b6f6-daf3228a671a)
+        - 典型的[排放尾气]的光谱图
+        - Flue gas spectrum without H2O and CO2 -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p30
+        - CH4 对 HCl 的干扰图 p31
 - [使用与维护][注意事项]
     - [相对湿度]应在65%以下，[高湿度时][需要除湿]。
         - 每周开机至少两次:  防止受潮
@@ -71,25 +96,35 @@
     - [镜面]不可以用[纸巾或湿布][擦拭]
 - 采集[待测样品谱图][制作定量方法]
     - 例：乙二醇 CH3ONO
-    - CO2校准方程及相关图表
+    - CO2 校准方程及相关图表
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqLBpq3E04W.png?alt=media&token=1db5e67c-40b2-4253-b807-05f2c88f0ffe)
 - FTE Test Client
     - 修改电脑[IP地址]（10.0.0.2, 最后一位2-255皆可以，[主机IP地址]10.0.0.1 ）
     - Analyzer Health 
     - 参考背景校正 (reference calibration)
-        - [[gas cell box]] 通入氮气，流速 5000 ml/min, [吹扫气](((GwtsEivzE))) 4 L/min
+        - [[gas cell box]] 通入氮气，流速 5000 ml/min, [吹扫气](((GwtsEivzE))) ([[purge gas]]) 4 L/min
         - [[initial reference]]
         - start characterization acquisition
     - [[log message]]
-- AO2000-URAS26培训教程.pdf
 - ---
 - # ABB MBGAS3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体
+            - 气体池 - [[gas cell module]] (long path) 气室
+            - sample gas cell
             - [加热带]-[[heater]] 200W 120V
+            - 多反射测量池 (multiple reflection) -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p18
         - [[interferometer box]] 
             - 光谱分辨率-谱带分开--4cm-1
                 - ![FTIR-resolution-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv_SS5ctNj9.png?alt=media&token=9cfcf724-1db0-4c35-abcc-4a015d0c8937)
+            - Wishbone interferometer
+                - 二维轴干涉仪技术
+                    - 2）光源永远准直；
+                    - 3）采用[电磁驱动]，没有磨损；
+                    - 4）采用的 ZnSe 分束器，不吸潮，适合中国环境
+                - 偶立方角镜技术
+                    - 不管从[任何角度]都可以确保光[平行反射][发生干涉]。
+                    - 保证了仪器现场的 抗震性和光学稳定性
         - 光路图 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p23
         - [[electronic box]] 电气箱
             - 数控板
@@ -103,4 +138,40 @@
                 -  HCl, HF (> [[acid dew point]])
                 -  NH3 (> formation of aerosoles NH3 SO4 )
             - [TOC ( Total Hydro Carbons )]([[total hydro carbons (TOC)]])
+        - Ease of Integration   p33
+    - Operation Agenda
+        - 04-MBGAS-3000操作.pdf
+        - Cover the basic operational aspects in using the MBGAS-3000 analyzer.
+        - Simple operational steps
+            - The [[analyzer]] will start-up and become available to communicate with [the integrator’s controller]. 综合操作台
+        - Start-up, shut-down and storage
+            - Startup
+                - A minimum of 3 hours is required for the [[gas cell]] to warm up 预热 while full stabilization prior to [[commissioning]] may require a full day to properly stabilize in an [integrated enclosure]. 集成外壳
+                - [[purge gas]] (dry air quality) for purpose of [instrument purge] and [reference gas flow] to gas cell.
+            - Shutdown
+                - [[sample gas]] must never be present in the gas cell unless the [[gas cell]] is hot and dry. 加热后 干燥的状态
+            - Storage
+        - Site requirements
+            - Installation
+                - § The analyzer should not be [subjected to excessive vibration]([[vibration]]). 分析仪不能受到过度的震动。
+                - § Install the [gas conditioning accessories] 气体处理附件 and the [test gas cylinders] 标气瓶 [close to the analyzer].
+                - § [Make provision for] [adequate air circulation] [around the analyzer]. 充分的气体循环。
+            - Installation utilities p9
+            - Installation gas sample lines #[[sample line]]
+                - Ensure there are no [cold spots] in the complete [[sampling system]].
+        - Instrument calibration
+            - Frequency required
+        - Maintenance and Service
+            - Spectrometer components to maintain
+            - IR source / fans & filters
+            - Gas cell components to maintain   p14
+                - Consumables
+            - [[spare part]]s are [clearly defined] and [available from factory]
+            - Health diagnostics
+            - Utilities / tools
+            - ABB Service training
+                - A certification & training program for ABB Service 有资质并认证
     - MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf
+    - 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf
+- # AO2000-URAS26
+    - AO2000-URAS26培训教程.pdf

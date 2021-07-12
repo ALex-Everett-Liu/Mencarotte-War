@@ -1,4 +1,5 @@
 - [[sample gas]]
     - condition the sample gas: 调节样气;
-- [[sample line]]
+- [[sample line]]: 样气管路
 - [[sample probe]]
+- [[sampling system]]: 取样系统

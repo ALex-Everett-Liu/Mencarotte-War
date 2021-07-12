@@ -11,6 +11,7 @@
 - interaction between light and matter; interaction between matter and electromagnetic radiation
     - coupling interaction between the radiation and matter;
     - [[light absorption]]
+        - [[absorption spectroscopy]]; [[absorption spectrum]]
     - [[photoelectric effect]]
     - [[spectroscopy]]
 - [[laser]]; [[laser beam]]; lasing
@@ -49,7 +50,6 @@
 - [[nonlinear optics (NLO)]]
 - [[optical engineering]]
 - [[optical path]]
-    - 相位差
 - [[optical system]]: 光学系统, 光具组;
     - [[optical component]]
         - 

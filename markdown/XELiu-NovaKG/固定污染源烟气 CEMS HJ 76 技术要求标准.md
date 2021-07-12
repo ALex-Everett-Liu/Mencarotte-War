@@ -1,6 +1,6 @@
 - 7.1 实验室检测 p13
     - 气体污染物监测单元
-        - 响应时间 [[response time]]
+        - [响应时间]([[response time]]) 
             - 上升时间和下降时间; 小于120s
             - 仪表响应时间 - 示值产生一个阶跃增加的时刻开始算起，达到标准气体[[标称值]] 90% or 10% 的时刻为止。
                 - system response time = 仪表响应时间 + 管线传输时间
@@ -22,7 +22,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
                 - Ci - [量程校准气体]([[span calibration gas]])第i次测量值 $$\mathrm{ppm}\left(\mathrm{mg} / \mathrm{m}^{3}\right)$$ -- [读数稳定后][记录显示值] -- i=1~n
                 - 测量次数 n≥6
-        - 平行性 parallelism
+        - [平行性]([[parallelism]]) 
             - 相同环境条件下，三套仪器测量同一样品, [[relative standard deviation (RSD)]]
             - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
         - [线性误差]([[linear deviation]])
@@ -98,3 +98,17 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - [[standard gas]]
             - [量程校准气体]([[span calibration gas]]): 浓度在大于80%满量程范围内
 - 9 检测项目 p31
+- 附录 B (规范性附录)   CEMS 数据采集记录和处理要求   p37
+    - B.1
+        - B.1.7   1h 污染物[[折算浓度]] 超过 [排放标准限值]时，超标报警
+    - B.2
+        - [数据格式]([[data format]])[一览表]
+    - B.4
+        - B.4.1 污染物[[浓度转换]]计算公式
+            - 1 工况浓度(实测状态)与标况浓度的转换公式 -- $$C_{s n}=C_{s} \times \frac{101325}{B_{a}+P_{s}} \times \frac{273+t_{s}}{273}$$ (B1)
+                - [标准状态下]([[standard state]])质量浓度 (标况浓度) - 实测状态下 工况浓度
+                - 环境大气压值 (Pa) - 烟气静压值-烟气温度
+            - 2 干基浓度与湿基浓度的转换公式
+            - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ -- mg/m3 g/mol μmol/mol -- ( HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
+                - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
+            - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$

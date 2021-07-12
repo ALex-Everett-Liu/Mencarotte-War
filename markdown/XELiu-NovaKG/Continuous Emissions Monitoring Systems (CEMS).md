@@ -25,7 +25,7 @@
     - [[full scale]]; [[span]]; 满量程值 R -- 最大测量值
     - maintenance interval: 维护周期
     - [[nitrogen dioxide conversion efficiency]]
-    - 平行性 parallelism
+    - [平行性]([[parallelism]]) 
 - [[Volatile Organic Compounds (VOCs)]] 治理 
     - Volatile Organic Compounds Monitored with CEMS Systems 
 - 监测单元
@@ -55,17 +55,12 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 二氧化氮转换效率
             - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
                 - 标准气体的 3次测量平均值
-            - 平行性 parallelism
+            - [平行性]([[parallelism]]) 
                 - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
                 - 测量第j种标准气体的平均值
 - 数据采集与处理单元
     - 数据处理的计算方法
-        - 污染物浓度转换公式 $$C_{s n}=C_{s} \times \frac{101325}{B_{a}+P_{s}} \times \frac{273+t_{s}}{273}$$
-            - 标准状态下质量浓度 (标况浓度) - 实测状态下 工况浓度
-            - 环境大气压值-烟气静压值-烟气温度
-        - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ -- mg/m3 g/mol μmol/mol -- ( HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
-            - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
-        - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$
+        - B.4.1 污染物[[浓度转换]]计算公式
 - 气体分析、液体分析 - 气体分析取样 - 样品采集与传输装置
     - 采样泵
         - 克服烟道负压

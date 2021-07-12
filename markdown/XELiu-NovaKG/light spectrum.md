@@ -7,6 +7,7 @@
     - [[far-infrared range]];
     - Near-Infrared (NIR); near-infrared light
     - infrared-passing filter
+    - IR source; 
 - ultraviolet; ultraviolet radiation
 - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range
 - non-visible band;
