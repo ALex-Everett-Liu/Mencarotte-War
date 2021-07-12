@@ -1,4 +1,7 @@
 - [[analytical chemistry]]
+    - [[analyte]]
+    - [[analyzer]]
+        - [[gas analyzer]]
     - [[assay]]: 试验, 化验 
     - [[chromatography]]: 色谱, 层析;
 - [[biochemistry]]
@@ -12,12 +15,16 @@
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
 - [[dew point]]
+- [[hydrocarbon]]
+    - [[total hydro carbons (TOC)]]: 总烃
+        - [[非甲烷总烃]]
 - [[mixture]]
-    - [[mixture separation]]
+    - [[mixture separation]]; separating the different components
+    - [[prepare pure compounds]]
 - [[molecular mass]]
 - [[noble gas]]
 - [[physical chemistry]]
+- [[purity]]
+    - [[purification]]
 - [[quantum chemistry]]
 - [[sample]]
-- [[total hydro carbons (TOC)]]: 总烃
-    - [[非甲烷总烃]]

@@ -1,7 +1,7 @@
 - [[Bayesian reasoning]]; [[Bayesian inference]]
 - [[Bayes’ Theorem]]
     - [[observed data]]; [[observed evidence]]
-        - [[confidence interval]]; [[confidence level]]
+        - [[confidence interval]]; [[confidence level]]; [[confidence coefficient]]
         - successive layers of estimates: 连续的估计层; successive layers of evidence; piece of evidence
     - [[posterior probability]]
     - [[prior probability]]

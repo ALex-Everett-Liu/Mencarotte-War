@@ -1,28 +1,66 @@
-- Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds] that [can be vaporized without decomposition]. Typical uses of GC include [testing the purity of a particular substance], or separating the different components of a [[mixture]].[1] In [[preparative chromatography]], GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
-    - Gas chromatography is also sometimes known as vapor-phase chromatography (VPC), or gas–liquid partition chromatography (GLPC). These alternative names, as well as their respective abbreviations, are frequently used in scientific literature.[2]
-    - Gas chromatography is the process of separating compounds in a mixture by injecting a gaseous or liquid sample into a mobile phase, typically called the carrier gas, and passing the gas through a stationary phase. The mobile phase is usually an inert gas or an unreactive gas such as helium, argon, nitrogen or hydrogen.[1] The stationary phase is a microscopic layer of viscous liquid on a surface of solid particles on an inert solid support inside a piece of glass or metal tubing called a column.[4] The surface of the solid particles may also act as the stationary phase in some columns.[4] The glass or metal column through which the gas phase passes is located in an oven where the temperature of the gas can be controlled and the eluent coming off the column is monitored by a computerized detector.[1]
+- Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
+    - Gas chromatography is also sometimes known as [[vapor-phase chromatography (VPC)]], or [[gas–liquid partition chromatography (GLPC)]]. 气液分配 These [alternative names], as well as their [respective abbreviations], are frequently used in [[scientific literature]].[2]
+    - Gas chromatography is the process of [separating compounds in a mixture] by injecting [a gaseous or liquid sample] into a [[mobile phase]], typically called the [[carrier gas]], and [passing the gas through] a [[stationary phase]]. The mobile phase is usually an [[inert gas]] or an [[unreactive gas]] such as helium, argon, nitrogen or hydrogen.[1] 
+        - The stationary phase is [a microscopic layer of] [[viscous liquid]] [on a surface of] [[solid particle]]s on an [[inert solid support]] 惰性固体支架 [inside a piece of glass] or [metal tubing] called a [[column]].[4] [The surface of the solid particles] may also [act as the stationary phase] in some columns.[4] [The glass or metal column] [through which the gas phase passes] is located in an [[oven]] where [the temperature of the gas]([[gas temperature]]) can be controlled and the [[eluent]] 洗脱液 [coming off the column] is monitored by a [[computerized detector]].[1]
+([载气]将[样品]带入[色谱柱]-将样气置于流动相载气中，再通入稳定相中-稳定相：固定粒子表面上的粘稠液体)
+- Physical components
+    - Detectors
+        - Further information: Chromatography detector
+        - [Commonly used detectors] are the [[flame ionization detector (FID)]] and the [[thermal conductivity detector (TCD)]]. While TCDs are beneficial in that they are [[non-destructive]], its low [[detection limit]] for most [[analyte]]s [inhibits widespread use].[1] FIDs are [[sensitive]] primarily to [[hydrocarbon]]s, and are [more sensitive to them than] TCD.[4] FIDs [cannot detect water] or carbon dioxide which [make them ideal for] [environmental organic analyte analysis](((MV4S3pkW9))).[1] FID is two to three times more sensitive to [analyte detection] than TCD.[1]
+        - Thermal conductivity detector (TCD) relies on the thermal conductivity of matter passing around a thin wire of tungsten-rhenium with a current traveling through it.[4] In this set up helium or nitrogen serve as the carrier gas because of their relatively high thermal conductivity which keep the filament cool and maintain uniform resistivity and electrical efficiency of the filament.[4][11] When analyte molecules elute from the column, mixed with carrier gas, the thermal conductivity decreases while there is an increase in filament temperature and resistivity resulting in fluctuations in voltage ultimately causing a detector response.[4][11] Detector sensitivity is proportional to filament current while it is inversely proportional to the immediate environmental temperature of that detector as well as flow rate of the carrier gas.[4]
 - ---
 - 在线气相色谱仪-色谱分析系统
-    - 混合物分离分析技术
-    - 可用于检测[环境空气]、[固定污染源]等[废气]中甲烷/总烃/[[非甲烷总烃]]、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
-    - [载气]将[样品]带入[色谱柱]，利用各组分在色谱柱中的[保留能力]不同进行分离，
+    - [[process gas chromatography (PGC)]]; industrial gas chromatography
+        - 具有[选择性好]、灵敏度高、[分析对象广]以及[多组分分析][等优点]。
+    - 技术性能
+        - 测量对象
+            - 可用于检测[环境空气]、[固定污染源]等[废气]中甲烷/总烃/[[非甲烷总烃]]、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
+            - 过程气相色谱仪的测量对象是[气体]和[可气化的液体]，一般以[沸点]来说明[可测物质的限度]，可测物质 的[沸点越高]说明[可分析的物质]越广。目前[能达到的指标]见表9-1。
+        - 测量范围
+            - 分析下限：
+                - ? TCD 检测器一般为 10ppm 
+                - ? FID 检测器一般为 1ppm 
+                - ? FPD 检测器一般为 0.05ppm (50ppb)
+        - [[repeatability]]
+            - 对于色谱仪而言，讲重复性，而无精度指标 ，这主要有三个原因：
+            - ? 其一，在线色谱仪普遍采用外标法，其测量精度依赖于标准气的精度，色谱仪仅仅是复现标准气的精度。
+            - ? 其二，色谱仪用于多组分分析，而样品中各组分的含量差异较大(有的常
+量、有的微量) ，各组分的量程范围和相对误差(%FS)也不相同，很难用一
+个统一的精度指标来表述不同组分的测量误差。
+            - ? 其三，重复性更能反映仪器本身的性能，它体现了色谱仪测量的稳定性和克服随机干扰的能力。(目前，多数在线分析仪器说明书中已无测量精度这一指标)。 
+    - 利用各组分在色谱柱中的[保留能力]不同进行分离--由于气体分子种类不同，被[填充剂][吸附或溶解]的程度也不同，因而[通过柱子的速度]产生差异，[在柱出口处]就发生了[混合气体被分离成][各个组分]的现象。
         - 分离后各组分进入检测器，检测器将[离子信号][转换为电信号]，
         - 获得色谱图，最终由[色谱峰]的保留时间、峰高和峰面积来进行定性、定量分析。
     - [采样系统]([[sampling system]])、气路系统、分离系统、检测系统和数据处理系统所组成。
-    - 色谱柱
-        - 填充柱
-        - 毛细管柱
-    - 检测器
-        - 质量型
-            - [[FID]] (氢火焰离子化检测器)
-                - 以氢气为[[燃气]][在空气中燃烧]，载气（N2）[携带被分析组分]和可燃气（H2）从[喷嘴]进入[检测器]([[detector]])，助燃气（空气）[从四周导入]，
-                    - [被测组分][在火焰中][被解离成正负离子]，在[[极化电压]][形成的电场中]，正负离子向各自相反的电极移动，形成的[离子流]被[收集极]收集，经[[放大器]][放大输出][可测量的电信号]。
-            - 火焰光度检测器 (Flame Photometric Detector ([[FPD]]))
-                - [氢焰部分]包括火焰喷嘴、遮光罩、点火器等。
-                - [光度部分]包括石英片、滤光片和光电倍增管。
-        - 浓度型
-            - 载气流速变化，峰面积变化，峰高不变
-    - HPGC-1000 型在线气相色谱仪
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FYwGFo0DkFf.png?alt=media&token=0038ac75-2aed-41d7-bfa2-581580029f78)
+    - [分析器]([[analyzer]])
+        - 恒温炉--设置[程序升温炉]供色谱柱[按程序升温]。
+        - 自动进样阀--[周期性]向色谱柱[送入定量样品]。
+        - 色谱柱
+            - 填充柱
+            - 毛细管柱
+            - 填充剂
+        - [检测器]([[detector]])
+            - 质量型
+                - [[flame ionization detector (FID)]]: 火焰离子化检测器
+                    - 主要用于对[碳氢化合物]([[hydrocarbon]])进行[高灵敏度分析]，也可测量少数[可以甲烷化的无机物]，如 CO 、CO2 等。
+                    - 以氢气为[[燃气]][在空气中燃烧]，载气（N2）[携带被分析组分]和可燃气（H2）从[喷嘴]进入[检测器]([[detector]])，助燃气（空气）[从四周导入]，
+                        - [被测组分][在火焰中][被解离成正负离子]，在[[极化电压]][形成的电场中]，正负离子向各自相反的电极移动，形成的[离子流]被[收集极]收集，经[[放大器]][放大输出][可测量的电信号]。
+                - 火焰光度检测器 ([[flame photometric detector (FPD)]])
+                    - [仅用于测量][含有硫和磷的化合物]。
+                    - [氢焰部分]包括火焰喷嘴、遮光罩、点火器等。
+                    - [光度部分]包括石英片、滤光片和光电倍增管。
+            - 浓度型
+                - 载气流速变化时，峰面积变化，峰高不变
+                - 热导检测器 ([[thermal conductivity detector (TCD)]])
+                    - 测量范围广，几乎可以测量所有[非腐蚀性组分]
+    - [控制器]([[controller]])
+        - ? 进样、柱切和[流路切换系统]的[程序控制]；
+        - ? 对[检测器信号][进行放大处理]和[数值计算]；
+        - ? 本机显示操作和信号输出；
+        - ? communicate with DCS.
+    - 采样单元
+        - 如果样品含尘、含水量较大，或含有[对分析器有害的组分]，[则需另设][样品处理系统][预先加以处理]。
 - # HPGC-1000 型在线气相色谱仪
     - ![HPGC-1000-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9z6LkX6_y6.png?alt=media&token=9ed0eedf-4cea-457d-a15b-876b364b6f0c)
     - 气路箱-管线的安装

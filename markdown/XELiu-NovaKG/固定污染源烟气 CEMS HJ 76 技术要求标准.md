@@ -30,7 +30,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - $$L_{e i}=\frac{\left(\overline{C_{d i}}-C_{s i}\right)}{R} \times 100 \%$$
                 - 标准气体序号 i=1~4
                 - [[full scale]] R -- ppm (mg/m3) -- ^^这里的意思是气体浓度单位用 ppm 或者 mg/Nm3 都可以，这两个是可以互相换算的^^
-        - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])/二氧化氮转换效率
+        - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])/二氧化氮转换效率   p18
             - NO2转换为NO; 大于95%
             - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
                 - 标准气体的 3次测量平均值
@@ -57,37 +57,52 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - 线性相关曲线 置信区间 允许区间
 - 7.2 污染物排放现场检测 p19
     - 气体污染物
-        - 示值误差
+        - 示值误差 p21
+            - $$L_{e i}=\frac{\left(\overline{C_{d i}}-C_{s i}\right)}{C_{s i}} \times 100 \%$$   (16)
+            - 依次通入低浓度、中浓度和高浓度 F.S. 的标气，记录读数
+                - 再通入零气，重复测量3次
             - NOx 满量程值大于 200 μmol/mol 时，不超过5%标准气体[[标称值]]
-            - NOx 满量程值小于 200 μmol/mol 时，不超过5%满量程
+                - NOx 满量程值小于 200 μmol/mol 时，不超过5%满量程
         - 响应时间
         - 24h 零点漂移和量程漂移
-        - 准确度 [[accuracy]]
-            - [[reference method]]: 参比方法; 校准气态污染物浓度
+        - [准确度]([[accuracy]]) p22
+            - [参比方法]([[reference method]]): 校准气态污染物浓度
             - 采用 reference method 与 CEMS 去[同步测量]
                 - 与[参比方法][测量结果][平均值]之间的误差
-            - [[relative accuracy]]: 相对准确度
-                - [[correlation calibration]]
-                    - 校准[颗粒物浓度] CEMS
-                - [[velocity field coefficient]]
+                - 获取9组以上[数据对]
+            - 浓度平均值超过250ppm时的计算公式
+                - [[relative accuracy]]: 相对准确度 -- $$R A=\frac{|\overline{d}|+|c c|}{\overline{R M}} \times 100 \%$$ (17)
+                    - 对差平均值d -- $$d_{i}=R M_{i}-C E M S_{i}$$
+                    - [置信系数]([[confidence coefficient]])cc -- $$c c=\pm t_{f, 0.95} \frac{S_{d}}{\sqrt{n}}$$
+                        - 统计常数 t表 -- 置信区间与允许区间参数表 p22
+                        - 各数据对差的 [[standard deviation (SD)]] -- $$S_{d}=\sqrt{\frac{\sum_{i=1}^{n}\left(d_{i}-\bar{d}\right)^{2}}{n-1}}$$
+                    - [[correlation calibration]]
+                        - 校准[颗粒物浓度] CEMS
+                    - [[velocity field coefficient]]
     - 颗粒物
         - 24h 零点漂移和量程漂移
         - 线性相关校准曲线
         - 准确度
-    - 烟气流速 #[[flow velocity]]
-        - 速度场系数的精密度
+    - 烟气流速 连续测量 #[[flow velocity]]
+        - [速度场系数]([[velocity field coefficient]]) $$K_{V}=\frac{F_{s}}{F_{p}} \times \frac{\overline{V_{s}}}{\overline{V_{p}}}$$
+            - [参比方法][测量断面]的[横截面积]
+        - 速度场系数的[精密度] $$C_{v}=\frac{S}{\overline{\overline{K_{v}}}} \times 100 \%$$
+            - 日均值的标准偏差 $$S=\sqrt{\frac{\sum_{i=1}^{n}\left(\overline{K_{v i}}-\overline{\overline{K_{v}}}\right)^{2}}{n-1}}$$ (m/s)
         - 准确度
     - 烟气温度
         - 准确度
     - 烟气湿度
         - 准确度
 - ---
-- 3 术语和定义
+- 3 术语和定义 (parameters?)
+    - 排放浓度 排放量
+    - [[full scale]]; [[span]]; 满量程值 R -- 最大测量值
     - [[parts per million (ppm)]] (百万分之一体积浓度)
     - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
         - [[dew point temperature]]≤4℃时 经[[预处理]]后 
         - [[standard state]] - 273K, 101.3kPa (0.101MPa)
         - [[dry basis]]
+    - maintenance interval: 维护周期
 - 4 系统的组成与结构 p7
     - 气体分析、液体分析 - 气体分析取样 - 4.2.1 样品采集与传输装置
         - 采样泵
