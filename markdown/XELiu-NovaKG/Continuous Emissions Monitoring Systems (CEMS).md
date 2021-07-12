@@ -33,43 +33,14 @@
         - 温度、压力、流速 - 变送器 测量仪 - 校准装置
         - 湿度、含氧量
             - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
-        - 烟气流速 连续测量
-            - 速度场系数 $$K_{V}=\frac{F_{s}}{F_{p}} \times \frac{\overline{V_{s}}}{\overline{V_{p}}}$$
+        - 烟气流速 连续测量 #[[flow velocity]]
+            - [速度场系数]([[velocity field coefficient]]) $$K_{V}=\frac{F_{s}}{F_{p}} \times \frac{\overline{V_{s}}}{\overline{V_{p}}}$$
                 - [参比方法][测量断面]的[横截面积]
             - 精密度 $$C_{v}=\frac{S}{\overline{\overline{K_{v}}}} \times 100 \%$$
                 - 日均值的标准偏差 $$S=\sqrt{\frac{\sum_{i=1}^{n}\left(\overline{K_{v i}}-\overline{\overline{K_{v}}}\right)^{2}}{n-1}}$$ (m/s)
-    - 颗粒物监测
-        - 校准检测实例 p45
-            - 线性相关曲线 置信区间 允许区间
-    - 气体污染物监测
-        - 完全抽取法-稀释抽取法
-        - 仪表响应时间
-        - 重复性 相对标准偏差 $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
-            - 量程校准气体第i次测量值 $$\mathrm{ppm}\left(\mathrm{mg} / \mathrm{m}^{3}\right)$$
-        - 24h 零点漂移 $$\begin{gathered}
-\Delta Z_{n}=Z_{n}-Z_{0} \\
-Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
-\end{gathered}$$
-            - 满量程值 R
-            - 量程漂移 S_d
-        - 二氧化氮转换效率
-            - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
-                - 标准气体的 3次测量平均值
-            - [平行性]([[parallelism]]) 
-                - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
-                - 测量第j种标准气体的平均值
 - 数据采集与处理单元
     - 数据处理的计算方法
         - B.4.1 污染物[[浓度转换]]计算公式
-- 气体分析、液体分析 - 气体分析取样 - 样品采集与传输装置
-    - 采样泵
-        - 克服烟道负压
-        - 采样探头
-    - 伴热管线
-    - [[预处理]]系统
-        - [冷凝器]([[condenser]]) 除湿
-        - 样品过滤
-    - 颗粒物过滤器
 - 质量保证
     - 固定污染源的总排气管-多个烟道或管道
     - 采样平台 爬梯
@@ -80,7 +51,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 导气管内的体积和流速
 - HJ 76
     - [[固定污染源烟气 CEMS HJ 76 技术要求标准]]
-    - HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf
-    - 检测项目和相关记录表格 ( HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf p31 )
+    - HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf
+    - 检测项目和相关记录表格 ( HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p31 )
         - [[CEMS 测试记录表]]
     - [[flue gas]]; flue gas from stationary sources - SO2, NOx, 颗粒物

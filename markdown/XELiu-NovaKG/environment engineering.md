@@ -5,7 +5,9 @@
     - [[Volatile Organic Compounds (VOCs)]]: 挥发性有机化合物
 - [[flue gas]]; flue gas from stationary sources - SO2, NOx, 颗粒物
     - [[dry flue gas concentration]]
+    - [[flow rate]]; [[flow velocity]]
     - [[gas concentration]]
     - [[gas stream]]
     - 大气污染防治
     - [便携式][烟气监测设备]
+- [[standard state]]; [[working condition]]

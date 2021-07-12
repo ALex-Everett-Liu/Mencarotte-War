@@ -7,6 +7,7 @@
                     - 自[系统采样探头](((wUgCv_o35)))[通入标准气体](((hfvsLbZiq)))的时刻起
         - 零点漂移和量程漂移
             - [[span drift]] - [[span calibration gas]]
+                - 量程漂移 S_d
             - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
             - 24h -- 7.1.3.1.4 p15
                 - 24h 零点漂移 $$\begin{gathered}
@@ -14,9 +15,6 @@
 Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
 \end{gathered}$$
             - 一周
-        - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])
-            - NO2转换为NO; 大于95%
-            - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
         - [重复性]([[repeatability]])
             - 测量结果的[相对标准偏差]([[relative standard deviation (RSD)]]); 小于2%
             - $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
@@ -25,12 +23,17 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - [平行性]([[parallelism]]) 
             - 相同环境条件下，三套仪器测量同一样品, [[relative standard deviation (RSD)]]
             - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
+                - 测量第j种标准气体的平均值
         - [线性误差]([[linear deviation]])
             - 零点校准和满量程校准
             - 不超过2%满量程
             - $$L_{e i}=\frac{\left(\overline{C_{d i}}-C_{s i}\right)}{R} \times 100 \%$$
                 - 标准气体序号 i=1~4
                 - [[full scale]] R -- ppm (mg/m3) -- ^^这里的意思是气体浓度单位用 ppm 或者 mg/Nm3 都可以，这两个是可以互相换算的^^
+        - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])/二氧化氮转换效率
+            - NO2转换为NO; 大于95%
+            - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
+                - 标准气体的 3次测量平均值
         - 环境温度变化的影响
         - [[进样流量]]变化的影响
             - $$V=\frac{P-T}{R} \times 100 \%$$
@@ -38,6 +41,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 干扰成分气体的影响
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FcWWcSy7lOj.png?alt=media&token=38a25fba-e088-4467-bd38-c120925b0b14)
         - 振动的影响
+        - 完全抽取法-稀释抽取法
     - 颗粒物监测单元
         - [重复性]([[repeatability]])
             - 零点校准部件 调零
@@ -49,6 +53,8 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 检出限
             - 产生一个[能可靠地被检出]的[分析信号] 所需要的[某元素的最小含量]
             - 计算[所取得信号]的[标准偏差]([[standard deviation (SD)]])；[待测分析仪器]的[[检出限]]为其3倍
+        - 校准检测实例 p45
+            - 线性相关曲线 置信区间 允许区间
 - 7.2 污染物排放现场检测 p19
     - 气体污染物
         - 示值误差
@@ -68,7 +74,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 24h 零点漂移和量程漂移
         - 线性相关校准曲线
         - 准确度
-    - 烟气流速
+    - 烟气流速 #[[flow velocity]]
         - 速度场系数的精密度
         - 准确度
     - 烟气温度
@@ -82,12 +88,26 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - [[dew point temperature]]≤4℃时 经[[预处理]]后 
         - [[standard state]] - 273K, 101.3kPa (0.101MPa)
         - [[dry basis]]
+- 4 系统的组成与结构 p7
+    - 气体分析、液体分析 - 气体分析取样 - 4.2.1 样品采集与传输装置
+        - 采样泵
+            - 克服烟道负压
+            - 采样探头
+        - 伴热管线
+        - [[预处理]]系统
+            - [冷凝器]([[condenser]]) 除湿
+            - 样品过滤
+        - 颗粒物过滤器
+        - 传输管线
+        - 5.4.2 样品采集和传输设备要求
 - 5 技术要求
     - 5.2 CEMS 工作条件
         - 大气压 106 kPa
         - 供电电压
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FV2XzxPA6B4.png?alt=media&token=b003b36d-53e4-4668-95ec-d8ff436159c8)
-    - 数据采集和传输设备要求
+    - 5.4.2 样品采集和传输设备要求
+        - 加热温度 120℃ 以上，高于露点温度 10
+    - 5.4.5 数据采集和传输设备要求
         - 记录零点以下和量程以上10%的数据值
 - ---
 - 6 性能指标 p10
@@ -105,10 +125,25 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - [数据格式]([[data format]])[一览表]
     - B.4
         - B.4.1 污染物[[浓度转换]]计算公式
-            - 1 工况浓度(实测状态)与标况浓度的转换公式 -- $$C_{s n}=C_{s} \times \frac{101325}{B_{a}+P_{s}} \times \frac{273+t_{s}}{273}$$ (B1)
+            - 1 [工况]([[working condition]])浓度(实测状态)与标况浓度的转换公式 -- $$C_{s n}=C_{s} \times \frac{101325}{B_{a}+P_{s}} \times \frac{273+t_{s}}{273}$$ (B1)
                 - [标准状态下]([[standard state]])质量浓度 (标况浓度) - 实测状态下 工况浓度
                 - 环境大气压值 (Pa) - 烟气静压值-烟气温度
-            - 2 干基浓度与湿基浓度的转换公式
-            - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ -- mg/m3 g/mol μmol/mol -- ( HJ 76-2017 固定污染源烟气（SO2、NOX、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
+            - 2 干基浓度与湿基浓度的转换公式 $$C_{\text {干 }}=\frac{C_{\text {湿 }}}{1-X_{\mathrm{sw}}}$$ (B2)
+                - 烟气绝对湿度/水分含量
+            - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ (B3) -- mg/m3 g/mol μmol/mol (ppm) -- ( HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
                 - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
-            - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$
+            - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 
+                - $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$ (B4)
+                - $$C_{\mathrm{NO}_{\mathrm{x}}}=\left(C_{\mathrm{NOV}}+C_{\mathrm{NO} 2 V}\right) \times \frac{M_{\mathrm{NO} 2}}{22.4}$$ (B5)
+        - B.4.2 质量浓度统计计算
+        - B.4.3 [[折算浓度]]计算公式
+            - 污染物排放折算浓度 $$C_{\text {折 }}=C_{s n \text {干 }} \times \frac{\alpha}{\alpha_{s}}$$ (B9)
+                - 折算成实际[[过量空气系数]]时的浓度-[行业标准][过量空气系数]
+                - $$\alpha=\frac{21 \%}{21 \%-C_{V O 2} \text {干 }}$$ (B10) -- [含氧量][干基体积浓度]
+            - $$C_{\text {折 }}=C_{s n \text {干 }} \times \frac{21 \%-C_{O 2 s}}{21 \%-C_{V O 2} \text {干 }}$$ (B11) -- 行业基准含氧量
+        - b.4.4 流量
+            - 1 [烟囱]或[烟道断面] 平均[流速]([[flow velocity]]) 烟气流速瞬时值 $$\overline{V_{s}}=K_{v} \times \overline{V_{p}}$$ (B12)
+                - [[velocity field coefficient]]-最大间隔5s采集到的流速值
+            - 2 小时[工况]([[working condition]])流量 $$Q_{s h}=3600 \times F \times \overline{V_{s h}}$$ (B13) -- area F
+    - B.5. 数据软件功能要求
+        - 1 min average data over at least last 12 months 
