@@ -2,6 +2,7 @@
 - [[architecture]]
 - [[Electrical Engineering (EE)]]
 - [[environment]]; [[environment engineering]]; [[environmental science]]
+- [[industrial engineering]]
 - [[logistics]]
 - [[material]]; [[material science]]
 - [[Mechanical Engineering (ME)]]

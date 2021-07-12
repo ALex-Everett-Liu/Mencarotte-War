@@ -96,5 +96,11 @@
             - 电源模块
         - 吹扫气接口
         - CO2 含量: ＜ 400 ppm
-        - 最大[[露点温度]] -20℃
+        - 最大[露点温度]([[dew point temperature]]) -20℃
+        - Measured Component
+            - High Temperature Measurement
+                -  H2O ( > [[dew point]])
+                -  HCl, HF (> [[acid dew point]])
+                -  NH3 (> formation of aerosoles NH3 SO4 )
+            - [TOC ( Total Hydro Carbons )]([[total hydro carbons (TOC)]])
     - MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf

@@ -9,9 +9,15 @@
         - enantiomer
         - superposable
     - [[periodic table of elements]]
+- [[compound]]
 - [[computational chemistry]]; computer chemistry
+- [[dew point]]
+- [[mixture]]
+    - [[mixture separation]]
 - [[molecular mass]]
 - [[noble gas]]
 - [[physical chemistry]]
 - [[quantum chemistry]]
 - [[sample]]
+- [[total hydro carbons (TOC)]]: 总烃
+    - [[非甲烷总烃]]
