@@ -1,4 +1,6 @@
 - [[relative standard deviation (RSD)]]
 - [[estimator]]: 估计量; [[estimation]]; [[estimate]]
 - [[observed data]]; [[observed evidence]]
+- [[repeatability]]
+    - 测量精度
 - [[trend]]
