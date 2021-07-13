@@ -1,6 +1,8 @@
 - the behavior of light
     - [[focus light]]; squeeze light; concentrating fields
     - transport light
+- filter?
+    - [[滤光片]]
 - general...
     - capture light
     - [[light distribution]]

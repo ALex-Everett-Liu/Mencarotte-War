@@ -17,12 +17,11 @@
 - [[computational chemistry]]; computer chemistry
 - [[dew point]]
 - [[hydrocarbon]]
-    - [[total hydro carbons (TOC)]]: 总烃
-        - [[非甲烷总烃]]
 - [[mixture]]
     - [[mixture separation]]; separating the different components
     - [[prepare pure compounds]]
 - [[molecular mass]]
+- [[nitrogen]]
 - [[noble gas]]
 - [[physical chemistry]]
 - [[purity]]

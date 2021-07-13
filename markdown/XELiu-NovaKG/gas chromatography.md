@@ -7,24 +7,26 @@
     - Detectors
         - Further information: Chromatography detector
         - [Commonly used detectors] are the [[flame ionization detector (FID)]] and the [[thermal conductivity detector (TCD)]]. While TCDs are beneficial in that they are [[non-destructive]], its low [[detection limit]] for most [[analyte]]s [inhibits widespread use].[1] FIDs are [[sensitive]] primarily to [[hydrocarbon]]s, and are [more sensitive to them than] TCD.[4] FIDs [cannot detect water] or carbon dioxide which [make them ideal for] [environmental organic analyte analysis](((MV4S3pkW9))).[1] FID is two to three times more sensitive to [analyte detection] than TCD.[1]
-        - Thermal conductivity detector (TCD) relies on the thermal conductivity of matter passing around a thin wire of tungsten-rhenium with a current traveling through it.[4] In this set up helium or nitrogen serve as the carrier gas because of their relatively high thermal conductivity which keep the filament cool and maintain uniform resistivity and electrical efficiency of the filament.[4][11] When analyte molecules elute from the column, mixed with carrier gas, the thermal conductivity decreases while there is an increase in filament temperature and resistivity resulting in fluctuations in voltage ultimately causing a detector response.[4][11] Detector sensitivity is proportional to filament current while it is inversely proportional to the immediate environmental temperature of that detector as well as flow rate of the carrier gas.[4]
+        - Thermal conductivity detector (TCD) relies on the [[thermal conductivity]] of [matter passing around] [a thin wire of tungsten-rhenium] 钨铼细丝 [with a current traveling through it].[4] [In this set up] [[helium]] or [[nitrogen]] serve as the [[carrier gas]] because of their [relatively high thermal conductivity] which keep the [[filament]] cool 保持灯丝冷却 and maintain uniform [[resistivity]] and [[electrical efficiency]] of the filament.[4][11] 电阻率和电效率均匀 
+            - When analyte molecules elute from the column, mixed with carrier gas, the thermal conductivity decreases while there is an increase in filament temperature and resistivity resulting in fluctuations in voltage ultimately causing a detector response.[4][11] Detector sensitivity is proportional to filament current while it is inversely proportional to the immediate environmental temperature of that detector as well as flow rate of the carrier gas.[4]
 - ---
-- 在线气相色谱仪-色谱分析系统
+- 在线气相色谱仪
     - [[process gas chromatography (PGC)]]; industrial gas chromatography
         - 具有[选择性好]、灵敏度高、[分析对象广]以及[多组分分析][等优点]。
         - 第9章 过程气相色谱仪(简稿).pdf
     - 技术性能
         - 测量对象
-            - 可用于检测[环境空气]、[固定污染源]等[废气]中甲烷/总烃/[[非甲烷总烃]]、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
+            - 可用于检测[环境空气]、[[固定污染源]]等[废气]中甲烷/总烃/[[非甲烷总烃]]、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
             - 过程气相色谱仪的测量对象是[气体]和[可气化的液体]，一般以[沸点]来说明[可测物质的限度]，可测物质 的[沸点越高]说明[可分析的物质]越广。目前[能达到的指标]见表9-1。
+            - 永久性气体
         - 应用场所
             - (5) 其他行业
                 - 如钢铁 ( 高炉、焦化炉) 、煤炭气化/液化、合成制药、农药、[高纯气体生产]等的[气体在线分析]。
         - 测量范围
             - 分析下限：
-                - ? TCD 检测器一般为 10ppm 
-                - ? FID 检测器一般为 1ppm 
-                - ? FPD 检测器一般为 0.05ppm (50ppb)
+                - ? TCD 检测器一般为 10ppm -- [最低检测限]([[detection limit]]) 10 ppm 
+                - ? FID 检测器一般为 1ppm -- 最低检测限 1 ppm, even 10 ppb.
+                - ? FPD 检测器一般为 0.05ppm (50ppb) -- [测量范围]一般在 1 ppm ～ 0.1%
         - [[repeatability]]
             - 对于色谱仪而言，讲[重复性]，而无[精度指标] ，这主要有三个原因：
                 - ? 其一，[在线色谱仪][普遍采用][外标法]，其[测量精度]依赖于[标准气的精度]，色谱仪仅仅是[复现]标准气的精度。
@@ -128,9 +130,31 @@
                         - CO/CO2 微量分析 -- [用来测量][其他方法无法检测的] 几个 ppm CO/CO2
                         - 通过加氢催化反应，将 CO 、CO 2 转化成 CH4、H2O--通过测量 CH4，间接计算 CO/CO2
                 - 火焰光度检测器 ([[flame photometric detector (FPD)]])
-                    - [仅用于测量][含有硫和磷的化合物]。
-                    - [氢焰部分]包括火焰喷嘴、遮光罩、点火器等。
-                    - [光度部分]包括石英片、滤光片和光电倍增管。
+                    - 在 [H2 火焰]燃烧时，[含硫物]发出[[特征光谱]]，波长为 394nm ，含磷物为 526nm，经[干涉滤光片][滤波]，用[光电倍增管] 测 定此光强，可得知[硫和磷的含量]。
+                    - [仅用于测量][含有硫和磷的化合物]。 -- [选择性]好, 比 FID 高 3～4 个[数量级]。
+                    - 响应机理
+                        - [含硫化合物][在富氢焰条件下][产生不可逆的分解]，生成硫原子，并在[外围冷焰区]生成[激发态的硫分子] $$\mathbf{S}_{2}{ }^{*}$$，当其[跃迁回基态时]，发射出 350 ～430 nm 的[特征分子光谱]。
+                            - $$\begin{aligned}
+&S+S \longrightarrow S_{2}^{*} \\
+&S_{2}^{*} \longrightarrow S_{2}+h v
+\end{aligned}$$
+                            - 光强响应值与浓度成正比，即正比于 $$[S]^{2}$$，[线性范围]较窄, 10^2~3.
+                        - [含磷化合物][在火焰中][先分解成] PO molecule, 再生成激发态 HPO*:
+                            - $$\begin{aligned}
+&P O+H \longrightarrow H P O^{*} \\
+&P O+O H+H_{2} \longrightarrow H P O^{*}+H{ }_{2} O
+\end{aligned}$$
+                            - 线性范围 $$10^{3} \sim 10^{5}$$.
+                    - [测量范围]一般在 1 ppm ～ 0.1%
+                    - 结构
+                        - [气路部分]与 FID 相同。
+                        - [氢焰发光部分]包括燃烧室、火焰喷嘴、遮光罩、点火器等。
+                            - 喷嘴[由不锈钢制成]， 内径比 FID 大，为 1.0 ～1.2 mm
+                            - 遮光罩高 2 ～4 mm ，目的是[挡住火焰发光]，降低[[本底噪声]]，遮光罩有 固定式和可调式，也有[不用遮光罩]，采取[降低喷嘴位置]的办法。
+                        - [光度部分]包括石英片/石英管、滤光片和光电倍增管。
+                            - 石英管的作用主要是保证[发光区][在容易接收的中心位置]，提高光强度，并具有[保护滤光片]的[隔热作用] ，[防止有害物质]对FPD[内腔] 及滤光片的[腐蚀和玷污]。将石英管的一半[镀上有反光作用的材料]，可[增强光信号]。
+                            - [光电检测部分]由[[滤光片]]、[[光电倍增管]]组成。滤光片的作用是滤去非硫、磷发光的[光信号]。光电倍增管是[探测微弱光信号]的[高灵敏] [光电器件]，是[惟一能]由一[单一光电子]产生[毫安级输出电流]而[响应时间][以毫微秒计]的[电子器件]。用在 FPD 上的[工作电压]为 -700~-800V.
+                        - ![FPD-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F73AY8omrSe.png?alt=media&token=425e3f0f-8cdd-48ce-bb98-dca1fe8ddfd1)
             - 浓度型
                 - 载气流速变化时，峰面积变化，峰高不变
                 - 热导检测器 ([[thermal conductivity detector (TCD)]])
@@ -172,3 +196,6 @@
     - 典型色谱图
         - 
     - 02-HPGC-1000型在线气相色谱仪-谢兆明.pptx
+- ---
+- 陈爱红-色谱基础培训-20170306.pdf
+- 
