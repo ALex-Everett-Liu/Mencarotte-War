@@ -8,7 +8,7 @@
         - Further information: Chromatography detector
         - [Commonly used detectors] are the [[flame ionization detector (FID)]] and the [[thermal conductivity detector (TCD)]]. While TCDs are beneficial in that they are [[non-destructive]], its low [[detection limit]] for most [[analyte]]s [inhibits widespread use].[1] FIDs are [[sensitive]] primarily to [[hydrocarbon]]s, and are [more sensitive to them than] TCD.[4] FIDs [cannot detect water] or carbon dioxide which [make them ideal for] [environmental organic analyte analysis](((MV4S3pkW9))).[1] FID is two to three times more sensitive to [analyte detection] than TCD.[1]
         - Thermal conductivity detector (TCD) relies on the [[thermal conductivity]] of [matter passing around] [a thin wire of tungsten-rhenium] 钨铼细丝 [with a current traveling through it].[4] [In this set up] [[helium]] or [[nitrogen]] serve as the [[carrier gas]] because of their [relatively high thermal conductivity] which keep the [[filament]] cool 保持灯丝冷却 and maintain uniform [[resistivity]] and [[electrical efficiency]] of the filament.[4][11] 电阻率和电效率均匀 
-            - When analyte molecules elute from the column, mixed with carrier gas, the thermal conductivity decreases while there is an increase in filament temperature and resistivity resulting in fluctuations in voltage ultimately causing a detector response.[4][11] Detector sensitivity is proportional to filament current while it is inversely proportional to the immediate environmental temperature of that detector as well as flow rate of the carrier gas.[4]
+            - When [[analyte molecule]]s [elute from the column](((eXVjRydTL))), 从色谱柱中洗脱出来 [mixed with carrier gas], the thermal conductivity decreases while there is an increase in [[filament temperature]] and resistivity [resulting in fluctuations in voltage] ultimately causing a [[detector response]].[4][11] Detector [[sensitivity]] is proportional to [[filament current]] while it is [inversely proportional to] the [[immediate environmental temperature]] of that detector as well as [[flow rate]] of the carrier gas.[4]
 - ---
 - 在线气相色谱仪
     - [[process gas chromatography (PGC)]]; industrial gas chromatography
@@ -52,9 +52,6 @@
                 - ? 填充柱： 无机物 3 ～6分钟
 有机物 6 ～12 分钟
                 - ? 毛细管柱：1 min
-    - 利用各组分在色谱柱中的[保留能力]不同进行分离--由于气体分子种类不同，被[填充剂][吸附或溶解]的程度也不同，因而[通过柱子的速度]产生差异，[在柱出口处]就发生了[混合气体被分离成][各个组分]的现象。
-        - 分离后各组分进入检测器，检测器将[离子信号][转换为电信号]，
-        - 获得色谱图，最终由[色谱峰]的保留时间、峰高和峰面积来进行定性、定量分析。
     - [采样系统]([[sampling system]])、气路系统、分离系统、检测系统和数据处理系统所组成。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FYwGFo0DkFf.png?alt=media&token=0038ac75-2aed-41d7-bfa2-581580029f78)
     - [分析器]([[analyzer]])
@@ -76,6 +73,7 @@
                 - 柱塞阀和膜片阀
                 - 液体进样阀 p63
         - [色谱柱]([[column]])
+            - 利用各组分在色谱柱中的[保留能力]不同进行分离--由于气体分子种类不同，被[填充剂][吸附或溶解]的程度也不同，因而[通过柱子的速度]产生差异，[在柱出口处]就发生了[混合气体被分离成][各个组分]的现象。
             - [填充柱]([[packed column]])
                 - 内径 2.5mm
                     - [[micro-packed column]] -- 填充微粒固定相 -- 内径 0.5mm
@@ -83,7 +81,6 @@
             - [毛细管柱]([[capillary column]])
                 - 内径 0.1~0.5 mm
                 - 柱管多采用[石英玻璃管]
-            - 填充剂
             - 气固色谱柱
                 - 气固色谱柱又叫[吸附柱]，是用[固体吸附剂]作[固定相]([[stationary phase]])的色谱柱，它利用吸附剂[对样品中各组分吸附能力的差异][对其进行分离] 。
                     - 吸附色谱亦称液固色谱法 (liquid-solid chromatography, LSC)，利用固定相吸附中[对物质分子吸附能力的差异]实现[对混合物的分离]，吸附色谱的色谱过程是[流动相分子]与[物质分子][竞争固定相吸附中心]的过程
@@ -108,8 +105,8 @@
             - 质量型
                 - [[flame ionization detector (FID)]]: 火焰离子化检测器
                     - 主要用于对[碳氢化合物]([[hydrocarbon]])进行[高灵敏度微量分析]，也可测量少数[可以甲烷化的无机物]，如 CO 、CO2 等。
-                    - __载气__ N2 [携带__被分析组分__]和__[可燃气][氢气]__从[喷嘴]进入[检测器]([[detector]])，__[助燃气][空气]__[从四周导入]--[[燃气]][在空气中燃烧]
-                        - [被测组分][被载气携带]，从色谱柱流出，[与氢气混合][一起进入离子室]，由喷嘴喷出。氢气[在空气的助燃下][经引燃后]进行燃烧，以[燃烧所产生的][高温火焰]( 约2100 ℃)为能源，使[被测有机物组分][电离成正负离子]([化学电离]/[被解离成正负离子])。
+                    - 分离后各组分进入检测器--__载气__ N2 [携带__被分析组分__]和__[可燃气][氢气]__从[喷嘴]进入[检测器]([[detector]])，__[助燃气][空气]__[从四周导入]--[[燃气]][在空气中燃烧]
+                        - [被测组分][被载气携带]，[从色谱柱流出](((eXVjRydTL)))，[与氢气混合][一起进入离子室]，由喷嘴喷出。氢气[在空气的助燃下][经引燃后]进行燃烧，以[燃烧所产生的][高温火焰]( 约2100 ℃)为能源，使[被测有机物组分][电离成正负离子]([化学电离]/[被解离成正负离子])。
                             - 苯的[离子化过程]
                                 - $$\begin{aligned}
 &\mathbf{C}_{6} \mathbf{H}_{6} \text { 火焰燃烧裂解 } \rightarrow \mathbf{6 C H}\\
@@ -119,7 +116,7 @@
                                 - CH 自由基--从火焰外层扩散进来的 O2--反应生成负电子e-吸收能量--与水蒸气碰撞生成 $$\mathbf{H}_{3}^{+} \mathbf{O}$$ 离子
                         - 主要部分是一个[离子室]，[外壳]一般[由不锈钢制作]，内部装有[喷嘴]、极化极(负极) 、收集极(正极)和[点火极]([点火线圈])。在[极化极]与[收集极]之间加有 100 ～ 300 V [直流电压] ( 称为[极化电压])。
                             - 在[[极化电压]][形成的电场中]，正负离子向各自[相反的电极]移动 (在收集极和极化极的[外电场作用下][定向运动])
-                            - 形成[离子流]/[电离电流]被[收集极]收集，经微电流[[放大器]][放大输出][可测量的电信号]。
+                            - 形成[离子流]/[电离电流]被[收集极]收集，经微电流[[放大器]][放大输出][可测量的电信号]。 
                                 - [电离的程度]与[被测组分的性质]有关，一般[碳氢化合物][在氢火焰中][电离效率]很低，大约每 50 万个[碳原子]中有一个[被电离]
                                 - 因此[产生的电流][很微弱]，其大小与[进入离子室的][被测组分含量]有关--电离电流与[被测组分浓度][成正比]。
                                 - output 10^-14～10^-9 A 的[高内阻][微电流信号]
@@ -176,6 +173,7 @@
         - ? 对[检测器信号][进行放大处理]和[数值计算]；
         - ? 本机显示操作和信号输出；
         - ? communicate with DCS.
+        - 获得色谱图，最终由[色谱峰]的保留时间、峰高和峰面积来进行定性、定量分析。
     - 采样单元
         - 如果样品含尘、含水量较大，或含有[对分析器有害的组分]，[则需另设][样品处理系统][预先加以处理]。
 - # HPGC-1000 型在线气相色谱仪

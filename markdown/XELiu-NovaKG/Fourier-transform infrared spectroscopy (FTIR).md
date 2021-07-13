@@ -137,7 +137,7 @@
                 -  H2O ( > [[dew point]])
                 -  HCl, HF (> [[acid dew point]])
                 -  NH3 (> formation of aerosoles NH3 SO4 )
-            - [TOC ( Total Hydro Carbons )]([[total hydro carbons (TOC)]])
+            - [TOC ( Total Hydro Carbons )]([[total hydrocarbons]])
         - Ease of Integration   p33
     - Operation Agenda
         - 04-MBGAS-3000操作.pdf

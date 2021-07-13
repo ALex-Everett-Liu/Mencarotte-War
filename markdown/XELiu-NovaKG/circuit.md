@@ -8,6 +8,6 @@
 - [[schematic capture]]: 截取示意图
 - signal...
     - [[propagation time]]
-    - [[sensitivity]]
+    - [[sensitivity]]; [[sensitive]]
     - [[signal strength]]
 - [[short circuit]]

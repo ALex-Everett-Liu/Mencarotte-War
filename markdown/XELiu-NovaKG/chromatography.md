@@ -1,6 +1,8 @@
 - [[column]]
     - [[capillary column]]; [[capillary tube]]
+    - [[eluent]]
     - [[packed column]]
+    - elute from the column; 被测气体/样气各组分分离后，从色谱柱流出; 从色谱柱中洗脱出来 
 - [[gas chromatography]]
 - separating and analyzing compounds: 混合物分离分析技术; 
     - [[mixture separation]]; separating the different components

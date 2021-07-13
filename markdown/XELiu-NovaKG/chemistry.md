@@ -1,7 +1,7 @@
 - [[analytical chemistry]]
     - [[analyte]]
+        - [[analyte molecule]]
     - [[analyzer]]
-        - [[gas analyzer]]
     - [[assay]]: 试验, 化验 
     - [[chromatography]]: 色谱, 层析;
     - [[on-line analysis]]
