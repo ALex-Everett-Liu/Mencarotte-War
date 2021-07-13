@@ -1,3 +1,6 @@
+- [[column]]
+    - [[capillary column]]; [[capillary tube]]
+    - [[packed column]]
 - [[gas chromatography]]
 - separating and analyzing compounds: 混合物分离分析技术; 
     - [[mixture separation]]; separating the different components

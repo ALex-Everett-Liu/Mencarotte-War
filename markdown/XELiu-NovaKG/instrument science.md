@@ -3,6 +3,7 @@
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
+- [[on-line analysis]]
 - [[precision instrument]]
 - [[reading]]
     - interfere with the reading: 干扰读数; 
