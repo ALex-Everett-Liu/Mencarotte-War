@@ -26,7 +26,6 @@
     - [[Sudoku puzzle]]
 - [[set theory]]
 - [[statistics]]; [[statistician]]
-    - [[confidence interval]]; [[confidence level]]; [[confidence coefficient]]
     - [[data analysis]]; [[analyst]]
     - [[probability theory]]
 - [[systems theory]]

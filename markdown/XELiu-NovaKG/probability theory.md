@@ -4,6 +4,8 @@
     - the spread of the bell curve: 钟形曲线的延展宽度;
 - [[chance]]
 - coin flip; flipping a coin, heads and tails;
+- [[confidence]]; [[confidence interval]]; [[confidence level]]; [[confidence coefficient]]
+    - [[normal distribution]]
 - [[frequency distribution]]
 - [[gambling]]
 - [[mean]]
