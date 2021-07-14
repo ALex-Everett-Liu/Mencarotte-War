@@ -5,6 +5,7 @@
             - 仪表响应时间 - [[示值]]产生一个阶跃增加的时刻开始算起，达到标准气体[[标称值]] 90% or 10% 的时刻为止。
                 - system response time = 仪表响应时间 + 管线传输时间
                     - 自[系统采样探头](((wUgCv_o35)))[通入标准气体](((hfvsLbZiq)))的时刻起
+            - 惯性环节
         - 零点漂移和量程漂移
             - [[span drift]] - [[span calibration gas]]
                 - 量程漂移 S_d
@@ -30,6 +31,9 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - $$L_{e i}=\frac{\left(\overline{C_{d i}}-C_{s i}\right)}{R} \times 100 \%$$
                 - 标准气体序号 i=1~4
                 - [[full scale]] R -- ppm (mg/m3) -- ^^这里的意思是气体浓度单位用 ppm 或者 mg/Nm3 都可以，这两个是可以互相换算的^^
+            - [[linearity]]: 线性度误差/非线性误差--仪表工试题集(第二版) 在线分析仪表分册.pdf p11
+            - 线性动态范围 (line arrange)-校正曲线/标准曲线所跨越的[最大线性区间]
+                - 杂散光和噪声
         - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])/二氧化氮转换效率   p18
             - NO2转换为NO; 大于95%
             - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$
@@ -69,8 +73,11 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 24h 零点漂移和量程漂移
         - [准确度]([[accuracy]])/精确度 p22
             - [[指示值]][多次测得的平均值]与[真值][相符合的程度]
-                - 也常用[[不确定度]]来描述
                 - 基本误差-最大测量误差--附加误差-超出规定范围时
+                - [[系统误差]]-[[修正值]] + [精密度]([[precision]])-随机误差-标准偏差
+                - 也常用[不确定度]([[inaccuracy]])来描述-测量结果的分散程度
+                    - [测量结果]的[统计分布][估算]-实验标准偏差s-A类不确定度
+                    - [基于经验的][假定概率分布]-U_j-B类不确定度-- 仪表工试题集(第二版) 在线分析仪表分册.pdf p10
             - [参比方法]([[reference method]]): 校准气态污染物浓度
             - 采用 reference method 与 CEMS 去[同步测量]
                 - 与[参比方法][测量结果][平均值]之间的误差
@@ -102,6 +109,8 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
 - 3 术语和定义 (parameters?)
     - 排放浓度 排放量
     - [[full scale]]; [[span]]; 满量程值 R -- 最大测量值
+        - ±%FS - 满量程[相对误差]([[relative standard deviation (RSD)]]) -- 测量上限-测量下限
+        - ±%R - [[示值]]/[读数]([[reading]])相对误差
     - [[parts per million (ppm)]] (百万分之一体积浓度)
     - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
         - [[dew point temperature]]≤4℃时 经[[预处理]]后 

@@ -8,10 +8,10 @@
     - [[on-line analysis]]; [[on-line analyzer]]
         - [[process analyzer]]
 - [[precision instrument]]
-- [[reading]]
+- [[reading]]; [[示值]]; [[指示值]]
     - interfere with the reading: 干扰读数; 
 - [[sensitivity]]; [[sensitive]]
-- [[示值]]; [[指示值]]
+- [[stability]]
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.

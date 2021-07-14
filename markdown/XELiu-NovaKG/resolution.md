@@ -1,2 +1,7 @@
 - [[angular resolution]]
+- [[resolving power]]
 - [[spatial resolution]]
+- ---
+- 最邻近所示量值
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnQI4KuVSNB.png?alt=media&token=2b583ed2-dcf1-4b7d-9140-12d6938134b4)
+- 分辨率越高，[灵敏度]([[sensitivity]])越低
