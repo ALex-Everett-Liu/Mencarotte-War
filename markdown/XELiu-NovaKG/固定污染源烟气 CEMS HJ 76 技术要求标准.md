@@ -3,9 +3,10 @@
         - [响应时间]([[response time]]) 
             - 上升时间和下降时间; 小于120s
             - 仪表响应时间 - [[示值]]产生一个阶跃增加的时刻开始算起，达到标准气体[[标称值]] 90% or 10% 的时刻为止。
-                - system response time = 仪表响应时间 + 管线传输时间
+                - [system response time] = 仪表响应时间 + 管线传输时间 --- [analysis lag time]
                     - 自[系统采样探头](((wUgCv_o35)))[通入标准气体](((hfvsLbZiq)))的时刻起
-            - 惯性环节
+                - 惯性环节--$$T_{90}=5 \mathrm{~s}$$ 
+                - 时间常数 T_63
         - 零点漂移和量程漂移
             - [[span drift]] - [[span calibration gas]]
                 - 量程漂移 S_d
