@@ -9,7 +9,7 @@
         - 异核分子，原子[电负性]不同，正负电荷不对称
             - 在其平衡位置振动时
         - 对称同核分子，其正负电荷中心重合 - 如 H2、O2、N2，No IR Absorption (无红外活性)。 - no absorption spectrum (transparent) - $$\mathrm{d} \mu / \mathrm{dx}=0$$
-- [[spectroscopy]]; 在线光谱分析 
+- [[spectroscopy]]
     - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
         - [[Fourier-transform infrared spectroscopy (FTIR)]]
     - 光源/照明系统

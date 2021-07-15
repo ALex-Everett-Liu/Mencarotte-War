@@ -8,9 +8,12 @@
     - Near-Infrared (NIR); near-infrared light
     - infrared-passing filter
     - IR source; 
-- ultraviolet; ultraviolet radiation
-- [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range
+- [[microwave]] - mm
+- ultraviolet; ultraviolet radiation - 200~380 nm
+- [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range - 380~780 nm 
 - non-visible band;
+- [[radio wave]]
+- [[radio frequency]] - m
 - [[Raman spectroscopy]]
 - wavelength band; spectral band; spectral range
 - [[X-ray]]; x-ray
@@ -40,35 +43,38 @@
 - wave spectrum
     - ^^energy-wavelength-wavenumber corresponding^^
         - ![](local-asset://Minimum-Workflow/rA2aPmLBF6.png)
-    - [[wavenumber]] $$\sigma=10000 / \lambda \cdot \mathrm{cm}^{-1}$$
-        - 单位换算 1cm/4000=10000um/4000=2.5um
-    - 波谱范围相对应的原子或分子的运动形式
-        - 分子的量子化能级
+    - [波数]([[wavenumber]]) $$\sigma=10000 / \lambda \cdot \mathrm{cm}^{-1}$$ (lambda[μm]*n[cm^-1]=10000)
+        - 单位换算 ~~1cm/4000=10000um/4000=2.5um~~
+sigma=10000/4[μm]=2500[cm^-1]
+    - 波谱范围相对应的[原子或分子的运动形式]
+        - 分子的[量子化能级]
             - 分子运动的能量 
-                - 原子外层电子的跃迁-电子能级跃迁：1~20eV
-                - 分子内原子间的振动能 0.025~1 eV
+                - 原子内电子跃迁-电子能谱 - [[X-ray]]; x-ray
+                - [分子外层价电子][能级跃迁] - ultraviolet; ultraviolet radiation - 200~380 nm
+                    - [有机和无机物质]的[定性和定量测定]
+                - 原子外层电子的跃迁-电子能级跃迁：1~20eV --- [可见光](((it-L_cjdx))) 
+                - 分子内原子间的振动能级 0.025~1 eV
                     - 分子振动理论 
                         - $$v=\frac{1}{2 \pi c} \sqrt{\frac{k}{\mu}}$$ where $$\mu=\frac{m_{1} \cdot m_{2}}{m_{1}+m_{2}}$$
                         - 弹簧-化学键 -- 化学键力常数 k 
                         - 相对原子质量 M
-                - 整个分子的转动能级 
-                - 在通常情况下，[分子中的原子]大多处于[基态震动]。
-                    - 如果分子的能级[由基态跃迁至激发态]，产生[吸收光谱]; 反之产生发射光谱。 
-                    - 带状光谱
-                    - 基频吸收带-跃迁到第一激发态
-                    - 泛频吸收带
-                    - 组频吸收带
-            - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range - 380~780 nm - 原子外层电子的跃迁-电子能级跃迁：1~20eV
-            - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
-                - 近红外区光谱：0.78-2.5 μm; 4000~12820 cm-1 - 氢离子的振动 -- 泛频区 - O-H, N-H, C-H 键的[倍频吸收]
-                - 中红外区光谱：2.5-25/40 μm; 400~4000 cm-1 - 分子内原子间的振动能 0.025~1 eV  -- 分子振动转动光谱
-                    - [通常所说的]红外分析[主要指][中红外分析]。 -- [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
-                - 远红外区光谱：25/40-300/1000 μm; 5~400 cm-1 - 整个分子的转动能级  - 晶格振动
-                - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 特征性 吸收峰 -- 红外活性
-                    - 谱图解析 -- 谱图库搜索与对比算法
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1T8RWuQHrq.png?alt=media&token=66ca1e77-28e4-43ce-97bf-3cc25dad8a86)
-                    - 吸收线
-                    - 不同气体分子的[特征吸收波长] (指纹) - AO2000-URAS26培训教程.pdf p21
-            - ultraviolet; ultraviolet radiation
-                - [分子外层价电子][能级跃迁]
-                - [有机和无机物质]的[定性和定量测定]
+                    - 在通常情况下，[分子中的原子]大多处于[基态振动]。
+                        - 如果分子的能级[由基态跃迁至激发态]，产生[吸收光谱]; 反之产生发射光谱。 
+                        - 带状光谱
+                        - 基频吸收带-跃迁到[第一激发态]
+                        - 泛频吸收带
+                        - 组频吸收带
+                    - [红外光谱相对应的运动形式](((8KzfnZDSj)))
+                        - 近红外区光谱：0.78-2.5 μm; 4000~12820 cm-1 - 氢离子的振动 -- 泛频区 - O-H, N-H, C-H 键的[倍频吸收]
+                        - 中红外区光谱：2.5-25/40 μm; 400~4000 cm-1   -- 分子振动转动光谱
+                            - [通常所说的]红外分析[主要指][中红外分析]。 -- [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
+                        - 远红外区光谱：25/40-300/1000 μm; 5~400 cm-1 - 分子自身的转动能级 (整个分子的) - 晶格振动
+                        - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 红外活性 -- 特征性 吸收峰
+                            - 谱图解析 -- 谱图库搜索与对比算法
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1T8RWuQHrq.png?alt=media&token=66ca1e77-28e4-43ce-97bf-3cc25dad8a86)
+                - 分子自身的转动能级 (整个分子的)
+                    - 转动跃迁 -- [[microwave]]
+                - 原子核自转
+                    - [[radio wave]]
+                    - [[nuclear magnetic resonance (NMR)]]
+                - 电子自转 - [[radio frequency]]

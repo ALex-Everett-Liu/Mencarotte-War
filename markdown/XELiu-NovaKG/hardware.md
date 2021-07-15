@@ -11,7 +11,7 @@
     - high contrast
     - [[liquid-crystal display (LCD)]]
     - [[screen]]
-- earphone
+- [[earphone]]
     - [[MP3 player]]
 - [[edge device]]
 - [[electronic device]]; [[digital device]]; [[electronic product]]; [[electronic system]]
@@ -37,6 +37,7 @@
 - [[microcontroller]]
     - [[fuzzy logic classifier]]
     - [[programmable logic controller (PLC)]]
+- [[microphone]]
 - [[middleware]]
 - [[mobile phone]]
     - [[smartphone]]

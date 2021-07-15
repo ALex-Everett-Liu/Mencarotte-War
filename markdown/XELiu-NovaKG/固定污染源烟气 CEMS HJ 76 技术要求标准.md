@@ -5,7 +5,7 @@
             - 仪表响应时间 - [[示值]]产生一个阶跃增加的时刻开始算起，达到标准气体[[标称值]] 90% or 10% 的时刻为止。
                 - [system response time] = 仪表响应时间 + 管线传输时间 --- [analysis lag time]
                     - 自[系统采样探头](((wUgCv_o35)))[通入标准气体](((hfvsLbZiq)))的时刻起
-                - 惯性环节--$$T_{90}=5 \mathrm{~s}$$ 
+                - 惯性环节--$$T_{90}=5 \mathrm{~s}$$   -- 《在线分析系统工程技术》 p36
                 - 时间常数 T_63
         - 零点漂移和量程漂移
             - [量程漂移]([[span drift]]) - [[span calibration gas]]
@@ -28,7 +28,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                 - 测量第j种标准气体的平均值
         - [线性误差]([[linear deviation]])
             - 零点校准和满量程校准
-            - 不超过2%满量程
+            - 不超过2%FS(满量程)
             - $$L_{e i}=\frac{\left(\overline{C_{d i}}-C_{s i}\right)}{R} \times 100 \%$$
                 - 标准气体序号 i=1~4
                 - [[full scale]] R -- ppm (mg/m3) -- ^^这里的意思是气体浓度单位用 ppm 或者 mg/Nm3 都可以，这两个是可以互相换算的^^
@@ -46,7 +46,9 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - 干扰成分气体的影响
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FcWWcSy7lOj.png?alt=media&token=38a25fba-e088-4467-bd38-c120925b0b14)
         - 振动的影响
-        - 完全抽取法-稀释抽取法
+        - 压力影响误差
+            - [样气压力][在大气压上下变动] 3kPa 时，最大相对标准偏差 ≤±0.2%FS.
+        - source-level extractive system - 完全抽取
     - 颗粒物监测单元
         - [重复性]([[repeatability]])
             - 零点校准部件 调零
@@ -81,15 +83,15 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                     - [测量结果]的[统计分布][估算]-实验标准偏差s-A类不确定度
                     - [基于经验的][假定概率分布]-U_j-B类不确定度-- 仪表工试题集(第二版) 在线分析仪表分册.pdf p10
             - [参比方法]([[reference method]]): 校准气态污染物浓度
-            - 采用 reference method 与 CEMS 去[同步测量]
+            - 采用[参比方法]与 CEMS 去[同步测量]
                 - 与[参比方法][测量结果][平均值]之间的误差
                 - 获取9组以上[数据对]
             - 浓度平均值超过250ppm时的计算公式
-                - [[relative accuracy]]: 相对准确度 -- $$R A=\frac{|\overline{d}|+|c c|}{\overline{R M}} \times 100 \%$$ (17)
+                - [相对准确度]([[relative accuracy]]) -- $$R A=\frac{|\overline{d}|+|c c|}{\overline{R M}} \times 100 \%$$ (17)
                     - 对差平均值d -- $$d_{i}=R M_{i}-C E M S_{i}$$
                     - [置信系数]([[confidence coefficient]])cc -- $$c c=\pm t_{f, 0.95} \frac{S_{d}}{\sqrt{n}}$$
                         - 统计常数 t表 -- 置信区间与允许区间参数表 p22
-                        - 各数据对差的 [[standard deviation (SD)]] -- $$S_{d}=\sqrt{\frac{\sum_{i=1}^{n}\left(d_{i}-\bar{d}\right)^{2}}{n-1}}$$
+                        - 各数据对差的[标准偏差]([[standard deviation (SD)]]) -- $$S_{d}=\sqrt{\frac{\sum_{i=1}^{n}\left(d_{i}-\bar{d}\right)^{2}}{n-1}}$$
                     - [[correlation calibration]]
                         - 校准[颗粒物浓度] CEMS
                     - [[velocity field coefficient]]
