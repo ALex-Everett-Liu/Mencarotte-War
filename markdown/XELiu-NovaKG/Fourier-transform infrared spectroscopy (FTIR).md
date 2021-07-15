@@ -106,6 +106,8 @@
         - [[initial reference]]
         - start characterization acquisition
     - [[log message]]
+- software dependency -- 210713-17pm
+    - x64/FTIR gas analyzer online -- IMG_20210713_174532.jpg
 - ---
 - # ABB MBGAS3000 FT-IR
     - 组成结构
