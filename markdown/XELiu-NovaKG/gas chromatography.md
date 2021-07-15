@@ -175,7 +175,7 @@
         - ? communicate with DCS.
         - 获得色谱图，最终由[色谱峰]的保留时间、峰高和峰面积来进行定性、定量分析。
     - 采样单元
-        - 如果样品含尘、含水量较大，或含有[对分析器有害的组分]，[则需另设][样品处理系统][预先加以处理]。
+        - 如果样品含尘、含水量较大，或含有[对分析器有害的组分]，[则需另设][样品处理系统]([[sample handling system]])[预先加以处理]。
 - # HPGC-1000 型在线气相色谱仪
     - ![HPGC-1000-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9z6LkX6_y6.png?alt=media&token=9ed0eedf-4cea-457d-a15b-876b364b6f0c)
     - 气路箱-管线的安装

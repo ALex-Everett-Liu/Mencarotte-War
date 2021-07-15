@@ -1,18 +1,25 @@
 - calibration
     - [[calibration gas]]; [[calibration gas system]]
+- [[Data Acquisition and Handling System (DAHS)]]
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
 - [[analyzer]]
     - [[gas analyzer]]
-    - [[on-line analysis]]; [[on-line analyzer]]
-        - [[process analyzer]]
+    - [[on-line analysis]]; [[online analysis]]; 
+        - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
+        - on-line analyzer system engineering
+    - [[sample]]
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
     - interfere with the reading: 干扰读数; 
 - [[reliability]]: 可靠性
 - [[sensitivity]]; [[sensitive]]
 - [[stability]]
+- [[防爆]]: explosion protection; 防爆型仪表
+    - 防爆等级
+    - 防爆膜
+    - [[防爆要求]]
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.

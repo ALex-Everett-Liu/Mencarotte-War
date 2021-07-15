@@ -1,5 +1,29 @@
-- [[sample gas]]
-    - condition the sample gas: 调节样气;
+- [样气]([[sample gas]])
+    - condition the sample gas: 调节样气; [[gas conditioning system]]
+        - sample conditioning: 样气调理
+    - gas flow chart: 气路流程图;
 - [[sample line]]: 样气管路
-- [[sample probe]]
-- [[sampling system]]: 取样系统
+- [[sampling system]]: 采样/取样系统
+    - extractive system-抽取式取样
+        - source-level extractive system - 完全抽取
+            - cool dry system-冷却除水-[干基]([[dry basis]]) -- 《在线分析系统工程技术》 p21
+                - 除尘除湿处理一体化--[采样探头]([[sample probe]]) - 不加热传输管线 - [样品调理](((u5vOhQFwJ))) - [取样泵](((OwFFkfZun))) - [[analyzer cabinet]]: 分析机柜
+                - 加热过滤取样探头系统 p25
+                    - 除湿器
+                    - 确保温度在样品露点之上，不会出现[冷凝水] -- 探头 150℃，电加热传输管线 120℃
+            - hot wet system-含有易溶于水的组分-[湿基测量]([[wet basis]])
+                - [稀释法取样]([[dilution system]])-稀释后的气体[露点温度]([[dew point temperature]])应低于[现场最低温度]
+                    - [稀释样气]([[dilute the sample]])
+                    - [稀释探头]通过[喷射泵]来[抽取样品]
+                    - 稀释气-零空气发生器
+        - close-coupled system - 原位抽取式
+    - in-situ system - 原位式/直接测量系统
+    - [样品处理系统]([[sample handling system]])
+        - sample conditioning: 样气调理
+    - 采样泵
+    - [采样探头]([[sample probe]])
+    - **正压式取样** -- 《在线分析系统工程技术》 p19
+        - 取样点压力＞0.02MPa
+        - 微正压取样-负压取样
+        - 根部减压阀
+        - 管路泄漏减小

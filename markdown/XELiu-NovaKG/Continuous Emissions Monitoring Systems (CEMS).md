@@ -5,7 +5,6 @@
     - [[span calibration gas]]: 量程校准气体
     - [[zero gas]]
     - [[标称值]]
-- 采样探头
 - ---
 - Continuous emission monitoring systems (CEMS) are used as a tool to monitor the [effluent gas streams] resulting from [[combustion]] in [[industrial process]]es. CEMS can measure [[flue gas]] for [[oxygen]], [[carbon monoxide]] and [[carbon dioxide]] to [provide information for] [[combustion control]] in [[industrial settings]].[1] [2]They are also used as a means to comply with [[air emission standard]]s such as the United States Environmental Protection Agency's (EPA) Acid Rain Program,[3] other US federal emission programs, or state permitted emission standards. 
     - CEMS typically consist of [[analyzer]]s to measure [[gas concentration]]s within the stream, equipment to direct a sample of that [[gas stream]] to the analyzers [if they are remote], equipment to [condition the sample gas by](((bbZEcva84))) [removing water and other components] that could [interfere with the reading](((7oe5A25j1))), 其他可能干扰读数的成分 [pneumatic plumbing with valves] 带阀门的气动管道 that can be controlled by a [[programmable logic controller (PLC)]] to [route the sample gas to and away from]([[sample gas]]) the analyzers, a [calibration and maintenance system](((FSMdqAh5X))) that allows for the injection of [[calibration gas]]es into the [[sample line]], and a [[Data Acquisition and Handling System (DAHS)]] that collects and stores each [[data point]] and can [perform necessary calculations required to] get [[total mass emission]]s. A CEMS [operates at all times] even if [the process it measures] is not on. They can continuously collect, record and report [[emissions data]] for [process monitoring] and/or [for compliance purposes]. 合规性
@@ -20,13 +19,13 @@
     - Another sample extraction method used in industrial sources and utility sources with low emission rates, is commonly referred to as a "dry extractive", "hot dry" extractive, or "direct" CEMS. The sample is not diluted, but is carried along a heated sample line at high temperature into a sample conditioning unit. The sample is filtered to remove particulate matter and dried, usually with a chiller, to remove moisture. Once conditioned, the sample enters a sampling manifold and is measured by various gas analyzers, typically NOx and O2 (and sometimes CO) for combustion turbines and engines running natural gas or diesel. NOx analyzers typically work using chemiluminescence. O2 analyzers a magnetic field which attracts O2 to measure the concentration. The O2 causes movement of a suspended mirror within the analyzer which then changes the amount of light being reflected by that mirror onto a photocell. The amount of current required to move the mirror back to center is proportional to the O2 concentration. The ability to measure % oxygen in the sample is required to perform the required calculations.
 - Categories: [[industrial engineering]]
 - ---
-- [[Volatile Organic Compounds (VOCs)]] 治理 
+- [挥发性有机化合物]([[Volatile Organic Compounds (VOCs)]])治理 
     - Volatile Organic Compounds Monitored with CEMS Systems 
 - 监测单元
-    - [烟气参数][测量监测] - 烟气分析 - [[flue gas]]; flue gas from stationary sources - SO2, NOx, 颗粒物
+    - 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物 
         - 温度、压力、流速 - 变送器 测量仪 - 校准装置
         - 湿度、含氧量
-            - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
+            - [零点漂移]([[zero drift]]) - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
 - 数据采集与处理单元
     - 数据处理的计算方法
         - B.4.1 污染物[[浓度转换]]计算公式
@@ -39,8 +38,6 @@
     - 到达污染物检测器的滞后时间 $$t=V / Q_{s l}$$
         - 导气管内的体积和流速
 - HJ 76
-    - [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[固定污染源]]
-    - HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf
-    - 检测项目和相关记录表格 ( HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p31 )
+    - [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[固定污染源]] -- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物  -- HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf
+    - 检测项目和相关记录表格 ( p31 )
         - [[CEMS 测试记录表]]
-    - [[flue gas]]; flue gas from stationary sources - SO2, NOx, 颗粒物

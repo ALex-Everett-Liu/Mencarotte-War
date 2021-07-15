@@ -15,7 +15,6 @@
     - [[periodic table of elements]]
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
-- [[dew point]]
 - [[hydrocarbon]]
 - [[mixture]]
     - [[mixture separation]]; separating the different components

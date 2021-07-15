@@ -1,5 +1,5 @@
 - 7.1 实验室检测 p13
-    - 气体污染物监测单元
+    - [气体污染物]([[gaseous pollutant]])监测单元
         - [响应时间]([[response time]]) 
             - 上升时间和下降时间; 小于120s
             - 仪表响应时间 - [[示值]]产生一个阶跃增加的时刻开始算起，达到标准气体[[标称值]] 90% or 10% 的时刻为止。
@@ -8,9 +8,9 @@
                 - 惯性环节--$$T_{90}=5 \mathrm{~s}$$ 
                 - 时间常数 T_63
         - 零点漂移和量程漂移
-            - [[span drift]] - [[span calibration gas]]
+            - [量程漂移]([[span drift]]) - [[span calibration gas]]
                 - 量程漂移 S_d
-            - [[zero drift]] - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
+            - [零点漂移]([[zero drift]]) - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
             - 24h -- 7.1.3.1.4 p15
                 - 24h 零点漂移 $$\begin{gathered}
 \Delta Z_{n}=Z_{n}-Z_{0} \\
@@ -23,7 +23,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                 - Ci - [量程校准气体]([[span calibration gas]])第i次测量值 $$\mathrm{ppm}\left(\mathrm{mg} / \mathrm{m}^{3}\right)$$ -- [读数稳定后][记录显示值] -- i=1~n
                 - 测量次数 n≥6
         - [平行性]([[parallelism]]) 
-            - 相同环境条件下，三套仪器测量同一样品, [[relative standard deviation (RSD)]]
+            - 相同环境条件下，三套仪器测量同一样品, [相对标准偏差]([[relative standard deviation (RSD)]])
             - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
                 - 测量第j种标准气体的平均值
         - [线性误差]([[linear deviation]])
@@ -62,6 +62,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - [分析灵敏度]依赖于[检测器灵敏度]和[仪器放大倍数]；^^未考虑[测量噪声]的影响^^；所以一般用检出限而不用[灵敏度]([[sensitivity]])[来表征][检测能力]。
         - 校准检测实例 p45
             - 线性相关曲线 置信区间 允许区间
+        - [[particulate]]-烟尘-燃料产生的
 - 7.2 污染物排放现场检测 p19
     - 气体污染物
         - 示值误差 p21
@@ -115,14 +116,14 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
     - [[parts per million (ppm)]] (百万分之一体积浓度)
     - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
         - [[dew point temperature]]≤4℃时 经[[预处理]]后 
-        - [[standard state]] - 273K, 101.3kPa (0.101MPa)
-        - [[dry basis]]
+        - [[standard condition]] - 273K, 101.3kPa (0.101MPa)
+        - [[dry basis]]; [[wet basis]]
     - maintenance interval: 维护周期
 - 4 系统的组成与结构 p7
     - 气体分析、液体分析 - 气体分析取样 - 4.2.1 样品采集与传输装置
         - 采样泵
             - 克服烟道负压
-            - 采样探头
+            - [采样探头]([[sample probe]])
         - 伴热管线
         - [[预处理]]系统
             - [冷凝器]([[condenser]]) 除湿
@@ -156,11 +157,11 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
     - B.4
         - B.4.1 污染物[[浓度转换]]计算公式
             - 1 [工况]([[working condition]])浓度(实测状态)与标况浓度的转换公式 -- $$C_{s n}=C_{s} \times \frac{101325}{B_{a}+P_{s}} \times \frac{273+t_{s}}{273}$$ (B1)
-                - [标准状态下]([[standard state]])质量浓度 (标况浓度) - 实测状态下 工况浓度
+                - [标准状态下]([[standard condition]])质量浓度 (标况浓度) - 实测状态下 工况浓度
                 - 环境大气压值 (Pa) - 烟气静压值-烟气温度
-            - 2 干基浓度与湿基浓度的转换公式 $$C_{\text {干 }}=\frac{C_{\text {湿 }}}{1-X_{\mathrm{sw}}}$$ (B2)
+            - 2 [干基浓度]([[dry flue gas concentration]])与湿基浓度的转换公式 $$C_{\text {干 }}=\frac{C_{\text {湿 }}}{1-X_{\mathrm{sw}}}$$ (B2)
                 - 烟气绝对湿度/水分含量
-            - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ (B3) -- mg/m3 g/mol μmol/mol (ppm) -- ( HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
+            - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ (B3) -- mg/m3 g/mol μmol/mol (ppm) -- ( [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[固定污染源]] -- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物  -- HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
                 - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
             - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 
                 - $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$ (B4)
