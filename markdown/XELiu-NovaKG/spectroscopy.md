@@ -8,7 +8,7 @@
 - [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计
 - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
     - [[Fourier-transform infrared spectroscopy (FTIR)]]
-    - [[near-infrared spectroscopy]]
+    - [[near-infrared spectroscopy (NIRS)]]
 - [[molecular spectrum]]
 - [[spectral characteristics]]; [[spectral signature]]
 - [[spectral line]]

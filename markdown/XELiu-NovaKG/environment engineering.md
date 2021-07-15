@@ -1,7 +1,7 @@
 - [[air emission standard]]
 - [[combustion]]
     - [[combustion control]]
-- [[Continuous Emissions Monitoring Systems (CEMS)]]
+- [[Continuous Emissions Monitoring Systems (CEMS)]]; [[continuous monitoring]]
     - environmental organic analyte analysis: 环境有机物分析
     - [[Volatile Organic Compounds (VOCs)]]: 挥发性有机化合物
 - [[flue gas]]; flue gas from stationary sources - SO2, NOx, 颗粒物
