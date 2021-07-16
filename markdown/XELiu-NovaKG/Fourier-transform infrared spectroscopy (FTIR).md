@@ -78,17 +78,7 @@
         - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm)) -- absorbance is positive to [[concentration]]
         - [[消光系数]] $$\varepsilon$$
         - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
-- [[absorption peak]]
-    - 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
-        - 吸收谱及[定量分析]--峰面积-浓度关系
-        - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 红外活性 -- 特征性 吸收峰
-        - 峰强度：定量 -- 依照[特征吸收峰的强度]来测定混合物中[各组分的含量]。
-    - 各测量气体的红外光谱图-光谱范围及对应的气体吸收峰
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_zjQaOoEZa.png?alt=media&token=c2002790-321b-428a-932e-d1492ee4a6f9)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F6doyL7PMoP.png?alt=media&token=459d7e49-4472-460b-b6f6-daf3228a671a)
-        - 典型的[排放尾气]的光谱图
-        - Flue gas spectrum without H2O and CO2 -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p30
-        - CH4 对 HCl 的干扰图 p31
+- [[absorption peak]] -- 特征性 吸收峰
 - [使用与维护][注意事项]
     - [相对湿度]应在65%以下，[高湿度时][需要除湿]。
         - 每周开机至少两次:  防止受潮

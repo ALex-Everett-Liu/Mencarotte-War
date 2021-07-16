@@ -39,3 +39,19 @@
     - Main article: History of spectroscopy
     - The history of spectroscopy began with Isaac Newton's [optics experiments] (1666–1672). According to Andrew Fraknoi and David Morrison, "In 1672, in the first paper that he submitted to the [[Royal Society]], Isaac Newton described an experiment in which he [permitted sunlight to pass through a small hole] and then through a [[prism]]. Newton found that sunlight, which looks white to us, is actually made up of [a mixture of all the colors of the rainbow]."[19] Newton applied the word "spectrum" to [describe the rainbow of colors] that [combine to form white light] and that are revealed when the [[white light]] is passed through a prism.
     - Fraknoi and Morrison state that "In 1802, William Hyde Wollaston built an improved spectrometer that included a lens to focus the Sun's spectrum on a screen. Upon use, Wollaston realized that the colors were not spread uniformly, but instead had missing patches of colors, which appeared as dark bands in the spectrum."[19] During the early 1800s, Joseph von Fraunhofer made experimental advances with dispersive spectrometers that enabled spectroscopy to become a more precise and quantitative scientific technique. Since then, spectroscopy has played and continues to play a significant role in chemistry, physics, and astronomy. Per Fraknoi and Morrison, "Later, in 1815, German physicist Joseph Fraunhofer also examined the solar spectrum, and found about 600 such dark lines (missing colors), are now known as Fraunhofer lines, or Absorption lines."[19][better source needed]
+- ---
+- 光源/照明系统
+    - He-Ne Laser
+    - 能斯特灯 -- [稀土氧化物][加压成型] -- 2-25μm
+    - 硅碳棒--功率200-400W，波长2-30μm，寿命大于1000h。
+    - 氧化铝棒-铹丝电极-30W
+    - 陶瓷光源，抛物面反射体。
+        - 密封隔爆
+        - 为增加寿命，内部填充特殊气体。
+- 色散/分光型
+    - 光源-样品-分光器/分光系统-检测器-光谱图
+    - 单色光
+- 非分光红外气体分析仪 (NDIR) -- 1~15 μm
+- 调制型
+    - [[Fourier-transform infrared spectroscopy (FTIR)]]
+- 传输存储显示系统
