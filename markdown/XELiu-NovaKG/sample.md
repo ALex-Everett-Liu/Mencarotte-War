@@ -4,6 +4,7 @@
     - gas flow chart: 气路流程图;
 - [[sample line]]: 样气管路
 - [[sampling system]]: 采样/取样系统
+    - [[automatic sampling]]
     - extractive system-抽取式取样
         - source-level extractive system - 完全抽取
             - cool dry system-冷却除水-[干基]([[dry basis]]) -- 《在线分析系统工程技术》 p21
@@ -20,6 +21,7 @@
     - in-situ system - 原位式/直接测量系统
     - [样品处理系统]([[sample handling system]])
         - sample conditioning: 样气调理
+        - [[预处理]]; extensive sample preparation
     - 采样泵
     - [采样探头]([[sample probe]])
     - **正压式取样** -- 《在线分析系统工程技术》 p19

@@ -12,7 +12,7 @@
 - [[molecular spectrum]]
 - [[spectral characteristics]]; [[spectral signature]]
 - [[spectral line]]
-- [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪
+- [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method
 - [[spectrophotometry]]: 分光光度测定法
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
 - wavelength dependence; as a function of wavelength

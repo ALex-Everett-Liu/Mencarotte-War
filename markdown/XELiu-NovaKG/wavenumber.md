@@ -1,0 +1,1 @@
+- [波数]([[wavenumber]]) $$\sigma=10000 / \lambda \cdot \mathrm{cm}^{-1}$$ (lambda[μm]*n[cm^-1]=10000)

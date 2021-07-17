@@ -1,0 +1,5 @@
+- dictionary 
+    - [3D CAD design] and application of Dual-channel Schisandra beater 五味子打浆机 www.[dictall].com
+    - Application of PLC in [Testing System] of Electro-hydraulic Servo Dual-channel Coordinate Loading 电液伺服
+    - Study of [RF Excited Waveguide CO_2 Laser] 射频激励 [with Two Channels Tuned by Grating] 光栅选支共电极 dict.cnki.net
+    - [Doppler-Polarization Weather Radar] of [Simultaneous Transmissions and Receivers] 同时收发式 of [X-Band Double-Channel]
