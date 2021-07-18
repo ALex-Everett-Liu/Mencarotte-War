@@ -1,4 +1,4 @@
-- 仪器分析.pdf; 
+- 
 - 
 - draft
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
@@ -6,7 +6,7 @@
     - 
     - queue...
         - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
-        - 
+        - 仪器分析.pdf; 
 - quick todo
     - [PDXCON](https://store.steampowered.com/sale/paradox);; movie theater 210501 harbin zym;; [Download](https://github.com/AlexAplin/nndownload) and process links from Niconico (nicovideo.jp);; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 
@@ -14,7 +14,7 @@
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
         - 丝路大亨; 重生传奇; 吾家有妻骄养成; 替宋;; asmr .txt
         - 御姐; 
-    - 牙疼, 消炎药;; 苏伯, 海福盛;; 一次性毛巾; sneaker 43码 42码; 擦鞋去污渍的喷雾;; 
+    - 牙疼, 消炎药;; 苏伯, 海福盛;; sneaker 43码 42码; 擦鞋去污渍的喷雾;; 
     - wayback machine, archive.org;; 
         - https://archive.is/
     - ---
