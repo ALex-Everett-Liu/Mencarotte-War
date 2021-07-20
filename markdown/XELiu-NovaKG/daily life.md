@@ -26,7 +26,7 @@
 - shopping
     - #inbox
         - list-210623
-            - 电蚊拍
+            - {{[[DONE]]}} 电蚊拍
             - software
                 - vpn; AppGo
                 - roam
