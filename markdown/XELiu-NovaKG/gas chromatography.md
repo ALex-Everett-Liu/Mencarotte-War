@@ -5,6 +5,10 @@
     - [[inert solid support]]: 惰性固体支架 
     - [[packed column]]
     - elute from the column; 被测气体/样气各组分分离后，从色谱柱流出; 从色谱柱中洗脱出来 
+- detector
+    - [[flame ionization detector (FID)]]
+    - [[filament]]: 灯丝
+    - [[thermal conductivity detector (TCD)]]
 - [[eluent]]: 洗脱液 
 - [[gas temperature]]
 - [[mobile phase]]
@@ -31,7 +35,7 @@
         - 第9章 过程气相色谱仪(简稿).pdf
     - 技术性能
         - 测量对象
-            - 可用于检测[环境空气]、[[固定污染源]]等[废气]中甲烷/总烃/[[非甲烷总烃]]、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
+            - 可用于检测[环境空气]、[[固定污染源]]等[废气]中甲烷/总烃/[[none-methane hydrocarbons (NMHC)]]、三苯（苯、甲苯、二甲苯）、苯系物、含硫化合物等其他[可挥发性有机物]组分。
             - 过程气相色谱仪的测量对象是[气体]和[可气化的液体]，一般以[沸点]来说明[可测物质的限度]，可测物质 的[沸点越高]说明[可分析的物质]越广。目前[能达到的指标]见表9-1。
             - 永久性气体
         - 应用场所
