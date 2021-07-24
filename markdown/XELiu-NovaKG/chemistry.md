@@ -16,6 +16,8 @@
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
 - [[hydrocarbon]]
+- [[inert gas]]
+- [[unreactive gas]]
 - [[mixture]]
     - [[mixture separation]]; separating the different components
     - [[prepare pure compounds]]

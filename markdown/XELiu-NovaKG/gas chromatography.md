@@ -1,7 +1,22 @@
+- [[carrier gas]]
+- [[column]]
+    - [[capillary column]]; [[capillary tube]]
+    - [[eluent]]
+    - [[inert solid support]]: 惰性固体支架 
+    - [[packed column]]
+    - elute from the column; 被测气体/样气各组分分离后，从色谱柱流出; 从色谱柱中洗脱出来 
+- [[eluent]]: 洗脱液 
+- [[gas temperature]]
+- [[mobile phase]]
+- [[oven]]
+- separating and analyzing compounds: 混合物分离分析技术; 
+    - [[mixture separation]]; separating the different components
+- [[stationary phase]]
+- ---
 - Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
     - Gas chromatography is also sometimes known as [[vapor-phase chromatography (VPC)]], or [[gas–liquid partition chromatography (GLPC)]]. 气液分配 These [alternative names], as well as their [respective abbreviations], are frequently used in [[scientific literature]].[2]
-    - Gas chromatography is the process of [separating compounds in a mixture] by injecting [a gaseous or liquid sample] into a [[mobile phase]], typically called the [[carrier gas]], and [passing the gas through] a [[stationary phase]]. The mobile phase is usually an [[inert gas]] or an [[unreactive gas]] such as helium, argon, nitrogen or hydrogen.[1] 
-        - The stationary phase is [a microscopic layer of] [[viscous liquid]] [on a surface of] [[solid particle]]s on an [[inert solid support]] 惰性固体支架 [inside a piece of glass] or [metal tubing] called a [[column]].[4] [The surface of the solid particles] may also [act as the stationary phase] in some columns.[4] [The glass or metal column] [through which the gas phase passes] is located in an [[oven]] where [the temperature of the gas]([[gas temperature]]) can be controlled and the [[eluent]] 洗脱液 [coming off the column] is monitored by a [[computerized detector]].[1]
+    - Gas chromatography is the process of [separating compounds in a mixture] by injecting __[a gaseous or liquid sample]__ into a [[mobile phase]], typically called the [[carrier gas]], and [passing the gas through] a [[stationary phase]]. The mobile phase is usually an [[inert gas]] or an [[unreactive gas]] such as helium, argon, nitrogen or hydrogen.[1] 
+        - The stationary phase is [a microscopic layer of] [[viscous liquid]] [on a surface of] [[solid particle]]s on an [[inert solid support]] [inside a piece of glass] or [metal tubing] called a [[column]].[4] [The surface of the solid particles] may also [act as the stationary phase] in some columns.[4] [The glass or metal column] [through which the gas phase passes] is located in an [[oven]] where [the temperature of the gas]([[gas temperature]]) can be controlled and the [[eluent]] [coming off the column] is monitored by a [[computerized detector]].[1]
 ([载气]将[样品]带入[色谱柱]-将样气置于流动相载气中，再通入稳定相中-稳定相：固定粒子表面上的粘稠液体)
 - Physical components
     - Detectors

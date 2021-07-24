@@ -1,2 +1,3 @@
+- [[computerized detector]]
 - [[detection limit]]
 - [[sensitive]]
