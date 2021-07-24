@@ -5,8 +5,9 @@
     - 
     - 
     - queue...
-        - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
-        - 仪器分析.pdf; 
+        - book
+            - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
+            - 仪器分析.pdf; 
 - quick todo
     - [PDXCON](https://store.steampowered.com/sale/paradox);; movie theater 210501 harbin zym;; [Download](https://github.com/AlexAplin/nndownload) and process links from Niconico (nicovideo.jp);; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 

@@ -13,21 +13,29 @@
 - [[gas temperature]]
 - [[mobile phase]]
 - [[oven]]
+- [[partition chromatography]]; [[gas–liquid partition chromatography (GLPC)]]: 气液分配
 - separating and analyzing compounds: 混合物分离分析技术; 
     - [[mixture separation]]; separating the different components
 - [[stationary phase]]
 - ---
-- Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
-    - Gas chromatography is also sometimes known as [[vapor-phase chromatography (VPC)]], or [[gas–liquid partition chromatography (GLPC)]]. 气液分配 These [alternative names], as well as their [respective abbreviations], are frequently used in [[scientific literature]].[2]
-    - Gas chromatography is the process of [separating compounds in a mixture] by injecting __[a gaseous or liquid sample]__ into a [[mobile phase]], typically called the [[carrier gas]], and [passing the gas through] a [[stationary phase]]. The mobile phase is usually an [[inert gas]] or an [[unreactive gas]] such as helium, argon, nitrogen or hydrogen.[1] 
-        - The stationary phase is [a microscopic layer of] [[viscous liquid]] [on a surface of] [[solid particle]]s on an [[inert solid support]] [inside a piece of glass] or [metal tubing] called a [[column]].[4] [The surface of the solid particles] may also [act as the stationary phase] in some columns.[4] [The glass or metal column] [through which the gas phase passes] is located in an [[oven]] where [the temperature of the gas]([[gas temperature]]) can be controlled and the [[eluent]] [coming off the column] is monitored by a [[computerized detector]].[1]
+- Wiki
+    - Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
+        - Gas chromatography is also sometimes known as [[vapor-phase chromatography (VPC)]], or [[gas–liquid partition chromatography (GLPC)]]. These [alternative names], as well as their [respective abbreviations], are frequently used in [[scientific literature]].[2]
+        - Gas chromatography is the process of [separating compounds in a mixture] by injecting __[a gaseous or liquid sample]__ into a [[mobile phase]], typically called the [[carrier gas]], and [passing the gas through] a [[stationary phase]]. The mobile phase is usually an [[inert gas]] or an [[unreactive gas]] such as helium, argon, nitrogen or hydrogen.[1] 
+            - The stationary phase is [a microscopic layer of] [[viscous liquid]] [on a surface of] [[solid particle]]s on an [[inert solid support]] [inside a piece of glass] or [metal tubing] called a [[column]].[4] [The surface of the solid particles] may also [act as the stationary phase] in some columns.[4] [The glass or metal column] [through which the gas phase passes] is located in an [[oven]] where [the temperature of the gas]([[gas temperature]]) can be controlled and the [[eluent]] [coming off the column] is monitored by a [[computerized detector]].[1]
 ([载气]将[样品]带入[色谱柱]-将样气置于流动相载气中，再通入稳定相中-稳定相：固定粒子表面上的粘稠液体)
-- Physical components
-    - Detectors
-        - Further information: Chromatography detector
-        - [Commonly used detectors] are the [[flame ionization detector (FID)]] and the [[thermal conductivity detector (TCD)]]. While TCDs are beneficial in that they are [[non-destructive]], its low [[detection limit]] for most [[analyte]]s [inhibits widespread use].[1] FIDs are [[sensitive]] primarily to [[hydrocarbon]]s, and are [more sensitive to them than] TCD.[4] FIDs [cannot detect water] or carbon dioxide which [make them ideal for] [environmental organic analyte analysis](((MV4S3pkW9))).[1] FID is two to three times more sensitive to [analyte detection] than TCD.[1]
-        - Thermal conductivity detector (TCD) relies on the [[thermal conductivity]] of [matter passing around] [a thin wire of tungsten-rhenium] 钨铼细丝 [with a current traveling through it].[4] [In this set up] [[helium]] or [[nitrogen]] serve as the [[carrier gas]] because of their [relatively high thermal conductivity] which keep the [[filament]] cool 保持灯丝冷却 and maintain uniform [[resistivity]] and [[electrical efficiency]] of the filament.[4][11] 电阻率和电效率均匀 
-            - When [[analyte molecule]]s [elute from the column](((eXVjRydTL))), 从色谱柱中洗脱出来 [mixed with carrier gas], the thermal conductivity decreases while there is an increase in [[filament temperature]] and resistivity [resulting in fluctuations in voltage] ultimately causing a [[detector response]].[4][11] Detector [[sensitivity]] is proportional to [[filament current]] while it is [inversely proportional to] the [[immediate environmental temperature]] of that detector as well as [[flow rate]] of the carrier gas.[4]
+    - History
+        - Chromatography dates to 1903 in the work of the Russian scientist, Mikhail Semenovich Tswett,[5] who separated [[plant pigment]]s via [liquid column chromatography]. German physical chemist Erika Cremer in 1947 together with Austrian graduate student Fritz Prior developed the [theoretical foundations] of GC and built the first [liquid-gas chromatograph], but her work was [deemed irrelevant] and was [ignored for a long time].[6] English chemists Archer Martin and Richard Synge received a [[Nobel Prize]] in 1952 for the invention of [[partition chromatography]] in the 1940s, [laying the foundations of] gas chromatography.[7] The popularity of gas chromatography quickly rose [after the development of] the [[flame ionization detector (FID)]].[8]
+    - GC analysis
+        - A gas chromatograph is a chemical analysis instrument for separating chemicals in a complex sample.[4] A gas chromatograph is made up of a narrow flow-through tube, known as the column, through which the sample passes in a gas stream (the carrier gas) at different rates depending on their various chemical and physical properties and their interaction with a specific column lining or filling, called the 'stationary phase'. As the chemicals exit the end of the column, they are detected and identified electronically.[1] The function of the stationary phase in the column is to separate different components, causing each one to exit the column at a different time.[1] Other parameters that can be used to alter the order or time of retention are the carrier gas flow rate, column length and the temperature.[1]
+        - In a GC analysis, a known volume of gaseous or liquid analyte is injected through a rubber disk and into a hot, temperature controlled, port attached to the column.[4] As the carrier gas transports the analyte molecules through the column, there is adsorption of the analyte molecules either onto the column walls or onto packing materials (stationary phase) in the column to give separation.[4] Since each type of molecule has a different rate of progression, the various components of the analyte mixture are separated as they progress along the column and reach the end of the column at different times (retention time). A detector is used to monitor the time at which each component reaches the outlet and ultimately the amount of that component can be determined.[1] Generally, substances are identified (qualitatively) by the order in which they elute from the column and by the retention time of the analyte in the column.[4]
+        - Diagram of a gas chromatograph.
+    - Physical components
+        - Detectors
+            - Further information: Chromatography detector
+            - [Commonly used detectors] are the [[flame ionization detector (FID)]] and the [[thermal conductivity detector (TCD)]]. While TCDs are beneficial in that they are [[non-destructive]], its low [[detection limit]] for most [[analyte]]s [inhibits widespread use].[1] FIDs are [[sensitive]] primarily to [[hydrocarbon]]s, and are [more sensitive to them than] TCD.[4] FIDs [cannot detect water] or carbon dioxide which [make them ideal for] [environmental organic analyte analysis](((MV4S3pkW9))).[1] FID is two to three times more sensitive to [analyte detection] than TCD.[1]
+            - Thermal conductivity detector (TCD) relies on the [[thermal conductivity]] of [matter passing around] [a thin wire of tungsten-rhenium] 钨铼细丝 [with a current traveling through it].[4] [In this set up] [[helium]] or [[nitrogen]] serve as the [[carrier gas]] because of their [relatively high thermal conductivity] which keep the [[filament]] cool 保持灯丝冷却 and maintain uniform [[resistivity]] and [[electrical efficiency]] of the filament.[4][11] 电阻率和电效率均匀 
+                - When [[analyte molecule]]s [elute from the column](((eXVjRydTL))), 从色谱柱中洗脱出来 [mixed with carrier gas], the thermal conductivity decreases while there is an increase in [[filament temperature]] and resistivity [resulting in fluctuations in voltage] ultimately causing a [[detector response]].[4][11] Detector [[sensitivity]] is proportional to [[filament current]] while it is [inversely proportional to] the [[immediate environmental temperature]] of that detector as well as [[flow rate]] of the carrier gas.[4]
 - ---
 - 在线气相色谱仪
     - [[process gas chromatography (PGC)]]; industrial gas chromatography
@@ -259,7 +267,7 @@
         - 工况条件不佳，湿度太大，导致管路堵塞太多--伴热管道温度120℃，柱箱只有80℃时，容易造成湿度较大的空气中的水蒸气液化，堵塞色谱柱中的填充剂
             - 把柱箱/气路温度调高到120℃
                 - 柱箱温度太高时，柱效降低，可以把柱箱温度调到100℃
-                - 温度升高后，基线往上漂移，等稳定一段时间后又会降下来--继电器控温是一个断续的过程，过充，升高温度高过设定值后再下降一小段，这样一段一段地往上升温
+                - 温度升高后，基线往上漂移，等稳定一段时间后又会降下来--继电器控温是一个断续的过程，过冲，升高温度高过设定值后再下降一小段，这样一段一段地往上升温
             - 将色谱柱取下，找一个300℃以上的高温烤箱烤一下
             - 替换色谱柱里填充的涂料颗粒，换成疏水性较好的
         - 标气气压阀
@@ -278,7 +286,7 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FFjbqStob9A.png?alt=media&token=4781f4fd-9ff9-4dae-87ae-a8c8c6e08a0a)
         - 氢空一体机代替了氮气钢瓶--直接用空气
             - 除烃罐--把载气里的烃给除去
-                - 除烃罐堵了，里面的测温铂电阻烧坏了，在360℃以上烧--接头处绕着的砷胶带烧没了
+                - 除烃罐堵了，里面的测温铂电阻烧坏了，在360℃以上烧--接头处绕着的生料带烧没了
                 - 在除烃罐内塞满棉花
                 - 用高温胶带把几根铂电阻电阻丝绑起来
         - 空气的流量一直上不到270ml/min
