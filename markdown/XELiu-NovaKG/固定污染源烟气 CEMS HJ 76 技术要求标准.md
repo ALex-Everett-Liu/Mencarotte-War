@@ -163,7 +163,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                 - 环境大气压值 (Pa) - 烟气静压值-烟气温度
             - 2 [干基浓度]([[dry flue gas concentration]])与湿基浓度的转换公式 $$C_{\text {干 }}=\frac{C_{\text {湿 }}}{1-X_{\mathrm{sw}}}$$ (B2)
                 - 烟气绝对湿度/水分含量
-            - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ (B3) -- mg/m3 g/mol μmol/mol (ppm) -- ( [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[固定污染源]] -- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物  -- HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
+            - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ (B3) -- mg/m3 g/mol μmol/mol (ppm) -- ( [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[stationary pollution source]] -- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物  -- HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
                 - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
             - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 
                 - $$C_{\mathrm{NO}_{\mathrm{x}}}=C_{\mathrm{NO}} \times \frac{M_{N O 2}}{M_{N O}}+C_{\mathrm{NO} 2}$$ (B4)
