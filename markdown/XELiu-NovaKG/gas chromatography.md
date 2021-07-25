@@ -4,12 +4,18 @@
     - [[eluent]]
     - [[inert solid support]]: 惰性固体支架 
     - [[packed column]]
+    - [[eluent]]: 洗脱液 
     - elute from the column; 被测气体/样气各组分分离后，从色谱柱流出; 从色谱柱中洗脱出来 
 - detector
     - [[flame ionization detector (FID)]]
     - [[filament]]: 灯丝
     - [[thermal conductivity detector (TCD)]]
-- [[eluent]]: 洗脱液 
+- [[double channel]]
+- flow?
+    - [[flow control valve]]
+    - [[flow path]]; sampling flow
+    - [[flow rate]]
+    - [[flow velocity]]
 - [[gas temperature]]
 - [[mobile phase]]
 - [[oven]]
@@ -17,6 +23,9 @@
 - separating and analyzing compounds: 混合物分离分析技术; 
     - [[mixture separation]]; separating the different components
 - [[stationary phase]]
+- valve?
+    - [[flow control valve]]
+        - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
 - ---
 - Wiki
     - Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
@@ -65,7 +74,7 @@
                 - 50ppm ～5ppm, ±3%FS
                 - ＜5ppm, ±4%FS
         - 分析流路数
-            - [分析流路数]是指色谱仪具备分析多少个[采样点] ([[流路]]) 样品的能 力。目前，色谱仪分析流路最多为 31 个( 包括[标定流路])，[实际使用]一般为 1 ～3 个流路，少数情况为4 个流路。
+            - [分析流路数]是指色谱仪具备分析多少个[采样点] ([[flow path]]) 样品的能 力。目前，色谱仪分析流路最多为 31 个( 包括[标定流路])，[实际使用]一般为 1 ～3 个流路，少数情况为4 个流路。
             - 一般推荐一台色谱仪[分析一个流路]。当然对[双通道的色谱仪]([[double channel]]) (有两套[柱系统]和[检测器])来说，其本身具有两台色谱仪的[功效]，可按两台色谱仪考虑。
         - 分析组分数
             - [单一采样点] (流路) 中[最多可分析的组分数]，或者说[软件可处理

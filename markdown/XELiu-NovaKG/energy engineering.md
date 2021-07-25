@@ -1,2 +1,8 @@
 - [[fuel]]
 - oil and petrochemicals industries
+- ---
+- dictionary 
+    - Application of [life cycle exergy analysis] on [energy and power engineering] dict.cnki.net
+    - The Application of IFC Formula in [Thermal Energy Power Engineering]
+    - In [power industry], SA213-T91 steel are [widely used in] superheater 过热器 and reheater of [utility boiler]. 电站锅炉 www.[dictall].com
+    - Therefore, [modal frequencies] 模态频率 of the [turbine blade] 汽轮机叶片 [with and without constraint condition] were measured by using FBG. The [experimental results] illustrated that [measuring method] based on the FBG is reliable. www.[fabiao].net

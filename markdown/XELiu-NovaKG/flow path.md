@@ -1,0 +1,5 @@
+- dictionary 
+    - Its [flow system] and [working process] are introduced. dict.cnki.net
+    - The FIA zone [sampling flow system](((NYNPjAmv_))) is adopted. 
+    - Determination of flow path through analysis of law; 
+    - Also, [error analysis] [verified the reliability of]([[reliability]]) the theory and the [calculation method] of the unit flow path analysis. 
