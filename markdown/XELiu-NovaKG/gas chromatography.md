@@ -1,38 +1,46 @@
-- [[carrier gas]]
-- [[column]]
-    - [[capillary column]]; [[capillary tube]]
-    - [[eluent]]
-    - [[inert solid support]]: 惰性固体支架 
-    - [[packed column]]
-    - [[eluent]]: 洗脱液 
-    - elute from the column; 被测气体/样气各组分分离后，从色谱柱流出; 从色谱柱中洗脱出来 
-- detector
-    - [[flame ionization detector (FID)]]
-    - [[filament]]: 灯丝
-    - [[thermal conductivity detector (TCD)]]
-- [[double channel]]
-- flow?
-    - [[flow control valve]]
-    - [[flow path]]; sampling flow
-    - [[flow rate]]
-    - [[flow velocity]]
-- gas path?
-    - [[排气口]]; [[排液口]]
-- [[gas temperature]]
-- [[mobile phase]]
-- [[oven]]
-    - [[air bath]]; air bath heating
-    - [[thermostatic oven]]; [[柱温箱]] 
-    - [[程序升温炉]]
-- [[partition chromatography]]; [[gas–liquid partition chromatography (GLPC)]]: 气液分配
-- separating and analyzing compounds: 混合物分离分析技术; 
-    - [[mixture separation]]; separating the different components
-- [[stationary phase]]
-- valve?
-    - [[flow control valve]]
-        - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
-    - [[进样阀]]
-        - [[定量管]]; [[定量柱]]
+- keyword
+    - [[carrier gas]]
+    - [[column]]
+        - [[capillary column]]; [[capillary tube]]
+        - [[chromatographic peak]]
+        - [[eluent]]
+        - [[inert solid support]]: 惰性固体支架 
+        - [[packed column]]
+        - [[eluent]]: 洗脱液 
+        - elute from the column; 被测气体/样气各组分分离后，从色谱柱流出; 从色谱柱中洗脱出来 
+        - [[保留时间]]
+    - detector
+        - [[flame ionization detector (FID)]]
+        - [[filament]]: 灯丝
+        - [[thermal conductivity detector (TCD)]]
+    - [[double channel]]
+    - flow?
+        - [[flow control valve]]
+        - [[flow path]]; sampling flow
+        - [[flow rate]]
+        - [[flow velocity]]
+    - gas path?
+        - [[排气口]]; [[排液口]]
+    - [[gas temperature]]
+    - [[mobile phase]]
+    - [[oven]]
+        - [[air bath]]; air bath heating
+        - [[thermostatic oven]]; [[柱温箱]] 
+        - [[程序升温炉]]
+    - [[partition chromatography]]; [[gas–liquid partition chromatography (GLPC)]]: 气液分配
+    - [[plumbing]]: 管道
+        - [[thread]]: 螺纹
+            - sealing pipe threads: 密封管螺纹
+    - separating and analyzing compounds: 混合物分离分析技术; 
+        - [[mixture separation]]; separating the different components
+    - [[stationary phase]]
+    - valve?
+        - [[flow control valve]]
+            - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
+        - [[进样阀]]
+            - [[定量管]]; [[定量柱]]
+        - [[切阀]]; [[柱切阀]]; 柱切换阀; 柱切换系统
+            - [[反吹]]
 - ---
 - Wiki
     - Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
@@ -92,8 +100,9 @@
                 - ? 填充柱： 无机物 3 ～6分钟
 有机物 6 ～12 分钟
                 - ? 毛细管柱：1 min
-    - [采样系统]([[sampling system]])、气路系统、分离系统、检测系统和数据处理系统所组成。
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FYwGFo0DkFf.png?alt=media&token=0038ac75-2aed-41d7-bfa2-581580029f78)
+    - 组成结构
+        - [采样系统]([[sampling system]])、气路系统、分离系统、检测系统和数据处理系统所组成。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FYwGFo0DkFf.png?alt=media&token=0038ac75-2aed-41d7-bfa2-581580029f78)
     - [分析器]([[analyzer]])
         - 恒温炉--设置[程序升温炉]供色谱柱[按程序升温]。
             - [恒温炉]([[thermostatic oven]])**又称恒温箱，或称[色谱柱箱]**。恒温炉的[温控精度]是过程 色谱仪的[重要指标之一]。因为保留时间、[峰高]等都与[色谱柱的温度]有关，保留时间、峰高[随柱温变化的系数]分别为 2.5%/℃、3～ 4%/ ℃，故[柱温的变化][直接影响到][色谱分析的定性与定量]。
@@ -113,7 +122,7 @@
                 - 柱塞阀和膜片阀
                 - 液体进样阀 p63
         - [色谱柱]([[column]])
-            - 利用各组分在色谱柱中的[保留能力]不同进行分离--由于气体分子种类不同，被[填充剂][吸附或溶解]的程度也不同，因而[通过柱子的速度]产生差异，[在柱出口处]就发生了[混合气体被分离成][各个组分]的现象。
+            - 利用各组分在色谱柱中的[保留能力]([[保留时间]])不同进行分离--由于气体分子种类不同，被[填充剂][吸附或溶解]的程度也不同，因而[通过柱子的速度]产生差异，[在柱出口处]就发生了[混合气体被分离成][各个组分]的现象。
             - [填充柱]([[packed column]])
                 - 内径 2.5mm
                     - [[micro-packed column]] -- 填充微粒固定相 -- 内径 0.5mm
@@ -135,7 +144,7 @@
                                 - ? 氢键型固定液 极性固定液之一，含有与[电负性原子](O 2 、N 2 )[相结合的氢原子]，如[聚乙二醇]等。
                     - 它利用[混合物中各组分]在载气和固定液中具有不同的[[溶解度]]，造成在色谱柱内[滞留时间]上存在差别，从而使其[得到分离]。
             - [[柱切阀]]和[色谱柱]组成[柱切换系统]，用于[不同色谱柱之间][气流的切换]。
-                - 过程色谱仪中使用的色谱柱是[由几根短柱组合成的] [色谱柱系统]，通过[柱切换阀]的动作，采用[反吹]、前吹、[中间切割]等[柱切技术]，提高[分离速度]，缩短分析 时间，以适应[在线分析]([[on-line analysis]])的要求。
+                - [过程色谱仪]中使用的色谱柱是[由几根短柱组合成的] [色谱柱系统]，通过[柱切换阀]的动作，采用[[反吹]]、前吹、[中间切割]等[柱切技术]，提高[分离速度]，缩短分析 时间，以适应[在线分析]([[on-line analysis]])的要求。
                 - 主要作用
                     - ? 改善组分[分离效果]
                     - ? 改变组分[流径]
@@ -213,14 +222,14 @@
         - ? 对[检测器信号][进行放大处理]和[数值计算]；
         - ? 本机显示操作和信号输出；
         - ? communicate with DCS.
-        - 获得[色谱图]，最终由[[色谱峰]]的[[保留时间]]、峰高和峰面积来进行定性、定量分析。
+        - 获得[色谱图]，最终由[色谱峰]([[chromatographic peak]])的[[保留时间]]、峰高和峰面积来进行定性、定量分析。
     - 采样单元
         - 如果样品含尘、含水量较大，或含有[对分析器有害的组分]，[则需另设][样品处理系统]([[sample handling system]])[预先加以处理]。
 - # HPGC-1000 型在线气相色谱仪
     - 分析原理
         - FID 简易连接示意图
             - ![HPGC-1000-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9z6LkX6_y6.png?alt=media&token=9ed0eedf-4cea-457d-a15b-876b364b6f0c)
-        - 含有[待测气体]的[样气][经抽气泵吸入]([[抽气泵]])或[正压注入]([[positive pressure]])[色谱分析仪]，经[[隔膜阀]]上[[定量管]]定量并[大气平衡]，切换隔膜阀，样气在载气（氮气）的[驱动下]([[驱动气]])进入色谱柱。在载气带动下，[待测组分]中的[[特征因子]]（如甲烷、苯、甲苯等）[经色谱柱分离流出]并[与氢气混合]进入[氢火焰离子化检测器]的[电离室]，由[毛细管喷嘴]喷出。氢气与助燃空气[燃烧后产生的高温火焰]将待测组分[电离成正负离子]，在极化电压作用下，产生的离子[定向移动][形成电流]。电流[经放大器放大后]在色谱仪上形成[[色谱峰]]。[不需分析的组分]经[切换隔膜阀]，[在载气的驱动下][流出分析仪]。
+        - 含有[待测气体]的[样气][经抽气泵吸入]([[抽气泵]])或[正压注入]([[positive pressure]])[色谱分析仪]，经[[隔膜阀]]上[[定量管]]定量并[大气平衡]，切换隔膜阀，样气在载气（氮气）的[驱动下]([[驱动气]])进入色谱柱。在载气带动下，[待测组分]中的[[特征因子]]（如甲烷、苯、甲苯等）[经色谱柱分离流出]并[与氢气混合]进入[氢火焰离子化检测器]的[电离室]，由[毛细管喷嘴]喷出。氢气与助燃空气[燃烧后产生的高温火焰]将待测组分[电离成正负离子]，在极化电压作用下，产生的离子[定向移动][形成电流]。电流[经放大器放大后]在色谱仪上形成[[chromatographic peak]]。[不需分析的组分]经[切换隔膜阀]，[在载气的驱动下][流出分析仪]。
     - 气路箱
         - 气路箱由[多组管路]构成，用于[软管]和[不锈钢管]的[[走线]]。主要用来进行[管线的安装]。
         - 其中有六个[穿板接头]([[bulkhead union]])：一个Φ6，五个Φ1/8。安装时[从内往外安装]，[穿板短的一部分][放在箱外]，长的部分[放在箱内]。
@@ -270,7 +279,7 @@
                 - 助燃空气→穿板接头05→SV401→PV401
                 - [[助燃气]]/助燃空气首先需经过除烃除水；在使用[[氢空一体机]]时，实际上和载气（氮气）用的是一样的气体
                 - [[驱动气]]通入[气动阀]([[pneumatic valve]])和[[隔膜阀]]，可以用氮气或空气，有压力要求，切阀
-                - 气动阀左右共两个[终端接头] SS-CM-ML6-NS4，P2口接SS-CM-FL2-RS2终端接头，[生料带]缠13圈，拧紧即可。安装支架（位置如图）。   p27
+                - 气动阀左右共两个[终端接头] SS-CM-ML6-NS4，P2口接SS-CM-FL2-RS2终端接头，[生料带]([[thread seal tape]])缠13圈，拧紧即可。安装支架（位置如图）。   p27
                 - 右侧-气动阀+在线过滤器
             - 阀5：三通电磁阀，SV402-控制[[抽气泵]][主流路的通断]。
             - 阀6：三通电磁阀，SV403-用于平衡[样气进入管路之后]与[大气压力]。
@@ -367,6 +376,10 @@
         - 恒温箱-阀流路单元--机箱
     - 3.3 流程对接
         - 3.3.1 气路对接
+            - 先对接[夹层管路]
+                - 从内往外，[按照顺序][缓冲罐出口]，缓冲罐入口，助燃气，氢气，驱动气，校准气，氮气，气浴对接。氢气全程使用[1/8硬管]，其余为[软管]。
+            - 阀控箱管路对接
+                - 将夹层管路[按流程图对接]，缓冲罐入口接[电磁阀SV402]的出口，[缓冲罐进口]接[泵的入口]，氢气接入电磁阀后经[1/8三通][分两路进EPC]，驱动气经由两个1/8三通后[分成三路分别进入]两个隔膜阀和SV401，校准气经1/8三通分两路进SV404和SV405，氮气经由三个1/8三通分成4路直接进入氮气的EPC，[气浴管路]先进侧门[压力表的调压阀]，出调压阀后[固定在气浴枪上]。除了[氢气管路]用[不锈钢管]，其余管路在[进柱温箱]时都为[硬管]。
     - 典型色谱图
         - 
     - 仪表标定
@@ -452,7 +465,7 @@
             - FID仪表标定方法
         - 氢空一体机代替了氮气钢瓶--直接用空气
             - 除烃罐--把载气里的烃给除去
-                - 除烃罐堵了，里面的测温铂电阻烧坏了，在360℃以上烧--接头处绕着的生料带烧没了
+                - 除烃罐堵了，里面的测温铂电阻烧坏了，在360℃以上烧--接头处绕着的[生料带]([[thread seal tape]])烧没了
                 - 在除烃罐内塞满棉花
                 - 用高温胶带把几根铂电阻电阻丝绑起来
         - 空气的流量一直上不到270ml/min
@@ -464,5 +477,6 @@
             - 载气3吹总烃
         - 分析状态
 - ---
-- 陈爱红-色谱基础培训-20170306.pdf
+- References
+    - 陈爱红-色谱基础培训-20170306.pdf
 - 
