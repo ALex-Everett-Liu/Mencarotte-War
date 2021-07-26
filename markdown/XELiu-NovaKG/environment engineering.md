@@ -8,6 +8,7 @@
     - extractive system-抽取式取样
     - [[flow rate]]; [[flow velocity]]
     - flue gas parameter monitoring system
+    - [[flue gas opacity]]
     - [[gas concentration]]
         - [[dry flue gas concentration]]
     - [[gas stream]]
