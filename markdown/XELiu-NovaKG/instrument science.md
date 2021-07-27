@@ -6,10 +6,16 @@
 - [[instrument system]]
 - [[analyzer]]
     - [[gas analyzer]]
-    - [[on-line analysis]]; [[online analysis]]; 
+    - [[on-line analysis]]; [[online analysis]]; 在线式
         - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
         - on-line analyzer system engineering
+    - 便携式
     - [[sample]]
+- [[plumbing]]: 管道
+    - 螺丝
+        - [[thread]]: 螺纹
+            - sealing pipe threads: 密封管螺纹
+            - 管螺纹标准尺寸
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
     - interfere with the reading: 干扰读数; 
