@@ -22,7 +22,7 @@
     - [样品处理系统]([[sample handling system]])
         - sample conditioning: 样气调理
         - [[预处理]]; extensive sample preparation
-    - 采样泵
+    - [[采样泵]]
     - [采样探头]([[sample probe]])
     - **正压式取样** -- 《在线分析系统工程技术》 p19
         - 取样点压力＞0.02MPa
