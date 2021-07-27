@@ -19,7 +19,7 @@
         - [[flow path]]; sampling flow
         - [[flow rate]]
         - [[flow velocity]]
-    - gas path?
+    - gas path; 气路; 气体管路
         - 流路; 流径;
         - [[排气口]]; [[排液口]]
     - [[gas temperature]]
