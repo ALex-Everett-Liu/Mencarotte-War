@@ -24,6 +24,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                 - 测量次数 n≥6
         - [平行性]([[parallelism]]) 
             - 相同环境条件下，三套仪器测量同一样品, [相对标准偏差]([[relative standard deviation (RSD)]])
+            - 三台（套）[同型号待测系统][运行稳定后]，分别进行[零点和量程校准]。依次向三台（套） 待测系统通入浓度为（20%～30%）满量程值、（40%～60%）满量程值、（80%～90%）满量程值 3 种标准气体，[示值稳定后]分别记录三台（套）系统通入 3 种浓度标准气体的测量值。 按照公式（15）分别计算通入每种浓度标准气体三台（套）待测系统测量值的相对标准偏差 ， 即为[待测系统]的平行性，其最大值应符合表 3 的要求。
             - $$P_{j}=\frac{1}{\overline{C_{j}}} \times \sqrt{\frac{\sum_{i=1}^{3}\left(C_{i, j}-\overline{C_{j}}\right)^{2}}{2}} \times 100 \%$$
                 - 测量第j种标准气体的平均值
         - [线性误差]([[linear deviation]])
@@ -165,7 +166,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - 2 [干基浓度]([[dry flue gas concentration]])与湿基浓度的转换公式 $$C_{\text {干 }}=\frac{C_{\text {湿 }}}{1-X_{\mathrm{sw}}}$$ (B2)
                 - 烟气绝对湿度/水分含量
             - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ (B3) 
-                - unit: mg/m3 g/mol μmol/mol (ppm) -- ( [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[stationary pollution source]] -- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物  -- HJ 76-2017 固定污染源烟气（SO2、NOx、颗粒物）排放连续监测系统技术要求及检测方法.pdf p39 )
+                - unit: mg/m3 g/mol μmol/mol (ppm) -- ( [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[stationary pollution source]] -- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物   p39 )
                 - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
                 - 甲烷: 质量浓度=体积浓度*12/22.4 -- 107.14mg/m3=200ppm*12/22.4
             - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 
