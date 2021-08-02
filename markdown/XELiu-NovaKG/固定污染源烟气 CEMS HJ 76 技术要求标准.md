@@ -125,9 +125,9 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
     - maintenance interval: 维护周期
 - 4 系统的组成与结构 p7
     - 气体分析、液体分析 - 气体分析取样 - 4.2.1 样品采集与传输装置
-        - [[采样泵]]
+        - [[sampling pump]]
             - 克服烟道负压
-            - [采样探头]([[sample probe]])
+            - [采样探头]([[sample probe]]); [[probe]]
         - 伴热管线
         - [[预处理]]系统
             - [冷凝器]([[condenser]]) 除湿
