@@ -1,0 +1,5 @@
+- dictionary
+    - Another [general formula] of [equivalent resistance] 等效电阻 of [3 × n step network] www.[dictall].com
+    - Remote Pt-Resistance Temperature Measure System [Based on Data Socket]
+    - Research on [PLC based] [medium frequency inverter resistance] [spot welding machine] 点焊机
+    - Design of **[data gathering system]** for [resistance spot welding] [with USB]

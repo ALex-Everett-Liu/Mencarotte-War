@@ -23,6 +23,7 @@
     - [[magnetic field]]
         - auxiliary field vector
         - [[magnetic force]]
+    - [[resistance]]
 - [[electron]]
     - electron beam
     - [[electron charge]]
