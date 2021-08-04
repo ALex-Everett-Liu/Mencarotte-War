@@ -1,0 +1,7 @@
+- dictionary
+    - gas-pressure meter; rain glass
+    - [Drop the barometer] and [time its fall] with a [[stopwatch]]. blog.163.com
+    - LO-TRIP pressure sensor. The barometer [recorded a low pressure]. www.[dictall].com
+    - It stood very low. There was no mistake.
+    - A Study of Simulating the Action of [Double Pointer Barometers] dict.cnki.net
+    - Temperature and gravitational correction of barometer and gravitational correction studies

@@ -146,7 +146,7 @@
         - Site requirements
             - Installation
                 - § The analyzer should not be [subjected to excessive vibration]([[vibration]]). 分析仪不能受到过度的震动。
-                - § Install the [gas conditioning accessories] 气体处理附件 and the [test gas cylinders] 标气瓶 [close to the analyzer].
+                - § Install the [gas conditioning accessories] 气体处理附件 and the [test gas cylinders]([[gas cylinder]]) 标气瓶 [close to the analyzer].
                 - § [Make provision for] [adequate air circulation] [around the analyzer]. 充分的气体循环。
             - Installation utilities p9
             - Installation gas sample lines #[[sample line]]

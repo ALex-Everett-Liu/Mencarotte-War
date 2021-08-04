@@ -5,7 +5,7 @@
 - [[instrument design]]
 - [[instrument system]]
 - [[analyzer]]
-    - [[gas analyzer]]
+    - [[gas analyzer]]; on-line gas analyzer
     - [[on-line analysis]]; [[online analysis]]; 在线式
         - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
         - on-line analyzer system engineering

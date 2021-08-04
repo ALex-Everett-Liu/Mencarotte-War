@@ -19,11 +19,18 @@
         - [[flowmeter]]; flow indicator
         - [[flow path]]; sampling flow; 流路; 流径;
             - gas path; 气路; 气体管路
+                - [[gas resistance]]
                 - [[vent]]; [[排液口]]
+                - 气路密封性; [[气密性]]
+                    - [[gas-tight connection]]: 气密连接; [[connection point]]
             - switch flows;
         - [[flow rate]]
         - [[flow velocity]]
         - regulate the fluid;
+    - gas pressure; 压力测量装置
+        - [[barometer]]
+        - [[pressure regulating valve]]
+        - [[positive pressure]]; [[negative pressure]]
     - [[gas temperature]]
     - [[mobile phase]]
     - [[oven]]
