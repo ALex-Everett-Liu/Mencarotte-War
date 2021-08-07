@@ -8,6 +8,6 @@
 - [[power consumption]]
 - [[power supply]]
 - [[relay]]: 继电器
-- [[solenoid]]: 螺线管
+- [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
 - [[switch]]
     - [[passive switch box]]: 无源开关箱

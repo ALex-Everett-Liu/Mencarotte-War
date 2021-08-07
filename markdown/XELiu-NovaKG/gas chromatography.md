@@ -17,7 +17,7 @@
     - flow?
         - [[flow control valve]]
         - [[flowmeter]]; flow indicator
-        - [[flow path]]; sampling flow; 流路; 流径;
+        - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
             - gas path; 气路; 气体管路
                 - [[gas resistance]]
                 - [[vent]]; [[排液口]]
@@ -49,11 +49,11 @@
             - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
         - [[needle valve]]--手动控制
         - [[pneumatic valve]]
-        - [[solenoid valve]]: 螺线管阀
+        - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
             - [[manifold]]: 歧管
-            - two-port design
-            - three-port design
-            - [[直通电磁阀]]; [[3-way solenoid valve]]
+            - [[port]]
+            - two-port design; [[2-way valve]]; [[直通电磁阀]]; 
+            - three-port design; [[3-way solenoid valve]]
         - [[进样阀]]
             - [[定量管]]; [[定量柱]]
         - [[切阀]]; [[柱切阀]]; 柱切换阀; 柱切换系统
