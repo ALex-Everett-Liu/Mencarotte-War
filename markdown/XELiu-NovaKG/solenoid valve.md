@@ -13,3 +13,5 @@
         - The LO1 Series offers high flow in a compact, direct acting solenoid valve. www.[chem17].com
     - [The solenoid valve](https://en.wikipedia.org/wiki/File:Pneumatic_Rack_and_Pinion_Actuators.JPG) (small black box [at the top of the photo]) with [input air line](((6VB3eft5s))) (small green tube) used to actuate a larger [[rack and pinion]] [[actuator]] (gray box) which controls the [water pipe valve](((b3NBK4uiU))). 
 210809-00:00
+    - Pilot-Operated
+        - While there are multiple design variants, the following is a [detailed breakdown] of a typical [pilot-operated solenoid valve]. They may use metal seals or rubber seals, and may also have electrical interfaces to allow for easy control.
