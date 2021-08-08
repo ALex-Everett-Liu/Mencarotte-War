@@ -1,8 +1,9 @@
-- [[British imperial system]]
-- [[International System of Units (SI)]]
+- [[British imperial system]]; 英制单位
+- [[International System of Units (SI)]]; 公制单位
 - [[metric system]]
 - [[unit]]; [[unit of measurement]]
 - United States customary system
 - length, distance...
+    - [[inch]]
     - [[nanometer]]
 - length record...

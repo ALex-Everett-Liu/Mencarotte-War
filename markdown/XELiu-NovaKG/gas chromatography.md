@@ -18,9 +18,10 @@
         - [[flow control valve]]
         - [[flowmeter]]; flow indicator
         - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
+            - [[fluid pressure]]
             - gas path; 气路; 气体管路
                 - [[gas resistance]]
-                - [[orifice]]; [[orifice area]]
+                - [[orifice]]; [[orifice area]]; [[orifice diameter]]
                 - [[exhaust port]]; [[vent]]; 排气口; 排出孔; [[排液口]]
                 - [[supply port]]: 供气口; 进气口
                 - 气路密封性; [[气密性]]
@@ -40,28 +41,11 @@
         - [[thermostatic oven]]; [[柱温箱]] 
         - [[程序升温炉]]
     - [[partition chromatography]]; [[gas–liquid partition chromatography (GLPC)]]: 气液分配
-    - pump
-        - [[diaphragm pump]]
+    - [[pump]]
     - separating and analyzing compounds: 混合物分离分析技术; 
         - [[mixture separation]]; separating the different components
     - [[stationary phase]]
-    - valve?
-        - [[diaphragm valve]]; [[diaphragm pump]]
-        - [[flow control valve]]
-            - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
-        - [[needle valve]]--手动控制
-        - [[pneumatic valve]]
-        - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
-            - energize the solenoid; 
-            - [[manifold]]: 歧管
-            - [[normally open (N.O.)]]: 常开; [[normally closed (N.C.)]]
-            - [[port]]
-            - two-port design; [[2-way valve]]; [[直通电磁阀]]; direct acting solenoid valve: 直接传动的/直接作用的
-            - three-port design; [[3-way solenoid valve]]; [[3-way valve]]
-        - [[进样阀]]
-            - [[定量管]]; [[定量柱]]
-        - [[切阀]]; [[柱切阀]]; 柱切换阀; 柱切换系统
-            - [[反吹]]
+    - [[valve]]?
 - ---
 - Wiki
     - Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
@@ -394,7 +378,7 @@
                     - [外螺纹]中的 1/4、1/2、1/8 标记是指螺纹尺寸的代号
 螺纹的[外经]还要大些，所以与换算值不同，一般要[大一档]，具体请查表
                     - 1英寸=8英分=25.4毫米
-1/8 inch = 3.17 mm
+1/8 [[inch]] = 3.17 [[mm]]
 2/8 inch = 6.35 mm
 3/8 inch = 9.5 mm
 

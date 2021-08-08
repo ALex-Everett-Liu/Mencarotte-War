@@ -1,3 +1,5 @@
+- [[actuator]]: 传动装置; 执行器
+    - [[rack and pinion]]
 - [[automatic machinery]]
 - [[engine]]
 - general...
@@ -18,3 +20,4 @@
 - [[vehicle]]; [[vehicle engineering]]
 - [[watch]]
     - [[stopwatch]]
+- [[water pipe]]
