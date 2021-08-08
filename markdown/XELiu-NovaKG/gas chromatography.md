@@ -20,7 +20,9 @@
         - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
             - gas path; 气路; 气体管路
                 - [[gas resistance]]
-                - [[vent]]; [[排液口]]
+                - [[orifice]]; [[orifice area]]
+                - [[exhaust port]]; [[vent]]; 排气口; 排出孔; [[排液口]]
+                - [[supply port]]: 供气口; 进气口
                 - 气路密封性; [[气密性]]
                     - [[gas-tight connection]]: 气密连接; [[connection point]]
             - switch flows;
@@ -50,10 +52,12 @@
         - [[needle valve]]--手动控制
         - [[pneumatic valve]]
         - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
+            - energize the solenoid; 
             - [[manifold]]: 歧管
+            - [[normally open (N.O.)]]: 常开; [[normally closed (N.C.)]]
             - [[port]]
-            - two-port design; [[2-way valve]]; [[直通电磁阀]]; 
-            - three-port design; [[3-way solenoid valve]]
+            - two-port design; [[2-way valve]]; [[直通电磁阀]]; direct acting solenoid valve: 直接传动的/直接作用的
+            - three-port design; [[3-way solenoid valve]]; [[3-way valve]]
         - [[进样阀]]
             - [[定量管]]; [[定量柱]]
         - [[切阀]]; [[柱切阀]]; 柱切换阀; 柱切换系统
