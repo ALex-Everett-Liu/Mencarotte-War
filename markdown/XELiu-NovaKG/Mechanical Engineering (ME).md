@@ -2,11 +2,14 @@
     - [[rack and pinion]]
 - [[automatic machinery]]
 - [[engine]]
+- [[fluid power]]: 流体动力
+    - [[fluid pressure]]
 - general...
     - integrated system
+- [[hydraulic system]]: 液压系统
 - [[instrument science]]
 - [[machine industry]]
-    - [[process control]]
+    - [[process control]]; [[process control system]]
 - [[machine operation]]
 - [[machinery]]: 机械装置
 - [[millstone]]: 磨石, 磨盘

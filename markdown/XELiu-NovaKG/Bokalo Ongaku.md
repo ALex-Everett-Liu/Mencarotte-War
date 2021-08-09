@@ -15,6 +15,8 @@
     - [[みきとP (mikitoP)]]
     - [[煮ル果実 (niru kajitsu)]]
     - [[のぼる↑ (noboruP)]]
+    - [[ナブナ (n-buna)]]
+    - [[ryo (supercell)]]
     - [[すりぃ (Three)]]
     - [[とあ (toa)]]
     - [[Treow（逆衝動P）]]

@@ -3,8 +3,10 @@
     - [[water level]]
 - [[flow control valve]]
     - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
+- [[industrial valve]]
 - [[needle valve]]--手动控制
 - [[pneumatic valve]]
+    - [[pneumatic system]]: 气动系统
 - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
     - energize the solenoid; 
     - [[manifold]]: 歧管

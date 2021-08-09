@@ -14,6 +14,8 @@
     - [[gas stream]]
     - [便携式](((RVT-MB2ge)))[烟气监测设备]
     - 烟气参数测量监测
+- irrigation sprinkler system: 喷水灌溉系统
+    - automatic irrigation sprinkler system;
 - [[standard condition]]; [[standard state]]; [[working condition]]
 - 大气污染防治
 - 节能环保产业 

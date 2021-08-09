@@ -8,7 +8,7 @@
     - electron beam
     - [[integrated circuit]]
     - [[logic gate]]
-    - [[microcontroller]]
+    - [[microcontroller]]; [[controller]]
     - [[Moore's Law]]; [Moore’s Law]
 - [[nanoelectronics]]
 - [[quantum electronics]]

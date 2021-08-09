@@ -15,10 +15,10 @@
         - [[thermal conductivity detector (TCD)]]
     - [[double channel]]
     - flow?
+        - [[compressed air]]
         - [[flow control valve]]
         - [[flowmeter]]; flow indicator
         - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
-            - [[fluid pressure]]
             - gas path; 气路; 气体管路
                 - [[gas resistance]]
                 - [[orifice]]; [[orifice area]]; [[orifice diameter]]
@@ -29,6 +29,7 @@
             - switch flows;
         - [[flow rate]]
         - [[flow velocity]]
+        - [[fluid power]]: 流体动力
         - regulate the fluid;
     - gas pressure; 压力测量装置
         - [[barometer]]
