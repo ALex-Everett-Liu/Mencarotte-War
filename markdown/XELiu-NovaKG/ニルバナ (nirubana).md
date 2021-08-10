@@ -1,7 +1,7 @@
 - 歌：TiA
 作詞：ryo(supercell)
 作曲：ryo(supercell)
-- lyric
+- [lyric](https://j-lyric.net/artist/a014c6b/l03878b.html)
     - やがて巡り巡る季節に
 僕らは息をする
 思い出になるその時まで
