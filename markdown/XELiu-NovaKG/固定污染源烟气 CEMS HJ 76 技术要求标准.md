@@ -8,9 +8,8 @@
                 - 惯性环节--$$T_{90}=5 \mathrm{~s}$$   -- 《在线分析系统工程技术》 p36
                 - 时间常数 T_63
         - 零点漂移和量程漂移
-            - [量程漂移]([[span drift]]) - [[span calibration gas]]
-                - 量程漂移 S_d
-            - [零点漂移]([[zero drift]]) - 通入 [[zero gas]], 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
+            - [量程漂移]([[span drift]]) - [[span calibration gas]] -- 量程漂移 S_d
+            - [零点漂移]([[zero drift]]) - 通入[零气]([[zero gas]]), 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
             - 24h -- 7.1.3.1.4 p15
                 - 24h 零点漂移 $$\begin{gathered}
 \Delta Z_{n}=Z_{n}-Z_{0} \\

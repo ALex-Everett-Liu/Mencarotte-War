@@ -11,15 +11,17 @@
         - on-line analyzer system engineering
     - 便携式
     - [[sample]]
-- [[plumbing]]: 管道
-    - 螺丝
-        - [[thread]]: 螺纹
-            - sealing pipe threads: 密封管螺纹
-            - 管螺纹标准尺寸
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
     - interfere with the reading: 干扰读数; 
 - [[reliability]]: 可靠性
+- [螺丝]([[screw]])
+    - [[plumbing]]: 管道
+    - [[thread]]: 螺纹
+        - sealing pipe threads: 密封管螺纹
+        - 管螺纹标准尺寸
+    - [[thread seal tape]]
+    - [[卡套]]
 - [[sensitivity]]; [[sensitive]]
 - [[stability]]
 - [[防爆]]: explosion protection; 防爆型仪表

@@ -1,3 +1,16 @@
+- gas pressure; 压力测量装置
+    - [[barometer]]
+    - [[pressure regulating valve]]
+- [[gas temperature]]
+- [[negative pressure]]
+    - 负压抽取进样; 负压取样; 持续形成真空或负压
+        - 对空口
+        - 微正压; 微正压取样
+- [[positive pressure]]; 
+    - **正压式取样** -- 《在线分析系统工程技术》 p19
+        - 取样点压力＞0.02MPa
+        - 根部减压阀
+        - 管路泄漏减小
 - [样气]([[sample gas]])
     - condition the sample gas: 调节样气; [[gas conditioning system]]
         - sample conditioning: 样气调理
@@ -19,15 +32,9 @@
                     - 稀释气-零空气发生器
         - close-coupled system - 原位抽取式
     - in-situ system - 原位式/直接测量系统
+    - **正压式取样** -- 《在线分析系统工程技术》 p19
     - [样品处理系统]([[sample handling system]])
         - sample conditioning: 样气调理
         - [[预处理]]; extensive sample preparation
     - [[sampling pump]]
     - [采样探头]([[sample probe]]); [[probe]]
-    - **正压式取样** -- 《在线分析系统工程技术》 p19
-        - 取样点压力＞0.02MPa
-        - 根部减压阀
-        - 管路泄漏减小
-    - 负压抽取进样
-        - 对空口
-        - 微正压取样-负压取样
