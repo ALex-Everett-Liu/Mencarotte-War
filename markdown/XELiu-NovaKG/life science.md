@@ -1,6 +1,6 @@
 - [[biology]]
 - [[ecology]]
-- [[health]]
+- [[health]]; [[wellness]]
 - [[human interaction]]
 - [[medicine]]
 - natural history

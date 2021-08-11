@@ -5,6 +5,7 @@
 - [[negative pressure]]
     - 负压抽取进样; 负压取样; 持续形成真空或负压
         - 对空口
+        - 克服烟道负压
         - 微正压; 微正压取样
 - [[positive pressure]]; 
     - **正压式取样** -- 《在线分析系统工程技术》 p19
@@ -38,5 +39,6 @@
         - sample conditioning: 样气调理
         - [[预处理]]; extensive sample preparation
     - [[sampling pump]] 
-    - [采样探头]([[sample probe]]); [[probe]]
+        - [采样探头]([[sample probe]]); [[probe]]
+        - 克服烟道负压
     - [[进样阀]]

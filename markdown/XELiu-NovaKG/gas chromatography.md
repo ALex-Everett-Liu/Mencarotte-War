@@ -65,7 +65,7 @@
     - Physical components
         - Detectors
             - Further information: Chromatography detector
-            - [Commonly used detectors] are the [[flame ionization detector (FID)]] and the [[thermal conductivity detector (TCD)]]. While TCDs are beneficial in that they are [[non-destructive]], its low [[detection limit]] for most [[analyte]]s [inhibits widespread use].[1] FIDs are [[sensitive]] primarily to [[hydrocarbon]]s, and are [more sensitive to them than] TCD.[4] FIDs [cannot detect water] or carbon dioxide which [make them ideal for] [environmental organic analyte analysis](((MV4S3pkW9))).[1] FID is two to three times more sensitive to [analyte detection] than TCD.[1]
+            - [Commonly used detectors] are the [[flame ionization detector (FID)]] and the [[thermal conductivity detector (TCD)]]. While TCDs are [beneficial in that] they are [[non-destructive]], its low [[detection limit]] for most [[analyte]]s [inhibits widespread use].[1] FIDs are [[sensitive]] primarily to [[hydrocarbon]]s, and are [more sensitive to them than] TCD.[4] FIDs [cannot detect water] or carbon dioxide which [make them ideal for] [environmental organic analyte analysis](((MV4S3pkW9))).[1] FID is two to three times more sensitive to [analyte detection] than TCD.[1]
             - Thermal conductivity detector (TCD) relies on the [[thermal conductivity]] of [matter passing around] [a thin wire of tungsten-rhenium] 钨铼细丝 [with a current traveling through it].[4] [In this set up] [[helium]] or [[nitrogen]] serve as the [[carrier gas]] because of their [relatively high thermal conductivity] which keep the [[filament]] cool 保持灯丝冷却 and maintain uniform [[resistivity]] and [[electrical efficiency]] of the filament.[4][11] 电阻率和电效率均匀 
                 - When [[analyte molecule]]s [elute from the column](((eXVjRydTL))), 从色谱柱中洗脱出来 [mixed with carrier gas], the thermal conductivity decreases while there is an increase in [[filament temperature]] and resistivity [resulting in fluctuations in voltage] ultimately causing a [[detector response]].[4][11] Detector [[sensitivity]] is proportional to [[filament current]] while it is [inversely proportional to] the [[immediate environmental temperature]] of that detector as well as [[flow rate]] of the carrier gas.[4]
 - ---
@@ -234,6 +234,9 @@
     - 采样单元
         - 如果样品含尘、含水量较大，或含有[对分析器有害的组分]，[则需另设][样品处理系统]([[sample handling system]])[预先加以处理]。
 - # HPGC-1000 型在线气相色谱仪
+    - 项目概况
+        - 国内外用于[监测 VOCs] 的方法[主要分为两类]。一类是 [VOCs 总量监测方法](((3EtSE9K02)))，主要有[气相色谱法（GC）]的氢火焰离子化检测器（FID）、光离子化检测器（PID）和[催化氧化红外分析仪]。一类是[单个 VOCs 组分](((cp1g5VU7m)))监测方法，包括傅里叶变换红外光谱法（FT-IR）、差分光学吸收光谱（DOAS）、离子迁移谱法（IMS）、可调谐激光吸收光谱（TDLAS）、质谱法（MS）、气相色谱法（GC）等。
+        - 国内 [VOCs 监测]的[趋势]：用于[污染源废气排放]的VOCs监测大多采用 [GC-FID 监测技术]，[特别适用于]固定污染源废气排放VOCs的甲烷（CH4）和非甲烷总烃（NMHC）的[在线监测]。
     - 分析原理
         - FID 简易连接示意图
             - ![HPGC-1000-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9z6LkX6_y6.png?alt=media&token=9ed0eedf-4cea-457d-a15b-876b364b6f0c)

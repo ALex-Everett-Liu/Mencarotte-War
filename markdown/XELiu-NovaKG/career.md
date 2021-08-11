@@ -10,6 +10,7 @@
 - my resume/CV
 - [[part-time job]]
 - work experience
+- [[workplace]]
 - 面试
     - 面试 210605-10:00
 - 入职
