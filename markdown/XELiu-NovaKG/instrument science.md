@@ -1,18 +1,26 @@
-- calibration
-    - [[calibration gas]]; [[calibration gas system]]
-- [[Data Acquisition and Handling System (DAHS)]]
-- [[instrumentation]]: 器械操作, 仪器制造 
-- [[instrument design]]
-- [[instrument system]]
 - [[analyzer]]
-    - [[gas analyzer]]; on-line gas analyzer
+    - [[gas analyzer]]; on-line gas analyzer; [[gas analyte]]
+        - [[gas detector]]; [[gas chromatography]]; [[gas sensor]]
     - [[on-line analysis]]; [[online analysis]]; 在线式
         - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
         - on-line analyzer system engineering
-    - 便携式
+    - 便携式; hand-held portable instrument
     - [[sample]]
+- calibration
+    - [[calibration gas]]; [[calibration gas system]]; 标定状态
+- [[Data Acquisition and Handling System (DAHS)]]
+    - [[data acquisition system (DAS)]]
+- [[instrumentation]]: 器械操作, 仪器制造 
+- [[instrument design]]
+- [[instrument system]]
+- 管线
+    - [[plumbing]]: 管道
+    - [[sample line]]: 样气管路
+    - [[伴热管线]]
+    - 样品传输管线
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
+    - instantaneous reading
     - interfere with the reading: 干扰读数; 
 - [[reliability]]: 可靠性
 - [螺丝]([[screw]])

@@ -1,9 +1,10 @@
 - [[air emission standard]]
 - [[combustion]]
     - [[combustion control]]
-- [[Continuous Emissions Monitoring Systems (CEMS)]]; [[continuous monitoring]]
+- [[Continuous Emissions Monitoring Systems (CEMS)]]; [[continuous monitoring]] 
     - environmental organic analyte analysis: 环境有机物分析
-    - [[Volatile Organic Compounds (VOCs)]]: 挥发性有机化合物
+    - operate continuously;
+    - [[volatile organic compounds (VOCs)]]: 挥发性有机化合物
 - 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物 
     - extractive system-抽取式取样
     - [[flow rate]]; [[flow velocity]]

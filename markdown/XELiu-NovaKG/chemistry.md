@@ -1,10 +1,12 @@
 - [[analytical chemistry]]
-    - [[analyte]]
+    - [[analyte]]: 被分析物
         - [[analyte molecule]]
+        - [[gas analyte]]
+        - [[vapor analyte]]
     - [[analyzer]]
+        - [[gas analyzer]]; on-line gas analyzer; [[gas analyte]]
     - [[assay]]: 试验, 化验 
     - [[chromatography]]: 色谱, 层析;
-    - [[on-line analysis]]
 - [[biochemistry]]
 - [[chemical bonding]]
 - [[chemical element]]
@@ -15,6 +17,7 @@
     - [[periodic table of elements]]
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
+- [[concentration]]
 - [[hydrocarbon]]
 - [[inert gas]]
 - [[unreactive gas]]

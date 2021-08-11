@@ -1,5 +1,5 @@
 - calibration and maintenance system
-- [[calibration gas]]; [[calibration gas system]]
+- [[calibration gas]]; [[calibration gas system]]; 标定状态
     - [[span calibration gas]]: 量程校准气体
 - [[standard gas]]; 通入标准气体; for test
     - [[span calibration gas]]: 量程校准气体
@@ -9,7 +9,7 @@
 - Continuous emission monitoring systems (CEMS) are used as a tool to monitor the [effluent gas streams] resulting from [[combustion]] in [[industrial process]]es. CEMS can measure [[flue gas]] for [[oxygen]], [[carbon monoxide]] and [[carbon dioxide]] to [provide information for] [[combustion control]] in [[industrial settings]].[1] [2]They are also used as a means to comply with [[air emission standard]]s such as the United States Environmental Protection Agency's (EPA) Acid Rain Program,[3] other US federal emission programs, or state permitted emission standards. 
     - CEMS typically consist of [[analyzer]]s to measure [[gas concentration]]s within the stream, equipment to direct a sample of that [[gas stream]] to the analyzers [if they are remote], equipment to [condition the sample gas by](((bbZEcva84))) [removing water and other components] that could [interfere with the reading](((7oe5A25j1))), 其他可能干扰读数的成分 [pneumatic plumbing with valves]([[pneumatic valve]]) 带阀门的气动管道 that can be controlled by a [[programmable logic controller (PLC)]] to [route the sample gas to and away from]([[sample gas]]) the analyzers, a [calibration and maintenance system](((FSMdqAh5X))) that allows for the injection of [[calibration gas]]es into the [[sample line]], and a [[Data Acquisition and Handling System (DAHS)]] that collects and stores each [[data point]] and can [perform necessary calculations required to] get [[total mass emission]]s. A CEMS [operates at all times] even if [the process it measures] is not on. They can continuously collect, record and report [[emissions data]] for [process monitoring] and/or [for compliance purposes]. 合规性
 210709-17:28
-    - The standard CEM system consists of a [[sample probe]], [[filter]], [[sample line]] (umbilical), 近脐带 [[gas conditioning system]], [[calibration gas system]], and a series of [[gas analyzer]]s which [reflect the parameters being monitored]. Typical [monitored emissions] include: [[sulfur dioxide]], [[nitrogen oxides]], carbon monoxide, carbon dioxide, [[hydrogen chloride]], [[airborne particulate matter]], 空气颗粒物 [[mercury]], [[Volatile Organic Compounds (VOCs)]], and oxygen. CEM systems can also measure [[air flow]], [[flue gas opacity]] and [[moisture]]. A [[monitoring system]] that [measures particulate matter] is referred to as a [[PEMS]].
+    - The standard CEM system consists of a [[sample probe]], [[filter]], [[sample line]] (umbilical), 近脐带 [[gas conditioning system]], [[calibration gas system]], and a series of [[gas analyzer]]s which [reflect the parameters being monitored]. Typical [monitored emissions] include: [[sulfur dioxide]], [[nitrogen oxides]], carbon monoxide, carbon dioxide, [[hydrogen chloride]], [[airborne particulate matter]], 空气颗粒物 [[mercury]], [[volatile organic compounds (VOCs)]], and oxygen. CEM systems can also measure [[air flow]], [[flue gas opacity]] and [[moisture]]. A [[monitoring system]] that [measures particulate matter] is referred to as a [[PEMS]].
 210711-21:48
     - In the U.S., the EPA requires a data acquisition and handling system to [collect and report the data]. Measurements of [[concentration]] [can be converted to mass/hour] by including [[flow rate]] measurements. 流量测量值 The types of gases being measured and the [calculations required] are [dependent upon the source type] and each source type [has its own subpart] under 40 CFR part 60 and part 75.[4] 
         - [SO2 emissions] are measured in [pounds per hour] using both an [SO2 pollutant concentration monitor] and a [volumetric flow monitor]. For NOx, both a NOx pollutant concentration monitor and a diluent gas monitor are used to determine the emissions rate in weight per volume or weight per heat value (for example lbs/million Btu, lbs/ft3, kg/kWh or kg/m3). Opacity measurements are sometimes required, depending on the source type. CO2 measuring is sometimes a requirement, however if monitored, a CO2 or oxygen monitor plus a flow monitor should be used. 
@@ -19,14 +19,14 @@
     - Another sample extraction method used in industrial sources and utility sources with low emission rates, is commonly referred to as a "dry extractive", "hot dry" extractive, or "direct" CEMS. The sample is not diluted, but is carried along a heated sample line at high temperature into a sample conditioning unit. The sample is filtered to remove particulate matter and dried, usually with a chiller, to remove moisture. Once conditioned, the sample enters a sampling manifold and is measured by various gas analyzers, typically NOx and O2 (and sometimes CO) for combustion turbines and engines running natural gas or diesel. NOx analyzers typically work using chemiluminescence. O2 analyzers a magnetic field which attracts O2 to measure the concentration. The O2 causes movement of a suspended mirror within the analyzer which then changes the amount of light being reflected by that mirror onto a photocell. The amount of current required to move the mirror back to center is proportional to the O2 concentration. The ability to measure % oxygen in the sample is required to perform the required calculations.
 - Categories: [[industrial engineering]]
 - ---
-- [挥发性有机化合物]([[Volatile Organic Compounds (VOCs)]])治理 
+- [挥发性有机化合物]([[volatile organic compounds (VOCs)]])治理 
     - Volatile Organic Compounds Monitored with CEMS Systems 
 - 监测单元
     - 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物 
         - 温度、压力、流速 - 变送器 测量仪 - 校准装置
         - 湿度、含氧量
             - [零点漂移]([[zero drift]]) - 通入[零气]([[zero gas]]), 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
-- 数据采集与处理单元
+- [数据采集与处理单元]([[Data Acquisition and Handling System (DAHS)]])
     - 数据处理的计算方法
         - B.4.1 污染物[[浓度转换]]计算公式
 - 质量保证

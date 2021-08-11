@@ -1,5 +1,0 @@
-- Volatile organic compounds (VOC) are [[organic chemical]]s that have a high [[vapour pressure]] at [[room temperature]]. High [[vapor pressure]] correlates with a low [[boiling point]], which relates to [the number of the sample's molecules] [in the surrounding air], a trait known as [[volatility]].[1]
-    - VOC's are responsible for the [[odor]] of [[scent]]s and perfumes as well as [[pollutant]]s. VOCs [play an important role in] communication between animals and plants, e.g. attractants for pollinators,[2] protection from predation,[3] and even [[inter-plant interaction]]s.[4] Some VOCs are dangerous to [[human health]] or [cause harm to the environment]. [[anthropogenic VOCs]] are [regulated by law], especially indoors, where [[concentration]]s are the highest. Most VOCs are not [acutely toxic], but may have [long-term chronic health effects].
-- 检查方法
-    - [[photo ionization detector (PID)]]: 光离子化检测器
-    - [[flame ionization detector (FID)]]: 火焰离子化检测器

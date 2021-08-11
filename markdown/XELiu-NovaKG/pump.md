@@ -1,4 +1,6 @@
 - [[diaphragm pump]]
-- extracting pump; [[抽气泵]]; 真空泵
+- extracting pump; [[抽气泵]]; 
 - [[pumping water]]
-- [[sampling pump]]
+- [[sampling pump]] 
+- 真空泵
+- 喷射泵

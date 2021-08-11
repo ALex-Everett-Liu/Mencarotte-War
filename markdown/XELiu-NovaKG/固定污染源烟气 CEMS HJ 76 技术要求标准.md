@@ -116,7 +116,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
     - [[full scale]]; [[span]]; 满量程值 R -- 最大测量值
         - ±%FS - 满量程[相对误差]([[relative standard deviation (RSD)]]) -- 测量上限-测量下限
         - ±%R - [[示值]]/[读数]([[reading]])相对误差
-    - [[parts per million (ppm)]] (百万分之一体积浓度)
+    - [[parts per million (ppm)]]: 百万分之一体积浓度
     - 干烟气浓度/干基浓度 ([[dry flue gas concentration]])
         - [[dew point temperature]]≤4℃时 经[[预处理]]后 
         - [[standard condition]] - 273K, 101.3kPa (0.101MPa)
@@ -124,15 +124,15 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
     - maintenance interval: 维护周期
 - 4 系统的组成与结构 p7
     - 气体分析、液体分析 - 气体分析取样 - 4.2.1 样品采集与传输装置
-        - [[sampling pump]]
+        - [[sampling pump]] 
             - 克服烟道负压
             - [采样探头]([[sample probe]]); [[probe]]
-        - 伴热管线
+        - [[伴热管线]]
         - [[预处理]]系统
             - [冷凝器]([[condenser]]) 除湿
             - 样品过滤
         - 颗粒物过滤器
-        - 传输管线
+        - [传输管线](((i2v839S3v)))
         - 5.4.2 样品采集和传输设备要求
 - 5 技术要求
     - 5.2 CEMS 工作条件

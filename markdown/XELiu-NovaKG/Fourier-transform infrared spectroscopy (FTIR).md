@@ -1,6 +1,6 @@
 - broadband light source
 - [[commissioning]]: 试运行
-- [[gas cell]]; [[gas cell box]]; [[gas cell module]]
+- [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]]
 - [[purge gas]]: 吹扫气体
 - source module -- MIR source -- __I-nu plot__
 - ---

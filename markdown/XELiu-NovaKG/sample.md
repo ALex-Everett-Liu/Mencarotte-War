@@ -15,8 +15,9 @@
     - condition the sample gas: 调节样气; [[gas conditioning system]]
         - sample conditioning: 样气调理
     - gas flow chart: 气路流程图;
-- [[sample line]]: 样气管路
-- [[sampling system]]: 采样/取样系统
+    - high concentration sample gas;
+    - [[sample line]]: 样气管路
+- [[sampling system]]: 采样/取样系统; 采样分析状态
     - [[automatic sampling]]
     - extractive system-抽取式取样
         - source-level extractive system - 完全抽取
@@ -36,5 +37,6 @@
     - [样品处理系统]([[sample handling system]])
         - sample conditioning: 样气调理
         - [[预处理]]; extensive sample preparation
-    - [[sampling pump]]
+    - [[sampling pump]] 
     - [采样探头]([[sample probe]]); [[probe]]
+    - [[进样阀]]
