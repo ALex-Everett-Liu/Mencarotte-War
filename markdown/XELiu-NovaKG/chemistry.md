@@ -36,3 +36,4 @@
 - [[sample]]
 - [[toxic]]
     - long-term chronic health effect;
+- 可燃气体;

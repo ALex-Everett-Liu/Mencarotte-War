@@ -6,8 +6,17 @@
         - on-line analyzer system engineering
     - 便携式; hand-held portable instrument
     - [[sample]]
+    - 分析站房; 分析小屋, 恒温;
+    - 中控室
 - calibration
+    - calibration and maintenance system
     - [[calibration gas]]; [[calibration gas system]]; 标定状态
+        - [[span calibration gas]]: 量程校准气体
+    - [[standard gas]]; 通入标准气体; for test
+        - [[span calibration gas]]: 量程校准气体
+        - [[zero gas]]
+        - [[标称值]]
+    - 系统标定口;
 - [[Data Acquisition and Handling System (DAHS)]]
     - [[data acquisition system (DAS)]]
 - heating?
@@ -19,6 +28,9 @@
     - [[plumbing]]: 管道
     - [[sample line]]: 样气管路
     - [[伴热管线]]
+    - 钢管
+        - 涂层钢管; 
+    - 四氟管
     - 样品传输管线
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
@@ -31,6 +43,10 @@
         - sealing pipe threads: 密封管螺纹
         - [[thread seal tape]]
         - 管螺纹标准尺寸
+    - 法兰
+    - 接口; 对接;
+        - [[supply port]]: 供气口; 进气口
+        - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
     - [[卡套]]
 - [[seal]]: 密封
     - sealing pipe threads: 密封管螺纹

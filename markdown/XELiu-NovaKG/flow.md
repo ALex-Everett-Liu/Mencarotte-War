@@ -1,4 +1,5 @@
 - [[compressed air]]
+- [[drive gas]]; driving gas; driven gas
 - [[flow control valve]]
 - [[flowmeter]]; flow indicator
     - 转子流量计
@@ -7,8 +8,9 @@
         - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]]
         - [[gas resistance]]
         - [[orifice]]; [[orifice area]]; [[orifice diameter]]
-        - [[exhaust port]]; [[vent]]; 排气口; 排出孔; [[排液口]]
+        - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
         - [[supply port]]: 供气口; 进气口
+        - [[旁路]]
         - 气路密封性; [[气密性]]
             - [[gas-tight connection]]: 气密连接; [[connection point]]
     - switch flows;
@@ -21,3 +23,4 @@
     - [[反吹]]; 从样气入口吹出
 - regulate the fluid;
 - [[reverse flow]]: 反向流动
+    - [[反吹]]; 从样气入口吹出
