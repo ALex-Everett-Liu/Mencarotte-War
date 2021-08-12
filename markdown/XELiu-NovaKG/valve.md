@@ -1,3 +1,4 @@
+- [[check valve]]; non-return check valve; 止回阀 
 - [[diaphragm valve]]; [[diaphragm pump]]
 - [[float valve]]
     - [[water level]]
@@ -7,6 +8,7 @@
 - [[needle valve]]--手动控制
 - [[pneumatic valve]]
     - [[pneumatic system]]: 气动系统
+- [[shut-off valve]]: 截止阀 
 - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
     - energize the solenoid; 
     - [[manifold]]: 歧管

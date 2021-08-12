@@ -1,13 +1,19 @@
 - [[actuator]]: 传动装置; 执行器
     - [[rack and pinion]]
 - [[automatic machinery]]
+- [[crank]]: 曲柄 
 - [[engine]]
 - [[fluid power]]: 流体动力
     - [[fluid pressure]]
 - general...
     - integrated system
-- [[hydraulic system]]: 液压系统
+- [[handle]]: 手柄, 把手, 拉手, 提梁;
+- [[hydraulic system]]: 液压系统; [[pneumatic system]]: 气动系统
+    - [[hydraulic fluid]]: 传压流体
 - [[instrument science]]
+- [[lever]]: 操纵杆, 控制杆, 杠杆; 撬动, 施压;
+- [[mechanical]]; [[mechanical system]]
+- [[electro-mechanical]]: 机电式 
 - [[machine industry]]
     - [[process control]]; [[process control system]]
 - [[machine operation]]
@@ -15,7 +21,9 @@
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
 - [[motor]]
+- [[prime mover]]: 原动机 
 - [[nanomechanics]]
+- [[reciprocating action]]; [[reciprocating motion]]: 往复运动
 - [[robotics]]
 - [[screw]]
 - tools...

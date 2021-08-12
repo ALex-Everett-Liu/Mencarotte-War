@@ -13,7 +13,7 @@
 - ## Architecture
     - A PLC is an [industrial microprocessor-based controller]([[microprocessor]]) with [[programmable memory]] used to [store program instructions] and [various functions].[18] It consists of:
 210623-21:42
-        - a [processor unit (CPU)]([[CPU (central processing unit)]]) which [interprets inputs], [executes the control program] [stored in memory] and [sends output signals],
+        - a [processor unit (CPU)]([[central processing unit (CPU)]]) which [interprets inputs], [executes the control program] [stored in memory] and [sends output signals],
 
         - a [[power supply]] unit which [converts AC voltage to DC],
 

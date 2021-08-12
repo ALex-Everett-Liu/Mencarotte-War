@@ -1,4 +1,4 @@
 - [[centrifugal governor]]: 离心调速器
-    - [[reciprocating motion]]: 往复运动
+    - [[reciprocating action]]; [[reciprocating motion]]: 往复运动
     - [[speed control]]
 - [[pumping water]]

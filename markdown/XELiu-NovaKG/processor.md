@@ -1,5 +1,5 @@
 - [[coprocessor]]
-- [[CPU (central processing unit)]]; [[processor core]]
+- [[central processing unit (CPU)]]; [[processor core]]
 - [[digital signal processor (DSP)]]
 - integral with the processor: 与处理器集成
 - [[microprocessor]]

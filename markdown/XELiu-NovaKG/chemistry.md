@@ -15,11 +15,13 @@
         - enantiomer
         - superposable
     - [[periodic table of elements]]
+- [[chemical plant]]
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
 - [[concentration]]
 - [[hydrocarbon]]
 - [[inert gas]]
+- [[ionization energy]]
 - [[unreactive gas]]
 - [[mixture]]
     - [[mixture separation]]; separating the different components

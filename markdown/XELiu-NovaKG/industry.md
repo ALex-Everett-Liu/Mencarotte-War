@@ -10,4 +10,5 @@
             - [[fur]]; animal skin and hair
 - [[manufacturing]]; 制造业
 - [[mining]]; [[mining industry]]
+- [[process unit]]: 控制器, 过程单元; 工艺装置
 - [[production safety]]

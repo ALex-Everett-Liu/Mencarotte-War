@@ -10,6 +10,8 @@
     - [[calibration gas]]; [[calibration gas system]]; 标定状态
 - [[Data Acquisition and Handling System (DAHS)]]
     - [[data acquisition system (DAS)]]
+- heating?
+    - [[preheat]]
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
@@ -27,9 +29,12 @@
     - [[plumbing]]: 管道
     - [[thread]]: 螺纹
         - sealing pipe threads: 密封管螺纹
+        - [[thread seal tape]]
         - 管螺纹标准尺寸
-    - [[thread seal tape]]
     - [[卡套]]
+- [[seal]]: 密封
+    - sealing pipe threads: 密封管螺纹
+    - [[thread seal tape]]
 - [[sensitivity]]; [[sensitive]]
 - [[stability]]
 - [[防爆]]: explosion protection; 防爆型仪表

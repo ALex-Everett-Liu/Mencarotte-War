@@ -1,4 +1,5 @@
 - [[battery]]; [[battery device]]
+- [[ceramic bed]]
 - flammable material
 - general...
     - withstand high temperatures
@@ -6,3 +7,5 @@
 - [[nanotechnology]]
     - [[metamaterial]]
         - [[artificial material]]
+- [[plastic]]
+- [[rubber]]

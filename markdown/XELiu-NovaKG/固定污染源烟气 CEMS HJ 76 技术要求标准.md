@@ -163,7 +163,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
             - 2 [干基浓度]([[dry flue gas concentration]])与湿基浓度的转换公式 $$C_{\text {干 }}=\frac{C_{\text {湿 }}}{1-X_{\mathrm{sw}}}$$ (B2)
                 - 烟气绝对湿度/水分含量
             - ^^[体积浓度]([[volume concentration]])与[质量浓度]([[mass concentration]])的转换^^ $$C_{Q}=\frac{M}{22.4} \times C_{V}$$ (B3) 
-                - unit: mg/m3 g/mol μmol/mol (ppm) -- ( [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[stationary pollution source]] -- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物   p39 )
+                - unit: mg/m3 g/mol μmol/mol (ppm) -- ( [[固定污染源烟气 CEMS HJ 76 技术要求标准]] -- [[stationary pollution source]] -- 固定污染源中的[烟气]([[flue gas]])监测与分析 - SO2, NOx, 颗粒物 - flue gas from stationary sources  p39 )
                 - C_Q [mg/Nm3] = C_V [ppm] * [分子量]([[molecular mass]]) M / 22.4
                 - 甲烷: 质量浓度=体积浓度*12/22.4 -- 107.14mg/m3=200ppm*12/22.4
             - 未使用NO2转换器-分别测量NO/NO2浓度-氮氧化物NOx的质量浓度 

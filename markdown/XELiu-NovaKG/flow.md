@@ -1,0 +1,23 @@
+- [[compressed air]]
+- [[flow control valve]]
+- [[flowmeter]]; flow indicator
+    - 转子流量计
+- [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
+    - gas path; 气路; 气体管路
+        - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]]
+        - [[gas resistance]]
+        - [[orifice]]; [[orifice area]]; [[orifice diameter]]
+        - [[exhaust port]]; [[vent]]; 排气口; 排出孔; [[排液口]]
+        - [[supply port]]: 供气口; 进气口
+        - 气路密封性; [[气密性]]
+            - [[gas-tight connection]]: 气密连接; [[connection point]]
+    - switch flows;
+    - 改变流向;
+- [[flow rate]]
+- [[flow velocity]]
+- [[fluid power]]: 流体动力
+- [[input gas]]
+- [[purge gas]]: 吹扫气体
+    - [[反吹]]; 从样气入口吹出
+- regulate the fluid;
+- [[reverse flow]]: 反向流动

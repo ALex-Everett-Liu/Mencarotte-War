@@ -890,7 +890,7 @@
         - pl
             - pla
                 - plast
-                    - plastic; [[plasticity]]
+                    - [[plastic]]; [[plasticity]]
                 - play
                     - display
                         - displayed;

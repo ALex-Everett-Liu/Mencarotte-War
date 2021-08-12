@@ -40,5 +40,6 @@
         - [[预处理]]; extensive sample preparation
     - [[sampling pump]] 
         - [采样探头]([[sample probe]]); [[probe]]
+        - 采样探杆; 
         - 克服烟道负压
     - [[进样阀]]

@@ -9,7 +9,11 @@
     - [[volatile organic compounds (VOCs)]]: 挥发性有机化合物
         - VOCs 总量监测方法
         - 单个 VOCs 组分监测方法
-- 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物 
+- decompose hazardous gases: 分解有害气体
+- environment monitoring; 环境监测; 在线监测系统
+- [[filter]]: 过滤器; 过滤芯
+    - 吸附污染物/颗粒物;
+- 固定污染源中的[烟气]([[flue gas]])监测与分析 - SO2, NOx, 颗粒物 - flue gas from stationary sources
     - extractive system-抽取式取样
     - [[flow rate]]; [[flow velocity]]
     - flue gas parameter monitoring system
@@ -22,8 +26,13 @@
 - irrigation sprinkler system: 喷水灌溉系统
     - automatic irrigation sprinkler system;
 - [[pollutant]]
+    - [[air pollution]]; [[air pollution control]]
     - [[air pollutant]]; [[gaseous pollutant]]; 大气污染防治
         - [[indoor air pollutant]]
+- releases into the atmosphere; 排放气体
 - [[standard condition]]; [[standard state]]; [[working condition]]
+- [[thermal oxidizer]]
+    - [[oxidation cycle]]
+    - [[oxidize]]
+- [[废气]]
 - 节能环保产业 
-- 环境监测; 在线监测系统

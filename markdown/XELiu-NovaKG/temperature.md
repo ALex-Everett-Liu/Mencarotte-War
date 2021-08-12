@@ -1,5 +1,5 @@
 - [[absolute zero]]
 - [[degree Celsius]]
 - [[effective temperature]]
-- [[low temperature]]
+- [[high temperature]]; [[low temperature]]
 - [[room temperature]]

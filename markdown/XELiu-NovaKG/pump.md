@@ -1,5 +1,8 @@
 - [[diaphragm pump]]
 - extracting pump; [[抽气泵]]; 
+- [[positive displacement pump]]
+- [[pump chamber]]: 泵室
+- pump a fluid;
 - [[pumping water]]
 - [[sampling pump]] 
 - 真空泵

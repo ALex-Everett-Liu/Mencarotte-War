@@ -22,7 +22,7 @@
 - [挥发性有机化合物]([[volatile organic compounds (VOCs)]])治理 
     - Volatile Organic Compounds Monitored with CEMS Systems 
 - 监测单元
-    - 固定污染源中的烟气监测与分析 - SO2, NOx, 颗粒物 
+    - 固定污染源中的[烟气]([[flue gas]])监测与分析 - SO2, NOx, 颗粒物 - flue gas from stationary sources
         - 温度、压力、流速 - 变送器 测量仪 - 校准装置
         - 湿度、含氧量
             - [零点漂移]([[zero drift]]) - 通入[零气]([[zero gas]]), 与zg[初始测量值]的 [偏差]相对于[满量程](((gvmEgkJWk)))的百分比
