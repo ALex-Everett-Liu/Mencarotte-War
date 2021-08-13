@@ -2,6 +2,7 @@
     - [[basic arithmetic]]
 - [[calculus]]
 - [[complex number]]
+- [[function]]
 - [[game theory]]
 - general...
     - [[mathematical structure]]

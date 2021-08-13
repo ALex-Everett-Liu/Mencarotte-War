@@ -3,4 +3,6 @@
 - [[observed data]]; [[observed evidence]]
 - [[repeatability]]
     - 测量精度; [精密度]([[precision]]) -- [多次重复测定][同一个量]，[随机误差]([[random error]])，[[standard deviation (SD)]]；即重复性
+- sample data; 
+- entire population data; 
 - [[trend]]

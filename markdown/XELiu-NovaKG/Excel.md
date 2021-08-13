@@ -10,3 +10,31 @@
     - 趋势线 -- 回归分析类型
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fs_NrilvH5q.png?alt=media&token=d83ab7ef-6b24-48f6-9c45-813e6bc3e107)
         - 决定系数 R^2值
+- Excel STDEV.S Function
+    - [Summary](https://exceljet.net/excel-functions/excel-stdev.s-function)
+        - The Excel STDEV.S function calculates the [[standard deviation (SD)]] for [a sample set of data]. STDEV.S replaces the older STDEV function, with the same behavior.
+        - ![STDEV.S-01](https://exceljet.net/sites/default/files/styles/original_with_watermark/public/images/functions/main/exceljet_stdev.s.png)
+    - Purpose
+        - Get the standard deviation in a sample
+    - Return value
+        - Estimated standard deviation
+    - Syntax
+        - =STDEV.S (number1, [number2], ...)
+    - [Arguments]([[argument]])
+        - **number1** - First number or reference in the sample.
+        - **number2** - [optional] Second number or reference.
+    - Usage notes
+        - The STDEV.S function calculates the standard deviation in a sample set of data. Standard deviation is a [[measure]] of [how much variance there is]([[variance]]) [in a set of numbers] [compared to the average (mean) of the numbers]. The STDEV.S function is meant to estimate standard deviation in a sample. If data [represents an entire population], use the [STDEV.P function].
+210813-21:11
+        - __Note: STDEV.S replaces the older STDEV function, but has identical behavior. Although STDEV still exists for__ [[backwards compatibility]], Microsoft [recommends that people use] the newer STDEV.S function instead.
+    - ### Standard Deviation functions in Excel
+        - The table below summarizes the standard deviation functions [provided by Excel].
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FBBbEt7bTCS.png?alt=media&token=039e93e6-abfd-406c-8498-667f91c2f939)
+        - Notes:
+            - STDEV.S calculates standard deviation using the ["n-1" method].
+            - STDEV.S [assumes data is a sample only](((wjnrPIQit))). When data [represents an entire population](((R4yj54W0x))), use the STDEV.P function.
+210813-22:35
+            - Numbers are supplied as arguments. They can be supplied as [actual numbers], ranges, arrays, or references that contain numbers.
+            - STDEV.S ignores [empty cells], logical values, and text that appears in [supplied reference(s)].
+            - STDEV.S will [evaluate text and logical values] [hardcoded as function arguments].
+            - To evaluate logical values and/or numbers as text in a reference, see the STDEVA function.
