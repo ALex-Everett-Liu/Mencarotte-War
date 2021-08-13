@@ -2,6 +2,8 @@
 - [[analog to digital conversion]]; [[A/D converter]]; [[D/A converter]]
 - [[circuit diagram]]
 - [[digital circuit]]
+- [[electric current]]
+    - [[amplified current]]
 - [[genetic circuit]]
 - [[mixed-signal circuit]]
     - [[mixed signal microcontroller]]

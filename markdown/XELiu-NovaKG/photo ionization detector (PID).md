@@ -1,16 +1,23 @@
 - [[HPID-1000]]
 - ---
 - A photoionization detector or PID is a type of [[gas detector]].
-    - Typical photoionization detectors measure [[volatile organic compounds (VOCs)]] and [other gases] in [[concentration]]s from sub [parts per billion]([[parts per billion (ppb)]]) to 10 000 [[parts per million (ppm)]]. The photoionization detector is an efficient and inexpensive detector for many [[gas analyte]] and [[vapor analyte]]s. PIDs [produce instantaneous readings](((H-yb4SU5Q))), [operate continuously](((bnC2WCf0h))), and are [commonly used as] detectors for [[gas chromatography]] or as [hand-held portable instruments](((RVT-MB2ge))). Hand-held, battery-operated versions are widely used in military, industrial, and confined working facilities for health and safety. Their primary use is for monitoring possible worker exposure to volatile organic compounds (VOCs) such as solvents, fuels, degreasers, plastics & their precursors, heat transfer fluids, lubricants, etc. during manufacturing processes and waste handling.
-    - Portable PIDs are used for monitoring:
-        - Industrial hygiene and safety
-Environmental contamination and remediation
+    - Typical photoionization detectors measure [[volatile organic compounds (VOCs)]] and [other gases] in [[concentration]]s from sub [parts per billion]([[parts per billion (ppb)]]) to 10 000 [[parts per million (ppm)]]. The photoionization detector is an efficient and inexpensive detector for many [[gas analyte]] and [[vapor analyte]]s. 
+        - PIDs [produce instantaneous readings](((H-yb4SU5Q))), [operate continuously](((bnC2WCf0h))), and are [commonly used as] detectors for [[gas chromatography]] or as [hand-held portable instruments](((RVT-MB2ge))). Hand-held, [battery-operated versions] 手持式、电池供电型 are widely used in military, industrial, and [confined working facilities](((qm9Qc4RzJ))) [for health and safety](((TG956CsgF))). Their [primary use] is for [monitoring possible worker exposure to] volatile organic compounds (VOCs) such as [[solvent]]s, [[fuel]]s, degreasers, 脱脂剂 [[plastic]]s & their precursors, 前体 [[heat transfer fluid]]s, [[lubricant]]s, etc. during [[manufacturing process]]es and [[waste handling]].
+210813-15:30, 15:44
+    - [Portable PIDs](((RVT-MB2ge))) are used for monitoring:
+        - [Industrial hygiene and safety](((z_kVWnKjB)))
+[Environmental contamination and remediation](((fT-ptoXDX)))
 Hazardous materials handling
 Ammonia detection
 Lower explosive limit measurements
 Arson investigation
-Indoor air quality
+[[indoor air quality]]
 Cleanroom facility maintenance
+- Principle
+    - In a photoionization detector [[high-energy photon]]s, typically in the [[vacuum ultraviolet (VUV)]] range, [break molecules into] [positively charged ions](((YytyrwZpe))). As [[compound]]s [enter the detector] they are bombarded by 轰击 [high-energy UV photons] and are [[ionized]] when they [absorb the UV light], [resulting in ejection of electrons](((o2rLf40L4))) and the [formation of positively charged ions]. The ions produce an [[electric current]], which is the [[signal output]] of the detector. The greater the [[concentration]] of the [[component]], the more ions are produced, and the greater the current. [The current is amplified]([[amplified current]]) and displayed on an [[ammeter]] or [digital concentration display](((xHxpVqARm))). 
+        - The ions [can undergo numerous reactions] including [reaction with oxygen or water vapor], rearrangement, and fragmentation. A few of them may [recapture an electron] within the detector to [reform their original molecules]; however [only a small portion of] the [airborne analytes] are ionized to begin with so the [practical impact] of this (if it occurs) is usually negligible. Thus, PIDs are non-destructive and can be used before other sensors in multiple-detector configurations.
+210813-15:52, 16:01
+    - The PID will only respond to components that have ionization energies similar to or lower than the energy of the photons produced by the PID lamp. As stand-alone detectors, PIDs are broad band and not selective, as these may ionize everything with an ionization energy less than or equal to the lamp photon energy. The more common commercial lamps have photons energy upper limits of approximately 8.4 eV, 10.0 eV, 10.6 eV, and 11.7 eV. The major and minor components of clean air all have ionization energies above 12.0 eV and thus do not interfere significantly in the measurement of VOCs, which typically have ionization energies below 12.0 eV.[1]
 - ---
 - PID 检测器工作原理
     - PID使用了一个[紫外灯(UV)光源](((SG-jAoXKF)))将[有机物分子]离子化/[电离成][可被检测器检测到的][正负离子]，样气[进入分析仪][通过流通池]([[流通池]])时，[检测器捕捉到][离子化了的气体的正负电荷]/[微弱离子流]并**[将其转化为电流信号][实现气体浓度的测量]**。详见图1-2。

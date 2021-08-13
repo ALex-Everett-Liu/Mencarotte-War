@@ -1,4 +1,5 @@
 - [[assembly line]]: 装配线, 流水作业线;
+- confined working facility: 密闭工作设施;
 - [[harsh environment]]
 - [[industrial application]]
 - [[industrial process]]
@@ -11,4 +12,10 @@
 - [[manufacturing]]; 制造业
 - [[mining]]; [[mining industry]]
 - [[process unit]]: 控制器, 过程单元; 工艺装置
-- [[production safety]]
+- safety; health and safety;
+    - [[防爆]]: explosion protection; 防爆型仪表
+        - 防爆等级
+        - 防爆膜
+        - [[防爆要求]]
+    - industrial hygiene and safety;
+    - [[production safety]]

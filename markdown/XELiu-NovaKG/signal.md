@@ -5,6 +5,7 @@
 - [[noise]]
     - [[separate signal from noise]]
     - [[signal-to-noise ratio]]
+- [[signal output]]
 - relaying signals
 - [[signal processing]]
 - [[visual signal]]

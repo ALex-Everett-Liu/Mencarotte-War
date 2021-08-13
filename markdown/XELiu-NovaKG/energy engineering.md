@@ -1,4 +1,7 @@
 - [[fuel]]
+- heating?
+    - [[heat transfer fluid]]: 传热液
+    - [[preheat]]
 - oil and petrochemicals industries
 - ---
 - dictionary 

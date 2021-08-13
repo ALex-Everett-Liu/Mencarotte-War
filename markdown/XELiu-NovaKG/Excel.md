@@ -5,3 +5,8 @@
         - 锁定列（$A1)：公式横向拖动时引用不变，但竖向拖动时，一次变为$A2、$A3……；
         - 锁定行（A$1)：公式竖向拖动时引用不变，但横向拖动时，一次变为B$1、C$1……。
     - An [[absolute reference]] [in Excel](https://www.ablebits.com/office-addins-blog/2015/11/25/relative-absolute-reference-excel/) is a [[cell address]] with the [[dollar sign]] ($) in the row or column coordinates, like $A$1. The dollar sign fixes the reference to a given cell, so that it remains unchanged no matter where the formula moves.
+- 数据序列与作图
+    - 数据区域 -- $'sheet1'.$A$1:$B$7 (包含该7*2矩阵中的全部数据)
+    - 趋势线 -- 回归分析类型
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fs_NrilvH5q.png?alt=media&token=d83ab7ef-6b24-48f6-9c45-813e6bc3e107)
+        - 决定系数 R^2值

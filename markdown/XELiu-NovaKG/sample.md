@@ -1,9 +1,10 @@
 - gas pressure; 压力测量装置
     - [[barometer]]
-    - [[pressure regulating valve]]
+    - [[pressure regulating valve]] -- 正压打入; 通气;
 - [[gas temperature]]
 - [[negative pressure]]
     - 负压抽取进样; 负压取样; 持续形成真空或负压
+        - extracting pump; [[抽气泵]]; 
         - 对空口
         - 克服烟道负压
         - 微正压; 微正压取样
@@ -12,6 +13,7 @@
         - 取样点压力＞0.02MPa
         - 根部减压阀
         - 管路泄漏减小
+    - [[pressure regulating valve]] -- 正压打入; 通气;
 - [样气]([[sample gas]])
     - condition the sample gas: 调节样气; [[gas conditioning system]]
         - sample conditioning: 样气调理

@@ -1,6 +1,6 @@
 - [[delayed emission]]
 - duration of exposure
-- eject electrons out of the material;
+- eject electrons out of the material; ejection of electrons
 - [[electron emission]]
     - precisely timed electron emission
 - exceed a certain frequency;

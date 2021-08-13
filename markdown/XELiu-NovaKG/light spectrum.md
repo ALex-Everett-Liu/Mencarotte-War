@@ -11,6 +11,7 @@
     - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
 - [[microwave]] - mm
 - ultraviolet; ultraviolet radiation - 200~380 nm
+    - [[vacuum ultraviolet (VUV)]]
 - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range - 380~780 nm 
 - non-visible band;
 - [[radio wave]]

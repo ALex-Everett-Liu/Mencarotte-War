@@ -16,12 +16,14 @@
         - superposable
     - [[periodic table of elements]]
 - [[chemical plant]]
+- [[component]]
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
 - [[concentration]]
 - [[hydrocarbon]]
 - [[inert gas]]
-- [[ionization energy]]
+- [[ion]]
+    - [[ionization energy]]
 - [[unreactive gas]]
 - [[mixture]]
     - [[mixture separation]]; separating the different components
@@ -34,6 +36,7 @@
     - [[purification]]
 - [[quantum chemistry]]
 - [[sample]]
+- [[solvent]]: 溶剂, 溶媒;
 - [[toxic]]
     - long-term chronic health effect;
 - 可燃气体;

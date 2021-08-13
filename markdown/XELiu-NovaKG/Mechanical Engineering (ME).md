@@ -12,6 +12,7 @@
     - [[hydraulic fluid]]: 传压流体
 - [[instrument science]]
 - [[lever]]: 操纵杆, 控制杆, 杠杆; 撬动, 施压;
+- [[lubricant]]: 润滑剂 
 - [[mechanical]]; [[mechanical system]]
 - [[electro-mechanical]]: 机电式 
 - [[machine industry]]

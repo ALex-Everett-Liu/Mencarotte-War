@@ -4,7 +4,7 @@
     - [[on-line analysis]]; [[online analysis]]; 在线式
         - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
         - on-line analyzer system engineering
-    - 便携式; hand-held portable instrument
+    - portable instrument; hand-held portable instrument; 便携式;  
     - [[sample]]
     - 分析站房; 分析小屋, 恒温;
     - 中控室
@@ -20,8 +20,7 @@
     - 系统标定口;
 - [[Data Acquisition and Handling System (DAHS)]]
     - [[data acquisition system (DAS)]]
-- heating?
-    - [[preheat]]
+- [[防爆]]: explosion protection; 防爆型仪表
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
@@ -35,6 +34,7 @@
     - 样品传输管线
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
+    - digital concentration display; 
     - instantaneous reading
     - interfere with the reading: 干扰读数; 
 - [[reliability]]: 可靠性
@@ -54,10 +54,6 @@
     - [[thread seal tape]]
 - [[sensitivity]]; [[sensitive]]
 - [[stability]]
-- [[防爆]]: explosion protection; 防爆型仪表
-    - 防爆等级
-    - 防爆膜
-    - [[防爆要求]]
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.
