@@ -16,6 +16,7 @@
         - [[span calibration gas]]: 量程校准气体
         - [[zero gas]]
         - [[标称值]]
+    - 校正系数; 校正因子; 转换系数;
     - 系统标定口;
 - [[Data Acquisition and Handling System (DAHS)]]
     - [[data acquisition system (DAS)]]
