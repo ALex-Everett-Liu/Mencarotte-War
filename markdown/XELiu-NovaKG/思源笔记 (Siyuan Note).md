@@ -5,3 +5,7 @@
             - 这并不像更简单 json 取代复杂的 xml 那样, 因为[用途不一样], 我觉得 用 usd 做类比, [展望笔记的未来]才更合适.
     - 经过一段时间的[调研和尝试](https://ld246.com/article/1619868273581)，[我们确认了]使用[标准 Markdown 语法]（CommonMark/GFM）是[无法实现][块级引用]的，必须[引入扩展语法]。在众多的 [Markdown 扩展语法]中，我们选择了 [kramdown](https://link.ld246.com/forward?goto=https%3A%2F%2Fkramdown.gettalong.org) 提供的[内联属性列表]（[Inline Attribute Lists](https://link.ld246.com/forward?goto=https%3A%2F%2Fkramdown.gettalong.org%2Fsyntax.html%23inline-attribute-lists)）语法给[块级元素][做标识]，让每个块级元素都[拥有唯一的 ID]。这样[在引用的时候]就能[精确地获取到]该块。保持 [Markdown 文本][人类易读写]的前提下[最大限度地实现]通用性和互操作性。 #pt8-99.99
         - All non-trivial [[abstraction]]s, to some degree, are leaky.
+    - 我们工作里的图形，用到的[节点文本]，大量是从[数据库设计]和[程序流设计]里引用的[元术语]，如果用 visio 画，一旦设计改动，图形需要[大量手工更新]，现在思源的[嵌入特性]，不仅使得图形可以直接复制笔记中的术语，还可以用[编程工具]，在元术语基础上，生成画图脚本，贴到思源中渲染；[程序注释]的一部分工作都可以[迁移过来]，使得[设计和构建][无缝对接和更新]；
+        - JSON 的[开放性]，给了[二次开发]极大的可能，我们有队员已经尝试将 .sy 文件的链接全部导入 neo4j，可以有更丰富的[笔记分析应用]可能；
+        - JSON 也使得[我们团队]以 git flow 管理了[全局文档]，可以[即时看到][更新的细节]，也可以做好[全局定稿]和[局部草稿]的管理，比[在线同步的工具][更适合开发]。
+        - 作者：[audiolabj](https://ld246.com/article/1626434677993) -- sbnmsl   #pt8-99.98

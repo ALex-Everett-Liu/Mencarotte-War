@@ -93,12 +93,11 @@
     - `file:///` 很不靠谱，workflowy 想[链接到本地文件](https://www.zhihu.com/pin/1381426035402084352)[有两种方法]，[稳定一点的方法]是直接靠 zotero 的 url scheme 来[插入附件]，[灵活一点的方法]是插入 everything 的[搜索型 url scheme] #pt10-99.99
         - 【多维表格 + url scheme】的组合肯定是比 notion 强的，特别是这个[多维表格]选 Airtable 的时候，notion 哪怕[开放了 api] 也玩不出 Airtable schema app 那种效果；
         - 【freeplane + url scheme】这个组合[既可以简单使用]，也可以用上[子树脱离嵌套]、属性稀疏树、[日程脚本]等[进阶技巧]，url scheme [则负责][补齐编辑器的短板]，[这一套弄下来][难觅对手]。
-    - 我之前跟天生[沟通时][也说过类似的内容]，其实简悦和 Logseq [背后的理念]很相似，都是[主打] 本地 + 高度隐私权 的[产品]。 #pt10-99.99
-        - 无奈，因时间有限，所以[无法有太多时间][做很多互动性的事情]，所以希望[在社区的帮助下]，可以有[更多玩法]。
-        - 关于如何与 Logseq 的[联动]还有[更多的玩法]，不知道 [@Spike](https://cn.logseq.com/u/spike) [是否可以联络我][一起研究下]？
     - [我记得](https://www.yuque.com/deerain/gannbs/kga20n)[开发者][很早就敲定了]「视图」的[发展方向]（应该是在 github 上说的），这种[产品眼光][是非常先进的]，在双链时代，笔记软件[折腾来折腾去][都是在折腾]「组织方式」，把这一步做完善之后，下一步就是「呈现方式」，也就是[视图]。 #pt9-100
         - notion 的[第二个问题]是它的视图[太平庸]，说这种话[一点都不事后诸葛亮]，表格看板日历就是[人人都能想到的东西]，更别说[列表视图][完全就是个凑数的]。
             - 实际上视图[有很多种可能]，比如[这种视图](https://zhuanlan.zhihu.com/p/289356513)，从[知识管理]的层面来说[是非常先进的]；Trilium 的 [relation map note] 和 Tiddlywiki 的[固定式关系图][也很值得一学]，因为[每个元素]都是[自己往图上添加的]，位置都是自己固定的，[实用性]比这些[双链笔记]的[混乱关系图]强太多了。不过这些视图目前在 widget block 里[可能不太好实现]，[坐标数据][没地方存]，毕竟思源好像[还不支持][自定义块属性]，自己手动在 IAL 里写入的块属性会被思源[刷掉]。
+    - Emacs 和 Vim 快捷键 # pt9-100
+        - vim 要[切换模式](https://cn.logseq.com/t/topic/1265)，两个键是先后按， 两个同时按的更流畅。
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
     - 【技巧】如何让 RoamEdit 也能使用 Grammarly 插件[检查语法](https://club.roamedit.com/club/?thread-961.htm)？ #pt9-99.99
         - 英文语法检测，是很多同学的[刚需]。有好几个小伙伴[向我反馈]在 RE 上 Grammarly 浏览器插件[用不了]，今天和 @Innis [研究了一下]，发现这几个问题：
@@ -112,6 +111,9 @@
     - 本来 flomo 的故事是讲得下去的，然而现在有个东西叫 writeathon。writeathon 既是优秀的[收集软件]也是优秀的[写作软件]，虽然 flomo [讲故事的时候][带上了] notion，但 flomo+notion [这个组合][还真比不上][直接用] writeathon，在[收集端] flomo 只比 writeathon 多两个入口、[整理能力]不如 writeathon，在[输出端] notion 也比不上可以[无缝调用自身卡片盒]的 writeathon。[有人留言或私信问我] flomo 怎么样的时候[我都推荐] writeathon，[几乎所有人][在试用之后]都从 flomo [转投](https://www.yuque.com/deerain/gannbs/hkdvkr) writeathon 了。 #pt9-99.99
         - 根据我的经验，像元思这种[从移动端起家的产品]，基本可以[提前认为]它将来[做不好桌面端]，我觉得[没必要关注]
         - 不用 pick，只要懂 bujo 就可以在思源或 Obsidian 里轻松 all in one，这就是[文档型软件]的优势，只要懂[方法论]就可以应对[任务管理]（特别重度的不行），用[大纲型软件][再怎么懂方法][也很难应对好][写作需求]
+    - github 的访问并不是那么流畅。
+webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库存储空间]，就可以[自由使用](https://cn.logseq.com/t/topic/1231)多种[云服务商]的存储了。 # pt9-99.99
+        - Logseq [在一开始明确说了]要支持 webdav，不过我在 roadmap 中[却没有发现他们的计划]，backlog 都没发现
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
     - 思源 [CSS 主题]修改[常见问题](https://ld246.com/article/1623514611258)与教程 #pt9-99.99
     - RE [暗色毛玻璃主题](https://club.roamedit.com/club/?thread-728.htm)分享 #pt8-100
