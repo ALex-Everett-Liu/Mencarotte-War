@@ -1,3 +1,5 @@
+- Asia
+    - [[Afghanistan]]
 - Central Lands...
     - [[Arabia]]
 - [[Chinese history]]
