@@ -4,7 +4,7 @@
         - [[gas analyte]]
         - [[vapor analyte]]
     - [[analyzer]]
-        - [[gas analyzer]]; on-line gas analyzer; [[gas analyte]]
+        - [[gas analyzer]]; [[gas analyser]]; on-line gas analyzer; [[gas analyte]]
     - [[assay]]: 试验, 化验 
     - [[chromatography]]: 色谱, 层析;
 - [[biochemistry]]
@@ -20,6 +20,9 @@
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
 - [[concentration]]
+- dose
+    - dose liquid and gas; 
+- [[evaporation]]
 - [[hydrocarbon]]
 - [[inert gas]]
 - [[ion]]
@@ -36,7 +39,7 @@
     - [[purification]]
 - [[quantum chemistry]]
 - [[sample]]
-- [[solvent]]: 溶剂, 溶媒;
+- [[solution]]: 溶液
 - [[toxic]]
     - long-term chronic health effect;
 - 可燃气体;

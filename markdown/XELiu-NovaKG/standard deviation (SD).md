@@ -16,6 +16,8 @@
             - If an argument is an array or reference, only numbers in that array or reference are counted. Empty cells, logical values, text, or error values in the array or reference are ignored.
             - Arguments that are error values or text that cannot be translated into numbers cause errors.
             - If you want to include logical values and text representations of numbers in a reference as part of the calculation, use the STDEVA function.
+        - ## Example
+            - Copy the example data [in the following table], and paste it in cell A1 of a new Excel [[worksheet]]. For formulas to show results, select them, press F2, and then press Enter. If you need to, you can adjust the [[column width]]s to see all the data.
     - # Excel-jet 
         - [Summary](https://exceljet.net/excel-functions/excel-stdev.s-function)
             - The Excel STDEV.S function calculates the [[standard deviation (SD)]] for [a sample set of data]. STDEV.S replaces the older STDEV function, with the same behavior.

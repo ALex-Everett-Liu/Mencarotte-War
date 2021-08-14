@@ -28,7 +28,6 @@
     - [[stationary phase]]
     - [[valve]]?
     - [[配气仪]]
-        - 稀释配气仪; 
 - ---
 - Wiki
     - Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]

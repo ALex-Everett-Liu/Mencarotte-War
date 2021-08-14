@@ -2,6 +2,7 @@
 - [[drive gas]]; driving gas; driven gas
 - [[flow control valve]]
 - [[flowmeter]]; flow indicator
+    - [[mass flow meter]]
     - 转子流量计
 - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
     - gas path; 气路; 气体管路

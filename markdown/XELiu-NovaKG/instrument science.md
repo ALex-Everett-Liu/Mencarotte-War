@@ -1,6 +1,10 @@
 - [[analyzer]]
-    - [[gas analyzer]]; on-line gas analyzer; [[gas analyte]]
+    - [[gas analyzer]]; [[gas analyser]]; on-line gas analyzer; [[gas analyte]]
         - [[gas detector]]; [[gas chromatography]]; [[gas sensor]]
+        - gas metering system; 
+        - [[配气仪]]
+            - [[gas-vapor mixture]]
+            - 稀释配气仪; 
     - [[on-line analysis]]; [[online analysis]]; 在线式
         - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
         - on-line analyzer system engineering

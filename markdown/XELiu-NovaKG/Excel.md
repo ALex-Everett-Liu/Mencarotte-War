@@ -1,4 +1,6 @@
+- [[column width]]
 - a reference to an array; 
+- [[worksheet]]
 - ---
 - ## EXCEL教程 • 引用单元格时，$A$1和A1有什么区别？
     - 相对引用：在拖动光标进行复制时，被引用单元格在行和列都可变化；
