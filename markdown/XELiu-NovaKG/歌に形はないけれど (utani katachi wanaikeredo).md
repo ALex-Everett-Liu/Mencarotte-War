@@ -3,9 +3,9 @@
 編曲：doriko
 唄：初音ミク
 - ### [曲紹介](https://w.atwiki.jp/hmiku/pages/183.html)
-    - グラフィックデザインは「[夕日坂](https://w.atwiki.jp/hmiku/pages/669.html)」でおなじみ[nezuki](https://w.atwiki.jp/hmiku/pages/42233.html)氏が担当。
-    - 2009年8月25日 22時20分に自身2曲目となる100万再生を達成。現在ボカロオリジナル曲で[ミリオン](https://w.atwiki.jp/hmiku/pages/4386.html)を達成している曲の一つである。
-    - 2015年9月2日には、同日発売のミニアルバム『[origin](https://w.atwiki.jp/hmiku/pages/32483.html)』収録のlast mixが公開されている。
+    - [グラフィックデザイン]は「[夕日坂](https://w.atwiki.jp/hmiku/pages/669.html)」でおなじみ[nezuki](https://w.atwiki.jp/hmiku/pages/42233.html)氏が担当。
+    - 2009年8月25日 22時20分に自身2曲目となる100万再生を達成。
+    - 2015年9月2日には、同日発売のミニアルバム『[origin](https://w.atwiki.jp/hmiku/pages/32483.html)』収録の last mix が公開されている。
 - ### 歌詞
     - 薄紅の時を彩る花びら
 ひらひら舞う光の中

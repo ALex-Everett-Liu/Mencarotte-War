@@ -1,6 +1,6 @@
 - workflow
     - [[Hopes Company]]
-    - 文件服务器：电脑桌面-右键-新建-快捷方式，输入 `\\192.168.1.230`，用户名：`hopes.com\xun.liu`; 密码：lx@2021
+    - public file server -- 电脑桌面-右键-新建-快捷方式, input `\\192.168.1.230` -- username: `hopes.com\xun.liu`; pw: lx@2021
 - ---
 - college?
     - 城市接收函
@@ -10,6 +10,12 @@
 - [[LinkedIn]]
 - my resume/CV
 - [[part-time job]]
+- salary
+    - #inbox
+        - 薪资单 公务员
+            - 公务员收入本来就[按照地区浮动]。倒是[工资条](https://bbs.saraba1st.com/2b/thread-2020766-1-1.html)是不能随便爆出来吧。 #pt7-99.98
+            - 公积金，[奖金]不谈？[工资几千][一年收入二十几万]的[又不是没见过]，唬谁啊
+            - 公积金/年度绩效/其他节日福利…… [公务员工资]光一个工资单吗
 - work experience
 - [[workplace]]
 - 面试

@@ -7,10 +7,14 @@
     - [[doriko]]
     - [[Eve (utaite)]]
     - [[ハチ (hachi)]]
-    - 鼻そうめんP (hanasoumenP)
-    - はりー (harry)
+    - [[鼻そうめんP (hanasoumenP)]]
+    - [[はりー (harry)]]
     - [[はるまきごはん (harumaki gohan)]]
-    - HoneyWorks
+    - [[HoneyWorks]]
+    - [[keeno]]
+    - [[koyori]] / 電ポルP (denporuP)
+    - [[KulfiQ]]
+    - [[黒うさP (kurousaP)]]
     - [[MazoP]]
     - [[メル (mer)]]
     - [[みきとP (mikitoP)]]
@@ -18,6 +22,7 @@
     - [[煮ル果実 (niru kajitsu)]]
     - [[のぼる↑ (noboruP)]]
     - [[ナブナ (n-buna)]]
+    - [[ポリスピカデリー (Police Piccadilly)]]
     - [[ryo (supercell)]]
     - [[すりぃ (Three)]]
     - [[とあ (toa)]]
