@@ -1,13 +1,14 @@
 - gas pressure; 压力测量装置
     - [[barometer]]
     - [[pressure regulating valve]] -- 正压打入; 通气;
+    - [[pressure sensor]]
 - [[gas temperature]]
 - [[negative pressure]]
     - 负压抽取进样; 负压取样; 持续形成真空或负压
         - extracting pump; [[抽气泵]]; 
         - 对空口
         - 克服烟道负压
-        - 微正压; 微正压取样
+        - 微正压; 微正压取样; 内部微正压
 - [[positive pressure]]; 
     - **正压式取样** -- 《在线分析系统工程技术》 p19
         - 取样点压力＞0.02MPa
@@ -19,7 +20,6 @@
         - sample conditioning: 样气调理
     - gas flow chart: 气路流程图;
     - high concentration sample gas;
-    - [[sample line]]: 样气管路
 - [[sampling system]]: 采样/取样系统; 采样分析状态
     - [[automatic sampling]]
     - extractive system-抽取式取样
@@ -32,7 +32,7 @@
             - hot wet system-含有易溶于水的组分-[湿基测量]([[wet basis]])
                 - [稀释法取样]([[dilution system]])-稀释后的气体[露点温度]([[dew point temperature]])应低于[现场最低温度]
                     - [稀释样气]([[dilute the sample]])
-                    - [稀释探头]通过[喷射泵]来[抽取样品]
+                    - [稀释探头]通过[喷射泵](((NFl37p3JQ)))来[抽取样品]
                     - 稀释气-零空气发生器
         - close-coupled system - 原位抽取式
     - in-situ system - 原位式/直接测量系统
@@ -41,6 +41,8 @@
         - sample conditioning: 样气调理
         - [[预处理]]; extensive sample preparation
     - [[sampling pump]] 
+        - [[sample line]]: 样气管路; 采样管; 进样通道
+            - 样气进口
         - [采样探头]([[sample probe]]); [[probe]]
         - 采样探杆; 
         - 克服烟道负压

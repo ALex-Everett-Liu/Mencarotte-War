@@ -23,6 +23,7 @@
     - [[gas concentration]]
         - [[dry flue gas concentration]]
     - [[gas stream]]
+    - stationary pollution source; 固定污染源
     - [便携式](((RVT-MB2ge)))[烟气监测设备]
     - 烟气参数测量监测
 - [[greenhouse gas (GHG)]]; [[greenhouse gas emission]]

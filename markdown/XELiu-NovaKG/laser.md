@@ -2,3 +2,4 @@
 - [[light amplification]]
     - [[doped fiber amplifier]]
     - [[gain media]]; [[active gain medium]]
+- [[quantum cascade laser (QCL)]]

@@ -1,7 +1,11 @@
 - [[fuel]]
-- heating?
+- heating; 加热元件
+    - [[heater]]
     - [[heat transfer fluid]]: 传热液
     - [[preheat]]
+    - 感温元件
+        - 铂电阻; PT 100
+    - 加热棒; 加热片
 - oil and petrochemicals industries
 - ---
 - dictionary 

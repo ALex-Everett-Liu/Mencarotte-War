@@ -1,6 +1,7 @@
 - [[gas sensor]]
     - [[non-dispersive infrared gas sensor]]
 - [[optical sensor]]
+- [[pressure sensor]]
 - [[remote sensing]]; remote sensor
     - extrinsic sensor
     - [[remote control]]

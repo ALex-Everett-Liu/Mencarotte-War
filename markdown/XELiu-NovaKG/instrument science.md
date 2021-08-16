@@ -30,7 +30,7 @@
 - [[instrument system]]
 - 管线
     - [[plumbing]]: 管道
-    - [[sample line]]: 样气管路
+    - [[sample line]]: 样气管路; 采样管; 进样通道
     - [[伴热管线]]
     - 钢管
         - 涂层钢管; 
