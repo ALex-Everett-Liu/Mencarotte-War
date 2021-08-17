@@ -1,9 +1,12 @@
 - [[gas chromatography]]
 - [[plant pigment]]; 1903, 植物色素提取;
+- [[pump]]
+- separating and analyzing compounds: 混合物分离与分析技术; 分离与分析样品
+    - [[mixture separation]]; separating the different components
 - ---
 - Chromatography is a [laboratory technique] for [the separation of a mixture]([[mixture separation]]). The mixture is [dissolved in a fluid] (gas, solvent, water, ...) called the [[mobile phase]], which carries it through a system (a [[column]], a [[capillary tube]], 毛细管 a [[plate]], or a [[sheet]]) 薄片 on which is fixed a material called the [[stationary phase]]. The [different constituents] of the mixture [have different affinities for] the stationary phase. The [different molecules] [stay longer or shorter on] the stationary phase, depending on their interactions with its surface sites. So, they travel at different apparent velocities in the [[mobile fluid]], causing them to separate. The separation is based on the differential partitioning between the mobile and the stationary phases. Subtle differences in a [[compound]]'s [[partition coefficient]] result in [differential retention] on the stationary phase and thus affect the separation.[1]
     - Chromatography may be preparative or analytical. The purpose of [[preparative chromatography]] is to [separate the components of a mixture] [for later use], and is thus a form of [[purification]]. [[analytical chromatography]] is done normally with [smaller amounts of material] and is for [establishing the presence] or measuring the [[relative proportion]]s of [[analyte]]s in a [[mixture]]. 确定混合物中分析物的存在或测量其相对比例。 The two are not [mutually exclusive].[2]
-    - 色谱法利用不同物质在[不同相态]的[选择性分配]，以流动相对固定相中的混合物进行[洗脱]，混合物中[不同的物质]会[以不同的速度][沿固定相移动]，最终达到分离的效果。
+    - 色谱法利用不同物质在[不同相态]的[选择性分配]，以流动相对固定相中的混合物进行[洗脱]，混合物中[不同的物质]会[以不同的速度][沿固定相移动]，[最终达到分离的效果](((hynQPQXN9)))。
 - History
     - 色谱的起源
         - 色谱法起源于20世纪初，1906年俄国[植物学家]米哈伊尔·茨维特用[碳酸钙][填充竖立的玻璃管]，以[石油醚][洗脱植物色素的提取液]，经过一段时间洗脱之后，植物色素在[碳酸钙柱]中[实现分离]，由[一条色带]分散为[数条平行的色带]。由于这一实验将[混合的植物色素][分离为不同的色带]，因此茨维特将这种方法命名为 Хроматография，这个单词最终被英语等[拼音语言]接受，成为色谱法的名称。汉语中的色谱也是对这个单词的[意译]。

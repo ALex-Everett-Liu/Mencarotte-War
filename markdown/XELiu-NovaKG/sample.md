@@ -42,8 +42,18 @@
         - [[预处理]]; extensive sample preparation
     - [[sampling pump]] 
         - [[sample line]]: 样气管路; 采样管; 进样通道
+            - [[伴热管线]]
+            - 工艺管道
+            - 样品传输管线
             - 样气进口
         - [采样探头]([[sample probe]]); [[probe]]
         - 采样探杆; 
         - 克服烟道负压
     - [[进样阀]]
+    - 管线
+        - [[plumbing]]: 管道
+        - [[sample line]]: 样气管路; 采样管; 进样通道
+        - [[伴热管线]]
+        - 钢管
+            - 涂层钢管; 
+        - 四氟管
