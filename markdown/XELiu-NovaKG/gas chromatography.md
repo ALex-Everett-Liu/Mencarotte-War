@@ -85,6 +85,8 @@
         - [采样系统]([[sampling system]])、气路系统、分离系统、检测系统和数据处理系统所组成。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FYwGFo0DkFf.png?alt=media&token=0038ac75-2aed-41d7-bfa2-581580029f78)
             - [工艺管道](((fVZtnuC79)))-取样装置-[[预处理]]系统
+            - 恒温炉
+                - 样气进-取样及柱切-([样气出](((L-KkAMRQb))))-色谱柱
     - [分析器]([[analyzer]])
         - 恒温炉--设置[程序升温炉]供色谱柱[按程序升温]。
             - [恒温炉]([[thermostatic oven]])**又称恒温箱，或称[色谱柱箱]**。恒温炉的[温控精度]是过程 色谱仪的[重要指标之一]。因为保留时间、[峰高]等都与[色谱柱的温度]有关，保留时间、峰高[随柱温变化的系数]分别为 2.5%/℃、3～ 4%/ ℃，故[柱温的变化][直接影响到][色谱分析的定性与定量]。
