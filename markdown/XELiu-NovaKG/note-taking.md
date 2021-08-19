@@ -68,6 +68,9 @@
 
         - [在笔记正文里]这样[随手一写]就行，比 Devonthink 简短多了，甚至还能[起到汇总的效果]。但是我为了[跨平台]还在用 zotero 来做[附件床]。
     - 另外，[这款工具](https://zhuanlan.zhihu.com/p/129074093)还为你提供了笔记[子网络过滤]功能，^^[通过检索获取][包含某笔记的][最大连通子图]。^^甚至，你还可以[限定检索范围]，把那些[不包含在当前笔记本里的]其他笔记过滤掉……这些功能，可以帮你[更好地聚焦]。 #pt10-99.99
+    - 其实[从我个人的观察来说]，[特别狂热地推崇] notion 的人基本上都没有真正[深度使用过][大纲编辑器](https://www.zhihu.com/pin/1410301628306632704) #pt10-99.99
+        - [直到我遇上了]图 1 这样不惜[当场去百度][也要维护这个东西]的[路人]，[直到我发现]我看到图 3 这样的评论已经[完全分不清是粉是黑]，我才知道，[舆论环境]已经在[教徒们的狂热话术下]彻底腐烂了。
+        - 有人已经用 RR 做出了和Notion一样的[多维表格]，logseq 也有 Query Table 功能，Roam edit 现在就有[多种视图]，都体验很棒。Notion现在只是[当作博客使用]，或者分享一些[特定的内容]。
     - 渐变就是把 `background-image:` 这里改 `background-image: linear-gradient(90deg, black, transparent);`，[参数][分别是]角度、颜色1、颜色2（颜色可以[多个添加]，[英文逗号分隔]即可）（颜色[最好不要设置][透明度](https://club.roamedit.com/club/?thread-782.htm)） #pt10-99.99
     - 在 org-mode 中我还有很多围绕 `0-index.org` 的[高效技巧](https://www.yuque.com/deerain/gannbs/hb0gsd)，比如通过[稀疏树筛选]达到[文件标签]的效果、或者[添加描述文字]来[让全局搜索一步到位]，不过那些[都不那么重要]，这种[视角的初步转换][才是最大的突破]——**凭什么[分类体系]必须[体现在文件树上]呢？** #pt10-99.99
         - 别的[笔记类软件][我也经常][深度试用]，有一些还[重度用过很长时间]，[最明显的感受就是][大多数软件]「自带」的[内容组织功能]太差，「文档树加标签」的形式[落实到软件层面]的时候[远远比不上]我的一个 [org 索引文件]，因为 org-mode 这样的[大纲编辑器]用来[管理笔记链接][实在太适合了]。
@@ -119,6 +122,7 @@ webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库�
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
     - 思源 [CSS 主题]修改[常见问题](https://ld246.com/article/1623514611258)与教程 #pt9-99.99
     - RE [暗色毛玻璃主题](https://club.roamedit.com/club/?thread-728.htm)分享 #pt8-100
+    - 要看[发布到哪](https://www.yuque.com/deerain/gannbs/zimxir)，如果是[用文件形式分发]，Libre Office Writer 就很不错，[LaTeX 编辑器]如果不是[论文写作]的话[没必要] # pt9-99.99
     - 今天在群里了解到一款——知识图谱项目[前端可视化]图论库 cytoscape.js（[这一大串名头是查出来的](https://link.ld246.com/forward?goto=https%3A%2F%2Fwww.cnblogs.com%2Fzhilin%2Fp%2F12074688.html)），自带[一键分析图谱]功能，我感觉很适合[在此基础上]做[双链笔记的关系图](https://ld246.com/article/1618829898054)。 #pt9-99.98
     - Vscode的[Markdown插件]我也试过，在VScode上进行[Markdown写作]最方便的地方在于可以[自定义一些snippet]来[缩短一些重复输入的时间]，不过比较遗憾的是它并不能像Typora那样[实时渲染](https://sspai.com/post/65682)，而实时渲染是Typora吸引我的主要原因之一。
         - 最近又试了试notion，然而我觉得notion并不适合我，notion的quote块和callout块中不能插入图片和LaTeX，虽然有inline-table却没有inline-page。感觉用了notion就只能按照notion的思路[来写文档]了，不太舒服。
@@ -144,4 +148,9 @@ webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库�
     - Evernote 没有抄到双链的[精髓](https://www.zhihu.com/question/439739387)。
         - Trace back/forward
         - 最要命的是 Block level references，这个如果不解决，怎么抄都不像。一个知识和[另一个知识点]的链接产生在一部分中，如果如果只是Page level的references的话那么跟[打标签][没有实质区别]。 #pt7-99.98
+    - wolai [功能增加建议](https://www.zhihu.com/club/1271825893380124672/post/1400601382001463296) #pt7-99.97
+1. mermaid 支持
+2. drawio 支持
+3. echart 支持
+4. vega-lite 支持
     - 在产品形态上，我们觉得以 WordPress 和 Notion 为代表的 Block Editor（块编辑器）是一种更好的[编辑器形态](https://zhuanlan.zhihu.com/p/379723832)的选择；以 Confluence 和 Coda 为代表的 workspace 概念是更好的[团队信息组织方式]；Roam Research 关于[块级引用]和双向链接的[构思]与我们[网状信息结构]的想法[不谋而合]；我们也觉得类似 Airtable 这样的[多视图表格][代表了未来的]表格趋势。在[产品迭代]的过程中，我们也一直在思考[协同平台]的[演进方向]。 #pt7-99.97

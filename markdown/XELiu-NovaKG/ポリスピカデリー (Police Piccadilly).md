@@ -1,1 +1,1 @@
-- [[セパレイト (sebareito)]]
+- [[セパレイト (separate)]]

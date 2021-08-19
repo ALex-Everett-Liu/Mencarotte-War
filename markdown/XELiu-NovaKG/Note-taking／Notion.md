@@ -1,0 +1,3 @@
+- #inbox
+    - Notion [最有魅力的]还是其理念，当然Notion的Database和双向链的功能，也是“抄袭” Airtable和Roam Research的。 #pt6
+        - 在国内，很早就有[不少团队](https://zhuanlan.zhihu.com/p/387077732)注意到了Notion，我自己是19年在 ProductHunt 上[看到这个产品]的，国内的飞书团队和 Teambition 团队好像是18年就关注到Notion了。

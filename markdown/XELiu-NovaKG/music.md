@@ -9,6 +9,7 @@
     - [[Carly Rae Jepsen]]
 - Japan?
     - [[Bokalo Ongaku]]
+    - [[JPOP]]
 - genre
     - folk song
     - [[rhythm and blues (RnB)]]; [[R&B]]
