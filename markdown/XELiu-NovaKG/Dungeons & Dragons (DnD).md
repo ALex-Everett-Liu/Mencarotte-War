@@ -17,3 +17,4 @@ https://forgottenrealms.fandom.com/wiki/Dungeons_%26_Dragons
 https://dungeons.fandom.com/wiki/Main_Page
 https://dnd-wiki.org/wiki/Main_Page
 https://wiki.roll20.net/DnD
+    - {{[[TODO]]}} DND4E 六巫の翻译  #pt10-99.99

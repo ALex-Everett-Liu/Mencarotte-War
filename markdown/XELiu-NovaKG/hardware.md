@@ -63,6 +63,20 @@
 - [[small computer]]
 - [[wearable technology]]
     - [[digital watch]]
+- ---
+- 关于硬件工程师
+    - 嵌入式编程/软件 
+    - PCB 设计 
+        - Cadence、Orcad、Allegro [等工具](https://www.zhipin.com/job_detail/e7048a9befc186e733x82ty1F1I~.html)
+    - FPGA 设计 
+        - Xilinx、Altera 公司的[FPGA产品]
+        - Verilog or VHDL hardware programming language; ZYNQ平台开发
+        - 串口、I2C、SPI、TCP/IP 等接口通信协议
+        - [高速接口开发](https://www.zhipin.com/job_detail/8aeb5e5746a2af733nF_0tu5EFM~.html)或高速[数据采集电路]设计
+        - 工业气体在线检测仪表 光谱分析法
+    - 单片机开发 (STM32) 
+    - ARM硬件产品开发
+- ---
 - #inbox
     - [硬件](https://bbs.saraba1st.com/2b/thread-1999436-2-1.html) 理性讨论，pc diy 会被干死吗？ #pt10-99.98
         - [整机]相对DIY[技术上]目前没有[绝对优势]，但是如果某一天开始[DIY部件]组不出整机性能/功能的机器的时候，DIY也会变成[情怀党自嗨]
