@@ -4,7 +4,7 @@
     - multiplexing
 - [[noise]]
     - [[separate signal from noise]]
-    - [[signal-to-noise ratio]]
+    - [[signal-to-noise ratio (SNR)]]
 - [[signal output]]
 - relaying signals
 - [[signal processing]]
