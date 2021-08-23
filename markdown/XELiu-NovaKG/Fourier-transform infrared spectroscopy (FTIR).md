@@ -170,6 +170,16 @@
 - # Insa
     - 荧飒光学 FTIR 测试报告
         - **Resolution Test**
-            - Water Vapor Band： 1539.47cm-1
-            - Maximum Resolution：		0.40cm-1	
-            - Measured Resolution：		1.26cm-1
+            - Maximum Resolution： 0.40cm-1	
+            - 红外光谱分辨率 ([[resolution]]，以 △v 表示) 是指[分辨两条相邻吸收谱线]的能力，它是由仪器[干涉仪动镜]的[移动距离]决定的，根据干涉仪的[工作原理]，通过[光程差]的数学计算，分辨率[近似等于][最大光程差的倒数]，也就是[动镜移动有效距离]2倍的倒数，例如[一台仪器]的[动镜移动有效距离]为4cm，这台仪器的[最大分辨率]为0.125 cm-1。动镜移动有效距离越长，分辨率越高，分辨率的数值越小。用于一般分析时，选用 4cm^-1 即可。
+            - 分辨率是FTIR仪非常重要的[性能指标]，分辨率越高，仪器越贵。JJG 001—1996 (教委) 《[傅里叶变换红外光谱仪][检定规程]》按分辨率的大小将FTIR仪[划分为]通用型、分析型、研究型、[高级研究型][四个等级]，如果按较粗略分法，可将其分为研究型 (包括研究型、高级研究型) (包括通用型、分析型)两种，最高分辨率数值小于 0.5cm-1 (也有资料以 0.25cm-1 划分)的属于研究型，反之属于[普通型]。
+                - 研究型仪器最高分辨率是通过[测定CO的红外光谱]得到的，具体方法为：仪器[测试参数]选分辨率为仪器最高分辨率，设定[光阑]于[最小状态]，[光谱测定范围]设置为 2300～2000 cm-1，将 10cm 长的[红外气体池][抽真空]，**测定[真空红外气体池]的[单光束光谱]为[背景光谱]**，然后[通入CO气体]，当压力达 400～650 Pa 时，将气体池[密封好]，[测定气体池内]CO的红外光谱，选择其中一个独立、对称的[吸收峰]，测定其[半高宽]，即为该仪器的最高分辨率。
+                - 普通型仪器最高分辨率是通过测定[水蒸气的红外光谱]得到的，具体方法为：仪器测试参数选分辨率为仪器最高分辨率，设定光阑于最小状态，光谱测定范围设置为 2000～1300 cm-1，在[样品室][为空气空白的情况下]测定背景的单光束光谱，然后[打开样品室]，[往样品室内][吹入一口气]，使室内[水蒸气浓度]增加，关闭样品室，测定此时室内水蒸气样品的红外吸收光谱，选择其中一个独立、对称的吸收峰，测定其半高宽，即为该仪器的最高分辨率。
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FQ4hko0yZvr.jpg?alt=media&token=46104271-9b4b-4b59-bf37-0d8b489caea9)
+                    - 测量条件：分辨率 2cm-1；扫描速度 40000；温度 180℃。
+                    - 计算（Gaussian）所得[半高宽]([[FWHM]])为 1.26355 cm-1，故FTIR系统分辨率约为 1.26 cm-1。 -- Measured Resolution： 1.26cm-1
+                        - Water Vapor Band： 1539.47 cm-1
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fvz3Esxj2VB.png?alt=media&token=9f99152d-c2d6-4bb5-b1db-f45275b19ea6)
+                    - 设置测量参数时，分辨率选 1cm-1 及以下时，系统无反应，等待时间过长，无法测量。故[无法获得][更小分辨率的图谱]。 -- 光谱仪硬件采集设置
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fu5h_9CyO_z.png?alt=media&token=56009929-d511-4f1c-a8e6-eb1d6277d663)
+        - **Sensitivity Test ****信噪比测试**
