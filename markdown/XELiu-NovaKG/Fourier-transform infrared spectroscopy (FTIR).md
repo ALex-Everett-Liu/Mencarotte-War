@@ -167,3 +167,9 @@
     - 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf
 - # AO2000-URAS26
     - AO2000-URAS26培训教程.pdf
+- # Insa
+    - 荧飒光学 FTIR 测试报告
+        - **Resolution Test**
+            - Water Vapor Band： 1539.47cm-1
+            - Maximum Resolution：		0.40cm-1	
+            - Measured Resolution：		1.26cm-1
