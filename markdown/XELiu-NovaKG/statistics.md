@@ -1,8 +1,10 @@
-- [[relative standard deviation (RSD)]]
+- [[data set]]
 - [[estimator]]: 估计量; [[estimation]]; [[estimate]]
+- [[linear correlation]]
 - [[observed data]]; [[observed evidence]]
+- [[Pearson correlation coefficient]]
+- entire population data; 
 - [[repeatability]]
     - 测量精度; [精密度]([[precision]]) -- [多次重复测定][同一个量]，[随机误差]([[random error]])，[[standard deviation (SD)]]；即重复性
 - sample data; a sample of a population;
-- entire population data; 
 - [[trend]]

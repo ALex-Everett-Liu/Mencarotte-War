@@ -1,5 +1,5 @@
 - [[aberration]]: 像差, 畸变;
-- [[diaphragm]]
+- [[diaphragm]]; [[diaphram]]
 - [[image-forming fiberscope]]
 - [[imperfection]]
 - [[medical imaging system]]: 医疗成像系统

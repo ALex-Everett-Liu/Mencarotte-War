@@ -7,6 +7,7 @@
     - [[fluid pressure]]
 - general...
     - integrated system
+    - [[mechanical tolerance]]
 - [[handle]]: 手柄, 把手, 拉手, 提梁;
 - [[hydraulic system]]: 液压系统; [[pneumatic system]]: 气动系统
     - [[hydraulic fluid]]: 传压流体

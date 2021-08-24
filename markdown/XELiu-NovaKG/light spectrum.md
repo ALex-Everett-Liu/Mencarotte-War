@@ -1,3 +1,4 @@
+- [[background spectrum]]
 - electromagnetic spectrum
 - frequency spectrum
     - characteristic frequency
@@ -17,6 +18,7 @@
 - [[radio wave]]
 - [[radio frequency]] - m
 - [[Raman spectroscopy]]
+- [[single beam spectrum]]
 - wavelength band; spectral band; spectral range
 - [[X-ray]]; x-ray
 - 分光仪器

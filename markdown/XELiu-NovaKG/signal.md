@@ -3,6 +3,7 @@
     - concurrent communication sessions
     - multiplexing
 - [[noise]]
+    - [[baseline noise]]
     - [[separate signal from noise]]
     - [[signal-to-noise ratio (SNR)]]
 - [[signal output]]

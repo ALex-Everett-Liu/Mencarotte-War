@@ -2,5 +2,6 @@
     - discrete unit
     - discrete point
 - [[Planck’s constant]]
+    - [[reduced Planck's constant]]
 - quantum hypothesis
     - [[energy packet]]

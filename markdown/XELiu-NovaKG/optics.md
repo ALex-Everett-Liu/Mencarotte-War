@@ -9,6 +9,7 @@
     - light pulse
     - oncoming light
     - [[optical effect]]
+    - [[optical performance]]
 - [[geometric optics]]; [[classical optics]]
 - interaction between light and matter; interaction between matter and electromagnetic radiation
     - coupling interaction between the radiation and matter;
@@ -63,6 +64,7 @@
     - [[microscopy]]; [[microscope]]; microscopic instrument
     - [[nanophotonics]]; [[nano-optics]]
     - [[photon]]
+- [[wave scattering]]
 - [[waveguide]]; [[optical waveguide]]
     - [[optical fiber]]; [[fiber]]; [[fibre]]
 - [[wave optics]] / [[physical optics]]

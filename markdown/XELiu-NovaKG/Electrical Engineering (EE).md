@@ -8,6 +8,7 @@
 - [[power consumption]]
 - [[power supply]]
 - [[relay]]: 继电器
+    - [[optical relay block]]
 - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
 - [[switch]]
     - [[on-off control]]

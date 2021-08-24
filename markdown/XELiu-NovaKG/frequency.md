@@ -1,2 +1,3 @@
 - [[angular frequency]]
 - [[spatial frequency]]
+- [[temporal frequency]]
