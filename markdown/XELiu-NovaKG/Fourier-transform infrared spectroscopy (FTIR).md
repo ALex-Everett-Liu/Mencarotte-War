@@ -51,7 +51,7 @@
 - [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
     - ![Michelson-interferometer-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsV8bkGeL-n.png?alt=media&token=813ed342-55ad-4a2a-8584-a5860aa0aa38)
     - [定镜]([[fixed mirror]])M1 [动镜]([[moveable mirror]])M2
-    - [从两面镜上反射回来的光束][在分束器上会合]([[分束器]])， 两束光的[光程差]([[optical path difference]])为 2Δx （记为δ ） 。这两束光[产生干涉]。
+    - [从两面镜上反射回来的光束][在分束器上会合]([[beamsplitter]])， 两束光的[光程差]([[optical path difference]])为 2Δx （记为δ ） 。这两束光[产生干涉]。
         - interferences as a function of mirror displacement; mirror position x
         - Results a [[phase difference]] of lambda / 2 !
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F8eueAh3Yzw.png?alt=media&token=eef200c1-0f72-4c6f-a5c7-68dc89f83e3b)
@@ -59,7 +59,7 @@
         - [[beamsplitter]] with [half transparent lay] 半透明层
         - 分光镜/光束分离器；补偿镜
         - BS materials
-            - KBr (易潮解，需要有[防潮措施])
+            - [KBr](((J2JUtxEo1))) (易潮解，需要有[防潮措施])
             - 4）采用的 ZnSe 分束器，不吸潮，适合中国环境
         - 调制频率 分离不同波长的光
     - [[interferogram]]: 干涉图 -- amplitude-position plot
@@ -226,12 +226,15 @@ $$S N R=\frac{1}{1-10^{-A}}$$
                 - 好了，看到这儿，[应该掌握的理论武器][想必大家都基本掌握了]。[那就让咱们来看看][当前主流]红外光谱仪器厂家的仪器和[厂家给出的]信噪比。
                     - Thermo/Nicolet 公司 2008年推出的 iS10
                         - [performance specifications](((a6763nwVW)))
-                            - 10000:1 [[peak to peak]] in 5 seconds
+                            - 10000:1 [[peak to peak]] in 5 seconds, 4 cm-1, transmission measured
                             - [ordinate linearity](((hhDWQzB8X)))
                     - PE 公司2005年推出的 Spectrum 100
                         - [[optical performance]]
-                            - 10000 [[peak-peak]] (50000 [[root mean square (RMS)]])
-        - Energy Distribution 波数范围测试
+                            - 10000 [[peak-peak]] (50000 [[root mean square (RMS)]]) in 5 seconds, 
+                            - 8300-350 cm-1 optimized, [proprietary KBr beamsplitter](((J2JUtxEo1)))
+                    - Bruker 公司2002年推出的 TENSOR 37
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fn9IlNkG508.png?alt=media&token=5b0ad455-08e0-4717-a934-378c6fe875b8)
+        - Energy Distribution 波数范围测试 -- wavelength range
             - 红外光谱分[近、中、远红外范围]，它们在[红外分析]工作中的作用有些不同。常用的[中红外的波数区间]为 4000～400 cm -1，近红外的波数区间为 13000～4000cm-1，远红外的波数区间为 400～10cm-1，一台仪器如果配置了近、中、远红外光区的其中一个或[全部范围]，那么它的[工作范围]至少应达到这些[波数范围]，才能符合实际工作需要。
                 - **波数范围通常可通过[背景单光束光谱强度]以及[100％透过线]的测定来判定**，如果仪器[在某个波数范围内][能有效工作] (仪器[可测定的]波数范围)，则其在此波数范围内的背景单光束光谱[均应有一定强度]，当使用[常温检测器]时，[截止频率]的[谱峰高]与[所有谱峰最高值]的比值，[一般要求]大于 1：10 (使用[红外附件]除外)，另外在此波数范围的[100％透过线][应比较平直]。
             - 测试方法: 通过[同时对比]光谱图和吸收谱。可以看出当波数大于4000, 小于600时，吸收谱[噪声大]，不可以用于测量，故可用范围约为 4000-600 cm^-1
@@ -239,7 +242,8 @@ $$S N R=\frac{1}{1-10^{-A}}$$
                 - 测试结果：
 Energy at 4000 cm-1:	1.12%
 Energy at 600 cm-1: 0.26%
-        - Wavenumber Accuracy Test -- wavelength precision
+            - 8300-350 cm-1 optimized, [proprietary KBr beamsplitter](((J2JUtxEo1)))
+        - Wavenumber Accuracy Test -- wavelength accuracy and precision
             - 利用红外光谱仪对[化合物]进行[红外光谱鉴定]，[目的是要获得]化合物[真实的红外吸收位置] (波数)，如果红外吸收[测定的波数]不准确，那么所作的工作[就没有意义]，甚至导致[鉴定结果]是错误的，带来严重后果。目前，FTIR仪均采用 [He-Ne 激光][参考频率]作为[基准位置]，因此[一般来讲]其波数是准确的，[仪器安装验收时]不会有什么问题，但是随着[仪器的老化][引起性能的下降]，有可能引起波数不准确，有必要对仪器[进行核查校准]。
             - 通过[在 4cm-1 分辨率条件下]，测试[标准聚苯乙烯薄膜]([[polystyrene film]]) (0.03mm or 38.1μm 厚度)的红外吸收谱，比较[仪器测试所得结果]与[聚苯乙烯][特征峰标准值]的[符合程度]，评判仪器波数准确度的性能。
                 - 生产FTIR仪的公司在供货时一般会提供标准聚苯乙烯薄膜[给用户]，标准聚苯乙烯薄膜应[避光干燥保存]。

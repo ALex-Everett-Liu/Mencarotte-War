@@ -57,7 +57,8 @@
 - [[optical path]]
 - [[optical system]]: 光学系统, 光具组;
     - [[optical component]]
-        - 
+        - [[beamsplitter]]
+            - KBr beamsplitter
 - [[photonics]]
     - [[grating]]
     - [[lithography]]

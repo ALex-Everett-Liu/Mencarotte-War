@@ -15,7 +15,7 @@
 - [[spectral line]]
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method
 - [[spectrophotometry]]: 分光光度测定法
-- [[transmittance]]
+- transmission; [[transmittance]] 
     - 100% transmittance line; 
     - [[peak to peak]]; [[peak-peak]]; peak-peak value noise; peak-peak value SNR
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
