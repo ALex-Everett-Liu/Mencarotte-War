@@ -28,6 +28,9 @@
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
+- [[linear deviation]]
+    - ordinate linearity: 纵坐标线性;
+- performance specification: 性能指标/规格;
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
     - digital concentration display; 
