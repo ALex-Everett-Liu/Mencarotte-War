@@ -1,4 +1,5 @@
 - [[absorption spectroscopy]]; [[absorption spectrum]]
+    - [[absorbance]]: 吸光度
 - [[atomic spectroscopy]]; [[atomic spectra]]
     - [[Neon lighting]]
 - [[Beer–Lambert law]]
@@ -14,6 +15,9 @@
 - [[spectral line]]
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method
 - [[spectrophotometry]]: 分光光度测定法
+- [[transmittance]]
+    - 100% transmittance line; 
+    - peak-peak value noise; peak-peak value SNR
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
 - wavelength dependence; as a function of wavelength
 - 在线光谱分析 
