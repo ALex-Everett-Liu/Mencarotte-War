@@ -1,4 +1,7 @@
-- [[average]]
+- [[average]]; [[mean]]
+    - the mean of the population; 
+    - [[root mean square (RMS)]]
+        - [[root mean square deviation (RMSD)]]
 - [[Bayesian probability]]
 - [[bell curve]]
     - the spread of the bell curve: 钟形曲线的延展宽度;
@@ -8,8 +11,6 @@
     - [[normal distribution]]
 - [[frequency distribution]]
 - [[gambling]]
-- [[mean]]
-    - the mean of the population; 
 - [[probability amplitude]]
 - [[probability distribution]]
 - [[randomness]]
@@ -17,3 +18,4 @@
     - quantum spread
 - [[standard deviation (SD)]]
     - [[coefficient of variation (CV)]]; [[relative standard deviation (RSD)]]
+    - [[root mean square deviation (RMSD)]]
