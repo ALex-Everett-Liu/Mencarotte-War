@@ -234,6 +234,8 @@ $$S N R=\frac{1}{1-10^{-A}}$$
                             - 8300-350 cm-1 optimized, [proprietary KBr beamsplitter](((J2JUtxEo1)))
                     - Bruker 公司2002年推出的 TENSOR 37
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fn9IlNkG508.png?alt=media&token=5b0ad455-08e0-4717-a934-378c6fe875b8)
+                    - Shimadzu 公司2007年推出的 IRPrestige-21
+                        - S/N ratio -- 40000:1 (4 cm-1 resolution, 1 minute accumulation, around 2100 cm-1, peak-to-peak)
         - Energy Distribution 波数范围测试 -- wavelength range
             - 红外光谱分[近、中、远红外范围]，它们在[红外分析]工作中的作用有些不同。常用的[中红外的波数区间]为 4000～400 cm -1，近红外的波数区间为 13000～4000cm-1，远红外的波数区间为 400～10cm-1，一台仪器如果配置了近、中、远红外光区的其中一个或[全部范围]，那么它的[工作范围]至少应达到这些[波数范围]，才能符合实际工作需要。
                 - **波数范围通常可通过[背景单光束光谱强度]以及[100％透过线]的测定来判定**，如果仪器[在某个波数范围内][能有效工作] (仪器[可测定的]波数范围)，则其在此波数范围内的背景单光束光谱[均应有一定强度]，当使用[常温检测器]时，[截止频率]的[谱峰高]与[所有谱峰最高值]的比值，[一般要求]大于 1：10 (使用[红外附件]除外)，另外在此波数范围的[100％透过线][应比较平直]。
