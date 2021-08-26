@@ -14,7 +14,7 @@
 - [[earphone]]
     - [[MP3 player]]
 - [[edge device]]
-- [[electronic device]]; [[digital device]]; [[electronic product]]; [[electronic system]]
+- [[electronic device]]; [[electronic equipment]]; [[digital device]]; [[electronic product]]; [[electronic system]]
     - [[digital system]]
         - [[non-digital electronic system]]
     - [[device type]];
