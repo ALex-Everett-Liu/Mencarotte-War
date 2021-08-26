@@ -1,3 +1,4 @@
+- [[buck converter]]
 - [[circuit]]; [[electronic circuit]]
 - conduct electricity
 - [[electrical cable]]
@@ -5,8 +6,10 @@
 - [[electrical hardware]]; [[electrical product]]
 - [[electrical power]]
     - high voltage electricity
+- [[electromagnetic interference (EMI)]]; [[radio-frequency interference (RFI)]]
 - [[electronic filter]]
 - [[power consumption]]
+- [[power line]]
 - [[power supply]]
 - [[relay]]: 继电器
     - [[optical relay block]]

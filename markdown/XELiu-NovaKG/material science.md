@@ -8,5 +8,5 @@
     - [[metamaterial]]
         - [[artificial material]]
 - [[plastic]]
-- [[polystyrene film]]
+- [[polystyrene film]]; [[polystyrene]]
 - [[rubber]]

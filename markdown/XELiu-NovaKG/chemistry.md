@@ -32,9 +32,11 @@
     - [[mixture separation]]; separating the different components
     - [[prepare pure compounds]]
 - [[molecular mass]]
+- [[monomer]]
 - [[nitrogen]]
 - [[noble gas]]
 - [[physical chemistry]]
+- [[polymer]]
 - [[purity]]
     - [[purification]]
 - [[quantum chemistry]]
