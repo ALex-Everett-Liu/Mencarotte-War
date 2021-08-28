@@ -1,6 +1,7 @@
 - already done archive
     - garmin sync | 3d ||
     - buy 4T hdd, ssd | 1d || 23魔方, wegene | 1m ||
+    - {{[[DONE]]}} 打疫苗 210701? 210715? or wait?? || from 210627 to 210828
 - ---
 - daily life
     - 通风管道内的鸟窝，没有保护下来，太太太可惜了！ #pt10-100

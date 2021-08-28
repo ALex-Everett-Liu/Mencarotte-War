@@ -35,7 +35,7 @@
         - ordinary object
         - [[real world]]; [[real-world object]]; [[real entity]]
     - physical mechanism
-    - physical process
+    - [[physical process]]
     - physical properties
         - counter-intuitive property
     - physical quantity

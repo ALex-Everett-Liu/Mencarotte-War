@@ -16,6 +16,7 @@
         - Research and Application of [Real-time Determination of Attitude] 实时测姿 Using [GPS Carrier] [Phase Differential Technique]. 载波相位差分
         - An [System Dynamics Model] for the Research on the Development of [Machine Industry]. 
         - Information of Development in Machine Industry of China [in the Early New Century]
+        - We adopt the [digital control system] based DSP in order to [improve the performance specifications] of [gyroscope power]. 陀螺电源 dict.cnki.net
     - [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
         - British [tour companies]([[tour company]]) are [nudging clients to travel further afield]. 鼓动客户到更远的地方去旅游 
         - [You are not allowed to] [bring plants in] [from further afield] [without a licence].
@@ -32,6 +33,7 @@
         - ---
         - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
     - www.[fabiao].net
+        - [The results of the experiments showed that] the [expected performance specifications] of the system were achieved. 对气体浓度的快速、准确、在线测量 
     - www.[[fortunechina]].com
     - www.[[ftchinese]].com
         - It needs to [find a route back to profit]. 扭亏为盈的路径
@@ -66,6 +68,7 @@
         - [The telltale sign of a bubble], 泡沫警示标志 he says, is a faster than [exponential growth rate] caused by a [positive feedback mechanism] that generates this [nonlinear growth]. www.[taoguba].com.cn
         - We can establish a series of criteria of CPCS [on the basis of] the [necessary demand] of residents by use of analysis of ELES, and the multiplier of the studying costs to PDI.
         - [One possible solution to] this is to [reduce learning cost] and [increase learning benefit].
+        - Many [rubber goods] require [medium thermal black] 中粒子热裂炭黑 in order to meet highly demanding performance specifications. sto.net.cn
 - classified by keyword 
 - ---
 - archived

@@ -12,6 +12,8 @@
         - walk in the park;
     - scenic route
     - [[scenic spot]]
+    - society
+        - [[动荡 (dongdang)]]
 - [[social activity]]
 - [[sports]]
 - [[tour]]; [[travel]]

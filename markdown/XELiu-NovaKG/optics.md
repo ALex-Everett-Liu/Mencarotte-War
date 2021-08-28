@@ -13,8 +13,7 @@
 - [[geometric optics]]; [[classical optics]]
 - interaction between light and matter; interaction between matter and electromagnetic radiation
     - coupling interaction between the radiation and matter;
-    - [[light absorption]]
-        - [[absorption spectroscopy]]; [[absorption spectrum]]
+    - [[light absorption]]; [[absorption]]
     - [[photoelectric effect]]
     - [[spectroscopy]]
     - [入射光束]([[incident beam]])通过[样品]([[sample]]) - 反射 吸收 透射 散射 荧光

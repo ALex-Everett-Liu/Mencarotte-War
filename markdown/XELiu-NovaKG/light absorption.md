@@ -1,0 +1,2 @@
+- [[absorptance]]
+- [[absorption spectroscopy]]; [[absorption spectrum]]

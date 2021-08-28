@@ -7,6 +7,7 @@
 - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
     - gas path; 气路; 气体管路
         - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]]
+            - [[cell wall]]
         - [[gas resistance]]
         - [[orifice]]; [[orifice area]]; [[orifice diameter]]
         - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]

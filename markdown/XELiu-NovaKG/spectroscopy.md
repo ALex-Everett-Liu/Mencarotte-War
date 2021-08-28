@@ -16,8 +16,10 @@
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method
 - [[spectrophotometry]]: 分光光度测定法
 - transmission; [[transmittance]] 
+    - [[light attenuation]]; [[attenuation]]
     - 100% transmittance line; 
     - [[peak to peak]]; peak-to-peak; [[peak-peak]]; peak-peak value noise; peak-peak value SNR
+    - transmitted radiant power; 
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
 - wavelength dependence; as a function of wavelength
 - 在线光谱分析 
