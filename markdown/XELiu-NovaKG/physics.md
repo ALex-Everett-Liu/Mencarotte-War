@@ -50,7 +50,7 @@
     - two clouds hovering on the horizon
         - [[Lord Kelvin]]
 - material...
-    - medium; [[material medium]]
+    - medium; media; [[material medium]]
         - elastic medium; elastic media; 弹性介质
         - [[liquid]]
         - [[uniform medium]]; [[continuous medium]]

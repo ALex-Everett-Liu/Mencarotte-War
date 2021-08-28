@@ -16,7 +16,8 @@
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method
 - [[spectrophotometry]]: 分光光度测定法
 - transmission; [[transmittance]] 
-    - [[light attenuation]]; [[attenuation]]
+    - [[light attenuation]]; [[attenuation]]; [[extinction]]: 消光; 
+        - [[attenuation constant]]
     - 100% transmittance line; 
     - [[peak to peak]]; peak-to-peak; [[peak-peak]]; peak-peak value noise; peak-peak value SNR
     - transmitted radiant power; 
