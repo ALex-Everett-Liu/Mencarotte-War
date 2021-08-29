@@ -40,6 +40,7 @@
     - [[relative velocity]]
         - [[relative acceleration]]; an absolute conception of acceleration
 - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion
+    - [[harmonic wave]]; [[sine wave]]
 - [[theoretical mechanics]]
     - [[analytical mechanics]]
     - [[Hamiltonian mechanics]]

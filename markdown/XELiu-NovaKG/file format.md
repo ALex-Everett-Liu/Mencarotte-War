@@ -12,6 +12,8 @@
     - export to other format;
         - markdown exporter
 - [[msi]]
+- picture...
+    - [[SVG]]
 - [[time format]]; [[date format]]
 - 压缩包
     - [[zip]]; [[unzip]]
