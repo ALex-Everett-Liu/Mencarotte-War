@@ -6,7 +6,7 @@
     - [[analyzer]]
         - [[gas analyzer]]; [[gas analyser]]; on-line gas analyzer; [[gas analyte]]
     - [[assay]]: 试验, 化验 
-    - [[chromatography]]: 色谱, 层析;
+    - [[chromatography]]: 色谱, 层析; [[chromatogram]]
 - [[biochemistry]]
 - [[chemical bonding]]
 - [[chemical element]]
