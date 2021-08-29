@@ -21,6 +21,7 @@
 - number
     - correct figure;
     - digit: 位
+    - [[logarithm]]
     - [[whole number]]
         - decimal whole number
 - puzzle

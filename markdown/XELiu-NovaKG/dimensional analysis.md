@@ -1,4 +1,4 @@
-- [[dimensionless quantity]]
+- [[dimensionless quantity]]; [[dimensionless]]
 - [[system of measurement]]
 - vector
     - Euclidean vector (Oujlid)

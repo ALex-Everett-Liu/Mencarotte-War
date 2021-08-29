@@ -17,7 +17,6 @@
 - non-visible band;
 - [[radio wave]]
 - [[radio frequency]] - m
-- [[Raman spectroscopy]]
 - [[single beam spectrum]]
 - wavelength band; spectral band; spectral range
 - [[X-ray]]; x-ray

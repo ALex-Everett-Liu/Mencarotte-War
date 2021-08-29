@@ -11,6 +11,8 @@
     - [[Fourier-transform infrared spectroscopy (FTIR)]]
     - [[near-infrared spectroscopy (NIRS)]]
 - [[molecular spectrum]]
+- [[Raman spectroscopy]]
+- [[light scattering]]; [[wave scattering]]
 - [[spectral characteristics]]; [[spectral signature]]
 - [[spectral line]]
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method

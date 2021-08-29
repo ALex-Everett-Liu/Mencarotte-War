@@ -15,6 +15,7 @@
     - coupling interaction between the radiation and matter;
     - [[light absorption]]; [[absorption]]
     - [[photoelectric effect]]
+    - [[light scattering]]; [[wave scattering]]
     - [[spectroscopy]]
     - [入射光束]([[incident beam]])通过[样品]([[sample]]) - 反射 吸收 透射 散射 荧光
     - 分子中某个[基团]的[振动频率]-产生共振-[光的能量]通过[[偶极矩]]的变化[传递给分子]-[红外光的能量]与[分子震荡的能量][相当]。 -- 红外活性 
@@ -33,7 +34,6 @@
 - [[light source]]; optical source
 - [[light spectrum]]; [[electromagnetic spectrum]]
     - [[spectroscopy]]
-        - [[Rayleigh scattering]]
 - [[light speed]]; the speed of light
     - [[propagation speed]]
 - material...
@@ -64,7 +64,6 @@
     - [[microscopy]]; [[microscope]]; microscopic instrument
     - [[nanophotonics]]; [[nano-optics]]
     - [[photon]]
-- [[wave scattering]]
 - [[waveguide]]; [[optical waveguide]]
     - [[optical fiber]]; [[fiber]]; [[fibre]]
 - [[wave optics]] / [[physical optics]]
