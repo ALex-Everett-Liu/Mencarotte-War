@@ -8,6 +8,7 @@
     - [[assay]]: 试验, 化验 
     - [[chromatography]]: 色谱, 层析; [[chromatogram]]
 - [[biochemistry]]
+- [[boiling point]]
 - [[chemical bonding]]
 - [[chemical element]]
     - isotope: 同位素
@@ -35,6 +36,7 @@
 - [[monomer]]
 - [[nitrogen]]
 - [[noble gas]]
+- [[organic chemical]]
 - [[physical chemistry]]
 - [[polymer]]
 - [[purity]]
@@ -44,4 +46,6 @@
 - [[solution]]: 溶液
 - [[toxic]]
     - long-term chronic health effect;
+- [[vapour pressure]]; [[vapor pressure]]
+- [[volatility]]
 - 可燃气体;
