@@ -28,6 +28,9 @@
     - [[business management]]
     - [[collectivization]]
     - commission
+- [[identity politics]]
+    - [[feminism]]; feminist view
+    - [[political correctness]]
 - [[nation]]
     - [[nation/state]]
         - [[statelet]];

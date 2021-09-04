@@ -8,11 +8,13 @@
     - environmental organic analyte analysis: 环境有机物分析
     - operate continuously;
     - [[volatile organic compounds (VOCs)]]: 挥发性有机化合物
+        - low-reactivity; 
         - VOCs 总量监测方法
         - 单个 VOCs 组分监测方法
 - decompose hazardous gases: 分解有害气体
 - environmental contamination and remediation: 环境污染与补救/修复
 - environment monitoring; 环境监测; 在线监测系统
+- [[exemption]]: 免检; 
 - [[filter]]: 过滤器; 过滤芯
     - 吸附污染物/颗粒物;
 - 固定污染源中的[烟气]([[flue gas]])监测与分析 - SO2, NOx, 颗粒物 - flue gas from stationary sources
@@ -29,8 +31,10 @@
 - [[greenhouse gas (GHG)]]; [[greenhouse gas emission]]
 - irrigation sprinkler system: 喷水灌溉系统
     - automatic irrigation sprinkler system;
+- [[photochemical smog]]
 - [[pollutant]]
     - [[air pollution]]; [[air pollution control]]
+        - [[outdoor air pollution]]; 
     - [[air pollutant]]; [[gaseous pollutant]]; 大气污染防治
         - [[indoor air pollutant]]
 - releases into the atmosphere; 排放气体

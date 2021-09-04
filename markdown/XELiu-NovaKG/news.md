@@ -6,6 +6,7 @@
 - [[newsletter]]
 - [[newspaper]]
     - [[Huffington Post]]
+    - [[newspaper column]]
     - [[opinion page]]: 时评;
     - paper-round: 送报
 - [[reporter]]

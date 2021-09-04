@@ -1,0 +1,7 @@
+- [[radical feminism]]
+- dictionary
+    - Feminism must [address issues beyond the concerns of](((23-g_XxGE))) [[middle-class]] whites. 《柯林斯高阶英汉双解学习词典》
+    - [[radical feminism]] 激进的 is currently the [fashionable topic] [among the chattering classes]. 清淡阶层
+    - She [makes no reference to] any [feminist work] [other than her own]
+    - [Mainline feminism](((2SYELOMvO))) was arguing for the [inherent beauty] of the [natural woman].
+    - She used the [[newspaper column]] [as a platform for] her [feminist views](((vE5NsdQfM))). 《牛津高阶英汉双解词典》

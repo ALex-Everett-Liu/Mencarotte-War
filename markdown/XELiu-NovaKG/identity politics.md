@@ -1,0 +1,5 @@
+- dictionary
+    - [This has nothing to do with] political correctness or identity politics. www.[[hjenglish]].com
+    - [Literary Canon] and Identity Politics in [Cultural Studies] 经典 dict.cnki.net
+    - [The composition of the three forces] can avoid [onefold identity politics], give rise to [diversity consciousness] and establish the [humanitarian politics].
+    - Pursuit and Beyond: Pursuit of Identity Politics and [Exploration of Pure Art] in [American Chinese] [Woman Literature] www.[dictall].com
