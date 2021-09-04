@@ -28,7 +28,7 @@
     - [[law]]
     - [[politics]]
     - [[religion]]
-    - [[sociology]]; society
+    - [[sociology]]; [[society]]
 - [[technology]]
 - ---
 - my methodology
