@@ -25,6 +25,7 @@
         - During their [[summer holiday]]s they cruised further afield to Normandy and Brittany. 乘船到
         - ---
         - Let me [set the record straight on the misconceptions] [contained in your article]. 
+        - The model number is 1870/285. 该型号的编号
     - danci.[911cha].com
     - www.[[dictall]].com
         - Design of [Average Principle Phase Difference Tester] [Based on FPGA].
@@ -53,8 +54,10 @@
         - Set the record straight; made sure the facts were straight in the report. 
         - ---
     - www.[[kekenet]].com
+        - [Please tell us] the model number you want.
     - 《牛津高阶英汉双解词典》
         - They took the [scenic route](((5n3Dw9NHj))) 景色优美的路线 [back to the hotel]. 
+        - This model [comes with a number of] [optional extras]. 可供选择的附件
     - www.[[okread]].info
         - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
         - ---
@@ -69,6 +72,7 @@
         - We can establish a series of criteria of CPCS [on the basis of] the [necessary demand] of residents by use of analysis of ELES, and the multiplier of the studying costs to PDI.
         - [One possible solution to] this is to [reduce learning cost] and [increase learning benefit].
         - Many [rubber goods] require [medium thermal black] 中粒子热裂炭黑 in order to meet highly demanding performance specifications. sto.net.cn
+        - The model number can be found [on the bottom rail]. 围栏底部 db.21food.cn
 - classified by keyword 
 - ---
 - archived

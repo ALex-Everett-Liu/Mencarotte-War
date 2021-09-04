@@ -1,0 +1,7 @@
+- dictionary
+    - （显微镜）虹彩光圈；遮光板 | diaphragm consisting of [thin overlapping plates]([[plate]]) that [can be adjusted to change the diameter of] a [[central opening]]
+    - The [Stabilization Analysis] of [Automatically Adjustable Optical intensity System] Using Iris Diaphragm 可变光阑 dict.cnki.net
+    - The [artificial iris diaphragm implantation] 虹膜膈植入 for [silicone oil support eye]
+    - [Clinical practice] 临床应用 of IOL with [iris diaphragm implantation] for children 人工晶状体
+    - A case of [congenital aniridia cataract] 先天性无虹膜白内障 implanted black iris diaphragm [intraocular lens] 人工晶体
+    - [A new type of] sway-bar iris diaphragm 摆杆式

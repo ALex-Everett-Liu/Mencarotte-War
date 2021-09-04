@@ -143,6 +143,7 @@ webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库�
     - 以前，我有专门的[任务管理软件]（things3）和[灵感收集软件]（苹果备忘录、drafts、flomo）。在[信息收集]时，我会首先[在头脑中分类]，[哪一些内容属于][单纯的任务]，哪一些是[灵感相关的信息]。最后的结果是，我的各种[灵感收集箱]中装满了[不曾被回顾的想法]。而任务管理软件也因为可以暂时用[子弹笔记]取代而[被多次弃用](https://www.yuque.com/chunfengxiaotingzi/vol3yh/gz447f)。 #pt8-99.98
         - 写长文，就将 writeathon 里的卡片[导出成] word，直接在 scrivener 里读写。
     - {{[[TODO]]}} draw.io 的功能[涵盖了] processon 的很多功能，但是其[最大的卖点](https://www.yuque.com/wangdd/blog/zf3xgd)是**免费。** #pt7-99.98
+draw.io | Excalidraw
     - 这个估计得[等API出来后][靠社区了](https://cn.logseq.com/t/topic/256),除了 Alfred,我还希望有 telegram bot, windows quicker, IFFFT 等等[效率工具] #pt8-99.98
         - roam research 已经有alfred解决方案了
     - Obsidian + Zotero

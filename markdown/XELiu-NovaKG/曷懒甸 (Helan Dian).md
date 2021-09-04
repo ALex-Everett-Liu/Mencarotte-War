@@ -33,3 +33,5 @@
 210507-00:05
     - [维基文库]中相关的原始文献：[读史方舆纪要/卷三十八](https://zh.wikisource.org/wiki/%E8%AE%80%E5%8F%B2%E6%96%B9%E8%BC%BF%E7%B4%80%E8%A6%81/%E5%8D%B7%E4%B8%89%E5%8D%81%E5%85%AB)
 - 分类：金朝行政区划 已不存在的亚洲地名 
+- ---
+- {{[[TODO]]}} 即今朝鲜咸镜南道咸兴以北、咸镜北道[吉州]南大川以西地区。《金史·世纪》： 康宗时，“高丽背约，杀二使，[筑九城于]曷懒甸，以兵数万来攻”。[即此](https://www.cidianwang.com/lishi/diming/4/35614rb.htm)。 -- [site recommend](https://www.zhihu.com/question/29201534/answer/2083700928) #pt9-99.99
