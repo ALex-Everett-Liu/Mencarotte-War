@@ -1,0 +1,6 @@
+- dictionary
+    - [Neanderthal man] was able to kill [woolly mammoths] and bears. 浑身覆毛的 《柯林斯高阶英汉双解学习词典》
+    - By [mapping stretches of] [Neanderthal DNA] to [its human equivalent], the researchers were able to [complete bits of the jigsaw]. club.topsage.com
+    - To probe this cognitive conundrum, researchers took [CT scans] of 11 [Neandertal brains], including one newborn. And they [compared these images to] those of [modern humans]. www.[hjenglish].com
+    - In contrast, the human and [neandertal samples] [had significantly higher] [dental FA levels] than any of the [great ape] samples. dict.cnki.net
+    - Questions of the [evolutionary relationship] between Neanderthals and [modern humans] can now refocus on the [genetic basis] of the [physical differences], said Peter Brown, a [human evolution] expert at [the University of New England] in Australia. www.[ftchinese].com

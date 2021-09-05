@@ -35,6 +35,7 @@
     - [[R&D]]
     - [[research project]]
     - [[research team]]
+- [[scientific history]]
 - scientific methodology
     - [[reproducible research]]: 可重复性研究; reproduce the experiment;
     - [[science philosophy]]...
