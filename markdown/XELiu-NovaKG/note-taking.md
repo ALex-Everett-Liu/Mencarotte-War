@@ -105,6 +105,7 @@
         - 【freeplane + url scheme】这个组合[既可以简单使用]，也可以用上[子树脱离嵌套]、属性稀疏树、[日程脚本]等[进阶技巧]，url scheme [则负责][补齐编辑器的短板]，[这一套弄下来][难觅对手]。
     - 在大纲双链笔记中，葫芦笔记对 roam research 有最高的[数据兼容性]，未来对于[插件]也有[兼容计划]。整个软件[很稳定]，虽然功能没有[同时期的其它软件][那么酷]，但是也够用，除非有[特殊使用需求]。
 另外，葫芦笔记[社区的氛围和质量](https://www.yuque.com/deerain/gannbs/kbczzv)都很好，这也是[用户体验]的[重要组成部分]。 #pt9-100
+    - logseq [页面重命名]时[不能合并]。[页面重命名合并](https://www.yuque.com/deerain/gannbs/yt53ob)这个特性[实在是太重要了]，可以说是 roam research 最核心最重要的功能之一，只不过[很多人没意识到][它的重要性]。 #pt9-100
     - [我记得](https://www.yuque.com/deerain/gannbs/kga20n)[开发者][很早就敲定了]「视图」的[发展方向]（应该是在 github 上说的），这种[产品眼光][是非常先进的]，在双链时代，笔记软件[折腾来折腾去][都是在折腾]「组织方式」，把这一步做完善之后，下一步就是「呈现方式」，也就是[视图]。 #pt9-100
         - notion 的[第二个问题]是它的视图[太平庸]，说这种话[一点都不事后诸葛亮]，表格看板日历就是[人人都能想到的东西]，更别说[列表视图][完全就是个凑数的]。
             - 实际上视图[有很多种可能]，比如[这种视图](https://zhuanlan.zhihu.com/p/289356513)，从[知识管理]的层面来说[是非常先进的]；Trilium 的 [relation map note] 和 Tiddlywiki 的[固定式关系图][也很值得一学]，因为[每个元素]都是[自己往图上添加的]，位置都是自己固定的，[实用性]比这些[双链笔记]的[混乱关系图]强太多了。不过这些视图目前在 widget block 里[可能不太好实现]，[坐标数据][没地方存]，毕竟思源好像[还不支持][自定义块属性]，自己手动在 IAL 里写入的块属性会被思源[刷掉]。
@@ -120,6 +121,12 @@
             - 感谢Hardy，languagetool 的 [Dnaber](https://forum.languagetool.org/u/dnaber) 和 grammarly的Stacey 对于软件和插件的[及时响应]和优化，致敬！
     - 现在[缺陷还很多]。主要是我 [js 代码]是[花了两个小时]查看 zotero 的 api+ [学习例子和教程]学来的；同时 [Quicker 宏编程]我也是参考了很多 [zplusless](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2FUser%2FActions%2F110499-zplusless) [大佬][摘录助手-增强版](https://link.ld246.com/forward?goto=https%3A%2F%2Fgetquicker.net%2Fsharedaction%3Fcode%3D623da485-f979-4fda-414e-08d84e0e87c8)的内容，我自己[之前并没有接触过]，问题很多。。。我觉得[主要如下](https://ld246.com/article/1619536691753)： #pt9-99.99
     - 【离线同步】利用 IndexedDB [自动同步][浏览器的缓存数据](https://club.roamedit.com/club/?thread-815.htm) #pt9-99.99
+    - [有些软件]选择「文档快照」，或者把[历史版本][放在一个不起眼的位置]（roam，trilium）但这感觉不一样。[旧版本][是有意义的文字]，它是一部小说的[无数可能写法之一](https://www.yuque.com/idelem/tools/tpm5q0)，而不只是「以前写的」。 #pt9-99.99
+
+        - 有些人认为 git 等[版本管理工具][能解决这个问题]，但同样，此「版本」非彼「版本」。小说不是代码，不能[通过缝缝补补]来[形成新版本]。新版本往往是[完全的洗稿]、重置、改头换面，[有着相似的意义]但[表述完全不同]。git 的 [diff 算法][对它不是很有用]。更不要提[复杂的 commit 机制]了。
+
+        - [如果让我来设计]一个[小说家使用的] git，它应该是这样：选中一段文字，点击「重写」；输入重写的内容，然后[移动到文档里其它位置]；自动记录这一次 commit。
+（注：writemonkey 的 focus 功能[近似于]我描述的「重写」逻辑）
     - 本来 flomo 的故事是讲得下去的，然而现在有个东西叫 writeathon。writeathon 既是优秀的[收集软件]也是优秀的[写作软件]，虽然 flomo [讲故事的时候][带上了] notion，但 flomo+notion [这个组合][还真比不上][直接用] writeathon，在[收集端] flomo 只比 writeathon 多两个入口、[整理能力]不如 writeathon，在[输出端] notion 也比不上可以[无缝调用自身卡片盒]的 writeathon。[有人留言或私信问我] flomo 怎么样的时候[我都推荐] writeathon，[几乎所有人][在试用之后]都从 flomo [转投](https://www.yuque.com/deerain/gannbs/hkdvkr) writeathon 了。 #pt9-99.99
         - 根据我的经验，像元思这种[从移动端起家的产品]，基本可以[提前认为]它将来[做不好桌面端]，我觉得[没必要关注]
         - 不用 pick，只要懂 bujo 就可以在思源或 Obsidian 里轻松 all in one，这就是[文档型软件]的优势，只要懂[方法论]就可以应对[任务管理]（特别重度的不行），用[大纲型软件][再怎么懂方法][也很难应对好][写作需求]
