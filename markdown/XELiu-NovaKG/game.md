@@ -5,6 +5,12 @@
 - goal; [[achievement]]
 - [[interactive game]]
 - [[modding]]; creating mods
+- 3D modeling?
+    - #inbox
+        - 上 epic 的[虚幻商城](https://bbs.saraba1st.com/2b/thread-2020432-1-1.html)，[有整套的][捏脸系统]卖，技术很简单的 #pt9-99.99
+            - zbrush 3dmax 不是都[支持导入]吗
+            - 这种[投资人偏好的话术][一摆上台][就是骗钱的了]，爆笑
+            - metaverse=ar 真人=[线上交友][转线下]，[翻译出来][跟区块链有个jb关系]，[你是想搞][虚拟认证]+[永恒相册]吗？[交友掰了]付款覆盖、改写、删除相册？
 - [[Paradox Interactive]]
 - game platform...
     - [[Game/Steam]]
