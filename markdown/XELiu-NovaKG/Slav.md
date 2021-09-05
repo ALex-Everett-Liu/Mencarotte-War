@@ -1,0 +1,6 @@
+- dictionary
+    - At the same time, Transnistria (where ethnic Romanians outnumbered Slavs) was [joined to the remainder] to 联合其余的民族 form the "Moldavian Soviet Socialist Republic", [identical in territory to] present-day Moldova. www.[[ebigear]].com
+    - He had something of the Slav temperament. 脾性 provided by [[jukuu]]; www.[jukuu].com
+    - He had broad, Slavonic cheekbones. 宽颧骨
+    - Her [Slavonic ancestry] was unmistakeable. 
+    - The interests of [all the Slavic people] of the world are, of course, identical. 
