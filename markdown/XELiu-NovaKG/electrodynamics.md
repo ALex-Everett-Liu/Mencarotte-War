@@ -24,6 +24,7 @@
         - auxiliary field vector
         - [[magnetic force]]
     - [[resistance]]
+        - [[impedance]]
 - [[electron]]
     - electron beam
     - [[electron charge]]

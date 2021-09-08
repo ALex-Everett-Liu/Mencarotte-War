@@ -1,0 +1,6 @@
+- dictionary
+    - [impedance] [在电路中]对于[交流电流][显见的反抗],它类似于对[直流电流]的[实际电阻],并且等于[有效电动势]对[有效电流]的[比值]
+    - Two types of [power amplifier] for measuring [speaker impedance curve] were analysed. 百度翻译例句库
+    - Design of [Multi-Channel Array Skin Impedance Measurement System] Based on Windows www.[dictall].com
+    - [Gap Impedance Simulation] of [X-Band Three-Gap Coupled Cavity] [Output Circuit] 
+    - Influence of pH on [GMI Effect] 巨磁阻抗 of Electroplated FeNi/Cu Composite Wires 电沉积
