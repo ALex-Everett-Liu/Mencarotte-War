@@ -194,6 +194,8 @@ draw.io | Excalidraw
             - 不过有了 iframe 也许[可以在 src 上做文章]了。
         - 你好，[HTML 块]目前只是允许了几个标签，比如 iframe，video 等，更多的[暂时不会放开支持]，得等编辑器[稍微稳定一些]以后[再考虑](https://ld246.com/article/1627452548136)。
     - [logseq 嵌入 draw.io 图形导航](https://cn.logseq.com/t/topic/434) #pt7-99.98
+    - 如果[能解析成这样]应该就可以了，有点类似 toml 格式解析那样。现有的[大纲面板]可以取消，配合[同级面包屑导航]使用应该更好，面包屑导航可以参考 vscode 或 onecommander 的 navigation，但不要做[那么大面积](https://ld246.com/article/1629193296926)。 #pt7-99.98
+        - 关于[外部查找]。如果使用了类似数据库这样的[非文本格式]作为[数据存储]，可以[提供 api] 或者其他方式调用思源进行查找。配合 listary 或 quicker [自定义命令]都可以[比较方便的使用]。
     - Evernote 没有抄到双链的[精髓](https://www.zhihu.com/question/439739387)。
         - Trace back/forward
         - 最要命的是 Block level references，这个如果不解决，怎么抄都不像。一个知识和[另一个知识点]的链接产生在一部分中，如果如果只是Page level的references的话那么跟[打标签][没有实质区别]。 #pt7-99.98
@@ -202,4 +204,5 @@ draw.io | Excalidraw
 2. drawio 支持
 3. echart 支持
 4. vega-lite 支持
+    - 虽然[对于用户来说][数据索引][应该是透明的]，但是实际上[目前的技术方案]做不到透明，[在数据量较大的情况下]还是只能通过[关闭不必要的笔记本]来[提升性能]。另外，笔记本上也有一些[功能性设置]，这些设置如果[放到文档上](https://ld246.com/article/1630913445930)也不大合理。 # pt7-99.97
     - 在产品形态上，我们觉得以 WordPress 和 Notion 为代表的 Block Editor（块编辑器）是一种更好的[编辑器形态](https://zhuanlan.zhihu.com/p/379723832)的选择；以 Confluence 和 Coda 为代表的 workspace 概念是更好的[团队信息组织方式]；Roam Research 关于[块级引用]和双向链接的[构思]与我们[网状信息结构]的想法[不谋而合]；我们也觉得类似 Airtable 这样的[多视图表格][代表了未来的]表格趋势。在[产品迭代]的过程中，我们也一直在思考[协同平台]的[演进方向]。 #pt7-99.97

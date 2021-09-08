@@ -9,6 +9,7 @@
 - ---
 - Wiki
     - Fourier-transform infrared spectroscopy (FTIR)[1] is [a technique used to] obtain an [[infrared spectrum]] of [absorption or emission of a solid], liquid or gas. An FTIR spectrometer simultaneously collects [high-resolution spectral data] [over a wide spectral range]. This confers a significant advantage over a [[dispersive spectrometer]], which measures intensity over a narrow range of wavelengths at a time.
+(相比而言，分光式光谱仪每次只测量很窄带波段上的光强)
 210705-02:58
         - The term Fourier-transform infrared spectroscopy [originates from the fact that] a [[Fourier transforms (FTs)]] (a mathematical process) is required to convert the [[raw data]] into the [actual spectrum].
         - An example of an FTIR spectrometer with an [[attenuated total reflectance (ATR)]] attachment
@@ -210,7 +211,7 @@ Measured S/N:	476.19
                     - 艰难的看过标准上的描述（没办法，中国[国标](http://www.instrument.com.cn/download/L_5DBC98DCC983A70728BD082D1A47546E.htm)写的水平就是高！？），为了各位同学[能够顺利读懂]，我将它写为[白话现代汉语版]：
                         - 红外信噪比，是通过[基线噪声]（[100%T线](((hnD3p8kOD)))）[来表征]。也就是，在[样品室中不放样品]的情况下（[空光路]），测得一条[假定理想的100%T透射光谱]。信号，当然就是100%T了，如果没有噪声，那么[这条光谱]将是一条严格的[纵坐标为100%T的直线]，但是，[实际情况是][噪声总是存在的]，这就使得这条光谱的[各个波数点上的值][不见得一定是100%T]，可能高一些（比如100.1%T），也可能低一些（比如99.9%T）。
                             - [P-P（峰-峰值）噪声](((31XZHnwFv)))的意思就是说[刚才测得的那条光谱][在某一段波数区间内]（比如 2200~2100cm-1）的[最大值与最小值之差]，比如说是 100.1%T-99.9%T=0.2%T。前面说了，信号是[假定为100%T]，那么，根据信噪比的定义，信号值/噪声值，比如 100%T/0.2%T=500（注意此处[单位相消]，也就是说，信噪比用信号噪声比值表示的话，是一个[无量纲的数]([[dimensionless quantity]])）。此时，我们可以说，这台红外光谱仪的信噪比是 500:1。换句话说，我们知道了P-P（峰-峰值）噪声，我们也就自然知道了 [P-P 值信噪比]；同理，我们知道了[P-P值信噪比]，比如500:1，那么我们[很自然的]也能利用 [噪声=信号/信噪比]，即 100%T/500=0.2%T，得到[P-P噪声值]的大小为0.2%T。
-                    - 有人说，为了避免[小概率事件的发生]（[此君]是[彩票迷]，鉴定完毕！），噪声值应该用[更具代表性]和统计性的 RMS噪声来表示。那啥是RMS呢？我不得不祭出[万恶的数学公式]（霍金一部《时间简史》，只用了一个公式。[我这个小小的原创]这么早就出公式了。我不如霍金。。。）
+                    - 有人说，为了避免[小概率事件的发生]（[此君]是[彩票迷]，鉴定完毕！），噪声值应该用[更具代表性]和统计性的 RMS 噪声来表示。那啥是RMS呢？我不得不祭出[万恶的数学公式]（霍金一部《时间简史》，只用了一个公式。[我这个小小的原创]这么早就出公式了。我不如霍金。。。）
                         - 设 {Y1, Y2, Y3, …YN} 为[给定波数区间内][N个连续波数点][对应的纵坐标值]（按照前述条件下，为一系列[%T透过率值]），则这些值的均值为：
 $$\bar{Y}=\frac{1}{N}\left\{Y_{1}+Y_{2}+Y_{3}+\cdots+Y_{N}\right\}=\frac{1}{N} \sum_{n=1}^{N} Y_{n}$$
                             - 均方根偏差为：

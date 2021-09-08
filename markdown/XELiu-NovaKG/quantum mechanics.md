@@ -53,7 +53,7 @@
                 - [[Hermitian operator]]
                 - [[eigenvector]]
                 - [[eigenspace]]
-    - [[Schrödinger equation]]
+    - [[Schrödinger equation]]; [[Schrödinger’s equation]]
 - ---
 - 高等量子力学 (Advanced Quantum Mechanics) - 喀兴林
 - 如果你来讲《量子力学》课程，你会如何设计？

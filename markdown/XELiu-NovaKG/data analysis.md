@@ -16,4 +16,5 @@
 - plot...
     - ray-fan plot
     - spot diagram
+- [[raw data]]
 - receive data;
