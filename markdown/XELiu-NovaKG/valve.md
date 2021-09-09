@@ -18,6 +18,7 @@
     - three-port design; [[3-way solenoid valve]]; [[3-way valve]]
     - input air line or tube; 
     - water pipe valve; 
+- [[比例阀]]
 - [[进样阀]]
     - [[定量管]]; [[定量柱]]
 - [[切阀]]; [[柱切阀]]; 柱切换阀; 柱切换系统; 阀切系统
