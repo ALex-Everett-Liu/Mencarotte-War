@@ -7,6 +7,7 @@
         - [[gas analyzer]]; [[gas analyser]]; on-line gas analyzer; [[gas analyte]]
     - [[assay]]: 试验, 化验 
     - [[chromatography]]: 色谱, 层析; [[chromatogram]]
+- [[atmospheric pressure]]
 - [[biochemistry]]
 - [[boiling point]]
 - [[chemical bonding]]
@@ -36,7 +37,7 @@
 - [[monomer]]
 - [[nitrogen]]
 - [[noble gas]]
-- [[organic chemical]]
+- [[organic compound]]; [[organic chemical]]
 - [[physical chemistry]]
 - [[polymer]]
 - [[purity]]

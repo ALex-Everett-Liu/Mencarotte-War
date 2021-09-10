@@ -6,6 +6,7 @@
         - [[central server]]
         - [[trusted authority]]
 - [[currency]]
+- [[exchange rate]]
 - [[financial crisis]]
     - [[global financial crisis]]
 - fund

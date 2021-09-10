@@ -7,6 +7,7 @@
 - [[microeconomics]]
 - [[money]]
 - [[political economy]]
+- [[surplus]]: 盈余; 
 - 产业
     - [[local specialties]]; local product
     - [[manufacturing]]; 制造业
