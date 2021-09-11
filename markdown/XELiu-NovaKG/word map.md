@@ -475,6 +475,8 @@
                 - flowing;
                 - workflow;
         - fo
+            - foot
+                - footwear: 鞋类; 
             - for
                 - force
                     - [[reinforce]]
@@ -716,6 +718,8 @@
             - mark
                 - benchmark; 
         - me
+            - mend
+                - amend: 修正 
             - [[merit]]
             - message
             - met

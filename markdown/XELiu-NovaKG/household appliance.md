@@ -1,4 +1,6 @@
 - [[dishwasher]]
+- finishing product: 装饰产品; 
+- paints and varnishes: 油漆和清漆; 
 - [[vacuum cleaner]]
 - [[washing machine]]
 - ---

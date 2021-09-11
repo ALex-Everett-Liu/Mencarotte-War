@@ -11,6 +11,7 @@
         - Also, this paper analysis the measure problem of the [zero-current in the system]. 零电流检测 
         - The analysis of measure problem on the [roller brake tester] 滚筒试验台
         - This thesis solves some measure problem in the traditional [ultrasonic flow meter]. 流量计
+        - [[反吹]]; 从样气入口吹出 -- blowback -- Determination of [Trace Water] 微量水 in Toluene and Cymene 甲苯、异丙基甲苯 by [Backflushing Chromatography] dict.cnki.net
         - ---
         - When the [firm's efficiency] is lower (higher), the stronger [network externalities] will make its incentive to innovation weaker (stronger), and the higher compatibility and the higher learning cost of [demand side] will make its incentive to innovation stronger (weaker). RD动机
         - Research and Application of [Real-time Determination of Attitude] 实时测姿 Using [GPS Carrier] [Phase Differential Technique]. 载波相位差分

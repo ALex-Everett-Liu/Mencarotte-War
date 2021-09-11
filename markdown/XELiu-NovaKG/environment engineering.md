@@ -2,6 +2,7 @@
 - [[air quality]]
     - [[indoor air quality]]
 - [[particulate matter]]; [[airborne particulate matter]]: 空气颗粒物
+- carbon emission; 
 - [[combustion]]
     - [[combustion control]]
 - [[Continuous Emissions Monitoring Systems (CEMS)]]; [[continuous monitoring]]; [[emission monitoring]]
@@ -32,12 +33,14 @@
 - [[greenhouse gas (GHG)]]; [[greenhouse gas emission]]
 - irrigation sprinkler system: 喷水灌溉系统
     - automatic irrigation sprinkler system;
+- [[limit value]]
 - [[photochemical smog]]
 - [[pollutant]]
     - [[air pollution]]; [[air pollution control]]
         - [[outdoor air pollution]]; 
     - [[air pollutant]]; [[gaseous pollutant]]; 大气污染防治
         - [[indoor air pollutant]]
+- reduction scheme; 
 - releases into the atmosphere; 排放气体
 - [[standard condition]]; [[standard state]]; [[working condition]]
 - [[thermal oxidizer]]
