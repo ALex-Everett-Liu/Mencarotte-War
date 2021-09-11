@@ -24,3 +24,8 @@
     - 检查方法
         - [[photo ionization detector (PID)]]: 光离子化检测器
         - [[flame ionization detector (FID)]]: 火焰离子化检测器
+- dictionary
+    - [Control system] design for volatile organic compounds treatment based on [reverse flow reactor] 流向变换 dict.cnki.net
+    - [Control Technology] for Volatile Organic Compounds Treatment Based on [MLD Model] 混合逻辑动态
+    - [Testing methods] for volatile organic compounds in [industrial water] and [waste water] www.[dictall].com
+    - [Theoretical Study] on the [Atmospheric Reaction Mechanism] of Volatile Organic Compounds
