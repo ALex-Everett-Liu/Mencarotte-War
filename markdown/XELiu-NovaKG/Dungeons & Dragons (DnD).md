@@ -7,7 +7,9 @@
     - {{[[TODO]]}} [[费伦的影帝]] - 马库斯家的猫 著 #pt10-99.99
         - 小说原名《来自大冰原的传奇扮演者》
 - [[Dungeons & Dragons: Player's Handbook]]
-- [[Pathfinder]]
+- [[Pathfinder]]; Pathfinder franchise
+    - [[Pathfinder: Kingmaker]]
+    - [[Pathfinder: Wrath of the Righteous]]
 - [[Tactical Studies Rules, Inc. (TSR)]]
 - [[Underdark]]
 - #inbox

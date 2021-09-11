@@ -6,11 +6,12 @@
 - conditions
     - blinded condition
 - environment effect
+- [[isometric role-playing game]]
 - [[JRPG]]
 - [[party]]: 小队
     - [[companion]]
 - [[player]]; character
-    - character class; occupation -- 职业
+    - [[character class]]; occupation -- 职业
     - [[character creation]]
         - [[ability score]]
             - [[Ability/Charisma]]
@@ -24,6 +25,8 @@
         - [[experience points (XP)]]
     - [[player characters (PCs)]]
         - the inhabitants of the game world; [[non-player characters (NPCs)]]
+- TRPG; [[tabletop game]]
+    - [[ruleset]]
 - #inbox
     - 《质量效应》的故事，放到今天来看，它非常[理所应当]，[洋溢着一种][古典美]的[太空科幻故事](https://zhuanlan.zhihu.com/p/372605773)。 #pt7-99.98
         - 《质量效应》和[今天人们热衷的][霓虹灯管朋克]，完全是两套东西，虽然二者在[流程]甚至[有趋同的地方]，但[精神内核][是完全相反的]——而且《质量效应2》是那会儿的[年度游戏]。

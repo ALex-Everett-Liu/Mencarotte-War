@@ -14,6 +14,7 @@
 - [[Paradox Interactive]]
 - game platform...
     - [[Game/Steam]]
+    - [[Kickstarter]]
 - [[referee]]
 - [[release]]
     - [[DLC]]
