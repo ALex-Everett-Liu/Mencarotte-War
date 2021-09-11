@@ -4,7 +4,6 @@
 - [[particulate matter]]; [[airborne particulate matter]]: 空气颗粒物
 - carbon emission; 
 - [[combustion]]
-    - [[combustion control]]
 - [[Continuous Emissions Monitoring Systems (CEMS)]]; [[continuous monitoring]]; [[emission monitoring]]
     - emission limit value; 
     - environmental organic analyte analysis: 环境有机物分析

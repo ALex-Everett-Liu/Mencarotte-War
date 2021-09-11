@@ -945,7 +945,7 @@
                 - pretty
                     - prettier; prettify;
                 - prevail
-                    - prevalent
+                    - prevalent: 普遍存在的, 常见的
             - pro
                 - produce
                     - [[product]]

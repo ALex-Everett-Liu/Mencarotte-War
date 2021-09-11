@@ -21,8 +21,12 @@
 210911-14:40
         - [The singular focus on] the [[exchange rate]] appears [based on the assumption that] [it is the key cause of] the [[surplus]] and the [main policy instrument] for removing it. 主要政策工具 www.[[ftchinese]].com
 - Anthropogenic sources
-    - [Anthropogenic sources] emit about 142 teragrams (1.42 × 10^11 kg) of [carbon] per year [in the form of VOCs].[27]
-    - The major source of man-made VOCs are:[28]
+    - [Anthropogenic sources] emit about 142 teragrams (1.42 × 10^11 kg) of [carbon](((A3UayQyAX))) per year [in the form of VOCs].[27]
+    - The [major source] of [man-made VOCs] are:[28]
+        - [Paints and coatings](((FXX8WcoeI))) are a [major anthropogenic sources](https://en.wikipedia.org/wiki/File:BMW_Leipzig_MEDIA_050719_Download_Lackiererei_2_max.jpg) of VOCs.
+        - [[fossil fuel]] [use and production], e.g. [incompletely combusted fossil fuels](((IK5ZVI6Or))) or [unintended evaporation]([[evaporation]]) of fuels. [The most prevalent](((CAAXa62nz))) VOC is [[ethane]], a relatively [[inert compound]].
+210911-14:50
+        - [[solvent]]s used in [[coating]]s, [[paint]]s, and[[ ink]]s. Approximately 12 billion litres of paints are [produced annually]. [Typical solvents] are aliphatic hydrocarbons, ethyl acetate, glycol ethers, and acetone. Motivated by cost, environmental concerns, and regulation, the paint and coating industries are increasingly shifting toward aqueous solvents.[29]
 - Analytical methods 
     - Sampling
         - Obtaining samples for analysis is challenging. VOCs, even when at dangerous levels, are dilute, so preconcentration is typically required. Many components of the atmosphere are mutually incompatible, e.g. ozone and organic compounds, peroxyacyl nitrates and many organic compounds. Furthermore, collection of VOCs by condensation in cold traps also accummulates a large amount of water, which generally must be removed selectively, depending on the analytical techniques to be employed.[28] Solid-phase microextraction (SPME) techniques are used to collect VOCs at low concentrations for analysis.[53] As applied to breath analysis, the following modalities are employed for sampling: gas sampling bags, syringes, evacuated steel and glass containers.[54]

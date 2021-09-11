@@ -18,6 +18,7 @@
         - superposable
     - [[periodic table of elements]]
 - [[chemical plant]]
+- [[combustion]]
 - [[component]]
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
@@ -26,7 +27,7 @@
     - dose liquid and gas; 
 - [[evaporation]]
 - [[hydrocarbon]]
-- [[inert gas]]
+- [[inert gas]]; [[inert compound]]
 - [[ion]]
     - [[ionization energy]]
 - [[unreactive gas]]
