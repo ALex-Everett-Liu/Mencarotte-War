@@ -1,0 +1,6 @@
+- dictionary
+    - [This pair of pliers] is really handy. 百度翻译例句库
+    - His [[surgical instrument]]s were a knife and [a pair of pincers]. 《柯林斯高阶英汉双解学习词典》
+    - [This device has a gripper] 夹子, 抓器 that [electrically twists off the jar top]. Nothing to it 拧开瓶盖
+    - Al Zahrawi also reportedly performed the first [caesarean operation] 剖腹产手术 and created the first pair of forceps. www.[[hjenglish]].com
+    - Analysis of [pipe leakage] of OLYMPUS endoscope and its [maintaining methods] 内镜钳子 www.[dictall].com

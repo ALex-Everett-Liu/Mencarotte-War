@@ -15,5 +15,6 @@
 - personal care and service occupations: 个人护理和服务职业
 - [[patient]]
 - [[pharmacy]]
+- [[surgical instrument]]: 外科手术器械 
 - [[symptom]]; clusters of symptoms
 - [[treat]]

@@ -13,7 +13,7 @@
     - ### Translations
         - Minh Tuấn was [kind enough to translate this tutorial to] Vietnamese. You can view the translation [here](http://vidieukhien.net/threads/23/).
 - ## What's a PCB?
-    - Printed circuit board is [the most common name] but may also be called "printed wiring boards" or "printed wiring cards". [Before the advent of] the PCB circuits were [constructed through a laborious process] of [[point-to-point wiring]]. [This led to frequent failures] at [[wire junction]]s and [[short circuit]]s when [[wire insulation]] [began to age and crack]. 绝缘层开始老化和开裂时
+    - Printed circuit board is [the most common name] but may also be called "printed wiring boards" or "printed wiring cards". [Before the advent of] the PCB circuits were [constructed through a laborious process] of [[point-to-point wiring]]. [This led to frequent failures] at [[wire junction]]s and [[short circuit]]s when [[wire insulation]] [began to age and crack]. 开始老化和开裂时
 210621-13:01
         - __courtesy Wikipedia user Wikinaut__ <-
         - [A significant advance] was the development of [wire wrapping](http://en.wikipedia.org/wiki/Wire_wrap), where [a small gauge wire] is [literally wrapped around a post] 一根小规格的金属丝缠绕在一根柱子上 at each [[connection point]], creating a [[gas-tight connection]] which is highly durable and easily changeable. #[[wire wrap]]

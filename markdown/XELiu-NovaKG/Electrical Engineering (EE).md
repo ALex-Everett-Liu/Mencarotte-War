@@ -8,6 +8,7 @@
     - high voltage electricity
 - [[electromagnetic interference (EMI)]]; [[radio-frequency interference (RFI)]]
 - [[electronic filter]]
+- [[electric wire]]
 - [[power consumption]]
 - [[power line]]
 - [[power supply]]

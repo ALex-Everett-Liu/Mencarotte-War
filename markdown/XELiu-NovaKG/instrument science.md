@@ -37,6 +37,7 @@
     - instantaneous reading
     - interfere with the reading: 干扰读数; 
 - [[reliability]]: 可靠性
+- [[scissor]]: 剪刀
 - 管线
 - [螺丝]([[screw]])
     - [[plumbing]]: 管道
@@ -73,6 +74,11 @@
     - [[thread seal tape]]
 - [[sensitivity]]; [[sensitive]]
 - [[stability]]
+- [[pliers]]: 钳子;
+    - [[grab]]: 抓斗 
+    - [[pincer]]
+    - [[wire stripper]]
+        - [[center notch]]: 凹口, 凹痕;
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.
