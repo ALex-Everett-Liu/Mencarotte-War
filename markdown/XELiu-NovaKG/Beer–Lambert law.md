@@ -3,3 +3,10 @@
 - Chemical analysis by [[spectrophotometry]]
     - The Beer–Lambert law [can be applied to] [the analysis of a mixture]([[mixture]]) by spectrophotometry, [without the need for] [extensive pre-processing of the sample]. An example is the determination of [[bilirubin]] in [[blood plasma]] samples. 血浆样品中胆红素的测定 The spectrum of pure bilirubin is known, so the [[molar attenuation coefficient]] ε is known. Measurements of [[decadic attenuation coefficient]] μ10 are [made at one wavelength λ] that is nearly unique for bilirubin and [at a second wavelength] in order to [correct for possible interferences]. The [[amount concentration]] c is then given by $$c={\frac  {\mu_{10} (\lambda )}{\varepsilon (\lambda )}}.$$
     - The law is [used widely in] [[infra-red spectroscopy]] and [[near-infrared spectroscopy (NIRS)]] for analysis of [polymer degradation and oxidation] (also in [[biological tissue]]) as well as to measure the concentration of various compounds in different [food samples]. The carbonyl group attenuation at about 6 micrometres [can be detected quite easily], and degree of oxidation of the polymer calculated.
+- ---
+- [[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$ 
+    - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm)) -- absorbance is positive to [[concentration]]
+    - [[消光系数]] $$\varepsilon$$
+    - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
+    - N个组分的混合样品，总吸光度 $$A(\nu)=\sum_{i=1}^{N} a_{i}(\nu) b c_{i}$$ (9-2)
+        - 某个基团振动频率的吸光度系数很大，或者分子中同一基团的数目很多

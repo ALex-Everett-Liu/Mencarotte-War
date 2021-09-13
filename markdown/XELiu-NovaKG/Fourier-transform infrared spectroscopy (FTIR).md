@@ -78,10 +78,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FlzGVLQCf9g.png?alt=media&token=4d6ed711-1812-476c-ad3e-1917639aa4ba)
         - raw gas spectrum I_t
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwSVrBW04Ul.png?alt=media&token=7bfe8aa8-92f0-4f29-9a1e-c54ab2d4eecf)
-    - [吸光度]([[absorbance]])光谱--[[absorption spectrum]]--[[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$ -- [[Beer–Lambert law]]
-        - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm)) -- absorbance is positive to [[concentration]]
-        - [[消光系数]] $$\varepsilon$$
-        - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
+    - [吸光度]([[absorbance]])光谱--[[absorption spectrum]]--[[Beer–Lambert law]]
 - [[absorption peak]] -- 特征性 吸收峰
 - [使用与维护][注意事项]
     - [相对湿度]应在65%以下，[高湿度时][需要除湿]。
@@ -103,6 +100,12 @@
 - software dependency -- 210713-17pm
     - x64/FTIR gas analyzer online -- IMG_20210713_174532.jpg
 - ---
+- # 傅里叶红外光谱-翁诗甫
+    - 第9章 定量分析和未知物剖析
+        - 复杂体系，如三种组分以上，不容易定量分析
+            - 未知物样品光谱中的特征吸收峰
+            - 谱库检索技术
+        - 9.1.1 [[Beer–Lambert law]]
 - # ABB MBGAS3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体
@@ -220,7 +223,7 @@ $$R M S D=\sqrt{\frac{1}{N} \sum_{n=1}^{N}\left(Y_{n}-\bar{Y}\right)^{2}}$$
                         - 一般对红外光谱来讲，[P-P（峰-峰值）噪声]会比[RMS（均方根值）噪声]大5倍左右，换句话说，RMS噪声的[绝对数值]更小，[换算成信噪比]时就更大，所以你发现用RMS值表示的信噪比[往往看起来都很漂亮][也就不奇怪了]，因为它比P-P值表示的信噪比大了5倍（而且，显然[参与运算的波数点]越多，这一倍数还会增加）。
                     - 上面的“基线噪声”都是用了[100%T基线]，对应的是[透射光谱]的[透过率]([[transmittance]])表示形式；国际上越来越多的地方采用透射光谱的[吸光度]([[absorbance]])表示形式，此时的“基线”自然变成了 [0A 基线]。该“零基线”上的噪声单位，显然也就变成了 A（吸光度单位，有时写做 AU）。此时，计算P-P噪声和RMS噪声的方法与前面完全一样。但是，因为这些基线都是在[样品室中不放样品]的情况下（空光路）测得的，所以此时的信号应该是0A，如果直接计算信噪比的话，0/噪声=0，显然得不到明确的有意义数值。所以[有很多同学][这个地方就会糊涂了]，由吸光度表示的基线噪声值，怎么得到信噪比？在此，zwyu 独家奉献[推导过程]（呵呵，反正[市面上所有的资料]里都没写，可能觉得太简单了吧。）：
                         - 前面讲到，因为测量吸光度基线噪声时，[假定的信号]就是 0A（相当于[没有信号]），导致所有的计算[归零]。那么，绕开这一“归零窘境”的关键就是不用0A，而采用等效的100%T，因为前面用100%T基线噪声时计算信噪比[已经证明是行得通的]。所以，[要做的工作就是]将[0A基线时的噪声][等效为][100%T基线时的噪声]。由吸光度与透射率之间的[转换关系]：
-                            - [吸光度]([[absorbance]])光谱--[[absorption spectrum]]--[[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$ -- [[Beer–Lambert law]]
+                            - [吸光度]([[absorbance]])光谱--[[absorption spectrum]]--[[Beer–Lambert law]]
                             - 设此时信号为1（即100%），考虑到将A坐标下的噪声 A-0 转换到%T坐标下的噪声 1-T（为简化起见，将100%记为1，T则不再乘100），则根据信噪比SNR的定义，
 $$S N R=\frac{1}{1-10^{-A}}$$
                                 - 这里的A就是0A基线下给出的基线噪声值（如果你怕将它和吸光度单位A混淆，请自行将公式中的变量A换为任意字母代替）。后面我会[结合实例]，验证我这一推导公式。显然A值越小，得到的信噪比越大，也就是说[基线噪声值]越小越好，这也与我们的认知相一致。
