@@ -105,7 +105,7 @@
         - 复杂体系，如三种组分以上，不容易定量分析
             - 未知物样品光谱中的特征吸收峰
             - 谱库检索技术
-        - 9.1.1 [[Beer–Lambert law]]
+        - 9.1.1 [[Beer–Lambert law]]   p295
 - # ABB MBGAS3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体

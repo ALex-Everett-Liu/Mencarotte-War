@@ -50,4 +50,5 @@
     - long-term chronic health effect;
 - [[vapour pressure]]; [[vapor pressure]]
 - [[volatility]]
+- [[基团]]
 - 可燃气体;

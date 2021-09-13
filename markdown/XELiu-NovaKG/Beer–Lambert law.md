@@ -6,7 +6,11 @@
 - ---
 - [[absorbance]] $$A=\lg \left(I_{0} / I_{t}\right)=\lg (1 / T)=-\lg T$$, or $$I_{t} = I_{0} exp(-\varepsilon cl)$$ 
     - A=klc -- 吸光物质的浓度 c (mol/L) - 吸收层厚度 l (cm) (气室长度 l (mm)) -- absorbance is positive to [[concentration]]
-    - [[消光系数]] $$\varepsilon$$
+    - [[消光系数]] $$\varepsilon$$ -- 吸光度系数
     - $$e^{x}=1+\frac{x}{1 !}+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+\cdots, \quad-\infty<x<\infty$$
     - N个组分的混合样品，总吸光度 $$A(\nu)=\sum_{i=1}^{N} a_{i}(\nu) b c_{i}$$ (9-2)
-        - 某个基团振动频率的吸光度系数很大，或者分子中同一基团的数目很多
+        - 某个[基团振动频率]的[吸光度系数]很大，或者分子中同一[[基团]]的[数目很多]，则特征吸收峰就很强
+            - 强极性基团 O-H C-O O-F
+            - 键级数目多的基团 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fa8xLP-gd9x.png?alt=media&token=6a78e912-f648-46b9-8614-e010af107831)
+    - 透射率光谱与样品浓度没有正比关系，所以要把透射率光谱转换成吸光度光谱
