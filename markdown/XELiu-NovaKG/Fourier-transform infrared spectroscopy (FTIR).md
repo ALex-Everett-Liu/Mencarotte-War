@@ -106,6 +106,13 @@
             - 未知物样品光谱中的特征吸收峰
             - 谱库检索技术
         - 9.1.1 [[Beer–Lambert law]]   p295
+        - 9.1.2
+            - 9.1.2.1 峰高的测量
+                - 重叠-肩峰-不对称 p297
+                - 基线校正
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FgJX3J71xvW.png?alt=media&token=35b0fcaa-a90e-4755-bcc3-fe4ab60a2745)
+                    - 曲线拟合法
+            - 峰面积的测量
 - # ABB MBGAS3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体
