@@ -113,6 +113,10 @@
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FgJX3J71xvW.png?alt=media&token=35b0fcaa-a90e-4755-bcc3-fe4ab60a2745)
                     - 曲线拟合法
             - 峰面积的测量
+        - 9.1.3 [[curve fitting]] / band fit / peak solve
+            - 洛伦兹函数分布 or 高斯函数分布-正态分布
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_ibRqb5Mey.jpg?alt=media&token=1ff5eb67-ae65-465b-b2dd-53c516e75ff4)
+            - 导数光谱数据处理
 - # ABB MBGAS3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体

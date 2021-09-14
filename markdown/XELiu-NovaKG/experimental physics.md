@@ -4,6 +4,7 @@
         - illuminate the plate;
 - condition, environment...
     - dark room
+- [[curve fitting]]
 - [[detector]]
 - [[experimental result]]; outcome of the experiment; outcome of the measurement; [[outcome]]
 - experimental v.s. theoretical?
