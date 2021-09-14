@@ -73,7 +73,20 @@ Cleanroom facility maintenance
             - 基本特征
                 - 重复性精度 <±2%（校准点）
                 - 工作湿度范围 0~99% RH（无凝露）
-                - 工作压力范围
+                - 工作压力范围 800~1200 mbar
+            - 电气特性
+                - 工作电压 3.3±0.3V
+                - 安全认证 Pending
+            - 产品示意图
+                - ![susa-pid-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FZUCh30925k.png?alt=media&token=e14e7518-1de4-497e-9d18-a88ffdfebc6a)
+                - Pin1：电源输入
+Pin2：信号输出
+Pin3：接地
+Hole：顶针孔
+Notch1&Notch2：对称切口，用于[开取上盖]
+                - 所有尺寸[公差]均为 ±0.10mm
+            - 产品分类 & 性能分类 (10.6eV)-3.3V
+                - 
 - PID 光离子化 VOC 检测仪
     - Ion Science 专利技术的[VOCs检测仪](https://www.antpedia.com/method/article-46757.html)采用先进的光离子化检测器,可以检测在 1ppb~10000ppm 浓度范围的多种挥发性有机化合物。
     - PID有一个[紫外光源],化学物质在它的激发下[产生正、负离子]就能被检测器轻易探测到。当分子[吸收高能紫外线]时就[产生电离]，分子[在这种激发下][产生负电子]并[形成正离子]。这些[电离的微粒]产生的电流[经过检测器的放大]，就能在仪表上显示 ppb/ppm 级的浓度。这些离子[经过电极后]很快就[重新组合到一起]变成[原来的有机分子]。在此过程中分子[不会有任何损坏]； PID [不会“烧毁”]也不用[经常更换标样气体]，这一点使它[可用于][收集样品]。
