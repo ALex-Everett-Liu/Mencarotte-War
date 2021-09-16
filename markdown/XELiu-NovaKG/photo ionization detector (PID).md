@@ -86,7 +86,24 @@ Hole：顶针孔
 Notch1&Notch2：对称切口，用于[开取上盖]
                 - 所有尺寸[公差]均为 ±0.10mm
             - 产品分类 & 性能分类 (10.6eV)-3.3V
-                - 注：所有参数都在实验室环境下异丁烯进行测定。由于使用的应用环境是不可控，信息提供只做参考。客户应测试自己的环境条件，以确保传感器适合自己要求。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FPn6Ipl7IIy.png?alt=media&token=a72cc9b1-1b28-4419-85e5-8af80342cf69)
+                - 注：[所有参数]都[在实验室环境下]异丁烯[进行测定]。由于[使用的应用环境]是[不可控]，信息提供只做参考。客户应[测试自己的环境条件]，以确保传感器[适合自己要求]。
+            - 线性
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FbPGMogKjhx.png?alt=media&token=30de631e-5dcf-4257-800e-c3b4945b85c1)
+            - 温度特性
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FH-T6Z5ZZec.jpg?alt=media&token=6c7ee1ca-41bc-4f6f-8215-92e54769b052)
+            - 维护指南
+                - 客户需[根据应用环境情况][定期维护][，一般建议][每半年一次]。
+                - 操作：
+                    - 1， 如右图，使用[一字螺丝刀]，通过[两边对称切口][旋转撬开上盖]，并随之[取下上盖]。注意应[交替撬两边切口][以免弯曲]。
+                    - 2， 同样通过[两边对称切口]，[用手轻取下]检测器即可。
+                    - 3， [传感器底部]有个[顶针孔]，用[非刚硬材料]通过顶针孔可以[将紫外灯取出]。
+                    - 4， 紫外灯窗口可用甲醇或丙酮[擦洗]。
+                    - 5， 检测器可用甲醇或丙酮[超声清洗]。
+                - 备注：
+                    - 为保证[测量精度]，传感器[装配好后]，仪器需重新[老化标定]。
+    - NovaPID-TVOC 传感器 -- TVOC 检测用高性能光离子化检测器 (PID)
+        - 2. 工作原理
 - PID 光离子化 VOC 检测仪
     - Ion Science 专利技术的[VOCs检测仪](https://www.antpedia.com/method/article-46757.html)采用先进的光离子化检测器,可以检测在 1ppb~10000ppm 浓度范围的多种挥发性有机化合物。
     - PID有一个[紫外光源],化学物质在它的激发下[产生正、负离子]就能被检测器轻易探测到。当分子[吸收高能紫外线]时就[产生电离]，分子[在这种激发下][产生负电子]并[形成正离子]。这些[电离的微粒]产生的电流[经过检测器的放大]，就能在仪表上显示 ppb/ppm 级的浓度。这些离子[经过电极后]很快就[重新组合到一起]变成[原来的有机分子]。在此过程中分子[不会有任何损坏]； PID [不会“烧毁”]也不用[经常更换标样气体]，这一点使它[可用于][收集样品]。
