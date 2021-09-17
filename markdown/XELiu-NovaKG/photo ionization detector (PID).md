@@ -136,6 +136,58 @@ Notch1&Notch2：对称切口，用于[开取上盖]
         - 5. 应用测试
             - 若本产品[长时间未使用]或[初次使用]，可能会出现[基线漂移]([[baseline draft]])情况。此时请保持 NovaPID [连续工作一段时间][直至基线稳定后][再使用]。同理，如将长时间不使用 NovaPID，[请尽量][将本产品存放于]洁净、温湿度合适的环境中。
             - 5.1. 线性度
+                - 针对不同检测气体，传感器的线性[会有差异]。通常，传感器对检测气体的[响应越大]，[线性范围]越窄。NEI 专利技术可以[显著提高]检测气体的[收集效率]，并且[每一个传感器]均采用[多点校准]的技术进行[产品验证]，保证[全量程线性度] R 2 ≥0.995，相比 [2 点校准][有更高的准确性]。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FA9uEmq721g.png?alt=media&token=c570cde4-bf40-4bb0-b4b5-67d9defe1e27)
+            - 5.2. 检测下限（MDQ）
+                - 传感器检测下限是按照 [3 倍信噪比（S/N）][所对应的样品浓度][来计算]。[下图以]某个传感器为例，展示 MDQ 的[计算方法]。
+                - [传感器的灵敏度]和[被测物质的电离能]以及[其他性质][有很大关系]。针对不同的被测气体，传感器的检测下限[会有差异]。通常，传感器对[某一待测物质]的响应越强，[该物质的检测下限]也会越低。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FaMVxFG5BEv.jpg?alt=media&token=543ac265-4af7-46a0-9872-1dbc6222afab)
+            - 5.3. 响应时间（T90）
+                - 使用传感器[一半量程][对应的标气][进行测试]，信号从 0% 上升到 90% [平衡值]的时间作为传感器的[响应时间]([[response time]])。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F0J6h1k_8j8.jpg?alt=media&token=afed9d41-5003-4bb7-99a3-eefcd92e1723)
+            - 5.4. 重复性测试
+                - [实验室环境下]进行 PD2A 连续 4 天的重复性测试，[每天进行一组][线性测试]（0，100，200，500，1000，2000 ppm 异丁烯），[不同天][采用相同的标气样品]和测试环境。结果显示，PD2A 不同天测试的[相对标准偏差（RSD%）]<1%。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FidzZ6Nc0ss.jpg?alt=media&token=ddbb1a73-a981-4093-a1ea-fae21a4ec787)
+            - 5.5. 电磁屏蔽
+                - [抗电磁干扰][定性模拟实验]，采用[空气等离子体发生装置]，[稳态电源功率] 12W，频率 16kHZ。 通过[降低频率]，调节[产生等离子]的[电源参数]，使[等离子发生过程]不稳定，从而产生大量[空间辐射]。
+                - [下图对比了] PD2B 和其他品牌的 PID 在相同[等离子体发生装置]下的[信号波动]情况。 NovaPID 采用[整体屏蔽的金属外壳]，[显著提高][强电磁干扰下]的[信号稳定性]。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_cYoA2i8PA.jpg?alt=media&token=f32268b2-afec-4a17-a767-f65184e1b41e)
+            - 5.6. 温度影响
+                - NovaPID [正常使用温度]为 -20C - 60C。[该范围内]温度[对基线信号的影响]小于 <1%，对[样品测试结果]的影响 <5%。
+            - 5.7. 湿度影响
+                - 5.7.1. 湿度对基线信号也存在微小影响（<1%），[建议在]与样品相同的[相对湿度 (rh%)] 下进行传感器[调零]。
+                - 5.7.2. 湿度淬灭影响
+                    - 通常[较大的相对湿度]会导致传感器[信号偏低]。这是由于电离能大于 10.6eV 的[某些物质]（如, 水）会[吸收光电子能量]，却不会被电离，导致电离[目标检测物]的[能量变少]。与[干燥环境]（rh<10%） 相比，在相对湿度为 90%的环境下，响应降低 8% 至 15%。
+            - 5.8. 校准
+                - 在进行[校准操作]前，应给传感器[通电][并稳定一段时间]，待空气中[读数稳定后]，再进行校准 操作。单个传感器校准时，[气体流速]应保持在 200ml/min 左右。[测试环境]应在洁净、温湿度 合适的条件下（温度 22ºC±4ºC，湿度 45%±5% rh）。
+                - 通常，校准[越频繁]，测试的准确性[也会越高]。当更换灯泡，[插拔离子仓]后，必须进行校准。 如果传感器是[在相对干净的环境下]使用，[校准的周期]可以[相对延长]。根据用户[实际使用环境]和 [对准确性的要求]，[校准周期]可以参考[每天一次]至[每 6 个月一次]。
+        - 6. 维护说明
+            - 6.1. 辅助工具
+                - 实验用手套、防静电塑料镊子、软头镊子、[镜片布]或[棉签]、[透镜打磨纸]（[粒径]<5μm）、甲醇。
+            - 6.2. 可拆卸部件
+                - 金属上盖
+                - [[密封圈]]
+                - PTFE 垫片
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FNY1VbZKwKq.png?alt=media&token=75519170-cf41-4148-9c34-bc35b48030a7)
+                - 离子仓
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FLGH4iPfpcX.jpg?alt=media&token=4e972abf-7aa0-4ce3-b4d9-b62a7526113c)
+                - 紫外灯泡
+                - 10μm PTFE 滤膜 (较软，不分正反面)
+                    - 5μm PTFE 滤膜 (较硬，正面较亮、有条纹。)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F50iyhP14mm.png?alt=media&token=15202305-661f-4371-9343-812f2ef5ed15)
+            - 6.3. NovaPID 拆卸
+                - 6.3.1. 佩戴手套，保持传感器[断电状态]，[小心地][从仪器上][卸下传感器]。
+                - 6.3.2. [旋转卸下]金属上盖，[摘掉]密封圈。
+                - 6.3.3. 用[镊子]小心地[将滤膜取出]，和金属上盖[放在一边]。
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwjsiMU3mdd.png?alt=media&token=a2a11534-9d54-4a4d-b1f5-aba3d25fe760)
+                - 6.3.4. 使用镊子[取出垫片]。
+                - 6.3.5. 使用镊子[从侧面同时夹住]离子仓 的两层，小心地撬动，并卸下离子仓。注意不要[滑擦]离子仓[金属电极]。
+                - 6.3.6. 使用[软头镊子](((FxqrkrT4H)))或[同类产品]，夹住[灯泡透镜]边缘 (最中间那个)，将其[轻轻拉出]。注意 [不要触碰]或[刮擦][灯泡透镜]。
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FQ3fEv8UuaY.png?alt=media&token=202b13f9-f74c-413f-bdd8-c8023a4a9af3)
+            - 6.4. 紫外灯泡清洁
+            - 6.5. NovaPID 组装
+        - 7. 附录
+            - 附录 II. 简写列表
                 - 
 - PID 光离子化 VOC 检测仪
     - Ion Science 专利技术的[VOCs检测仪](https://www.antpedia.com/method/article-46757.html)采用先进的光离子化检测器,可以检测在 1ppb~10000ppm 浓度范围的多种挥发性有机化合物。

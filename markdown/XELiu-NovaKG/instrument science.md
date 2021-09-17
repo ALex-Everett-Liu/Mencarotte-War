@@ -79,6 +79,9 @@
     - [[pincer]]
     - [[wire stripper]]
         - [[center notch]]: 凹口, 凹痕;
+- [[密封圈]]
+- 镊子
+    - 软头镊子;
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.

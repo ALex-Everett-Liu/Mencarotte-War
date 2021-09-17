@@ -1,4 +1,4 @@
-- [[background spectrum]]
+- [[background spectrum]]; [[reference spectrum]] 
 - electromagnetic spectrum
 - frequency spectrum
     - characteristic frequency

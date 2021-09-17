@@ -2,7 +2,7 @@
 - coherent light source
 - [[incident light]]; [[incident beam]]
 - [[light beam]]
-- monochromatic beam; [[monochromatic light beam]]
+- monochromatic beam; [[monochromatic light beam]]; monochromatic light source
 - object illumination source
 - single incident beam
 - [[synchrotron radiation]]

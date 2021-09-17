@@ -38,8 +38,8 @@
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
 - 调制单元
     - source module -- MIR source -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
-        - monochromatic light source
-    - 切光片-切光马达 ([[stepper motor]])
+        - monochromatic beam; [[monochromatic light beam]]; monochromatic light source
+    - 切光片-[切光马达]([[stepper motor]])
         - 通过切光片[对光切割]，把[测量信号][调制成交流信号]。
 - [[circular field stop]] - 气体池 - [[gas cell module]] (long path) 气室 -- [[optical relay block]] 
 - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
@@ -68,7 +68,7 @@
         - How we can [scale the base-line] ??? -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p14
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
 - 光谱图
-    - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图][光强信号][输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
+    - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的**[干涉图][光强信号]**[输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
 - FTIR 光谱获取流程 step
     - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
@@ -100,23 +100,7 @@
 - software dependency -- 210713-17pm
     - x64/FTIR gas analyzer online -- IMG_20210713_174532.jpg
 - ---
-- # 傅里叶红外光谱-翁诗甫
-    - 第9章 定量分析和未知物剖析
-        - 复杂体系，如三种组分以上，不容易定量分析
-            - 未知物样品光谱中的特征吸收峰
-            - 谱库检索技术
-        - 9.1.1 [[Beer–Lambert law]]   p295
-        - 9.1.2
-            - 9.1.2.1 峰高的测量
-                - 重叠-肩峰-不对称 p297
-                - 基线校正
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FgJX3J71xvW.png?alt=media&token=35b0fcaa-a90e-4755-bcc3-fe4ab60a2745)
-                    - 曲线拟合法
-            - 峰面积的测量
-        - 9.1.3 [[curve fitting]] / band fit / peak solve
-            - 洛伦兹函数分布 or 高斯函数分布-正态分布
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_ibRqb5Mey.jpg?alt=media&token=1ff5eb67-ae65-465b-b2dd-53c516e75ff4)
-            - 导数光谱数据处理
+- # [[傅里叶红外光谱-翁诗甫]]
 - # ABB MBGAS3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体

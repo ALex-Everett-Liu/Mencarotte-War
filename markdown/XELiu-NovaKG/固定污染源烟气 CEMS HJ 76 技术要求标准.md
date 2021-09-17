@@ -52,7 +52,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - source-level extractive system - 完全抽取
     - 颗粒物监测单元
         - [重复性]([[repeatability]])
-            - 零点校准部件 调零
+            - 零点校准部件 [[调零]]
             - 量程校准部件 -- $$S_{r}=\frac{1}{\bar{C}} \times \sqrt{\frac{\sum_{i=1}^{n}\left(C_{i}-\bar{C}\right)^{2}}{n-1}} \times 100 \%$$
         - 零点漂移和量程漂移
         - 环境温度变化的影响
