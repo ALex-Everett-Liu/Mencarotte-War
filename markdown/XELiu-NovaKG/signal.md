@@ -1,4 +1,7 @@
 - audio message
+- baseline
+    - [[baseline draft]]
+    - [[baseline noise]]
 - [[communication channel]]
     - concurrent communication sessions
     - multiplexing
