@@ -68,7 +68,7 @@
         - How we can [scale the base-line] ??? -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p14
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
 - 光谱图
-    - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的**[干涉图][光强信号]**[输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
+    - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图]([[interferogram]])**[光强信号]**[输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
 - FTIR 光谱获取流程 step
     - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
@@ -79,7 +79,7 @@
         - raw gas spectrum I_t
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwSVrBW04Ul.png?alt=media&token=7bfe8aa8-92f0-4f29-9a1e-c54ab2d4eecf)
     - [吸光度]([[absorbance]])光谱--[[absorption spectrum]]--[[Beer–Lambert law]]
-- [[absorption peak]] -- 特征性 吸收峰
+        - [[absorption peak]] -- 特征性 吸收峰
 - [使用与维护][注意事项]
     - [相对湿度]应在65%以下，[高湿度时][需要除湿]。
         - 每周开机至少两次:  防止受潮
