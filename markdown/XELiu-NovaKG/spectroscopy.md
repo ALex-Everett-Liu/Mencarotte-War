@@ -6,7 +6,7 @@
 - [[biomedical spectroscopy]]
     - [[tissue analysis]]
 - [[characteristic emission frequency]]
-- [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计
+- [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计; 分光仪器
 - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
     - [[Fourier-transform infrared spectroscopy (FTIR)]]
     - [[near-infrared spectroscopy (NIRS)]]

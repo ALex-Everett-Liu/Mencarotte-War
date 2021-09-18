@@ -8,7 +8,7 @@
     - [[zero path difference]]; [[zero retardation]]: 零点延迟/滞后
 - ---
 - Wiki
-    - Fourier-transform infrared spectroscopy (FTIR)[1] is [a technique used to] obtain an [[infrared spectrum]] of [absorption or emission of a solid], liquid or gas. An FTIR spectrometer simultaneously collects [high-resolution spectral data] [over a wide spectral range]. This confers a significant advantage over a [[dispersive spectrometer]], which measures intensity over a narrow range of wavelengths at a time.
+    - Fourier-transform infrared spectroscopy (FTIR)[1] is [a technique used to] obtain an [[infrared spectrum]] of [absorption or emission of a solid], liquid or gas. An FTIR spectrometer [simultaneously collects] [high-resolution spectral data] [over a wide spectral range]. This confers a significant advantage over a [[dispersive spectrometer]], which [measures intensity] [over a narrow range of wavelengths] at a time.
 (相比而言，分光式光谱仪每次只测量很窄带波段上的光强)
 210705-02:58
         - The term Fourier-transform infrared spectroscopy [originates from the fact that] a [[Fourier transforms (FTs)]] (a mathematical process) is required to convert the [[raw data]] into the [actual spectrum].

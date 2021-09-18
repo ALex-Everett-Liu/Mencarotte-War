@@ -1,4 +1,6 @@
 - general...
+    - [[discrete value]];
+    - [[quantized]]
     - quantum-based
     - [[quantum effect]]; [[quantum phenomena]];
     - quantum particle

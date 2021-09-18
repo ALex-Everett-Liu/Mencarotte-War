@@ -1,4 +1,5 @@
 - [[bound system]]
+    - confined spatially;
 - [[free particle]]
 - [[potential barrier]]
 - trapped

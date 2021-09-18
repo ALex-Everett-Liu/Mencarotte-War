@@ -1,6 +1,10 @@
 - [[atomic nucleus]]
+    - the electric field of the nucleus;
+    - energy levels of nuclei;
     - [[nuclear attraction]]
 - [[atomic structure]]
 - [[atomic theory]]
     - [[corpuscular theory]]
+- [[electron orbit]]
+    - [[electron shell]]
 - [[hydrogen atom]]
