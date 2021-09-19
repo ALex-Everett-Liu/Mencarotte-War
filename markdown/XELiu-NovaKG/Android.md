@@ -1,2 +1,4 @@
 - storage management
     - 此电脑\ONEPLUS A6010\内部共享存储空间\.Ota\OnePlus6THydrogen_34_OTA_022_all_1906150021_66cc.zip -- 8GB
+    - 此电脑\ONEPLUS A6010\内部共享存储空间\Browser
+        - 此电脑\ONEPLUS A6010\内部共享存储空间\Browser\文档\com.estrongs.files

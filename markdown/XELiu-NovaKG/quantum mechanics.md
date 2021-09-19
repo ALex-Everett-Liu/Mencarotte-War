@@ -30,6 +30,7 @@
 - [[quantum fluctuation]]
 - [[quantum information]]
 - [[quantum interpretation]]
+- [[quantum number]]
 - [[spin]]
 - [[symmetry]]
 - [[uncertainty principle]]

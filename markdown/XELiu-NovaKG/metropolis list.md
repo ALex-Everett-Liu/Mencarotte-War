@@ -32,7 +32,8 @@
 - [[何嘉颖 (He Jiaying)]] #pt9-100
 - 安然Maleah -- pt9-99.99
 - 人间荒糖 -- pt8-99.99
-- 鱼子酱 (yuzijiang) --pt8-99.99
+- 鱼子酱 (yuzijiang) -- pt8-99.99
+- 雪琪SAMA -- pt8-99.98
 - [[桃香子 (taoxiangzi)]] #pt9-99.99
 - 蓝夏Akasha -- pt8-99.99
 - 糯美子MINIbabe -- pt8-99.98
