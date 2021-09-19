@@ -1,4 +1,6 @@
 - [[alignment]]: a moral and ethical outlook | 阵营; 结盟; 队列;
+- [[Baldur's Gate]]
+    - [[Baldur's Gate 3]]
 - [[Dungeon Master (DM)]]
 - [[Dungeons & Dragons: Master's Guide]]
 - [[multiverse]]

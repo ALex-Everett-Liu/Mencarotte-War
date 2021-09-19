@@ -1,3 +1,7 @@
+- basics
+    - hosted graphs
+        - local graphs
+            - C:\Users\Zz\AppData\Roaming\Roam Research\backups\Minimum-Workflow
 - community 
     - [[RoamCN]]
     - [[roamcult]]; RoamCult

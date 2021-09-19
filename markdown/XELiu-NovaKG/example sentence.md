@@ -19,14 +19,16 @@
         - Information of Development in Machine Industry of China [in the Early New Century]
         - We adopt the [digital control system] based DSP in order to [improve the performance specifications] of [gyroscope power]. 陀螺电源 dict.cnki.net
     - [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
+        - Let me [set the record straight on the misconceptions] [contained in your article]. 
+        - The model number is 1870/285. 该型号的编号
+        - There may even be some [wire or nylon] [biting into the flesh] 尼龙线勒到肉里 
+        - [Turn the cake the right way up on to] a [wire rack] 对准[金属丝架]
+        - ---
         - British [tour companies]([[tour company]]) are [nudging clients to travel further afield]. 鼓动客户到更远的地方去旅游 
         - [You are not allowed to] [bring plants in] [from further afield] [without a licence].
         - [They enjoy participating in] [a wide variety of activities], both locally and further afield.
         - [There's nothing to stop you from] [doing a bit of] [exploring further afield].
         - During their [[summer holiday]]s they cruised further afield to Normandy and Brittany. 乘船到
-        - ---
-        - Let me [set the record straight on the misconceptions] [contained in your article]. 
-        - The model number is 1870/285. 该型号的编号
     - danci.[911cha].com
     - www.[[dictall]].com
         - Design of [Average Principle Phase Difference Tester] [Based on FPGA].
@@ -59,6 +61,10 @@
     - 《牛津高阶英汉双解词典》
         - They took the [scenic route](((5n3Dw9NHj))) 景色优美的路线 [back to the hotel]. 
         - This model [comes with a number of] [optional extras]. 可供选择的附件
+        - ---
+        - A [tiny wire] is [threaded through a vein to] the heart. 从静脉里穿到心脏 
+        - The wire had [scraped the skin] from her fingers. 刮掉了皮
+        - [What gauge of wire] [do we need]? 多大直径的
     - www.[[okread]].info
         - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
         - ---
