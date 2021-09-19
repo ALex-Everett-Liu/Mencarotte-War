@@ -23,6 +23,8 @@
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
 - [[motor]]
+- [[power drill]]: 电钻
+    - [[drill holes]]: 钻孔; drilling holes
 - [[prime mover]]: 原动机 
 - [[nanomechanics]]
 - [[reciprocating action]]; [[reciprocating motion]]: 往复运动
