@@ -1,4 +1,6 @@
 - [[Steam Workshop]]
+- [account and profile](https://steamcommunity.com/id/summesepul/)
+    - [settings](https://steamcommunity.com/id/summesepul/edit/settings)
 - #inbox
     - {{[[TODO]]}} [大号]在[国区]，[注册个][港区小号]。[绝大多数][锁区不锁运行]的游戏港区是能[送礼给国区]的，而且港区[直接支持][支付宝和微信]。另外港区小号的点数和[夏促卡]还能[通过打赏和交易的方式][回流给大号](https://bbs.saraba1st.com/2b/thread-2012213-1-1.html)。 #pt9-100
         - 按照某黄皮毛子论坛的说法，现在 steam [新注册号定区][需要使用当地IP]和[当地支付方式][消费一次]，包括[直接商店购买]、激活key、领取限免、送礼。[判断的方式]也很简单，定区后[不用梯子登录][依然显示是当地货币]。
