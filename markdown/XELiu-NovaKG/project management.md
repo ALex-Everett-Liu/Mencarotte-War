@@ -6,6 +6,7 @@
 - long-term project
 - [[priority]]
     - [[deadline]]
+- [[project manager]]
 - [[project planning]]
 - sample project
 - [[task management]]; [[task]]

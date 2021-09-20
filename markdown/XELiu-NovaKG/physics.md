@@ -43,6 +43,7 @@
         - base quantities
         - [[degrees of freedom (DoF)]]
         - [[frequency]]
+    - [[physical system]]
     - [[scale]], scope...
     - time
         - at any given time: 某个给定的时间; at any particular time
@@ -63,7 +64,7 @@
     - predictable
         - explicable;
     - [[reality]]; [[physical reality]]
-    - [[reductionism]] v.s. [[emergence]]?
+    - [[reductionism]] v.s. [[emergence]]/[[emergentism]]?
     - #inbox
         - 还有搞[圈量子]的 Rovelli 也有不少[科哲方面的论述](https://www.zhihu.com/question/453060681)可以关注 #pt10-99.99
             - 读读这本论文集: Why trust a theory? - epistemology of fundamental physics, Cambridge University Press (2019)

@@ -5,6 +5,7 @@
 - death
     - 对死亡的恐惧;
 - [[debate]]; [[speech]]
+- [[epistemic]]: 认识论
 - existential; [[existential philosophy]]
 - [[free will]]
     - [[compatibilism]]: 相容主义;
@@ -12,9 +13,11 @@
     - [[libertarianism]]
 - general...
     - [[collective view]];
+    - [[The Stanford Encyclopedia of Philosophy]]
 - [[logic]]
 - [[metaphysics]]
 - [[methodology]]...
+- [[ontology]]: 存在论, 实体论, [本体论]; [[ontological]]
 - [[science philosophy]]...
 - [[skepticism]]
 - [[theology]]

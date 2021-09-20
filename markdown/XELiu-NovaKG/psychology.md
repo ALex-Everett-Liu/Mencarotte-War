@@ -10,3 +10,4 @@
         - [[mental pressure]]
             - [[peer pressure]]
     - [[suicide]]
+- [[psychological phenomena]]

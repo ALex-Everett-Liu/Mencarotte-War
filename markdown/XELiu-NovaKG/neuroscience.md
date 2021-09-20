@@ -24,6 +24,7 @@
     - [[neural pathway]]
     - [[neuron]]
     - [[synaptic activation]]
+- [[neurobiological phenomena]]
 - [[psychology]]
 - [[thinking]]
 - #inbox

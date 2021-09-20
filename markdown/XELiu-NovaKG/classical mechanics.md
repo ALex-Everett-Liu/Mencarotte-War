@@ -13,6 +13,25 @@
     - dropped weights from a leaning tower
     - [[inclined surface]]
 - [[gravity]]
+- [[motion]]
+    - [[relative motion]]
+        - [[frame of reference]]
+            - [[absolute space]]
+                - an absolute conception of acceleration
+            - [[reference point]]; [[reference object]]; reference location
+                - benchmark for comparison; [[external comparison]]
+                - [[relevant reference]]; [[relevant frame of reference]]
+                - stationary reference
+        - Galileo's coin in the ship
+        - a matter of perspective; point of view; viewpoint; with respect to what
+        - [[Newton's bucket experiment]]; [[water bucket experiment]]
+            - concave shape; [[concave surface]]
+            - [[interior wall]]
+            - spinning water bucket
+            - terrestrial bucket experiment
+                - [[Ernst Mach]]
+        - [[relative velocity]]
+            - [[relative acceleration]]; an absolute conception of acceleration
 - Newton laws; Newton's laws of motion
     - falling apples
     - [[Newton’s second law]]
@@ -21,24 +40,6 @@
 - Newtonian physics
 - position
     - [[relative position]];
-- [[relative motion]]
-    - [[frame of reference]]
-        - [[absolute space]]
-            - an absolute conception of acceleration
-        - [[reference point]]; [[reference object]]; reference location
-            - benchmark for comparison; [[external comparison]]
-            - [[relevant reference]]; [[relevant frame of reference]]
-            - stationary reference
-    - Galileo's coin in the ship
-    - a matter of perspective; point of view; viewpoint; with respect to what
-    - [[Newton's bucket experiment]]; [[water bucket experiment]]
-        - concave shape; [[concave surface]]
-        - [[interior wall]]
-        - spinning water bucket
-        - terrestrial bucket experiment
-            - [[Ernst Mach]]
-    - [[relative velocity]]
-        - [[relative acceleration]]; an absolute conception of acceleration
 - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion
     - [[harmonic wave]]; [[sine wave]]
 - [[theoretical mechanics]]

@@ -4,7 +4,7 @@
     - [[competitor]]
 - [[business operation]]: 企业经营, 业务运作;
 - [[business use]]
-- [[company]]; [[corporation]]; firm
+- [[company]]; [[corporation]]; firm; [[enterprise]]
     - shareholder
 - [[cost]]
 - digital business??

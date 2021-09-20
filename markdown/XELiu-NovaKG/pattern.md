@@ -1,0 +1,3 @@
+- [[fractal pattern]]
+- [[patterns in nature]]
+- [[symmetrical pattern]] 

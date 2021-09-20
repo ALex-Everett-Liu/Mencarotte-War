@@ -1,9 +1,10 @@
-- analyze the system as a whole; the properties of the whole
+- analyze the system as a whole; the properties of the whole; interact in a wider whole
     - complete information;
 - [[circuit]]; [[loop]]
 - [[complex system]]
 - [[control theory]]
 - [[cybernetics]]
+- [[integrative level]]: 整合层次; 综合水平
 - [[linear system]]; [[non-linear system]]
 - [[organizational theory]]
 - input and output; [[signal]]

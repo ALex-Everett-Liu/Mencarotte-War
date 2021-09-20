@@ -1,2 +1,4 @@
 - [[author]]
+- [[improve this article]]
+- [[main article]]
 - [[subject]]; [[subject matter]]

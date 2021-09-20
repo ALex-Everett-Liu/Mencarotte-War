@@ -488,6 +488,7 @@
                 - footwear: 鞋类; 
             - for
                 - force
+                    - enforce: 强制 
                     - [[reinforce]]
                 - fore
                     - foreword
@@ -830,6 +831,8 @@
                 - [[endonym]]; [[ethnonym]]; [[exonym]]
         - op
             - opaque
+            - operate
+                - interoperate: 交互操作; 
             - oppose
                 - opposed;
             - optimal
@@ -1042,6 +1045,7 @@
             - role
                 - role-play; play the role; play a central role in;
             - roll
+                - roll out: 推出, 推广; 
                 - scroll
     - s
         - sc
