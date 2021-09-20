@@ -1,0 +1,2 @@
+- a complete assessment of the present
+- [[hard determinism]]

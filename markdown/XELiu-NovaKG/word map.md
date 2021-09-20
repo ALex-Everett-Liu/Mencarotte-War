@@ -47,6 +47,11 @@
                     - alternative theory;
                 - alteration;
                 - unalterable;
+        - am
+            - amate
+                - amateur
+            - ambiguous
+                - disambiguation; unambiguously
         - an
             - analyse; analyze
                 - analysed; analyzed
@@ -76,7 +81,7 @@
             - ant
                 - antho
                     - anthology
-                - anticipate
+                - anticipate: 预期
                     - anticipated;
                 - antique
                     - [[antiquity]]
@@ -135,6 +140,9 @@
                 - byte
                     - [a sequence of](https://workflowy.com/#/fe2464bff968) 8 bits (enough to represent one character of [alphanumeric data]) processed as [a single unit of information]
         - bo
+            - body
+                - embody
+                    - embodiment: 化身, 具体化;
             - border
                 - bordered; borderline
             - bound
@@ -154,6 +162,7 @@
             - caliber
                 - calibrate: 调教, 校准; 筛选;
                     - calibrated; well-calibrated
+            - canvas: 画布, 帆布 
             - cap
                 - capable, 2
                     - capability;
@@ -225,7 +234,7 @@
                     - concept
                         - conception, 2; misconception
                         - conceptual; conceptualization;
-                            - conceptual schema; [[conceptual framework]]
+                            - [[conceptual schema]]; [[conceptual framework]]
                             - conceptualization process; 
                     - concern
                         - concerned;
@@ -546,8 +555,8 @@
                 - graph
                     - [bibliography](((6mQpoq6BN))); cartograph; [choreography](https://workflowy.com/#/3ed513bcc254); photograph
                     - graphic;
-                - grapple
-                    - grapple with: 扭打, 抓住;
+                - grapple: 格斗
+                    - grappling; grapple with: 扭打, 抓住;
                 - grasp: 抓紧, 抓牢, 紧握; 理解, 领会, 领悟, 明白; 急忙抓住, 毫不犹豫地抓住; 控制; 能力所及;
                 - gray
                     - grey;
@@ -721,6 +730,8 @@
             - mend
                 - amend: 修正 
             - [[merit]]
+            - mesh
+                - enmeshed: 陷入网中, 绊住;
             - message
             - met
                 - metal
@@ -774,7 +785,7 @@
             - narrate
                 - narrator;
             - nature
-                - second nature;
+                - [[second nature]]: 第二天性;
             - navy
                 - navigate
         - ne
@@ -863,6 +874,8 @@
                     - impenetrate
                         - impenetrable;
             - per
+                - perceive
+                    - perceived: 觉察; 意识到;; 
                 - perform
                     - performed; performing
                     - perform the experiment; 
@@ -980,6 +993,7 @@
             - raw
             - ray
         - re
+            - refute: 驳倒 
             - rel
                 - relate
                     - correlate
@@ -1021,6 +1035,8 @@
                 - retro-
                     - retroact
                         - retroactively;
+        - ri
+            - rival: 竞争对手
         - ro
             - robust
             - role
@@ -1046,6 +1062,7 @@
                         - He started from scratch and [step by step he made it]. blog.sina.com.cn
                         - They started from scratch and learned as they went. 边学边干 www.[dictall].com
         - se
+            - seduce: 诱惑
             - ser
                 - serendipity: 巧事; 机缘凑巧; 易遇奇缘, 偶然发现珍宝的才能
                 - sericulture
@@ -1080,6 +1097,10 @@
             - spectacle
                 - spectate
                     - spectacle; spectacular: zhuangguan41, yinrenzhumu3244; spectacularly
+            - spire
+                - aspire: 热望, 立志
+                    - aspiring: 抱负, 志气;
+                - inspire
         - st
             - sta
                 - stable
@@ -1197,6 +1218,7 @@
                     - twined;
             - twist: 扭, 拧;
     - u
+        - upheaval: 大变动, 剧变 
         - ut
             - utility: 利用; 实用工具; 公用事业;
                 - [[practical utility]];

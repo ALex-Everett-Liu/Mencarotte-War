@@ -15,7 +15,7 @@
     - abstract...
         - [[abstract idea]]
         - [[counterintuitive]]
-        - [[human intuition]]; intuitive sense
+        - [[human intuition]]; [[intuitive sense]]
             - counter-intuitive property
     - [[collective effect]]
     - condition...
@@ -59,6 +59,7 @@
     - [[raw material]]
 - meta phys...
     - [[anthropic principle]]
+    - [[determinism]]
     - predictable
         - explicable;
     - [[reality]]; [[physical reality]]

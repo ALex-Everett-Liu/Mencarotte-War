@@ -9,7 +9,6 @@
 - [[free will]]
     - [[compatibilism]]: 相容主义;
     - [[determinism]]
-        - [[hard determinism]]
     - [[libertarianism]]
 - general...
     - [[collective view]];

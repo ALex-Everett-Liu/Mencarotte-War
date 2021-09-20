@@ -52,6 +52,7 @@
     - [[Evernote]]
 - [[slip box]]
     - atomic note
+    - [[Zettelkasten]]
     - 卡片式写作
 - suck it!
     - [[Note-taking/Notion]]
