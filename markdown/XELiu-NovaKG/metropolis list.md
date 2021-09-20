@@ -1,21 +1,23 @@
 - [[王冰冰 (Wang Bingbing)]]
 - [[西野七濑 (Nishino Nanase)]]
-- [[方子萱 (Fang Zixuan)]] #pt10-100
 - [[金美子 (Jin Meizi)]] #pt10-100
 - [[绮太郎kitaro]] #pt10-100
 - [[胡博文 (Hu Bowen)]] #pt10-99.99
+- [[方子萱 (Fang Zixuan)]] #pt10-100
 - [[李琳玥 (Li Linyue)]] #pt10-99.99
 - [[慕羽茜 (Mu Yuxi)]] #pt10-100
 - [[一只废喵 (Haiyi Neko)]]
 - [[猫九酱Sakura]] #pt10-99.99
 - [[白露小猪 (Bailu Xiaozhu)]] #pt10-99.99
 - [[杨紫嫣 (Yang Ziyan)]] #pt10-99.99
+- [[周琰琳 (Zhou Yanlin)]] #pt9-100
 - [[许诺 (Xu Nuo)]] -- pt10-99.99
 - #kiss #opai #pt10-99.99
     - ![kiss-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FfalURiarbO.webp?alt=media&token=a0b2bbf5-b411-408b-9053-873562f634a9)
 - [[文妍 (Wen Yan)]] #pt9-100
 - [[林子欣 (Lin Zixin)]] -- pt8-99.99
 - [[梦心月 (Meng Xinyue)]] #pt9-100
+- [[刘艾琳 (Liu Ailin)]] #pt9-99.99
 - [[黄楽然 (Huang Leran)]] #pt9-100
 - [[Eunji Pyoapple (표은지)]] #pt10-99.99
 - [[小九月 (xiao jiuyue)]] -- pt8-99.98
