@@ -7,6 +7,12 @@
 - [[entanglement structure]]
 - [[ER=EPR]]
 - highly entangled;
+- instantaneous connection; instantaneous bond
+- long-range quantum connection
+- physical independence;
+- single entity;
+- spatiotemporal interconnection
+- spatially isolated; spatial separation
 - #inbox
     - 那么，这种所谓的“抽象定域”其实就[在时空中](https://www.zhihu.com/question/449902780/answer/1788838232)显示为一种“空间定域”：一个系统“自己的”性质，自热而然在时空中就与一个[确定的空间位置][相对应]。这种[定域性]在[希尔伯特空间]中是[量子纠缠的结果]，进而 Carroll 就这样猜想：**我们[日常经验的时空]，可能是希尔伯特空间的[涌现性质]**。 #pt10-99.98
         - 这样一来，我们就从纯粹的量子力学出发，到达了相对论的彼岸。在这里，第二个问题尤为重要：它展现了，[空间中的能量变化]自然地[改变了几何结构]。也就是说，按照Carroll[本人的说法]，**我们不要试图[量子化引力]，而是“引力化”量子力学。更确切说要从量子力学中[找到引力]。**

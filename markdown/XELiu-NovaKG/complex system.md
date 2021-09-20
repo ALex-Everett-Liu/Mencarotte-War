@@ -1,4 +1,5 @@
 - [[complex behavior]];
+- [[complex pattern]]
 - [[complex problem]]; [[complicated problem]]
 - [[complexity]]
 - dominate at different frequencies;

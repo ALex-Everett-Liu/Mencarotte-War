@@ -1,3 +1,4 @@
+- [[disambiguation page]]
 - dictionary 
     - 消歧义; aimai wo kaihisa
     - an offensively ambiguous answer; 恼人的

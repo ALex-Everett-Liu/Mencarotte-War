@@ -1061,6 +1061,7 @@
                         - [Offshore oil and gas development] started from scratch. 海上油气开发 club.topsage.com
                         - He started from scratch and [step by step he made it]. blog.sina.com.cn
                         - They started from scratch and learned as they went. 边学边干 www.[dictall].com
+                - scrutiny: 详细审查, 检验;
         - se
             - seduce: 诱惑
             - ser
@@ -1120,6 +1121,9 @@
                         - stature
                 - statistic
                     - statistics;
+            - ste
+                - steal
+                    - stealthy: 隐形; 鬼鬼祟祟, 掩人耳目;;
             - str
                 - strict
                     - restrict; restricted, 2
