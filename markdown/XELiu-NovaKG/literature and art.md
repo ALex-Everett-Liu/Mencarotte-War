@@ -1,5 +1,6 @@
 - [[animation]]
     - [[anime]]
+- [[Chinese literature]]
 - [[comedy]]
 - creative; [[creativity]]
     - idea maze
