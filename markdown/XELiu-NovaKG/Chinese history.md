@@ -22,6 +22,8 @@
     - [[明王朝 (Ming dynasty)]]
     - [[清王朝 (Qing dynasty)]]
 - [[中国近代史]]
+- Modern China
+    - [[Taiwan]]
 - original source; 史料
     - [[墓志 (muzhi)]]
     - [[通典 (Tongdian)]]
