@@ -24,6 +24,7 @@
     - [[ナブナ (n-buna)]]
     - [[ポリスピカデリー (Police Piccadilly)]]
     - [[ryo (supercell)]]
+    - [[ティースウィート (TeaSweet)]]
     - [[すりぃ (Three)]]
     - [[とあ (toa)]]
     - [[Treow（逆衝動P）]]
