@@ -25,3 +25,6 @@
     - [[martial display]]
     - superstitions and taboos: 迷信和禁忌
         - auspicious sign
+- big picture?
+    - 大时代历史进程; 
+    - 更大的世界;
