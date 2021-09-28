@@ -70,6 +70,7 @@
         - [[supply port]]: 供气口; 进气口
         - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
     - [[卡套]]
+    - [[管阀件选型基础知识]]
 - [[seal]]: 密封
     - sealing pipe threads: 密封管螺纹
     - [[thread seal tape]]
