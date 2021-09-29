@@ -22,6 +22,7 @@
     - [[煮ル果実 (niru kajitsu)]]
     - [[のぼる↑ (noboruP)]]
     - [[ナブナ (n-buna)]]
+    - [[ぬゆり (nulut)]]
     - [[ポリスピカデリー (Police Piccadilly)]]
     - [[ryo (supercell)]]
     - [[ティースウィート (TeaSweet)]]
