@@ -189,6 +189,7 @@ webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库�
         - 最近又试了试notion，然而我觉得notion并不适合我，notion的quote块和callout块中不能插入图片和LaTeX，虽然有inline-table却没有inline-page。感觉用了notion就只能按照notion的思路[来写文档]了，不太舒服。
         - 当我昨天一口气在typora里面连着敲了六个井号的时候[我才意识到]，[学习笔记]这种[逻辑条理特别强]，大知识点套小知识点[无限套娃]的情况下，markdown只能说是凑合，还是需要用outliner。然后今天早上[又废了半天劲]把笔记全部移到workflowy上…… #pt8-99.99
             - 其实[思维导图]反而还不怎么适合，思维导图适合那种字少的，就那种知识点的名字提点两下，比如说“宣告失踪-条件-时间-起算点”，字一多就是灾难，整个图的可读性直接归零，幕布的生成思维导图功能我就一次都没用过……比起思维导图，那种[根据搜索结果][生成稀疏树]的功能可能更要紧一点
+    - 说实话我觉得这没啥用……因为用 markdown [制作这些图][本身就已经][很不直观][且麻烦]了。如果真有这种需求，建议[用别的软件做好了][截图贴进来](https://www.zhihu.com/club/1271825893380124672/post/1420676748086652928)。用 Online FlowChart & Diagrams Editor 也行，还可以[单独保留一下] [markdown 源代码](http://link.zhihu.com/?target=https%3A//mermaid-js.github.io/mermaid-live-editor)，回头做修改 #pt9-99.98
     - 以下是我使用 logseq 的[演示](https://club.roamedit.com/club/?thread-1595.htm)，结合 query table 功能可以实现和 notion database [一样的体验]。此功能比 Notion [更为灵活]、好用。 #pt8-99.99
     - Hook [就是这样一款](https://ld246.com/article/1629631415894)给 folder 或[其中的文档]、视频、图片[等文件][添加路径 url] 的 软件，也可以[互链] # pt8-99.99
     - 用 AirTable [打造][自己专属的][个人数据库](https://www.yuque.com/arvinxx/note/airtable#JuMxx) #pt8-99.98
