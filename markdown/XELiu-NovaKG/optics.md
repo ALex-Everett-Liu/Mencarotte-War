@@ -70,3 +70,9 @@
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]
 - [[Optics, Global Edition - Eugene Hecht]]
+- ---
+- career related?
+    - 光学工程师
+        - 光学，应用光学，物理等或[相关专业][大学本科以上学历]；
+        - 扎实的光学[基础知识]，精通[光学原理]，丰富的[光学设计]经验；
+        - [熟练使用][成像光学设计软件]，like ZEMAX, CODE V, etc.，熟悉相关产品的[产品设计]、[工艺流程]和工艺技术；
