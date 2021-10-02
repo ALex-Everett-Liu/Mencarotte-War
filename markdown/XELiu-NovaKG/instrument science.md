@@ -119,3 +119,9 @@
     - 智能信息处理
 - ---
 - 仪表工试题集(第二版) 在线分析仪表分册.pdf
+- ---
+- dictionary 
+    - [With the applications of] [machine vision technology] in [inspection field], 检测领域 [vision measurement technology] has developed rapidly and become one of the important research fields in [instrument science]. www.[fabiao].net
+    - "Language is only [the instrument of science], and words are but [the signs of ideas]." provided by jukuu
+    - The [venture capital] 风险投资 is [propelling instrument] 助推器 of science and technology development and economy increase, it has become a key if efficient make use of venture capital in the development of society and economy and success and failure of [enterprise management]. dict.cnki.net
+    - The application of [virtual instrument] in the science and engineering [demonstrate experiment teaching]

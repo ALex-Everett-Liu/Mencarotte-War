@@ -1,0 +1,2 @@
+- [[Afanasievo culture]]
+- [[Sanskrit]]

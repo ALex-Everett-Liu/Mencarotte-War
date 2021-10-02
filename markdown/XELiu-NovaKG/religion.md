@@ -16,6 +16,7 @@
 - general...
     - guiding principle
     - secular settings
+- [[Islam]]
 - [[occult]]
 - rite; ritual...
     - sacred rite; sacrificial rite
