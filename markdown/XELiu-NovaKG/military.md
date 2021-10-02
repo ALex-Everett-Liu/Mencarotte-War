@@ -1,3 +1,5 @@
+- army
+    - recruit armies; 
 - [[commandery]]: 骑士团管理地;
 - defence...
     - [[defence spending]]

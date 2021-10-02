@@ -1,9 +1,12 @@
 - campaign; [[campaign settings]]
+- multiple story endings; 
 - [[game design]]
 - [[game mechanics]]
 - [[game rule]]
+- [[gameplay]]
 - goal; [[achievement]]
 - [[interactive game]]
+- [[Koei]]
 - [[modding]]; creating mods
 - 3D modeling?
     - #inbox
@@ -27,7 +30,10 @@
         - 玩过的上一个[需要房子][生育新劳动力](https://bbs.saraba1st.com/2b/thread-2009890-2-1.html)的叫 [Cultures - Northland](https://store.steampowered.com/app/351860/Cultures__Northland/)，我还挺喜欢的，就是好像[没办法做到][永动]，粘土石头等等[资源会一直消耗]。 #pt8-99.98
             - 玩了这游戏[很深刻的感受到了]为啥国家要[刺激生育]，第一个[旱季][饿死了]三只河狸，之后又一个个[到了寿命老死]。虽然此时[基本建筑已经建好][坝也拦了][没有生存危机]，但是[人口数量太少]几乎不足以[维持基本运行]。当时真的是边玩边默默喊：“给我生啊！”
                 - 然后千万别盲目[种小麦]，小麦需要[磨成面粉]再进面包房[烤成面包]，[造磨坊][需要齿轮]，这又要解锁[齿轮制造厂]，这些都是要花[科技点]的。而我之前[收了土豆之后]把一半以上的田[种了小麦]，人口此时也涨起来了，面包[短时间内没接上]差点儿又造成[饥荒]饿死狸，[只能庆幸]当时没有[全部改种小麦]，还留了一片土豆
-- [[SLG]]
+- [[strategy game]]; 
+    - history simulation; 
+    - [[SLG]]
+    - [[turn-based strategy]]
 - turn-based...
     - start the turn;
 - [[video game]]

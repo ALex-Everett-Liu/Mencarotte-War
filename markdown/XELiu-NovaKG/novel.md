@@ -1,6 +1,7 @@
-- [[alternative history]]
 - [[fantasy]]; fantasy setting
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
+- [[historical novel]]
+    - [[alternative history]]
 - metropolis?
     - 
 - [[novelist]]
