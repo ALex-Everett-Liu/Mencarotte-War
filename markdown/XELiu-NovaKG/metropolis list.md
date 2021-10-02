@@ -10,6 +10,7 @@
 - [[猫九酱Sakura]] #pt10-99.99
 - [[白露小猪 (Bailu Xiaozhu)]] #pt10-99.99
 - [[杨紫嫣 (Yang Ziyan)]] #pt10-99.99
+- [[夏西Cici]] #pt9-100
 - [[周琰琳 (Zhou Yanlin)]] #pt9-100
 - 龙女宝宝 -- pt10-99.99
 - [[许诺 (Xu Nuo)]] -- pt10-99.99
