@@ -19,6 +19,9 @@
     - [[胡里改路 (Huligai Lu)]]
     - [[水达达路 (Shuidada Lu)]]; 水鞑靼; usu irgen
 - 率·督畔窟之地; 呼兰河流域平原
+- [[Siberia]]
+    - [[Lake Baikal]]
+    - [[Onon River]]
 - [[Strait of Tartary]] 鞑靼海峡
 - 七大王府
 - #inbox

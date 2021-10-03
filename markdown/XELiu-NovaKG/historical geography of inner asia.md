@@ -1,0 +1,5 @@
+- 西域
+    - [[库车 (Kucha)]]
+    - [[Silk Road]]
+    - [[Tarim Basin]]
+        - [[Taklamakan desert]]
