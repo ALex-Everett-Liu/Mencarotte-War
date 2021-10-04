@@ -25,6 +25,13 @@
     - common people
     - [[liberal arts majors]]
     - men of letters
+- life...
+    - [[过客]]
+- love relationship
+    - [[separation]]
+        - [[departure]]
+        - 分手 (fenshou)
+        - [[送行]]; 送别
 - [[modern art]]
 - [[music]]
 - [[novel]]

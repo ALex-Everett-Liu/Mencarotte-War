@@ -4,6 +4,7 @@
 - [[cold war]]
     - [[color revolution]]
         - 和平演变
+- [[communism]]
 - country...
     - [[India]]
     - [[Japan]]
