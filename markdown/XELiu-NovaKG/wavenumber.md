@@ -15,3 +15,6 @@
         - LaTeX source code
             - The source code below was [developed interactively using] the [ShareLaTeX](https://www.sharelatex.com/) online editor. It makes use of the [xymatrix package](http://www.jmilne.org/not/Mxymatrix.pdf), and uses a [command definition](http://tex.stackexchange.com/q/96479) from TeX.StackExchange do draw the [barred lambda] character.
             - To generate the [[SVG]] image, the LaTeX document was exported from ShareLaTeX [as a PDF file], converted to SVG using [Online-Convert.com](http://www.online-convert.com/), and cleaned-up (grouping related objects, tweaking positioning of some elements) using [Inkscape](https://commons.wikimedia.org/wiki/Inkscape).
+- ---
+- 光谱：信号强度(透射率、吸光度、反射率等)  VS  波长(波数) --- 红外波段：常采用波数为单位
+    - 波数：单位 cm-1, x cm-1 表示 ^^1 cm 的长度里面有 x 个周期的波形^^

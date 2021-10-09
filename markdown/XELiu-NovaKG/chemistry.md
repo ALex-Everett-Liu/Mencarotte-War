@@ -1,3 +1,4 @@
+- adsorbent: 吸附剂
 - [[analytical chemistry]]
     - [[analyte]]: 被分析物
         - [[analyte molecule]]
@@ -11,6 +12,7 @@
 - [[biochemistry]]
 - [[boiling point]]
 - [[chemical bonding]]
+- [[chemical compound]]
 - [[chemical element]]
     - isotope: 同位素
     - isomer: 异构体
