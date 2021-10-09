@@ -14,12 +14,13 @@
     - [[far-infrared range]];
     - Near-Infrared (NIR); near-infrared light
     - infrared-passing filter
-    - IR source; 
+    - IR source; [[infrared source]]
     - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
+    - [[rock-salt region]]
 - [[microwave]] - mm
 - ultraviolet; ultraviolet radiation - 200~380 nm
     - [[vacuum ultraviolet (VUV)]]
-- [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range - 380~780 nm 
+- [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range; [[visible region]] - 380~780 nm 
 - non-visible band;
 - [[radio wave]]
 - [[radio frequency]] - m

@@ -1,4 +1,6 @@
+- collimated light beam: 准直光束
 - [[fiber laser]]
+- [[helium–neon laser]]
 - [[light amplification]]
     - [[doped fiber amplifier]]
     - [[gain media]]; [[active gain medium]]

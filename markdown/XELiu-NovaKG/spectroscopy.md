@@ -25,6 +25,7 @@
     - transmitted radiant power; 
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
 - wavelength dependence; as a function of wavelength
+- [[wavenumber accuracy]]
 - 在线光谱分析 
 - ---
 - 电磁辐射与物质的相互作用，作为波长或频率的函数-气相物质对可见光分光的吸收对波长的依赖关系
@@ -50,7 +51,7 @@
     - Fraknoi and Morrison state that "In 1802, William Hyde Wollaston built an improved spectrometer that included a lens to focus the Sun's spectrum on a screen. Upon use, Wollaston realized that the colors were not spread uniformly, but instead had missing patches of colors, which appeared as dark bands in the spectrum."[19] During the early 1800s, Joseph von Fraunhofer made experimental advances with dispersive spectrometers that enabled spectroscopy to become a more precise and quantitative scientific technique. Since then, spectroscopy has played and continues to play a significant role in chemistry, physics, and astronomy. Per Fraknoi and Morrison, "Later, in 1815, German physicist Joseph Fraunhofer also examined the solar spectrum, and found about 600 such dark lines (missing colors), are now known as Fraunhofer lines, or Absorption lines."[19][better source needed]
 - ---
 - 光源/照明系统
-    - He-Ne Laser
+    - [He-Ne Laser]([[helium–neon laser]])
     - 能斯特灯 -- [稀土氧化物][加压成型] -- 2-25μm
     - 硅碳棒--功率200-400W，波长2-30μm，寿命大于1000h。
     - 氧化铝棒-铹丝电极-30W

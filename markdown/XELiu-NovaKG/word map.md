@@ -229,16 +229,6 @@
                         - comprehend
                             - comprehension;
             - con
-                - conc
-                    - conceive
-                    - concept
-                        - conception, 2; misconception
-                        - conceptual; conceptualization;
-                            - [[conceptual schema]]; [[conceptual framework]]
-                            - conceptualization process; 
-                    - concern
-                        - concerned;
-                    - concise
                 - con-
                     - cons
                         - consist
@@ -255,6 +245,18 @@
                         - contain
                             - contained;
                             - [[self-contained]]; [[self-contained system]]
+                - conc
+                    - conceive
+                    - concept
+                        - conception, 2; misconception
+                        - conceptual; conceptualization;
+                            - [[conceptual schema]]; [[conceptual framework]]
+                            - conceptualization process; 
+                    - concern
+                        - concerned;
+                    - concise
+                - confer: 授予, 带来; 
+                    - conference
                 - contra
                     - contradict
                         - contradictory
@@ -584,6 +586,9 @@
             - hive
                 - hive off: 蜜蜂分群;
     - i
+        - im
+            - impel
+                - impetus: 推动力; 
         - in
             - inc
                 - incent

@@ -34,6 +34,7 @@
 - [[mainframe computer]]: 大型主机
 - [[computer memory]]; [[memory element]]
     - [[flip-flop]]: 触发器
+- [[microcomputer]]
 - [[microcontroller]]; [[controller]]
     - [[automatic controller]]
     - [[fuzzy logic classifier]]

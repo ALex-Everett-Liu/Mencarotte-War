@@ -15,11 +15,13 @@
         - 根部减压阀
         - 管路泄漏减小
     - [[pressure regulating valve]] -- 正压打入; 通气;
+- [[sample compartment]]: 样品室; 
 - [样气]([[sample gas]])
     - condition the sample gas: 调节样气; [[gas conditioning system]]
         - sample conditioning: 样气调理
     - gas flow chart: 气路流程图;
     - high concentration sample gas;
+- [[sampling rate]]
 - [[sampling system]]: 采样/取样系统; 采样分析状态
     - [[automatic sampling]]
     - extractive system-抽取式取样

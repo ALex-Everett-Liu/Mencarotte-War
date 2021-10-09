@@ -51,3 +51,4 @@
         - [[relative acceleration]]; an absolute conception of acceleration
         - [[constant velocity motion]]; [[constant speed]]
         - stationary; still
+- [[vibration]]

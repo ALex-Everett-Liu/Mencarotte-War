@@ -7,7 +7,7 @@
     - ordinal axis: 序数坐标轴
     - render excel-esque charts
     - [[text value]]
-- [[data collection]]
+- [[data collection]]; collecting the data
 - [[data generator]]
 - [[data point]];
 - extracting data; extract information

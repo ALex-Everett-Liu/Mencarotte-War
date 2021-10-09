@@ -1,10 +1,12 @@
 - [[aberration]]: 像差, 畸变;
 - [[diaphragm]]; [[diaphram]]
 - [[image-forming fiberscope]]
+- imaging?
+    - [[chemical imaging]]
+    - [[medical imaging]]; [[medical imaging system]]: 医疗成像系统
+    - [[three-dimensional imaging]]
 - [[imperfection]]
-- [[medical imaging system]]: 医疗成像系统
 - [[misalignment]]
 - [[objective]]: 物镜
 - [[optical stethoscopy]]
 - [[resolution]]
-- [[three-dimensional imaging]]

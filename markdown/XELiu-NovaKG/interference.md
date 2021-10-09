@@ -1,3 +1,4 @@
+- [[constructive interference]]
 - [[double-slit experiment]]
     - parallel slit;
     - detected photon;

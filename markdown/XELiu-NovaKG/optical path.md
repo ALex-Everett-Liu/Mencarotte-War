@@ -1,2 +1,3 @@
-- [[optical path difference]]
+- [[optical path difference (OPD)]]; [[retardation]]
+    - [[zero path difference]]; [[zero retardation]]: 零点延迟/滞后
 - [[phase difference]]: 相位差
