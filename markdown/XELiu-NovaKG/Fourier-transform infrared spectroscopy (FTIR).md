@@ -307,6 +307,9 @@ SO2：	±0.5ppm（满量程35ppm，误差±1.4%）；
             - 说明：该示例是标准的国标 ****212-2005**** 协议，[实时参数]数据上传的协议，具体参考****212****实时数据上传
     - HPFT-1000
         - 型式批准
+            - 企业标准
+                - 4 分类与标记
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FJnD9vRTbY-.png?alt=media&token=22edc37f-14f8-481c-9241-de83fc5435e4)
             - 通用 CEMS 实验室[原始记录表] -- HJC-JSJL80-20210114
                 - [环境保护部][环境监测仪器][质量监督检验中心]
 - Software
