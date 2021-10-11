@@ -1,9 +1,10 @@
-- [[dishwasher]]
+- [[cleaning supplies]]
+    - [[dishwasher]]
+    - [[vacuum cleaner]]
+    - [[washing machine]]
 - finishing product: 装饰产品; 
 - [[paint]]; paints and varnishes: 油漆和清漆; 
     - paints and coatings; [[coating]]
-- [[vacuum cleaner]]
-- [[washing machine]]
 - ---
 - dictionary 
     - electric appliance; housekeeping appliance; 

@@ -38,7 +38,7 @@ Cleanroom facility maintenance
                 - 3）受[温湿度]影响大；
                 - 4）信号非线性，需要[多点标定]或[其它方法]进行[线性化处理]
             - 检测量程 (Detection Range)
-                - 定义：以[[异丁烯]] (i-C4H8) 为[被测气体]([[gas analyte]])，PID [能够保持检测精度]的[最高气体浓度]。
+                - 定义：以[异丁烯]([[isobutylene]]) (i-C4H8) 为[被测气体]([[gas analyte]])，PID [能够保持检测精度]的[最高气体浓度]。
                     - 1）异丁烯 [[ionization energy]] 比较低，Ie=9.24V，无论 9.8eV、10.6eV、还是 11.7eV 的紫外灯 (UV灯)，都能[将其电离]。
                     - 2）[碳链长度]为3，有1[支链]，分子不大不小，和[绝大多数][挥发性有机物VOC][大小相当]，具有代表性。
                     - 3）异丁烯[低毒]，作为[标定气体]([[calibration gas]])，对[工作人员]健康无影响。
@@ -189,6 +189,19 @@ Notch1&Notch2：对称切口，用于[开取上盖]
         - 7. 附录
             - 附录 II. 简写列表
                 - 
+    - D045.1 - piD-TECH eVx Brochure -- BASELINE® piD-TECH® eVx™ OEM [PHOTOIONIZATION SENSORS] -- Total Volatile Organic Compound Measurement
+        - Volatile Organic Compound (VOC) Measurement
+            - [Volatile Organic Compounds (VOC’s)]([[volatile organic compounds (VOCs)]]) are [potentially dangerous compounds] created by [industrial and natural processes] that vaporize [under normal atmospheric conditions]. [VOC levels] are much higher in [indoor environments] as [they cam be emitted by] many [manufactured products] such as carpet, paint and [[cleaning supplies]]. [Outdoor sources] can include landfills, 废弃物填埋场 industry, and [hydrocarbon emissions].
+211011-13:40
+            - [Prolonged human exposure to VOC’s] have been known to [cause respiratory problems], cancer and [neurological damage]. [Environmental damage] can include air, water, and [soil pollution].
+        - Ionization Potentials & Response Factors
+            - The [[sample gas]] is exposed to an [[ultraviolet light]] from a [[lamp]] which [ionizes the target gases] [to be detected by the instrument] and [reported as a concentration]([[concentration]]). VOC’s with an [[ionization potential]] (IP) [less than the eV of the lamp] [will be detected by photoionization].
+            - [The ratio between] the [[sensitivity]] of [[isobutylene]] to that of a [target compound] is called a [[response factor]] (RF). For example, the Baseline piD-TECH® eVx™ sensor from MOCON [has a typical sensitivity of] 1 mV/ppm for isobutylene and 2 mV/ppm for [[benzene]]. [That means that] [benzenes RF] is equal to 0.53.
+            - The RF [allows the user to] measure the concentration of [various gases] [without actually calibrating the sensor] with the [target gas]. [A comprehensive list of] ionization potentials and response factors is available from MOCON, Baseline products at your request.
+211011-14:05
+            - Common VOC’s
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F518fgiS8cy.jpg?alt=media&token=d8cbcedb-f8a1-487d-b0e4-cc0ec3b82bfd)
+                - *All response factors [based upon Isobutylene]
 - PID 光离子化 VOC 检测仪
     - Ion Science 专利技术的[VOCs检测仪](https://www.antpedia.com/method/article-46757.html)采用先进的光离子化检测器,可以检测在 1ppb~10000ppm 浓度范围的多种挥发性有机化合物。
     - PID有一个[紫外光源],化学物质在它的激发下[产生正、负离子]就能被检测器轻易探测到。当分子[吸收高能紫外线]时就[产生电离]，分子[在这种激发下][产生负电子]并[形成正离子]。这些[电离的微粒]产生的电流[经过检测器的放大]，就能在仪表上显示 ppb/ppm 级的浓度。这些离子[经过电极后]很快就[重新组合到一起]变成[原来的有机分子]。在此过程中分子[不会有任何损坏]； PID [不会“烧毁”]也不用[经常更换标样气体]，这一点使它[可用于][收集样品]。

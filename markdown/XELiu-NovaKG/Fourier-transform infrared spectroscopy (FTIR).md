@@ -41,7 +41,10 @@
 - 探测接收系统
     - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-[[A/D converter]]; [[D/A converter]]
         - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
-            - 温差电现象
+            - [不同导体][构成回路]时的[温差电现象]，由[涂黑金箔][接受红外辐射]；
+            - TGS：[硫酸三苷肽单晶]为[热检测元件]；[极化效应][与温度有关]，[温度高][表面电荷减少] (热释电)；响应速度快(1 μs)；高速扫描；wavelength (2-1000 μm)
+                - 氘代硫三甘肽 (DTGS)
+            - 碲镉汞(MCT)检测器：需在[液氮低温下]工作，但[灵敏度]比TGS[高30倍], 响应时间(1μs), 波长(0.8-40μm) 。
     - [[signal processing]] -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p26
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9bPnQHWTkG.png?alt=media&token=1e22d25d-c965-481b-9e41-ef61bae9e49b)
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.

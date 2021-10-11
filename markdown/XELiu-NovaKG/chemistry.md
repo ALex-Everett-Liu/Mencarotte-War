@@ -31,7 +31,7 @@
 - [[hydrocarbon]]
 - [[inert gas]]; [[inert compound]]
 - [[ion]]
-    - [[ionization energy]]
+    - [[ionization energy]]; [[ionization potential]]
 - [[unreactive gas]]
 - [[mixture]]
     - [[mixture separation]]; separating the different components

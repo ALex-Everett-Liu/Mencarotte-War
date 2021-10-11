@@ -3,7 +3,7 @@
     - [[三苯]]
 - [[methane]]
     - [[ethane]]: 乙烷
-- [[异丁烯]]
+- [[isobutylene]]
 - [[total hydrocarbons]]: 总烃
     - [[none-methane hydrocarbons (NMHC)]]: 非甲烷总烃
 - [[styrene]]: 苯乙烯
