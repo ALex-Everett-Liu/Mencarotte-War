@@ -36,6 +36,7 @@
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
     - digital concentration display; 
+    - direct-reading
     - instantaneous reading
     - interfere with the reading: 干扰读数; 
 - [[reliability]]: 可靠性
