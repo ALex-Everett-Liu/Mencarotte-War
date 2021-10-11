@@ -15,9 +15,44 @@ Arson investigation
 Cleanroom facility maintenance
 - Principle
     - In a photoionization detector [[high-energy photon]]s, typically in the [[vacuum ultraviolet (VUV)]] range, [break molecules into] [positively charged ions](((YytyrwZpe))). As [[compound]]s [enter the detector] they are bombarded by 轰击 [high-energy UV photons] and are [[ionized]] when they [absorb the UV light], [resulting in ejection of electrons](((o2rLf40L4))) and the [formation of positively charged ions]. The ions produce an [[electric current]], which is the [[signal output]] of the detector. The greater the [[concentration]] of the [[component]], the more ions are produced, and the greater the current. [The current is amplified]([[amplified current]]) and displayed on an [[ammeter]] or [digital concentration display](((xHxpVqARm))). 
-        - The ions [can undergo numerous reactions] including [reaction with oxygen or water vapor], rearrangement, and fragmentation. A few of them may [recapture an electron] within the detector to [reform their original molecules]; however [only a small portion of] the [airborne analytes] are ionized to begin with so the [practical impact] of this (if it occurs) is usually negligible. Thus, PIDs are non-destructive and can be used before other sensors in multiple-detector configurations.
+        - The ions [can undergo numerous reactions] including [reaction with oxygen or water vapor], rearrangement, and fragmentation. A few of them may [recapture an electron] within the detector to [reform their original molecules]; however [only a small portion of] the [airborne analytes] are ionized to begin with so the [practical impact] of this (if it occurs) is [usually negligible]. Thus, PIDs are [[non-destructive]] and [can be used before other sensors] in [multiple-detector configurations](((XH5yIXBRz))).
 210813-15:52, 16:01
-    - The PID will only respond to components that have ionization energies similar to or lower than the energy of the photons produced by the PID lamp. As stand-alone detectors, PIDs are broad band and not selective, as these may ionize everything with an ionization energy less than or equal to the lamp photon energy. The more common commercial lamps have photons energy upper limits of approximately 8.4 eV, 10.0 eV, 10.6 eV, and 11.7 eV. The major and minor components of clean air all have ionization energies above 12.0 eV and thus do not interfere significantly in the measurement of VOCs, which typically have ionization energies below 12.0 eV.[1]
+    - The PID will only [respond to components] that have [ionization energies] [similar to or lower than the energy of] [the photons produced by] the [PID lamp]([[lamp]]). As stand-alone detectors, PIDs are [[broad band]] and not [[selective]], as these may [ionize everything] with an ionization energy [less than or equal to] the [lamp photon energy]. [The more common commercial lamps] have photons energy [upper limits] of approximately 8.4 eV, 10.0 eV, 10.6 eV, and 11.7 eV. [The major and minor components of] [[clean air]] all have ionization energies above 12.0 eV and thus [do not interfere significantly in the measurement of] VOCs, which typically have ionization energies below 12.0 eV.[1]
+(VOCs的电离能一般低于12eV, 洁净空气中的各组分的电离能则一般高于12eV，因此两者之间不会互相干扰)
+211011-16:15
+- Lamp types and detectable compounds
+    - PID lamp [photon emissions] [depend on the type of] [[fill gas]] (which defines the [light energy] produced) and the [lamp window], which affects [the energy of photons] that can [exit the lamp]:
+        - Main photon energy -- Fill gas -- Window material -- Comments
+11.7 eV	Ar	LiF	        Short-lived 
+10.6 eV	Kr	MgF2	Most robust 
+8.4 eV	Xe	Al2O3 
+        - [The 10.6 eV lamp] is [the most common] because it has [strong output], [has the longest life] and [responds to many compounds]. [In approximate order] [from most sensitive to least sensitive], these compounds include:
+211011-16:32
+            - Aromatics
+Olefins 烯烃
+Bromides & Iodides
+Sulfides & mercaptans
+Organic amines
+Ketones
+Ethers
+Esters & acrylates 酯和丙烯酸酯类
+Aldehydes
+Alcohols
+Alkanes
+Some inorganics, including NH3, H2S, and PH3
+- Applications
+    - [The first commercial application of] photoionization detection was in 1973 as a [hand-held instrument](((RVT-MB2ge))) [for the purpose of] [detecting leaks of VOCs], specifically [vinyl chloride monomer (VCM)], 氯乙烯单体 at a [chemical manufacturing facility]. 化工制造厂 The photoionization detector was applied to [[gas chromatography]] (GC) [three years later], in 1976.[2] A PID is [highly selective] when [coupled with a chromatographic technique] or a [[pre-treatment tube]] such as a [benzene-specific tube](((WD1imBce-))). [Broader cuts of selectivity] for [easily ionized compounds] [can be obtained by] [using a lower energy UV lamp]. This [[selectivity]] can be useful when [analyzing mixtures] in which [only some of the components] [are of interest].
+(PID本身是宽带的、非选择性的，但与色谱技术或预处理管路相结合时，变得高度选择性，在分析只对混合物中某几种组分感兴趣的情况时很有用)
+211011-16:49
+    - The PID is usually calibrated using [[isobutylene]], and other [[analyte]]s may produce [a relatively greater or lesser response on] a [concentration basis]. Although many [PID manufacturers] [provide the ability to] [program an instrument with] a [[correction factor]] for [quantitative detection of] [a specific chemical], the [broad selectivity](((IL_YT5fLL))) of the PID means that [the user must know] [the identity of the gas or vapor species] [to be measured] [with high certainty].[1] If [a correction factor for benzene] is [entered into the instrument], but [hexane vapor] 己烷 is measured instead, [the lower relative detector response] (higher correction factor) for hexane [would lead to underestimation of] the actual [airborne concentration] of hexane.
+(因为PID具有宽带选择性，因此测试者必须在测试前就知道被测气体属于哪一种类)
+211011-16:57
+- Matrix gas effects
+    - With a gas chromatograph, [[filter tube]], or other [separation technique](((VcEC5TFCS))) upstream of the PID, matrix effects are [generally avoided] because [the analyte enters the detector] isolated from [interfering compounds]. 干扰化合物
+    - Response to [stand-alone PIDs] is [generally linear](((IAHXbQjAq))) [from the ppb range up to] at least [a few thousand ppm]. In this range, response to [mixtures of components] is also [linearly additive].[1] 线性相加 At the higher concentrations, response [gradually deviates from linearity]([[linearity]]) because of [recombination of oppositely charged ions] formed in close proximity and/or 2) absorption of [UV light] [without ionization].[1] 
+        - [The signal produced by a PID] [may be quenched](((iFsGTy2jn))) when measuring in [high humidity environments](((IkAWi7piG))),[3] or [when a compound such as] methane is [present in high concentrations of] [≥1% by volume][4] This [[attenuation]] is due to the ability of water, methane, and other compounds [with high ionization energies] to [absorb the photons emitted by] the [UV lamp](((YjYZsAdPt))) [without leading to the production of] an [[ion current]]. This [reduces the number of] [energetic photons] available to [ionize target analytes].
+(高湿度环境中，水的电离能较大所以会吸收高能光子，减少了离子流的产生；类似的，甲烷浓度过高，超过1%时，会吸收大量光子)
+211011-17:12, 17:35
 - ---
 - PID 检测器工作原理
     - PID使用了一个[紫外灯(UV)光源](((SG-jAoXKF)))将[有机物分子]离子化/[电离成][可被检测器检测到的][正负离子]，样气[进入分析仪][通过流通池]([[流通池]])时，[检测器捕捉到][离子化了的气体的正负电荷]/[微弱离子流]并**[将其转化为电流信号][实现气体浓度的测量]**。详见图1-2。
@@ -52,9 +87,13 @@ Cleanroom facility maintenance
             - [响应时间]([[response time]])
                 - 定义：传感器信号[从零点上升到][通气平衡点]一定百分比，所需的时间称为响应时间，通常用 T90 来描述。从零点上升到[平衡信号值]的50%[所需要的时间]称为T50，从零点上升到90%所需的时间称为T90，从零点上升到99%所需的时间成为T99。
                 - PID 的响应时间是比较短的。在[扩散模式]下，响应时间大约 20~30 秒，这些时间主要是[气体扩散][进入电离室]的时间，所以与[气体性质][有一定的关联]；**在[泵吸]的模式下，响应时间小于5秒。**
-                    - 1）PID是[物理传感器]，[紫外光照到] VOC 上[产生电离]，这个变化是[瞬间发生的]，[产生的离子]与[收集电极][电荷交换]后[变成电流传入电路]，这个也是[在极短的时间内完成]。
+                    - 1）PID是[物理传感器]，[紫外光照到] VOC 上[产生电离]，这个变化是[瞬间发生的]，[产生的离子]与[收集电极][电荷交换]后[变成电流传入电路]，这个也是[在极短的时间内完成]。 -- __检测器内发生的是物理过程，不涉及化学反应__
                     - 2）PID的[内部气体体积]非常小，浓度[仅需要几秒钟时间]就可以平衡，所以响应时间短。这也是为什么采用[泵吸式]方式的响应时间更短的原因。
             - 市场分析
+                - PID 传感器的销量和单价大概多少？
+                    - 因为[专利壁垒]、[研发生产困难]和[维护成本高]的因素，PID传感器的[销量][一直都不高]，[全球的销量]不超过10万只。
+[主要的供应商有] RAE、Baseline、Alphasense、SUSA、英国离子公司。目前RAE的PID传感器[不对外卖]，英国离子公司[在国内][未有批量销售]。 Baseline、Alphasense [特殊的PID传感器][单价]在4000元以上，[最普通的]也在4000元左右。
+                    - **[一台带泵的][PID原理检测]**的[国产仪表]价格在12000人民币以上，[进口品牌]更是在20000人民币以上。
                 - 目标细分市场
                     - 石油化工：监控有机气体的[微弱泄漏]。
                     - 环保：大气污染，VOC 排放。
@@ -189,19 +228,20 @@ Notch1&Notch2：对称切口，用于[开取上盖]
         - 7. 附录
             - 附录 II. 简写列表
                 - 
-    - D045.1 - piD-TECH eVx Brochure -- BASELINE® piD-TECH® eVx™ OEM [PHOTOIONIZATION SENSORS] -- Total Volatile Organic Compound Measurement
-        - Volatile Organic Compound (VOC) Measurement
-            - [Volatile Organic Compounds (VOC’s)]([[volatile organic compounds (VOCs)]]) are [potentially dangerous compounds] created by [industrial and natural processes] that vaporize [under normal atmospheric conditions]. [VOC levels] are much higher in [indoor environments] as [they cam be emitted by] many [manufactured products] such as carpet, paint and [[cleaning supplies]]. [Outdoor sources] can include landfills, 废弃物填埋场 industry, and [hydrocarbon emissions].
+    - Baseline piD-TECH
+        - D045.1 - piD-TECH eVx Brochure -- BASELINE® piD-TECH® eVx™ OEM [PHOTOIONIZATION SENSORS] -- Total Volatile Organic Compound Measurement
+            - Volatile Organic Compound (VOC) Measurement
+                - [Volatile Organic Compounds (VOC’s)]([[volatile organic compounds (VOCs)]]) are [potentially dangerous compounds] created by [industrial and natural processes] that vaporize [under normal atmospheric conditions]. [VOC levels] are much higher in [indoor environments] as [they cam be emitted by] many [manufactured products] such as carpet, paint and [[cleaning supplies]]. [Outdoor sources] can include landfills, 废弃物填埋场 industry, and [hydrocarbon emissions].
 211011-13:40
-            - [Prolonged human exposure to VOC’s] have been known to [cause respiratory problems], cancer and [neurological damage]. [Environmental damage] can include air, water, and [soil pollution].
-        - Ionization Potentials & Response Factors
-            - The [[sample gas]] is exposed to an [[ultraviolet light]] from a [[lamp]] which [ionizes the target gases] [to be detected by the instrument] and [reported as a concentration]([[concentration]]). VOC’s with an [[ionization potential]] (IP) [less than the eV of the lamp] [will be detected by photoionization].
-            - [The ratio between] the [[sensitivity]] of [[isobutylene]] to that of a [target compound] is called a [[response factor]] (RF). For example, the Baseline piD-TECH® eVx™ sensor from MOCON [has a typical sensitivity of] 1 mV/ppm for isobutylene and 2 mV/ppm for [[benzene]]. [That means that] [benzenes RF] is equal to 0.53.
-            - The RF [allows the user to] measure the concentration of [various gases] [without actually calibrating the sensor] with the [target gas]. [A comprehensive list of] ionization potentials and response factors is available from MOCON, Baseline products at your request.
+                - [Prolonged human exposure to VOC’s] have been known to [cause respiratory problems], cancer and [neurological damage]. [Environmental damage] can include air, water, and [soil pollution].
+            - Ionization Potentials & Response Factors
+                - The [[sample gas]] is exposed to an [[ultraviolet light]] from a [[lamp]] which [ionizes the target gases] [to be detected by the instrument] and [reported as a concentration]([[concentration]]). VOC’s with an [[ionization potential]] (IP) [less than the eV of the lamp] [will be detected by photoionization].
+                - [The ratio between] the [[sensitivity]] of [[isobutylene]] to that of a [target compound] is called a [[response factor]] (RF). For example, the Baseline piD-TECH® eVx™ sensor from MOCON [has a typical sensitivity of] 1 mV/ppm for isobutylene and 2 mV/ppm for [[benzene]]. [That means that] [benzenes RF] is equal to 0.53.
+                - The RF [allows the user to] measure the concentration of [various gases] [without actually calibrating the sensor] with the [target gas]. [A comprehensive list of] ionization potentials and response factors is available from MOCON, Baseline products at your request.
 211011-14:05
-            - Common VOC’s
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F518fgiS8cy.jpg?alt=media&token=d8cbcedb-f8a1-487d-b0e4-cc0ec3b82bfd)
-                - *All response factors [based upon Isobutylene]
+                - Common VOC’s
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F518fgiS8cy.jpg?alt=media&token=d8cbcedb-f8a1-487d-b0e4-cc0ec3b82bfd)
+                    - *All response factors [based upon Isobutylene]
 - PID 光离子化 VOC 检测仪
     - Ion Science 专利技术的[VOCs检测仪](https://www.antpedia.com/method/article-46757.html)采用先进的光离子化检测器,可以检测在 1ppb~10000ppm 浓度范围的多种挥发性有机化合物。
     - PID有一个[紫外光源],化学物质在它的激发下[产生正、负离子]就能被检测器轻易探测到。当分子[吸收高能紫外线]时就[产生电离]，分子[在这种激发下][产生负电子]并[形成正离子]。这些[电离的微粒]产生的电流[经过检测器的放大]，就能在仪表上显示 ppb/ppm 级的浓度。这些离子[经过电极后]很快就[重新组合到一起]变成[原来的有机分子]。在此过程中分子[不会有任何损坏]； PID [不会“烧毁”]也不用[经常更换标样气体]，这一点使它[可用于][收集样品]。

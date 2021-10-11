@@ -8,7 +8,7 @@
     - [[on-line analysis]]; [[online analysis]]; 在线式
         - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
         - on-line analyzer system engineering
-    - portable instrument; hand-held portable instrument; 便携式;  
+    - portable instrument; hand-held portable instrument; hand-held device; hand-held instrument; 便携式;  
     - [[sample]]
     - 分析站房; 分析小屋, 恒温;
     - 中控室
@@ -20,8 +20,7 @@
         - [[span calibration gas]]: 量程校准气体
         - [[zero gas]]
         - [[标称值]]
-    - 校正系数; 校正因子; 转换系数;
-        - [[response factor]]
+    - 校正系数; 校正因子; 转换系数; calibration factor; [[correction factor]] (CF); [[response factor]]
     - 系统标定口;
 - [[Data Acquisition and Handling System (DAHS)]]
     - [[data acquisition system (DAS)]]
@@ -30,6 +29,8 @@
 - [[instrument design]]
 - [[instrument system]]
 - [[linear deviation]]
+    - linear response
+    - [[linearity]]
     - ordinate linearity: 纵坐标线性;
 - performance specification: 性能指标/规格;
 - [[precision instrument]]

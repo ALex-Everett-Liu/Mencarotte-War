@@ -988,6 +988,7 @@
                     - quantifiable: 可量化, 计量; quantifier: 量词;
                 - quantities;
                 - quantum; quanta
+            - quench: 淬火; 熄灭, 平息; | quenched
             - query
                 - enquire
                     - [[enquiry]];

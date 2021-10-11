@@ -1,4 +1,5 @@
 - [[background spectrum]]; [[reference spectrum]] 
+- [[broad band]]; broad selectivity
 - continuous spectrum; 连续光谱
     - 白光
         - 多色混合光
@@ -17,13 +18,15 @@
     - IR source; [[infrared source]]
     - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
     - [[rock-salt region]]
-- [[microwave]] - mm
+- [[microwave]] - (mm)
 - ultraviolet; [[ultraviolet light]]; ultraviolet radiation - 200~380 nm
+    - UV lamp;
     - [[vacuum ultraviolet (VUV)]]
 - [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range; [[visible region]] - 380~780 nm 
 - non-visible band;
 - [[radio wave]]
-- [[radio frequency]] - m
+- [[radio frequency]] - (m)
+- [[selective]]; [[selectivity]]
 - [[single beam spectrum]]
 - wavelength band; spectral band; spectral range
 - [[X-ray]]; x-ray

@@ -313,6 +313,14 @@ SO2：	±0.5ppm（满量程35ppm，误差±1.4%）；
             - 企业标准
                 - 4 分类与标记
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FJnD9vRTbY-.png?alt=media&token=22edc37f-14f8-481c-9241-de83fc5435e4)
+            - 烟气分析仪 型式批准[测试指导书]
+                - 1. 参考标准
+《[[JJG 968-2002 烟气分析仪检定规程]]》
+                - 测试气体
+                    - SO2：100 mg/m3；
+NO：100 mg/m3；
+CO：100 mg/m3；
+O2：25%；
             - 通用 CEMS 实验室[原始记录表] -- HJC-JSJL80-20210114
                 - [环境保护部][环境监测仪器][质量监督检验中心]
 - Software
