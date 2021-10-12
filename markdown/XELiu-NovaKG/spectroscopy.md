@@ -6,7 +6,7 @@
 - [[biomedical spectroscopy]]
     - [[tissue analysis]]
 - [[characteristic emission frequency]]
-- [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计; 分光仪器
+- [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计; 分光仪器; dispersive instrument
 - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
     - [[Fourier-transform infrared spectroscopy (FTIR)]]
     - [[near-infrared spectroscopy (NIRS)]]
@@ -25,7 +25,8 @@
     - transmitted radiant power; 
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
 - wavelength dependence; as a function of wavelength
-- [[wavenumber accuracy]]
+- [[wavenumber accuracy]]; [[wavelength accuracy]]
+    - [[wavelength scale]]: 波长标度
 - 在线光谱分析 
 - ---
 - Spectroscopy is the study of [the interaction between matter and electromagnetic radiation](((-cguDKDJx))) [as a function of the wavelength or frequency of the radiation](((vRfAwVlfR))).[1][2][3][4][5][6] In simpler terms, spectroscopy is the precise study of color as generalized from visible light to [all bands of the electromagnetic spectrum]([[electromagnetic spectrum]]); indeed, historically, spectroscopy originated as the study of [the wavelength dependence of the absorption] by [[gas phase matter]] of visible light [dispersed by a prism]. Matter waves and acoustic waves can also be considered forms of [[radiative energy]], and recently [[gravitational wave]]s have been associated with a [[spectral signature]] in the context of the [[Laser Interferometer Gravitational-Wave Observatory (LIGO)]].

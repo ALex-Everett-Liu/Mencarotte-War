@@ -1,5 +1,4 @@
 - kw
-    - broadband light source
     - [[commissioning]]: 试运行
     - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]]
     - [[purge gas]]: 吹扫气体
@@ -38,7 +37,8 @@
 211012- 15:27
             - The [[throughput]] or [Jacquinot's advantage]. [This results from the fact that] in a [dispersive instrument], the [[monochromator]] has [entrance and exit slits] which [restrict the amount of light] that passes through it. The [interferometer throughput] is [determined only by the diameter of] the [collimated beam](((9lctvsya6))) [coming from the source]. Although no [[slit]]s are needed, FTIR spectrometers do require an [[aperture]] to [restrict the convergence of the collimated beam] in the interferometer. This is because [convergent rays] are [modulated at different frequencies] [as the path difference is varied]. Such an aperture is called a [Jacquinot stop].[1] [For a given resolution and wavelength] this [[circular aperture]] [allows more light through than a slit], resulting in a higher signal-to-noise ratio.
 211012-15:54
-            - The [[wavelength accuracy]] or [Connes' advantage]. The [[wavelength scale]] 波长标度 is [calibrated by a laser beam] of [known wavelength] that [passes through the interferometer]. This is [much more stable and accurate than] in [dispersive instruments] where the scale depends on the [mechanical movement] of [[diffraction grating]]s. In practice, [the accuracy is limited by] [the divergence of the beam] in the interferometer which [depends on the resolution].
+            - The [[wavelength accuracy]] or [Connes' advantage]. The [[wavelength scale]] is [calibrated by a laser beam] of [known wavelength] that [passes through the interferometer]. This is [much more stable and accurate than] in [dispersive instruments] where the scale depends on the [mechanical movement] of [[diffraction grating]]s. In practice, [the accuracy is limited by] [the divergence of the beam] in the interferometer which [depends on the resolution].
+        - Another [minor advantage] is [less sensitivity to] [[stray light]], that is [radiation of one wavelength] [appearing at another wavelength in the spectrum]. In [dispersive instruments](((GYqf1tp6G))), this is the result of [[imperfection]]s in the diffraction gratings and [[accidental reflection]]s. In [FT instruments] [there is no direct equivalent] as the [apparent wavelength] 表观波长 is determined by the [[modulation frequency]] [in the interferometer].
     - Spectral range
         - Far-infrared
             - The first FTIR spectrometers were developed for [[far-infrared range]]. The reason for this has to do with the [[mechanical tolerance]] needed for good [[optical performance]], which is related to [the wavelength of the light being used]. For the [relatively long wavelengths] of the far infrared, ~10 μm tolerances are adequate, whereas for the [rock-salt region] tolerances have to be better than 1 μm. A typical instrument was the [cube interferometer] developed at the NPL[9] and marketed by Grubb Parsons. It used a [[stepper motor]] to [drive the moving mirror], [recording the detector response] [after each step was completed].
@@ -85,6 +85,7 @@ __缺点：易受温度影响__
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnkkgIDDmt4.png?alt=media&token=729ce9d1-52f5-4c3a-bd1b-0ce114f4b050)
     - 光源 / MIR source / source module -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
         - monochromatic beam; [[monochromatic light beam]]; monochromatic light source
+    - [[modulation frequency]]
 - [[circular field stop]] - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器 -- [[optical relay block]] 
 - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
     - [样品]([[sample]])

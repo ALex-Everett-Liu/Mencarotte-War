@@ -1,3 +1,4 @@
+- [[diffraction grating]]
 - [[grating coupler]]
 - [[grating period]]
 - [[spatial frequency]]

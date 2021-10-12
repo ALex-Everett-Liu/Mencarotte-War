@@ -5,7 +5,7 @@
         - 多色混合光
         - 互补色混合
     - 太阳光谱-日光照明
-- [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计; 分光仪器
+- [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计; 分光仪器; dispersive instrument
 - electromagnetic spectrum
 - frequency spectrum
     - characteristic frequency
