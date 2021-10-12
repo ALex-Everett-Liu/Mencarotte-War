@@ -387,6 +387,7 @@
             - [[diagram]]
                 - [[block diagram]]; 
                 - diagrammed, 2; diagram image;
+                - schematic diagram; 
             - dictate, 2
                 - dictation;
                 - dictator: 独裁者; 发号施令者
