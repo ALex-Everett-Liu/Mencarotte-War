@@ -11,6 +11,7 @@
     - square-integrable function
     - square root
     - well-defined
+    - zero-crossing; zero crossing
 - [[geometry]]
 - [[group theory]]
 - [[linear algebra]]

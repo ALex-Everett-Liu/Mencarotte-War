@@ -5,13 +5,15 @@
 - [[communication channel]]
     - concurrent communication sessions
     - multiplexing
+- [[multiplex]]: 多路复用
 - [[noise]]
     - [[baseline noise]]
+    - [[generation-recombination noise]]
     - [[separate signal from noise]]
     - [[signal-to-noise ratio (SNR)]]
 - [[signal output]]
-- relaying signals
 - [[signal processing]]
+- relaying signals
 - [[visual signal]]
     - [[beacon]]: 烽火; 灯塔; 信标
     - [[optical heliograph]]: 日光反射信号仪器

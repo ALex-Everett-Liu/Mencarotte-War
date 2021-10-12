@@ -1,5 +1,5 @@
 - [[analog circuit]]
-- [[analog to digital conversion]]; [[A/D converter]]; [[D/A converter]]
+- [[analog to digital conversion]]; [[A/D converter]]; [[analog-to-digital converter]];; [[D/A converter]]
 - [[circuit diagram]]
 - [[digital circuit]]
 - [[electric current]]

@@ -11,6 +11,7 @@
 - [[data generator]]
 - [[data point]];
 - extracting data; extract information
+- [[interpolation]]
 - interpreting the data;
 - [[meaningful data]]; [[random data]]
 - plot...

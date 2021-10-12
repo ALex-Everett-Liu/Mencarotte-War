@@ -63,6 +63,7 @@
     - [[lithography]]
     - [[microscopy]]; [[microscope]]; microscopic instrument
     - [[nanophotonics]]; [[nano-optics]]
+    - [[photodetector]]
     - [[photon]]
 - [[waveguide]]; [[optical waveguide]]
     - [[optical fiber]]; [[fiber]]; [[fibre]]

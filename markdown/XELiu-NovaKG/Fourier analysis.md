@@ -1,1 +1,1 @@
-- [[Fourier transforms (FTs)]]
+- [[Fourier transforms (FTs)]]; [[Fourier transformation]]

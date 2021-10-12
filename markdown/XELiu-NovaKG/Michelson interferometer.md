@@ -1,4 +1,4 @@
-- [[fixed mirror]]
+- [[fixed mirror]]; [[stationary mirror]]
 - [[moving mirror]]; [[moveable mirror]]
 - FTIR
     - In a Michelson interferometer [adapted for FTIR], light from the polychromatic [[infrared source]], 多色 approximately a [[black-body radiator]], is [collimated](((9lctvsya6))) and directed to a [[beam splitter]]. Ideally [50% of the light] is [refracted towards] the [[fixed mirror]] and 50% is [transmitted towards] the [[moving mirror]]. Light is [reflected from the two mirrors back to] the beam splitter and [some fraction of the original light] passes into the [[sample compartment]]. There, the light is [focused on the sample]. On leaving the sample compartment the light is [refocused on to the detector]. The difference in [optical path length] [between the two arms] to the interferometer is known as the [[retardation]] or [[optical path difference (OPD)]]. 
@@ -7,3 +7,4 @@
     - [Commercial spectrometers] use Michelson interferometers with a variety of [scanning mechanisms] to [generate the path difference]. [Common to all these arrangements is] [the need to ensure that] [the two beams recombine exactly as the system scans]. The [simplest systems] have a [[plane mirror]] that [moves linearly] to [vary the path of one beam]. [In this arrangement] the [moving mirror] [must not tilt or wobble] 倾斜或摆动 as this would [affect how the beams overlap as they recombine]. Some systems [incorporate a compensating mechanism] that [automatically adjusts the orientation of one mirror] to [maintain the alignment]. Arrangements that [avoid this problem] include using [cube corner reflectors] instead of plane mirrors as these [have the property of] [returning any incident beam] [in a parallel direction] regardless of orientation.
 211012-14:05
     - [Schematic diagram](((mxntn7d75))) of a Michelson interferometer, configured for FTIR
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F3VYQ9TFcrE.jpg?alt=media&token=0c037ad7-f9cf-4d60-88f5-8aa196f4309c)

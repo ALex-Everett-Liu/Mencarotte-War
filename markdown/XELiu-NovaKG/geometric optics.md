@@ -1,6 +1,7 @@
 - [[concentric beam]]
 - [[conjugate points]]
 - dispersion; [[dispersion relation]]
+    - [[monochromator]]
     - [[prism]]
     - 分光
     - 折射率随波长变化的数据
