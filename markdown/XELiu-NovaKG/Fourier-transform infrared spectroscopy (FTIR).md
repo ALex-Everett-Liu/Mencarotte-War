@@ -4,7 +4,6 @@
     - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]]
     - [[purge gas]]: 吹扫气体
     - [[scan time]]
-    - source module -- MIR source -- __I-nu plot__
 - ---
 - Wiki
     - Fourier-transform infrared spectroscopy (FTIR)[1] is [a technique used to] obtain an [[infrared spectrum]] of [absorption or emission of a solid], liquid or gas. An FTIR spectrometer [simultaneously collects] [high-resolution spectral data] [over a wide spectral range]. This confers a significant advantage over a [[dispersive spectrometer]], which [measures intensity] [over a narrow range of wavelengths] at a time.
@@ -48,19 +47,38 @@
     - [[signal processing]] -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p26
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9bPnQHWTkG.png?alt=media&token=1e22d25d-c965-481b-9e41-ef61bae9e49b)
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
+- 光源 / MIR source / source module -- __I-nu plot__
+    - 按类型分为：单光源（ABB and SIEMENS) 和双光源。
+    - 按发光体分为：陶瓷光源、合金丝光源、激光光源（成本高，寿命短）。
+        - 陶瓷光源 -- 优点：寿命长，黄金[物理性能特别稳定]，不产生[微量气体]，且是[密封式][安全防爆]的。
+__缺点：易受温度影响__
+            - ABB 光源是陶瓷光源，抛物面反射体，密封隔爆。
+        - 镍铬丝光源 -- 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
+缺点：[长期工作]会产生[微量气体挥发] -- SIEMENS U23
+    - 为增加寿命，[内部填充]特殊气体。
 - 调制单元
-    - source module -- MIR source -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
+    - [切光马达]([[stepper motor]])
+        - 1、马达的[默认频率]为 7.3HZ
+        - 2、体积比老马达更小
+        - 3、用[光栅][测量频率]
+        - 4、马达有[3根引线]，[任何两根引线之间的电阻]都为[40欧姆]
+211012-10:45
+    - 切光片
+        - 计算机控制[同步马达][驱动切光片]，[切光片][交替的覆盖测量和参比气室]。光线[在每一周内][交替的通过测量和参比气室]各两次。
+        - 1、对光切割，把光源的光[变成断续的光]，对红外光[进行调制]，使[检测器测量信号]成为交流信号，[便于][放大器放大]，可以改善检测器的[响应时间]特性。
+
+        - 2、两个[内圈]用于[透过参比光]，两个[外圈]用于[透过测量光]。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnkkgIDDmt4.png?alt=media&token=729ce9d1-52f5-4c3a-bd1b-0ce114f4b050)
+    - 光源 / MIR source / source module -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
         - monochromatic beam; [[monochromatic light beam]]; monochromatic light source
-    - 切光片-[切光马达]([[stepper motor]])
-        - 通过切光片[对光切割]，把[测量信号][调制成交流信号]。
-- [[circular field stop]] - 气体池 - [[gas cell module]] (long path) 气室 -- [[optical relay block]] 
+- [[circular field stop]] - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器 -- [[optical relay block]] 
 - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
     - [样品]([[sample]])
         - 中红外透射分析时对样品的要求:
             - 不含游离态的水
             - [不能测量]氧气、氢气、氮气等[由相同原子构成的][气体分子]。
-        - 气体池 - [[gas cell module]] (long path) 气室
         - 固定液池
+- 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器
 - [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
     - ![Michelson-interferometer-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsV8bkGeL-n.png?alt=media&token=813ed342-55ad-4a2a-8584-a5860aa0aa38)
     - [定镜]([[fixed mirror]])M1 [动镜]([[moveable mirror]])M2
@@ -81,10 +99,27 @@
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
 - 干涉图-光谱图
     - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图]([[interferogram]])**[光强信号]**[输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
-- 检测器
+    - 干涉仪在[利用单色光时]，[检测器得到的信号]（干涉图）是随[动镜的运动时间]而变化的[一条余弦曲线]。[实际的红外光源]为[具有一定频谱（波数）宽度]的[连续分布的光源]，因而检测器得到的信号是[各单色光干涉图的叠加]。^^由于[零光程差时][各单色光强度]为最大值，^^[其余部位]则因[相长或相消干涉][强弱不同]而互相抵消，他们[加合的结果]是[形成一个][中心极大]并[向两边迅速衰减]的[对称干涉图]。
+        - An FTIR interferogram. The central peak is at the ZPD position ("[[zero path difference]]" or [[zero retardation]]), where [the maximal amount of light] passes through the interferometer to the [[detector]].
+- 特点
+    - 信噪比高 -- [傅里叶变换红外光谱仪]所用的[光学元件]少，没有[光栅]或[棱镜分光器]，降低了[光的损耗]，而且通过干涉[进一步增加了光的信号]，因此[到达检测器的辐射]强度大，信噪比高。
+    - 重现性好 -- 傅里叶变换红外光谱仪采用的[傅里叶变换][对光的信号进行处理]，避免了[电机驱动光栅分光]时[带来的误差]，所以[重现性]比较好，[扫描速度]快。
+是按照[全波段][进行数据采集]的，[得到的光谱]是[对多次数据采集求平均]后的结果，而且[完成一次完整的数据采集]只需要一至数秒
+- 检测器 -- __将光信号转换为电信号__
     - 气动检测器
         - 薄膜电容检测器
-            - 由[薄膜微音器]和前、后两个[吸收室]组成。薄膜微音器是以[金属箔]为[动极]，[金属圆柱体]为定极所构成的电容器。薄膜材料为特殊合金，其厚度通常为5～8μm；定极与薄膜间的距离为0.1～0.03mm，电容量为40～100pF 。前后两吸收室内充待测气体并被长期封在其中，吸收室是发生光能量吸收的场所，两个辐射吸收室之间用电容器动极隔开。前吸收室吸收谱带中心能量，而后吸收室吸收余下两侧能量 。薄膜电容检测器是红外气体分析仪，长期使用的传统检测器，目前使用仍然较多。它的特点是温度变化影响小、选择性好、灵敏度高，但必须密封，按交流调制方式工作。其缺点是薄膜易受机械振动的影响，调制频率不能提高，放大器制作比较困难，体积较大等。
+            - 由[薄膜微音器]和前、后两个[吸收室]组成。薄膜微音器是以[金属箔]为[动极]，[金属圆柱体]为[定极]所构成的[电容器]。[薄膜材料]为[特殊合金]，其厚度通常为 5～8μm；定极[与薄膜间的距离]为 0.1～0.03mm，[电容量]为 40～100pF 。前后两吸收室内充[待测气体]并[被长期封在其中]，吸收室是发生[光能量吸收]的场所，两个[辐射吸收室]之间[用电容器动极隔开]。前吸收室吸收[谱带中心能量]，而后吸收室吸收[余下两侧能量]。薄膜电容检测器是红外气体分析仪长期使用的[传统检测器]，目前使用仍然较多。它的特点是[温度变化影响小]、选择性好、灵敏度高，但必须[密封]，按[交流调制方式]工作。其缺点是薄膜[易受机械振动的影响]，[调制频率]不能提高，[放大器][制作比较困难]，体积较大等。
+        - 微流量检测器
+            - 原理是一种利用[敏感元件]的[热敏特性][测量微小气体流量]的[新型检测器件]。其[传感元件]是两个[微型热丝电阻]，和另外两个[辅助电阻]组成[惠斯通电桥]。热丝电阻[通电加热至][一定温度]，当有气体流过时，[带走部分热量][使热丝元件冷却]，电阻变化，通过电桥[转变成电压信号]。微流量传感器中的[热丝元件]有两种，一种是采用[栅状镍丝电阻]，简称[镍格栅]，它是把[很细的镍丝][编织成栅栏状][制成的]。这种镍格栅[垂直装配于][气路通道]中，[微气流][从格栅中间穿过]。另一种是采用[铂丝电阻]，在[云母片]上用[超微技术][光刻]上[很细的铂丝]制成。这种铂丝电阻[平行装配于][气路通道中]，微气流[从其表面通过]。
+211012-09:45
+            - 微流量检测器[实际上是一种]微型[热式质量流量计]，它的体积很小([光刻铂丝电阻]的云母片只有 3mm×3mm 见方，[毛细管][气流通道][内径]仅 0.2～0.5mm)，灵敏度极高，精度优于 ±1%，价格也较便宜。采用微流量检测器替代薄膜电容检测器，可使红外气体分析仪[光学系统]的[体积大为缩小]，可靠性、耐震性等[性能提高]，因而在红外、[氧分析仪][等仪器中][得到了较广应用]
+    - 固体检测器
+        - 光电导检测器
+            - [半导体检测器]是利用[半导体光电效应]的原理制成的，[当红外光照射到]半导体上时，后者[吸收光子能量]后可使[非导电性的价电子][跃迁至][高能量的导电带]，从而[降低了半导体的电阻]，引起[电导率]改变，又称为光电导检测器或[光敏电阻]。
+            - 半导体检测器[具有很高的][响应率]和[探测率]，但对红外光具有[选择性吸收]的特性。例如[锑化铟检测器]的[检测波长范围]为 2-7μm，因此能检测 CO和CO2，但不能检测 NH3和SO2。半导体检测器[使用的材料主要有]锑化铟(InSb)、硫化铅(PbS)、硒化铅(PbSe)、汞镉碲(HgCdTe)等，一般常采用锑化铟检测器 。
+            - 半导体检测器的结构简单、成本低、体积小、寿命长、响应迅速。它与[窄带干涉滤光片](((h5qpQpjvS)))[配合使用]，[可以制成][通用性强]、[快速响应]的[红外检测器]，改变[被测组分]时，[只需改换][干涉滤光片]的[透过波长]和[仪器显示]即可。[其缺点是]半导体元件的[特性](特别是[灵敏度])[受温度变化影响大]
+        - 热释电检测器
+            - [热电检测器]是基于[光辐射作用的热效应原理]的[一类检测器]，包括利用[温差电效应]制成的[测辐射热电偶]或[热电堆]，利用物体体电阻[对温度的敏感性]制成的测辐射[热敏电阻]检测器、以[热电晶体]的[热释电效应]为根据的热释电检测器。这类检测器的[共同特点]是：无选择性检测（对[所有波长]光辐射有[大致相同的][检测灵敏度]），[响应速度]比[光子检测器]低，检测灵敏限[也较低]
 - FTIR 光谱获取流程 step
     - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
@@ -120,7 +155,7 @@
 - # ABB MBGAS3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体
-            - 气体池 - [[gas cell module]] (long path) 气室
+            - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器
             - sample gas cell
             - [加热带]-[[heater]] 200W 120V
             - 多反射测量池 (multiple reflection) -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p18

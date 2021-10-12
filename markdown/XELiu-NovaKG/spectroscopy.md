@@ -28,7 +28,12 @@
 - [[wavenumber accuracy]]
 - 在线光谱分析 
 - ---
-- 电磁辐射与物质的相互作用，作为波长或频率的函数-气相物质对可见光分光的吸收对波长的依赖关系
+- Spectroscopy is the study of [the interaction between matter and electromagnetic radiation](((-cguDKDJx))) [as a function of the wavelength or frequency of the radiation](((vRfAwVlfR))).[1][2][3][4][5][6] In simpler terms, spectroscopy is the precise study of color as generalized from visible light to [all bands of the electromagnetic spectrum]([[electromagnetic spectrum]]); indeed, historically, spectroscopy originated as the study of [the wavelength dependence of the absorption] by [[gas phase matter]] of visible light [dispersed by a prism]. Matter waves and acoustic waves can also be considered forms of [[radiative energy]], and recently [[gravitational wave]]s have been associated with a [[spectral signature]] in the context of the [[Laser Interferometer Gravitational-Wave Observatory (LIGO)]].
+210704-11:02
+    - Spectroscopy, primarily in the electromagnetic spectrum, is a fundamental [exploratory tool] in the fields of physics, chemistry, and astronomy, allowing the composition, physical structure and [electronic structure] of matter to be investigated at the atomic, molecular and macro scale, and over astronomical distances. Important applications arise from [[biomedical spectroscopy]] in the areas of [[tissue analysis]] and [[medical imaging]].
+(物质的组成成分、物理结构、电子结构)
+210704-11:14
+    - An example of spectroscopy: a prism analyses white light by dispersing it into its [component colors].
 - Introduction
     - Spectroscopy and [[spectrography]] are terms used to refer to the measurement of [[radiation intensity]] [as a function of wavelength](((vRfAwVlfR))) and are [often used to describe] [experimental spectroscopic methods]. [Spectral measurement devices] are referred to as [[spectrometer]]s, spectrophotometers, spectrographs or spectral analyzers.
     - [Daily observations of color] can be related to spectroscopy. [[Neon lighting]] is a direct application of [[atomic spectroscopy]]. Neon and other [[noble gas]]es have [characteristic emission frequencies (colors)]([[characteristic emission frequency]]). Neon lamps use [collision of electrons with the gas] to [excite these emissions]. Inks, dyes and paints include chemical compounds selected for their [[spectral characteristics]] in order to [generate specific colors] and hues. A [commonly encountered] [[molecular spectrum]] is that of [[nitrogen dioxide]]. [Gaseous nitrogen dioxide] has a [characteristic red absorption feature], and this gives [air polluted with nitrogen dioxide] a [reddish-brown color]. [[Rayleigh scattering]] is a [spectroscopic scattering phenomenon] that [accounts for the color of the sky].
@@ -49,23 +54,6 @@
     - Main article: History of spectroscopy
     - The history of spectroscopy began with Isaac Newton's [optics experiments] (1666–1672). According to Andrew Fraknoi and David Morrison, "In 1672, in the first paper that he submitted to the [[Royal Society]], Isaac Newton described an experiment in which he [permitted sunlight to pass through a small hole] and then through a [[prism]]. Newton found that sunlight, which looks white to us, is actually made up of [a mixture of all the colors of the rainbow]."[19] Newton applied the word "spectrum" to [describe the rainbow of colors] that [combine to form white light] and that are revealed when the [[white light]] is passed through a prism.
     - Fraknoi and Morrison state that "In 1802, William Hyde Wollaston built an improved spectrometer that included a lens to focus the Sun's spectrum on a screen. Upon use, Wollaston realized that the colors were not spread uniformly, but instead had missing patches of colors, which appeared as dark bands in the spectrum."[19] During the early 1800s, Joseph von Fraunhofer made experimental advances with dispersive spectrometers that enabled spectroscopy to become a more precise and quantitative scientific technique. Since then, spectroscopy has played and continues to play a significant role in chemistry, physics, and astronomy. Per Fraknoi and Morrison, "Later, in 1815, German physicist Joseph Fraunhofer also examined the solar spectrum, and found about 600 such dark lines (missing colors), are now known as Fraunhofer lines, or Absorption lines."[19][better source needed]
-- ---
-- 光源/照明系统
-    - [He-Ne Laser]([[helium–neon laser]])
-    - 能斯特灯 -- [稀土氧化物][加压成型] -- 2-25μm
-    - 硅碳棒--功率200-400W，波长2-30μm，寿命大于1000h。
-    - 氧化铝棒-铹丝电极-30W
-    - 陶瓷光源，抛物面反射体。
-        - 密封隔爆
-        - 为增加寿命，内部填充特殊气体。
-- 色散/分光型
-    - 光源-样品-分光器/分光系统-检测器-光谱图
-    - 单色光
-- 非分光红外气体分析仪 (NDIR) -- 1~15 μm
-- 调制型
-    - [[Fourier-transform infrared spectroscopy (FTIR)]]
-- 探测接收系统
-- 传输存储显示系统
 - ---
 - [光谱仪器]是进行[光谱研究]和[物质结构分析]，利用[光学色散原理]及[现代先进电子技术]设计的[光电仪器]。
     - 光谱仪的[基本作用]：测量[被研究光]（[所研究物质]反射、吸收、散射或[受激发的荧光]等）的[光谱特性]，包括波长、强度等[谱线特征]。

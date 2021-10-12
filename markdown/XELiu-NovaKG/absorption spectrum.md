@@ -6,12 +6,19 @@
                 - 谱图解析 -- 谱图库搜索与对比算法
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1T8RWuQHrq.png?alt=media&token=66ca1e77-28e4-43ce-97bf-3cc25dad8a86)
             - 峰强度：定量 -- 依照[特征吸收峰的强度]来测定混合物中[各组分的含量]。
-        - 不同气体分子的[特征吸收波长] (指纹) - AO2000-URAS26培训教程.pdf p21
-            - CO 4.72 μm
-            - CO2 4.25 μm
-            - CH4 3.45 μm
-            - NO 5.3 μm
-            - SO2 7.3 μm
+        - [红外吸收光谱]也称为[分子振动光谱]。当某一波长红外 辐射的能量恰好等于某种分子[振动能级]的能量之差 时，才会被该种分子吸收，并产生相应的[振动能级跃迁]，这一波长便称为[该种分子的][特征吸收波长]。
+            - 不同气体分子的[特征吸收波长] (指纹) - AO2000-URAS26培训教程.pdf p21
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FlzI2pid30P.jpg?alt=media&token=ebeaa9eb-7414-4c01-ba27-ac1f5ed887ad)
+                - CO 4.72 μm
+                - CO2 4.25 μm
+                - CH4 3.45 μm
+                - NO 5.3 μm
+                - SO2 7.3 μm
+            - 所谓 特征吸收波长是指[吸收峰处的波长]([中心吸收波长]) ，从图3-2中 可以看出，在特征吸收波长附近，[有一段][吸收较强的][波长范围]，这是 由于分子振动能级跃迁时，[必然伴随有][分子转动能级的跃迁]，即振动 光谱必然伴随有转动光谱，而且[相互重叠]。
+                - 因此，[红外吸收曲线]不是[一条简单的锐线]，而是[一段连续的]但[较窄的吸收峰]。[这段波长范围]可称为“特征吸收波带” 。
+                - 表3-1 几种气体分子的特征吸收波带范围
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FLp67h5fBLh.png?alt=media&token=cce7724e-4688-4363-b9b0-5d9564926661)
+                    - 注：[表中仅列举了][红外线气体分析器]中[常用到的][吸收较强的][波带范围]。
         - 各测量气体的红外光谱图-光谱范围及对应的气体吸收峰
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_zjQaOoEZa.png?alt=media&token=c2002790-321b-428a-932e-d1492ee4a6f9)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F6doyL7PMoP.png?alt=media&token=459d7e49-4472-460b-b6f6-daf3228a671a)
@@ -19,4 +26,4 @@
             - Flue gas spectrum without H2O and CO2 -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p30
             - CH4 对 HCl 的干扰图 p31
     - absorption line; 吸收线
-- 色散/分光型
+- 色散/分光型 -- 单色光
