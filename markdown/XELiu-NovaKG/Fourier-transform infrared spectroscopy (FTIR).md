@@ -79,8 +79,12 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FHyCxOFoFup.png?alt=media&token=be9df631-04e3-4547-b409-4dd2a9a7696e)
         - How we can [scale the base-line] ??? -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p14
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
-- 光谱图
+- 干涉图-光谱图
     - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图]([[interferogram]])**[光强信号]**[输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
+- 检测器
+    - 气动检测器
+        - 薄膜电容检测器
+            - 由[薄膜微音器]和前、后两个[吸收室]组成。薄膜微音器是以[金属箔]为[动极]，[金属圆柱体]为定极所构成的电容器。薄膜材料为特殊合金，其厚度通常为5～8μm；定极与薄膜间的距离为0.1～0.03mm，电容量为40～100pF 。前后两吸收室内充待测气体并被长期封在其中，吸收室是发生光能量吸收的场所，两个辐射吸收室之间用电容器动极隔开。前吸收室吸收谱带中心能量，而后吸收室吸收余下两侧能量 。薄膜电容检测器是红外气体分析仪，长期使用的传统检测器，目前使用仍然较多。它的特点是温度变化影响小、选择性好、灵敏度高，但必须密封，按交流调制方式工作。其缺点是薄膜易受机械振动的影响，调制频率不能提高，放大器制作比较困难，体积较大等。
 - FTIR 光谱获取流程 step
     - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
