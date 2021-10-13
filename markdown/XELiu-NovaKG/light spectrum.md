@@ -24,7 +24,7 @@
 - ultraviolet; [[ultraviolet light]]; ultraviolet radiation - 200~380 nm
     - UV lamp;
     - [[vacuum ultraviolet (VUV)]]
-- [[visible light]]; visible frequency; visible-frequency; visible spectrum; visible band; visible range; [[visible region]] - 380~780 nm 
+- [[visible light]]; visible frequency; visible-frequency; [[visible spectrum]]; visible band; visible range; [[visible region]] - 380~780 nm 
 - non-visible band;
 - [[radio wave]]
 - [[radio frequency]] - (m)

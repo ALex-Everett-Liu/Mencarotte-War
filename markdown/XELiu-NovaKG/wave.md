@@ -31,7 +31,7 @@
     - the direction of the oscillations
     - oscillation cycle
     - period
-    - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion 
+    - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion; [[harmonic oscillator]] 
         - fixed point
         - fixed time
             - snapshot

@@ -40,8 +40,6 @@
 - Newtonian physics
 - position
     - [[relative position]];
-- [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion
-    - [[harmonic wave]]; [[sine wave]]
 - [[theoretical mechanics]]
     - [[analytical mechanics]]
     - [[Hamiltonian mechanics]]
@@ -52,3 +50,6 @@
         - [[constant velocity motion]]; [[constant speed]]
         - stationary; still
 - [[vibration]]
+    - [[resonance]]
+    - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion; [[harmonic oscillator]]
+        - [[harmonic wave]]; [[sine wave]]

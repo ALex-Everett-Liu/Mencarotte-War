@@ -1,3 +1,4 @@
+- [[reciprocal centimeter]]
 - [波数]([[wavenumber]]) $$\sigma=10000 / \lambda \cdot \mathrm{cm}^{-1}$$ (lambda[μm]*n[cm^-1]=10000)
 - ---
 - In the [physical sciences], the wavenumber (also [[wave number]] or repetency[1]) is the [[spatial frequency]] of a wave, measured in [cycles per unit distance] 周期 or [radians per unit distance]. 弧度 Whereas [[temporal frequency]] [can be thought of] as the number of waves [[per unit time]], wavenumber is the number of waves [[per unit distance]].

@@ -5,5 +5,9 @@
 - United States customary system
 - length, distance...
     - [[inch]]
-    - [[nanometer]]
+    - meter
+        - [[centimeter]] cm
+            - [[reciprocal centimeter]] cm^-1
+        - [[micrometer]] μm
+        - [[nanometer]] nm
 - length record...

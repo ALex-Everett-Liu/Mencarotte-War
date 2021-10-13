@@ -1,6 +1,19 @@
 - [[energy level transition]]
     - [[electron transition]]
+- [[ground state]]
+- [[low-frequency mode]]; low frequency vibrations
+- [[normal mode]]
+- rotational energy level
+    - [[rotational mode]]
+- [[rotational–vibrational spectroscopy]]
 - [[vibrational energy level]]; [[vibrational spectroscopy]]
+    - [[fundamental vibration]]
+    - [[intermolecular vibration]]
+    - [[molecular vibration]]
+    - [[overtone]]
+    - [[vibrational degrees of freedom]]
+    - [[vibrational mode]]; [[vibrational frequency]]
+    - [[vibronic coupling]]: 电子振动耦合
 - ---
 - [A quantum mechanical system or particle] that is [bound]([[bound system]])—that is, [confined spatially](((of4TUG4vy)))—can only take on certain [[discrete value]]s of energy, called energy levels. This contrasts with [[classical particle]]s, which can have [any amount of energy]. [The term is commonly used for] the energy levels of [the electrons in atoms], ions, or molecules, which are bound by [the electric field of the nucleus](((9Gt5z4_Jb))), [but can also refer to] [energy levels of nuclei](((GnzISWLMe))) or [[vibrational energy level]] or [[rotational energy level]]s in molecules. The [[energy spectrum]] of a system with such [discrete energy levels] is said to be [[quantized]].
 210918-11:00

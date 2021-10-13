@@ -1,6 +1,6 @@
 - 1.1 [分子内部能级]
     - 共价键
-    - Born-Oppenheimer approximation
+    - [[Born–Oppenheimer approximation]] (Born-Oppenheimer approximation)
         - 平动能+转动能+振动能+电子能
             - 分子的平移运动可以连续变化，不是量子化的
             - 分子的量子化能级

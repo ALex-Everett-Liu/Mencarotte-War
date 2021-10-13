@@ -1,1 +1,5 @@
 - calculating the energy of molecules;
+- [[linear molecule]]
+- [[nonlinear molecule]]
+- [[molecular geometry]]
+- [[molecular structure]]

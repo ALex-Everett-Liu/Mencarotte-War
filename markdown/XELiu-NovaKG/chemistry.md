@@ -11,7 +11,7 @@
 - [[atmospheric pressure]]
 - [[biochemistry]]
 - [[boiling point]]
-- [[chemical bonding]]
+- [[bond]]; [[chemical bonding]]
 - [[chemical compound]]; [[chemical substance]]
 - [[chemical element]]
     - isotope: 同位素
@@ -25,6 +25,8 @@
 - [[compound]]
 - [[computational chemistry]]; computer chemistry
 - [[concentration]]
+- dilution: 稀释
+    - diluteness; 
 - dose
     - dose liquid and gas; 
 - [[evaporation]]

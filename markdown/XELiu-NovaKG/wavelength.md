@@ -1,6 +1,5 @@
 - [[free-space wavelength]]
 - [[wavenumber]]
-- ^^energy-wavelength-wavenumber corresponding^^
 - ---
 - ^^energy-wavelength-wavenumber corresponding^^
     - ![](local-asset://Minimum-Workflow/rA2aPmLBF6.png)

@@ -1,0 +1,2 @@
+- bond strength;
+- [[covalent bond]]

@@ -16,7 +16,7 @@
 - [[spectral characteristics]]; [[spectral signature]]
 - [[spectral line]]
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method
-- [[spectrophotometry]]: 分光光度测定法
+- [[spectrophotometry]]: 分光光度测定法; [[spectrophotometer]]: 分光光度计
 - transmission; [[transmittance]] 
     - [[light attenuation]]; [[attenuation]]; [[extinction]]: 消光; 
         - [[attenuation constant]]
