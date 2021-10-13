@@ -3,6 +3,7 @@
     - [[emission spectrum]]
 - radiate energy; [[radiative energy]]; [[radiant power]]
     - radiate energy out to infinity; 
+- radiating field; 
 - [[thermal radiation]]
     - [[thermal electromagnetic radiation]]
         - [[black-body radiation]]; [[blackbody radiation]]

@@ -12,7 +12,7 @@
 - [[biochemistry]]
 - [[boiling point]]
 - [[chemical bonding]]
-- [[chemical compound]]
+- [[chemical compound]]; [[chemical substance]]
 - [[chemical element]]
     - isotope: 同位素
     - isomer: 异构体
@@ -28,6 +28,7 @@
 - dose
     - dose liquid and gas; 
 - [[evaporation]]
+- [[functional group]]
 - [[hydrocarbon]]
 - [[inert gas]]; [[inert compound]]
 - [[ion]]

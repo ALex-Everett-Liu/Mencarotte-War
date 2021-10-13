@@ -1,4 +1,5 @@
 - [[background spectrum]]; [[reference spectrum]] 
+    - [[sample spectrum]];
 - [[broad band]]; broad selectivity
 - continuous spectrum; 连续光谱
     - 白光

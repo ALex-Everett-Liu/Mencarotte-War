@@ -22,6 +22,7 @@
     - gas flow chart: 气路流程图;
     - high concentration sample gas;
 - [[sampling rate]]
+- [[sample spectrum]];
 - [[sampling system]]: 采样/取样系统; 采样分析状态
     - [[automatic sampling]]
     - extractive system-抽取式取样
