@@ -1,3 +1,5 @@
+- [[gas sensing]]
+- ---
 - # 何谓气体传感器　～气体传感器的检测原理～
     - world leader in [[gas sensing]] [innovation](https://www.figaro.co.jp/cn/technicalinfo/principle/ndir-type.html)
     - [所谓]气体传感器，是一种[可以检查出][目视不到的气体存在]的[传感装置]。在以[家用天燃气]·[丙烷气体][报警器]为主的空调与[空气洁净器]、汽车[等领域][广泛得到应用]。现在对[我公司最擅长的]4种[气体检测原理]进行说明。

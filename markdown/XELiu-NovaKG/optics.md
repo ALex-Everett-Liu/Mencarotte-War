@@ -2,7 +2,7 @@
     - [[focus light]]; squeeze light; concentrating fields
     - transport light
 - filter?
-    - [[滤光片]]
+    - [[optical filter]]; light filter
 - general...
     - capture light
     - [[light distribution]]

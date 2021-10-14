@@ -1,5 +1,6 @@
 - IR active;
 - [[infrared-transparent window]]
+- [[nondispersive infrared sensor (NDIR)]]; [[non-dispersive infrared gas sensor]]
 - ---
 - For a table of IR spectroscopy data, see [[infrared spectroscopy correlation table]].
 - Infrared spectroscopy (IR spectroscopy or [[vibrational spectroscopy]]) is the measurement of [the interaction of infrared radiation with matter] by absorption, emission, or reflection. [It is used to study] and [identify chemical substances]([[chemical substance]]) or [[functional group]]s in solid, liquid, or [gaseous forms]. The method or technique of infrared spectroscopy is [conducted with an instrument] called an [[infrared spectrometer]] (or [[spectrophotometer]]) which produces an [[infrared spectrum]]. 
@@ -47,7 +48,7 @@
     - ? 但这种窄带干涉滤光片的分光不同于[光栅系统]的分光，它不能形成[连续光谱]，只能对[某一特定波长附近的][狭窄波带][进行选通]，因此我们将 其称为 固定分光型 (CDIR) 仪器，以别于[连续分光型]仪器。
     - ? 这种分光型仪器的[选择性]较[不分光型][明显提高]，[可以避开][不同组分吸收峰的交叉部分]，但由于其[通带很窄]，透过率不高，所以[到达检测器的光][能量小]，灵敏度较低。
 211012-11:26
-- 非分光红外气体分析仪 (NDIR) -- 1~15 μm
+- [非分光红外气体分析仪 (NDIR)]([[nondispersive infrared sensor (NDIR)]]) -- 1~15 μm
     - 光源发出的[连续光谱][全部都投射到][被测样品]上，[待测组分]吸收其[特征吸收波带]的红外光。
     - ? 由于[待测组分]的吸收[不仅限于某一波长]，而是一个吸收峰，在连续光谱范围 内，待测组分又[往往不止一个吸收峰]，因而就 NDIR 的[检测方式]来说[具有积分性质]。因此[不分光型仪器]的[灵敏度]比[分光型][高得多]，并且具有[较高的信噪比] 和[良好的稳定性]。
     - ? [其主要缺点是]待测样品[各组分间][有交叉的吸收峰]时，会给测量[带来干扰]，或者说其[选择性较差]([[selectivity]])。

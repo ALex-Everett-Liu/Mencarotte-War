@@ -1,6 +1,10 @@
 - [[background spectrum]]; [[reference spectrum]] 
     - [[sample spectrum]];
-- [[broad band]]; broad selectivity
+    - [[reference gas]]
+- [[bandwidth]]
+    - [[broad band]]; broad selectivity
+        - broadband light source
+    - narrow band spectral region;
 - continuous spectrum; 连续光谱
     - 白光
         - 多色混合光

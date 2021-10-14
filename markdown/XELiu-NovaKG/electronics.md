@@ -9,6 +9,7 @@
     - [[integrated circuit]]
     - [[logic gate]]
     - [[microcontroller]]; [[controller]]
+    - [[microelectromechanical systems (MEMs)]]
     - [[Moore's Law]]; [Moore’s Law]
 - [[nanoelectronics]]
 - [[quantum electronics]]

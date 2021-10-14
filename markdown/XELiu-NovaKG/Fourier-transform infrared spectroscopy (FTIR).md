@@ -1,6 +1,6 @@
 - kw
     - [[commissioning]]: 试运行
-    - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]] -- [[sample cell]]
+    - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]] -- [[sample cell]]; [[sample chamber]]: 气体室;
     - [[purge gas]]: 吹扫气体
     - [[scan time]]; [[scan-time]]
 - ---
@@ -383,3 +383,10 @@ O2：25%；
     - 光谱分析法：利用物质与电磁辐射作用时，[物质内部]发生[量子化能级跃迁]而产生的吸收、发射或散射辐射等[电磁辐射的强度][随波长变化]的[定性、定量分析方法]。
     - 连续光的干涉图形成
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAdEe7iwV2O.png?alt=media&token=b1d854aa-271a-443c-bf9a-949d30c7209d)
+- ---
+- Gasmet Products
+    - ## How FTIR works?
+        - All molecules can be identified by their characteristic absorption spectrum because each molecule absorbs infrared radiation at its characteristic frequencies. Every molecular structure has a unique combination of atoms, and therefore produces a unique spectrum when exposed to infrared light. Even molecules with the same number of atoms in different positions can be distinguished. The only exceptions are diatomic elements such as O2 and noble gases, which do not absorb in the IR. IR absorption spectrum can be thought of as a fingerprint unique to each molecule.
+        - ### Difference between IR Technologies
+            - [Non-Dispersive IR instruments (NDIR)]([[nondispersive infrared sensor (NDIR)]]) measure only [separate wavelength bands], no information from [other parts of the spectrum]. [Only one component can be analyzed] [from a single measurement] and [interference cannot be compensated].
+            - Fourier Transform Infrared (FTIR) spectrometer [measures all the IR wavelengths simultaneously] and [produces a full spectrum]. All components can be analyzed from a single measurement and interferences are resolved.

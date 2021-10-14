@@ -16,6 +16,7 @@
 - [[lubricant]]: 润滑剂 
 - [[mechanical]]; [[mechanical system]]
 - [[electro-mechanical]]: 机电式 
+    - [[microelectromechanical systems (MEMs)]]
 - [[machine industry]]
     - [[process control]]; [[process control system]]
 - [[machine operation]]
