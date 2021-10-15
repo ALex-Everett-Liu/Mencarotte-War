@@ -53,11 +53,6 @@
 - ---
 - 探测接收系统
     - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-[[A/D converter]]; [[D/A converter]]
-        - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
-            - [不同导体][构成回路]时的[温差电现象]，由[涂黑金箔][接受红外辐射]；
-            - TGS：[硫酸三苷肽单晶]为[热检测元件]；[极化效应][与温度有关]，[温度高][表面电荷减少] (热释电)；响应速度快(1 μs)；高速扫描；wavelength (2-1000 μm)
-                - 氘代硫三甘肽 (DTGS)
-            - 碲镉汞(MCT)检测器：需在[液氮低温下]工作，但[灵敏度]比TGS[高30倍], 响应时间(1μs), 波长(0.8-40μm) 。
     - [[signal processing]] -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p26
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9bPnQHWTkG.png?alt=media&token=1e22d25d-c965-481b-9e41-ef61bae9e49b)
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
@@ -135,6 +130,11 @@ __缺点：易受温度影响__
             - 半导体检测器的结构简单、成本低、体积小、寿命长、响应迅速。它与[窄带干涉滤光片](((h5qpQpjvS)))[配合使用]，[可以制成][通用性强]、[快速响应]的[红外检测器]，改变[被测组分]时，[只需改换][干涉滤光片]的[透过波长]和[仪器显示]即可。[其缺点是]半导体元件的[特性](特别是[灵敏度])[受温度变化影响大]
         - 热释电检测器
             - [热电检测器]是基于[光辐射作用的热效应原理]的[一类检测器]，包括利用[温差电效应]制成的[测辐射热电偶]或[热电堆]，利用物体体电阻[对温度的敏感性]制成的测辐射[热敏电阻]检测器、以[热电晶体]的[热释电效应]为根据的热释电检测器。这类检测器的[共同特点]是：无选择性检测（对[所有波长]光辐射有[大致相同的][检测灵敏度]），[响应速度]比[光子检测器]低，检测灵敏限[也较低]
+            - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
+                - [不同导体][构成回路]时的[温差电现象]，由[涂黑金箔][接受红外辐射]；
+                - TGS：[硫酸三苷肽单晶]为[热检测元件]；[极化效应][与温度有关]，[温度高][表面电荷减少] (热释电)；响应速度快(1 μs)；高速扫描；wavelength (2-1000 μm)
+                    - 氘代硫三甘肽 (DTGS)
+                - 碲镉汞(MCT)检测器：需在[液氮低温下]工作，但[灵敏度]比TGS[高30倍], 响应时间(1μs), 波长(0.8-40μm) 。
 - FTIR 光谱获取流程 step
     - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
