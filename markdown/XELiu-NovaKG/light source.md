@@ -1,19 +1,23 @@
 - additional light source
 - broadband light source
 - [[coherent light source]]
+- direct the light at a sample;
 - [[incident light]]; [[incident beam]]
 - [[light beam]]
-- monochromatic beam; [[monochromatic light beam]]; monochromatic light source
+- [[monochromatic light]]; monochromatic beam; [[monochromatic light beam]]; monochromatic light source
+    - tunable monochromatic light;
 - object illumination source
 - single incident beam
 - [[synchrotron radiation]]
     - [[third-generation synchrotron radiation source]]
+- [[white light]]
 - ---
 - 光的发射
     - 热辐射/温度辐射 - 白炽灯
     - 电致发光
         - 电弧; 气体辉光放电管
     - 荧光
+        - [[fluorometer]]: 荧光测定计, 氟量计;
         - 磷光
         - 化学发光 - 鬼火
         - 生物发光

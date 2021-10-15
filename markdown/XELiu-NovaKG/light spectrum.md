@@ -2,9 +2,9 @@
     - [[sample spectrum]];
     - [[reference gas]]
 - [[bandwidth]]
-    - [[broad band]]; broad selectivity
+    - [[broad band]]; broad selectivity; [[wide band]]
         - broadband light source
-    - narrow band spectral region;
+    - [[narrow band]]; narrow band spectral region;
 - continuous spectrum; 连续光谱
     - 白光
         - 多色混合光
@@ -33,6 +33,7 @@
 - [[radio wave]]
 - [[radio frequency]] - (m)
 - [[selective]]; [[selectivity]]
+    - select the wavelength;
 - [[single beam spectrum]]
 - wavelength band; spectral band; spectral range
 - [[X-ray]]; x-ray
