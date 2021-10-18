@@ -384,6 +384,7 @@ O2：25%；
     - 连续光的干涉图形成
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAdEe7iwV2O.png?alt=media&token=b1d854aa-271a-443c-bf9a-949d30c7209d)
 - ---
+- [[FT-IR vs. Dispersive Infrared - Theory of Infrared Spectroscopy Instrumentation]]
 - Gasmet Products
     - ## How FTIR works?
         - All molecules can be identified by their characteristic absorption spectrum because each molecule absorbs infrared radiation at its characteristic frequencies. Every molecular structure has a unique combination of atoms, and therefore produces a unique spectrum when exposed to infrared light. Even molecules with the same number of atoms in different positions can be distinguished. The only exceptions are diatomic elements such as O2 and noble gases, which do not absorb in the IR. IR absorption spectrum can be thought of as a fingerprint unique to each molecule.
