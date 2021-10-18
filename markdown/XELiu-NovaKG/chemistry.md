@@ -1,5 +1,6 @@
 - adsorbent: 吸附剂
 - [[analytical chemistry]]
+    - analytical technique; 
     - [[analyte]]: 被分析物
         - [[analyte molecule]]
         - [[gas analyte]]

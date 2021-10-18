@@ -8,8 +8,10 @@
 - [[characteristic emission frequency]]
 - [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计; 分光仪器; dispersive instrument
     - [[dispersive element]]
+    - [[grating spectrometer]]
+    - [[scanning spectrometer]]
 - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
-    - [[Fourier-transform infrared spectroscopy (FTIR)]]
+    - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR instrument
     - [[near-infrared spectroscopy (NIRS)]]
 - [[molecular spectrum]]
 - [[Raman spectroscopy]]
@@ -28,6 +30,7 @@
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]
 - wavelength dependence; as a function of wavelength
 - [[wavenumber accuracy]]; [[wavelength accuracy]]
+    - [[wavelength calibration]]
     - [[wavelength scale]]: 波长标度
 - 在线光谱分析 
 - ---

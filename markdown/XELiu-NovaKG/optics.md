@@ -58,6 +58,7 @@
     - [[optical component]]
         - [[beamsplitter]]; [[beam splitter]]
             - KBr beamsplitter
+        - [[chopper]]: 斩波器; 遮光器; 截断器, 断路器;
     - [[optical device]] 
 - [[photonics]]
     - [[grating]]

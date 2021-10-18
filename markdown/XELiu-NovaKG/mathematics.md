@@ -5,6 +5,7 @@
 - [[function]]
 - [[game theory]]
 - general...
+    - [[constant value]]
     - [[mathematical structure]]
     - [[non-negative]]
     - normalized

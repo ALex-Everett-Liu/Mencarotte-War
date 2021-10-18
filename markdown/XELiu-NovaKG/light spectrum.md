@@ -1,7 +1,7 @@
 - [[background spectrum]]; [[reference spectrum]] 
     - [[sample spectrum]];
     - [[reference gas]]
-- [[bandwidth]]
+- [[bandwidth]]; [[spectral bandwidth]]
     - [[broad band]]; broad selectivity; [[wide band]]
         - broadband light source
     - [[narrow band]]; narrow band spectral region;
