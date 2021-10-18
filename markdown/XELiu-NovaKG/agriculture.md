@@ -1,5 +1,6 @@
 - crop rotation
 - farming
+    - [[intensive farming]]
 - fishing
     - [[overfishing]]
 - harvest

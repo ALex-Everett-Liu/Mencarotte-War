@@ -1260,6 +1260,7 @@
                 - vastitude;
         - ve
             - ver
+                - versatile: 多用途的 
                 - versus
                 - vertex
                     - vertical
