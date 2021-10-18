@@ -10,3 +10,5 @@
     - Infrared point sensor
 - References
     - 
+- ---
+- [[Application of Non-Dispersive Infrared (NDIR) Spectroscopy to the Measurement of Atmospheric Trace Gases]]

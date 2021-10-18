@@ -1269,6 +1269,8 @@
                         - verifiable; [[verification]]
                         - unverified; verified;
                     - verity
+        - vi
+            - virtual: 事实上, 实质上, 有效地; 虚拟;
     - w
         - wa
             - ward
