@@ -391,3 +391,13 @@ O2：25%；
         - ### Difference between IR Technologies
             - [Non-Dispersive IR instruments (NDIR)]([[nondispersive infrared sensor (NDIR)]]) measure only [separate wavelength bands], no information from [other parts of the spectrum]. [Only one component can be analyzed] [from a single measurement] and [interference cannot be compensated].
             - Fourier Transform Infrared (FTIR) spectrometer [measures all the IR wavelengths simultaneously] and [produces a full spectrum]. [All components can be analyzed] from a single measurement and [interferences are resolved].
+- FTIR Spectroscopy -- [NanoFASE](http://nanofase.eu/show/element_1391)
+    - Fourier-transform infrared (FT-IR) spectroscopy is [a technique for estimating] [the infrared spectrum of emission], or of adsorption, of a compound. [The FTIR method] uses a "moving mirror" Michelson interferometer, rather than a diffraction grating, to [split the infrared radiation into] its frequencies. This method [captures all the incident infrared radiation] thus [providing very high energy]. The [moving mirror position]([[moving mirror]]) is referenced against a [[HeNe laser]] also [providing high frequency accuracy]([[wavenumber accuracy]]). The frequencies for a typical FTIR spectrometer range from about 8000 to 400 cm-1 (wavenumbers) which includes part of the near-infrared (NIR) and all of the mid-infrared (MIR). Because of this high energy throughput, MIR diffuse reflectance (DRIFT) spectroscopy becomes an efficient option for rapidly scanning powdered samples.
+(通过激光器来校准动镜的位置，使得波长准确性更精确)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F6Pd-op9ge1.jpg?alt=media&token=f550a4d7-6188-4cd2-a5e9-4f038e0ddb01)
+        - 1. The infrared beam is simply focussed onto or through the sample.
+        - 2. The reflected beam is split by the Michelson interferometer with one fixed and one moving mirror.
+        - 3. As the moving mirror changes position we get interference.
+        - 4. The position is referenced against a HeNe laser interference pattern.
+        - 5. Each wavelength contributes to the interference pattern.
+        - 6. The interferogram is then transformed with a Fourier Transform function to obtain a spectrum.
