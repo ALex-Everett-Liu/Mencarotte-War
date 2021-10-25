@@ -6,9 +6,9 @@
     - ...
 - roam diagram; 
 - BV1EU4y1772d
-- SF售后
-- 主题交流与请教
-- 被子 拖鞋 垃圾桶   透明胶带
+- work time
+    - SF售后
+    - 主题交流与请教
 - draft
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
     - 关于地域-我平生最大的愿望就是彻彻底底地毁灭全球贸易航线，半点不剩
@@ -26,7 +26,7 @@
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
         - 丝路大亨; 重生传奇; 吾家有妻骄养成; 替宋;; asmr .txt
         - 御姐; 
-    - 牙疼, 消炎药;; 苏伯, 海福盛;; sneaker 43码 42码; 擦鞋去污渍的喷雾;; 
+    - 牙疼, 消炎药;; 苏伯, 海福盛;; sneaker 43码 42码; 擦鞋去污渍的喷雾;; 透明胶带
     - wayback machine, archive.org;; 
         - https://archive.is/
     - ---
