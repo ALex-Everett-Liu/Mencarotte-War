@@ -32,6 +32,8 @@
             - 童贯[宣和北伐]前[一直反对]，不就是因为他[知道自己几斤几两]么。结果，他和[种师道][合兵]都打不赢[耶律大石]，还能说什么呢。
 - [[Tibet]]
 - Turk
+    - Ottoman Empire
+        - [[Turkey]]
     - [[Turkic language]]
     - [[Uygur]]; [[Uyghur]]
 - 西域; [[Tocharian]]
