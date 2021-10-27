@@ -1,0 +1,6 @@
+- dictionary
+    - [Climatic effects] due to [man-made perturbations] of atmospheric trace gases 大气微量/痕量气体 dict.cnki.net
+    - Measurement of atmospheric trace gases by [spectroscopic and chemical techniques]
+    - Atmospheric Trace Gases and [Global Greenhouse Effect]
+    - [The development of this model] [provides a useful tool to] study the [global cycle] and [long-term change] of atmospheric trace gases later.
+    - The effect of O_4 absorption on the measurement of atmospheric trace gases with [zenith-sky scattering light] observations 天顶

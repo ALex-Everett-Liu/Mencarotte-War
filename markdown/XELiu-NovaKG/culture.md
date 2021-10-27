@@ -1,6 +1,7 @@
 - [[communication and media]]; media communications; 传播学; 传媒...
 - [[festival]]; [[holiday]]
 - [[moral panic]]
+- [[mythology]]
 - [[popular culture]]
 - scene; scenery...
     - [[night sky]]

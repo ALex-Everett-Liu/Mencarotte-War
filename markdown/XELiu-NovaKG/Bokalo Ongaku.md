@@ -29,6 +29,7 @@
     - [[すりぃ (Three)]]
     - [[とあ (toa)]]
     - [[Treow（逆衝動P）]]
+    - [[有機酸 (yuukisan)]]
 - [[VOCALOID]]
     - [[巡音ルカ (Megurine Luka)]];
 - #inbox

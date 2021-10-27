@@ -5,4 +5,5 @@
     - [[wizard]]
     - 魔术师
         - [[magic wand]]
+- [[mythology]]
 - [[science fiction]]

@@ -4,6 +4,7 @@
         - [[India]]
 - Central Lands...
     - [[Arabia]]
+    - [[Egypt]]
 - [[Chinese history]]
 - early cilvilization?
     - [[city-state]]

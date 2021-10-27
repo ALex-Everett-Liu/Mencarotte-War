@@ -6,6 +6,7 @@
         - [[楚国 (Chu Kingdom)]]
         - [[晋国 (Jin State)]]
             - [[晋楚争霸]]
+        - [[秦国 (Qin State)]]; [[秦王朝 (Qin dynasty)]]
         - [[宋国 (Song State)]]
         - [[春秋时代 (Spring and Autumn period)]]
         - [[西周 (Western Zhou)]]
