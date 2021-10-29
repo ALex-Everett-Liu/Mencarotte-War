@@ -52,6 +52,8 @@
     - [[oxidation cycle]]
     - [[oxidize]]
 - waste
+    - [[hazardous waste]]
+    - [[solid waste]]
     - [[waste gas]]
     - [[waste handling]]
 - 检测标准; [[国家环境保护标准]]
