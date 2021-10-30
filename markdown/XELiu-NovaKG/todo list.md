@@ -2,6 +2,7 @@
     - garmin sync | 3d ||
     - buy 4T hdd, ssd | 1d || 23魔方, wegene | 1m ||
     - {{[[DONE]]}} 打疫苗 210701? 210715? or wait?? || from 210627 to 210828
+    - 衣物 -- 外套 秋裤 毛衣 秋衣 || from 210920 to 211025?
 - ---
 - quick
     - {{[[TODO]]}} [云闪付](https://bbs.saraba1st.com/2b/thread-2029438-1-1.html) #pt9-100

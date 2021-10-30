@@ -5,7 +5,7 @@
     - [[室韦 (Shiwei)]]
 - Northeast; Eastern barbarians; 東夷諸国
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
-    - [[濊貊 (Weimo)]]; 濊族
+    - [[濊貊 (Yemaek)]]; 濊族; Weimo
     - [[Korea]]
     - [[寇漫汗 (Koumanhan)]]
     - 食器; 俎豆
