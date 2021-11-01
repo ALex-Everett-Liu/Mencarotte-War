@@ -27,6 +27,7 @@
     - [[ryo (supercell)]]
     - [[ティースウィート (TeaSweet)]]
     - [[すりぃ (Three)]]
+    - [[てぃあら (tiara)]]
     - [[とあ (toa)]]
     - [[Treow（逆衝動P）]]
     - [[有機酸 (yuukisan)]]
