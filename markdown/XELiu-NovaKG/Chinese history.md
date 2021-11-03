@@ -9,6 +9,7 @@
         - [[秦国 (Qin State)]]; [[秦王朝 (Qin dynasty)]]
         - [[宋国 (Song State)]]
         - [[春秋时代 (Spring and Autumn period)]]
+        - [[战国时代 (Warring States)]]
         - [[西周 (Western Zhou)]]
         - map
             - 秦楚争霸晚期   # pt9-100
