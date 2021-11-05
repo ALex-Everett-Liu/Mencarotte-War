@@ -24,6 +24,7 @@
     - [[唐王朝 (Tang dynasty)]]
     - [[宋王朝 (Song dynasty)]]
 - The Third Empire of China
+    - [[元朝 (Yuan dynasty)]]
     - [[明王朝 (Ming dynasty)]]
     - [[清王朝 (Qing dynasty)]]
 - [[中国近代史]]

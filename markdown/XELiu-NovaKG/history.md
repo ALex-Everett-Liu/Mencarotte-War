@@ -1,3 +1,4 @@
+- [[Africa]]
 - Asia
     - [[Afghanistan]]
     - subcontinent; [[South Asian subcontinent]]
@@ -14,6 +15,7 @@
 - general...
 - [[historian]]
 - [[historical geography]]
+- [[industrial revolution]]
 - [[Inner Asia]]
     - [[Japan]]
 - [[nomad]]; 遊牧民族; 騎馬民族 (kiba minzoku)
