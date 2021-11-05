@@ -13,7 +13,8 @@
 - [[biochemistry]]
 - [[boiling point]]
 - [[bond]]; [[chemical bonding]]
-- [[chemical compound]]; [[chemical substance]]
+- [[chemical composition]]
+- [[chemical compound]]; [[chemical substance]]; 
 - [[chemical element]]
     - isotope: 同位素
     - isomer: 异构体

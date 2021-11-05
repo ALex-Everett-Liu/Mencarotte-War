@@ -1,3 +1,4 @@
+- [[analytical expression]]: 解析表达式
 - [[approximation]]
     - [[accuracy]]; [[accurate]]
     - first approximation

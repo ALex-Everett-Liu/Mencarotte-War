@@ -3,3 +3,4 @@
 - [[binocular]]: 双筒望远镜
 - [[Hubble Space Telescope]]
 - [[monocular]]
+- [[radio telescope]]

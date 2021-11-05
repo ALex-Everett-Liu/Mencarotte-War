@@ -4,6 +4,8 @@
     - 2d grid
 - [[model]]; [[modelling]]
     - [[formal model]]
+- [[numerical method]]
+    - [[analytical expression]]: 解析表达式
 - [[simulation]]
 - 3-D structure
 - 2D geometric model

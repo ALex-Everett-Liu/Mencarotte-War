@@ -18,7 +18,9 @@
 - infinite spectrum
 - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
     - [[far-infrared range]];
+        - [[far infrared spectroscopy]]
     - Near-Infrared (NIR); near-infrared light
+        - [[near-infrared spectroscopy (NIRS)]]
     - infrared-passing filter
     - IR source; [[infrared source]]
     - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]

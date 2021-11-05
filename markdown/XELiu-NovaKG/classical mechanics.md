@@ -1,4 +1,5 @@
 - [[centrifugal force]] 离心力; [[centripetal force]] 向心力
+    - [[centrifugal distortion]]: 离心畸变
     - [[spinning motion]]; rotating motion
         - uniform spinning motion
 - [[classical physics]]

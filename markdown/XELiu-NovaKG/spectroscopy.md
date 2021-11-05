@@ -11,8 +11,7 @@
     - [[grating spectrometer]]
     - [[scanning spectrometer]]
 - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
-    - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR instrument
-    - [[near-infrared spectroscopy (NIRS)]]
+- [[microwave spectroscopy]]
 - [[molecular spectrum]]
 - [[Raman spectroscopy]]
 - [[light scattering]]; [[wave scattering]]
