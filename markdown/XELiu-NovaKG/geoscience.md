@@ -1,5 +1,6 @@
 - [[atmosphere]]; [[atmospheric science]]
 - [[climate]]
+    - [[global warming]]
     - [[season]]
     - [[weather]]
 - [[geography]]

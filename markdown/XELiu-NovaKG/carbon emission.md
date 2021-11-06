@@ -1,0 +1,6 @@
+- dictionary
+    - [We all need to] [look for ways to] reduce our [carbon footprint]. 《柯林斯高阶英汉双解学习词典》
+    - This could [provide a defence against] future [emissions regulations] or perhaps help it [grab green subsidies]. 帮助美国铝业拿到[绿色经济补贴] 百度翻译例句库
+    - Politicians may tackle polluters while scientists [do battle with] carbon emissions. 六级真题- 2015年 12月 3卷 信息匹配
+    - Despite mournful [polar bears] 悲剧 and charts showing [carbon emissions soaring], 飙升 [most people find it hard to believe that] [[global warming]] [will affect them personally]. 
+    - According to the [International Business Times], [electric car sales] are expected to increase as Volkswagen 大众 is still [recovering from its emissions scandal]. 六级真题- 2017年 12月 3卷 短文填空

@@ -5,7 +5,7 @@
     - [[indoor air quality]]
 - [[atmospheric trace gas]]
 - [[particulate matter]]; [[airborne particulate matter]]: 空气颗粒物
-- carbon emission; 
+- [[carbon emission]]; 
 - [[combustion]]
 - [[Continuous Emissions Monitoring Systems (CEMS)]]; [[continuous monitoring]]; [[emission monitoring]]
     - emission limit value; 
@@ -33,6 +33,7 @@
     - stationary pollution source; 固定污染源
     - [便携式](((RVT-MB2ge)))[烟气监测设备]
     - 烟气参数测量监测
+- [[global warming]]
 - [[greenhouse gas (GHG)]]; [[greenhouse gas emission]]
 - irrigation sprinkler system: 喷水灌溉系统
     - automatic irrigation sprinkler system;
