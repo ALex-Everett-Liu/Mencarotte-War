@@ -7,6 +7,7 @@
     - identity verification
     - [[readonly]]; read-only
     - [[user account]]
+    - [[VPN]]
 - [[cryptography]]
 - [[malicious]]; [[malicious behaviour]]
     - [[digital/virus]]

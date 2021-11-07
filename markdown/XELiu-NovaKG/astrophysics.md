@@ -4,6 +4,7 @@
     - [[star]]
         - [[planet]]
 - [[cosmology]]
-- [[chemical composition]]
+- [[interstellar space]]
+    - [[interstellar medium]]
 - [[space science]]
 - [[telescope]]; telescopic instrument
