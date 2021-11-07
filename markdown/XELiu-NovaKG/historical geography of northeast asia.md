@@ -14,7 +14,8 @@
 - [[辽东 (Liaodong)]]; [[辽东半岛 (Liaodong Peninsula)]]
     - [[辽阳行省 (Liaoyang province)]]
 - [[辽西 (Liaoxi)]]
-- Northeast China;
+- [[Northeast China]];
+    - 东北人; Han people in northeast china
 - [[弱水 (River Ruo)]]; [[黑龙江 (Heilong Jiang)]]; [[黑龙江水系]]; [[Amur River]]
     - [[胡里改路 (Huligai Lu)]]
     - [[水达达路 (Shuidada Lu)]]; 水鞑靼; usu irgen
