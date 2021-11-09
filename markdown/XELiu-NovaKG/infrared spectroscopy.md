@@ -34,6 +34,7 @@
         - The appropriate "reference" depends on the measurement and its goal. The simplest reference measurement is to simply remove the sample (replacing it by air). However, sometimes a different reference is more useful. For example, if the sample is a dilute solute dissolved in water in a beaker, then a good reference measurement might be to measure pure water in the same beaker. Then the reference measurement would cancel out not only all the instrumental properties (like what light source is used), but also the light-absorbing and light-reflecting properties of the water and beaker, and the final result would just show the properties of the solute (at least approximately).
 - ---
 - [[EL3020-URAS26]] 红外分析仪
+- [[AO2000-URAS26]]
 - 鉴定化合物和测定分子结构
     - [结构不同的]两个[化合物]，一定不会有相同的[红外光谱]。
 - ---
