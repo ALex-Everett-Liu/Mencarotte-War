@@ -10,8 +10,11 @@
     - [[鼻そうめんP (hanasoumenP)]]
     - [[はりー (harry)]]
     - [[はるまきごはん (harumaki gohan)]]
+    - [[一二三 (hihumi)]]
     - [[HoneyWorks]]
     - [[keeno]]
+    - 小川大輝
+        - [[by your side]]
     - [[koyori]] / 電ポルP (denporuP)
     - [[KulfiQ]]
     - [[黒うさP (kurousaP)]]
