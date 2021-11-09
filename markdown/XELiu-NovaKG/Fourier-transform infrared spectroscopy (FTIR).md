@@ -103,14 +103,25 @@ __缺点：易受温度影响__
             - [KBr](((J2JUtxEo1))) (易潮解，需要有[防潮措施])
             - 4）采用的 ZnSe 分束器，不吸潮，适合中国环境
         - 调制频率 分离不同波长的光
+- 干涉图-光谱图
     - [[interferogram]]: 干涉图 -- amplitude-position plot
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FHyCxOFoFup.png?alt=media&token=be9df631-04e3-4547-b409-4dd2a9a7696e)
         - How we can [scale the base-line] ??? -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p14
             - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
-- 干涉图-光谱图
     - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图]([[interferogram]])**[光强信号]**[输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
     - 干涉仪在[利用单色光时]，[检测器得到的信号]（干涉图）是随[动镜的运动时间]而变化的[一条余弦曲线]。[实际的红外光源]为[具有一定频谱（波数）宽度]的[连续分布的光源]，因而检测器得到的信号是[各单色光干涉图的叠加]。^^由于[零光程差时][各单色光强度]为最大值，^^[其余部位]则因[相长或相消干涉][强弱不同]而互相抵消，他们[加合的结果]是[形成一个][中心极大]并[向两边迅速衰减]的[对称干涉图]。
         - An FTIR interferogram. The central peak is at the ZPD position ("[[zero path difference]]" or [[zero retardation]]), where [the maximal amount of light] passes through the interferometer to the [[detector]].
+    - 连续光的干涉图形成
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAdEe7iwV2O.png?alt=media&token=b1d854aa-271a-443c-bf9a-949d30c7209d)
+    - 对于单色光： δ = n·λ (n=0,1,2,…)，信号最强； δ = n·λ/2 (n=1,3,5,…)，信号最弱
+        - [检测器所检测][信号图]如下：横坐标为光程差，纵坐标为光强
+        - I(δ) = B(ν) cos (2 π ν δ) -- 上式即为波数为ν的单色光的[干涉图方程]。参数B(ν)代表[经仪器特性修正后的]波数为ν[单色光光强]。
+            - 数学上I(δ)被称为B(ν)的 [cosine Fourier transform]。光谱从干涉图I(δ)的 [cosine 逆变换][计算得到]。这就是傅里叶变换红外光谱的来源。
+        - 单色光的[余弦干涉波形式][非常有用]，它给出[对动镜精确地追踪]。
+
+        - [FT-IR 光谱仪] 使用 [He-Ne 激光]([[He-Ne laser]])[发射的单色光][对动镜定位]。
+
+        - 在激光干涉图经过零位时，采集红外数据点，得到红外干涉图。
 - 特点
     - 信噪比高 -- [傅里叶变换红外光谱仪]所用的[光学元件]少，没有[光栅]或[棱镜分光器]，降低了[光的损耗]，而且通过干涉[进一步增加了光的信号]，因此[到达检测器的辐射]强度大，信噪比高。
     - 重现性好 -- 傅里叶变换红外光谱仪采用的[傅里叶变换][对光的信号进行处理]，避免了[电机驱动光栅分光]时[带来的误差]，所以[重现性]比较好，[扫描速度]快。
@@ -382,8 +393,6 @@ O2：25%；
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx
     - 光谱分析法：利用物质与电磁辐射作用时，[物质内部]发生[量子化能级跃迁]而产生的吸收、发射或散射辐射等[电磁辐射的强度][随波长变化]的[定性、定量分析方法]。
-    - 连续光的干涉图形成
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAdEe7iwV2O.png?alt=media&token=b1d854aa-271a-443c-bf9a-949d30c7209d)
 - ---
 - [[FT-IR vs. Dispersive Infrared - Theory of Infrared Spectroscopy Instrumentation]]
 - Gasmet Products
