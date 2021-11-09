@@ -1,5 +1,6 @@
 - general...
     - insulated enclosure
+- [[heat energy]]
 - laws of thermodynamics; 热力学三定律
     - [[absolute zero]]
     - [[the second law of thermodynamics]]

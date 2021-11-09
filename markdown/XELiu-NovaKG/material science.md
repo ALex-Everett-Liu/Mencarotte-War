@@ -9,4 +9,5 @@
         - [[artificial material]]
 - [[plastic]]
 - [[polystyrene film]]; [[polystyrene]]
+- [[pyroelectric effect]]
 - [[rubber]]

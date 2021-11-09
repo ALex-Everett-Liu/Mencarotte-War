@@ -11,6 +11,7 @@
 - [[electric wire]]
 - [[power consumption]]
 - [[power line]]
+- [[power station]]
 - power system
     - #inbox
         - [有网友举例说][并不了网]，这个现象是存在的，不用说所谓的[自行发电]，就是[五大发电集团]也有过[机组][竣工多少年了]都[没取得入网资格]的事呢。我为啥在最后一句说的两个条件是钱以及[花钱的能力]呢，不就是这个意思么。
@@ -25,6 +26,7 @@
 
 赚钱是企业的，亏钱是社会的，哪儿有这么好的事。 #pt7-99.97
 - [[power supply]]
+- produce electricity; 
 - [[relay]]: 继电器
     - [[optical relay block]]
 - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管

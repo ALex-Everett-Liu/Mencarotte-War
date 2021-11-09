@@ -1,6 +1,6 @@
 - [[dispersive infrared spectrometer]]
 - [[far infrared spectroscopy]]
-- [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR instrument
+- [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument
 - [[near-infrared spectroscopy (NIRS)]]
 - [[nondispersive infrared sensor (NDIR)]]; [[non-dispersive infrared gas sensor]]
 - IR active;
@@ -33,7 +33,7 @@
         - [It is typical to] [record spectrum of] both the sample and a "reference". This step [controls for a number of variables], e.g. [[infrared detector]], which may [affect the spectrum]. The [reference measurement] [makes it possible to] [eliminate the instrument influence].
         - The appropriate "reference" depends on the measurement and its goal. The simplest reference measurement is to simply remove the sample (replacing it by air). However, sometimes a different reference is more useful. For example, if the sample is a dilute solute dissolved in water in a beaker, then a good reference measurement might be to measure pure water in the same beaker. Then the reference measurement would cancel out not only all the instrumental properties (like what light source is used), but also the light-absorbing and light-reflecting properties of the water and beaker, and the final result would just show the properties of the solute (at least approximately).
 - ---
-- EL3020-URAS26 红外分析仪
+- [[EL3020-URAS26]] 红外分析仪
 - 鉴定化合物和测定分子结构
     - [结构不同的]两个[化合物]，一定不会有相同的[红外光谱]。
 - ---
@@ -57,7 +57,7 @@
     - ? 由于[待测组分]的吸收[不仅限于某一波长]，而是一个吸收峰，在连续光谱范围 内，待测组分又[往往不止一个吸收峰]，因而就 NDIR 的[检测方式]来说[具有积分性质]。因此[不分光型仪器]的[灵敏度]比[分光型][高得多]，并且具有[较高的信噪比] 和[良好的稳定性]。
     - ? [其主要缺点是]待测样品[各组分间][有交叉的吸收峰]时，会给测量[带来干扰]，或者说其[选择性较差]([[selectivity]])。
 - 调制型
-    - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR instrument
+    - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument
 - 从[光学系统]来划分，可以分为 双光路 和 单光路 两种。
     - 双光路 -- 从[两个相同的光源]或者[精确分配的一个光源]，[发出两路][彼此平行的红外光束]，分别通过[几何光路相同]的[分析气室]、[参比气室]后[进入检测器]。
     - 单光路 -- [从光源发出的][单束红外光]，只通过一个[几何光路]。但是对于 检测器而言，[接收到的是][两个不同波长的红外光束]，只是它们[到达检测器的时间不同]而已。

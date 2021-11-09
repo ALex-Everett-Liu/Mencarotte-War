@@ -65,6 +65,7 @@ __缺点：易受温度影响__
         - 镍铬丝光源 -- 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
 缺点：[长期工作]会产生[微量气体挥发] -- SIEMENS U23
     - 为增加寿命，[内部填充]特殊气体。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Ft5gb9kLi7q.jpg?alt=media&token=5c24b8d2-478f-4cfd-a7f4-f67cc7a17c89)
 - 调制单元
     - [切光马达]([[stepper motor]])
         - 1、马达的[默认频率]为 7.3HZ
@@ -121,12 +122,23 @@ __缺点：易受温度影响__
 
         - [FT-IR 光谱仪] 使用 [He-Ne 激光]([[He-Ne laser]])[发射的单色光][对动镜定位]。
 
-        - 在激光干涉图经过零位时，采集红外数据点，得到红外干涉图。
+        - 在[激光干涉图][经过零位时]，采集红外数据点，得到[红外干涉图]。
+        - 光谱仪[配备的是][宽带光源]（即[波长范围]较宽），因此[检测到的干涉波][发生在每个波长下]，如左图上所示。
+            - [在每个波长下得到的][干涉图的总和]得到如左图（中）干涉图。当零光程差处，所有波长的光束[相位差]都为0，[全部相加可得到][最大强度的干涉图]。[其他光程差处][均有不同程度的相互抵消]，因而信号下降。
+                - 光谱仪的宽带光源，能产生连续的、[无限数目波长]的光束，如左图（上）。
+                - 左图（下）的干涉图是每个波长下[干涉图的总和]，结果以强度对光程差表示。
+
+                - 当光程差为0时，[所有波长下的干涉图]全部相加得到[最强信号]。当光程差增大时，[不同波长下的干涉图]有不同程度的相互抵消，因此[干涉图的强度][随着光程差变化]。
+
+                - 对一个宽带光源，除了[在零光程差位置][所有干涉图的相位]不会同时相同。因此只能在[零光程差]时[有最大的信号]，这个[信号最大值]被称为“中心爆炸”。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FP6cxNlfwqF.png?alt=media&token=12f0adde-fd07-44c6-b57c-267489ba3a3a)
+            - 左图（下）表示频率与强度关系，其中有九条线。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FGH0lts8mAZ.png?alt=media&token=9c0f360e-514f-4931-80b1-350b3ebefae3)
 - 特点
     - 信噪比高 -- [傅里叶变换红外光谱仪]所用的[光学元件]少，没有[光栅]或[棱镜分光器]，降低了[光的损耗]，而且通过干涉[进一步增加了光的信号]，因此[到达检测器的辐射]强度大，信噪比高。
     - 重现性好 -- 傅里叶变换红外光谱仪采用的[傅里叶变换][对光的信号进行处理]，避免了[电机驱动光栅分光]时[带来的误差]，所以[重现性]比较好，[扫描速度]快。
 是按照[全波段][进行数据采集]的，[得到的光谱]是[对多次数据采集求平均]后的结果，而且[完成一次完整的数据采集]只需要一至数秒
-- 检测器 -- __将光信号转换为电信号__
+- 检测器 -- __将光信号转换为电信号__ -- [[infrared detector]]
     - 气动检测器
         - 薄膜电容检测器
             - [[浅述薄膜微音红外气体分析器]]
@@ -167,6 +179,24 @@ __缺点：易受温度影响__
     - 例：乙二醇 CH3ONO
     - CO2 校准方程及相关图表
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqLBpq3E04W.png?alt=media&token=1db5e67c-40b2-4253-b807-05f2c88f0ffe)
+- 光谱定性分析
+    - 吸光度谱解析 -- [[absorbance]] / wavenumber
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FpySojCO3-V.jpg?alt=media&token=0030b581-5e85-43a7-9739-e6d998c6be6b)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1F5T1yvOWh.png?alt=media&token=83f41936-8f99-430b-94a9-6826e4648d14)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F-xEA0P3OBg.jpg?alt=media&token=15fb8241-7bdc-4441-8346-847e04abb1e2)
+        - SO2 - 1345, 2450 cm-1 - 4.09, 7.3 μm
+            - SO3 - 1396 cm-1
+        - NO - 1845/1856 cm-1, 1908 cm-1 - 5.2 μm
+        - NO2 - 1598 cm-1
+        - CO - 2056 cm-1, 2118 cm-1, 2174 cm-1 - 2.37 μm, 4.65 μm
+        - CO2 - 996 cm-1; 2331/2342 cm-1, 2361 cm-1 - 2.76, 4.26, 14.5 μm
+        - NH3 - 968 cm-1 - 7.55, 10.4, 13.8 μm
+        - HCl - 2700~3100 cm-1
+            - HF - 3600~4300 cm-1
+        - H2O @ 20vol% - 1200~2200 cm-1, 3000~4200 cm-1 - 2.0, 2.8 μm
+        - CH4 - 3.3, 7.65 μm
+            - C2H4 - 3.45, 5.3, 7, 10.5 μm
+            - C2H2 (乙炔) - 3.0~3.1, 7.35~7.7, 13.0~14.0 μm
 - FTE Test Client
     - 修改电脑[IP地址]（10.0.0.2, 最后一位2-255皆可以，[主机IP地址]10.0.0.1 ）
     - Analyzer Health 
@@ -179,7 +209,7 @@ __缺点：易受温度影响__
     - x64/FTIR gas analyzer online -- IMG_20210713_174532.jpg
 - ---
 - # [[傅里叶红外光谱-翁诗甫]]
-- # ABB MBGAS3000 FT-IR
+- # ABB MBGAS-3000 FT-IR
     - 组成结构
         - [[gas cell box]] 测量池腔体
             - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器

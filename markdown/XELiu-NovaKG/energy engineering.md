@@ -1,4 +1,5 @@
 - [[fuel]]
+- [[heat energy]]
 - heating; 加热元件
     - [[heater]]
     - [[heat transfer fluid]]: 传热液

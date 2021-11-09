@@ -42,6 +42,7 @@
     - in-situ system - 原位式/直接测量系统
     - **正压式取样** -- 《在线分析系统工程技术》 p19
     - [样品处理系统]([[sample handling system]])
+        - external cooling;
         - sample conditioning: 样气调理
         - [[预处理]]; extensive sample preparation
     - [[sampling pump]] 
