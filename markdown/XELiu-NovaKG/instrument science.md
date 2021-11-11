@@ -70,7 +70,9 @@
     - sealing pipe threads: 密封管螺纹
     - [[thread seal tape]]
 - [[sensitivity]]; [[sensitive]]
+- [[setpoint]]
 - [[stability]]
+- [[thermostat]]
 - [[pliers]]: 钳子;
     - [[grab]]: 抓斗 
     - [[pincer]]

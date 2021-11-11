@@ -8,3 +8,6 @@
 211012-14:05
     - [Schematic diagram](((mxntn7d75))) of a Michelson interferometer, configured for FTIR
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F3VYQ9TFcrE.jpg?alt=media&token=0c037ad7-f9cf-4d60-88f5-8aa196f4309c)
+    - 光路图
+        - 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F767uS1HB5v.png?alt=media&token=dbad623e-49a6-486f-9edb-48f460a2387e)

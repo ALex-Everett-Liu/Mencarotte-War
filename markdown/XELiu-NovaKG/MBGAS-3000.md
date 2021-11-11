@@ -1,0 +1,65 @@
+- 组成结构
+    - [[gas cell box]] 测量池腔体
+        - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器
+        - sample gas cell
+        - [加热带]-[[heater]] 200W 120V
+        - 多反射测量池 (multiple reflection) -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p18
+    - [[interferometer box]] 
+        - 光谱分辨率-谱带分开--4cm-1
+            - ![FTIR-resolution-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv_SS5ctNj9.png?alt=media&token=9cfcf724-1db0-4c35-abcc-4a015d0c8937)
+        - Wishbone interferometer
+            - 二维轴干涉仪技术
+                - 2）光源永远准直；
+                - 3）采用[电磁驱动]，没有磨损；
+                - 4）采用的 ZnSe 分束器，不吸潮，适合中国环境
+            - 偶立方角镜技术
+                - 不管从[任何角度]都可以确保光[平行反射][发生干涉]。
+                - 保证了仪器现场的 抗震性和光学稳定性
+    - 光路图 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p23
+    - [[electronic box]] 电气箱
+        - 数控板
+        - 电源模块
+    - 吹扫气接口
+    - CO2 含量: ＜ 400 ppm
+    - 最大[露点温度]([[dew point temperature]]) -20℃
+    - Measured Component
+        - High Temperature Measurement
+            -  H2O ( > [[dew point]])
+            -  HCl, HF (> [[acid dew point]])
+            -  NH3 (> formation of aerosoles NH3 SO4 )
+        - [TOC ( Total Hydro Carbons )]([[total hydrocarbons]])
+    - Ease of Integration   p33
+- Operation Agenda
+    - 04-MBGAS-3000操作.pdf
+    - Cover the basic operational aspects in using the MBGAS-3000 analyzer.
+    - Simple operational steps
+        - The [[analyzer]] will start-up and become available to communicate with [the integrator’s controller]. 综合操作台
+    - Start-up, shut-down and storage
+        - Startup
+            - A minimum of 3 hours is required for the [[gas cell]] to warm up 预热 while full stabilization prior to [[commissioning]] may require a full day to properly stabilize in an [integrated enclosure]. 集成外壳
+            - [[purge gas]] (dry air quality) for purpose of [instrument purge] and [reference gas flow] to gas cell.
+        - Shutdown
+            - [[sample gas]] must never be present in the gas cell unless the [[gas cell]] is hot and dry. 加热后 干燥的状态
+        - Storage
+    - Site requirements
+        - Installation
+            - § The analyzer should not be [subjected to excessive vibration]([[vibration]]). 分析仪不能受到过度的震动。
+            - § Install the [gas conditioning accessories] 气体处理附件 and the [test gas cylinders]([[gas cylinder]]) 标气瓶 [close to the analyzer].
+            - § [Make provision for] [adequate air circulation] [around the analyzer]. 充分的气体循环。
+        - Installation utilities p9
+        - Installation gas sample lines #[[sample line]]
+            - Ensure there are no [cold spots] in the complete [[sampling system]].
+    - Instrument calibration
+        - Frequency required
+    - Maintenance and Service
+        - Spectrometer components to maintain
+        - IR source / fans & filters
+        - Gas cell components to maintain   p14
+            - Consumables
+        - [[spare part]]s are [clearly defined] and [available from factory]
+        - Health diagnostics
+        - Utilities / tools
+        - ABB Service training
+            - A certification & training program for ABB Service 有资质并认证
+- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf
+- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf
