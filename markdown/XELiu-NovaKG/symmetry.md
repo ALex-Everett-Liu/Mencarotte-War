@@ -1,3 +1,4 @@
 - asymmetry
+- [[continuous symmetry]]
 - [[differentiable symmetry]]
 - [[Noether's theorem]]

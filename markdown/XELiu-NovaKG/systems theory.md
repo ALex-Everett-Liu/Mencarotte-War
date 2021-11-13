@@ -4,6 +4,7 @@
 - [[complex system]]
 - [[control theory]]
 - [[cybernetics]]
+- [[dissipative system]]
 - [[integrative level]]: 整合层次; 综合水平
 - [[linear system]]; [[non-linear system]]
 - [[organizational theory]]

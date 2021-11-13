@@ -2,6 +2,7 @@
 - [[astronomy]]; astronomer
     - astronomical spectroscopy
     - [[star]]
+        - [[asteroid]]
         - [[planet]]
 - [[cosmology]]
 - [[interstellar space]]

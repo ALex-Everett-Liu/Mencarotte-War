@@ -35,13 +35,15 @@
         - [[physical entity]]; [[non-physical entity]]
         - ordinary object
         - [[real world]]; [[real-world object]]; [[real entity]]
+    - [[physical law]]
     - physical mechanism
     - [[physical process]]
     - physical properties
         - counter-intuitive property
-    - physical quantity
+    - [[physical quantity]]
         - base quantities
         - [[degrees of freedom (DoF)]]
+        - [[momentum]]
         - [[frequency]]
     - [[physical system]]
     - [[scale]], scope...

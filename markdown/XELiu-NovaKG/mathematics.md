@@ -1,6 +1,7 @@
 - [[arithmetic]]
     - [[basic arithmetic]]
 - [[calculus]]
+    - [[calculus of variations]]
 - [[complex number]]
 - [[function]]
 - [[game theory]]
@@ -16,6 +17,7 @@
     - zero-crossing; zero crossing
 - [[geometry]]
 - [[group theory]]
+- [[Lie group]]
 - [[linear algebra]]
 - [[logic]]
 - [[mathematical modeling]]

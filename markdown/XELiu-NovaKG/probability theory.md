@@ -9,6 +9,7 @@
 - coin flip; flipping a coin, heads and tails;
 - [[confidence]]; [[confidence interval]]; [[confidence level]]; [[confidence coefficient]]
     - [[normal distribution]]
+- [[covariance]]: 协方差
 - [[frequency distribution]]
 - [[gambling]]
 - [[probability amplitude]]
