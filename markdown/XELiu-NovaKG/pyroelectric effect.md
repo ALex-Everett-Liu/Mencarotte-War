@@ -1,0 +1,5 @@
+- dictionary
+    - [Experimental Study on] Applying the Pyroelectric Effect to [Low-Grade Waste-Heat Power Recovery] 低温余热动力回收 dict.cnki.net
+    - [Nonlinear pyroelectric effect] in [composite ceramic material]
+    - We discuss also the influence of pyroelectric effect on the [transition process].
+    - Study on Measuring Diffusivity 热扩散率 of Materials by Pyroelectric Effect
