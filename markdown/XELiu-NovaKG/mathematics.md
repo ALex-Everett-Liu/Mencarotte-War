@@ -9,6 +9,7 @@
     - [[mathematical structure]]
     - [[non-negative]]
     - normalized
+    - [[special case]]
     - square-integrable function
     - square root
     - well-defined
