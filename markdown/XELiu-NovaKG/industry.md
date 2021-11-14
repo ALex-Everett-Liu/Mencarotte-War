@@ -1,9 +1,11 @@
 - [[assembly line]]: 装配线, 流水作业线;
 - confined working facility: 密闭工作设施;
+- fault-tolerant; 容错
 - [[harsh environment]]
 - [[industrial application]]
 - [[industrial process]]
 - [[industrial settings]]
+- industrially hardened; 
 - [[light industry]]
     - [[cottage industry]]
         - craft industry
@@ -11,7 +13,9 @@
             - [[fur]]; animal skin and hair
 - [[manufacturing]]; 制造业
 - [[mining]]; [[mining industry]]
-- [[process unit]]: 控制器, 过程单元; 工艺装置
+- [[process control]]
+    - industrial process control system; [[industrial process control]]; [[industrial control system (ICS)]]
+    - [[process unit]]: 控制器, 过程单元; 工艺装置
 - safety; health and safety;
     - [[防爆]]: explosion protection; 防爆型仪表
         - 防爆等级
@@ -19,4 +23,5 @@
         - [[防爆要求]]
     - industrial hygiene and safety;
     - [[production safety]]
+- [[smart platform]]
 - [[throughput]]: 生产量, 通过量;

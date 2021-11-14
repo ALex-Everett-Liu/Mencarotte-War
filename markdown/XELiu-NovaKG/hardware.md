@@ -62,6 +62,7 @@
     - [[real-time response]]
 - [[self-contained system]]
 - [[small computer]]
+- [[supervisory control computer]]: 监控计算机
 - [[wearable technology]]
     - [[digital watch]]
 - ---
