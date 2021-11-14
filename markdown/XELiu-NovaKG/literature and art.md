@@ -24,9 +24,15 @@
 - general...
     - common people
     - [[liberal arts majors]]
-    - men of letters
+    - [[men of letters]]
 - life...
     - [[过客]]
+- literary device; 文学技巧
+    - explicit comparison; implied comparison
+    - imagery
+    - [[literary polish]]: 文学润色
+    - straightforward narrative
+    - [[stylistic consistency]]: 文体上的一致性 
 - love relationship
     - [[separation]]
         - [[departure]]

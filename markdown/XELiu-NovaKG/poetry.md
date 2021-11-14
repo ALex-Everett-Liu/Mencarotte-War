@@ -1,12 +1,12 @@
-- caesura
+- [[caesura]]: 音顿/休止
 - China poetry
     - Tang poetry
         - old style poetry
         - regulated style
 - [[epic]]
-- four-syllable meter
+- [[four-syllable meter]]: 四音节的韵律/调式
 - line relationship...
-    - couplet; rhyming couplet
+    - [[couplet]]; rhyming couplet
     - matched lines; line pair
     - [[parallelism]]
 - metrical translation
@@ -21,7 +21,7 @@
 - [[song]]; [[sing]]
     - [[lyric]]
         - musical accompaniment
-    - ritual song
+    - [[ritual song]]
 - [[stanza]]
     - successive stanzas
 - [[verse]]

@@ -1,6 +1,7 @@
 - feudal
     - [[feudal government]]
 - [[regent]]; [[regency]]
+- [[sovereign]]
 - 继承制度
     - [[crown prince]]: 王储 
 - ---

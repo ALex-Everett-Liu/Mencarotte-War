@@ -2,6 +2,7 @@
 - [[book]]
     - [[cover]]
 - [[comment]]; [[review]];
+- [[compilation]]
 - consumer distribution mode
 - [[edition]]
     - edition numbering

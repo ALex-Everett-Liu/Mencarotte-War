@@ -17,6 +17,8 @@
 - [[logic]]
 - [[metaphysics]]
 - [[methodology]]...
+- moral
+    - propriety and righteousness: [礼义] | 专有权; 礼貌; 规矩; 适当;
 - [[ontology]]: 存在论, 实体论, [本体论]; [[ontological]]
 - [[science philosophy]]...
 - [[skepticism]]

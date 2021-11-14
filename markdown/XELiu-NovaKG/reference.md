@@ -1,3 +1,4 @@
+- [[annotation]]
 - [[block reference]]; referenced block
 - [[citation]]
 - [[cross-reference]]; [[crosslink]]

@@ -981,6 +981,8 @@
                     - provided, 2; provider
                     - single provider;
                 - province
+        - pu
+            - purport: shengcheng11, jucheng41, chuanshuo21, zhuangde xiangshi1044; yiwei44, yaozhi43, dasuan34
     - q
         - qu
             - quality
@@ -1008,6 +1010,10 @@
             - refute: 驳倒 
             - regular
                 - regularity: guilv14, guize12; zhengqi32, yunchen24; 
+            - reign
+                - foreign
+                - reigned;
+                - [[sovereign]]
             - rel
                 - relate
                     - correlate
