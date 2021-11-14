@@ -1,5 +1,5 @@
 - [[cheat sheet]]
-- [[check form]]; check box...
+- [[check form]]; check box; [[checkbox]]
     - [[checklist]]; 
 - [[complicated project]];
 - [[job scheduler]]

@@ -1,0 +1,7 @@
+- dictionary 
+    - [msconfig]; boot options; boot entry
+    - Add the following [system property] to the startup of one of your [[application]]s. www.[ibm].com 
+    - Click the Startup [[tab]]; uncheck all [startup item] you wish to stop. www.[dictall].com 
+    - Select the [[checkbox]] to enable a startup item, or clear the check box to disable a startup item.
+    - I simply changed his computer's [BIOS settings]([[BIOS]]) to [[boot]] to my [[SD card]] 首先启动项 and installed [[Ubuntu]] over his [entire drive]([[drive]]). 整个驱动器 [wiki].fcctt.[org]
+    - It allows the [installation program] to startup again after boot up to [give the user the possibility to] make further [[configuration]]s. www.[qqread].com

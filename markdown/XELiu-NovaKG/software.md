@@ -31,7 +31,7 @@ FastCopy [最大的优势是]在复制「[包含大量小文件的]文件夹」�
 拷贝含大量小文件的文件夹：用 FastCopy
 - [[file structure]]
 - general...
-    - apps; [[software application]]; [[application program]]
+    - apps; [[software application]]; [[application program]]; [[application]]
         - [[mobile app]]; 
     - [[software utility]]: 实用程序, 软件工具;
 - [[help docs]]; [[help]]...

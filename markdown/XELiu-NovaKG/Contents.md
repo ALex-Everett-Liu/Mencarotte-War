@@ -31,6 +31,10 @@
     - [[sociology]]; [[society]]
 - [[technology]]
 - ---
+- quick start
+    - [[inbox]]
+    - [[launcher]]
+    - [[my scoring system]]
 - my methodology
     - 形式与连结
         - my personal archive library, just like what the web clipper could do, 但从形式结构上来说更便于我个人的调整

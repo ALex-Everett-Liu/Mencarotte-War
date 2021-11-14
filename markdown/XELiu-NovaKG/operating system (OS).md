@@ -1,3 +1,5 @@
+- [[boot]]
+- [[drive]]
 - [[Microsoft Windows]]; [[Windows]]
 - [[macOS]]
 - system

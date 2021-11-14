@@ -3,3 +3,4 @@
 - [[hard disk drive (HDD)]]
     - [[SSD]]
 - [[photonic data storage]]
+- [[SD card]]
