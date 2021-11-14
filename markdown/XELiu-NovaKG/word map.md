@@ -909,6 +909,7 @@
                 - depict
                     - depicted, 2;
                 - picturing;
+                - [[figure]]; [[draw]]; [[sketch]]
             - piece
                 - small piece;
             - pierce
