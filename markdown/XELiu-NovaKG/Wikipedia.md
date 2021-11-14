@@ -4,6 +4,6 @@
 - reference check
 - related reading; related article; [[related ideas]]
     - [[external link]]; external article
-    - [[further reading]]
+    - [[further reading]]; [[see also]]
 - [[stub]]
 - [[Wikimedia Commons]]

@@ -29,7 +29,7 @@
         - Methods Thirty [preschool children] who received [sensory integration treatment] 感觉综合训练 were investigated with sensory integrative test scales 统合能力评定 and their [blood lead levels] were tested. 血铅测定
     - In philosophy, theories that emphasize [emergent properties] [have been called] [[emergentism]]. [Almost all accounts of] emergentism 所有对于演生论的解释 include a form of [[epistemic]] or [[ontological]] [[irreducibility]] to the [[lower level]]s.[1] [该层面的规律]不可再继续向下级层次还原
 201216-22:52
-        - ((7MkFygugp))
+        - [[emergentism]], an approach to philosophy of [[complex system]]s
         - O'Connor, Timothy; Wong, Hong Yu (February 28, 2012). "[Emergent Properties]". In Edward N. Zalta (ed.). [[The Stanford Encyclopedia of Philosophy]] (Spring 2012 Edition. (stanford.edu/archives/[spr2012]/[entries]([[entry]]/properties-emergent/)
 - [[emergent structure]]s in nature
     - [[main article]]: [[patterns in nature]]
@@ -38,3 +38,14 @@
         - [Unsourced material] [may be challenged and removed]. (November 2008)
         - (Learn [how and when to] remove this [[template message]]); [Help]([[help]]): [[maintenance template]] removal
 201217-08:00
+- [[see also]]
+    - [Emergent properties]([[emergent properties]]), when [simple entities] interact to produce more [complex ones]([complex entity]); -- [emergent properties] and [[emergent process]]es -- [涌现性质]; [生态学]特性 
+201216-17:17
+    - [[emergentism]], an approach to philosophy of [[complex system]]s
+    - [[spontaneous order]] 
+    - [[self-organization]]
+    - An [[emergency]] is [a situation requiring] [[urgent assistance]].
+        - Emergency (disambiguation) -- 这两个[同源词]的[含义]是真的[差别很大]啊
+    - [[emergent evolution]] – The [[hypothesis]] that, [in the course of] [[evolution]], some entirely [new properties], such as [[mind]] and [[consciousness]], appear at certain [[critical point]]s
+    - [[irreducible complexity]] – [[argument]] by [[proponent]]s of [[intelligent design]] that certain [[biological system]]s are [too complex to] have evolved
+201216-19:05

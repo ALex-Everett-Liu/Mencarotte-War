@@ -1,6 +1,7 @@
 - [[brain science]]
     - [[human brain]]
 - [[cognitive science]]: 认知科学
+- [[consciousness]]
 - [[dream]]
 - general...
     - rewire with new connections;
@@ -19,6 +20,7 @@
     - taste
 - [[intelligence]]: 智能, 智力活动;
 - [[memory]]
+- [[mind]]
 - neural system...
     - [[neural network]]
     - [[neural pathway]]

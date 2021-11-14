@@ -1,4 +1,6 @@
+- [[evolution]]
 - [[evolutionary history]]
+- [[intelligent design]]
 - use it or lose it
 - #inbox
     - 提到了[两个鼻孔的构造]可以[借由流速差][增强嗅觉]，[这在进化上][能带来较大的生存优势]。但进化论告诉我们，生物不可能[预先知晓][一种性状的优势]而[主动进化出这种性状]，我们[需要其他理论](https://www.zhihu.com/question/456066433/answer/1851091688)来回答这个问题 #pt9-100
