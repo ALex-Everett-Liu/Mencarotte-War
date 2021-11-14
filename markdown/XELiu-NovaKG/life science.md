@@ -5,6 +5,7 @@
 - [[medicine]]
 - natural history
     - [[botany]]
+    - [[nature]]
     - [[zoology]]
 - #inbox
     - 臀部、[手肘处][颜色变深](https://bbs.saraba1st.com/2b/thread-2006864-1-1.html)，是因为[这些部位][长期的物理摩擦]导致[局部的角质层增厚]并且[不断堆积]，久而久之自然[颜色要深一些]。

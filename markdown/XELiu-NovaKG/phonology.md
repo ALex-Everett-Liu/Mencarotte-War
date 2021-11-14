@@ -1,7 +1,7 @@
 - [[Old Chinese phonology]]
 - [[pronunciation]]
     - [[IPA]]
-    - romanization
+    - [[romanization]]
         - [[pinyin]]
         - [[Wade–Giles]]
 - #inbox

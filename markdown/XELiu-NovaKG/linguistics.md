@@ -1,4 +1,5 @@
 - [[Indo-European languages]]
+- [[transcription]]
 - #inbox
     - 这些地名，是高句丽人搞的[汉字训读]，那么，[根据训读][推导出来的]，就一定是高句丽语。
 

@@ -4,6 +4,9 @@
 - [[seal script]]
 - [[sound change]]
     - [[陈第 (Chen Di)]]
+- [[Standard Chinese]]
+    - [[Mandarin]]
+    - [[吴语 (Wu Chinese)]]
 - [[训诂]]
 - #inbox
     - 去年有一本新书，Nathan Hill (2019)[2](https://www.zhihu.com/question/428821732#ref_2)（很多人已经看出了我是 Nathan Hill 控，实际上除了在 mirative 是否存在的问题上我对他[持保留意见]，他的其余观点我都是赞同的，而且我喜欢他写文章的方式），里边对[汉藏语系]的三种[古典语言]，藏语、汉语和缅语的[历史音系]进行了讨论，并[尝试解释了]其中的一些[对应关系]。这是一个[比较好的]对[原始汉藏语](https://www.zhihu.com/question/428821732)探索的开始，但是我们应该知道，这远远不够。 #pt10-100

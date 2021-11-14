@@ -271,6 +271,7 @@
                     - convince
                         - convinced;
         - cr
+            - [[crack]]: 裂缝, 爆裂;
             - cre
                 - crease
                     - increase
@@ -487,6 +488,7 @@
                 - flowing;
                 - workflow;
         - fo
+            - [[foam]]: 泡沫;
             - foot
                 - footwear: 鞋类; 
             - for
@@ -1004,6 +1006,8 @@
             - ray
         - re
             - refute: 驳倒 
+            - regular
+                - regularity: guilv14, guize12; zhengqi32, yunchen24; 
             - rel
                 - relate
                     - correlate
@@ -1113,6 +1117,7 @@
                 - aspire: 热望, 立志
                     - aspiring: 抱负, 志气;
                 - inspire
+                - [[spiral]]: 螺旋, 盘旋;
         - st
             - sta
                 - stable
@@ -1136,12 +1141,15 @@
                 - steal
                     - stealthy: 隐形; 鬼鬼祟祟, 掩人耳目;;
             - str
-                - strict
-                    - restrict; restricted, 2
-                        - place limits on (extent or amount or access)
-                            - restrict the use of this parking lot
-                            - limit the time you can spend with your friends
-                - strike
+                - stri
+                    - strict
+                        - restrict; restricted, 2
+                            - place limits on (extent or amount or access)
+                                - restrict the use of this parking lot
+                                - limit the time you can spend with your friends
+                    - strike
+                    - strip 
+                        - [[stripe]]: 条纹, 斑纹;
                 - structure
                     - construct
                         - reconstruction;
