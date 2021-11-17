@@ -1,4 +1,5 @@
 - [[gas sensing]]
+- [[oxygen sensor]]; [[oxygen analyzer]]
 - ---
 - # 何谓气体传感器　～气体传感器的检测原理～
     - world leader in [[gas sensing]] [innovation](https://www.figaro.co.jp/cn/technicalinfo/principle/ndir-type.html)

@@ -1,3 +1,4 @@
+- [[oxygen sensor]]; [[oxygen analyzer]]
 - [[standard gas]]; 通入标准气体; for test
 - ---
 - Continuous emission monitoring systems (CEMS) are used as a tool to monitor the [effluent gas streams] resulting from [[combustion]] in [[industrial process]]es. CEMS can measure [[flue gas]] for [[oxygen]], [[carbon monoxide]] and [[carbon dioxide]] to [provide information for] [[combustion control]] in [[industrial settings]].[1] [2]They are also used as a means to comply with [[air emission standard]]s such as the United States Environmental Protection Agency's (EPA) Acid Rain Program,[3] other US federal emission programs, or state permitted emission standards. 
