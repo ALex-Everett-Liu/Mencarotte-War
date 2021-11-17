@@ -339,3 +339,13 @@ O2：25%；
         - 4. The position is referenced against a HeNe laser interference pattern.
         - 5. Each wavelength contributes to the interference pattern.
         - 6. The interferogram is then transformed with a Fourier Transform function to obtain a spectrum.
+- ---
+- FTIR 机箱的集成
+    - [电源滤波器](((6Y9Cq5ngQ))) 
+    - 开关电源
+- Questions
+    - 波动较大
+        - 气压不稳定，用压力表去测一下
+        - 振动较大
+        - 仪器内部温度不均匀
+    - 漂移较大

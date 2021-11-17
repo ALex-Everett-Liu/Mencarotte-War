@@ -1,9 +1,11 @@
 - [[diaphragm pump]]
+- positive displacement pump
+- [[ejector]]; ejector pump; [[喷射泵]]; [[射流泵]]
 - extracting pump; [[抽气泵]]; 
+- [[peristaltic pump]]; 蠕动泵
 - [[positive displacement pump]]
 - [[pump chamber]]: 泵室
 - pump a fluid;
 - [[pumping water]]
 - [[sampling pump]] 
-- 真空泵
-- 喷射泵
+- [[vacuum pump]]; 真空泵
