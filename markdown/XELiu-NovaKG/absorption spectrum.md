@@ -1,3 +1,6 @@
+- [[absorption line]]; [[absorption band]]
+- [[absorption peak]]
+- ---
 - [能级跃迁]([[energy level transition]])-特征吸收波长和特征吸收频率
     - [[absorption peak]] -- 特征性 吸收峰
         - 峰位置：定性 -- 根据光谱中[吸收峰分位置]和形状来[推断位置物的结构]
@@ -28,17 +31,21 @@
             - 典型的[排放尾气]的光谱图
             - Flue gas spectrum without H2O and CO2 -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p30
             - CH4 对 HCl 的干扰图 p31
-        - SO2 - 1345, 2450 cm-1 - 4.09, 7.3 μm
+        - SO2 - 520, 1345, 1361, 2450 cm-1 - 4.09, 7.35, 19.25 μm
             - SO3 - 1396 cm-1
         - NO - 1845/1856 cm-1, 1908 cm-1 - 5.2/5.3 μm
-        - NO2 - 1598 cm-1 -- 空气中NO转换为NO2，转换效率 -- NO2作为干扰气体，会存在很显著的干扰
+            - NO2 [has to be reduced to NO](((kxsir1Qg0))) and then they are [measured together as NOx]; NO also [absorbs in ultraviolet] at 195-230 nm, NO2 is measured at 350-450 nm;[8] [in situations where] [NO2 content] is [known to be low], [it is often ignored] and [only NO is measured]; also, 1.8 μm[6]
+211119-05:06
+            - NO2 - 1598 cm-1 - 6.17-6.43 μm, 15.4-16.3 μm, 496 nm[6] -- 空气中NO转换为NO2，转换效率 -- NO2作为干扰气体，会存在很显著的干扰
         - CO - 2056 cm-1, 2118 cm-1, 2174 cm-1 - 2.37 μm, 4.65/4.72 μm
-        - CO2 - 996 cm-1; 2331/2342 cm-1, 2361 cm-1 - 2.76, 4.26, 14.5 μm -- 2360cm-1的倒峰，表明气管里留有CO2，做背景的时候就出了倒峰 by 赵工 11.15
-        - NH3 - 968 cm-1 - 7.55, 10.4, 13.8 μm
-        - HCl - 2700~3100 cm-1
+        - CO2 - 996 cm-1; 2331/2342 cm-1, 2361 cm-1 - 2.76, 4.26, 13, 14.5 μm -- 2360cm-1的倒峰，表明气管里留有CO2，做背景的时候就出了倒峰 by 赵工 11.15
+        - NH3 - 968 cm-1 - 5.7, 7.55, 10.4, 13.8 μm
+        - HCl - 2940, 2700~3100 cm-1 - 3.4 μm
             - HF - 3600~4300 cm-1
         - H2O @ 20vol% - 1200~2200 cm-1, 3000~4200 cm-1 - 2.0, 2.8 μm
+            - 1.94 μm, 2.9 μm (CO2 interferes),[7] 5.78±0.18 μm (1730 cm-1) [can also be used to] [avoid interference from] CO2,[10] 1.3 μm, 1.4 μm, 1.8 μm[6] -- CO2与H2O之间的相互干扰
         - CH4 - 3.3/3.45, 7.65 μm
+            - [[hydrocarbon]]s - 3.3-3.5 μm, the [[C-H bond vibration]][7]
             - C2H4 - 3.45, 5.3, 7, 10.5 μm
             - C2H2 (乙炔) - 3.0~3.1, 7.35~7.7, 13.0~14.0 μm
 - 色散/分光型 -- 单色光

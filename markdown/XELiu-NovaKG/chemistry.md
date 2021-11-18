@@ -46,6 +46,7 @@
 - [[monomer]]
 - [[nitrogen]]
 - [[noble gas]]
+- NOx; NO2 has to be reduced to NO; 
 - [[organic compound]]; [[organic chemical]]
 - [[physical chemistry]]
 - [[polymer]]

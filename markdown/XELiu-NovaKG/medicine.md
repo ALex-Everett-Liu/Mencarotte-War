@@ -10,6 +10,8 @@
 - [[drug]]
 - [[flu]]
     - [[influenza virus]]
+- general
+    - [[medical diagnosis]]
 - [[heart disease]]
 - [[hospital]]
 - personal care and service occupations: 个人护理和服务职业

@@ -3,7 +3,7 @@
     - [[reference gas]]
 - [[bandwidth]]; [[spectral bandwidth]]
     - [[broad band]]; broad selectivity; [[wide band]]
-        - broadband light source
+        - broadband light source; broadband lamp source
     - [[narrow band]]; narrow band spectral region;
 - continuous spectrum; 连续光谱
     - 白光
@@ -19,6 +19,7 @@
 - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
     - [[far-infrared range]];
         - [[far infrared spectroscopy]]
+    - mid IR LED source; 
     - Near-Infrared (NIR); near-infrared light
         - [[near-infrared spectroscopy (NIRS)]]
     - infrared-passing filter
@@ -41,6 +42,7 @@
 - [[X-ray]]; x-ray
 - 光谱密度
 - 线光谱
+    - [[absorption line]]; [[absorption band]]
     - 特征谱线-不同化学成分
         - 谱线宽度-单色性-$$\Delta \lambda$$
         - 典型谱线表 p20
@@ -72,7 +74,7 @@
                 - [红外光谱相对应的运动形式](((8KzfnZDSj)))
                     - 近红外区光谱：0.78-2.5 μm; 4000~12820 cm-1 
                         - 近红外光谱分析的测量原理
-                            - 泛频区 - __[含氢基团] X-H (X=C, N, O) (O-H, N-H, C-H 键) 振动的[倍频吸收与合频吸收]__ (氢离子的振动)
+                            - 泛频区 - __[含氢基团] X-H (X=C, N, O) (O-H, N-H, C-H 键) 振动的[倍频吸收与合频吸收]__ (氢离子的振动) #[[C-H bond vibration]]
                             - [NIR 光谱][非常适合用于][碳氢有机物质]，[通常用于分析][常量组分的含量]（0.1%以上）。由于[吸收带较宽]且[重叠严重]，[依靠传统的][比尔郎伯定律]的[单波长工作曲线方法][往往不能得到满意的结果]。因此，必须采用[化学计量学方法]对[光谱信息][进行处理]，建立[较复杂的][校正模型][才能得到可靠结果]。
                         - 吸收能力弱，灵敏度低
                         - 特点

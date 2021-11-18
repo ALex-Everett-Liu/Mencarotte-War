@@ -14,6 +14,7 @@
     - detector
         - [[flame ionization detector (FID)]]
         - [[filament]]: 灯丝
+            - heated filament; 
         - [[thermal conductivity detector (TCD)]]
     - [[double channel]]
     - [[flow]]?

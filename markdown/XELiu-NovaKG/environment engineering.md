@@ -3,7 +3,7 @@
 - [[air emission standard]]
 - [[air quality]]
     - [[indoor air quality]]
-- [[atmospheric trace gas]]
+- [[trace gas]]; [[atmospheric trace gas]]
 - [[particulate matter]]; [[airborne particulate matter]]: 空气颗粒物
 - [[carbon emission]]; 
 - [[combustion]]
@@ -17,7 +17,7 @@
         - 单个 VOCs 组分监测方法
 - decompose hazardous gases: 分解有害气体
 - environmental contamination and remediation: 环境污染与补救/修复
-- environment monitoring; 环境监测; 在线监测系统
+- [[environment monitoring]]; environmental monitoring; 环境监测; 在线监测系统
 - [[exemption]]: 免检; 
 - [[filter]]: 过滤器; 过滤芯
     - [[filter tube]]
