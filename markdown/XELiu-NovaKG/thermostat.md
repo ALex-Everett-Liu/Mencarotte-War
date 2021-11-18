@@ -2,3 +2,6 @@
     - Thermostats are [used in any device or system that] [heats or cools to a setpoint temperature], examples include [[building heating]], 建筑供暖 [[central heating]], [[air conditioner]]s, [[HVAC system]]s, [[water heater]]s, 热水器 as well as [kitchen equipment] including [[oven]]s and [[refrigerator]]s and [medical and scientific incubators]. 恒温箱 孵卵器 培养器 In scientific literature, these devices are often [broadly classified as] [[thermostatically controlled loads (TCLs)]]. 恒温控制负载 Thermostatically controlled loads comprise roughly 50% of the overall electricity demand in the United States.[1]
     - A thermostat operates as a "closed loop" control device, as it seeks to reduce the error between the desired and measured temperatures. Sometimes a thermostat combines both the sensing and control action elements of a controlled system, such as in an automotive thermostat.
     - The word thermostat is derived from the Greek words θερμός thermos, "hot" and στατός statos, "standing, stationary".
+- ---
+- 电源进入温控仪，温控仪[外接]温度传感器，不加输出的话，是可以当做温度显示器来使用的，增加固态输出，从温控仪输出电流信号给固态继电器 (温控器的12V直流输出端接固态继电器的输入端)，固态继电器来控制后端电源通断，继而控制加热器加热 (固态继电器的交流输出端接交流电源和加热带)。
+    - 温控器的4、5、6端口接测温铂电阻，11、12端口接交流电源。
