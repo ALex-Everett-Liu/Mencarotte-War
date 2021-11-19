@@ -35,9 +35,7 @@
         - [半导体检测器]是利用[半导体光电效应]的原理制成的，[当红外光照射到]半导体上时，后者[吸收光子能量]后可使[非导电性的价电子][跃迁至][高能量的导电带]，从而[降低了半导体的电阻]，引起[电导率]改变，又称为光电导检测器或[光敏电阻]。
         - 半导体检测器[具有很高的][响应率]和[探测率]，但对红外光具有[选择性吸收]的特性。例如[锑化铟检测器]的[检测波长范围]为 2-7μm，因此能检测 CO和CO2，但不能检测 NH3和SO2。半导体检测器[使用的材料主要有]锑化铟(InSb)、硫化铅(PbS)、硒化铅(PbSe)、汞镉碲(HgCdTe)等，一般常采用锑化铟检测器 。
         - 半导体检测器的结构简单、成本低、体积小、寿命长、响应迅速。它与[窄带干涉滤光片](((h5qpQpjvS)))[配合使用]，[可以制成][通用性强]、[快速响应]的[红外检测器]，改变[被测组分]时，[只需改换][干涉滤光片]的[透过波长]和[仪器显示]即可。[其缺点是]半导体元件的[特性](特别是[灵敏度])[受温度变化影响大]
-        - mercury cadmium telluride (MCT)
-            - 碲镉汞(MCT)检测器：需在[液氮低温下]工作，但[灵敏度]比TGS[高30倍], 响应时间(1μs), 波长(0.8-40μm) 。
-            - Below 50 µm, [it is best to chose] a [cooled mercury cadmium telluride (MCT) detector], 碲镉汞 that [offers increased sensitivity] [on low-light scenarios]. Using a [thermoelectrically cooled MCT] [has become the standard solution] as it is [continuously cooled] and [doesn't require maintenance].
+        - [[mercury cadmium telluride (MCT)]]
     - 热释电检测器
         - [热电检测器]是基于[光辐射作用的热效应原理]的[一类检测器]，包括利用[温差电效应]制成的[测辐射热电偶]或[热电堆]，利用物体体电阻[对温度的敏感性]制成的测辐射[热敏电阻]检测器、以[热电晶体]的[热释电效应]([[pyroelectric effect]])为根据的[热释电检测器]([[pyro­elec­tric detector]])。这类检测器的[共同特点]是：无选择性检测（对[所有波长]光辐射有[大致相同的][检测灵敏度]），[响应速度]比[光子检测器]低，检测灵敏限[也较低]
         - 真空热电偶 -- long response time (0.05s)，wl (2.5-15μm)
@@ -46,6 +44,7 @@
                 - 氘代硫三甘肽 (DTGS)
                     - Deuterated Lanthanum α Alanine doped TriGlycine Sulphate (DLaTGS)
                         - [Deuterated Lanthanum α Alanine doped TriGlycine Sulphate (DLaTGS)] 氘化镧 丙氨酸 掺杂 硫酸三甘氨酸 detectors [exhibit the most effective] [[pyroelectric effect]] known and are [versatile detectors] that don't need [external cooling](((yDtYTzWID))) to [produce high quality spectra]. However, as soon as the [[aperture]] (and samples) [gets smaller] and [less and less light reaches the detector] the [spectra's quality] [quickly diminishes].
+                    - （1）硫酸三甘肽或称三甘氨酸硫酸盐，是一类最重要最常用的热释电品体，其分子式为（NHCHCOOH）3·H2SO4简称TGS。是由甘氨酸和硫酸以3：1的摩尔比例配制成饱和水溶液，然后用降温生长获得，较容易得到大的优质单品体。具结构属单料晶系，C2-2点群，空间群P21，居里点温度大约为49℃，高于Tc不存在热释电效应，此时b轴为极性轴。TGS是典型的二级相变铁电体，通常铁电体需极化才具有热释电性质。
     - 固体检测器直接对[红外辐射能量]有响应，对[红外辐射光谱][无选择性]， 它对待测气体特征吸收光谱的[选择性]是借助于[窄带干涉滤光片](((h5qpQpjvS)))实现 的。 所以这种[红外分析器]属于[固定分光型仪器](((R1r3m_Jz9)))。
         - ? [与其配用的光学系统]一般为[单光路结构](((98sAVxUzD)))，靠[相关滤波轮的调制]形成[时间上的双光路]。
     - 这两类仪器相比，气动检测器的[灵敏度]和[检出限][明显优于]固体检测器，而后者的[结构简单]、调整容易、体积小、[价格低]又[胜过前者]。

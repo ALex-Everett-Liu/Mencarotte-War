@@ -1,0 +1,7 @@
+- 碲镉汞(MCT)检测器：需在[液氮低温下]工作，但[灵敏度]比TGS[高30倍], 响应时间(1μs), 波长(0.8-40μm) 。
+- Below 50 µm, [it is best to chose] a [cooled mercury cadmium telluride (MCT) detector], 碲镉汞 that [offers increased sensitivity] [on low-light scenarios]. Using a [thermoelectrically cooled MCT] [has become the standard solution] as it is [continuously cooled] and [doesn't require maintenance].
+- ---
+- ## MCT检测器与[DTGS检测器](((L_ckayezq)))的差别
+    - MCT检测器是由宽频带的半导体碲化镉和半金属化合物碲化汞混合形成，其组成为Hg1-xCdx Te ，x≈0.2，改变x值，可获得测量波段不同灵敏度各异的各种MCT检测器。
+    - 在光线作用下，对于半导体材料吸收了入射光子能量， 若光子能量大于或等于半导体材料的禁带宽度， 就激发出电子-空穴对，使载流子浓度增加，半导体的导电性增加，阻值减低，这种现象称为光电导效应。
+    - MCT检测器[灵敏度]至少是DTGS的10倍。 [1] 

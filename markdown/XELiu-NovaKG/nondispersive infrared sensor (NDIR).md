@@ -21,3 +21,9 @@
 - ? [其主要缺点是]待测样品[各组分间][有交叉的吸收峰]时，会给测量[带来干扰]，或者说其[选择性较差]([[selectivity]])。
 - ---
 - [[Application of Non-Dispersive Infrared (NDIR) Spectroscopy to the Measurement of Atmospheric Trace Gases]]
+- ---
+- # [NDIR explained](https://web.archive.org/web/20190307133039/https://www.edaphic.com.au/knowledge-base/articles/gas-articles/ndir-explained/)
+    - NDIR is an [[acronym]] for Non Dispersive Infra-Red. This means that when [a beam of infrared light] is [emitted from a light source] it does not “disperse” or [become scattered by substances] [between the light source and a detector].
+        - [view our blog for more articles on the science of CO2](https://web.archive.org/web/20190307133039/http://www.edaphic.com.au/blog/)
+    - A NDIR gas sensor specifically measures the abundance, or concentration, of gases in a [[sample chamber]]. If there are gases in the path from an infrared light source to a detector then, in a non-dispersive system, the light is absorbed by the gases. How much light is absorbed is a function of how much gas is between the light source and light detector.
+    - Figure 1 is a schematic of a simple NDIR gas sensor designed to detect the gas carbon dioxide (CO2). The infrared light source is installed at one end of an enclosure and the light detector is installed at the opposite end. The light detector has a filter so it specifically only detects light in the electromagnetic spectrum that is related to CO2. An inlet and outlet between the light source and detector allows CO2 to freely move in and out of the enclosure.

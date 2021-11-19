@@ -1,3 +1,3 @@
-- A **Pyroelectric detector** is an [infrared sensitive] [optoelectronic component](((yf6pl89dW))) which are [specifically used for] [detecting electromagnetic radiation] [in a wavelength range from] 2 to 14 µm.
+- A **Pyroelectric detector** is an [infrared sensitive] [optoelectronic component](((yf6pl89dW))) which are [specifically used for](https://www.infratec.eu/sensor-division/service-support/glossary/pyroelectric-detector/) [detecting electromagnetic radiation] [in a wavelength range from] 2 to 14 µm.
 211117-17:40
     - A receiver chip of a pyroelectric [infrared detector](https://www.infratec.eu/sensor-division/service-support/glossary/infrared-detector/) manufactured by InfraTec consists of single-crystalline lithium tantalate. Because of its very high curie temperature of 620 °C lithium tantalate guarantees an extremely low temperature coefficient with an excellent long-term stability of the signal voltage.

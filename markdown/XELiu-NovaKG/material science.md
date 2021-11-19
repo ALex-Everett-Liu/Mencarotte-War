@@ -1,5 +1,6 @@
 - [[battery]]; [[battery device]]
 - [[ceramic bed]]
+- [[crystal]]
 - flammable material
 - general...
     - withstand high temperatures
@@ -9,5 +10,6 @@
         - [[artificial material]]
 - [[plastic]]
 - [[polystyrene film]]; [[polystyrene]]
-- [[pyroelectric effect]]
+- [[pyroelectricity]]; [[pyroelectric effect]]
+    - [[pyro­elec­tric detector]]
 - [[rubber]]
