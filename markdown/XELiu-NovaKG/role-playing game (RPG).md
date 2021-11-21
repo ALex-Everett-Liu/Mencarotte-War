@@ -25,6 +25,7 @@
         - [[experience points (XP)]]
     - [[player characters (PCs)]]
         - the inhabitants of the game world; [[non-player characters (NPCs)]]
+- tactical RPG; 
 - TRPG; [[tabletop game]]
     - [[ruleset]]
 - #inbox

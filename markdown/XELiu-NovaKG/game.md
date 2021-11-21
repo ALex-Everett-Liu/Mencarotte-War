@@ -34,7 +34,7 @@
     - history simulation; 
     - [[SLG]]
     - [[turn-based strategy]]
-- turn-based...
+- turn-based; 
     - start the turn;
 - [[video game]]
 - [[wargaming]]

@@ -1,8 +1,7 @@
 - [[alignment]]: a moral and ethical outlook | 阵营; 结盟; 队列;
-- [[Baldur's Gate]]
-    - [[Baldur's Gate 3]]
 - [[Dungeon Master (DM)]]
 - [[Dungeons & Dragons: Master's Guide]]
+- [[initiative]]
 - [[multiverse]]
     - [[plane]]: 位面
 - novel
@@ -14,6 +13,10 @@
     - [[Pathfinder: Wrath of the Righteous]]
 - [[Tactical Studies Rules, Inc. (TSR)]]
 - [[Underdark]]
+- video game
+    - [[Baldur's Gate]]
+        - [[Baldur's Gate 3]]
+    - [[Solasta: Crown of the Magister]]
 - #inbox
     - dnd wiki #pt10-99.99
         - https://www.dandwiki.com/
