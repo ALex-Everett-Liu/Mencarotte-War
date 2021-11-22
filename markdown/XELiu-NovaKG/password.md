@@ -22,3 +22,5 @@
         - explorer or `运行 //192.168.x.x` (Win+R)
         - ftp://192.168.1.5:3721/ -- 805
         - ftp://192.168.20.86:3721/ -- hopes
+    - ---
+    - address management
