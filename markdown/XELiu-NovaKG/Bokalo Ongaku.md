@@ -15,6 +15,7 @@
     - [[keeno]]
     - 小川大輝
         - [[by your side]]
+    - [[ジミーサムP (JimmyThumb)]]
     - [[koyori]] / 電ポルP (denporuP)
     - [[KulfiQ]]
     - [[黒うさP (kurousaP)]]
