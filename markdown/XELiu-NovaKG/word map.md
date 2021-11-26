@@ -1166,6 +1166,11 @@
         - su
             - sub
                 - sub-
+                    - subject, 2
+                        - subjectively;
+                    - subjugate
+                        - subjugated;
+                    - submit
                     - substance, 2
                         - substantial
                     - substitute: 替换; 置换; 取代; 代换; 代入

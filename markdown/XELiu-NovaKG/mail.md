@@ -1,2 +1,2 @@
-- [[email]]
+- [[email]]; [[e-mail]]
 - [[postal mail]]

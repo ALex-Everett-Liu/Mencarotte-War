@@ -61,3 +61,12 @@
     - [[August 12th, 2021]]
         - test-comment-01
             - test-comment-01
+- dictionary
+    - (computing) 收件箱 -- [the place on a computer] where [new email messages] are shown
+    - There were four messages in my inbox. 《牛津高阶英汉双解词典》 (Oxford Dictionary)
+    - I have [a stack of emails] in my inbox. 
+    - www.[[ibm]].com
+        - One resource [I rather value] is my [e-mail inbox]([[e-mail]]). 
+        - In this case, you may need to [design and implement] a [custom inbox]. 
+        - [This type of customization] may [require implementing] a custom inbox. 
+        - [Figure 13] [starts the process to] [get the contents of] [Custom Inbox]. 

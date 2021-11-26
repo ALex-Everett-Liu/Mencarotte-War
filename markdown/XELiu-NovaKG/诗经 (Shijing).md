@@ -34,6 +34,9 @@ May [King Wen] never be weary of [us] men.           無射於人斯
     - Whether the various Shijing poems were [folk songs] or not, they "all seem to have [passed through the hands of] [[men of letters]] at the [royal Zhou court]([[royal court]])".[13] In other words, they show an overall [[literary polish]] together with some general [[stylistic consistency]]. 
         - About 95% of lines in the Poetry are written in a [[four-syllable meter]], with a slight [[caesura]] between the second and third syllables.[9] Lines tend to occur in [syntactically related] [[couplet]]s, 句法相关的对联 with occasional [[parallelism]], and [longer poems] are [generally divided into] [similarly structured] [[stanza]]s.[14] 结构相似的诗节
 201112-23:29
+- Notes
+    - [a]: The __*k-lˤeng__ (__jing__ 經) appellation 称号, 名目 [would not have been used until] the [[汉王朝 (Han dynasty)]], after the [core Old Chinese period].
+    - [b]: The [[variant]] character 苡 may sometimes [be used in place of] 苢, [in which case] the [[title]] is 芣苡, with corresponding [[substitution]]s for the fourth character of each line [within the body of the poem].
 - versions
     - [[Shijing, William Jennings translation version]]
         - The [Shi King], the Old “Poetry Classic” of the Chinese. A close [[metrical translation]], 严密的格律翻译 with [[annotation]]s by [[William Jennings]] ([[London]]: [George Routledge and Sons], 1891).

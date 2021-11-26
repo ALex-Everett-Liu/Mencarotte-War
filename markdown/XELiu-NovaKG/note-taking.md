@@ -274,6 +274,14 @@ webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库�
     - 以下是我使用 logseq 的[演示](https://club.roamedit.com/club/?thread-1595.htm)，结合 query table 功能可以实现和 notion database [一样的体验]。此功能比 Notion [更为灵活]、好用。 #pt8-99.99
     - Hook [就是这样一款](https://ld246.com/article/1629631415894)给 folder 或[其中的文档]、视频、图片[等文件][添加路径 url] 的 软件，也可以[互链] # pt8-99.99
     - 用 AirTable [打造][自己专属的][个人数据库](https://www.yuque.com/arvinxx/note/airtable#JuMxx) #pt8-99.98
+    - 从 AppFlowy 把 [Open Source] [Notion Alternative] 当做自己 slogan 的[那一刻起]，[就注定是个][平庸的产品]。
+
+[类似的还有]当初想给[大象]做 alternative 的 ZOHO、Alternote、Turtl，现在一个比一个差劲；joplin 比前面三个[做得好一些]，但它[最大的优点还是在于]开源，以 joplin 的[品质]如果去做[商业产品][估计根本收不到几个钱](https://ld246.com/article/1637867109927)。 #pt8-99.98
+
+
+        - 而且这些模仿者[做得差]并不完全是因为它们[模仿的对象]不够好，实际上就算那个模仿对象[再优秀也没用]，roam research 够优秀了吧，看看[开源模仿者] Athens，至今甚至连[勉强可用的程度][都没有达到]。
+
+总之，至少在[笔记类软件]里，[凡是把自己定位成]另一个[商业软件代替品]的[开源软件]，都没有必要关注。目前唯一的例外是 logseq，既开源[又做得很好]，但[人家][早晚也是要][商业化]的。
     - 思源笔记支持 [file 协议],例如[本地文件路径]是 `C:\Users\****\Documents\202106` 的话,使用 `file://C:/users/****/Documents/202106` 的[链接格式]就能够[外链](https://ld246.com/article/1623509532007)了. #pt8-99.98
     - 【需求】增加 `file://` 协议，方便[直接使用默认程序打开](https://club.roamedit.com/club/?thread-1010.htm)文件或文件夹 #pt8-99.98
         - 赞同楼上说的，试用了下菜包推荐的那个插件，颇为鸡肋，且[不能离线][不支持中文]。RE如果支持 file:// 协议，可以像 vivaldi [直接管理本地文件]，虽然简陋了点。

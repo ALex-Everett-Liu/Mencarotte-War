@@ -1,5 +1,5 @@
 - dictionary 
-    - They were [selling everything at a discount]. 《牛津高阶英汉双解词典》
+    - They were [selling everything at a discount]. 《牛津高阶英汉双解词典》 (Oxford Dictionary)
     - The [[theatre]] gives a 10% discount to [parties of more than ten]. 
     - They [have an offer on beer] [at the moment]. 
     - [There are reductions for children] [sharing a room with two adults]. 

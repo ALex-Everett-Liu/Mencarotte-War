@@ -1,5 +1,5 @@
 - dictionary 
-    - You can make a claim on your [[insurance policy]]. 按保险单索赔 《牛津高阶英汉双解词典》
+    - You can make a claim on your [[insurance policy]]. 按保险单索赔 《牛津高阶英汉双解词典》 (Oxford Dictionary)
     - I make no claim to understand [[modern art]]. 自认为不懂
     - I make no claim to be a paragon. 完人
     - If you [make a claim about the results], 宣扬您的主张 you must [provide enough information] that [the experiment can be reproduced by](((n3QzxCnsb))) another researcher or [[research team]]. www.[ibm].com

@@ -29,6 +29,9 @@
         - [They enjoy participating in] [a wide variety of activities], both locally and further afield.
         - [There's nothing to stop you from] [doing a bit of] [exploring further afield].
         - During their [[summer holiday]]s they cruised further afield to Normandy and Brittany. 乘船到
+    - 百度翻译例句库
+        - This is [my humble opinion], 一得之愚 for what it's worth. 仅供参考 
+        - You can [make capital of] your [knowledge of bibliography]. 利用 
     - danci.[911cha].com
     - www.[[dictall]].com
         - Design of [Average Principle Phase Difference Tester] [Based on FPGA].
@@ -58,16 +61,16 @@
         - ---
     - www.[[kekenet]].com
         - [Please tell us] the model number you want.
-    - 《牛津高阶英汉双解词典》
+    - www.[[okread]].info
+        - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
+        - ---
+    - 《牛津高阶英汉双解词典》 (Oxford Dictionary)
         - They took the [scenic route](((5n3Dw9NHj))) 景色优美的路线 [back to the hotel]. 
         - This model [comes with a number of] [optional extras]. 可供选择的附件
         - ---
         - A [tiny wire] is [threaded through a vein to] the heart. 从静脉里穿到心脏 
         - The wire had [scraped the skin] from her fingers. 刮掉了皮
         - [What gauge of wire] [do we need]? 多大直径的
-    - www.[[okread]].info
-        - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
-        - ---
     - [blog.sina]([[sina blog]]).com.cn
         - Suddenly [a brand new] [Jeep Cherokee] [screeches to a halt next to him]. “呲”的一下停在了他的边上 
         - ---
@@ -80,6 +83,7 @@
         - [One possible solution to] this is to [reduce learning cost] and [increase learning benefit].
         - Many [rubber goods] require [medium thermal black] 中粒子热裂炭黑 in order to meet highly demanding performance specifications. sto.net.cn
         - The model number can be found [on the bottom rail]. 围栏底部 db.21food.cn
+        - HFMD 口蹄症 is different from an [unrelated condition] [bearing a similar name], the [Foot-and-mouth disease (FMD)], 手足口病 which is another [contagious viral disease] 具有高度传染性的 of [cattle and swine]. 牛和猪 www.[spatioepi].com
 - classified by keyword 
 - ---
 - archived
