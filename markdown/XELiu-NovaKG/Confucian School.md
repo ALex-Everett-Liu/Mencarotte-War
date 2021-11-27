@@ -2,6 +2,8 @@
 - classic book
 - [[Confucius]]
 - [[五经 (Five Classics)]]
+- 四书 (Four Books)
+    - [[尚书 (Shangshu)]]
 - general...
     - propriety and righteousness
     - proper conduct

@@ -66,7 +66,7 @@
 - [[reform]]
 - [[revolution]]
 - 政治制度; hierarchy;
-    - aristocracy...
+    - [[aristocracy]]
         - nobility
         - [[royal court]]
     - [[tribe]]

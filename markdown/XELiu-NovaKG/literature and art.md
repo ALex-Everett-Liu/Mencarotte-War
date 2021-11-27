@@ -21,6 +21,7 @@
     - [[creative studio]]
     - history-inspired renewal
     - [[Web Design]]; [[Web design]]; [[web designer]]
+- [[female persona]]: 女性角色; 
 - general...
     - common people
     - [[liberal arts majors]]

@@ -1,2 +1,3 @@
 - [[author profile]];
+- [[authorship]]
 - [[co-author]]
