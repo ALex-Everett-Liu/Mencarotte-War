@@ -58,8 +58,10 @@
                 - [[eigenvector]]
                 - [[eigenspace]]
     - [[Schrödinger equation]]; [[Schrödinger’s equation]]
+- [[wave-particle duality]]; wave–particle duality
 - ---
 - 高等量子力学 (Advanced Quantum Mechanics) - 喀兴林
+- [[Introduction to Quantum Mechanics - Griffiths]]
 - 如果你来讲《量子力学》课程，你会如何设计？
 - #inbox
     - {{[[TODO]]}} [Four Postulates of Quantum Mechanics Are Three](https://link.zhihu.com/?target=https%3A//journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.110402) -- [zhihu](https://www.zhihu.com/question/451908940) #pt10-99.99

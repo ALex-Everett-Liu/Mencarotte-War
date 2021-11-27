@@ -3,7 +3,7 @@
     - parallel slit;
     - detected photon;
 - [[in phase]]; [[out of phase]]
-- interfere constructively; interfere destructively
+- [[interfere constructively]]; [[interfere destructively]]
 - [[interference pattern]]
     - accumulating spots
     - blip-by-blip assembly; point-by-point assembly

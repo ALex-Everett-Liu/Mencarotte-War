@@ -22,3 +22,10 @@ $$\int_{a}^{b}|\Psi(x, t)|^{2} d x=\left\{\begin{array}{l}
 210326-23:40
             - [6]: Quoted in [a lovely article] by N. David Mermin, “Is the moon there when nobody looks?” ([[Physics Today]], April 1985, p. 38).
 (如果没有任何人在看月亮，月亮真的还存在于那里吗？)
+- **Example 1.1
+Electron Interference.** [I have asserted that] particles (electrons, for example) have a [[wave nature]], [encoded](((D_5CGNDP0))) in Psi. How might we check this, in the laboratory? #[[electron interference]]
+    - The [classic signature](((qQjPYFN_T))) of a [[wave phenomenon]] is [[interference]]: two waves [[in phase]] [[interfere constructively]], and [[out of phase]] they [[interfere destructively]]. The [[wave nature of light]] was confirmed in 1801 by Young’s famous [[double-slit experiment]], showing [interference “fringes”](((kN2H3900C))) on a [distant screen](((j0VNhIQ05))) when a [[monochromatic beam]] [passes through two slits]. If [essentially the same experiment] is done with electrons, [the same pattern develops](((7BhAHdmDz))),[10] confirming the wave nature of electrons.
+(波的特征-干涉--双缝干涉实验--电子干涉-电子的波本性)
+210327-03:25
+        - [10]: Because [the wavelength of electrons] is typically very small, the slits have to be [extremely close together]. Historically, this was first achieved by Davisson and Germer, in 1925, using the [atomic layers in a crystal] as “slits.” For [an interesting account], see R. K. Gehrenbeck, __Physics Today__, January 1978, page 34.
+(由于电子的波长极小，相应的狭缝也得做的很小-晶体上的原子层)

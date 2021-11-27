@@ -9,7 +9,7 @@
         - [[statistical manifestation]]: 统计表现 
     - [[light speed]]; the speed of light
     - particle stream
-    - the wave nature of light; [[light wave]]
+    - the wave nature of light; [[light wave]]; [[wave nature]]
         - the nature of light
 - [[wave vector]]
 - [[wavefront]]
