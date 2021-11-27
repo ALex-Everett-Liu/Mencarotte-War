@@ -37,3 +37,4 @@
             - snapshot
         - reference point
     - wave amplitude or strength
+- wave phenomenon;

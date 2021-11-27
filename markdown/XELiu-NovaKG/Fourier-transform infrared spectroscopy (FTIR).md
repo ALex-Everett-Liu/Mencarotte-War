@@ -81,7 +81,7 @@ __缺点：易受温度影响__
         - 2、两个[内圈]用于[透过参比光]，两个[外圈]用于[透过测量光]。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnkkgIDDmt4.png?alt=media&token=729ce9d1-52f5-4c3a-bd1b-0ce114f4b050)
     - 光源 / MIR source / source module -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
-        - [[monochromatic light]]; monochromatic beam; [[monochromatic light beam]]; monochromatic light source
+        - [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source
     - [[modulation frequency]]
 - [[circular field stop]] - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器 -- [[optical relay block]] 
 - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
