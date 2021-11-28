@@ -684,7 +684,11 @@
             - lateral: 侧面
             - laugh
             - launch
+                - laurel
+                    - laureate
                 - launched;
+            - laurel
+                - laureate; 
             - lay
                 - layer
                 - laying;
@@ -1053,9 +1057,10 @@
                     - retaliation;
                 - retrieve
                     - retrieval;
-                - retro-
+                - retro-: 向后，回复;
                     - retroact
                         - retroactively;
+                    - retrospect: 追忆, 追溯, 回顾; in retrospect: 回想起来 
         - ri
             - rival: 竞争对手
         - ro

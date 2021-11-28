@@ -4,14 +4,16 @@
 - [[comment]]; [[review]];
 - [[compilation]]; [[compiled]]
 - consumer distribution mode
+- [[copy]]
 - [[edition]]
-    - edition numbering
-    - major edition
 - [[editor]]
 - [[identifier]]
     - Bibcode
     - doi
     - [[ISBN]]; [[ISBN number]]
+- index?
+    - [[ISSN]]
+    - [[worldcat]]
 - [[library science]]
 - longform content
 - official...
@@ -21,6 +23,7 @@
     - [print](https://workflowy.com/#/a25f9dd7446d)[-based media](https://workflowy.com/#/a25f9dd7446d)
 - [[publication]]; [[publisher]]; publishing platform
     - [[journal]]: 杂志, 日报, 期刊;
+    - [[publication date]]
 - [[release]]
 - supplemented
 - [[version]]

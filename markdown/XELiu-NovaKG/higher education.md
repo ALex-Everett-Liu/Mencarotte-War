@@ -18,6 +18,7 @@
     - affiliated professor
     - faculty
     - tenure status
+- [[undergraduate student]]
 - 院系部门; 教职员工;
     - [[Department of Applied Physics]]
 - #inbox

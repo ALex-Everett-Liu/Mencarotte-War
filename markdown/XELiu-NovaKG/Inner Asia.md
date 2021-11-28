@@ -18,6 +18,8 @@
         - [[肃慎 (Sushen)]]; 粛慎; 东北夷 (即海外辽东再往东北之地)
         - [[Tungusic language family]]; 满-通古斯语族; ツングース・満州語族
             - [[Paleosiberian languages]]
+            - #inbox
+                - 只要能确认是真的“-giya”而不是[汉军姓氏]加个“佳”的操作，我个人是认为 -giya（-家）系的[姓氏](https://www.zhihu.com/question/292508205/answer/2228899244)都来自【渤海人】，包括 Wang-giya（完颜，金代宗室，可能来自[渤海王氏]）、Dai-giya（大氏，渤海王族）。 #pt9-99.99
         - [[Udege]]; [[兀的改 (Wudigai)]]
             - 窝集, 林中人; 捕貂鼠人
                 - 贡貂

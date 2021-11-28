@@ -1,5 +1,5 @@
 - [[National Medals of Science (USA)]]
 - [[National Medals of Technology (USA)]]
-- [[Nobel Prize]]
+- [[Nobel Prize]]; Nobel laureate
     - Nobel Prize in Physics
 - [[Turing Award]]

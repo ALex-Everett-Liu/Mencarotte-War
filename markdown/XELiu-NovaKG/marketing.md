@@ -10,7 +10,7 @@
         - Mailchimp
 - market leader
 - [[price]]
-- sell; sale; sold
+- sell; sale; sold; have been sold
     - [[best-selling]]; [[best seller]]
     - most popular;
     - [[world market]]

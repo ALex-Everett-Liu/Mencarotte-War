@@ -1,7 +1,10 @@
 - acquire the skill;
+- [[explainer]]
 - [[higher education]]
 - [[learning]]...
+- [[lecture]]
 - [[pedagogy]]: 教学法
 - [[practical application]]: 实践应用 
 - [[school]]
 - [[selective education]]: 精英教育 
+- [[textbook]]

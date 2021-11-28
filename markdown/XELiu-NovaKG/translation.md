@@ -7,3 +7,4 @@
     - [DeepL](https://www.deepl.com/translator)
     - [Google Translation](https://translate.google.cn/)
         - [other languages](https://translate.google.cn/?sl=ja&tl=en&text=xxx&op=translate)
+- [[translator]]

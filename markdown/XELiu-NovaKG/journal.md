@@ -1,4 +1,5 @@
 - [[academic journal]]; [[scientific journal]]
+    - [[Nature]]
 - [[business journalist]]
 - [[first issue]]
 - [[journaling]]: 日志
