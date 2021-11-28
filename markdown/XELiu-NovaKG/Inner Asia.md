@@ -2,6 +2,7 @@
     - 阿尔泰语系
 - [[东胡 (Donghu)]]
     - [[Khitan (契丹)]]
+    - [[Mongolia]]
     - [[室韦 (Shiwei)]]
 - Northeast; Eastern barbarians; 東夷諸国
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
