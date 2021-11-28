@@ -14,6 +14,7 @@
     - [[trailer]]
 - [[multi-media]]
 - [[news]]
+- [[play]]
 - [[social media]]
 - subscription; subscribe...
     - [[newsletter]]

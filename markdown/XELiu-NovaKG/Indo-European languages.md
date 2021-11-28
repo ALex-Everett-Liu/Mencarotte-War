@@ -1,2 +1,3 @@
 - [[Afanasievo culture]]
+- [[Indo-European scholarship]]; [印欧学] 
 - [[Sanskrit]]

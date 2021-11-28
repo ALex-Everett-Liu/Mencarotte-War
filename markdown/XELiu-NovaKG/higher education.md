@@ -15,8 +15,8 @@
     - [[coding university]]
 - [[university]]...
 - university hierarchy
-    - affiliated professor
     - faculty
+    - [[professor]]
     - tenure status
 - [[undergraduate student]]
 - 院系部门; 教职员工;

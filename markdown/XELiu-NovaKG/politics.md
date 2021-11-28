@@ -10,6 +10,7 @@
     - [[Japan]]
     - [[United States (USA)]]
 - [[democracy]]
+    - [[candidate]]
     - [[crowd]]; [[wisdom of the crowd]]
     - [[popularity contest]]: 人气竞赛
     - [[the tyranny of the majority]]

@@ -7,3 +7,5 @@
         - [[magic wand]]
 - [[mythology]]
 - [[science fiction]]
+- 超自然;
+    - [[soul]]

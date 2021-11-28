@@ -1,2 +1,3 @@
 - [[Chinese mythology]]
 - [[Great Flood]]
+- [[lore]]

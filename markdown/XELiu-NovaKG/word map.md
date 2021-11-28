@@ -185,8 +185,8 @@
                 - single character;
         - ci
             - circle
-            - circum-
-                - circumstance: 情况, 状况, 环境;
+            - circum-: 环绕，周围;
+                - circumstance: 情况, 状况, 环境; 事件; 
             - cite
                 - citation
                 - cited;
@@ -334,7 +334,7 @@
                 - decisively;
             - declare
                 - self-declared;
-            - dedicate
+            - dedicate: zhuanzhu14, zhuanyong, zhuanshu13, xianshen41;
                 - dedicated;
             - deduce
                 - [[deduction]];
@@ -913,7 +913,7 @@
                 - depict
                     - depicted, 2;
                 - picturing;
-                - [[figure]]; [[draw]]; [[sketch]]
+                - [[figure]]; [[draw]]; [[sketch]]; [[portray]]
             - piece
                 - small piece;
             - pierce
@@ -922,6 +922,9 @@
                 - [compile](https://workflowy.com/#/df6f38ee7534)
             - pioneer
                 - pioneered;
+        - ph
+            - phan: 表象，显像；
+                - [[phantom]]: 幻影
         - pl
             - pla
                 - plast
@@ -1139,7 +1142,8 @@
                 - stack, 2
                     - stacked;
                 - staff, 2
-                - stance
+                - stance: 姿态;
+                    - circumstance: 情况, 状况, 环境; 事件; 
                     - substance, 2
                 - start
                     - startup; [[starting point]]

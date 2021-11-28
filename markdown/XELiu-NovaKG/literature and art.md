@@ -1,6 +1,7 @@
 - [[animation]]
     - [[anime]]
 - [[Chinese literature]]
+- [[classic]]
 - [[comedy]]
 - creative; [[creativity]]
     - idea maze
@@ -26,6 +27,7 @@
     - common people
     - [[liberal arts majors]]
     - [[men of letters]]
+- [[joys and sorrows]]
 - life...
     - [[过客]]
 - literary device; 文学技巧

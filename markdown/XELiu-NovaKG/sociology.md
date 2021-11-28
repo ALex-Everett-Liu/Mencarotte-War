@@ -55,8 +55,9 @@
             - 还有一小部分苏北人皖北人[南下上海]，[成为日后][老上海人]的[重要组成部分](https://www.zhihu.com/question/466560831/answer/2167250644)
 
 至于河南人，[有一小部分]闯关东，也有一小部分[去了上海]
-- 阶级; 社会阶层
-    - [[middle-class]]
+- social classes; 阶级; 社会阶层
+    - all classes of society; 
+    - [[middle-class]]; [[middle class]]
     - #inbox
         - 所谓“知识”，[21世纪之后的东西]要么都在 arxiv，要不然就在 scihub，21世纪之前的在 scihub 和[各种出版商]的[电子书]上，springer 还专门[把老书都免费了一批](https://bbs.saraba1st.com/2b/thread-2005469-1-1.html) #pt9-99.99
             - [自然是]只有[好的课题组][才能有好的产出]，[后排垃圾课题组]可能颗粒无数，但这[开放程度]怎么也比天天扯成[武林秘籍]一样的[玄幻说法]好得多

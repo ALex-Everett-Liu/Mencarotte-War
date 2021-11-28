@@ -1,3 +1,4 @@
+- [[ancient Chinese]]
 - [[pre-shang]]
 - Pre-empire Period of China
     - [[商王朝 (Shang dynasty)]]
