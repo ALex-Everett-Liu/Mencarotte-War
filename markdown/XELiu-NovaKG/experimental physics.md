@@ -21,4 +21,7 @@
     - central peak
     - peak; spike
     - yield the value;
+- screen
+    - distant screen;
+    - a spot on the screen; accumulating spots;
 - [[thought experiment]]

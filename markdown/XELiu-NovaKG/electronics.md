@@ -5,7 +5,7 @@
         - [[design semiconductors]];
     - diode
         - [[tunnel diode]]
-    - electron beam
+    - [[electron beam]]
     - [[integrated circuit]]
     - [[logic gate]]
     - [[microcontroller]]; [[controller]]

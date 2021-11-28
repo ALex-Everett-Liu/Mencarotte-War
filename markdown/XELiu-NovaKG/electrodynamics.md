@@ -26,7 +26,7 @@
     - [[resistance]]
         - [[impedance]]
 - [[electron]]
-    - electron beam
+    - [[electron beam]]
     - [[electron charge]]
 - [[Maxwell's equations]]
 - medium; media; [[material medium]]

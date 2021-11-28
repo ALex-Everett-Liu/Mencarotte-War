@@ -5,7 +5,7 @@
 - [[in phase]]; [[out of phase]]
 - [[interfere constructively]]; [[interfere destructively]]
 - [[interference pattern]]
-    - accumulating spots
+    - accumulating spots;
     - blip-by-blip assembly; point-by-point assembly
     - bright and dark bands
     - [[interference fringe]]
