@@ -69,6 +69,7 @@
 - 城乡建设;
 - 政治制度; hierarchy;
     - [[aristocracy]]
+        - [[lord]]
         - nobility
         - [[royal court]]
     - [[tribe]]

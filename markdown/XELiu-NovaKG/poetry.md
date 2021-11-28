@@ -96,6 +96,7 @@
     - end rhyme; internal rhyming; rhyme words
     - lax rhyming practice
     - rhyme pattern
+    - [[叠韵 (dieyun)]]
 - [[song]]; [[sing]]
     - [[lyric]]
         - musical accompaniment

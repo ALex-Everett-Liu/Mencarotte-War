@@ -3,7 +3,7 @@
 - [[regent]]; [[regency]]
 - [[sovereign]]
 - 继承制度
-    - [[crown prince]]: 王储 
+    - [[prince]]
 - ---
 - dictionary 
     - The [[revolution]] [tolled the death knell for] the [Russian monarchy]. 敲响了丧钟 《牛津高阶英汉双解词典》

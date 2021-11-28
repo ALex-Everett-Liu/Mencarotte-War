@@ -13,4 +13,5 @@
     - [[Chinese Text Project]]
 - 理学
     - [[朱熹 (Zhu Xi)]]
+- [[周礼 (Zhouli)]]
 - [[易经 (Yijing)]]

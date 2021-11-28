@@ -1280,6 +1280,8 @@
             - valid, 2
                 - validate; validating
                 - validity;
+            - [[vale]]
+                - [[valley]]
             - value
                 - face value: 票面价值, 表面价值;
                 - invaluable;

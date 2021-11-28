@@ -23,6 +23,8 @@
     - history-inspired renewal
     - [[Web Design]]; [[Web design]]; [[web designer]]
 - [[female persona]]: 女性角色; 
+    - [[young lady]]
+    - [[maid]]
 - general...
     - common people
     - [[liberal arts majors]]
@@ -45,6 +47,8 @@
 - [[music]]
 - [[novel]]
 - [[poetry]]
+- review;
+    - [[鉴赏 (jianshang)]]
 - scene; scenery...
 - [[wallpaper]]
 - [[western literature]]
