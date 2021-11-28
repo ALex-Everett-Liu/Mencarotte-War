@@ -1,7 +1,7 @@
 - [[annotation]]
 - [[block reference]]; referenced block
 - [[citation]]
-- [[commentary]]
+- [[commentary]]; [[commentator]]
 - [[cross-reference]]; [[crosslink]]
 - [[footnote]]
 - general reference

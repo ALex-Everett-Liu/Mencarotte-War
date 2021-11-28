@@ -2,6 +2,7 @@
 - [[localization]]
     - [[native language]]
 - [[metrical translation]]
+- [[proper name]]
 - translation tools
     - [baidu fanyi](https://fanyi.baidu.com/)
     - [DeepL](https://www.deepl.com/translator)

@@ -1,3 +1,4 @@
+- [[aspirato]]: [送气音]; 
 - [[Old Chinese phonology]]
 - [[pronunciation]]
     - [[IPA]]

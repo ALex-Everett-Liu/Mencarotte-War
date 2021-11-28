@@ -11,4 +11,6 @@
     - [[郑玄 (Zheng Xuan)]]
 - tools...
     - [[Chinese Text Project]]
+- 理学
+    - [[朱熹 (Zhu Xi)]]
 - [[易经 (Yijing)]]

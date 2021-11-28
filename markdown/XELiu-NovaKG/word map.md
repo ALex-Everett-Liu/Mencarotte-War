@@ -635,8 +635,7 @@
                     - invited;
         - is
             - isle
-                - island
-                - islet
+                - [[islet]]; island
                 - insula
                 - peninsula
             - iso-
@@ -813,6 +812,9 @@
                 - [neoclassical;](https://workflowy.com/#/4cea0363f81f)
             - new
                 - renew; renewal
+        - no
+            - note
+                - denote: 意指, 指示, 表示; 标志; 预示, 象征; 
         - nu
             - nudge: 用肘轻推, 引起注意;
             - number
@@ -833,6 +835,8 @@
             - obsess
                 - obsessed; obsession
         - on
+            - onomastic: 名字, 亲自签名;
+                - onomatology: 专有名词学; [[onomatopoetic]]: 拟声, 声喻;
             - onto
                 - [[ontology]]
             - onym

@@ -10,3 +10,7 @@
     - venerate: chongjing24, jingzhong44
     - In it we have some of the [oldest writings] of that [ancient race] of strange [[custom]] and [peculiar ideas]. 奇怪的风俗和观念 And yet, as proving that [[human nature]] is the same in its [[feeling]]s and [[humour]]s, and in its [[virtues and vices]], [despite the limits of millenniums] and [the boundaries of continents], there are pages in which [we feel ourselves] [standing in the midst of] the [[modern life]] of Europe.
 201231-21:33
+- [PRONUNCIATION]([[pronunciation]]) OF [PROPER NAMES]([[proper name]]), &C.
+    - ‘[in the middle of a word] [denotes](((T1BFzdO42))) an [[aspirato]] (h).
+- [SPECIMEN]([[specimen]]) OF A [STANZA]([[stanza]]) IN THE ORIGINAL.
+210101-02:40
