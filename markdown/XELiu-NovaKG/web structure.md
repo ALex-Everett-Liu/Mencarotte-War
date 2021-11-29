@@ -1,6 +1,7 @@
 - [[link]]
 - birds-eye view; [[bird’s eye view]]
 - [[bottom-up approach]]: 自下而上的方法; [[top-down approach]]
+    - [[top-down feedback]]; 
 - [[complex web]];
 - [[networked science]]
     - [[dynamic network]]
@@ -14,7 +15,7 @@
     - connect with lines; [[connect ideas]]; connection between pages
     - [[context]]; [[original context]]; [[original meaning]]
     - [[explicit relationship]]
-    - [[interconnectivity]]
+    - [[interconnectivity]]: 相互连结, [互联性]; 
         - [[interconnected pages]]
     - multiple relationships; maps all possible relationships
     - reuse; reuse information

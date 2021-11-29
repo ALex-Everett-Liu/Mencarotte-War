@@ -3,5 +3,6 @@
 - [[causal loop diagram]]
 - [[causal path]]
 - [[causal reasoning]]
+- [[causal relation]]
 - [[linear causality]]; [[nonlinear causality]]
 - [[root cause]]
