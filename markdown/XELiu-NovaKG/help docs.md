@@ -8,6 +8,7 @@
 - help centre; [[help database]]; 
 - [[help menu]]
 - [[home page]]; homepage; [[main page]];
+    - [[getting started]]
     - main article
     - [[welcome]]
 - [[manual]]; [[user manual]]

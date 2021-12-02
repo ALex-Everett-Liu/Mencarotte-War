@@ -8,7 +8,7 @@
 - partial search
 - [[query]]; query language
 - [[search engine]]; web search engine
-- [[search function]]; 
+- [[search function]]; [[search tool]]
 - [[search result]]
 - sorting
     - alphabetical order
