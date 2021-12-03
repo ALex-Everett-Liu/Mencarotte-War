@@ -1,6 +1,6 @@
 - [[gas chromatography]]
+- [[liquid chromatography]]
 - [[plant pigment]]; 1903, 植物色素提取;
-- [[pump]]
 - separating and analyzing compounds: 混合物分离与分析技术; 分离与分析样品
     - [[mixture separation]]; separating the different components
 - ---

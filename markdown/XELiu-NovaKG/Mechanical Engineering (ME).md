@@ -27,6 +27,7 @@
 - [[power drill]]: 电钻
     - [[drill holes]]: 钻孔; drilling holes
 - [[prime mover]]: 原动机 
+- [[pump]]
 - [[nanomechanics]]
 - [[reciprocating action]]; [[reciprocating motion]]: 往复运动
 - [[robotics]]

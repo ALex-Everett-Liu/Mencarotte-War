@@ -5,7 +5,7 @@
     - [[DECO*27]]
     - [[コウ (Diarays)]]
     - [[doriko]]
-    - [[Eve (utaite)]]
+    - [[Eve (utaite)]] / Eve（歌い手）
     - [[ハチ (hachi)]]
     - [[鼻そうめんP (hanasoumenP)]]
     - [[はりー (harry)]]
