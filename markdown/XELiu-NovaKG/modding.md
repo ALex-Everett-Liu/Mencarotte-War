@@ -3,6 +3,7 @@
 - [[checksum]]; checksum manifest
 - [[moddable]]
 - [[modder]]
+- modify the software; 
 - overhaul
     - [[major overhaul]]; small tweak
     - vanilla gameplay overhaul; 

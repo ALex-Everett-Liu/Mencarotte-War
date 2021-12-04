@@ -2,7 +2,7 @@
 - [[link]]
 - [[markup language]]; [[Markup language]]; [[markup]]
 - [[online]] or [[offline]]; web or local...
-    - [[desktop software]]
+    - [[desktop software]]; [[desktop]]
     - portable version; green software
     - [[web-based application]]; [[web application]]
 - [[source]]; [[reference]]

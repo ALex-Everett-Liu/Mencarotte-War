@@ -40,7 +40,7 @@ License	[[GPL]]
     - [1]: ["Org mode for Emacs – Your Life in Plain Text"](https://orgmode.org/). __orgmode.org__. OrgMode team. Retrieved 2020-09-15.
     - [2]: [Gmane]: [Org, Org-mode, Orgmode, Org Mode](http://thread.gmane.org/gmane.emacs.orgmode/56628/focus=56667). [Archived](https://web.archive.org/web/20170910221714/http://thread.gmane.org/gmane.emacs.orgmode/56628/focus=56667) 2017-09-10 at the [Wayback Machine] - Carsten Dominik: Org, the system; Org-mode, the major mode
     - [3]: Dominik, Carsten ([2011-12-15](https://vimeo.com/33725204)), [__Emacs Org-mode: Organizing a Scientist's Life and Work (abstract and video)__], [Max Planck Institute for Neurological Research](https://en.wikipedia.org/wiki/Max_Planck_Society)
-    - [4]: [__Org Mode Manual: History and acknowledgments__], [Free Software Foundation](http://orgmode.org/org.html#History-and-Acknowledgments)
+    - [4]: [__Org Mode Manual: History and acknowledgments__], [Free Software Foundation](http://orgmode.org/org.html#History-and-Acknowledgments) #[[Free Software Foundation]]
     - [7]: ["Pandoc - Org-mode features and differences"](https://pandoc.org/org.html). __pandoc.org__. Retrieved 2021-01-29.
     - [10]: Schulte, Eric; Davison, Dan; Dye, Thomas; Dominik, Carsten (2012-01-25). ["A Multi-Language Computing Environment for Literate Programming and Reproducible Research"](https://doi.org/10.18637%2Fjss.v046.i03). __Journal of Statistical Software__. **46** (1): 1–24. [doi]:[10.18637/jss.v046.i03](https://doi.org/10.18637%2Fjss.v046.i03). [ISSN] [1548-7660](https://www.worldcat.org/issn/1548-7660).
     - [12]: Dominik, Carsten, [__Technical description in 24 words__](http://orgmode.org/worg/org-quotes.html#sec-2-1)

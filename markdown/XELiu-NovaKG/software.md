@@ -1,4 +1,6 @@
 - [[customization]]
+- distribution; 分发;
+    - [[redistribute]]; [[distributed]]
 - [[feature]]...
     - advanced feature
     - [[feature request]]
