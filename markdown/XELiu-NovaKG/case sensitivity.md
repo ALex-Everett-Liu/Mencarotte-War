@@ -1,0 +1,2 @@
+- [[case-sensitive]]; [[case sensitive]];; case-insensitive; [[case insensitive]]
+- [[match case]]

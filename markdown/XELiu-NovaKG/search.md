@@ -1,14 +1,21 @@
-- [[case-sensitive]]; [[case sensitive]]
+- [[advanced search]]
+- [[case sensitivity]]; 
 - [[filter]]; filtering
     - pass the query filters
+- [[find]]
 - [[Information Retrieval (IR)]]
 - local search; desktop search
     - [[Everything Search]]
 - locate the file;
 - partial search
 - [[query]]; query language
+- replace
+    - find and replace; 
+    - replace all occurrences; 
+- [[search box]]
 - [[search engine]]; web search engine
 - [[search function]]; [[search tool]]
+- search into multiple files; 
 - [[search result]]
 - sorting
     - alphabetical order

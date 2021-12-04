@@ -50,6 +50,7 @@ FastCopy [最大的优势是]在复制「[包含大量小文件的]文件夹」�
 - [[settings]]
 - [[Software as a Service (SaaS)]]
 - storage
+    - [[buffer]]
     - [[capability]]; capacity
         - [[fill to overflowing]]
         - [[raw storage]]

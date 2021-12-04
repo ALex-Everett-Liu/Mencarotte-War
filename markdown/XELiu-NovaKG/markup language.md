@@ -15,7 +15,7 @@
     - display style
     - [[emphasize text]]
     - [[font]]
-    - [[highlight]]
+    - [[highlight]]; [[highlighting]]
     - italics
     - [[scrollbar]]
 - [[style sheet language]]

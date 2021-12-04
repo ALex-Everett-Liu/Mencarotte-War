@@ -7,7 +7,7 @@
 - design and [[verification]];
 - [[ecosystem]]
 - event
-    - [[button press]]; press the button
+    - [[button]]
     - [[interrupt]]; [[interrupt system]]
         - [[internal timer overflow]]
         - [[interrupt service routine (ISR)]]: 中断服务例程; [[interrupt handler]]: 中断处理程序
