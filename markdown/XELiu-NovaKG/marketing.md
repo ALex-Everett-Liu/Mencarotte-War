@@ -11,6 +11,6 @@
 - market leader
 - [[price]]
 - sell; sale; sold; have been sold
-    - [[best-selling]]; [[best seller]]
+    - [[best-selling]]; [[best seller]]; bestselling 
     - most popular;
     - [[world market]]

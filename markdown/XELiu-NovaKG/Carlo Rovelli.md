@@ -30,15 +30,22 @@
         - [C Rovelli, L Smolin: "Spin Networks and Quantum Gravity"](http://inspirehep.net/record/394831), __Physical Review__, **D53**, 5743 (1995).
         - {{[[TODO]]}} [C Rovelli: "Relational Quantum Mechanics"](http://inspirehep.net/record/406886), __International Journal of Theoretical Physics__ **35**, 1637 (1996).
         - [C Rovelli "Loop Quantum Gravity"](http://www.livingreviews.org/Articles/Volume1/1998-1rovelli/), __Living Rev.Rel.__ **1** (1998) 1.
-        - [A Connes, C Rovelli, "Von Neumann algebra automorphisms and time-thermodynamics relation in general covariant quantum theories"](http://inspirehep.net/record/374105), __Classical and Quantum Gravity__, **11**, 2899 (1994).
+        - A Connes, C Rovelli, "[Von Neumann algebra automorphisms] 自同构 and [time-thermodynamics relation] in [general covariant quantum theories](http://inspirehep.net/record/374105)", __Classical and Quantum Gravity__, **11**, 2899 (1994).
         - [M Reisenberger, C Rovelli: "Sum over Surfaces Form of Loop Quantum Gravity"](http://inspirehep.net/record/427449), __Physical Review__ **D56**, 3490 (1997).
-        - [C Rovelli "Time In Quantum Gravity: Physics Beyond The Schrodinger Regime"](http://inspirehep.net/record/287387), __Physical Review__ **D43**, 442, (1991).
+        - {{[[TODO]]}} [C Rovelli "Time In Quantum Gravity: Physics Beyond The Schrodinger Regime"](http://inspirehep.net/record/287387), __Physical Review__ **D43**, 442, (1991).
         - [J Engle, E Livine, R Pereira, C Rovelli, "LQG vertex with finite Immirzi parameter"](http://inspirehep.net/record/767136), __Nuclear Physics__, **B799**, 136 (2008).
 - References
     - [1]: ["Resume"](http://www.cpt.univ-mrs.fr/~rovelli/vita.pdf) (PDF). __www.cpt.univ-mrs.fr__.
     - [2]: [en:List of literary works by number of translations](https://en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations)
-    - [3]: Carlo Rovelli (2017-07-25). ["Carlo Rovelli: 'I felt the beautiful adventure of physics was a story that had to be told'"](https://www.theguardian.com/books/2017/jul/25/carlo-rovelli-i-felt-the-beautiful-adventure-of-physics-was-a-story-that-had-to-be-told). __The Guardian__. Retrieved 2018-04-05.
+    - [3]: Carlo Rovelli (2017-07-25). "Carlo Rovelli: 'I felt the [beautiful adventure] of physics was [a story that had to be told](https://www.theguardian.com/books/2017/jul/25/carlo-rovelli-i-felt-the-beautiful-adventure-of-physics-was-a-story-that-had-to-be-told)'". __The Guardian__. Retrieved 2018-04-05.
     - [4]: ["2019 Global Thinkers"](https://foreignpolicy.com/2019-global-thinkers/). __Foreign Policy__. 2019-01-12.
     - [5]: Carlo Rovelli, "Fatti Nostri".
     - [6]: "Fatti Nostri", __Bertani editore__, 1977, (re-edited Rimini, Nda Press, 2007), [ISBN](https://en.wikipedia.org/wiki/ISBN_%28identifier%29) [978-88-89035-17-7](https://en.wikipedia.org/wiki/Special:BookSources/978-88-89035-17-7)
     - [7]: Carlo Rovelli, "Cos'è il tempo? Cos'è lo spazio?".
+- External links
+    - [Homepage](http://www.cpt.univ-mrs.fr/~rovelli/)
+    - [Introduction to Loop Quantum Gravity](https://www.youtube.com/playlist?list=PLwLvxaPjGHxR6zr421tXXlaDGbq8S36Un), [[online course]] by Carlo Rovelli.
+    - Carlo Rovelli, __A Dialog on Quantum Gravity__, [[preprint]] available as [hep-th/0310077](https://arxiv.org/abs/hep-th/0310077)
+    - __Loop Quantum Gravity__ [by Carlo Rovelli](http://www.livingreviews.org/lrr-1998-1/)
+    - [Quantum Gravity](http://www.cpt.univ-mrs.fr/~rovelli/book.pdf), draft of the book __Quantum Gravity__
+    - [__Curriculum Vitae et Studiorum__](http://www.cpt.univ-mrs.fr/~rovelli/vita.pdf)
