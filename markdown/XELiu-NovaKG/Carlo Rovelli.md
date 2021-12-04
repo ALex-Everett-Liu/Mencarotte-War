@@ -11,3 +11,34 @@
 - Main contributions
     - In 1988, Rovelli, [[Lee Smolin]] and [[Abhay Ashtekar]] introduced a theory of quantum gravity called loop quantum gravity. In 1995, Rovelli and Smolin obtained a [[basis of states]] of quantum gravity, labeled by [[Penrose]]'s [[spin network]]s, and using this basis [they were able to show that] the theory predicts that [[area]] and [[volume]] are [[quantized]]. This result indicates the existence of [[a discrete structure of space]] [at a very small scale]. 
         - In 1997, Rovelli and Michael Reisenberger introduced a "sum over surfaces" formulation of the theory, which has since evolved into the currently covariant "spinfoam" version of loop quantum gravity. In 2008, [in collaboration with] Jonathan Engle and Roberto Pereira, he has introduced the [spin foam vertex amplitude](((neVwyavz0))) 顶点振幅 which is the basis of the [current definition] of the loop quantum gravity [[covariant dynamics]]. Loop theory is today [considered a candidate for] [a quantum theory of gravity]. It [finds applications in] [[quantum cosmology]], [[spinfoam cosmology]] and [[quantum black hole]] physics.
+- ## Books and articles
+    - Rovelli has written more than 200 [[scientific article]]s published in [[international journal]]s. He has published two [[monograph]]s on loop quantum gravity and several [[popular science]] books. His book, [[Seven Brief Lessons on Physics]], [has been translated into] 41 languages.
+    - ### Scientific books
+        - Quantum Gravity, Cambridge University Press, 2004, ISBN 0-521-83733-2
+        - With Francesca Vidotto, Covariant Loop Quantum Gravity: [An Elementary Introduction to] Quantum Gravity and [Spinfoam Theory], [[Cambridge University Press]], 2014, ISBN 978-1107069626
+    - ### Popular books
+        - __Helgoland__, Penguin Random House 2021 / Helgoland, Adelphi, 2020.
+        - [There Are Places in the World Where] Rules Are [Less Important Than] Kindness, Penguin Random House, 2020 / Ci sono luoghi al mondo dove più che le regole è importante la gentilezza, Solferino, 2020.
+        - [[The Order of Time]], [[Penguin Random House]], 2018 / L'ordine del tempo, Adelphi, 2017.
+        - Reality Is Not What It Seems: [The Journey to] Quantum Gravity, Penguin Random House, 2016 / La realtà non è come ci appare: La struttura elementare delle cose, Raffaello Cortina Editore, 2014.
+        - Seven Brief Lessons on Physics, Penguin Random House, 2015 / Sette brevi lezioni di fisica, Adelphi, 2014.
+        - The first scientist [[Anaximander]] and his legacy, Westholme Publishing, 2011 / Che cos'è la Scienza. La rivoluzione di Anassimandro., Mondadori, 2012.
+        - __What is time, what is space?__ (interview), Di Renzo Editore, 2006 / Che cos'é il tempo, che cos'é lo spazio?, Di Renzo Editore, 2004.
+    - Main scientific papers
+        - {{[[TODO]]}} [C Rovelli, L Smolin: "Discreteness of Area and Volume in Quantum Gravity"](http://inspirehep.net/record/379391), __Nuclear Physics__, **B442**, 593 (1995).
+        - [C Rovelli, L Smolin: "Loop space representation for quantum general relativity"](http://inspirehep.net/record/25518), __Nuclear Physics__, **B331**, 80 (1990).
+        - [C Rovelli, L Smolin: "Spin Networks and Quantum Gravity"](http://inspirehep.net/record/394831), __Physical Review__, **D53**, 5743 (1995).
+        - {{[[TODO]]}} [C Rovelli: "Relational Quantum Mechanics"](http://inspirehep.net/record/406886), __International Journal of Theoretical Physics__ **35**, 1637 (1996).
+        - [C Rovelli "Loop Quantum Gravity"](http://www.livingreviews.org/Articles/Volume1/1998-1rovelli/), __Living Rev.Rel.__ **1** (1998) 1.
+        - [A Connes, C Rovelli, "Von Neumann algebra automorphisms and time-thermodynamics relation in general covariant quantum theories"](http://inspirehep.net/record/374105), __Classical and Quantum Gravity__, **11**, 2899 (1994).
+        - [M Reisenberger, C Rovelli: "Sum over Surfaces Form of Loop Quantum Gravity"](http://inspirehep.net/record/427449), __Physical Review__ **D56**, 3490 (1997).
+        - [C Rovelli "Time In Quantum Gravity: Physics Beyond The Schrodinger Regime"](http://inspirehep.net/record/287387), __Physical Review__ **D43**, 442, (1991).
+        - [J Engle, E Livine, R Pereira, C Rovelli, "LQG vertex with finite Immirzi parameter"](http://inspirehep.net/record/767136), __Nuclear Physics__, **B799**, 136 (2008).
+- References
+    - [1]: ["Resume"](http://www.cpt.univ-mrs.fr/~rovelli/vita.pdf) (PDF). __www.cpt.univ-mrs.fr__.
+    - [2]: [en:List of literary works by number of translations](https://en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations)
+    - [3]: Carlo Rovelli (2017-07-25). ["Carlo Rovelli: 'I felt the beautiful adventure of physics was a story that had to be told'"](https://www.theguardian.com/books/2017/jul/25/carlo-rovelli-i-felt-the-beautiful-adventure-of-physics-was-a-story-that-had-to-be-told). __The Guardian__. Retrieved 2018-04-05.
+    - [4]: ["2019 Global Thinkers"](https://foreignpolicy.com/2019-global-thinkers/). __Foreign Policy__. 2019-01-12.
+    - [5]: Carlo Rovelli, "Fatti Nostri".
+    - [6]: "Fatti Nostri", __Bertani editore__, 1977, (re-edited Rimini, Nda Press, 2007), [ISBN](https://en.wikipedia.org/wiki/ISBN_%28identifier%29) [978-88-89035-17-7](https://en.wikipedia.org/wiki/Special:BookSources/978-88-89035-17-7)
+    - [7]: Carlo Rovelli, "Cos'è il tempo? Cos'è lo spazio?".

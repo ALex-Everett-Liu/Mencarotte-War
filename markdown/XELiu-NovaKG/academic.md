@@ -1,6 +1,7 @@
 - [[article]], [[essay]], [[sci/paper]], [[thesis]]...
     - [[chapter]]; [[section]]
     - [[excerpt]]
+    - [[monograph]]: 专著
     - [[source]]; [[reference]]
 - [[peer-reviewed]];
 - tool...

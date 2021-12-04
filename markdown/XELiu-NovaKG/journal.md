@@ -1,4 +1,5 @@
 - [[academic journal]]; [[scientific journal]]
+    - [[international journal]]
     - [[Nature]]
 - [[business journalist]]
 - [[first issue]]
