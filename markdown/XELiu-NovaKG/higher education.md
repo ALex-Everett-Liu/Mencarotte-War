@@ -7,7 +7,7 @@
     - [[graduate student]]
     - Master degree; [[graduate degree]]
     - [[PhD]]
-    - postdoctoral position
+    - [[postdoctoral position]]
 - major...
     - [[liberal arts majors]]
     - science majors
@@ -15,7 +15,7 @@
     - [[coding university]]
 - [[university]]...
 - university hierarchy
-    - faculty
+    - [[faculty]]
     - [[professor]]
     - tenure status
 - [[undergraduate student]]

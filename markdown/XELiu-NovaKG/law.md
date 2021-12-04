@@ -1,4 +1,5 @@
 - [[copyright]]
+- [[crime]]
 - [[penalty]]
 - warranty: 担保
     - [[implied warranty]]: 默示保证 

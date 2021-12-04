@@ -8,7 +8,7 @@
 - martial...
     - [[martial display]]
 - military formation
-- military service
+- [[military service]]
 - [[soldier]]
     - foot soldier;
 - [[war]]

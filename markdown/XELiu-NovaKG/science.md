@@ -21,7 +21,7 @@
     - [[scientific inquiry]]
     - scientific methodology...
     - [[scientific opinion]]
-- [[popularize of science]]; popular science
+- [[popularize of science]]; [[popular science]]
     - [[Scientific American]]
 - [[prize]]
 - [[research]]; [[researcher]]

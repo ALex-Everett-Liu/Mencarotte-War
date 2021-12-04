@@ -5,7 +5,7 @@
 - [[background spacetime]]
 - [[de Sitter space]]
     - [[de Sitter vacuum]]
-- a discrete structure of space
+- [[a discrete structure of space]]
 - [[empty space]]
     - empty universe
     - existential; [[existential philosophy]]

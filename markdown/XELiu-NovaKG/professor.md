@@ -1,1 +1,1 @@
-- affiliated professor
+- [[affiliated professor]]

@@ -5,7 +5,13 @@
 - The "*Search*->__Replace...__" menu item triggers a [[dialog]] for [find and replace](((ws7pmpfLu))) [in the current page]. The "Next" and "Previous" buttons can be used to [find the next or previous occurrence] without replacing. The "Replace" button can be used to [replace one occurrence only]. The "Replace all" button can be used to [replace all occurrences](((Ie22VNt7j))) in the current page at once.
 211204-11:25
     - The **Match case** check-box toggles [[case sensitivity]]. The search is [by default] [not case sensitive]. But [it can be useful to] [match case] when [looking for names] or [[acronym]]s.
-    - The **Whole word** check-box toggles whether [[partial word matches]] are included. ^^This is [especially useful when] [looking for rather short words].^^ 太有用了，很大程度上都不需要正则表达式了
+    - The **Whole word** check-box toggles whether [partial word matches](((X9ooEnYla))) are included. ^^This is [especially useful when] [looking for rather short words].^^ 太有用了，很大程度上都不需要正则表达式了
 201213-20:24
-    - The **Regular expressions** check-box toggles [[advanced search]] and replace where "[[regular expression]]s" can be used to matched [[text pattern]]s. When this [[option]] is [[enabled]] also [[escape]]s 转义符 in the replacement string will be [[expanded]] and [groups in the pattern] can be [[referenced]] in the [[replacement string]]. See the [python documentation](http://docs.python.org/library/re.html) [for details on] the [[syntax]] for regular expressions. #Python #documentation
+    - The **Regular expressions** check-box toggles [[advanced search]] and replace where "[[regular expression]]s" can be used to matched [[text pattern]]s. When this option is enabled also [[escape]]s in the [replacement string] will be expanded and [groups in the pattern] can be referenced in the [[replacement string]]. See the [python documentation](http://docs.python.org/library/re.html) [for details on] the [[syntax]] for regular expressions. #Python #documentation
 201214-07:31
+- ## Commandline usage
+    - You can also [execute a search] using [[commandline argument]]s, [e.g.]:
+201214-09:48
+        - `zim --search Notes "tag:home and tag:foo"`
+        - which will [print a list of all pages] that contain both the [tags](file:///C:/Program%20Files/Zim%20Desktop%20Wiki/share/zim/manual/Help/Tags.txt) "`@home`" and "`@foo`"
+- [[Zim Search Query Syntax]]

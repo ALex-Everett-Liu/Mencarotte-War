@@ -5,11 +5,11 @@
 - character group
     - capturing group
 - [[character string]]
-- [[escape character]]
+- [[escape character]]; [[escape]]; 转义符 
     - [[backslash-escaped]]; [[forward slash]]; [[backslash]]
 - [[meta character]]
 - [[replacement character]]
-- [[reserved character]]
+- [[reserved character]]; [[replacement string]]
 - [[special character]]
 - [[symbol]]; 标点符号;
 - [[whitespace]]; [[whitespace character]]

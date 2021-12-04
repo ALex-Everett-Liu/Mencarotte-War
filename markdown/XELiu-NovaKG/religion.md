@@ -6,6 +6,7 @@
     - pray
     - religious belief
 - [[Buddhism]]
+- [[Hinduism]]
 - the story of creation
 - [[Christian]]
 - [[deity]]

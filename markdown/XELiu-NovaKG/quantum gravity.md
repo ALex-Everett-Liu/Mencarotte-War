@@ -1,6 +1,6 @@
 - [[AdS/CFT correspondence]]
-- covariant dynamics
-- a discrete structure of space
+- [[covariant dynamics]]
+- [[a discrete structure of space]]
 - [[entropic gravity]]
 - gravitize quantum mechanics;
 - [[graviton]]

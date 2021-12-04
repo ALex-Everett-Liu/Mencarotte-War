@@ -45,7 +45,7 @@
                 - [[non-degenerate]]
             - [[superposition principle]]; [[superposition]]
             - possible state
-            - basis of states
+            - [[basis of states]]
         - [[energy state]]; [[energy level]]
         - [[Hilbert space]]
             - [[state space]]; [[associated Hilbert space]]

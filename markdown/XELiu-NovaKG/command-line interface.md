@@ -1,6 +1,7 @@
 - [[Command Prompt]]
     - cmd
         - system32/cmd.exe
+- [[commandline argument]]
 - [[graphical user interface (GUI)]]
 - [[prompt]]; [[prompted]]
 - [[command]]; [[shell command]]; [[shell script]]

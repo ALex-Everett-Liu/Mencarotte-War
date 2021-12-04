@@ -46,7 +46,7 @@
 - [[politics/plot]]; 密谋; 阴谋
     - [[coup]]: 政变
     - join the plot;
-- political activity
+- [[political activity]]
 - [[political economy]]
 - [[political philosophy]]
 - political spectrum
