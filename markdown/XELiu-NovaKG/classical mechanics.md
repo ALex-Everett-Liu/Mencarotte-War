@@ -11,7 +11,6 @@
 - [[dynamical variable]]
 - [[energy]]
 - [[friction]]
-    - frictionless;
 - [[force]]
     - [[stress]]; [[strain]]: 张力
 - Galileo experiment

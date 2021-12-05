@@ -23,7 +23,7 @@
         - [[observer]]
     - repeated measurement; second measurement
     - 系统和仪器共同演化形成了纠缠态;
-- probability features; odds...
+- probability features; odds; probabilistic 
     - predict the outcome
 - [[quantization]]; quantized
 - [[quantum chemistry]]

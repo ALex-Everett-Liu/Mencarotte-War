@@ -1,0 +1,1 @@
+- [[coarse graining]]: 粗粒化

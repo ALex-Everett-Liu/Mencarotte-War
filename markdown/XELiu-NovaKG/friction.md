@@ -1,0 +1,2 @@
+- friction produces heat; 
+- frictionless;

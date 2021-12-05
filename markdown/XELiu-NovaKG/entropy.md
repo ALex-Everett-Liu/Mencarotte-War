@@ -1,5 +1,6 @@
+- disordering; 
 - increase entropy
-- [[low-entropy state]]
+- [[low-entropy state]]; lower entropy
 - radiative distribution of entropy
 - [[statistical entropy]]
 - #inbox

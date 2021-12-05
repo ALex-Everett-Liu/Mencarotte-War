@@ -1,2 +1,3 @@
 - a complete assessment of the present
+- deterministic;
 - [[hard determinism]]

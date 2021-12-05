@@ -1,10 +1,12 @@
 - different scales; 
 - [[large scale]]; large-scale regime
 - [[macroscopic scale]]; [[macroscopic level]];
+    - [[macrostate]]
     - ordinary scale
 - [[microscopic scale]]; [[microscopic level]]; microscopic system
     - atomic-scale entity
     - microscopic phenomena; microscopic behaviour
+    - [[microstate]]
     - [[nanometer scale]]; nanometer-scale object; nanoscale metal object
     - small scale
     - subatomic scale; subatomic domain;

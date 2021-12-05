@@ -1,13 +1,8 @@
 - [[black high heeled]]
 - blue-white-gold high heeled (8)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FY1Jy7EP1do.jpg?alt=media&token=720c40b2-9e21-489a-82b8-349c586b9de1)
-- creamy-white high heeled
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FzwKnTDCDlD.jpg?alt=media&token=1cef0454-415a-41b1-b73e-853838e8103d)
 - light pink high heeled
 - [[peep-toe high heeled]]
-    - black peep-toe high heeled
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqZPlY648iJ.png?alt=media&token=9e114704-e627-41b1-aa73-7ca7fc75407e)
-    - red peep-toe high heeled
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FwTu9o4DVfO.png?alt=media&token=36f65a60-c365-46ec-ac5c-20473f561024)
-    - white peep-toe high heeled
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FL9to4BP7Ch.png?alt=media&token=b72f0f9b-d363-4713-9719-aed40ac77c91)
+- [[white high heeled]]
+    - creamy-white high heeled
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FzwKnTDCDlD.jpg?alt=media&token=1cef0454-415a-41b1-b73e-853838e8103d)

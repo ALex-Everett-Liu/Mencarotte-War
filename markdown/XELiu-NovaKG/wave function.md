@@ -1,4 +1,4 @@
 - evolution of the wave function; time evolution
     - collapse of the wave function; wave function collapses; collapse
-    - [deterministic...](https://workflowy.com/#/eab6536fa60f)
+    - deterministic;
     - time-evolution simulation
