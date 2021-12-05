@@ -22,6 +22,7 @@
     - propriety and righteousness: [礼义] | 专有权; 礼貌; 规矩; 适当;
     - [[virtues and vices]]
 - [[ontology]]: 存在论, 实体论, [本体论]; [[ontological]]
+- [[philosopher]]
 - [[science philosophy]]...
 - [[skepticism]]
 - [[theology]]

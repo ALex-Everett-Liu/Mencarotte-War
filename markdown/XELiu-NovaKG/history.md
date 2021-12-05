@@ -14,6 +14,9 @@
 - [[Europe]]
 - [[ethnics]]: 人种学
 - general...
+- Great Geographical Discoveries; The Age of Discovery
+    - Age of Wind;
+    - circumnavigate the Earth;
 - [[historian]]
 - [[historical geography]]
 - [[industrial revolution]]
