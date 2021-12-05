@@ -1,0 +1,8 @@
+- 西门小玉
+- 1998-11-02
+- 170 CM 45 KG
+- B90 W57 H91
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FZ7G_JSEvo-.png?alt=media&token=ba0a2c5f-9e7c-4546-99ab-1aaf6af3dc3d)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FpwD9raVoy3.png?alt=media&token=45f1f81b-9980-443a-85b0-f74ea32a1b1a)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FRL_4nR8xfv.png?alt=media&token=46bc5942-a1f0-40f6-800a-8c51e01d465e)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FfifwcROOqT.jpg?alt=media&token=392cd132-61cf-4007-9bbb-ed2e91e332db)

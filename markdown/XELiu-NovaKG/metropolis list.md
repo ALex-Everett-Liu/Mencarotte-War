@@ -27,6 +27,7 @@
 - [[程媛媛 (Cheng Yuanyuan)]]
 - 李纤纤 (Li Xianxian) -- pt9-99.99
 - 林星澜 (Lin Xinglan) -- pt9-99.99
+- [[陈梵妮 (Chen Fanni)]] #pt9-99.99
 - [[冯木木 (Feng Mumu)]] -- pt8-99.98
 - [[苏小曼 (Su Xiaoman)]] #pt9-100
 - [[金梓琳 (Jin Zilin)]] #pt9-99.99
@@ -39,6 +40,7 @@
 - 安然Maleah -- pt9-99.99
 - 人间荒糖 -- pt8-99.99
 - 鱼子酱 (yuzijiang) -- pt8-99.99
+- [[一颗甜蛋黄a]] -- pt8-99.99
 - 雪琪SAMA -- pt8-99.98
 - [[桃香子 (taoxiangzi)]] #pt9-99.99
 - 蓝夏Akasha -- pt8-99.99

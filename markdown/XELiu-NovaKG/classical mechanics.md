@@ -10,7 +10,7 @@
     - [[conservative force]]
 - [[dynamical variable]]
 - [[energy]]
-- friction
+- [[friction]]
     - frictionless;
 - [[force]]
     - [[stress]]; [[strain]]: 张力
