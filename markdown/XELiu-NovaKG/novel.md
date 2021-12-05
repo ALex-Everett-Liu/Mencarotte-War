@@ -1,3 +1,4 @@
+- [[crime novel]]: 侦探小说
 - [[fantasy]]; fantasy setting
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
 - [[historical novel]]

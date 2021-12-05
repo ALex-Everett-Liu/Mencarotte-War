@@ -25,5 +25,7 @@
 - [[time arrow]]; time direction
     - asymmetry of time;
     - time-symmetric;
+- time flow; 
+- the nature of time; 
 - [[vacuum]]
     - [[void]]

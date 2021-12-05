@@ -1,3 +1,4 @@
 - [[Chinese mythology]]
 - [[Great Flood]]
+- [[Hindu mythology]]
 - [[lore]]
