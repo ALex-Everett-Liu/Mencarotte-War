@@ -3,13 +3,16 @@
     - parameterize time
         - by the scale factor of space
             - space expansion factor
+        - [[local time]]
         - [[proper time]]
             - [[proper-time cutoff measure]]
+        - [[temporal coordinate]]
     - perturbing the state; adding energy
     - [[spacetime curvature]]
         - [[local modification]]
 - [[Lorentz transformation]]
 - [[nonrelativistic motion]]
+- change the past; 
 - [[relative motion]]
 - [[relativistic condition]]
 - space and time; [[spacetime]]

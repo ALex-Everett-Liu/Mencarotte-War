@@ -2,6 +2,7 @@
     - [[cause-and-effect chain]]; a closed chain of cause and effect
 - [[causal loop diagram]]
 - [[causal path]]
+- cause precedes effect; 
 - [[causal reasoning]]
 - [[causal relation]]
 - [[linear causality]]; [[nonlinear causality]]

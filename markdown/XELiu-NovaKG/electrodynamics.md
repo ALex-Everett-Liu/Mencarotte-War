@@ -19,7 +19,7 @@
         - [[energy distribution]]
         - [[electromagnetic radiation]]
         - electromagnetic theory of light
-        - [[light speed]]; the speed of light
+        - [[light speed]]; the [[speed of light]]
     - [[magnetic field]]
         - auxiliary field vector
         - [[magnetic force]]

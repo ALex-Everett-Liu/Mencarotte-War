@@ -34,7 +34,7 @@
 - [[light source]]; optical source
 - [[light spectrum]]; [[electromagnetic spectrum]]
     - [[spectroscopy]]
-- [[light speed]]; the speed of light
+- [[light speed]]; the [[speed of light]]
     - [[propagation speed]]
 - material...
     - [[cathode ray]]

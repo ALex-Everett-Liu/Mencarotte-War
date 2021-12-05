@@ -20,6 +20,7 @@
     - [[musical note]]: 音符
     - [[musical score]]: 乐谱
     - [[musical tone]]: 音调
+- [[rhythm]]
 - [[song]]; [[sing]]
     - [[artist]]
     - [[singer]]

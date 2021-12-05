@@ -7,7 +7,7 @@
         - drag the aether
     - electromagnetic theory of light
         - [[statistical manifestation]]: 统计表现 
-    - [[light speed]]; the speed of light
+    - [[light speed]]; the [[speed of light]]
     - particle stream
     - the [[wave nature of light]]; [[light wave]]; [[wave nature]]
         - the nature of light

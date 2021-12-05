@@ -43,5 +43,6 @@ and nothing can return. (I, 11)
 211205-19:00
     - ## PART 1 THE CRUMBLING OF TIME
         - [[The Order of Time - 1 LOSS OF UNITY]]
+        - 2 [[LOSS OF DIRECTION]]
 - The [[verse]]s that [open each chapter], unless otherwise indicated, are from versions of [[Horace]]’s __Odes__ translated by Giulio Galetto and published in [a charming small volume] entitled __In questo breve cerchio__ (Verona: Edizioni del Paniere, 1980); [English translations by] Erica Segre and Simon Carnell. #ode
 211205-09:51

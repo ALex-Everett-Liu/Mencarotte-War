@@ -1,3 +1,4 @@
+- the acceleration of Galileo; 
 - [[action]]: 作用; 
     - [[principle of least action]]
 - [[centrifugal force]] 离心力; [[centripetal force]] 向心力
