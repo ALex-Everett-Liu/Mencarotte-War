@@ -323,6 +323,16 @@ O2：25%；
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqZvuqL9BTY.png?alt=media&token=194b1b08-2914-4d2e-bf19-82ff54d9f59b)
                 - 1.4. 小结
                     - `2#` `3#` 线性误差和24h量程漂移[超出标准要求]（2%），`4#` 重复性和24h漂移超出标准要求。
+            - 2. CO Test
+                - 数据[波动大]，[性能测试]差距大
+                - 测试过程中发现，购买的CO标气测出的谱图中存在CO2谱图，可能对CO测试有一定影响。
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsxiCzO_61p.jpg?alt=media&token=5a12bc96-c9d7-4bc8-9b2e-43f533ac3648)
+                    - 实验室已购CO标气[可能混合有]CO2标气，标气[已经寄回][神开]检查；另从[计量院][重新下单][一瓶 CO 标气]。
+            - 3. CO2 干扰测试
+                - 2#（PSN-002）和3#（PSN-003）HCl数值[受CO2影响较大]；4#（PSN-015）CO和NO数值受CO2影响较大；5#（PSN-001）CO、NO和HCl数值受CO2影响较大。
+                - 更新 [NO 模型]后，4#（PSN-015）和5#（PSN-001）设备CO2[对NO干扰][小于1ppm]，其余[气体干扰问题][仍存在]。
+                    - 模型更换后，NO线性、重复性等参数须[重新测试验证]。
+            - 4. HCl Test
 - Software
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx
