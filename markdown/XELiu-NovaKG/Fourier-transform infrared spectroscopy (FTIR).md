@@ -317,6 +317,12 @@ CO：100 mg/m3；
 O2：25%；
             - 通用 CEMS 实验室[原始记录表] -- HJC-JSJL80-20210114
                 - [环境保护部][环境监测仪器][质量监督检验中心]
+    - 测试报告
+        - INSA FTIR 测试汇总（211129-1203）
+            - 1. NO Test
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqZvuqL9BTY.png?alt=media&token=194b1b08-2914-4d2e-bf19-82ff54d9f59b)
+                - 1.4. 小结
+                    - `2#` `3#` 线性误差和24h量程漂移[超出标准要求]（2%），`4#` 重复性和24h漂移超出标准要求。
 - Software
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx
