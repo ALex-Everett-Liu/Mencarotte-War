@@ -33,6 +33,10 @@ to [adorn our heads]. (I, 4) 编织花冠
         - There is our past: [all the events that happened before] [what we can witness now]. There is our future: [the events that will happen] [after the moment from which] [we can see the here and now]. Between this past and this future [there is an interval that] is [neither past nor future] and [still has a duration]: fifteen minutes on Mars; eight years on Proxima b; [millions of years] in the [Andromeda galaxy]. It is the [expanded present](((H6sJvp4r1))). 28 It is perhaps the greatest and strangest of [Einstein’s discoveries].
             - The idea that [a well-defined now exists] [throughout the universe] is an illusion, [an illegitimate extrapolation] 不合理的推断 of [our own experience]. 29
                 - It is like the point [where the rainbow touches the forest]. [We think that] [we can see it]—but if we [go to look for it], it isn’t there.
+            - [28]: [The combination of events] that are [at spacelike distance from here].
+            - [29]: [Among the first to realize this] was [[Kurt Gödel]]; see “[An Example of a New Type of] [Cosmological Solutions] of [Einstein’s Field Equations of Gravitation],” __Reviews of Modern Physics__ 21 (1949): 447–50. In his own words: “[The notion of ‘now’] is [nothing more than] [a certain relation between] [a certain observer]([[observer]]) and [the rest of the universe].”
         - If I were to ask, “Are these two stones [at the same height]?” in interplanetary space, the correct answer would be: “[It’s a question that] [doesn’t make sense], because there isn’t [a single notion of] ‘same height’ throughout the universe.” If I ask whether two events—one on Earth and the other on Proxima b—are happening “at the same moment,” the correct answer would be: “It’s a question that doesn’t make sense, because [there is no such thing as] ‘the same moment’ [definable in the universe].”
 211209-02:45
             - The “present of the universe” is meaningless.
+- ### TEMPORAL STRUCTURE WITHOUT THE PRESENT
+    - 
