@@ -19,6 +19,7 @@
 - [[special theory of relativity]]; [[special relativity]]
 - time...
     - [[duration]]
+    - expanded present; 
     - [[simultaneity]]: 同时性
     - time contracts; 时间收缩;
     - time maximum between two events in spacetime; 
