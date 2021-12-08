@@ -1,0 +1,30 @@
+- It opens
+to this gentle breeze
+of Spring
+the sealed-in cold
+of the still season,
+and the boats [return to the sea] . . .
+Now we must braid
+crowns with which 
+to [adorn our heads]. (I, 4) 编织花冠
+- ### SPEED ALSO SLOWS DOWN TIME
+    - [A moving object] therefore [experiences a shorter duration than] a stationary one: a watch [marks fewer seconds], a plant [grows more slowly], [a young man] [dreams less]. For a moving object, [time contracts](((weG9Xmga-))).* Not only is there no [single time] [for different places]— there is not even [a single time for any particular place]. A [[duration]] [can be associated only with] [the movement of something], with a given [[trajectory]].
+(不仅不同位置不存在同一个统一的时间，实际上任何位置都不存在单独的时间-只有对于一个运动物体的轨迹才能够谈论时间)
+211208-23:00
+        - “[[proper time]]” [depends not only on] [where you are] and [your degree of proximity to masses]; [it depends also on] [the speed at which you move].
+        - It’s a [strange enough] fact in itself, but its consequences are extraordinary. ^^Hold on tight, because we are [about to take off].^^ -- Cooooooooool
+        - * “In motion” in relation to what? [How can we determine] [which of the two objects moves], if motion is only relative? [This is an issue that] [confuses many]. The [correct answer] (rarely given) is this: [in motion relative to]([[relative motion]]) the only [[reference]] in which [the point in space] [where the two clocks separate] is [the same point in space] where they [get back together]. There is only [a single straight line] [between two events in spacetime](((PyBKSCT4T))), from A to B: it’s the one along which time is maximum, and [the speed relative to this line] is the one that [slows time]. If [the clocks separate] and are not [brought together again], [there is no point asking] [which one is fast] and [which one is slow]. If they [come together], they [can be compared], and [the speed of each one] becomes a [[well-defined]] notion.
+211208-23:42
+- ### “NOW” MEANS NOTHING
+    - [What is happening “now”] [in a distant place]? Imagine, for example, that your sister has gone to [[Proxima b]], [the recently discovered planet] that [orbits a star] [at approximately four light-years’ distance from us]. What is your sister doing now on Proxima b?
+211208-23:12
+        - [The only correct answer is that] [the question makes no sense]. [It is like asking] “What is here, in Beijing?” when we are in Venice. [It makes no sense because] [if I use the word] “here” in Venice, I am [referring to a place in] Venice, not in Beijing.
+        - [If you ask] what your sister, who is [in the room with you], is doing now, the answer is [usually an easy one]: [you look at her] [and you can tell]. If she’s far away, [you phone her] and [ask what she’s doing]. But take care: if you look at your sister, you are [receiving light] that [travels from her to your eyes]. The light [takes time to reach you], [let’s say] [a few nanoseconds]—[a tiny fraction of] a second—therefore, [you are not quite] seeing [what she is doing now] but [what she was doing] [a few nanoseconds ago]. If she is in New York and you phone her from Liverpool, her voice [takes a few milliseconds to] reach you, so [the most you can claim to know is] what your sister was up to a few milliseconds ago. Not a significant difference, perhaps.
+211208-23:30
+    - [The truth of the matter is that] [we need to give up] [asking the question]. 27
+        - ^^[There is no special moment on] Proxima b that corresponds to [what constitutes the present here and now].^^
+        - Dear reader, [pause for a moment to] [let this conclusion sink in]. In my opinion, [it is the most astounding conclusion] arrived at in the whole of [contemporary physics].
+        - [27]: If I see my sister [through a telescope] [celebrating her twentieth birthday] and [send her a radio message] that will arrive on her twenty-eighth birthday, [I can say that] now is her twenty-fourth birthday: [halfway between] [when the light departed from] there (20) and when it returned (28). It’s a nice idea (not mine: it’s Einstein’s definition of “[[simultaneity]]”). But this does not [define a common time]. If Proxima b is [moving away], and my sister uses the same logic to calculate the moment simultaneous to her twenty-fourth birthday, she does not obtain the present moment here. In other words, in this way of defining simultaneity, if for me a moment A in her life is simultaneous with a moment B in mine, the contrary is not the case: for her, A and B are not simultaneous. Our different speeds define different surfaces of simultaneity. Not even in this way do we obtain a notion of a common “present.”
+    - It simply makes no sense to ask which moment in the life of your sister on Proxima b corresponds to now. It is like asking which football team has won a basketball championship, how much money a swallow has earned, or how much a musical note weighs. They are nonsensical questions because football teams play football, not basketball; swallows do not busy themselves earning money; sounds cannot be weighed. “Basketball champions” refers to a team of basketball players, not to footballers. Monetary profit refers to human society, not to swallows. The notion of “the present” refers to things that are close to us, not to anything that is far away. 
+    - Our “present” does not extend throughout the universe. It is like a bubble around us.
+    - How far does this bubble extend? It depends on the precision with which we determine time. If by nanoseconds, the present is defined only over a few meters; if by milliseconds, it is defined over thousands of kilometers. As humans, we distinguish tenths of a second only with great difficulty; we can easily consider our entire planet to be like a single bubble where we can speak of the present as if it were an instant shared by us all. This is as far as we can go.

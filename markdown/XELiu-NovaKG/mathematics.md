@@ -13,7 +13,7 @@
     - [[special case]]
     - square-integrable function
     - square root
-    - well-defined
+    - [[well-defined]]
     - zero-crossing; zero crossing
 - [[geometry]]
 - [[group theory]]
