@@ -39,4 +39,12 @@ to [adorn our heads]. (I, 4) 编织花冠
 211209-02:45
             - The “present of the universe” is meaningless.
 - ### TEMPORAL STRUCTURE WITHOUT THE PRESENT
-    - 
+    - Mathematicians [have a term for] [the order established by filiation]: “partial order.” A [[partial order]] [establishes a relation of before and after] [between certain elements], but not between [any two of them]. [Human beings] form a “partially ordered” set (not a [“completely ordered” set](((1Snn-tJnf)))) through filiation. Filiation establishes an order (before the descendants, after the forebears), but not between everyone. To see how this order works, [we need only think of] a [[family tree]], like this one for Gorgo:
+211209-22:30
+        - There is a cone-shaped “past” made up of her forebears, and a [“future” cone] [comprising her descendants]. Those who are [neither ancestors nor descendants] [remain outside of the cones].
+        - Every human being has their own [past cone] of ancestors and [future cone] of descendants. Those of Leonidas are [shown below], alongside Gorgo’s:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv7AT1IpTcx.jpg?alt=media&token=f316f7a2-8831-434d-a7fa-94a68635992a)
+    - [The temporal structure of the universe] is [very similar to this one]. It is also made of cones. The relation of [“temporal precedence”](((TusF9aPca))) is [a partial order made of cones]. 31 Special relativity is the discovery that the temporal structure of the universe is like the one established by filiation: it [defines an order between] [the events of the universe] that is partial, not complete. The [expanded present](((H6sJvp4r1))) is [the set of events] that are neither past nor future: it exists, just as there are human beings who are neither our descendants nor our forebears.
+211209-23:13
+        - If we want to represent all the events in the universe and their temporal relations, we can no longer do so with a single, universal distinction between past, present, and future, like this:
+        - We must do so instead by placing above and below every event the cones of its future and past events:

@@ -21,6 +21,7 @@
     - [[duration]]
     - expanded present; 
     - [[simultaneity]]: 同时性
+    - temporal precedence; 
     - time contracts; 时间收缩;
     - time maximum between two events in spacetime; 
     - the slowing down of time; 

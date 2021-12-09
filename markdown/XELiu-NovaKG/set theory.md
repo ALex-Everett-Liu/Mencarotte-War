@@ -1,3 +1,5 @@
 - [[complete set]]
+- [[partial order]]
+    - completely ordered set; 
 - [[subset]]
     - [[strict subset]]
