@@ -46,5 +46,8 @@ to [adorn our heads]. (I, 4) 编织花冠
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv7AT1IpTcx.jpg?alt=media&token=f316f7a2-8831-434d-a7fa-94a68635992a)
     - [The temporal structure of the universe] is [very similar to this one]. It is also made of cones. The relation of [“temporal precedence”](((TusF9aPca))) is [a partial order made of cones]. 31 Special relativity is the discovery that the temporal structure of the universe is like the one established by filiation: it [defines an order between] [the events of the universe] that is partial, not complete. The [expanded present](((H6sJvp4r1))) is [the set of events] that are neither past nor future: it exists, just as there are human beings who are neither our descendants nor our forebears.
 211209-23:13
-        - If we want to represent all the events in the universe and their temporal relations, we can no longer do so with a single, universal distinction between past, present, and future, like this:
-        - We must do so instead by placing above and below every event the cones of its future and past events:
+        - If we want to [represent all the events in the universe] and their [temporal relations](((Gg8x3LaXo))), [we can no longer do so with] [a single, universal distinction between] [past, present, and future], like this:
+        - [We must do so instead by] [placing above and below every event] [the cones of its future and past events]:
+    - Ten years later, he comes to understand that the speed at which time flows changes from place to place. It follows that spacetime does not really have the order outlined above but can be distorted. It now looks rather more like this:
+    - When a gravitational wave passes, for example, the small light cones oscillate together from right to left, like ears of wheat blown by the wind.
+    - The structure of the cones can even be such that, advancing always toward the future, one can return to the same point in spacetime, like this:
