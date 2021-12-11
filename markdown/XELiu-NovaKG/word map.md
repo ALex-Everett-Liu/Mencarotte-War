@@ -820,7 +820,7 @@
             - number
                 - numeral
                     - enumerate
-                        - enumerative;
+                        - enumeration; enumerative;
                     - numerical; numerous;
     - o
         - ob
