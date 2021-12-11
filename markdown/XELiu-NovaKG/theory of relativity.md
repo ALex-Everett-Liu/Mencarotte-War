@@ -17,8 +17,7 @@
 - [[relativistic condition]]
 - space and time; [[spacetime]]
 - [[special theory of relativity]]; [[special relativity]]
-- time...
-    - [[duration]]
+- [[time]]...
     - expanded present; 
     - [[simultaneity]]: 同时性
     - temporal precedence; 

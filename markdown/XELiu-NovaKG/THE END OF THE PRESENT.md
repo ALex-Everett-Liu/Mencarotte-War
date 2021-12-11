@@ -48,6 +48,14 @@ to [adorn our heads]. (I, 4) 编织花冠
 211209-23:13
         - If we want to [represent all the events in the universe] and their [temporal relations](((Gg8x3LaXo))), [we can no longer do so with] [a single, universal distinction between] [past, present, and future], like this:
         - [We must do so instead by] [placing above and below every event] [the cones of its future and past events]:
-    - Ten years later, he comes to understand that the speed at which time flows changes from place to place. It follows that spacetime does not really have the order outlined above but can be distorted. It now looks rather more like this:
-    - When a gravitational wave passes, for example, the small light cones oscillate together from right to left, like ears of wheat blown by the wind.
-    - The structure of the cones can even be such that, advancing always toward the future, one can return to the same point in spacetime, like this:
+    - Ten years later, he [comes to understand that] [the speed at which time flows] [changes from place to place]. It follows that [[spacetime]] [does not really have the order] [outlined above] but [can be distorted]. It now looks rather more like this:
+211211-09:40
+        - When a [[gravitational wave]] passes, for example, the small [[light cone]]s [oscillate together from right to left], like [ears of wheat] [blown by the wind].
+        - [The structure of the cones] [can even be such that], advancing always [toward the future], one can [return to the same point] in spacetime, like this:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FOgja99tbbX.png?alt=media&token=a0e041d1-a296-49f2-83b0-11363b482445)
+            - In this way, [a continuous trajectory toward the future] [returns to the originating event], to where it began.* 32 [The first to realize this was] [[Kurt Gödel]], the great twentieth-century logician who was Einstein’s last friend, [accompanying him on walks] [along the streets] of Princeton.
+                - * The “closed temporal lines,” where [the future returns us to the past], are the ones that [frighten those who imagine that] a son [could go on to kill his mother] [before his own birth]. But there is no [logical contradiction] [entailed by the existence of] [[closed temporal line]]s or [journeys to the past]; [we are the ones who] [complicate things with] our [confused fantasies] about [the supposed freedom of the future].
+211211-10:48
+                - [32]: The fact that [there is nothing logically impossible about] [travels to the past] is [demonstrated clearly in] [an engaging article] by [one of the great philosophers] [of the last century]: David Lewis, “The Paradoxes of Time Travel,” __American Philosophical Quarterly__ 13 (1976): 145–52, reprinted in __The Philosophy of Time__, eds. R. Le Poidevin and M. MacBeath (Oxford: Oxford University Press, 1993). #[[time travel]]
+    - If the present [has no meaning], then what “exists” in the universe? Is not what “exists” precisely [what is here] “in the present”? [The whole idea that] the universe exists now [in a certain configuration] and [changes together] [with the passage of time](((UQ4yO63do))) simply [doesn’t stack up anymore].
+211211-11:30

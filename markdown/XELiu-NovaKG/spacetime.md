@@ -13,6 +13,7 @@
         - [[independent existence]]; independent reality; relative
             - [[real world]]; [[real-world object]]; [[real entity]]
 - event network; 
+- [[light cone]]
 - Minkowski space
     - Minkowski vacuum
 - [[space dimension]]; [[spatial dimensionality]]
@@ -23,11 +24,12 @@
     - three-dimensional space; three dimensional space
 - space orientation; 
 - space region;
+- [[closed temporal line]]
+    - [[time travel]]; travel/journey to the past; 穿越时空
 - [[time arrow]]; time direction
     - asymmetry of time;
     - time-symmetric;
-- time flow; 
+- time flow; the passage of time
 - the nature of time; 
-- [[timepiece]]: 时钟;
 - [[vacuum]]
     - [[void]]

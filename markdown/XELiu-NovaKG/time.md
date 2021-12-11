@@ -1,0 +1,4 @@
+- the alternation of day and night; 
+- diurnal rhythm; 
+- [[duration]]
+- [[timepiece]]: 时钟;
