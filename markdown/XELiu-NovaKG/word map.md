@@ -1019,6 +1019,7 @@
             - raw
             - ray
         - re
+            - reciprocal: 互相起作用; 彼此相反, 倒数;
             - refute: 驳倒 
             - regular
                 - regularity: guilv14, guize12; zhengqi32, yunchen24; 
