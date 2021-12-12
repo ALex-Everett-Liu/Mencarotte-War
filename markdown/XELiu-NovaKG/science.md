@@ -19,7 +19,6 @@
     - [[scientific development]]; [[scientific progress]]
     - [[scientific fact]]
     - [[scientific inquiry]]
-    - scientific methodology...
     - [[scientific opinion]]
 - [[popularize of science]]; [[popular science]]
     - [[Scientific American]]
@@ -34,8 +33,8 @@
     - [[R&D]]
     - [[research project]]
     - [[research team]]
-- [[scientific history]]
-- scientific methodology
+- [[scientific history]]; the history of science
+- [[scientific methodology]]
     - [[reproducible research]]: 可重复性研究; reproduce the experiment;
     - [[science philosophy]]...
 - [[scientist]]
