@@ -5,8 +5,8 @@ the sealed-in cold
 of the still season,
 and the boats [return to the sea] . . .
 Now we must braid
-crowns with which 
-to [adorn our heads]. (I, 4) 编织花冠
+[crowns](((UfPQiHGBq))) with which 
+to [adorn our heads]. (I, 4) 
 - ### SPEED ALSO SLOWS DOWN TIME
     - [A moving object] therefore [experiences a shorter duration than] a stationary one: a watch [marks fewer seconds], a plant [grows more slowly], [a young man] [dreams less]. For a moving object, [time contracts](((weG9Xmga-))).* Not only is there no [single time] [for different places]— there is not even [a single time for any particular place]. A [[duration]] [can be associated only with] [the movement of something], with a given [[trajectory]].
 (不仅不同位置不存在同一个统一的时间，实际上任何位置都不存在单独的时间-只有对于一个运动物体的轨迹才能够谈论时间)
