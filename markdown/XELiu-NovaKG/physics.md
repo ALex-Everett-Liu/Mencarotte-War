@@ -42,7 +42,7 @@
         - counter-intuitive property
     - [[physical quantity]]
         - base quantities
-        - [[degrees of freedom (DoF)]]
+        - [[degrees of freedom (DoF)]]; [[degree of liberty]]
         - [[momentum]]
         - [[frequency]]
     - [[physical system]]

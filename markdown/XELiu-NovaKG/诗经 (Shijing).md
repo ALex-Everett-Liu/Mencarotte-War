@@ -50,3 +50,7 @@ May [King Wen] never be weary of [us] men.           無射於人斯
                 - This work is a [[compilation]] of some three hundred [[verse]]s of poetry illustrating the [proper conduct] of a [[sovereign]] 君主的正当行为 and [general rules] “for inculcation of [propriety and righteousness](((UJWUt79M0))).” 
 201230-03:47
     - [Book of Poetry] in [[Chinese Text Project]], [[English translation]]: [[James Legge]]
+    - tartarie
+        - http://wengu.tartarie.com/wg/wengu.php?l=Shijing&s=1&c=1
+- ---
+- [[诗经原意研究]] - 家井真

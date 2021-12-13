@@ -1,6 +1,8 @@
 - Chinese studies; 
 - [[Confucian School]]; [[Confucianism]]
 - ---
+- 海外中国研究系列
+    - [[诗经原意研究]] - 家井真
 - The Harvard History of Imperial China
 - 哥伦比亚中国文学史
 - ---

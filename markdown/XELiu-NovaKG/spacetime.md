@@ -16,6 +16,7 @@
 - [[light cone]]
 - Minkowski space
     - Minkowski vacuum
+- [[Planck time]]
 - [[space dimension]]; [[spatial dimensionality]]
     - [[emergent geometry]]
     - extra spatial dimensions

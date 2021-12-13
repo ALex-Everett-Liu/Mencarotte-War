@@ -8,3 +8,8 @@
         - [BOOK I.] THE ODES OF CHOW AND THE SOUTH. (Odes Of [Zhou And The South]) #[[周南 (Zhou And The South)]]
             - [I. I. 1.] SONG OF WELCOME TO THE BRIDE OF [[King Wăn]]. #[[關雎 (Guanju)]]
             - I. I. 2. INDUSTRY AND [FILIAL PIETY] 勤劳孝道 OF [WĂN’S QUEEN]. #[[葛覃 (Getan)]]
+        - BOOK XIV. THE ODES OF TS‘ÂU. #[[曹風 (Caofeng)]]
+            - [* ] Ts‘âu was a small [[Earldom]] [lying in the present province of] Shan-tung. It was annexed to Sung in the fifth century bc
+        - BOOK XV. THE ODES OF PIN. #[[豳風 (Binfeng)]]
+            - I. Xv. 3. SONG OF THE TROOPS ON [RETURNING FROM THE EASTERN CAMPAIGN]. #[[東山 (Dongshan)]]
+            - [* ]Pin was [the name of a district] in the west of the present province of Shen-si, and was the home of [the ancestry of the Chow family] from 1796 to 1325 bc

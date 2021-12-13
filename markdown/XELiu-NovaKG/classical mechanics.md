@@ -50,7 +50,6 @@
     - [[analytical mechanics]]
     - [[Hamiltonian mechanics]]
     - [[Lagrangian mechanics]]
-    - [[state space]]
 - [[velocity]] - the speed and direction of an object's motion
     - [[acceleration]]; [[accelerated motion]]
         - [[relative acceleration]]; an absolute conception of acceleration

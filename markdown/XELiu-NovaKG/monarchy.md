@@ -1,4 +1,5 @@
 - feudal
+    - [[Earldom]]: 伯爵爵位
     - [[feudal government]]
 - [[regent]]; [[regency]]
 - [[sovereign]]

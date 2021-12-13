@@ -558,6 +558,8 @@
                         - graduated;
                 - grammar
                     - grammatically;
+                - granule: 细小的颗粒;
+                    - granularity: 间隔尺寸, 粒度;
                 - graph
                     - [bibliography](((6mQpoq6BN))); cartograph; [choreography](https://workflowy.com/#/3ed513bcc254); photograph
                     - graphic;

@@ -28,6 +28,7 @@
 - 李纤纤 (Li Xianxian) -- pt9-99.99
 - 林星澜 (Lin Xinglan) -- pt9-99.99
 - [[陈梵妮 (Chen Fanni)]] #pt9-99.99
+- [[陈奕菲 (Chen Yifei)]] #pt9-99.99
 - [[冯木木 (Feng Mumu)]] -- pt8-99.98
 - [[苏小曼 (Su Xiaoman)]] #pt9-100
 - [[金梓琳 (Jin Zilin)]] #pt9-99.99

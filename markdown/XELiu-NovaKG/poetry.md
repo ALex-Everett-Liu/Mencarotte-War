@@ -1,5 +1,5 @@
 - [[caesura]]: 音顿/休止
-- China poetry
+- Chinese poetry
     - Tang poetry
         - old style poetry
         - regulated style
@@ -81,6 +81,9 @@
 天涯沦落，两人不禁感慨，一边聊天，一边[追忆往事]，唏嘘不已，直到天黑才分别。
 
 [回去后]杜牧[不无感慨地]为张好好[写了一首长诗]《张好好诗》。
+    - [中国文学][鉴赏辞典][大系]
+        - [[先秦诗鉴赏辞典]]
+        - [[汉魏六朝诗鉴赏辞典]]
 - [[epic]]
 - [[four-syllable meter]]: 四音节的韵律/调式
 - line relationship...

@@ -2,6 +2,7 @@
 201230-04:10
 - “If [Chinese scholars] would bring the [ancient literature] near to us, if they would [show us something in it] that [really concerns us], something that is [not merely old but eternally young], [Chinese studies](((mxm1gn3nT))) would soon [take their place in] [public estimation] by the side of [[Indo-European scholarship]], [[Babylonian]], and [[Egyptian scholarship]]. 
 [There is no reason] why China should [remain so strange], so far removed from our [[common interest]]s.”
+(我们应当增强对汉学的兴趣，如同埃及学、亚述学、印度学那样)
 201230-04:14
     - —[Prof.]([[professor]]) [[Max Muller]], in Nineteenth Century for May, 1891. 
 - I [dedicate THIS BOOK to](((MkRrdByWs))) [MY WIFE]([[wife]]).

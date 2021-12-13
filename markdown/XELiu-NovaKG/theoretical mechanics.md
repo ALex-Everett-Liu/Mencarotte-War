@@ -1,1 +1,3 @@
-- [[coarse graining]]: 粗粒化
+- [[phase space]]
+    - [[coarse graining]]: 粗粒化
+- [[state space]]
