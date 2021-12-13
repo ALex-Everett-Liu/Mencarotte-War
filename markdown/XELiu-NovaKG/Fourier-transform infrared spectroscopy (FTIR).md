@@ -333,6 +333,10 @@ O2：25%；
                 - 更新 [NO 模型]后，4#（PSN-015）和5#（PSN-001）设备CO2[对NO干扰][小于1ppm]，其余[气体干扰问题][仍存在]。
                     - 模型更换后，NO线性、重复性等参数须[重新测试验证]。
             - 4. HCl Test
+    - CEMS software
+        - CEMS 标定公式
+            - (CEMS(x)-CEMS(0))/(CEMS(F.S.)-CEMS(0))=(InSa(x)-InSa(0))/(InSa(F.S.)-InSa(0))
+                - 转换为 y=ax+b (CEMS(x)=a*InSa(x)+b) -- 即 a=CEMS(F.S.)/(InSa(F.S.)-InSa(0)), b=
 - Software
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx
