@@ -14,3 +14,5 @@ dearer than [my own birthday]. (IV, 11)
 211213-23:50
         - [51]: [It is not possible to] locate a [[degree of liberty]] in a region of its [[phase space]] within a volume smaller than the Planck constant.
         - [52]: The speed of light, the Newton constant and the Planck constant.
+- ### QUANTUM SUPERPOSITIONS OF TIMES
+    - Even the distinction between present, past, and future thus becomes fluctuating, indeterminate. Just as a particle may be [diffused in space], so, too, the differences between past and future may fluctuate: an event may be both before and after another one.
