@@ -73,3 +73,6 @@
             - 1. 光源[老化]，建议[购买备件]。
             - 2. [电器箱]内部[积尘]严重，[防尘网]缺失。[断连]问题可能与[积尘腐蚀]有关，该问题[需返厂] ABB [做进一步排查]。
             - 3. [测量池][有腐蚀]，建议购买备件。
+- ...
+    - 测量池安装完成后，连接温控器和继电器进行加热。这里注意温度设定在180℃，确保温控正常，以免烧坏仪表。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FVS0uMSU4BX.jpg?alt=media&token=ce1a6805-4f3c-43ba-9294-ced7e4802316)
