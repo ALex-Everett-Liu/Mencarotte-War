@@ -8,8 +8,13 @@
         - [BOOK I.] THE ODES OF CHOW AND THE SOUTH. (Odes Of [Zhou And The South]) #[[周南 (Zhou And The South)]]
             - [I. I. 1.] SONG OF WELCOME TO THE BRIDE OF [[King Wăn]]. #[[關雎 (Guanju)]]
             - I. I. 2. INDUSTRY AND [FILIAL PIETY] 勤劳孝道 OF [WĂN’S QUEEN]. #[[葛覃 (Getan)]]
+        - BOOK XIII. THE ODES OF KWAI. #[[檜風 (Kuaifeng)]]
+            - I. Xiii. 3. CONTRASTS WITH NATURE. #[[隰有萇楚 (Xiyou changchu)]]
+            - [* ]Kwai, like Ch‘in, was [a small but ancient fief] in the present province of Ho-nan, but about the eighth century bc it was incorporated with Ch‘ing. It lay between the rivers Tsin and Wai.
+            - 周平王初，[桧国]为[郑武公][所灭]，其地为郑国所有。
         - BOOK XIV. THE ODES OF TS‘ÂU. #[[曹風 (Caofeng)]]
             - I. Xiv. 1. AGAINST FOPPERY. #[[蜉蝣 (Fuyou)]]
+            - I. Xiv. 4. [HARD TIMES] IN TS‘ÂU—NO HELP FORTHCOMING ASFORMERLY FROM THE ROYAL CAPITAL OF CHOW. #[[下泉 (Xiaquan)]]
             - [* ] Ts‘âu was a small [[Earldom]] [lying in the present province of] Shan-tung. It was annexed to Sung in the fifth century bc
         - BOOK XV. THE ODES OF PIN. #[[豳風 (Binfeng)]]
             - I. Xv. 1. LIFE IN PIN IN THE OLDEN TIME. #[[七月 (Qiyue)]]

@@ -9,6 +9,7 @@
     - particle species
     - subatomic scale; subatomic domain;
         - subatomic particle; sub-atomic particle; [[submicroscopic particle]]
+- [[particle detector]]
 - [[proton]]
 - [[theoretical physics]]; [[theoretical physicist]]
 - [[virtual particle]]
