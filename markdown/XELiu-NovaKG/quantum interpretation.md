@@ -4,6 +4,7 @@
 - [[hidden variable]]
 - [[many worlds interpretation (MWI)]]
     - [[multiverse]]
+- [[relational interpretation]]
 - statistical interpretation; Born’s statistical interpretation
     - [[indeterminacy]]; [[quantum indeterminacy]]
     - possible results

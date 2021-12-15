@@ -3,4 +3,5 @@
     - [[experimental result]]; outcome of the experiment; outcome of the measurement; [[outcome]]
     - predict with certainty
 - [[definite position]]; precise location; [[precise position]]
+    - materialization; concrete position; 
     - in the vicinity of the position
