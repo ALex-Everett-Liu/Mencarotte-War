@@ -63,6 +63,14 @@
             - A certification & training program for ABB Service 有资质并认证
 - MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf
 - 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf
+- FTE Test Client
+    - 修改电脑[IP地址]（10.0.0.2, 最后一位2-255皆可以，[主机IP地址]10.0.0.1 ）
+    - Analyzer Health 
+    - 参考背景校正 (reference calibration)
+        - [[gas cell box]] 通入氮气，流速 5000 ml/min, [吹扫气](((GwtsEivzE))) ([[purge gas]]) 4 L/min
+        - [[initial reference]]
+        - start characterization acquisition
+    - [[log message]]
 - 检测维修报告
     - 山东济宁远东医疗
         - 概况与现场问题描述
@@ -76,3 +84,8 @@
 - ...
     - 测量池安装完成后，连接温控器和继电器进行加热。这里注意温度设定在180℃，确保温控正常，以免烧坏仪表。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FVS0uMSU4BX.jpg?alt=media&token=ce1a6805-4f3c-43ba-9294-ced7e4802316)
+    - 连接电源，仪表上电，设备在进行一段时间的[自检]后，稳定运行，可通过观察[电气箱]上的光亮查看是否自检完成。自检完成后，电气箱[指示灯]为[两绿一黄]。
+    - 水校准
+        - 采用 [[HovaCal]] 进行配水
+        - 采取 150℃，3000 ml/min 流量进行配比。
+        - [用网线连接][工控机]，打开[上位机软件]，软件[数据正常]，[信号连接]成功，用配气仪配制 10% water
