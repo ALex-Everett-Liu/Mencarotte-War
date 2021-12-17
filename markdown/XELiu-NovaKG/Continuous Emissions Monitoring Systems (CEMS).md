@@ -39,3 +39,9 @@
         - [超低CEMS][固定污染源][烟气监测系统]（HPS） - PGCM-2001M - 非分散红外 - [火电厂]([[fossil fuel power station]])[燃煤锅炉]、各类[窑炉]、[焚烧炉][尾气在线监测]
         - 超低CEMS固定污染源烟气监测系统（AMETEK） - SYS-9900 - 非分散紫外 - 火电厂[燃机锅炉] | 非电行业：冶金、建材、化工、各类窑炉、焚烧炉尾气在线监测
         - 
+- ****湿氧一体仪****
+    - ****朋谱湿氧一体仪湿度测试************
+        - ****样机湿度线性度测试****
+            - 2.1 环境温度：25℃
+            - 2.2 测试设备：N2（99.999%，计量院）；H2O（饮用纯净水）；HovaCAL 配气仪，调压阀2个、湿氧一体仪2套。测试流路如下（流量为 1L/min）：
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fp6GB4MwVdV.png?alt=media&token=bf37408c-880b-4676-9d0e-38bdca3f0484)
