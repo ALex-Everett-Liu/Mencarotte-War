@@ -47,5 +47,7 @@ and nothing can return. (I, 11)
         - 3 [[THE END OF THE PRESENT]]
         - [[The Order of Time - 4 LOSS OF INDEPENDENCE]]
         - [[The Order of Time - 5 QUANTA OF TIME]]
+    - ## PART II THE WORLD WITHOUT TIME
+        - 6 [[THE WORLD IS MADE OF EVENTS, NOT THINGS]]
 - The [[verse]]s that [open each chapter], unless otherwise indicated, are from versions of [[Horace]]’s __Odes__ translated by Giulio Galetto and published in [a charming small volume] entitled __In questo breve cerchio__ (Verona: Edizioni del Paniere, 1980); [English translations by] Erica Segre and Simon Carnell. #ode
 211205-09:51
