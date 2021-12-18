@@ -12,6 +12,8 @@
     - [[はるまきごはん (harumaki gohan)]]
     - [[一二三 (hihumi)]]
     - [[HoneyWorks]]
+    - [[かりく (kalic)]]
+        - [[夏が零れてゆく (natsu ga koboreyuku)]]
     - [[keeno]]
     - 小川大輝
         - [[by your side]]
