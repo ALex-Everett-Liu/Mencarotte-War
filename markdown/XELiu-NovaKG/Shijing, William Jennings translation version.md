@@ -8,6 +8,9 @@
         - [BOOK I.] THE ODES OF CHOW AND THE SOUTH. (Odes Of [Zhou And The South]) #[[周南 (Zhou And The South)]]
             - [I. I. 1.] SONG OF WELCOME TO THE BRIDE OF [[King Wăn]]. #[[關雎 (Guanju)]]
             - I. I. 2. INDUSTRY AND [FILIAL PIETY] 勤劳孝道 OF [WĂN’S QUEEN]. #[[葛覃 (Getan)]]
+        - BOOK XII. THE ODES OF CH‘IN. #[[陳風 (Chenfeng)]]
+            - I. Xii. 5. THE BROKEN TRYST. 東門之楊
+            - [* ] Ch‘in was a [[marquisate]] in the present province of Ho-nan, given originally by King Wu (1121-1114 bc) to Mwan, his chief potter, [who claimed descent from] the [Emperor Shun]. Mwan is known as Duke Hu. His capital was [built around], or near, the Yun-hill mentioned in the two first pieces.
         - BOOK XIII. THE ODES OF KWAI. #[[檜風 (Kuaifeng)]]
             - I. Xiii. 3. CONTRASTS WITH NATURE. #[[隰有萇楚 (Xiyou changchu)]]
             - [* ]Kwai, like Ch‘in, was [a small but ancient fief] in the present province of Ho-nan, but about the eighth century bc it was incorporated with Ch‘ing. It lay between the rivers Tsin and Wai.
