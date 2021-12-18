@@ -8,8 +8,14 @@
         - [BOOK I.] THE ODES OF CHOW AND THE SOUTH. (Odes Of [Zhou And The South]) #[[周南 (Zhou And The South)]]
             - [I. I. 1.] SONG OF WELCOME TO THE BRIDE OF [[King Wăn]]. #[[關雎 (Guanju)]]
             - I. I. 2. INDUSTRY AND [FILIAL PIETY] 勤劳孝道 OF [WĂN’S QUEEN]. #[[葛覃 (Getan)]]
+        - BOOK XI. THE ODES OF TS‘IN.
+            - I. Xi. 6. THE LIVING [BURIED WITH THE DEAD]. #[[黃鳥 (Yellow Bird)]]
+            - [* ] The State of Ts‘in was about 900 bc [quite a small fief] [in the North-West]. [Many of its inhabitants belonged to] the [wild Mongolian tribes], and probably also [some of its princes]. The State [grew by degrees into importance], and in the third century bc [the ruling Chief] made himself [master of the whole of China] and [established the Ts‘in Dynasty].
+211218-10:25
+                - The first Ode seems to [celebrate the growing dignity of] the [feudal lord], and the [gayer life] [at his Court].
+                - The ruling doge, or [chief magistrate] who was [the head of the city government], 居统治地位的执政官 would throw a [wedding ring] into the water from his [grand state galley] 大礼仪船 during an [official procession] [down the grand canal]. 官员队伍 provided by jukuu
         - BOOK XII. THE ODES OF CH‘IN. #[[陳風 (Chenfeng)]]
-            - I. Xii. 5. THE BROKEN TRYST. 東門之楊
+            - I. Xii. 5. THE BROKEN TRYST. #[[東門之楊 (The willows by the Eastern gate)]]
             - [* ] Ch‘in was a [[marquisate]] in the present province of Ho-nan, given originally by King Wu (1121-1114 bc) to Mwan, his chief potter, [who claimed descent from] the [Emperor Shun]. Mwan is known as Duke Hu. His capital was [built around], or near, the Yun-hill mentioned in the two first pieces.
         - BOOK XIII. THE ODES OF KWAI. #[[檜風 (Kuaifeng)]]
             - I. Xiii. 3. CONTRASTS WITH NATURE. #[[隰有萇楚 (Xiyou changchu)]]
@@ -20,6 +26,6 @@
             - I. Xiv. 4. [HARD TIMES] IN TS‘ÂU—NO HELP FORTHCOMING ASFORMERLY FROM THE ROYAL CAPITAL OF CHOW. #[[下泉 (Xiaquan)]]
             - [* ] Ts‘âu was a small [[Earldom]] [lying in the present province of] Shan-tung. It was annexed to Sung in the fifth century bc
         - BOOK XV. THE ODES OF PIN. #[[豳風 (Binfeng)]]
-            - I. Xv. 1. LIFE IN PIN IN THE OLDEN TIME. #[[七月 (Qiyue)]]
+            - I. Xv. 1. LIFE IN PIN [IN THE OLDEN TIME]. #[[七月 (Qiyue)]]
             - I. Xv. 3. SONG OF THE TROOPS ON [RETURNING FROM THE EASTERN CAMPAIGN]. #[[東山 (Dongshan)]]
             - [* ]Pin was [the name of a district] in the west of the present province of Shen-si, and was the home of [the ancestry of the Chow family] from 1796 to 1325 bc
