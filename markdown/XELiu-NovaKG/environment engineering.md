@@ -38,7 +38,8 @@
 - irrigation sprinkler system: 喷水灌溉系统
     - automatic irrigation sprinkler system;
 - [[limit value]]
-- [[photochemical smog]]
+- [[photochemical reaction]]
+    - [[photochemical smog]]
 - [[pollutant]]
     - [[air pollution]]; [[air pollution control]]
         - [[outdoor air pollution]]; 

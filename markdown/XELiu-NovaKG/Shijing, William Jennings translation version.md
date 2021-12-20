@@ -10,6 +10,7 @@
             - I. I. 2. INDUSTRY AND [FILIAL PIETY] 勤劳孝道 OF [WĂN’S QUEEN]. #[[葛覃 (Getan)]]
         - BOOK XI. THE ODES OF TS‘IN.
             - I. Xi. 6. THE LIVING [BURIED WITH THE DEAD]. #[[黃鳥 (Yellow Bird)]]
+            - I. Xi. 7. OUT OF SIGHT AND OUT OF MIND. #[[晨風 (Chenfeng)]]
             - [* ] The State of Ts‘in was about 900 bc [quite a small fief] [in the North-West]. [Many of its inhabitants belonged to] the [wild Mongolian tribes], and probably also [some of its princes]. The State [grew by degrees into importance], and in the third century bc [the ruling Chief] made himself [master of the whole of China] and [established the Ts‘in Dynasty].
 211218-10:25
                 - The first Ode seems to [celebrate the growing dignity of] the [feudal lord], and the [gayer life] [at his Court].

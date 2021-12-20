@@ -11,6 +11,7 @@
     - [[Bokalo Ongaku]]
     - [[JPOP]]
 - genre
+    - [[ballad]]
     - folk song
     - [[rhythm and blues (RnB)]]; [[R&B]]
     - [[rock]]
