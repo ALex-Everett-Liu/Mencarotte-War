@@ -2,6 +2,7 @@
 - [[big data analysis]]
 - [[chart]]
     - bar graph
+    - [[isopleth]]
     - line graph
         - specify multiple y values for each x value;
     - ordinal axis: 序数坐标轴

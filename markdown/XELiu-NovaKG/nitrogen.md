@@ -1,2 +1,2 @@
 - [[nitrogen dioxide]]
-- [[nitrogen oxides]]
+- NOx; NO2 has to be reduced to NO; [[nitrogen oxides]]; [[oxides of nitrogen (NOx)]]

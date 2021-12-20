@@ -23,6 +23,7 @@
     - [[periodic table of elements]]
 - [[chemical plant]]
 - [[chemical processing]]
+- [[chemical reaction]]
 - [[combustion]]
 - [[component]]
 - [[compound]]
@@ -46,8 +47,8 @@
 - [[monomer]]
 - [[nitrogen]]
 - [[noble gas]]
-- NOx; NO2 has to be reduced to NO; 
 - [[organic compound]]; [[organic chemical]]
+- [[oxide]]
 - [[physical chemistry]]
 - [[polymer]]
 - [[purity]]
