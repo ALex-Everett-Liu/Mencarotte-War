@@ -4,6 +4,10 @@
 - [[黄滟荻 (Huang Yandi)]] -- 163 cm
 - [[臧妤姣 (Zang Yujiao)]] -- 165~168 cm?
 - [[虞喆 (Yu Zhe)]] -- 160 cm?
+- gyw -- 161~163 cm?
+    - 星期一 20/12/2021 18:21
+        - 今年流行的大发卡 乳白色的 - 略带零乱和慵懒的美感 - 头发扎成团抽出两束
+        - light silver-grey yurongfu
 - langdi东区jk -- #pt10-100   163~164 cm?
     - 2020
         - 
@@ -44,10 +48,18 @@
     - 星期二 23/03/2021 12:39 #pt10-100 #laopo #[[grey socks]] #canvas #[[light jeans]] # black dayi   166~169 cm?
     - 星期四 01/04/2021 12:30 # [[black leather shoes]]
     - 星期四 08/04/2021 12:33 # black leather coat # jeans # canvas
+- 星期一 20/12/2021 08:52 #pt10-99.99 #laopo #[[short ponytail]] #[[black yurongfu]] # brown-grey plaid skirt #[[black middle boot]] 骑电瓶车上班 170~172 cm?
 - 星期五 26/04/2019 16:16 #pt10-99.99 #laopo #[[flesh pantyhose]] # light pink high heeled #[[blue-white skirt]] #[[white coat]] #[[pink bag]]   161~163 cm?
 - 星期四 20/05/2021 19:11 #pt10-100   164~166 cm?
 - langdi东区jk2 -- #pt10-99.99   164~167 cm?
 - 星期四 20/05/2021 19:11 #pt10-99.99 #[[white high heeled]] # green long skirt   163~165 cm?
+- 星期一 20/12/2021 12:03 #pt10-99.99 #laopo # 大发卡 #[[brown wedge short boot]] #[[flesh pantyhose]] 165~167 cm?
 - 星期一 15/03/2021 15:30 -- MOV_0124 #pt10-100 #[[black coat]] # light grey trousers #[[white sneaker]]   164~166 cm?
 - HITwh-02 #pt10-100
     - glx video...
+- 星期一 20/12/2021 20:09 #pt10-99.99 # 大发卡 # grey-blue yurongfu 163~165 cm?
+- 星期一 20/12/2021 12:08 #pt10-99.99 # creamy-white dayi #[[black high heeled]] (尖头) 167~169 cm?
+- 星期一 20/12/2021 20:15 #pt10-99.99 # creamy-white yurongfu #jeans 164~166 cm?
+- 星期一 20/12/2021 20:14 #pt10-99.99 # 双短麻花辫 # keai # dark green long yurongfu 163~165 cm?
+- 星期一 20/12/2021 08:57 #pt9-100 #[[short ponytail]] 164~166 cm?
+- 星期一 20/12/2021 20:13 #pt9-99.99 # black wedge short boot # black long dayi 167~169 cm?

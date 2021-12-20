@@ -1,4 +1,5 @@
 - black dayi
+    - black long dayi
 - brown dayi
 - light brown dayi
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtqCMGewjjH.png?alt=media&token=f7325d50-beb8-4eb1-9724-09fbe2210c7a)

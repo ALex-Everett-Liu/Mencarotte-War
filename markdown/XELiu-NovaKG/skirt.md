@@ -3,6 +3,7 @@
     - black middle skirt
 - [[blue skirt]]
 - [[blue-white skirt]]
+- brown-grey plaid skirt
 - [[jk seifuku]]
     - dark blue skirt
     - white short sleeves with blue
