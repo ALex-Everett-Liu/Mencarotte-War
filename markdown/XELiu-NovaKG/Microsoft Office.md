@@ -1,3 +1,9 @@
 - [[Excel]]; [[Microsoft Excel]]
 - [[Office 365]]
+- Office like
+    - Libre Office
+    - WPS Office
+        - directories
+            - C:\Users\sepul\AppData\Roaming\kingsoft\office6\backup #AppData
+            - C:\Users\sepul\AppData\Local\kingsoft\WPS Cloud Files\userdata\qing\filecache\.1216562645\cachedata #cache
 - [[Microsoft Word]]
