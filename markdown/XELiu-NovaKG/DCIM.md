@@ -35,4 +35,6 @@
         - [[June 9th, 2021]] -- [[DCIM - June 9th, 2021]]
         - [[June 29th, 2021]] -- [[DCIM - June 29th, 2021]]
     - December
+        - [[December 18th, 2021]] -- [[DCIM - December 18th, 2021]]
+        - [[December 19th, 2021]] -- [[DCIM - December 19th, 2021]]
         - [[December 20th, 2021]] -- [[DCIM - December 20th, 2021]]
