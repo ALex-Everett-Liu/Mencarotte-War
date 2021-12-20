@@ -143,6 +143,7 @@ __缺点：易受温度影响__
 - FTIR 光谱获取流程 step
     - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
+        - 当温度和湿度变化时，这时的实际背景光谱相比于上一次采集后设置的背景光谱发生了变化，导致此时通入氮气之后各组分浓度值[回不了零]。 #pt10-100
     - 采集[单通道][样品光谱] S(ν) -- 在[样品有吸收]的[波数]下[强度降低]。
     - 透射率光谱 $$T(\nu)=S(\nu) / R(\nu)$$
         - [[transmittance]] $$T=\frac{I_{\mathrm{t}}}{I_{0}}$$
