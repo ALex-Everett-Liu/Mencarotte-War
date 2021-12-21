@@ -1,4 +1,5 @@
 - [[attenuated total reflection]]; [[attenuated total reflectance (ATR)]]
+    - [[FTIR (Frustrated Total Internal Reflection)]]
 - [[critical angle]]
 - [[evanescent wave]]; [[evanescent field]]
 - [[internal medium]]; [[external medium]]

@@ -69,7 +69,7 @@
     - [[photodetector]]
     - [[photon]]
 - [[waveguide]]; [[optical waveguide]]
-    - [[optical fiber]]; [[fiber]]; [[fibre]]
+    - [[optical fiber]]; [[fiber]]; [[fibre]]; [[fibre optic telecommunication]]
 - [[wave optics]] / [[physical optics]]
 - ---
 - [[新概念物理教程-光学 (New Concept Physics - Optics)]]

@@ -3,7 +3,6 @@
 - [[conductive track]]; [[conductive pad]]: 焊盘
 - [[copper layer]]; [[copper plane]]; etched from copper layers: 铜片层蚀刻的
     - [[copper foil]]: 铜箔
-- [[mechanical adhesive]]: 机械粘合剂
 - [[multi-layer PCB]]
     - [[alternating layers]]: 交替层
 - [[sheet layer]]

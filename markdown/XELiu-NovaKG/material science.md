@@ -1,3 +1,5 @@
+- [[adhesive]]: 粘合剂
+    - [[mechanical adhesive]]: 机械粘合剂
 - [[battery]]; [[battery device]]
 - [[ceramic bed]]
 - [[crystal]]
@@ -12,4 +14,7 @@
 - [[polystyrene film]]; [[polystyrene]]
 - [[pyroelectricity]]; [[pyroelectric effect]]
     - [[pyro­elec­tric detector]]
+- [[resin]]: 树脂
+    - [[Canada balsam]]: 香树膏, 香树脂;
+    - [[synthetic resin]]
 - [[rubber]]

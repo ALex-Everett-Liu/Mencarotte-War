@@ -1,3 +1,4 @@
+- [[glass prism]]
 - Kretschmann configuration
 - Otto configuration
 - [[reflective prism]]
