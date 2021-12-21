@@ -11,3 +11,7 @@
     - 光路图
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fkjorg8a1P2.jpg?alt=media&token=f68a0e1b-7479-4a5e-b4c2-a7e1f548c2ae)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F767uS1HB5v.png?alt=media&token=dbad623e-49a6-486f-9edb-48f460a2387e)
+    - ---
+    - # 基于[无定镜](https://patents.google.com/patent/CN106153196A/zh)迈克尔逊干涉仪的傅里叶变换光谱仪
+        - 傅里叶变换光谱仪 (Fourier Transform Spectrometer, FTS) 按照结构和调制方式可分为时间调制型和空间调制型，时间调制型FTS是通过增加[运动部件][让两光路经过的路程不同]或[所用时间不同][来产生光程差][从而形成干涉]的，__空间调制型FTS是通过[光照射空间中不同位置的点]来产生光程差形成干涉的。__与时间调制型FTS相比，空间调制型FTS[更为稳定]、体积也更小，因为它内部没有[运动器件]; 但是时间调制型FTS—般具有更高的[探测信噪比]和更宽的[探测带宽]，因而应用更为广泛。
+        - 本发明[去除了定镜]，采用[双面反射动镜]，[光源发出的光][经分束器得到两束光]，这两束光[离开分束器后][再回到分束器][所经过的距离之差][即为光程差]，本发明中，双面反射动镜[每移动一段距离]，[所产生的光程差][为该距离的四倍]。
