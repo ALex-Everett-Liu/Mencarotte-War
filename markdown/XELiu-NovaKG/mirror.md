@@ -1,5 +1,6 @@
 - [[bronze]]
 - [[plane mirror]]
 - [[polished copper]]: 抛光铜 
+- [[pellicle mirror]]: 薄膜镜
 - [[speculum]]: 窥镜 
     - copper alloy rich in tin: 富含锡的铜合金 

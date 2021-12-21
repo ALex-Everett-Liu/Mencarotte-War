@@ -3,7 +3,7 @@
 - [[hypermedia]]
 - [[image processing]]
     - [[image recording]]
-- [[photograph]]
+- [[photograph]]; [[photography]]
 - [[radio]]
     - [[radio station]]
 - renderer

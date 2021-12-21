@@ -3,6 +3,8 @@
 - [[battery]]; [[battery device]]
 - [[ceramic bed]]
 - [[crystal]]
+- [[deposit]]
+    - [[physical vapor deposition]]: 物理气相沉积
 - flammable material
 - general...
     - withstand high temperatures
@@ -18,3 +20,7 @@
     - [[Canada balsam]]: 香树膏, 香树脂;
     - [[synthetic resin]]
 - [[rubber]]
+- [[substrate]]; [[substrate layer]]; [[non-conductive substrate]]: 非导电基板
+    - [[base material]]
+    - [[fiberglass]]
+    - laminated onto the substrate: 层压在基板上; laminated together with heat and adhesive: 用热和粘合剂层压在一起
