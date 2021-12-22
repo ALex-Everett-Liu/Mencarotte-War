@@ -20,3 +20,5 @@
     - spot diagram
 - [[raw data]]
 - receive data;
+- sampling
+    - [[equally-spaced samples]]
