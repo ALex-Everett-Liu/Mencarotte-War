@@ -20,7 +20,7 @@
 - quick todo
     - [PDXCON](https://store.steampowered.com/sale/paradox);; movie theater 210501 harbin zym;; [Download](https://github.com/AlexAplin/nndownload) and process links from Niconico (nicovideo.jp);; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 
-    - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; ^^appgo redl^^;; GIFCAM
+    - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; ^^appgo redl^^;; GIFCAM;; ProcessOn
     - anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
         - 丝路大亨; 重生传奇; 吾家有妻骄养成; 替宋;; asmr .txt
         - 御姐; 
@@ -35,6 +35,7 @@
         - https://www.nicovideo.jp/watch/sm38701181
         - https://www.youtube.com/watch?v=M4DC8rLRytI
         - https://www.zhihu.com/people/jin-wei-66-63
+        - https://www.zhihu.com/people/will9999
         - https://weibo.com/u/5972369811
         - 我要华科前排左二蓝裙小姐姐联系方式
             - [这又是哪位托w](https://space.bilibili.com/241315712/dynamic)

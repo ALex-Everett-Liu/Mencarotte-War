@@ -1,3 +1,4 @@
 - [[color]]
 - [[pixel]]
+- [[raster image]]: 栅格/点阵图
     - rasterized

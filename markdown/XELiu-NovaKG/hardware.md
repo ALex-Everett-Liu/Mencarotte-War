@@ -7,6 +7,7 @@
     - [[Lenovo]]
 - [[computer system]]
 - [[data storage]]
+- [[dedicated hardware]]
 - display
     - high contrast
     - [[liquid-crystal display (LCD)]]
