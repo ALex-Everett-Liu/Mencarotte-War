@@ -22,7 +22,8 @@
         - superposable
     - [[periodic table of elements]]
 - [[chemical plant]]
-- [[chemical processing]]
+- [[chemical process]]
+    - [[chemical processing]]
 - [[chemical reaction]]
 - [[combustion]]
 - [[component]]

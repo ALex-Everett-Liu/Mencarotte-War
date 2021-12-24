@@ -1,3 +1,4 @@
+- [[emotion]]
 - [[flow (psychology)]]: 心流
     - 打断思路
 - [[meditation]]

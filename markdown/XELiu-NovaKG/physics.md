@@ -46,6 +46,7 @@
         - [[momentum]]
         - [[frequency]]
     - [[physical system]]
+    - [[physical world]]
     - [[scale]], scope...
     - time
         - at any given time: 某个给定的时间; at any particular time
