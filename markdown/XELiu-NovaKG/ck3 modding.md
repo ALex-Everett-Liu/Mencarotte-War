@@ -26,6 +26,7 @@
     - [This guide is intended to] [lower the entry barriers to the world of](((Eu46_sor_))) [Crusader Kings III modding]. However, there is still a [[learning curve]] to it, and [it cannot replace the need to] read some [working vanilla code](((TvjoQD_Uw))) and [do lots of trial]([[trial]]) and [[error experimentation]].
 210426-17:48
     - __Important__: [the majority of mods] will [change the checksum]([[checksum]]), [not allowing the player to] [get achievements]([[achievement]]). See `checksum_manifest.txt` [in the game folder] [for the list of] [checksummed folders and files]. [The only safe mods] are the ones that replace textures, shaders, fonts or music.
+    - CK3 Modding # 1 -[Brief introduction](https://youtu.be/uu_Zxf4ul2g) to modding. __Roll1D2 Games__ guide on [useful tools] and how-to mod [beginner's guide]([[beginner course]]). #[[introduction]]
 - Index
     - **Scripting** -- [[characters modding]] | 
 - #inbox
