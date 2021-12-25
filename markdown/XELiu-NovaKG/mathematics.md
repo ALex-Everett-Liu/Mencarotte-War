@@ -32,6 +32,9 @@
 - puzzle
     - [[Sudoku puzzle]]
 - [[set theory]]
+- [[spectral analysis]]
+- summation
+    - [[periodic summation]]
 - [[statistics]]; [[statistician]]
     - [[data analysis]]; [[analyst]]
     - [[probability theory]]

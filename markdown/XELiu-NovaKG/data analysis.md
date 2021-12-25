@@ -22,3 +22,4 @@
 - receive data;
 - sampling
     - [[equally-spaced samples]]
+    - [[periodic sampling]]

@@ -8,6 +8,7 @@
     - [[Clojure]]
         - [[ClojureScript]]
         - [[EDN]]; [[formatted edn]]
+- [[Mathematica]]
 - [[Matlab]]
 - [[Node]]
 - [[PHP]]
