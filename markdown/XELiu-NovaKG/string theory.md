@@ -1,7 +1,12 @@
 - extra spatial dimensions
 - [[M-theory]]
-    - [[cosmic hologram]]
+    - [[cosmic hologram]]; [[hologram]]
 - [[superstring theory]]
+- ---
+- [[cross section]] of the quintic [[Calabi–Yau manifold]].
+    - [Produced using the methods described in] Hanson (1994), "A construction for [[computer visualization]] of [certain complex curves]", __Notices of the Amer.Math.Soc.__ **41**(9): 1156–1163.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F5QEAqi-lbw.png?alt=media&token=99430d88-f683-4058-805f-216d7964f44a)
+- ---
 - #inbox
     - 大四[也就是今年]，学到了更多，看法就[全面起来]：弦论[一点都不 fancy]，就是[基本粒子][从零维自然地推广到一维]，仍然在[量子场论的框架内](https://zhuanlan.zhihu.com/p/398488911)，没有想象力。 #pt9-99.97
 

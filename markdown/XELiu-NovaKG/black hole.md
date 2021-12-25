@@ -1,6 +1,11 @@
 - [[Bekenstein bound]]
+- [[black hole information paradox]]
+- [[black hole thermodynamics]]
+    - [[maximal entropy]]
 - the center of a black hole
 - the end of collapsing stars
+- [[event horizon]]
+    - [[surface fluctuation]]
 - [[Hawking radiation]]
 - [[quantum black hole]]
 - ---

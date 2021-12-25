@@ -1,5 +1,5 @@
 - [[general theory of relativity]]; [[general relativity]]
-    - [[Einstein’s equation]]
+    - [[Einstein’s equation]]; [[Einstein equations]]
     - parameterize time
         - by the scale factor of space
             - space expansion factor

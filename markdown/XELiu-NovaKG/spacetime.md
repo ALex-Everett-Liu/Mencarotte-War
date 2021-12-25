@@ -14,6 +14,7 @@
             - [[real world]]; [[real-world object]]; [[real entity]]
 - event network; 
 - [[light cone]]
+- [[light-like boundary]]
 - Minkowski space
     - Minkowski vacuum
 - [[Planck time]]

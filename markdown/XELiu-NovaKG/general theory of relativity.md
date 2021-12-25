@@ -1,0 +1,3 @@
+- horizon
+    - [[cosmological horizon]]
+    - [[gravitational horizon]]

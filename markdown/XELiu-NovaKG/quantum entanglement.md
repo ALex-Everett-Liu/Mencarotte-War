@@ -1,4 +1,4 @@
-- [[area-law behavior]]
+- [[area-law behavior]]; [[area law]]
 - [[entangled particles]]
 - [[entanglement entropy]]
     - scale as the volume;
