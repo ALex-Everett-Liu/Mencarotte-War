@@ -50,6 +50,7 @@
         - [[refractive index]]
         - transparent; [[transparent media]]
             - lossless medium; perfectly transparent
+            - [[semi-transparent mirror]]
     - the properties are independent of direction;
 - [[nonlinear optics (NLO)]]
 - [[optical engineering]]
@@ -59,7 +60,7 @@
         - [[beamsplitter]]; [[beam splitter]]
             - KBr beamsplitter
         - [[chopper]]: 斩波器; 遮光器; 截断器, 断路器;
-    - [[optical device]] 
+    - [[optical device]]; [[optical instrument]]
 - optoelectronic component; 
 - [[photonics]]
     - [[grating]]
