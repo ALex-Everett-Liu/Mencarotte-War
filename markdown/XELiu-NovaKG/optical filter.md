@@ -1,6 +1,8 @@
 - 干涉滤光片
     - 窄带干涉滤光片
     - [[滤光轮]]
+    - [[filter cell]]; [[filter chamber]]
+    - [[positive filtering]]
 - ---
 - # [近红外滤光片](http://www.mega-9.com/tech/tech-57.html)在测量[花生油]中[油酸和亚油酸]含量的应用
     - 在于[测定不同品种][花生仁和花生油]中油酸和亚油酸的含量时可以采用[高光谱成像技术]和[近红外光谱技术]([[near-infrared spectroscopy (NIRS)]])。利用 **窄带滤光片** 将[LED灯]或[卤素灯][发出来的光谱]分成10个[窄区域波长]的光谱，然后利用这些[窄光谱]对花生仁[进行成像]，根据[不同波长的成像结果]，按相应的[数学模型][进行回归得到结果]。近红外滤光片 wavelength range from 900nm to 1700nm，with a bandwidth of 10~15nm。

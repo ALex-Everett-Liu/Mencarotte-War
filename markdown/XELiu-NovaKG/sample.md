@@ -21,6 +21,7 @@
         - sample conditioning: 样气调理
     - gas flow chart: 气路流程图;
     - high concentration sample gas;
+    - [[interfering gas]]
 - [[sample preparation]]
 - [[sampling rate]]
 - [[sample spectrum]];

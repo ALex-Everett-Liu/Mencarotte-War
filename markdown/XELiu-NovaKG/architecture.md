@@ -1,1 +1,4 @@
+- [[apartment building]]
 - [[architectural style]]
+- [[office building]]
+- [[skyscraper]]

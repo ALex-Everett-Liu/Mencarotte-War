@@ -2,11 +2,13 @@
 - [[heat energy]]
 - heating; 加热元件
     - [[heater]]
-    - [[heat transfer fluid]]: 传热液
+    - [[heat transfer]]
+        - [[heat transfer fluid]]: 传热液
     - [[preheat]]
     - 感温元件
         - 铂电阻; PT 100
     - 加热棒; 加热片
+- [[heating, ventilation, and air conditioning (HVAC)]]
 - oil and petrochemicals industries
 - ---
 - dictionary 

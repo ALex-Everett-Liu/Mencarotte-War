@@ -56,7 +56,7 @@
             - ? 这种分光型仪器的[选择性]较[不分光型][明显提高]，[可以避开][不同组分吸收峰的交叉部分]，但由于其[通带很窄]，透过率不高，所以[到达检测器的光][能量小]，灵敏度较低。
 211012-11:26
         - [滤波技术]-实现固体检测器对[待测组分][特征吸收波长的选择] -- 将[空间单光路]转变为[时间双光路]。
-        - 气体滤波相关检测法 (GFC) - 气体滤波相关技术 - [滤波元件]是[滤波气室] 。
+        - [气体滤波相关检测法 (GFC)]([[Gas Filter Correlation (GFC)]]) - 气体滤波相关技术 - [滤波元件]是[滤波气室] 。
             - [调制盘]上的 参考气体腔 (GFC) - 衰减气体腔 (ATT)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FBLkUYYK2ph.png?alt=media&token=0bf7f140-2921-4e13-8132-e09c3b54ff2b)
             - GFC 充有目标气体样品-波长选择滤光器只对目标气体的吸收谱线有响应 
@@ -66,8 +66,8 @@
         - 常温型红外气体分析仪恒温在50~60℃
         - 高温高湿气体中的 HCl/NH3 等的在线测量
         - Sick Maihak MCS100E   p73
-            - 光源-[切光轮]([[切光片]])-测量气室-[滤光气室]([[filter chamber]])-检测器
-            - 光谱扫描系统 两组[步进马达]([[stepper motor]])带动的[[滤光轮]]
+            - 光源-[切光轮]([[切光片]])-测量气室-[滤光气室]([[filter chamber]])-检测器 ([[pyro­elec­tric detector]])
+            - 光谱扫描系统 两组[步进马达]([[stepper motor]])带动的[[滤光轮]] -- 8个滤光片 多个滤光气室和通孔
     - [非分光红外气体分析仪 (NDIR)]([[nondispersive infrared sensor (NDIR)]]) -- 1~15 μm
     - 调制型
         - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument

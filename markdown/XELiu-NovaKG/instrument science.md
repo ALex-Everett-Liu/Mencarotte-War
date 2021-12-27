@@ -15,6 +15,7 @@
 - calibration
     - calibration and maintenance system
     - [[calibration gas]]; [[calibration gas system]]; 标定状态
+        - [[interfering gas]]
         - [[span calibration gas]]: 量程校准气体
     - [[standard gas]]; 通入标准气体; for test
         - [[span calibration gas]]: 量程校准气体

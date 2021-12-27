@@ -1,5 +1,6 @@
 - [[buck converter]]
 - [[circuit]]; [[electronic circuit]]
+    - [[circuit breaker]]: 额定断路器
 - conduct electricity
 - [[electrical cable]]
 - electromagnetic interference
