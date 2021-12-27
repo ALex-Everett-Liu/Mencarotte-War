@@ -67,6 +67,7 @@
         - 高温高湿气体中的 HCl/NH3 等的在线测量
         - Sick Maihak MCS100E   p73
             - 光源-[切光轮]([[切光片]])-测量气室-[滤光气室]([[filter chamber]])-检测器
+            - 光谱扫描系统 两组[步进马达]([[stepper motor]])带动的[[滤光轮]]
     - [非分光红外气体分析仪 (NDIR)]([[nondispersive infrared sensor (NDIR)]]) -- 1~15 μm
     - 调制型
         - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument
