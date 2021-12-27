@@ -68,17 +68,17 @@ __缺点：易受温度影响__
     - 为增加寿命，[内部填充]特殊气体。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Ft5gb9kLi7q.jpg?alt=media&token=5c24b8d2-478f-4cfd-a7f4-f67cc7a17c89)
 - 调制单元
-    - [切光马达]([[stepper motor]])
+    - [切光马达]
         - 1、马达的[默认频率]为 7.3HZ
         - 2、体积比老马达更小
         - 3、用[光栅][测量频率]
         - 4、马达有[3根引线]，[任何两根引线之间的电阻]都为[40欧姆]
 211012-10:45
-    - 切光片
-        - 计算机控制[同步马达][驱动切光片]，[切光片][交替的覆盖测量和参比气室]。光线[在每一周内][交替的通过测量和参比气室]各两次。
+    - [[切光片]]
+        - 计算机控制[同步马达][驱动切光片]，[切光片][交替的覆盖测量和参比气室]。光线[在每一周内][交替的通过测量和参比气室]各两次。 #[[reference chamber]] #[[measurement chamber]]
         - 1、对光切割，把光源的光[变成断续的光]，对红外光[进行调制]，使[检测器测量信号]成为交流信号，[便于][放大器放大]，可以改善检测器的[响应时间]特性。
 
-        - 2、两个[内圈]用于[透过参比光]，两个[外圈]用于[透过测量光]。
+        - 2、两个[内圈]用于[透过参比光]([[reference light]])，两个[外圈]用于[透过测量光]([[measurement light]])。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnkkgIDDmt4.png?alt=media&token=729ce9d1-52f5-4c3a-bd1b-0ce114f4b050)
     - 光源 / MIR source / source module -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
         - [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source
