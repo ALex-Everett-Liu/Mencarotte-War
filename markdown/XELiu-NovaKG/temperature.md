@@ -3,3 +3,6 @@
 - [[effective temperature]]
 - [[high temperature]]; [[low temperature]]
 - [[room temperature]]
+- [[temperature control]]
+    - [[temperature regulation]]: 温度调节
+    - [[thermostat]]

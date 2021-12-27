@@ -5,6 +5,7 @@
 - [[industrial application]]
 - [[industrial process]]
 - [[industrial settings]]
+- [[industrial system]]
 - industrially hardened; 
 - [[light industry]]
     - [[cottage industry]]

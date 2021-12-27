@@ -28,6 +28,7 @@
 赚钱是企业的，亏钱是社会的，哪儿有这么好的事。 #pt7-99.97
     - [[power supply]]
     - produce electricity; 
+    - [[steam power plant]]
 - [[relay]]: 继电器
     - [[optical relay block]]
 - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
