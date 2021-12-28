@@ -36,6 +36,8 @@
                     - 确保温度在样品露点之上，不会出现[冷凝水] -- 探头 150℃，电加热传输管线 120℃
                 - VOCs CEMS
                 - NDIR; UV-VIS
+                - CEMS系统结构示意图
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtZNY06wmaC.jpg?alt=media&token=6d8331cc-6ac8-4d22-bbd8-7ea77f589834)
             - hot wet system-[[热湿法]]抽取式CEMS-含有易溶于水的组分-[湿基测量]([[wet basis]])
                 - [稀释法取样]([[dilution system]])-稀释后的气体[露点温度]([[dew point temperature]])应低于[现场最低温度]
                     - [稀释样气]([[dilute the sample]])
