@@ -32,7 +32,7 @@
             - cool dry system-冷却除水-[干基]([[dry basis]]) -- 《在线分析系统工程技术》 p21
                 - 除尘除湿处理一体化--[采样探头]([[sample probe]]); [[probe]] - 不加热传输管线 - [样品调理](((u5vOhQFwJ))) - [取样泵](((OwFFkfZun))) - [[analyzer cabinet]]: 分析机柜
                 - 加热过滤取样探头系统 p25
-                    - 除湿器
+                    - 11.5 样品除湿技术 -- 除湿器
                     - 确保温度在样品露点之上，不会出现[冷凝水] -- 探头 150℃，电加热传输管线 120℃
             - hot wet system-含有易溶于水的组分-[湿基测量]([[wet basis]])
                 - [稀释法取样]([[dilution system]])-稀释后的气体[露点温度]([[dew point temperature]])应低于[现场最低温度]
