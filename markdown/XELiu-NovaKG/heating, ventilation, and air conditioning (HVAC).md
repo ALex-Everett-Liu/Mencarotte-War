@@ -1,5 +1,8 @@
+- [[air conditioning]]; [[air conditioner]]
 - [[cooling]]
+- [[refrigeration]]; [[refrigerator]]; [[refrigeration system]]
 - [[heat transfer]]
+- [[surrounding air]]; [[surrounding environment]]
 - ---
 - Heating, ventilation, and air conditioning (HVAC)[1] is [the use of various technologies to] control the [[temperature]], [[humidity]], and [purity of the air]([[air purity]]) [in an enclosed space]. [Its goal is to provide] [[thermal comfort]] and acceptable [[indoor air quality]]. [HVAC system design] is a subdiscipline of [[Mechanical Engineering (ME)]], [based on the principles of] [[thermodynamics]], [[fluid mechanics]], and [[heat transfer]]. "[[refrigeration]]" is sometimes [added to the field's abbreviation as] HVAC&R or HVACR, or "ventilation" is dropped, as in HACR ([as in the designation of] HACR-rated [[circuit breaker]]s).
 211227-19:17

@@ -12,9 +12,6 @@
         - 铂电阻; PT 100
     - 加热棒; 加热片
 - [[heating, ventilation, and air conditioning (HVAC)]]
-    - [[air conditioning]]; [[air conditioner]]
-    - [[refrigeration]]; [[refrigerator]]
-    - [[surrounding air]]; [[surrounding environment]]
 - oil and petrochemicals industries
 - ---
 - dictionary 
