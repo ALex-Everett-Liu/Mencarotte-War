@@ -327,9 +327,11 @@ O2：25%；
                     - 模型更换后，NO线性、重复性等参数须[重新测试验证]。
             - 4. HCl Test
     - CEMS software
-        - CEMS 标定公式
+        - CEMS 标定公式 #pt9-100
             - (CEMS(x)-CEMS(0))/(CEMS(F.S.)-CEMS(0))=(InSa(x)-InSa(0))/(InSa(F.S.)-InSa(0))
-                - 转换为 y=ax+b (CEMS(x)=a*InSa(x)+b) -- 即 a=CEMS(F.S.)/(InSa(F.S.)-InSa(0)), b=
+                - 转换为 y=ax+b (CEMS(x)=a*InSa(x)+b) -- 即 a=CEMS(F.S.)/(InSa(F.S.)-InSa(0)), b=-InSa(0)*a
+                - InSa(x) 解析平滑的值 -- CEMS(x) 标定转换后的值
+        - 7.6 的粗糙理解 -- SO2示数/实际测量值=k*校准/标定的满量程值 +b (满量程校准；校准从满量程(100%SO2)到零点(100%N2)直线的斜率和相对零点偏移值)
 - Software
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx

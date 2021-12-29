@@ -1,8 +1,16 @@
+- 实验室环境条件
+    - 环境温度： 18-23℃
+    - 环境湿度： 25-35%RH
+    - 大气压： 99.8-100.5 KPa
+- [检测时][所用]主要[仪器设备]
+    - 气体分配器 -- HovaCAL digital 211-MF -- 编号 09121601
+    - 环境试验箱 -- DSCR-020-50-P-AR
+    - 接触式调压器 -- TDGC2-5KVA
+    - 电子秒表 -- DM1-002
+- 检测时所用[标准物质](((wcp1aqyph)))
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9-RUQf8Hc_.png?alt=media&token=81f99239-d1cb-45c7-a537-0ee182fd45a1)
 - 流程记录
     - 1 通入[零气]([[zero gas]])N2, [[零点标定]] ([[零点校准]])
-        - SO2示数/实际测量值=k*校准/标定的满量程值 +b (满量程校准；校准从满量程(100%SO2)到零点(100%N2)直线的斜率和相对零点偏移值)
-    - 待测的气体瓶/罐，逆时针打开阀门，通气；顺时针关闭阀门，停止通入该种气体。
-    - 标气阀-__单级压力调节器__：逆时针向上抬扳手，使其松开，阻止气体流向气腔；顺时针下压扳手，使其投紧，进入通气状态。
     - [量程校准气体]([[span calibration gas]])-[标气]([[standard gas]])浓度90%即可
     - 初始[[进样流量]] 2000 ml/min
     - 功能
@@ -19,6 +27,9 @@
 - [重复性]([[repeatability]])
     - `SD=(SUM((C9:C14-AVERAGE(C9:C14))^2)/(6-1))^(1/2)`
     - F.S.=(G9-C9)/$C$4*100
+- 表8  CEMS [干扰成分的影响][实验室检测记录]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FTaXKzfgW20.png?alt=media&token=46a8c1a7-c25b-4773-be56-a3c55dd2c528)
+    - 累加所有5种干扰成分所造成的影响的正干扰或负干扰总值
 - 日报表
     - SO2 实测
     - {{[[TODO]]}} SO2 折算 (mg/m3)
