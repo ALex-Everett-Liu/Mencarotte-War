@@ -4,6 +4,7 @@
 - [[flowmeter]]; flow indicator
     - [[mass flow meter]]
     - 转子流量计
+        - 读数位置 (read point) 在转子小球顶部
 - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
     - gas path; 气路; 气体管路
         - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]] -- [[sample cell]]; [[sample chamber]]: 气体室;
