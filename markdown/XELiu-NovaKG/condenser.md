@@ -1,3 +1,5 @@
+- [[condensing unit]]
+- ---
 - For condensers not involving heat transfer, see Condenser (disambiguation).
 - In systems involving heat transfer, a condenser is a [[heat exchanger]] used to [condense a gaseous substance into] a [[liquid state]] through [[cooling]]. In so doing, the [[latent heat]] is [released by the substance] and transferred to the [[surrounding environment]]. Condensers are used for efficient [[heat rejection]] in many [[industrial system]]s. Condensers [can be made according to] [numerous designs], and [come in many sizes ranging from] [rather small] ([hand-held](((RVT-MB2ge)))) to [very large] ([industrial-scale units] used in [plant processes]). 工厂工艺流程 For example, a [[refrigerator]] [uses a condenser to] [get rid of heat extracted from] [the interior of the unit] [to the outside air].
 211228-00:06
