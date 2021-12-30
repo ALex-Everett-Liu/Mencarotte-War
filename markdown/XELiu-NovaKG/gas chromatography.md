@@ -2,7 +2,7 @@
     - [[carrier gas]]
         - [[mobile phase]]
     - [[column]]
-        - [[capillary column]]; [[capillary tube]]
+        - [[capillary column]]; [[capillary tube]]: 毛细管 
         - [[chromatographic peak]]
         - [[column chromatography]]
         - [[eluent]]
