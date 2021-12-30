@@ -209,7 +209,7 @@ Notch1&Notch2：对称切口，用于[开取上盖]
             - 6.2. 可拆卸部件
                 - 金属上盖
                 - [[密封圈]]
-                - PTFE 垫片
+                - [[polytetrafluoroethylene (PTFE)]] 垫片
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FNY1VbZKwKq.png?alt=media&token=75519170-cf41-4148-9c34-bc35b48030a7)
                 - 离子仓
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FLGH4iPfpcX.jpg?alt=media&token=4e972abf-7aa0-4ce3-b4d9-b62a7526113c)

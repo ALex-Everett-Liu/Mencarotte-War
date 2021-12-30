@@ -67,5 +67,5 @@
         - [[伴热管线]]
         - 钢管
             - 涂层钢管; 
-        - 四氟管
+        - [[polytetrafluoroethylene (PTFE)]]; [[Teflon]]; 四氟管
 - [[uniform sample]]
