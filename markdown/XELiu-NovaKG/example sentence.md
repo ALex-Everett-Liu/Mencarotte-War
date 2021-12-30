@@ -61,6 +61,7 @@
         - ---
     - www.[[kekenet]].com
         - [Please tell us] the model number you want.
+    - www.[keke].com
     - www.[[okread]].info
         - In what has become [a too-familiar experience] in Tokyo, [a crowded subway train] [screeches to a sudden halt]. 
         - ---
