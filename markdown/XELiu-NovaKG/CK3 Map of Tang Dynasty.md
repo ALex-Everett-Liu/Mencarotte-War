@@ -8,4 +8,4 @@
         - 《新唐书·地理志》《新唐书·方镇表》
         - 《南诏野史》
         - 贴吧 貂锦赴胡尘的历史地图系列
-    - [中古汉语标音]参考了[语言维基]的[汉字古今中外读音查询]。
+    - [中古汉语标音](https://steamcommunity.com/sharedfiles/filedetails/?id=2389456906&searchtext=miller)参考了[语言维基]的[汉字古今中外读音查询]。 #pt9-100
