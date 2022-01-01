@@ -16,8 +16,9 @@
         - gvr5fdg4b6uw32c4
         - gvr5fdG4b6uW32c4
     - id
-    - wifi
+    - [[Wi-Fi]]; [[Wi-Fi module]]; WiFi; wifi
         - jhxc2q 805 -- pw: 4bim3wb3
+        - 88310586 -- pw: lqm650112
     - ftp
         - explorer or `运行 //192.168.x.x` (Win+R)
         - ftp://192.168.1.5:3721/ -- 805

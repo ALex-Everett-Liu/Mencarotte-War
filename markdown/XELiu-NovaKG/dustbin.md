@@ -1,0 +1,8 @@
+- dictionary 
+    - refuse bin; trash can; waste basket; 
+    - 《柯林斯高阶英汉双解学习词典》
+        - I [took a great dislike to] the clock, so I [chucked it in the dustbin] 随手就把它扔进垃圾桶里了
+        - He [screwed the paper small] and chucked it in the [[bin]]. 把纸揉成小团
+        - [Packaging]([[package]]) is [about a third of] what is found in an average British dustbin. 
+        - The [[average family]] in Europe throws as much as £ 3,000 worth of [[reusable material]]s into its dustbin each year. 
+        - She [took out the plate], [stared blankly at] the [dried-up food] on it, 茫然地望着 and [tipped it into the bin] 

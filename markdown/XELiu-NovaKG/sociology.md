@@ -59,6 +59,7 @@
 至于河南人，[有一小部分]闯关东，也有一小部分[去了上海]
 - social classes; 阶级; 社会阶层
     - all classes of society; 
+    - [[average family]]
     - [[middle-class]]; [[middle class]]
     - #inbox
         - 所谓“知识”，[21世纪之后的东西]要么都在 arxiv，要不然就在 scihub，21世纪之前的在 scihub 和[各种出版商]的[电子书]上，springer 还专门[把老书都免费了一批](https://bbs.saraba1st.com/2b/thread-2005469-1-1.html) #pt9-99.99

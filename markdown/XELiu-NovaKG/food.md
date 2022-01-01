@@ -3,7 +3,8 @@
 - [[cake]]
 - [[chicken]]
 - cuisine
-- food industry
+- [[food flavor]]
+- [[food industry]]
 - food preparation;
 - {{[[TODO]]}} 烤冷面 #pt10-100
 - 酸辣粉 #pt8-99.99

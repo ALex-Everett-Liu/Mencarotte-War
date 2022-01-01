@@ -9,4 +9,7 @@
 - [[project manager]]
 - [[project planning]]
 - sample project
+- schedule
+    - [[flexible schedule]]: 弹性制度表
+    - [[work week]]
 - [[task management]]; [[task]]
