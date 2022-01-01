@@ -1,4 +1,6 @@
 - [[Chinese mythology]]
 - [[Great Flood]]
 - [[Hindu mythology]]
+- [[Japanese mythology]]
+- [[legendary figure]]
 - [[lore]]
