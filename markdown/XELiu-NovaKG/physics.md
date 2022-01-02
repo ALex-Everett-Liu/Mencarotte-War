@@ -35,18 +35,20 @@
         - [[physical entity]]; [[non-physical entity]]
         - ordinary object
         - [[real world]]; [[real-world object]]; [[real entity]]
-    - [[physical law]]
-    - physical mechanism
-    - [[physical process]]
-    - physical properties
-        - counter-intuitive property
-    - [[physical quantity]]
-        - base quantities
-        - [[degrees of freedom (DoF)]]; [[degree of liberty]]
-        - [[momentum]]
-        - [[frequency]]
-    - [[physical system]]
-    - [[physical world]]
+    - physical ...
+        - [[physical law]]
+        - physical mechanism
+        - [[physical process]]
+        - physical properties
+            - counter-intuitive property
+        - [[physical quantity]]
+            - base quantities
+            - [[degrees of freedom (DoF)]]; [[degree of liberty]]
+            - [[momentum]]
+            - [[frequency]]
+        - [[physical science]]
+        - [[physical system]]
+        - [[physical world]]
     - [[scale]], scope...
     - time
         - at any given time: 某个给定的时间; at any particular time

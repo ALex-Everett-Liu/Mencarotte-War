@@ -1,3 +1,4 @@
+- [[algorithm]]
 - [[artificial intelligence (AI)]]
 - [[data analysis]]; [[analyst]]
 - [[data structure]]

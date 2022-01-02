@@ -1,1 +1,3 @@
 - [[numerical algorithm]]
+- [[numerical analysis]]
+- [[numerical approximation]]

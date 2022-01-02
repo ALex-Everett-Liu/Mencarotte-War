@@ -3,4 +3,6 @@
     - [[geographic paradigm]]
 - [[historical geography]]
 - [[map]]
+- [[mountain]]
+    - [[cave]]
 - [[terrain]]

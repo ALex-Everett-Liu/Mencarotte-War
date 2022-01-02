@@ -1,5 +1,6 @@
 - [[animation]]
     - [[anime]]
+- [[art]]
 - [[Chinese literature]]
 - [[classic]]
 - [[comedy]]

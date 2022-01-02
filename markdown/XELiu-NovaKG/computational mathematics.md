@@ -1,0 +1,2 @@
+- [[computational physics]]
+- [[computational chemistry]]; computer chemistry

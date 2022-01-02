@@ -3,6 +3,10 @@
 - [[calculus]]
     - [[calculus of variations]]
 - [[complex number]]
+- [[computational mathematics]] 
+    - [[mathematical modeling]]
+    - [[scientific computation]]
+- [[discrete mathematics]]
 - [[function]]
 - [[game theory]]
 - general...
@@ -20,9 +24,9 @@
 - [[Lie group]]
 - [[linear algebra]]
 - [[logic]]
-- [[mathematical modeling]]
-- [[mathematician]]
+- [[mathematical analysis]]
 - [[mathematical proof]]; [[proof]]; prove
+- [[mathematician]]
 - number
     - correct figure;
     - digit: 位
@@ -38,4 +42,5 @@
 - [[statistics]]; [[statistician]]
     - [[data analysis]]; [[analyst]]
     - [[probability theory]]
+- [[symbolic manipulation]]
 - [[systems theory]]

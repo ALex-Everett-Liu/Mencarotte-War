@@ -1,4 +1,3 @@
-- [[computational physics]]
 - conceptualization process
 - [[grid]]: 栅格, 网格;
     - 2d grid
@@ -6,7 +5,7 @@
     - [[formal model]]
 - [[numerical method]]
     - [[analytical expression]]: 解析表达式
-- [[simulation]]
+- [[simulation]]; [[numerical simulation]]
 - 3-D structure
 - 2D geometric model
     - two-dimensional figure

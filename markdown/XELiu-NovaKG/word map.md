@@ -752,6 +752,8 @@
             - met
                 - metal
                     - metallic; 
+                - meteor
+                    - [[meteorology]]
                 - method
                     - methodically;
                     - methodology
