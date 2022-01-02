@@ -52,6 +52,7 @@
     - [[Evernote]]
 - [[slip box]]
     - atomic note
+    - [[index card]]
     - [[Zettelkasten]]
     - 卡片式写作
 - suck it!

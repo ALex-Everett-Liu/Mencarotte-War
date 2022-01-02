@@ -1,3 +1,4 @@
+- [[altitude]]
 - [[atmosphere]]; [[atmospheric science]]
 - [[meteorology]]: 气象学
     - [[climate]]
@@ -7,6 +8,7 @@
 - [[geography]]
 - [[geology]]
 - [[geophysics]]
+- [[GIS]]
 - [[GPS]]
 - [[hydrology]]
     - [[flood]]
@@ -14,10 +16,10 @@
     - [[river]]
     - [[wetland]]
         - [[swamp]]
+- [[latitude]] and [[longitude]]; 经纬度信息
 - [[ocean]]; [[ocean science]]
     - [[sea]]
 - [[seismology]]
-- 经纬度; 经纬度信息
 - ---
 - [Earth science]([[earth science]]) or geoscience includes all fields of [[natural science]] related to the planet [[Earth]]. This is [a branch of science] dealing with the physical and [[chemical constitution]] of the Earth and its [[atmosphere]]. Earth science can be considered to be a branch of [[planetary science]], but with a much [older history]. Earth science encompasses four [main branches]([[branch]]) of [[study]], the [[lithosphere]], the [[hydrosphere]], the atmosphere, and the [[biosphere]], each of which is further [broken down into] more [specialized fields].
 201016-17:03 

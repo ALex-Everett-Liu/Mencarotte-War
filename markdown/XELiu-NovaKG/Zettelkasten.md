@@ -8,3 +8,26 @@
             - This is a file from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). Information from its **[description page there]** is [shown below](https://commons.wikimedia.org/wiki/File:Zettelkasten_paper_schematic.png). #[[description page]] #[[Wikimedia Commons]]
                 - Commons is a [freely licensed]([[free license]]) [[media file repository]]. [You can help](https://commons.wikimedia.org/wiki/Commons:Welcome).
             - [Summary] -- **[Source]**: [David B. Clear], [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125), in: [The Writing Cooperative], 31 December 2019
+- Creating and using a zettelkasten is made easier by [taking the notes down digitally] ([digital note-taking]) and using appropriate [knowledge management software]. But it can be and has long been [done on paper] using [[index card]]s.
+    - A [physical zettelkasten](https://en.wikipedia.org/wiki/File:Zettelkasten_(514941699).jpg)
+        - [Source](https://www.flickr.com/photos/genista/514941699/): [[Flickr]]
+[Author]: [Kai Schreiber](https://www.flickr.com/people/50457550@N00) from [Münster], [Germany]; [[Picasa]] 2.6
+        - [[camera location]]: [[latitude]] and [[longitude]]; [48° 25′ 36.74″ N, 9° 04′ 07.17″ E](https://tools.wmflabs.org/geohack/geohack.php); [Kartographer map based on OpenStreetMap.](https://commons.wikimedia.org/wiki/Special:Map/13/48.426872/9.068658/en)	
+show location on an [[interactive map]] 
+            - View this and other [nearby images] on: [[Open Street Map]]; [OpenStreetMap](https://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&lat=048.426872&lon=0009.068658) - [[Google Earth]]; [help](https://commons.wikimedia.org/wiki/Commons:Geocoding); [[Geocoding]]
+            - [[altitude]]: 0 [meters] [[above sea level]]
+        - [[metadata]]: This file contains [[additional information]], probably added from the [[digital camera]] or [[scanner]] used to [create or digitize it]. 
+            - If the file [has been modified] from its [original state], [some details may not fully reflect] the [[modified file]].
+            - [[camera manufacturer]]
+[[camera model]]: [Canon EOS DIGITAL REBEL XTi](https://en.wikipedia.org/wiki/Canon_EOS_DIGITAL_REBEL_XTi)
+            - [[exposure time]]: 1/50 sec (0.02)
+            - [[f-number]]: f/4
+            - [[ISO speed rating]]: 1,600
+            - [Date and time] of [data generation]: 00:20, 16 April 2007
+            - [[lens]] [[focal length]]: 18 mm
+- External links
+    - [Zettelkasten.de](https://zettelkasten.de/), [project dedicated on] [researching and developing the method].
+    - [r/Zettelkasten's Zettelkasten](https://www.zettel.page/), guide to [getting started with the method].
+- References
+    - [1]: Mittelmann, Angelika (2019). __Wissensmanagement wird digital__. [pp]. 63–65. [[ISBN]] [9783749461219](https://en.wikipedia.org/wiki/Special:BookSources/9783749461219). #[[book source]]
+    - [2]: Haarkötter, Hektor. ["'Alles Wesentliche findet sich im Zettelkasten'"](https://www.heise.de/tp/features/Alles-Wesentliche-findet-sich-im-Zettelkasten-3398418.html). __heise online__ ([in German]). Retrieved 2020-05-31.

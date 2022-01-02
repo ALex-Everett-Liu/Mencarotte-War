@@ -61,6 +61,7 @@
     - [[limited time]]
     - [[real-time computing constraint]]: 实时计算约束
     - [[real-time response]]
+- [[scanner]]
 - [[self-contained system]]
 - [[small computer]]
 - [[supervisory control computer]]: 监控计算机

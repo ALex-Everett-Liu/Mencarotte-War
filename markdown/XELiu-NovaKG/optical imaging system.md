@@ -1,5 +1,7 @@
 - [[aberration]]: 像差, 畸变;
 - [[diaphragm]]; [[diaphram]]
+- [[focal length]]
+    - [[focal plane]]
 - [[image-forming fiberscope]]
 - imaging?
     - [[chemical imaging]]

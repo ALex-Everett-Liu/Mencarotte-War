@@ -1,6 +1,7 @@
 - aspheric lens
 - gradient-index lens
 - focusing lens
+- [[lens system]]
 - [[positive lens]]
     - [[burning glass]]
 - simple lens

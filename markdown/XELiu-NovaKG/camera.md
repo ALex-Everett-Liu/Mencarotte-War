@@ -1,5 +1,12 @@
+- [[camera location]]
+- [[camera manufacturer]]
+- [[camera model]]
 - [[camera shake]]
+- [[digital camera]]
+- [[exposure time]]
 - fast series photography; 
+- [[f-number]]
+- [[ISO speed rating]]
 - [[single-lens reflex camera (SLR)]]
 - #inbox
     - 别说 DV 了，[电影机]都快要被[相机][打垮了](https://bbs.saraba1st.com/2b/thread-2000531-2-1.html)，[纪录片][主流都开始用]相机了。 #pt8-99.99

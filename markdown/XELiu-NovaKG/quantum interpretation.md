@@ -11,7 +11,7 @@
     - the probability of finding the particle
         - the status of a particle; the state of a particle
     - [[statistical information]]
-        - additional information
+        - [[additional information]]
     - statistical weighting
 - #inbox
     - 量子力学有完整（至少[从物理学家意义上]完整）的[数学结构](https://www.zhihu.com/question/490232232/answer/2154816539)。其中[量子信息]的部分，确实是和[信息论][密切相关的]，但是[其中包含的][量子纠缠]部分，应该看作[经典信息论]的[推广]，而不是简单应用。量子信息包含[指数级的经典信息]、不可克隆，以及纠缠[不完全受光速限制]等方面，都是经典信息论中没有的。技术上，[冯诺伊曼熵]也是[香农熵]的推广。 #pt8-99.98

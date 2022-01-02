@@ -4,7 +4,7 @@
 - nonlocal hidden variable theory
     - [[David Bohm]]
 - incomplete theory
-    - additional information
+    - [[additional information]]
     - complete description
     - a defect in the theory
     - a reflection of our ignorance
