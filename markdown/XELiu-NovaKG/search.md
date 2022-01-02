@@ -3,8 +3,9 @@
 - [[filter]]; filtering
     - pass the query filters
 - [[find]]
+- [[full-text search]]
 - [[Information Retrieval (IR)]]
-- local search; desktop search
+- [[local search]]; desktop search
     - [[Everything Search]]
 - locate the file;
 - partial search; partial word matches

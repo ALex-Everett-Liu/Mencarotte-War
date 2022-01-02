@@ -30,3 +30,7 @@
 - [tamlok/vnote](http://link.zhihu.com/?target=https%3A//github.com/tamlok/vnote) 这个也是。 #[[GitHub]]
 其实 [[Note-taking/Notion]] 就[做得不错]，[看板]等等都是一个[链接]，[指向]一个 [[SVG]]
 2019-04-01
+    - [林一二](https://www.zhihu.com/people/linonetwo)
+想开发[自动生成]的[无限世界]
+[[字节跳动 (ByteDance)]] -- [前端开发工程师]([[front-end developer]])
+    - 我在看[编辑器]，需要[整合到][我的项目]里面，[应用型]的，不管它能[同步到几种云端]([[cloud sync]])，都[不适合我]
