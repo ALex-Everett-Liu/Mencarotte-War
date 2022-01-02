@@ -1230,6 +1230,9 @@
                 - take off;
             - tangle
                 - untangle: 解开, 理清;
+        - th
+            - theme
+                - thematically: 主题上的;
         - tr
             - tra
                 - [[trace]]

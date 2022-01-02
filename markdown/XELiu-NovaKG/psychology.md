@@ -1,3 +1,4 @@
+- [[alter ego]]: 他我, 个性中的另一面;
 - [[emotion]]
 - [[flow (psychology)]]: 心流
     - 打断思路

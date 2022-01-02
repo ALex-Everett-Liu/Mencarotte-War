@@ -1,4 +1,5 @@
 - [[database]]
+- [[data separation]]
 - [[file structure]]
 - meta info?
     - time

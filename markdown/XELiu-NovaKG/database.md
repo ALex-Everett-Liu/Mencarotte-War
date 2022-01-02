@@ -1,4 +1,5 @@
 - [[attribute]]
+- [[data source]]
 - [[graph database]]
     - [[dependency graph]]
     - [[directed graph]]
@@ -7,6 +8,7 @@
     - [[single select]]
 - [[form]]: 表单
     - form instance;
+- [[instance]]: 实例;
 - [[list]]
     - [[make list]]; [[list management]]
     - [[sequence]]
@@ -25,4 +27,5 @@
     - [[Google Sheets]]
 - [[view]]
     - [[calendar view]]
+    - [[presenter]]: 演示;
     - view type

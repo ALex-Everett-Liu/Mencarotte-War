@@ -9,7 +9,7 @@
 - [[cost]]
 - digital business??
     - [[retail electronics store]]
-- [[co-founder]]
+- [[founder]]; [[co-founder]]
 - general...
     - [[business partner]]
 - [[market]]; [[marketing]]: 市场营销; [[marketer]]

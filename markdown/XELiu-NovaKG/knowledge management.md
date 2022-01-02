@@ -1,3 +1,5 @@
+- [[classification]]; library classification
+    - Dewey Decimal Classification (DDC); WebDewey; [[Dewey decimal system]]
 - [[common knowledge]]: 常识;
 - [[evaluating knowledge]]
 - [[human knowledge]]; [[information explosion]]; [[knowledge explosion]]
@@ -13,6 +15,7 @@
         - [[linking phrase]]
     - [[graph view]]; [[graphical display]]
 - [[organizing knowledge]]; organize your ideas; arrangement
+    - [[alphabetical organisation]]
 - [[personal knowledge management (PKM)]]
     - [[note-taking]]; [[note-taking tool]]; [[note-taking app]]; notetaking
 - [[second brain]]

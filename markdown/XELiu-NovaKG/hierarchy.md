@@ -1,15 +1,14 @@
-- [[categorization]]; [[categorisation]]; 分类别
-    - general category
-    - [[uncategorized]];
+- [[category]]; [[categorization]]; [[categorisation]]; 分类别
 - [[classification]]
     - dynamic classification
     - 结构调整
 - degree of branching; [[branch]]
     - bifurcation theory
-    - maximum degree
-    - linear hierarchy
-    - branching hierarchy
+    - branching hierarchy; branching of topics
         - [[overlapping hierarchy]]
+    - [[internal branching]]
+    - linear hierarchy
+    - maximum degree
     - [[multiple positions]]
 - [[heterarchy]]: 变态分层结构
 - [[hierarchical system]]

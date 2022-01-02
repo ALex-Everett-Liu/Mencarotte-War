@@ -6,7 +6,8 @@
 - reference check
 - related reading; related article; [[related ideas]]
     - [[external link]]; external article
-    - [[further reading]]; [[see also]]
+    - [[further reading]]; [[see also]]; 
+        - [[further discussion]]; further explanation; further information
 - [[stub]]
 - [[talk page]]
 - [[What Wikipedia is not]]

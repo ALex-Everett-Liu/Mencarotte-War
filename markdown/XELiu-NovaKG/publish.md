@@ -9,9 +9,11 @@
 - [[editor]]
     - [[last edited]]
 - [[identifier]]
-    - Bibcode
-    - doi
+    - [[Bibcode]]
+    - [[doi]]
     - [[ISBN]]; [[ISBN number]]
+    - [[ISSN]]
+    - [[WorldCat]]
 - index?
     - [[ISSN]]
     - [[worldcat]]
@@ -26,6 +28,6 @@
     - [[journal]]: 杂志, 日报, 期刊;
     - [[publication date]]
 - [[release]]
-- supplemented
+- supplemented; [[supplemented information]]
 - [[version]]
 - [[图床 (Tuchuang)]]

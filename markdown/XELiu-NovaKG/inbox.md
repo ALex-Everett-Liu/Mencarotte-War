@@ -9,7 +9,7 @@
 - work time
     - SF售后
     - 主题交流与请教
-- draft
+- draft; [[draft box]]
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
     - 关于地域-我平生最大的愿望就是彻彻底底地毁灭全球贸易航线，半点不剩
     - 
