@@ -1,4 +1,4 @@
-- 古代天文学
+- ancient astronomy; 古代天文学
     - [[calendar]]
     - [[Chinese zodiac]]
         - the orbit of Jupiter

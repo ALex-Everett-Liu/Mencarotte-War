@@ -8,4 +8,6 @@
     - [[external link]]; external article
     - [[further reading]]; [[see also]]
 - [[stub]]
+- [[talk page]]
+- [[What Wikipedia is not]]
 - [[Wikimedia Commons]]

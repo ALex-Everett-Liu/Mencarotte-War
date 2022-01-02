@@ -527,14 +527,16 @@
                 - not-too-distant future;
     - g
         - ge
-            - genera
-                - general
-                    - generally, 2;
-                    - generalize: 推广; generalized: 广义, 普遍; 
-                - generic
-            - generate
-                - generation; generator
-            - generous
+            - gen
+                - genera
+                    - general
+                        - generally, 2;
+                        - generalize: 推广; generalized: 广义, 普遍; 
+                    - generic
+                - generate
+                    - generation; generator
+                - generous
+                - genuine: 真诚的
             - get
                 - got; gotten
         - gi

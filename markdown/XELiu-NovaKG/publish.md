@@ -7,6 +7,7 @@
 - [[copy]]
 - [[edition]]
 - [[editor]]
+    - [[last edited]]
 - [[identifier]]
     - Bibcode
     - doi

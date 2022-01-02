@@ -19,6 +19,8 @@
 - [[social macrodynamics]]
 - [[social order]]
 - [[social relation]]
+- [[sociological theory]]
+- [[sociologist]]
 - 保守主义; 反现代性
     - 妇女解放
         - [[妇道, fudao]]

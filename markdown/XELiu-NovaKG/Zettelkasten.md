@@ -31,3 +31,7 @@ show location on an [[interactive map]]
 - References
     - [1]: Mittelmann, Angelika (2019). __Wissensmanagement wird digital__. [pp]. 63–65. [[ISBN]] [9783749461219](https://en.wikipedia.org/wiki/Special:BookSources/9783749461219). #[[book source]]
     - [2]: Haarkötter, Hektor. ["'Alles Wesentliche findet sich im Zettelkasten'"](https://www.heise.de/tp/features/Alles-Wesentliche-findet-sich-im-Zettelkasten-3398418.html). __heise online__ ([in German]). Retrieved 2020-05-31.
+    - [5]: Niklas Luhmann: __Kommunikation mit Zettelkästen. Ein Erfahrungsbericht__, in: André Kieserling (ed.), __Universität als Milieu. Kleine Schriften__, Haux, Bielefeld 1992, [ISBN] [3-925471-13-8](https://en.wikipedia.org/wiki/Special:BookSources/3-925471-13-8), p. 53–61; translated in: ["Communicating with Slip Boxes"](http://luhmann.surge.sh/communicating-with-slip-boxes). __luhmann.surge.sh__. Retrieved 2020-05-31. 
+- This page was [[last edited]] on 31 July 2020, at 11:44 ([[UTC]]).
+- [This](https://en.wikipedia.org/wiki/Talk:Zettelkasten) is the [talk page](https://en.wikipedia.org/wiki/Wikipedia:Talk_page_guidelines) for **discussing improvements to the [Zettelkasten] article.** #[[talk page]]
+    - This is [not a forum](https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#FORUM) for **[general discussion] of [the article's subject].** #[[What Wikipedia is not]] #[[forum]]

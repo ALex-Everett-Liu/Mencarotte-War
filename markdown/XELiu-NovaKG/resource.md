@@ -1,5 +1,6 @@
 - [[asset]]
 - publications
+    - [[book source]]
     - [[zlibrary]]
 - share; sharing...
     - [[selective sharing]]

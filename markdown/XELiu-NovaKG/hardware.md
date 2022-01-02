@@ -1,4 +1,4 @@
-- [[analog component]]
+- [[analog component]]; [[analog device]]
 - [[binary counter]]
     - clock back into the device;
     - [[current state]]; calculate a new state
