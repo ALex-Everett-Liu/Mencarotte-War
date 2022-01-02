@@ -1,4 +1,4 @@
 - [[collaborative reasoning]]
 - [[logical reasoning]]
-- [[quantitative reasoning]]
+- [[quantitative reasoning]]; [[quantitative]]
 - [[taxonomic reasoning]]: 分类推理

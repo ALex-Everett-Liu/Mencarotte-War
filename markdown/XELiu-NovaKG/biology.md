@@ -2,6 +2,8 @@
     - biological reaction
         - [[reaction product]]
         - regulating mechanism: 调节机制
+- [[biophysics]]
+- [[biosphere]]
 - childbirth; labor
     - [[cervix]]: 子宫颈
     - [[oxytocin]]: 催产素, 缩宫素;

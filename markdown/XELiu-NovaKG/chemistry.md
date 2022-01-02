@@ -14,7 +14,7 @@
 - [[boiling point]]
 - [[bond]]; [[chemical bonding]]
 - [[chemical composition]]
-- [[chemical compound]]; [[chemical substance]]; 
+- [[chemical compound]]; [[chemical substance]]; [[chemical constitution]]
 - [[chemical element]]
     - isotope: 同位素
     - isomer: 异构体

@@ -1,3 +1,4 @@
+- [[energy resource]]
 - [[fuel]]
 - [[heat energy]]
 - [[heat transfer]]

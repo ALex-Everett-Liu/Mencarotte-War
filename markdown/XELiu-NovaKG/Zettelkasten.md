@@ -1,2 +1,10 @@
 - The zettelkasten ([[German]]: "[[slip box]]") is a [[knowledge management]] and [[note-taking]] method [used in research and study].
     - A zettelkasten consists of many [individual notes] with ideas and other [short pieces of information] that are taken down [as they occur or are acquired]. The notes are [numbered hierarchically], so that [new notes] may be inserted at the [appropriate place], and contain [[metadata]] to [allow the note-taker to] [associate notes with each other]. 
+        - For example, notes may [contain tags] that [describe key aspects] of the note, and they may [reference other notes]. The numbering, metadata, [format and structure] of the notes is [subject to variation] [depending on] the [specific method] employed.
+            - These prices are subject to variation. 可能变更; 可以变动 《[汉英大词典]》
+            - Data are [average results of tests] conducted under [standard procedures] 流程 and are subject to variation. www.[bokee].net
+            - All [route information] is [for guidance only] and is subject to variation depending on [actual traffic conditions]. 可能因...变化而有所差异 [chinafanyi].com
+        - A zettelkasten is [made up of](((mxntn7d75))) notes [containing numbers](https://en.wikipedia.org/wiki/File:Zettelkasten_paper_schematic.png), tags (blue) and cross-references to other notes (red). A [tag index] ([bottom right]) allows [topical cross-referencing]([[cross-reference]]). 
+            - This is a file from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). Information from its **[description page there]** is [shown below](https://commons.wikimedia.org/wiki/File:Zettelkasten_paper_schematic.png). #[[description page]] #[[Wikimedia Commons]]
+                - Commons is a [freely licensed]([[free license]]) [[media file repository]]. [You can help](https://commons.wikimedia.org/wiki/Commons:Welcome).
+            - [Summary] -- **[Source]**: [David B. Clear], [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125), in: [The Writing Cooperative], 31 December 2019

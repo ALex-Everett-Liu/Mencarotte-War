@@ -20,6 +20,7 @@
     - [[scientific fact]]
     - [[scientific inquiry]]
     - [[scientific opinion]]
+- [[natural science]]
 - [[popularize of science]]; [[popular science]]
     - [[Scientific American]]
 - [[prize]]

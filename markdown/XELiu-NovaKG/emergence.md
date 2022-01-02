@@ -3,6 +3,7 @@
 - [[emergent property]]
 - [[emergent theory]];
 - [[emergentism]]
+- [[holistic approach]]
 - ---
 - Emergence is the process of [[complex pattern]] formation from [more basic constituent parts].
 201215-19:04

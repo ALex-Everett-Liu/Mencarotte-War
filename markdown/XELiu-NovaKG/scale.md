@@ -1,5 +1,6 @@
 - different scales; 
 - [[large scale]]; large-scale regime
+    - [[large-scale structure]]
 - [[macroscopic scale]]; [[macroscopic level]];
     - [[macrostate]]
     - ordinary scale

@@ -1,6 +1,8 @@
 - [[ambiguity]]; [[disambiguation]]
     - [[other use]];
 - expand the article;
+- general
+    - [[description page]]
 - reference check
 - related reading; related article; [[related ideas]]
     - [[external link]]; external article
