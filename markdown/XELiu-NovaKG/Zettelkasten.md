@@ -1,0 +1,2 @@
+- The zettelkasten ([[German]]: "[[slip box]]") is a [[knowledge management]] and [[note-taking]] method [used in research and study].
+    - A zettelkasten consists of many [individual notes] with ideas and other [short pieces of information] that are taken down [as they occur or are acquired]. The notes are [numbered hierarchically], so that [new notes] may be inserted at the [appropriate place], and contain [[metadata]] to [allow the note-taker to] [associate notes with each other]. 

@@ -1,4 +1,12 @@
 - day-to-day life; 
+- daily recording...
+    - sky in the daytime 
+        - 雨后暮色, dark yellow -> light pink -> light purple sky 
+200828-18pm
+    - [[night sky]]
+        - 星期二 04/08/2020 20pm
+[两星]见于[天南]
+[yozora]
 - [[food]] and [[drink]]; tabemono to nomemono;
 - [[appliance]]; [[household appliance]]; [[domestic appliance]]; 家用电器
 - clean; wash

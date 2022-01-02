@@ -15,7 +15,7 @@
 - [[explorer]]
     - [[web browser]]; [[browser]]
 - [[file format]]
-- file metadata...
+- file metadata; [[metadata]]; 
     - [[file integrity]]: 文件的完整性 
     - [[filename]]; file name
     - [[file size]]
