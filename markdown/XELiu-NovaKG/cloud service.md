@@ -1,3 +1,4 @@
+- [[cloud note]]
 - cloud storage
     - [[Dropbox]]
 - [[sync]]

@@ -17,6 +17,7 @@
     - [[moodboard]]
         - collect inspiration
         - visual material
+- [[cloud note]]
 - [[daily note]]; [[diary]]
 - database table?
     - [[Airtable]]
@@ -49,7 +50,7 @@
         - [[Zim Desktop Wiki]]
 - quick note; quick ideas
 - [[rich text]]
-    - [[Evernote]]
+    - [[Evernote]]: 印象笔记
 - [[slip box]]
     - atomic note
     - [[index card]]
