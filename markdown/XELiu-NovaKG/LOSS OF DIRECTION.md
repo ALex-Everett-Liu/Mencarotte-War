@@ -48,3 +48,5 @@ is impossible. (I, 24) / 因为一切回头的尝试 都是徒劳
 (我们对于世界的模糊的观察视野带来了关于过去的特殊性/特定状态)
             - Later on, [I will delve into] [the mystery of this blurring], to see [how it is tied to] [the strange initial improbability of the universe]. For now, [I will end with] [the mind-boggling fact that] [[entropy]], as Boltzmann [fully understood], [is nothing other than] [the number of microscopic states] that our blurred vision of the world [fails to distinguish].
 211208-22:47
+    - Time has lost another of its [crucial components]: [the intrinsic difference between] past and future. [Boltzmann understood that] [there is nothing intrinsic about] [the flowing of time]. [That it is only] the [blurred reflection] of [a mysterious improbability of the universe] [at a point in the past].
+        - The source of Rilke’s “eternal current” is [nothing other than this].
