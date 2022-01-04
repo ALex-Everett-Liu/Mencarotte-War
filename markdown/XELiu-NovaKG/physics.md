@@ -44,8 +44,9 @@
         - [[physical quantity]]
             - base quantities
             - [[degrees of freedom (DoF)]]; [[degree of liberty]]
-            - [[momentum]]
             - [[frequency]]
+            - [[momentum]]
+            - [[pressure]]
         - [[physical science]]
         - [[physical system]]
         - [[physical world]]

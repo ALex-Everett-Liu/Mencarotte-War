@@ -68,8 +68,10 @@
     - [[卡套]]
     - [[管阀件选型基础知识]]
 - [[seal]]: 密封
+    - [[gasket]]: 垫片, 垫圈, 密封衬垫/填料
     - sealing pipe threads: 密封管螺纹
     - [[thread seal tape]]
+    - [[密封圈]]
 - [[sensitivity]]; [[sensitive]]
 - [[setpoint]]
 - [[stability]]
@@ -79,7 +81,6 @@
     - [[pincer]]
     - [[wire stripper]]
         - [[center notch]]: 凹口, 凹痕;
-- [[密封圈]]
 - 镊子
     - 软头镊子;
 - ---

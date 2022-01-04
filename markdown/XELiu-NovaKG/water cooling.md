@@ -2,3 +2,8 @@
 211228-11:10
     - Water cooling is commonly used for cooling automobile internal combustion engines and power stations. Water coolers utilising convective heat transfer are used inside high-end personal computers to lower the temperature of CPUs.
     - Other uses include the cooling of lubricant oil in pumps; for cooling purposes in heat exchangers; for cooling buildings in HVAC and in chillers.
+- ---
+- [[cetecoil heat exchanger]]
+    - Cetecoil heat exchangers have no [[gasket]]s and [can operate at high pressures]([[high pressure]]) and [[high temperature]]s, even when handling media that are subject to sudden and large temperature variations, such as in steam and refrigeration systems. In their standard design, Cetecoil heat exchangers are rated for pressures up to 25 bar and temperatures up to 300°C.
+220104-09:58
+    - The stainless steel tubes are cross-rilled. This improves the thermal properties of the tube, both on the inside and on the outside. This contributes to a very high heat transfer rate. The performance of the heat exchanger is determined by the number of tubes and the tube length. The tubes are wound into a spiral around a central core. Each end is then welded into the tube plate. The tubes form, together with the collecting chambers, the ’coil’ which is welded to the surrounding shell. In this design, the strength of an all-welded design is combined with high elasticity for absorbing thermal expansion. The upright position also means that Cetecoil needs a minimum of space.
