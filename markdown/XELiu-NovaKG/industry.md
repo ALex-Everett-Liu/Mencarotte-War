@@ -1,4 +1,5 @@
-- [[assembly line]]: 装配线, 流水作业线;
+- [[assembly]]: 组件, 装配
+    - [[assembly line]]: 装配线, 流水作业线;
 - confined working facility: 密闭工作设施;
 - fault-tolerant; 容错
 - [[harsh environment]]

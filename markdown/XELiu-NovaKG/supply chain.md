@@ -1,1 +1,2 @@
+- [[bill of materials (BOM)]]
 - [[equipment supplier]]
