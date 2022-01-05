@@ -29,33 +29,35 @@
     - [[automatic sampling]]
     - extractive system-抽取式取样
         - source-level extractive system - 完全抽取
-            - cool dry system-[[冷干法]]抽取式CEMS-冷却除水-[干基]([[dry basis]]) -- 《在线分析系统工程技术》 p21
-                - 除尘除湿处理一体化--[采样探头]([[sample probe]]); [[probe]] - 不加热传输管线 - [样品调理](((u5vOhQFwJ))) - [取样泵](((OwFFkfZun))) - [[analyzer cabinet]]: 分析机柜
-                - 加热过滤取样探头系统 p25
-                    - 11.5 样品除湿技术 -- 除湿器
-                    - 确保温度在样品露点之上，不会出现[冷凝水] -- 探头 150℃，电加热传输管线 120℃
+            - cool dry system-[[冷干法]]抽取式CEMS -- 《在线分析系统工程技术》 p21
                 - VOCs CEMS
                 - NDIR; UV-VIS
                 - CEMS系统结构示意图
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FtZNY06wmaC.jpg?alt=media&token=6d8331cc-6ac8-4d22-bbd8-7ea77f589834)
             - hot wet system-[[热湿法]]抽取式CEMS-含有易溶于水的组分-[湿基测量]([[wet basis]])
-                - [稀释法取样]([[dilution system]])
-                    - [稀释样气]([[dilute the sample]]) -- 将[稀释气]([[dilution gas]])[在探头内]与烟气[按一定比例进行混合后]，[进入分析仪器]进行分析。
-                    - [稀释探头]通过[喷射泵](((NFl37p3JQ)))来[抽取样品]
-                    - [稀释气]([[dilution gas]])-零空气发生器
-                    - 稀释后的气体[露点温度]([[dew point temperature]])应低于[现场最低温度]
-                    - 优点：
+            - [稀释法取样]([[dilution system]]) - 稀释抽取式
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FxFRFoNYSDA.png?alt=media&token=e24f4a82-e330-4280-b2c2-79d6a66a5654)
+                - [稀释样气]([[dilute the sample]]) -- 将[稀释气]([[dilution gas]])[在探头内]与烟气[按一定比例进行混合后]，[进入分析仪器]进行分析。
+                - [稀释探头]通过[喷射泵](((NFl37p3JQ)))来[抽取样品]
+                - [稀释气]([[dilution gas]])-零空气发生器
+                - 稀释后的气体[露点温度]([[dew point temperature]])应低于[现场最低温度]
+                - 优点：
 无需[加热管线]；
 无需[预处理]中的[除尘、除湿设备]；
 分析[所需的烟气量]较少；
 使用、维护恰当时，[使用寿命]较长；
 避免[溶解于水的气体][引起的测量误差]；
-                    - 缺点：
-[稀释气体]([[dilution gas]])的[使用量较大]；
-对[稀释探头]需要经常进行[系统标定](((Ts700DEI1)))；
-需要增加[探头控制设备]；
+                - 缺点：
+
+                    - [稀释气体]([[dilution gas]])的[使用量较大]；
+
+                    - 对[稀释探头]需要经常进行[系统标定](((Ts700DEI1)))； -- 需要进行系统标定，标气[浪费较多]，[客户][不经常标定]；
+
+                        - [标定的稀释比][容易进行修改]；
+                    - 需要增加[探头控制设备]；
 探头[体积较大]，并且更换[探头过滤器]时[要拆开探头]；
-需要[干基测量]时[需附加设备]。
+
+                    - 需要[干基测量]时[需附加设备]。 -- 增加[干基水分测量]设备；
         - close-coupled system - 原位抽取式
     - in-situ system - 原位式/直接测量系统
     - **正压式取样** -- 《在线分析系统工程技术》 p19
