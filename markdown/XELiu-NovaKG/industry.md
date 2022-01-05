@@ -20,7 +20,7 @@
     - industrial process control system; [[industrial process control]]; [[industrial control system (ICS)]]
     - [[process unit]]: 控制器, 过程单元; 工艺装置
 - safety; health and safety;
-    - [[防爆]]: explosion protection; 防爆型仪表
+    - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
         - 防爆等级
         - 防爆膜
         - [[防爆要求]]

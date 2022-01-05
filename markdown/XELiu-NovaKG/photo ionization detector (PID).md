@@ -214,7 +214,7 @@ Notch1&Notch2：对称切口，用于[开取上盖]
                 - 离子仓
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FLGH4iPfpcX.jpg?alt=media&token=4e972abf-7aa0-4ce3-b4d9-b62a7526113c)
                 - 紫外灯泡
-                - 10μm PTFE 滤膜 (较软，不分正反面)
+                - 10μm [[polytetrafluoroethylene (PTFE)]] 滤膜 (较软，不分正反面)
                     - 5μm PTFE 滤膜 (较硬，正面较亮、有条纹。)
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F50iyhP14mm.png?alt=media&token=15202305-661f-4371-9343-812f2ef5ed15)
             - 6.3. NovaPID 拆卸

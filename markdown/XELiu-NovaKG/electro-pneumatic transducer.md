@@ -1,7 +1,7 @@
 - SMC **IT600/601**
     - features
         - ・[[air pressure]] in proportion to the [[current signal]] can be output.
-        - ・Wide output pressure range: 0.02 to 0.6 MPa
+        - ・Wide [[output pressure]] range: 0.02 to 0.6 MPa
         - ・Fast response
-        - ・Independent electric unit/Explosion-proof (flameproof) construction
-        - ・Easy span adjustment
+        - ・Independent electric unit / [[explosion-proof]] ([[flameproof]]) construction 耐压防爆构造
+        - ・Easy [[span]] adjustment

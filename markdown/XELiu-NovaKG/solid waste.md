@@ -22,6 +22,8 @@
     - 固废认证[测试方案]
     - SCS-[第四代]固废[系统流程图] 20190912
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FGeGR9DNCxP.jpg?alt=media&token=32181bf3-fd0d-423f-a6f4-f06937fca4c0)
+        - 本图纸只做流程示意，与实际布局无关。
+        - 图中管路[无特殊说明均为] [φ6 四氟管]，[[高温箱]]内为[耐高温] [[PFA]] 管，其余为 [[FEP]] 管。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FBjrQvyD8_A.png?alt=media&token=2aa14888-3975-4c92-a011-cc5b49c4c841)
             - [[喷射泵]] EP401 (SMC) - T=140℃ 自限温伴热管 - [电-气转换器]([[electro-pneumatic transducer]]) CP401 ([[比例阀]]) - 压力传感器 PT401
 - [PID 压力流量调节]([[PID controller]])

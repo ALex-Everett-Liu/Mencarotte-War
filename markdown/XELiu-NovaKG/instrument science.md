@@ -25,7 +25,7 @@
     - 系统标定口;
 - [[Data Acquisition and Handling System (DAHS)]]
     - [[data acquisition system (DAS)]]
-- [[防爆]]: explosion protection; 防爆型仪表
+- [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
