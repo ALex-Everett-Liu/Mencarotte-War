@@ -6,7 +6,6 @@
     - [[Ohm's law]]
 - [[electromagnetic field]]; the electric and magnetic fields
     - [[electric current]]
-        - [[current density]]
     - [[electric field]]
         - electric displacement field
         - electric field strength

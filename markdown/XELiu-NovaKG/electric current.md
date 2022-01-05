@@ -1,1 +1,3 @@
 - [[ammeter]]: 电流表, 安培计
+- [[current density]]
+- [[current signal]]

@@ -5,6 +5,7 @@
 - [[communication channel]]
     - concurrent communication sessions
     - multiplexing
+- [[current signal]]
 - [[multiplex]]: 多路复用
 - [[noise]]
     - [[baseline noise]]

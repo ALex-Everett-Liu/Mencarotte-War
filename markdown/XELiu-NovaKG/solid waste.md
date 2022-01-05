@@ -21,8 +21,10 @@
 - 固废[认证资料]
     - 固废认证[测试方案]
     - SCS-[第四代]固废[系统流程图] 20190912
-        - 
-- PID 压力流量调节
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FGeGR9DNCxP.jpg?alt=media&token=32181bf3-fd0d-423f-a6f4-f06937fca4c0)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FBjrQvyD8_A.png?alt=media&token=2aa14888-3975-4c92-a011-cc5b49c4c841)
+            - [[喷射泵]] EP401 (SMC) - T=140℃ 自限温伴热管 - [电-气转换器]([[electro-pneumatic transducer]]) CP401 ([[比例阀]]) - 压力传感器 PT401
+- [PID 压力流量调节]([[PID controller]])
     - 喷射泵、控制器、压力传感器、流量调节装置
     - 列出需要下单的部件
     - ---
@@ -34,12 +36,13 @@
             - Alicat [流量控制器]与[压力控制器]是以流量/压力[测量传感器]、[电磁比例阀]([[比例阀]])配合独特的[PID算法]形成流量/压力[监测与控制回路]，实现流量或压力的[实时监控]。
                 - 在不同工况压力，不同气体类型，或[不同控制速度]和[稳定度要求]的情况下，都需要[调节 PID 参数]，才能达到[最佳控制效果]。
                     - [同一组PID参数][只适用于][某个范围的工况]，当[工况变化巨大]的时候，如果不重新[调节PID值]，[可能会产生]流量/压力波动不稳、响应缓慢、阀门抖动等现象，[进而影响到][生产和实验]。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FL6URRZ2ePR.jpg?alt=media&token=8640c77e-a76a-480e-9c77-dfe8ff4b6dda)
         - ## PART 1/ 用什么调节PID
             - Alicat 控制器有[两种模式]的[PID 参数]，即PD/PDF模式和PD2I模式。
                 - [单阀流量控制器]和压力控制器，一般使用PD/PDF模式[即可满足][控制需求]。
                 - 双阀压力控制器PCD，或其他特殊情况，[需使用]PD2I模式。
         - ## PART 4/ 怎样调节压力控制器的PID
             - 单阀压力控制器的 [PID 调节]与 MFC 类似。以下为两种PID模式下的[控制效果]示例。测试[压力控制器][量程]为 30 PSIG，[气源]为 1.5 bar(G) air。
-            - 图3-3. 使用PD2I模式，P=2000, D=10, I=2000，控制稳定无过冲。
+            - 图3-3. 使用PD2I模式，P=2000, D=10, I=2000，[控制稳定]无[[过冲]]。
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FPFlYbkO3qz.png?alt=media&token=7394af08-02bf-4f91-bcb5-a56ad5de17b9)
-            - 综合来看，此压力控制器在当前工况下适合使用PD2I模式，合适的PID值为（P=2000, D=10, I=2000）。同样，合适的PID不唯一。
+            - 综合来看，此[压力控制器][在当前工况下][适合使用]PD2I模式，[合适的PID值]为（P=2000, D=10, I=2000）。同样，合适的PID[不唯一]。
