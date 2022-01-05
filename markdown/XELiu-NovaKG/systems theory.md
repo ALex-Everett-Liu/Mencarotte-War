@@ -10,7 +10,7 @@
 - [[organizational theory]]
 - input and output; [[signal]]
     - causal input;
-    - [[error signal]]
+    - [[error signal]]; [[error value]]
     - [[input signal]]
     - the signal feedback from output;
     - [[system output]]

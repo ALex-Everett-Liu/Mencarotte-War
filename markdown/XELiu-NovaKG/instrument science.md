@@ -73,7 +73,7 @@
     - [[thread seal tape]]
     - [[密封圈]]
 - [[sensitivity]]; [[sensitive]]
-- [[setpoint]]
+- [[set point]]: 设定值; [[setpoint]]; [[desired setpoint (SP)]]
 - [[stability]]
 - [[thermostat]]
 - [[pliers]]: 钳子;

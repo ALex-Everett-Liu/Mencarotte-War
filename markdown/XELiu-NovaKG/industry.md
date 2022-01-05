@@ -16,6 +16,7 @@
 - [[manufacturing]]; 制造业
 - [[mining]]; [[mining industry]]
 - [[process control]]
+    - continuously modulated control: 连续调制控制
     - industrial process control system; [[industrial process control]]; [[industrial control system (ICS)]]
     - [[process unit]]: 控制器, 过程单元; 工艺装置
 - safety; health and safety;

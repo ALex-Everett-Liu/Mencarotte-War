@@ -12,7 +12,7 @@
     - [[negative feedback]]
     - [[positive feedback]]
     - [[self-regulating mechanism]]: 自我调节机制
-    - [[set point]]: 设定值
+    - [[set point]]: 设定值; [[setpoint]]; [[desired setpoint (SP)]]
     - [[status]]; [[measuring element]]
     - [[top-down feedback]]; 
 - ---
