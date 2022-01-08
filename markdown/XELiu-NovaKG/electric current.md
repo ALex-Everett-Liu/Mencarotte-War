@@ -1,3 +1,7 @@
+- [[alternating current (AC)]]
+    - [[mains AC]]
 - [[ammeter]]: 电流表, 安培计
 - [[current density]]
 - [[current signal]]
+- [[direct current (DC)]]
+    - low-voltage regulated DC power: 低压稳压直流电源; 

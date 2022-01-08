@@ -51,6 +51,7 @@
     - computer monitor
     - [[monitoring system]]
 - [[personal computer (PC)]]
+    - [[desktop computer]]
 - plug...
     - hot-pluggable
         - [hot-swappable transceiver](https://workflowy.com/#/500a4039bcb1)

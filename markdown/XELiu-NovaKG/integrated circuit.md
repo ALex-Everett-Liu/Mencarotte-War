@@ -5,5 +5,5 @@
 - [[hardware description language (HDL)]]
 - [[large-scale integration (LSI)]]
 - [[MOS integrated circuit]]
-- [[wiring method]]
+- [[wiring system]]; [[wiring method]]
     - [[printed circuit board (PCB)]]

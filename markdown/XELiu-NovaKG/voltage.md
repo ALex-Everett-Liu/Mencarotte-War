@@ -1,1 +1,4 @@
+- [[DC voltage]]
 - [[external voltage]]
+- [[input voltage]]
+- [[mains voltage]]

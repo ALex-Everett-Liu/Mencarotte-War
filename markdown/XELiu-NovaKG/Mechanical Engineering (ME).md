@@ -20,6 +20,7 @@
 - [[machine industry]]
     - [[process control]]; [[process control system]]
 - [[machine operation]]
+    - [[stable operation]]
 - [[machinery]]: 机械装置
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
@@ -33,6 +34,7 @@
 - [[reciprocating action]]; [[reciprocating motion]]: 往复运动
 - [[robotics]]
 - [[screw]]
+- [[shipbuilding]]
 - tools...
     - [[Swiss Army knife]]
 - [[valve]]

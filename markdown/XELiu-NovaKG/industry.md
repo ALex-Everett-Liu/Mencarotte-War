@@ -13,7 +13,7 @@
         - craft industry
         - [[clothing]]
             - [[fur]]; animal skin and hair
-- [[manufacturing]]; 制造业
+- [[manufacturing]]; [[manufacturing industry]]; 制造业
 - [[mining]]; [[mining industry]]
 - [[process control]]
     - continuously modulated control: 连续调制控制

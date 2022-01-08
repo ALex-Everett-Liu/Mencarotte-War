@@ -6,6 +6,7 @@
 - [[business use]]
 - [[company]]; [[corporation]]; firm; [[enterprise]]
     - shareholder
+- [[contract]]
 - [[cost]]
 - digital business??
     - [[retail electronics store]]

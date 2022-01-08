@@ -1,0 +1,6 @@
+- dictionary
+    - The shipyard [has been dealt another crushing blow] 惨重的打击 with the failure to [win this contract]. 《牛津高阶英汉双解词典》
+    - They [expanded the shipyards] and [started engineering works](((bp-4tH2yH))). 
+    - This shipyard is [at the cutting edge of] world [shipbuilding technology]. 《柯林斯高阶英汉双解学习词典》
+    - The orders will [throw a lifeline to] [Britain's shipyards]. 订单 注入一线生机
+    - We have [awarded the contract to]([[contract]]) a British shipyard 

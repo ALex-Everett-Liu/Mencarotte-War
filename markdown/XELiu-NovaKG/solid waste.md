@@ -45,6 +45,6 @@
                 - 双阀压力控制器PCD，或其他特殊情况，[需使用]PD2I模式。
         - ## PART 4/ 怎样调节压力控制器的PID
             - 单阀压力控制器的 [PID 调节]与 MFC 类似。以下为两种PID模式下的[控制效果]示例。测试[压力控制器][量程]为 30 PSIG，[气源]为 1.5 bar(G) air。
-            - 图3-3. 使用PD2I模式，P=2000, D=10, I=2000，[控制稳定]无[[过冲]]。
+            - 图3-3. 使用PD2I模式，P=2000, D=10, I=2000，[控制稳定] without [[overshoot]]。
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FPFlYbkO3qz.png?alt=media&token=7394af08-02bf-4f91-bcb5-a56ad5de17b9)
             - 综合来看，此[压力控制器][在当前工况下][适合使用]PD2I模式，[合适的PID值]为（P=2000, D=10, I=2000）。同样，合适的PID[不唯一]。

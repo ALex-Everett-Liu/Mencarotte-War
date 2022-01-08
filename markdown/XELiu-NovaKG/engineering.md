@@ -3,9 +3,13 @@
 - [[Electrical Engineering (EE)]]
 - energy and power engineering; [[energy engineering]]
 - [[environment]]; [[environment engineering]]; [[environmental science]]
+- general
+    - engineering work; 施工
 - [[industrial engineering]]
 - [[logistics]]
 - [[material]]; [[material science]]
 - [[Mechanical Engineering (ME)]]
 - [[space science]]
+- [[standard]]?
+    - [[specification]]
 - [[transportation]]

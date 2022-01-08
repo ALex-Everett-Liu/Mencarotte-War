@@ -1,0 +1,7 @@
+- dictionary
+    - [[WordNet]]: [[receptacle]] [providing a place] in a [[wiring system]] where [current can be taken to] [run electrical devices]
+    - He [took the machine from its bag] and [plugged it into the wall socket] 壁式插座 《柯林斯高阶英汉双解学习词典》
+    - The [egg-shaped aircraft]([[aircraft]]), which [can be powered from a wall socket] and could even [take off from the garden], can ascend and descend vertically, like a [[helicopter]]. www.[keke].com
+    - [Check whether you have properly] [connected the electrical plug to] the wall socket. www2.nkfust.edu.tw
+    - "Please determine that the wall socket into which you are plugging your computer is valid," he tells me at one point. blog.163.com
+    - Japanese mains frequently do not provide for grounding; grounding is made to the wall socket by use of an [[adapter]]. www.[chazuo].com

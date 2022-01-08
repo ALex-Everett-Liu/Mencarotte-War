@@ -10,7 +10,7 @@
 - [[surplus]]: 盈余; 
 - 产业
     - [[local specialties]]; local product
-    - [[manufacturing]]; 制造业
+    - [[manufacturing]]; [[manufacturing industry]]; 制造业
     - [[service]]; 服务业
 - 反垄断
 - 分配制度
