@@ -2,7 +2,6 @@
 - [[Cambridge University]]
     - [[Cambridge University Press]]
 - [[MIT]]
-    - [[MIT Press]]
 - [[Princeton University]]
     - [[Princeton University Press]]
 - [[Stanford University]]

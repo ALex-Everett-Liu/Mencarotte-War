@@ -7,5 +7,5 @@
 - References
     - [2]: Berger, R.W.; Benbow, D.W.; Elshannawy, A.K.; Walker, H.F., eds. (2007). "[Chapter 22 B.](https://books.google.com/books?id=3bYsth3j8eQC&pg=PA188) Material Control". The Certified Quality Engineer Handbook. 认证质量工程师手册 ASQ Quality Press. pp. 183–189. ISBN 9780873897006.
 220107-17:55
-    - [3]: Dorf, R.C., ed. (1998). [The Technology Management Handbook.](https://archive.org/details/electricalengine00dorf_959) CRC Press. pp. 13-34. ISBN 9780849385773.
+    - [3]: Dorf, R.C., ed. (1998). [The Technology Management Handbook.](https://archive.org/details/electricalengine00dorf_959) [[CRC Press]]. pp. 13-34. ISBN 9780849385773.
     - [4]: Mitra, A. (2016). "[Chapter 8](https://books.google.com/books?id=pY_nCwAAQBAJ&pg=PT568): Control Charts for Attributes". Fundamentals of Quality Control and Improvement. John Wiley & Sons. ISBN 9781118705445.

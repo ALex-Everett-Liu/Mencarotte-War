@@ -13,6 +13,8 @@
 - [[power consumption]]
 - [[power line]]
 - [[power generation]]; [[power station]]; [[power generating plant]]
+    - low-voltage regulated DC power: 低压稳压直流电源; 
+    - [[mains electricity]]; [[mains AC]]; 市电
     - power system
         - #inbox
             - [有网友举例说][并不了网]，这个现象是存在的，不用说所谓的[自行发电]，就是[五大发电集团]也有过[机组][竣工多少年了]都[没取得入网资格]的事呢。我为啥在最后一句说的两个条件是钱以及[花钱的能力]呢，不就是这个意思么。

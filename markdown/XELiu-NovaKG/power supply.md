@@ -1,3 +1,4 @@
 - [[flameproof]] 隔爆/防火 and [[intrinsically safe]] 本质安全型 (本安) power supply
 - plug; plugged in;
+- [[power supply unit (PSU)]]
 - [[step-down power supply]]

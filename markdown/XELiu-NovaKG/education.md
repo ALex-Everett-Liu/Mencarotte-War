@@ -1,6 +1,7 @@
 - acquire the skill;
 - [[course]]
     - [[online course]]
+    - [[open course]]
 - [[explainer]]
 - [[higher education]]
 - [[learning]]...
