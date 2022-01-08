@@ -1,4 +1,10 @@
 - the alternation of day and night; 
 - diurnal rhythm; 
 - [[duration]]
+- function...
+    - [[initial time]]
+    - [[time dependence]]
+        - [[time-independent Hamiltonian]]
+    - [[time-domain function]]
+    - [[time evolution]]
 - [[timepiece]]: 时钟;

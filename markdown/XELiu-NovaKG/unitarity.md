@@ -1,2 +1,8 @@
 - In quantum physics, unitarity is the condition that the [[time evolution]] of a [[quantum state]] according to the [[Schrödinger equation]] is [mathematically represented by] a [[unitary operator]]. This is typically [taken as an axiom or basic postulate of] quantum mechanics, while [generalizations of or departures from unitarity] are part of speculations about [theories that may go beyond quantum mechanics].[1] A [[unitarity bound]] is any [[inequality]] that follows from the unitarity of the [[evolution operator]], i.e. from the statement that time evolution preserves [[inner product]]s in [[Hilbert space]].
 220101-01:40
+- ## [[Hamiltonian evolution]]
+    - Time evolution described by a [[time-independent Hamiltonian]] is represented by [a one-parameter family] of unitary operators, for which the Hamiltonian is a [[generator]]: $${\displaystyle U(t)=e^{-i{\hat {H}}t/\hbar }}$$. In the [[Schrödinger picture]], the unitary operators are taken to [act upon the system's quantum state], whereas in the [[Heisenberg picture]], the [[time dependence]] is incorporated into the [[observable]]s instead.[2]
+220108-11:35
+    - ### Implications of unitarity on measurement results
+        - In quantum mechanics, [every state is described] [as a vector in Hilbert space]. [When a measurement is performed](((GmVCaGX7A))), [it is convenient to] describe this space using a [[vector basis]] in which every [[basis vector]] [has a defined result of the measurement]([[measurement result]]) - e.g., a vector basis of [defined momentum] [in case momentum is measured]. The [[measurement operator]] is [[diagonal]] in this basis.[3]
+220108-11:43

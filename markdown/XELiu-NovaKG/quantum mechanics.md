@@ -14,14 +14,8 @@
     - [[non-localization]];
     - spread out in space
 - [[matrix mechanics]]
-- [[measurement]]; measurement process; act of measurement
-    - before the measurement; prior to the measurement
+- [[measurement]]; measurement process; act of measurement; perform the measurement
     - [[observation]]
-        - observable; measure the observable
-            - observable difference;
-            - [[observable quantity]]; [[observable consequence]]
-        - [[observer]]
-    - repeated measurement; second measurement
     - 系统和仪器共同演化形成了纠缠态;
 - probability features; odds; probabilistic 
     - predict the outcome
@@ -40,7 +34,7 @@
     - [[quantum state]]
         - [[eigenstate]]
             - [[eigenvalue]]
-                - observable; measure the observable
+                - [[observable]]; measure the observable
                 - [[degenerate]]
                 - [[non-degenerate]]
             - [[superposition principle]]; [[superposition]]

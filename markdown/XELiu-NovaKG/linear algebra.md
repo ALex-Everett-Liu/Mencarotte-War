@@ -26,6 +26,7 @@
         - 逆元
         - 零矢量
 - [[matrix]]
+    - [[diagonal]]: 对角, 斜列
     - [[matrix multiplication]]
 - [[superposition principle]]
 - [[tensor product]]

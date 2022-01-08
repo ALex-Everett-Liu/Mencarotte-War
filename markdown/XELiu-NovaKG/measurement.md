@@ -1,0 +1,3 @@
+- before the measurement; prior to the measurement
+- [[measurement result]]
+- repeated measurement; second measurement
