@@ -18,6 +18,7 @@
     - 小川大輝
         - [[by your side]]
     - [[ジミーサムP (JimmyThumb)]]
+    - [[かしこ。 (kashiko)]]
     - [[koyori]] / 電ポルP (denporuP)
     - [[KulfiQ]]
     - [[黒うさP (kurousaP)]]
