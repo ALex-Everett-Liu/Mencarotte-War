@@ -9,8 +9,9 @@
     - integrated system
     - [[mechanical tolerance]]
 - [[handle]]: 手柄, 把手, 拉手, 提梁;
-- [[hydraulic system]]: 液压系统; [[pneumatic system]]: 气动系统
+- [[hydraulic system]]: 液压系统; 
     - [[hydraulic fluid]]: 传压流体
+- [[pneumatic system]]: 气动系统
 - [[instrument science]]
 - [[lever]]: 操纵杆, 控制杆, 杠杆; 撬动, 施压;
 - [[lubricant]]: 润滑剂 

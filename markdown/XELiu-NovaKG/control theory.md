@@ -1,5 +1,5 @@
 - automatically controlled product/device;
 - [[control system]]
+- [[controller]]
 - [[feedback]]; [[feedback system]]; [[feedback device]]; feedback control theory
-- [[PID controller]]
 - [[process control]]

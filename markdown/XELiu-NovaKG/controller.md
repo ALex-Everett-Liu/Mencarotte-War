@@ -1,0 +1,3 @@
+- [[automatic controller]]; [[automatic control]]
+- [[electronic controller]]
+- [[PID controller]]

@@ -37,7 +37,6 @@
     - [[flip-flop]]: 触发器
 - [[microcomputer]]
 - [[microcontroller]]; [[controller]]
-    - [[automatic controller]]
     - [[fuzzy logic classifier]]
     - [[programmable logic controller (PLC)]]
 - [[microphone]]
