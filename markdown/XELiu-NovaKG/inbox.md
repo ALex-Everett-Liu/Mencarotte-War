@@ -21,13 +21,16 @@
     - [PDXCON](https://store.steampowered.com/sale/paradox);; movie theater 210501 harbin zym;; [Download](https://github.com/AlexAplin/nndownload) and process links from Niconico (nicovideo.jp);; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 
     - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; ^^appgo redl^^;; GIFCAM;; tagLyst;; ProcessOn;; TexStudio
-    - last.fm; anyTXT 作詞; rasenna watashi; maple; こめる; 手嶌葵
-        - 丝路大亨; 重生传奇; 吾家有妻骄养成; 替宋; 网游之少爷天下;; asmr .txt
-        - 御姐; 
     - 牙疼, 消炎药;; 苏伯, 海福盛;; sneaker 43码 42码; 擦鞋去污渍的喷雾;; 透明胶带
     - wayback machine, archive.org;; 
         - https://archive.is/
     - ---
+    - music
+        - last.fm; anyTXT 作詞; rasenna watashi; こめる; 手嶌葵;; asmr .txt; maple; 
+        - baby/guiano by lidaa +82
+        - sakura no tattoo - ura +56
+        - 【日南めい】天文学 +30
+        - 【日南めい】果仁糖 +37
     - webpage
         - DSC_8076-pt10-100
         - 8f5945 -- pt10-99.99
@@ -52,6 +55,9 @@
             - https://www.zhihu.com/pin/1462341151156514816
             - https://www.zhihu.com/people/yong-le-da-di-ming-cheng-zu
             - https://www.zhihu.com/people/dong-li-zhuang-jia-yi-yang-zao-62
+    - novel
+        - 丝路大亨; 重生传奇; 吾家有妻骄养成; 替宋; 网游之少爷天下
+        - 御姐; 
 - roam - function test
     - aa
         - **bb**
