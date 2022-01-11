@@ -1,8 +1,11 @@
 - [[buck converter]]
+- cable 
+    - [[cable gland]]
+    - fiber optic cable; [[telecommunications cable]]
+    - [[electrical cable]]
 - [[circuit]]; [[electronic circuit]]
     - [[circuit breaker]]: 额定断路器
 - conduct electricity
-- [[electrical cable]]
 - electromagnetic interference
 - [[electrical hardware]]; [[electrical product]]
 - [[electrical power]]

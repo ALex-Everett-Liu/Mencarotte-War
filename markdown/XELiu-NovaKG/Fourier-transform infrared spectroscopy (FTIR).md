@@ -1,6 +1,6 @@
 - kw
     - [[commissioning]]: 试运行
-    - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]] -- [[sample cell]]; [[sample chamber]]: 气体室;
+    - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体测量池; 气体[[流通池]] -- [[sample cell]]; sample gas cell; [[sample chamber]]: 气体室;
     - [[purge gas]]: 吹扫气体
     - [[scan time]]; [[scan-time]]
 - ---

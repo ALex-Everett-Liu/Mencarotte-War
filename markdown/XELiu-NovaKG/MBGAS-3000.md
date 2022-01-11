@@ -1,8 +1,9 @@
 - 组成结构
     - [[gas cell box]] 测量池腔体
-        - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器
-        - sample gas cell
-        - [加热带]-[[heater]] 200W 120V
+        - [加热带] [[heater]] -- 200W 120V
+            - 接线
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F0VqEiT0aX7.jpg?alt=media&token=4b568a4c-5bc5-447c-80fd-0751af18c6b7)
+                - 绿线接地
         - 多反射测量池 (multiple reflection) -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p18
     - [[interferometer box]] 
         - 光谱分辨率-谱带分开--4cm-1
@@ -72,6 +73,16 @@
         - start characterization acquisition
     - [[log message]]
 - 检测维修报告
+    - 鲁西化工 MBGAS3000 [测量池][检测维修报告]
+        - [上电加热]并[打开测量池]，[铝合金腔体]内部积尘、腐蚀严重。
+            - [氟化钡窗片]表面及周围[大量积尘]，使用氮气吹扫、[有机溶剂][冲洗]、[沾尘棒][沾取]等方法[无法有效去除]。
+            - [镀金镜片]表面积尘、已被腐蚀，该镜片[用外力擦拭]会导致[镀层脱落]，无法清理；
+                - 1. 测量池镀金镜片[腐蚀严重]，[反射红外光]性能差，无法继续使用。
+            - [进气口][密封圈]腐蚀，可能会导致[漏气]； -- 测量池[光路转化模块][密封圈老化]，已更换。
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FhnylPhdI9i.png?alt=media&token=77b541e0-d777-4a56-a006-9570be41a2c9)
+                - 更换密封圈
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FKqpzpaB1UY.png?alt=media&token=26429a86-5509-4e3e-b68a-991540e9f367)
+        - 1. 将[清理后的测量池][装在分析仪上测试]，测试软件结果显示[光强信号]虽[较清洗前有提高]，但仍较弱。
     - 山东济宁远东医疗
         - 概况与现场问题描述
             - 分析仪无法连接 FTE and PLCAT。
@@ -81,6 +92,15 @@
             - 1. 光源[老化]，建议[购买备件]。
             - 2. [电器箱]内部[积尘]严重，[防尘网]缺失。[断连]问题可能与[积尘腐蚀]有关，该问题[需返厂] ABB [做进一步排查]。
             - 3. [测量池][有腐蚀]，建议购买备件。
+    - 盐城清泉 MBGAS3000 (1575173-001) 分析仪检测报告
+        - 分析仪光源信号报警；
+            - 整体检查，连接 PL4 发现[整体信号低]只有4左右（[新设备]通常为40+）；[光源电压]偏高（12.45V），超过[警戒值]（12V），无其他[报警信息]
+            - 检查光源发现，光源老化严重，光强较弱，更换光源后，光源电压恢复至 8.17V，信号提升（4.8），但依旧偏低，推测光路存在污染；
+                - 检测器处[反射镜]污染，基本丧失[反光性能]；进行清洗和吹扫后，恢复部分反光性能
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FHS66pBuh4m.jpg?alt=media&token=a3f1d3e3-3782-4ea5-b62d-1b9d4d28d024)
+            - 经过上述检修，测量池信号恢复至27.9（使用[较干净测量池][信号可达]38.4，对比测试使用，未进行更换），可以使用，[通氮气][做完背景]，分析仪[无报警信息]。
+        - SO2波动大。
+            - 测量池污染/光路污染。
 - ...
     - 测量池安装完成后，连接温控器和继电器进行加热。这里注意温度设定在180℃，确保温控正常，以免烧坏仪表。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FVS0uMSU4BX.jpg?alt=media&token=ce1a6805-4f3c-43ba-9294-ced7e4802316)
