@@ -1,5 +1,5 @@
 - accessibility settings
-- configure; [[configuration]]; configuration file
+- configure; [[configuration]]; configuration file; 表面配置, 结构, 外形;
     - [[bin directory]]
     - [[configurable]];
     - [[user-level]]

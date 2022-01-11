@@ -7,6 +7,7 @@
 - [[deposit]]
     - [[physical vapor deposition]]: 物理气相沉积
 - flammable material
+- [[flexible]]; [[flexibility]]; flexible material
 - general...
     - withstand high temperatures
 - the engineering of new materials;

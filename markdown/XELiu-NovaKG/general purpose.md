@@ -1,0 +1,4 @@
+- dictionary
+    - For more efficient general purpose dusting, [cover each hand with] a [wet sock]. www.[keke].com
+    - [The researchers wanted to develop] [a general purpose language algorithm], [trained on a huge amount of text] [from the web].
+    - Even so, [independent computer scientists] who [reviewed the paper before publication] said [the range of applications for] [a general purpose DNC] [could be vast].

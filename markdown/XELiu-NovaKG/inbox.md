@@ -27,10 +27,10 @@
     - ---
     - music
         - last.fm; anyTXT 作詞; rasenna watashi; こめる; 手嶌葵;; asmr .txt; maple; 
-        - baby/guiano by lidaa +82
+        - baby/guiano by lidaa +84
         - sakura no tattoo - ura +56
-        - 【日南めい】天文学 +30
-        - 【日南めい】果仁糖 +37
+        - 【日南めい】天文学 +35
+        - 【日南めい】果仁糖 +40
     - webpage
         - DSC_8076-pt10-100
         - 8f5945 -- pt10-99.99
@@ -58,6 +58,8 @@
     - novel
         - 丝路大亨; 重生传奇; 吾家有妻骄养成; 替宋; 网游之少爷天下
         - 御姐; 
+    - work
+        - SF Express 最终同意按比例赔付250元
 - roam - function test
     - aa
         - **bb**

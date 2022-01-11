@@ -13,6 +13,7 @@
     - [types of cable gland](http://jjmetal.in/cable-gland-its-different-types/Different)
 - ## ABB Cable glands and [accessories]([[accessory]])
     - HOME → OFFERINGS → LOW VOLTAGE PRODUCTS → PRODUCTS → [CABLE GLANDS AND ACCESSORIES](https://new.abb.com/low-voltage/products/conduit-fittings/cable-glands-and-accessories) #[[conduit fittings]]
+        - GB/T16316-1996 Specification for conduit fittings for [electrical installations] & Part 1: General requirements 技术要求 www.[[dictall]].com
     - Our range offers [high-specification protective cable glands] 高规格保护电缆密封套 suitable for [[harsh condition]]s, including [high or extreme temperature ranges], oil and UV exposure, [[food]] & [[beverage]] use or [highly corrosive environments](((eXoOrJSfI))). Solutions are also [readily available] 易于获得 [for a broad range of] [[general purpose]] uses.
 220111-17:25
     - Click on the industries below to see our [product range].

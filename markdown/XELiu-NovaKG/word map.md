@@ -483,7 +483,7 @@
                 - flesh out: 充实, 使有血有肉
                 - fleshing: 喂肉给……; 使发胖; 长胖
             - flex
-                - flexible; [[flexibility]];
+                - [[flexible]]; [[flexibility]];
             - flow
                 - flowing;
                 - workflow;
