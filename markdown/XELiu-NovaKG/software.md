@@ -5,7 +5,7 @@
     - advanced feature
     - [[feature request]]
     - [[function]]; [[functionality]]; functionalities
-    - general-purpose nature
+    - [[general purpose]]; general-purpose nature
 - file operation
     - [[copy and paste]]; copy/pasting
         - [[clipboard]]

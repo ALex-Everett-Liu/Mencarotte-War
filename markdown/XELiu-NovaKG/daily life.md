@@ -7,7 +7,7 @@
         - 星期二 04/08/2020 20pm
 [两星]见于[天南]
 [yozora]
-- [[food]] and [[drink]]; tabemono to nomemono;
+- [[food]] and [[drink]]; tabemono to nomemono; [[beverage]]
 - [[appliance]]; [[household appliance]]; [[domestic appliance]]; 家用电器
 - clean; wash
     - [[dustbin]]

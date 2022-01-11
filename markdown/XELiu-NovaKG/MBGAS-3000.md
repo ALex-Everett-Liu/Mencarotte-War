@@ -6,7 +6,7 @@
                 - 绿线接地
         - 多反射测量池 (multiple reflection) -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p18
     - [[interferometer box]] 
-        - 光谱分辨率-谱带分开--4cm-1
+        - [光谱分辨率]([[spectral resolution]])-谱带分开--4cm-1
             - ![FTIR-resolution-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fv_SS5ctNj9.png?alt=media&token=9cfcf724-1db0-4c35-abcc-4a015d0c8937)
         - Wishbone interferometer
             - 二维轴干涉仪技术
@@ -27,7 +27,7 @@
         - High Temperature Measurement
             -  H2O ( > [[dew point]])
             -  HCl, HF (> [[acid dew point]])
-            -  NH3 (> formation of aerosoles NH3 SO4 )
+            -  NH3 (> formation of aerosoles NH3 SO4 ) 吸入水中所含的烟雾质
         - [TOC ( Total Hydro Carbons )]([[total hydrocarbons]])
     - Ease of Integration   p33
 - Operation Agenda

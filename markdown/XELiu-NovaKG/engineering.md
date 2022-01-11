@@ -4,6 +4,7 @@
 - energy and power engineering; [[energy engineering]]
 - [[environment]]; [[environment engineering]]; [[environmental science]]
 - general
+    - [[accessory]]: 附件, 零件, 部件; [[part]]
     - engineering work; 施工
 - [[industrial engineering]]
 - [[logistics]]
@@ -11,5 +12,6 @@
 - [[Mechanical Engineering (ME)]]
 - [[space science]]
 - [[standard]]?
+    - performance specification: 性能指标/规格;
     - [[specification]]
 - [[transportation]]

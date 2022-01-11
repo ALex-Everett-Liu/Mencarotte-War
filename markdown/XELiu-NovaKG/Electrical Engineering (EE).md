@@ -6,7 +6,9 @@
 - [[circuit]]; [[electronic circuit]]
     - [[circuit breaker]]: 额定断路器
 - conduct electricity
+- [[conduit fittings]]: 导管配件
 - electromagnetic interference
+- [[electrical connection]]; [[electrical connector]]; [[cable connector]]
 - [[electrical hardware]]; [[electrical product]]
 - [[electrical power]]
     - high voltage electricity

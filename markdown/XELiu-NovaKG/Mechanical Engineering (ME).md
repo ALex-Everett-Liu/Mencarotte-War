@@ -26,6 +26,8 @@
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
 - [[motor]]
+- pipe
+    - [[water pipe]]
 - [[power drill]]: 电钻
     - [[drill holes]]: 钻孔; drilling holes
 - [[prime mover]]: 原动机 
@@ -35,11 +37,25 @@
 - [[reciprocating action]]; [[reciprocating motion]]: 往复运动
 - [[robotics]]
 - [[screw]]
+    - [[screwdriver]]
+    - [[thread]]: 螺纹
+        - [[thread seal tape]]
+        - 钢筋直径
+            - 由于[螺纹钢]的[外表面不平整]，所以没有标准的计算公式。但有个[经验公式](https://zhidao.baidu.com/question/815116478331216212.html)可以计算出螺纹钢每米的理论重量: G=0.617×D×D/100 (unit: kg)
+                - 式中：D为公称直径 ；0.617为常数 φ6＝0.222 Kg ；φ8＝0.395kg； φ10＝0.617kg ；φ12＝0.888kg； Φ14＝1.21kg ；Φ16＝1.58kg ；Φ18＝2.0kg ；Φ22＝2.98kg；Φ24＝2.47kg；Φ25＝3.85kg。。。
+                - 计算时，直径12及以下的保留三位小数；直径12以上的保留两位小数；保留时候6舍7入。
+    - [[卡套]]
 - [[shipbuilding]]
 - tools...
+    - [[pliers]]: 钳子;
+        - [[grab]]: 抓斗 
+        - [[pincer]]
+        - [[wire stripper]]
+            - [[center notch]]: 凹口, 凹痕;
     - [[Swiss Army knife]]
+    - 镊子
+        - 软头镊子;
 - [[valve]]
 - [[vehicle]]; [[vehicle engineering]]
 - [[watch]]
     - [[stopwatch]]
-- [[water pipe]]

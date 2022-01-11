@@ -17,6 +17,7 @@
         - [[recommendation]]
         - [[user demand]]; user need; user desire
             - [[feature]]...
+            - [[general purpose]]
             - last mile
             - meet the need
             - [[pain point]]: 痛点

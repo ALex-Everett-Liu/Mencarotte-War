@@ -2,6 +2,7 @@
     - [[mechanical adhesive]]: 机械粘合剂
 - [[battery]]; [[battery device]]
 - [[ceramic bed]]
+- [[corrosion]]
 - [[crystal]]
 - [[deposit]]
     - [[physical vapor deposition]]: 物理气相沉积

@@ -26,6 +26,7 @@
 - [[Data Acquisition and Handling System (DAHS)]]
     - [[data acquisition system (DAS)]]
 - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
+- [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
 - [[instrumentation]]: 器械操作, 仪器制造 
 - [[instrument design]]
 - [[instrument system]]
@@ -33,7 +34,6 @@
     - linear response
     - [[linearity]]
     - ordinate linearity: 纵坐标线性;
-- performance specification: 性能指标/规格;
 - [[precision instrument]]
 - [[reading]]; [[示值]]; [[指示值]]
     - digital concentration display; 
@@ -43,22 +43,16 @@
 - [[reliability]]: 可靠性
 - [[scissor]]: 剪刀
 - 管线
+    - [[bulkhead]]: 隔板
+        - [[bulkhead union]]: 穿板接头
+        - 接口; 对接;
+            - [[supply port]]: 供气口; 进气口
+            - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
     - [[nominal pipe size]]
     - [[plumbing]]
     - [[flange]]: 法兰
     - [[管阀件]]
 - [[screw]]: [螺丝]
-    - [[screwdriver]]
-    - [[thread]]: 螺纹
-        - [[thread seal tape]]
-        - 钢筋直径
-            - 由于[螺纹钢]的[外表面不平整]，所以没有标准的计算公式。但有个[经验公式](https://zhidao.baidu.com/question/815116478331216212.html)可以计算出螺纹钢每米的理论重量: G=0.617×D×D/100 (unit: kg)
-                - 式中：D为公称直径 ；0.617为常数 φ6＝0.222 Kg ；φ8＝0.395kg； φ10＝0.617kg ；φ12＝0.888kg； Φ14＝1.21kg ；Φ16＝1.58kg ；Φ18＝2.0kg ；Φ22＝2.98kg；Φ24＝2.47kg；Φ25＝3.85kg。。。
-                - 计算时，直径12及以下的保留三位小数；直径12以上的保留两位小数；保留时候6舍7入。
-    - 接口; 对接;
-        - [[supply port]]: 供气口; 进气口
-        - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
-    - [[卡套]]
 - [[seal]]: 密封
     - [[gasket]]: 垫片, 垫圈, 密封衬垫/填料
     - sealing pipe threads: 密封管螺纹
@@ -68,13 +62,6 @@
 - [[set point]]: 设定值; [[setpoint]]; [[desired setpoint (SP)]]
 - [[stability]]
 - [[thermostat]]
-- [[pliers]]: 钳子;
-    - [[grab]]: 抓斗 
-    - [[pincer]]
-    - [[wire stripper]]
-        - [[center notch]]: 凹口, 凹痕;
-- 镊子
-    - 软头镊子;
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.

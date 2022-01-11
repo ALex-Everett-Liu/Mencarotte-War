@@ -25,7 +25,7 @@
 210809-06:07
 - References
     - [1]: ["Archived copy"](https://web.archive.org/web/20131029201311/http://www.controlandpower.com/catalog/PDFs/ASCO/ASCO%2035-1%20General%20Service%202-Way%20Valves.pdf) (PDF). Archived from [the original](http://www.controlandpower.com/catalog/PDFs/ASCO/ASCO%2035-1%20General%20Service%202-Way%20Valves.pdf) (PDF) on 29 October 2013. Retrieved 18 February 2013.
-    - [15]: ["General Purpose Solenoid Valves - Valcor Engineering"](http://www.valcor.com/scientific-and-industrial/general-purpose-solenoid-valves/). __Valcor.com__. Retrieved 17 July 2018.
+    - [15]: ["General Purpose Solenoid Valves - Valcor Engineering"](http://www.valcor.com/scientific-and-industrial/general-purpose-solenoid-valves/). __Valcor.com__. Retrieved 17 July 2018. #[[general purpose]]
 - External links
     - [Solenoid Valve Types](https://tameson.com/solenoid-valve-types.html)- [circuit functions] and [operation types] of solenoid valves [explained with illustrations]
     - [pp. 39–40. Solenoid valve illustration; breakaway pin / kick-off](http://www.maritime.org/doc/fleetsub/refrig/chap7.htm)
