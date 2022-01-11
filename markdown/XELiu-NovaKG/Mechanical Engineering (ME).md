@@ -7,7 +7,6 @@
     - [[fluid pressure]]
 - general...
     - integrated system
-    - [[mechanical tolerance]]
 - [[handle]]: 手柄, 把手, 拉手, 提梁;
 - [[hydraulic system]]: 液压系统; 
     - [[hydraulic fluid]]: 传压流体
@@ -26,8 +25,8 @@
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
 - [[motor]]
-- pipe
-    - [[water pipe]]
+- [[pipe]]
+    - [[tube]]; [[tubing]]
 - [[power drill]]: 电钻
     - [[drill holes]]: 钻孔; drilling holes
 - [[prime mover]]: 原动机 

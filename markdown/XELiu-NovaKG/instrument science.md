@@ -48,7 +48,6 @@
         - 接口; 对接;
             - [[supply port]]: 供气口; 进气口
             - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
-    - [[nominal pipe size]]
     - [[plumbing]]
     - [[flange]]: 法兰
     - [[管阀件]]
@@ -60,6 +59,7 @@
     - [[密封圈]]
 - [[sensitivity]]; [[sensitive]]
 - [[set point]]: 设定值; [[setpoint]]; [[desired setpoint (SP)]]
+- [[size]]?
 - [[stability]]
 - [[thermostat]]
 - ---

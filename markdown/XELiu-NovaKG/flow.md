@@ -21,6 +21,7 @@
     - 改变流向;
 - [[flow rate]]
 - [[flow velocity]]
+- [[fluid conveyance]]
 - [[fluid power]]: 流体动力
 - [[input gas]]
 - [[purge gas]]: 吹扫气体

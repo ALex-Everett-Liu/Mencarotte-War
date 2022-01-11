@@ -1,5 +1,6 @@
 - [[aerospace engineering]]
 - [[architecture]]
+    - [[civil engineering]]
 - [[Electrical Engineering (EE)]]
 - energy and power engineering; [[energy engineering]]
 - [[environment]]; [[environment engineering]]; [[environmental science]]
