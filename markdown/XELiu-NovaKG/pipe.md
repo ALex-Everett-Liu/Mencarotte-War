@@ -12,7 +12,7 @@
 220111-21:40, 21:47
             - Installs pipe assemblies, 管道组件/水管零件 fittings, valves, and fixtures, 夹具/固定物 such as sinks, toilets and tubs, using [hand and power tools]. www.[dictall].com
 - ---
-- # DIFFERENCE BETWEEN TUBE AND PIPE
+- # [DIFFERENCE BETWEEN TUBE AND PIPE](https://eagletube.com/about-us/news/difference-tube-pipe/)
     - ## Is It a Pipe or a Tube?
-        - [In some instances] [the terms may be used interchangeably], however [there is one key difference between] [[tube]] and [[pipe]], particularly in [how the material is ordered and toleranced]. Tubing is used in [[structural application]]s so the [[outside diameter (OD)]] [becomes the important dimension]. Tubes are often [put into applications such as] [[medical device]]s that [require precise outside diameters]. The outside diameter is important since it will indicate how much it can hold as a stability factor. Whereas pipes are normally used to transport gasses or liquids making it important to know the capacity. Knowing how much can flow through the pipe is key. The circular shape of the pipe make it efficient when handling pressure from the liquid flowing through.
-220111-18:03
+        - [In some instances] [the terms may be used interchangeably], however [there is one key difference between] [[tube]] and [[pipe]], particularly in [how the material is ordered and toleranced]. Tubing is used in [[structural application]]s so the [[outside diameter (OD)]] [becomes the important dimension]. Tubes are often [put into applications such as] [[medical device]]s that [require precise outside diameters]. The outside diameter is important since [it will indicate] [how much it can hold] as a [stability factor]. Whereas pipes are [normally used to] [transport gasses or liquids](((VG5w3zSU6))) [making it important to know] the [[capacity]]. Knowing how much can [flow through the pipe] is key. The [circular shape] of the pipe [make it efficient] when [handling pressure from] [the liquid flowing through].
+220111-18:03, 220112-11:43

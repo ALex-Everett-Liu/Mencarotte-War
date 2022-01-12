@@ -22,11 +22,12 @@
 - [[flow rate]]
 - [[flow velocity]]
 - [[fluid conveyance]]
+    - regulate the fluid;
+    - transport fluid; transport gasses or liquids
 - [[fluid power]]: 流体动力
 - [[input gas]]
 - [[purge gas]]: 吹扫气体
     - [[反吹]]; 从样气入口吹出
-- regulate the fluid;
 - [[reverse flow]]: 反向流动
     - [[反吹]]; 从样气入口吹出
 - 限流元件;
