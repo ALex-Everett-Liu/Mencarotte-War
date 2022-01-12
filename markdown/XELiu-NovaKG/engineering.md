@@ -11,6 +11,7 @@
     - [[pipe]]
         - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
         - [[plumbing]]
+        - [[trace heating]]
         - [[tube]]; [[tubing]]
         - [[valve]]
 - [[industrial engineering]]

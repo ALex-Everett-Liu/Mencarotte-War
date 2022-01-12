@@ -2,7 +2,7 @@
     - [[assembly line]]: 装配线, 流水作业线;
 - confined working facility: 密闭工作设施;
 - fault-tolerant; 容错
-- [[harsh environment]]; [[harsh condition]]
+- [[harsh environment]]; [[harsh condition]]; tough environment
 - [[industrial application]]
 - [[industrial process]]
 - [[industrial settings]]

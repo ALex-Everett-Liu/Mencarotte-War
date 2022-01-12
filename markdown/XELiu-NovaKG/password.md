@@ -15,6 +15,7 @@
         - hP3!iZd
         - gvr5fdg4b6uw32c4
         - gvr5fdG4b6uW32c4
+        - 9378bokanicoloveLx
     - id
     - [[Wi-Fi]]; [[Wi-Fi module]]; WiFi; wifi
         - jhxc2q 805 -- pw: 4bim3wb3

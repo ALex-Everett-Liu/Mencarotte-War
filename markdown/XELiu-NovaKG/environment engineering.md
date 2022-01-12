@@ -50,7 +50,7 @@
 - reduction scheme; 
 - releases into the atmosphere; 排放气体
 - [[standard condition]]; [[standard state]]; [[working condition]]
-    - [[harsh environment]]; [[harsh condition]]
+    - [[harsh environment]]; [[harsh condition]]; tough environment
 - [[thermal oxidizer]]
     - [[oxidation cycle]]
     - [[oxidize]]
