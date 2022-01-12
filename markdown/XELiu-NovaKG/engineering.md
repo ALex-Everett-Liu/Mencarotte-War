@@ -7,9 +7,12 @@
 - general
     - [[accessory]]: 附件, 零件, 部件; [[part]]
     - engineering work; 施工
-    - [[fittings]]: 配件
+    - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
     - [[pipe]]
+        - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
+        - [[plumbing]]
         - [[tube]]; [[tubing]]
+        - [[valve]]
 - [[industrial engineering]]
 - [[logistics]]
 - [[material]]; [[material science]]

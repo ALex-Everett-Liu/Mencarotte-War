@@ -22,7 +22,7 @@
 - [[flow rate]]
 - [[flow velocity]]
 - [[fluid conveyance]]
-    - regulate the fluid;
+    - regulate the fluid flow;
     - transport fluid; transport gasses or liquids
 - [[fluid power]]: 流体动力
 - [[input gas]]

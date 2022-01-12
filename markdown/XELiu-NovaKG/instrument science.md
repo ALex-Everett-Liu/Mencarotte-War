@@ -48,7 +48,6 @@
         - 接口; 对接;
             - [[supply port]]: 供气口; 进气口
             - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
-    - [[plumbing]]
     - [[flange]]: 法兰
     - [[管阀件]]
 - [[screw]]: [螺丝]

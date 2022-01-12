@@ -1,0 +1,3 @@
+- A [[fitting]] or [[adapter]] is used in [pipe systems] to connect [[straight section]]s 直管段 of [pipe or tube], [adapt to different sizes] or shapes, and [for other purposes such as] [regulating (or measuring) fluid flow](((gTWN92-mX))).[1] These fittings are used in [[plumbing]] to [manipulate the conveyance of]([[fluid conveyance]]) [water, gas, or liquid waste] [in domestic or commercial environments], 在家用或商业环境中 within a system of pipes or tubes.
+    - Fittings (especially [uncommon types]) require money, time, materials, and tools to install, and are [an important part of] [piping and plumbing systems].[2] [[valve]]s are technically fittings, but are usually [discussed separately].
+220112-13:15
