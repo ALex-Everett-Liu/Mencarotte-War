@@ -6,8 +6,10 @@
 - [[environment]]; [[environment engineering]]; [[environmental science]]
 - general
     - [[accessory]]: 附件, 零件, 部件; [[part]]
-    - [[fittings]]: 配件
     - engineering work; 施工
+    - [[fittings]]: 配件
+    - [[pipe]]
+        - [[tube]]; [[tubing]]
 - [[industrial engineering]]
 - [[logistics]]
 - [[material]]; [[material science]]
