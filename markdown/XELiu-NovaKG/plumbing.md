@@ -14,3 +14,5 @@
         - hydronics, i.e. heating and cooling systems using water to transport thermal energy, as in district heating systems, like for example the New York City steam system.
 - ## Difference between pipes and tubes
     - The difference between pipes and tubes is [a matter of sizing]. For instance, PVC pipe for [plumbing applications] and [[galvanized steel pipe]] 镀锌钢管 are measured in [iron pipe size (IPS)]. Copper tube, CPVC, PeX and other tubing is measured nominally, basically an average diameter. These sizing schemes allow for universal adaptation of transitional fittings. For instance, 1/2" PeX tubing is the same size as 1/2" copper tubing. 1/2" PVC on the other hand is not the same size as 1/2" tubing, and therefore requires either a threaded male or female adapter to connect them. When used in agricultural irrigation, the singular form "pipe" is often used as a plural.[27]
+- Further reading
+    - Teresi, Dick (2002). __Lost Discoveries: The [Ancient Roots] of [Modern Science]--from the Babylonians to the Maya.__ New York: Simon & Schuster. [pp. 351–352.](https://archive.org/details/lostdiscoveriesa00tere/page/351) ISBN 0-684-83718-8.

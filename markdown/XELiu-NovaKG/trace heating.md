@@ -5,3 +5,9 @@
     - Trace heating may be used to [protect pipes from freezing]([[freezing]]), to maintain a constant [[flow temperature]] in [hot water systems], or to maintain [[process temperature]]s for piping that must [transport substances] that [[solidify]] at [[ambient temperature]]s. [Electric trace heating cables]([[electric heat tracing]]) are an alternative to [[steam trace heating]] where steam is [unavailable or unwanted].[2]
 220113-17:57
     - [self-regulating heat tracing tape](((RCRUxrdFa))) with the [gray end seal] next to a copper [[drain pipe]] with [[insulator]] [wrapped around them]. This protects the pipe from [[freezing]].[1]
+- ## Types
+    - ### Self regulating
+        - [Self-regulating heat tracing tapes](((RCRUxrdFa))) are cable whose [[resistance]] [varies with temperature] - [low resistance] for [temperatures below] the cable [[set point]] and high resistance for [temperatures above] the cable set point. When the cable temperature [reaches the set point] the resistance [reaches a high point] and resulting in [no more heat being supplied].
+220114-00:12
+- References
+    - [1]: [__Raychem XL-Trace System: Installation and Operation Manual for Pipe Freeze Protection and Flow Maintenance__] ([PDF](https://web.archive.org/web/20140709114020/http://www.pentairthermal.com/Images/EN-RaychemXLTracePipeFreezeProtection-IM-H58033_tcm432-26425.pdf)). Pentair. March 2013. Archived from [the original](http://www.pentairthermal.com/Images/EN-RaychemXLTracePipeFreezeProtection-IM-H58033_tcm432-26425.pdf) (PDF) on 9 July 2014. Retrieved 3 August 2014.
