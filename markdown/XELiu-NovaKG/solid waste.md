@@ -53,6 +53,7 @@
     - [取样平台]设备安装
         - 4.1、探头的安装
             - [ABB 分析仪表][分析的样气]是通过[安装在烟道的][样气采样探头][进行采样]的。样气采样探头由[采样探管]、采样[保温腔体]、采样过滤器、样气采样器加热装置、反吹控制装置等部分组成。如图4.1.1所示：
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FachMR6Yqe4.png?alt=media&token=87a53318-9987-4f57-803f-05dfcb6e1445)
 - 固废[认证资料]
     - 固废认证[测试方案]
     - SCS-[第四代]固废[系统流程图] 20190912
