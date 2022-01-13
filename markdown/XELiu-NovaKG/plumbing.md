@@ -1,0 +1,4 @@
+- Plumbing is any system that [conveys fluids]([[fluid conveyance]]) [for a wide range of applications]. Plumbing uses pipes, valves, [[plumbing fixture]]s, 管道固定装置 [[tank]]s, and other [[apparatus]]es to convey fluids.[1] [Heating and cooling (HVAC)]([[heating, ventilation, and air conditioning (HVAC)]]), [[waste removal]], and potable water delivery are [among the most common uses for] plumbing, [but it is not limited to] these applications.[2] [The word derives from the Latin] for lead, plumbum, as [the first effective pipes] [used in the Roman era] were [[lead pipe]]s.[3] 铅管
+220113-19:26
+    - In the developed world, plumbing infrastructure is critical to public health and sanitation.[4][5]
+    - Boilermakers and pipefitters are not plumbers although they work with piping as part of their trade and their work can include some plumbing.

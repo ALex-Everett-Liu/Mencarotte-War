@@ -60,6 +60,10 @@
 - [[set point]]: 设定值; [[setpoint]]; [[desired setpoint (SP)]]
 - [[size]]?
 - [[stability]]
+- tape
+    - [[thread seal tape]]
+    - [[高温胶带]]
+    - 绝缘胶带; 电气胶带
 - [[thermostat]]
 - [[vessel]]: 容器; 脉管
 - ---

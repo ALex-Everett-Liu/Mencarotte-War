@@ -9,6 +9,7 @@
 - heating; 加热元件
     - [[heater]]
     - [[preheat]]
+    - [[trace heating]]
     - 感温元件
         - 铂电阻; PT 100
     - 加热棒; 加热片

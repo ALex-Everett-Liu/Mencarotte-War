@@ -27,7 +27,7 @@
         - the energy dissipated by hot electron phonons: 声子能量耗散
     - the population of hot electrons
     - travel into other surrounding materials; tunnel out of the material; being conducted through the material
-- [[insulate]]
+- [[insulate]]; [[insulator]]
 - [[leakage current]]
 - [[transistor]]
 - [[reliability]]

@@ -58,6 +58,6 @@
     - [[hazardous waste]]
     - [[solid waste]]
     - [[waste gas]]
-    - [[waste handling]]
+    - [[waste handling]]; [[waste removal]]
 - 检测标准; [[国家环境保护标准]]
 - 节能环保产业 

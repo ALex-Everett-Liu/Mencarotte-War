@@ -1,6 +1,8 @@
 - [[advanced process control (APC)]]
 - automatic process control; [[automatic control]]
 - human manual control;
+- [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
+- [[process temperature]]
 - ---
 - An [[industrial process control]] in [continuous production processes]([[continuous production]]) is a [[discipline]] that uses [[industrial control system (ICS)]]s to [achieve a production level of] consistency, economy and safety which [could not be achieved purely by] [human manual control](((3KVbVs8Tq))). It is [implemented widely in] industries such as automotive, mining, dredging, oil refining, pulp and paper manufacturing, [[chemical processing]] and [[power generating plant]]s.[1]
 211115-00:30

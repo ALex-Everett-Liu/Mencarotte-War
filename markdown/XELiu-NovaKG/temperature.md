@@ -1,6 +1,7 @@
 - [[absolute zero]]
 - [[degree Celsius]]
 - [[effective temperature]]
+- [[ambient temperature]]: 常温, 环境温度
 - [[high temperature]]; [[low temperature]]
 - [[room temperature]]
 - [[temperature control]]

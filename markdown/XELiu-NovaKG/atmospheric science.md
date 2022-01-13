@@ -1,4 +1,5 @@
 - [[dew point]]
+- [[freezing point]]; [[freezing]]
 - [[humidity]]
 - [[moisture]]
 - [[water vapor]]
