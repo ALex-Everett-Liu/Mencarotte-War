@@ -425,6 +425,8 @@
                 - elementary
             - elevate
                 - elevation
+        - em
+            - emulant; emulate: 仿真; emulation 
         - eo
             - eon: 永世, 万古;
         - eq
@@ -676,6 +678,8 @@
         - la
             - labor
                 - labour: 努力做, 干苦力活; 困难吃力地行进 |
+            - land 
+                - landslip; landslide: 泥石流 
             - languid
                 - languish
                     - languished;
@@ -1129,6 +1133,10 @@
                 - signature
                 - resign
                     - resignation;
+        - sl
+            - slip
+                - slide
+                    - landslide: 泥石流 
         - sp
             - space
                 - workspace;

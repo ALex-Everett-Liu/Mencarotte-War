@@ -59,5 +59,7 @@
     - [[solid waste]]
     - [[waste gas]]
     - [[waste handling]]; [[waste removal]]
+- [[water supply]]
+    - graywater recovery and treatment system; 
 - 检测标准; [[国家环境保护标准]]
 - 节能环保产业 

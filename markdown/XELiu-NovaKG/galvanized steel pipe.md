@@ -1,0 +1,4 @@
+- dictionary
+    - Galvanized steel pipe has been widely used as indoor [[tap water]] pipe. 室内给水管道 dict.cnki.net
+    - Effect of [Zinc Galvanized Steel Pipe] on [NO_2~-Content in Tap Water ]
+    - Abstract The zinc galvanized steel pipe gone under a ban for some indoor water supply in Shanghai and its alternatives were discussed. 

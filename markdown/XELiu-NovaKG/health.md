@@ -1,6 +1,8 @@
 - [[exercise]]
 - [[fatigue]]: 疲劳
 - health management
+- [[public health]]
+- [[sanitation]]
 - [[sleep]]
 - [[World Health Organization (WHO)]]
 - #inbox
