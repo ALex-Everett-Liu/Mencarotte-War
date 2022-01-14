@@ -11,4 +11,6 @@
 220114-00:12
 - References
     - [1]: [__Raychem XL-Trace System: [Installation and Operation Manual] for [Pipe Freeze Protection] and [Flow Maintenance]__] ([PDF](https://web.archive.org/web/20140709114020/http://www.pentairthermal.com/Images/EN-RaychemXLTracePipeFreezeProtection-IM-H58033_tcm432-26425.pdf)). Pentair. March 2013. Archived from [the original](http://www.pentairthermal.com/Images/EN-RaychemXLTracePipeFreezeProtection-IM-H58033_tcm432-26425.pdf) (PDF) on 9 July 2014. Retrieved 3 August 2014. #[[operation manual]]
-    - [2] Paul R. Smith, ed. __Facilities engineering and management handbook : commercial, industrial, and institutional buildings__,McGraw Hill,2001 [ISBN](https://en.wikipedia.org/wiki/ISBN_%28identifier%29) [0-07-059323-X](https://en.wikipedia.org/wiki/Special:BookSources/0-07-059323-X) chapter 5 pages 5-198 through 5-201
+    - [2] Paul R. Smith, ed. __Facilities engineering 设施工程 and management handbook: commercial, industrial, and [institutional buildings]__, McGraw Hill,2001 [ISBN] [0-07-059323-X](https://en.wikipedia.org/wiki/Special:BookSources/0-07-059323-X) chapter 5 pages 5-198 through 5-201
+        - Existing technology has enabled some architects to [reduce energy demand] in houses and [commercial and institutional buildings] 科研/机构类建筑 by 60-70 per cent compared to [current regulatory standards]. 现行规范标准 bbs.topenergy.org
+        - Architects conceptualize, plan and develop designs for the [construction and renovation] of commercial, institutional and [residential buildings]. www.[myqcqc].com
