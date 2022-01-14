@@ -1,0 +1,5 @@
+- dictionary
+    - [Positive Temperature Coefficient Materials] for the [Thermal Safety] of [Lithium-Ion Batteries] dict.cnki.net
+    - [Positive temperature coefficient behavior] of [carbon material] filled [LDPE Composite] 
+    - The [Non-linear Compensation Method] of [[thermistor]] With Positive Temperature Coefficient 
+    - Study of [Laser Sintering] 烧结 of Thick-Film Positive Temperature Coefficient [Thermistor Paste] 浆料 www.[dictall].com

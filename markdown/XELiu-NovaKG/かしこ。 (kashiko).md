@@ -1,2 +1,2 @@
-- [[プラリネ (burarine)]]
+- [[プラリネ (Praline)]]
 - [[天文学 (tenmongaku)]]

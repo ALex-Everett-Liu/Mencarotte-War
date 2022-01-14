@@ -15,6 +15,7 @@
             - [[fur]]; animal skin and hair
 - [[manufacturing]]; [[manufacturing industry]]; 制造业
 - [[mining]]; [[mining industry]]
+- [[plant]]
 - [[process control]]
     - continuously modulated control: 连续调制控制
     - industrial process control system; [[industrial process control]]; [[industrial control system (ICS)]]

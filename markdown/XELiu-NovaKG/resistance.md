@@ -1,3 +1,5 @@
+- [[resistant element]]
+- [[thermistor]]
 - dictionary
     - Another [general formula] of [equivalent resistance] 等效电阻 of [3 × n step network] www.[dictall].com
     - Remote Pt-Resistance Temperature Measure System [Based on Data Socket]

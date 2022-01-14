@@ -1,5 +1,4 @@
 - dictionary 
-    - [[heating element]]; [[electrical heating element]]
     - 一种[电阻率]较高的[金属丝]，[通电后]能[产生热量]。常见的电热丝有[镍铬丝]，多用于[电炉]、电烙铁、[电熨斗]等[电热设备]或用具。
     - The kettle [needs a new element]. 电壶 《牛津高阶英汉双解词典》
     - [This method can be used to] [forecast lifetimes of] [Fe-Cr-Al heating wires] of [different radii] and [Al con-tents].

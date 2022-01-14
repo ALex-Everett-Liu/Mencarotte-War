@@ -8,6 +8,9 @@
     - [[heat transfer fluid]]: 传热液
 - heating; 加热元件
     - [[heater]]
+    - [[heating element]]
+        - [[electrical heating element]]; [[electric heating]]
+        - [[heating wire]]
     - [[preheat]]
     - [[trace heating]]
     - 感温元件

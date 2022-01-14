@@ -1,0 +1,2 @@
+- [[output power]]
+- [[wattage]]

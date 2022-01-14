@@ -10,10 +10,12 @@
     - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
     - [[pipe]]
         - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
+            - [[flange]]: 法兰
         - [[plumbing]]
         - [[trace heating]]
         - [[tube]]; [[tubing]]
         - [[valve]]
+        - [[管阀件]]
 - [[industrial engineering]]
 - [[logistics]]
 - [[material]]; [[material science]]

@@ -12,5 +12,6 @@
     - causal input;
     - [[error signal]]; [[error value]]
     - [[input signal]]
+    - [[output power]]
     - the signal feedback from output;
     - [[system output]]
