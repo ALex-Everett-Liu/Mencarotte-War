@@ -12,6 +12,7 @@
     - main article
     - [[welcome]]
 - [[manual]]; [[user manual]]
+    - [[operation manual]]
     - [[reference manual]]
 - [[Q&A]]; [[FAQ]]
 - [[tip]]
