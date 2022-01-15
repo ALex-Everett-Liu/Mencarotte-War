@@ -1,1 +1,2 @@
+- [[cover plate]]: 盖板
 - [[gland plate]]: 压盖板, 格兰板

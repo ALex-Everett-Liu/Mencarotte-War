@@ -1,6 +1,6 @@
 - [[advanced search]]
 - [[case sensitivity]]; 
-- [[filter]]; filtering
+- [[sw/filter]]; filtering
     - pass the query filters
 - [[find]]
 - [[full-text search]]

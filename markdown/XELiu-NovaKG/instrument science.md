@@ -49,11 +49,7 @@
             - [[supply port]]: 供气口; 进气口
             - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
 - [[screw]]: [螺丝]
-- [[seal]]: 密封
-    - [[gasket]]: 垫片, 垫圈, 密封衬垫/填料
-    - sealing pipe threads: 密封管螺纹
-    - [[thread seal tape]]
-    - [[密封圈]]
+- [[seal]]: 密封; [[sealing]]
 - [[sensitivity]]; [[sensitive]]
 - [[set point]]: 设定值; [[setpoint]]; [[desired setpoint (SP)]]
 - [[size]]?

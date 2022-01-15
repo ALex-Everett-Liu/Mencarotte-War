@@ -20,7 +20,6 @@
 - [[environment monitoring]]; environmental monitoring; 环境监测; 在线监测系统
 - [[exemption]]: 免检; 
 - [[filter]]: 过滤器; 过滤芯
-    - [[filter tube]]
     - 吸附污染物/颗粒物;
 - 固定污染源中的[烟气]([[flue gas]])监测与分析 - SO2, NOx, 颗粒物 - flue gas from stationary sources
     - extractive system-抽取式取样

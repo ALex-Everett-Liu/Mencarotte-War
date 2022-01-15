@@ -34,6 +34,10 @@
 - [[reciprocating action]]; [[reciprocating motion]]: 往复运动
 - [[robotics]]
 - [[screw]]
+    - bolt; 螺栓
+        - bolted together; 
+        - joined by bolting; 
+        - 六角螺栓
     - [[screwdriver]]
     - [[thread]]: 螺纹
         - [[thread seal tape]]
@@ -42,8 +46,6 @@
                 - 式中：D为公称直径 ；0.617为常数 φ6＝0.222 Kg ；φ8＝0.395kg； φ10＝0.617kg ；φ12＝0.888kg； Φ14＝1.21kg ；Φ16＝1.58kg ；Φ18＝2.0kg ；Φ22＝2.98kg；Φ24＝2.47kg；Φ25＝3.85kg。。。
                 - 计算时，直径12及以下的保留三位小数；直径12以上的保留两位小数；保留时候6舍7入。
     - [[卡套]]
-    - 螺栓
-        - 六角螺栓
 - [[shipbuilding]]
 - tools...
     - [[pliers]]: 钳子;

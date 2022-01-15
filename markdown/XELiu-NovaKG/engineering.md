@@ -10,7 +10,7 @@
     - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
     - [[pipe]]
         - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
-            - [[flange]]: 法兰
+            - [[flange]]: 法兰, 轮缘, 凸缘
         - [[plumbing]]
         - [[trace heating]]
         - [[tube]]; [[tubing]]

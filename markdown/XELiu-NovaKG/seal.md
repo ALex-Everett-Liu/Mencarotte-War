@@ -1,0 +1,4 @@
+- [[gasket]]: 垫片, 垫圈, 密封衬垫/填料
+- sealing pipe threads: 密封管螺纹
+- [[thread seal tape]]
+- [[密封圈]]
