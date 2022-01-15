@@ -10,3 +10,5 @@
     - [[tweet]];
     - [[Twitter Thread]]; Threaded Twitter
     - [[weibo (micro-blog)]]
+- zhihu
+    - 
