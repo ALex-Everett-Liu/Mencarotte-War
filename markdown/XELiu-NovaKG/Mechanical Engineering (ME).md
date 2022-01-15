@@ -38,6 +38,8 @@
         - bolted together; 
         - joined by bolting; 
         - 六角螺栓
+    - [[joint]]
+        - joined by bolting; 
     - [[screwdriver]]
     - [[thread]]: 螺纹
         - [[thread seal tape]]
@@ -60,3 +62,4 @@
 - [[vehicle]]; [[vehicle engineering]]
 - [[watch]]
     - [[stopwatch]]
+- [[weld]]: 焊接 

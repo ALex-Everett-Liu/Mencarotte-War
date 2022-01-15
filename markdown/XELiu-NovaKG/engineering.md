@@ -8,7 +8,7 @@
     - [[accessory]]: 附件, 零件, 部件; [[part]]
     - engineering work; 施工
     - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
-    - [[pipe]]
+    - [[pipe]]; [[piping system]]
         - [[fitting]]; [[fittings]]: 配件; [[piping and plumbing fitting]]
             - [[flange]]: 法兰, 轮缘, 凸缘
         - [[plumbing]]

@@ -17,7 +17,7 @@
 - [挥发性有机化合物]([[volatile organic compounds (VOCs)]])治理 
     - Volatile Organic Compounds Monitored with CEMS Systems 
 - 监测单元
-    - 固定污染源中的[烟气]([[flue gas]])监测与分析 - SO2, NOx, 颗粒物 - flue gas from stationary sources
+    - [[flue gas]]; flue gas from stationary sources  
         - 温度、压力、流速一体化探头 - 变送器 测量仪 - 校准装置
         - 湿度、含氧量
 - [数据采集与处理单元]([[Data Acquisition and Handling System (DAHS)]])

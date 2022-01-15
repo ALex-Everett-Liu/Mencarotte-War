@@ -21,7 +21,7 @@
 - [[exemption]]: 免检; 
 - [[filter]]: 过滤器; 过滤芯
     - 吸附污染物/颗粒物;
-- 固定污染源中的[烟气]([[flue gas]])监测与分析 - SO2, NOx, 颗粒物 - flue gas from stationary sources
+- [[flue gas]]; flue gas from stationary sources  
     - extractive system-抽取式取样
     - [[flow rate]]; [[flow velocity]]
     - flue gas parameter monitoring system
@@ -29,6 +29,7 @@
     - [[gas concentration]]
         - [[dry flue gas concentration]]
     - [[gas stream]]
+    - [[stack gas]]
     - stationary pollution source; 固定污染源
     - [便携式](((RVT-MB2ge)))[烟气监测设备]
     - 烟气参数测量监测

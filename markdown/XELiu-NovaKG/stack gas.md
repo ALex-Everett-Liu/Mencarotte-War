@@ -1,0 +1,4 @@
+- dictionary
+    - [The heat contained in stack gas] [exceeds that required for] [drying raw oil shale]. 油母页岩 www.[waiwenfanyi].com
+    - A [Dilution Apparatus] for SO_2 in Stack Gas dict.cnki.net
+    - Introduction of [wet stack gas desulphurization process system] and its analysis 脱硫工艺
