@@ -7,6 +7,7 @@
 - [[industrial valve]]
 - [[needle valve]]--手动控制
 - [[pneumatic valve]]
+- [[pressure relief valve (PRV)]]
 - [[shut-off valve]]: 截止阀 
 - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
     - energize the solenoid; 

@@ -21,11 +21,13 @@
     - 改变流向;
 - [[flow rate]]
 - [[flow velocity]]
+- [[fluid]]
 - [[fluid conveyance]]
     - regulate the fluid flow;
     - transport fluid; transport gasses or liquids
 - [[fluid power]]: 流体动力
 - [[input gas]]
+- pressurized fluid; 
 - [[purge gas]]: 吹扫气体
     - [[反吹]]; 从样气入口吹出
 - [[reverse flow]]: 反向流动

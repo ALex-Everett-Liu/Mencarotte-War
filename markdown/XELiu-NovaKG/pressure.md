@@ -1,7 +1,11 @@
 - [[air pressure]]
 - [[atmospheric pressure]]
+- [[barometer]]
+- gas pressure; 压力测量装置
 - [[high pressure]]
 - [[output pressure]]
 - [[pressure sensor]]
 - [[pressure vessel]]
+    - [[pressure relief valve (PRV)]]
+    - [[pressure regulating valve]] -- 正压打入; 通气;
 - [[positive pressure]]; 

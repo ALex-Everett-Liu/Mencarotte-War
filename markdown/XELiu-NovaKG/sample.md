@@ -1,7 +1,4 @@
 - gas pressure; 压力测量装置
-    - [[barometer]]
-    - [[pressure regulating valve]] -- 正压打入; 通气;
-    - [[pressure sensor]]
 - [[gas temperature]]
 - [[negative pressure]]
     - 负压抽取进样; 负压取样; 持续形成真空或负压
