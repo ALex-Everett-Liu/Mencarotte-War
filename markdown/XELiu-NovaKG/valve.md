@@ -1,9 +1,10 @@
 - [[check valve]]; non-return check valve; 止回阀 
+- [[control valve]]
+    - [[flow control valve]]
+        - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
 - [[diaphragm valve]]; [[diaphragm pump]]
 - [[float valve]]
     - [[water level]]
-- [[flow control valve]]
-    - [[Electronic Flow Control (EFC)]]; [[Electronic Flow Control Valve (EFCV)]]
 - [[industrial valve]]
 - [[needle valve]]--手动控制
 - [[pneumatic valve]]

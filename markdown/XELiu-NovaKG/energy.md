@@ -1,6 +1,7 @@
 - [[energy conservation]]
 - [[energy flow]]; [[power flow]]
     - [[Umov–Poynting vector]]
+- energy conversion
 - energy type
 - [[internal energy]]
 - [[kinetic energy]]
