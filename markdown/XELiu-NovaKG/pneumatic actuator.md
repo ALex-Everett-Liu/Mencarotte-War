@@ -1,4 +1,4 @@
-- A pneumatic [[control valve]] actuator [converts energy](((ht5fpCail))) ([typically in the form of] [[compressed air]]) into [[mechanical motion]]. The motion can be rotary or linear, depending on the type of actuator.
+- A pneumatic [[control valve]] actuator [converts energy](((ht5fpCail))) ([typically in the form of] [[compressed air]]) into [[mechanical motion]]. The motion can be rotary or linear, depending on [the type of actuator].
 220116-19:23
 - ---
 - ## 气源处理件 (F.R.L)

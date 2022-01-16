@@ -1,2 +1,3 @@
 - [[constants of motion]]
+- [[mechanical motion]]
 - [[smooth forward motion]]: 平滑向前运动
