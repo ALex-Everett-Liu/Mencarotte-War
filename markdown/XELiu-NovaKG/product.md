@@ -18,6 +18,7 @@
         - [[user demand]]; user need; user desire
             - [[feature]]...
             - [[general purpose]]: 一般用途, 通用
+                - [[multi-purpose]]
             - last mile
             - meet the need
             - [[pain point]]: 痛点

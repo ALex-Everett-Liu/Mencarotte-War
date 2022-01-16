@@ -12,7 +12,8 @@
         - [[gas resistance]]
         - [[orifice]]; [[orifice area]]; [[orifice diameter]]
         - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]
-        - [[supply port]]: 供气口; 进气口
+        - supply air; 供气;
+            - [[supply port]]: 供气口; 进气口
         - [[旁路]]
         - 气路密封性; [[气密性]]
             - [[gas-tight connection]]: 气密连接; [[connection point]]
