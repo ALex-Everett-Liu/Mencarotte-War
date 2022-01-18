@@ -65,13 +65,22 @@
 - MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf
 - 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf
 - FTE Test Client
-    - 修改电脑[IP地址]（10.0.0.2, 最后一位2-255皆可以，[主机IP地址]10.0.0.1 ）
+    - 使用[网线]将 PC 与 MBGAS-3000 电气箱[外端接口][进行通讯]。
+    - 修改电脑[IP地址]（10.0.0.2/5, 最后一位 2-255 皆可以，[主机IP地址] 10.0.0.1 ） -- 子网掩码 255.0.0.0
     - Analyzer Health 
     - 参考背景校正 (reference calibration)
         - [[gas cell box]] 通入氮气，流速 5000 ml/min, [吹扫气](((GwtsEivzE))) ([[purge gas]]) 4 L/min
         - [[initial reference]]
         - start characterization acquisition
     - [[log message]]
+    - engineering values
+        - sample acquisition
+            - CO2 intensity ＞100 mAbs
+            - H2O intensity < 65 mAbs
+            - intensity region 1 (1000~1100 cm-1) ＞0.025
+                - intensity region 2 (2050~2150 cm-1) ＞0.06
+                - intensity region 3 (3000~3100 cm-1) ＞0.06
+                - intensity region 4 (4200~4300 cm-1) ＞0.045
 - 检测维修报告
     - 鲁西化工 MBGAS3000 [测量池][检测维修报告]
         - [上电加热]并[打开测量池]，[铝合金腔体]内部积尘、腐蚀严重。
