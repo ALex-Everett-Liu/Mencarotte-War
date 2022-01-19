@@ -81,6 +81,20 @@
                 - intensity region 2 (2050~2150 cm-1) ＞0.06
                 - intensity region 3 (3000~3100 cm-1) ＞0.06
                 - intensity region 4 (4200~4300 cm-1) ＞0.045
+- 故障诊断及调试校正
+    - 调试校正
+        - [首次安装]和维护时，需[按下表]对 MBGAS 3000 进行校正，具体要求[如下表所示。 -- 需进行光谱校正（Spectral Calibration）、FOV 特性 (FOV Characterization)、增益和补偿校正 (Gain and offset Calibration)、参考背景校正（Reference Calibration）。校正[步骤如下]：
+            - 1、准备工作
+                - （1）接通[主机电源]，[热机]3小时，同时[加热测量池]，[温度设置在]180 ℃；
+                    - 吹扫气：4 L/min；样气（进测量池）：5 L/min。
+                    - 吹扫气：露点-20℃，CO2 < 400 ppm；测量池压力：700-2000 mbar。
+                - （2）Install Java in PC，IP set to 10.0.0.3，网线连接仪器与 PC, Open `FTE Test Client`。
+                - （3）获取组分列表：在【Select Component】标签选择[待测组分]，then click `Update selected gas list`。
+                - （4）参考背景校正：测量池通入氮气，流速 5 L/min，吹扫气 4 L/min，稳定。在【Control】标签下，点击 [Acquire new reference]，等待进度条100%，点击 `Set [last reference] as [LKG Reference]`，背景完成。 #[[reference spectrum]]
+                - （5）查看仪器健康状态：点击【Control】标签下的[Get Analyzer Health Summary]，即可在【Log Message】标签下看到仪器状态。
+            - Spectral Calibration -- 安装时, every 4 months
+            - Reference Calibration -- every 12h, every 10℃
+                - （4）参考背景校正：测量池通入氮气，流速 5 L/min，吹扫气 4 L/min，稳定。在【Control】标签下，点击 [Acquire new reference]，等待进度条100%，点击 `Set [last reference] as [LKG Reference]`，背景完成。 #[[reference spectrum]]
 - 检测维修报告
     - 鲁西化工 MBGAS3000 [测量池][检测维修报告]
         - [上电加热]并[打开测量池]，[铝合金腔体]内部积尘、腐蚀严重。
