@@ -9,6 +9,8 @@
     - render excel-esque charts
     - [[text value]]
 - [[data collection]]; collecting the data
+    - acquire data; [[data acquisition]]
+        - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
 - [[data generator]]
 - [[data point]];
 - extracting data; extract information

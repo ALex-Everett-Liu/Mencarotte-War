@@ -23,8 +23,7 @@
         - [[标称值]]
     - 校正系数; 校正因子; 转换系数; calibration factor; [[correction factor]] (CF); [[response factor]]
     - 系统标定口;
-- [[Data Acquisition and Handling System (DAHS)]]
-    - [[data acquisition system (DAS)]]
+- [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
 - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
 - [[instrumentation]]: 器械操作, 仪器制造 

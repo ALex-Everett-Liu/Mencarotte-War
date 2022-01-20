@@ -17,7 +17,8 @@
     - navigation-system
     - previous page; next page
     - return to top of page
-- [[pane]]
+- [[pane]]: 窗格, 方框; 
+- [[panel]]: 嵌镶板, 仪表板, 格子; 
 - pin; [[pinned]]
 - [[scrollbar]]
 - [[sidebar]]
