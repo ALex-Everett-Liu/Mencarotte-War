@@ -64,7 +64,7 @@
             - A certification & training program for ABB Service 有资质并认证
 - MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf
 - 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf
-- FTE Test Client
+- [[FTE Test Client]]
     - 使用[网线]将 PC 与 MBGAS-3000 电气箱[外端接口][进行通讯]。
     - 修改电脑[IP地址]（10.0.0.2/5, 最后一位 2-255 皆可以，[主机IP地址] 10.0.0.1 ） -- 子网掩码 255.0.0.0
     - Analyzer Health 
@@ -81,6 +81,7 @@
                 - intensity region 2 (2050~2150 cm-1) ＞0.06
                 - intensity region 3 (3000~3100 cm-1) ＞0.06
                 - intensity region 4 (4200~4300 cm-1) ＞0.045
+- [[PLCATS]]
 - 故障诊断及调试校正
     - 调试校正
         - [首次安装]和维护时，需[按下表]对 MBGAS 3000 进行校正，具体要求[如下表所示。 -- 需进行光谱校正（Spectral Calibration）、FOV 特性 (FOV Characterization)、增益和补偿校正 (Gain and offset Calibration)、参考背景校正（Reference Calibration）。校正[步骤如下]：
