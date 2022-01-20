@@ -13,10 +13,12 @@
         - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
 - [[data generator]]
 - [[data point]];
+- [[data processing]]
 - extracting data; extract information
 - [[interpolation]]
 - interpreting the data;
 - [[meaningful data]]; [[random data]]
+- [[OriginLab]]
 - plot...
     - ray-fan plot
     - spot diagram

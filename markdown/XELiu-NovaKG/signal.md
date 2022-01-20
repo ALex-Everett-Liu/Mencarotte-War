@@ -12,6 +12,7 @@
     - [[generation-recombination noise]]
     - [[separate signal from noise]]
     - [[signal-to-noise ratio (SNR)]]
+- [[original signal]]
 - [[signal output]]
 - [[signal processing]]
 - relaying signals
