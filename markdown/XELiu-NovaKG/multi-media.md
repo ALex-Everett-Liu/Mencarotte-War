@@ -11,6 +11,5 @@
 - [[screen recording]]
     - [[screenshot]]
 - [[video]]
-    - [[digital video recorder (DVR)]]
 - [[visualization]]; [[visualize]]; [[computer visualization]]
     - visual thinking

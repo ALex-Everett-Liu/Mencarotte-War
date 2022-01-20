@@ -15,6 +15,10 @@
     - [[operation manual]]
     - [[reference manual]]
 - [[Q&A]]; [[FAQ]]
+    - question and answer site; 
+        - [[Stack Exchange]]
+        - [[Quora]]
+        - [[zhihu]]
 - [[tip]]
 - [[tutorial]]
     - [[beginner]]; from [[beginner]] to expert; [[beginner course]]

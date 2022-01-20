@@ -167,7 +167,9 @@ __缺点：易受温度影响__
     - x64/FTIR gas analyzer online -- IMG_20210713_174532.jpg
 - ---
 - # [[傅里叶红外光谱-翁诗甫]]
-- # ABB [[MBGAS-3000]] FT-IR
+- ABB 
+    - MB Series;
+        - [[MBGAS-3000]] FT-IR
 - # InSa FTIR
     - 荧飒光学 FTIR 测试报告
         - **Resolution Test**

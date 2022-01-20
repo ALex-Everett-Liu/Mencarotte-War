@@ -21,6 +21,7 @@
     - [[interfering gas]]
 - [[sample preparation]]
 - [[sampling rate]]
+- sample signal; 
 - [[sample spectrum]];
 - [[sampling system]]: 采样/取样系统; 采样分析状态
     - [[automatic sampling]]

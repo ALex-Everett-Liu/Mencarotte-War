@@ -1,5 +1,7 @@
+- [[digital video recorder (DVR)]]
 - [[video player]]
     - [[Pot Player]]
+- [[video processing]]
 - [[streaming media]]; streaming service; video site
     - [[bilibili]]
     - [[NicoNico]]; niconico
