@@ -32,7 +32,7 @@
         - 【日南めい】天文学 +73
         - 【日南めい】果仁糖 +60
         - 【熊子】一花依世界 +42
-        - 【熊子】I Really Like You 西班牙语版翻唱 +21
+        - 【熊子】I Really Like You 西班牙语版翻唱 +35
         - I Really Like You +33
         - 查理·普斯《See You Again》 + 30
     - webpage
