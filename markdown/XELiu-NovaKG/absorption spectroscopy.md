@@ -4,7 +4,7 @@
     - There is a wide range of experimental approaches for measuring absorption spectra. The most common arrangement is to direct a generated beam of radiation at a sample and detect the intensity of the radiation that passes through it. The transmitted energy can be used to calculate the absorption. The source, sample arrangement and detection technique vary significantly depending on the frequency range and the purpose of the experiment.
     - Following are the [major types of] absorption spectroscopy:[1]
         - **Sr. No** -- **Electromagnetic Radiation** -- **Spectroscopic type**
-2 - Ultraviolet–visible - UV–vis absorption spectroscopy
+2 - Ultraviolet–visible - [UV–vis absorption spectroscopy](((-t6dWNSlR)))
 3 - infrared - IR absorption spectroscopy
 5 - radio wave - [Electron spin resonance spectroscopy] -- nuclear magnetic resonance spectroscopy (NMR)
 - Experimental methods

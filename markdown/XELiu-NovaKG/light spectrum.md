@@ -25,12 +25,13 @@
         - [[near-infrared spectroscopy (NIRS)]]
     - infrared-passing filter
     - IR source; [[infrared source]]
-    - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
+    - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]; IR analyzer
     - [[rock-salt region]]
     - 在整个[电磁波谱]中[红外波段]的[热功率]最大，[红外辐射][主要是][热辐射]
 - [[microwave]] - (mm)
 - ultraviolet; [[ultraviolet light]]; ultraviolet radiation - 200~380 nm
     - UV lamp;
+    - [[ultraviolet-visible spectroscopy (UV-Vis)]]; UV–vis spectrometer; UV–vis absorption spectroscopy
     - [[vacuum ultraviolet (VUV)]]
 - [[visible light]]; visible frequency; visible-frequency; [[visible spectrum]]; visible band; visible range; [[visible region]] - 380~780 nm 
 - non-visible band;

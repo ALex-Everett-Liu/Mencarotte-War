@@ -10,9 +10,10 @@
     - [[dispersive element]]
     - [[grating spectrometer]]
     - [[scanning spectrometer]]
-- [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]
+- [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]; IR analyzer
 - [[microwave spectroscopy]]
 - [[molecular spectrum]]
+- online spectroscopy analysis; 在线光谱分析 
 - [[Raman spectroscopy]]
 - [[light scattering]]; [[wave scattering]]
 - [[spectral characteristics]]; [[spectral signature]]
@@ -26,12 +27,12 @@
     - 100% transmittance line; 
     - [[peak to peak]]; peak-to-peak; [[peak-peak]]; peak-peak value noise; peak-peak value SNR
     - transmitted radiant power; 
-- [[ultraviolet-visible spectroscopy (UV-Vis)]]
+- [[ultraviolet-visible spectroscopy (UV-Vis)]]; UV–vis spectrometer; UV–vis absorption spectroscopy
+    - [[ultraviolet analyzer]]
 - wavelength dependence; as a function of wavelength
 - [[wavenumber accuracy]]; [[wavelength accuracy]]
     - [[wavelength calibration]]
     - [[wavelength scale]]: 波长标度
-- 在线光谱分析 
 - ---
 - Spectroscopy is the study of [the interaction between matter and electromagnetic radiation](((-cguDKDJx))) [as a function of the wavelength or frequency of the radiation](((vRfAwVlfR))).[1][2][3][4][5][6] In simpler terms, spectroscopy is the precise study of color as generalized from visible light to [all bands of the electromagnetic spectrum]([[electromagnetic spectrum]]); indeed, historically, spectroscopy originated as the study of [the wavelength dependence of the absorption] by [[gas phase matter]] of visible light [dispersed by a prism]. Matter waves and acoustic waves can also be considered forms of [[radiative energy]], and recently [[gravitational wave]]s have been associated with a [[spectral signature]] in the context of the [[Laser Interferometer Gravitational-Wave Observatory (LIGO)]].
 210704-11:02
