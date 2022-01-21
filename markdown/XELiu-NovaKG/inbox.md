@@ -31,10 +31,12 @@
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +73
         - 【日南めい】果仁糖 +60
-        - 【熊子】一花依世界 +42
-        - 【熊子】I Really Like You 西班牙语版翻唱 +35
+        - 【熊子】一花依世界 +47
+        - 【熊子】I Really Like You 西班牙语版翻唱 +46
         - I Really Like You +33
         - 查理·普斯《See You Again》 + 30
+        - 【洛少爷/囧菌】小城谣（青梅竹马ver） +14
+        - 【洛少爷x封茗囧菌】花灯游 （青梅竹马ver） +9
     - webpage
         - DSC_8076-pt10-100
         - 8f5945 -- pt10-99.99
