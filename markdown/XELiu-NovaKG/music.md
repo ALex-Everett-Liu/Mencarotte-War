@@ -2,12 +2,14 @@
     - [[CD]]
 - [[audio]]
     - [[ASMR]]
+- Chinese music
+    - [[桃花笑 (taohua xiao)]]
 - [[dance]]
-- English?
+- English music
     - [[The Cascades]]
     - [[The Carpenters]]
     - [[Carly Rae Jepsen]]
-- Japan?
+- Japanese music
     - [[Bokalo Ongaku]]
     - [[JPOP]]
 - genre
