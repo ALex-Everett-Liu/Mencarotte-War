@@ -3,7 +3,9 @@
 - [[audio]]
     - [[ASMR]]
 - Chinese music
+    - [[青柠 (qingning)]]
     - [[桃花笑 (taohua xiao)]]
+    - [[小城谣 (xiaocheng yao)]]
 - [[dance]]
 - English music
     - [[The Cascades]]
