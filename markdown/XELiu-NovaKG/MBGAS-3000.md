@@ -64,6 +64,10 @@
             - A certification & training program for ABB Service 有资质并认证
 - MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf
 - 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf
+- 06 MBGAS-3000 service and repair v2
+    - MBGAS-3000 provides [[concentration]] values of 12 gases [in the current version] (SO 2 , NO, NO 2 , N 2 O, CO, CO 2 , NH 3 , HCl, HF, H 2 O, CH 4 , H 2 CO*) [but can support up to] 25 [simultaneous gases measurement].
+    - MBGAS-3000 为 [OEM 设备]([[original equipment manufacturer (OEM)]])，旨在集成到全球系统中，提供气体输入，检测池温度和压力控制及软件控制。
+    -  主要用于焚化炉设施及排放监测的工业公司。
 - [[FTE Test Client]]
     - 使用[网线]将 PC 与 MBGAS-3000 电气箱[外端接口][进行通讯]。
     - 修改电脑[IP地址]（10.0.0.2/5, 最后一位 2-255 皆可以，[主机IP地址] 10.0.0.1 ） -- 子网掩码 255.0.0.0
