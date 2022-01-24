@@ -1,5 +1,6 @@
 - anatomy
     - ocular anatomy: 眼部解剖
+- [[Chinese medicine]]
 - [[medical device]]
     - [[implantable medical device]]: 植入式医疗设备
 - [[diabetes]]: 糖尿病
