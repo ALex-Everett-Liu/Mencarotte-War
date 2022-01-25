@@ -29,10 +29,10 @@
         - last.fm; anyTXT 作詞; rasenna watashi; こめる; 手嶌葵;; asmr .txt; maple; 
         - baby/guiano by lidaa +94
         - sakura no tattoo - ura +60
-        - 【日南めい】天文学 +73
+        - 【日南めい】天文学 +79
         - 【日南めい】果仁糖 +60
         - 【熊子】一花依世界 +47
-        - 【熊子】I Really Like You 西班牙语版翻唱 +46
+        - 【熊子】I Really Like You 西班牙语版翻唱 +50
         - I Really Like You +33
         - 查理·普斯《See You Again》 + 30
         - 【洛少爷x封茗囧菌】花灯游 （青梅竹马ver） +9
