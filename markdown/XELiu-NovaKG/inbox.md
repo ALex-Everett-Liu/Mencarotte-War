@@ -26,7 +26,7 @@
         - https://archive.is/
     - ---
     - music
-        - last.fm; anyTXT 作詞; rasenna watashi; こめる; 手嶌葵;; asmr .txt; maple; 
+        - last.fm; anyTXT 作詞; rasenna watashi; こめる; 手嶌葵;; asmr .txt; 
         - baby/guiano by lidaa +94
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +79
