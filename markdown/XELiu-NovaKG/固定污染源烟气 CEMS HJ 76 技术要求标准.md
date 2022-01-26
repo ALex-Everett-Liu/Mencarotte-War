@@ -44,7 +44,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
         - [[进样流量]]变化的影响
             - $$V=\frac{P-T}{R} \times 100 \%$$
         - 供电电压变化的影响
-        - 干扰成分气体的影响
+        - [干扰成分气体]([[interfering gas]])的影响
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FcWWcSy7lOj.png?alt=media&token=38a25fba-e088-4467-bd38-c120925b0b14)
         - 振动的影响
         - 压力影响误差

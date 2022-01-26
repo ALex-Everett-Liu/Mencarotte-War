@@ -18,7 +18,10 @@
 - [[cosmological horizon]]
 - [[cosmic microwave background radiation (CBR)]]
 - [[measure problem in cosmology]]: 测度问题
+- [[Olbers' paradox]]
+- [[physical cosmology]]
 - [[quantum cosmology]]
+- static universe;
 - [[universe]]
     - the amount of matter in the universe; material content; matter content
     - [[observable universe]]
