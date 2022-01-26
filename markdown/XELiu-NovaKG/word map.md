@@ -257,6 +257,7 @@
                     - concise
                 - confer: 授予, 带来; 
                     - conference
+                - conjecture: 推测, 猜想
                 - contra
                     - contradict
                         - contradictory
