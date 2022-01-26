@@ -7,6 +7,9 @@
 211225-19:00, 19:40
     - Sabine Hossenfelder has demonstrated that the holographic principle is compatible with [Loop Quantum Gravity]([[loop quantum gravity]]) as well.[6]
 - [Black hole information paradox]([[black hole information paradox]])
-    - [Hawking's calculation] suggested that [the radiation which black holes emit] is [not related in any way to] [the matter that they absorb]. [The outgoing light rays] [start exactly at the edge of the black hole] and [spend a long time near the horizon], while [the infalling matter] [only reaches the horizon much later]. [The infalling and outgoing mass/energy interact] [only when they cross]. [It is implausible that] the [outgoing state] [would be completely determined by] [some tiny residual scattering].[citation needed]
+    - [Hawking's calculation] suggested that [the radiation which black holes emit] is [not related in any way to] [the matter that they absorb]. [The outgoing light rays] [start exactly at the edge of the black hole] and [spend a long time near the horizon], while [the infalling matter] [only reaches the horizon much later]. [The infalling and outgoing mass/energy interact] [only when they cross]. [It is implausible that] the [outgoing state] [would be completely determined by] [some tiny residual scattering].[citation needed] 残余散射
+(黑洞释放辐射量与其吸收辐射无关-射出的辐射和陷入黑洞的辐射尽在相交时才会有相互作用)
 211225-19:49
-    - Hawking interpreted this to mean that when black holes absorb some photons in a pure state described by a wave function, they re-emit new photons in a thermal mixed state described by a density matrix. This would mean that quantum mechanics would have to be modified because, in quantum mechanics, states which are superpositions with probability amplitudes never become states which are probabilistic mixtures of different possibilities.[note 1]
+    - [Hawking interpreted this to mean that] when [[black hole]]s [absorb some photons] in a [[pure state]] described by a [[wave function]], they [re-emit new photons] in a [[thermal mixed state]] described by a [[density matrix]]. [This would mean that] quantum mechanics [would have to be modified] because, in quantum mechanics, [states which are superpositions with](((PV4WEEVrV))) [[probability amplitude]]s [never become] states which are [probabilistic mixtures of different possibilities].[note 1]
+220126-13:15, 14:44
+(态叠加是对概率幅的叠加，)

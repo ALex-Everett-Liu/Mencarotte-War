@@ -6,4 +6,5 @@
 - [[separable state]]
 - [[stationary state]]
 - [[subsystem]]
+- [[thermal mixed state]]
 - 双态系统
