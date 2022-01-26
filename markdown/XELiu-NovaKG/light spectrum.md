@@ -35,11 +35,15 @@
     - [[vacuum ultraviolet (VUV)]]
 - [[visible light]]; visible frequency; visible-frequency; [[visible spectrum]]; visible band; visible range; [[visible region]] - 380~780 nm 
 - non-visible band;
-- [[radio wave]]
-- [[radio frequency]] - (m)
+- [[radio]]; [[radio wave]]; [[radio band]]
+    - [[radio communication]]
+    - [[radio frequency]] - (m)
 - [[selective]]; [[selectivity]]
     - select the wavelength;
 - [[single beam spectrum]]
+- [[terahertz radiation]]; THz beam
+    - submillimeter radiation; submillimeter band; submillimeter wave; 亚毫米波段
+    - [[terahertz technology]]
 - wavelength band; spectral band; spectral range
 - [[X-ray]]; x-ray
 - 光谱密度

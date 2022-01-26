@@ -1,6 +1,7 @@
-- campaign; [[campaign settings]]
+- campaign; [[campaign setting]]
 - multiple story endings; 
 - [[game design]]
+- [[game engine]]
 - [[game mechanics]]
 - [[game rule]]
 - [[gameplay]]
@@ -22,7 +23,7 @@
 - [[release]]
     - [[DLC]]
     - [[patch]]
-- [[role-playing game (RPG)]]; roleplaying game
+- [[role-playing game (RPG)]]; roleplaying game; role-playing video game
 - [[RTS]]
     - [[MOBA]]
 - sims management?

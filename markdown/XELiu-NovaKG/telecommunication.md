@@ -6,7 +6,6 @@
 - [[computer network]]; computer networking; [[network]]...
 - electrical and electronic telecommunications
     - [[radio communication]]
-        - [[radio]]
 - [[microwave engineering]]
     - [[microwave circuit]]
 - [[optical fiber]]; [[fiber]]; [[fibre]]; [[fibre optic telecommunication]]
@@ -34,6 +33,7 @@
 210411-10:48
             - [Visualization](https://en.wikipedia.org/wiki/File:Internet_map_1024.jpg) from the [[Opte Project]] of the [various routes] through [a portion of the Internet] #pt9
     - A revolution in [[wireless communication]] began [in the first decade of the 20th century] with the [pioneering developments] in [[radio communication]]s by [[Guglielmo Marconi]], who won the [Nobel Prize in Physics](((z8JLrf3Bc))) in 1909, and other notable [pioneering inventors] and developers in the field of [electrical and electronic telecommunications](((5tvnI3Fze))). These included Charles Wheatstone and Samuel Morse (inventors of the telegraph), Antonio Meucci and Alexander Graham Bell (some of the [inventors and developers] of the telephone, see Invention of the telephone), Edwin Armstrong and Lee de Forest (inventors of radio), as well as Vladimir K. Zworykin, John Logie Baird and Philo Farnsworth (some of the inventors of television).
+(无线通信和电信始于无线电通信-电话、电台、电视)
     - According to __Article 1.3__ of the Radio Regulations (RR), telecommunication is defined as __« Any [transmission], [emission] or reception of signs, signals, writings, images and sounds or intelligence of any nature by [wire], [radio], optical or other [electromagnetic] systems__.» [This definition is identical to] those contained in the Annex to the [Constitution and Convention of the International Telecommunication Union] (Geneva, 1992).
 - References
     - Citations

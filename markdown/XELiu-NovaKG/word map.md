@@ -902,7 +902,7 @@
                 - pend
                     - pendular
                         - pendulum
-                - penetrate
+                - penetrant; penetrate; 渗透, 穿透, 刺入
                     - impenetrate
                         - impenetrable;
             - per

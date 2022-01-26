@@ -14,9 +14,7 @@
 - [[Tactical Studies Rules, Inc. (TSR)]]
 - [[Underdark]]
 - video game
-    - [[Baldur's Gate]]
-        - [[Baldur's Gate 3]]
-    - [[Solasta: Crown of the Magister]]
+    - [[Dungeons & Dragons (DnD)]] CRPG
 - #inbox
     - dnd wiki #pt10-99.99
         - https://www.dandwiki.com/

@@ -5,7 +5,7 @@
     - [[image recording]]
 - [[media file repository]]
 - [[photograph]]; [[photography]]
-- [[radio]]
+- [[radio communication]]
     - [[radio station]]
 - renderer
 - [[screen recording]]

@@ -10,6 +10,7 @@
 - [[flexible]]; [[flexibility]]; flexible material
 - general...
     - withstand high temperatures
+- [[material characterization]]
 - the engineering of new materials;
 - [[nanotechnology]]
     - [[metamaterial]]
