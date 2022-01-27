@@ -1,7 +1,10 @@
 - [[conformal field theory (CFT)]]
 - [[Dirac field]]
+- non-perturbative formulation: 非微扰公式;
 - [[regularization]]
 - renormalize;
+- strongly coupled; strongly interacting
+    - [[strong-weak duality]]
 - [[Yang–Mills theory]]
 - #inbox
     - 量子场论[兼容性]太好了，以至于很难有什么“物理定律”层面的突破。连[宇宙学]都[纳入了场论框架]，暴胀、暗物质等等都[在这个框架中寻找模型](https://www.zhihu.com/question/453546423/answer/1825929609)。 #pt8-99.99

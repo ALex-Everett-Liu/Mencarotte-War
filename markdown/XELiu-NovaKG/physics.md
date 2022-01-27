@@ -80,7 +80,7 @@
 - [[mathematical method]]
 - [[mathematical modeling]]
 - [[nuclear physics]]
-- [[particle physics]]; [[high-energy physics]];
+- [[particle physics]]; [[high-energy physics]]; [[high energy physics]]
 - physicist
     - [[Descartes]]
         - [[Principia Philosophiae]]

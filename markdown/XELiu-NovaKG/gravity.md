@@ -1,4 +1,5 @@
 - [[gravitational field]]
+- [[gravitational theory]]
 - [[gravitational wave]]
     - [[Laser Interferometer Gravitational-Wave Observatory (LIGO)]]
     - [[spectral characteristics]]; [[spectral signature]]
