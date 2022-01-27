@@ -28,7 +28,7 @@
     - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]; IR analyzer
     - [[rock-salt region]]
     - 在整个[电磁波谱]中[红外波段]的[热功率]最大，[红外辐射][主要是][热辐射]
-- [[microwave]] - (mm)
+- [[microwave]] - (mm); microwave band
 - ultraviolet; [[ultraviolet light]]; ultraviolet radiation - 200~380 nm
     - UV lamp;
     - [[ultraviolet-visible spectroscopy (UV-Vis)]]; UV–vis spectrometer; UV–vis absorption spectroscopy

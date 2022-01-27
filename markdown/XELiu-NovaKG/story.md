@@ -9,5 +9,6 @@
 - open-ended
 - [[story/plot]]
     - story or plot outline;
+- [[story-driven]]
 - storyline
 - storyteller
