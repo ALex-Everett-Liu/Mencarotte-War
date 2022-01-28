@@ -23,6 +23,7 @@
     - [[virtues and vices]]
 - [[ontology]]: 存在论, 实体论, [本体论]; [[ontological]]
 - [[philosopher]]
+    - [[Greek philosopher]]
 - [[priori ]]
 - [[science philosophy]]...
 - [[skepticism]]

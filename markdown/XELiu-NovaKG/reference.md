@@ -1,6 +1,7 @@
 - [[annotation]]
 - [[block reference]]; referenced block
 - [[citation]]
+    - [[CITEREF]]
 - [[commentary]]; [[commentator]]
 - [[cross-reference]]; [[crosslink]]
 - [[footnote]]

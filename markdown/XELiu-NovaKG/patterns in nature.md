@@ -1,2 +1,4 @@
 - Patterns in nature are [visible regularities](((jCBLIut7Q))) of form found in the [[natural world]]. These patterns [recur in different contexts] 不同语境下再现/反复出现 and can sometimes be [modelled mathematically]([[mathematical modeling]]). Natural patterns include [symmetries]([[symmetry]]), trees, [[spiral]]s, meanders, waves, [[foam]]s, tessellations, [[crack]]s and [[stripe]]s.[1] 
 201222-00:03
+    - [1]: [Stevens, Peter S.] (1974). __Patterns in Nature__. [Little, Brown & Co]. -- [Stevens 1974](https://en.wikipedia.org/wiki/Patterns_in_nature#CITEREFStevens1974), p. 3. #CITEREF
+    - Early [[Greek philosopher]]s studied pattern, with [[Plato]], [[Pythagoras]] and [[Empedocles]] [attempting to explain] [[order]] in nature. The [modern understanding] of [visible patterns] [developed gradually] over time.
