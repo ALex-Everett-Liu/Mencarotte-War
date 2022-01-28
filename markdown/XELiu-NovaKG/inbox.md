@@ -30,7 +30,7 @@
         - baby/guiano by lidaa +94
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +83
-        - 【日南めい】果仁糖 +62
+        - 【日南めい】果仁糖 +66
         - 【熊子】一花依世界 +47
         - 【熊子】I Really Like You 西班牙语版翻唱 +50
         - I Really Like You - Carlie R Jepson +33

@@ -28,6 +28,7 @@ and nothing can return. (I, 11)
         - In [[Hindu mythology]], [the river of the cosmos] is portrayed with the [sacred image] of [Shiva dancing]: his dance [supports the coursing of the universe]; 宇宙的运行 it is itself [the flowing of time]. [What could be more] [universal and obvious] than this flowing?
 211205-10:00
         - [And yet things are somewhat] [more complicated than this]. [[reality]] is [often very different from] [what it seems]. [The Earth appears to be flat] but is in fact spherical. The sun seems to [revolve in the sky] [when it is really we who are spinning]. Neither is [the structure of time] [what it seems to be]: it is different from this uniform, universal flowing. I discovered this, to my utter astonishment, in the [physics books] I read [as a university student]: time [works quite differently from] [the way it seems to].
+(实在并不似其表面所见)
             - To my utter astonishment, she remembered my name. 使我万分惊讶 《牛津高阶英汉双解词典》
             - To my utter astonishment, she said it was because [it made her feel stupid]. www.[antpedia].com
             - In those same books [I also discovered that] [we still don’t know] [how time actually works]. The nature of time is perhaps [the greatest remaining mystery]. [Curious threads] connect it to those other [great open mysteries]: the nature of mind, the origin of the universe, the fate of black holes, [the very functioning of] [life on Earth]. [Something essential] continues to [draw us back to] [the nature of time](((9x_zRFN_B))).
