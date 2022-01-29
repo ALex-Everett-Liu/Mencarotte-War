@@ -1,3 +1,7 @@
+- microscopically random; 
+- [[relativistic gas]]
+    - [[hot gas]]
+- ---
 - "[[holographic universe]]" redirects here. For the Scar Symmetry album, see Holographic Universe (album). For the Epica album, see The Holographic Principle.
 - The holographic principle is [a tenet of string theories]([[string theory]]) and [a supposed property of quantum gravity] that states that the description of [a volume of space] [can be thought of as] [encoded on a lower-dimensional boundary to the region]—such as a [[light-like boundary]] like a [[gravitational horizon]]. First proposed by [[Gerard 't Hooft]], it was given [a precise string-theory interpretation] by [[Leonard Susskind]],[1] who [combined his ideas with] [previous ones] of 't Hooft and [[Charles Thorn]]. [1][2] 
 (一块高维空间的全部信息可以编码于该区域的低维边界-引力视界的类光边界)
@@ -17,6 +21,21 @@
 (强弱相互作用对偶-弱相互作用在数学上更易于处理)
 220128-00:40
     - The AdS/CFT correspondence was [first proposed by] [[Juan Maldacena]] in late 1997. [Important aspects of] the correspondence were [elaborated in articles by] Steven Gubser, Igor Klebanov, and Alexander Markovich Polyakov, and by Edward Witten. By 2015, Maldacena's article [had over 10,000 citations], becoming [the most highly cited article](((uAP2WoJYY))) [in the field of] [[high energy physics]].[9]
+- [Black hole entropy]([[black hole entropy]])
+    - An object [with relatively high entropy](((gOE3b7p-n))) is [microscopically random](((Fiiu8kM5p))), like a [hot gas]. [A known configuration of] [[classical field]]s has [[zero entropy]]: [there is nothing random about] [electric and magnetic fields], or gravitational waves. Since black holes are [exact solutions] of [[Einstein's equation]]s, [they were thought not to have] any entropy either.
+220129-19:43
+(高熵的物体在微观上随机性较强-经典场的零熵态)
+        - But [[Jacob Bekenstein]] noted that this [leads to a violation of] [[the second law of thermodynamics]]. If one throws [a hot gas with entropy]([[hot gas]]) into a black hole, once it crosses the [[event horizon]], the entropy would disappear. The [random properties](((Fiiu8kM5p))) of the gas [would no longer be seen] [once the black hole had absorbed the gas] and settled down. One way of [salvaging the second law] is if black holes are in fact [random objects with an entropy] that [increases by an amount greater than] [the entropy of the consumed gas].
+(假设黑洞有熵，是具有随机性的物体 - 当任意的高熵的随机性物质被吞入黑洞的事件视界后，黑洞的熵增大，且大于被其吞噬的物质)
+220129-19:57
+        - Bekenstein assumed that black holes are [[maximum entropy object]]s—that they [have more entropy than anything else] [in the same volume]. In a sphere of radius R, the entropy in a [[relativistic gas]] increases [as the energy increases]. [The only known limit is] gravitational; [when there is too much energy] the gas [collapses into a black hole](((4yVoRAzZf))). Bekenstein used this to put an [[upper bound]] on the entropy [in a region of space], and [the bound was proportional to] [the area of the region]. He concluded that the [[black hole entropy]] is directly proportional to [the area of the event horizon].[10] 
+            - [[gravitational time dilation]] 膨胀/扩张 causes time, [from the perspective of] a [[remote observer]], to stop at the event horizon. Due to the [natural limit] on [maximum speed of motion], this prevents [falling objects] from [crossing the event horizon] [no matter how close they get to it]. Since any change in quantum state [requires time to flow], all objects and their [quantum information state] [stay imprinted on the event horizon]. Bekenstein concluded that from the perspective of any remote observer, the black hole entropy is [directly proportional to] [the area of the event horizon].
+(给定体积内，能量增大，物体的熵随之增大-能量过大时，由于引力作用，物体将坍缩为黑洞-熵的上限，正比于表面积-黑洞熵正比于事件视界的表面积)
+220129-20:28
+        - Stephen Hawking had shown earlier that the total horizon area of a collection of black holes always increases with time. The horizon is a boundary defined by light-like geodesics; it is those light rays that are just barely unable to escape. If neighboring geodesics start moving toward each other they eventually collide, at which point their extension is inside the black hole. So the geodesics are always moving apart, and the number of geodesics which generate the boundary, the area of the horizon, always increases. Hawking's result was called the second law of black hole thermodynamics, by analogy with the law of entropy increase, but at first, he did not take the analogy too seriously.
+        - Hawking knew that if the horizon area were an actual entropy, black holes would have to radiate. When heat is added to a thermal system, the change in entropy is the increase in mass-energy divided by temperature:
+$$\mathrm{d} S=\frac{\rm {\delta }M c^{2}}{T}$$.
+        - (Here the term δM c2 is substituted for the thermal energy added to the system, generally by non-integrable random processes, in contrast to dS, which is a function of a few "state variables" only, i.e. in conventional thermodynamics only of the Kelvin temperature T and a few additional state variables as, e.g., the pressure.)
 - [Black hole information paradox]([[black hole information paradox]])
     - [Hawking's calculation] suggested that [the radiation which black holes emit] is [not related in any way to] [the matter that they absorb]. [The outgoing light rays] [start exactly at the edge of the black hole] and [spend a long time near the horizon], while [the infalling matter] [only reaches the horizon much later]. [The infalling and outgoing mass/energy interact] [only when they cross]. [It is implausible that] the [outgoing state] [would be completely determined by] [some tiny residual scattering].[citation needed] 残余散射
 (黑洞释放辐射量与其吸收辐射无关-射出的辐射和陷入黑洞的辐射尽在相交时才会有相互作用)

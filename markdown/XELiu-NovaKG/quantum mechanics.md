@@ -22,6 +22,7 @@
 - [[quantization]]; quantized
 - [[quantum chemistry]]
 - [[quantum field]]; [[quantum field theory]]
+    - [[classical field]]
 - [[quantum fluctuation]]
 - [[quantum information]]
 - [[quantum interpretation]]

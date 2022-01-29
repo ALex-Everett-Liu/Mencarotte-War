@@ -1,8 +1,11 @@
 - disordering; 
+- high entropy; 
 - increase entropy
 - [[low-entropy state]]; lower entropy
+- [[maximum entropy]]
 - radiative distribution of entropy
 - [[statistical entropy]]
+- [[zero entropy]]
 - #inbox
     - “[We can therefore say that] W0 (entropy) measures our [degree of ignorance] as to the [true unknown microstate], when [the only information we have] consists of the [macroscopic thermodynamic parameters]”
 于是我们可以说，熵[度量了]我们对真实的[未知微观态]的[无知程度]，[此时我们所知的仅限于][宏观热力学参数] （[斜体字][出自原文]，非本人所加） - Jaynes，1965[1]   #pt10-100

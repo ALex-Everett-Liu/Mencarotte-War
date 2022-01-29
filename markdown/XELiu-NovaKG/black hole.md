@@ -3,6 +3,7 @@
 - [[black hole thermodynamics]]
     - [[maximal entropy]]
 - the center of a black hole
+- collapse into a black hole: 坍缩成黑洞; 
 - the end of collapsing stars
 - [[event horizon]]
     - [[surface fluctuation]]
