@@ -1,4 +1,4 @@
-- microscopically random; 
+- [[random process]]
 - [[relativistic gas]]
     - [[hot gas]]
 - ---
@@ -32,10 +32,14 @@
             - [[gravitational time dilation]] 膨胀/扩张 causes time, [from the perspective of] a [[remote observer]], to stop at the event horizon. Due to the [natural limit] on [maximum speed of motion], this prevents [falling objects] from [crossing the event horizon] [no matter how close they get to it]. Since any change in quantum state [requires time to flow], all objects and their [quantum information state] [stay imprinted on the event horizon]. Bekenstein concluded that from the perspective of any remote observer, the black hole entropy is [directly proportional to] [the area of the event horizon].
 (给定体积内，能量增大，物体的熵随之增大-能量过大时，由于引力作用，物体将坍缩为黑洞-熵的上限，正比于表面积-黑洞熵正比于事件视界的表面积)
 220129-20:28
-        - Stephen Hawking had shown earlier that the total horizon area of a collection of black holes always increases with time. The horizon is a boundary defined by light-like geodesics; it is those light rays that are just barely unable to escape. If neighboring geodesics start moving toward each other they eventually collide, at which point their extension is inside the black hole. So the geodesics are always moving apart, and the number of geodesics which generate the boundary, the area of the horizon, always increases. Hawking's result was called the second law of black hole thermodynamics, by analogy with the law of entropy increase, but at first, he did not take the analogy too seriously.
-        - Hawking knew that if the horizon area were an actual entropy, black holes would have to radiate. When heat is added to a thermal system, the change in entropy is the increase in mass-energy divided by temperature:
+        - Stephen Hawking [had shown earlier that] the total [[horizon area]] of [a collection of black holes] [always increases with time]. The horizon is a boundary defined by [[light-like geodesic]]s; it is those [[light ray]]s that are just [barely unable to escape]. If [neighboring geodesics] [start moving toward each other] they [eventually collide], at which point their extension is [inside the black hole]. So the geodesics are always [moving apart], and [the number of geodesics] which [generate the boundary], the area of the horizon, always increases. Hawking's result was called [the second law of black hole thermodynamics](((bgcguOkLH))), by analogy with [the law of entropy increase](((6jUysxvZP))), but at first, he [did not take the analogy too seriously].
+220129-23:20
+(黑洞的总视界面积总是随着时间增加-类光测地线定义了视界边界-测地线总是在相互远离中，因此视界面积总是在增加-黑洞热力学第二定律-类似熵增定律)
+            - Hawking knew that if the horizon area were [an actual entropy], black holes [would have to radiate](((qUmI6Te6S))). [When heat is added to] a [[thermal system]], [the change in entropy] is the increase in mass-energy divided by temperature:
 $$\mathrm{d} S=\frac{\rm {\delta }M c^{2}}{T}$$.
-        - (Here the term δM c2 is substituted for the thermal energy added to the system, generally by non-integrable random processes, in contrast to dS, which is a function of a few "state variables" only, i.e. in conventional thermodynamics only of the Kelvin temperature T and a few additional state variables as, e.g., the pressure.)
+                - (Here the term $$\rm {\delta }M c^{2}$$ is [substituted for](((BhOF9A9X_))) the [[thermal energy]] [added to the system], generally by [non-integrable random processes](((U52AehBuu))), 通常由不可积随机过程产生 in contrast to dS, which is a function of a few "[[state variable]]s" only, i.e. 也就是 in [conventional thermodynamics] only of the [[Kelvin temperature]] T and a few [additional state variables] as, e.g., the pressure.)
+220129-23:33
+                    - [Conventional equilibrium thermodynamics] 常规平衡态热力学 [has long been recognized as] [one of the most important cornerstone of] the theory of [heterogeneous catalysis], [多相催化理论]的[基石之一] but it is not suited quite well to generalize the state and behavior of [operating catalysts]. dict.cnki.net
 - [Black hole information paradox]([[black hole information paradox]])
     - [Hawking's calculation] suggested that [the radiation which black holes emit] is [not related in any way to] [the matter that they absorb]. [The outgoing light rays] [start exactly at the edge of the black hole] and [spend a long time near the horizon], while [the infalling matter] [only reaches the horizon much later]. [The infalling and outgoing mass/energy interact] [only when they cross]. [It is implausible that] the [outgoing state] [would be completely determined by] [some tiny residual scattering].[citation needed] 残余散射
 (黑洞释放辐射量与其吸收辐射无关-射出的辐射和陷入黑洞的辐射尽在相交时才会有相互作用)

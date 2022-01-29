@@ -11,3 +11,4 @@
 - [[thermal equilibrium]]
     - [[random fluctuation]]; [[thermal fluctuation]]
     - [[thermodynamic equilibrium]]; [[thermodynamic equilibrium state]]
+- [[thermal system]]

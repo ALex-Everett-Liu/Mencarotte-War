@@ -1204,8 +1204,8 @@
                     - submit
                     - substance, 2
                         - substantial
-                    - substitute: 替换; 置换; 取代; 代换; 代入
-                        - substitution;
+                    - substitute: 代替, 替换, 置换, 取代; 代换, 代入
+                        - substitution; substituted
                     - subtract
                         - subtraction;
             - suffice

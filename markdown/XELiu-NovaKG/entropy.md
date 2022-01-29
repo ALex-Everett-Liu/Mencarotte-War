@@ -1,6 +1,6 @@
 - disordering; 
 - high entropy; 
-- increase entropy
+- increase entropy; entropy increase law
 - [[low-entropy state]]; lower entropy
 - [[maximum entropy]]
 - radiative distribution of entropy

@@ -1,0 +1,2 @@
+- microscopically random; 
+- non-integrable random process;

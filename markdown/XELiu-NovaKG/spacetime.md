@@ -15,6 +15,7 @@
 - event network; 
 - [[light cone]]
 - [[light-like boundary]]
+    - [[light-like geodesic]]: 类光测地线
 - Minkowski space
     - Minkowski vacuum
 - [[Planck time]]

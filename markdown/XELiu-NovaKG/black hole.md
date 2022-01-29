@@ -2,12 +2,14 @@
 - [[black hole information paradox]]
 - [[black hole thermodynamics]]
     - [[maximal entropy]]
+    - the second law of black hole thermodynamics
 - the center of a black hole
 - collapse into a black hole: 坍缩成黑洞; 
 - the end of collapsing stars
 - [[event horizon]]
+    - [[horizon area]]: 视界面积
     - [[surface fluctuation]]
-- [[Hawking radiation]]
+- [[Hawking radiation]]; black hole radiation
 - [[quantum black hole]]
 - ---
 - 
