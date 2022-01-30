@@ -1,9 +1,14 @@
 - extra spatial dimensions
 - [[M-theory]]
+    - [[brane]]
+        - [[D0 brane]]
+        - [[11-dimensional supergravity]]
     - [[cosmic hologram]]; [[hologram]]
+- non-perturbative formulation: 非扰动形式; 
 - [[short string]]
     - long highly excited string state; 
 - [[superstring theory]]
+- [[type IIA string theory]]
 - [[world sheet]]; world-sheet theory
 - ---
 - [[cross section]] of the quintic [[Calabi–Yau manifold]].

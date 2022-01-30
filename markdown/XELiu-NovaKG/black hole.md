@@ -11,6 +11,8 @@
     - [[horizon area]]: 视界面积
     - [[surface fluctuation]]
 - [[Hawking radiation]]; black hole radiation
+- [[point black hole]]
+    - charged point black hole; 
 - [[quantum black hole]]
 - ---
 - 
