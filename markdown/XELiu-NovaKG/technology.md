@@ -6,6 +6,7 @@
     - [[technologist]]
 - [[hardware]]; [[electronic hardware]]; [[hardware development]]
 - [[information science]]; [[information technology (IT)]]
+    - [[information theory]]
 - [[information security]]
 - [[Internet of Things (IoT)]]
 - [[library science]]

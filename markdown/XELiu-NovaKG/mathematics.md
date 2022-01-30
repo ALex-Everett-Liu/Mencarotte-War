@@ -21,6 +21,7 @@
     - zero-crossing; zero crossing
 - [[geometry]]
 - [[group theory]]
+- [[information theory]]
 - [[Lie group]]
 - [[linear algebra]]
 - [[logic]]

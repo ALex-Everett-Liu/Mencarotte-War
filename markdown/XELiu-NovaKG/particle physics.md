@@ -1,6 +1,6 @@
 - [[antimatter]]
 - baryonic matter
-- [[elementary particle]]
+- [[elementary particle]]; fundamental particle
 - general...
     - dot particle model
     - internal structure
@@ -12,6 +12,7 @@
         - subatomic particle; sub-atomic particle; [[submicroscopic particle]]
 - [[particle detector]]
 - [[proton]]
+- subdivided infinitely; 
 - [[theoretical physics]]; [[theoretical physicist]]
 - [[virtual particle]]
     - [[non-virtual particle]];

@@ -1,4 +1,6 @@
 - [[Bekenstein bound]]
+- [[black hole entropy]]
+    - [[entropy density]]
 - [[black hole information paradox]]
 - [[black hole thermodynamics]]
     - [[maximal entropy]]

@@ -1,6 +1,7 @@
 - configured microscopically; 
     - macroscopic description; 
 - disordering; 
+- [[Gibbs entropy]]
 - high entropy; 
 - increase entropy; entropy increase law
 - [[low-entropy state]]; lower entropy
