@@ -1,3 +1,5 @@
+- configured microscopically; 
+    - macroscopic description; 
 - disordering; 
 - high entropy; 
 - increase entropy; entropy increase law

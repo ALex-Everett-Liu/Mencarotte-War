@@ -1,6 +1,7 @@
 - [[random process]]
 - [[relativistic gas]]
     - [[hot gas]]
+    - thermal gas of photons; 
 - ---
 - "[[holographic universe]]" redirects here. For the Scar Symmetry album, see Holographic Universe (album). For the Epica album, see The Holographic Principle.
 - The holographic principle is [a tenet of string theories]([[string theory]]) and [a supposed property of quantum gravity] that states that the description of [a volume of space] [can be thought of as] [encoded on a lower-dimensional boundary to the region]—such as a [[light-like boundary]] like a [[gravitational horizon]]. First proposed by [[Gerard 't Hooft]], it was given [a precise string-theory interpretation] by [[Leonard Susskind]],[1] who [combined his ideas with] [previous ones] of 't Hooft and [[Charles Thorn]]. [1][2] 
@@ -40,6 +41,14 @@ $$\mathrm{d} S=\frac{\rm {\delta }M c^{2}}{T}$$.
                 - (Here the term $$\rm {\delta }M c^{2}$$ is [substituted for](((BhOF9A9X_))) the [[thermal energy]] [added to the system], generally by [non-integrable random processes](((U52AehBuu))), 通常由不可积随机过程产生 in contrast to dS, which is a function of a few "[[state variable]]s" only, i.e. 也就是 in [conventional thermodynamics] only of the [[Kelvin temperature]] T and a few [additional state variables] as, e.g., the pressure.)
 220129-23:33
                     - [Conventional equilibrium thermodynamics] 常规平衡态热力学 [has long been recognized as] [one of the most important cornerstone of] the theory of [heterogeneous catalysis], [多相催化理论]的[基石之一] but it is not suited quite well to generalize the state and behavior of [operating catalysts]. dict.cnki.net
+                - If black holes have a [finite entropy], [they should also have] a [finite temperature]. In particular, they would [come to equilibrium]([[thermal equilibrium]]) with a [thermal gas of photons](((aodnHMhfh))). This means that black holes would not only [absorb photons], [but they would also have to] [emit them in the right amount] to [maintain detailed balance].
+(黑洞熵有限大，则温度也是有限大-内部的热光子气体会达到热平衡态-所以吸收光子和释放光子的比例是一定的)
+220130-09:43
+            - [Time-independent solutions](((ZVZkuj5U-))) to [[field equation]]s do not [emit radiation](((dkZTrHmgp))), because a [time-independent background] [conserves energy]. Based on this principle, Hawking [set out to show that] [black holes do not radiate]. But, to his surprise, a [careful analysis] [convinced him that] they do, and [in just the right way to] come to equilibrium [with a gas at a finite temperature]. [Hawking's calculation] fixed [the constant of proportionality] at 1/4; the entropy of a black hole is one quarter its horizon area [in Planck units].[11]
+220130-09:57
+                - The entropy is proportional to the logarithm of [the number of microstates]([[microstate]]), the [enumerated ways] a system can be [configured microscopically](((K0gUEGMkY))) 进行微观配置的列举方式 [while leaving the macroscopic description unchanged](((QS33ZVCnw))). 在宏观描述不变的情况下 Black hole entropy is [deeply puzzling] – it says that the logarithm of [the number of states of] a black hole is [proportional to the area of the horizon], not [the volume in the interior].[12]
+220130-10:40
+            - Later, Raphael Bousso came up with [a covariant version of the bound] based upon [null sheets].[13]
 - [Black hole information paradox]([[black hole information paradox]])
     - [Hawking's calculation] suggested that [the radiation which black holes emit] is [not related in any way to] [the matter that they absorb]. [The outgoing light rays] [start exactly at the edge of the black hole] and [spend a long time near the horizon], while [the infalling matter] [only reaches the horizon much later]. [The infalling and outgoing mass/energy interact] [only when they cross]. [It is implausible that] the [outgoing state] [would be completely determined by] [some tiny residual scattering].[citation needed] 残余散射
 (黑洞释放辐射量与其吸收辐射无关-射出的辐射和陷入黑洞的辐射尽在相交时才会有相互作用)

@@ -5,6 +5,7 @@
     - [[initial time]]
     - [[time dependence]]
         - [[time-independent Hamiltonian]]
+        - time-independent solution;
     - [[time-domain function]]
     - [[time evolution]]
 - [[timepiece]]: 时钟;
