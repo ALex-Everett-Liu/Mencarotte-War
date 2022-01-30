@@ -1,4 +1,5 @@
 - agnostic position; [[agnosticism]]: 不可知论
+- [[classical interpretation]]
 - [[Copenhagen interpretation]]
     - orthodox position; orthodox interpretation
 - [[hidden variable]]

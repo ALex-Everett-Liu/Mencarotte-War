@@ -1,1 +1,2 @@
+- [[outside observer]]
 - [[remote observer]]

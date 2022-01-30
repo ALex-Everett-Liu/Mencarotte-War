@@ -15,7 +15,7 @@
 - [[relative motion]]
     - [[nonrelativistic motion]]
 - [[relativistic condition]]
-- space and time; [[spacetime]]
+- space and time; [[spacetime]]; [[space-time]]
 - [[special theory of relativity]]; [[special relativity]]
 - [[time]]...
     - expanded present; 

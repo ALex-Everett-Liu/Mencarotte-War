@@ -7,6 +7,7 @@
 - collapse into a black hole: 坍缩成黑洞; 
 - the end of collapsing stars
 - [[event horizon]]
+    - deformed horizon; 
     - [[horizon area]]: 视界面积
     - [[surface fluctuation]]
 - [[Hawking radiation]]; black hole radiation

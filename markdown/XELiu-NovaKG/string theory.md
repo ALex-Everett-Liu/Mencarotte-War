@@ -1,7 +1,10 @@
 - extra spatial dimensions
 - [[M-theory]]
     - [[cosmic hologram]]; [[hologram]]
+- [[short string]]
+    - long highly excited string state; 
 - [[superstring theory]]
+- [[world sheet]]; world-sheet theory
 - ---
 - [[cross section]] of the quintic [[Calabi–Yau manifold]].
     - [Produced using the methods described in] Hanson (1994), "A construction for [[computer visualization]] of [certain complex curves]", __Notices of the Amer.Math.Soc.__ **41**(9): 1156–1163.
