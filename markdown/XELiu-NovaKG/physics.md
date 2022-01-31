@@ -50,7 +50,7 @@
         - [[physical science]]
         - [[physical system]]
         - physical theory
-        - [[physical world]]
+        - [[physical world]]; [[physical universe]]
     - [[scale]], scope...
     - time
         - at any given time: 某个给定的时间; at any particular time

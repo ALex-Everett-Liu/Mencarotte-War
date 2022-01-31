@@ -1141,15 +1141,18 @@
         - sp
             - space
                 - workspace;
-            - special
-                - especial
-                    - especially, 2;
-                - specially;
-                - specific, 4; specifically;
-                - specified; specify: 指定;
-            - spectacle
-                - spectate
-                    - spectacle; spectacular: zhuangguan41, yinrenzhumu3244; spectacularly
+            - spe
+                - special
+                    - especial
+                        - especially, 2;
+                    - specially;
+                    - specific, 4; specifically;
+                    - specified; specify: 指定;
+                - spectacle
+                    - spectate
+                        - spectacle; spectacular: zhuangguan41, yinrenzhumu3244; spectacularly
+                - speculate: 推测, 思索; 投机买卖;
+                    - speculative
             - spire
                 - aspire: 热望, 立志
                     - aspiring: 抱负, 志气;
