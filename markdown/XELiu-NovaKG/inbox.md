@@ -61,8 +61,11 @@
             - https://www.zhihu.com/people/yong-le-da-di-ming-cheng-zu
             - https://www.zhihu.com/people/dong-li-zhuang-jia-yi-yang-zao-62
     - novel
-        - 丝路大亨; 重生传奇; 吾家有妻骄养成; 替宋; 网游之少爷天下
-        - 御姐; 
+        - 丝路大亨; 替宋; 你的帝国/你的谥号 (独阅读)
+        - 重生传奇; 吾家有妻骄养成; 网游之少爷天下
+        - 御姐; 女神代行者 (阿米巴星球); 听雪谱
+        - 欧陆无双马友夫; 生存斗争; 大航海时代的爱因斯坦; 弗雷尔卓德的孤狼
+        - 大穿越时代; 
     - work
         - SF Express 最终同意按比例赔付250元
 - roam - function test

@@ -1,4 +1,6 @@
 - [[information content]]
+    - [[information quantity]]
 - [[information density]]
     - [[entropy density]]
 - [[information entropy]]
+- [[Shannon entropy]]
