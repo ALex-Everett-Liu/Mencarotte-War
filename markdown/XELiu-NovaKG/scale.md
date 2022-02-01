@@ -3,13 +3,13 @@
     - [[large-scale structure]]
 - [[macroscopic scale]]; [[macroscopic level]];
     - [[macrostate]]
-    - ordinary scale
+    - [[ordinary scale]]
 - [[microscopic scale]]; [[microscopic level]]; microscopic system
     - atomic-scale entity
     - microscopic phenomena; microscopic behaviour
     - [[microstate]]
     - [[nanometer scale]]; nanometer-scale object; nanoscale metal object
-    - small scale
+    - [[small scale]]
     - subatomic scale; subatomic domain;
     - deep subwavelength scale
 - [[Planck scale]]
