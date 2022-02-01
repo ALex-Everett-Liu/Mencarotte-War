@@ -1,3 +1,5 @@
+- agency...
+    - [[European Space Agency]]
 - [[astrology]]
 - [[astronomy]]; astronomer
     - astronomical spectroscopy
@@ -5,7 +7,9 @@
         - [[asteroid]]
         - [[planet]]
 - [[cosmology]]
+- [[gamma ray burst]]
 - [[interstellar space]]
     - [[interstellar medium]]
+- [[space observatory]]
 - [[space science]]
 - [[telescope]]; telescopic instrument

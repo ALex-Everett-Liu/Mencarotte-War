@@ -8,6 +8,7 @@
 - [[maximum entropy]]
 - radiative distribution of entropy
 - [[statistical entropy]]
+- [[thermodynamic entropy]]
 - [[zero entropy]]
 - #inbox
     - “[We can therefore say that] W0 (entropy) measures our [degree of ignorance] as to the [true unknown microstate], when [the only information we have] consists of the [macroscopic thermodynamic parameters]”

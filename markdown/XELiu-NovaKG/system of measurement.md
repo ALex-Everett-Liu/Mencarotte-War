@@ -2,7 +2,7 @@
 - [[International System of Units (SI)]]; 公制单位
 - [[metric system]]
 - objective measure: 客观度量;
-- [[unit]]; [[unit of measurement]]
+- [[unit]]; [[unit of measurement]]; [[unit of measure]]
 - United States customary system
 - length, distance...
     - [[inch]]

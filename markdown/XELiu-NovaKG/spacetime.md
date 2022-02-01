@@ -27,6 +27,7 @@
     - three-dimensional space; three dimensional space
 - space orientation; 
 - space region;
+- [[spatial position]]
 - [[closed temporal line]]
     - [[time travel]]; travel/journey to the past; 穿越时空
 - [[time arrow]]; time direction

@@ -8,8 +8,6 @@
 - [[current signal]]
 - [[multiplex]]: 多路复用
 - [[noise]]
-    - [[baseline noise]]
-    - [[generation-recombination noise]]
     - [[separate signal from noise]]
     - [[signal-to-noise ratio (SNR)]]
 - [[original signal]]

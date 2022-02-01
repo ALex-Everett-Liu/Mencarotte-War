@@ -1,3 +1,6 @@
+- [[background noise]]
+- [[baseline noise]]
 - [[electrical noise]]
 - exposure to noise
+- [[generation-recombination noise]]
 - [[random noise]]
