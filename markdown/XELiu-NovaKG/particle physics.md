@@ -9,7 +9,7 @@
     - [[classical particle]]
     - particle species
     - subatomic scale; subatomic domain;
-        - subatomic particle; sub-atomic particle; [[submicroscopic particle]]
+        - [[subatomic particle]]; sub-atomic particle; [[submicroscopic particle]]
 - [[particle detector]]
 - [[proton]]
 - subdivided infinitely; 

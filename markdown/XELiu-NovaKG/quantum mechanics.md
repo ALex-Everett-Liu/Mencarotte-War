@@ -8,7 +8,7 @@
     - [[quantum physics]]; [[quantum theory]]
     - quantum process;
     - [[quantum system]]
-    - quantum technology
+    - [[quantum technology]]
     - [[quantum world]];
 - localized at a point; [[phys/localization]]
     - [[non-localization]];
@@ -24,7 +24,7 @@
 - [[quantum field]]; [[quantum field theory]]
     - [[classical field]]
 - [[quantum fluctuation]]
-- [[quantum information]]
+- [[quantum information]]; [[quantum information science]]
 - [[quantum interpretation]]
 - [[quantum number]]
 - [[spin]]
@@ -60,3 +60,9 @@
 - 如果你来讲《量子力学》课程，你会如何设计？
 - #inbox
     - {{[[TODO]]}} [Four Postulates of Quantum Mechanics Are Three](https://link.zhihu.com/?target=https%3A//journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.110402) -- [zhihu](https://www.zhihu.com/question/451908940) #pt10-99.99
+- ---
+- Abstract 
+    - __For a [more accessible] and [less technical introduction] to this topic, see __[[Introduction to quantum mechanics]]__.__
+    - Part of a [series](https://en.wikipedia.org/wiki/Category:Quantum_mechanics) on [Quantum mechanics] #series #category 
+    - Quantum mechanics is a [fundamental theory] in physics that [provides a description of] the [physical properties](((yAQPakWbJ))) of nature [at the scale of] atoms and [[subatomic particle]]s.[2]:[1.1](((SCwkcngus))) It is the foundation of all [[quantum physics]] including [[quantum chemistry]], [[quantum field theory]], [[quantum technology]], and [[quantum information science]].
+201109-03:25 

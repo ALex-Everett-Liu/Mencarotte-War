@@ -1,6 +1,7 @@
 - discrete value; discrete amount;
     - discrete unit
     - discrete point
+- [[path integral quantization]]
 - [[Planck’s constant]]
     - [[reduced Planck's constant]]
 - quantum hypothesis
