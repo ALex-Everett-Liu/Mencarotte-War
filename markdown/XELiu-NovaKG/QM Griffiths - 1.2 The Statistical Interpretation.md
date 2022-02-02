@@ -37,3 +37,11 @@ Electron Interference.** [I have asserted that] particles (electrons, for exampl
 210327-04:30
     - Of course, if you [close off one slit], or somehow [contrive to detect] [which slit each electron passes through], the interference pattern disappears; the wave function of the [emerging particle] is now [entirely different] ([in the first case] because the [[boundary condition]]s for the Schrödinger equation have been changed, and in the second because of the [[collapse of the wave function]] upon measurement). 
 (若是关闭双缝之一，或是试图探测每个电子究竟通过了哪一条缝，则干涉条纹消失-原因是这时的波函数发生了变化-薛定谔方程的边界条件-波函数坍缩)
+        - But with both slits open, and [no interruption of](((bofqSW6Hl))) [the electron in flight], each electron [interferes with itself]([[self interference]]); it didn’t pass through one slit or the other, but through both at once, just as a [[water wave]], impinging on [a jetty with two openings], 撞击有两个开口的码头 interferes with itself. There is nothing mysterious about this, once you have [accepted the notion that] [particles obey a wave equation]. 
+(水波与自身的干涉-当粒子同样遵循类似的波动方程时)
+        - [The truly astonishing thing] is the blip-by-blip assembly of the pattern. 逐点装配 In any [classical wave theory] the pattern would [develop smoothly and continuously], simply [getting more intense] [as time goes on]. The [[quantum process]] is more like [the pointillist painting of Seurat]: [The picture emerges from] the [cumulative contributions](((_fLQ8ScA5))) of [all the individual dots].[12]
+(经典波的干涉-随着时间流逝，干涉条纹越来越强烈，此变化过程是平滑连续的；量子干涉-每个粒子的逐个累积最终形成了干涉条纹--量子力学反直觉之处不在于粒子同样遵循波动方程，而在于这个粒子/波的客体竟然是^^量子化的，而不是连续的！(微积分真的还能完美地适用吗？)^^)
+210327-04:01 #pt10-100
+        - [12]: I think [it is important to distinguish] things like interference and diffraction ^^that would hold for any wave theory^^ from the [uniquely quantum mechanical features] of the [[measurement process]], which derive from the statistical interpretation.
+(统计诠释决定了量子测量过程的特殊地位，带来了一些真正反直觉的性质；认同粒子同样遵循波动方程从而带来的一些干涉和衍射性质与之是两码事---量子测量，统计性，量子化，需要全新的波动方程 v.s. 常规的干涉现象，任何波都具有的性质，一般的经典的波动方程)
+210327-04:42

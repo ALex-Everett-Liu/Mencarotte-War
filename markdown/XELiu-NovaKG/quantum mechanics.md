@@ -6,7 +6,7 @@
     - [[quantum effect]]; [[quantum phenomena]];
     - quantum particle
     - [[quantum physics]]; [[quantum theory]]
-    - quantum process;
+    - [[quantum process]];
     - [[quantum system]]
     - [[quantum technology]]
     - [[quantum world]];
@@ -14,7 +14,7 @@
     - [[non-localization]];
     - spread out in space
 - [[matrix mechanics]]
-- [[measurement]]; measurement process; act of measurement; perform the measurement
+- [[measurement]]; [[measurement process]]; act of measurement; perform the measurement
     - [[observation]]
     - 系统和仪器共同演化形成了纠缠态;
 - probability features; odds; probabilistic 

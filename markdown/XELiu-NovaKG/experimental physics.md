@@ -14,7 +14,7 @@
     - prepare the particle: 制备粒子;
 - [[laboratory]]
     - white coat;
-- [[measurement]]; measurement process; act of measurement; perform the measurement
+- [[measurement]]; [[measurement process]]; act of measurement; perform the measurement
     - [[observation]]
 - plot...
     - brighter area
