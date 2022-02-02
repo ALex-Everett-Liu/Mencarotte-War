@@ -1,0 +1,4 @@
+- dictionary
+    - Research on [Dimensional Reduction and Classification] of [Hyperspectral Remote Sensing Image]; Copy photographic Clipart images and thumbnails. 剪贴画 www.[dictall].com
+    - Study of [Text Dimensional Reduction] Using [Random Mapping] Based on [SOM Network] dict.cnki.net
+    - The study on [particle mass] given by [generalized dimensional reduction] 广义约维法

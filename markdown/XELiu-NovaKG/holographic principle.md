@@ -98,3 +98,10 @@ $$\mathrm{d} S=\frac{\rm {\delta }M c^{2}}{T}$$.
     - [1]: [except in the case of] measurements, which the black hole should not be performing
     - [2]: "Complete description" means [all the primary qualities]. For example, John Locke (and before him Robert Boyle) [determined these to be] size, shape, motion, number, and solidity. Such [secondary quality information] as color, aroma, taste and sound,[15] or [internal quantum state] is not information that is [implied to be preserved in] [the surface fluctuations of the event horizon]. (See however "[[path integral quantization]]")
 220201-10:47
+- ## References
+    - ### **Citations**
+        - 
+    - ### **Sources**
+        - Bousso, Raphael (2002). "The holographic principle". __Reviews of [Modern Physics]__. **74** (3): 825–874. [arXiv]:[hep-th/0203101](https://arxiv.org/abs/hep-th/0203101). [Bibcode]:[2002RvMP...74..825B](https://ui.adsabs.harvard.edu/abs/2002RvMP...74..825B). [doi]:[10.1103/RevModPhys.74.825](https://doi.org/10.1103%2FRevModPhys.74.825). [S2CID] [55096624](https://api.semanticscholar.org/CorpusID:55096624).
+        - 't Hooft, Gerard (1993). "[[dimensional reduction]] in Quantum Gravity". [arXiv]:[gr-qc/9310026](https://arxiv.org/abs/gr-qc/9310026).. 't Hooft's [original paper].
+220202-20:00
