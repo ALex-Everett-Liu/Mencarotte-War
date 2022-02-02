@@ -11,6 +11,7 @@
     - subatomic scale; subatomic domain;
         - [[subatomic particle]]; sub-atomic particle; [[submicroscopic particle]]
 - [[particle detector]]
+- [[point particle]]
 - [[proton]]
 - subdivided infinitely; 
 - [[theoretical physics]]; [[theoretical physicist]]

@@ -3,9 +3,11 @@
 - [[audio]]
     - [[ASMR]]
 - Chinese music
+    - [[春三月 (chun sanyue)]] # pt7-99.97
     - [[青柠 (qingning)]]
     - [[桃花笑 (taohua xiao)]]
     - [[小城谣 (xiaocheng yao)]]
+    - [[小棋童 (xiao qitong)]]
 - [[dance]]
 - English music
     - [[The Cascades]]

@@ -1091,6 +1091,12 @@
             - roll
                 - roll out: 推出, 推广; 
                 - scroll
+        - ru
+            - rule, 2
+                - general rule;
+            - rupture
+                - interrupt
+                    - interruption
     - s
         - sc
             - sca

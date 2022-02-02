@@ -7,8 +7,8 @@
 - [[distance measure]]
 - [[elementary geometry]]
 - half-space; halfspace
+- [[manifold]]
 - [[plane]]
-- [[spatial manifold]]: 空间流形 
 - [[vertex]]; [[vertices]]
     - edge; 
     - outgoing arc
