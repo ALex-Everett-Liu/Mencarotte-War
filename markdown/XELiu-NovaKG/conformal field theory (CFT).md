@@ -1,1 +1,1 @@
-- 2-dimensional conformal field theory; 
+- [[2-dimensional conformal field theory]]; [[two-dimensional conformal field theory]]
