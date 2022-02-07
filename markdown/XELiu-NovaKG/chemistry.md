@@ -9,6 +9,7 @@
         - [[gas analyzer]]; [[gas analyser]]; on-line gas analyzer; [[gas analyte]]
     - [[assay]]: 试验, 化验 
     - [[chromatography]]: 色谱, 层析; [[chromatogram]]
+    - [[mass spectrometer]]
 - [[atmospheric pressure]]
 - [[biochemistry]]
 - [[boiling point]]
