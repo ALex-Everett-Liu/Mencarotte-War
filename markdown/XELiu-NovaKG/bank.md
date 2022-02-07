@@ -1,2 +1,5 @@
-- [[automated teller machine (ATM)]]
+- [[cash machine]]
+    - [[automated teller machine (ATM)]]
+- [[card reader]]
+- [[credit card]]
 - [[magnetic stripe card]]

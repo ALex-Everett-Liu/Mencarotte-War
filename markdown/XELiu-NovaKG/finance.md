@@ -1,6 +1,4 @@
 - [[bank]]
-    - [[credit card]]
-        - [[virtual credit card]]
 - [[blockchain]]
     - [[double-spending problem]]
         - [[central server]]

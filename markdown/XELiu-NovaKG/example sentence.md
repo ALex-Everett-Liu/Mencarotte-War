@@ -39,6 +39,7 @@
     - www.[[ebigear]].com
         - ---
         - How do you know when you are [serving God from your heart]? 从心底服事神 [The first telltale sign] is enthusiasm. 奉的热情 
+    - www.[enread].com
     - www.[fabiao].net
         - [The results of the experiments showed that] the [expected performance specifications] of the system were achieved. 对气体浓度的快速、准确、在线测量 
     - www.[[fortunechina]].com

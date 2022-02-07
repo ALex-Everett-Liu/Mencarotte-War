@@ -13,9 +13,11 @@
     - [[influenza virus]]
 - general
     - [[medical diagnosis]]
+    - [[medical staff]]
 - [[heart disease]]
 - [[hospital]]
 - personal care and service occupations: 个人护理和服务职业
+- [[pandemic]]
 - [[patient]]
 - [[pharmacy]]
 - [[surgical instrument]]: 外科手术器械 

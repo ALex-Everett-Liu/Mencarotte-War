@@ -13,6 +13,8 @@
 - general...
     - [[living things]]
 - [[genetics]]
+    - [[DNA]]
+        - [[RNA]]
     - [[genealogy]]
 - [[homeostasis]]
     - [[chemical signal]]
@@ -20,6 +22,7 @@
     - [[receptor cell]]
 - [[living organism]]
 - [[molecular biology]]
+- [[protein]]
 - [[systematic biology]]
     - biological organization
         - life hierarchy

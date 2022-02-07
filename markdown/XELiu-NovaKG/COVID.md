@@ -1,3 +1,12 @@
+- [[COVID-19]]
+- ---
+- dictionary
+    - China's first [[mRNA]] COVID-19 [vaccine production plant] is [scheduled to be operational] in October. 投产 www.[keke].com
+    - mirna = mRNA, the [[snippet]]s of [[genetic code]] that [tell cells to build proteins]([[protein]]). In this case, the proteins on the COVID-19 spike protein 纤突蛋白
+    - The [[daily output]] of [N95-rated medical masks](((cVaLTFceR))) reached over 1.6 million units to ensure [[medical staff]] [the battle against] the [[novel coronavirus]] are well-equipped.
+220207-23:35
+    - But [Pets at Home] say [the pandemic has changed all] that [as we spend more time in our homes]. www.[enread].com
+    - [[trader]]s [who used to turn up their noses at] plastic 曾经对[信用卡][嗤之以鼻]的商户们 are bringing out their [[card reader]]s. [The figures come from] the [[cash machine]] network LINK, which adds that [in a survey of] 2000 shoppers, [more than three quarters said] the virus would [affect their future use of cash]. 
 - #inbox
     - **从经济上来说的话，其实【共存】并不比【清零】一定[对经济更好或者更差]。**[这里我们面临的是](https://zhuanlan.zhihu.com/p/399547458)这样一个权衡： #pt8-99.98
         - 【清零】对[出入海关人员]的[严格盘查](https://zhuanlan.zhihu.com/p/399547458)，对包括[冷链]在内的[进出口货物]的严格检测，这些限制和没有相比，对贸易[当然是有负面影响的]，甚至于说，也[增加了寻租的空间]，尤其是对[周转经费紧张]的[中小企业]尤其不友好。
@@ -21,3 +30,14 @@
         - 什么OO岁以上接种，那么OO岁以下就都是[风险人群]。哪怕[100%接种]了，一个[击穿得人][跑到学校里]，能群体免疫？免疫个几把。[老人院][也是类似的场景]。
 [人类社会的生活方式]根本不是[随机分布]的，而是有组织结构的。正因为有组织结构，群体免疫那种[随机传播场景][从一开始就不成立]。
     - 庆幸的是，禄口[没传播到][江宁区中心](https://www.zhihu.com/question/478875480)，不然[喝多少壶都不够]。往返于[老城区]和[江宁 CBD] 的[上班族]非常多，我[每天下班][回老城区]，地铁[往江宁方向][安检都排长队]，[地铁单程一小时]应该是多数人的[通勤极限]了。[实在是串不到]禄口去，太远了，会送命。 #pt8-99.97
+    - 现在欧美的[数据都很不错]，至少目前来看，这些国家[能够承受] omicron 的[流感化]，从而[打开国门]；如果在几个月内没有出现什么逆天的变异的话，估计会有国家宣布取消绝大部分的疫情限制，彻底过正常的生活了。
+
+但是欧美能承受，不代表中国能承受，理由上面已经说了。对于中国来说，如果想全始全终的赢下这场抗疫的胜利，还需要病毒配合再变异一次，要比 omicron 更加的温和，至少对待打过疫苗的人口，从流感化到感冒化。如果这次变异能够在最近半年内完成，彻底的夺权 Omicron，开始世界大流行，那确实可以说「这就是新冠流行的最后一个寒冬了」。
+
+流感是季节性的，传染能力弱但是症状相对严重——千分之一的死亡率那也是死亡率啊；但是新冠根本不怕热，一年四季保持高速传染的能力——这样的流感依然是我们不可承受之重；而感冒病毒四季常在，死亡率更低，症状更轻。新冠感冒化之后再打开国门，那是真的相当于「软着陆」了。
+
+新冠是系统性感染人体的病毒，会攻击除了呼吸道之外的各种部位和器官，比如肾脏、生殖器、大脑等等。当然攻击力度一般都很弱，但是从目前Long COVID的案例来看，大数据下还是有显著结果的，也就是新冠会让很多的病都略微的严重那么一点。
+
+大部分情况下，这么严重一点无关紧要，但是总有一些人真就差这么一点，就没挺过去。所以对于平均寿命的影响很可能是负面的，至于负多少很难说——因为新冠也导致了人们卫生习惯变好了，这个卫生习惯可能对寿命又有一个正向的对冲。
+
+而感冒化之后，意味着新冠彻底的从一种流行病，变成了人类生活的背景噪声，加入了导致感冒的四种冠状病毒的家族。从此以后，导致人类感冒的病毒又多了一种，而人类被现代医学所延长的平均寿命又会缩短一点，又要重新来过。
