@@ -1,3 +1,4 @@
+- [[amplitude]]
 - audio message
 - baseline
     - [[baseline draft]]
@@ -13,6 +14,7 @@
 - [[original signal]]
 - [[signal output]]
 - [[signal processing]]
+- [[sinusoidal signal]]
 - relaying signals
 - [[visual signal]]
     - [[beacon]]: 烽火; 灯塔; 信标

@@ -6,3 +6,10 @@
 - 电源进入温控仪，温控仪[外接]温度传感器，不加输出的话，是可以当做温度显示器来使用的，增加固态输出，从温控仪输出电流信号给固态继电器 (温控器的12V直流输出端接固态继电器的输入端)，固态继电器来控制后端电源通断，继而控制加热器加热 (固态继电器的交流输出端接交流电源和加热带)。
     - 温控器的4、5、6端口接测温铂电阻，11、12端口接交流电源。
 - 温控器接[测温铂电阻]，然后从温控器用PID控制方式输出电压信号给固态继电器，^^固态继电器的输出端[相当于一个开关]，和[加热丝][串接在一个回路中]，^^来控制后端电源通断，继而控制加热丝加热。
+- Autonics 接线图 -- TK4S-14SN -- IMG_20211124_210613.jpg
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FPdWDzQhIuv.png?alt=media&token=bdaebe47-8b48-4049-9137-5797b3118b14)
+    - port3/4 - output signal, 控制固态继电器输入端 -- port13/14 - output2
+        - relay 250VAC~3A 1a -- current DC=0-20mA 500Ω Max -- SSR 11VDC=±2V 20mA Max (SSRP out1 only)
+    - port7/8/9 - alarm signal -- relay 250VAC~3A 1a
+    - port5/6 - source -- 100-240VAC~50/60Hz 8VA -- 接交流电源
+    - port10/11/12 - ABB' - 接测温铂电阻
