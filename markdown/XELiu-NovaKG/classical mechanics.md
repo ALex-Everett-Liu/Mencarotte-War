@@ -58,5 +58,6 @@
         - stationary; still
 - [[vibration]]
     - [[resonance]]
-    - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion; [[harmonic oscillator]]
+    - [[harmonic oscillator]]
         - [[harmonic wave]]; [[sine wave]]
+        - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; [[simple harmonic motion]];

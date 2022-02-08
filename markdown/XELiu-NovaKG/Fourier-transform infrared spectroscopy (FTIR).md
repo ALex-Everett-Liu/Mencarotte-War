@@ -268,7 +268,7 @@ Energy at 600 cm-1: 0.26%
             - 测试方法：通过[拟合]积分吸光度A和浓度C的关系来测试[系统检测性能]
                 - NO2 吸收谱
                     - 选择[最右边的峰]计算积分吸光度，用于测量[气体浓度]
-                    - 测试条件：分辨率4cm-1；扫描速度40000；温度：室温。
+                    - 测试条件：分辨率 4 cm-1；扫描速度 40000；温度：室温。
                     - NO2 气体[定量分析]结果
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnhPGhoJjAz.png?alt=media&token=63f278b2-ec67-428a-a43d-1b362425ee17)
                         - 测试结果：
@@ -328,6 +328,8 @@ O2：25%；
                 - 更新 [NO 模型]后，4#（PSN-015）和5#（PSN-001）设备CO2[对NO干扰][小于1ppm]，其余[气体干扰问题][仍存在]。
                     - 模型更换后，NO线性、重复性等参数须[重新测试验证]。
             - 4. HCl Test
+        - 测试条件 -- 仪表内部设置、测量池温度、激光温度
+            - 测试条件：分辨率 4 cm-1；扫描速度 40000；温度：室温。
     - CEMS software
         - CEMS 标定公式 #pt9-100
             - (CEMS(x)-CEMS(0))/(CEMS(F.S.)-CEMS(0))=(InSa(x)-InSa(0))/(InSa(F.S.)-InSa(0))

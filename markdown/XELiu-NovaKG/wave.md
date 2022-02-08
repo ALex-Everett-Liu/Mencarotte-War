@@ -1,7 +1,7 @@
 - [[composite phenomena]]: 复合现象 
 - [[continuous wave]];
 - elastic medium; elastic media; 弹性介质
-- [[equilibrium position]]
+- [[equilibrium position]]; [[equilibrium point]]
 - [[ideal wave]]
     - [[continuous entity]]
     - extended region: 延展的区域 
@@ -31,7 +31,7 @@
     - the direction of the oscillations
     - oscillation cycle
     - period
-    - [[simple harmonic oscillator]]; [[simple harmonic vibration]]; simple harmonic motion; [[harmonic oscillator]] 
+    - [[harmonic oscillator]] 
         - fixed point
         - fixed time
             - snapshot
