@@ -5,7 +5,6 @@
     - % …… ^ &
     - ...
 - roam diagram; 
-- dongdong live record;
 - number_of_consorts = 30
 - work time
     - SF售后
