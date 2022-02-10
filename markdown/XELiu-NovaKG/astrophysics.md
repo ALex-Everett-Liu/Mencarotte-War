@@ -6,6 +6,7 @@
     - [[star]]
         - [[asteroid]]
         - [[planet]]
+- [[celestial mechanics]]
 - [[cosmology]]
 - [[gamma ray burst]]
 - [[interstellar space]]

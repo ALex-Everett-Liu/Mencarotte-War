@@ -3,6 +3,7 @@
     - [[cable gland]]
     - fiber optic cable; [[telecommunications cable]]
     - [[electrical cable]]
+- [[capacitor]]
 - [[circuit]]; [[electronic circuit]]
     - [[circuit breaker]]: 额定断路器
 - conduct electricity
