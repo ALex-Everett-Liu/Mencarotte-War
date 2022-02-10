@@ -12,6 +12,7 @@
     - [[小城谣 (xiaocheng yao)]]
     - [[小棋童 (xiao qitong)]]
 - [[dance]]
+- [[earphone]]
 - English music
     - [[The Cascades]]
     - [[The Carpenters]]

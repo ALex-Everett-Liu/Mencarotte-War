@@ -27,6 +27,7 @@
             - [independent entity](https://workflowy.com/#/b0a144674ddf)
         - [[exponential dependence]]
         - monotonically increasing function; 
+        - scale invariant; 
         - scale inversely
     - model
         - [[empirical model]]: 经验模型

@@ -13,6 +13,7 @@
         - [[春秋时代 (Spring and Autumn period)]]
         - [[战国时代 (Warring States)]]
         - [[西周 (Western Zhou)]]
+        - [[吴国 (Wu Kingdom)]]
         - map
             - 秦楚争霸晚期   # pt9-100
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_SjmRn8MC3.jpg?alt=media&token=b8393622-df62-42ef-a58e-d3fdabcbf6fb)
