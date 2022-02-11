@@ -6,6 +6,10 @@
     - line graph
         - specify multiple y values for each x value;
     - ordinal axis: 序数坐标轴
+    - [[plot]]
+        - [[matplotlib]]
+        - ray-fan plot
+        - spot diagram
     - render excel-esque charts
     - [[text value]]
 - [[data collection]]; collecting the data
@@ -19,9 +23,6 @@
 - interpreting the data;
 - [[meaningful data]]; [[random data]]
 - [[OriginLab]]
-- plot...
-    - ray-fan plot
-    - spot diagram
 - [[raw data]]
 - receive data;
 - sampling

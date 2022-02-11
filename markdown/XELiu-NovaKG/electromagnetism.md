@@ -1,2 +1,5 @@
 - [[classical electromagnetism]]
 - [[electric dipole moment]]
+- [[electric polarization]]
+    - [[polarity]]
+        - [[opposite polarity]]

@@ -1,7 +1,7 @@
 - [[dipole radiation]]
 - [[electromagnetics]]; [[electromagnetism]]
     - [[electricity]]: 电学
-        - [[electric charge]]
+        - [[electric charge]]; [[electron charge]]
     - [[magnetism]]
     - [[Ohm's law]]
 - [[electromagnetic field]]; the electric and magnetic fields
@@ -26,8 +26,6 @@
     - [[resistance]]
         - [[impedance]]
 - [[electron]]
-    - [[electron beam]]
-    - [[electron charge]]
 - [[Maxwell's equations]]
 - medium; media; [[material medium]]
     - anisotropic medium

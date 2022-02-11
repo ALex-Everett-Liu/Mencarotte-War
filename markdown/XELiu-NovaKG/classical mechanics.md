@@ -1,7 +1,7 @@
 - the acceleration of Galileo; 
 - [[action]]: 作用; 
     - [[principle of least action]]
-- [[centrifugal force]] 离心力; [[centripetal force]] 向心力
+- [[centrifugal force]]: 离心力; [[centripetal force]]: 向心力
     - [[centrifugal distortion]]: 离心畸变
     - [[spinning motion]]; rotating motion
         - uniform spinning motion
@@ -51,6 +51,8 @@
     - [[analytical mechanics]]
     - [[Hamiltonian mechanics]]
     - [[Lagrangian mechanics]]
+- [[torque]]: 转矩, 扭矩
+    - [[combined torque]]: 组合扭矩; the torque exerted by which part: 施加的扭矩;
 - [[velocity]] - the speed and direction of an object's motion
     - [[acceleration]]; [[accelerated motion]]
         - [[relative acceleration]]; an absolute conception of acceleration
