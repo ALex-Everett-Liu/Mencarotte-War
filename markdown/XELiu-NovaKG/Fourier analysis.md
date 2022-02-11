@@ -1,3 +1,4 @@
 - [[Fourier series]]
 - [[Fourier transforms (FTs)]]; [[Fourier transformation]]
     - [[discrete Fourier transform (DFT)]]
+- [[wavelet transform]]

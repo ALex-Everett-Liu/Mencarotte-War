@@ -3,7 +3,7 @@
     - Theoretically, an [[electric dipole]] is defined by the [[first-order term]] of the [[multipole expansion]]; it consists of [two equal and opposite charges] that are [infinitesimally close together], although [real dipoles] have [separated charge].[1]
 220210-17:58
     - The electric field due to a [[point dipole]] (upper left), a physical dipole of electric charges (upper right), a thin [[polarized sheet]] (lower left) or a [[plate capacitor]] (lower right). All generate the same [[field profile]] [when the arrangement is infinitesimally small](https://en.wikipedia.org/wiki/File:VFPt_dipoles_electric.svg).
-220210- 18:01
+220210-18:01
         - [Computed drawings]([[drawing]]) of [four different types of] electric dipoles.
             - Upper left: An ideal [point-like dipole]. The [field shape](((8xQXKhp0I))) is [scale invariant](((u8-C5qggz))) and [approximates the field of] any [charge configuration] [with nonzero dipole moment] [at large distance].
 220211-02:37
@@ -232,4 +232,13 @@ doc.write()```
     - Often in physics [the dimensions of a massive object] [can be ignored] and [can be treated as a pointlike object], i.e. a [[point particle]]. Point particles with electric charge are referred to as [[point charge]]s. Two point charges, [one with charge +q] and the other one with charge −q [separated by a distance d], constitute an electric dipole ([a simple case of] an [[electric multipole]]). For this case, the electric dipole moment [has a magnitude] p=qd and is [directed from the negative charge to] the positive one. [Some authors may] split __d__ in half and use __s__ = __d__/2 since this quantity is [the distance between either charge] and [the center of the dipole], [leading to a factor of two] [in the definition].
 220211-17:58
 - Energy and torque
-    - An object with an electric dipole moment is [subject to a torque]([[torque]]) τ when placed in an external electric field. The torque tends to align the dipole with the field. A dipole aligned parallel to an electric field has lower potential energy than a dipole making some angle with it. For a spatially uniform electric field E, the energy U and the torque {\displaystyle {\boldsymbol {\tau }}}{\boldsymbol  {\tau }} are given by[2]
+    - An object with an electric dipole moment is [subject to a torque]([[torque]]) τ [when placed in] an [[external electric field]]. The torque tends to [align the dipole with the field](((XDzMWUgZA))). 与电场对齐 A dipole [aligned parallel to an electric field] [has lower potential energy than]([[potential energy]]) a dipole [making some angle with it]. For a [spatially uniform] electric field E, the energy U and the torque {\displaystyle {\boldsymbol {\tau }}} are given by[2]
+220212-02:05
+    - [A molecule of water] is [[polar]] because of [the unequal sharing of its electrons] [in a "bent" structure](((R79NCtUv0))). [A separation of charge] is present with [negative charge] [in the middle] (red shade), and positive charge [at the ends] (blue shade).
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fag2faqvc7a.png?alt=media&token=15825151-e2b4-46be-ac4c-69476c8e6f06)
+- Dipole moments of molecules
+    - [Dipole moments in molecules] are [responsible for the behavior of] [a substance in the presence of] [[external electric field]]s. The dipoles [tend to be aligned to the external field] which can be constant or [[time-dependent]]. This effect [forms the basis of] [a modern experimental technique called] [[dielectric spectroscopy]].
+220212-02:17
+    - Dipole moments [can be found in common molecules] such as water and also in [[biomolecule]]s such as [[protein]]s.[39]
+    - By means of the [total dipole moment] of some material one can compute the [[dielectric constant]] which is related to [the more intuitive concept] of [[conductivity]]. If {\mathcal {M}}_{\rm {Tot}}\, is the [[total dipole moment]] of the sample, then the dielectric constant is given by, $${\displaystyle \epsilon =1+k\left\langle {\mathcal {M}}_{\text{Tot}}^{2}\right\rangle }$$
+220212-02:24

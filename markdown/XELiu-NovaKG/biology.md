@@ -2,6 +2,7 @@
     - biological reaction
         - [[reaction product]]
         - regulating mechanism: 调节机制
+- [[biomolecule]]
 - [[biophysics]]
 - [[biosphere]]
 - childbirth; labor

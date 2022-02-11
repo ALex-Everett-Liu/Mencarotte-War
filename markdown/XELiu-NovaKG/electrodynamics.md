@@ -7,9 +7,6 @@
 - [[electromagnetic field]]; the electric and magnetic fields
     - [[electric current]]
     - [[electric field]]
-        - electric displacement field
-        - electric field strength
-        - [[electric field vector]]
     - [[electric potential]]; [[voltage]]
     - [[electromagnetic energy]]
     - [[electromagnetic force]]

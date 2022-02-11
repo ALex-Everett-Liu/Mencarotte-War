@@ -6,6 +6,7 @@
 - [[biomedical spectroscopy]]
     - [[tissue analysis]]
 - [[characteristic emission frequency]]
+- [[dielectric spectroscopy]]
 - [[dispersive spectroscopy]]; [[dispersive spectrometer]]: 色散分光计; 分光仪器; dispersive instrument
     - [[dispersive element]]
     - [[grating spectrometer]]

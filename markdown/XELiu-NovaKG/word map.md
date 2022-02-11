@@ -37,7 +37,7 @@
                 - advantage, 2
         - al
             - alias
-            - align
+            - align: 排列 成行 对齐 对准; 结盟;
                 - alignment
             - allow
                 - disallowing;
@@ -125,6 +125,7 @@
                     - [[drive the behavior]];
             - bench
                 - benchmark
+            - bent: 弯曲, 倾斜;
             - beware
         - bi
             - bible

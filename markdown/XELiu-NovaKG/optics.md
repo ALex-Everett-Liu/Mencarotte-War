@@ -39,6 +39,7 @@
 - material...
     - [[cathode ray]]
     - [[dielectric medium]]; [[dielectric material]]; [[dielectric structure]]
+        - [[dielectric constant]]
         - [[metal–dielectric interface]]; [[metal-dielectric interface]]; metal/dielectric interface
         - uniform dielectric
     - [[glass]]
