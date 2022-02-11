@@ -1,4 +1,5 @@
 - featuring font: 主要字体;
 - [[font size]]
 - [[text color]]; [[font color]]; 
+- [[sans-serif]]: 无衬线字体
 - [[Times New Roman]]

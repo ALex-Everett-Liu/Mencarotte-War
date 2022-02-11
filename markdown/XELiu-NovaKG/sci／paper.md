@@ -5,6 +5,7 @@
 - [[conclusion]]
 - [[convention]]: 约定, 惯例, 凡例;
 - [[introduction]]; 紹介 (shōkai)
+- [[submitted manuscript]]
 - [[overview]]
 - [[preface]]
 - [[preprint]]

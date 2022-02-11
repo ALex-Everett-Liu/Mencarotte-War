@@ -1,1 +1,2 @@
 - [[point charge]]
+- [[separated charge]]; [[charge separation]]

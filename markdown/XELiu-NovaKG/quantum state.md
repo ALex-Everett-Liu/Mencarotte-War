@@ -1,4 +1,5 @@
 - [[density matrix]]
+    - [[density functional theory]]
 - [[mixed state]]
 - [[pure state]]
 - [[pure bipartite quantum state]]

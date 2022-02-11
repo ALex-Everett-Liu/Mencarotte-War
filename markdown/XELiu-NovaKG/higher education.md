@@ -7,7 +7,7 @@
     - [[graduate student]]
     - Master degree; [[graduate degree]]
     - [[PhD]]
-    - [[postdoctoral position]]
+    - [[postdoctoral position]]; postdoctoral training
 - major...
     - [[liberal arts majors]]
     - science majors

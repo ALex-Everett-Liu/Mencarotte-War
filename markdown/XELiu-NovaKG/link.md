@@ -2,6 +2,7 @@
     - bi-directional link; bidirectional linking
         - two-way conversation
 - custom link
+- [[dead link]]
 - diagonal link
 - direct link; forward-link
 - [[external link]]; external article

@@ -3,7 +3,7 @@
 - [[duration]]
 - function...
     - [[initial time]]
-    - [[time dependence]]
+    - [[time dependence]]; [[time-dependent]]
         - [[time-independent Hamiltonian]]
         - time-independent solution;
     - [[time-domain function]]
