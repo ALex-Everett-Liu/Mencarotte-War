@@ -7,7 +7,7 @@
         - [Computed drawings]([[drawing]]) of [four different types of] electric dipoles.
         - Upper left: An ideal [point-like dipole]. The [field shape](((8xQXKhp0I))) is [scale invariant](((u8-C5qggz))) and [approximates the field of] any [charge configuration] [with nonzero dipole moment] [at large distance].
 220211-02:37
-        - Upper right: Discrete dipole of two opposite point charges at finite distance, a physical dipole.
+        - Upper right: [Discrete dipole] of [two opposite point charges]([[point charge]]) [at finite distance], a physical dipole.
         - Lower left: Thin round disc with uniform electric polarization along the symmetry axis.
         - Lower right: Plate capacitor with uniformly charged circular discs.
         - Although the four field configurations differ significantly, they all converge to the same dipole field at large distances. Each configuration may represent an electric dipole.
