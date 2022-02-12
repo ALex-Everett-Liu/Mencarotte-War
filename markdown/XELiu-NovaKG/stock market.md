@@ -1,0 +1,10 @@
+- dictionary
+    - The news [had a destabilizing effect on] the stock market. 引起了股市的动荡 《牛津高阶英汉双解词典》
+    - Prices on the stock market, which have been static, are now [rising again]. 
+    - Following the announcement, [[share price]]s [went into a tailspin]. 
+    - Shares [continued to depreciate] on the stock markets today. 
+    - [The market reacted by] [falling a further two points]. 
+- #inbox
+    - 在股市里，[智商碾压][一般的散户](https://www.zhihu.com/question/373033682/answer/1923342758)没用，必须[在智商上碾压][绝大部分机构的][投研分析]。[当然严格来说][他们不一定是][对手盘]，关键是[视野和判断力]要在大部分[机构分析员]之上。[不建议][做短线]，我对[交易]有简单的[量化模型]，很少[频繁操作]。[做超短线]就是[赌徒养蛊]。 #pt6
+        - [智商高]真的是[什么都开外挂]，自然可以[在股市里][稳定收益]。不过我的[社会地位]没有因此跃迁，因为[炒股前]就很高呀。
+        - 对我来说，股市[最大的好处就是]，在这里可以很公平的[用智商碾压]所有[对手盘]。（[只要你的对手不是][小盘庄股]里的[庄家]，而是[常规自由博弈]的[正常股票]）[这算是一种另类的][自我实现]吧，[在真金白银的搏杀中][一次次发挥]自己[智商的压倒性优势]。
