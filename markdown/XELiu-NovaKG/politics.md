@@ -5,6 +5,7 @@
     - [[color revolution]]
         - 和平演变
 - [[communism]]
+- [[corruption]]
 - country...
     - [[India]]
     - [[Japan]]

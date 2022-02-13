@@ -5,6 +5,7 @@
 - [[harsh environment]]; [[harsh condition]]; tough environment
 - [[industrial application]]
 - [[industrial process]]
+- [[industry regulation]]
 - [[industrial settings]]
 - [[industrial system]]
 - industrially hardened; 

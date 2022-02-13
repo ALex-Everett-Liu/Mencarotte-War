@@ -5,6 +5,7 @@
 - Chinese music
     - [[春三月 (chun sanyue)]] # pt7-99.97
     - [[好梦长留]]
+    - [[惊鹊 (jingque)]]
     - [[梅子黄时]]
     - [[宁夏 (ningxia)]]
     - [[青柠 (qingning)]]

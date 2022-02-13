@@ -4,7 +4,7 @@
 - This is the power of [computer programming]. A computer is like a [[Swiss Army knife]] that you can configure for [countless tasks]. Many people [spend hours] [clicking and typing] to perform [[repetitive task]]s, unaware that [the machine they’re using] [could do their job in seconds] if they [gave it the right instructions]([[instruction]]).
 210228-18:57
 - ### [Conventions]([[convention]])
-    - This book is not designed as a [[reference manual]]; it’s [a guide for beginners]. The [[coding style]] sometimes [goes against best practices]([[practice]]) (for example, some programs use [[global variable]]s), but that’s a [[trade-off]] to make the code [simpler to learn]. This book is [made for people to] [write throwaway code]([[throwaway code]]), so [there’s not much time spent on] style and [[elegance]]. 
+    - This book is not designed as a [[reference manual]]; it’s [a guide for beginners]. The [[coding style]] sometimes [goes against best practices]([[best practice]]) (for example, some programs use [[global variable]]s), but that’s a [[trade-off]] to make the code [simpler to learn]. This book is [made for people to] [write throwaway code]([[throwaway code]]), so [there’s not much time spent on] style and [[elegance]]. 
 210228-19:15
     - Sophisticated programming concepts—like [[object-oriented programming]], [[list comprehension]]s, and [[generator]]s—aren’t covered [because of the complexity they add]([[complexity]]). [Veteran programmers] may point out ways [the code in this book] [could be changed] to [[improve efficiency]], but this book is [mostly concerned with] [getting programs to work] [with the least amount of effort] on your part.
 - ### What Is Programming?
