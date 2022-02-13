@@ -3,6 +3,7 @@
 - non-perturbative formulation: 非微扰公式;
 - [[regularization]]
 - renormalize;
+- [[standard model]]
 - strongly coupled; strongly interacting
     - [[strong-weak duality]]
 - supersymmetric quantum field theory

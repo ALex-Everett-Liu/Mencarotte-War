@@ -1,0 +1,3 @@
+- The electron electric dipole moment (EDM) d_e is an [[intrinsic property]] of an electron such that the [[potential energy]] is [linearly related to] [the strength of the electric field]([[electric field strength]]): $$U = \mathbf d_{\rm e} \cdot \mathbf E.$$
+    - The electron's EDM [must be collinear with the direction of] the electron's [magnetic moment (spin)]([[spin magnetic moment]]).[1] Within [the Standard Model of elementary particle physics]([[standard model]]), such a dipole is predicted to be [non-zero but very small], at most 10^−38 e⋅cm,[2] where e stands for the elementary charge. The discovery of a substantially larger electron electric dipole moment would imply a violation of both parity invariance and time reversal invariance.[3][4]
+220213-12:08

@@ -40,8 +40,9 @@
         - [[physical law]]
         - physical mechanism
         - [[physical process]]
-        - physical properties
+        - physical property; physical properties
             - counter-intuitive property
+            - [[intrinsic property]]
         - [[physical quantity]]
             - base quantities
             - [[degrees of freedom (DoF)]]; [[degree of liberty]]

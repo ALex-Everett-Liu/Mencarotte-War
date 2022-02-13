@@ -13,6 +13,7 @@
 - [[particle detector]]
 - [[point particle]]
 - [[proton]]
+- [[standard model]]
 - subdivided infinitely; 
 - [[theoretical physics]]; [[theoretical physicist]]
 - [[virtual particle]]
