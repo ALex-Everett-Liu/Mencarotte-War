@@ -1,0 +1,4 @@
+- A standard operating procedure (SOP) is a set of [[step-by-step instruction]]s compiled by an [[organization]] to help [[worker]]s carry out [[routine operation]]s. SOPs aim to achieve [[efficiency]], [[quality output]] and [uniformity of performance], 性能的一致性 while reducing [[miscommunication]] and [failure to comply with] [[industry regulation]]s.
+220213-22:30
+    - The military (e.g. in the U.S. and UK) sometimes uses the term standing (rather than standard) operating procedure because a military SOP refers to a unit's unique procedures, which are not necessarily standard to another unit. The word "standard" can imply that only one (standard) procedure is to be used across all units.
+    - The term can also be used facetiously to refer to practices that are unconstructive, yet the norm. In the Philippines, for instance, "SOP" is the term for pervasive corruption within the government and its institutions.[1][2]

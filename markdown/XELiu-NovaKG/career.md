@@ -16,8 +16,10 @@
             - 公务员收入本来就[按照地区浮动]。倒是[工资条](https://bbs.saraba1st.com/2b/thread-2020766-1-1.html)是不能随便爆出来吧。 #pt7-99.98
             - 公积金，[奖金]不谈？[工资几千][一年收入二十几万]的[又不是没见过]，唬谁啊
             - 公积金/年度绩效/其他节日福利…… [公务员工资]光一个工资单吗
-- work experience
-- [[workplace]]
+- work
+    - work experience
+    - [[worker]]
+    - [[workplace]]
 - 面试
     - 面试 210605-10:00
 - 入职

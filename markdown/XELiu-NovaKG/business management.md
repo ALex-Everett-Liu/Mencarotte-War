@@ -11,6 +11,7 @@
 - [[manager]]
 - [[Master in Business Administration (MBA)]]
 - shift; 轮班制度
+- [[standard operating procedure (SOP)]]
 - [[track performance]];
 - #inbox
     - 为了[加大信息透明](https://bbs.saraba1st.com/2b/thread-2024507-3-1.html)，谷歌[在内部实施] [OKR 考核制度]。每个季度，[每位员工]都需要[更新自己的] OKR，并[在公司内发布]，[好让大家快速了解][彼此的工作重点]。
