@@ -1,4 +1,5 @@
 - asymmetry
 - [[continuous symmetry]]
 - [[differentiable symmetry]]
+- [[molecular symmetry]]
 - [[Noether's theorem]]

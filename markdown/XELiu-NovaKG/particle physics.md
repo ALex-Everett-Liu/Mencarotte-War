@@ -1,10 +1,14 @@
 - [[antimatter]]
 - baryonic matter
+- [[CP violation]]
+    - [[strangeness]]
 - [[elementary particle]]; fundamental particle
 - general...
     - dot particle model
     - internal structure
     - smallest indivisible constituent
+- [[parity invariance]]: 宇称不变性
+    - parity transformation
 - [[particle]]
     - [[classical particle]]
     - particle species
@@ -13,6 +17,7 @@
 - [[particle detector]]
 - [[point particle]]
 - [[proton]]
+- [[quark]]
 - [[standard model]]
 - subdivided infinitely; 
 - [[theoretical physics]]; [[theoretical physicist]]
