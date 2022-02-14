@@ -360,8 +360,8 @@ O2：25%；
         - 6. The interferogram is then transformed with a Fourier Transform function to obtain a spectrum.
 - ---
 - FTIR 机箱的集成
-    - [电源滤波器](((6Y9Cq5ngQ))) 
-    - 开关电源
+    - 220 VAC mains AC   connect to   [电源滤波器]([[line filter]]) L N PE -- 输出端分别连接 [[EMC Filter]] 的 port 4/3/FG2 -- 输出端连接[开关电源]([[switched-mode power supply]])的 L N PE
+    - 固态继电器输入端 24~380 VAC | input port1 - 开关电源-L | input port2 - 加热带2 | 加热带1 - 开关电源-N
     - 20211124 18:00~23:30 集成机箱
 - Questions
     - 波动较大

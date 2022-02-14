@@ -19,6 +19,7 @@
     - [[digital system]]
         - [[non-digital electronic system]]
     - [[device type]];
+    - electrical equipment
     - smart device
 - [[embedded system]]; [[embedded application]]
     - [[plug-in card]]: 插入卡片, 插件;

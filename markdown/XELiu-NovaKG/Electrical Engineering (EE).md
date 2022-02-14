@@ -13,7 +13,8 @@
 - [[electrical hardware]]; [[electrical product]]
 - [[electrical power]]
     - high voltage electricity
-- [[electromagnetic interference (EMI)]]; [[radio-frequency interference (RFI)]]
+- [[electromagnetic interference (EMI)]]; [[radio-frequency interference (RFI)]]; [[radio frequency interference (RFI)]]
+    - [[electromagnetic disturbance]]
 - [[electronic filter]]
 - [[electric wire]]
 - [[power consumption]]
@@ -40,7 +41,7 @@
 - [[relay]]: 继电器
     - [[optical relay block]]
 - [[solenoid valve]]: 电磁阀; [[solenoid]]: 螺线管
-- [[switch]]
+- [[switch]]; [[electronic switch]]
     - [[on-off control]]
     - [[passive switch box]]: 无源开关箱
 - [[接地]]
