@@ -6,6 +6,7 @@
 - [[communication channel]]
     - concurrent communication sessions
     - multiplexing
+- [[control signal]]
 - [[current signal]]
 - [[multiplex]]: 多路复用
 - [[noise]]

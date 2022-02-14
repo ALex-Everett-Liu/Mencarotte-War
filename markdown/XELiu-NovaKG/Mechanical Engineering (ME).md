@@ -26,6 +26,7 @@
 - [[millstone]]: 磨石, 磨盘
     - [[windmill]]: 风车
 - [[motor]]
+- [[moving parts]]
 - [[power drill]]: 电钻
     - [[drill holes]]: 钻孔; drilling holes
 - [[prime mover]]: 原动机 
