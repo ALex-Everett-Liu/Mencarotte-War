@@ -2,3 +2,6 @@
 - [[pixel]]
 - [[raster image]]: 栅格/点阵图
     - rasterized
+- #inbox
+    - 找个能快速[对比两个图片信息]，[较好的分辨出]那张图片[细节还原度较高]，[数量太多][用肉眼很容易疲劳] #pt8-100
+        - beyond compare 可以比[效果大概这样](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=2039910)
