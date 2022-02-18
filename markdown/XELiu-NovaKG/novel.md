@@ -5,7 +5,7 @@
     - [[alternative history]]
         - [[time travel]]; travel/journey to the past; 穿越时空
 - metropolis?
-    - 
+    - 重生传奇; 吾家有妻骄养成; 网游之少爷天下; 重生从闲鱼赢起; 重生从拒绝加班开始; 李氏; 俗人回档; 我就是情圣
 - [[novelist]]
     - 纳博科夫
 - [[romance novel]]
