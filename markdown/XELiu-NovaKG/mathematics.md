@@ -42,6 +42,6 @@
     - [[periodic summation]]
 - [[statistics]]; [[statistician]]
     - [[data analysis]]; [[analyst]]
-    - [[probability theory]]
+    - [[probability theory]]; [[probability]]
 - [[symbolic manipulation]]
 - [[systems theory]]

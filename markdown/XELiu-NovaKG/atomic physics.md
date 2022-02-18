@@ -1,5 +1,5 @@
 - [[atomic mass]]
-- [[atomic nucleus]]
+- [[atomic nucleus]]; [[atomic nuclei]]
     - the electric field of the nucleus;
     - energy levels of nuclei;
     - [[nuclear attraction]]

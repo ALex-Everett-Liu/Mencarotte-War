@@ -10,6 +10,7 @@
     - [[quantum system]]
     - [[quantum technology]]
     - [[quantum world]];
+- [[identical particles]]
 - localized at a point; [[phys/localization]]
     - [[non-localization]];
     - spread out in space
@@ -27,6 +28,7 @@
 - [[quantum information]]; [[quantum information science]]
 - [[quantum interpretation]]
 - [[quantum number]]
+- [[quantum statistics]]
 - [[spin]]
 - [[symmetry]]
 - [[uncertainty principle]]

@@ -7,6 +7,7 @@
 - novel
     - {{[[TODO]]}} [[费伦的影帝]] - 马库斯家的猫 著 #pt10-99.99
         - 小说原名《来自大冰原的传奇扮演者》
+    - 哎，人王; 生存斗争; 
 - [[Dungeons & Dragons: Player's Handbook]]
 - [[Pathfinder]]; Pathfinder franchise
     - [[Pathfinder: Kingmaker]]

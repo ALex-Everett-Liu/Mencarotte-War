@@ -11,11 +11,11 @@
 - [[thermodynamic entropy]]
 - [[zero entropy]]
 - #inbox
-    - “[We can therefore say that] W0 (entropy) measures our [degree of ignorance] as to the [true unknown microstate], when [the only information we have] consists of the [macroscopic thermodynamic parameters]”
+    - “[We can therefore say that] W0 (entropy) measures our [degree of ignorance](((lBxpZhO3x))) as to the [true unknown microstate], when [the only information we have] consists of the [macroscopic thermodynamic parameters]”
 于是我们可以说，熵[度量了]我们对真实的[未知微观态]的[无知程度]，[此时我们所知的仅限于][宏观热力学参数] （[斜体字][出自原文]，非本人所加） - Jaynes，1965[1]   #pt10-100
 
 
-        - 从[上面的讨论][我们可以知道](https://www.zhihu.com/question/20992022/answer/2253423169)，当所有的[各种可能性出现的概率]都相等的时候，我们[对一个问题的][无知度]最高。这一点[很容易理解]，当你面对一个[选择题]的时候，如果你知道B选项的概率[高于其他选项]，[你对这道题的把握]肯定会高于[所有选项概率都相等]的情况。
+        - 从[上面的讨论][我们可以知道](https://www.zhihu.com/question/20992022/answer/2253423169)，当所有的[各种可能性出现的概率]都相等的时候，我们[对一个问题的][无知度](((lBxpZhO3x)))最高。这一点[很容易理解]，当你面对一个[选择题]的时候，如果你知道B选项的概率[高于其他选项]，[你对这道题的把握]肯定会高于[所有选项概率都相等]的情况。
 
 这恰恰就是[平衡态]。
 

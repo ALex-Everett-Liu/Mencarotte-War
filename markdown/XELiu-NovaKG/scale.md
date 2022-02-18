@@ -9,6 +9,7 @@
     - microscopic phenomena; microscopic behaviour
     - [[microstate]]
     - [[nanometer scale]]; nanometer-scale object; nanoscale metal object
+    - [[quantum scale]]
     - [[small scale]]
     - subatomic scale; subatomic domain;
     - deep subwavelength scale

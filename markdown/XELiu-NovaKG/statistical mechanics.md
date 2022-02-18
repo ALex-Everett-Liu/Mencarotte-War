@@ -3,4 +3,5 @@
 - [[entropy]]
 - [[kinetic theory of gases]]; [[kinetic theory]]
 - [[Poincaré recurrence theorem]]
+- [[quantum statistics]]
 - statistical interpretation

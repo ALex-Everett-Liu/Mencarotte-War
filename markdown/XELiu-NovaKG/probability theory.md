@@ -12,6 +12,7 @@
 - [[covariance]]: 协方差
 - [[frequency distribution]]
 - [[gambling]]
+- [[probabilistic argument]]
 - [[probability amplitude]]
 - [[probability distribution]]
 - [[randomness]]

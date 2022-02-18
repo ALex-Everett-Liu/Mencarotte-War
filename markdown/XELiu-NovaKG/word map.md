@@ -87,6 +87,9 @@
                     - [[antiquity]]
             - [[anxiety]]
                 - anxious;
+        - ap
+            - apply
+                - applicable: 适用; applicability
         - ar
             - architect
                 - architecture;
