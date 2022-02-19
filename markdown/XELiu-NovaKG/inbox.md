@@ -61,7 +61,7 @@
             - https://www.zhihu.com/people/dong-li-zhuang-jia-yi-yang-zao-62
             - https://www.zhihu.com/people/mi-xiao-yang-90-53
     - novel
-        - 御姐; 女神代行者 (阿米巴星球); 听雪谱
+        - 御姐; 女神代行者 (阿米巴星球); 听雪谱; 女主从书里跑出来了怎么办
         - 大穿越时代; 光头武僧在都市; 诡秘者的摩登时代
     - work
         - SF Express 最终同意按比例赔付250元

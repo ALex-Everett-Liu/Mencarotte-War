@@ -1,6 +1,6 @@
 - allow the structure to emerge gradually;
 - emerge from more basic constituents
-- [[emergent property]]
+- [[emergent property]]; emergent phenomena
 - [[emergent theory]];
 - [[emergentism]]
 - [[holistic approach]]

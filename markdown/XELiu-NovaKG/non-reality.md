@@ -1,5 +1,8 @@
 - [[fantasy]]; fantasy setting
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
+    - oriental fantasy
+        - [[武侠 (wuxia)]]
+        - [[仙侠 (xianxia)]]
 - fiction; fictional setting
 - magic; magic use
     - [[wizard]]
