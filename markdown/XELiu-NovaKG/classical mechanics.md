@@ -13,7 +13,7 @@
 - [[fluid mechanics]]
 - [[friction]]
 - [[force]]
-    - [[stress]]; [[strain]]: 张力
+    - [[stress]]: 应力; [[strain]]: 张力
 - Galileo experiment
     - dropped weights from a leaning tower
     - [[inclined surface]]

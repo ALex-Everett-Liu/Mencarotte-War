@@ -1,4 +1,5 @@
 - [[classic thermodynamics]]
+- [[critical point]]
 - general...
     - insulated enclosure
 - [[heat]]
@@ -7,6 +8,7 @@
     - [[absolute zero]]
     - [[the second law of thermodynamics]]
 - [[radiation]]
+- [[specific heat]]
 - [[temperature]]
 - [[thermal equilibrium]]
     - [[random fluctuation]]; [[thermal fluctuation]]

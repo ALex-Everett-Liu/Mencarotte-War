@@ -5,6 +5,7 @@
     - [[nuclear attraction]]
 - [[atomic structure]]
 - [[atomic theory]]
+    - [[atomic model]]
     - [[corpuscular theory]]
 - [[electron orbit]]
     - [[electron shell]]

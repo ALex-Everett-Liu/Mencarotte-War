@@ -1,0 +1,6 @@
+- Liquid helium is [a physical state of helium] [at very low temperatures] [at standard atmospheric pressures]([[standard atmospheric pressure]]). Liquid helium may show [[superfluidity]].
+    - At standard pressure, the [chemical element] helium [exists in a liquid form] [only at the extremely low temperature of] −269 °C (−452.20 °F; 4.15 K). Its [[boiling point]] and [[critical point]] depend on [which isotope of helium is present]([[isotope]]): the [common isotope] [[helium-4]] or the [rare isotope] [[helium-3]]. [These are the only two] [[stable isotope]]s of helium. [See the table below for] [the values of these physical quantities]. The density of liquid helium-4 at its boiling point and [a pressure of one atmosphere] (101.3 kilopascals) is about 125 g/L (0.125 g/ml), or about one-eighth the density of [liquid water].[1]
+220219-19:05
+- History
+    - In 1908 the Dutch physicist Kamerlingh-Onnes succeeded in liquifying a small quantity of helium. In 1923 he provided advice to the Canadian physicist John Cunningham McLennan who was the first to produce quantities of liquid helium almost on demand. [6]
+    - Important early work on the characteristics of liquid helium was done by the Soviet physicist Lev Landau, later extended by the American physicist Richard Feynman.

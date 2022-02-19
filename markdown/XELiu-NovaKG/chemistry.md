@@ -42,6 +42,7 @@
     - [[noble gas]]
 - [[ion]]
     - [[ionization energy]]; [[ionization potential]]
+- [[isotope]]
 - [[unreactive gas]]
 - [[mixture]]
     - [[mixture separation]]; separating the different components

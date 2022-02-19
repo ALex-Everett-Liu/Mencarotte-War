@@ -83,7 +83,7 @@
 - [[mathematical modeling]]
 - [[mathematical physics]]
 - [[mechanics]]
-    - [[dynamics]]
+    - [[dynamics]]; [[dynamical theory]]
 - [[nuclear physics]]
 - [[particle physics]]; [[high-energy physics]]; [[high energy physics]]
 - physicist

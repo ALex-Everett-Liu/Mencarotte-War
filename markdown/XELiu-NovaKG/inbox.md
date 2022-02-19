@@ -31,10 +31,13 @@
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +83
         - 【日南めい】果仁糖 +66
-        - 【熊子】I Really Like You 西班牙语版翻唱 +50
+        - 【熊子】I Really Like You 西班牙语版翻唱 +53
         - I Really Like You - Carlie R Jepson +33
         - 查理·普斯《See You Again》 + 30
         - 【囧菌翻唱】Shape Of You - →w→ +4
+        - 【熊子】流光物语 +2
+            - 和我去看流光划过的地方！
+            - 这首是这次[电气急行LIVE][表演了的]小野道[五连唱]的[其中一首]！
     - webpage
         - DSC_8076-pt10-100
         - 8f5945 -- pt10-99.99
