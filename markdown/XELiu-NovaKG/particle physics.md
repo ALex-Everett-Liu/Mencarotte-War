@@ -15,6 +15,7 @@
     - subatomic scale; subatomic domain;
         - [[subatomic particle]]; sub-atomic particle; [[submicroscopic particle]]
 - [[particle detector]]
+- particle trajectory; 
 - [[point particle]]
 - [[proton]]
 - [[quark]]
