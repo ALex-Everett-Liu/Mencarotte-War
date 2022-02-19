@@ -4,3 +4,4 @@
 - [[order parameter]]
 - [[solid-state physics]]; [[solid]]
 - [[superfluid]]; [[superfluidity]]
+- [[vaporization]]: 汽化, 蒸发;

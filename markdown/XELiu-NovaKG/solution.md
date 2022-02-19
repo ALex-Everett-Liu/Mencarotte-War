@@ -1,3 +1,4 @@
 - [[organic solution]]
+- [[solubility]]: 溶解度
 - [[solvent]]: 溶剂, 溶媒;
     - [[organic solvent]]
