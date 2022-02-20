@@ -1,6 +1,6 @@
 - Bell's test; [[Bell's theorem]]
     - [[John Stewart Bell]]
-- local hidden-variable theory
+- local hidden-variable theory; [[local hidden variable]]
 - nonlocal hidden variable theory
     - [[David Bohm]]
 - nature fact
