@@ -7,6 +7,9 @@
 - make love;
     - sleeping together; 上床
 - [[marriage]]
+- metropolis date?
+    - [[bar]]
+    - [[club]]: 夜总会, 夜店
 - [[philander]]: 玩弄女性, 调戏妇女, 调情; [[hunt for beauties]]
     - trolling for men; 钓凯子
 - [[romance]]; [[love affair]]

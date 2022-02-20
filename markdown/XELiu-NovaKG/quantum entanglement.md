@@ -1,5 +1,5 @@
 - [[area-law behavior]]; [[area law]]
-- [[entangled particles]]
+- [[entangled particles]]; [[entangled qubits]]
 - [[entanglement entropy]]
     - scale as the volume;
     - scale like the area of the boundary;
@@ -10,6 +10,7 @@
 - instantaneous connection; instantaneous bond
 - long-range quantum connection
 - physical independence;
+- [[quantum correlation]]
 - single entity;
 - spatiotemporal interconnection
 - spatially isolated; spatial separation

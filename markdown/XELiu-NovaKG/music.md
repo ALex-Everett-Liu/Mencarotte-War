@@ -21,6 +21,9 @@
     - [[The Cascades]]
     - [[The Carpenters]]
     - [[Carly Rae Jepsen]]
+    - [[Ed Sheeran]]
+    - ---
+    - [[Havana]] - Camila Cabello
 - Japanese music
     - [[Bokalo Ongaku]]
     - [[JPOP]]
