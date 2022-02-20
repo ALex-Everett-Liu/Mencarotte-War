@@ -1,0 +1,3 @@
+- dictionary
+    - The simplest [covalently bonded molecule] is formed from two [[hydrogen atom]]s. 百度翻译例句库
+    - [A novel method for] [covalent attachment] of [synthetic DNA] to [glass support] 载片 dict.cnki.net

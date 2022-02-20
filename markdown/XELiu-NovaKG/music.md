@@ -5,10 +5,11 @@
 - Chinese music
     - [[春三月 (chun sanyue)]] # pt7-99.97
     - [[好梦长留]]
-    - [[惊鹊 (jingque)]] #pt8-99.99
+    - [[惊鹊 (jingque)]] #pt8-100
     - [[梅子黄时]]
     - [[宁夏 (ningxia)]]
     - [[青柠 (qingning)]]
+    - [[水叙湖风 (shuixu hufeng)]]  #pt9-99.99
     - [[棠梨煎雪 (tangli jianxue)]] #pt9-100
     - [[桃花笑 (taohua xiao)]]
     - [[小城谣 (xiaocheng yao)]]

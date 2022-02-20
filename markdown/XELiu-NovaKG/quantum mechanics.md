@@ -4,7 +4,7 @@
     - [[quantized]]
     - quantum-based
     - [[quantum effect]]; [[quantum phenomena]];
-    - quantum particle
+    - [[quantum particle]]
     - [[quantum physics]]; [[quantum theory]]
     - [[quantum process]];
     - [[quantum system]]

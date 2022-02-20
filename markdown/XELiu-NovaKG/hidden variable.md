@@ -1,8 +1,9 @@
-- Bell's test
-    - [[John Bell]]
-- nature fact
+- Bell's test; [[Bell's theorem]]
+    - [[John Stewart Bell]]
+- local hidden-variable theory
 - nonlocal hidden variable theory
     - [[David Bohm]]
+- nature fact
 - incomplete theory
     - [[additional information]]
     - complete description

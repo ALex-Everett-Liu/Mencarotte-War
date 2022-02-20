@@ -1,6 +1,7 @@
 - agnostic position; [[agnosticism]]: 不可知论
 - [[classical interpretation]]
 - [[Copenhagen interpretation]]
+    - [[correspondence principle]]
     - orthodox position; orthodox interpretation
 - [[hidden variable]]
 - [[many worlds interpretation (MWI)]]

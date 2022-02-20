@@ -34,13 +34,13 @@
     - [[modern physics]]
     - object, entity...
         - [[physical entity]]; [[non-physical entity]]
-        - ordinary object
+        - ordinary object; [[physical object]]
         - [[real world]]; [[real-world object]]; [[real entity]]
     - physical...
         - [[physical law]]
         - physical mechanism
         - [[physical process]]
-        - physical property; physical properties
+        - [[physical property]]; physical properties
             - counter-intuitive property
             - [[intrinsic property]]
         - [[physical quantity]]
