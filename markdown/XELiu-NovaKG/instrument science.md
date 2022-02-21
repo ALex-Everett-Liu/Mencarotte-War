@@ -30,6 +30,7 @@
 - [[instrument design]]
 - [[instrument system]]
 - [[linear deviation]]
+    - [[linear approximation]]
     - linear response
     - [[linearity]]
     - ordinate linearity: 纵坐标线性;

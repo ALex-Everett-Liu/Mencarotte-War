@@ -1,9 +1,8 @@
 - [[analytical expression]]: 解析表达式
 - [[approximation]]
     - [[accuracy]]; [[accurate]]
-    - first approximation
     - negligible effect
-    - valid
+    - [[valid]]
 - conditions...
     - finite region
     - infinitely small thicknesses
