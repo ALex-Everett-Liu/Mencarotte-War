@@ -1,0 +1,1 @@
+- [[positive temperature coefficient (PTC)]]
