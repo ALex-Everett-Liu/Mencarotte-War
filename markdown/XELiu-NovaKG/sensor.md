@@ -5,6 +5,6 @@
 - [[remote sensing]]; remote sensor
     - extrinsic sensor
     - [[remote control]]
-- sensing element
+- [[sensing element]]
     - intrinsic sensor
     - distributed sensing

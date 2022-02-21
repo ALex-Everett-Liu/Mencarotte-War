@@ -6,4 +6,5 @@
 - [[room temperature]]
 - [[temperature control]]
     - [[temperature regulation]]: 温度调节
+    - [[thermometer]]
     - [[thermostat]]

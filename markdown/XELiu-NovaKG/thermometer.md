@@ -1,0 +1,3 @@
+- [[resistance thermometer]]
+    - resistance versus temperature relationship (R vs T); 
+- [[thermocouple]]
