@@ -36,11 +36,11 @@
         - 【熊子】I Really Like You 西班牙语版翻唱 +53
         - I Really Like You - Carlie R Jepson +33
         - 查理·普斯《See You Again》 + 30
-        - 【囧菌翻唱】Shape Of You - →w→ +21
+        - 【囧菌翻唱】Shape Of You - →w→ +27
         - 【熊子】流光物语 +2
             - 和我去看流光划过的地方！
             - 这首是这次[电气急行LIVE][表演了的]小野道[五连唱]的[其中一首]！
-        - 【泠鸢·原创】大喜【国风电音+舞蹈】 +12
+        - 【泠鸢·原创】大喜【国风电音+舞蹈】 +19
     - webpage
         - DSC_8076-pt10-100
         - 8f5945 -- pt10-99.99
