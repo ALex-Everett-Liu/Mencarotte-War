@@ -31,9 +31,9 @@
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +83
         - 【日南めい】果仁糖 +66
-        - Havana - [封茗囧菌](https://www.bilibili.com/audio/au108344) +13
-        - 【熊子】Havana 西班牙语翻唱 生日作 +6
-        - 【熊子】I Really Like You 西班牙语版翻唱 +53
+        - Havana - [封茗囧菌](https://www.bilibili.com/audio/au108344) +18
+        - 【熊子】Havana 西班牙语翻唱 生日作 +10
+        - 【熊子】I Really Like You 西班牙语版翻唱 +57
         - I Really Like You - Carlie R Jepson +33
         - 查理·普斯《See You Again》 + 30
         - 【囧菌翻唱】Shape Of You - →w→ +27
