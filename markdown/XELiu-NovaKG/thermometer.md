@@ -1,3 +1,5 @@
 - [[resistance thermometer]]
+    - 铂电阻; PT 100; platinum resistance thermometer
     - resistance versus temperature relationship (R vs T); resistance–temperature relationship
 - [[thermocouple]]
+- 感温元件

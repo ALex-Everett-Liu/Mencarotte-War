@@ -12,9 +12,8 @@
         - [[electrical heating element]]; [[electric heating]]
         - [[heating wire]]
     - [[preheat]]
+    - [[temperature control]]
     - [[trace heating]]
-    - 感温元件
-        - 铂电阻; PT 100
     - 加热棒; 加热片
 - [[heating, ventilation, and air conditioning (HVAC)]]
 - oil and petrochemicals industries
