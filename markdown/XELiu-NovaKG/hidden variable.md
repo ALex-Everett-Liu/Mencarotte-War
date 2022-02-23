@@ -4,7 +4,7 @@
 - nonlocal hidden variable theory
     - [[David Bohm]]
 - nature fact
-- incomplete theory
+- the completeness of quantum mechanics; incomplete theory
     - [[additional information]]
     - complete description
     - a defect in the theory
