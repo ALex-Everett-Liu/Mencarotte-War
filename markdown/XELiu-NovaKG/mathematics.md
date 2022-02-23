@@ -7,6 +7,7 @@
     - [[mathematical modeling]]
     - [[scientific computation]]
 - [[discrete mathematics]]
+- [[extreme value]]
 - [[function]]
 - [[game theory]]
 - general...

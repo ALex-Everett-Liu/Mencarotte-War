@@ -11,6 +11,7 @@
 - long-range quantum connection
 - physical independence;
 - [[quantum correlation]]
+    - [[classical correlation]]
 - single entity;
 - spatiotemporal interconnection
 - spatially isolated; spatial separation

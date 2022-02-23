@@ -16,4 +16,37 @@
 220220-23:30
         - [A couple prepared in the state] psi [has the following property]. If the [same observables] are [measured on both particles], [by the construction] [the results would be the same]. But measuring different observables one gets 0 on both particles with probability 1/8 (as well as for both observation providing 1). Thus the sum of the probabilities to get the same value measuring different observables (for 3 pairs of different observables) is 6/8.
         - On the other hand that sum should be at least 1, assuming that the results of all measurments are predetermined and, as it is in this case, same for both particles. Indeed, at least two out of three observables should be equal, so any predetermination contributes at least 1 to the sum.
-    - The best possible [local realist imitation] (red) for the [[quantum correlation]] of two spins in the [[singlet state]] (blue), insisting on perfect anti-correlation at 0°, perfect correlation at 180°. Many other possibilities exist for the classical correlation subject to these side conditions, but all are characterized by sharp peaks (and valleys) at 0°, 180°, and 360°, and none has more extreme values (±0.5) at 45°, 135°, 225°, and 315°. These values are marked by stars in the graph, and are the values measured in a standard Bell-CHSH type experiment: QM allows ±1/√2 = ±0.7071..., local realism predicts ±0.5 or less.
+    - The best possible [local realist imitation] (red) for the [[quantum correlation]] of two spins in the [[singlet state]] (blue), insisting on [perfect anti-correlation] at 0°, [perfect correlation] at 180°. [Many other possibilities exist for] the [[classical correlation]] [subject to these side conditions], but all are characterized by [sharp peaks] (and valleys) at 0°, 180°, and 360°, and none has more [[extreme value]]s (±0.5) at 45°, 135°, 225°, and 315°. These values are [marked by stars] in the graph, and are the values measured in a standard [Bell-CHSH type experiment]: QM allows ±1/√2 = ±0.7071..., [local realism] predicts ±0.5 or less.
+        - 
+        - The best possible local realist imitation (red) for the quantum correlation of two spins in the singlet state (blue), insisting on perfect anti-correlation at zero degrees, perfect correlation at 180 degrees. Many other possibilities exist for the classical correlation subject to these side conditions, but all are characterized by sharp peaks (and valleys) at 0, 180, 360 degrees, and none has more extreme values (+/-0.5) at 45, 135, 225, 315 degrees. These values are marked by stars in the graph, and are the values measured in a standard Bell-CHSH type experiment: QM allows , local realism predicts or less. 
+        - Richard Gill, 22 December 2013, drawn with R
+        - ```r
+svg("Bell.svg", width = 7, height = 6)
+
+plot(0, 0, xlim = c(0, 2), ylim = c(-1, 1), type = "n", axes = FALSE, ylab="", xlab = "", mar = c(1, 1, 1, 1))
+
+x <- seq(from = 0, to = 2, length = 181)
+
+lines(x, -cos(pi*x), col = "blue", lwd = 2)
+
+lines(c(0, 1, 2), c(-1, 1, -1), col = "red", lwd = 2)
+
+lines(c(0, 2, 2, 0,0), c(-1, -1, 1, 1, -1))
+
+abline(h=0)
+
+legend(0.05, 0.95, legend = c("Quantum", "Classical"), lwd = c(2, 2), col = c("blue", "red"))
+
+text(c(0, 1/2, 1, 3/2, 2), -0.1, labels = c(0,90, 180, 270, 360), cex = 1.5 )
+
+text(-0.05, c(-1, 0, 1), c(-1, 0, 1), cex=1.5)
+
+text(-0.2, 0, "Correlation", srt = 90, cex = 1.5, pos = 1, xpd = NA)
+
+text( 1.0, -1.1, "Angle between detectors (in degrees)", cex = 1.5, pos = 1, xpd = NA)
+
+graphics.off();```
+- Importance
+    - Bell's theorem, derived in his seminal 1964 paper titled "On the Einstein Podolsky Rosen paradox",[2] has been called, [on the assumption that] [the theory is correct], "the most profound in science".[15] [Perhaps of equal importance is] [Bell's deliberate effort to encourage] and [bring legitimacy to work on] [the completeness issues], which had fallen into disrepute.[16] Later in his life, Bell [expressed his hope] that such work would "[continue to inspire those who suspect that] what is proved by [the impossibility proofs] is [lack of imagination]."[16] N. David Mermin has described [the appraisals of the importance of] Bell's theorem [in the physics community] as [ranging from "indifference" to "wild extravagance"].[17]
+220223-20:00
+    - The title of Bell's seminal article refers to the 1935 paper by Einstein, Podolsky and Rosen[18] that challenged the completeness of quantum mechanics. In his paper, Bell started from the same two assumptions as did EPR, namely (i) reality (that microscopic objects have real properties determining the outcomes of quantum mechanical measurements), and (ii) locality (that reality in one location is not influenced by measurements performed simultaneously at a distant location). Bell was able to derive from those two assumptions an important result, namely Bell's inequality. The theoretical (and later experimental) violation of this inequality implies that at least one of the two assumptions must be false.
