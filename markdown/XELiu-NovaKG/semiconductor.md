@@ -1,4 +1,5 @@
 - [[degenerate semiconductor]]
+- [[semiconductor particle]]
 - [[silicon substrate]]
 - #inbox
     - 这就是[季退思][在知乎吐槽的]，[光刻机][大家都知道重要]，结果 SMEE [从成立到][打贸易战][一共才投入几个亿]，连发工资[都扣]，里面[总工][自我吐槽]是[要不是我们一帮][有理想]的[有房子]的[魔都人]在这里[磨机器]，[这烂摊子草台][能撑几年都是个问题]，成了个大型[人才培训基地](https://bbs.saraba1st.com/2b/thread-2044710-2-1.html)

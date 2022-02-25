@@ -1,4 +1,5 @@
 - [[energy conservation]]
+- [[energy difference]]
 - [[energy flow]]; [[power flow]]
     - [[Umov–Poynting vector]]
 - energy conversion

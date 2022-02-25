@@ -14,6 +14,7 @@
 - [[nanowire]]
 - [[plasmonics]]
     - [[surface plasmon polaritons (SPPs)]]
+- [[quantum dot]]
 - [[subwavelength optics]]
 - ---
 - Nanophotonics or nano-optics is the study of [the behavior of light](((BDKEiMXd8))) on the [[nanometer scale]], and of the interaction of [nanometer-scale objects](((kx5fQo1pK))) with light. It is a branch of optics, [[optical engineering]], [[Electrical Engineering (EE)]], and [[nanotechnology]]. It often involves [[dielectric structure]]s such as [[nanoantennas]], or [[metallic component]]s, [which can](((_vUPsWUkd))) [transport and focus light]([[focus light]]) via [[surface plasmon polaritons (SPPs)]].
