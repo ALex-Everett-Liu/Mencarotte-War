@@ -22,6 +22,7 @@
     - predict the outcome
 - [[quantization]]; quantized
 - [[quantum chemistry]]
+- [[quantum confinement]]
 - [[quantum field]]; [[quantum field theory]]
     - [[classical field]]
 - [[quantum fluctuation]]
