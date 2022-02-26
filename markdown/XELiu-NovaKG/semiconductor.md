@@ -1,3 +1,4 @@
+- [[bulk semiconductor]]
 - [[degenerate semiconductor]]
 - [[semiconductor particle]]
 - [[silicon substrate]]

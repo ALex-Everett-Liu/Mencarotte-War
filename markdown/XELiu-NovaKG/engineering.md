@@ -18,7 +18,7 @@
         - [[管阀件]]
 - [[industrial engineering]]
 - [[logistics]]
-- [[material]]; [[material science]]
+- [[material]]; [[materials science]]; [[material science]]
 - [[Mechanical Engineering (ME)]]
 - [[space science]]
 - [[standard]]?
