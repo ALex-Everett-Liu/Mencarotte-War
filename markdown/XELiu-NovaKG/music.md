@@ -4,6 +4,7 @@
     - [[ASMR]]
 - Chinese music
     - [[春三月 (chun sanyue)]] # pt7-99.97
+    - [[多情岸 (duoqing'an)]]
     - [[好梦长留]] #pt8-99.99
     - [[好字唯之 (haozi weizhi)]] #pt8-100
     - [[惊鹊 (jingque)]] #pt8-100
