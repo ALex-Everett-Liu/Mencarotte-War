@@ -1,0 +1,6 @@
+- [[color filter]]; display color filter: 显示器滤色器;
+    - [[color crosstalk]]: 色串扰
+- [[color gamut]]: 色域
+- [[display brightness]]
+- [[display panel]]
+- [[liquid-crystal display (LCD)]]

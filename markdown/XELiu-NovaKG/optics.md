@@ -63,7 +63,9 @@
             - KBr beamsplitter
         - [[chopper]]: 斩波器; 遮光器; 截断器, 断路器;
     - [[optical device]]; [[optical instrument]]
-- optoelectronic component; 
+- optoelectronic...
+    - optoelectronic component; 
+    - optoelectronic property; 
 - [[photonics]]
     - [[grating]]
     - [[lithography]]

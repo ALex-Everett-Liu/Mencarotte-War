@@ -8,9 +8,8 @@
 - [[computer system]]
 - [[data storage]]
 - [[dedicated hardware]]
-- display
+- [[display]]; [[display device]]
     - high contrast
-    - [[liquid-crystal display (LCD)]]
     - [[screen]]
 - [[earphone]]
     - [[MP3 player]]

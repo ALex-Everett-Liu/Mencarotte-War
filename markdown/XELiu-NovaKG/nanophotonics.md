@@ -7,6 +7,7 @@
     - nano-sized metal structure; [[metallic nanostructure]]
     - thin metal film
 - [[nanoantennas]]
+- [[nanocrystal]]
 - [[nanoparticle]]
     - [[metallic nanoparticle array]]
 - [[nanoscale aperture]]
