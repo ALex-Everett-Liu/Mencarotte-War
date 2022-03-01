@@ -8,6 +8,7 @@
     - [[electric current]]
     - [[electric field]]
     - [[electric potential]]; [[voltage]]
+        - [[electric potential difference]]
     - [[electromagnetic energy]]
     - [[electromagnetic force]]
     - [[electromagnetic system]]
