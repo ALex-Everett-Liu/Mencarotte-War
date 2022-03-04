@@ -13,6 +13,7 @@
     - [[separate signal from noise]]
     - [[signal-to-noise ratio (SNR)]]
 - [[original signal]]
+- [[signal amplification]]
 - [[signal output]]
 - [[signal processing]]
 - [[sinusoidal signal]]
