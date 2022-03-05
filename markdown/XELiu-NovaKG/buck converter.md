@@ -3,8 +3,13 @@
     - To reduce [[voltage ripple]], [[filter]]s made of capacitors ([sometimes in combination with] inductors) are normally added to [such a converter's] output ([[load-side filter]]) and input ([[supply-side filter]]).[1] It is called a buck converter because [the voltage across the inductor “bucks”] or opposes the [[supply voltage]].[2]
 220305-13:47, 13:58
     - [[switching converter]]s (such as buck converters) provide much greater [[power efficiency]] as [[DC-to-DC converter]]s than [[linear regulator]]s, which are [simpler circuits] that [lower voltages] by [dissipating power as heat](((60uEen3Dz))), but do not step up [[output current]].[3]
-(通过将电源能量以热能型式耗散，而非逐步增加输出电流的方式来降低电压，这样做使得电路更简单，且直流间降压转换的电源效率比线性稳压/降压更高) #pt9-99.99
+(通过将电源能量以热能形式耗散，而非逐步增加输出电流的方式来降低电压，这样做使得电路更简单，且直流间降压转换的电源效率比线性稳压/降压更高) #pt9-99.99
 220305-14:13
         - [The efficiency of buck converters] [can be very high], often over 90%, [making them useful for tasks such as] converting a computer's [main supply voltage](((_zcFCeAHD))), which is usually 12 V, [down to lower voltages] needed by [[USB]], [[dynamic random-access memory (DRAM)]] and the [[central processing unit (CPU)]], which are usually [5](((2fMyYPLIH))), 3.3 or 1.8 V.
 220305-15:23
-        - Comparison of non-isolated switching DC-to-DC converter topologies: buck, boost, buck–boost, Ćuk. The input is left side, the output with load is right side. The switch is typically a MOSFET, IGBT, or BJT transistor.
+        - Comparison of [non-isolated switching DC-to-DC converter topologies]: buck, [[boost converter]], buck–boost, Ćuk. The input is left side, [the output with load] is [right side]. The switch is typically a [[metal–oxide–semiconductor field-effect transistor (MOSFET)]], IGBT, or BJT transistor.
+220305-23:25
+            - this figure shows the presence of a [[commutation cell]] 整流 in the [basic power electronic converters](((4J88B5Tcl)))
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F09qQfYfedc.png?alt=media&token=f913139f-33dc-4c61-aa0a-06f463be18bc)
+- Theory of operation
+    - The [basic operation] of the buck converter [has the current in an inductor] [controlled by two switches] (usually a transistor and a diode). In the idealised converter, [all the components] are [considered to be perfect]. Specifically, the switch and the diode have zero voltage drop when on and zero current flow when off, and the inductor has zero series resistance. Further, it is assumed that the input and output voltages do not change over the course of a cycle, which would imply the output capacitance as being infinite.

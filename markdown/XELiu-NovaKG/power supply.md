@@ -12,6 +12,7 @@
 - [[switched-mode power supply (SMPS)]]
     - [[DC-to-DC power converter]]; [[DC-to-DC converter]]
     - low-voltage regulated DC power: 低压稳压直流电源; 
+    - power electronic converter; 
     - [[step-down power supply]]: 降压电源
     - [[switching converter]]
         - [[buck converter]]: 降压变换器
