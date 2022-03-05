@@ -1,5 +1,4 @@
 - [[anode]]: 阳极; [[cathode]]: 阴极
-- [[buck converter]]
 - cable 
     - [[cable gland]]
     - fiber optic cable; [[telecommunications cable]]
@@ -22,7 +21,6 @@
 - [[power consumption]]
 - [[power line]]
 - [[power generation]]; [[power station]]; [[power generating plant]]
-    - low-voltage regulated DC power: 低压稳压直流电源; 
     - [[mains electricity]]; [[mains AC]]; 市电
     - power system
         - #inbox
@@ -37,7 +35,8 @@
 其实[电力市场]是能做到[计划经济]的，[售电平台][国家垄断]能做到[统购统销]，[整个上下游]归属国家，却互斗争利。总利润就这么多，完全可以[协调定价]，搞什么[电力市场化][是本末倒置]。
 
 赚钱是企业的，亏钱是社会的，哪儿有这么好的事。 #pt7-99.97
-    - [[power supply]]
+    - [[power supply]]; [[supply]]
+        - [[load]]
     - produce electricity; 
     - [[steam power plant]]
 - [[relay]]: 继电器

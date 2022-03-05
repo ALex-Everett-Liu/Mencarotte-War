@@ -1,4 +1,14 @@
-- [[flameproof]] 隔爆/防火 and [[intrinsically safe]] 本质安全型 (本安) power supply
+- dissipating power as heat; 
+- energy storage element; 
+- [[flameproof]] power supply 隔爆/防火电源; [[intrinsically safe]] power supply 本质安全型 (本安) 
+- [[linear regulator]]
 - plug; plugged in;
+- [[power efficiency]]
 - [[power supply unit (PSU)]]
-- [[step-down power supply]]
+- [[supply voltage]]
+- [[switched-mode power supply (SMPS)]]
+    - [[DC-to-DC power converter]]; [[DC-to-DC converter]]
+    - low-voltage regulated DC power: 低压稳压直流电源; 
+    - [[step-down power supply]]: 降压电源
+    - [[switching converter]]
+        - [[buck converter]]

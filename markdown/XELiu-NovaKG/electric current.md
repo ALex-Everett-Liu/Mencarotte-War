@@ -1,6 +1,7 @@
 - [[alternating current (AC)]]
     - [[mains AC]]
 - [[ammeter]]: 电流表, 安培计
+- [[average current]]
 - [[current density]]
 - [[current signal]]
 - [[direct current (DC)]]
