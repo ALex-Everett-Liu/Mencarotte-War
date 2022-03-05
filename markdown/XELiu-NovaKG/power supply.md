@@ -1,6 +1,9 @@
 - dissipating power as heat; 
 - energy storage element; 
 - [[flameproof]] power supply 隔爆/防火电源; [[intrinsically safe]] power supply 本质安全型 (本安) 
+- main supply voltage; 12 V; 
+    - USB 5V;
+- [[mains electricity]]; [[mains AC]]; 市电
 - [[linear regulator]]
 - plug; plugged in;
 - [[power efficiency]]
@@ -11,4 +14,4 @@
     - low-voltage regulated DC power: 低压稳压直流电源; 
     - [[step-down power supply]]: 降压电源
     - [[switching converter]]
-        - [[buck converter]]
+        - [[buck converter]]: 降压变换器

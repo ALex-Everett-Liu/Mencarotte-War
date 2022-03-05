@@ -65,6 +65,7 @@
 - [[self-contained system]]
 - [[small computer]]
 - [[supervisory control computer]]: 监控计算机
+- [[USB]]
 - [[wearable technology]]
     - [[digital watch]]
 - ---

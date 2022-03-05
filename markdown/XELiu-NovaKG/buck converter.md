@@ -5,4 +5,6 @@
     - [[switching converter]]s (such as buck converters) provide much greater [[power efficiency]] as [[DC-to-DC converter]]s than [[linear regulator]]s, which are [simpler circuits] that [lower voltages] by [dissipating power as heat](((60uEen3Dz))), but do not step up [[output current]].[3]
 (通过将电源能量以热能型式耗散，而非逐步增加输出电流的方式来降低电压，这样做使得电路更简单，且直流间降压转换的电源效率比线性稳压/降压更高) #pt9-99.99
 220305-14:13
-    - The efficiency of buck converters can be very high, often over 90%, making them useful for tasks such as converting a computer's main supply voltage, which is usually 12 V, down to lower voltages needed by USB, DRAM and the CPU, which are usually 5, 3.3 or 1.8 V.
+        - [The efficiency of buck converters] [can be very high], often over 90%, [making them useful for tasks such as] converting a computer's [main supply voltage](((_zcFCeAHD))), which is usually 12 V, [down to lower voltages] needed by [[USB]], [[dynamic random-access memory (DRAM)]] and the [[central processing unit (CPU)]], which are usually [5](((2fMyYPLIH))), 3.3 or 1.8 V.
+220305-15:23
+        - Comparison of non-isolated switching DC-to-DC converter topologies: buck, boost, buck–boost, Ćuk. The input is left side, the output with load is right side. The switch is typically a MOSFET, IGBT, or BJT transistor.

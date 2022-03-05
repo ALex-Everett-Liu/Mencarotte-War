@@ -23,7 +23,6 @@
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Obsidian Juggl;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 
     - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; ^^appgo redl^^;; GIFCAM;; tagLyst;; ProcessOn;; TexStudio
     - 牙疼, 消炎药; 芦荟胶;; 苏伯, 海福盛;; sneaker 43码 42码; 擦鞋去污渍的喷雾;; 透明胶带
-    - ​显微镜下的大明; 
     - wayback machine, archive.org;; 
         - https://archive.is/
     - ---
