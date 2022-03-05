@@ -1,3 +1,4 @@
+- [[anode]]: 阳极; [[cathode]]: 阴极
 - [[buck converter]]
 - cable 
     - [[cable gland]]

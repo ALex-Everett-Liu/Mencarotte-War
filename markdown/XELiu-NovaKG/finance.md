@@ -14,7 +14,9 @@
 - [[insurance]]
 - [[invest]]; [[investor]]; investment
 - [[payment]]
-- [[risk management]]
+- risk...
+    - [[risk management]]
+    - [[risk tolerance]]
 - [[stock market]]
     - [[bond market]]: 债券市场 
 - 记账

@@ -40,4 +40,4 @@
         - convert light to electricity
         - [[inefficiency]]
 - [[solid-state electronic device]]
-- [[thermionic emission]]
+- 

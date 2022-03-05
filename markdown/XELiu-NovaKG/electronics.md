@@ -4,8 +4,7 @@
 - [[microelectronics]]
     - [[chip]]
         - [[design semiconductors]];
-    - diode
-        - [[tunnel diode]]
+    - [[diode]]
     - [[electron beam]]
     - [[integrated circuit]]
     - [[logic gate]]

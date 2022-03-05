@@ -1,0 +1,3 @@
+- [[analog computer]] 
+- [[digital computer]]
+- [[mechanical computer]]
