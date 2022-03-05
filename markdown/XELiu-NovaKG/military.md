@@ -5,10 +5,12 @@
     - [[defence spending]]
 - general...
     - military action
+- [[guerrilla warfare]]: 游击战
 - martial...
     - [[martial display]]
 - military formation
 - [[military service]]
+- [[military stalemate]]: 僵持
 - [[soldier]]
     - foot soldier;
 - [[war]]
