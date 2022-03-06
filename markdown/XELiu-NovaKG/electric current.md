@@ -3,6 +3,7 @@
 - [[ammeter]]: 电流表, 安培计
 - [[average current]]
 - [[current density]]
+- [[current flow]]
 - [[current signal]]
 - [[direct current (DC)]]
     - low-voltage regulated DC power: 低压稳压直流电源; 

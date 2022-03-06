@@ -1,4 +1,5 @@
 - [[resistant element]]
+- [[series resistance]]: 串联电阻 
 - [[thermistor]]
 - dictionary
     - Another [general formula] of [equivalent resistance] 等效电阻 of [3 × n step network] www.[dictall].com

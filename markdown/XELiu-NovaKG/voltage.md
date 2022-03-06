@@ -2,3 +2,5 @@
 - [[external voltage]]
 - [[input voltage]]
 - [[mains voltage]]
+- [[voltage drop]]
+- 
