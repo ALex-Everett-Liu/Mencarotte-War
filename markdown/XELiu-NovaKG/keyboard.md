@@ -1,3 +1,4 @@
 - [[keyboard shortcut]]
 - type; [[typist]]: 打字员 
     - [[touch typing]]
+- Fn+F -- 键盘背光
