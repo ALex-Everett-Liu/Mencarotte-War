@@ -13,3 +13,6 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F09qQfYfedc.png?alt=media&token=f913139f-33dc-4c61-aa0a-06f463be18bc)
 - Theory of operation
     - The [basic operation] of the buck converter [has the current in an inductor] [controlled by two switches] (usually a transistor and a diode). In the idealised converter, [all the components] are [considered to be perfect]. Specifically, the switch and the diode have zero voltage drop when on and zero current flow when off, and the inductor has zero series resistance. Further, it is assumed that the input and output voltages do not change over the course of a cycle, which would imply the output capacitance as being infinite.
+- ---
+- DC-DC 降压模块 -- TUNSEK [TS-IPS-V04](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5b2c2e8diq1rH1&id=600441739374&_u=faqs13fc52f)
+    - 24V DC input，直流转直流电压，^^[电压可调][带数显功能]^^

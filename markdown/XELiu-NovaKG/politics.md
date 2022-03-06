@@ -67,6 +67,8 @@
     - public feelings
 - [[reform]]
 - [[revolution]]
+- [[smuggler]]
+    - [[禁海]]
 - 政治制度; hierarchy;
     - [[aristocracy]]
         - [[lord]]
