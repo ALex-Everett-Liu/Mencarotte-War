@@ -4,7 +4,7 @@
 - [[digital circuit]]
 - [[electric current]]
     - [[amplified current]]
-- [[embedded circuit]]
+- [[embedded circuit]]: 嵌入式电路 
 - [[genetic circuit]]
 - [[mixed-signal circuit]]
     - [[mixed signal microcontroller]]
