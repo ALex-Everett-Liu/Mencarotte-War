@@ -8,6 +8,7 @@
 - plug; plugged in;
 - [[power efficiency]]
 - [[power supply unit (PSU)]]
+- [[regulated power supply]]: 稳压电源
 - [[supply voltage]]
 - [[switched-mode power supply (SMPS)]]
     - [[DC-to-DC power converter]]; [[DC-to-DC converter]]

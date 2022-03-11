@@ -4,6 +4,7 @@
 - [[digital circuit]]
 - [[electric current]]
     - [[amplified current]]
+- [[embedded circuit]]
 - [[genetic circuit]]
 - [[mixed-signal circuit]]
     - [[mixed signal microcontroller]]
