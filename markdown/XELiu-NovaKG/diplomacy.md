@@ -5,6 +5,7 @@
 - foreign affairs
     - [[Foreign Office]]; [[Foreign Ministry]]
 - [[international relations]]
+    - 现实主义的大国政治; 力量与利益的对等
 - [[war]]
     - [[annex]]
 - [[treaty]]
