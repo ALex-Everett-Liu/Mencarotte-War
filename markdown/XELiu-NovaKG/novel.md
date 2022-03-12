@@ -1,3 +1,5 @@
+- Chinese classical novel
+    - [[红楼梦 (Dream of the Red Mansion)]]
 - [[detective novel]]; [[crime novel]]: 侦探小说
 - [[fantasy]]; fantasy setting
     - [[Dungeons & Dragons (DnD)]]; [[DND]]

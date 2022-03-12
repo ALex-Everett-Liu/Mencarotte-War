@@ -69,6 +69,7 @@
 - [[revolution]]
 - [[smuggler]]
     - [[禁海]]
+- 民粹主义; 民粹政治
 - 政治制度; hierarchy;
     - [[aristocracy]]
         - [[lord]]
