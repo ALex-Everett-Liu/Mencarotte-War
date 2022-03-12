@@ -1,5 +1,6 @@
 - [[analog circuit]]
 - [[analog to digital conversion]]; [[A/D converter]]; [[analog-to-digital converter]];; [[D/A converter]]
+- [[bench testing]]
 - [[circuit diagram]]
 - [[digital circuit]]
 - [[electric current]]

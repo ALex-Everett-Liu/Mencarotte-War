@@ -1,6 +1,6 @@
 - [[DC voltage]]
 - [[external voltage]]
-- [[input voltage]]
+- [[input voltage]]; [[output voltage]]
 - [[mains voltage]]
+- [[preset voltage]]
 - [[voltage drop]]
-- 

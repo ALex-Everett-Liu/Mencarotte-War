@@ -7,6 +7,7 @@
 - [[linear regulator]]
 - plug; plugged in;
 - [[power efficiency]]
+- [[power supply rail]]; [[supply rail]]
 - [[power supply unit (PSU)]]
 - [[regulated power supply]]: 稳压电源
 - [[supply voltage]]
