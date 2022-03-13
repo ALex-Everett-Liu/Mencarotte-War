@@ -67,7 +67,7 @@
 - 星期一 20/12/2021 20:15 #pt10-99.99 # creamy-white yurongfu #jeans 164~166 cm?
 - 星期一 20/12/2021 20:14 #pt10-99.99 # 双短麻花辫 # keai # dark green long yurongfu 163~165 cm?
 - 星期日 19/12/2021 13:30 #pt9-100 164~165 cm?
-- 星期日 19/12/2021 14:20 #pt9-99.99 164~166 cm?
+- 星期日 19/12/2021 14:20 #[[black boot]] # grey-brown dayi #[[flesh pantyhose]] #pt9-99.99 164~166 cm?
 - 星期一 20/12/2021 08:57 #pt9-100 #[[short ponytail]] 164~166 cm?
 - 星期一 20/12/2021 20:13 #pt9-99.99 # black wedge short boot # black long dayi 167~169 cm?
 - 星期日 19/12/2021 14:20 #pt8-99.98 #[[light purple yurongfu]] # white-pink sneaker # black socks 165~168 cm?

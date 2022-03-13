@@ -7,9 +7,9 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fcu_CgzWgLD.png?alt=media&token=ac0c96a1-c283-448b-a5b0-9d157b6fce89)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FiAT63v6mEy.png?alt=media&token=96064d00-c1a3-4c6f-add5-7825ae7a0c07)
 - 星期日 19/12/2021 14:20 #pt8-99.98 #[[light purple yurongfu]] # white-pink sneaker # black socks 165~168 cm?
-- 星期日 19/12/2021 14:20 #pt9-99.98 161~162 cm? -- 170~172 cm?
+- 星期日 19/12/2021 14:20 #[[black leather shoes]] # white socks with black stripe #pt9-99.98 161~162 cm? -- 170~172 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FgqpJO0gxgN.png?alt=media&token=8a7d9a1c-1d86-4005-b86a-10f3cfcafa00)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FNUwAMyYFdN.png?alt=media&token=a0b34293-28e1-4d1b-bda4-9d05f55934f0)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fh7ZV14wmc8.png?alt=media&token=69a458b1-a3a1-4846-b092-17b821bcde5b)
-- 星期日 19/12/2021 14:20 #pt9-99.99 164~166 cm?
+- 星期日 19/12/2021 14:20 #[[black boot]] # grey-brown dayi #[[flesh pantyhose]] #pt9-99.99 164~166 cm?
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FAB4AN4v4q0.png?alt=media&token=806cce90-74fe-47ef-b0e4-e8a585c5cbe4)
