@@ -6,7 +6,7 @@
     - ... 
 - roam diagram; 
 - number_of_consorts = 30
-- bitball; jdjr; 9000; 大奉
+- bitball; jdjr; 9000; 
 - work time
     - SF售后
     - 主题交流与请教
