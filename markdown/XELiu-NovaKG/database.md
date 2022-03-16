@@ -19,6 +19,7 @@
 - [[SQL]]; SQL programming language
     - OQL
 - store and transmit data objects;
+- [[structured database]]
 - [[table]]
     - [[spreadsheet]]
         - [[spreadsheet cell]]

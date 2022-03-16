@@ -9,7 +9,7 @@
         - [sample project](https://workflowy.com/#/a8412432157f)
     - flow chart
         - [[Excalidraw]]
-    - illustration
+    - [[illustration]]
         - accompanying painting
     - [visualization...](https://workflowy.com/#/76e65c6dfcd0)
 - [[strategic equivocation]]: 策略性搪塞; 含糊其辞; 支吾;

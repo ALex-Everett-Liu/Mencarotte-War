@@ -1,0 +1,6 @@
+- dictionary 
+    - For [[illustration]], I built a [DB2 structured database] from a [[subset]] of the [[IMDB]] content, and included the trivia 传记信息 as [[text field]]s in this database. www.[[ibm]].com
+    - [Collection information from the Web] has three processes: [Web crawling], [page cleaning] and [information extraction.] www.[fabiao].net
+    - Defined some meta-model such as: [Data dictionary] meta-model, Data mapping dictionary meta-model, Excel report to data form meta-model, Data form to [Excel report] meta-model and structure database. 
+    - The techniques being mature, it is safe to publish structural database through ODBC based on ASP and to establish the university office automation information through Lotus Domino/Notes. That should be the solution to [university web information] construction. dict.[cnki].net
+    - Adopting the IBASE [nonstructure database system] can [resolve various problems] [in the process] of [library information resources] construction. www.[ceps].[com.tw]
