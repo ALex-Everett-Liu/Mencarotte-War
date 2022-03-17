@@ -100,6 +100,9 @@
             - Spectral Calibration -- 安装时, every 4 months
             - Reference Calibration -- every 12h, every 10℃
                 - （4）参考背景校正：测量池通入氮气，流速 5 L/min，吹扫气 4 L/min，稳定。在【Control】标签下，点击 [Acquire new reference]，等待进度条100%，点击 `Set [last reference] as [LKG Reference]`，背景完成。 #[[reference spectrum]]
+    - 状态指示灯
+        - 连接电源，仪表上电，设备在进行一段时间的[自检]后，稳定运行，可通过观察[电气箱]上的光亮查看是否自检完成。自检完成后，电气箱[指示灯]为[两绿一黄]。
+        - 用手去摸仪器，产生振动，会导致中间的指示灯红灯报错
 - 检测维修报告
     - 鲁西化工 MBGAS3000 [测量池][检测维修报告]
         - [上电加热]并[打开测量池]，[铝合金腔体]内部积尘、腐蚀严重。
