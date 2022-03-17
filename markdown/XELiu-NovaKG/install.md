@@ -8,6 +8,7 @@
     - [[Scoop]]
     - [[Chocolatey]]
     - [[Homebrew]]
+- pre-installed software;
 - [[setup]]
 - [[sudo apt-get install]]
 - [[uninstall]]
