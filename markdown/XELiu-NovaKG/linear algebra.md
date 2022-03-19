@@ -1,5 +1,6 @@
 - general...
 - [[linear space]]; [[vector space]]
+    - [[basis]]; [[basis vector]]; [[vector basis]]
     - [[dot product]]
     - [[Hilbert space]]
         - linear operator
