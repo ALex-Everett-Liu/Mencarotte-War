@@ -10,6 +10,10 @@
 - 2019
     - April
         - [[April 26th, 2019]] -- [[DCIM - April 26th, 2019]]
+- 2020
+    - December
+        - [[December 1st, 2020]] -- [[DCIM - December 1st, 2020]] 
+        - [[December 2nd, 2020]] -- [[DCIM - December 2nd, 2020]] 
 - 2021
     - January
         - [[January 1st, 2021]] -- [[DCIM - January 1st, 2021]]
