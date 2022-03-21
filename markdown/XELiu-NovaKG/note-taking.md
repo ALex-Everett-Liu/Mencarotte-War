@@ -257,6 +257,9 @@ Wikipedia 左侧栏的[随机按钮]可以[随机打开一个页面]，Reddit �
     - github 的访问并不是那么流畅。
 webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库存储空间]，就可以[自由使用](https://cn.logseq.com/t/topic/1231)多种[云服务商]的存储了。 # pt9-99.99
         - Logseq [在一开始明确说了]要支持 webdav，不过我在 roadmap 中[却没有发现他们的计划]，backlog 都没发现
+    - [实际生产环境的数据库][增加列]或者[修改某一格][效率都不高](https://www.yuque.com/aon/artofnotes/gh6cew) #pt9-99.99
+        - [这样存下来的数据][直接看起来不直观]，所以[要搭配单独的清洗]和[可视化模块]
+        - [个人用途的这种记录]用 access 窗体+报表[是最好的]，[多维表格类产品][在这方面]跟 access 差得很远
     - 要看[发布到哪](https://www.yuque.com/deerain/gannbs/zimxir)，如果是[用文件形式分发]，Libre Office Writer 就很不错，[LaTeX 编辑器]如果不是[论文写作]的话[没必要] #pt9-99.99
     - 另外[比较高级的] snippet 可以使用[正则表达式][匹配输入的内容]，从而实现一些[自动格式化](https://ld246.com/article/1618302988725)（这个我目前只在 vim 的 UltiSnips 里面见过） #pt9-99.99
     - 思源 [CSS 主题]修改[常见问题](https://ld246.com/article/1623514611258)与教程 #pt9-99.99
