@@ -1,0 +1,7 @@
+- dictionary
+    - an electric current that [changes its direction] [at regular intervals] [many times a second]
+    - This is an [alternating current generator]. 百度翻译例句库
+    - [After the discoveries of] Westinghouse and Tesla, an [alternating current system] was [put into place]. www.[keke].com
+    - Instead of the usual [alternating current transmission], [Nur Energy] plans to [send the power by] [a dedicated direct current underwater cable].
+    - [Ultra-high voltage] or UHV is defined as [voltage of 1000 kilovolts or above] [in alternating current] and 800 kilovolts or above [in direct current].
+    - A [[diode]] [rectifies alternating current]([[current rectification]]). www.[enread].com
