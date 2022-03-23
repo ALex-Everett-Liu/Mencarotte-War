@@ -3,7 +3,7 @@
 - [[heat energy]]
 - [[heat transfer]]
     - [[condenser]]
-    - [[heat-exchange system]]; [[heat exchanger]]
+    - [[heat-exchange system]]; [[heat exchanger]]; 换热器
     - [[heat rejection]]: 排热
     - [[heat transfer fluid]]: 传热液
 - heating; 加热元件

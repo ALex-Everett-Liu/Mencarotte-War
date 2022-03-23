@@ -394,7 +394,7 @@
             - 2.1 [详细材料表]([[bill of materials (BOM)]])
             - 2.2 整机布局图
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FlGYKymV_XG.jpg?alt=media&token=c649b180-63cd-4e71-b0df-a25200168f7a)
-            - 2.3 系统流程图
+            - 2.3 [系统流程图](((1UIqGe6Ba)))
             - 2.4 分析仪流程图
             - 2.5 电气接线图
         - 3 详细[系统集成步骤]

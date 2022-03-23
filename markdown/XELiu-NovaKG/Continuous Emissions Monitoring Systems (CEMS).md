@@ -69,4 +69,19 @@
             - 2.1 环境温度：25℃
             - 2.2 测试设备：N2（99.999%，计量院）；H2O（饮用纯净水）；HovaCAL 配气仪，调压阀2个、湿氧一体仪2套。测试流路如下（流量为 1L/min）：
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fp6GB4MwVdV.png?alt=media&token=bf37408c-880b-4676-9d0e-38bdca3f0484)
-- 
+- 系统流程图/流路图
+    - [前置过滤器](((Y1YoqzB9o))) 前置探杆
+    - 高温采样器 反吹单元 -- [探头过滤器](((L_PvHysqN))) F101   T=320 ℃
+        - 电磁阀 SV101 控制反吹探头 -- 无水无油气入口 0.7MPa, Φ8mm [穿板接头]([[bulkhead union]]) -- 减压过滤阀 AF101
+    - 伴热管 [Φ8 双管](((zeD6aoNhb))) T=180℃ -- 穿板接头N1 6mm - 样气入口
+    - 露点仪 TD401 - [膜片泵]([[diaphragm pump]]) DP401
+        - [精细过滤器](((g43WD5h8p))) TF401 - [流量计]([[flowmeter]]) FI401 (10~100 NLPH) - 过滤器 F401 - 分析仪 EL3020 - [[vent]] N6
+        - [针阀]([[needle valve]]) NV401 - [[vent]] N7
+    - 标定电磁阀 SV501 
+        - 零点标定电磁阀 SV403 - N3 - F402 - auto zero -- 自动零点标定，对空。
+        - 仪表标定电磁阀 SV402 - N4 - [[analyzer calibration]] -- 小气量
+    - [[system calibration]] inlet - N5 - FI402 (50~500 NLPH) - 系统标定电磁阀 SV401 - Φ8 双管 -- 大气量
+    - acid inlet 加酸口（磷酸） - N0 - 蠕动泵 PP403
+    - [冷凝器]([[condenser]]) [[condensate]] ([双极双蠕动泵][冷凝器]) - N11 - PP401 - [换热器](((IELqGhH_o))) HX001
+    - customer tie-in connector
+    - [抽气泵]工作，[烟气经过][前置过滤器和探杆][被抽入探头中加热]经过伴热管进入[双级冷凝器]，烟气中的[水会随蠕动泵排出]，[除水的烟气]经过[两次过滤]和流量调节后，进入仪表，分析后排出。
