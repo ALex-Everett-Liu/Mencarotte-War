@@ -4,6 +4,7 @@
 - [[average current]]
 - [[current density]]
 - [[current flow]]
+- [[current rating]]: 额定电流
 - [[current signal]]
 - [[direct current (DC)]]
     - low-voltage regulated DC power: 低压稳压直流电源; 

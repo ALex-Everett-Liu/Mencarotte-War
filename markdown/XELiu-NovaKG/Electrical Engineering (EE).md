@@ -12,6 +12,8 @@
 - electromagnetic interference
 - [[electrical connection]]; [[electrical connector]]; [[cable connector]]
 - [[electrical hardware]]; [[electrical product]]
+- [[electrical installation]]
+    - [[wiring system]]; [[wiring method]]
 - [[electrical power]]
     - high voltage electricity
 - [[electromagnetic interference (EMI)]]; [[radio-frequency interference (RFI)]]; [[radio frequency interference (RFI)]]
