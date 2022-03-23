@@ -42,3 +42,6 @@
         - [[December 18th, 2021]] -- [[DCIM - December 18th, 2021]]
         - [[December 19th, 2021]] -- [[DCIM - December 19th, 2021]]
         - [[December 20th, 2021]] -- [[DCIM - December 20th, 2021]]
+- 2022
+    - March
+        - [[March 22nd, 2022]] -- [[DCIM - March 22nd, 2022]]
