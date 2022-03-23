@@ -28,6 +28,7 @@
 - pressurized fluid; 
 - [[purge gas]]: 吹扫气体
     - [[反吹]]; 从样气入口吹出
+    - 仪表风; 无水无油气; 无油无水无尘 [压缩空气]([[compressed air]]); 0.5～0.7 MPa
 - [[reverse flow]]: 反向流动
     - [[反吹]]; 从样气入口吹出
 - 限流元件;

@@ -18,6 +18,7 @@
 - [[mechanical]]; [[mechanical system]]
 - [[electro-mechanical]]: 机电式 
     - [[microelectromechanical systems (MEMs)]]
+    - optical-mechanical-electrical system
 - [[machine industry]]
     - [[process control]]; [[process control system]]
 - [[machine operation]]

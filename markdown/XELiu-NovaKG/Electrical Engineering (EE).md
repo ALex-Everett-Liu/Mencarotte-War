@@ -5,8 +5,7 @@
     - [[electrical cable]]
 - [[capacitor]]
     - [[output capacitance]]
-- [[circuit]]; [[electronic circuit]]
-    - [[circuit breaker]]: 额定断路器
+- [[circuit]]; [[electronic circuit]]; [[electrical circuit]]
 - conduct electricity
 - [[conduit fittings]]: 导管配件
 - [[current rectification]]: 整流; [[rectifier]]: 整流器

@@ -34,7 +34,7 @@
     - [[harsh environment]]; [[harsh condition]]; tough environment
 - [[stationary pollution source]] 
     - [[flue gas]]; flue gas from stationary sources  
-        - extractive system-抽取式取样
+        - extractive system - 抽取式取样
         - [[flow rate]]; [[flow velocity]]
         - flue gas parameter monitoring system
         - [[flue gas opacity]]

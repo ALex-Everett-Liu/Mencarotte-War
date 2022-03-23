@@ -25,7 +25,7 @@
 - [[sample spectrum]];
 - [[sampling system]]: 采样/取样系统; 采样分析状态
     - [[automatic sampling]]
-    - extractive system-抽取式取样
+    - extractive system - 抽取式取样
         - source-level extractive system - 完全抽取
             - cool dry system-[[冷干法]]抽取式CEMS -- 《在线分析系统工程技术》 p21
                 - VOCs CEMS
