@@ -1,6 +1,8 @@
 - [[glowing screen]]
 - [[screen size]]
 - television screen
+- 电容式触摸屏; 电容屏; 指腹点击
+- 电阻屏; 指尖点击
 - #inbox
     - MacType [很长一段时间]是我电脑的[必装软件](https://bbs.saraba1st.com/2b/thread-2022131-2-1.html)，即便是[低分屏]也能通过它[得到很好的优化]
 但是随着 Windows [版本不断迭代]，这种 Hook [系统基础 API] 的工具[问题越来越多]，兼容性越来越差

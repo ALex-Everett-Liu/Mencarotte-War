@@ -24,3 +24,6 @@
     - semaphore telegraph: 旗语电报, 信标
     - [[signal flag]]
     - smoke signal
+- 模拟信号输出 模拟量输出
+    - 4-20mA / 0-20mA / 0-5V / 0-10V
+- 数字量输出
