@@ -31,7 +31,7 @@
         - baby/guiano by lidaa +96
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +86
-        - 【日南めい】果仁糖 +66
+        - 【日南めい】果仁糖 +69
         - Havana - [封茗囧菌](https://www.bilibili.com/audio/au108344) +27
         - 【熊子】Havana 西班牙语翻唱 生日作 +13
         - 【熊子】I Really Like You 西班牙语版翻唱 +60
