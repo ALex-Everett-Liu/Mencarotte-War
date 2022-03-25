@@ -19,8 +19,9 @@
         - vra53e8wg4 -- qianji
     - id
     - [[Wi-Fi]]; [[Wi-Fi module]]; WiFi; wifi
-        - jhxc2q 805 -- pw: 4bim3wb3
-        - 88310586 -- pw: lqm650112
+        - 锦华新城二期15栋2单元805 -- pw: 4bim3wb3
+        - xjf1329 -- pw: 13298888
+        - home -- 88310586 -- pw: lqm650112
     - ftp
         - explorer or `运行 //192.168.x.x` (Win+R)
         - ftp://192.168.1.5:3721/ -- 805

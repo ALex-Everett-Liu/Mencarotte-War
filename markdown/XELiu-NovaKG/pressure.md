@@ -8,5 +8,6 @@
 - [[pressure vessel]]
     - [[pressure relief valve (PRV)]]
     - [[pressure regulating valve]] -- 正压打入; 通气;
+    - [[钢瓶]]
     - 流量调节; 流量调节阀; 调节阀
 - [[positive pressure]]; 

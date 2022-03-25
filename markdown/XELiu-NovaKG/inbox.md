@@ -6,7 +6,7 @@
     - ... 
 - roam diagram; 
 - number_of_consorts = 30
-- bitball; jdjr; 9000; 剪映AI语音 
+- bitball; jdjr; 9000; 剪映AI语音; smartdraw cad
 - work time
     - SF售后
     - 主题交流与请教
