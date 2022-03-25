@@ -123,9 +123,18 @@ H(P, t)=H_{0}(P)[\omega t-\varphi(P)]
 220323-23:35
             - 在[各向同性介质]中满足[傍轴条件]时，可用[标量波][来处理]
 $$U(P, t)=A(P)[\omega t-\varphi(P)]$$
+                - 用一个[复指数函数]来描述[简谐振动] 
+... $$\Leftrightarrow \widetilde{U}(P, t)=A(P) \mathrm{e}^{-\mathrm{i} [ \omega t-\varphi(P)]}=\widetilde{U}(P) \mathrm{e}^{-\mathrm{i} \omega t}$$
+220325-22:42
+                    - 此时，正相位代表落后，负相位代表超前，初相位为 $$-\varphi(P)$$
+220325-23:08
+                    - 单色光场中，频率单一，则时间因子总是相同
+                    - 用复振幅来表示光强 $$I(P)=[A(P)]^{2}=\widetilde{U}^{*}(P) \widetilde{U}(P)$$ (3.5)
     - 1.2 叠加原理
-        - 独立传播定律-非线性介质 p117
+        - 独立传播定律-一般波动的普适性质--变色玻璃 太阳镜-非线性介质 不服从叠加原理 [[nonlinear optics (NLO)]] p117
     - 1.3 点波源的干涉
+        - 空间任一点的复振幅为 $$\tilde{U}(P)=\tilde{U}_{1}(P)+\tilde{U}_{2}(P)$$ 
+            - 波的强度 $$I(P)=I_{1}(P)+I_{2}(P)+2 \sqrt{I_{1}(P) I_{2}(P)} \cos\delta(P)$$ (3.8)
     - 2.1 杨氏双缝干涉实验
     - 2.2 菲涅尔双镜
     - 2.3 干涉条纹的移动 p124
