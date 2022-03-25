@@ -31,9 +31,11 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fp6GB4MwVdV.png?alt=media&token=bf37408c-880b-4676-9d0e-38bdca3f0484)
 - 昶艾 Chang'ai
     - CI-PC188
+        - 测量单元: 离子流湿度传感器
         - 探头
             - 气管接口
                 - PT1/4 [内螺纹](((Jhup_73EB))), PT1/4 快拧接头
+            - 具有[伴热功能]([[伴热管线]])，避免水汽冷凝
         - 电气模块 点固定式
             - 接线端子/端口
                 - 接线标识
