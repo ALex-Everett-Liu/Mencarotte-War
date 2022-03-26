@@ -5,3 +5,9 @@
     - MCT检测器是由宽频带的半导体碲化镉和半金属化合物碲化汞混合形成，其组成为Hg1-xCdx Te ，x≈0.2，改变x值，可获得测量波段不同灵敏度各异的各种MCT检测器。
     - 在光线作用下，对于半导体材料吸收了入射光子能量， 若光子能量大于或等于半导体材料的禁带宽度， 就激发出电子-空穴对，使载流子浓度增加，半导体的导电性增加，阻值减低，这种现象称为光电导效应。
     - MCT检测器[灵敏度]至少是DTGS的10倍。 [1] 
+- ---
+- dictionary
+    - [Defect Analysis] in Mercury Cadmium Telluride 碲镉汞 by [Raman Scattering] dict.cnki.net
+    - Study of [dark current] for mercury cadmium telluride [long-wavelength photodiode detector] [with different structures]
+    - It uses [DRS cooled] [Mercury Cadmium Telluride detector] technology with [ultra-long-life cryogenic coolers]. www.[21csp].com.cn
+    - Fabrication of [mercury cadmium telluride (HgCdTe)] devices has always been a challenging task due to [sensitive nature of the material]. www.[dictall].com
