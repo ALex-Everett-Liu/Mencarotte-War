@@ -1,3 +1,9 @@
+- dictionary
+    - “ The Classics on Fish Breeding ”, written by Fan Li of the Warring States Period ( 475 B.C.-221 B.C.), was [the world's first book on] [fish breeding]. Fan started to breed [silver carp] 鲤鱼 in 473 B. C., and the book was [based on his experience]. 《汉英大词典》
+    - The number of [Paleolithic sites] [with altitudes of 50-500 m] account for 78% of the total, while 71%-95% of the sites from the Neolithic age to [the Warring States time] are distributed at the areas of 0-200 m. dict.cnki.net
+    - On "the Era of the [Post-Warring States]"
+    - [Schools of Fable Literature] 寓言文学 [during the Period of Warring States]
+    - China's Banking: [Marching into] [the Warring State Period]
 - #inbox
     - 齐国[当时的主要目标是]魏国和燕国，[南边更看中][宋国]。[泗上小国]当时[谁都无力独吞]的。楚国[真正在东方有大收获]不是[灭了越国]后，而是[宋国灭亡]，[五国伐齐]后[齐国也放弃了][对泗上地区的经略]后。[宋国以及泗上小国][才是精华](https://www.zhihu.com/question/26197712/answer/1495529788)，[越国]就是个[好战的野蛮国家]，与其战争很差 #pt8-99.97
     - 《史记》虽然也记录了很多[战国史]信息，但显然司马迁[没有拿到][比较完整的战国年表]，因此在[排定战国年表]时[出现了很多错讹]，其中比较明显的[齐国年表]。由于《史记》中战国年表[存在很多问题]，因此在讲述[相关历史事件]的[前因后果]的时候[也就出现连锁反应]，导致我们[对某些历史事件的认知][会发生一些偏差](https://www.zhihu.com/question/461158561/answer/1907066552)。 #pt7-99.98
