@@ -3,10 +3,12 @@
     - black middle skirt
 - [[blue skirt]]
 - [[blue-white skirt]]
-- brown-grey plaid skirt
 - [[jk seifuku]]
     - dark blue skirt
     - white short sleeves with blue
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-ReNova%2Folrji6ip9j.png?alt=media&token=c6b5f29f-2efb-4ede-a731-7d588e9f2527)
-- pink-white plaid skirt (41)
+- [[plaid skirt]]
+    - [[black-white plaid skirt]]
+    - brown-grey plaid skirt
+    - pink-white plaid skirt (41)
 - [[red skirt]] (5)

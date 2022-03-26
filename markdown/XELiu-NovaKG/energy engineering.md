@@ -23,3 +23,7 @@
     - The Application of IFC Formula in [Thermal Energy Power Engineering]
     - In [power industry], SA213-T91 steel are [widely used in] superheater 过热器 and reheater of [utility boiler]. 电站锅炉 www.[dictall].com
     - Therefore, [modal frequencies] 模态频率 of the [turbine blade] 汽轮机叶片 [with and without constraint condition] were measured by using FBG. The [experimental results] illustrated that [measuring method] based on the FBG is reliable. www.[fabiao].net
+- #inbox
+    - 德国的[气候条件]与[经济条件]（发达且稳定）[决定了它可以采用][陆地分散式风力发电](https://www.zhihu.com/question/490244738/answer/2211307107)。德国的[风电]绝大多数[小于 50MW]，能够[就近接入]当地 [110kV 变电站]。分散式[保证了风险的对冲]，特别是对于[风电的波动]以及[解列]。 #pt7-99.98
+        - 但是中国则不然，中国[是典型的][负荷中心]与[发电中心][不协调]国家，东南地区[经济发达]，为负荷中心，但是[缺煤]、少光、缺风；[西北、西南地区][经济相对落后]，但是煤多、水多、风多、光多。[这种不协调决定了]中国的[清洁能源利用][只能寄希望于][打造数十个][超大型清洁能源发电中心]，然后通过[特高压通道]（直流或者交流）[输送到东南负荷中心]（顺便说一句，[南方电网]当年[成立的主要任务]就是[西电东输]，可以说没有西电东输就没有南方电网）。
+        - 这种[集中发电]、集中运输，又将风电的[反调节性]、波动性、[不稳定性][极大的放大了]。
