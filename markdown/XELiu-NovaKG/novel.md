@@ -3,6 +3,9 @@
 - [[detective novel]]; [[crime novel]]: 侦探小说
 - [[fantasy]]; fantasy setting
     - [[Dungeons & Dragons (DnD)]]; [[DND]]
+    - 玄幻 (Xuanhuan)
+        - 超神机械师 # pt6
+        - 寂静杀戮; 一刀劈开生死路; 极拳暴君 # pt6
 - [[historical novel]]
     - [[alternative history]]
         - [[time travel]]; travel/journey to the past; 穿越时空
