@@ -6,9 +6,6 @@
     - ... 
 - number_of_consorts = 30
 - 剪映AI语音; smartdraw cad; 笔神; 
-- work time
-    - SF售后
-    - 主题交流与请教
 - draft; [[draft box]]
     - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
     - 关于地域-我平生最大的愿望就是彻彻底底地毁灭全球贸易航线，半点不剩
@@ -70,11 +67,9 @@
             - https://www.zhihu.com/people/mol-le-kel
             - https://www.zhihu.com/people/dong-li-zhuang-jia-yi-yang-zao-62
             - https://www.zhihu.com/people/mi-xiao-yang-90-53
-    - novel
-        - 御姐; 女神代行者 (阿米巴星球); 听雪谱; 女主从书里跑出来了怎么办
-        - 大穿越时代; 光头武僧在都市; 诡秘者的摩登时代
-    - work
-        - SF Express 最终同意按比例赔付250元
+    - work time
+        - SF Express 售后, 最终同意按比例赔付250元
+        - 主题交流与请教
 - roam - function test
     - aa
         - **bb**
