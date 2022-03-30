@@ -48,7 +48,7 @@
     - [[optical coating]]
     - optical properties of the material...
         - non-reflective body
-        - opaque
+        - [[opaque]]
         - [[refractive index]]
         - transparent; [[transparent media]]
             - lossless medium; perfectly transparent

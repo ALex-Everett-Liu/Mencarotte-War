@@ -1,6 +1,6 @@
 - general...
     - Railscast dark theme for Roam Research
-        - ```ruby
+        - ```css
 @import url('https://jmharris903.github.io/Railscast-for-Roam-Research-Theme/RailsRoam.css');```
     - Caesar
         - ```javascript
