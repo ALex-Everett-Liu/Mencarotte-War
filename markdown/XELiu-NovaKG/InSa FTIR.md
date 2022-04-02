@@ -187,6 +187,11 @@ O2：25%；
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FN4g7nXuttI.png?alt=media&token=ab941831-dc4a-4c08-900a-c3eac3ab8996)
         - 4.4 气体模型问题
             - 对参比/积分段进行优化
+        - 4.5 数据波动大
+            - 对比 ABB 数据，确定 ABB [采集谱图][稳定性较好]：①ABB [零部件性能]优于 INSA，转 4.6；②ABB 结构设计，分析仪[整体设计]更优，转 4.7.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FxpqmWh3w65.png?alt=media&token=a26a1a8c-a756-4716-b114-c101d599e819)
+        - 4.6 光源稳定性
+            - 光源[稳压供电]时，重复性[性能较好]，线性[不符合 76 标准]；光源[稳流供电]时，线性误差[符合要求]，重复性[变差]；[此举][非主要/唯一原因]，[仍有其他因素][影响测量结果]。
 - CEMS software
     - CEMS 标定公式 #pt9-100
         - (CEMS(x)-CEMS(0))/(CEMS(F.S.)-CEMS(0))=(InSa(x)-InSa(0))/(InSa(F.S.)-InSa(0))
