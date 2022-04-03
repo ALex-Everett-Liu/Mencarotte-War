@@ -4,7 +4,6 @@
 - fault-tolerant; 容错
 - [[harsh environment]]; [[harsh condition]]; tough environment
 - [[industrial application]]
-- [[industrial process]]
 - [[industry regulation]]
 - [[industrial settings]]
 - [[industrial system]]
@@ -21,9 +20,6 @@
 - [[mining]]; [[mining industry]]
 - [[plant]]
 - [[process control]]
-    - continuously modulated control: 连续调制控制
-    - industrial process control system; [[industrial process control]]; [[industrial control system (ICS)]]
-    - [[process unit]]: 控制器, 过程单元; 工艺装置
 - safety; health and safety;
     - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
         - 防爆等级

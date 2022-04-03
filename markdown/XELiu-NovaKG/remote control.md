@@ -1,0 +1,2 @@
+- [[remote monitoring]]
+- [[remote sensing]]; remote sensor

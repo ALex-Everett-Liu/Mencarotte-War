@@ -13,6 +13,7 @@
 - [[electrical connection]]; [[electrical connector]]; [[cable connector]]
 - [[electrical hardware]]; [[electrical product]]
 - [[electrical installation]]
+    - [[installation cost]]
     - [[wiring system]]; [[wiring method]]
 - [[electrical power]]
     - high voltage electricity

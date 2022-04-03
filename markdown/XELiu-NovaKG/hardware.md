@@ -5,7 +5,6 @@
 - company
     - [[Apple Company]]
     - [[Lenovo]]
-- [[computer system]]
 - [[data storage]]
 - [[dedicated hardware]]
 - [[display]]; [[display device]]
@@ -49,8 +48,6 @@
 - monitor
     - computer monitor
     - [[monitoring system]]
-- [[personal computer (PC)]]
-    - [[desktop computer]]
 - plug...
     - hot-pluggable
         - [hot-swappable transceiver](https://workflowy.com/#/500a4039bcb1)
@@ -63,7 +60,6 @@
     - [[real-time response]]
 - [[scanner]]
 - [[self-contained system]]
-- [[small computer]]
 - [[USB]]
 - [[wearable technology]]
     - [[digital watch]]

@@ -1,11 +1,19 @@
 - [[advanced process control (APC)]]
 - automatic process control; [[automatic control]]
+- [[central control room]]; 中控室
+    - centralized controller
+    - local control level; 
+- continuously modulated control: 连续调制控制
+- [[industrial process]]; [[process industry]]
+    - industrial process control system; [[industrial process control]]; [[industrial control system (ICS)]]
+- [[process plant]]
 - [[distributed control system (DCS)]]
 - human manual control;
 - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
 - [[process temperature]]
-- [[supervisory control]]
-    - [[supervisory control and data acquisition (SCADA)]]
+- [[process unit]]: 控制器, 过程单元; 工艺装置
+- [[remote control]]
+- [[supervisory control]]: 监督控制; [[supervisory control and data acquisition (SCADA)]]
 - ---
 - An [[industrial process control]] in [continuous production processes]([[continuous production]]) is a [[discipline]] that uses [[industrial control system (ICS)]]s to [achieve a production level of] consistency, economy and safety which [could not be achieved purely by] [human manual control](((3KVbVs8Tq))). It is [implemented widely in] industries such as automotive, mining, dredging, oil refining, pulp and paper manufacturing, [[chemical processing]] and [[power generating plant]]s.[1]
 211115-00:30

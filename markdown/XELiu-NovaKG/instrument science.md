@@ -11,7 +11,6 @@
     - portable instrument; hand-held portable instrument; hand-held device; hand-held instrument; 便携式;  
     - [[sample]]
     - 分析站房; 分析小屋, 恒温;
-    - 中控室
 - calibration
     - [[analyzer calibration]]
     - calibration and maintenance system

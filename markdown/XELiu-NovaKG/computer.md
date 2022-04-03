@@ -1,3 +1,8 @@
 - [[analog computer]] 
+- [[central computer]]
+- [[computer system]]
 - [[digital computer]]
 - [[mechanical computer]]
+- [[personal computer (PC)]]
+    - [[desktop computer]]
+- [[small computer]]

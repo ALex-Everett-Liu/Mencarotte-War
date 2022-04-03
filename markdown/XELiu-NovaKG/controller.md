@@ -1,3 +1,6 @@
-- [[automatic controller]]; [[automatic control]]
+- [[automatic controller]]
+- centralized controller
+    - autonomous controller; 
+    - discrete controller
 - [[electronic controller]]
 - [[PID controller]]
