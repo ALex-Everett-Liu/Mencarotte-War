@@ -1,5 +1,5 @@
 - [[antenna]]
-- [[communication network]]
+- [[communication network]]; networked data communication
 - [[communications interface]]
 - [[communication link]]: 通信链路 
 - [[communications satellite]]

@@ -23,7 +23,6 @@
         - [[标称值]]
     - 校正系数; 校正因子; 转换系数; calibration factor; [[correction factor]] (CF); [[response factor]]
     - [[system calibration]]; 系统标定口;
-- [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
 - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
 - [[instrumentation]]: 器械操作, 仪器制造 
@@ -95,7 +94,7 @@
     - 微纳测量与控制技术
         - 生化检测
     - 自动化仪表及大型控制系统
-        - 各种 [[programmable logic controller (PLC)]]，SLC/MLC（单/多回路调节器），各种专用控制器、DCS（分散控制系统）、FCS（现场控制系统）等。
+        - 各种 [[programmable logic controller (PLC)]]，SLC/MLC（单/多回路调节器），各种专用控制器、[[distributed control system (DCS)]]（分散控制系统）、FCS（现场控制系统）等。
     - 科学仪器-电化学、光学、热学分析仪器，质谱、波谱、色谱分析仪器、能谱及射线分析仪器、物性分析仪器、生化分析仪器、在线分析仪器
     - 机械设计基础-制造工程基础
     - 控制工程-现代控制理论与方法

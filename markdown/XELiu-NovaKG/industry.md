@@ -14,6 +14,9 @@
         - craft industry
         - [[clothing]]
             - [[fur]]; animal skin and hair
+- [[machine industry]]
+    - [[process control]]; [[process control system]]
+        - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
 - [[manufacturing]]; [[manufacturing industry]]; 制造业
 - [[mining]]; [[mining industry]]
 - [[plant]]

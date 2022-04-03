@@ -209,7 +209,7 @@
         - ? 进样、柱切和[流路切换系统]的[程序控制]；
         - ? 对[检测器信号][进行放大处理]和[数值计算]；
         - ? 本机显示操作和信号输出；
-        - ? communicate with DCS.
+        - ? communicate with [[distributed control system (DCS)]].
         - 获得[色谱图]，最终由[色谱峰]([[chromatographic peak]])的[[保留时间]]、峰高和峰面积来进行定性、定量分析。
     - 采样单元
         - 如果样品含尘、含水量较大，或含有[对分析器有害的组分]，[则需另设][样品处理系统]([[sample handling system]])[预先加以处理]。

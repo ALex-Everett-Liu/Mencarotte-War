@@ -27,3 +27,17 @@
         - [view our blog for more articles on the science of CO2](https://web.archive.org/web/20190307133039/http://www.edaphic.com.au/blog/)
     - A NDIR gas sensor specifically measures the abundance, or concentration, of gases in a [[sample chamber]]. If there are gases in the path from an infrared light source to a detector then, in a non-dispersive system, the light is absorbed by the gases. How much light is absorbed is a function of how much gas is between the light source and light detector.
     - Figure 1 is a schematic of a simple NDIR gas sensor designed to detect the gas carbon dioxide (CO2). The infrared light source is installed at one end of an enclosure and the light detector is installed at the opposite end. The light detector has a filter so it specifically only detects light in the electromagnetic spectrum that is related to CO2. An inlet and outlet between the light source and detector allows CO2 to freely move in and out of the enclosure.
+- ---
+- Hopes NDIR
+    - [扬子石化]现场报告
+        - 本次应扬子石化要求于9.23和9.24[去现场处理问题]，一共处理5台[加装 NDIR] 的 AMETEK 9900 机器，其中解决了问题的3台，还有2台待解决。
+        - `9#`机问题: [上电开机后]显示屏示数紫外和红外数值一直为0，等待约5分钟后[仍没有反应]，[断电再上电][问题依旧]，[连接上位机][信号正常]。
+            - 通过上面的问题可以看出，红外信号和紫外信号都有信号，但显示屏[不能正常显示]，确认 NDIR 与显示屏的[连接网线]在[主控板]这一段[连接ok]后，拆下显示屏，把紫外和红外的两个连接网线[重新插拔]，断电再重新上电后等待一段时间，紫外恢复正常，SO2和NO2显示有数值且[正常跳动], 但红外一直是0。
+                - 于是判断红外可能需要[重新校准]，先[通入氮气稳定后][校准零点]，然后[通入量程气][校准最大量程]，由于现场的NO气只有 111.3mg/m3 和 72.6mg/m3 这两种浓度的气瓶，所以暂时使用111.3mg/m3直接通入机器，[减压阀][压力控制为] 0.1KG。[通入标气的同时]查看上位机[曲线变化]，可以看到[通入标气后][一通道曲线][同时下探]，表明红外[有明显吸收]，属于正常变化。****零点和1********11.3mg/m3********标定完成后，通入7********5mg/m3********的中间浓度气测试，显示数值基本稳定在7********1-72 mg/m3********之间，波动很小，至此，`9#`机问题解决。断电再重新上电后数值显示依然正常，无其他异常现象，机器恢复正常。
+                - 受限于现场没有高浓度********NO********标气和缺少冷凝器，机器只做了简单标定，********NO********量程调整为1********11.3mg/m3********；除此之外，现场缺少气管接头，临时用橡皮管代替连接管头，存在气体泄漏风险，需要提高安全意识，规范操作程序，以免意外事故的发生。************
+    - 仪表的可靠性不足
+        - 现场出现的可靠性问题
+        - 部件和装配工艺的可靠性
+        - 整机联调的温度、压力、光路、系统等的可靠性
+        - [上位机]的[监测数据]显示，[控温]的[稳定性较差]   #[[supervisory control and data acquisition (SCADA)]]
+        - 用 [[distributed control system (DCS)]] 查看历史数据进行比对

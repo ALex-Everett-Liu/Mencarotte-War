@@ -64,23 +64,22 @@
 - [[scanner]]
 - [[self-contained system]]
 - [[small computer]]
-- [[supervisory control computer]]: 监控计算机
 - [[USB]]
 - [[wearable technology]]
     - [[digital watch]]
 - ---
-- 关于硬件工程师
+- 关于[硬件工程师]
     - 嵌入式编程/软件 
     - PCB 设计 
         - Cadence、Orcad、Allegro [等工具](https://www.zhipin.com/job_detail/e7048a9befc186e733x82ty1F1I~.html)
     - FPGA 设计 
-        - Xilinx、Altera 公司的[FPGA产品]
+        - Xilinx, Altera 公司的 [FPGA product]
         - Verilog or VHDL hardware programming language; ZYNQ平台开发
         - 串口、I2C、SPI、TCP/IP 等接口通信协议
         - [高速接口开发](https://www.zhipin.com/job_detail/8aeb5e5746a2af733nF_0tu5EFM~.html)或高速[数据采集电路]设计
         - 工业气体在线检测仪表 光谱分析法
     - 单片机开发 (STM32) 
-    - ARM硬件产品开发
+    - ARM 硬件产品开发
 - ---
 - #inbox
     - [闲鱼]上有[专门卖][坏U]的, [都是这些][维修佬][拿去掉包用]. 维修佬要是[用同型号的掉包][你根本发现不了](https://bbs.saraba1st.com/2b/thread-2029154-2-1.html) #pt9-100

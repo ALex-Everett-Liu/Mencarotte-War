@@ -20,7 +20,6 @@
     - [[microelectromechanical systems (MEMs)]]
     - optical-mechanical-electrical system
 - [[machine industry]]
-    - [[process control]]; [[process control system]]
 - [[machine operation]]
     - [[stable operation]]
 - [[machinery]]: 机械装置
