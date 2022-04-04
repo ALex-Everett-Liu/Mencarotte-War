@@ -18,6 +18,8 @@
         - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
 - [[manufacturing]]; [[manufacturing industry]]; 制造业
 - [[mining]]; [[mining industry]]
+- operator, 操作员; 
+    - [[operator interface]]
 - [[plant]]
 - [[process control]]
 - safety; health and safety;
