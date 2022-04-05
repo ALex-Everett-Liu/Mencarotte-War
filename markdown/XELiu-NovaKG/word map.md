@@ -774,6 +774,7 @@
             - mind
                 - open mind;
             - minute
+            - mitigate: 缓和
         - mo
             - mode
                 - model; modeling
