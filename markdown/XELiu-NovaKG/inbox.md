@@ -3,7 +3,7 @@
     - 。；：
     - ()  （） 《》 
     - % …… ^ &
-    - ... 
+    - ...
 - number_of_consorts = 30
 - 剪映AI语音; smartdraw cad; 笔神; video repair
 - draft; [[draft box]]
