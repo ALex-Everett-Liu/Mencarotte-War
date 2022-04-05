@@ -1,6 +1,7 @@
 - [[analog computer]] 
 - [[central computer]]
 - [[computer system]]
+- [[computing power]]
 - [[digital computer]]
 - [[mechanical computer]]
 - [[personal computer (PC)]]

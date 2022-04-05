@@ -12,6 +12,7 @@
 - [[local area networks (LAN)]]
 - [[MAC address]]
 - [[metropolitan area networks (MAN)]]
+- [[network delay]]
 - [[private network]]
 - [[protocol]]
 - [[router]]
