@@ -3,7 +3,7 @@
 - [[Microsoft Windows]]; [[Windows]]
 - [[macOS]]
 - system
-    - [[system administrator]]; [[administration]]: 管理员权限
+    - [[system administrator]]; [[administration]]: 管理员权限; [[admin]]
     - system information
     - [[system maintenance]]
     - system settings

@@ -2,7 +2,7 @@
     - [[access the information]]; online access; [[first access]]
     - [[access granted]]; [[access denied]]
     - admin; mod
-        - [[system administrator]]; [[administration]]: 管理员权限
+        - [[system administrator]]; [[administration]]: 管理员权限; [[admin]]
     - [[edit access]]
     - identity verification
     - [[readonly]]; read-only
