@@ -1,1 +1,1 @@
-- email newsletter
+- [[email newsletter]]

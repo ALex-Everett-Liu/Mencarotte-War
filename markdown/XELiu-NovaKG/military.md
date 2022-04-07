@@ -11,6 +11,7 @@
 - military formation
 - [[military service]]
 - [[military stalemate]]: 僵持
+- [[scout]]
 - [[soldier]]
     - foot soldier;
 - [[war]]

@@ -24,7 +24,7 @@
 - press; print
     - [[Gutenberg Press]]
     - [print](https://workflowy.com/#/a25f9dd7446d)[-based media](https://workflowy.com/#/a25f9dd7446d)
-- [[publication]]; [[publisher]]; publishing platform; [[publishing house]]
+- [[publication]]; [[publisher]]; [[publishing platform]]; [[publishing house]]
     - [[journal]]: 杂志, 日报, 期刊;
     - [[publication date]]
 - [[release]]
