@@ -37,8 +37,8 @@
             - NO2 [has to be reduced to NO](((kxsir1Qg0))) and then they are [measured together as NOx]; NO also [absorbs in ultraviolet] at 195-230 nm, NO2 is measured at 350-450 nm;[8] [in situations where] [NO2 content] is [known to be low], [it is often ignored] and [only NO is measured]; also, 1.8 μm[6]
 211119-05:06
             - NO2 - 1598 cm-1 - 6.17-6.43 μm, 15.4-16.3 μm, 496 nm[6] -- 空气中NO转换为NO2，转换效率 -- NO2作为干扰气体，会存在很显著的干扰
-        - CO - 2056 cm-1, 2118 cm-1, 2174 cm-1 - 2.37 μm, 4.65/4.72 μm
-        - CO2 - 996 cm-1; 2331/2342 cm-1, 2361 cm-1 - 2.76, 4.26, 13, 14.5 μm -- 2360cm-1的倒峰，表明气管里留有CO2，做背景的时候就出了倒峰 by 赵工 11.15
+        - CO - 2056 cm-1, 2109~2118 cm-1, 2174~2180 cm-1 (2.37 μm), 4.65/4.72 μm
+        - CO2 - 996 cm-1; 2331/2342 cm-1, 2361 cm-1 - 2.76, 4.26, 13, 14.5 μm -- 2360cm-1 的倒峰，表明气管里留有 CO2，做背景的时候就出了倒峰 by 赵工 11.15
         - NH3 - 968 cm-1 - 5.7, 7.55, 10.4, 13.8 μm
         - HCl - 2940, 2700~3100 cm-1 - 3.4 μm
             - HF - 3600~4300 cm-1
