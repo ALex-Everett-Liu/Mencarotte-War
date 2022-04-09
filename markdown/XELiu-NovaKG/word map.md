@@ -1097,6 +1097,8 @@
                 - roll out: 推出, 推广; 
                 - scroll
         - ru
+            - rudiment: 初步
+                - rudimentary; 
             - rule, 2
                 - general rule;
             - rupture
@@ -1149,6 +1151,10 @@
             - slip
                 - slide
                     - landslide: 泥石流 
+        - so
+            - sophic
+                - sophist
+                    - sophistication: 诡辩; 复杂性
         - sp
             - space
                 - workspace;
