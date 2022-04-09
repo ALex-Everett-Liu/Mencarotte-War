@@ -53,7 +53,7 @@
     - [[Evernote]]: 印象笔记
 - [[slip box]]
     - atomic note
-    - [[index card]]
+    - [[index card]]; [[card index]]
     - [[Zettelkasten]]
     - 卡片式写作
 - suck it!
@@ -289,8 +289,31 @@ A: 只要这卡片[和世界还有一点联系]……[它的子孙][也会和这
         - UID（User Identification，用户身份证明）实际上是没有必要的，因为 UID 本身[没有可读性]，[它提供了][唯一的时间代码]来[确定笔记的唯一性]，但[这一功能]和[分类号]重复了。不过分类号[提供的是][具有唯一性的][地点代码]，可以考虑舍弃 UID 或者[保留两者]。UID 提供的时间在 Dataview 插件中，可以用 `file.ctime` 代替。
     - 1b 卢曼[往卡片盒里][加卡的标准是][能够形成链接](https://www.yuque.com/idelem/tools/smsfw7) #pt10-99.99
         - [这篇文章](https://sociologica.unibo.it/article/view/8350/8270)提到：
-[As a consequence he normally did not] put [the notes made during reading] [directly into the collection], nor did he file them in exactly the same way that he had taken them while reading; in fact [in the evening] he transferred [the often only rudimentary records](((0gNiEE2Bo))) he made [during the day] into [new notes] according to his [special filing technique]. [Furthermore his main concern was not to] [develop an idea to maximum sophistication](((gewuP2cgW))) before [including the note into the collection]; rather, he operated on the assumption that a decision on the usefulness of a note could only be made in relating it to the other notes — and therefore would (in many cases) be a matter to be decided in the future: by re-reading the note in the context of new notes compiled afterwards or in the context of an inquiry, i.e. in using the card index as a database for new thoughts and publications. Furthermore, this being the case, it was not clear right from the beginning where the note to be added would be inserted into the collection — this was a decision that was made in the course of preparing the respective note for filing; and normally there was more than one possible solution to the question where to place the note in the collection due to the specific structure of the collection.
-220409-09:22
+[As a consequence he normally did not] put [the notes made during reading] [directly into the collection], nor did he file them in exactly the same way that he had taken them while reading; in fact [in the evening] he transferred [the often only rudimentary records](((0gNiEE2Bo))) he made [during the day] into [new notes] according to his [special filing technique]. [Furthermore his main concern was not to] [develop an idea to maximum sophistication](((gewuP2cgW))) before [including the note into the collection]; rather, he [operated on the assumption that] a decision on [the usefulness of a note] [could only be made in] [relating it to the other notes] — ^^and therefore would (in many cases) be [a matter to be decided in the future]: by [re-reading the note] [in the context of] [new notes compiled afterwards] or in the context of an inquiry,^^ i.e. in [using the card index as]([[card index]]) [a database for new thoughts and publications]. 
+            - Furthermore, this being the case, [it was not clear right from the beginning] [where the note to be added] would be [inserted into the collection] — this was [a decision that was made in the course of] [preparing the respective note for filing]; 相应的笔记归档过程中 and normally [there was more than one possible solution to the question] [where to place the note in the collection] [due to the specific structure of the collection].
+220409-09:22, 22:40
+            - 因此，他通常不会把[阅读时做的笔记][直接放入卡片集合]，也不会以与阅读时[完全相同的方式][归档]；事实上，到了晚上，他就会根据自己特殊的归档技巧，把白天做的记录转入新的笔记。此外，他的主要关注点不是在将笔记纳入收藏之前将想法发展到最大程度；相反，他的操作是基于这样的假设，即只有在将笔记[与其他笔记联系起来时][才能决定其是否有用]——因此（在许多情况下）将是一个在未来决定的问题：通过在之后编制的新笔记的背景下重新阅读该笔记，或者在调查的背景下，即在将卡片索引作为新想法和出版物的数据库时。此外，在这种情况下，从一开始就不清楚要添加的笔记将被插入到卡片集合的哪个位置——这是一个在准备各自的笔记归档过程中做出的决定；由于卡片集合的特殊结构，通常有不止一个可能的解决方案来解决将笔记放在卡片集合中的问题。（deepl 机翻）
+        - 所以：
+●
+卢曼也会[在书上划线]的，[别把这事][想得太神圣了]
+●
+[重读]这些划线、笔记，[制作卡片的方法]参见【1 给卡片起标题】
+●
+加卡的标准是，[新卡片][要能够以某种方式][挂在已有的卡片后面]
+○
+废话，[否则怎么][给它编号]？？
+●
+至于两张卡片[要怎样才算有联系]，没有一定的标准，自己发挥想象力
+        - 1b1 卢曼编号系统和真实结构没有关系
+不像在树形系统里，越短的编号（路径）就说明越宽泛或重要。
+下面的例子表明，这种编号系统只是为了保持 locality 的便利手法：
+假设你有三张卡片，x 和 y 有关，y 和 z 有关，那么
+● 加入卡片的顺序为 xyz 时，可能编号分别为 x:1a y:1b z:1c
+● 加入卡片的顺序为 xyz 时，可能编号分别为 x:1a y:1a1 z:1b，或是 x:1a z:1b y:1b1
+假设选择了 x:1a z:1b y:1b1 的方案，但后来发现，z 根本无关宏旨，大部分新加入的内容和 x 或 y 有关，z 成了孤家寡人。在这种情况下，由于 x 和 y 的卡片群中间只隔着一张 z，还是有不错的 locality。
+
+很多数据库系统也采用这种结构，即，存储线性，索引树形。
+在索引上相隔很远的两个节点，可能在实际存储时相当 local。
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         - 这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
     - `file:///` 很不靠谱，workflowy 想[链接到本地文件](https://www.zhihu.com/pin/1381426035402084352)[有两种方法]，[稳定一点的方法]是直接靠 zotero 的 url scheme 来[插入附件]，[灵活一点的方法]是插入 everything 的[搜索型 url scheme] #pt10-99.99

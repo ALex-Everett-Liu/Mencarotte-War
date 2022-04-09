@@ -1,1 +1,1 @@
-- [[index card]]
+- [[index card]]; [[card index]]
