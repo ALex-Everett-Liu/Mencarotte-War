@@ -6,6 +6,7 @@
 - [[current flow]]
 - [[current rating]]: 额定电流
 - [[current signal]]
+- [[current transformer]]: 变流器, 电流互感器
 - [[direct current (DC)]]
     - low-voltage regulated DC power: 低压稳压直流电源; 
 - [[overcurrent]]: 过载电流

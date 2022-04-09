@@ -190,6 +190,61 @@ tiddlywiki 就是这么做的。[它鼓励你用][标签树]（或不如说，[�
     - knowledge graph; wolfram alpha; [Wikidata](https://www.zhihu.com/question/20151850/answer/15562816) #pt10-99.99
     - lattice [其实都不需要][概念图]，[只要在逻辑上可以][共享父级]就行，[本质上是][一种比较灵活的归类法](https://www.yuque.com/idelem/tools/qy1in4)（例如[一则关于游戏开发的记录]，可以同时挂在“游戏”和“编程”两个目录下，而另一则挂在“游戏”和“历史”）
         - 用标签[可以做到这种结构]，只是[没有可视化]；[另一个比较好的方法是][手动维护一个目录]
+    - 1b 卢曼[往卡片盒里][加卡的标准是][能够形成链接](https://www.yuque.com/idelem/tools/smsfw7) #pt10-99.99
+        - [这篇文章](https://sociologica.unibo.it/article/view/8350/8270)提到：
+[As a consequence he normally did not] put [the notes made during reading] [directly into the collection], nor did he file them in exactly the same way that he had taken them while reading; in fact [in the evening] he transferred [the often only rudimentary records](((0gNiEE2Bo))) he made [during the day] into [new notes] according to his [special filing technique]. [Furthermore his main concern was not to] [develop an idea to maximum sophistication](((gewuP2cgW))) before [including the note into the collection]; rather, he [operated on the assumption that] a decision on [the usefulness of a note] [could only be made in] [relating it to the other notes] — ^^and therefore would (in many cases) be [a matter to be decided in the future]: by [re-reading the note] [in the context of] [new notes compiled afterwards] or in the context of an inquiry,^^ i.e. in [using the card index as]([[card index]]) [a database for new thoughts and publications]. 
+            - Furthermore, this being the case, [it was not clear right from the beginning] [where the note to be added] would be [inserted into the collection] — this was [a decision that was made in the course of] [preparing the respective note for filing]; 相应的笔记归档过程中 and normally [there was more than one possible solution to the question] [where to place the note in the collection] [due to the specific structure of the collection].
+220409-09:22, 22:40
+            - 因此，他通常不会把[阅读时做的笔记][直接放入卡片集合]，也不会以与阅读时[完全相同的方式][归档]；事实上，到了晚上，他就会根据自己特殊的归档技巧，把白天做的记录转入新的笔记。此外，他的主要关注点不是在将笔记纳入收藏之前将想法发展到最大程度；相反，他的操作是基于这样的假设，即只有在将笔记[与其他笔记联系起来时][才能决定其是否有用]——因此（在许多情况下）将是一个在未来决定的问题：通过在之后编制的新笔记的背景下重新阅读该笔记，或者在调查的背景下，即在将卡片索引作为新想法和出版物的数据库时。此外，在这种情况下，从一开始就不清楚要添加的笔记将被插入到卡片集合的哪个位置——这是一个在准备各自的笔记归档过程中做出的决定；由于卡片集合的特殊结构，通常有不止一个可能的解决方案来解决将笔记放在卡片集合中的问题。（deepl 机翻）
+        - 所以：
+●
+卢曼也会[在书上划线]的，[别把这事][想得太神圣了]
+●
+[重读]这些划线、笔记，[制作卡片的方法]参见【1 给卡片起标题】
+●
+加卡的标准是，[新卡片][要能够以某种方式][挂在已有的卡片后面]
+○
+废话，[否则怎么][给它编号]？？
+●
+至于两张卡片[要怎样才算有联系]，没有一定的标准，自己发挥想象力
+        - 1b1 [卢曼编号系统]和[真实结构]没有关系
+不像在[树形系统]里，越短的编号（路径）就说明[越宽泛或重要]。
+下面的例子表明，[这种编号系统]只是为了[保持 locality] 的[便利手法]：
+假设你有三张卡片，x 和 y 有关，y 和 z 有关，那么
+● [加入卡片的顺序]为 xyz 时，可能编号分别为 x:1a y:1b z:1c
+● 加入卡片的顺序为 xyz 时，可能编号分别为 x:1a y:1a1 z:1b，或是 x:1a z:1b y:1b1
+假设选择了 x:1a z:1b y:1b1 的方案，但后来发现，z 根本[无关宏旨]，大部分[新加入的内容]和 x 或 y 有关，z [成了孤家寡人]。在这种情况下，由于 x 和 y 的[卡片群][中间只隔着]一张 z，还是有不错的 locality。
+很多[数据库系统][也采用这种结构]，即，存储线性，索引树形。
+[在索引上][相隔很远的两个节点]，可能[在实际存储时][相当 local]。
+        - 1b4 [类卡片盒的][写作方法]，一种缝合
+● 杂文：我会[在相关段落后][持续更新想法]，用[分隔线][暂时标注][两个想法的边界]，后续[在分隔线上][展开工作]，把它们[缝起来]。
+● 小说大纲：[预先准备好][粗纲]后，[针对每个片段][展开工作]，每天把[写好的新情节][大纲][缝到对应的位置上]；这个方法的意义在于，[零散的灵感]总能[在一天结束时找到去处]，正如[临时笔记][会在整理时进入卡片盒]。
+
+
+            - 效果评估：解决了[小说写作流程][过于散漫]的问题。写作[需要一定程度的平稳]，不能总是[依靠冲动 pulse]。这种平稳[不会影响到创造力]，[反而更合理地利用了]原来流失（到社交媒体）的灵感和[碎片时间]。
+早先，这些[文本碎片][流入社交媒体]的时间线，按时间排列，往往导致[无迹可寻]，而且缺乏明确的[和项目之间的联系]，而且[消耗本就不富裕的]冲动。现在这个[时间线][转向内部消化]后，可以感到土壤中[营养成分逐步积聚]，水土不再流失。
+        - 2a [文艺复兴学者]的[笔记体系]
+            - Zettelkasten for Writers & Readers - ^^an overview with [example cards](https://www.eadeverell.com/zettelkasten/)^^
+                - But for the most part, [Renaissance scholars]([[Renaissance]]) [directed their efforts towards] [trying to recreate in their notes], the order they found (or expected to find) in the world. Their [[excerpt]]s were [saved under] the [Grand Headings of Knowledge] (much like today’s [DEWEY DECIMAL SYSTEM]([[Dewey decimal system]])), and [the structure was supported by] elaborate [alphabetical index](((X197bBlEx))) and [topical indexes](((ON7wNitvp))).
+220410-00:20
+                - [文艺复兴时期][大家认为][知识是整全的]，有一个客观的（类似于[完美世界]的）结构，像[刮刮卡]一样，人类[只要全刮开][就能达到完美]。
+所以他们的[笔记系统]也[基于这个结构安排]。
+[不幸的现代人][经历了世界观的破碎]，只能以[挖地道]（参见【1b1】）的方式做笔记，挖到哪算哪。
+            - 2a1 这条“地道”是一条[思想的逃逸线]
+                - A line of inquiry (or “line of flight”) can [change the nature of the cards]. In other words, [connecting the cards] [in different ways] — or even [along the same line] but [with different intent] — [yields different results].
+        -  [回过头来说]卢曼的[偷懒方法](https://www.yuque.com/idelem/tools/uoihhz)。
+ 他确是一位天才，他[所解决的问题]也是很多[思维活跃]（或[感情活跃]）的人[所遇到的]：
+ 1 我对很多事情都感兴趣，没法长时间只做一件，怎么办？
+ 2 [切换不同工作状态]的[成本太高]，怎么办？
+
+            -  所以，卢曼方法[要解决的是][多线程]的问题。
+ [现代计算机][也解决了同样的问题]：怎么在一个[线性时间的 cpu] 上[同时运行很多程序]？
+ 计算机的方法是：[在每个循环里][检查一遍所有进程]，看看[有没有什么要做的]；每次切换时，程序的上下文（所需资源、资源地址）[都保存在某个地方]，以便[迅速恢复状态]。
+ 这就像是把[帽子和大衣][挂在出门的地方]，[迅速切换][外出/回家状态]一样。
+
+            -  卢曼用[卡片盒][建立了一套][快速分类思考原材料]、[给未来的自己][打下手]的[标准流程]（「思想的[集装箱]」）。它很有用，也值得敬佩。
+ 我们不能说这种[流水线制度][贬低了思想]，这是[一位天才][在时间限制下]的[无奈之举]。他发现了那么[丰富的矿产]，必须在上面[搭建起矿井和工厂]。
+ [以上就是小编]在阅读 `how to take smart notes` 后写下的三则笔记，希望[小编精心整理的]这篇内容[能够解决你的困惑]。
     - 不能插入外部 url scheme 的软件[不止下面这些]，[这里之所以][只列出它们]，是因为它们有[做得比较好的]表格或图形、本来[很适合用来][管理其它软件的 url scheme] [做高级 moc]，可惜[这种用法][被产品经理 ban 了](https://www.yuque.com/deerain/gannbs/gmkp9w) #pt10-99.99
         - {{[[TODO]]}} 我的[大附件]也是[放笔记本外面]的，但是所有文件都在 Dropbox 里面。其实在 windows 上[插入本地附件][是最方便的]，无论这个附件[放在哪]，都可以直接用 everything 的[搜索型 url scheme](es://关键词)： `es://关键词`
 
@@ -287,33 +342,6 @@ A: 只要这卡片[和世界还有一点联系]……[它的子孙][也会和这
     - 卢曼经过一代「卡片盒子」的积累[确定了自己的][阅读和研究兴趣]，他的[编码主题]不再是[简单的列表]（list）或是基于[分类学]（taxonomy）和[目录（TOC）]的[顺序系统]，而是[依靠编码][确定内容的上下级关系]（也就是依靠编码组织了 Nick Milo 说的「邻近度」），依靠书目和[关键词索引][快速定位笔记]，以及展现[笔记之间意义上联系]的[复杂系统集合](https://zhuanlan.zhihu.com/p/374178962)。 #pt10-99.99
         - 不久前，文件夹还是[我们的全部]，它们[还不够好]。现在，我们有了链接。许多人对文件夹[采取了强硬的立场]，因为他们认为[自己需要的]就是链接。这样，[强硬的立场][转而变得脆弱]。不要[被教条所迷惑]。一个健康[数字资料库]的[正确工具]应该包含多重的「桥梁」（relationship-builder）。
         - UID（User Identification，用户身份证明）实际上是没有必要的，因为 UID 本身[没有可读性]，[它提供了][唯一的时间代码]来[确定笔记的唯一性]，但[这一功能]和[分类号]重复了。不过分类号[提供的是][具有唯一性的][地点代码]，可以考虑舍弃 UID 或者[保留两者]。UID 提供的时间在 Dataview 插件中，可以用 `file.ctime` 代替。
-    - 1b 卢曼[往卡片盒里][加卡的标准是][能够形成链接](https://www.yuque.com/idelem/tools/smsfw7) #pt10-99.99
-        - [这篇文章](https://sociologica.unibo.it/article/view/8350/8270)提到：
-[As a consequence he normally did not] put [the notes made during reading] [directly into the collection], nor did he file them in exactly the same way that he had taken them while reading; in fact [in the evening] he transferred [the often only rudimentary records](((0gNiEE2Bo))) he made [during the day] into [new notes] according to his [special filing technique]. [Furthermore his main concern was not to] [develop an idea to maximum sophistication](((gewuP2cgW))) before [including the note into the collection]; rather, he [operated on the assumption that] a decision on [the usefulness of a note] [could only be made in] [relating it to the other notes] — ^^and therefore would (in many cases) be [a matter to be decided in the future]: by [re-reading the note] [in the context of] [new notes compiled afterwards] or in the context of an inquiry,^^ i.e. in [using the card index as]([[card index]]) [a database for new thoughts and publications]. 
-            - Furthermore, this being the case, [it was not clear right from the beginning] [where the note to be added] would be [inserted into the collection] — this was [a decision that was made in the course of] [preparing the respective note for filing]; 相应的笔记归档过程中 and normally [there was more than one possible solution to the question] [where to place the note in the collection] [due to the specific structure of the collection].
-220409-09:22, 22:40
-            - 因此，他通常不会把[阅读时做的笔记][直接放入卡片集合]，也不会以与阅读时[完全相同的方式][归档]；事实上，到了晚上，他就会根据自己特殊的归档技巧，把白天做的记录转入新的笔记。此外，他的主要关注点不是在将笔记纳入收藏之前将想法发展到最大程度；相反，他的操作是基于这样的假设，即只有在将笔记[与其他笔记联系起来时][才能决定其是否有用]——因此（在许多情况下）将是一个在未来决定的问题：通过在之后编制的新笔记的背景下重新阅读该笔记，或者在调查的背景下，即在将卡片索引作为新想法和出版物的数据库时。此外，在这种情况下，从一开始就不清楚要添加的笔记将被插入到卡片集合的哪个位置——这是一个在准备各自的笔记归档过程中做出的决定；由于卡片集合的特殊结构，通常有不止一个可能的解决方案来解决将笔记放在卡片集合中的问题。（deepl 机翻）
-        - 所以：
-●
-卢曼也会[在书上划线]的，[别把这事][想得太神圣了]
-●
-[重读]这些划线、笔记，[制作卡片的方法]参见【1 给卡片起标题】
-●
-加卡的标准是，[新卡片][要能够以某种方式][挂在已有的卡片后面]
-○
-废话，[否则怎么][给它编号]？？
-●
-至于两张卡片[要怎样才算有联系]，没有一定的标准，自己发挥想象力
-        - 1b1 卢曼编号系统和真实结构没有关系
-不像在树形系统里，越短的编号（路径）就说明越宽泛或重要。
-下面的例子表明，这种编号系统只是为了保持 locality 的便利手法：
-假设你有三张卡片，x 和 y 有关，y 和 z 有关，那么
-● 加入卡片的顺序为 xyz 时，可能编号分别为 x:1a y:1b z:1c
-● 加入卡片的顺序为 xyz 时，可能编号分别为 x:1a y:1a1 z:1b，或是 x:1a z:1b y:1b1
-假设选择了 x:1a z:1b y:1b1 的方案，但后来发现，z 根本无关宏旨，大部分新加入的内容和 x 或 y 有关，z 成了孤家寡人。在这种情况下，由于 x 和 y 的卡片群中间只隔着一张 z，还是有不错的 locality。
-
-很多数据库系统也采用这种结构，即，存储线性，索引树形。
-在索引上相隔很远的两个节点，可能在实际存储时相当 local。
     - Roam Edit [网页端][打开本地文件](https://www.bilibili.com/video/BV1JA411L7h4)和 exe
         - 这里用到的是 **localexplorer 插件**： 可以[调用本地电脑的默认软件][打开相对应的格式]，支持任何本地文件，甚至是 .exe，只要能在电脑打开就能[在网页打开](https://xl2x.com/362.html) #pt10-99.99
     - `file:///` 很不靠谱，workflowy 想[链接到本地文件](https://www.zhihu.com/pin/1381426035402084352)[有两种方法]，[稳定一点的方法]是直接靠 zotero 的 url scheme 来[插入附件]，[灵活一点的方法]是插入 everything 的[搜索型 url scheme] #pt10-99.99

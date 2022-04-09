@@ -1,1 +1,3 @@
+- alphabetical index
 - [[index card]]; [[card index]]
+- topical index
