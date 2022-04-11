@@ -4,6 +4,8 @@
     - ()  （） 《》 
     - % …… ^ &
     - ... 
+    - {{[[calc]]: ((0.351*20+1.35))}}
+    - {{[[calc]]: ((0.22/66.88*100))}}
 - number_of_consorts = 30
 - 剪映AI语音; smartdraw cad; 笔神; video repair
 - draft; [[draft box]]
