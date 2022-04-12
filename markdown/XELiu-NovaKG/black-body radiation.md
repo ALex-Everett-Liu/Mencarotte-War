@@ -1,4 +1,5 @@
 - [[black body]]
+- [[black-body radiator]]
 - distribution law
     - [[Wien's law]]
     - [[Planck's law]]

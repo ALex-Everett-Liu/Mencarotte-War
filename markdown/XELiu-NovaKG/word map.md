@@ -187,6 +187,8 @@
                     - [[physical characteristics]];
                     - typical or [distinctive](https://workflowy.com/#/f51a45ab24b1)
                 - single character;
+            - chrom-
+                - polychromatic: 多色; 
         - ci
             - circle
             - circum-: 环绕，周围;
@@ -969,6 +971,8 @@
                 - pollinic
                     - pollinate
                         - cross-pollination: 异花传粉;
+                - poly-
+                    - polychromatic: 多色; 
             - ponder
                 - pondered;
             - port
@@ -1357,6 +1361,8 @@
                 - ward off: bikai41, duokai31, fangzhi23;
             - wave
                 - wavelength
+        - wi
+            - wiggle: 摆动; 踌躇
 - Japanese
     - ご多用の折り (gotayou no ori); ご多忙の折り
         - 実用日本語表現辞典 (Practical Japanese Expression Dictionary, Jitsuyō nihongo hyōgen jiten)
