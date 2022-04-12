@@ -4,17 +4,9 @@
     - ()  （） 《》 
     - % …… ^ &
     - ... 
-- number_of_consorts = 30
-- 剪映AI语音; smartdraw cad; 笔神; video repair
-- draft; [[draft box]]
-    - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
-    - 关于地域-我平生最大的愿望就是彻彻底底地毁灭全球贸易航线，半点不剩
-    - 
-    - queue...
-        - book
-            - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
-            - 仪器分析.pdf; 
 - quick todo
+    - ck3 modding, number_of_consorts = 30
+    - 剪映AI语音; smartdraw cad; 笔神; video repair
     - [PDXCON](https://store.steampowered.com/sale/paradox);; movie theater 210501 harbin zym;; [Download](https://github.com/AlexAplin/nndownload) and process links from Niconico (nicovideo.jp);; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 
     - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; ^^appgo redl^^;; GIFCAM;; tagLyst;; TexStudio
@@ -73,6 +65,14 @@
     - work time
         - SF Express 售后, 最终同意按比例赔付250元
         - 主题交流与请教
+- draft; [[draft box]]
+    - mapped coordinate: (6276, {{[[calc]]: ((4096-2610))}})
+    - 关于地域-我平生最大的愿望就是彻彻底底地毁灭全球贸易航线，半点不剩
+    - 
+    - queue...
+        - book
+            - 《中国历史地图集》释文汇编 • [东北卷](https://gongjushu.oversea.cnki.net/chn/R201203050.html)
+            - 仪器分析.pdf; 
 - roam - function test
     - aa
         - **bb**
