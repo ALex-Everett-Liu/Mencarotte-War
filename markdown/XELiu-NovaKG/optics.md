@@ -24,7 +24,7 @@
 - [[light detection]]
 - [[light emission]]; [[photoluminescence]]
 - [[light generation]]
-- [[light intensity]]; [[radiation intensity]]
+- [[light intensity]]; [[optical intensity]]; [[radiation intensity]]
 - light propagation; wave propagation; [[propagating wave]]
     - propagation direction; the direction of propagation
         - horizontal direction;

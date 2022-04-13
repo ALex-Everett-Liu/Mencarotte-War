@@ -5,7 +5,8 @@
     - concurrent communication sessions
     - multiplexing
 - [[control signal]]
-- [[current signal]]
+- [[electrical signal]]
+    - [[current signal]]
 - [[multiplex]]: 多路复用
 - [[noise]]
     - [[separate signal from noise]]

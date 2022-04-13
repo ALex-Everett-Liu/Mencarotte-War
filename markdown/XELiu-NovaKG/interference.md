@@ -10,6 +10,6 @@
     - bright and dark bands
     - [[interference fringe]]
 - [[interferogram]]: 干涉图
-- [[interferometer]]
+- [[interferometer]]; [[interferometry]]
     - [[Michelson interferometer]]
         - configuration of mirrors;

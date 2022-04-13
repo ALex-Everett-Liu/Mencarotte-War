@@ -66,7 +66,7 @@ __缺点：易受温度影响__
         - 碳硅棒 (globar) - 钨丝灯 (tungsten)
     - 为增加寿命，[内部填充]特殊气体。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Ft5gb9kLi7q.jpg?alt=media&token=5c24b8d2-478f-4cfd-a7f4-f67cc7a17c89)
-- 调制单元
+- 调制单元; [[modulation]]
     - [切光马达]
         - 1、马达的[默认频率]为 7.3HZ
         - 2、体积比老马达更小
@@ -81,7 +81,6 @@ __缺点：易受温度影响__
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnkkgIDDmt4.png?alt=media&token=729ce9d1-52f5-4c3a-bd1b-0ce114f4b050)
     - 光源 / MIR source / source module -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
         - [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source; [[monochromatic wave]]
-    - [[modulation frequency]]
 - [[circular field stop]] - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器 -- [[optical relay block]] 
 - 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
     - [样品]([[sample]])
