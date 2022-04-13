@@ -3,7 +3,7 @@
     - backend plumbing
 - [[compatibility]]
 - cross-platform development; [[cross-platform]]
-    - port: 移植; [[portable]]: 可移植的; 便携的; [[portability]]
+    - port: 移植; [[portable]]: 可移植的; 便携的; [[portability]]; [[porting]]
 - design and [[verification]];
 - [[ecosystem]]
 - event

@@ -13,7 +13,7 @@
     - [[molecular vibration]]
     - [[overtone]]
     - [[vibrational degrees of freedom]]
-    - [[vibrational mode]]; [[vibrational frequency]]
+    - [[vibrational mode]]; [[vibrational frequency]]; vibrational absorption band
 - [[vibronic spectroscopy]]: 电子振动光谱
     - [[vibronic coupling]]: 电子振动耦合
 - ---

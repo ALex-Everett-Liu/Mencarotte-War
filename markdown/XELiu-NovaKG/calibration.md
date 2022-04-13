@@ -1,0 +1,11 @@
+- [[analyzer calibration]]
+- [[calibration model]]
+- calibration and maintenance system
+- [[calibration gas]]; [[calibration gas system]]; 标定状态
+    - [[span calibration gas]]: 量程校准气体
+- [[standard gas]]; 通入标准气体; for test
+    - [[interfering gas]]
+    - [[zero gas]]
+    - [[标称值]]
+- 校正系数; 校正因子; 转换系数; calibration factor; [[correction factor]] (CF); [[response factor]]
+- [[system calibration]]; 系统标定口;

@@ -1,8 +1,6 @@
 - [[amplitude]]
 - audio message
-- baseline
-    - [[baseline draft]]
-    - [[baseline noise]]
+- [[baseline]]
 - [[communication channel]]
     - concurrent communication sessions
     - multiplexing

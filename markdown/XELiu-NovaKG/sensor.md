@@ -8,3 +8,4 @@
 - [[sensing element]]
     - intrinsic sensor
     - distributed sensing
+- [[sensor head]]

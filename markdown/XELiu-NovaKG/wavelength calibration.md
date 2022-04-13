@@ -1,2 +1,5 @@
 - 激光器波长校准; calibrated by a laser beam
+    - collimated light beam: 准直光束
+    - the divergence of the beam;
     - permanent alignment: 长期稳定准直;
+    - 基准波数;

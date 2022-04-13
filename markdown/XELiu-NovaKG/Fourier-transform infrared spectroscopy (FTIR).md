@@ -36,7 +36,7 @@
 211012- 15:27
             - The [[throughput]] or [Jacquinot's advantage]. [This results from the fact that] in a [dispersive instrument], the [[monochromator]] has [entrance and exit slits] which [restrict the amount of light] that passes through it. The [interferometer throughput] is [determined only by the diameter of] the [collimated beam](((9lctvsya6))) [coming from the source]. Although no [[slit]]s are needed, FTIR spectrometers do require an [[aperture]] to [restrict the convergence of the collimated beam] in the interferometer. This is because [convergent rays] are [modulated at different frequencies] [as the path difference is varied]. Such an aperture is called a [Jacquinot stop].[1] [For a given resolution and wavelength] this [[circular aperture]] [allows more light through than a slit], resulting in a higher signal-to-noise ratio.
 211012-15:54
-            - The [[wavelength accuracy]] or [Connes' advantage]. The [[wavelength scale]] is [calibrated by a laser beam] of [known wavelength] that [passes through the interferometer]. This is [much more stable and accurate than] in [dispersive instruments] where the scale depends on the [mechanical movement] of [[diffraction grating]]s. In practice, [the accuracy is limited by] [the divergence of the beam] in the interferometer which [depends on the resolution].
+            - The [[wavelength accuracy]] or [Connes' advantage]. The [[wavelength scale]] is [calibrated by a laser beam] of [known wavelength] that [passes through the interferometer]. This is [much more stable and accurate than] in [dispersive instruments]([[dispersive spectrometer]]) where the scale depends on the [mechanical movement] of [[diffraction grating]]s. In practice, [the accuracy is limited by] [the divergence of the beam](((BeFsQalC1))) in the interferometer which [depends on the resolution]([[resolution]]).
         - Another [minor advantage] is [less sensitivity to] [[stray light]], that is [radiation of one wavelength] [appearing at another wavelength in the spectrum]. In [dispersive instruments](((GYqf1tp6G))), this is the result of [[imperfection]]s in the diffraction gratings and [[accidental reflection]]s. In [FT instruments] [there is no direct equivalent] as the [apparent wavelength] 表观波长 is determined by the [[modulation frequency]] [in the interferometer].
     - Spectral range
         - Far-infrared
@@ -193,19 +193,31 @@ __缺点：易受温度影响__
         - 6. The interferogram is then transformed with a Fourier Transform function to obtain a spectrum.
 - [[Bruker]] | [Process Analysis]([[process analysis]]) with [FT-NIR Spectroscopy](((ploiBkbit))) | [Keeping an Eye on your Process](https://www.spectroscopy-in-process.com/)
 with FT-NIR Spectroscopy
-    - **FT-NIR** [Process Monitoring](((CpOjxGjPN)))
+    - ### **FT-NIR** [Process Monitoring](((CpOjxGjPN)))
         - Today many manufacturers are [striving not only to produce] the [highest quality] [[final product]] but also to improve [[manufacturing efficiency]] by shifting the final [[quality analysis]] from the [[laboratory]] to the [[production plant]]s. [This will help to reduce] the [[labor cost]]s, but also allow [redeploying skilled staff into] [more demanding engineering roles].
 220413-10:57, 11:03
         - __Check important process parameters immediately for reaction monitoring and control. Fiber-coupled probes and sensor heads allow a direct look into the process without time delay.__
         - By integrating real-time process analysis into the manufacturing processes, it is possible to optimize the use of materials, increase the overall equipment efficiency and reduce or eliminate the production of off-specification batches, thus saving reprocessing or disposal costs.
         - Moreover, stringent regulations are demanding greater traceability throughout the manufacturing process, today already in the pharmaceutical industry, but soon also on other industries, like food production.
-    - **[Key Benefits of] Bruker's [FT-NIR Solutions]**
+    - ### **[Key Benefits of] Bruker's [FT-NIR Solutions]**
         - All Bruker [[process spectrometer]]s are characterized by [[robustness]], long-term [[stability]], and low [[maintenance cost]]s. Thousands of [[installation]]s in the chemical, petrochemical and [polymer industry] as well as in [pharmaceutical production processes] and in the field of [food and feed manufacturing] [prove our experience].
 220413-11:10
-    - Ongoing Cost Optimization
+    - ### Ongoing Cost Optimization
         - To the cost of a conventional analysis (consumables, maintenance and labor costs), very often the cost of unrealized profits as well as losses due to faulty batches and their disposal must be added.
         - FT-NIR online analysis on the other hand needs an initial investment for the spectrometer, process probes and accessories, as well as labor costs for the calibration development, but marginal running costs for labor and maintenance. Moreover, the process can be optimized, reaction yields can be maximized, and faulty batches can be prevented making unrealized profit a thing of the past.
-    - Rocksolid Design
-        - [Bruker's patented] RockSolid™ interferometer with [Cube Corner mirrors]([[cube corner reflector]]) guarantees [ultra-precise light guidance](((ylWuM2pbw))), a precondition for [reliable analysis results]. In combination with the [permanent alignment](((dnIj4DSCV))) [utilizing an internal laser], the [MATRIX-F process spectrometers] are [highly operational] [even under harsh conditions]([[harsh condition]]).
+    - ### Rocksolid Design
+        - [Bruker's patented](https://www.spectroscopy-in-process.com/img/cip/cubecorner.jpg) RockSolid™ interferometer with [Cube Corner mirrors]([[cube corner reflector]]) guarantees [ultra-precise light guidance](((ylWuM2pbw))), a precondition for [reliable analysis results]. In combination with the [permanent alignment](((dnIj4DSCV))) [utilizing an internal laser], the [MATRIX-F process spectrometers] are [highly operational] [even under harsh conditions]([[harsh condition]]).
 220413-11:23
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FuxQbYekT8p.png?alt=media&token=b5e15192-5b15-4d58-b41d-1c06e08669ae)
+    - ### Direct Calibration Data Transfer
+        - The Fourier-Transform (FT) based [spectrometer technology] provides outstanding [[wavenumber accuracy]] and [permits the direct transfer of] [[calibration model]]s [from one FT instrument to another]. This allows the development of [calibrations in the laboratory] and [a straightforward porting to]([[porting]]) 直接移植到 the [process spectrometer].
+(通用的波数校准模型-实验室中校准完后直接移植到过程光谱仪中)
+220413-13:20
+    - ### Simultaneous Multi Component Analysis
+        - FT-NIR spectroscopy [provides a rapid method for] [analysis of several components simultaneously] [based a one single measurement], since [the resulting spectrum] [contains the unique information from] the [vibrational absorption bands](((06tWaJI31))) of each molecule.
+220413-13:30
+    - Multiplexing Advantage
+        - With Bruker’s [multi-channel process spectrometer] MATRIX-F [up to 6 locations can be monitored], [reducing the cost per] [[measurement point]]. The [[probe]]s, [[flow cell]]s or [[sensor head]]s are [mounted directly into the reactor]([[reactor]]) 直接安装在反应器中 and [transmitting the light over long distances] (> 100 m) by using [[fiber optical cable]]s.
+220413-13:38
+        - Multiplexing advantage by connecting several measurement poits to one spectrometer (click to enlarge)
 - ---

@@ -18,6 +18,7 @@
         - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
 - [[data generator]]
 - [[data point]];
+    - [[data spacing]]
 - [[data processing]]
 - extracting data; extract information
 - [[interpolation]]

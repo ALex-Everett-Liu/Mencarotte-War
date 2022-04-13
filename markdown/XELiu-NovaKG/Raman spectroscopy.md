@@ -1,7 +1,7 @@
 - identify molecules;
 - [[low-frequency mode]]; low frequency vibrations
     - [[rotational mode]]
-    - [[vibrational mode]]; [[vibrational frequency]]
+    - [[vibrational mode]]; [[vibrational frequency]]; vibrational absorption band
 - [[Raman scattering]]; Raman scattering spectroscopy
     - [[X-ray Raman scattering (XRS)]]
 - ---

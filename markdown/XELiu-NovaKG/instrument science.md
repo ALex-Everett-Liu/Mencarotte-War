@@ -11,17 +11,7 @@
     - portable instrument; hand-held portable instrument; hand-held device; hand-held instrument; 便携式;  
     - [[sample]]
     - 分析站房; 分析小屋, 恒温;
-- calibration
-    - [[analyzer calibration]]
-    - calibration and maintenance system
-    - [[calibration gas]]; [[calibration gas system]]; 标定状态
-        - [[span calibration gas]]: 量程校准气体
-    - [[standard gas]]; 通入标准气体; for test
-        - [[interfering gas]]
-        - [[zero gas]]
-        - [[标称值]]
-    - 校正系数; 校正因子; 转换系数; calibration factor; [[correction factor]] (CF); [[response factor]]
-    - [[system calibration]]; 系统标定口;
+- [[calibration]]
 - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
 - [[instrumentation]]: 器械操作, 仪器制造 
