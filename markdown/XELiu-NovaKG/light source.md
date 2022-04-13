@@ -4,7 +4,7 @@
 - direct the light at a sample;
 - [[incident light]]; [[incident beam]]
 - [[light beam]]
-- [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source
+- [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source; [[monochromatic wave]]
     - tunable monochromatic light;
 - object illumination source
 - single incident beam

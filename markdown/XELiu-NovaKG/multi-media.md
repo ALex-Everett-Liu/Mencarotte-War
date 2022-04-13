@@ -10,6 +10,7 @@
 - renderer
 - [[screen recording]]
     - [[screenshot]]
+        - [[snapshot]]: 快照, 瞬象, 抽点打印
 - [[video]]
 - [[visualization]]; [[visualize]]; [[computer visualization]]
     - visual thinking

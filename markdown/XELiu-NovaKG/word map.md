@@ -1005,11 +1005,14 @@
                 - prevail
                     - prevalent: 普遍存在的, 常见的
             - pro
+                - pro-
+                    - proceed
+                        - proceeding: 进行; 会议记录;
+                    - profess
+                        - professional, 2; professor, 2
                 - produce
                     - [[product]]
                     - reproduce; reproducibility: 再现性;
-                - profess
-                    - professional, 2; professor, 2
                 - [[protagonist]]
                 - provide
                     - provided, 2; provider

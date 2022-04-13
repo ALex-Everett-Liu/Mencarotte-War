@@ -2,7 +2,7 @@
     - measuring instrument; measurement device; measuring apparatus
     - [[plate]]
         - illuminate the plate;
-- condition, environment; [[experimental condition]]...
+- condition, environment; [[experimental condition]]; [[experimental factor]]
     - dark room
 - [[curve fitting]]
 - [[detector]]

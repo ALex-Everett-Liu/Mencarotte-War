@@ -15,6 +15,7 @@
 - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
 - [[instrumentation]]: 器械操作, 仪器制造 
+- [[instrumental configuration]]
 - [[instrument design]]
 - [[instrument system]]
 - [[linear deviation]]

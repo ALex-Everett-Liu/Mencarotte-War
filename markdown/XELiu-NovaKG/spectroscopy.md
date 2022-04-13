@@ -21,6 +21,7 @@
 - [[light scattering]]; [[wave scattering]]
 - [[spectral characteristics]]; [[spectral signature]]
 - [[spectral line]]
+- [[spectral peak]]
 - [[spectrograph]]: 摄谱学; [[spectrography]]: 摄谱仪; spectroscopic method
 - [[spectrophotometry]]: 分光光度测定法; [[spectrophotometer]]: 分光光度计
 - [[spectroscopic sensor]]
