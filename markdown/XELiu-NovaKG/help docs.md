@@ -22,5 +22,4 @@
 - [[tip]]
 - [[tutorial]]
     - [[beginner]]; from [[beginner]] to expert; [[beginner course]]
-    - [[video tutorial]];
 - [[white paper]]

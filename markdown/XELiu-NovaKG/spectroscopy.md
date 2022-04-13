@@ -11,6 +11,7 @@
     - [[dispersive element]]
     - [[grating spectrometer]]
     - [[scanning spectrometer]]
+- [[filter-based spectrometer]]
 - [[infrared spectroscopy]]: 红外分析仪; [[infra-red spectroscopy]]; IR analyzer
 - [[microwave spectroscopy]]
 - [[molecular spectrum]]

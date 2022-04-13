@@ -163,7 +163,9 @@ __缺点：易受温度影响__
 - [光谱][定性分析]
     - [吸光度谱][解析] -- [[absorbance]] / wavenumber
 - ---
-- # [[傅里叶红外光谱-翁诗甫]]
+- books
+    - [[傅里叶红外光谱-翁诗甫]]
+    - [[Fourier transform spectroscopy instrumentation engineering]]
 - ABB 
     - MB Series;
         - [[MBGAS-3000]] FT-IR

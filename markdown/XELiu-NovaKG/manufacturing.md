@@ -2,6 +2,7 @@
 - [[manufacturing efficiency]]
 - [[manufacturing process]]
 - [[original equipment manufacturer (OEM)]]
+    - commercial-off-the-shelf item: 现成的商业产品
 - [[product]]...
 - [[quality management]]
 - #inbox

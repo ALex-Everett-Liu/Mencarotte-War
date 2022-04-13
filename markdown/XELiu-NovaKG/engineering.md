@@ -16,7 +16,8 @@
         - [[tube]]; [[tubing]]
         - [[valve]]
         - [[管阀件]]
-- [[industrial engineering]]
+- [[industrial engineering]] 
+- [[instrument science]]; instrumentation engineering
 - [[logistics]]
 - [[material]]; [[materials science]]; [[material science]]
 - [[Mechanical Engineering (ME)]]

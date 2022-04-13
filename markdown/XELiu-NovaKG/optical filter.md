@@ -1,4 +1,6 @@
-- 干涉滤光片
+- [[absorption filter]]
+- [[filter-based spectrometer]]
+- [[interference filter]]; 干涉滤光片
     - 窄带干涉滤光片
     - [[滤光轮]]
     - [[filter cell]]; [[filter chamber]]

@@ -1,6 +1,6 @@
 - [[dispersive infrared spectrometer]]
 - [[far infrared spectroscopy]]
-- [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument
+- [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument; FT spectrometer
     - FT-NIR Spectroscopy;
 - [[near-infrared spectroscopy (NIRS)]]
     - FT-NIR Spectroscopy;
@@ -75,7 +75,7 @@
             - 光谱扫描系统 两组[步进马达]([[stepper motor]])带动的[[滤光轮]] -- 8个滤光片 多个滤光气室和通孔
     - [非分光红外气体分析仪 (NDIR)]([[nondispersive infrared sensor (NDIR)]]) -- 1~15 μm
     - 调制型
-        - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument
+        - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument; FT spectrometer
 - 从[光学系统]来划分，可以分为 双光路 和 单光路 两种。
     - 双光路 -- 从[两个相同的光源]或者[精确分配的一个光源]，[发出两路][彼此平行的红外光束]，分别通过[几何光路相同]的[分析气室]([[measurement chamber]])、[参比气室]([[reference chamber]])后[进入检测器]。
     - 单光路 -- [从光源发出的][单束红外光]，只通过一个[几何光路]。但是对于检测器而言，[接收到的是][两个不同波长的红外光束]，只是它们[到达检测器的时间不同]而已。

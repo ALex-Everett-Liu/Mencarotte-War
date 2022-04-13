@@ -28,4 +28,5 @@
 - [[system architecture]]
 - system partitioning trial: 系统分区试验
 - [[system performance simulation]]
+- [[versatility]]: 通用性, 多用途
 - [[version control]]; [[revision control]]; [[revision]]

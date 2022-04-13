@@ -41,6 +41,7 @@
 - [[selective]]; [[selectivity]]
     - select the wavelength;
 - [[single beam spectrum]]
+- [[spectral range]]
 - [[terahertz radiation]]; THz beam
     - submillimeter radiation; submillimeter band; submillimeter wave; 亚毫米波段
     - [[terahertz technology]]
