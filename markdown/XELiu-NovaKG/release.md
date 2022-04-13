@@ -1,6 +1,4 @@
 - maintain; [[maintenance]]
-    - maintain the system
-    - [[maintainer]];
 - [[package]]
 - [[personal use]]
 - release publicly;

@@ -191,4 +191,21 @@ __缺点：易受温度影响__
         - 4. The position is referenced against a HeNe laser interference pattern.
         - 5. Each wavelength contributes to the interference pattern.
         - 6. The interferogram is then transformed with a Fourier Transform function to obtain a spectrum.
+- [[Bruker]] | [Process Analysis]([[process analysis]]) with [FT-NIR Spectroscopy](((ploiBkbit))) | [Keeping an Eye on your Process](https://www.spectroscopy-in-process.com/)
+with FT-NIR Spectroscopy
+    - **FT-NIR** [Process Monitoring](((CpOjxGjPN)))
+        - Today many manufacturers are [striving not only to produce] the [highest quality] [[final product]] but also to improve [[manufacturing efficiency]] by shifting the final [[quality analysis]] from the [[laboratory]] to the [[production plant]]s. [This will help to reduce] the [[labor cost]]s, but also allow [redeploying skilled staff into] [more demanding engineering roles].
+220413-10:57, 11:03
+        - __Check important process parameters immediately for reaction monitoring and control. Fiber-coupled probes and sensor heads allow a direct look into the process without time delay.__
+        - By integrating real-time process analysis into the manufacturing processes, it is possible to optimize the use of materials, increase the overall equipment efficiency and reduce or eliminate the production of off-specification batches, thus saving reprocessing or disposal costs.
+        - Moreover, stringent regulations are demanding greater traceability throughout the manufacturing process, today already in the pharmaceutical industry, but soon also on other industries, like food production.
+    - **[Key Benefits of] Bruker's [FT-NIR Solutions]**
+        - All Bruker [[process spectrometer]]s are characterized by [[robustness]], long-term [[stability]], and low [[maintenance cost]]s. Thousands of [[installation]]s in the chemical, petrochemical and [polymer industry] as well as in [pharmaceutical production processes] and in the field of [food and feed manufacturing] [prove our experience].
+220413-11:10
+    - Ongoing Cost Optimization
+        - To the cost of a conventional analysis (consumables, maintenance and labor costs), very often the cost of unrealized profits as well as losses due to faulty batches and their disposal must be added.
+        - FT-NIR online analysis on the other hand needs an initial investment for the spectrometer, process probes and accessories, as well as labor costs for the calibration development, but marginal running costs for labor and maintenance. Moreover, the process can be optimized, reaction yields can be maximized, and faulty batches can be prevented making unrealized profit a thing of the past.
+    - Rocksolid Design
+        - [Bruker's patented] RockSolid™ interferometer with [Cube Corner mirrors]([[cube corner reflector]]) guarantees [ultra-precise light guidance](((ylWuM2pbw))), a precondition for [reliable analysis results]. In combination with the [permanent alignment](((dnIj4DSCV))) [utilizing an internal laser], the [MATRIX-F process spectrometers] are [highly operational] [even under harsh conditions]([[harsh condition]]).
+220413-11:23
 - ---

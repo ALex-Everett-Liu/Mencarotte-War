@@ -4,7 +4,7 @@
 - [[observed data]]; [[observed evidence]]
 - [[Pearson correlation coefficient]]
 - entire population data; 
-- [[repeatability]]
-    - 测量精度; [精密度]([[precision]]) -- [多次重复测定][同一个量]，[随机误差]([[random error]])，[[standard deviation (SD)]]；即重复性
+- [[repeatability]]; 重复性
+    - [[precision]]; 测量精度; [精密度] -- [多次重复测定][同一个量]，[随机误差]([[random error]])，[[standard deviation (SD)]]
 - sample data; a sample of a population;
 - [[trend]]

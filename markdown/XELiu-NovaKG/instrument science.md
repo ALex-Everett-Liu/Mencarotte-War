@@ -28,6 +28,7 @@
 - [[instrument design]]
 - [[instrument system]]
 - [[linear deviation]]
+    - [[accuracy]]; [[accurate]]
     - [[linear approximation]]
     - linear response
     - [[linearity]]

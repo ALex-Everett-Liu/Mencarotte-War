@@ -1,7 +1,9 @@
 - [[dispersive infrared spectrometer]]
 - [[far infrared spectroscopy]]
 - [[Fourier-transform infrared spectroscopy (FTIR)]]; FT-IR spectroscopy; FT-IR instrument
+    - FT-NIR Spectroscopy;
 - [[near-infrared spectroscopy (NIRS)]]
+    - FT-NIR Spectroscopy;
 - [[nondispersive infrared sensor (NDIR)]]; [[non-dispersive infrared gas sensor]]
 - IR active;
 - [[infrared-transparent window]]

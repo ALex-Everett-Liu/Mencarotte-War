@@ -1,0 +1,2 @@
+- 激光器波长校准; calibrated by a laser beam
+    - permanent alignment: 长期稳定准直;

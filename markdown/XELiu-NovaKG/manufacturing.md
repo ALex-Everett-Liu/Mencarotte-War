@@ -1,8 +1,8 @@
 - [[manufacturing cost]];
+- [[manufacturing efficiency]]
 - [[manufacturing process]]
 - [[original equipment manufacturer (OEM)]]
-- product...
-    - [[end product]]
+- [[product]]...
 - [[quality management]]
 - #inbox
     - 按照我的经验来看，实际上是这样的——很多做[实体产品]的公司[一开始想的都是]把[制作和生产][全部外包]，[只抓住][设计这块]。但实际上完全[没有自己的供应链]，产品[是很难做出来的]，很多[制作以及生产的核心技术][自己不掌握]，就会[在各个环节][被供应商卡脖子]，尤其是[原型性]比较高的设计，如果没有[工厂的配合]，几乎可以说都会[把产品做砸]，而一个[设计受欢迎][能打开销路以后]，很多人[算一笔账]会发现[找工厂代工]远比[自己生产][要来得贵]。那么[打造自己的供应链](https://bbs.saraba1st.com/2b/thread-2028064-2-1.html)就是很重要了。 #pt9-99.97

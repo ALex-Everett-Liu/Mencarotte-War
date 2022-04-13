@@ -8,6 +8,7 @@
 - [[industrial settings]]
 - [[industrial system]]
 - industrially hardened; 
+- [[installation]]
 - [[light industry]]
     - [[cottage industry]]
         - craft industry
@@ -16,12 +17,14 @@
 - [[machine industry]]
     - [[process control]]; [[process control system]]
         - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
+- maintain; [[maintenance]]
 - [[manufacturing]]; [[manufacturing industry]]; 制造业
 - [[mining]]; [[mining industry]]
 - operator, 操作员; 
     - [[operator interface]]
 - [[plant]]
 - [[process control]]
+- [[robustness]]
 - safety; health and safety;
     - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
         - 防爆等级

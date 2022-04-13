@@ -15,6 +15,7 @@
 - [[microwave spectroscopy]]
 - [[molecular spectrum]]
 - online spectroscopy analysis; 在线光谱分析 
+- [[process spectrometer]]
 - [[Raman spectroscopy]]
 - [[light scattering]]; [[wave scattering]]
 - [[spectral characteristics]]; [[spectral signature]]

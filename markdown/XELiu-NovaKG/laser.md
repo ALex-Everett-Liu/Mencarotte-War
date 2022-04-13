@@ -4,4 +4,5 @@
 - [[light amplification]]
     - [[doped fiber amplifier]]
     - [[gain media]]; [[active gain medium]]
+- ultra-precise light guidance;
 - [[quantum cascade laser (QCL)]]

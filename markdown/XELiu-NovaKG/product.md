@@ -24,6 +24,8 @@
             - [[pain point]]: 痛点
             - [[user experience (UX)]]
         - [[user service]]
+- [[final product]]
+    - [[end product]]
 - flagship product
 - product description
     - [[gross weight]]

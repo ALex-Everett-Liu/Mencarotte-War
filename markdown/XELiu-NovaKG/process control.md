@@ -10,6 +10,9 @@
 - [[distributed control system (DCS)]]
 - human manual control;
 - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
+- [[process analysis]]
+- process monitoring; 
+- [[process spectrometer]]
 - [[process temperature]]
 - [[process unit]]: 控制器, 过程单元; 工艺装置
 - [[remote control]]
