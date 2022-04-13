@@ -172,6 +172,7 @@ __缺点：易受温度影响__
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx
     - 光谱分析法：利用物质与电磁辐射作用时，[物质内部]发生[量子化能级跃迁]而产生的吸收、发射或散射辐射等[电磁辐射的强度][随波长变化]的[定性、定量分析方法]。
+- 调研 FTIR 相关知识（目的：了解影响[光谱重复性]的因素），可从[结构设计]、[核心部件性能]方面入手
 - ---
 - [[FT-IR vs. Dispersive Infrared - Theory of Infrared Spectroscopy Instrumentation]]
 - Gasmet Products
