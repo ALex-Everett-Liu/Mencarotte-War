@@ -74,11 +74,13 @@ __缺点：易受温度影响__
             - 将中间的有效部位加工成螺线管形，不至于应力过大而断裂
             - EVER-GLO - 20~9600 cm-1 - ^^红外辐射强，热辐射弱^^ - 需要保温 #pt9-99.99
             - 钨丝灯 (tungsten)
+        - 红外辐射能量 MIR middle ＞ MIR 高频端 ＞ MIR 低频端 
         - 合金丝/镍铬丝光源 -- 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
 缺点：[长期工作]会产生[微量气体挥发] -- SIEMENS U23
         - 激光光源（成本高，寿命短）
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Ft5gb9kLi7q.jpg?alt=media&token=5c24b8d2-478f-4cfd-a7f4-f67cc7a17c89)
-- [[circular field stop]] - gas cell -- [[optical relay block]] 
+- [[circular field stop]] - gas cell -- [[optical relay block]] || 光源→光阑→准直镜
+    - 光阑 控制光通量大小 p80
 - 样品腔窗口-样品架-选配窗口
     - [样品]([[sample]])
         - 中红外透射分析时对样品的要求:

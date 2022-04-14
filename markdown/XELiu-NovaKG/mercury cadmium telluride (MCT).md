@@ -1,10 +1,11 @@
-- 需在[液氮低温下]工作 (液氮冷却)，响应时间 (1μs), 波长 (0.8-40μm) 。
+- 需在[液氮低温下]工作 (液氮冷却)。 -- 不锈钢杜瓦瓶保存液氮 18h，每天灌一次。
+- 响应时间 (1μs), 波长 (0.8-40μm) 。
 - Below 50 µm, [it is best to chose] a [cooled mercury cadmium telluride (MCT) detector], 碲镉汞 that [offers increased sensitivity] [on low-light scenarios]. Using a [thermoelectrically cooled MCT] [has become the standard solution] as it is [continuously cooled] and [doesn't require maintenance].
 - ---
 - ## MCT检测器与[DTGS检测器](((L_ckayezq)))的差别
-    - MCT检测器是由宽频带的半导体碲化镉和半金属化合物碲化汞混合形成，其组成为Hg1-xCdx Te ，x≈0.2，改变x值，可获得测量波段不同灵敏度各异的各种MCT检测器。
-    - 在光线作用下，对于半导体材料吸收了入射光子能量， 若光子能量大于或等于半导体材料的禁带宽度， 就激发出电子-空穴对，使载流子浓度增加，半导体的导电性增加，阻值减低，这种现象称为光电导效应。
+    - MCT 检测器是由[宽频带]的[半导体碲化镉]和[半金属化合物][碲化汞][混合形成]，其组成为 Hg1-xCdx Te ，x≈0.2，改变x值，可获得[测量波段不同][灵敏度各异的][各种MCT检测器]。
     - MCT 检测器[灵敏度]至少是 DTGS 的10倍, 比TGS[高30倍]。 [1] 
+    - DTGS 检测范围比 MCT 宽。
 - ---
 - dictionary
     - [Defect Analysis] in Mercury Cadmium Telluride 碲镉汞 by [Raman Scattering] dict.cnki.net

@@ -82,4 +82,5 @@
         - 钢管
             - 涂层钢管; 
         - [[polytetrafluoroethylene (PTFE)]]; [[Teflon]]; 四氟管
+        - 橡皮管
 - [[uniform sample]]

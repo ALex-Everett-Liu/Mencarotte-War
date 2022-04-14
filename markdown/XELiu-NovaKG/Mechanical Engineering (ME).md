@@ -26,6 +26,8 @@
     - [[windmill]]: 风车
 - [[motor]]
 - [[moving parts]]
+- 活塞
+    - 玻璃活塞
 - [[power drill]]: 电钻
     - [[drill holes]]: 钻孔; drilling holes
 - [[prime mover]]: 原动机 

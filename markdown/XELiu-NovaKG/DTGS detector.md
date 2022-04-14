@@ -1,0 +1,5 @@
+- 晶体薄片 两面引出两个电极通至[前置放大器]([[preamplifier]]) -- 干涉光产生的极微弱信号，放大并进行模数转换
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FlQ8DqqjV-K.png?alt=media&token=8b3b39eb-1694-42e5-9af5-454f4da3161d)
+    - 很怕潮湿 红外窗片密封 -- KBr, CsI MIR - Polyethylene 聚乙烯, FIR
+- Deuterated Lanthanum α Alanine doped TriGlycine Sulphate (DLaTGS)
+    - [Deuterated Lanthanum α Alanine doped TriGlycine Sulphate (DLaTGS)] 氘化镧 丙氨酸 掺杂 硫酸三甘氨酸 detectors [exhibit the most effective] [[pyroelectric effect]] known and are [versatile detectors] that don't need [external cooling](((yDtYTzWID))) to [produce high quality spectra]. However, as soon as the [[aperture]] (and samples) [gets smaller] and [less and less light reaches the detector] the [spectra's quality] [quickly diminishes].
