@@ -3,6 +3,7 @@
 - [[computer system]]
 - [[computing power]]
 - [[digital computer]]
+- [[laptop]]
 - [[mechanical computer]]
 - [[personal computer (PC)]]
     - [[desktop computer]]
