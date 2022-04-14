@@ -30,6 +30,7 @@
     - benzene-specific tube; 
 - reduction scheme; 
 - releases into the atmosphere; 排放气体
+- [[soil diagnosis]]
 - [[standard condition]]; [[standard state]]; [[working condition]]
     - [[harsh environment]]; [[harsh condition]]; tough environment
 - [[stationary pollution source]] 

@@ -165,6 +165,8 @@ __缺点：易受温度影响__
 - books
     - [[傅里叶红外光谱-翁诗甫]]
     - [[Fourier transform spectroscopy instrumentation engineering]]
+- literatures
+    - [[Optimizing setup of scan number in FTIR spectroscopy using the moment distance index and PLS regression: application to soil spectroscopy]]
 - ABB 
     - MB Series;
         - [[MBGAS-3000]] FT-IR

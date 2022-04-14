@@ -26,6 +26,7 @@
 - [[chemical process]]
     - [[chemical processing]]
 - [[chemical reaction]]
+- [[chemometrics]]: 化学统计计量学
 - [[combustion]]
 - [[component]]
 - [[compound]]

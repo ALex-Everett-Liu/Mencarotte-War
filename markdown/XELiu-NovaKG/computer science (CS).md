@@ -1,5 +1,6 @@
 - [[algorithm]]
 - [[artificial intelligence (AI)]]
+    - [[machine learning]]
 - [[data analysis]]; [[analyst]]
 - [[data structure]]
 - [[natural language]]; [[natural language processing (NLP)]]

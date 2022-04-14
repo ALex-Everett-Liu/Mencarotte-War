@@ -63,7 +63,7 @@
     - [样品处理系统]([[sample handling system]])
         - external cooling;
         - sample conditioning: 样气调理
-        - [[预处理]]; extensive sample preparation
+        - [[预处理]]; [[pre-processing technique]]; extensive sample preparation
     - [[sampling pump]] 
         - [[sample line]]: 样气管路; 采样管; 进样通道
             - [[伴热管线]]
