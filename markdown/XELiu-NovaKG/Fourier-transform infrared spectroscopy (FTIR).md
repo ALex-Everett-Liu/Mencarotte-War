@@ -32,12 +32,21 @@
                 - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Digitisation_of_the_interferogram.png/1024px-Digitisation_of_the_interferogram.png)
     - Advantages
         - There are three [principal advantages] for an [FT spectrometer] compared to a [[scanning spectrometer]] ([[dispersive spectrometer]]).[1]
-            - The [[multiplex]] or [Fellgett's advantage]. 增益 [This arises from the fact that] [information from all wavelengths] is [collected simultaneously]. [It results in] a higher [[signal-to-noise ratio (SNR)]] [for a given scan-time for observations] limited by [a fixed detector noise contribution] (typically in the [thermal infrared spectral region] where a [[photodetector]] is limited by [[generation-recombination noise]]). For a spectrum with m [resolution elements], this increase is [equal to the square root of m]. Alternatively, it allows a [shorter scan-time]([[scan-time]]) [for a given resolution]. In practice [multiple scans are often averaged], [increasing the signal-to-noise ratio] [by the square root of] [the number of scans].
-211012- 15:27
-            - The [[throughput]] or [Jacquinot's advantage]. [This results from the fact that] in a [dispersive instrument], the [[monochromator]] has [entrance and exit slits] which [restrict the amount of light] that passes through it. The [interferometer throughput] is [determined only by the diameter of] the [collimated beam](((9lctvsya6))) [coming from the source]. Although no [[slit]]s are needed, FTIR spectrometers do require an [[aperture]] to [restrict the convergence of the collimated beam] in the interferometer. This is because [convergent rays] are [modulated at different frequencies] [as the path difference is varied]. Such an aperture is called a [Jacquinot stop].[1] [For a given resolution and wavelength] this [[circular aperture]] [allows more light through than a slit], resulting in a higher signal-to-noise ratio.
-211012-15:54
-            - The [[wavelength accuracy]] or [Connes' advantage]. The [[wavelength scale]] is [calibrated by a laser beam] of [known wavelength] that [passes through the interferometer]. This is [much more stable and accurate than] in [dispersive instruments]([[dispersive spectrometer]]) where the scale depends on the [mechanical movement] of [[diffraction grating]]s. In practice, [the accuracy is limited by] [the divergence of the beam](((BeFsQalC1))) in the interferometer which [depends on the resolution]([[resolution]]).
-        - Another [minor advantage] is [less sensitivity to] [[stray light]], that is [radiation of one wavelength] [appearing at another wavelength in the spectrum]. In [dispersive instruments](((GYqf1tp6G))), this is the result of [[imperfection]]s in the diffraction gratings and [[accidental reflection]]s. In [FT instruments] [there is no direct equivalent] as the [apparent wavelength] 表观波长 is determined by the [[modulation frequency]] [in the interferometer].
+            - The [[multiplex]] or [Fellgett's advantage]. [This arises from the fact that] [information from all wavelengths] is [collected simultaneously]. [It results in] a higher [[signal-to-noise ratio (SNR)]] [for a given scan-time for observations]([[scan-time]]) limited by [a fixed detector noise contribution] (typically in the [thermal infrared spectral region] where a [[photodetector]] is limited by [[generation-recombination noise]]). For a spectrum with m [resolution elements](((zgs-0Z9WD))), this increase is [equal to the square root of m]. Alternatively, it allows a [shorter scan-time]([[scan-time]]) [for a given resolution]. In practice [multiple scans are often averaged], [increasing the signal-to-noise ratio] [by the square root of] [the number of scans]([[scan number]]). #pt9-99.99
+211012-15:27
+(多路复用增益-所有波段的信息被同时收集-当检测器噪声一定时，通常是热红外光谱区的产生-复合噪声，相同扫描时间内，信噪比SNR更高 -- 信噪比与扫描次数的平方成正比)
+                - 是按照[全波段][进行数据采集]的，[得到的光谱]是[对多次数据采集求平均]后的结果，而且[完成一次完整的数据采集]只需要一至数秒
+            - The [[throughput]] or [Jacquinot's advantage]. [This results from the fact that] in a [dispersive instrument], the [[monochromator]] has [entrance and exit slits] which [restrict the amount of light] that passes through it. The [interferometer throughput] is [determined only by the diameter of] the [collimated beam](((9lctvsya6))) [coming from the source]. Although no [[slit]]s are needed, FTIR spectrometers do require an [[aperture]] to [restrict the convergence of the collimated beam] in the interferometer. ^^This is because [convergent rays] are [modulated at different frequencies] [as the path difference is varied].^^ Such an aperture is called a [Jacquinot stop](((UfymXqwE1))).[1] [For a given resolution and wavelength] this [[circular aperture]] [allows more light through than a slit], resulting in a higher signal-to-noise ratio.
+211012-15:54; 220414-16:00
+(光通量优势-单色仪的进出口限制了光通量-干涉仪光通量只取决于光源发出的准直光束的直径-虽然不需要狭缝，但还是需要一个孔径光阑来限制准直光束的会聚程度-当光程差变化时，会聚光束以不同频率被调制-比狭缝的进光量更多，从而信噪比更高)
+                - [傅里叶变换红外光谱仪]所用的[光学元件]少，没有[光栅]或[棱镜分光器]，降低了[光的损耗]，而且通过干涉[进一步增加了光的信号]，因此[到达检测器的辐射]强度大，信噪比高。
+            - The [[wavelength accuracy]] or [Connes' advantage]. The [[wavelength scale]] is [calibrated by a laser beam] of [known wavelength] that [passes through the interferometer]. This is [much more stable and accurate than] in [dispersive instruments]([[dispersive spectrometer]]) where the scale depends on the [mechanical movement] of [[diffraction grating]]s. ^^In practice, [the accuracy is limited by] [the divergence of the beam](((BeFsQalC1))) in the interferometer which [depends on the resolution]([[resolution]]).^^
+(波长准确度-激光校准波长标度-而分光光度计则需要依赖衍射光栅的机械移动-分辨率决定了干涉仪中光束的会聚程度，从而限制了波长准确度)
+                - 重现性好 -- 傅里叶变换红外光谱仪采用的[傅里叶变换][对光的信号进行处理]，避免了[电机驱动光栅分光]时[带来的误差]，所以[重现性]比较好，[扫描速度]快。
+
+        - Another [minor advantage] is [less sensitivity to] [[stray light]], that is [radiation of one wavelength] [appearing at another wavelength in the spectrum]. In [dispersive instruments](((GYqf1tp6G))), this is the result of [[imperfection]]s in the diffraction gratings and [[accidental reflection]]s. In [FT instruments] [there is no direct equivalent] as the [apparent wavelength] is determined by the [[modulation frequency]] [in the interferometer].
+(对杂散光的灵敏度更低-FTIR 中干涉仪的调制频率决定了表观波长，所以某一波长的辐射就不太容易出现在光谱中的其他位置)
+220414-16:10
     - Spectral range
         - Far-infrared
             - The first FTIR spectrometers were developed for [[far-infrared range]]. The reason for this has to do with the [[mechanical tolerance]] needed for good [[optical performance]], which is related to [the wavelength of the light being used]. For the [relatively long wavelengths] of the far infrared, ~10 μm tolerances are adequate, whereas for the [rock-salt region] tolerances have to be better than 1 μm. A typical instrument was the [cube interferometer] developed at the NPL[9] and marketed by Grubb Parsons. It used a [[stepper motor]] to [drive the moving mirror], [recording the detector response] [after each step was completed].
@@ -50,45 +59,35 @@
             - The near-infrared region [spans the wavelength range between] the [[rock-salt region]] and the start of the [[visible region]] [at about 750 nm]. [[overtone]]s of [[fundamental vibration]]s [can be observed in this region]. [It is used mainly in] [industrial applications] such as [[process control]] and [[chemical imaging]].
 211009-16:45
 - ---
-- 探测接收系统
-    - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])-放大-滤波器-[[A/D converter]]; [[D/A converter]]
-    - [[signal processing]] -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p26
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9bPnQHWTkG.png?alt=media&token=1e22d25d-c965-481b-9e41-ef61bae9e49b)
-            - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
-- 光源 / MIR source / source module -- __I-nu plot__
+- [[light source]] / MIR source / source module -- __I-nu plot__
     - 按类型分为：单光源（ABB and SIEMENS) 和双光源。
-    - 按发光体分为：陶瓷光源、合金丝光源、激光光源（成本高，寿命短）。
-        - 陶瓷光源 -- 优点：寿命长，黄金[物理性能特别稳定]，不产生[微量气体]，且是[密封式][安全防爆]的。
+    - 按发光体分
+        - 陶瓷光源 
+            - 优点：寿命长，黄金[物理性能特别稳定]，不产生[微量气体]。
 __缺点：易受温度影响__
-            - ABB 光源是陶瓷光源，抛物面反射体，密封隔爆。
-        - 镍铬丝光源 -- 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
+            - ABB 光源是陶瓷光源，抛物面反射体，密封隔爆 ([密封式][安全防爆])。
+            - 为增加寿命，[内部填充]特殊气体。
+            - 水冷却 wavenumber 50~7800 cm-1
+空气冷却 wavenumber 50~9600 cm-1
+        - 硅碳棒/碳硅棒 (globar) - 水冷却 (水循环系统) - 漏水会造成[光学台损坏] - 功率200-400W，wavelength 2-30 μm (50~7800 cm-1)，寿命大于1000h。
+            - 散热 - 循环水冷却光源外套 - 热挡板，遮挡热辐射对干涉仪的影响 p79
+            - 将中间的有效部位加工成螺线管形，不至于应力过大而断裂
+            - EVER-GLO - 20~9600 cm-1 - ^^红外辐射强，热辐射弱^^ - 需要保温 #pt9-99.99
+            - 钨丝灯 (tungsten)
+        - 合金丝/镍铬丝光源 -- 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
 缺点：[长期工作]会产生[微量气体挥发] -- SIEMENS U23
-        - 碳硅棒 (globar) - 钨丝灯 (tungsten)
-    - 为增加寿命，[内部填充]特殊气体。
+        - 激光光源（成本高，寿命短）
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Ft5gb9kLi7q.jpg?alt=media&token=5c24b8d2-478f-4cfd-a7f4-f67cc7a17c89)
-- 调制单元; [[modulation]]
-    - [切光马达]
-        - 1、马达的[默认频率]为 7.3HZ
-        - 2、体积比老马达更小
-        - 3、用[光栅][测量频率]
-        - 4、马达有[3根引线]，[任何两根引线之间的电阻]都为[40欧姆]
-211012-10:45
-    - [[切光片]]
-        - 计算机控制[同步马达][驱动切光片]，[切光片][交替的覆盖测量和参比气室]。光线[在每一周内][交替的通过测量和参比气室]各两次。 #[[reference chamber]] #[[measurement chamber]]
-        - 1、对光切割，把光源的光[变成断续的光]，对红外光[进行调制]，使[检测器测量信号]成为交流信号，[便于][放大器放大]，可以改善检测器的[响应时间]特性。
-
-        - 2、两个[内圈]用于[透过参比光]([[reference light]])，两个[外圈]用于[透过测量光]([[measurement light]])。
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FnkkgIDDmt4.png?alt=media&token=729ce9d1-52f5-4c3a-bd1b-0ce114f4b050)
-    - 光源 / MIR source / source module -- __I-nu plot__ -[光阑转轮]([[diaphragm]]) ([[circular aperture stop]] (imaged on [[objective mirror]])) -滤波片轮 (IVU) -- 验证轮
-        - [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source; [[monochromatic wave]]
-- [[circular field stop]] - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器 -- [[optical relay block]] 
-- 分束器-可切换镜子-样品腔窗口-样品架-选配窗口
+- [[circular field stop]] - gas cell -- [[optical relay block]] 
+- 样品腔窗口-样品架-选配窗口
     - [样品]([[sample]])
         - 中红外透射分析时对样品的要求:
             - 不含游离态的水
             - [不能测量]氧气、氢气、氮气等[由相同原子构成的][气体分子]。
         - 固定液池
-- 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器
+    - 测量池/气体池 - [[gas cell module]] (long path) 气室 -- 气体流通容器
+- 散热
+    - 加装散热翅片，把部件发出的热量引到机箱外壳上，再通过风扇散掉
 - [[interferometer module]] ([[Michelson interferometer]]) - output interferometer mirror -- 动态准直干涉仪
     - ![Michelson-interferometer-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsV8bkGeL-n.png?alt=media&token=813ed342-55ad-4a2a-8584-a5860aa0aa38)
     - [定镜]([[fixed mirror]])M1 [动镜]([[moveable mirror]])M2
@@ -98,7 +97,7 @@ __缺点：易受温度影响__
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F8eueAh3Yzw.png?alt=media&token=eef200c1-0f72-4c6f-a5c7-68dc89f83e3b)
     - 分束器-可切换镜子
         - [[beamsplitter]] with [half transparent lay] 半透明层
-        - 分光镜/光束分离器；补偿镜
+        - 分光镜/光束分离器；补偿镜 
         - BS materials
             - [KBr](((J2JUtxEo1))) (易潮解，需要有[防潮措施])
             - 4）采用的 ZnSe 分束器，不吸潮，适合中国环境
@@ -107,7 +106,7 @@ __缺点：易受温度影响__
     - [[interferogram]]: 干涉图 -- amplitude-position plot
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FHyCxOFoFup.png?alt=media&token=be9df631-04e3-4547-b409-4dd2a9a7696e)
         - How we can [scale the base-line] ??? -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p14
-            - Wavelength determination with a He/Ne Laser. 632.8 nm, 15800 cm-1.
+            - Wavelength determination with a [He/Ne Laser]([[He-Ne laser]]). 632.8 nm, 15800 cm-1.
     - [透射光]包含了样品[对每一频率的吸收信息]，将检测器检测到的[干涉图]([[interferogram]])**[光强信号]**[输入计算机][进行傅里叶变换处理]，结果以[红外光谱图]的形式输出，并由计算机[通过接口]对仪器 (光学台) 实施控制。 -- MBGAS3000 初级培训-2017.3.10 V2.0-0307.pdf p29
     - 干涉仪在[利用单色光时]，[检测器得到的信号]（干涉图）是随[动镜的运动时间]而变化的[一条余弦曲线]。[实际的红外光源]为[具有一定频谱（波数）宽度]的[连续分布的光源]，因而检测器得到的信号是[各单色光干涉图的叠加]。^^由于[零光程差时][各单色光强度]为最大值，^^[其余部位]则因[相长或相消干涉][强弱不同]而互相抵消，他们[加合的结果]是[形成一个][中心极大]并[向两边迅速衰减]的[对称干涉图]。
         - An FTIR interferogram. The central peak is at the ZPD position ("[[zero path difference]]" or [[zero retardation]]), where [the maximal amount of light] passes through the interferometer to the [[detector]].
@@ -120,7 +119,6 @@ __缺点：易受温度影响__
         - 单色光的[余弦干涉波形式][非常有用]，它给出[对动镜精确地追踪]。
 
         - [FT-IR 光谱仪] 使用 [He-Ne 激光]([[He-Ne laser]])[发射的单色光][对动镜定位]。
-
         - 在[激光干涉图][经过零位时]，采集红外数据点，得到[红外干涉图]。
         - 光谱仪[配备的是][宽带光源]（即[波长范围]较宽），因此[检测到的干涉波][发生在每个波长下]，如左图上所示。
             - [在每个波长下得到的][干涉图的总和]得到如左图（中）干涉图。当零光程差处，所有波长的光束[相位差]都为0，[全部相加可得到][最大强度的干涉图]。[其他光程差处][均有不同程度的相互抵消]，因而信号下降。
@@ -133,11 +131,14 @@ __缺点：易受温度影响__
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FP6cxNlfwqF.png?alt=media&token=12f0adde-fd07-44c6-b57c-267489ba3a3a)
             - 左图（下）表示频率与强度关系，其中有九条线。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FGH0lts8mAZ.png?alt=media&token=9c0f360e-514f-4931-80b1-350b3ebefae3)
-- 特点
-    - 信噪比高 -- [傅里叶变换红外光谱仪]所用的[光学元件]少，没有[光栅]或[棱镜分光器]，降低了[光的损耗]，而且通过干涉[进一步增加了光的信号]，因此[到达检测器的辐射]强度大，信噪比高。
-    - 重现性好 -- 傅里叶变换红外光谱仪采用的[傅里叶变换][对光的信号进行处理]，避免了[电机驱动光栅分光]时[带来的误差]，所以[重现性]比较好，[扫描速度]快。
-是按照[全波段][进行数据采集]的，[得到的光谱]是[对多次数据采集求平均]后的结果，而且[完成一次完整的数据采集]只需要一至数秒
-- 检测器 -- __将光信号转换为电信号__ -- [[infrared detector]]
+- 探测接收系统
+    - [[infrared detector]] -- __将光信号转换为电信号__ 
+        - 检测器/[探测器]([[detector module]]) (including [[detector mirror]])
+    - 放大-滤波器-[[A/D converter]]; [[D/A converter]]
+    - [[signal processing]] -- 01_ABB MBGAS-3000 傅里叶红外分析仪的原理及其结构 201709.pdf p26
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F9bPnQHWTkG.png?alt=media&token=1e22d25d-c965-481b-9e41-ef61bae9e49b)
+- 实验室FTIR 和 在线FTIR 之间的区别
+    - 实验室 FTIR 做一次背景就测一次样品，而在线 FTIR 做完背景后连续测样品
 - FTIR 光谱获取流程 step
     - 采集[单通道][背景光谱] R(ν) -- [[reference spectrum]] (zero spectrum)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Fsm4kTeT5z9.png?alt=media&token=cde9e70b-0a98-4fa7-85f4-01f9f4c340e0)
@@ -155,12 +156,13 @@ __缺点：易受温度影响__
         - 每周开机至少两次:  防止受潮
     - CO2 含量不能太高：密封、干燥 N2 吹扫
     - [镜面]不可以用[纸巾或湿布][擦拭]
-- 采集[待测样品谱图][制作定量方法]
-    - 例：乙二醇 CH3ONO
-    - CO2 校准方程及相关图表
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqLBpq3E04W.png?alt=media&token=1db5e67c-40b2-4253-b807-05f2c88f0ffe)
-- [光谱][定性分析]
-    - [吸光度谱][解析] -- [[absorbance]] / wavenumber
+- 定性与定量分析
+    - 采集[待测样品谱图][制作定量方法]
+        - 例：乙二醇 CH3ONO
+        - CO2 校准方程及相关图表
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqLBpq3E04W.png?alt=media&token=1db5e67c-40b2-4253-b807-05f2c88f0ffe)
+    - [光谱][定性分析]
+        - [吸光度谱][解析] -- [[absorbance]] / wavenumber
 - ---
 - books
     - [[傅里叶红外光谱-翁诗甫]]

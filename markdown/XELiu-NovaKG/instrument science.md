@@ -31,6 +31,9 @@
     - instantaneous reading
     - interfere with the reading: 干扰读数; 
 - [[reliability]]: 可靠性
+- scan...
+    - [[scan number]]
+    - [[scan-time]]
 - [[scissor]]: 剪刀
 - 管线
     - [[bulkhead]]: 隔板

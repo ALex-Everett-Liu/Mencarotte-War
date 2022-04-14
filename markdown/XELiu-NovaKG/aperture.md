@@ -1,3 +1,4 @@
 - [[circular aperture]]; [[circular aperture stop]]
 - [[entrance aperture]]
+- Jacquinot stop
 - [[numerical aperture]]

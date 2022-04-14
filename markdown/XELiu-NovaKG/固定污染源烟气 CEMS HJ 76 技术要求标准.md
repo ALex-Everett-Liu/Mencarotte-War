@@ -35,7 +35,7 @@ Z_{d}=\frac{\Delta Z_{n}}{R} \times 100 \%
                 - [[full scale]] R -- ppm (mg/m3) -- ^^这里的意思是气体浓度单位用 ppm 或者 mg/Nm3 都可以，这两个是可以互相换算的^^
             - [[linearity]]: 线性度误差/非线性误差--仪表工试题集(第二版) 在线分析仪表分册.pdf p11
             - 线性动态范围 (line arrange)-校正曲线/标准曲线所跨越的[最大线性区间]
-                - 杂散光和噪声
+                - [杂散光]([[stray light]])和噪声
         - [NO2转换效率]([[nitrogen dioxide conversion efficiency]])/二氧化氮转换效率   p18
             - NO2转换为NO; 大于95%
             - 标气直接转换测量 $$\eta=\frac{\overline{C_{N O 2}}}{C_{0}} \times 100 \%$$

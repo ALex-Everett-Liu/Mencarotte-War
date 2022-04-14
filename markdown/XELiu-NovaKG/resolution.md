@@ -1,4 +1,5 @@
 - [[angular resolution]]
+- resolution element;
 - [[resolving power]]
 - [[spatial resolution]]
 - [[spectral resolution]]

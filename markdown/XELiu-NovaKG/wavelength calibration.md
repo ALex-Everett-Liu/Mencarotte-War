@@ -3,3 +3,5 @@
     - the divergence of the beam;
     - permanent alignment: 长期稳定准直;
     - 基准波数;
+    - Wavelength determination with a [He/Ne Laser]([[He-Ne laser]]). 632.8 nm, 15800 cm-1.
+    - [FT-IR 光谱仪] 使用 [He-Ne 激光]([[He-Ne laser]])[发射的单色光][对动镜定位]。
