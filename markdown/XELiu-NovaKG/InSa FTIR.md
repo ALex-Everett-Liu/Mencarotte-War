@@ -151,57 +151,66 @@ CO：100 mg/m3；
 O2：25%；
         - 通用 CEMS 实验室[原始记录表] -- HJC-JSJL80-20210114
             - [环境保护部][环境监测仪器][质量监督检验中心]
-- 测试报告
-    - INSA FTIR 测试汇总（211129-1203）
-        - 1. NO Test
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqZvuqL9BTY.png?alt=media&token=194b1b08-2914-4d2e-bf19-82ff54d9f59b)
-            - 1.4. 小结
-                - `2#` `3#` 线性误差和24h量程漂移[超出标准要求]（2%），`4#` 重复性和24h漂移超出标准要求。
-        - 2. CO Test
-            - 数据[波动大]，[性能测试]差距大
-            - 测试过程中发现，购买的CO标气测出的谱图中存在CO2谱图，可能对CO测试有一定影响。
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsxiCzO_61p.jpg?alt=media&token=5a12bc96-c9d7-4bc8-9b2e-43f533ac3648)
-                - 实验室已购CO标气[可能混合有]CO2标气，标气[已经寄回][神开]检查；另从[计量院][重新下单][一瓶 CO 标气]。
-        - 3. CO2 干扰测试
-            - 2#（PSN-002）和3#（PSN-003）HCl数值[受CO2影响较大]；4#（PSN-015）CO和NO数值受CO2影响较大；5#（PSN-001）CO、NO和HCl数值受CO2影响较大。
-            - 更新 [NO 模型]后，4#（PSN-015）和5#（PSN-001）设备CO2[对NO干扰][小于1ppm]，其余[气体干扰问题][仍存在]。
-                - 模型更换后，NO线性、重复性等参数须[重新测试验证]。
-        - 4. HCl Test
-    - 测试条件 -- 仪表内部设置、测量池温度、激光温度
-        - 测试条件：分辨率 4 cm-1；扫描速度 40000；温度：室温。
-- FTIR 应用[测试过程][线性误差][不符合 HJ76 标准要求][问题报告]（CO 为主）
-    - 1. 问题描述
-        - 线性误差不符合 HJ76 标准要求，测试结果大于 2%F.S.；[测试数据][波动较大]，需要将[数据组极差]缩小在 2mg/m3 以内。
-    - 2. 现象描述
-        - 2.1 CO 线性误差结果大于 2%F.S.
-    - 3. 可能原因
-        - 3.1 环境因素影响（温度、振动）
-    - 4. 解决方案
-        - 4.1 环境温度及振动影响
-            - 空调控温，[空调间] [25 摄氏度]，增加[机箱外壳]
-                - 机箱及空调[并无明显提升效果]，环境温度及环境振动[并非主要影响因素]
-        - 4.2 湿度干扰
-            - 增加吹扫气
-                - 吹扫后，性能有一定提升
-        - 4.3 激光波数偏移
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FN4g7nXuttI.png?alt=media&token=ab941831-dc4a-4c08-900a-c3eac3ab8996)
-        - 4.4 气体模型问题
-            - 对参比/积分段进行优化
-        - 4.5 数据波动大
-            - 对比 ABB 数据，确定 ABB [采集谱图][稳定性较好]：①ABB [零部件性能]优于 INSA，转 4.6；②ABB 结构设计，分析仪[整体设计]更优，转 4.7.
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FxpqmWh3w65.png?alt=media&token=a26a1a8c-a756-4716-b114-c101d599e819)
-        - 4.6 光源稳定性
-            - 光源[稳压供电]时，重复性[性能较好]，线性[不符合 76 标准]；光源[稳流供电]时，线性误差[符合要求]，重复性[变差]；[此举][非主要/唯一原因]，[仍有其他因素][影响测量结果]。
+- FTIR 测试回顾总结
+    - Questions
+        - 波动较大
+            - 气压不稳定，用压力表去测一下
+            - 振动较大
+            - 仪器内部温度不均匀
+        - 漂移较大
+    - 问题汇总
+        - 将 [[MBGAS-3000]] 采集的光谱数据用荧飒光学的计算软件计算后得出的各组分浓度值数据和实验测试结果吻合得很好，这说明荧飒光学的光谱计算方法问题不大
+            - 那么则说明目前 InSa FTIR PSN Series 分析仪采集到的光谱数据偏差较大
+                - 可能的原因 - 光源电流不稳定
+    - 测试报告
+        - INSA FTIR 测试汇总（211129-1203）
+            - 1. NO Test
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FqZvuqL9BTY.png?alt=media&token=194b1b08-2914-4d2e-bf19-82ff54d9f59b)
+                - 1.4. 小结
+                    - `2#` `3#` 线性误差和24h量程漂移[超出标准要求]（2%），`4#` 重复性和24h漂移超出标准要求。
+            - 2. CO Test
+                - 数据[波动大]，[性能测试]差距大
+                - 测试过程中发现，购买的CO标气测出的谱图中存在CO2谱图，可能对CO测试有一定影响。
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FsxiCzO_61p.jpg?alt=media&token=5a12bc96-c9d7-4bc8-9b2e-43f533ac3648)
+                    - 实验室已购CO标气[可能混合有]CO2标气，标气[已经寄回][神开]检查；另从[计量院][重新下单][一瓶 CO 标气]。
+            - 3. CO2 干扰测试
+                - 2#（PSN-002）和3#（PSN-003）HCl数值[受CO2影响较大]；4#（PSN-015）CO和NO数值受CO2影响较大；5#（PSN-001）CO、NO和HCl数值受CO2影响较大。
+                - 更新 [NO 模型]后，4#（PSN-015）和5#（PSN-001）设备CO2[对NO干扰][小于1ppm]，其余[气体干扰问题][仍存在]。
+                    - 模型更换后，NO线性、重复性等参数须[重新测试验证]。
+            - 4. HCl Test
+        - 测试条件 -- 仪表内部设置、测量池温度、激光温度
+            - 测试条件：分辨率 4 cm-1；扫描速度 40000；温度：室温。
+    - FTIR 应用[测试过程][线性误差][不符合 HJ76 标准要求][问题报告]（CO 为主）
+        - 1. 问题描述
+            - 线性误差不符合 HJ76 标准要求，测试结果大于 2%F.S.；[测试数据][波动较大]，需要将[数据组极差]缩小在 2mg/m3 以内。
+        - 2. 现象描述
+            - 2.1 CO 线性误差结果大于 2%F.S.
+        - 3. 可能原因
+            - 3.1 环境因素影响（温度、振动）
+        - 4. 解决方案
+            - 4.1 环境温度及振动影响
+                - 空调控温，[空调间] [25 摄氏度]，增加[机箱外壳]
+                    - 机箱及空调[并无明显提升效果]，环境温度及环境振动[并非主要影响因素]
+            - 4.2 湿度干扰
+                - 增加吹扫气
+                    - 吹扫后，性能有一定提升
+            - 4.3 激光波数偏移
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FN4g7nXuttI.png?alt=media&token=ab941831-dc4a-4c08-900a-c3eac3ab8996)
+            - 4.4 气体模型问题
+                - 对参比/积分段进行优化
+            - 4.5 数据波动大
+                - 对比 ABB 数据，确定 ABB [采集谱图][稳定性较好]：①ABB [零部件性能]优于 INSA，转 4.6；②ABB 结构设计，分析仪[整体设计]更优，转 4.7.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FxpqmWh3w65.png?alt=media&token=a26a1a8c-a756-4716-b114-c101d599e819)
+            - 4.6 光源稳定性
+                - 光源[稳压供电]时，重复性[性能较好]，线性[不符合 76 标准]；光源[稳流供电]时，线性误差[符合要求]，重复性[变差]；[此举][非主要/唯一原因]，[仍有其他因素][影响测量结果]。
+    - 光谱文件和气体模型的对比分析
+        - 
 - CEMS software
     - CEMS 标定公式 #pt9-100
         - (CEMS(x)-CEMS(0))/(CEMS(F.S.)-CEMS(0))=(InSa(x)-InSa(0))/(InSa(F.S.)-InSa(0))
             - 转换为 y=ax+b (CEMS(x)=a*InSa(x)+b) -- 即 a=CEMS(F.S.)/(InSa(F.S.)-InSa(0)), b=-InSa(0)*a
             - InSa(x) 解析平滑的值 -- CEMS(x) 标定转换后的值
     - 7.6 的粗糙理解 -- SO2示数/实际测量值=k*校准/标定的满量程值 +b (满量程校准；校准从满量程(100%SO2)到零点(100%N2)直线的斜率和相对零点偏移值)
-- 问题汇总
-    - 将 [[MBGAS-3000]] 采集的光谱数据用荧飒光学的计算软件计算后得出的各组分浓度值数据和实验测试结果吻合得很好，这说明荧飒光学的光谱计算方法问题不大
-        - 那么则说明目前 InSa FTIR PSN Series 分析仪采集到的光谱数据偏差较大
-            - 可能的原因 - 光源电流不稳定
 - 项目号 HOPES-RZ-008 琉兴FTIR分析系统CCEP认证
 - FTIR 机箱的集成
     - 220 VAC mains AC   connect to   [电源滤波器]([[line filter]]) L N PE -- 输出端分别连接 [[EMC Filter]] 的 port 4/3/FG2 -- 输出端连接[开关电源]([[switched-mode power supply (SMPS)]])的 L N PE
@@ -210,11 +219,5 @@ O2：25%；
     - 机箱顶盖 - M4*12 内六角or十字螺丝
     - 加热带加热时间 
         - 从70℃加热到200℃，用时80min
-- Questions
-    - 波动较大
-        - 气压不稳定，用压力表去测一下
-        - 振动较大
-        - 仪器内部温度不均匀
-    - 漂移较大
 - software dependency -- 210713-17pm
     - x64/FTIR gas analyzer online -- IMG_20210713_174532.jpg

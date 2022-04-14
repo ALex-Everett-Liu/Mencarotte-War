@@ -170,7 +170,7 @@ __缺点：易受温度影响__
 - ABB 
     - MB Series;
         - [[MBGAS-3000]] FT-IR
-- # [[InSa FTIR]]
+- [[InSa FTIR]]
 - Software
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx
