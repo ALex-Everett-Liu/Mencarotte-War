@@ -1,4 +1,5 @@
 - [[better-informed decision]]; better informed position
+- comparison; versus score
 - [[decision quality]]
 - [[decision tree]]; [[decision matrix]]
 - [[evaluation matrix]]

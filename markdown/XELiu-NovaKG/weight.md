@@ -1,0 +1,4 @@
+- [[assigned weightings]]
+- [[collective weightings]]
+- [[higher weight]]
+- [[revisions to the weightings]];

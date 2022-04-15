@@ -1,0 +1,11 @@
+- [[building heating]]: 建筑供暖
+- [[central heating]]
+- [[heater]]
+- [[heating element]]
+    - [[electrical heating element]]; [[electric heating]]
+    - [[heating wire]]
+- [[preheat]]
+- [[temperature control]]
+- [[trace heating]]
+- [[water heater]]: 热水器
+- 加热棒; 加热片

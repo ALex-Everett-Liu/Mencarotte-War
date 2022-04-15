@@ -6,6 +6,7 @@
 - radiating field; 
 - [[radiation power]]
 - [[radiation signal]]
+- [[radiator]]
 - [[thermal radiation]]
     - [[thermal electromagnetic radiation]]
         - [[black-body radiation]]; [[blackbody radiation]]

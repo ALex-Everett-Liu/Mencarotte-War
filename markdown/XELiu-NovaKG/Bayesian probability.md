@@ -15,6 +15,3 @@
 - learn a new fact; acquire new evidence
 - [[testing hypotheses]];
 - [[weight]]
-    - [[assigned weightings]]
-    - [[collective weightings]]
-    - [[revisions to the weightings]];

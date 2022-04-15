@@ -6,17 +6,11 @@
     - [[heat-exchange system]]; [[heat exchanger]]; 换热器
     - [[heat rejection]]: 排热
     - [[heat transfer fluid]]: 传热液
-- heating; 加热元件
-    - [[heater]]
-    - [[heating element]]
-        - [[electrical heating element]]; [[electric heating]]
-        - [[heating wire]]
-    - [[preheat]]
-    - [[temperature control]]
-    - [[trace heating]]
-    - 加热棒; 加热片
-- [[heating, ventilation, and air conditioning (HVAC)]]
+    - [[radiator]]
+- [[heating]]; 加热元件; [[heating system]]
+- [[heating, ventilation, and air conditioning (HVAC)]]; [[HVAC system]]
 - oil and petrochemicals industries
+- [[thermostatically controlled loads (TCLs)]]: 恒温控制负载
 - ---
 - dictionary 
     - Application of [life cycle exergy analysis] on [energy and power engineering] dict.cnki.net

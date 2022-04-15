@@ -1,3 +1,4 @@
+- [[cost-effectiveness]]
 - [[labor cost]]
 - [[maintenance cost]]
 - [[manufacturing cost]];

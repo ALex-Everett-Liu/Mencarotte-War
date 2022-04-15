@@ -1,5 +1,9 @@
 - NVIDIA control panel
+- TechPowerUp GPU-Z 2.41
 - GeForce GTX 1650 -- my device 202011
+- graphics card [comparison](((I7jlN3T9B)))
+    - [Nvidia GeForce GTX 1650 Super] [vs](https://versus.com/en/nvidia-geforce-gtx-1650-super-vs-nvidia-geforce-rtx-2060) [Nvidia GeForce RTX 2060] -- 56:67 -- performance 33:39
+        - 
 - #inbox
     - 最早的[显卡]真是[纯显示用的](https://bbs.saraba1st.com/2b/thread-2038260-2-1.html)，到90年中期 [pci 总线][普及后]才有了[2d图形加速卡]，然后才是 voodoo   #pt7-99.97
         - [占用计算资源的]并不仅是贴图多边形光照，还有各种[无缝加载]/AI/物理交互。贴图/光照/分辨率是最灵活易调整的，而其他的调整了多少会[改变交互逻辑]。像 Fifa 那样本质足够简单的游戏支持到ps2甚至fc都行，但是EA[已经找不到]能熟练[在这些平台上开发]的人了。

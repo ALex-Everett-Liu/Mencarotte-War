@@ -22,7 +22,7 @@
 - [[embedded system]]; [[embedded application]]
     - [[plug-in card]]: 插入卡片, 插件;
 - [[firmware]]
-- [[graphics processing unit (GPU)]]
+- [[graphics processing unit (GPU)]]; [[graphics card]]
 - halt the processor;
     - [[low-power sleep state]]
 - hardware component; [[electronic component]]
