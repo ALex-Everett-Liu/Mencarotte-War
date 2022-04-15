@@ -1,1 +1,1 @@
-- [[wavenumber accuracy]]; [[wavelength accuracy]]
+- [[wavenumber accuracy]]; [[wavelength accuracy]]; [[spectral accuracy]]

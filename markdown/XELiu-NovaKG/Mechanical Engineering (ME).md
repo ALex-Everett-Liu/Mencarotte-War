@@ -1,6 +1,7 @@
-- [[actuator]]: 传动装置; 执行器
+- [[actuator]]: 传动装置; 执行器; 致动器
     - [[rack and pinion]]
 - [[automatic machinery]]
+- [[bearing assembly]]: 轴承装置, 轴承组合件, 轴承总称
 - [[crank]]: 曲柄 
 - [[engine]]
 - [[fluid power]]: 流体动力

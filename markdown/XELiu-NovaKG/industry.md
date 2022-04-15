@@ -16,7 +16,7 @@
             - [[fur]]; animal skin and hair
 - [[machine industry]]
     - [[process control]]; [[process control system]]
-        - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
+        - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]; [[data acquisition (DAQ)]]
 - maintain; [[maintenance]]
 - [[manufacturing]]; [[manufacturing industry]]; 制造业
 - [[mining]]; [[mining industry]]
@@ -32,5 +32,6 @@
         - [[防爆要求]]
     - industrial hygiene and safety;
     - [[production safety]]
+- selection guideline: 选型指导
 - [[smart platform]]
 - [[throughput]]: 生产量, 通过量;

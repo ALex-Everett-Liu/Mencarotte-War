@@ -1,5 +1,9 @@
+- configuration of mirrors;
 - [[fixed mirror]]; [[stationary mirror]]
 - [[moving mirror]]; [[moveable mirror]]
+- [[tilt error]]
+    - [[static tilt]]
+- ---
 - ## FTIR
     - In a Michelson interferometer [adapted for FTIR], light from the [polychromatic](((wh1vQjxp8))) [[infrared source]], approximately a [[black-body radiator]], is [collimated](((9lctvsya6))) and directed to a [[beam splitter]]. Ideally [50% of the light] is [refracted towards] the [[fixed mirror]] and 50% is [transmitted towards] the [[moving mirror]]. Light is [reflected from the two mirrors back to] the beam splitter and [some fraction of the original light] passes into the [[sample compartment]]. There, the light is [focused on the sample]. On [leaving the sample compartment] the light is [refocused on to the detector]. The difference in [optical path length] [between the two arms] to the interferometer is known as the [[retardation]] or [[optical path difference (OPD)]]. 
 (黑体辐射光源射出的准直光束射入到分束器中)

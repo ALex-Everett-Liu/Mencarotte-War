@@ -1,5 +1,5 @@
 - additional light source
-- broadband light source; broadband lamp source
+- [[broadband source]]; broadband light source; broadband lamp source; [[broadband radiation]]
 - [[coherent light source]]
 - direct the light at a sample;
 - [[incident light]]; [[incident beam]]

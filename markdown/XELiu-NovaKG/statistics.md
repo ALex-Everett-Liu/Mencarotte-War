@@ -5,6 +5,8 @@
 - [[Pearson correlation coefficient]]
 - entire population data; 
 - [[repeatability]]; 重复性
+    - [[deviation]]
+    - [[proximity]]
     - [[precision]]; 测量精度; [精密度] -- [多次重复测定][同一个量]，[随机误差]([[random error]])，[[standard deviation (SD)]]
 - sample data; a sample of a population;
 - [[trend]]

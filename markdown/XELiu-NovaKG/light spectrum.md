@@ -4,7 +4,7 @@
     - [[raw spectrum]]
 - [[bandwidth]]; [[spectral bandwidth]]
     - [[broad band]]; broad selectivity; [[wide band]]
-        - broadband light source; broadband lamp source
+        - [[broadband source]]; broadband light source; broadband lamp source; [[broadband radiation]]
     - [[narrow band]]; narrow band spectral region;
 - continuous spectrum; 连续光谱
     - 白光
@@ -35,6 +35,7 @@
     - [[vacuum ultraviolet (VUV)]]
 - [[visible light]]; visible frequency; visible-frequency; [[visible spectrum]]; visible band; visible range; [[visible region]] - 380~780 nm 
 - non-visible band;
+- [[output spectrum]]
 - [[radio]]; [[radio wave]]; [[radio band]]
     - [[radio communication]]
     - [[radio frequency]] - (m)

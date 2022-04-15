@@ -33,7 +33,7 @@
         - vertical direction;
     - propagation speed
 - [[light source]]; optical source
-- [[light spectrum]]; [[electromagnetic spectrum]]
+- [[light spectrum]]; [[electromagnetic spectrum]]; [[spectrum]]
     - [[spectroscopy]]
 - [[light speed]]; the [[speed of light]]
     - [[propagation speed]]
@@ -66,6 +66,11 @@
 - optoelectronic...
     - optoelectronic component; 
     - optoelectronic property; 
+    - optical-mechanical-electrical system
+    - [[photodiode]]
+    - [[photomultiplier tube (PMT)]]
+    - fast radiation-energy detector; 
+    - [[thermal detector]]
 - [[photonics]]
     - [[grating]]
     - [[lithography]]

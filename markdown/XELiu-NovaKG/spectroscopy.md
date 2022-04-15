@@ -34,7 +34,7 @@
 - [[ultraviolet-visible spectroscopy (UV-Vis)]]; UV–vis spectrometer; UV–vis absorption spectroscopy
     - [[ultraviolet analyzer]]
 - wavelength dependence; as a function of wavelength
-- [[wavenumber accuracy]]; [[wavelength accuracy]]
+- [[wavenumber accuracy]]; [[wavelength accuracy]]; [[spectral accuracy]]
     - [[wavelength calibration]]
     - [[wavelength scale]]: 波长标度
 - ---

@@ -10,9 +10,10 @@
 - [[multiplex]]: 多路复用
 - [[noise]]
     - [[separate signal from noise]]
-    - [[signal-to-noise ratio (SNR)]]
+    - [[signal-to-noise ratio (SNR)]] 
 - [[original signal]]
 - [[signal amplification]]
+- [[signal level]]: the [[amplitude level]] of the [desired signal] [WordNet]
 - [[signal output]]
 - [[signal processing]]
 - [[sinusoidal signal]]

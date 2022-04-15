@@ -10,4 +10,4 @@
 - [[direct current (DC)]]
     - low-voltage regulated DC power: 低压稳压直流电源; 
 - [[overcurrent]]: 过载电流
-- [[preamplifier]]
+- [[preamplifier]]; [[amplifier]]

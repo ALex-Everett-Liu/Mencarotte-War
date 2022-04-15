@@ -1,3 +1,4 @@
+- [[data sampling]]
 - gas pressure; 压力测量装置
 - [[gas temperature]]
 - [[negative pressure]]
@@ -21,6 +22,7 @@
     - high concentration sample gas;
     - [[interfering gas]]
 - [[sample preparation]]
+- [[sampling error]]
 - [[sampling rate]]
 - sample signal; 
 - [[sample spectrum]];

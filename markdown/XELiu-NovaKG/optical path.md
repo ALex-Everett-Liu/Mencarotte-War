@@ -2,3 +2,4 @@
     - [[zero path difference]]; [[zero retardation]]: 零点延迟/滞后
 - [[optical path length (OPL)]]
 - [[phase difference]]: 相位差
+    - [[phase mismatch]]

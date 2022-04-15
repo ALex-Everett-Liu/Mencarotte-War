@@ -52,6 +52,7 @@
     - [[高温胶带]]
     - 绝缘胶带; 电气胶带
 - [[thermostat]]
+- [[transferability]]; [[parallelism]]
 - [[vessel]]: 容器; 脉管
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)

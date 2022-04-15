@@ -15,6 +15,7 @@
     - [[mathematical structure]]
     - [[non-negative]]
     - normalized
+    - [[power]]: 幂
     - [[special case]]
     - square-integrable function
     - square root

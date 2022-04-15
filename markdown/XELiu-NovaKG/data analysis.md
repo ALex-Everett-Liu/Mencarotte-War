@@ -15,7 +15,7 @@
     - [[text value]]
 - [[data collection]]; collecting the data
     - acquire data; [[data acquisition]]
-        - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]
+        - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]; [[data acquisition (DAQ)]]
 - [[data generator]]
 - [[data point]];
     - [[data spacing]]
@@ -24,6 +24,7 @@
 - [[interpolation]]
 - interpreting the data;
 - [[meaningful data]]; [[random data]]
+- [[null data]]; [[null data point]]
 - [[OriginLab]]
 - [[raw data]]
 - receive data;

@@ -12,4 +12,3 @@
 - [[interferogram]]: 干涉图
 - [[interferometer]]; [[interferometry]]
     - [[Michelson interferometer]]
-        - configuration of mirrors;

@@ -1,4 +1,5 @@
 - [[free-space wavelength]]
+- [[shorter wavelengths]]
 - [[wavenumber]]
 - ---
 - ^^energy-wavelength-wavenumber corresponding^^

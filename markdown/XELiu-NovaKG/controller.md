@@ -3,4 +3,5 @@
     - autonomous controller; 
     - discrete controller
 - [[electronic controller]]
+- [[motion controller]]
 - [[PID controller]]
