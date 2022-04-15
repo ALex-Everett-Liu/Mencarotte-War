@@ -230,7 +230,9 @@ with FT-NIR Spectroscopy
             - Multiplexing advantage by connecting several measurement poits to one spectrometer (click to enlarge)
     - Gasmet Products
         - Portable Gas Analyzers 
-            - DX4000 – Portable [[stack gas]] and emission analyzer 烟气排放分析仪
+            - [DX4000](https://www.gasmet.com/products/category/portable-gas-analyzers/dx4000/) – Portable [[stack gas]] and emission analyzer 烟气排放分析仪
+            - DX4015 – Portable analyzer for [[humid condition]]s
+            - GT5000 Terra – Splashproof multigas FTIR analyzer 防溅
         - ## [How FTIR works?](https://www.gasmet.com/products/technology/ftir-fourier-transform-infrared/)
             - All molecules can be identified by their characteristic absorption spectrum because each molecule absorbs infrared radiation at its characteristic frequencies. Every molecular structure has a unique combination of atoms, and therefore produces a unique spectrum when exposed to infrared light. Even molecules with the same number of atoms in different positions can be distinguished. The only exceptions are diatomic elements such as O2 and noble gases, which do not absorb in the IR. IR absorption spectrum can be thought of as a fingerprint unique to each molecule.
             - ### Difference between IR Technologies
@@ -241,20 +243,22 @@ with FT-NIR Spectroscopy
             - As all gases are measured by scanning the same infrared spectrum, adding new compounds can be done easily in the software without requiring any changes to the hardware. The recorded spectra are also unaltered by the analysis performed on them and can therefore always be re-analyzed. This allows for traceable data and facilitates for instance retrospectively checking the measurements for new gases.
             - All this makes FTIR the ideal solution for a variety of applications where multiple gases need to be measured quickly, accurately and reliably.
     - [[Thermo Scientific]]
-        - [Nicolet™ Summit FTIR Spectrometers](https://www.thermofisher.cn/order/catalog/product/912A0972?icid=MSD_SPEC_MP_spectroscopy-elemental-isotope-analysis_0319)
-            - Confidently identify [[sample component]]s and [rapidly verify materials] [with less effort] so you can [make critical decisions] fast. Use the compact Thermo Scientific™ Nicolet™ Summit FTIR Spectrometer to quickly see pass/fail QC results on a multi-colored LED LightBar on the front of the instrument. Reduce the number of steps to take measurements, automate workflows and generate reports with the Thermo Scientific™ OMNIC™ Paradigm Software run on a built-in Windows™ computer. Send and share data in the Cloud with Wi-Fi connectivity. This spectrometer is ideal for busy QA/QC and teaching labs.
-            - ## product overview
-                - **Detector Type** [[thermoelectrically cooled (TEC)]] DTGS for maximum detector [[response linearity]]
-                - **Source Type**  Standard – [[single-point source]] with [[non-migrating hotspot]] for unmatched [[data reproducibility]] (10-year [[warranty]]); Optional – [[tungsten]]/[[halogen]] source [for mid-near IR measurements]
-            - Let the Nicolet Summit FTIR Spectrometer help you reach new heights in productivity, so you can accomplish more in less time. Whether you are managing a QA/QC lab or a crowded teaching lab for university students, this compact FTIR spectrometer goes beyond our previous Nicolet iS5 FTIR Spectrometer in design and function to meet the demands of your busy, multi-user laboratory.
-                - **Trusted high-performance optics**
-                    - For the ultimate in reliability and accuracy, the Nicolet Summit FTIR Spectrometer is designed with our unique LightDrive Optical Engine.
-                        - Improve data reproducibility: state-of-the-art infrared source eliminates hot spot migration, resulting in more consistent spectral data, especially through an attenuated total reflectance (ATR) accessory.
-                        - Standard and PRO models: with factory-verified specifications (not just “typical” or “achievable” results) you can choose the performance that fits your sample needs while still staying within budget. With the PRO model you can achieve a signal-to-noise ratio of 40,000:1 and spectral resolution of 0.45 cm-1 to help distinguish multiple components in small quantities.
-            - ## Documents & Downloads
-                - ### Product Literature
-        - [Nicolet™ iG50 FTIR Spectrometer](https://www.thermofisher.cn/order/catalog/product/IQLAADGAAGFACKMBIC?SID=srch-srp-IQLAADGAAGFACKMBIC)
-            - features
-                - Dynamically Aligned Interferometer
+        - [FTIR](https://www.thermofisher.cn/search/browse/category/us/en/90207117/ft-ir+spectrometers)
+            - [Nicolet™ Summit FTIR Spectrometers](https://www.thermofisher.cn/order/catalog/product/912A0972?icid=MSD_SPEC_MP_spectroscopy-elemental-isotope-analysis_0319)
+                - Confidently identify [[sample component]]s and [rapidly verify materials] [with less effort] so you can [make critical decisions] fast. Use the compact Thermo Scientific™ Nicolet™ Summit FTIR Spectrometer to quickly see pass/fail QC results on a multi-colored LED LightBar on the front of the instrument. Reduce the number of steps to take measurements, automate workflows and generate reports with the Thermo Scientific™ OMNIC™ Paradigm Software run on a built-in Windows™ computer. Send and share data in the Cloud with Wi-Fi connectivity. This spectrometer is ideal for busy QA/QC and teaching labs.
+                - ## product overview
+                    - **Detector Type** [[thermoelectrically cooled (TEC)]] DTGS for maximum detector [[response linearity]]
+                    - **Source Type**  Standard – [[single-point source]] with [[non-migrating hotspot]] for unmatched [[data reproducibility]] (10-year [[warranty]]); Optional – [[tungsten]]/[[halogen]] source [for mid-near IR measurements]
+                - Let the Nicolet Summit FTIR Spectrometer help you reach new heights in productivity, so you can accomplish more in less time. Whether you are managing a QA/QC lab or a crowded teaching lab for university students, this compact FTIR spectrometer goes beyond our previous Nicolet iS5 FTIR Spectrometer in design and function to meet the demands of your busy, multi-user laboratory.
+                    - **Trusted high-performance optics**
+                        - For the ultimate in reliability and accuracy, the Nicolet Summit FTIR Spectrometer is designed with our unique LightDrive Optical Engine.
+                            - Improve data reproducibility: state-of-the-art infrared source eliminates hot spot migration, resulting in more consistent spectral data, especially through an attenuated total reflectance (ATR) accessory.
+                            - Standard and PRO models: with factory-verified specifications (not just “typical” or “achievable” results) you can choose the performance that fits your sample needs while still staying within budget. With the PRO model you can achieve a signal-to-noise ratio of 40,000:1 and spectral resolution of 0.45 cm-1 to help distinguish multiple components in small quantities.
+                - ## Documents & Downloads
+                    - ### Product Literature
+            - [Nicolet™ iG50 FTIR Spectrometer](https://www.thermofisher.cn/order/catalog/product/IQLAADGAAGFACKMBIC?SID=srch-srp-IQLAADGAAGFACKMBIC)
+                - features
+                    - Dynamically Aligned Interferometer
 
-                    - Continuous “dynamic alignment” control of interferometer maintains optimal energy throughput, signal integrity, and long-term stability in industrial environments (temperature swings, external vibration).
+                        - Continuous “dynamic alignment” control of interferometer maintains optimal energy throughput, signal integrity, and long-term stability in industrial environments (temperature swings, external vibration).
+            - [Antaris™ IGS Gas Analyzer](https://www.thermofisher.cn/order/catalog/product/IQLAADGABCFADUMAAU?icid=MSD_SPEC_MP_ftir-instruments_0319)

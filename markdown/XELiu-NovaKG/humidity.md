@@ -1,2 +1,3 @@
 - high humidity environment;
+- [[humid condition]]
 - [[relative humidity]]
