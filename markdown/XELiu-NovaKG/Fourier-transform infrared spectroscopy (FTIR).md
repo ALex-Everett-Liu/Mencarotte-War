@@ -1,5 +1,7 @@
 - kw
     - [[commissioning]]: 试运行
+    - [[FTIR gas analyzer]]
+    - [[portable FTIR]]; hand-held FTIR
     - [[scan time]]; [[scan-time]]
 - ---
 - Wiki
@@ -73,7 +75,7 @@ __缺点：易受温度影响__
             - 散热 - 循环水冷却光源外套 - 热挡板，遮挡热辐射对干涉仪的影响 p79
             - 将中间的有效部位加工成螺线管形，不至于应力过大而断裂
             - EVER-GLO - 20~9600 cm-1 - ^^红外辐射强，热辐射弱^^ - 需要保温 #pt9-99.99
-            - 钨丝灯 (tungsten)
+            - 钨丝灯 ([[tungsten]])
         - 红外辐射能量 MIR middle ＞ MIR 高频端 ＞ MIR 低频端 
         - 合金丝/镍铬丝光源 -- 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
 缺点：[长期工作]会产生[微量气体挥发] -- SIEMENS U23
@@ -190,19 +192,13 @@ __缺点：易受温度影响__
         - 6. The interferogram is then transformed with a Fourier Transform function to obtain a spectrum.
 - ---
 - brand
-    - process FTIR, online FTIR, FTIR gas analyzer, hand-held FTIR
+    - process FTIR, online FTIR, FTIR gas analyzer
     - 部分FTIR[参数对比]
-        - 
+        - MKS FT-IR Gas Analyzer 初级培训 - 谢兆明 
     - ABB 
         - MB Series;
             - [[MBGAS-3000]] FT-IR
     - [[InSa FTIR]]
-    - Gasmet Products
-        - ## How FTIR works?
-            - All molecules can be identified by their characteristic absorption spectrum because each molecule absorbs infrared radiation at its characteristic frequencies. Every molecular structure has a unique combination of atoms, and therefore produces a unique spectrum when exposed to infrared light. Even molecules with the same number of atoms in different positions can be distinguished. The only exceptions are diatomic elements such as O2 and noble gases, which do not absorb in the IR. IR absorption spectrum can be thought of as a fingerprint unique to each molecule.
-            - ### Difference between IR Technologies
-                - [Non-Dispersive IR instruments (NDIR)]([[nondispersive infrared sensor (NDIR)]]) measure only [separate wavelength bands], no information from [other parts of the spectrum]. [Only one component can be analyzed] [from a single measurement] and [interference cannot be compensated].
-                - Fourier Transform Infrared (FTIR) spectrometer [measures all the IR wavelengths simultaneously] and [produces a full spectrum]. [All components can be analyzed] from a single measurement and [interferences are resolved].
     - [[Bruker]] | [Process Analysis]([[process analysis]]) with [FT-NIR Spectroscopy](((ploiBkbit))) | [Keeping an Eye on your Process](https://www.spectroscopy-in-process.com/)
 with FT-NIR Spectroscopy
         - ### **FT-NIR** [Process Monitoring](((CpOjxGjPN)))
@@ -232,4 +228,33 @@ with FT-NIR Spectroscopy
             - With Bruker’s [multi-channel process spectrometer] MATRIX-F [up to 6 locations can be monitored], [reducing the cost per] [[measurement point]]. The [[probe]]s, [[flow cell]]s or [[sensor head]]s are [mounted directly into the reactor]([[reactor]]) 直接安装在反应器中 and [transmitting the light over long distances] (> 100 m) by using [[fiber optical cable]]s.
 220413-13:38
             - Multiplexing advantage by connecting several measurement poits to one spectrometer (click to enlarge)
-    - 
+    - Gasmet Products
+        - Portable Gas Analyzers 
+            - DX4000 – Portable [[stack gas]] and emission analyzer 烟气排放分析仪
+        - ## [How FTIR works?](https://www.gasmet.com/products/technology/ftir-fourier-transform-infrared/)
+            - All molecules can be identified by their characteristic absorption spectrum because each molecule absorbs infrared radiation at its characteristic frequencies. Every molecular structure has a unique combination of atoms, and therefore produces a unique spectrum when exposed to infrared light. Even molecules with the same number of atoms in different positions can be distinguished. The only exceptions are diatomic elements such as O2 and noble gases, which do not absorb in the IR. IR absorption spectrum can be thought of as a fingerprint unique to each molecule.
+            - ### Difference between IR Technologies
+                - [Non-Dispersive IR instruments (NDIR)]([[nondispersive infrared sensor (NDIR)]]) measure only [separate wavelength bands], no information from [other parts of the spectrum]. [Only one component can be analyzed] [from a single measurement] and [interference cannot be compensated].
+                - Fourier Transform Infrared (FTIR) spectrometer [measures all the IR wavelengths simultaneously] and [produces a full spectrum]. [All components can be analyzed] from a single measurement and [interferences are resolved].
+        - ## FTIR Gas Analyzers
+            - Gasmet manufactures [portable FTIR gas analyzers](https://www.gasmet.com/products/category/portable-gas-analyzers/) and [stationary FTIR emissions monitoring systems](https://www.gasmet.com/products/category/emission-monitoring-systems/). An FTIR analyzer works by simultaneously scanning the entire infrared spectrum. Then, the software calculates the concentrations of each gas in the sample based on the characteristic absorption. All the gases in the sample can be measured simultaneously because the entire infrared spectrum is scanned at once. This allows for very quick multicomponent measurements and for compensation for any cross-interference.
+            - As all gases are measured by scanning the same infrared spectrum, adding new compounds can be done easily in the software without requiring any changes to the hardware. The recorded spectra are also unaltered by the analysis performed on them and can therefore always be re-analyzed. This allows for traceable data and facilitates for instance retrospectively checking the measurements for new gases.
+            - All this makes FTIR the ideal solution for a variety of applications where multiple gases need to be measured quickly, accurately and reliably.
+    - [[Thermo Scientific]]
+        - [Nicolet™ Summit FTIR Spectrometers](https://www.thermofisher.cn/order/catalog/product/912A0972?icid=MSD_SPEC_MP_spectroscopy-elemental-isotope-analysis_0319)
+            - Confidently identify [[sample component]]s and [rapidly verify materials] [with less effort] so you can [make critical decisions] fast. Use the compact Thermo Scientific™ Nicolet™ Summit FTIR Spectrometer to quickly see pass/fail QC results on a multi-colored LED LightBar on the front of the instrument. Reduce the number of steps to take measurements, automate workflows and generate reports with the Thermo Scientific™ OMNIC™ Paradigm Software run on a built-in Windows™ computer. Send and share data in the Cloud with Wi-Fi connectivity. This spectrometer is ideal for busy QA/QC and teaching labs.
+            - ## product overview
+                - **Detector Type** [[thermoelectrically cooled (TEC)]] DTGS for maximum detector [[response linearity]]
+                - **Source Type**  Standard – [[single-point source]] with [[non-migrating hotspot]] for unmatched [[data reproducibility]] (10-year [[warranty]]); Optional – [[tungsten]]/[[halogen]] source [for mid-near IR measurements]
+            - Let the Nicolet Summit FTIR Spectrometer help you reach new heights in productivity, so you can accomplish more in less time. Whether you are managing a QA/QC lab or a crowded teaching lab for university students, this compact FTIR spectrometer goes beyond our previous Nicolet iS5 FTIR Spectrometer in design and function to meet the demands of your busy, multi-user laboratory.
+                - **Trusted high-performance optics**
+                    - For the ultimate in reliability and accuracy, the Nicolet Summit FTIR Spectrometer is designed with our unique LightDrive Optical Engine.
+                        - Improve data reproducibility: state-of-the-art infrared source eliminates hot spot migration, resulting in more consistent spectral data, especially through an attenuated total reflectance (ATR) accessory.
+                        - Standard and PRO models: with factory-verified specifications (not just “typical” or “achievable” results) you can choose the performance that fits your sample needs while still staying within budget. With the PRO model you can achieve a signal-to-noise ratio of 40,000:1 and spectral resolution of 0.45 cm-1 to help distinguish multiple components in small quantities.
+            - ## Documents & Downloads
+                - ### Product Literature
+        - [Nicolet™ iG50 FTIR Spectrometer](https://www.thermofisher.cn/order/catalog/product/IQLAADGAAGFACKMBIC?SID=srch-srp-IQLAADGAAGFACKMBIC)
+            - features
+                - Dynamically Aligned Interferometer
+
+                    - Continuous “dynamic alignment” control of interferometer maintains optimal energy throughput, signal integrity, and long-term stability in industrial environments (temperature swings, external vibration).

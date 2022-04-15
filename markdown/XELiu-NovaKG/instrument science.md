@@ -9,6 +9,7 @@
         - [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
         - on-line analyzer system engineering
     - portable instrument; hand-held portable instrument; hand-held device; hand-held instrument; 便携式;  
+        - [[portable FTIR]]
     - [[sample]]
     - 分析站房; 分析小屋, 恒温;
 - [[calibration]]

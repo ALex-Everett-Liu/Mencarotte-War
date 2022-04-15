@@ -4,8 +4,9 @@
 - [[flowmeter]]; flow indicator
 - [[flow path]]; [[fluid path]]; 流路; 流径; sampling flow; 
     - gas path; 气路; 气体管路
-        - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体室; 气体测量池;; [[sample cell]]; sample gas cell; [[sample chamber]];; 气体[[流通池]]; [[flow cell]]
+        - [[gas cell]]; [[gas cell box]]; [[gas cell module]]; 气体室; 气体测量池;; 气体[[流通池]]; [[flow cell]]
             - [[cell wall]]
+            - [[sample compartment]]: 样品室; [[sample cell]]; sample gas cell; [[sample chamber]];; 
         - [[gas resistance]]
         - [[orifice]]; [[orifice area]]; [[orifice diameter]]
         - [[exhaust port]]; [[vent]]; 排气口; 出气口; 排出孔; [[排液口]]

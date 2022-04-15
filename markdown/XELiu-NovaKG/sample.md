@@ -14,7 +14,8 @@
             - 标气正压打入，减压阀控制压力在 0.05~0.2 MPa
         - 管路泄漏减小
     - [[pressure regulating valve]] -- 正压打入; 通气;
-- [[sample compartment]]: 样品室; 
+- [[sample compartment]]: 样品室; [[sample cell]]; sample gas cell; [[sample chamber]];; 
+- [[sample component]]
 - [样气]([[sample gas]]); gas sample; gaseous sample; [[air sample]]
     - condition the sample gas: 调节样气; [[gas conditioning system]]
         - sample conditioning: 样气调理
