@@ -1,0 +1,2 @@
+- a [numerical expression] [representing the efficiency of]([[efficiency]]) [a given system], material, or procedure
+- 质量因素；优良指数；最优值；灵敏值

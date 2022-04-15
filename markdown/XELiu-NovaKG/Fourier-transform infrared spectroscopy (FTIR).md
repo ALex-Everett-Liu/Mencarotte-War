@@ -171,10 +171,6 @@ __缺点：易受温度影响__
     - [[Fourier transform spectroscopy instrumentation engineering]]
 - literatures
     - [[Optimizing setup of scan number in FTIR spectroscopy using the moment distance index and PLS regression: application to soil spectroscopy]]
-- ABB 
-    - MB Series;
-        - [[MBGAS-3000]] FT-IR
-- [[InSa FTIR]]
 - Software
     - [[OPUS]]
 - Hopes-FTIR_Train.pptx
@@ -182,12 +178,6 @@ __缺点：易受温度影响__
 - 调研 FTIR 相关知识（目的：了解影响[光谱重复性]的因素），可从[结构设计]、[核心部件性能]方面入手
 - ---
 - [[FT-IR vs. Dispersive Infrared - Theory of Infrared Spectroscopy Instrumentation]]
-- Gasmet Products
-    - ## How FTIR works?
-        - All molecules can be identified by their characteristic absorption spectrum because each molecule absorbs infrared radiation at its characteristic frequencies. Every molecular structure has a unique combination of atoms, and therefore produces a unique spectrum when exposed to infrared light. Even molecules with the same number of atoms in different positions can be distinguished. The only exceptions are diatomic elements such as O2 and noble gases, which do not absorb in the IR. IR absorption spectrum can be thought of as a fingerprint unique to each molecule.
-        - ### Difference between IR Technologies
-            - [Non-Dispersive IR instruments (NDIR)]([[nondispersive infrared sensor (NDIR)]]) measure only [separate wavelength bands], no information from [other parts of the spectrum]. [Only one component can be analyzed] [from a single measurement] and [interference cannot be compensated].
-            - Fourier Transform Infrared (FTIR) spectrometer [measures all the IR wavelengths simultaneously] and [produces a full spectrum]. [All components can be analyzed] from a single measurement and [interferences are resolved].
 - FTIR Spectroscopy -- [NanoFASE](http://nanofase.eu/show/element_1391)
     - Fourier-transform infrared (FT-IR) spectroscopy is [a technique for estimating] [the infrared spectrum of emission], or of adsorption, of a compound. [The FTIR method] uses a "moving mirror" Michelson interferometer, rather than a diffraction grating, to [split the infrared radiation into] its frequencies. This method [captures all the incident infrared radiation] thus [providing very high energy]. The [moving mirror position]([[moving mirror]]) is referenced against a [[HeNe laser]] also [providing high frequency accuracy]([[wavenumber accuracy]]). The frequencies for a typical FTIR spectrometer range from about 8000 to 400 cm-1 (wavenumbers) which includes part of the [near-infrared (NIR)] and [all of the mid-infrared (MIR)]. Because of this [high energy throughput](((Q6Mxlb3aK))), MIR diffuse reflectance (DRIFT) spectroscopy [becomes an efficient option for] rapidly scanning powdered samples.
 (通过激光器来校准动镜的位置，使得波长准确性更精确)
@@ -198,33 +188,48 @@ __缺点：易受温度影响__
         - 4. The position is referenced against a HeNe laser interference pattern.
         - 5. Each wavelength contributes to the interference pattern.
         - 6. The interferogram is then transformed with a Fourier Transform function to obtain a spectrum.
-- [[Bruker]] | [Process Analysis]([[process analysis]]) with [FT-NIR Spectroscopy](((ploiBkbit))) | [Keeping an Eye on your Process](https://www.spectroscopy-in-process.com/)
+- ---
+- brand
+    - process FTIR, online FTIR, FTIR gas analyzer, hand-held FTIR
+    - 部分FTIR[参数对比]
+        - 
+    - ABB 
+        - MB Series;
+            - [[MBGAS-3000]] FT-IR
+    - [[InSa FTIR]]
+    - Gasmet Products
+        - ## How FTIR works?
+            - All molecules can be identified by their characteristic absorption spectrum because each molecule absorbs infrared radiation at its characteristic frequencies. Every molecular structure has a unique combination of atoms, and therefore produces a unique spectrum when exposed to infrared light. Even molecules with the same number of atoms in different positions can be distinguished. The only exceptions are diatomic elements such as O2 and noble gases, which do not absorb in the IR. IR absorption spectrum can be thought of as a fingerprint unique to each molecule.
+            - ### Difference between IR Technologies
+                - [Non-Dispersive IR instruments (NDIR)]([[nondispersive infrared sensor (NDIR)]]) measure only [separate wavelength bands], no information from [other parts of the spectrum]. [Only one component can be analyzed] [from a single measurement] and [interference cannot be compensated].
+                - Fourier Transform Infrared (FTIR) spectrometer [measures all the IR wavelengths simultaneously] and [produces a full spectrum]. [All components can be analyzed] from a single measurement and [interferences are resolved].
+    - [[Bruker]] | [Process Analysis]([[process analysis]]) with [FT-NIR Spectroscopy](((ploiBkbit))) | [Keeping an Eye on your Process](https://www.spectroscopy-in-process.com/)
 with FT-NIR Spectroscopy
-    - ### **FT-NIR** [Process Monitoring](((CpOjxGjPN)))
-        - Today many manufacturers are [striving not only to produce] the [highest quality] [[final product]] but also to improve [[manufacturing efficiency]] by shifting the final [[quality analysis]] from the [[laboratory]] to the [[production plant]]s. [This will help to reduce] the [[labor cost]]s, but also allow [redeploying skilled staff into] [more demanding engineering roles].
+        - ### **FT-NIR** [Process Monitoring](((CpOjxGjPN)))
+            - Today many manufacturers are [striving not only to produce] the [highest quality] [[final product]] but also to improve [[manufacturing efficiency]] by shifting the final [[quality analysis]] from the [[laboratory]] to the [[production plant]]s. [This will help to reduce] the [[labor cost]]s, but also allow [redeploying skilled staff into] [more demanding engineering roles].
 220413-10:57, 11:03
-        - __Check important process parameters immediately for reaction monitoring and control. Fiber-coupled probes and sensor heads allow a direct look into the process without time delay.__
-        - By integrating real-time process analysis into the manufacturing processes, it is possible to optimize the use of materials, increase the overall equipment efficiency and reduce or eliminate the production of off-specification batches, thus saving reprocessing or disposal costs.
-        - Moreover, stringent regulations are demanding greater traceability throughout the manufacturing process, today already in the pharmaceutical industry, but soon also on other industries, like food production.
-    - ### **[Key Benefits of] Bruker's [FT-NIR Solutions]**
-        - All Bruker [[process spectrometer]]s are characterized by [[robustness]], long-term [[stability]], and low [[maintenance cost]]s. Thousands of [[installation]]s in the chemical, petrochemical and [polymer industry] as well as in [pharmaceutical production processes] and in the field of [food and feed manufacturing] [prove our experience].
+            - __Check important process parameters immediately for reaction monitoring and control. Fiber-coupled probes and sensor heads allow a direct look into the process without time delay.__
+            - By integrating real-time process analysis into the manufacturing processes, it is possible to optimize the use of materials, increase the overall equipment efficiency and reduce or eliminate the production of off-specification batches, thus saving reprocessing or disposal costs.
+            - Moreover, stringent regulations are demanding greater traceability throughout the manufacturing process, today already in the pharmaceutical industry, but soon also on other industries, like food production.
+        - ### **[Key Benefits of] Bruker's [FT-NIR Solutions]**
+            - All Bruker [[process spectrometer]]s are characterized by [[robustness]], long-term [[stability]], and low [[maintenance cost]]s. Thousands of [[installation]]s in the chemical, petrochemical and [polymer industry] as well as in [pharmaceutical production processes] and in the field of [food and feed manufacturing] [prove our experience].
 220413-11:10
-    - ### Ongoing Cost Optimization
-        - To the cost of a conventional analysis (consumables, maintenance and labor costs), very often the cost of unrealized profits as well as losses due to faulty batches and their disposal must be added.
-        - FT-NIR online analysis on the other hand needs an initial investment for the spectrometer, process probes and accessories, as well as labor costs for the calibration development, but marginal running costs for labor and maintenance. Moreover, the process can be optimized, reaction yields can be maximized, and faulty batches can be prevented making unrealized profit a thing of the past.
-    - ### Rocksolid Design
-        - [Bruker's patented](https://www.spectroscopy-in-process.com/img/cip/cubecorner.jpg) RockSolid™ interferometer with [Cube Corner mirrors]([[cube corner reflector]]) guarantees [ultra-precise light guidance](((ylWuM2pbw))), a precondition for [reliable analysis results]. In combination with the [permanent alignment](((dnIj4DSCV))) [utilizing an internal laser], the [MATRIX-F process spectrometers] are [highly operational] [even under harsh conditions]([[harsh condition]]).
+        - ### Ongoing Cost Optimization
+            - To the cost of a conventional analysis (consumables, maintenance and labor costs), very often the cost of unrealized profits as well as losses due to faulty batches and their disposal must be added.
+            - FT-NIR online analysis on the other hand needs an initial investment for the spectrometer, process probes and accessories, as well as labor costs for the calibration development, but marginal running costs for labor and maintenance. Moreover, the process can be optimized, reaction yields can be maximized, and faulty batches can be prevented making unrealized profit a thing of the past.
+        - ### Rocksolid Design
+            - [Bruker's patented](https://www.spectroscopy-in-process.com/img/cip/cubecorner.jpg) RockSolid™ interferometer with [Cube Corner mirrors]([[cube corner reflector]]) guarantees [ultra-precise light guidance](((ylWuM2pbw))), a precondition for [reliable analysis results]. In combination with the [permanent alignment](((dnIj4DSCV))) [utilizing an internal laser], the [MATRIX-F process spectrometers] are [highly operational] [even under harsh conditions]([[harsh condition]]).
 220413-11:23
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FuxQbYekT8p.png?alt=media&token=b5e15192-5b15-4d58-b41d-1c06e08669ae)
-    - ### Direct Calibration Data Transfer
-        - The Fourier-Transform (FT) based [spectrometer technology] provides outstanding [[wavenumber accuracy]] and [permits the direct transfer of] [[calibration model]]s [from one FT instrument to another]. This allows the development of [calibrations in the laboratory] and [a straightforward porting to]([[porting]]) 直接移植到 the [process spectrometer].
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FuxQbYekT8p.png?alt=media&token=b5e15192-5b15-4d58-b41d-1c06e08669ae)
+        - ### Direct Calibration Data Transfer
+            - The Fourier-Transform (FT) based [spectrometer technology] provides outstanding [[wavenumber accuracy]] and [permits the direct transfer of] [[calibration model]]s [from one FT instrument to another]. This allows the development of [calibrations in the laboratory] and [a straightforward porting to]([[porting]]) 直接移植到 the [process spectrometer].
 (通用的波数校准模型-实验室中校准完后直接移植到过程光谱仪中)
 220413-13:20
-    - ### Simultaneous Multi Component Analysis
-        - FT-NIR spectroscopy [provides a rapid method for] [analysis of several components simultaneously] [based a one single measurement], since [the resulting spectrum] [contains the unique information from] the [vibrational absorption bands](((06tWaJI31))) of each molecule.
+        - ### Simultaneous Multi Component Analysis
+            - FT-NIR spectroscopy [provides a rapid method for] [analysis of several components simultaneously] [based a one single measurement], since [the resulting spectrum] [contains the unique information from] the [vibrational absorption bands](((06tWaJI31))) of each molecule.
 220413-13:30
-    - Multiplexing Advantage
-        - With Bruker’s [multi-channel process spectrometer] MATRIX-F [up to 6 locations can be monitored], [reducing the cost per] [[measurement point]]. The [[probe]]s, [[flow cell]]s or [[sensor head]]s are [mounted directly into the reactor]([[reactor]]) 直接安装在反应器中 and [transmitting the light over long distances] (> 100 m) by using [[fiber optical cable]]s.
+        - Multiplexing Advantage
+            - With Bruker’s [multi-channel process spectrometer] MATRIX-F [up to 6 locations can be monitored], [reducing the cost per] [[measurement point]]. The [[probe]]s, [[flow cell]]s or [[sensor head]]s are [mounted directly into the reactor]([[reactor]]) 直接安装在反应器中 and [transmitting the light over long distances] (> 100 m) by using [[fiber optical cable]]s.
 220413-13:38
-        - Multiplexing advantage by connecting several measurement poits to one spectrometer (click to enlarge)
-- ---
+            - Multiplexing advantage by connecting several measurement poits to one spectrometer (click to enlarge)
+    - 

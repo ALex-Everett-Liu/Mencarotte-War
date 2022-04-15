@@ -1,4 +1,4 @@
-- collimated light beam: 准直光束
+- collimated light beam: 准直光束; collimating light
 - [[fiber laser]]
 - [[helium–neon laser]]; [[helium-neon laser]]; [[He-Ne laser]]; [[HeNe laser]]
 - [[light amplification]]

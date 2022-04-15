@@ -8,6 +8,7 @@
     - tunable monochromatic light;
 - object illumination source
 - single incident beam
+- [[source beam]]
 - [[synchrotron radiation]]
     - [[third-generation synchrotron radiation source]]
 - [[white light]]

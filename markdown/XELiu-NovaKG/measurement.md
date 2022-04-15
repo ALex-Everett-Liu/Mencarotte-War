@@ -2,4 +2,5 @@
 - [[measurement point]]
 - [[measurement result]]
 - repeated measurement; second measurement
+- [[standard measurement]]
 - test and measurement; 
