@@ -12,3 +12,4 @@
 - [[talk page]]
 - [[What Wikipedia is not]]
 - [[Wikimedia Commons]]
+- [[Wikisource]]

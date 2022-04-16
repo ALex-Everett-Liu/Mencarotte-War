@@ -1,3 +1,4 @@
+- [[applied mathematics]]
 - [[arithmetic]]
     - [[basic arithmetic]]
 - [[calculus]]
@@ -13,10 +14,12 @@
 - [[game theory]]
 - general...
     - [[constant value]]
+    - [[golden section]]
     - [[mathematical structure]]
     - [[non-negative]]
     - normalized
     - [[power]]: 幂
+    - [[recreational mathematics]]: 趣味数学
     - [[special case]]
     - square-integrable function
     - square root

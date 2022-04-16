@@ -8,3 +8,23 @@
 201222-12:22, 17:45
     - Mathematics, physics and chemistry can explain patterns in nature at [[different level]]s. Patterns in [[living things]] are explained by the [[biological process]]es of [[natural selection]] and [[sexual selection]]. Studies of [pattern formation] make use of [[computer model]]s to [simulate a wide range of patterns].
 201223-00:21; 220416-12:25
+- [Bibliography]([[bibliography]])
+    - [[Latin]] [[Wikisource]] has [[original text]] [related to this article]: **[Liber abbaci](https://en.wikisource.org/wiki/la:Liber_abbaci)**
+    - pioneering authors
+        - [Fibonacci, Leonardo]. __[Liber Abaci]__, 1202.
+            - ———— translated by Sigler, Laurence E. __Fibonacci's Liber Abaci__. [[Springer]], 2002.
+    - **General books**
+        - Adam, John A. __Mathematics in Nature: Modeling Patterns in the [Natural World]__. [Princeton University Press], [2006](http://press.princeton.edu/titles/7686.html). #modeling
+        - [Ball, Philip] (2009a). __Nature's Patterns: a tapestry in three parts. 1: Shapes__. [[Oxford University Press]]. 挂毯装饰, 绒绣
+201224-21:58
+    - **Patterns from nature (as art)**
+        - Edmaier, Bernard. __Patterns of the Earth__. [Phaidon Press](https://en.wikipedia.org/wiki/Phaidon_Press), 2007.
+        - O'Neill, Polly. __Surfaces and Textures: A [Visual Sourcebook]__. Black, 2008. 原始资料读物
+        - [Porter, Eliot], and [Gleick, James]. __Nature's Chaos__. [Viking Penguin], 1990.
+- External links
+    - [Fibonacci Numbers and the Golden Section](https://web.archive.org/web/20160210085824/http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/) #[[hosted site]] #[[golden section]]
+    - [Phyllotaxis](https://web.archive.org/web/20120507072405/http://www.math.smith.edu/phyllo/): an [[interactive site]] for the [Mathematical Study] of [Plant Pattern Formation]
+201224-22:08
+- Categories: 
+    - [[applied mathematics]]
+[[recreational mathematics]]
