@@ -1,5 +1,5 @@
-- canonical classic
-- classic book
+- [[canonical classic]]: 典范经典 
+- [[classic book]]
 - [[Confucius]]
 - [[五经 (Five Classics)]]
 - 四书 (Four Books)

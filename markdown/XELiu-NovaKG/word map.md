@@ -80,7 +80,7 @@
                 - [[anonymous]]
             - ant
                 - antho
-                    - anthology
+                    - [[anthology]]
                 - anticipate: 预期
                     - anticipated;
                 - antique
@@ -727,7 +727,7 @@
                 - [catalog](https://workflowy.com/#/035f5250463e);
                 - logging;
             - -logy
-                - anthology; [[ontology]]
+                - [[anthology]]; [[ontology]]
             - long
                 - length, 2
                     - [wavelength](https://workflowy.com/#/a7072a18281e)

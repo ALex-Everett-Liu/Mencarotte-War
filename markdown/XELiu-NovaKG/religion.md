@@ -20,9 +20,9 @@
 - [[Islam]]
 - [[occult]]
 - rite; ritual...
-    - sacred rite; sacrificial rite
-    - sacrificial ceremony
-    - sacrificial song
+    - sacred rite; [[sacrificial rite]]
+    - [[sacrificial ceremony]]: 祭献/祭祀仪式 
+    - [[sacrificial song]]
     - [[worshipping heaven]]
     - worship god
 - [[sacred site]]

@@ -34,7 +34,7 @@
     - [[JPOP]]
 - genre
     - [[ballad]]
-    - folk song
+    - [[folk song]]
     - [[rhythm and blues (RnB)]]; [[R&B]]
     - [[rock]]
         - [[rock star]];

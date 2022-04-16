@@ -1,7 +1,7 @@
 - built-in help facility: 内置帮助工具;
 - [[guide]]; [[instruction]]; [[user guide]]
     - [[about us]]; [[about]]
-    - [[guideline]]
+    - [[guideline]]; [[guiding principle]]
     - README
     - [[setup instruction]];
     - step-by-step guide;

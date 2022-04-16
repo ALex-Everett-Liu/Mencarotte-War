@@ -1,3 +1,3 @@
-- general term; generic term
+- general term; [[generic term]]
 - [[glossary]]
 - technical term
