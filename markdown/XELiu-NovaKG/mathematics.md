@@ -5,7 +5,7 @@
     - [[calculus of variations]]
 - [[complex number]]
 - [[computational mathematics]] 
-    - [[mathematical modeling]]
+    - [[mathematical modeling]]; [[modeling]]
     - [[scientific computation]]
 - [[discrete mathematics]]
 - [[extreme value]]

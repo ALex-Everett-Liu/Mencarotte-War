@@ -1,9 +1,8 @@
 - [[California Institute of Technology (CalTech)]]
 - [[Cambridge University]]
-    - [[Cambridge University Press]]
 - [[MIT]]
+- [[Oxford University]]
 - [[Princeton University]]
-    - [[Princeton University Press]]
 - [[Stanford University]]
 - [[Yale University]]
 - #inbox

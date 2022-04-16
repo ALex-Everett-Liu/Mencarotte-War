@@ -1,4 +1,4 @@
-- Abstract
+- Abstract {{word-count}}
     - "Shijing" [[redirect]]s here. For [[other use]]s, see [Shijing ([[disambiguation]])].
     - The [[Classic of Poetry]], also Shijing or [Shih-ching] (Chinese: [詩經]; [[pinyin]]: [Shījīng]), [translated variously as] the [Book of Songs], [Book of Odes] or [simply known as] the [Odes]([[ode]]) or Poetry (Chinese: 詩; pinyin: Shī), is the [oldest existing collection] of [Chinese poetry], comprising 305 works dating from the 11th to 7th centuries BC. It is one of the "[[五经 (Five Classics)]]" traditionally said to have been [[compiled]] by [[Confucius]], and has been [studied and memorized] by scholars in China and [neighboring countries] [over two millennia]. 
         - It is also a [rich source] of [[成语 (chengyu)]] (four-character classical [[idiom]]s) that are still a part of [[learned discourse]] 学术话语 and even [[everyday language]] in [modern Chinese]. Since the [[清王朝 (Qing dynasty)]], its [[rhyme pattern]]s have also been analysed in the study of [[Old Chinese phonology]].
@@ -16,6 +16,13 @@
         - [[吴语 (Wu Chinese)]] [Romanization]([[romanization]]): Sy-chin
         - **Japanese name** -- Hiragana: しきょう (Shikyō)
 Kyūjitai: 詩經
+    - [The first song](https://en.wikipedia.org/wiki/File:Shi_Jing.jpg) of the Classic of Poetry, handwritten by the [Qianlong Emperor]([[乾隆 (Qianlong)]]), with [[accompanying painting]].
+        - Original title: __詩__ *s.tə [a](https://en.wikipedia.org/wiki/Classic_of_Poetry#cite_note-appellation-1)
+        - [a]: The __*k-lˤeng__ (__jing__ 經) appellation 称号, 名目 [would not have been used until] the [[汉王朝 (Han dynasty)]], after the [core Old Chinese period].
+        - [Subject]([[subject]]): [Ancient Chinese poetry] and song
+    - [Early references] refer to the [[anthology]] as [the __300 Poems (shi)__]. The Odes [first became known as] a jīng, or a "[[classic book]]", [in the canonical sense], 在规范意义上 as part of the Han Dynasty [official adoption]([[adoption]]) of [[Confucianism]] as the [[guiding principle]]s of Chinese society.[__citation needed__] [Before its elevation as] a [[canonical classic]], 典范经典 the [Classic of Poetry (Shi jing)] [was known as] the __[Three Hundred Songs]__ or __[the Songs]__.[2]
+201110-13:24 
+        The same word shi [later became] a [[generic term]] for [[poetry]].[1] In English, [lacking an exact equivalent for] the Chinese, [the translation of the word] shi [in this regard] is generally as "poem", "[[song]]", or "ode". 
 - ## Content 
     - The Classic of Poetry contains [the oldest chronologically authenticated] Chinese poems.[1] 按年代顺序证实/鉴定为最古老的 The majority of the Odes date to the [[西周 (Western Zhou)]] period (1046–771 BC), and were [drawn from] around 15 kingdoms, those which were mainly [provinces and cities] in the [[中原 (Zhongyuan)]] area. 
         - A [final section] of 5 "Eulogies of Shang" [purports to be](((B3hzqWB68))) [[ritual song]]s of the [[商王朝 (Shang dynasty)]] as [handed down by] their [[descendant]]s [in the state of Song]([[宋国 (Song State)]]), but is generally considered [quite late in date].[3][4] According to the [[东汉 (Eastern Han)]] scholar [[郑玄 (Zheng Xuan)]], the [latest material] in the Shijing was the song "Tree-stump Grove" (株林, 树桩林) in the "Odes of Chen", [dated to] the middle of the [[春秋时代 (Spring and Autumn period)]] ([c. 600 BC]).[5]
