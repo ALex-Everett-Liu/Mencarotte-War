@@ -1,6 +1,8 @@
 - [[evolution]]
 - [[evolutionary history]]
 - [[intelligent design]]
+- [[natural selection]]
+    - [[sexual selection]]
 - use it or lose it
 - #inbox
     - 目前看来，[地球生物][自然诞生时][地球上的条件][宛如地狱]，不需要“刚刚好”，[更不需要什么]“高等文明”[去安排](https://www.zhihu.com/question/523080500/answer/2400512900)。 #pt10-100

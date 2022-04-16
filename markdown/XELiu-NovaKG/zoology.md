@@ -1,3 +1,4 @@
+- [[animal]]
 - [[bird]]
 - [[fish]]
     - [[aquarium]]: 培养缸, 水族箱;

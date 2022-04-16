@@ -2,3 +2,9 @@
 201222-00:03
     - [1]: [Stevens, Peter S.] (1974). __Patterns in Nature__. [Little, Brown & Co]. -- [Stevens 1974](https://en.wikipedia.org/wiki/Patterns_in_nature#CITEREFStevens1974), p. 3. #CITEREF
     - Early [[Greek philosopher]]s studied pattern, with [[Plato]], [[Pythagoras]] and [[Empedocles]] [attempting to explain] [[order]] in nature. The [modern understanding] of [visible patterns] [developed gradually] over time.
+    - In the 19th century, the Belgian physicist [Joseph Plateau] examined [[soap film]]s, 肥皂膜 leading him to [formulate the concept of] a [[minimal surface]]. 形成了最小表面的概念 The German biologist and artist [Ernst Haeckel] painted hundreds of [[marine organism]]s to [emphasise their symmetry]. Scottish biologist [D'Arcy Thompson] [pioneered the study of] [[growth pattern]]s in both [[plant]]s and [[animal]]s, showing that [simple equations] could explain [[spiral growth]]. 
+        - [D'Arcy Thompson](https://en.wikipedia.org/wiki/File:Drcy.svg) [pioneered the study of] [growth and form] in his 1917 book.
+    - In the 20th century, the British mathematician [[Alan Turing]] predicted mechanisms of [[morphogenesis]] which [give rise to] patterns of [[spot]]s and stripes. The Hungarian biologist [Aristid Lindenmayer] and the [French American] mathematician [[Benoît Mandelbrot]] showed how the mathematics of [[fractal]]s could create [plant growth patterns].
+201222-12:22, 17:45
+    - Mathematics, physics and chemistry can explain patterns in nature at [[different level]]s. Patterns in [[living things]] are explained by the [[biological process]]es of [[natural selection]] and [[sexual selection]]. Studies of [pattern formation] make use of [[computer model]]s to [simulate a wide range of patterns].
+201223-00:21; 220416-12:25

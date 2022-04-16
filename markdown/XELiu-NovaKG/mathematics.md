@@ -8,6 +8,7 @@
     - [[scientific computation]]
 - [[discrete mathematics]]
 - [[extreme value]]
+- [[fractal]]
 - [[function]]
 - [[game theory]]
 - general...

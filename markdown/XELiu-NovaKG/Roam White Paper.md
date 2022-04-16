@@ -59,7 +59,7 @@ cast into a drawer: 扔进抽屉里
     - Clearly a fundamentally [different approach] is required. The Roam [[vision]] for [human knowledge] is a collective, [[open-source intelligence]], constantly [rearranging]([[rearrange]]), [[iterating]] and [[evolving]] in the [[pursuit of truth]].  Each of us would become a [[node]] within this [[collective intelligence]], [forging links] and [creating networks]([[network]]), [sharing the very best] [each has to offer], [improving ourselves]([[improve]]) even as we improve others, and advancing the [[interests of humanity]] [as a whole]. 促进全人类的利益
 201127-23:46; 210302-18:37
 - ## About Roam
-    - Roam was founded by [Conor White-Sullivan] and [Joshua Brown]. Conor [has been working on] tools for [collective intelligence] for more than nine years, founding the [online town] [common Localocracy] (acquired by AOL in 2011) then leading [[R&D]] for [[Huffington Post]] following the [[acquisition]]. 
+    - Roam was founded by [Conor White-Sullivan] and [Joshua Brown]. Conor [has been working on] tools for [collective intelligence] for more than nine years, founding the [online town] [common Localocracy] (acquired by AOL in 2011) then leading [[research and development (R&D)]] for [[Huffington Post]] following the [[acquisition]]. 
 201127-23:57
     - Conor and Josh met at [42.us.org], a [[tuition-free]] [[coding university]], where Josh [placed in the top five] of the first 1000 cadets to enter the [US program] during the [month-long application exam]. 
     - This white paper was [[co-author]]ed by [[business journalist]] [Richard Meadows], whose [[trial]] of [[early prototype]]s led him to become the [first investor]([[investor]]) in Roam. 

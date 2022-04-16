@@ -80,6 +80,7 @@
     - radical left: 激进的左翼
     - statist right: 中央集权主义右翼
     - 政治倾向;
+- [[proposal]]
 - protest: 抗议
 - [[public utility]]; public utilities; 公共事业; 公用事业
     - economics of transport and utility industries 
