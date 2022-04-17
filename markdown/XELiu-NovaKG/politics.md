@@ -23,7 +23,7 @@
 - [[epistocracy]]
 - general...
     - political reality
-    - political satire
+    - [[political satire]]: 政治讽刺
 - [[government]]
     - administration; [[administration system]]
         - [[administrative division]]; administrative area
@@ -81,7 +81,7 @@
     - statist right: 中央集权主义右翼
     - 政治倾向;
 - [[proposal]]
-- protest: 抗议
+- [[protest]]: 抗议
 - [[public utility]]; public utilities; 公共事业; 公用事业
     - economics of transport and utility industries 
     - emergency vehicle

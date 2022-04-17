@@ -25,7 +25,7 @@
         - 【熊子】I Really Like You 西班牙语版翻唱 +63
         - [I Really Like You](https://www.bilibili.com/video/BV1Rx411A7rp) - Carlie R Jepson +39
         - 查理·普斯《See You Again》 + 36
-        - 【[囧菌翻唱](https://www.bilibili.com/video/BV1Jx411C7sd)】Shape Of You - →w→ +48
+        - 【[囧菌翻唱](https://www.bilibili.com/video/BV1Jx411C7sd)】Shape Of You - →w→ +52
         - 【囧菌翻唱】一花依世界 +13
         - 【囧菌翻唱】空空如也 - 我懵懵懂懂过了一年 +4   # pt8-99.99
         - 【封茗囧菌】桃花庵（我~与各位共清欢~花间长眠一整晚） +2   # pt7-99.98

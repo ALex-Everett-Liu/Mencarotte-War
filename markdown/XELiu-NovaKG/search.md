@@ -18,10 +18,7 @@
 - [[search function]]; [[search tool]]
 - search into multiple files; 
 - [[search result]]
-- sorting
-    - alphabetical order
-    - exact order
-    - sorted by rating
+- [[sorting]]
 - [[text pattern]]
 - [[web crawler]]
 - #inbox

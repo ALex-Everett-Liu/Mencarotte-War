@@ -28,7 +28,7 @@
     - [[maid]]
 - general...
     - braid crowns: 编织花冠; 
-    - common people
+    - [[common people]]
     - [[liberal arts majors]]
     - [[men of letters]]
 - [[joys and sorrows]]
@@ -40,7 +40,8 @@
     - [[literary polish]]: 文学润色
     - straightforward narrative
     - [[stylistic consistency]]: 文体上的一致性 
-- love relationship
+- love relationship; [[love]]
+    - [[courtship]]: 求偶
     - [[separation]]
         - [[departure]]
         - 分手 (fenshou)

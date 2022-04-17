@@ -4,7 +4,7 @@
     - [[sweet]]
 - [[hormone]]
 - [[kiss]]
-- love relationship
+- love relationship; [[love]]
 - make love;
     - sleeping together; 上床
 - [[marriage]]
