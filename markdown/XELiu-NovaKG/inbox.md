@@ -47,6 +47,7 @@
         - zhihu
             - https://www.zhihu.com/people/jin-wei-66-63
             - https://www.zhihu.com/people/will9999
+            - https://www.zhihu.com/people/eric314
             - https://www.zhihu.com/people/shan-yue-dao-lan-yue-dao
             - https://www.zhihu.com/people/medievaltimes
             - https://www.zhihu.com/people/demain-14-68
