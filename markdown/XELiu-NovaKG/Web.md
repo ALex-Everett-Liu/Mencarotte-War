@@ -7,6 +7,7 @@
     - [[desktop software]]; [[desktop]]
     - portable version; green software
     - [[web-based application]]; [[web application]]
+- [[refresh]]
 - [[source]]; [[reference]]
     - [[information source]]; [[information resource]]
 - [[upload]]; [[download]]

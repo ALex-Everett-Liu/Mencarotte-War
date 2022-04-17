@@ -8,11 +8,12 @@
 - [[local search]]; desktop search
     - [[Everything Search]]
 - locate the file;
-- partial search; partial word matches
 - [[query]]; query language
+- [[regular expression]]; REGEX 
 - replace
     - find and replace; 
     - replace all occurrences; 
+- [[saved searches]]
 - [[search box]]
 - [[search engine]]; web search engine
 - [[search function]]; [[search tool]]

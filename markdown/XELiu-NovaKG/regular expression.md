@@ -1,11 +1,13 @@
 - [[cs/character]]: 字符
-- exact match; re-matches
+- exact match; re-matches; [[exact phrase]]
 - indicate the beginning of a line
 - [[input string]]
+- matches with similar spellings
 - pattern...
     - find and match the pattern;
     - [[occurrence]]: 发生/出现次数
     - requested pattern;
+- partial search; partial word matches
 - re-find command
 - re-seq command
     - [[lazy list]]
