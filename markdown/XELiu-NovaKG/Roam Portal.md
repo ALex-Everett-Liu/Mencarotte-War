@@ -1,4 +1,4 @@
-- Install
+- ## Install
     - Roam Portal is a [[Chrome Extension]]. You can [[install]] it from [here](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe/related):
     - [提供方]：[Dharam Kapila](mailto:dharam@hey.com) -- [search tools](https://chrome.google.com/webstore/category/ext/38-search-tools) -- 1,000+ 位用户 #category #[[search tool]]
     - A search engine for Roam, built for discovery and exploration
@@ -23,7 +23,7 @@
 ... and more to come.
 201120-00:11, 02:02
     - I hope you will like it :) If you [have any problems], [don't hesitate to] [contact me].
-- [Getting Started]([[getting started]])
+- ## [Getting Started]([[getting started]])
     - Thank you for installing [Roam Portal](https://roamresearch.com/#/app/Roam-Portal/page/IiUhhFdN3), an unofficial [Roam Research] [search extension] :)
     - [I encourage you to] [explore all the options] [when using it]. You can combine them [in unique and creative ways] to [[visualize]] your [[search result]]s.
 201119-02:59
@@ -32,3 +32,13 @@
         - 2. To open/close Roam Portal, click on the [grey icon](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Portal%2F_I1yrV6avz.png?alt=media&token=61d1e1b0-e2a8-45c1-8fa1-ae54115c0292) [in the top right corner], as shown in the image below. Roam Portal will be in that list.
         - 3. You can also click on the pin icon to keep it next to your address bar.
         - 4. **Create a keyboard shortcut **to open/close Roam Portal by going to this page: ^^chrome://extensions/shortcuts^^ and [assigning a shortcut key](((2iPfub8c0))) to Roam Portal. #[[keyboard shortcut]]
+    - ### Help
+        - Find more [[tip]]s and [[trick]]s to [use](https://roamresearch.com/#/app/roam-depot-developers/page/rD3rr620s): #help
+    - ### Contact
+        - This is an [[ongoing project]], and more [[feature]]s and [[improvement]]s are planned.
+        - If you face any [[issue]]s, or have [[suggestion]]s, don't hesitate to [[message]] me at [@DharamKapila](https://twitter.com/DharamKapila) or [dharam@hey](https://twitter.com/DharamKapila). By the way, Roam Portal works on all Roam [[database]]s, so you can even [use it here] :) #Twitter #contact
+201119-10:27
+- Details From [Roam Repot](https://roamresearch.com/#/app/roam-depot-developers/page/rD3rr620s)
+    - author: [Dharam Kapila]
+    - project type: [[browser extension]]
+    - link: https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe

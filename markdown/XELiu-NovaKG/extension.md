@@ -1,1 +1,1 @@
-- [[Chrome Extension]]
+- [[browser extension]]

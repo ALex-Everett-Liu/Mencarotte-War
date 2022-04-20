@@ -3,7 +3,7 @@
 - [[conspiracy theory]]
 - extended universe
 - [[gossip]]
-- [[instant messaging]]
+- [[instant messaging]]; [[message]]
 - [[mass media technology]]: 大众传媒技术
 - [[movie]]; movie industry
     - [[cinema]]

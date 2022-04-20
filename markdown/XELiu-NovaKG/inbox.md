@@ -6,7 +6,7 @@
     - ... 
 - quick todo
     - ck3 modding, number_of_consorts = 30
-    - 剪映AI语音; smartdraw cad; 笔神; video repair
+    - 物联网流量卡; 剪映AI语音; smartdraw cad; 笔神; video repair; QTTabBar
     - [PDXCON](https://store.steampowered.com/sale/paradox);; movie theater 210501 harbin zym;; [Download](https://github.com/AlexAplin/nndownload) and process links from Niconico (nicovideo.jp);; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 
     - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; ^^appgo redl^^;; GIFCAM;; tagLyst;; TexStudio
@@ -19,11 +19,11 @@
         - baby/guiano by lidaa +96
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +90
-        - 【日南めい】果仁糖 +69
+        - 【日南めい】果仁糖 +71
         - Havana - [封茗囧菌](https://www.bilibili.com/audio/au108344) +30
         - 【熊子】Havana 西班牙语翻唱 生日作 +13
         - 【熊子】I Really Like You 西班牙语版翻唱 +63
-        - [I Really Like You](https://www.bilibili.com/video/BV1Rx411A7rp) - Carlie R Jepson +39
+        - [I Really Like You](https://www.bilibili.com/video/BV1Rx411A7rp) - Carlie R Jepson +41
         - 查理·普斯《See You Again》 + 36
         - 【[囧菌翻唱](https://www.bilibili.com/video/BV1Jx411C7sd)】Shape Of You - →w→ +52
         - 【囧菌翻唱】一花依世界 +15
