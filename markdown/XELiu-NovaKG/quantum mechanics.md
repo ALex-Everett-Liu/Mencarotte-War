@@ -73,4 +73,6 @@
     - [Classical physics]([[classical physics]]), [the description of physics] that existed before the [[theory of relativity]] and quantum mechanics, [describes many aspects of nature] at an [[ordinary scale]] ([[macroscopic scale]]), while quantum mechanics [explains the aspects of nature] at [[small scale]] (atomic and subatomic scales), for which [[classical mechanics]] is insufficient. Most theories in classical physics [can be derived from] quantum mechanics as an [[approximation]] valid at [[large scale]] (macroscopic) scale.[3](((j56W60Fld)))
         Quantum mechanics differs from classical physics in that energy, momentum, [[angular momentum]], and other quantities of a [[bound system]] are restricted to [[discrete value]]s ([[quantization]]), [objects have characteristics of] both particles and waves ([wave-particle duality]), and [there are limits to] [how accurately the value of] a [[physical quantity]] can be predicted [prior to its measurement](((Z5WoaDaHO))), given a [[complete set]] of [[initial condition]]s (the [[uncertainty principle]]). #[[discrete mathematics]]
 201111-04:33, 05:51
-- [[mathematical formulation of quantum mechanics]]
+- __Main article: __[[History of quantum mechanics]] #[[main article]]
+- Main article: [[mathematical formulation of quantum mechanics]]
+See also: [[quantum logic]]
