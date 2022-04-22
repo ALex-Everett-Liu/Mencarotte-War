@@ -3,7 +3,9 @@
 - [[computer system]]
 - [[computing power]]
 - [[digital computer]]
+- [[industrial computer]]
 - [[laptop]]
+- [[mainframe computer]]: 大型主机
 - [[mechanical computer]]
 - [[personal computer (PC)]]
     - [[desktop computer]]

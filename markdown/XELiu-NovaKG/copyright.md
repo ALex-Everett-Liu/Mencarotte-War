@@ -5,9 +5,11 @@
 - [[original content]]; [[original text]]
 - [[patent]]
     - standard...
+        - [[de facto standard]]
         - [[international standard]]
         - [[open standard]]
 - [[permission]]; [[grant right]]
 - [[public domain]]
 - reusing content
     - [[derivative work]]
+- [[royalty-free]]

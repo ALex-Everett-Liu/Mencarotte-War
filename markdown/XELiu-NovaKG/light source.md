@@ -1,19 +1,25 @@
 - additional light source
 - [[broadband source]]; broadband light source; broadband lamp source; [[broadband radiation]]
 - [[coherent light source]]
+- [[continuous radiation source]]
 - direct the light at a sample;
 - [[incident light]]; [[incident beam]]
+- [[lamp]]
+    - [[mercury lamp]]
 - [[light beam]]
 - [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source; [[monochromatic wave]]
     - tunable monochromatic light;
 - object illumination source
+- [[radiation source]]
+    - [[synchrotron radiation]]
+        - [[third-generation synchrotron radiation source]]
 - single incident beam
 - [[source beam]]
-- [[synchrotron radiation]]
-    - [[third-generation synchrotron radiation source]]
+- [[thermal light source]]; [[thermal radiator]]
+    - [[black-body radiator]]; [[black body source]]
 - [[white light]]
 - ---
-- 光的发射
+- [[light emission]]; [[photoluminescence]]; 光的发射
     - 热辐射/温度辐射 - 白炽灯
     - 电致发光
         - 电弧; 气体辉光放电管

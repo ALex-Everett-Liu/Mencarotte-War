@@ -1,4 +1,4 @@
-- communication protocol
 - encryption protocol
+- [[Modbus]]
 - [[superdense coding]]
 - [[Uniform Resource Identifier (URI)]]

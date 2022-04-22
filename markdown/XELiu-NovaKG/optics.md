@@ -22,7 +22,7 @@
 - [[laser]]; [[laser beam]]; lasing
     - [[ray]]
 - [[light detection]]
-- [[light emission]]; [[photoluminescence]]
+- [[light emission]]; [[photoluminescence]]; 光的发射
 - [[light generation]]
 - [[light intensity]]; [[optical intensity]]; [[radiation intensity]]
 - light propagation; wave propagation; [[propagating wave]]

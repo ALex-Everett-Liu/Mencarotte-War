@@ -14,7 +14,7 @@
 - [[metropolitan area networks (MAN)]]
 - [[network delay]]
 - [[private network]]
-- [[protocol]]
+- [[protocol]]; [[communications protocol]]; [[communication protocol]]
 - [[router]]
 - [[server]]
 - [[session]]

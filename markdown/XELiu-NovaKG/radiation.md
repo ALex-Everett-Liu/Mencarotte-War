@@ -1,5 +1,5 @@
 - absorb the radiation;
-- emit radiation; emit energy; emission
+- [[emit radiation]]; emit energy; emission
     - [[emission spectrum]]
 - radiate energy; [[radiative energy]]; [[radiant power]]
     - radiate energy out to infinity; 

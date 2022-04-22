@@ -1,0 +1,1 @@
+- industrial electronic device

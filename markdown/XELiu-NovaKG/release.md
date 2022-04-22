@@ -1,4 +1,4 @@
-- maintain; [[maintenance]]
+- [[maintain]]; [[maintenance]]
 - [[package]]
 - [[personal use]]
 - release publicly;

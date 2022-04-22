@@ -1,0 +1,5 @@
+- dictionary
+    - Typically, [select application types] [use specific transports] 特定传输协议 [as their de facto standard]. 事实标准 www.[[ibm]].com
+    - The [Rational Unified Process] is the de facto standard [software engineering process] in use today.
+    - [It's not often] a grassroots [open source project](((Jp5Vgriu5))) [becomes a de facto standard in industry]. 行业标准 www.[keke].com
+    - Exploiting [network effects] by [being the first to market] or [becoming a de facto standard]. provided by jukuu

@@ -16,7 +16,7 @@
         - 光的电磁理论
             - 无线电波 - Hertz, 1888
     - 1.2 [[light source]]
-        - 光的发射
+        - [[light emission]]; [[photoluminescence]]; 光的发射
         - [[light intensity]]
         - [[light spectrum]]
     - 1.3 

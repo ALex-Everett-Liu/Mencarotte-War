@@ -47,7 +47,7 @@
     - submillimeter radiation; submillimeter band; submillimeter wave; 亚毫米波段
     - [[terahertz technology]]
 - wavelength band; spectral band; spectral range
-- [[X-ray]]; x-ray
+- [[X-ray]]; [[x-ray]]
 - 光谱密度
 - 线光谱
     - [[absorption line]]; [[absorption band]]
@@ -64,7 +64,7 @@
     - ^^energy-wavelength-wavenumber corresponding^^
     - 不同波谱范围[相对应的][原子或分子的运动形式]
         - 分子的[量子化能级]-分子运动的能量   #[[molecular energy level]]
-            - 原子内电子跃迁-电子能谱 - [[X-ray]]; x-ray
+            - 原子内电子跃迁-电子能谱 - [[X-ray]]; [[x-ray]]
             - [分子外层价电子][能级跃迁] - [紫外线](((SG-jAoXKF)))
                 - [有机和无机物质]的[定性和定量测定]
             - 原子外层电子的跃迁-[电子能级跃迁]([[electron transition]])：1~20eV --- [可见光](((it-L_cjdx))) 

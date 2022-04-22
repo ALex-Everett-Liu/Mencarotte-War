@@ -2,12 +2,16 @@
     - [[assembly line]]: 装配线, 流水作业线;
 - confined working facility: 密闭工作设施;
 - fault-tolerant; 容错
+- general
+    - [[industrial application]]
+    - industrial electronic device
+        - [[industrial computer]]
+    - [[industrial environment]]
+    - industrially hardened; 
 - [[harsh environment]]; [[harsh condition]]; tough environment
-- [[industrial application]]
 - [[industry regulation]]
 - [[industrial settings]]
 - [[industrial system]]
-- industrially hardened; 
 - [[installation]]
 - [[light industry]]
     - [[cottage industry]]
@@ -17,7 +21,7 @@
 - [[machine industry]]
     - [[process control]]; [[process control system]]
         - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]; [[data acquisition (DAQ)]]
-- maintain; [[maintenance]]
+- [[maintain]]; [[maintenance]]
 - [[manufacturing]]; [[manufacturing industry]]; 制造业
 - [[mining]]; [[mining industry]]
 - operator, 操作员; 
