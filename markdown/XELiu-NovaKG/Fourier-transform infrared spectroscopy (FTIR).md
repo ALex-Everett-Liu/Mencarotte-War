@@ -61,7 +61,7 @@
             - The near-infrared region [spans the wavelength range between] the [[rock-salt region]] and the start of the [[visible region]] [at about 750 nm]. [[overtone]]s of [[fundamental vibration]]s [can be observed in this region]. [It is used mainly in] [industrial applications] such as [[process control]] and [[chemical imaging]].
 211009-16:45
 - ---
-- [[light source]] / MIR source / source module -- __I-nu plot__
+- [[light source]] / source module -- __I-nu plot__
     - 按类型分为：单光源（ABB and SIEMENS) 和双光源。
     - 按发光体分
         - 陶瓷光源 
@@ -77,7 +77,8 @@ __缺点：易受温度影响__
             - EVER-GLO - 20~9600 cm-1 - ^^红外辐射强，热辐射弱^^ - 需要保温 #pt9-99.99
             - 钨丝灯 ([[tungsten]])
         - 红外辐射能量 MIR middle ＞ MIR 高频端 ＞ MIR 低频端 
-        - 合金丝/镍铬丝光源 -- 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
+        - 合金丝/镍铬丝光源; 铬镍合金线圈; coils of chrome–nickel alloy 
+            - 优点：光谱波长[非常稳定]，[环境温度]影响小，寿命长
 缺点：[长期工作]会产生[微量气体挥发] -- SIEMENS U23
         - 激光光源（成本高，寿命短）
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2Ft5gb9kLi7q.jpg?alt=media&token=5c24b8d2-478f-4cfd-a7f4-f67cc7a17c89)

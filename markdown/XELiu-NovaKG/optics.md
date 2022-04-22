@@ -32,7 +32,7 @@
         - right angle
         - vertical direction;
     - propagation speed
-- [[light source]]; optical source
+- [[light source]]; optical source; luminous source
 - [[light spectrum]]; [[electromagnetic spectrum]]; [[spectrum]]
     - [[spectroscopy]]
 - [[light speed]]; the [[speed of light]]

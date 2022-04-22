@@ -4,8 +4,10 @@
 - [[continuous radiation source]]
 - direct the light at a sample;
 - [[incident light]]; [[incident beam]]
+- IR source; [[infrared source]]
 - [[lamp]]
     - [[mercury lamp]]
+    - [[Nernst lamp]]
 - [[light beam]]
 - [[monochromatic light]]; [[monochromatic beam]]; [[monochromatic light beam]]; monochromatic light source; [[monochromatic wave]]
     - tunable monochromatic light;

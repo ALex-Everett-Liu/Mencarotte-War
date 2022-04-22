@@ -20,7 +20,6 @@
 - infrared; [[infrared spectrum]]; infrared range; infrared region; infrared-frequency
     - [[far-infrared range]];
         - [[far infrared spectroscopy]]
-    - mid IR LED source; 
     - Near-Infrared (NIR); near-infrared light
         - [[near-infrared spectroscopy (NIRS)]]
     - infrared-passing filter
