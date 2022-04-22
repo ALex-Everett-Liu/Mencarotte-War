@@ -2,7 +2,7 @@
 - [[central heating]]
 - [[heater]]
 - [[heating element]]
-    - [[electrical heating element]]; [[electric heating]]
+    - [[electrical heating element]]; [[electric heating]]; electrically heated
     - [[heating wire]]
 - [[preheat]]
 - [[temperature control]]

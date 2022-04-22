@@ -16,7 +16,7 @@
 - single incident beam
 - [[source beam]]
 - [[thermal light source]]; [[thermal radiator]]
-    - [[black-body radiator]]; [[black body source]]
+    - [[black-body radiator]]; [[Planck radiator]]; [[black body source]]
 - [[white light]]
 - ---
 - [[light emission]]; [[photoluminescence]]; 光的发射
