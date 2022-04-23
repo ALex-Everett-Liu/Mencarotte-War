@@ -42,7 +42,7 @@
     - [[RemNote]]
     - [[RoamEdit]]
     - [[Roam Research]]
-    - [[WorkFlowy]]
+    - [[WorkFlowy]]; [[Workflowy]]
 - [[personal wiki]]
     - wiki-like
         - [[MediaWiki]]
