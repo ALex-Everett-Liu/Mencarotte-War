@@ -16,6 +16,7 @@
         - gvr5fdg4b6uw32c4
         - gvr5fdG4b6uW32c4
         - 9378bokanicoloveLx
+        - 9378bokaloveLx
         - vra53e8wg4 -- qianji
     - id
     - [[Wi-Fi]]; [[Wi-Fi module]]; WiFi; wifi

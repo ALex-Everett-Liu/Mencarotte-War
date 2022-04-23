@@ -6,7 +6,7 @@
     - ... 
 - quick todo
     - ck3 modding, number_of_consorts = 30
-    - 物联网流量卡; 剪映AI语音; smartdraw cad; 笔神; video repair; QTTabBar
+    - 物联网流量卡; smartdraw cad; 笔神; 
     - [PDXCON](https://store.steampowered.com/sale/paradox);; movie theater 210501 harbin zym;; [Download](https://github.com/AlexAplin/nndownload) and process links from Niconico (nicovideo.jp);; 
     - 比特币 入门教程;; 范畴论; 关系型数据库;; Roam Meeting - screenshot 2104150907; believers graph-roam/js;; 上古汉语; IPA;; pixel 拍照;; 写保护;; 
     - old pc trash check;; 小红书, douyin;; ^^Grammarly-like^^;; digikam;; lyy weibo;; discord and telegram group; zeronet;; ^^appgo redl^^;; GIFCAM;; tagLyst;; TexStudio
@@ -20,6 +20,7 @@
         - sakura no tattoo - ura +60
         - 【日南めい】天文学 +90
         - 【日南めい】果仁糖 +71
+        - 优柔寡断  すりぃ feat.可不(KAFU) +7
         - Havana - [封茗囧菌](https://www.bilibili.com/audio/au108344) +30
         - 【熊子】Havana 西班牙语翻唱 生日作 +13
         - 【熊子】I Really Like You 西班牙语版翻唱 +63
