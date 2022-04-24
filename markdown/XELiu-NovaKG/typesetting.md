@@ -1,5 +1,6 @@
 - [[character encoding]]
 - line...
+    - [[empty line]]
     - [[indentation]]
     - [[line terminator]]: 行终止符
     - [[linebreak]]; [[line break]]

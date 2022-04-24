@@ -1,3 +1,4 @@
+- [[Obsidian Help]]
 - Plugins
     - [[Obsidian Graph Analysis]]
 - #inbox

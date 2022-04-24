@@ -1,7 +1,7 @@
 - [[formatting markup]]: 格式化标记
     - [[formatted version]]; [[formatted markdown]]
     - list-oriented format: 面向列表的格式
-- [[human-readable text]]
+- [[human-readable text]]; [[human readable]]
 - [[hypertext]]
     - html; [[HyperText Markup Language (HTML)]];
 - [[LaTeX]]

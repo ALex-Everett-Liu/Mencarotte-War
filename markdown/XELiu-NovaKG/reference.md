@@ -1,5 +1,5 @@
 - [[annotation]]
-- [[block reference]]; referenced block
+- [[block reference]]; [[referenced block]]
 - [[citation]]
     - [[CITEREF]]
 - [[commentary]]; [[commentator]]

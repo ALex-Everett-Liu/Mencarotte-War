@@ -1,3 +1,4 @@
 - [Docs](https://roam.davidvargas.me/) » Home
+- [[Discourse Graph]]
 - [[Github to Roam Integration]]
 - [[Roam VIDEO]]

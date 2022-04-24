@@ -1,0 +1,8 @@
+- Format
+    - [[CLM]] - {content}
+- Format
+    - [[CLM]] - {content}
+- Shortcut
+    - C
+- Shortcut
+    - C

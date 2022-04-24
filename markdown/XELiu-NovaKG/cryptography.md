@@ -5,6 +5,7 @@
     - [[hash value]]
         - [[cryptographic hash]]
 - [[random number]]; [[generating random numbers]]
+    - randomly generated; 
 - record the data
     - data modification or alteration
 - [[security model]]

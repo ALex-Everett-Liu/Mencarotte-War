@@ -1,0 +1,8 @@
+- Format
+    - [[EVD]] - {content} - {Source}
+- Format
+    - [[EVD]] - {content} - {Source}
+- Shortcut
+    - E
+- Shortcut
+    - E

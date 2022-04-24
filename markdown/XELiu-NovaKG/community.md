@@ -3,7 +3,7 @@
     - [[geek]]
     - [[Hacker News]]
     - [[Stack Overflow]]
-- [[forum]]; [[discussion forum]]
+- [[forum]]; [[discussion forum]]; [[online forum]]
     - 2ch
     - 4chan
     - baidu tieba

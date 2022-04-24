@@ -9,7 +9,7 @@
 - [[overview]]
 - [[preface]]
 - [[preprint]]
-- [[review]]: 综述
+- [[review]]: 综述; [[literature review]]
 - [[scientific paper]]; academic paper; [[research paper]]
     - [[conference paper]]
 - [[scientific literature]]; [[scientific article]]
