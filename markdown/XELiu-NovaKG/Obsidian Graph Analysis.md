@@ -1,4 +1,5 @@
 - # [Graph Analysis](https://github.com/SkepticMystic/graph-analysis)
+    - [Analyse the structure of] your Obsidian graph [using various analysis techniques]
     - Graph analysis adds the [analysis view] to Obsidian which [implements a set of algorithms] that [computes useful relations between the notes] [in your vault]! Our [flagship algorithm] is the [Co-citations panel], that we describe as a __2nd order backlinks panel__.
         - The Graph Analysis view [shows a table of] [note names and numbers], [each representing the value of] some [graph analysis algorithm] on that note [in relation to the current note].
             - e.g.
@@ -32,5 +33,19 @@
         - ### Jaccard Similarity
             - [Formula](https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/jaccard/#alpha-algorithms-similarity-jaccard-context): $$J(A, B)=\frac{|A \cap B|}{|A \cup B|}=\frac{|A \cap B|}{|A|+|B|-|A \cap B|}$$
                 - Where
-                    - |x| is the number of neighbours the node x has (links going in or out).
-                    - |x & y| is the number of neighbours that both x and y have in common
+                    - |x| is [the number of neighbours] the node x has (links [going in or out]).
+                    - |x & y| is the number of neighbours that [both x and y have in common]
+        - ### Link Prediction
+            - Link Prediction is [a measure of the probability that] [two notes should be connected] [based on their other connections in the graph]. The implemented [Link Prediction algorithms] are Adamic Adar and Common Neighbours.
+            - ### Adamic Adar
+                - [Formula](https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/adamic-adar/): $$$$
+    - ## Settings
+        - In the analysis view, [you have the option to choose between] different Analysis Types, and different Algorithms within those types. You can [set the default analysis type] in the [plugin settings].
+        - [There is also the option to] [hide Infinity and Zero values].
+            - ![](https://user-images.githubusercontent.com/70717676/138652879-d8b0e4a7-d70a-44e8-ba3c-67e04f6a8edd.png)
+    - ## Documentation on Algorithms
+        - [You can read more about] the [implemented algorithms], or [let us know] [which you want us to add], over [here](https://neo4j.com/docs/graph-data-science/current/algorithms/) 👀. Information on co-citations [can mostly be found on] [Wikipedia](https://en.wikipedia.org/wiki/Co-citation). In particular, we implement a variation of [Co-citatition Proximity Analysis](https://en.wikipedia.org/wiki/Co-citation_Proximity_Analysis).
+220424-22:02
+    - ## [Buy Us a Coffee](((Q-t8l_QZu)))
+        - SkepticMystic: ![ko-fi](https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)[🔗](https://ko-fi.com/G2G454TZF)
+        - Emile: [ko-fi](https://ko-fi.com/Emile)

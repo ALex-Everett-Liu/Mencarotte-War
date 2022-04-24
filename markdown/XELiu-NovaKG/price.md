@@ -2,6 +2,7 @@
 - [[discount]]
     - 教育优惠
 - [[donation]]; [[donate]]
+    - buy us a coffee; 打赏
 - free...
     - free account;
     - [[free license]]; [[free software]]

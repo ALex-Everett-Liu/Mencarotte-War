@@ -22,6 +22,7 @@
 - database table?
     - [[Airtable]]
     - [[Note-taking/Notion]]
+- [[Devonthink]]
 - [[fine grained]]: 细粒度
 - innovation!
     - [[Roam Research]]
@@ -43,6 +44,7 @@
     - [[RoamEdit]]
     - [[Roam Research]]
     - [[WorkFlowy]]; [[Workflowy]]
+- [[permanent note]]
 - [[personal wiki]]
     - wiki-like
         - [[MediaWiki]]
