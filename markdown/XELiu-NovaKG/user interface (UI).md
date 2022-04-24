@@ -10,7 +10,7 @@
     - [[slide-in call-to-action (CTA)]]
 - magnifier; 放大镜
 - [[menu]]
-    - [[dropdown]];
+    - [[dropdown]]; [[drop down menu]]
 - navigation...
     - fast move...
     - indicator
