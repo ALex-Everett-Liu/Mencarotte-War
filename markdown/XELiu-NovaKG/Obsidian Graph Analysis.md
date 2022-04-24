@@ -19,6 +19,18 @@
             - Each note with co-citations > 0 is given a [[drop down menu]]. Inside each drop down, you can see which note [co-cites those two notes], and the sentence in which they are co-cited (if in the same sentence), otherwise just the sentence with the other link.
 220424-17:30
                 - ![](https://camo.githubusercontent.com/86b7fe303f5b5bc1f16c98fbc48a0e552914e88fb02f85d2fa34f87873aa150c/68747470733a2f2f692e696d6775722e636f6d2f397973704f6b4e2e706e67)
-            - ### Example use case with daily notes
-                - An example why this is useful is given by @HEmile:
-                - I use a lot of daily notes, in which I journal and write about the news of the day. This makes the backlinks panel a bit boring: It only shows on what dates I wrote about some note. The Co-Citations algorithm shows me much more! For example, the Joe Biden note shows me I usually write about Biden together with Donald Trump. But if I want to know what I wrote about the relations between Joe Biden and China, I can just look in the co-citations panel and expand the relation to see the story!
+            - ### [Example use case]([[use case]]) with daily notes
+                - An example [why this is useful] is given by @HEmile:
+                    - I use a lot of [[daily note]]s, in which I [journal and write about] [the news of the day]. This makes the [backlinks panel] [a bit boring]: [It only shows] [on what dates I wrote about some note]. The [Co-Citations algorithm] [shows me much more]! For example, the [Joe Biden] note shows me [I usually write about Biden together with] [Donald Trump]. [But if I want to know] [what I wrote about the relations between] [Joe Biden and China], [I can just look in] the [co-citations panel] and [expand the relation to see the story]!
+220424-18:29
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FzcZHc7UY-K.png?alt=media&token=891ecd4c-e382-4b1f-be2f-1f34e7561b82)
+            - ### Video Tutorial
+                - [This video](https://www.youtube.com/watch?v=rK6JVDrGERA) gives [a longer and in depth overview] for why Co-Citations is so useful!
+        - ### Similarity
+            - [[similarity]] is [a measure of how similar two notes are] [based on their connectedness in the graph](((We-U6Suqk))) (ie. [note content] [is not considered]). Currently, only the Jaccard Similarity measure is implemented.
+220424-19:25
+        - ### Jaccard Similarity
+            - [Formula](https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/jaccard/#alpha-algorithms-similarity-jaccard-context): $$J(A, B)=\frac{|A \cap B|}{|A \cup B|}=\frac{|A \cap B|}{|A|+|B|-|A \cap B|}$$
+                - Where
+                    - |x| is the number of neighbours the node x has (links going in or out).
+                    - |x & y| is the number of neighbours that both x and y have in common

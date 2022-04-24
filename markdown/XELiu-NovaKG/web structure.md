@@ -15,7 +15,7 @@
     - connect with lines; [[connect ideas]]; connection between pages
     - [[context]]; [[original context]]; [[original meaning]]
     - [[explicit relationship]]
-    - [[interconnectivity]]: 相互连结, [互联性]; 
+    - [[interconnectivity]]: 相互连结, [互联性]; connectedness: 连通性
         - [[interconnected pages]]
     - multiple relationships; maps all possible relationships
     - reuse; reuse information
