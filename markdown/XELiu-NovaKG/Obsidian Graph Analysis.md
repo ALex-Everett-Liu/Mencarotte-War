@@ -1,3 +1,3 @@
 - # [Graph Analysis](https://github.com/SkepticMystic/graph-analysis)
     - Graph analysis adds the [analysis view] to Obsidian which [implements a set of algorithms] that [computes useful relations between the notes] [in your vault]! Our [flagship algorithm] is the [Co-citations panel], that we describe as a __2nd order backlinks panel__.
-    - The Graph Analysis view shows a table of note names and numbers, each representing the value of some graph analysis algorithm on that note in relation to the current note.
+    - The Graph Analysis view [shows a table of] [note names and numbers], [each representing the value of] some [graph analysis algorithm] on that note [in relation to the current note].
