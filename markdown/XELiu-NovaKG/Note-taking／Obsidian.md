@@ -1,3 +1,5 @@
+- Plugins
+    - [[Obsidian Graph Analysis]]
 - #inbox
     - Supercharged Links 更新 0.2.0 版本，[允许你]在使用 Dataview 的时候对[表格中的链接][进行实时的信息更改]，如下图所示，开发者表示，这样 Dataview 的功能更像[一个真正的表格]了。
         - Tracker 更新 1.5 版本，现在你可以根据 Dataview 的[检索数值][生成对应的线条图]或者[圆形图]了。
