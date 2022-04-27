@@ -1,5 +1,3 @@
-- [[culture]]
-- [[economics]]; economy
 - [[engineering]]; [[industry]]
     - [[agriculture]]
     - [[military]]
@@ -24,6 +22,8 @@
 - [[social science]]
     - [[anthropology]]
     - [[archaeology]]
+    - [[culture]]
+    - [[economics]]; economy
     - [[history]]
     - [[law]]
     - [[politics]]

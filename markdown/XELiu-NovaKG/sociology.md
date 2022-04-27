@@ -27,6 +27,7 @@
 - [[questionnaire]]
     - [[interview]]; [[interviewer]]
     - [[survey]];
+- [[social activity]]
 - [[social dilemmas]]
 - [[social macrodynamics]]
 - [[social order]]
