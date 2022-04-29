@@ -3,7 +3,7 @@
     - 。；：
     - ()  （） 《》 
     - % …… ^ &
-    - ...  
+    - ... 
 - quick todo
     - ck3 modding, number_of_consorts = 30
     - 物联网流量卡; smartdraw cad; 笔神;  
@@ -35,6 +35,8 @@
             - 这首是这次[电气急行LIVE][表演了的]小野道[五连唱]的[其中一首]！
         - 【泠鸢·原创】大喜【国风电音+舞蹈】 +37
         - Something Just Like This +1
+        - ptdd - 勾指起誓 +9
+        - ptdd - 所念皆星河 +6
     - webpage
         - DSC_8076-pt10-100
         - 8f5945 -- pt10-99.99
