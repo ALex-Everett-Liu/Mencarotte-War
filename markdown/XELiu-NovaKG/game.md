@@ -1,4 +1,4 @@
-- [[campaign]]; [[[[campaign]] setting]]
+- [[campaign]]; [[campaign setting]]
 - multiple story endings; 
 - [[game design]]
 - [[game engine]]
