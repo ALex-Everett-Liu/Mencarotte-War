@@ -20,7 +20,7 @@
         - last.fm; anyTXT 作詞; rasenna watashi; こめる; 手嶌葵;; asmr .txt; 
         - baby/guiano by lidaa +96
         - sakura no tattoo - ura +60
-        - 【日南めい】天文学 +90
+        - 【日南めい】天文学 +93
         - 【日南めい】果仁糖 +71
         - 优柔寡断  すりぃ feat.可不(KAFU) +7
         - Havana - [封茗囧菌](https://www.bilibili.com/audio/au108344) +30
