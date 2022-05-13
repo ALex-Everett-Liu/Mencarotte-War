@@ -5,7 +5,7 @@
     - % …… ^ &
     - ...  
     - {{[[calc]]: ((-coOex0iy))}}
-        - 2.47/68.62*100
+        - 0.62/70.41*100
 - quick todo
     - ck3 modding, number_of_consorts = 30
     - 物联网流量卡; smartdraw cad; 笔神;  

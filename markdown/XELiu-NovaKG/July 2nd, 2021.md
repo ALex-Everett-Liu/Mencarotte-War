@@ -1,4 +1,4 @@
-- [[Continuous Emissions Monitoring Systems (CEMS)]]
+- [[Continuous Emissions Monitoring System (CEMS)]]
 - interaction between light and matter; interaction between matter and electromagnetic radiation
     - coupling interaction between the radiation and matter;
 - [[spectroscopy]]

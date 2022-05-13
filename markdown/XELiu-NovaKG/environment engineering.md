@@ -7,7 +7,7 @@
 - [[particulate matter]]; [[airborne particulate matter]]: 空气颗粒物
 - [[carbon emission]]; 
 - [[combustion]]
-- [[Continuous Emissions Monitoring Systems (CEMS)]]; [[continuous monitoring]]; [[emission monitoring]]
+- [[Continuous Emissions Monitoring System (CEMS)]]; [[continuous monitoring]]; [[emission monitoring]]
     - emission limit value; [[limit value]]
     - operate continuously;
 - environmental contamination and remediation: 环境污染与补救/修复
