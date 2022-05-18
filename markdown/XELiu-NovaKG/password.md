@@ -10,7 +10,7 @@
     - pw
         - [向日葵远程控制](((WjSV6czEI)))
             - 本机识别码+验证码 - 956 375 394 - MJp8Cr
-            - 软件账号密码: 4kPOaxde4ULXis
+            - 软件账号密码: 4kPOaxde4ULXis | 19930708Lx | 199378
         - BhSMmdtMQJYPzsMb -- roam
         - hP3!iZd
         - gvr5fdg4b6uw32c4
