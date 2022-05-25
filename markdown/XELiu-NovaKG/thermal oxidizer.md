@@ -1,4 +1,4 @@
-- A thermal oxidizer (also known as thermal oxidiser, or [thermal incinerator]) 焚烧炉 is a [[process unit]] for [[air pollution control]] in many [[chemical plant]]s that [decomposes hazardous gases](((TRVYfWYKX))) at a [[high temperature]] and [releases them into the atmosphere](((XY-kTdGTq))).
+- A thermal oxidizer (also known as thermal oxidiser, or [thermal incinerator]) is a [[process unit]] for [[air pollution control]] in many [[chemical plant]]s that [decomposes hazardous gases](((TRVYfWYKX))) at a [[high temperature]] and [releases them into the atmosphere](((XY-kTdGTq))).
 210812-16:25
     - Thermal oxidizer installed at a factory.
     - Preassembled process unit for air pollution control, i.e., a thermal oxidizer, being installed at a work site.
