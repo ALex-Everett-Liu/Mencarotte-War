@@ -9,8 +9,8 @@
 - [[process plant]]
 - [[distributed control system (DCS)]]
 - human manual control;
-- [[online analyzer]]; [[on-line analyzer]]; [[process analyzer]]
-- [[process analysis]]
+- [[online analyzer]]; [[on-line analyzer]]; 
+- [[process analysis]]; [[process analyzer]]
 - process monitoring; 
 - [[process spectrometer]]
 - [[process temperature]]
