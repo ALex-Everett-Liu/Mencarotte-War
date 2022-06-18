@@ -44,7 +44,7 @@
                 - VSCode or Atom
         - {{[[TODO]]}} 6月1日凌晨0点
 6月18日凌晨0点
-其他时间，没空人的[可以放弃](https://bbs.saraba1st.com/2b/thread-2007243-1-1.html) #pt7-99.98
+其他时间，没空的人[可以放弃](https://bbs.saraba1st.com/2b/thread-2007243-1-1.html) #pt7-99.98
 - 两性情感生活; [[两性关系 (liangxing guanxi)]]
 - #inbox
     - 今天[学弟]找了个[青年公寓]，还[国企运营]，给我乐坏了……只能说啊……图样图森破……
