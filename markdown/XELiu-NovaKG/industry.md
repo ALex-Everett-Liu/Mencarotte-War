@@ -27,7 +27,6 @@
 - operator, 操作员; 
     - [[operator interface]]
 - [[plant]]
-- [[process control]]
 - [[robustness]]
 - safety; health and safety;
     - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
