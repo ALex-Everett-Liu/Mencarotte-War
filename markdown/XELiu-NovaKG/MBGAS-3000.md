@@ -86,6 +86,7 @@
                 - intensity region 3 (3000~3100 cm-1) ＞0.06
                 - intensity region 4 (4200~4300 cm-1) ＞0.045
 - [[PLCATS]]
+- [[MBGAS-3000 Calibration]]
 - 故障诊断及调试校正
     - 调试校正
         - [首次安装]和维护时，需[按下表]对 MBGAS 3000 进行校正，具体要求[如下表所示。 -- 需进行光谱校正（Spectral Calibration）、FOV 特性 (FOV Characterization)、增益和补偿校正 (Gain and offset Calibration)、参考背景校正（Reference Calibration）。校正[步骤如下]：

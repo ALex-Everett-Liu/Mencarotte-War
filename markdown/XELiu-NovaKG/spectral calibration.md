@@ -1,0 +1,2 @@
+- This calibration must be [checked periodically] to ensure [the stability of spectrometer spectra axis].
+- It is using [internal water reference] to [perform spectra calibration].

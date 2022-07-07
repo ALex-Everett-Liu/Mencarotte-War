@@ -1,0 +1,23 @@
+- matrix algorithm
+    - GRAF
+    - PLS
+    - CLS
+    - Make use of [multiple spectral lines]([[spectral line]]) to convert spectrum into [[analytical result]]s
+- Instrument Calibration
+    - [[spectral calibration]]
+    - Reference Calibration
+        - The MBGAS-3000TM gas analyzer must [acquire a new reference spectrum (zeroing) periodically] in [normal operation] to ensure that the [predicted values] are not [drifting outside of specification limits].
+        - Variations of [[ambient temperature]] can also [change the zero value of] the analyzer.
+        - [The quality of the reference] is highly dependent on [the stability of the purge gas composition].
+            - § [Any variation of the composition of] the [system purge gas] due to contaminants, 污染物 within the [reference validity] period, may [impair the quality of the predictions] for that period. See “MBGAS-3000TM Gas Analyzer Hardware User Guide” for details about [purge requirements].
+    - Gain and offset Calibration, 增益和补偿校正
+        - 校正矩阵
+        - 测量矩阵
+        - Coadds, 做平均的次数，一般为20次
+        - Reference value, 对应标气的标准值
+        - 每校正一种气体后，都需点击 [Updata]
+            - 完成所有待校正气体后点击 [Save]
+        - [The gains and offsets of gas concentrations] of the MBGAS- 3000 must be calibrated to ensure [[prediction accuracy]] and [minimize interferences between gases]
+        - Change of FOV parameters, gas cell pressure or gas cell effective optical path length may modify the gains and offsets of the analyzer.
+        - [The calibration of gains and offsets] [implies the measurement of] [pure or wet components] of [at least one concentration] in order to [minimize the calibration effort]. 以尽量减少校准工作
+        - [The accuracy of the calibration relies on] the high [[linearity]] of MBGAS-3000 [predictor for gas concentrations] as well as [minimal interferences within calibration ranges].
