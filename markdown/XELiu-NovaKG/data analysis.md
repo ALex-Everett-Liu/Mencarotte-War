@@ -14,7 +14,7 @@
     - render excel-esque charts
     - [[text value]]
 - [[data collection]]; collecting the data
-    - acquire data; [[data acquisition]]
+    - acquire data; [[data acquisition (DAQ)]]
         - [[Data Acquisition and Handling System (DAHS)]]; [[data acquisition system (DAS)]]; [[data acquisition (DAQ)]]
 - [[data generator]]
 - [[data point]];

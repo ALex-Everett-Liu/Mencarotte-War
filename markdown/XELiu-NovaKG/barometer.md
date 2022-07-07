@@ -5,3 +5,16 @@
     - It stood very low. There was no mistake.
     - A Study of Simulating the Action of [Double Pointer Barometers] dict.cnki.net
     - Temperature and gravitational correction of barometer and gravitational correction studies
+    - There's the new M8 [[co-processor]], which [tracks your activity]([[activity tracker]]) [using the phone's myriad sensors]([[sensor]]), including a barometer to [measure elevation changes]([[elevation]]). www.keke.com
+    - [The arrow on the barometer] was pointing to "stormy". www.enread.com
+    - [The dials of most barometers] 盘面 are [inscribed with weather terms]. 刻有 《柯林斯高阶英汉双解学习词典》
+    - [Fixed cistern barometers] 固定槽式 are [used as a standard for checking] [aneroid barometers]. 无液 标准件 百度翻译例句库
+    - Barometers are used for [measuring air pressures]. 
+- [[pressure gauge]]
+    - [[vacuum gauge]]
+    - dictionary
+        - Soon the Nautilus (Notilius) [reentered its liquid element], and the pressure gauge 压力表 indicated that it was [staying at a depth of] thirty feet. www.keke.com
+        - Before you start, 热水器 make sure that 沸水器 [there is power going to the boiler]-the [panel light] should be on, and the pressure gauge should be [showing around 1 bar]. 
+        - Vacuum gauge and [valve assembly] can [optimize the flow of samples]. 排气阀 www.ybzhan.cn
+        - The Function of [Vacuum Meter] in Trouble Hunting of [Petrol Injection-Type Engines] 汽油喷射式发动机 dict.cnki.net
+        - Combined Pressure and Vacuum Gauge and Vacuum Gauge. english.simt.com.cn
