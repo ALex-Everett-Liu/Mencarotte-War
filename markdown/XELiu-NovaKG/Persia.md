@@ -1,3 +1,6 @@
+- [[Elam]]
+- [[Achaemenid Empire]]
+- [[Parthian Empire]]
 - [[Sasanian Empire]]
 - #inbox
     - [伊斯兰教兴起后]对拜占庭和萨珊波斯[都造成了巨大冲击]，东正教和祆教在中东[影响力大为降低](https://www.zhihu.com/question/22734227)。
