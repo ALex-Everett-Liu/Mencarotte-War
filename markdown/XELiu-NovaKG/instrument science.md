@@ -12,6 +12,7 @@
         - [[portable FTIR]]
     - [[sample]]
     - 分析站房; 分析小屋, 恒温;
+- [[balance]]
 - [[calibration]]
 - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]

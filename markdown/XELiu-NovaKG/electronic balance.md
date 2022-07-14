@@ -1,0 +1,4 @@
+- dictionary
+    - The Realization of [Data Collection] Between the PLC and [Electronic Scale] dict.cnki.net
+    - In this paper, DSP as [information processing unit] is used to design an electronic balance for [measuring moisture content]. 红外干燥箱
+    - Problem of [Appraising and Calibrating] 检定 [M1 Grade Poise] 砝码 by Electronic Balance 
