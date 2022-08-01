@@ -14,6 +14,7 @@
     - 分析站房; 分析小屋, 恒温;
 - [[balance]]
 - [[calibration]]
+- [[enclosure]]: 机壳; 机柜
 - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
 - [[figure of merit]]
@@ -57,6 +58,10 @@
 - [[thermostat]]
 - [[transferability]]; [[parallelism]]
 - [[vessel]]: 容器; 脉管
+- ---
+- company
+    - [[ABB]]
+    - [[AMETEK]]
 - ---
 - Instrumentation Science & Technology, [Volume 49, Issue 4 (2021)](https://www.tandfonline.com/toc/list20/current)
     - Focuses on innovative [[instrument design]] and applications in chemistry, physics biotechnology and [[environmental science]], like detectors, sensors and radiometry.

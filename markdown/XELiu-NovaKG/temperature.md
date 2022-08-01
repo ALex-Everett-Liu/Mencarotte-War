@@ -6,7 +6,7 @@
     - [[moderate temperature]]
     - [[room temperature]]
 - [[temperature coefficient]]
-- [[temperature control]]
+- [[temperature control]]; [[temperature-controlled]]
     - [[temperature regulation]]: 温度调节
     - [[thermometer]]
     - [[thermostat]]

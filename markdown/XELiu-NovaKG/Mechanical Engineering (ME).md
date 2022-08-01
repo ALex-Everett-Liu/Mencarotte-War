@@ -3,6 +3,7 @@
 - [[automatic machinery]]
 - [[bearing assembly]]: 轴承装置, 轴承组合件, 轴承总称
 - [[crank]]: 曲柄 
+- [[enclosure]]: 机壳; 机柜
 - [[engine]]
 - [[fluid power]]: 流体动力
     - [[fluid pressure]]

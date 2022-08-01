@@ -196,9 +196,6 @@ __缺点：易受温度影响__
     - process FTIR, online FTIR, FTIR gas analyzer
     - 部分FTIR[参数对比]
         - MKS FT-IR Gas Analyzer 初级培训 - 谢兆明 
-    - ABB 
-        - MB Series;
-            - [[MBGAS-3000]] FT-IR
     - [[InSa FTIR]]
     - [[Bruker]] | [Process Analysis]([[process analysis]]) with [FT-NIR Spectroscopy](((ploiBkbit))) | [Keeping an Eye on your Process](https://www.spectroscopy-in-process.com/)
 with FT-NIR Spectroscopy

@@ -72,7 +72,7 @@
     - [[anthropic principle]]
     - [[determinism]]
     - predictable
-        - explicable;
+        - explicable: 可解释的;
     - [[reality]]; [[physical reality]]
     - [[reductionism]] v.s. [[emergence]]/[[emergentism]]?
     - #inbox

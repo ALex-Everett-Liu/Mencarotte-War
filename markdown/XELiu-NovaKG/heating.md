@@ -5,7 +5,7 @@
     - [[electrical heating element]]; [[electric heating]]; electrically heated
     - [[heating wire]]
 - [[preheat]]
-- [[temperature control]]
+- [[temperature control]]; [[temperature-controlled]]
 - [[trace heating]]
 - [[water heater]]: 热水器
 - 加热棒; 加热片
