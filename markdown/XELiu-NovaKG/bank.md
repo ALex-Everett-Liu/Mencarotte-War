@@ -3,3 +3,7 @@
 - [[card reader]]
 - [[credit card]]
 - [[magnetic stripe card]]
+- my card
+    - 建行
+        - 6215340302614382759
+            - pw: 708943

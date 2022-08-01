@@ -1,3 +1,14 @@
 - __See also:__ [Console commands#Trait IDs](https://ck3.paradoxwikis.com/Console_commands#Trait_IDs)
 - Traits represent a character's [[personality]], [abilities]([[ability]]), [[reputation]], and [[physical characteristics]]. They [can be gained or lost through] [[event]]s and some traits [can be inherited by]([[inherit]]) [[descendant]]s. Traits [affect everything about] a character, from [[attribute]]s to the [[opinion]] others have on them. Most traits [influence the outcome of] [certain event]s or [grant additional options](((2_NJ1IuY-))). When using the [Ruler Designer]([[ruler designer]]), traits have a [[cost]] in [[customization point]]s.
 210501-11:36
+- ## Personality traits
+    - Personality traits are the traits that [represent a character the most] and impact if and how much  [[psy/stress]] a character receives for [actions and decisions that conflict with these traits]. For [[AI character]]s, it also [determines their behavior] (e.g. [how resistant they are to] another character's  [[dread]]). Characters tend not to [have more than 3 personality traits]. While personality traits can change, it is very difficult to do so; [this most often occurs as the result of] a [[mental break]] at [[stress level]] 2 or higher.
+    - Each personality trait [has an opposite trait]([[opposite trait]]) and usually characters with opposite personality traits will [have lowered opinion of each other]. A character cannot have two opposing traits.
+- ## Congenital traits
+    - See also: [[trait inheritance]]
+    - Congenital traits [have a very small chance to appear] upon birth and [can be inherited by a character's descendants], especially if [both parents have the same trait]. [[congenital trait]]s are [marked with a white aura].
+    - The traits Melancholic, Lunatic and Possessed also [have a non-genetic version] that [can be lost and gained through events].
+    - ### Leveled congenital traits
+        - The following Congenital traits [come in multiple levels]. A leveled Congenital trait [has a 50% chance to increase in level] if both parents have the same trait. The name of some [leveled traits] [depends on the character's gender].
+- ---
+- [[trait tag]]

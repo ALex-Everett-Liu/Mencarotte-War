@@ -1,3 +1,9 @@
 - the cracked version that i'm using now...
     - this one works -> C:\Program Files (x86)\IDM Computer Solutions\UltraEdit
     - this one's license already expired -> D:\Program Files\IDM Computer Solutions\UltraEdit
+- # IDM UltraEdit v29.0.0.70 | 中文绿色破解版
+    - ### [修改说明](https://fsylr.com/28774.html)：
+        - * 基于官方中文版[[解包]]，免激活处理，无[试用过期][盗版弹窗]
+        - * [全面修订]和[补译]官方简体中文语言，包括[帮助文档]（王苏）
+        - * 无[系统后台][云服务组件]，删除了 UCLite, 检测升级程序
+        - * [反汇编处理主程序][彻底去除][试用过期弹窗]，无需[阻止联网]！//2021.01.20 Update

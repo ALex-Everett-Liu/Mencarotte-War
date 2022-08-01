@@ -76,5 +76,5 @@
     - [[system calibration]] inlet - N5 - FI402 (50~500 NLPH) - 系统标定电磁阀 SV401 - Φ8 双管 -- 大气量
     - acid inlet 加酸口（加磷酸H3PO4用于抑制SO2在冷凝器内部损失） - N0 - 蠕动泵 PP403
     - [冷凝器]([[condenser]]) [[condensate]] ([双极双蠕动泵][冷凝器]) - N11 - PP401 - [换热器](((IELqGhH_o))) HX001
-    - customer tie-in connector #[[pipe connector]]
+    - customer tie-in connector 客户接入连接端口 #[[pipe connector]]
     - [抽气泵]工作，[烟气经过][前置过滤器和探杆][被抽入探头中加热]经过伴热管进入[双级冷凝器]，烟气中的[水会随蠕动泵排出]，[除水的烟气]经过[两次过滤]和流量调节后，进入仪表，分析后排出。

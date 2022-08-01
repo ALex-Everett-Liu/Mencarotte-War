@@ -2,6 +2,10 @@
 - chrome://settings/passwords
 - ---
 - my temp record
+    - account
+        - 15861988682
+        - 18905106686
+        - 13056186768
     - email
         - sepulture2015@outlook.com
         - lxsummer199378@gmail.com
@@ -18,6 +22,10 @@
         - 9378bokanicoloveLx
         - 9378bokaloveLx
         - vra53e8wg4 -- qianji
+        - 199378
+        - 708943
+        - 19930708Lx
+        - 19940925TxLx
     - id
     - [[Wi-Fi]]; [[Wi-Fi module]]; WiFi; wifi
         - 锦华新城二期15栋2单元805 -- pw: 4bim3wb3
