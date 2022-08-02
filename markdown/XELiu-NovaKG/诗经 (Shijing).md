@@ -64,3 +64,4 @@ May [King Wen] never be weary of [us] men.           無射於人斯
         - http://wengu.tartarie.com/wg/wengu.php?l=Shijing&s=1&c=1
 - ---
 - [[诗经原意研究]] - 家井真
+- [[诗经楚辞鉴赏辞典 - 周啸天 主编]]

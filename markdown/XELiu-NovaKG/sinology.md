@@ -1,5 +1,7 @@
 - Chinese studies; 
 - [[Confucian School]]; [[Confucianism]]
+- [[诗经 (Shijing)]]
+- [[楚辞 (Chuci)]]
 - ---
 - 海外中国研究系列
     - [[诗经原意研究]] - 家井真
