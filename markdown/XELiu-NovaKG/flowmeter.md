@@ -1,4 +1,7 @@
-- [[mass flow meter]]
+- [[mass flow meter (MFM)]]
+    - [[mass flow controller (MFC)]]
+    - 北京 七星华创 流量计 有限公司 (Sevenstar)
+        - [[SC169 CS100A]]
 - 流量调节; 流量调节阀; 调节阀
 - 转子流量计
     - 读数位置 (read point) 在转子小球顶部

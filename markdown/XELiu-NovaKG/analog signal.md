@@ -3,13 +3,47 @@
     - 磁环抗干扰电路
 - ---
 - An analog signal is any [[continuous signal]] [representing some other quantity], i.e., analogous to another quantity. 类同于 For example, in an analog [[audio signal]], the instantaneous signal voltage [varies continuously] with the pressure of the [[sound wave]]s. #[[sound pressure]]
-220806-00:42
+220806-00:42, 03:48
     - In contrast, a [[digital signal]] represents the original [[time-varying quantity]] as a [[sampled sequence]] of [[quantized value]]s which imposes some [[bandwidth]] and [[dynamic range]] [constraints on the representation].
     - The term analog signal usually refers to [[electrical signal]]s; however, mechanical, pneumatic, hydraulic, and [other systems] may also convey or be considered analog signals.
 220806-00:50
+    - [アナログ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0)（英: analog、英語発音: [ˈænəˌlɔːg] アナローグ）は、連続した量（例えば時間）を[他の連続した量]（例えば角度）で表示すること。デジタルが[連続量をとびとびな値](Renzoku-ryō, atai, discrete values of continuous quantities)（[離散的な数値](risan-tekina sūchi)）として表現（標本化・量子化）することと対比される。時計や温度計などがその例である。エレクトロニクスの場合、情報を電圧・電流などの物理量で表すのがアナログ、数字で表すのがデジタルである。元の英語 analogy は、類似・相似を意味し、その元のギリシア語 αναλογία は「比例」を意味する。
 - Representation
     - An analog signal [uses some property of the medium to] [convey the signal's information]. For example, an [[aneroid barometer]] uses [[rotary position]] as the signal to [convey pressure information]. In an electrical signal, the voltage, current, or frequency of the signal [may be varied] to [represent the information].
     - Any information may be conveyed by an analog signal; such a signal may be a measured response to changes in a physical variable, such as sound, light, temperature, position, or pressure. The physical variable is converted to an analog signal by a transducer. For example, sound striking the diaphragm of a microphone induces corresponding fluctuations in the current produced by a coil in an electromagnetic microphone or the voltage produced by a condenser microphone. The voltage or the current is said to be an analog of the sound.
+- 長短
+    - 「アナログ[信号処理](shingou shori)」も参照
+    - 情報（信号）を[アナログ的に処理する]ことの[長所](chousho)として[以下のようなものがある]。 ([[pros and cons]])
+220806-03:55
+        - 瞬間的、直感的な情報処理が可能で、「全体のm/d[要説明]」をぱっと見て把握しやすい。スピードメーターの視認性[疑問点 – ノート]やオペアンプによる演算がデジタルと比べると速くなる（特に割り算）。
+        - デジタルにある量子化誤差が存在しない。
+        - 連続時間処理であるため、クロックジェネレータ等は不要。
+    - 対して[短所](tansho)は[次の点である]。
+        - [内部の熱雑音]等の[物理的な影響を受ける]。
+        - 外部からの擾乱（雑音など）の影響を受けやすい。
+        - 保存・複製・転送による劣化が生じる。
+        - 一旦誤差が生じると復元できない。対するデジタルは、エラー訂正等で（程度にもよるが）修復が可能である。
+        - 時間軸が基本的に連続処理（アナログ）であり、時間軸補正は困難である。
+- 将模拟信号数字化的理由
+    - 模拟系统较[容易受到噪声的影响]，而数字系统则[较不易受噪声影响]。并且，对于[长距离传输]，可以在路径上的任何位置，[无误差的重新产生][和原始信号相同的信号]，并且传输通过[该位置后所剩下的距离]。
+220806-04:00
+        - 在模拟系统中，要[在相同传输架构下][集成不同的服务][相对数字系统更加困难]。所以，实务上，我们一般[以数字方式呈现影像]以及声音。
+        - 数字传输系统不须因[信号源的性质]而有所改变。例如，数字传输系统可以[用 10kbps 的速率]来[传输声音]或者[传输电脑信息]，而这是模拟系统[不易达成的]。
+        - [处理模拟信号的电路][较不容易复制]，并且数字电路[对于温度或震动等的影响]较不敏感。
+        - 我们很容易[描述数字信号的特征]，而且一般数字信号的[幅度范围与变化]都比模拟信号来的更小，所以从[硬件设计]的角度来看，更加容易。
+    - 虽然，几乎所有的[传递介质]，例如电缆、无线电波、光纤等，应用在数字或模拟信号上都可以，但是数字技术[相较于模拟技术]，可以更有效的利用这些介质，例如以下所说的方法，更容易应用在数字技术：
+        - 介质分享策略，例如说[多任务技术]，[应用于数字传输]比起模拟传输更加容易。
+        - 有许多技术，例如[对信号源的编码]，[可以很好地移除]在[数字传输系统]中的[累赘信息]，降低真正的[传输信息量]，节省带宽。
+        - 有许多技术，例如[信道编码]，可以将累赘信息[加到数字传输中]，达到[校正接收器端的传输误差]的效果。
+        - 数字技术相较于模拟技术，[更容易制定出][严谨的全球标准与规范]。标准与规范可以保证我们即使[不同的制造商]生产出[不同特性的通信组件]，他们之间[仍可以有一定的互通性]。
+        - 其他技术，如[等化效应]之[信道补偿技术]，相较于模拟传输，也更容易应用在数字传输技术上。
+- 参考文献
+    - "Digital Signal Processing: Instant access." Butterworth-Heinemann – Page 3
+    - "Concise Dictionary of Computing." Penguin Reference – Penguin Books – pages 11–12.
+    - "Digital Signal Processing: Instant access." Butterworth-Heinemann – pages 2–3
+    - 章亚明. 嵌入式控制系統應用設計. 北京: 北京邮电大学出版社. 2010年. ISBN 978-7-5635-2359-7.
+    - 童诗白、华成英 主编. 模拟电子技术基础（第四版）. 高等教育出版社. 2006. ISBN 978-7-04-018922-3.
+    - Andrew Bateman, Iain Paterson-Stephens. DSP算法、應用與設計（英文名：Algorithms, Applications and Design Techniques）. 机械工业出版社. 2003. ISBN 7-111-12204-6.
 - # From [[ScienceDirect]] Topics
     - Analog signals are in the form of a continuous time-varying physical quantity, such as voltage magnitude or frequency, that reflects the variations of the information or signal source with time.
         - From: [Encyclopedia of Physical Science and Technology (Third Edition), 2003](https://www.sciencedirect.com/science/article/pii/B0122274105001654)

@@ -6,6 +6,7 @@
 - [[communication channel]]
     - concurrent communication sessions
     - multiplexing
+- [[continuous signal]]
 - [[control signal]]
 - [[electrical signal]]
     - [[current signal]]
