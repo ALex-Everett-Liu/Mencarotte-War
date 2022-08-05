@@ -7,7 +7,7 @@
     - [PART I.] [CHARACTERISTICS OF THE STATES]. ([Lessons from the states].) #[[nation/state]] #[[國風 (Guofeng)]] 
         - [BOOK I.] THE ODES OF CHOW AND THE SOUTH. (Odes Of [Zhou And The South]) #[[周南 (Zhou And The South)]]
             - [I. I. 1.] SONG OF WELCOME TO THE BRIDE OF [[King Wăn]]. #[[關雎 (Guanju)]]
-            - I. I. 2. INDUSTRY AND [FILIAL PIETY] 勤劳孝道 OF [WĂN’S QUEEN]. #[[葛覃 (Getan)]]
+            - I. I. 2. INDUSTRY AND [FILIAL PIETY] OF [WĂN’S QUEEN]. 勤劳孝道  #[[葛覃 (Getan)]]
         - BOOK X. THE ODES OF T‘ANG. #[[唐風 (Tangfeng)]]
             - I. X. 5. AN UNEXPECTED UNION. #[[綢繆 (Choumou)]]
             - [* ] [One of the oldest and greatest of] the [feudal States]. Its name was at an early date,—[earlier perhaps than] that of these poems,—changed to Tsin, the latter taken from the river Tsin, which flowed to the south of it. It lay in the present province of Shan-si.
