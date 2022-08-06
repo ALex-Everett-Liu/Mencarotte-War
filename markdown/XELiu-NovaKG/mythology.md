@@ -1,4 +1,4 @@
-- [[Chinese mythology]]
+- [[Chinese mythology]]; [[ancient Chinese lore]]
 - [[Great Flood]]
 - [[Hindu mythology]]
 - [[Japanese mythology]]

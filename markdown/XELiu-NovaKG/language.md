@@ -2,6 +2,7 @@
 - [[etymology]]
     - [[Old Chinese]]
 - foreign languages
+    - [[Chinese]]
     - [[English]]
     - [[Korean]]
 - general...

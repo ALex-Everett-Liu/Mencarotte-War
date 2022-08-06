@@ -1,4 +1,4 @@
-- The name [Shi King] is [explained on the title-page], Shi meaning [[poetry]] or [[verse]], and King a [[classic]]. There are several “King” in [[ancient Chinese]] [[lore]], but the Shi and the Shu ([[history]]) are the principal.
+- The name [Shi King] is [explained on the title-page], Shi meaning [[poetry]] or [[verse]], and King a [[classic]]. There are several “King” in [[ancient Chinese lore]], but the Shi and the Shu ([[history]]) are the principal.
 201230-04:10
 - “If [Chinese scholars] would bring the [ancient literature] near to us, if they would [show us something in it] that [really concerns us], something that is [not merely old but eternally young], [Chinese studies](((mxm1gn3nT))) would soon [take their place in] [public estimation] by the side of [[Indo-European scholarship]], [[Babylonian]], and [[Egyptian scholarship]]. 
 [There is no reason] why China should [remain so strange], so far removed from our [[common interest]]s.”
