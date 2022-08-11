@@ -23,6 +23,7 @@
         - [[东汉 (Eastern Han)]]
     - [[三国 (Three Kingdoms)]]
     - [[晋与十六国]]
+        - [[晋王朝 (Jin dynasty)]]
     - [[南北朝 (South and North Dynasties)]]
 - The Second Empire of China
     - [[唐王朝 (Tang dynasty)]]

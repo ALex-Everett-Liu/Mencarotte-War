@@ -1,6 +1,7 @@
 - Altaic peoples
     - Altaic language family; 
 - [[东胡 (Donghu)]]
+    - [[鲜卑 (Xianbei)]]
     - [[Khitan (契丹)]]
     - [[Mongolia]]
     - [[室韦 (Shiwei)]]
@@ -59,3 +60,4 @@
     - [[Turkic language]]
     - [[Uygur]]; [[Uyghur]]
 - 西域; [[Tocharian]]
+- [[匈奴 (Xiongnu)]]
