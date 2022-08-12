@@ -26,6 +26,7 @@
         - [[晋王朝 (Jin dynasty)]]
     - [[南北朝 (South and North Dynasties)]]
 - The Second Empire of China
+    - [[隋王朝 (Sui dynasty)]]
     - [[唐王朝 (Tang dynasty)]]
     - [[宋王朝 (Song dynasty)]]
 - The Third Empire of China
