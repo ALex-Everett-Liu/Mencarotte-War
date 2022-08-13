@@ -49,3 +49,7 @@
 
 
     - Brian Greene states: "I am confident that I am not a Boltzmann brain. However, we want our theories to similarly concur that we are not Boltzmann brains, but so far it has proved surprisingly difficult for them to do so."[16]
+- #inbox
+    - 也就是说，[我们为何相信][涨落定理]？因为它[已经被无数次验证了](https://www.zhihu.com/question/527401335/answer/2502419324)。但是[玻尔兹曼大脑的假设][否定了它曾经被验证过这件事]，因为它只是[随机产生的记忆]而已。所以我们[没有理由再相信科学]，进而我们没有理由相信[建立在科学基础上的]涨落定理，[进而我们没有理由相信]我们是[玻尔兹曼大脑]。 #pt9-99.98
+        - 你得看[后验概率]。如果不自洽，则不会出现我们的[自我意识]，也就不会有玻尔兹曼大脑这个问题出现了。既然有人问出这个问题，那么一定是[出现了自洽的记忆]，这个概率是100%。
+            - 就好像说，我上溯1000代，我的每一个父辈祖先[都活了下来]，都结婚，并且都生了儿子。这个概率[何其小也]，但[这不意味着]我的出现[多么难以理解]。
