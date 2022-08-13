@@ -110,3 +110,6 @@
     - {{[[TODO]]}} smolin; sean carroll; etc. blog, paper, book, publication... #pt9-100
     - [phys and others](https://www.zhihu.com/people/citysevenstar/answers) #pt10-99.98
     - [Triviality](https://www.zhihu.com/people/xia-yu-sen-40) - mathematical physics #pt9-99.99
+    - [基尔霍夫定律][做电路题]不叫不求甚解；把电路做[有限元建模]然后[多物理场数值解][小灯泡电流][叫行为艺术] #pt9-99.99
+        - [知识储备]够了，可以算一次。但这辈子只用算一次。
+        - [穷举的解]也是解，[压缩的解]也是解。这个答案[只是在声称](https://www.zhihu.com/question/526813134)，从穷举的导出压缩的，有实际物理意义。
