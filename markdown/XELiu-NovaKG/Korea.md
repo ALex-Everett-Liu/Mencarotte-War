@@ -5,6 +5,7 @@
 - [[History of Korea]]
 - [[Jin State (辰國)]]
 - [[箕子朝鲜]]; [[辰国]]
+- [[卫满朝鲜 (Wiman Joseon)]]
 - [[朝鮮 (Joseon)]]; Chaoxian
 - [[Joseon Dynasty (李氏朝鲜王朝)]]; Josŏn Dynasty
 - [[三韩 (Samhan)]]
