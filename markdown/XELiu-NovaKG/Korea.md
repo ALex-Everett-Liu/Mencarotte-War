@@ -9,10 +9,11 @@
 - [[朝鮮 (Joseon)]]; Chaoxian
 - [[Joseon Dynasty (李氏朝鲜王朝)]]; Josŏn Dynasty
 - [[三韩 (Samhan)]]
-    - [[伽耶 (Gaya)]]
+    - [[弁韩 (Byeonhan)]]
+        - [[伽耶 (Gaya)]]
     - [[辰韓 (Jinhan)]]
         - [[新罗 (Silla)]]
-    - 马韩
+    - [[馬韓 (Mahan)]]
         - [[百济 (Baekje)]]
             - [[熊津都督府 (Xiongjin Dudufu)]]
 - #inbox
