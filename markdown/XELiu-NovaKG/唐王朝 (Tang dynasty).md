@@ -2,6 +2,7 @@
     - [[唐高宗 (Tang Gaozong)]] 李治
     - [[武则天 (Wu Zetian)]]
     - [[唐中宗 (Tang Zhongzong)]] 李显
+- [[李靖 (Li Jing)]]
 - [[墓志 (muzhi)]]
     - 仆固乙突墓志
 - #inbox
