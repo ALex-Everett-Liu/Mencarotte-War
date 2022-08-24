@@ -1,3 +1,4 @@
+- [[Bayesian method]]
 - [[Bayesian reasoning]]; [[Bayesian inference]]
 - [[Bayes’ Theorem]]
     - [[observed data]]; [[observed evidence]]

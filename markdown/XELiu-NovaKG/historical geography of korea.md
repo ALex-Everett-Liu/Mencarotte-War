@@ -56,3 +56,10 @@ Pukch'ŏng County is a county in eastern South Hamgyŏng province, North Korea.
         - 栄光郡（ヨングァンぐん）は、朝鮮民主主義人民共和国[咸鏡南道][中部に位置する]郡。旧名は五老郡（オロぐん/오로군）。
             - Yŏnggwang County is a county in South Hamgyŏng province, North Korea.
         - 郡内の黄草嶺（ファンチョリョン/황초령）には、__[新羅真興王]の[巡狩碑]が建てられた。__
+- ## [江陵市](https://ja.wikipedia.org/wiki/%E6%B1%9F%E9%99%B5%E5%B8%82)
+    - 前108年　東暆県が置かれ、臨屯郡に属する。
+    - 313年 - 高句麗に占領され、何瑟羅（河西良・河西とも）となる。
+    - 397年 - 新羅領となる。
+    - 512年 - [何瑟羅][軍主][異斯夫]、于山国（鬱陵島）征伐。
+    - 757年 - 河西州を溟州とし、9郡25県を置く。
+    - 1263年 - 江陵道に改称。
