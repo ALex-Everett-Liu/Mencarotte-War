@@ -1,7 +1,7 @@
 - historical geography
     - [[佐渡 (Sado)]]
 - original source
-    - [[日本书纪 (Nihon Shoki)]]
+    - [[日本書紀 (Nihon Shoki)]]
 - politics 
     - #inbox
         - 不是说诸葛创[故意要恶心读者](https://www.zhihu.com/question/453502359/answer/1829019705)，是因为[日本的历史]在恶心每一个日本人自己。[坂上之云]之后的日本历史本来就是失速的，[艺术创造]不可能脱离艺术的本体。 #pt9-100

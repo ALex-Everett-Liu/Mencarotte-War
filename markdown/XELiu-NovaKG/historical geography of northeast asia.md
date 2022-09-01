@@ -19,11 +19,13 @@
 - [[弱水 (River Ruo)]]; [[黑龙江 (Heilong Jiang)]]; [[黑龙江水系]]; [[Amur River]]
     - [[胡里改路 (Huligai Lu)]]
     - [[水达达路 (Shuidada Lu)]]; 水鞑靼; usu irgen
+    - [[Ussuri]]
 - 率·督畔窟之地; 呼兰河流域平原
 - [[Siberia]]
     - [[Lake Baikal]]
     - [[Onon River]]
 - [[Strait of Tartary]] 鞑靼海峡
+- [[渤海国行政区划 (Administrative division of Balhae)]]; List of provinces of Balhae
 - 七大王府
 - [[玄菟郡 (Xuantu)]]
 - #inbox

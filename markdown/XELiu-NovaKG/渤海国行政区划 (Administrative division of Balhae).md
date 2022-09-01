@@ -1,6 +1,9 @@
-- [[上京 (Shangjing)]][[龙泉府 (Longquan Fu)]]; 忽汗城 (Huhancheng)
+- [[上京 (Shangjing)]][[龙泉府 (Longquan Fu)]]
 - [[中京 (Zhongjing)]][[显德府 (Xiande Fu)]]
+- [[东平府 (Dongping Fu)]]
 - [[鄚颉府 (Maojie Fu)]]
+- [[忽汗州 (Huhanzhou)]]
+    - [[东牟山 (Dongmou Hill)]]; [东牟山城]
 - ---
 - This article **does not** [cite](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources) any [sources](https://en.wikipedia.org/wiki/Wikipedia:Verifiability). Please help [improve this article] by [adding citations to reliable sources]. Unsourced material may be challenged and [removed](https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence).
 - The Balhae Kingdom (or Bohai kingdom) controlled the northern [[Korean Peninsula]], the area from the [[Amur River]] ([[黑龙江 (Heilong Jiang)]]) to the [[Strait of Tartary]], and the [[辽东半岛 (Liaodong Peninsula)]]. Similar to the workings of the [Chinese Tang Dynasty], the [[administration system]] of the Balhae kingdom was composed of:

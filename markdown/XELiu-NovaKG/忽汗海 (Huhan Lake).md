@@ -1,0 +1,50 @@
+- Jingpo Lake or Lake Jingpo[1](((9GAFY9Nr8))) (Chinese: [[镜泊湖 (Jingpo Lake)]]; Pinyin: Jìng Pō Hú) is a lake [located in the upper reaches of] the Mudan River among the Wanda Mountains in Ningan County, Heilongjiang Province, in the People's Republic of China. Earlier names for the lake include Meituohu Lake ([[湄沱湖 (Meituo Lake)]]), Huhanhai Lake (忽汗海), and Bilten Lake (Manchurian: ᠪᡳᠯᡨᡝᠨ; Chinese: 畢爾騰湖).
+    - The length of the lake [from north to south] is 45 kilometers (28 mi) and [the widest distance between east and west] is only 6 kilometers (3.7 mi). The area is 95 km2 (37 sq mi) and the [[storage capacity]] is 1.63 billion m3. [The south part of lake] is shallow with the [deepest place] in the northern part at 62 meters (203 ft).
+        - The winter average temperature in Heilongjiang Province is below -20°C (-4°F), but the temperature at the bottom of the water is always above 10°C (50°F).[2]
+    - 鏡泊湖（チンポーこ、きょうはくこ、拼音: Jìngpō Hú）は、中華人民共和国黒竜江省牡丹江市[寧安市]にある[天然湖]。北朝鮮との国境ほど近くに存在し、およそ1万年前に[火山噴火の影響によって]牡丹江が[せき止められたこと]で形成された。被围困时 幅4キロ、長さ45キロほどの細長い形で、面積は90.3平方キロメートルで、[琵琶湖]のおよそ7分の1。南の方は浅く、北の方が深くなっており、[一番深い部分]では60メートルほどになっている。
+    - 佳景であることから[日本統治時代](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E9%8F%A1%E6%B3%8A%E6%B9%96.png)にはハイキングコースや急流を船で巡るコースなどがあった[1] (There were hiking courses and boat trips through the rapids 远足小径 乘船穿越激流)   
+    - 镜泊湖，位于中国黑龙江省牡丹江市宁安[市境西南部]的[松花江支流][牡丹江干流]上，距宁安市50公里，海拔351米。湖水深度平均为40米。常年一般水位最高353.65米，最低345.61米，年平均流量每秒9.2立方米至10立方米，蓄水量16.25亿立方米。注入湖泊的河流除牡丹江干流外，还有[大梨树沟河]、[尔站西沟河][等小河流]。 [1] 
+    - 历经五次火山喷发，[玄武岩浆流][阻塞牡丹江河床]而形成的[中国最大的]、世界第二大[高山堰塞湖]。
+        - [火山性の堰止湖]としては、中国で最大である。
+- 歴史
+    - この節の[加筆が望まれています](setsu kahitsu)。
+    - 远在1000年前的唐代，居住在这里的[满族先民]——靺鞨人称镜泊湖为忽汗海，[辽称][扑鷰水]，[金称][必尔腾湖]，清初[宁古塔流入]以[湖水照人如镜]而[命名为镜泊湖]。
+    - 鏡泊湖付近には[渤海の62あった州]のひとつである湖州（当時は鏡泊湖ではなく忽汗海）があったとされている。
+    - また、日本統治（満州国）時代には、周辺に多くの日本人が暮らし、[水力発電所]（2万kW）も建設されていた。
+    - 1940年代末から50年代にかけては[ロシア正教会][古儀式派の無僧派]の一派である[礼拝堂派]の信徒たちも居住していた[2](((6paqTlFzg)))。
+- 位置境域
+    - 全湖[东北流向]，流至北湖头张家亮子北，[再向东北泻出][注入瀑布深潭]。满语称此潭为“发库”，即“海眼”之意，湖水从此处流入牡丹江中。
+    - 湖的出口处，由玄武岩[构成陡峻的峭壁]，湖水[由上冲泻而下]，形成一个宽约30多米、落差20多米的镜泊湖瀑布，俗称“吊水楼”。
+        - 吊水楼瀑布[位于镜泊湖北端]，落差约20-25米，在每年的秋季，水量最大的时期，[瀑布可宽达]40余米。颇为壮观。
+            - 吊水楼瀑布が湖の出口近くにあり、通常は幅40メートル、落差12メートルほどであるが、水の多い時期は幅200メートルにもなる。
+    - 长白山脉[张广才岭][蜿蜒于湖畔]，海拔最高为930米（老黑山锯齿砬予），最低为353米（依湖水位标高），全区为山岳地带。
+- 人文旅游
+    - 镜泊湖[风景秀丽]，气候宜人，是有名的旅游胜地，[其著名的景观有][吊水楼瀑布]，道士山，白石砬子，老鹰砬子，珍珠门，大孤山，[小孤山]等，号称“镜泊八景”。
+    - 镜泊湖是[第一批][中国国家重点][风景名胜区]之一。2005年8月被批准为[国家地质公园]，2006年9月18日被[联合国教科文组织]评为[第三批][世界地质公园]。[1]
+        - 1982年に国務院によって国家重点風景名勝区のひとつに制定された。観光地のほか、[夏には避暑地として]も[広く利用されている]。
+- 自然资源
+    - 在湖的南部，牡丹江[及其支流的河口][有三角洲发育]，地势低洼，水网纵横，有大量[浮游生物]生存，因而适宜鱼类生长发展[2]，盛产各种[淡水鱼类]，如：鳌花、红尾鱼等。
+    - 镜泊湖[蕴藏着丰富的水力资源]，自20世纪30年代以来，这里已经先后建成了[镜泊湖发电厂]和[镜泊湖第二发电厂]。[2](((HLNmCOfLw)))
+    - [地下森林]位于镜泊湖西北大约50公里处，为[古火山口]内的原始森林。
+        - [鏡泊湖をせき止めた火山]は湖の西側50キロにあり、[溶岩台地]を形成している。[噴火口の底には]「地下森林」という[原生林]ができており、噴火口[森林景区]となっている。
+        - [地下熔岩洞]位于镜泊湖西北大约30公里，由[火山熔岩]冷凝而成。
+- 文学作品
+    - [吴兆骞][流放宁古塔]时，在《[北渚][望目]》中写道：“徘徊[临北渚]，[永夜]目光寒。顾兔飞难定，[金波]泻欲残。[风微][频泛滟]，[浪细][不成团]。”
+220827-06:52
+    - 黄绮《忆江南．镜泊湖上看[姊妹山]》：“常结伴，姊妹[卧湖边]。天意催妆羞晏起，[波平云抹][照双鬟]。破镜羡人圆。”
+- 関連項目
+    - On [[Titan]], [the largest moon of] the planet Saturn, there is [a large surface body of] [[liquid hydrocarbons]], Jingpo Lacus, [named after] Jingpo Lake.
+220827-06:03
+    - [チンポー湖](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B3%E3%83%9D%E3%83%BC%E6%B9%96) - 土星の衛星タイタンにある湖。鏡泊湖に由来。
+- References
+    - [1]: [Sometimes mistakenly romanized as] Lake Jingbo or Jingbo Lake owing to [an unrelated alternate pronunciation] of the second character. The name itself is [something of a misnomer], as the pō ("lake") properly modifies hú and not jìng.
+    - [1]: 『徒歩旅行 : 体位向上』日本[国際観光局][満洲支部]、1940年、p39
+    - [2]: 旧満州シリンヘ村における[正教古儀式派][宗教会議]について (阪本秀昭) [天理大学][学報] 第60巻[第2号](https://opac.tenri-u.ac.jp/opac/repository/metadata/2294/GKH022007.pdf)
+    - [1]: 宁安县志[编纂委员会]．宁安县志：黑龙江人民出版社 ，1989: 138-145.
+    - [2]: 《中國國家地理精華》. 吉林出版集团有限公司. 2007年: p41. [ISBN 9787807206309](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9787807206309).
+    - [黑龙江松花江水系的其他河流 ](https://baike.baidu.com/reference/662683/99dbJ0-dCEXo1TV5sA5R9Z2F5Anu43GGhcFUPUtbf6SjVRW-R_HfHUH8KY7-1H-XCKK6jybH0fG2OK0J2mnT5h6AVK2CTttmb6QNg1CdQXo1Xzsd-5Y) ．新浪黑龙江[引用日期2015-11-17]
+    - [从镜泊湖到地下森林 ](https://baike.baidu.com/reference/662683/23e8aR5_vdgbynQAstHkv1V5E8vjHehI-JEfpBNYVROPE7Ji0dXUVTBrp6WrX5J3effxEh50h8aQJCDsSu_AOklf4gDEm01Kd44l2D8w-E5tyMLUkg) ．中广网[引用日期2015-11-20]
+- External links
+    - [Brief Introduction of China's Major Lakes](http://fdi.gov.cn/pub/FDI_EN/Economy/Investment%20Environment/Natural%20Resources/Natural%20Resource%20Endowments/t20060420_24782.htm)
+    - [Jingpo Lake: More Than Natural Scenery](http://www.china.org.cn/english/environment/190047.htm) with photos
+    - 

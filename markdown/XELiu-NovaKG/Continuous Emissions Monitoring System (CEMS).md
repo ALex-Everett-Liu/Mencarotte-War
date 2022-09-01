@@ -67,7 +67,7 @@
     - 高温采样器 反吹单元 -- [探头过滤器](((L_PvHysqN))) F101   T=320 ℃
         - 电磁阀 SV101 控制反吹探头 -- [无水无油气入口](((cQZLT0nJU))) 0.7MPa, Φ8mm [穿板接头]([[bulkhead union]]) -- 减压过滤阀 AF101
     - 伴热管 [Φ8 双管](((zeD6aoNhb))) T=180℃ -- 穿板接头N1 6mm - 样气入口
-    - 露点仪 TD401 - [膜片泵]([[diaphragm pump]]) DP401
+    - [[露点仪]] TD401 - [膜片泵]([[diaphragm pump]]) DP401
         - [精细过滤器](((g43WD5h8p))) TF401 - [流量计]([[flowmeter]]) FI401 (10~100 NLPH) - 过滤器 F401 - 分析仪 EL3020 - [[vent]] N6
         - [针阀]([[needle valve]]) NV401 - [[vent]] N7
     - 标定电磁阀 SV501 

@@ -1,4 +1,5 @@
 - [[北扶余 (North Buyeo)]]
+    - 豆莫娄, [[达末娄 (Domolou)]]
     - [[高句丽 (Goguryeo)]]; Gaogouli
         - [[安東都護府 (Andong Duhufu)]]
 - 始祖神話; 東明・朱蒙伝説

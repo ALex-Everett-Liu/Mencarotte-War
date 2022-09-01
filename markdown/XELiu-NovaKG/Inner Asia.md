@@ -2,7 +2,7 @@
     - Altaic language family; 
 - [[东胡 (Donghu)]]
     - [[鲜卑 (Xianbei)]]
-    - [[Khitan (契丹)]]
+    - [[契丹 (Khitan)]]
     - [[Mongolia]]
     - [[室韦 (Shiwei)]]
 - Northeast; Eastern barbarians; 東夷諸国

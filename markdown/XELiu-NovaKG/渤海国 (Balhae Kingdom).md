@@ -1,8 +1,6 @@
 - [[渤海都督府 (bohai dudufu)]]; [[渤海郡王 (Bohai Junwang)]]
 - 海东盛国
 - 鸿胪井刻石文字 (714)
-- [[忽汗州 (Huhanzhou)]]
-    - [[东牟山 (Dongmou Hill)]]; [东牟山城]
 - Post Balhae
     - [[东丹国 (Dongdan Kingdom)]]
     - [[定安国]]

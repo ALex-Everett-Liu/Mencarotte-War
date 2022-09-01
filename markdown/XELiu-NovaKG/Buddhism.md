@@ -1,6 +1,7 @@
 - [[Buddhist logico-epistemology]]
 - [[禅宗 (Chanzong)]]
 - [[華嚴宗 (Huayan Zong)]]
+- [[practicing Buddhist]]
 - [[Theravada]]: 上部座, 小乘
 - [[Mahayana]]
 - #inbox

@@ -1,0 +1,8 @@
+- ## 虎林
+    - 清宣统元年（1909年）六月二十日，[吉林巡抚][陈昭常][奏请]“[密山府属][呢吗口地方]，设一[分防同知]”，此即[呢吗厅]，七月初二[奉朱批批准]，因[厅同知][未派]，仍由[呢吗口一带][税务局]兼[交涉办][理厅务]。属[吉林行省][东北路道]密山府。共有人口900人。宣统二年（1910年），因沿用呢吗口旧称与俄[伊曼][难分]，而呢吗厅又在[七虎林河]之南，为“符名实，而垂久远”，陈昭常又于宣统二年（1910年）三月九日，奏请将呢吗厅改名为[虎林厅]，四月十八日奉旨批准。
+        - 民国二年（1913年）5月，改虎林厅为虎林县。
+        - 1958年11月20日，虎林、饶河全县，宝清、密山部分，铁道兵农垦局（后改牡丹江农垦局），合并为虎饶县。1964年6月5日，撤消虎饶县，恢复虎林县、饶河县。1996年10月，撤消虎林县，改为虎林市。
+        - Hulin (Chinese: 虎林; pinyin: Hǔlín; lit. 'tiger forest') is a [[county-level city]] on the Muling River [in southeastern Heilongjiang province], People's Republic of China. With a population of around 200,000, it is [under the administration of] Jixi. Nearby are Lake Xingkai, 51 kilometres (32 mi) to the southwest, the Usuri River, which forms the Russian border 38 kilometres (24 mi) to the east. The main agricultural products include soybeans, cattle, milk, various organic produces, and lumber.[1]
+    - [戦史](senshi)
+        - 虎頭要塞：[関東軍]が[虎頭鎮]に建設した要塞。対岸のソ連領イマン（現ダリネレチェンスク）を睨んでいたが、ソ連対日宣戦布告後に激戦地となった。
+        - 珍宝島（ダマンスキー島）：1969年の3月2日と3月15日に中国とソ連の間で軍事衝突が発生した（中ソ国境紛争）。

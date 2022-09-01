@@ -20,3 +20,7 @@
 - ---
 - ## 完都鲁山
     - 即今俄罗斯[哈巴罗夫斯克(伯力)]北之[万丹山]。《[[金史 (Jin Shi)]]·[地理上](https://webcache.googleusercontent.com/search?q=cache:zJ-C9CTTvecJ:https://m.guoxuedashi.net/diming/28561xaqk/+&cd=1&hl=zh-CN&ct=clnk&gl=jp)》 [[上京路 (Shangjing Lu)]]：“其山有长白、青岭、[[马纪岭]]、[[完都鲁山 (Wandulu Hill)]]。”
+- ## 勃利县
+    - 颇黎、勃利、博和哩、[剖阿里]都是伯力、伯利的谐音，来源于[部落名][博和哩]。据《满洲源流考》卷11《疆域》载：“博和哩，满洲语，[豌豆]也”。
+- ## 七台河
+    - 市名は^^[オロチョン語]で「薪屋」を意味する[奇塔河]が[転訛した](tenga)ものである。^^
