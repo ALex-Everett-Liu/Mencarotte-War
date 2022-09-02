@@ -1,5 +1,6 @@
 - [[animism]]: 泛灵论
     - [[animal worship]]
+    - [[totem]]
 - [[astrology]]
 - belief...
     - [[piety]]

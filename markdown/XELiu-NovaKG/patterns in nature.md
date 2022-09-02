@@ -8,6 +8,8 @@
 201222-12:22, 17:45
     - Mathematics, physics and chemistry can explain patterns in nature at [[different level]]s. Patterns in [[living things]] are explained by the [[biological process]]es of [[natural selection]] and [[sexual selection]]. Studies of [pattern formation] make use of [[computer model]]s to [simulate a wide range of patterns].
 201223-00:21; 220416-12:25
+- ## History
+    - 
 - [Bibliography]([[bibliography]])
     - [[Latin]] [[Wikisource]] has [[original text]] [related to this article]: **[Liber abbaci](https://en.wikisource.org/wiki/la:Liber_abbaci)**
     - pioneering authors

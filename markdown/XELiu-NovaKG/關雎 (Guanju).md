@@ -11,7 +11,7 @@
         - “雎鸠，水鸟，[一名][王雎]，[状类][凫鹥]，今 [[江淮 (Jianghuai)]] 间有之。” -- [[朱熹 (Zhu Xi)]]。[诗经集传]，上海：[上海古籍出版社]，1987: 1-2
         - There is [a difference of opinion] as to [the name of the birds]: some say they are ospreys or fish-hawks, some a species of [[duck]], [found always in pairs] and inseparable. -- [一般认为]就是[鱼鹰]，[传说]它们[雌雄][形影不离]。
 210101-17:41
-    - 《[[说文 (Shuowen)]]》[水渚]也。《[[尔雅 (Erya)]]·[释水]》[水中可居]曰洲。又《[释名]》聚也。人及鸟物所[聚息之处]也。
+    - 《[[說文解字 (Shuowen Jiezi)]]》[水渚]也。《[[尔雅 (Erya)]]·[释水]》[水中可居]曰洲。又《[释名]》聚也。人及鸟物所[聚息之处]也。
         - [形声]。[从水], 州声。“洲”本作“州”, [后人][加水][以别][州县][之字]。
 - [窈窕][淑女]、[君子][好逑]。
     - [Chaste and modest] [[maid]]! [fit partner] For our [[lord]] (thyself we deem). 我们认为你自己
