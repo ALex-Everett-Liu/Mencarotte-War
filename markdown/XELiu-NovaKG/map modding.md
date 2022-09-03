@@ -129,3 +129,16 @@
                         - 12383=mountains
                             - winter_severity_bias = 0.73
                         - position={ 8918.000000 0.000000 3450.000000 }
+                - c_mudan
+                    - 渤州
+                        - "u5bm7C":{"next":"GvoGfZ","type":"Point","coord":[129.6246813696289,44.50695495528478],
+                            - "style":{"textFill":"`#800080`","icon":"city","textSize":14,"marker":"il-tr"},
+                            - "name":"渤州","children":"EGXhAR",
+                            - "note":"<ul><li><p>治所在今黑龙江省宁安市东北、牡丹江东岸，或今林口县西北三道通古城。</p></li><li><p>属上京龙泉府。</p></li>
+                            - <li><p>辽朝时，渤州，清化军，刺史。兵事隶东京统军司。</p></li><li><p>仅领贡珍县，仍为渤海国置。</p></li></ul>"},
+                        - c_mudan:0 "渤海府/穆丹"
+                            - b_Bozhou_Bohai:0 "渤州"
+                        - 867.1.1 = { change_development_level = 11 }
+                        - 10718;31;2;194;Bozhou_Bohai;x;
+                        - 10718=wetlands
+                            - winter_severity_bias = 0.71

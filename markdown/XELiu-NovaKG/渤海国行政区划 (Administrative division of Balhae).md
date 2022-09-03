@@ -2,6 +2,7 @@
 - [[中京 (Zhongjing)]][[显德府 (Xiande Fu)]]
 - [[东平府 (Dongping Fu)]]
 - [[鄚颉府 (Maojie Fu)]]
+- [[率宾府 (Suifen Fu)]]
 - [[忽汗州 (Huhanzhou)]]
     - [[东牟山 (Dongmou Hill)]]; [东牟山城]
 - ---
