@@ -3,7 +3,7 @@
 - ---
 - 龙州[领县]八：永宁、丰水、扶罗、长平、富利、佐慕，肃慎、永平。[[金毓黻 (Jin Yufu)]]《渤海国志长编》指出：“龙州为龙泉府之[首州]，亦即[忽汗城]之[所在地]也。” 龙州是首州与上京龙泉府[同地]。所以上京龙泉府是龙州所在地，遗址为今宁安县[渤海镇][古城]。
 - ---
-- ## 穆棱河
+- ## 穆棱河 (Muling River)
     - Muling or Muren (simplified Chinese: 穆棱河; traditional Chinese: 穆稜河[1](((AOpj1tDQi))); pinyin: Mùlíng Hé) is a river in Northeast China, a [left tributary] of the Ussuri.
         - Its length is 577 kilometres (359 mi), and its basin area is approximately 18,500 square kilometres (7,100 sq mi).[2] Jixi and Hulin are located on Muling River.
         - The area of the river is known by Sino-Soviet conflict (1929) and battles between Soviet and Kwantung Armies.

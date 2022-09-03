@@ -142,3 +142,20 @@
                         - 10718;31;2;194;Bozhou_Bohai;x;
                         - 10718=wetlands
                             - winter_severity_bias = 0.71
+                    - 姑里甸
+                        - 12385;147;23;232;Gulidian;x; - purple
+                        - b_Gulidian:0 "姑里甸"
+                        - 12385=forest
+                        - position={ 8980.000000 0.000000 3449.000000 }
+                    - 把忽岭
+                        - 12386;60;167;179;Bahuling;x; - dark cyan
+                        - b_Bahuling:0 "把忽岭"
+                        - 12386=mountains
+                        - position={ 9025.000000 0.000000 3463.000000 }
+                - c_yingzhou_bohai
+                    - 郢州
+                        - 10731;44;222;86;Yingzhou_Bohai;x; - little light green
+                        - c_yingzhou_bohai:0 "郢州"
+                            - b_Yingzhou_Bohai:0 "郢州"
+                        - 867.1.1 = { change_development_level = 7 }
+                        - 
