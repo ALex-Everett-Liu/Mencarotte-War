@@ -158,4 +158,19 @@
                         - c_yingzhou_bohai:0 "郢州"
                             - b_Yingzhou_Bohai:0 "郢州"
                         - 867.1.1 = { change_development_level = 7 }
-                        - 
+                    - 活罗海川
+                        - 12387;49;23;69;Huoluohaichuan;x; - dark purple
+                        - b_Huoluohaichuan:0 "活罗海川"
+                        - 12387=mountains
+                            - winter_severity_bias = 0.75
+                        - position={ 8983.000000 0.000000 3492.000000 }
+                - c_jianzhou_bohai
+                    - 建州
+                        - 10721;34;222;86;Jianzhou_Dongning;x; - little light green
+                        - b_Jianzhou_Dongning:0 "开元"
+                    - 苏滨水/土罗火/希田
+                        - 10762;75;2;140;XitianTuluoguo_Jianzhou;x; - purple
+                        - position={ 9034.000000 0.000000 3403.000000 }
+                    - 暮棱水
+                        - 10729;42;222;248;MulengRiver;x; - light sky blue
+                        - b_MulengRiver:0 "暮棱/毛怜"
