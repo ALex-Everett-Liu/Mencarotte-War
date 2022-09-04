@@ -174,3 +174,12 @@
                     - 暮棱水
                         - 10729;42;222;248;MulengRiver;x; - light sky blue
                         - b_MulengRiver:0 "暮棱/毛怜"
+            - d_yulou = { # 虞娄/挹娄/东海女真 # Eumnu/Ŭmnu
+                - c_shuaibin
+                    - 华州
+                        - 10722;35;2;140;Shuaibinfu_Huazhou;x;
+                        - c_shuaibin:0 "率宾府"
+                            - b_Shuaibinfu_Huazhou:0 "速频路华州双城卫"
+                        - 867.1.1 = { change_development_level = 10 }
+                        - 10722=plains
+                        - position={ 9129.000000 0.000000 3399.000000 }

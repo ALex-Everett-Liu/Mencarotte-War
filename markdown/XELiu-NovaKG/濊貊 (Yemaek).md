@@ -21,7 +21,7 @@
     - 濊貊系とみられる集団は、他に沃沮・部類（符類、附類）・高夷・東濊などと、貊と同音または近似音の貉・北發・白民などがある。史書には、夫余の出自が濊とみられる記述があり、また貊を高句麗の別名または別種と記す。部類と夫余の[上古音が同じ]（Pĭwa ʎĭa）とする説もある、晋の[孔晁]は[高句麗を高夷の子孫としている]。
     - 『後漢書』では、濊・沃沮・高句麗は元々朝鮮（衛氏朝鮮）の地に居たと記す。
 - Language
-    - Main articles: Ye-Maek language and Koguryoic languages
+    - Main articles: [[Ye-Maek language]] and [[Koguryoic languages]]
     - There have been some [academic attempts] to recover Yemaek words [based on the fragments of] [[toponym]]s recorded in the Samguk Sagi for the areas once possessed by Goguryeo and [Buyeo-Baekje].[relevant?]
 - 早期社会
     - 濊人原居住在松嫩流域，后来逐渐向东南迁移[3](((A_fsdpY4Y)))，濊族从事农业和渔猎业，黍成为濊人的[主要食粮]。此时的濊族进入[原始社会晚期]，过着[定居生活]。濊族有很多分支，其中[高夷]（后来的[沸流国]）在浑江流域，[良夷]在今大同江中下游（即[古朝鲜人]，乐浪夷）。东濊分布在今朝鲜江原道。

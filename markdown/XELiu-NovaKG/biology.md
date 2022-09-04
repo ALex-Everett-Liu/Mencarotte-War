@@ -15,6 +15,7 @@
     - [[biological process]]
     - [[living things]]
 - [[genetics]]
+    - [[chromosome]]
     - [[DNA]]
         - [[RNA]]
     - [[genealogy]]
