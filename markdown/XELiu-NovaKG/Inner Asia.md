@@ -3,7 +3,7 @@
 - [[东胡 (Donghu)]]
     - [[鲜卑 (Xianbei)]]
     - [[契丹 (Khitan)]]
-    - [[Mongolia]]
+    - [[Mongol]]
     - [[室韦 (Shiwei)]]
 - Northeast; Eastern barbarians; 東夷諸国
     - [[扶余 (Buyeo)]]; 夫余; 夫餘
