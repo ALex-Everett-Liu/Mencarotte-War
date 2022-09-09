@@ -7,7 +7,7 @@
     - [[roamcult]]; RoamCult
     - [[Roam Depot]]
     - [[RoamHacker]]
-- customization...
+- customization
     - extensions
         - backup
             - [[Automatic RoamResearch backup]]
