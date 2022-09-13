@@ -83,7 +83,7 @@ $$U(z, t)=A \sin k(z-v t)$$ (3.1)
     - Chapter 6 [[Interferogram Data Sampling]] #[[data sampling]]
     - Chapter 7 Data Acquisition
         - [[data acquisition (DAQ)]] is a branch of the [test and measurement field](((m8rGUijTY))) that functions to convert analog signals into digital data, and then streams the data into a computer for display and further digital processing. Today, there is a variety of off-the-shelf data-acquisition products for various applications characterized by the number of channels, the maximum speed, the resolution, etc.
-            - This chapter briefly introduces the various DAQ formats and some of the factors to take into account when choosing one for FT spectroscopy applications. Of particular importance, however, is the last section of the chapter where the allowable spectral SNR due to the finite resolution of the analog-to-digital converters (ADCs) is analyzed.
+            - This chapter briefly introduces the various DAQ formats and some of the factors to take into account when choosing one for FT spectroscopy applications. Of particular importance, however, is the last section of the chapter where the allowable spectral SNR due to the finite resolution of the [[analog-to-digital converter (ADC)]]s is analyzed.
     - Chapter 8 [[The Detector of Fourier transform spectroscopy]]
     - Chapter 9 [[Consideration of Optics and Interferometer Alignment]]
     - Chapter 10 [[Signal-to-Noise Ratio Enhancement Techniques]]

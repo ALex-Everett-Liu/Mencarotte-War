@@ -1,6 +1,6 @@
 - [[analog circuit]]
     - [[analog signal]]
-- [[analog to digital conversion]]; [[A/D converter]]; [[analog-to-digital converter]];; [[D/A converter]]
+- [[analog to digital conversion]]; [[A/D converter]]; [[analog-to-digital converter (ADC)]];; [[D/A converter]]
 - [[bench testing]]
 - [[circuit diagram]]
 - [[digital circuit]]
