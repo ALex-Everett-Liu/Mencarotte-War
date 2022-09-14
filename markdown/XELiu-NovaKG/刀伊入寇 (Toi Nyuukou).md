@@ -11,7 +11,10 @@
     - These Jurchen pirates lived in what is today Hamgyŏngdo, North Korea.[9]
     - Traumatic memories of the Jurchen raids on Japan, the Mongol invasions of Japan in addition to Japan viewing the Jurchens as "Tatar" "barbarians" after copying China's barbarian-civilized distinction, may have played a role in Japan's antagonistic views against Manchus and hostility towards them in later centuries such as when the Tokugawa Ieyasu viewed the unification of Manchu tribes as a threat to Japan. The Japanese mistakenly thought that Hokkaido (Ezochi) had a land bridge to Tartary (Orankai) where Manchus lived and thought the Manchus could invade Japan. In 1627, The Tokugawa shogunate sent a message to Joseon via Tsushima offering help to Joseon against the Later Jin invasion of Joseon. Joseon refused it.[10]
 - 史料
-    - 
+    - [この事件に関して]は『小右記』『朝野群載』等が詳しい。朝鮮の史書『高麗史』などには[ほとんど記事がない]。
+- ## 経緯
+    - [日本沿岸での][海賊行為](kaizoku kōi)[頻発](hinpatsu) (Frequent occurrence of piracy off the Japanese coast)
+        - 9世紀から11世紀に掛けての日本は、[記録に残るだけでも]新羅や高麗などの[外国の海賊による襲撃略奪]を[数十回受けており]、[特に酷い被害を被ったのが]筑前、筑後、肥前、肥後、薩摩の[九州沿岸](Kyūshū engan)であった。
 - References
     - [1]: Kodansha Encyclopedia of Japan, Volume 2. Kōdansha. Kodansha. 1983. p. 79. ISBN 978-0-87011-620-9.
     - Embree, Ainslie Thomas (1988). Embree, Ainslie Thomas (ed.). [Encyclopedia of Asian History](https://books.google.com/books?id=TFIYAAAAIAAJ), Volume 1. Robin Jeanne Lewis, Asia Society, Richard W. Bulliet (2, illustrated ed.). Scribner. p. 371. ISBN 0684188988.
