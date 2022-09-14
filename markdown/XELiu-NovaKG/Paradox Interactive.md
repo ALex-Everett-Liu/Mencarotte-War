@@ -6,6 +6,7 @@
 - [[Paradox Development Studio (PDS)]]
     - [[Clausewitz Engine]]
     - [[Crusader Kings II (CK2)]]; [[Crusader Kings III (CK3)]]
+    - [[Victoria 2]]; [[Victoria 3]]
 - [paradox plaza](((A8pNv3Mgv)))
 - [[population system]]
     - [[fertility model]]: 生育率模型; 

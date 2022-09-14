@@ -1,3 +1,4 @@
 - #inbox
+    - [导出md]的时候，[那些精美的排版](https://www.zhihu.com/question/444935226/answer/2450182557)就都没有了。搞得那么花里胡哨，但它其实本就是 based on markdown。慢慢我就开始觉着，它的形式大于内容，不如老老实实写markdown。（怎么有种[始乱终弃]的感觉哈哈）如果有[插入图片]的需求，Notion 的云存储[不够用]，我也不想为它[开会员]。（狗头）还有一个小问题，Notion 的双链功能，并不是完全的双向链接，[使用体验][更像是超链接]。 #pt8-99.97
     - Notion [最有魅力的]还是其理念，当然Notion的Database和双向链的功能，也是“抄袭” Airtable和Roam Research的。 #pt6
         - 在国内，很早就有[不少团队](https://zhuanlan.zhihu.com/p/387077732)注意到了Notion，我自己是19年在 ProductHunt 上[看到这个产品]的，国内的飞书团队和 Teambition 团队好像是18年就关注到Notion了。

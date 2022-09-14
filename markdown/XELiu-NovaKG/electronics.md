@@ -6,7 +6,7 @@
         - [[design semiconductors]];
     - [[diode]]
     - [[electron beam]]
-    - [[integrated circuit]]
+    - [[integrated circuit (IC)]]
     - [[logic gate]]
     - [[microcontroller]]; [[controller]]
     - [[microelectromechanical systems (MEMs)]]
