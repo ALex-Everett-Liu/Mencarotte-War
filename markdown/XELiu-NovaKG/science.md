@@ -30,3 +30,6 @@
     - [[reproducible research]]: 可重复性研究; reproduce the experiment;
     - [[science philosophy]]...
 - [[scientist]]
+- #inbox
+    - [一只火鸡][想要预测明天][投喂多少食物](https://bbs.saraba1st.com/2b/thread-2065630-2-1.html)
+对历史数据[做任何复杂的分析][都不如]知道[万圣节是哪天]   #pt10-99.99
