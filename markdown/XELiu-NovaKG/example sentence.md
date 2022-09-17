@@ -5,6 +5,12 @@
     - www.[[chinadaily]].com.cn / bbs.[[chinadaily]].com.cn
         - Suddenly she [clicks the send button] to [upload her post], and [a man sitting on a sofa] [instantly screeches to a halt right in front of her] and [cries victory]. 发出胜利的欢呼 
         - ---
+        - Aides [arranged to keep him informed of] 向他通报 [hurricane response efforts] 飓风应对工作 at his [regular morning briefings]. 例行早间简报会 
+        - Zhou and Huang later informed Intel about the [faulty CPU], but got no response. 
+        - He said Chow [had already been informed] but [refused to give any comment on] Chow's response. 
+        - The [Sichuan Mountaineering Association] [has informed US diplomats] in China of the discovery, and is [awaiting a response on] [how to deal with the body]. 
+        - ---
+        - 
     - www.[cnblogs].com
         - They offer [professional training] and traditionally [cost a lot less than] [programs at four-year schools]. 
     - dict.cnki.net
