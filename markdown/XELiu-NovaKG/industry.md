@@ -29,7 +29,8 @@
 - [[plant]]
 - [[robustness]]
 - safety; health and safety;
-    - [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
+    - [[flameproof]]; [[explosion-proof]]; explosion protection; 防爆型仪表
+        - potentially explosive environment;
         - 防爆等级
         - 防爆膜
         - [[防爆要求]]

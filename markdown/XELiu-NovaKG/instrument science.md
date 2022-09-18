@@ -15,7 +15,7 @@
 - [[balance]]
 - [[calibration]]
 - [[enclosure]]: 机壳; 机柜
-- [[flameproof]]: [[explosion-proof]]; explosion protection; 防爆型仪表
+- [[flameproof]]; [[explosion-proof]]; explosion protection; 防爆型仪表
 - [[apparatus]]; [[device]]; [[equipment]]; [[instrument]]
 - [[figure of merit]]
 - [[instrumentation]]: 器械操作, 仪器制造 
