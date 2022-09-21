@@ -422,6 +422,29 @@ webdav 是一个很多[云存储]都[支持的协议]。添加webdav作为[库�
 
 [一个最基础的][随机回顾][就实现了]。另外，如果你跟我一样用 fish shell，[最后一条命令]要改为 cat (ls | shuf -n 1) 。如图：
     - {{[[TODO]]}} [投光编辑器](https://github.com/toeverything/editoe)是由 投光团队 开发的一款[支持 MarkDown 语法]、LaTeX 数学、Mermaid & Tikz 绘图、Plotly 数据可视化的[所见即所得编辑器]，同时提供[富文本按钮], [在这里使用](https://editoe.com/) #pt8-100
+    - 目前可以用 [Katex 宏][来代替代码补全](https://ld246.com/article/1662807594664/comment/1662851370170#comments)吧。比如[定义宏]：
+
+`"\\fr":"\\frac"`
+
+就可以输入 \fr{1}{2} 来代替 \frac{1}{2}
+
+#pt8-100
+        - 不过目前 Katex 宏[只能实现多对一]，如下：
+
+`"\\fr":"\\frac"，
+
+"\\fra":"\\frac"，
+
+"\\f":"\\frac"`
+
+
+        - [不知道能否实现]如下的[一对多]，类似[输入法]：
+
+`"\\f":"\\frac"
+
+"\\f":"\\mathrm{F}"
+
+"\\f":"\\mathrm{F2}"`
     - RE [暗色毛玻璃主题](https://club.roamedit.com/club/?thread-728.htm)分享 #pt8-100
     - 用 1.2.31 的时候，[我个人感觉]思源笔记的[存储方式]和 calibre 的[管理思路]是一样的，不仅能[在线管理]，还能在[本地管理]。 #pt8-99.99
 
