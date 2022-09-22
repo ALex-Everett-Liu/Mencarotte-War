@@ -19,7 +19,7 @@
 - [样气]([[sample gas]]); gas sample; gaseous sample; [[air sample]]
     - condition the sample gas: 调节样气; [[gas conditioning system]]
         - sample conditioning: 样气调理
-    - gas flow chart: 气路流程图;
+    - gas flow chart, flow diagram, 气路流程图
     - high concentration sample gas;
     - [[interfering gas]]
 - [[sample preparation]]

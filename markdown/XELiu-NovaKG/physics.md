@@ -16,7 +16,7 @@
         - [[abstract idea]]
         - [[counterintuitive]]
         - [[human intuition]]; [[intuitive sense]]
-            - counter-intuitive property
+            - counter-intuitive property; counterintuitive concept
     - [[collective effect]]
     - condition...
         - [[extreme condition]]
@@ -41,7 +41,7 @@
         - physical mechanism
         - [[physical process]]
         - [[physical property]]; physical properties
-            - counter-intuitive property
+            - counter-intuitive property; counterintuitive concept
             - [[intrinsic property]]
         - [[physical quantity]]
             - base quantities

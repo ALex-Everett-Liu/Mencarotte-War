@@ -2,6 +2,7 @@
     - abstract noun
     - [[universal abstraction]]
 - [[argument]]: 论据, 论证, 争论; [[argue]]
+    - [[assumption]]
     - [[certainty]]
     - [[make the claim]];
     - [[conclusion]]

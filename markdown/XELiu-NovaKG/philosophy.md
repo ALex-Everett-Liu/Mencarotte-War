@@ -26,6 +26,7 @@
     - [[Greek philosopher]]
 - [[priori ]]
 - [[science philosophy]]...
+    - [[first principle]]
 - [[skepticism]]
 - [[theology]]
 - [[truth]]
