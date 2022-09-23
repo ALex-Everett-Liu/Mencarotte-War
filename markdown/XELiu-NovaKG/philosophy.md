@@ -5,7 +5,7 @@
 - death
     - 对死亡的恐惧;
 - [[debate]]; [[speech]]
-- [[epistemic]]; [[epistemology]]: 认识论
+- [[epistemic]]; [[epistemology]]; 认识论
 - existential; [[existential philosophy]]
 - [[free will]]
     - [[compatibilism]]: 相容主义;
