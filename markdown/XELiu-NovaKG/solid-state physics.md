@@ -17,7 +17,7 @@
 - [[electron flow]]
 - electron transition; 
 - energy band
-    - [[band structure]]
+    - [[band structure]]; [[electronic structure]]
     - [[conduction band]]
     - [[valence band]]
         - [[valence band offset]]: 价带偏移 

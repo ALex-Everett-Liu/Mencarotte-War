@@ -55,7 +55,7 @@
                 - [[Hermitian operator]]
                 - [[eigenvector]]
                 - [[eigenspace]]
-    - [[Schrödinger equation]]; [[Schrödinger’s equation]]
+    - [[Schrödinger equation]], [[Schrödinger’s equation]], [[Schrödinger's equation]]
 - [[wave-particle duality]]; wave–particle duality
 - ---
 - 高等量子力学 (Advanced Quantum Mechanics) - 喀兴林

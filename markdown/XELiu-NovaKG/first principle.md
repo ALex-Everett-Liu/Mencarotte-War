@@ -4,7 +4,9 @@
 - In [[formal logic]]
     - In a [formal logical system], that is, [a set of propositions]([[proposition]]) that are [consistent with one another], it is possible that [some of the statements]([[statement]]) [can be deduced from other statements]. For example, in the [[syllogism]], "All men are mortal; Socrates is a man; Socrates is mortal" [the last claim]([[claim]]) [can be deduced from the first two].
 220922-22:35
-    - A first principle is an axiom that [cannot be deduced from any other] [within that system]. The [classic example] is that of [[Euclid's Elements]]; its hundreds of [[geometric proposition]]s can be deduced from [a set of definitions], postulates, and [[common notion]]s: [all three types] [constitute first principles].
+    - A first principle is an axiom that [cannot be deduced from any other] [within that system]. The [classic example](((Ppbz-T5pN))) is that of [[Euclid's Elements]]; its hundreds of [[geometric proposition]]s can be deduced from [a set of definitions], postulates, and [[common notion]]s: [all three types] [constitute first principles].
 - In physics
     - In physics and [other sciences], a [[calculation]] or [[theoretical work]] is said to be from first principles, or [[ab initio]], if it [starts directly at the level of established science] 既定的科学层面 (if it [starts directly at the level of established laws] of physics) and [does not make assumptions such as] [[empirical model]] and [[parameter fitting]]. 
     - For example, calculation of [[electronic structure]] using [[Schrödinger's equation]] [within a set of approximations]([[approximation]]) that do not include [fitting the model to] [[experimental data]] is an [[ab initio approach]].
+- external links
+    - [Euclid's Elements](http://aleph0.clarku.edu/~djoyce/java/elements/elements.html) （[页面存档备份](https://web.archive.org/web/20170701145939/http://aleph0.clarku.edu/~djoyce/java/elements/elements.html)，存于[互联网档案馆]）
