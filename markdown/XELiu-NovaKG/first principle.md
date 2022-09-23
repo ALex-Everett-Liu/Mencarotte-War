@@ -1,6 +1,7 @@
 - Historically in philosophy, now science, a first principle is a basic proposition or assumption that [cannot be deduced from any other] [[proposition]] or [[assumption]]. First principles are from [[First Cause]][1] attitudes and taught by [[Aristotelian]]s, and [nuanced versions] of first principles are [referred to as postulates by] [[Kantian]]s.[2] In mathematics, first principles are referred to as [[axiom]]s or [[postulate]]s. 
     - [First principles thinking] consists of deriving things to 将事物推导到 their [fundamental proven axioms] 基本的已证实的公理 [in the given arena], 在给定领域中的 [before reasoning up] by asking which ones are [relevant to the question at hand], then [cross referencing conclusions](((3DpiuYci8))) [based on chosen axioms] and [making sure conclusions] [don't violate any fundamental laws]([[fundamental law]]). Physicists include [[counterintuitive concept]]s with [[reiteration]].
 220922-21:12, 22:15, 22:25
+    - 第一原理（だいいちげんり、英語：first principles）とは、他のものから推論することができない命題である。
 - In [[formal logic]]
     - In a [formal logical system], that is, [a set of propositions]([[proposition]]) that are [consistent with one another], it is possible that [some of the statements]([[statement]]) [can be deduced from other statements]. For example, in the [[syllogism]], "All men are mortal; Socrates is a man; Socrates is mortal" [the last claim]([[claim]]) [can be deduced from the first two].
 220922-22:35
@@ -22,5 +23,11 @@
 - In physics
     - In physics and [other sciences], a [[calculation]] or [[theoretical work]] is said to be from first principles, or [[ab initio]], if it [starts directly at the level of established science] 既定的科学层面 (if it [starts directly at the level of established laws] of physics) and [does not make assumptions such as] [[empirical model]] and [[parameter fitting]]. 
     - For example, calculation of [[electronic structure]] using [[Schrödinger's equation]] [within a set of approximations]([[approximation]]) that do not include [fitting the model to] [[experimental data]] is an [[ab initio approach]].
-- external links
+    - [自然科学](Shizen kagaku)での第一原理（first principles）は、[近似や経験的なパラメータ等を含まない](Kinji ya keiken-tekina... fukumanai)[最も根本となる基本法則をさし](Mottomo konpon kihon hōsoku)、[そのことを前提にする]と[自然現象を説明する]ことができるものである。第一原理には運動量の保存や物質の二重性など様々なものがある。理論計算の分野における第一原理の解釈は人により様々で、「既存の実験結果（事実）を含めて経験的パラメーター等を一切用いない」という強いものから、「実験結果に依らない」とする比較的緩い解釈まである。代表的第一原理は、ニュートン力学のような決定論と、確率論の根源をなす等確率の原理や熱力学に大別されその中間的性質として以下のような量子論的方法論が展開される。
+- References
+    - [1]: First cause | philosophy | Britannica.com (https://www.britannica.com/) › topic › first-cause
+    - [5]: VOL I, Principles, Preface to the French edition. [Author’s letter to the translator of the book] [which may here serve as a preface], p. 181.
+- Further reading
+    - Orestes J. Gonzalez, __Actus Essendi__ and the Habit of the First Principle in Thomas Aquinas (New York: Einsiedler Press, [2019](https://www.amazon.com/dp/0578522179?ref_=pe_3052080_397514860).)
+- External links
     - [Euclid's Elements](http://aleph0.clarku.edu/~djoyce/java/elements/elements.html) （[页面存档备份](https://web.archive.org/web/20170701145939/http://aleph0.clarku.edu/~djoyce/java/elements/elements.html)，存于[互联网档案馆]）
