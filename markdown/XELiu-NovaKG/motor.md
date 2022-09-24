@@ -1,2 +1,3 @@
+- [[electric motor]]
 - geared motor drive: 齿轮马达传动
 - [[stepper motor]]
