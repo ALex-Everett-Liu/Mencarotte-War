@@ -23,10 +23,17 @@
 - In physics
     - In physics and [other sciences], a [[calculation]] or [[theoretical work]] is said to be from first principles, or [[ab initio]], if it [starts directly at the level of established science] 既定的科学层面 (if it [starts directly at the level of established laws] of physics) and [does not make assumptions such as] [[empirical model]] and [[parameter fitting]]. 
     - For example, calculation of [[electronic structure]] using [[Schrödinger's equation]] [within a set of approximations]([[approximation]]) that do not include [fitting the model to] [[experimental data]] is an [[ab initio approach]].
-    - [自然科学](Shizen kagaku)での第一原理（first principles）は、[近似や経験的なパラメータ等を含まない](Kinji ya keiken-tekina... fukumanai)[最も根本となる基本法則をさし](Mottomo konpon kihon hōsoku)、[そのことを前提にする]と[自然現象を説明する]ことができるものである。第一原理には運動量の保存や物質の二重性など様々なものがある。理論計算の分野における第一原理の解釈は人により様々で、「既存の実験結果（事実）を含めて経験的パラメーター等を一切用いない」という強いものから、「実験結果に依らない」とする比較的緩い解釈まである。代表的第一原理は、ニュートン力学のような決定論と、確率論の根源をなす等確率の原理や熱力学に大別されその中間的性質として以下のような量子論的方法論が展開される。
+    - [自然科学](Shizen kagaku)での第一原理（first principles）は、[近似や経験的なパラメータ等を含まない](Kinji ya keiken-tekina... fukumanai)[最も根本となる基本法則をさし](Mottomo konpon kihon hōsoku)、[そのことを前提にする]と[自然現象を説明する](Shizen genshō o setsumei suru)ことができるものである。第一原理には[運動量の保存]や[物質の二重性]など様々なものがある。[理論計算の分野における](Riron keisan no bun'ya)第一原理の[解釈は人により様々で]、「[既存の実験結果（事実）]を含めて経験的パラメーター等を一切用いない」という強いものから、「実験結果に依らない」とする[比較的緩い解釈](Hikakuteki yurui kaishaku)まである。代表的第一原理は、[ニュートン力学]のような[決定論]と、[確率論の根源をなす](Kakuritsu-ron no kongen)[等確率の原理](Tōkakuritsu)や熱力学に大別されその中間的性質として以下のような量子論的方法論が展開される。
+220924-05:52
+    - [バンド計算]における第一原理
+        - バンド計算においても、“第一原理”の意味は、何ら実験結果に依らないことが前提である。つまり[計算対象となる系](Keisan taishō to naru kei)の[各構成元素の原子番号](kaku kōsei genso no genshi bangō)と、その構造（対称性）のみを入力パラメータとし、それ以外の一切のパラメーター調整や、実験結果を参照しないで、[その系の電子状態を求められる]ことを意味する。実はこれは厳密には正しくない（実情に即していない）。現在の[第一原理バンド計算手法]では少なくとも、計算対象となる系を[構成する各元素の]平衡格子定数が正しく求められるかを、実験結果を参照することによって検証している。バンド計算を使った研究による論文では、ほとんど例外なく系（またはその構成元素）の理論計算による平衡格子定数と、実験によって求められた平衡格子定数とを比較する表が載っている。
+        - 一方、局所密度近似 (LDA) やGGAのような近似の導入が、果たして第一原理の枠内であるかどうかに対しても異論がある（普通、物理学者の多くは、LDA、GGAは第一原理の範疇の中に収まると思っている）。
+        - 現実の第一原理バンド計算では、ゴーストバンドの問題や、基底関数の展開数の収束依存性、擬ポテンシャルにおけるトランスフェラビリティーの問題、局所密度近似の関数形の選択による結果への影響の差など、“恣意的”な調整と取られかねない部分が少なからず存在する。しかし、平衡格子定数のように実験としても既に“データブック”化したようなものでなく、実際に今行われている実験結果に合わせるようなパラメーター調整を、少なくとも第一原理バンド計算では行わない。
+        - しかしながら、バンド計算を行うのも人であり、過去に実験側で非常に興味深い結果が発表された後に、その実験結果を支持する第一原理バンド計算の結果が複数発表される中、その拠って立つべき実験結果が実は誤りであったという例が存在する。
 - References
     - [1]: First cause | philosophy | Britannica.com (https://www.britannica.com/) › topic › first-cause
     - [5]: VOL I, Principles, Preface to the French edition. [Author’s letter to the translator of the book] [which may here serve as a preface], p. 181.
+    - フランセーン, トルケル 著、田中一之 訳 『ゲーデルの定理：利用と誤用の不完全ガイド』みすず書房、[2011年3月25日](https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E5%8E%9F%E7%90%86)。ISBN 978-4-622-07569-1。
 - Further reading
     - Orestes J. Gonzalez, __Actus Essendi__ and the Habit of the First Principle in Thomas Aquinas (New York: Einsiedler Press, [2019](https://www.amazon.com/dp/0578522179?ref_=pe_3052080_397514860).)
 - External links
