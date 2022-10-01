@@ -4,6 +4,7 @@
     - [[rectilinear propagation]]
 - [[mirror image]]
 - [[partial reflection]]
+- [[reflection point]]
 - reflection symmetry; reflectional symmetry
     - P-symmetry
     - parity transformation

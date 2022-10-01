@@ -1,5 +1,5 @@
 - [[optical path difference (OPD)]]; [[retardation]]
     - [[zero path difference]]; [[zero retardation]]: 零点延迟/滞后
-- [[optical path length (OPL)]]
+- [[optical path length (OPL)]], [[path length]]
 - [[phase difference]]: 相位差
     - [[phase mismatch]]

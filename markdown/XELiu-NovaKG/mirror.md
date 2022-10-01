@@ -5,3 +5,4 @@
 - [[off-axis parabolic mirror]]
 - [[speculum]]: 窥镜 
     - copper alloy rich in tin: 富含锡的铜合金 
+- [[spherical mirror]]

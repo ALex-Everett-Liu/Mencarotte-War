@@ -1,4 +1,5 @@
 - [[cross-sensitivity]]; [[cross sensitive]]
+- [[detection sensitivity]]
 - high-sensitivity detector;
 - ---
 - [被测物质]的[含量或浓度][改变一个单位时]，[分析信号]/[仪器输出信号]/对变化的[响应信号]的[变化量]。
