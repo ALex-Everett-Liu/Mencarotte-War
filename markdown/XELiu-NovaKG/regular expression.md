@@ -1,4 +1,4 @@
-- [[cs/character]]: 字符
+- [[cs/character]], 字符
 - exact match; re-matches; [[exact phrase]]
 - indicate the beginning of a line
 - [[input string]]

@@ -7,7 +7,7 @@
 - annotating programs
 - boolean expression
 - [[bug]]
-- [[cs/character]]: 字符
+- [[cs/character]], 字符
 - code; coding
     - [[code block]]
         - [[building block]]
