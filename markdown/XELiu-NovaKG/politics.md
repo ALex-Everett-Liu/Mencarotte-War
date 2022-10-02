@@ -103,6 +103,7 @@
         - [[royal court]]
     - [[tribe]]
     - [[monarchy]]; 君主制
+    - [[succession law]]
 - 反华势力
     - 汉奸
         - #inbox

@@ -35,7 +35,7 @@ A brief rant on [note-taking apps] and [the structure of thought]. ^^Or "Why [[E
 201123-06:16
             - https://twitter.com/Conaw/status/1099181050045952006
             - ![Conor White-Sullivan Twitter 01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-Nova%2FqbsyY8N9Sl.png?alt=media&token=d576fbd4-4a3c-4dc7-9f7c-6926221fa466)
-            - rant: 怒吼; 咆哮; 大声抱怨; 大话; 粗野的话; 狂欢
+            - rant: 怒吼, 咆哮, 大声抱怨; 大话, 粗野的话; 狂欢
 - ## **3. Problems with the file cabinet approach** 文件柜方式的储存结构存在的问题
     - In some regards, [current technologies] [remain vastly inferior to] the human brain. If each [[neuron]] only held [a single ‘unit’ of memory]([[memory unit]]) in this manner, our brains would quickly [[fill to overflowing]]. Instead, [information is conveyed in]([[convey information]]) [the connections between neurons] and [[neural network]]s, so a [common idea] [can be made available] [across the entire brain]; the [[concept]] of a [blue sky] might be used in countless seemingly [[discrete memories]] ^^of [time spent outdoors].^^ This [[efficiency]] [helps to explain] why a [[computer]] requires [several million times] [more energy] to [perform the same tasks]([[perform the task]]) as a [[human brain]] (which runs on about [as much power as]([[power]]) a dim [light bulb]).[3](((CYya7R5M4)))
 (大脑神经元以及记忆的运作方式并非是一个个单独的记忆单元的形式)
