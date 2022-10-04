@@ -1,4 +1,4 @@
-- converting data types
+- converting data types;
 - [[floating-point number]]; [[floats]]
     - [[decimal point]]
 - [[integer value]]; [[int]]
