@@ -90,6 +90,7 @@
     - public affair;
     - [[public service]]
     - public spending
+    - public sphere: 公共领域
     - public feelings
 - [[reform]]
 - [[revolution]]
