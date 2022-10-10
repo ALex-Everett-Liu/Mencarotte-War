@@ -17,7 +17,7 @@
     - [The solenoid valve](https://en.wikipedia.org/wiki/File:Pneumatic_Rack_and_Pinion_Actuators.JPG) (small black box [at the top of the photo]) with [input air line](((6VB3eft5s))) (small green tube) used to actuate a larger [[rack and pinion]] [[actuator]] (gray box) which controls the [water pipe valve](((b3NBK4uiU))). 
 210809-00:00
     - Pilot-Operated
-        - While there are multiple design variants, the following is a [detailed breakdown] of a typical [pilot-operated solenoid valve]. 先导型 They may use [[metal seal]]s or [[rubber seal]]s, 金属密封件 and may also have [[electrical interface]]s to [allow for easy control].
+        - While there are multiple design variants, the following is a [detailed breakdown] of a typical [pilot-operated solenoid valve]. 先导型 They may use [[metal seal]]s or [[rubber seal]]s, and may also have [[electrical interface]]s to [allow for easy control].
 - Common uses
     - Solenoid valves are used in [[fluid power]] [[pneumatic system]] and [[hydraulic system]]s, to control [[cylinder]]s, 气缸 [[fluid power motor]]s 液压马达 or larger [[industrial valve]]s. [Automatic irrigation sprinkler systems](((r1uk9HKog))) also use solenoid valves with an [[automatic controller]]. [domestic washing machines]([[washing machine]]) 家用洗衣机 and [[dishwasher]]s [use solenoid valves to control] water [entry into the machine]. 控制进水量 They are also often used in [paintball gun triggers] 彩弹枪触发器 to actuate the [CO2 hammer valve]. 锤阀 Solenoid valves are [usually referred to simply as] "solenoids."
 210809-05:48
