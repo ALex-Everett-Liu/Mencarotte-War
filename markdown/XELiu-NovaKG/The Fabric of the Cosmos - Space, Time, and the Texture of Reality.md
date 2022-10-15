@@ -1,7 +1,7 @@
 - [Source](https://en.jp1lib.org/book/683858/d5e958) #zlibrary
     - ![cosmos fabric-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F_CV0KexhJa.png?alt=media&token=f5adcfcd-2190-4b8b-b0bf-97f88d2a5f49)
     - ![b-ok/z-library-01](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2FD_O76p9yvY.png?alt=media&token=ebf394c0-5513-47c5-a858-fb80aad19751)
-    - related term; most frequently terms
+    - [[related term]]; most frequently terms
     - review
         - You can write a [[book review]] and [share your experiences]. Other readers [will always be interested in your opinion] of the books you've read. Whether you've [loved the book or not], if you [give your honest and detailed thoughts] then people will find new books that are right for them.
     - This is simply another great book on the cosmos by Brian Greene. I previously read Greene's book "The Elegant Universe" and I think at [enjoyed this one even more]. Greene [packs as enormous wealth of information] in his books. Quite frankly, [it takes me considerably longer to] read one of his books [than most other books I read] because of [the volume of new information]([[information volume]]) I am learning.
