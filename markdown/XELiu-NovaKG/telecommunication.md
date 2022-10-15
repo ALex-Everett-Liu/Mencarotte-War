@@ -8,7 +8,7 @@
     - [[radio communication]]
 - [[microwave engineering]]
     - [[microwave circuit]]
-- [[optical fiber]]; [[fiber optical cable]]; [[fiber]]; [[fibre]]; [[fibre optic telecommunication]]
+- [[optical fiber]]; [[fiber]]; [[fibre]]; 
 - [[radio engineering]]
     - [[radiowave circuit]]
     - [[radio frequency device]]

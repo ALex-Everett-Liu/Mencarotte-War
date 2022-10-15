@@ -1,7 +1,7 @@
 - [[anode]]: 阳极; [[cathode]]: 阴极
 - cable 
     - [[cable gland]]
-    - fiber optic cable; [[telecommunications cable]]
+    - fiber optic cable; [[fiber optical cable]]; [[telecommunications cable]]
     - [[electrical cable]]
 - [[capacitor]]
     - [[output capacitance]]

@@ -1,6 +1,7 @@
 - coupling of light into optical fibers
 - fibre channel
-- fiber optic cable; [[telecommunications cable]]
+- [[fibre optic telecommunication]]
+- fiber optic cable; [[fiber optical cable]]; [[telecommunications cable]]
 - [[fiber-optic sensor]]
 - multiplexed
     - time delay
