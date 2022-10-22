@@ -907,7 +907,7 @@
                     - penalty
                         - penalties;
                 - pend
-                    - pendular
+                    - pendular: 摆动的
                         - pendulum
                 - penetrant; penetrate; 渗透, 穿透, 刺入
                     - impenetrate
