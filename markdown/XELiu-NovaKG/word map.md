@@ -1317,7 +1317,7 @@
         - upheaval: 大变动, 剧变 
         - ut
             - utility: 利用; 实用工具; 公用事业;
-                - [[practical utility]];
+                - [[practical utility]]: 实际效用
                 - utilities;
                 - utilize
                     - utilized;
