@@ -114,4 +114,4 @@
         - In this case, you may need to [design and implement] a [custom inbox]. 
         - [This type of customization] may [require implementing] a custom inbox. 
         - [Figure 13] [starts the process to] [get the contents of] [Custom Inbox]. 
-- 柏拉图 地穴隐喻 
+- 
