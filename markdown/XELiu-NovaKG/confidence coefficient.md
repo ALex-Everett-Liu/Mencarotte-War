@@ -1,5 +1,5 @@
 - dictionary 
     - The article introduces a mothed to calculate the confidence coefficient in the range of different [instrument errors] and its application in [uncertainty evaluation]. dict.cnki.net
     - We can get its [estimating methods] separately and advance how to estimate [system variance] 系统方差 and confidence coefficient are problems that [need further researches].
-    - At the same time, the [regression equations] 回归方程 to acquiring, confidence coefficient are given.
+    - At the same time, the [[regression equation]]s to acquiring, confidence coefficient are given.
     - A rather accurate [approximation algorithm] of confidence coefficients of [asymmetric distribution error] and its [composite error] is put forward. 合成误差 www.[dictall].com
