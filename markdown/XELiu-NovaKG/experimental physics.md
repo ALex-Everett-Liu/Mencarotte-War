@@ -8,7 +8,7 @@
 - [[detector]]
 - [[environmental chamber]]
 - experimental design; experimental set-up: 实验装置
-- [[experimental result]]; outcome of the experiment; outcome of the measurement; [[outcome]]
+- [[experimental result]]; [[experimental consequence]]; outcome of the experiment; outcome of the measurement; [[outcome]]
 - experimental v.s. theoretical?
 - general...
     - testing

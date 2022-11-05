@@ -1,6 +1,6 @@
 - precision
 - predict the outcome
-    - [[experimental result]]; outcome of the experiment; outcome of the measurement; [[outcome]]
+    - [[experimental result]]; [[experimental consequence]]; outcome of the experiment; outcome of the measurement; [[outcome]]
     - predict with certainty
 - [[definite position]]; precise location; [[precise position]]
     - materialization; concrete position; 
