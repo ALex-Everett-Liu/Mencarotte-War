@@ -1,5 +1,5 @@
 - Query Pages
-    - queries/*
+    - discourse-graph/queries/*
 - Default Page Size
     - 10
 - Native Queries
