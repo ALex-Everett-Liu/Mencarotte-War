@@ -15,7 +15,7 @@
         - 测量矩阵
         - Coadds, 做平均的次数，一般为20次
         - Reference value, 对应标气的标准值
-        - 每校正一种气体后，都需点击 [Updata]
+        - 每校正一种气体后，都需点击 [Update]
             - 完成所有待校正气体后点击 [Save]
         - [The gains and offsets of gas concentrations] of the MBGAS- 3000 must be calibrated to ensure [[prediction accuracy]] and [minimize interferences between gases]
         - Change of FOV parameters, gas cell pressure or gas cell effective optical path length may modify the gains and offsets of the analyzer.
