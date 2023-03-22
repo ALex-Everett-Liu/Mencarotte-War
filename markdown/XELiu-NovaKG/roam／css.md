@@ -1,6 +1,6 @@
 - general...
     - Railscast dark theme for Roam Research
-        - ```javascript
+        - ```css
 @import url('https://jmharris903.github.io/Railscast-for-Roam-Research-Theme/RailsRoam.css');```
     - Caesar
         - ```javascript
@@ -15,6 +15,42 @@ body {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
+}```
+    - grid background
+        - ```css
+/* from blue-topaz */
+/*.theme-dark {
+  --bg-color-notebook: #2a2825;
+  --grid-notebook-line-color-1: #c7c7c71f;
+  --grid-notebook-line-color-2: #74747440;
+  --dotted-notebook-dot-color: #c7c7c71f;
+}
+.theme-light {
+  --bg-color-notebook: #fef9f1;
+  --grid-notebook-line-color-1: #c7c7c740;
+  --grid-notebook-line-color-2: #afafaf40;
+  --dotted-notebook-dot-color: #c7c7c780;
+}*/
+:root {
+  --bg-color-notebook: #2a2825;
+  --grid-notebook-line-color-1: #c7c7c71f;
+  --grid-notebook-line-color-2: #74747440;
+  --dotted-notebook-dot-color: #c7c7c71f;
+}
+
+/*notebook background*/
+body {
+    /*  background: #2a2825;*/
+    /*  background: var(--bg-color-notebook);*/
+    /*  background-attachment: local !important;*/
+    background-image:
+     linear-gradient(var(--grid-notebook-line-color-2) 1px, transparent 0),
+     linear-gradient(90deg, var(--grid-notebook-line-color-2) 1px,transparent 0),
+     linear-gradient(var(--grid-notebook-line-color-1) 1px,
+     transparent 0),
+     linear-gradient(90deg,var(--grid-notebook-line-color-1) 1px,
+     transparent 0);
+    background-size: 75px 75px, 75px 75px, 15px 15px, 15px 15px;
 }```
     - **page border (OPAQUE PAGE CONTAINER)** #[[page container]]
         - ```javascript
