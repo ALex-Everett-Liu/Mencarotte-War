@@ -187,7 +187,7 @@ https://www.ywpic.com/41335.html
                     - 建议去看下[女子田径比赛][在油管的播放量]
 - parallel...
     - metropolis career record - test
-        - mansion, hotel, office, shopping; dinner, lunch, morning; family, jiuxi32, business
+        - mansion, hotel, office, shopping; dinner, lunch, morning; family, 酒席 jiuxi32, business
         - 2022
             - {{[[table]]}}
                 - N/A
