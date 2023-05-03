@@ -115,3 +115,4 @@
         - [This type of customization] may [require implementing] a custom inbox. 
         - [Figure 13] [starts the process to] [get the contents of] [Custom Inbox]. 
 - #transfered
+- 
