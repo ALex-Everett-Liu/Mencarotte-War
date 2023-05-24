@@ -30,8 +30,12 @@
     - [[收集极]]
 - ---
 - Wiki
-    - 气相色谱仪--
-[载气]将[样品]带入[色谱柱]-将样气置于[流动相载气]中，[再通入稳定相中](((DEilzCLTQ)))
+    - Gas chromatography (GC) is a common type of [[chromatography]] used in [[analytical chemistry]] for [separating and analyzing compounds](((hynQPQXN9))) that [can be vaporized without decomposition]. 无需分解即可蒸发 Typical uses of GC include [testing the purity of a particular substance]([[purity]]), 测试物质的纯度 or [separating the different components](((TpS-djW7A))) of a [[mixture]].[1] In [[preparative chromatography]], 制备色谱仪 GC can be used to [[prepare pure compounds]] from a mixture.[2][3]
+        - Gas chromatography is also sometimes known as [[vapor-phase chromatography (VPC)]], or [[gas–liquid partition chromatography (GLPC)]]. These [alternative names], as well as their [respective abbreviations], are frequently used in [[scientific literature]].[2]
+        - Gas chromatography is the process of [separating compounds in a mixture] by injecting __[a gaseous or liquid sample]__ into a [[mobile phase]], typically called the [[carrier gas]], and [passing the gas through] a [[stationary phase]]. The mobile phase is usually an [[inert gas]] or an [[unreactive gas]] such as helium, argon, nitrogen or hydrogen.[1] 
+            - The stationary phase is [a microscopic layer of] [[viscous liquid]] [on a surface of] [[solid particle]]s on an [[inert solid support]] [inside a piece of glass] or [metal tubing] called a [[column]].[4] [The surface of the solid particles] may also [act as the stationary phase] in some columns.[4] [The glass or metal column] [through which the gas phase passes] is located in an [[oven]] where [the temperature of the gas]([[gas temperature]]) can be controlled and the [[eluent]] [coming off the column] is monitored by a [[computerized detector]].[1]
+([载气]将[样品]带入[色谱柱]-将样气置于流动相载气中，再通入稳定相中-稳定相：固定粒子表面上的粘稠液体)
+210724-10:50
     - History
         - Chromatography dates to 1903 in the work of the Russian scientist, Mikhail Semenovich Tswett,[5] who separated [[plant pigment]]s via [liquid column chromatography]. German physical chemist Erika Cremer in 1947 together with Austrian graduate student Fritz Prior developed the [theoretical foundations] of GC and built the first [liquid-gas chromatograph], but her work was [deemed irrelevant] and was [ignored for a long time].[6] English chemists Archer Martin and Richard Synge received a [[Nobel Prize]] in 1952 for the invention of [[partition chromatography]] in the 1940s, [laying the foundations of] gas chromatography.[7] The popularity of gas chromatography quickly rose [after the development of] the [[flame ionization detector (FID)]].[8]
     - GC analysis
