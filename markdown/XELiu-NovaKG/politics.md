@@ -14,7 +14,7 @@
     - [[candidate]]
     - [[crowd]]; [[wisdom of the crowd]]
     - [[popularity contest]]: 人气竞赛
-    - [[the tyranny of the majority]]
+    - [[tyranny of the majority]]
     - [[unpopular position]]
     - [[vote]]
     - weight conflicting opinions;
