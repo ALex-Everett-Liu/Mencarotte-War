@@ -6,7 +6,7 @@
 210523-19:17
         - Tracker 更新 1.5 版本，现在你可以根据 Dataview 的[检索数值][生成对应的线条图]或者[圆形图]了。
         - Obsidian-5e-statblocks
-如下图，[龙与地下城跑团][必备](https://www.zhihu.com/pin/1379427044988698624)。 #pt10-99.99
+如下图，[龙与地下城跑团][必备](https://www.zhihu.com/pin/1379427044988698624)。 #pt10-99.99 #transfered
     - [Obsidian 插件推荐（四）](https://zhuanlan.zhihu.com/p/362853550)
         - ### Word Splitting for Simplified Chinese in Edit Mode
             - 当前[这款插件](http://link.zhihu.com/?target=https%3A//github.com/alx-plugins/cm-chs-patch)的功能如其名称英文的直译，就是一款[分词插件]，为了解决我们[在编辑模式下]，[双击选择文字]的时候，只能[选中一整个句子]的问题。
@@ -14,7 +14,6 @@
             - 如果你有在 Obsidian 内[预览视频]的需求，如果你喜欢[对视频做笔记]，而且希望在 Obsidian 看笔记的同时可以[快速地预览]笔记对应的时间内容；如果你希望自己可以对[视频的制作][做出评价]，而且插入到 [Mermaid 表格]中，或者希望随时记录自己的[视频阅览记录]。
         - ### 总结
             - 随着[插件 API] 的[日渐完善]，在 Obsidian 中实现大多数人的[形态各异的工作流][已经不是梦想]，接下来[可以预见的]还有类似 Persona 这种用于[知识对话]的插件、更优秀的[图谱插件] Juggl ，当这些插件[释出]，也许又是一个 Obsidian 社区的[振奋剂]，后会有期。 #pt9-99.99
-    - 正如它后边附带的 JS 所言，DataviewJS 在[扩展了本身的函数能力](https://zhuanlan.zhihu.com/p/373623264)的基础上，获得了所有 [API 相关的操作权限]以及几乎完全的 Javascript 能力。接下来先介绍 DataviewJS [已经封装好的几个主要显示函数]（目前[仅能通过这些函数来][显示对应的参数]）。 #pt9-99.99
     - [Obsidian 第三方插件威廉推荐单第002期/共8款（包含一款必备 CSS）](https://zhuanlan.zhihu.com/p/363522207) #pt9
     - Journey - 查找两个笔记之间的链接关系 -- 查找[两个笔记文件之间的][链接关系](https://zhuanlan.zhihu.com/p/368487154), 包含中间的链接节点. #pt8-99.99
     - 在Obsidian中[构建好图谱后](https://zhuanlan.zhihu.com/p/392547929)，我们可以通过Obsidian的[Journey插件]来模拟知识图谱的[路径搜索][1]，从而挖掘笔记间的[深层联系]。比如，我想知道a和z间的[关系情况]，那我只需在 Journey 插件中以a为起点、以z为终点[进行搜索]即可： #pt8-99.97
