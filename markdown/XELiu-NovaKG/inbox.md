@@ -118,7 +118,7 @@
 - [[TODO]]
 - [[伐清 (Faqing)]]
 - [[thermostat]]
-- 
-- 
+- [[portable device]]
+- [[wearable technology]]
 - 
 - 
