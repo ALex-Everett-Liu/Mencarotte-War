@@ -120,5 +120,11 @@
 - [[thermostat]]
 - [[portable device]]
 - [[wearable technology]]
-- 
+- [[pre-processing technique]]
+- [[Data Acquisition and Handling System (DAHS)]]
+- [[PID controller]]
+- [[confidence interval (CI)]]
+- [[plumbing fixture]]
+- [[set point]]
+- [[tank]]
 - 

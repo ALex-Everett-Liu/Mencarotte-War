@@ -3,7 +3,7 @@
 - flange guard
 - [[flange-mounted]]
 - ---
-- A flange is a [protruded ridge], lip or rim, 凸出的脊、唇或边缘 either external or internal, that serves to [increase strength] (as the flange of an [[iron beam]] 铁梁 such as an I-beam or a T-beam); 工字梁或T形梁 for [easy attachment]/transfer of [[contact force]] [with another object] (as the flange [on the end of a pipe]([[pipe]]), [[steam cylinder]], etc., or on the [[lens mount]] of a camera); or for [stabilizing and guiding the movements of a machine] or its parts (as the [inside flange] of a [rail car] or [tram wheel], 有轨电车车轮 which keep the wheels from [running off the rails]). The term "flange" is also used for [a kind of tool used to] [form flanges].
+- A flange is a [protruded ridge], lip or rim, 凸出的脊、唇或边缘 either external or internal, that serves to [increase strength] (as the flange of an [[iron beam]] 铁梁 such as an I-beam or a T-beam); 工字梁或T形梁 [for easy attachment/transfer of] [[contact force]] [with another object] (as the flange [on the end of a pipe]([[pipe]]), [[steam cylinder]], etc., or on the [[lens mount]] of a camera); or for [stabilizing and guiding the movements of a machine] or its parts (as the [inside flange] of a [rail car] or [tram wheel], 有轨电车车轮 which keep the wheels from [running off the rails]). The term "flange" is also used for [a kind of tool used to] [form flanges].
 220115-05:25
     - [Railway wheel](https://en.wikipedia.org/wiki/File:TreinTramwielprofiel.svg) flange (left)
 Tram wheel flange (right)
