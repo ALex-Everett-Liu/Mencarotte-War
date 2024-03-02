@@ -10,7 +10,7 @@
     - # [Ejector Pump](https://showcase.ulvac.co.jp/en/how-to/product-knowledge02/jet.html)
         - ## What is an Ejector Pump?
             - An ejector pump [ejects vapor or steam], such as an [oil diffusion pump]. 油扩散泵
-            - A steam ejector pump is [one of the most versatile] [[vacuum pump]]s [in industrial ways]. Its advantages over [mechanical vacuum pumps] are durability, low cost, and more. This article picks an oil ejector pump up. Other types, for instance, steam ejector type and water ejector type, are on other articles. Check them up!
+            - A steam ejector pump is [one of the most versatile] [[vacuum pump]]s [in industrial ways]. Its advantages over [mechanical vacuum pumps] are [[durability]], low cost, and more. This article picks an [oil ejector pump] up. Other types, for instance, [steam ejector type] and [water ejector type], are on other articles. Check them up!
         - 使用蒸汽作为[运作流体]的泵被称为蒸汽（蒸汽）喷射泵，是具有代表性的泵。价格也比机械真空泵便宜。一大特点是没有[活动部件]，因此与机械真空泵相比[没有损坏的风险]。
 - ---
 - 喷射泵是一种[流体动力泵]。流体动力泵没有[机械传动]和[机械工作构件]，它借助[另一种工作流体的能量]做[动力源]来[输送低能量液体]，用来[抽吸易燃易爆的物料]时具有良好安全性。喷射式真空泵是利用通过[喷嘴的高速射流]来[抽除容器中的气体]以获得真空的设备，又称射流真空泵。在化工生产中，常以[产生真空]为目的。
