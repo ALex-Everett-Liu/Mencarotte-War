@@ -49,7 +49,7 @@
             - § [Make provision for] [adequate air circulation] [around the analyzer]. 充分的气体循环。
         - Installation utilities p9
         - Installation gas sample lines #[[sample line]]
-            - Ensure there are no [cold spots] in the complete [[sampling system]].
+            - Ensure there are no [[cold spot]]s in the complete [[sampling system]].
     - Instrument calibration
         - Frequency required
     - Maintenance and Service

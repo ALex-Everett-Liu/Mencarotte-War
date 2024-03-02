@@ -127,4 +127,5 @@
 - [[plumbing fixture]]
 - [[set point]]
 - [[dew point]]
-- 
+- [[flue gas]]
+- [[solid waste]]
