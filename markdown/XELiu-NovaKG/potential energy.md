@@ -1,5 +1,5 @@
 - [[bound system]]
-    - [[[[bound state]]]]
+    - [[bound state]]
     - confined spatially;
 - [[free particle]]
 - [[negative potential energy]]
