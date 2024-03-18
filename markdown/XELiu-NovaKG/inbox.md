@@ -131,4 +131,7 @@
 - [[solid waste]]
 - [[map modding]]
 - [[energy level]]
-- [[wavelength band]]
+- [[brightness]]
+- 
+- 
+- 
