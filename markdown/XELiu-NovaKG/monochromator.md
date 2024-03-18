@@ -1,6 +1,6 @@
 - A monochromator is an [[optical device]] that transmits a mechanically selectable [[narrow band]] of wavelengths of light or other radiation [chosen from a wider range of wavelengths] available at the input. [The name is from] the [Greek roots] __mono-__, "single", and __chroma__, "colour", and the [Latin suffix] __-ator__, denoting an agent.
 - Uses
-    - A device that can produce monochromatic light has many uses in science and in optics because many optical characteristics of a material are dependent on wavelength. Although there are a number of useful ways to select a narrow band of wavelengths (which, in the visible range, is perceived as a pure color), there are not as many other ways to easily select any wavelength band from a wide range. See below for a discussion of some of the uses of monochromators.
+    - A device that can produce [[monochromatic light]] [has many uses in science and in optics] because [many optical characteristics of a material] are [dependent on wavelength]. [Although there are a number of useful ways to] [select a narrow band of wavelengths] (which, in the [[visible range]], is perceived as a [[pure color]]), [there are not as many other ways to] easily [select any wavelength band from a wide range]([[wavelength band]]). See below for a discussion of some of the uses of monochromators.
     - In hard X-ray and neutron optics, crystal monochromators are used to define wave conditions on the instruments.
 - ## Techniques
     - 

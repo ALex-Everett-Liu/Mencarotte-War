@@ -32,7 +32,7 @@
     - UV lamp;
     - [[ultraviolet-visible spectroscopy (UV-Vis)]]; UV–vis spectrometer; UV–vis absorption spectroscopy
     - [[vacuum ultraviolet (VUV)]]
-- [[visible light]]; visible frequency; visible-frequency; [[visible spectrum]]; visible band; visible range; [[visible region]] - 380~780 nm 
+- [[visible light]]; visible frequency; visible-frequency; [[visible spectrum]]; visible band; [[visible range]]; [[visible region]] - 380~780 nm 
 - non-visible band;
 - [[output spectrum]]
 - [[radio]]; [[radio wave]]; [[radio band]]
