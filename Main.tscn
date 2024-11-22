@@ -1,0 +1,25 @@
+[gd_scene load_steps=5 format=3 uid="uid://du0l0kxldnni8"]
+
+[ext_resource type="Script" path="res://main.gd" id="1_4uef7"]
+[ext_resource type="PackedScene" uid="uid://cvtq3t0lvcb8" path="res://Player.tscn" id="2_gexsu"]
+[ext_resource type="PackedScene" uid="uid://gr7nxajcuxxb" path="res://Obstacle.tscn" id="3_7wr4x"]
+[ext_resource type="Script" path="res://grid.gd" id="4_jux5s"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_4uef7")
+
+[node name="Player" parent="." instance=ExtResource("2_gexsu")]
+position = Vector2(66, 76)
+scale = Vector2(5, 5)
+input_pickable = true
+
+[node name="Obstacle" parent="." instance=ExtResource("3_7wr4x")]
+position = Vector2(437, 223)
+disable_mode = 1
+input_pickable = true
+
+[node name="Obstacle2" parent="." instance=ExtResource("3_7wr4x")]
+position = Vector2(717, 99)
+
+[node name="Grid" type="Node2D" parent="."]
+script = ExtResource("4_jux5s")
