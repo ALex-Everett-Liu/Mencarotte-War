@@ -1,4 +1,0 @@
-- [[continuous function]]
-- [[cs/argument]]: 自变量, 参数; function argument; 
-    - [[commandline argument]]
-- [[original function]]

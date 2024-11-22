@@ -1,5 +1,0 @@
-- dictionary 
-    - The how of virtues and vices, is now [essentially described]. 善恶观; 美德和恶习 provided by [[jukuu]]; www.[jukuu].com
-    - All the [[candidate]]s [have their virtues and vices]. 
-    - He swept away 置之度外 the virtues and the vices, the [established laws] of [good and evil]. www.[dictall].com
-    - Animals are [nothing else than] [the figures of our virtues and our vices], [straying before our eyes], 游荡 the [visible phantoms]([[phantom]]) of our [[soul]]s. 鬼影 www.[[ebigear]].com

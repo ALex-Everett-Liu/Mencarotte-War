@@ -1,2 +1,0 @@
-- [[broad band]]
-- [[narrow band]]

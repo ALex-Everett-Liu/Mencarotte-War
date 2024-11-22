@@ -1,2 +1,0 @@
-- Chrome-based browser;
-- [[Chrome Extension]]

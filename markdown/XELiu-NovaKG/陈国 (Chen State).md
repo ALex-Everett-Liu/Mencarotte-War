@@ -1,2 +1,0 @@
-- [[虞胡公 (Yuhugong)]]
-- [[陈惠公 (Chen Huigong)]]

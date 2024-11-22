@@ -1,9 +1,0 @@
-- [[maintain]]; [[maintenance]]
-- [[package]]
-- [[personal use]]
-- release publicly;
-- [[trial]]
-- test
-    - pressure-test
-    - [[script test]]
-- [[update]]

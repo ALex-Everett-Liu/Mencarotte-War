@@ -1,1 +1,0 @@
-- [[翡翠のまち (hisui no machi)]]

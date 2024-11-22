@@ -1,2 +1,0 @@
-- [[Bear worship]]; [[Bear Festival]]
-- [[tiger worship]]

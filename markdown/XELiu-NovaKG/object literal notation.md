@@ -1,6 +1,0 @@
-- dictionary 
-    - Listing 8 [shows the complete example of] the [Gallery object] using [[literal notation]]. www.[[ibm]].com
-    - To [create an object] [using literal notation], [you simply need to] [assign a variable to](((hz_qLhh41))) [opening and closing curly brackets]([[curly bracket]]), 大括号 as shown in Listing 5. 
-    - [The only drawback to] 缺点 objects that use the [Object function] or literal notation is that you cannot [instantiate them multiple times]. 实例化
-    - [Another difference between] [using the Object function] and literal notation is that you don't have to [define properties and methods] [using the object name] before each one. 
-    - The Object function and literal notation are similar, and [the choice of which one to use] is really [based on the preference of the developer]. 

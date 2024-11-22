@@ -1,5 +1,0 @@
-- [[dispersive infrared spectrometer]]
-- dictionary
-    - [Preliminary Study] 初探 of [Comparative Experimental Teaching Approach] in [Scanning Electron Microscope] and [Energy Dispersive Spectrometer] for Undergraduates. www.[dictall].com
-    - Analysis of inkstones 砚石 by [x-ray energy dispersive spectrometer] (X-ray wave length dispersive spectrometer). dict.cnki.net
-    - Energy dispersive spectrometer 能谱分析 shows that TiN are [uniformly dispersed in] [cordierite matrix]. 复合粉体 www.[ccisn].com.cn

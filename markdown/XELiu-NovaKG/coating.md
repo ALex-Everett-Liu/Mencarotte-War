@@ -1,2 +1,0 @@
-- [[optical coating]]
-- [[reflective coating]]

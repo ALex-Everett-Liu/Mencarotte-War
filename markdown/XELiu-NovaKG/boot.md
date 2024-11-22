@@ -1,7 +1,0 @@
-- [[short boot]]
-- [[black boot]]
-    - [[black middle boot]]
-- [[black wedge boot]]
-- brown wedge boot
-    - [[brown wedge short boot]]
-- [[white wedge boot]]

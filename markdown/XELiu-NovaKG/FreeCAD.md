@@ -1,2 +1,0 @@
-- report view
-    - [ODA file converter] (formerly Teigha) not found, [[DWG]] support is disabled.

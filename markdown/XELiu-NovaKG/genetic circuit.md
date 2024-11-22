@@ -1,6 +1,0 @@
-- dictionary 
-    - We wanted to know why two viruses would [behave differently] than a single virus, given that the [infecting viruses] possess the same [genetic decision circuit]. 基因决定通路 news.dxy.cn
-    - The genetic circuit formed by [the interaction between gene and protein (enzyme)] is the [nonlinear interaction mechanism] shown by the [[order parameter]] [in the form of network]. dict.cnki.net
-    - Study of [Genetic Algorithm Method] for [Circuit Test Generation]
-    - Applying [Genetic Algorithm] in [Nonlinear Circuit Envelope Simulation] 包络仿真
-    - [Hybrid genetic algorithm] for solving [circuit partitioning problem] 划分问题

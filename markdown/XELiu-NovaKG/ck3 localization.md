@@ -1,2 +1,0 @@
-- localization\simp_chinese\custom_titles_l_simp_chinese.yml (b-009)
-- ParaTanz 云汉化平台

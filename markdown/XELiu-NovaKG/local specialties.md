@@ -1,6 +1,0 @@
-- dictionary
-    - [You can profit by] buying and [freezing local produce] when plentiful. 大量上市 provided by jukuu
-    - [Clark University in New England] [serves local produce and dairy], 乳制品 and [has a nutritionist on staff] who students can meet with free of charge. 免费咨询 www.[ebigear].com
-    - They are [buying local products]. www.[dictall].com
-    - Wherever the fleet went, 船队所到之处 it [traded products from China] for [local rarities] and promoted official trading relations. www.[hjenglish].com
-    - In the [scenic spots], [it is common that] even the [uneducated people] [can make a living] simply by [selling souvenirs], [local specialties] and so on, which [relieves the pressure of] [local government]. edu.21cn.com

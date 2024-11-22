@@ -1,4 +1,0 @@
-- 立方角镜/立体角镜 - 做工非常精密，需要保证垂直度 - 使得入射光射入再返回，两束光能够产生干涉
-- 动镜摆动使得入射光线不垂直镜面，反射光线与入射光线不平行 - 环境温度变化和外界机械振动也会对反射镜产生干扰
-    - 消除[动镜倾斜]的影响，无需对定镜进行[动态调整]
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FXELiu-NovaKG%2F1CYE_GWWTa.png?alt=media&token=57da85cc-ed56-45e0-bc01-f14d8cd1bbe5)

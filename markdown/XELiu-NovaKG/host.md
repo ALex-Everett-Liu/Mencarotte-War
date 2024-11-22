@@ -1,3 +1,0 @@
-- [[hosted site]]
-- [[localhost]]
-- [[mandatory]];

@@ -1,3 +1,0 @@
-- [[dynamic random-access memory (DRAM)]]
-- [[ferroelectric RAM]]
-- my RAM -- 16.0 GB at 202011

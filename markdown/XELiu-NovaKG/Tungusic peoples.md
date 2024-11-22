@@ -1,2 +1,0 @@
-- [[Nivkh people]]
-    - [[Gilemi (吉里迷)]]

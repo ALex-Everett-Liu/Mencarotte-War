@@ -1,7 +1,0 @@
-- [[contact]]; contact us
-    - [[feedback]]
-    - respond; 
-    - [[support team]]; [[support email]]; [[support portal]]
-        - [[priority support]]
-- [[user account]]
-- [[user data]]; customer data

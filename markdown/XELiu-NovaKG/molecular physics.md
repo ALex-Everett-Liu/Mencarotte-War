@@ -1,8 +1,0 @@
-- calculating the energy of molecules;
-- [[linear molecule]]
-- [[nonlinear molecule]]
-- [[molecular energy level]]
-- [[molecular geometry]]
-- [[molecular structure]]
-- [[polar molecule]]
-    - [[non-polar molecule]]

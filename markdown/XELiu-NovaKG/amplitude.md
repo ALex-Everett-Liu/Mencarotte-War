@@ -1,2 +1,0 @@
-- [[amplitude level]]
-- [[constant amplitude]]

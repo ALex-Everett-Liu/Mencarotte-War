@@ -1,6 +1,0 @@
-- Abraham–Minkowski controversy
-    - Abraham form
-    - Minkowski form
-- [[average Poynting vector]]
-- [[Poynting's theorem]]
-    - [[continuity equation]]

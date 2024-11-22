@@ -1,5 +1,0 @@
-- ethnic group
-- [[ethnic origin]]
-- [[ethnicity]]: 种族划分
-- [[ethnonym]]; 
-- [[stock]]: 血统

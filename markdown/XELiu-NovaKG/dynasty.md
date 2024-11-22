@@ -1,3 +1,0 @@
-- [[breeding]]
-- [[descendant]]
-- [[inherit]]

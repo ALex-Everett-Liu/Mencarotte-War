@@ -1,6 +1,0 @@
-- dictionary 
-    - [[postfix notation]] 后缀表示法 is also known as [[reverse Polish notation (RPN)]] and is commonly used because it [enables easy evaluation of expressions](((Y6gIj10_f))). www.[[ibm]].com
-    - Remember struggling with reverse Polish notation on your first [scientific calculator]? 
-    - Analysis and [Program Design] and Compare about Two Algorithms on Reversed Polish Notation. dict.cnki.net
-    - This article discusses the problem about reversed polish notation in [inverted file retrieval technique] 倒排文档检索技术 for [full text retrieval]; 
-    - RANDOM NOTES OF POLAND The transform of Polish notation and inverse Polish notation in [arithmetic expression] 

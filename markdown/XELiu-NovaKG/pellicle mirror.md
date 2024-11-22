@@ -1,8 +1,0 @@
-- non-coincident weak second reflection; 非重合
-- non-reflecting surface; 
-- ---
-- A pellicle mirror is an ultra-thin, ultra-lightweight [[semi-transparent mirror]] employed in the [[light path]] of an [[optical instrument]], [splitting the light beam into] [two separate beams], both of reduced [[light intensity]]. [Splitting the beam] [allows its use for multiple purposes simultaneously]. ^^[The thinness of the mirror] [practically eliminates] 实际上消除了 [beam or image doubling] due to^^ a [non-coincident weak second reflection](((w1SxdiT__))) from [the nominally non-reflecting surface](((PXku4dbev))), 名义上 a problem with [mirror-type beam splitters].[1] The name pellicle is a diminutive of pellis, a skin or film.
-211227-00:15
-- ## In photography
-    - In [[photography]], the pellicle mirror has been employed in [[single-lens reflex camera (SLR)]]s, [at first to enable] [through-the-lens exposure measurement] and possibly to reduce [[camera shake]], [but later most successfully to enable] [fast series photography](((2Kpb04njX))), which otherwise would be slowed down by the movement of the reflex mirror, while maintaining constant finder vision.[2]
-    - The first use of pellicle mirrors for consumer photography however were in color separation cameras. The Devin Tricolor Camera from at least the 1938 version used two pellicle mirrors plus three color filters to split the image from a single lens into three images of the three additive primary colors.[1] Pellicle mirrors are ideal for this purpose, even today, since they are lighter and cheaper than an optical block of dichroic prisms, which would be heavy and expensive for large, high resolution film or plates.

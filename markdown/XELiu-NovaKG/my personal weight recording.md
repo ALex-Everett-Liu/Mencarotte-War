@@ -1,2 +1,0 @@
-- others?
-    - mobile phone (OnePlus 6T) -- 0.2 kg -- 20201214

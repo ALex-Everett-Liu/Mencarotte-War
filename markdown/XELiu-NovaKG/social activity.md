@@ -1,8 +1,0 @@
-- chat
-    - walk-and-talk chat
-- humor...
-    - play-on-words joke
-- relationship...
-    - [[college roommate]]
-- social awareness
-- social interaction

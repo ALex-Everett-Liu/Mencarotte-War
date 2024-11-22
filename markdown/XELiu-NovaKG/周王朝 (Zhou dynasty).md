@@ -1,5 +1,0 @@
-- original source; 史料
-    - [[国语 (Guoyu)]]
-- 戎人 [[西戎 (West Rong)]]
-- #inbox
-    - 

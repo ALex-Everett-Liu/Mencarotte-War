@@ -1,2 +1,0 @@
-- [[button press]]; press the button
-- [[insensitive button]]

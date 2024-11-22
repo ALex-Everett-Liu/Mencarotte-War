@@ -1,6 +1,0 @@
-- [[dew point]]
-- [[freezing point]]; [[freezing]]
-- [[humidity]]
-- [[moisture]]
-- [[water vapor]]
-    - saturated with water vapor; 

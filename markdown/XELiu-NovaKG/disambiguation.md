@@ -1,7 +1,0 @@
-- [[disambiguation page]]
-- dictionary 
-    - 消歧义; aimai wo kaihisa
-    - an offensively ambiguous answer; 恼人的
-    - assume an ambiguous attitude;
-    - His reply was [full of ambiguities]. 暧昧不清的回复 《汉英大词典》
-    - Can [ambiguous feeling] also have so horrible? 百度翻译例句库

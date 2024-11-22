@@ -1,2 +1,0 @@
-- first approximation
-- [[linear approximation]]

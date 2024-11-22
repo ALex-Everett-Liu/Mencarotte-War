@@ -1,3 +1,0 @@
-- [[pressure wave]]
-    - [[compression wave]]
-    - compression and expansion of the material

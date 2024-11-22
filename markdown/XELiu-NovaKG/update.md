@@ -1,3 +1,0 @@
-- continuous update; constantly updated
-- [[receive update]]; 
-- save-breaking update; 

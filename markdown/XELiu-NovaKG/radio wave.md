@@ -1,8 +1,0 @@
-- [[radiowave circuit]]
-- ---
-- dictionary 
-    - More and more TV and [[radio station]]s are [crowding the airwaves]. 《牛津高阶英汉双解词典》
-    - Their [[instrument]]s [detected very faint radiowaves] [at a frequency of 3 kilohertz]. 微弱 《柯林斯高阶英汉双解学习词典》
-    - For me, a performance is in front of a [[microphone]], over the [[radio]], to an unseen audience 
-    - Sound waves, light waves, and radio waves [have a certain frequency], or [number of waves per second]. 
-    - He used [[water wave]]s [as an example to] [illustrate the nature of] radio waves. 《外研社英语同义词辨析词典》

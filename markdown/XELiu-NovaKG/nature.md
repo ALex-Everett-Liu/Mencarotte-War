@@ -1,2 +1,0 @@
-- [[natural science]]
-- [[natural world]]

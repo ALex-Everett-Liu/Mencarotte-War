@@ -1,2 +1,0 @@
-- [[coordinate axis]]
-- [[coordinate system]]

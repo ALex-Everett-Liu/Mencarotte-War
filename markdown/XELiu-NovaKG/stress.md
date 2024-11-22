@@ -1,3 +1,0 @@
-- [[elasticity]]
-- [[stress–strain curve]]
-    - [[slope]]

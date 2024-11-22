@@ -1,3 +1,0 @@
-- [[black stocking]] (64)
-- [[flesh stocking]]
-- [[white stocking]]

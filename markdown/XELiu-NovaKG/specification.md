@@ -1,2 +1,0 @@
-- [[ATX specification]]
-- in spec: 符合规格; 

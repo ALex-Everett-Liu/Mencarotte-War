@@ -1,3 +1,0 @@
-- [[Rayleigh scattering]]
-- [[scattering coefficient]]
-- [[stray light]]

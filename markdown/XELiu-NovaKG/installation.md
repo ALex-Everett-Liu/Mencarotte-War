@@ -1,2 +1,0 @@
-- [[electrical installation]]
-- [[installation cost]]

@@ -1,4 +1,0 @@
-- [[aircraft]]: 航空器
-    - [[flying machine]];
-    - plane; airplane 
-        - [[airport]]

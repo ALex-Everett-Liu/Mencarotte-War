@@ -1,6 +1,0 @@
-- dictionary
-    - [India should butt out of Tibet] 别管闲事 and [mind its own business] in the South Asian subcontinent. www.[dictall].com
-    - [A new chapter in] the South Asian subcontinent was [opened with the independence of] India and [the establishment of Pakistan] in August, 1947. www.[fabiao].net
-    - A native or inhabitant of Hindustan or India.
-    - A member of a [Dravidian people] [living on the SW coast of] India.
-    - [The growing importance of] the subcontinent for [wealth managers] is underlined by [the findings of the report]. 突显了 www.[ftchinese].com

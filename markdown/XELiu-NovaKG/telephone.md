@@ -1,2 +1,0 @@
-- [[cellular telephone]]
-- [[mobile phone]]

@@ -1,5 +1,0 @@
-- dictionary
-    - First, I said we 我觉得 put [the glowy thing] 发光物 in the mass spectrometer www.[keke].com
-    - a Geiger counter, a scintillation counter, 闪烁计数器 a mass spectrometer, microscopes.
-    - If we want to use [a really sensitive, fancy instrument] 先进的 called a mass spectrometer,
-    - The final stages, when I [ran the samples through] [a high-pressure liquid chromatography mass spectrometer], which [separated the compounds] and [analyzed the chemicals] and [told me exactly how much] carcinogens 致癌物 I had [in my chicken]. www.[enread].com

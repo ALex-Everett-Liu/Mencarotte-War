@@ -1,2 +1,0 @@
-- ---
-- [[A complete beginner’s guide to Computer Programming with Clojure]]

@@ -1,5 +1,0 @@
-- dictionary 
-    - [QoS control] based on two ends for [streaming media on Internet]. www.[dictall].com
-    - The Implementation of [Embedded Stream Media Player] [Based on ARM] 
-    - Research on [collaborative resource strategy] 协同调度 for [video transmission] over [wireless Mesh network] 
-    - Research on [Transmission QoS] of Streaming Media Based on [Delay Jitter] 延迟抖动

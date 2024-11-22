@@ -1,1 +1,0 @@
-- The [[Electronic Flow Control Valve (EFCV)]] is an innovative [[flow control valve]] with pressure-compensation capability. The EFCV distinguishes itself from other traditional flow control valves because of its embedded [[sensor]]s and [[microcontroller]] that [have been integrated into the valve].

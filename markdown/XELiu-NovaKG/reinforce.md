@@ -1,5 +1,0 @@
-- dictionary 
-    - They reinforce one another. 相互补充, 加强   www.[dictall].com
-    - In real life, [Kushner] argues for [a politics of solidarity], 团结 in which [different people]'s [fights against oppression] [overlap and reinforce] one another. word.[hcbus].com
-    - One [[technique]] to understand [priorities]([[priority]]) is to look at how [[pain point]]s and [[root cause]]s are emphasized [at the different levels] in the [[organization]], and [how well] they reinforce one another. www.[[ibm]].com
-    - Each of these [sculptural installations], which [collectively reinforce one another] 相互辉映 even as they successfully stood alone, [filled the gallery with] chilling haziness and premonitions. 朦胧的清冷感和一丝丝难以言喻的预感 www.[ccarting].com

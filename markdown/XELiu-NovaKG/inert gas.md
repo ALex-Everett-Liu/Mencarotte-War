@@ -1,4 +1,0 @@
-- dictionary
-    - A small [[microwave generator]] [at the base of the bulb]([[bulb]]) [bombards the inert gas], heating it. 轰击 www.[keke].com
-    - He says [saturation diving technology] [enables human beings to] [withstand high water pressure] by [saturating human tissue with] inert gas. 
-    - Neon is one of the [[noble gas]]es and one of only six elements that's inert. Odorless, colorless, and almost completely nonreactive, neon was [found along with] other noble gases argon and krypton. 

@@ -1,3 +1,0 @@
-- [[conserved current]]
-- conserved in time; 
-- [[continuity equation]]

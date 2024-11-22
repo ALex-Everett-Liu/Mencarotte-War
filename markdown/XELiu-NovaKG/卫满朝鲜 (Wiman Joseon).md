@@ -1,3 +1,0 @@
-- [[卫满]]
-- Wiman of Gojoseon, Wi Man (in Korean) or Wey Man (in Chinese) was originally a [military leader] of [the Kingdom of Yan]([[燕国 (Yan Kingdom)]]).[note 1] When king [[卢绾 (Lu Wan)]] of Yan was defeated by the Han in 195 BCE, Wi Man [fled to Gojoseon]([[Gojoseon (古朝鮮)]]) in north-western Korea and later [usurped power from its king] in 194 BCE, establishing Wiman Joseon. Recorded in the [Records of the Grand Historian] and the [Book of Han], Wiman was [the first ruler] [in the history of Korea] to [have been recorded in documents] [from the same time period].
-220101-22:36

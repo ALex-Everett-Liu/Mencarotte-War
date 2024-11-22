@@ -1,2 +1,0 @@
-- spin foam vertex amplitude
-- [[spinfoam cosmology]]

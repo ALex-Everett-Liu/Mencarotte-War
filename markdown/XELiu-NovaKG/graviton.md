@@ -1,1 +1,0 @@
-- [[spin-2 graviton]]

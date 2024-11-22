@@ -1,2 +1,0 @@
-- [[culprit]]: 犯人
-- guilty party; 

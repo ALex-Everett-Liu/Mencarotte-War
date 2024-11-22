@@ -1,9 +1,0 @@
-- flashcard learning system
-    - [[Anki]]
-    - [[SuperMemo]]
-- dictionary 
-    - Spaced repetition is [a proven memory technique] that helps you keep [what you've learned] strong in your mind. www.[[hjenglish]].com
-    - Recur at a [specified time interval](((0ktJ9qCpF))). 重复发生 www.[ibm].com
-    - An event that [recurs at intervals]. provided by [jukuu]
-    - Median interval The Repeating Delimiter 分隔符 is [limited to 100 characters in length]. www.[dictall].com
-    - Effect of Repetitive Bouts of Exhaustive Exercise 力竭运动 [with Different Interval] on [Oxygen Consumption] in [Juvenile Southern Catfish]. 南方鲇幼鱼

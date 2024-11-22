@@ -1,4 +1,0 @@
-- [[decision-making]]; [[decision making]]; [[decision-making system]]; [[decision]]; [[decision maker]]
-    - [[problem-solving]]
-- [[strategy]]
-- [[tradeoff]]; [[trade-off]];

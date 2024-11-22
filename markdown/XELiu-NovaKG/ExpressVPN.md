@@ -1,4 +1,0 @@
-- ### Set up ExpressVPN [on all your devices]
-    - If you are installing ExpressVPN on Windows, Mac, Linux, or a router, copy and paste your [[activation code]] below during installation.
-    - Activation Code:
-        - EQWQVKOJBUSUK3CRND2GZKX

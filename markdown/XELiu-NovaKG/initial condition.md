@@ -1,1 +1,0 @@
-- [[initial state]]; [[initial time]]

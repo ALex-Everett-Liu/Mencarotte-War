@@ -1,5 +1,0 @@
-- [[Gyroscope]]
-- health management
-- weight management
-    - [[my personal weight recording]]
-- 优化自己的生活方式

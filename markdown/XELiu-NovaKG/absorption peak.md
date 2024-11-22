@@ -1,4 +1,0 @@
-- dictionary
-    - IR showed that the absorption peak of sugar and protein. 多糖 dict.cnki.net
-    - The [reactive mixture] of [2,6-di-tert-bu ty 1 phenol] 二叔丁基[苯酚] with [methyl acrylate] [丙烯酸][甲酯] was determined by [high-performance liquid chromatography (HPLC)](((BYxSo2CAn))). 
-    - [Characteristic absorption peaks] of PANI appeared on its [FT-IR spectrum]. www.[fabiao].net

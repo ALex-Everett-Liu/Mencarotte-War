@@ -1,3 +1,0 @@
-- [[quantum vacuum]]
-- [[vacuum energy]]
-- [[virtual antimatter]]

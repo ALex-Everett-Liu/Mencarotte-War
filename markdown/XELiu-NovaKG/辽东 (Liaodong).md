@@ -1,8 +1,0 @@
-- [[汉四郡 (the Four Commanderies of Han)]]
-    - [[蒼海郡 (Canghai Commandery)]]
-    - [[乐浪郡 (Lelang Commandery)]]
-        - sandalwood bow: 檀弓
-- [[来远城 (Laiyuan)]]
-- [[遼東郡 (Liaodong Shire)]]
-- [[西安平县 (Xi Anping)]]
-- [[新城州 (Xincheng Zhou)]]

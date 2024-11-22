@@ -1,4 +1,0 @@
-- electric displacement field
-- [[electric field strength]]
-- [[electric field vector]]
-- [[external electric field]]

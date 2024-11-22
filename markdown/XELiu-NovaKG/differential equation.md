@@ -1,3 +1,0 @@
-- [[first-order term]]
-- [[ordinary differential equation (ODE)]]
-- [[partial differential equation (PDE)]]

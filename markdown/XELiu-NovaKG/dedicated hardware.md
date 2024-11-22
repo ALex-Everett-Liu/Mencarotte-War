@@ -1,5 +1,0 @@
-- dictionary
-    - Each [center office] has a [dedicated hardware system] 专用硬件 from the mainframe. 主机 provided by jukuu
-    - [Dedicated hardware filters] offer [high quality playback] of this video content. tw.nvidia.com
-    - [Must be running on] dedicated hardware. www.[ibm].com
-    - [Real-time video coding] previously resorted to dedicated hardware or [professional equipments]. www.[fabiao].net

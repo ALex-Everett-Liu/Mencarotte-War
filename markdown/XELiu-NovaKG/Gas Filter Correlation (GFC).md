@@ -1,6 +1,0 @@
-- # Gas Filter Correlation (GFC) Spectroscopy
-    - by [Editorial Staff](https://instrumentationtools.com/author/admin/)
-    - Using [[filter cell]]s to [eliminate wavelengths associated with] [[interfering gas]]es is called [[positive filtering]] in the field of spectroscopy. [You may think of this as] [filtering out all the wavelengths] [the instrument should not “care about”]. In order for positive filtering to be [completely effective], the analyzer must filter out all wavelengths associated with [all interfering species]. In some applications, this may require [multiple filters] [stacked in “series”], each one filtering out wavelengths for [a different interfering gas]. [Not only is this technique cumbersome when] [multiple interfering “species”] are [present in the sample], but it is [completely useless] [when the interfering species are unknown].
-(当干扰气组分未知时，再多滤波气室也没用)
-211227-17:20
-    - A different filtering technique called negative filtering does just the opposite: placing a filter cell in the path of the light to absorb all the wavelengths associated with the gas of interest, leaving all other wavelengths unattenuated. One application of this technique is called Gas Filter Correlation, or GFC spectroscopy. This same technique is alternatively referred to as Interference Filter Correlation, or IFC spectroscopy.

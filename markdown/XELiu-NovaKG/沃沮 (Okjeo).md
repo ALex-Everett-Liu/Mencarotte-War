@@ -1,2 +1,0 @@
-- [[东沃沮 (East Okjeo)]]
-- [[北沃沮 (North Okjeo)]]

@@ -1,2 +1,0 @@
-- modify polarization
-- [[polarity]]

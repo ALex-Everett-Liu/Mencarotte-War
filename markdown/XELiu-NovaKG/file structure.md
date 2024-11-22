@@ -1,5 +1,0 @@
-- high-level structure
-    - high-level thinking
-- tree v.s. web structure?
-    - [[tree structure]]
-    - [[web structure]], [[network structure]]...

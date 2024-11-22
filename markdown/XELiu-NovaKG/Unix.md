@@ -1,5 +1,0 @@
-- [[Linux]]
-    - [[Ubuntu]]
-- [[Unix derivative]]: 衍生工具 
-- [[Unix-like]]
-- [[Unix-style]]

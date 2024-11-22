@@ -1,4 +1,0 @@
-- alphabetical order
-- exact order
-- [[sorted by date]]
-- [[sorted by rating]]

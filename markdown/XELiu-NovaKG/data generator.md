@@ -1,4 +1,0 @@
-- dictionary 
-    - The system simulates [inspect data generators], 监测 and [provide many functions] such as sampling, real-time inspect, over-time alarm, [data input] and [statistical reports export] with the combination of [all kinds of controls] in Visual Basic situation. dict.cnki.net
-    - [Direct Digital Synthesize (DDS)] is used to generate [clock signal] at any frequency so that [data generator] can [output data at any rate]. 
-    - The dissertation carries out research on the subject & design of [GPIB circuit] which is the sub-project of [High Speed Data Generator] taken on by UESTC. www.[dictall].com

@@ -1,8 +1,0 @@
-- aspheric lens
-- gradient-index lens
-- focusing lens
-- [[lens mount]]: 镜头支架
-- [[lens system]]
-- [[positive lens]]
-    - [[burning glass]]
-- simple lens

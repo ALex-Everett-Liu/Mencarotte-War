@@ -1,5 +1,0 @@
-- dictionary 
-    - The euphoria 兴高采烈的情绪 is giving way to [a more sober assessment of the situation]. 更为清醒的认识 《柯林斯高阶英汉双解学习词典》
-    - We need a more sober assessment of [the chances of ending this war]. 更加审慎地估计 provided by jukuu
-    - The [initial euphoria] over the Modi regime 乐观情绪 政府 has been replaced by a more sober assessment of [economic realities]. 更为冷静的评估 www.[[okread]].info
-    - [European Economic and Monetary Affairs] Commissioner 专员 Olli Rehn delivered a sober assessment of the region's problems at a [[press conference]] in Brussels. 记者会 www.[enfans].com

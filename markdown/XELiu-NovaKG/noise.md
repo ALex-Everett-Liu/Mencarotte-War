@@ -1,7 +1,0 @@
-- [[background noise]]
-- [[baseline noise]]
-- [[electrical noise]]
-- exposure to noise
-- [[generation-recombination noise]]
-- [[noise equivalent power (NEP)]]
-- [[random noise]]

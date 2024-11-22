@@ -1,5 +1,0 @@
-- dictionary
-    - The [experimental equipment] and method are [briefly described]. The [resonance absorption coefficients], the half-widths, and the [pressure broadening effect] for some lines in water vapor v2 band have been [obtained by experiments]. dict.cnki.net
-    - The Absorption of Water Vapor in the Band of 3.2 μm [in Real Atmosphere]
-    - The reflectance in 940 nm channel, which is in a weak water vapor [absorption spectral band], is calculated, and its sensitivities to various [environmental parameters] are analyzed.
-    - The [water vapor amount] is simulated through its [statistical relation] to [the ratios of reflectance] [in several channels], which are selected and grouped from the 940 nm [weak water vapor absorption band] and the [vicinal window region].

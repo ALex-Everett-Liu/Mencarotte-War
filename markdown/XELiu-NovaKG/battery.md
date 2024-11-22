@@ -1,2 +1,0 @@
-- [[battery-backed-up]]
-- [[long lasting battery application]]

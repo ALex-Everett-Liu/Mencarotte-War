@@ -1,4 +1,0 @@
-- dictionary
-    - Sometime, perhaps, reading a submitted manuscript of his, 提交的手稿 [they might remember] him as the fellow about whom they had [received an anonymous letter]. 匿名信投诉 www.[[ebigear]].com
-    - Dr Cheng [wrote and submitted this manuscript] [during his postdoctoral training](((XBm6oZkFO))) in Sweden [without informing our institution]. www.[zhuomu].cn
-    - In fact, if you submitted a manuscript to most [[publishing house]]s, [you'd be required to] [submit your manuscript in] a [[sans-serif]] font. www.[[ibm]].com

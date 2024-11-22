@@ -1,3 +1,0 @@
-- interactive template
-- [[maintenance template]]
-- [[template message]]; 

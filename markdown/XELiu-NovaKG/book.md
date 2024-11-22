@@ -1,2 +1,0 @@
-- [[book review]];
-- [[book source]]

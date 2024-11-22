@@ -1,2 +1,0 @@
-- [[oscillation cycle]]
-- [[sinusoidal oscillation]]

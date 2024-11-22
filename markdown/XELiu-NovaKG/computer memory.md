@@ -1,7 +1,0 @@
-- [[flash memory]]
-- [[integrated memory]]
-- [[memory unit]]
-- [[non-volatile memory]]: 非易失性存储器
-- [[program memory]]
-- [[programmable memory]]
-- [[random-access memory (RAM)]]

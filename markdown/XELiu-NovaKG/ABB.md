@@ -1,2 +1,0 @@
-- MB Series
-    - [[MBGAS-3000]] FT-IR Gas Analyzer

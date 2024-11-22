@@ -1,5 +1,0 @@
-- [[black socks]]
-- [[black knee socks]]
-- [[pantyhose]]
-- [[stocking]]
-- [[white socks]]

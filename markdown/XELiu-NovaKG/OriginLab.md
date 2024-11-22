@@ -1,1 +1,0 @@
-- __[25+ years serving] [the scientific and engineering community]__

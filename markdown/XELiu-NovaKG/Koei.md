@@ -1,2 +1,0 @@
-- [[Sangokushi]]; Romance of the Three Kingdoms
-    - [[Sangokushi IX]]

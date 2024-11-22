@@ -1,6 +1,0 @@
-- dictionary
-    - Data analysis of spectral signature of [sea water] in [Bohai Bay]-[complex correlation analysis] dict.cnki.net
-    - From [utilizing spectral signature] to utilizing texture? phase? angle information;
-    - Because the spectral signature of [residential area] and [soil and water loss area] is close, it becomes the emphasis to distinguish soil and water loss area and residential area.
-    - After that introduces these typical data from [fundamental characteristics] and Spectral Signature in detail. www.[fabiao].net
-    - [TM images] as the main object of study in this paper, a number of studies have suggested that adding new characteristics to Spectral Signature of [TM remote sensing image] could improve the [classification accuracy].

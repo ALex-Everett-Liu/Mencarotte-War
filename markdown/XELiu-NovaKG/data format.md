@@ -1,2 +1,0 @@
-- language-independent data format
-- parse the data format;

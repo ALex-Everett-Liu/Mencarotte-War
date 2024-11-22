@@ -1,2 +1,0 @@
-- [[transaction data]]
-    - record transactions between two parties: 记录双方之间的交易;

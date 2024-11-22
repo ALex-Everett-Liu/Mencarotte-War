@@ -1,2 +1,0 @@
-- [[君の知らない物語 (kimino shiranai monogatari)]]
-- [[ニルバナ (nirubana)]]

@@ -1,8 +1,0 @@
-- dictionary 
-    - WordNet: [unable to be both true] [at the same time]
-        - Synonym: [contradictory](((Ly2CB3FhL)))
-    - The two views are not mutually exclusive. 《牛津高阶英汉双解词典》
-    - The two options are not mutually exclusive. 
-    - [They both have learnt that] [ambition and successful fatherhood] can be mutually exclusive. 《柯林斯高阶英汉双解学习词典》
-    - But as these findings show, [exercise and academics] may not be mutually exclusive. 四级真题- 2016年 6月 1卷 短文填空
-    - However, [economic progress] and [political development] are not mutually exclusive. provided by jukuu

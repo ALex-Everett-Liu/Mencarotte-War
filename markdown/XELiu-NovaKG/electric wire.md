@@ -1,3 +1,0 @@
-- [[wire insulation]]: 绝缘层; [[electrical insulation]]
-- [[wire size]]
-- [[wiring system]]; [[wiring method]]

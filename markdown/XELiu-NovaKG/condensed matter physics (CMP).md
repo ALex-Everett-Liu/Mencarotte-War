@@ -1,7 +1,0 @@
-- [[condensed-matter system]]
-- [[gas phase]]; [[gas phase matter]]
-- [[material]]; [[materials science]]; [[material science]]
-- [[order parameter]]
-- [[solid-state physics]]; [[solid]]
-- [[superfluid]]; [[superfluidity]]
-- [[vaporization]]: 汽化, 蒸发;

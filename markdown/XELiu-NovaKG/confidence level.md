@@ -1,6 +1,0 @@
-- dictionary 
-    - What happens when I set the [[resolution]] to 0.5 and [[confidence]] to 0.99 and run [UPDATE STATISTICS] in the [MEDIUM mode]? www.[[ibm]].com
-    - Study on Precision of [Man-Machine Engineering CAD System] and Confidence of [Computer Simulation] dict.cnki.net
-    - SVM-Based Combination of Confidence Measures in [Speech Recognition]
-    - A [depth spectral method] we developed for [stereo matching] 立体匹配 has increased its credibility and realized the [X ray stratified imaging]. 分层成像
-    - Then we put forward the degree of possibility for the straight line obtained, which is named the [Related Coefficient] of [Fuzzy Fitting] of A Straight Dine.

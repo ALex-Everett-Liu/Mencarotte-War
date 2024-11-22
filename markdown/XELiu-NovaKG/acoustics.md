@@ -1,2 +1,0 @@
-- [[acoustic vibration]]
-- [[auditory experience]]: 听觉体验

@@ -1,4 +1,0 @@
-- [[coal]]
-- [[fossil fuel]]
-- [[jet fuel]]
-- [[natural gas]]

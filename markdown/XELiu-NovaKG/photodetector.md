@@ -1,2 +1,0 @@
-- [[infrared detector]]
-- [[photodetector array]]

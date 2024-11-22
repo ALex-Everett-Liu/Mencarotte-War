@@ -1,2 +1,0 @@
-- [[chaotic theory]]
-    - [[chaotic behavior]]

@@ -1,2 +1,0 @@
-- [[hanja]] (Korean Chinese character)
-- [[Revised Romanization of Korean]]

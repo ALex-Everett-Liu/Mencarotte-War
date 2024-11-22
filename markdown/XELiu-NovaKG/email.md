@@ -1,6 +1,0 @@
-- email client
-    - Gmail; gmail
-- [[email newsletter]]
-- [[mailto]]
-- [[spam]]
-    - [[spam-filter algorithm]]

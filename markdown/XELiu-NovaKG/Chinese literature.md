@@ -1,6 +1,0 @@
-- classical novels
-    - [[水浒传 (shuihuzhuan)]]
-- pre-modern...
-    - [[鲁迅 (Lu Xun)]]
-- modern...
-    - [[平凡的世界]]

@@ -1,7 +1,0 @@
-- [[information content]]
-    - [[information quantity]]
-- [[information density]]
-    - [[entropy density]]
-- [[information entropy]]
-- [[information model]]
-- [[Shannon entropy]]

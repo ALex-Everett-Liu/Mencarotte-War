@@ -1,5 +1,0 @@
-- [[duplicate names]]
-- [[extension]]: 扩展名
-- [[illegal filename characters]]
-    - [[replacement character]]
-- [[rename the file]]

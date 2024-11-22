@@ -1,1 +1,0 @@
-- creamy-white long coat

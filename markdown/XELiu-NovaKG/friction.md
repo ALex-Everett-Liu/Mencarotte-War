@@ -1,5 +1,0 @@
-- [[damping]]
-- [[friction coefficient]]
-- friction produces heat; 
-- [[frictional force]]
-- frictionless;

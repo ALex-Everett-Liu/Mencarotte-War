@@ -1,5 +1,0 @@
-- dictionary
-    - Intensive farming 集约（精耕）农业 in the area has caused [severe degeneration of the land]. 贫瘠化 《牛津高阶英汉双解词典》
-    - [Traditionally reared animals] 按传统方式饲养的家畜 [grow more slowly than] those [reared under intensive farming conditions].
-    - Elsewhere [large areas] [have been drained and levelled] 被抽干了水或铲平了地 [for industry or intensive farming]. 《柯林斯高阶英汉双解学习词典》
-    - A Study on the Theory and Approach of [Sustainable Intensive Farming System] dict.cnki.net

@@ -1,8 +1,0 @@
-- 美腿 - [[beautiful leg]]s
-- [[jeans]]
-    - [[jeans shorts]]
-- [[shorts]]; hot pants
-- [[skirt]]
-- [[trousers]]
-    - [[black trousers]]
-    - light grey trousers

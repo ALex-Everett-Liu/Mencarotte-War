@@ -1,2 +1,0 @@
-- [[light jeans]]
-- [[suspender jeans]]

@@ -1,2 +1,0 @@
-- [[communist]]
-    - [[communist party]]

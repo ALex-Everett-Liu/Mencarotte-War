@@ -1,5 +1,0 @@
-- trigger
-    - jj
-- publish
-    - display name
-        - Everett Liu

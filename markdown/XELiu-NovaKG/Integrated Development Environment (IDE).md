@@ -1,4 +1,0 @@
-- [[file editor window]]
-- [[Integrated Development and Learning Environment (IDLE)]]
-- [[Mu Editor]]
-- [[UltraEdit]]

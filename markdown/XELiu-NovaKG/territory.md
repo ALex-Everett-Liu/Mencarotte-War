@@ -1,2 +1,0 @@
-- [[territorial border]]
-- [[territorial extent]]

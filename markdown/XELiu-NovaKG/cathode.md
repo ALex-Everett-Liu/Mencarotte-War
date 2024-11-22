@@ -1,2 +1,0 @@
-- [[cathode ray]]
-- [[hot cathode]]

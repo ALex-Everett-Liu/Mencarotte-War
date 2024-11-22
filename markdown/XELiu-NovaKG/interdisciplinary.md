@@ -1,3 +1,0 @@
-- [[interdisciplinary approach]]
-- interdisciplinary field
-- multidisciplinary field

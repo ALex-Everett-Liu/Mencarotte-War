@@ -1,7 +1,0 @@
-- [[discrete memories]]
-- [[memory capacity]]
-- [[memory retrieval]]; recall
-- [[memory unit]]
-- [[mnemonics]]
-    - [[spaced repetition]]
-- past memory;

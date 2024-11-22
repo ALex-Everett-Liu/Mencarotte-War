@@ -1,6 +1,0 @@
-- dictionary 
-    - He [once held a post in] [the Ministry of foreign affairs](((wLHeTsfdL))). 百度翻译例句库
-    - The [[Foreign Ministry]] [has issued a flat denial of any involvement]. 坚决否认参与过此事 《柯林斯高阶英汉双解学习词典》
-    - The Foreign Office [dismissed the story as mischievous and false]. 恶意报道
-    - He [had a very distinguished career in] the Foreign Office. 一段光辉的事业 《牛津高阶英汉双解词典》
-    - They met while she was [on secondment from] the Foreign Office. 调来短期任职

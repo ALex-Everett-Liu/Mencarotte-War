@@ -1,3 +1,0 @@
-- [[acoustic vibration]]
-- [[fundamental vibration]]
-- [[overtone]]

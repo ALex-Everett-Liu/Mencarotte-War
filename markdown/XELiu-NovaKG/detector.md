@@ -1,5 +1,0 @@
-- [[computerized detector]]
-- [[detection limit]]
-- high-sensitivity detector;
-- multiple-detector configuration; 
-- [[sensitive]]

@@ -1,2 +1,0 @@
-- [[propagating degrees of freedom]]
-- [[vibrational degrees of freedom]]

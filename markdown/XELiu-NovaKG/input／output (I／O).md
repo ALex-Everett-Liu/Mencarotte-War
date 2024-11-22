@@ -1,4 +1,0 @@
-- [[input/output peripheral device]]: 输入/输出外围设备
-- [[input condition]]
-- [[input event]]
-- [[output result]]

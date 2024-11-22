@@ -1,3 +1,0 @@
-- [[hydrogen sulfide]] (H2S)
-- [[sulfur dioxide]] (SO2)
-- [[sulfur oxides (SOx)]]

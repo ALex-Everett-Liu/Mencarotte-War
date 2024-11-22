@@ -1,5 +1,0 @@
-- [[birefringence]]
-- [[outgoing ray]]; [[incoming ray]]
-- [[refracted angle]]; refraction angle
-- [[refractive index]]
-- [[refractive lens]]

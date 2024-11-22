@@ -1,2 +1,0 @@
-- vibrating string
-    - vibrational pattern

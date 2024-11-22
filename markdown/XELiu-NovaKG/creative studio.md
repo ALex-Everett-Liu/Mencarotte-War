@@ -1,6 +1,0 @@
-- dictionary 
-    - The boys, both students at the [Manchester Creative Studio], 创意工作室 were approached by [Virgin Media] when [presenting their device] [at a start-up event]. 创业活动 language.[[chinadaily]].com.cn
-    - Adobe responded by [dropping support for the tool] [in coming versions of] Creative Studio. we.[pcinlife].com
-    - Wen-Sheng Media is a creative studio specializing in design journals, business book design, Journal of the enterprise design, poster design corporate design groups. www.[99inf].com
-    - Established in 2004, the bluephoenix new media arts, whose antecedent is the bluephoenix creative studio, is a team, who combines [art designs], originality creativities, technologies and implement. provided by [jukuu]
-    - Designed by [product designer] Lina Meier and [graphic designer] Sara Keranen-Gramner, who are the creative duo behind [Studio Yra]. blog.artintern.net

@@ -1,6 +1,0 @@
-- abridged version: 删节版
-- [[current version]]
-- beta version; alpha version
-    - open beta;
-- modified version; 魔改版
-- revised version

@@ -1,2 +1,0 @@
-- [[MIT OpenCourseWare]]
-- [[MIT Press]]

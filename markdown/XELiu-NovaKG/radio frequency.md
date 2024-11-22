@@ -1,2 +1,0 @@
-- [[radio frequency device]]
-- [[radio-frequency interference (RFI)]]

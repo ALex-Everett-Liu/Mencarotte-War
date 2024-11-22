@@ -1,4 +1,0 @@
-- [[absorptance]]
-- [[absorption coefficient]]
-- [[absorption magnitude]]
-- [[absorption spectroscopy]]; [[absorption spectrum]]

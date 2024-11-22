@@ -1,2 +1,0 @@
-- [[natural logarithm]]; [[Napierian logarithm]]
-- [[common logarithm]]

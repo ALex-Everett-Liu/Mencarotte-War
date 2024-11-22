@@ -1,4 +1,0 @@
-- dictionary 
-    - Therefore, from the perspective of "mobile", 移动读卡器 this paper introduces the design of [magnetic stripe card reader] in a [financial terminal]. www.[fabiao].net
-    - Taking the [safe strategy] of the [financial magnetic stripe card] for an example, we discussed various [safe calculating ways] and strategies in the application of the [actual card business]. dict.cnki.net
-    - Currently, magnetic stripe card is accepted by [CCB ATM], but [only-chip card] is not accepted for the moment. 纯芯片卡 www.[ccb].com

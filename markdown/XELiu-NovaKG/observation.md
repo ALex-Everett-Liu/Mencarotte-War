@@ -1,5 +1,0 @@
-- [[experimental observation]]
-- [[observable]]; measure the observable
-    - observable difference;
-    - [[observable quantity]]; [[observable consequence]]
-- [[observer]]

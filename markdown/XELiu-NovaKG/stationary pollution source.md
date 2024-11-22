@@ -1,6 +1,0 @@
-- dictionary 
-    - Application of Continuous Emission Monitoring System for Fuel Gas from Stationary Pollution Sources to [Incineration of Industrial Hazardous Wastes] 危险废物焚烧 www.[dictall].com
-    - [Nonlinear absorption] occurs when the [differential optical absorption spectroscopy (DOAS)] 差分 is used to monitor the [[flue gas]] with high [SO2 concentration] from [fixed pollution source].
-    - Stationary Source [Relative Accuracy] of [CEMS Calculation Template] but not really at the same regular, fixed long period of time.
-    - The composition of continuous emission monitoring system (CEMS) for fuel gas from stationary pollution sources is introduced, and the [measurement methods] are compared.
-    - Continuous Monitoring System of Flue Gas Emission of YX-CEMS Fixed Pollution Sources dict.cnki.net

@@ -1,4 +1,0 @@
-- dictionary
-    - The analysis also shows that the [sensitivity coefficient] varies with the [parameter benchmark value]. 基准值 dict.cnki.net
-    - Based on the [energy saving diagnostic method], 节能降耗诊断方法 using the [unit design parameters] 机组设计参数 or [testing parameters] as benchmark value, it [conducted the in-depth analysis about] the [energy consumption level](((HPlNVN735))) of [unit actual operation]. www.[fabiao].net
-    - The use of [benchmarking evaluation] first need to [obtain a benchmark value], the benchmark value is obtained from the [benchmark company]. 标杆企业

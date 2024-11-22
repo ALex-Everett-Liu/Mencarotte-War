@@ -1,2 +1,0 @@
-- [[tutorial text]]
-- [[video tutorial]];

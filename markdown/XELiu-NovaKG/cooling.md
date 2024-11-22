@@ -1,3 +1,0 @@
-- [[air cooling]]
-- [[cooling system]]; [[cooling mechanism]]
-- [[water cooling]]; [[cooling water]]

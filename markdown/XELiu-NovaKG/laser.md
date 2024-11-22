@@ -1,8 +1,0 @@
-- collimated light beam: 准直光束; collimating light
-- [[fiber laser]]
-- [[helium–neon laser]]; [[helium-neon laser]]; [[He-Ne laser]]; [[HeNe laser]]
-- [[light amplification]]
-    - [[doped fiber amplifier]]
-    - [[gain media]]; [[active gain medium]]
-- ultra-precise light guidance;
-- [[quantum cascade laser (QCL)]]

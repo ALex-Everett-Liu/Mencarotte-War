@@ -1,7 +1,0 @@
-- [[elastic deformation]]; deformed elastically;
-- elastic medium; elastic media; 弹性介质
-    - elastic solid
-- [[elastic modulus]]
-- [[tensile elasticity]]: 拉伸弹性, 张力弹性;
-    - [[tensile stress]]; [[tensile strain]]
-    - [[Young's modulus]]

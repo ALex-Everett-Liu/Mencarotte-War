@@ -1,6 +1,0 @@
-- [[cost-effectiveness]]
-- [[labor cost]]
-- [[maintenance cost]]
-- [[manufacturing cost]];
-- reduce cost; [[reduce the cost]]
-    - size and cost; [[reduce the size]]

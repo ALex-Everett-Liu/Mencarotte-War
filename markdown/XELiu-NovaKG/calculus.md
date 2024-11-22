@@ -1,8 +1,0 @@
-- [[boundary condition]]
-    - [[boundary surface]]
-    - [[initial condition]]
-- [[differential equation]]
-- derivative
-- [[Fourier analysis]]
-- integral over time; 
-- [[Lagrangian function]]

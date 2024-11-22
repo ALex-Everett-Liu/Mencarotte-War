@@ -1,3 +1,0 @@
-- [[personal wiki]]
-    - wiki-like
-- [[Wikipedia]]

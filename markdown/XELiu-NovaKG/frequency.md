@@ -1,4 +1,0 @@
-- [[angular frequency]]
-- [[constant frequency]]
-- [[spatial frequency]]
-- [[temporal frequency]]

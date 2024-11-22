@@ -1,4 +1,0 @@
-- info
-    - 1993-06-04
-    - 168 cm -- 54 kg -- B88 W65 H90
-- [Ugirls尤果网] 2017.11.24 NO.U323 [金美子](https://www.ywpic.com/21448.html)

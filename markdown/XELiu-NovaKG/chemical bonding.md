@@ -1,3 +1,0 @@
-- bond strength;
-- [[covalent bond]]
-    - [[hybridization]]

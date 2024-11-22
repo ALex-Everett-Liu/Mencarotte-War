@@ -1,2 +1,0 @@
-- [[fossil fuel power station]]
-- [[thermal power station]]

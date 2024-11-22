@@ -1,4 +1,0 @@
-- [[collaborative learning]]
-- [[learning curve]]
-    - learning cost;
-- [[self-directed learner]]

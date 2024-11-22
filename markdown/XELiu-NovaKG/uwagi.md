@@ -1,8 +1,0 @@
-- [[black long sleeves]] (27)
-- [[black shirt]]
-- [[blouse]]
-- [[coat]]
-- [[grey long sleeves]]
-- [[sweater]]
-- [[white long sleeves]]
-- [[white shirt]] (27)

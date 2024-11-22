@@ -1,6 +1,0 @@
-- dictionary
-    - a [vertical surface] on which [information can be displayed] to [public view]
-    - [He suddenly remembered] the [floor display panel] in the [[elevator]]. 显示面板 www.[keke].com
-    - [A simple switch system] at the input [has the effect that] if a key (say the B key) is depressed, a [current flows] ([as shown in the diagram] [by bold lines]) and [lights up a bulb] in the [output display panel] (in this case, under the letter D).
-    - She brought up the display [on her wrist panel], 点开 which automatically produced [a readout of local time].
-    - The invention also provides a [liquid crystal display panel]. ip.com

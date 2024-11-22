@@ -1,7 +1,0 @@
-- [[blank string]]; [[empty string]]
-- [[character string]]
-- [[input string]]
-- [[quoted string]]
-- string concatenation operator; join the strings
-- subject string
-- [[text value]]

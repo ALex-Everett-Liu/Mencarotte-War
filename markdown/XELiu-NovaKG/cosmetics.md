@@ -1,2 +1,0 @@
-- [[lipstick]]
-- [[perfume]]

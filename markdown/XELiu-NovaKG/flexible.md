@@ -1,2 +1,0 @@
-- [[flexible medium]]
-- [[flexible tube]]

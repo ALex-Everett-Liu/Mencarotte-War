@@ -1,9 +1,0 @@
-- 丘琳 (Qiu Lin)
-    - [[大亨的契约空姐]]
-- dictionary 
-    - [言情小说] (Yanqing xiaoshuo)
-    - I was reading some trashy [romance novel]. 写得很烂的 《[[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)》
-    - She [flicked through] 翻完了 a [romantic paperback] 平装本 between [occasional dips] [in the pool]. 歇一阵的几个空当
-    - Ours is the kind of love to which romance novels are just a [[prelude]]. [blog.sina].com.cn
-    - Forget the [romantic novel]. www.[ebigear].com
-    - This [female writer]'s weepers 伤感言情小说 were once [[best seller]]s. provided by [[jukuu]]

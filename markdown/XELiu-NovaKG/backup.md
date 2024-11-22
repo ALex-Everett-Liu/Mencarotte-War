@@ -1,7 +1,0 @@
-- [[backup script]]; backup tool
-- [[backup timeout]]
-- [[full fidelity backups]]: 完全保真度备份
-- [[import]]; [[export]]
-- [[rolling backups]]: 回滚备份
-- #inbox
-    - {{[[TODO]]}} 推荐使用[自动备份软件]，每天[增量备份]，可以退回[某一天的版本](https://ld246.com/article/1628761755407) -- ashampoo back up pro   #pt10-100

@@ -1,6 +1,0 @@
-- dictionary
-    - The [[play]] mocks 这出戏讽刺了 the pretensions of the [new middle class]. 装模作样 《牛津高阶英汉双解词典》
-    - The area [contains a disproportionate number of] [young middle-class families]. 
-    - [Main Street] [won't be happy with] [this new program]. 
-    - [These policies are unlikely to] [prove popular with middle-class voters]. 博得中产阶级选民的欢心
-    - [The black middle class] must now [reach out with more empathy and concern to] the [lower class]. 倾注更多的同情和关心 《柯林斯高阶英汉双解学习词典》

@@ -1,7 +1,0 @@
-- dictionary 
-    - centralization (of authority): centralized state power; centralized feudal monarchy
-    - They [condemned the white paper as] [a charter for centralisation] 怂恿中央集权 and [[selective education]]. [[Collins Dictionary]] (柯林斯高阶英汉双解学习词典)
-    - There is undoubtedly a groundswell of [support for the idea of] a strong [[central authority]]. 呼声
-    - As [[Francis Fukuyama]] has shown, it is the [statist right](((1Me3xlOqX))), rather than the [radical left](((WkShs5RN7))), that has [won the battle of ideas] in the wake of the [[global financial crisis]]. www.[[kekenet]].com
-    - HONG Xiu-quan and [Centralization of Authority] in [Post Taiping Heavenly Kingdom]. dict.cnki.net
-    - France is [a traditionally centralized country] and the centralization is ineradicable. 集权观念根深蒂固 word.[hcbus].com

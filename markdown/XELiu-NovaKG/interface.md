@@ -1,6 +1,0 @@
-- [[electrical interface]]
-- [[external interface]]
-- [[peripheral]]; 
-    - [[peripheral device]]
-    - [[peripheral event]]
-    - [[peripheral interface]]; peripheral interface circuit; 

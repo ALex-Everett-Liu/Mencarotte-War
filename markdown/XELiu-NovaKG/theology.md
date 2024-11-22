@@ -1,5 +1,0 @@
-- [[matter]]
-    - [[material object]]; [[material substance]]
-- [[omnipresent]]: 无所不在;
-- [[sprit]]; [[spiritual substance]]
-    - divine spirit: 圣灵

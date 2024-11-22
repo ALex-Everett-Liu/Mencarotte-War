@@ -1,1 +1,0 @@
-- [[Luhmann's Zettelkasten]]

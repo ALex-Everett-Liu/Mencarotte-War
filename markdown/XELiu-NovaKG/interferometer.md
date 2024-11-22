@@ -1,2 +1,0 @@
-- [[interferometer box]] 
-- [[laser interferometer]]

@@ -1,7 +1,0 @@
-- Contents - p6
-    - Part I - Theory
-        - 1 The Wave Function
-            - [[QM Griffiths - 1.1 The Schrödinger Equation]]
-            - [[QM Griffiths - 1.2 The Statistical Interpretation]]
-            - 1.3 Probability
-                - [[QM Griffiths - 1.3.1 Discrete Variables]]

@@ -1,6 +1,0 @@
-- dictionary
-    - Having both an intimate relationship and [one's own space] is a treat. 享受 www.[[kekenet]].com
-    - [There is a intimate relationship between] 密切的关系 [oil distribution] and [depression structure]. 凹陷结构 dict.cnki.net
-    - There are intimate relationship between police [psychology stress] and [mental health]. 应激
-    - [Post-modernism] regards that people always [keep intimate relationship with] the world. 
-    - There is no intimate relationship between [parents and children]. www.[fabiao].net

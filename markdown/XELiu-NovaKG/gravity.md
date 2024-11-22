@@ -1,4 +1,0 @@
-- [[gravitational field]]
-- [[gravitational theory]]
-- [[gravitational wave]]
-    - [[spectral characteristics]]; [[spectral signature]]

@@ -1,4 +1,0 @@
-- [[gapped local Hamiltonian]]
-- [[Hamiltonian evolution]]
-- [[molecular Hamiltonian]]
-- [[time-independent Hamiltonian]]

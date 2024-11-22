@@ -1,8 +1,0 @@
-- [[bronze]]
-- [[plane mirror]]
-- [[polished copper]]: 抛光铜 
-- [[pellicle mirror]]: 薄膜镜
-- [[off-axis parabolic mirror]]
-- [[speculum]]: 窥镜 
-    - copper alloy rich in tin: 富含锡的铜合金 
-- [[spherical mirror]]

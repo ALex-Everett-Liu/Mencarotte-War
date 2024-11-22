@@ -1,3 +1,0 @@
-- [[free-space photon]]
-- [[free-space radiation]]
-- [[free-space wavelength]]

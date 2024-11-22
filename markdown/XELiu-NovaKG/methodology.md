@@ -1,2 +1,0 @@
-- [[scientific methodology]]
-- method; approach; fashion; etc.

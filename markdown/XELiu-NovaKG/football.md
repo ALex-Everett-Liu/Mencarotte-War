@@ -1,2 +1,0 @@
-- [[Chinese football]]
-- 支点; 中锋

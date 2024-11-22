@@ -1,3 +1,0 @@
-- [[chiefdom]]; chieftain; 酋长; 酋帅; 豪帅
-- head; 大人
-- tribal confederation

@@ -1,7 +1,0 @@
-- dictionary
-    - WordNet: [[interstellar space]] including [streams of protons](((CcplqFhez))) [moving from the stars]
-    - Mixing with the interstellar medium, the dust could [ultimately form] [rocky terrestrial planets] like Earth. bbs.astron.ac.cn
-    - The [Magnetic Field] in Interstellar Medium 星际介质 dict.cnki.net
-    - [Theoretical Investigations on] the [Spectroscopic Properties] of Molecules Related to Interstellar Medium and [Air Pollution] www.[dictall].com
-    - In the interstellar medium, CH2 plays an important role in the [carbon chemistry]. www.[fabiao].net
-    - Free radicals and molecular ions 自由基分子 play an important role in the study of interstellar medium, chemical reaction dynamics and medicines.

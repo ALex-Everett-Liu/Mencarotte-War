@@ -1,4 +1,0 @@
-- dictionary
-    - Results: (I) Heat immersion 改良加热浸提法 had 98.9-103% [callback rates] 回收率 for [soluble lead] 可溶性 and its RSD less than 8.3%. dict.cnki.net
-    - Mn in silica 硅灰石 was actually determined, relative deviation (RSD) is 1.5%.
-    - Using the [coefficient of determination] 可决系数 and the relative standard deviation [as standard], this method can figure out a more effective [forecasting model] with [MATLAB Statistics Toolbox].

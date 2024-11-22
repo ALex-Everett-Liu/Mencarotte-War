@@ -1,3 +1,0 @@
-- [[curriculum]]
-- [[elementary school]]
-- [[student]]

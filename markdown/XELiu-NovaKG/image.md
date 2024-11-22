@@ -1,4 +1,0 @@
-- [[mirror image]]
-- [[real image]]
-- [[virtual image]]; virtual mirror image
-- 小孔成像

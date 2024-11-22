@@ -1,5 +1,0 @@
-- digital payment
-    - [[Alipay]]
-    - [[PayPal]]
-    - [[gift card]]
-- [[payment rail]]

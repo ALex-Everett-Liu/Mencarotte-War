@@ -1,7 +1,0 @@
-- dictionary 
-    - disposable bag; garbage bag
-    - Residents are advised not to put their rubbish bags on the pavement 人行道 [outside their houses].  《柯林斯高阶英汉双解学习词典》
-    - Lots of things were burned, including a few very large [trash bag]s [filled with all of my clothes]. www.[tianya].cn
-    - At this time, we can throw self, which was [full of rubbish], into the [ash bin]. blog.sina.com.cn
-    - He picked up [a piece of waste paper], and put it into the rubbish bag. danci.911cha.com
-    - Have you got a rubbish bag I can put all these [old shoes] in? provided by jukuu

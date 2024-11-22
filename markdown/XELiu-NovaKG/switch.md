@@ -1,2 +1,0 @@
-- [[circuit breaker]]: 额定断路器
-- [[manual switch]]

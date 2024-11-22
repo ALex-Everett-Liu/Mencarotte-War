@@ -1,1 +1,0 @@
-- [[西游记 (Journey to the West)]]

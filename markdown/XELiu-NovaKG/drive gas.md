@@ -1,6 +1,0 @@
-- dictionary 
-    - [Experimental and Numerical Investigations] of the Flowing in the [Combustion-Driven Gas-Dynamic CO_2 Laser] dict.cnki.net
-    - The process of flowing in a [combustion-driven gas-dynamic CO2 laser] was [studied from theory and experiments] in this paper.
-    - A study on [laser-driven gas-phase reaction] for producing [ultrafine SiC powder] 超细粉末
-    - Synthesis of [nano-size SiC powders] by laser driven gas phase reactions
-    - [Si_3N_4 Superfine Powders] Prepared by [Laser Driven Gas Reaction Method]

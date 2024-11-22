@@ -1,3 +1,0 @@
-- [[ck3 mod]]
-- [[ck3 modding]]
-    - [[ck3 mechanics]]

@@ -1,2 +1,0 @@
-- [[hydrogen spectral series]]
-- [[Rutherford-Bohr quantum model]]

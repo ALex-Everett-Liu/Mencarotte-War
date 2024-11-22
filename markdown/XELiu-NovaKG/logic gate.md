@@ -1,7 +1,0 @@
-- [[AND gate]]
-- [[logic function]]
-    - [[combinational function]]
-- [[logic level change]]
-- [[programmable logic block]]
-- [[reconfigurable interconnect]]; inter-wired in different configurations
-- [[XOR gate]]

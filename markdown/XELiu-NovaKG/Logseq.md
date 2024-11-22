@@ -1,8 +1,0 @@
-- #inbox
-    - 在此之前[我的工具][大致包括]： 稍后读软件、[GTD tool]([[GTD]])（滴答清单）、写作工具（一般是 VSCode+Hexo）。最近半年沉迷于使用[双链笔记软件]，目前在用的是 Logseq，后面专门[展开介绍一下]。目前在尝试将GTD工具、笔记都整合到 Logseq 里面，主要是[受了这篇文章的启发] [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)，下面就详细介绍一下我的[实践过程](https://www.yuque.com/xiaosen-d20ph/qgy7zg/shi-yonglogseq-gou-jiangtd-xi-tong)。 #pt9-100
-    - 我之前跟天生[沟通时][也说过类似的内容]，其实简悦和 Logseq [背后的理念]很相似，都是[主打] 本地 + 高度隐私权 的[产品]。 #pt10-99.99
-        - 无奈，因时间有限，所以[无法有太多时间][做很多互动性的事情]，所以希望[在社区的帮助下]，可以有[更多玩法]。
-        - 关于如何与 Logseq 的[联动]还有[更多的玩法]，不知道 [@Spike](https://cn.logseq.com/u/spike) [是否可以联络我][一起研究下]？
-    - [#UX 全局导航优化：缺乏所有笔记内容的统一入口](https://cn.logseq.com/t/topic/127) #pt9-99.99
-    - 做了一个主题，修了 UI 上的[一些 Bug](https://cn.logseq.com/t/topic/836)，[应该是目前]移动端和[窄屏幕]上[体验最好的]。[样式]是参考的 Notion。 #pt7-99.99
-        - 不用其他 [Web 字体]，对[中文用户]友好（好多主题都要 google font）

@@ -1,2 +1,0 @@
-- [[personal information management (PIM)]]
-    - [[personal knowledge management (PKM)]]

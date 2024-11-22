@@ -1,4 +1,0 @@
-- [[atomic nucleus]]; [[atomic nuclei]]
-- [[nuclear fusion]]
-- [[nucleation]]: 成核
-- [[radioactive decay]]

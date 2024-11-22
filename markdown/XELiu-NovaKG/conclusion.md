@@ -1,2 +1,0 @@
-- [[logical conclusion]]
-- [[reach the conclusion]];

@@ -1,8 +1,0 @@
-- [[infinite multiverse theories]]; infinitely branching multiverse
-    - calculate the limit; the limit of the fractions of each type of universe
-        - converge
-        - ordering method
-            - [[On-Line Encyclopedia of Integer Sequences (OEIS)]]
-            - [[proper-time cutoff measure]]
-                - [[cutoff]] of the set or sequence or list
-                - [[youngness paradox]]

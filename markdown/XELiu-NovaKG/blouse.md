@@ -1,3 +1,0 @@
-- plaid blouse
-    - brown-black plaid blouse
-- [[white blouse]]

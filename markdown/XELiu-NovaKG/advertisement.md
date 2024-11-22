@@ -1,2 +1,0 @@
-- [[advertisement link]]
-- [[snake oil]]: 推销者的所谓“万应灵药”, 毫无用处的推销品;

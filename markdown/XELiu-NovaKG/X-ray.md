@@ -1,3 +1,0 @@
-- [[hard X-ray]]
-- [[X-ray absorption spectroscopy (XAS)]]
-- [[x-ray tube]]

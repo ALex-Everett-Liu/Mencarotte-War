@@ -1,4 +1,0 @@
-- [[phase space]]
-    - [[coarse graining]]: 粗粒化
-        - fine granularity; 
-- [[state space]]

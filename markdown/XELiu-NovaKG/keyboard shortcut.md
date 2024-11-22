@@ -1,4 +1,0 @@
-- fast move...
-- [[hotkey]]; shortcut key
-- [[keybinding]];
-- [[key command]]

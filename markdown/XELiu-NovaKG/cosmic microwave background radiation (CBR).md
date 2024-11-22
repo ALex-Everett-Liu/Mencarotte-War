@@ -1,8 +1,0 @@
-- microwave radiation
-- uniform temperature; uniformity
-- dictionary 
-    - The cosmic microwave background called the CMB for short also [provides evidence to back up] the Big Bang theory. www.[astronomy].com.cn
-    - The [recent progress on] observation and theory of the cosmic microwave background radiation (CBR) is [presented in this paper]. dict.cnki.net
-    - The [new measurements] of the cosmic microwave background radiation by the [COBE satellite] and the [LEP experimental results] support strongly the [hot Big Bang model]. 
-    - A Study on the Effect of [Reheating Energy Scale] on CMB. 宇宙重新加热能标
-    - An [Approximate Analytic Formula] for Polarization of Cosmic Microwave Background Radiation. www.[dictall].com

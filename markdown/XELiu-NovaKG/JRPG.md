@@ -1,3 +1,0 @@
-- #inbox
-    - 谈一谈[破晓传说]的[最终迷宫]与[最终战](https://bbs.saraba1st.com/2b/thread-2026223-3-1.html)
-        - 黄字 #sbnmsl 日呆死妈

@@ -1,3 +1,0 @@
-- [[irreducibility]]
-- [[lower level]]
-- [[reductionist]]

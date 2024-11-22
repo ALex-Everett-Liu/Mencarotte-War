@@ -1,1 +1,0 @@
-- [[サクラノタトゥー (sakura no tattoo)]]

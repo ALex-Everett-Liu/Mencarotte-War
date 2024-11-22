@@ -1,7 +1,0 @@
-- [[complex behavior]];
-- [[pattern]]
-    - [[complex pattern]]
-- [[complex problem]]; [complicated problem]
-- [[complexity]]
-- dominate at different frequencies;
-- [[feedback]]; [[feedback system]]; [[feedback device]]; feedback control theory; [[feedback control]]

@@ -1,2 +1,0 @@
-- [[intensive farming]]
-- [[millet farming]]

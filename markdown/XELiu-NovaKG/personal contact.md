@@ -1,6 +1,0 @@
-- dictionary 
-    - You must provide personal contact and [credit card information]. 联系人 www.[ibm].com
-    - I don't have much personal contact with him. 私人上的往来, 私下交往 provided by [jukuu]
-    - They were [first brought into personal contact] 初次相识 when they studied in england. 
-    - R: May I have your [personal contact number] too? 私人联络号码 blog.sina.com.cn
-    - Maintenance of a healthy [work group] requires [steady personal contact]. 经常性的人员接触 www.[dictall].com

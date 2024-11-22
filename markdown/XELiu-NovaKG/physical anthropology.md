@@ -1,8 +1,0 @@
-- dictionary 
-    - That analysis appears in the __American Journal of Physical Anthropology__. www.[hjenglish].com
-    - [Physical Anthropology Analysis] of [Dragon Canoe Race] 独木龙舟竞渡 of [Miao Nationality] www.[dictall].com
-    - A study on physical anthropology of Miao Nationality in Hunan dict.cnki.net
-- #inbox
-    - 重点来了：有些人不要说什么「中国人和日本人[都属于黄种人]，在地缘上接近，长相接近，所以[身高上][也不会差太多]啊。」，任何一位对[人类族群史][稍有了解]的人，都说不出这种放肆的[反科学言论]来。意大利和南斯拉夫[是接壤的]，也都是白人，但是意大利人和南斯拉夫人的[身高差距](https://www.zhihu.com/question/456637274/answer/1896914662)接近8cm。 #pt7-99.99
-        - 黄种人（蒙古人种）其下有[不同的亚种分支]，这些亚种之间的[体质基因]非常巨大。其实白种人（高加索人种）和黑种人（尼格罗人种）也是一样的。像黑人，西非黑人（[美国黑人][祖籍地]）和中非黑人[高大]，但南非黑人，东非黑人就矮。像白人，阿拉伯人和[拉丁人]矮小，日耳曼人就高。世界上[最高大的族群]就是黄种人中的[巴塔哥尼亚]（靠近南极圈）的黄种人，但黄种人中[也有类似于][老挝人]或者马来人，这样矮小的族群。
-        - 我在日本旅游的时候，感觉日本[中小城市]的人[普遍矮一些]，我女的168不算高，但是[在街上看当地的]就[一片脑袋顶]，东京的人[感觉高一些]，我[坐地铁的时候]没有那种[鹤立鸡群的感觉]。

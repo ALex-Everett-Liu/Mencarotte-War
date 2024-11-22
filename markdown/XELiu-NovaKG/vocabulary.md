@@ -1,3 +1,0 @@
-- [[dictionary]]
-- plural form
-- prefixed 

@@ -1,6 +1,0 @@
-- [[copyright]]
-- [[crime]]
-- [[penalty]]
-- [[warranty]]: 担保
-    - [[implied warranty]]: 默示保证 
-    - [[merchantability]]: 适销性, 有销路, 可销售; 

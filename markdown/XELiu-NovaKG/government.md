@@ -1,4 +1,0 @@
-- government institution;
-- [[officer]]
-- 官僚体系; 官制
-    - [[chancellor]]

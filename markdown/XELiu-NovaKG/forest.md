@@ -1,2 +1,0 @@
-- [[taiga]]: 寒带针叶林, 阴针叶林;
-    - sparse tree; 

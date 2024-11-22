@@ -1,3 +1,0 @@
-- Barra I, Khiari L, Haefele S M, et al. Optimizing setup of [[scan number]] in [FTIR spectroscopy](((bvYzKKB0i))) using the [moment distance index] and [PLS regression]: application to [[soil spectroscopy]][J]. [[Scientific Reports]], 2021, 11(1): 1-9.
-- References
-    - [6]: Barra, I., Haefele, S. M., Sakrabani, R. & Kebede, F. Soil spectroscopy with the use of [[chemometrics]], [[machine learning]] and [[pre-processing technique]]s in [[soil diagnosis]]: Recent advances—A review. __Trends Anal. Chem.__ **135**, 116166 (2021).

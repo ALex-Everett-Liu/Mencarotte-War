@@ -1,6 +1,0 @@
-- converting data types;
-- [[floating-point number]]; [[floats]]
-    - [[decimal point]]
-- [[integer value]]; [[int]]
-    - [[whole number]]
-- [[string]]; [[strs]]

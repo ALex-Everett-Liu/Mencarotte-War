@@ -1,2 +1,0 @@
-- [[emission wavelength]]
-- [[photoemissivity]]

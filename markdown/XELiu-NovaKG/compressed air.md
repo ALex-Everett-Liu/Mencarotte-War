@@ -1,7 +1,0 @@
-- dictionary 
-    - 用[气泵][把空气压入容器]而形成的[压力高于大气压]的空气，可用来[开动机具]等。
-    - [Jets of compressed air] 喷吐/喷射气流 gave the [[aircraft]] [lateral and directional stability]([[stability]]). 左右和前后都能保持稳定 《柯林斯高阶英汉双解学习词典》
-    - Jets of compressed air [lift the hovercraft off the ground], 气垫船 and [flexible skirts] 柔性围裙 [around the craft] [retain the air cushion], and help to [keep it stable]. 百度翻译例句库
-    - Do not install [EPDM liner] 衬垫 in [compressed air lines]. 管道 www.[[dictall]].com
-    - [(100) Oriented MgO thin films] [have been successfully prepared on] [Si substrate] by a [simple spray pyrolysis method] 压缩空气式喷雾热分解法 started from [magnesium acetate]. 醋酸镁 dict.cnki.net
-    - The [qualification status] of relevant equipment and utilities, e.g. HVAC, water, compressed gases, etc. www.[dxy].cn

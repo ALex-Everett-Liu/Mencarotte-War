@@ -1,7 +1,0 @@
-- [[central server]]
-- communicate with the server;
-- [[client]]
-- [[host]]
-- [[server-based application]]
-- [[server port]]
-- servlet

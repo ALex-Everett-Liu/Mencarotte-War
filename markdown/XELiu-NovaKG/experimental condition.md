@@ -1,2 +1,0 @@
-- [[harsh environment]]; [[harsh condition]]; tough environment
-- under the same conditions; 

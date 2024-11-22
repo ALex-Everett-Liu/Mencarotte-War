@@ -1,6 +1,0 @@
-- 陪都 (peidu)
-    - 五京制
-        - [[上京 (Shangjing)]]
-        - [[中京 (Zhongjing)]]
-- [[secondary capital]]
-- [[supreme capital]]

@@ -1,6 +1,0 @@
-- dictionary 
-    - Other [[airline]]s are expected to follow Southwest, Delta and JetBlue 达美航空 into [[revenue]]-based 基于运营收入的 frequent-flier [[reward]]s. 奖励 www.[[kekenet]].com
-    - [Tension is growing between] 矛盾 [[employer]]s [looking to rein in spending] 控制支出 and [business travelers] who treasure their hard-earned [frequent-flier miles](((MdSrYM-2O))). www.[[okread]].info
-    - I have a lot of [frequent-flyer miles]. www.[ftchinese].com
-    - [Frequent Flyer Program] also become a hot point of airlines [MIS building]. 信息系统建设 www.[dictall].com
-    - [Frequent Flyer Plan] has been [one of main means] of [airlines competition]. 

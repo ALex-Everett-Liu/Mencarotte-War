@@ -1,2 +1,0 @@
-- MIR source; middle-infrared source 
-    - mid IR LED source; 

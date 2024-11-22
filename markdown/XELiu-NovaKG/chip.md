@@ -1,2 +1,0 @@
-- [[external chip]]
-- [[system on a chip (SoC)]]

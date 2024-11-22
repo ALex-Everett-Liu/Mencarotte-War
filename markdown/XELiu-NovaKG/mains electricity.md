@@ -1,5 +1,0 @@
-- dictionary
-    - He is using your mains electricity to [recharge his car battery]. 《柯林斯高阶英汉双解学习词典》
-    - Why can't we do experiments [using mains electricity]? blogmanage.luohuedu.net
-    - They have been [lacking mains electricity] for three weeks now. provided by jukuu
-    - Una: So that means this area is [without mains water], electricity, gas and [sewage disposal]. www.[dictall].com

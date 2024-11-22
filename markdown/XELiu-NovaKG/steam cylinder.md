@@ -1,4 +1,0 @@
-- dictionary
-    - [Service life loss] of [high temperature bolts] 螺栓 on [joint face] 结合面 of the steam cylinder and analysis for [safe application performance] thereof dict.cnki.net
-    - Improvement of Synthetic Steam Cylinder Oil Production Process
-    - Study on Measure for Steam Cylinder Shim Block of Positional Tolerance and Wire Profile Tolerance 垫片 线轮廓度

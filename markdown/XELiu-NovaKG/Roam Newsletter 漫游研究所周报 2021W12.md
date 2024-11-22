@@ -1,6 +1,0 @@
-- [吕立青_JimmyLv](https://jimmylv.substack.com/people/15095535-_jimmylv) | [Mar 22](https://jimmylv.substack.com/p/-roam-newsletter-2021w12)
-- `#[[Roam 技术]]` 基于 puppeteer 实现的 Roam Research [私有 API]
-- `#[[Roam 技术]]` 在 [HTML 元素]添加 data-link-uid 属性，能够[极大地方便]开发者对 Block 内容[进行查询或修改]
-- `#[[Roam 技术]]` 从想法到项目，作者分享自己如何创造 Roam Excalidraw 画图插件
-- `#[[Roam 插件]]` #Roam42 #SmartBlocks 新命令，支持垂直和水平的屏幕布局控制，类似 Tmux 的[窗口管理体验]
-- `#[[Roam 社区]]` [作者分享]自己如何把 Roam Research [安利给自己老婆]的[有趣故事]

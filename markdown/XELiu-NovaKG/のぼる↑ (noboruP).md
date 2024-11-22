@@ -1,1 +1,0 @@
-- [[白い雪のプリンセスは (shiroiyuki no princess wa)]]
