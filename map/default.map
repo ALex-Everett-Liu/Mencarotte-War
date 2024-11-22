@@ -1,0 +1,35 @@
+
+max_provinces = 3998
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "topology.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "island_region.txt"
+geographical_region = "geographical_region.txt"
+static = "statics"
+seasons = "seasons.txt"
+
+sea_zones = { 3817 3845}
+sea_zones = { 3846 3874}
+sea_zones = { 3875 3905}
+sea_zones = { 3906 3910}
+sea_zones = { 3911 3939}
+sea_zones = { 3940 3969}
+sea_zones = { 3970 3988}
+sea_zones = { 3989 3989}
+sea_zones = { 3990 3991}
+sea_zones = { 3992 3993}
+sea_zones = { 3994 3994}
+sea_zones = { 3995 3995}
+sea_zones = { 3996 3996}
+sea_zones = { 3997 3997}
+ocean_region = { 
+     sea_zones = { 1 12 4 6 13 2 10 7 11 14 5 9 3 8 }
+}
